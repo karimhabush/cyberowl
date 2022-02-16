@@ -1,6 +1,6 @@
-Daily newspaper 
+# Daily newspaper 
 
-#CERT-FR_16-02-2022
+## CERT-FR_16-02-2022
 |Title|Description|Date|
 |---|---|---|
 | [Vulnérabilité dans Ivanti Service Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-150/) | Une vulnérabilité a été découverte dans Ivanti Service Manager. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS). | 15 février 2022 |
@@ -15,7 +15,7 @@ Daily newspaper
 | [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-141/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. | 11 février 2022 |
 
 
-CISA_16-02-2022
+## CISA_16-02-2022
 |Title|Description|Date|
 |---|---|---|
 | [CISA Adds Nine Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2022/02/15/cisa-adds-nine-known-exploited-vulnerabilities-catalog) | CISA has added nine new vulnerabilities to its  | Tuesday, February 15, 2022 |
@@ -26,7 +26,7 @@ CISA_16-02-2022
 | [Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/uscert/ncas/current-activity/2022/02/11/apple-releases-security-updates-multiple-products) | Apple has released security updates to address vulnerabilities in multiple products. An attacker could exploit some of these vulnerabilities to take control of an affected system. Some of these vulnerabilities have been detected in exploits in the wild. | Friday, February 11, 2022 |
 
 
-#DGSSI_16-02-2022
+## DGSSI_16-02-2022
 |Title|Description|Date|
 |---|---|---|
 | [34871602/22 - Vulnérabilités dans Schneider Electric IGSS](https://www.dgssi.gov.ma/fr/content/3487160222-vulnerabilites-dans-schneider-electric-igss.html) | Plusieurs vulnérabilités critiques ont été corrigées dans Schneider Electric Interactive Graphical SCADA System Data Server. L’exploitation de ces failles permet à un attaquant de causer un déni de service et potentiellement réussir une... | 16 février 2022 |

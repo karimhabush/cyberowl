@@ -9,7 +9,7 @@ class CertFrSpider(scrapy.Spider):
     def parse(self, response): 
         if('cached' in response.flags):
             return 
-        item = """#CERT-FR_16-02-2022\n|Title|Description|Date|\n|---|---|---|\n"""
+        item = """## CERT-FR_16-02-2022\n|Title|Description|Date|\n|---|---|---|\n"""
         with open("README.md","a") as f:
                 f.write(item)
                 f.close()
@@ -34,7 +34,7 @@ class CisaSpider(scrapy.Spider):
     def parse(self, response): 
         if('cached' in response.flags):
             return 
-        item = """\n\nCISA_16-02-2022\n|Title|Description|Date|\n|---|---|---|\n"""
+        item = """\n\n## CISA_16-02-2022\n|Title|Description|Date|\n|---|---|---|\n"""
         with open("README.md","a") as f:
                 f.write(item)
                 f.close()
@@ -58,7 +58,7 @@ class DgssiSpider(scrapy.Spider):
     def parse(self, response): 
         if('cached' in response.flags):
             return 
-        item = """\n\n#DGSSI_16-02-2022\n|Title|Description|Date|\n|---|---|---|\n"""
+        item = """\n\n## DGSSI_16-02-2022\n|Title|Description|Date|\n|---|---|---|\n"""
         with open("README.md","a") as f:
                 f.write(item)
                 f.close()
@@ -76,7 +76,7 @@ class DgssiSpider(scrapy.Spider):
 
 
 with open("README.md","w") as f:
-    f.write("Daily newspaper \n\n")
+    f.write("# Daily newspaper \n\n")
     f.close()
 
 process = CrawlerProcess()
