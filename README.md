@@ -1,6 +1,7 @@
 Daily newspaper
 
 #CERT-FR_16-02-2022
+
 | [Vulnérabilité dans Ivanti Service Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-150/) | Une vulnérabilité a été découverte dans Ivanti Service Manager. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS). | 15 février 2022 |
 | [Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-149/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une élévation de privilèges. | 15 février 2022 |
 | [Multiples vulnérabilités dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-148/) | De multiples vulnérabilités ont été découvertes dans les produits VMware. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données. | 15 février 2022 |
