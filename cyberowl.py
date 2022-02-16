@@ -34,7 +34,8 @@ class CisaSpider(scrapy.Spider):
     def parse(self, response): 
         if('cached' in response.flags):
             return 
-        item = "\n#CISA_16-02-2022"
+        item = """\n#CISA_16-02-2022\n|Title|Description|Date|\n|---|---|---|
+        """
         with open("README.md","a") as f:
                 f.write(item)
                 f.close()
@@ -80,7 +81,7 @@ with open("README.md","w") as f:
     f.close()
 
 process = CrawlerProcess()
-process.crawl(CertFrSpider)
+# process.crawl(CertFrSpider)
 process.crawl(CisaSpider)
-process.crawl(DgssiSpider)
+# process.crawl(DgssiSpider)
 process.start()
