@@ -34,8 +34,7 @@ class CisaSpider(scrapy.Spider):
     def parse(self, response): 
         if('cached' in response.flags):
             return 
-        item = """\n#CISA_16-02-2022\n|Title|Description|Date|\n|---|---|---|
-        """
+        item = """#CISA_16-02-2022\n|Title|Description|Date|\n|---|---|---|\n"""
         with open("README.md","a") as f:
                 f.write(item)
                 f.close()
@@ -45,7 +44,7 @@ class CisaSpider(scrapy.Spider):
             title = bulletin.xpath("descendant-or-self::h3/span/a/text()").get().replace("\n","").replace("\t","").replace("\r","").replace("  ","")
             description = bulletin.xpath('descendant-or-self::div[contains(@class,"field-content")]/p//text()').get().replace("\n","").replace("\t","").replace("\r","").replace("  ","")
             
-            item = f"""\n| [{title}]({link}) | {description} | {date} |"""
+            item = f"""| [{title}]({link}) | {description} | {date} |\n"""
             
             with open("README.md","a") as f:
                 f.write(item)

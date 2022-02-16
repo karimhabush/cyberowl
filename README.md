@@ -1,9 +1,7 @@
 Daily newspaper
-
 #CISA_16-02-2022
 |Title|Description|Date|
 |---|---|---|
-        
 | [CISA Adds Nine Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2022/02/15/cisa-adds-nine-known-exploited-vulnerabilities-catalog) | CISA has added nine new vulnerabilities to its  | Tuesday, February 15, 2022 |
 | [FBI and USSS Release Advisory on BlackByte Ransomware](https://www.cisa.gov/uscert/ncas/current-activity/2022/02/15/fbi-and-usss-release-advisory-blackbyte-ransomware) | The Federal Bureau of Investigation (FBI) and the United States Secret Service (USSS) have released a  | Tuesday, February 15, 2022 |
 | [Google Releases Security Updates for Chrome](https://www.cisa.gov/uscert/ncas/current-activity/2022/02/15/google-releases-security-updates-chrome) | Google has released Chrome version 98.0.4758.102 for Windows, Mac, and Linux. This version addresses vulnerabilities that an attacker could exploit to take control of an affected system. One of these vulnerabilities has been detected in exploits in the wild. | Tuesday, February 15, 2022 |
