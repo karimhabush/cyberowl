@@ -3,7 +3,6 @@ Daily newspaper
 #CERT-FR_16-02-2022
 |Title|Description|Date|
 |---|---|---|
-
 | [Vulnérabilité dans Ivanti Service Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-150/) | Une vulnérabilité a été découverte dans Ivanti Service Manager. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS). | 15 février 2022 |
 | [Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-149/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une élévation de privilèges. | 15 février 2022 |
 | [Multiples vulnérabilités dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-148/) | De multiples vulnérabilités ont été découvertes dans les produits VMware. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données. | 15 février 2022 |
@@ -13,7 +12,8 @@ Daily newspaper
 | [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-144/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service et une atteinte à l'intégrité des données. | 14 février 2022 |
 | [Vulnérabilité dans Ruby on Rails](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-143/) | Une vulnérabilité a été découverte dans Ruby on Rails. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données. | 14 février 2022 |
 | [[SCADA] Multiples vulnérabilités dans les produits Moxa](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-142/) | De multiples vulnérabilités ont été découvertes dans les produits Moxa. Elles permettent à un attaquant de provoquer un déni de service, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. | 11 février 2022 |
-| [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-141/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. | 11 février 2022 |#CISA_16-02-2022
+| [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-141/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. | 11 février 2022 |
+#CISA_16-02-2022
 |Title|Description|Date|
 |---|---|---|
 | [CISA Adds Nine Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2022/02/15/cisa-adds-nine-known-exploited-vulnerabilities-catalog) | CISA has added nine new vulnerabilities to its  | Tuesday, February 15, 2022 |
