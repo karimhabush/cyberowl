@@ -80,7 +80,7 @@ with open("README.md","w") as f:
     f.close()
 
 process = CrawlerProcess()
-process.crawl(CertFrSpider)
 process.crawl(CisaSpider)
+process.crawl(CertFrSpider)
 process.crawl(DgssiSpider)  
 process.start()
