@@ -20,7 +20,7 @@ class CertFrSpider(scrapy.Spider):
             date = bulletin.xpath("descendant-or-self::article/section/div/span[contains(@class,'item-date')]//text()").get().replace("\n","").replace("\t","").replace("\r","").replace("Publié le ","")
             title =  bulletin.xpath("descendant-or-self::article/section/div[contains(@class,'item-title')]/h3//text()").get().replace("\n","").replace("\t","").replace("\r","").replace("  ","")
             description = bulletin.xpath("descendant-or-self::article/section[contains(@class,'item-excerpt')]/p//text()").get().replace("\n","").replace("\t","").replace("\r","").replace("  ","")
-            item = f"""\n| [{title}]({link}) | {description} | {date} |"""
+            item = f"""| [{title}]({link}) | {description} | {date} |\n"""
             
             with open("README.md","a") as f:
                 f.write(item)
