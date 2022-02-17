@@ -1,9 +1,18 @@
 # Current Incidents Activity 
-# Last Updated 17/02/2022 17:09:27 
+# Last Updated 17/02/2022 17:09:41 
 
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
 
 
+## CISA
+|Title|Description|Date|
+|---|---|---|
+| [Mozilla Releases Security Update for Thunderbird  ](https://www.cisa.gov/uscert/ncas/current-activity/2022/02/16/mozilla-releases-security-update-thunderbird) | Mozilla has released a security update to address a vulnerability in Thunderbird. An attacker could exploit this vulnerability to take control of an affected system. | Wednesday, February 16, 2022 |
+| [VMware Releases Security Updates for Multiple Products](https://www.cisa.gov/uscert/ncas/current-activity/2022/02/16/vmware-releases-security-updates-multiple-products) | VMware has released security updates to address vulnerabilities in multiple products. An attacker could exploit some of these vulnerabilities to take control of an affected system. | Wednesday, February 16, 2022 |
+| [Russian State-Sponsored Actors Target Cleared Defense Contractor Networks](https://www.cisa.gov/uscert/ncas/current-activity/2022/02/16/russian-state-sponsored-actors-target-cleared-defense-contractor) | CISA, the Federal Bureau of Investigation (FBI), and the National Security Agency (NSA) have released a  | Wednesday, February 16, 2022 |
+| [CISA Adds Nine Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2022/02/15/cisa-adds-nine-known-exploited-vulnerabilities-catalog) | CISA has added nine new vulnerabilities to its  | Tuesday, February 15, 2022 |
+| [FBI and USSS Release Advisory on BlackByte Ransomware](https://www.cisa.gov/uscert/ncas/current-activity/2022/02/15/fbi-and-usss-release-advisory-blackbyte-ransomware) | The Federal Bureau of Investigation (FBI) and the United States Secret Service (USSS) have released a  | Tuesday, February 15, 2022 |
+| [Google Releases Security Updates for Chrome](https://www.cisa.gov/uscert/ncas/current-activity/2022/02/15/google-releases-security-updates-chrome) | Google has released Chrome version 98.0.4758.102 for Windows, Mac, and Linux. This version addresses vulnerabilities that an attacker could exploit to take control of an affected system. One of these vulnerabilities has been detected in exploits in the wild. | Tuesday, February 15, 2022 |
 ## CERT-FR
 |Title|Description|Date|
 |---|---|---|
@@ -17,15 +26,6 @@
 | [Vulnérabilité dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-153/) | Une vulnérabilité a été découverte dans Mozilla Thunderbird. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 16 février 2022 |
 | [Multiples vulnérabilités dans Trend Micro Apex One](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-152/) | De multiples vulnérabilités ont été découvertes dans Trend Micro Apex One. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une élévation de privilèges. | 16 février 2022 |
 | [Vulnérabilité dans VMware NSX Data Center](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-151/) | Une vulnérabilité a été découverte dans VMware NSX Data Center. Elle permet à un attaquant de provoquer une élévation de privilèges. | 16 février 2022 |
-## CISA
-|Title|Description|Date|
-|---|---|---|
-| [Mozilla Releases Security Update for Thunderbird  ](https://www.cisa.gov/uscert/ncas/current-activity/2022/02/16/mozilla-releases-security-update-thunderbird) | Mozilla has released a security update to address a vulnerability in Thunderbird. An attacker could exploit this vulnerability to take control of an affected system. | Wednesday, February 16, 2022 |
-| [VMware Releases Security Updates for Multiple Products](https://www.cisa.gov/uscert/ncas/current-activity/2022/02/16/vmware-releases-security-updates-multiple-products) | VMware has released security updates to address vulnerabilities in multiple products. An attacker could exploit some of these vulnerabilities to take control of an affected system. | Wednesday, February 16, 2022 |
-| [Russian State-Sponsored Actors Target Cleared Defense Contractor Networks](https://www.cisa.gov/uscert/ncas/current-activity/2022/02/16/russian-state-sponsored-actors-target-cleared-defense-contractor) | CISA, the Federal Bureau of Investigation (FBI), and the National Security Agency (NSA) have released a  | Wednesday, February 16, 2022 |
-| [CISA Adds Nine Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2022/02/15/cisa-adds-nine-known-exploited-vulnerabilities-catalog) | CISA has added nine new vulnerabilities to its  | Tuesday, February 15, 2022 |
-| [FBI and USSS Release Advisory on BlackByte Ransomware](https://www.cisa.gov/uscert/ncas/current-activity/2022/02/15/fbi-and-usss-release-advisory-blackbyte-ransomware) | The Federal Bureau of Investigation (FBI) and the United States Secret Service (USSS) have released a  | Tuesday, February 15, 2022 |
-| [Google Releases Security Updates for Chrome](https://www.cisa.gov/uscert/ncas/current-activity/2022/02/15/google-releases-security-updates-chrome) | Google has released Chrome version 98.0.4758.102 for Windows, Mac, and Linux. This version addresses vulnerabilities that an attacker could exploit to take control of an affected system. One of these vulnerabilities has been detected in exploits in the wild. | Tuesday, February 15, 2022 |
 
 
 ## DGSSI
