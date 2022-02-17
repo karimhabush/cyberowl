@@ -2,6 +2,30 @@ import scrapy
 from scrapy.crawler import CrawlerProcess
 from datetime import datetime 
 
+class CisaSpider(scrapy.Spider):
+    name = 'cisa'
+    start_urls = [
+        'https://www.cisa.gov/uscert/ncas/current-activity'
+    ]
+    def parse(self, response): 
+        if('cached' in response.flags):
+            return 
+        item = "\n# CISA"
+        with open("README.md","a") as f:
+                f.write(item)
+                f.close()
+        for bulletin in response.css("div.views-row"):
+            link = "https://www.cisa.gov/uscert"+bulletin.xpath("descendant-or-self::h3/span/a/@href").get()
+            date = bulletin.xpath("descendant-or-self::div[contains(@class,'entry-date')]/span[2]/text()").get().replace("\n","").replace("\t","").replace("\r","").replace("  ","")
+            title = bulletin.xpath("descendant-or-self::h3/span/a/text()").get().replace("\n","").replace("\t","").replace("\r","").replace("  ","")
+            description = bulletin.xpath('descendant-or-self::div[contains(@class,"field-content")]/p//text()').get().replace("\n","").replace("\t","").replace("\r","").replace("  ","")
+            
+            item = f"""\n| [{title}]({link}) | {description} | {date} |"""
+            
+            with open("README.md","a") as f:
+                f.write(item)
+                f.close()
+
 class CertFrSpider(scrapy.Spider):
     name = 'certfr'
     start_urls = [
@@ -10,7 +34,7 @@ class CertFrSpider(scrapy.Spider):
     def parse(self, response): 
         if('cached' in response.flags):
             return 
-        item = """## CERT-FR ==17-02-2022==\n|Title|Description|Date|\n|---|---|---|\n"""
+        item = """## CERT-FR\n|Title|Description|Date|\n|---|---|---|\n"""
         with open("README.md","a") as f:
                 f.write(item)
                 f.close()
@@ -37,7 +61,7 @@ class DgssiSpider(scrapy.Spider):
     def parse(self, response): 
         if('cached' in response.flags):
             return 
-        item = """\n\n## DGSSI ==17-02-2022==\n|Title|Description|Date|\n|---|---|---|\n"""
+        item = """\n\n## DGSSI\n|Title|Description|Date|\n|---|---|---|\n"""
         with open("README.md","a") as f:
                 f.write(item)
                 f.close()
