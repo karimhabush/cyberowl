@@ -1,6 +1,8 @@
 # Daily newspaper 
 
-## CERT-FR ==17-02-2022==
+
+
+## CERT-FR 17/02/2022 10:50:24
 |Title|Description|Date|
 |---|---|---|
 | [Vulnérabilité dans IBM Integrated Analytics System](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-154/) | Une vulnérabilité a été découverte dans IBM IBM Integrated Analytics System. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. | 16 février 2022 |
@@ -15,7 +17,7 @@
 | [Multiples vulnérabilités dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-145/) | De multiples vulnérabilités ont été découvertes dans Mozilla Thunderbird. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un contournement de la politique de sécurité et une élévation de privilèges. | 14 février 2022 |
 
 
-## CISA ==17-02-2022==
+## CISA 17/02/2022 10:50:24
 |Title|Description|Date|
 |---|---|---|
 | [Mozilla Releases Security Update for Thunderbird  ](https://www.cisa.gov/uscert/ncas/current-activity/2022/02/16/mozilla-releases-security-update-thunderbird) | Mozilla has released a security update to address a vulnerability in Thunderbird. An attacker could exploit this vulnerability to take control of an affected system. | Wednesday, February 16, 2022 |
@@ -26,7 +28,7 @@
 | [Google Releases Security Updates for Chrome](https://www.cisa.gov/uscert/ncas/current-activity/2022/02/15/google-releases-security-updates-chrome) | Google has released Chrome version 98.0.4758.102 for Windows, Mac, and Linux. This version addresses vulnerabilities that an attacker could exploit to take control of an affected system. One of these vulnerabilities has been detected in exploits in the wild. | Tuesday, February 15, 2022 |
 
 
-## DGSSI ==17-02-2022==
+## DGSSI 17/02/2022 10:50:25
 |Title|Description|Date|
 |---|---|---|
 | [34871602/22 - Vulnérabilités dans Schneider Electric IGSS](https://www.dgssi.gov.ma/fr/content/3487160222-vulnerabilites-dans-schneider-electric-igss.html) | Plusieurs vulnérabilités critiques ont été corrigées dans Schneider Electric Interactive Graphical SCADA System Data Server. L’exploitation de ces failles permet à un attaquant de causer un déni de service et potentiellement réussir une... | 16 février 2022 |

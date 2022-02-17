@@ -1,5 +1,6 @@
 import scrapy
 from scrapy.crawler import CrawlerProcess
+from datetime import datetime
 
 class CisaSpider(scrapy.Spider):
     name = 'cisa'
@@ -9,7 +10,8 @@ class CisaSpider(scrapy.Spider):
     def parse(self, response): 
         if('cached' in response.flags):
             return 
-        item = """\n\n## CISA ==17-02-2022==\n|Title|Description|Date|\n|---|---|---|\n"""
+        now = datetime.now()
+        item = "\n\n## CISA "+ now.strftime("%d/%m/%Y %H:%M:%S") +"\n|Title|Description|Date|\n|---|---|---|\n"
         with open("README.md","a") as f:
                 f.write(item)
                 f.close()
@@ -33,7 +35,8 @@ class CertFrSpider(scrapy.Spider):
     def parse(self, response): 
         if('cached' in response.flags):
             return 
-        item = """## CERT-FR ==17-02-2022==\n|Title|Description|Date|\n|---|---|---|\n"""
+        now = datetime.now()
+        item = "\n\n## CERT-FR "+ now.strftime("%d/%m/%Y %H:%M:%S") +"\n|Title|Description|Date|\n|---|---|---|\n"
         with open("README.md","a") as f:
                 f.write(item)
                 f.close()
@@ -60,7 +63,9 @@ class DgssiSpider(scrapy.Spider):
     def parse(self, response): 
         if('cached' in response.flags):
             return 
-        item = """\n\n## DGSSI ==17-02-2022==\n|Title|Description|Date|\n|---|---|---|\n"""
+        
+        now = datetime.now()
+        item = "\n\n## DGSSI "+ now.strftime("%d/%m/%Y %H:%M:%S") +"\n|Title|Description|Date|\n|---|---|---|\n"
         with open("README.md","a") as f:
                 f.write(item)
                 f.close()
