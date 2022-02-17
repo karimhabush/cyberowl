@@ -80,7 +80,7 @@ class DgssiSpider(scrapy.Spider):
 now = datetime.now().strftime("%d/%m/%Y %H:%M:%S")
 
 with open("README.md","w") as f:
-    f.write("# Current Incidents Activity - Last Updated "+now+" \n\n")
+    f.write("# Current Incidents Activity \n# Last Updated "+now+" \n\n")
     f.close()
 
 process = CrawlerProcess()

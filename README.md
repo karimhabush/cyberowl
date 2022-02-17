@@ -1,4 +1,5 @@
-# Current Incidents Activity - Last Updated 17/02/2022 11:01:57 
+# Current Incidents Activity 
+# Last Updated 17/02/2022 11:09:37 
 
 ## CERT-FR
 |Title|Description|Date|
