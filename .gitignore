@@ -1,4 +1,4 @@
-./__pycache__
-./cyberowl.py 
-./run.bat 
+__pycache__
+cyberowl.py 
+run.bat 
 env
