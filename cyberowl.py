@@ -10,7 +10,7 @@ class CisaSpider(scrapy.Spider):
     def parse(self, response): 
         if('cached' in response.flags):
             return 
-        item = "\n# CISA\n"
+        item = """## CISA\n|Title|Description|Date|\n|---|---|---|\n"""
         with open("README.md","a") as f:
                 f.write(item)
                 f.close()
