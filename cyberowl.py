@@ -1,31 +1,6 @@
 import scrapy
 from scrapy.crawler import CrawlerProcess
-from datetime import datetime
-
-class CisaSpider(scrapy.Spider):
-    name = 'cisa'
-    start_urls = [
-        'https://www.cisa.gov/uscert/ncas/current-activity'
-    ]
-    def parse(self, response): 
-        if('cached' in response.flags):
-            return 
-        now = datetime.now()
-        item = "\n\n## CISA "+ now.strftime("%d/%m/%Y %H:%M:%S") +"\n|Title|Description|Date|\n|---|---|---|\n"
-        with open("README.md","a") as f:
-                f.write(item)
-                f.close()
-        for bulletin in response.css("div.views-row"):
-            link = "https://www.cisa.gov/uscert"+bulletin.xpath("descendant-or-self::h3/span/a/@href").get()
-            date = bulletin.xpath("descendant-or-self::div[contains(@class,'entry-date')]/span[2]/text()").get().replace("\n","").replace("\t","").replace("\r","").replace("  ","")
-            title = bulletin.xpath("descendant-or-self::h3/span/a/text()").get().replace("\n","").replace("\t","").replace("\r","").replace("  ","")
-            description = bulletin.xpath('descendant-or-self::div[contains(@class,"field-content")]/p//text()').get().replace("\n","").replace("\t","").replace("\r","").replace("  ","")
-            
-            item = f"""| [{title}]({link}) | {description} | {date} |\n"""
-            
-            with open("README.md","a") as f:
-                f.write(item)
-                f.close()
+from datetime import datetime 
 
 class CertFrSpider(scrapy.Spider):
     name = 'certfr'
@@ -35,8 +10,7 @@ class CertFrSpider(scrapy.Spider):
     def parse(self, response): 
         if('cached' in response.flags):
             return 
-        now = datetime.now()
-        item = "\n\n## CERT-FR "+ now.strftime("%d/%m/%Y %H:%M:%S") +"\n|Title|Description|Date|\n|---|---|---|\n"
+        item = """## CERT-FR ==17-02-2022==\n|Title|Description|Date|\n|---|---|---|\n"""
         with open("README.md","a") as f:
                 f.write(item)
                 f.close()
@@ -63,9 +37,7 @@ class DgssiSpider(scrapy.Spider):
     def parse(self, response): 
         if('cached' in response.flags):
             return 
-        
-        now = datetime.now()
-        item = "\n\n## DGSSI "+ now.strftime("%d/%m/%Y %H:%M:%S") +"\n|Title|Description|Date|\n|---|---|---|\n"
+        item = """\n\n## DGSSI ==17-02-2022==\n|Title|Description|Date|\n|---|---|---|\n"""
         with open("README.md","a") as f:
                 f.write(item)
                 f.close()
@@ -81,9 +53,10 @@ class DgssiSpider(scrapy.Spider):
                 f.write(item)
                 f.close()
 
+now = datetime.now().strftime("%d/%m/%Y %H:%M:%S")
 
 with open("README.md","w") as f:
-    f.write("# Daily newspaper \n\n")
+    f.write("# Current Incidents Activity - Last Updated "+now+" \n\n")
     f.close()
 
 process = CrawlerProcess()
