@@ -1,5 +1,5 @@
 # Current Incidents Activity 
-# Last Updated 17/02/2022 12:45:54 
+# Last Updated 17/02/2022 15:31:53 
 
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
 
@@ -31,6 +31,7 @@
 ## DGSSI
 |Title|Description|Date|
 |---|---|---|
+| [Vulnérabilités dans le CMS Drupal](https://www.dgssi.gov.ma/fr/content/vulnerabilites-dans-le-cms-drupal.html) | Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées du CMS Drupal. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte aux informations confidentielles. | 17 février 2022 |
 | [34901702/22 - Vulnérabilités dans les produits Cisco](https://www.dgssi.gov.ma/fr/content/3490170222-vulnerabilites-dans-les-produits-cisco.html) | Plusieurs vulnérabilités ont été corrigées dans les produits Cisco susmentionnés. L’exploitation de ces failles permet à un attaquant d’exécuter du code arbitraire ou causer un déni de service. | 17 février 2022 |
 | [34891702/22 - Vulnérabilité affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma/fr/content/3489170222-vulnerabilite-affectant-le-client-de-messagerie-mozilla-thunderbird.html) | Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger une vulnérabilité affectant son client de messagerie Mozilla Thunderbird. L’exploitation de cette vulnérabilité peut permettre à un... | 17 février 2022 |
 | [34871602/22 - Vulnérabilités dans Schneider Electric IGSS](https://www.dgssi.gov.ma/fr/content/3487160222-vulnerabilites-dans-schneider-electric-igss.html) | Plusieurs vulnérabilités critiques ont été corrigées dans Schneider Electric Interactive Graphical SCADA System Data Server. L’exploitation de ces failles permet à un attaquant de causer un déni de service et potentiellement réussir une... | 16 février 2022 |
@@ -42,4 +43,3 @@
 | [34821402/21 - Zero-day affectant Adobe Commerce et Magento Open Source](https://www.dgssi.gov.ma/fr/content/3482140221-zero-day-affectant-adobe-commerce-et-magento-open-source.html) | Adobe a publié une mise à jour de sécurité pour corriger un « Zero-Day » dans Adobe Commerce et Magento Open Source. Une exploitation réussie pourrait permettre à un attaquant d’exécuter du code arbitraire. | 14 février 2022 |
 | [34791102/21 - Vulnérabilité « Zero-day »affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma/fr/content/3479110221-vulnerabilite-zero-day-affectant-plusieurs-produits-d-apple.html) | Apple annonce lacorrectiond’unevulnérabilité « zero-day » affectant ses produits susmentionnés. L’exploitation de cette vulnérabilité peutpermettre à un attaquant d’exécuter du code arbitraire. Selon Apple cette... | 11 février 2022 |
 | [34781102/22 - Vulnérabilités affectant des produits Palo Alto ](https://www.dgssi.gov.ma/fr/content/3478110222-vulnerabilites-affectant-des-produits-palo-alto.html) | Palo Alto Networks annonce la correction de plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant de contourner les mesures de sécurité, d’accéder à des... | 11 février 2022 |
-| [34761002/22 - Vulnérabilité dans les produits F-Secure](https://www.dgssi.gov.ma/fr/content/3476100222-vulnerabilite-dans-les-produits-f-secure.html) | Une vulnérabilité a été corrigée dans les versions susmentionnées de F-Secure. L’exploitation de cette faille peut permettre à un attaquant distant de causer un déni de service. | 10 février 2022 |
