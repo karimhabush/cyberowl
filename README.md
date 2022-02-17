@@ -1,5 +1,5 @@
 # Current Incidents Activity 
-# Last Updated 17/02/2022 15:31:53 
+# Last Updated 17/02/2022 16:45:51 
 
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
 
@@ -7,16 +7,16 @@
 ## CERT-FR
 |Title|Description|Date|
 |---|---|---|
+| [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-160/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu pour Raspberry Pi. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et un déni de service. | 17 février 2022 |
+| [[SCADA] Vulnérabilité dans Moxa MGate](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-159/) | Une vulnérabilité a été découverte dans Moxa MGate. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. | 17 février 2022 |
+| [Multiples vulnérabilités dans Drupal core](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-158/) | De multiples vulnérabilités ont été découvertes dans Drupal core. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à la confidentialité des données. | 17 février 2022 |
+| [Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-157/) | De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 17 février 2022 |
+| [Vulnérabilité dans Cisco Email Security Appliance](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-156/) | Une vulnérabilité a été découverte dans Cisco Email Security Appliance. Elle permet à un attaquant de provoquer un déni de service à distance. | 17 février 2022 |
+| [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-155/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service et une élévation de privilèges. | 17 février 2022 |
 | [Vulnérabilité dans IBM Integrated Analytics System](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-154/) | Une vulnérabilité a été découverte dans IBM IBM Integrated Analytics System. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. | 16 février 2022 |
 | [Vulnérabilité dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-153/) | Une vulnérabilité a été découverte dans Mozilla Thunderbird. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 16 février 2022 |
 | [Multiples vulnérabilités dans Trend Micro Apex One](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-152/) | De multiples vulnérabilités ont été découvertes dans Trend Micro Apex One. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une élévation de privilèges. | 16 février 2022 |
 | [Vulnérabilité dans VMware NSX Data Center](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-151/) | Une vulnérabilité a été découverte dans VMware NSX Data Center. Elle permet à un attaquant de provoquer une élévation de privilèges. | 16 février 2022 |
-| [Vulnérabilité dans Ivanti Service Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-150/) | Une vulnérabilité a été découverte dans Ivanti Service Manager. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS). | 15 février 2022 |
-| [Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-149/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une élévation de privilèges. | 15 février 2022 |
-| [Multiples vulnérabilités dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-148/) | De multiples vulnérabilités ont été découvertes dans les produits VMware. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données. | 15 février 2022 |
-| [Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-147/) | De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 15 février 2022 |
-| [Vulnérabilité dans Axis IP Utility](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-146/) | Une vulnérabilité a été découverte dans Axis IP Utility. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges. | 14 février 2022 |
-| [Multiples vulnérabilités dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-145/) | De multiples vulnérabilités ont été découvertes dans Mozilla Thunderbird. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un contournement de la politique de sécurité et une élévation de privilèges. | 14 février 2022 |
 ## CISA
 |Title|Description|Date|
 |---|---|---|
