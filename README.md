@@ -1,5 +1,5 @@
 # Current Incidents Activity 
-# Last Updated 21/02/2022 11:18:05 
+# Last Updated 21/02/2022 11:57:28 
 
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
 
@@ -31,6 +31,7 @@
 ## DGSSI
 |Title|Description|Date|
 |---|---|---|
+| [34942102/22 - Mise à jour de sécurité pour PHP](https://www.dgssi.gov.ma/fr/content/3494210222-mise-jour-de-securite-pour-php.html) | Une mise à jour de sécurité a été publiée pour le noyau des versions susmentionnées de PHP. Un attaquant pourrait exploiter ces vulnérabilités afin d’exécuter du code arbitraire à distance et causer un déni de service. Un exploit... | 21 février 2022 |
 | [34932102/22 - Vulnérabilitéaffectant le plugin «UpdraftPlus» pour WordPress](https://www.dgssi.gov.ma/fr/content/3493210222-vulnerabilite-affectant-le-plugin-updraftplus-pour-wordpress.html) | WordPressannonce la correction d’unevulnérabilitéaffectant le plugin « UpdraftPlus». L’exploitation de cette vulnérabilitépeut permettre à un attaquant authentifié d’accéder à des informations confidentielles. | 21 février 2022 |
 | [34921802/22 - Vulnérabilités dans IBM WebSphere](https://www.dgssi.gov.ma/fr/content/3492180222-vulnerabilites-dans-ibm-websphere.html) | IBM annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées du serveur d’application IBM WebSphere. Un attaquant pourrait exploiter ces vulnérabilités afin d’exécuter du code arbitraire à distance et... | 18 février 2022 |
 | [Vulnérabilités dans le CMS Drupal](https://www.dgssi.gov.ma/fr/content/vulnerabilites-dans-le-cms-drupal.html) | Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées du CMS Drupal. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte aux informations confidentielles. | 17 février 2022 |
@@ -42,4 +43,3 @@
 | [34851502/22 - Vulnérabilités dans le client de messagerie Mozilla Thunderbird](https://www.dgssi.gov.ma/fr/content/3485150222-vulnerabilites-dans-le-client-de-messagerie-mozilla-thunderbird.html) | Plusieurs vulnérabilités ont été corrigées dans le client de messagerie Mozilla Thunderbird. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire, con-tourner la politique de sécurité et réussir une... | 15 février 2022 |
 | [34841502/22 - Vulnérabilités critiques affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/content/3484150222-vulnerabilites-critiques-affectant-le-navigateur-google-chrome.html) | Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs vulnérabilitésaffectant le navigateur Google Chrome dont un « Zero-day » identifié par « CVE-2022-0609 » activement exploité.L’exploitation de ces... | 15 février 2022 |
 | [34831402/21 - Vulnérabilités dans les produits Siemens](https://www.dgssi.gov.ma/fr/content/3483140221-vulnerabilites-dans-les-produits-siemens.html) | Plusieurs vulnérabilités ont été corrigées dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter ces failles afin de réussir une exécution de code arbitraire à distance, un déni de service ou un... | 14 février 2022 |
-| [34821402/21 - Zero-day affectant Adobe Commerce et Magento Open Source](https://www.dgssi.gov.ma/fr/content/3482140221-zero-day-affectant-adobe-commerce-et-magento-open-source.html) | Adobe a publié une mise à jour de sécurité pour corriger un « Zero-Day » dans Adobe Commerce et Magento Open Source. Une exploitation réussie pourrait permettre à un attaquant d’exécuter du code arbitraire. | 14 février 2022 |
