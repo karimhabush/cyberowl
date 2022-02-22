@@ -1,5 +1,5 @@
 # Current Incidents Activity 
-# Last Updated 22/02/2022 09:17:48 
+# Last Updated 22/02/2022 10:18:05 
 
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
 
@@ -31,6 +31,7 @@
 ## DGSSI
 |Title|Description|Date|
 |---|---|---|
+| [34962202/22 - Vulnérabilité affectantJuniper Junos OS](https://www.dgssi.gov.ma/fr/content/3496220222-vulnerabilite-affectant-juniper-junos-os.html) | Juniper annonce la correction d’une vulnérabilité qui affecte les versions susmentionnées deson système d’exploitation Junos OS. Un attaquant distant non authentifiépourrait exploiter cette faille pour causer un déni de service. | 22 février 2022 |
 | [34952102/22 - Vulnérabilité affectant F5 Traffix SDC](https://www.dgssi.gov.ma/fr/content/3495210222-vulnerabilite-affectant-f5-traffix-sdc.html) | Une vulnérabilité a été corrigée dans F5 Traffix SDC. Cette vulnérabilité permet à un attaquant local d'effectuer des actions en utilisant les privilèges de l'utilisateur qui exécute le processus Tomcat. Un attaquant peut être en... | 21 février 2022 |
 | [34942102/22 - Mise à jour de sécurité pour PHP](https://www.dgssi.gov.ma/fr/content/3494210222-mise-jour-de-securite-pour-php.html) | Une mise à jour de sécurité a été publiée pour le noyau des versions susmentionnées de PHP. Un attaquant pourrait exploiter ces vulnérabilités afin d’exécuter du code arbitraire à distance et causer un déni de service. Un exploit... | 21 février 2022 |
 | [34932102/22 - Vulnérabilitéaffectant le plugin «UpdraftPlus» pour WordPress](https://www.dgssi.gov.ma/fr/content/3493210222-vulnerabilite-affectant-le-plugin-updraftplus-pour-wordpress.html) | WordPressannonce la correction d’unevulnérabilitéaffectant le plugin « UpdraftPlus». L’exploitation de cette vulnérabilitépeut permettre à un attaquant authentifié d’accéder à des informations confidentielles. | 21 février 2022 |
@@ -42,4 +43,3 @@
 | [34851502/22 - Vulnérabilités dans les produits VMware](https://www.dgssi.gov.ma/fr/content/3485150222-vulnerabilites-dans-les-produits-vmware.html) | Plusieurs vulnérabilités critiques ont été corrigées dans les produits VMware. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges, exécuter du code arbitraire, causer un déni de service ou porter... | 16 février 2022 |
 | [34871602/22 - Vulnérabilité critique affectant Apache Cassandra Database Software](https://www.dgssi.gov.ma/fr/content/3487160222-vulnerabilite-critique-affectant-apache-cassandra-database-software.html) | Des chercheurs en sécurité informatique ont annoncé la découverte d’une vulnérabilité critique affectantl’application de bases de données Apache Cassandra. L’exploitation de cette vulnérabilité peut permettre à un attaquant d’exécuter du... | 16 février 2022 |
 | [34851502/22 - Vulnérabilités dans le client de messagerie Mozilla Thunderbird](https://www.dgssi.gov.ma/fr/content/3485150222-vulnerabilites-dans-le-client-de-messagerie-mozilla-thunderbird.html) | Plusieurs vulnérabilités ont été corrigées dans le client de messagerie Mozilla Thunderbird. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire, con-tourner la politique de sécurité et réussir une... | 15 février 2022 |
-| [34841502/22 - Vulnérabilités critiques affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/content/3484150222-vulnerabilites-critiques-affectant-le-navigateur-google-chrome.html) | Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs vulnérabilitésaffectant le navigateur Google Chrome dont un « Zero-day » identifié par « CVE-2022-0609 » activement exploité.L’exploitation de ces... | 15 février 2022 |
