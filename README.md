@@ -1,7 +1,7 @@
 <div id="top"></div>
 
  ## CyberOwl 
- > Last Updated 26/02/2022 13:44:06 
+ > Last Updated 26/02/2022 13:46:58 
 
  
 A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
@@ -14,19 +14,6 @@ A daily updated summary of the most frequent types of security incidents current
 * [IBMCLOUD](#ibmcloud)
 * [ZeroDayInitiative](#zerodayinitiative)
 
-## CERT-FR
-|Title|Description|Date|
-|---|---|---|
-| [Vulnérabilité dans Juniper Junos OS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-188/) | Une vulnérabilité a été découverte dans Juniper Junos OS. Elle permet à un attaquant de provoquer un déni de service à distance. | 25 février 2022 |
-| [Multiples vulnérabilités dans le serveur HTTP d’IBM WebSphere](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-187/) | De multiples vulnérabilités ont été découvertes dans le serveur HTTP d'IBM WebSphere. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance. | 25 février 2022 |
-| [Multiples vulnérabilités dans Qnap Proxy Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-186/) | De multiples vulnérabilités ont été découvertes dans Qnap Proxy Server. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS). | 25 février 2022 |
-| [Vulnérabilité dans les produits ESET](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-185/) | Une vulnérabilité a été découverte dans les produits ESET . Elle permet à un attaquant de provoquer un déni de service à distance. | 25 février 2022 |
-| [Vulnérabilité dans Juniper Junos OS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-184/) | Une vulnérabilité a été découverte dans Juniper Junos OS. Elle permet à un attaquant de provoquer un déni de service à distance. | 24 février 2022 |
-| [Multiples vulnérabilités dans Cisco NX-OS et Nexus](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-183/) | De multiples vulnérabilités ont été découvertes dans Cisco NX-OS et Nexus. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance. | 24 février 2022 |
-| [Vulnérabilité dans VMware Workspace ONE Boxer](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-182/) | Une vulnérabilité a été découverte dans VMware Workspace ONE Boxer. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS). | 24 février 2022 |
-| [Vulnérabilité dans F5 BIG-IP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-181/) | Une vulnérabilité a été découverte dans F5 BIG-IP. Elle permet à un attaquant de provoquer une élévation de privilèges. | 24 février 2022 |
-| [[SCADA] Multiples vulnérabilités dans Siemens](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-180/) | De multiples vulnérabilités ont été découvertes dans Siemens . Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges. | 23 février 2022 |
-| [Vulnérabilité dans Synology DiskStation Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-179/) | Une vulnérabilité a été découverte dans Synology DiskStation Manager. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. | 23 février 2022 |
 ## CISA
 |Title|Description|Date|
 |---|---|---|
@@ -36,7 +23,7 @@ A daily updated summary of the most frequent types of security incidents current
 | [Cisco Releases Security Updates for Multiple Products](https://www.cisa.gov/uscert/ncas/current-activity/2022/02/24/cisco-releases-security-updates-multiple-products) | <p>Cisco has released security updates to address vulnerabilities in multiple Cisco products. An attacker could exploit one of these vulnerabilities to take control of an affected system. For updates addressing lower severity vulnerabilities, see the <a href="https://tools.cisco.com/security/center/publicationListing.x">Cisco Security Advisories page</a>.</p> | Thursday, February 24, 2022 |
 | [New Sandworm Malware Cyclops Blink Replaces VPNFilter](https://www.cisa.gov/uscert/ncas/current-activity/2022/02/23/new-sandworm-malware-cyclops-blink-replaces-vpnfilter) | <p>The United Kingdom’s National Cyber Security Centre, CISA, the National Security Agency, and the Federal Bureau of Investigation have released a <a href="https://www.cisa.gov/uscert/ncas/alerts/aa22-054a">joint Cybersecurity Advisory (CSA)</a> reporting that the malicious cyber actor known as Sandworm or Voodoo Bear is using new malware, referred to as Cyclops Blink. Cyclops Blink appears to be a replacement framework for the VPNFilter malware exposed in 2018, which exploited network devices, primarily small office/home office routers and network-attached storage devices.</p> | Wednesday, February 23, 2022 |
 | [CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2022/02/22/cisa-adds-two-known-exploited-vulnerabilities-catalog) | <p>CISA has added two new vulnerabilities to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence that threat actors are actively exploiting the vulnerabilities listed in the table below. These types of vulnerabilities are a frequent attack vector for malicious cyber actors of all types and pose significant risk to the federal enterprise.</p> | Tuesday, February 22, 2022 |
-## IBMCLOUD
+## IBMCLOUD [:arrow_heading_up:](#cyberowl) 
 |Title|Date|
 |---|---|
 | [Apache JSPWiki cross-site scripting (CVE-2022-24948)](https://exchange.xforce.ibmcloud.com/vulnerabilities/220518) | Feb 25, 2022 |
@@ -58,6 +45,19 @@ A daily updated summary of the most frequent types of security incidents current
 | [(Pwn2Own) Cisco RV340 NGINX Improper Authentication Unrestricted File Upload Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-415/) | 2022-02-22 |
 | [(Pwn2Own) Cisco RV340 SSLVPN Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-414/) | 2022-02-22 |
 | [(Pwn2Own) Cisco RV340 Firmware Update Improper Certificate Validation Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-413/) | 2022-02-22 |
+## CERT-FR
+|Title|Description|Date|
+|---|---|---|
+| [Vulnérabilité dans Juniper Junos OS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-188/) | Une vulnérabilité a été découverte dans Juniper Junos OS. Elle permet à un attaquant de provoquer un déni de service à distance. | 25 février 2022 |
+| [Multiples vulnérabilités dans le serveur HTTP d’IBM WebSphere](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-187/) | De multiples vulnérabilités ont été découvertes dans le serveur HTTP d'IBM WebSphere. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance. | 25 février 2022 |
+| [Multiples vulnérabilités dans Qnap Proxy Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-186/) | De multiples vulnérabilités ont été découvertes dans Qnap Proxy Server. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS). | 25 février 2022 |
+| [Vulnérabilité dans les produits ESET](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-185/) | Une vulnérabilité a été découverte dans les produits ESET . Elle permet à un attaquant de provoquer un déni de service à distance. | 25 février 2022 |
+| [Vulnérabilité dans Juniper Junos OS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-184/) | Une vulnérabilité a été découverte dans Juniper Junos OS. Elle permet à un attaquant de provoquer un déni de service à distance. | 24 février 2022 |
+| [Multiples vulnérabilités dans Cisco NX-OS et Nexus](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-183/) | De multiples vulnérabilités ont été découvertes dans Cisco NX-OS et Nexus. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance. | 24 février 2022 |
+| [Vulnérabilité dans VMware Workspace ONE Boxer](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-182/) | Une vulnérabilité a été découverte dans VMware Workspace ONE Boxer. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS). | 24 février 2022 |
+| [Vulnérabilité dans F5 BIG-IP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-181/) | Une vulnérabilité a été découverte dans F5 BIG-IP. Elle permet à un attaquant de provoquer une élévation de privilèges. | 24 février 2022 |
+| [[SCADA] Multiples vulnérabilités dans Siemens](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-180/) | De multiples vulnérabilités ont été découvertes dans Siemens . Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges. | 23 février 2022 |
+| [Vulnérabilité dans Synology DiskStation Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-179/) | Une vulnérabilité a été découverte dans Synology DiskStation Manager. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. | 23 février 2022 |
 
 
 ## DGSSI
