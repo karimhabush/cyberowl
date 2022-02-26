@@ -1,7 +1,7 @@
 <div id="top"></div>
 
  ## CyberOwl 
- > Last Updated 26/02/2022 13:39:02 
+ > Last Updated 26/02/2022 13:43:26 
 
  
 A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
@@ -36,6 +36,28 @@ A daily updated summary of the most frequent types of security incidents current
 | [Cisco Releases Security Updates for Multiple Products](https://www.cisa.gov/uscert/ncas/current-activity/2022/02/24/cisco-releases-security-updates-multiple-products) | <p>Cisco has released security updates to address vulnerabilities in multiple Cisco products. An attacker could exploit one of these vulnerabilities to take control of an affected system. For updates addressing lower severity vulnerabilities, see the <a href="https://tools.cisco.com/security/center/publicationListing.x">Cisco Security Advisories page</a>.</p> | Thursday, February 24, 2022 |
 | [New Sandworm Malware Cyclops Blink Replaces VPNFilter](https://www.cisa.gov/uscert/ncas/current-activity/2022/02/23/new-sandworm-malware-cyclops-blink-replaces-vpnfilter) | <p>The United Kingdom’s National Cyber Security Centre, CISA, the National Security Agency, and the Federal Bureau of Investigation have released a <a href="https://www.cisa.gov/uscert/ncas/alerts/aa22-054a">joint Cybersecurity Advisory (CSA)</a> reporting that the malicious cyber actor known as Sandworm or Voodoo Bear is using new malware, referred to as Cyclops Blink. Cyclops Blink appears to be a replacement framework for the VPNFilter malware exposed in 2018, which exploited network devices, primarily small office/home office routers and network-attached storage devices.</p> | Wednesday, February 23, 2022 |
 | [CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2022/02/22/cisa-adds-two-known-exploited-vulnerabilities-catalog) | <p>CISA has added two new vulnerabilities to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence that threat actors are actively exploiting the vulnerabilities listed in the table below. These types of vulnerabilities are a frequent attack vector for malicious cyber actors of all types and pose significant risk to the federal enterprise.</p> | Tuesday, February 22, 2022 |
+## ZeroDayInitiative
+|Title|Date|
+|---|---|---|
+| [(Pwn2Own) Cisco RV340 utility-ping-request Insecure Temporary File Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-420/) | 2022-02-22 |
+| [(Pwn2Own) Cisco RV340 JSON RPC file-copy Command Injection Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-419/) | 2022-02-22 |
+| [(Pwn2Own) Cisco RV340 Plug and Play Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-418/) | 2022-02-22 |
+| [(Pwn2Own) Cisco RV340 update-clients Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-417/) | 2022-02-22 |
+| [(Pwn2Own) Cisco RV340 NGINX Missing Authentication Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-416/) | 2022-02-22 |
+| [(Pwn2Own) Cisco RV340 NGINX Improper Authentication Unrestricted File Upload Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-415/) | 2022-02-22 |
+| [(Pwn2Own) Cisco RV340 SSLVPN Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-414/) | 2022-02-22 |
+| [(Pwn2Own) Cisco RV340 Firmware Update Improper Certificate Validation Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-413/) | 2022-02-22 |
+## IBMCLOUD
+|Title|Date|
+|---|---|---|
+| [Apache JSPWiki cross-site scripting (CVE-2022-24948)](https://exchange.xforce.ibmcloud.com/vulnerabilities/220518) | Feb 25, 2022 |
+| [Bank Management System email SQL injection](https://exchange.xforce.ibmcloud.com/vulnerabilities/220517) | Feb 25, 2022 |
+| [Photoswipe Masonry Gallery plugin for WordPress cross-site scripting (CVE-2022-0750)](https://exchange.xforce.ibmcloud.com/vulnerabilities/220516) | Feb 25, 2022 |
+| [Apache JSPWiki cross-site request forgery (CVE-2022-24947)](https://exchange.xforce.ibmcloud.com/vulnerabilities/220510) | Feb 25, 2022 |
+| [KDE KCron privilege escalation (CVE-2022-24986)](https://exchange.xforce.ibmcloud.com/vulnerabilities/220469) | Feb 25, 2022 |
+| [Bently Nevada 3500 brute force (CVE-2021-32997)](https://exchange.xforce.ibmcloud.com/vulnerabilities/220515) | Feb 24, 2022 |
+| [Open Mobile Terminal Platform (OMPT) information disclosure (CVE-2022-23835)](https://exchange.xforce.ibmcloud.com/vulnerabilities/220457) | Feb 24, 2022 |
+| [AWS @awsui/components-react module for NPM cross-site scripting (CVE-2022-24709)](https://exchange.xforce.ibmcloud.com/vulnerabilities/220453) | Feb 24, 2022 |
 
 
 ## DGSSI
@@ -53,25 +75,3 @@ A daily updated summary of the most frequent types of security incidents current
 | [34921802/22 - Vulnérabilités dans IBM WebSphere](https://www.dgssi.gov.ma/fr/content/3492180222-vulnerabilites-dans-ibm-websphere.html) | IBM annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées du serveur d’application IBM WebSphere. Un attaquant pourrait exploiter ces vulnérabilités afin d’exécuter du code arbitraire à distance et... | 18 février 2022 |
 | [Vulnérabilités dans le CMS Drupal](https://www.dgssi.gov.ma/fr/content/vulnerabilites-dans-le-cms-drupal.html) | Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées du CMS Drupal. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte aux informations confidentielles. | 17 février 2022 |
 | [34901702/22 - Vulnérabilités dans les produits Cisco](https://www.dgssi.gov.ma/fr/content/3490170222-vulnerabilites-dans-les-produits-cisco.html) | Plusieurs vulnérabilités ont été corrigées dans les produits Cisco susmentionnés. L’exploitation de ces failles permet à un attaquant d’exécuter du code arbitraire ou causer un déni de service. | 17 février 2022 |
-## IBMCLOUD
-|Title|Description|Date|
-|---|---|---|
-| [Apache JSPWiki cross-site scripting (CVE-2022-24948)](https://exchange.xforce.ibmcloud.com/vulnerabilities/220518) | Visit link for details | Feb 25, 2022 |
-| [Bank Management System email SQL injection](https://exchange.xforce.ibmcloud.com/vulnerabilities/220517) | Visit link for details | Feb 25, 2022 |
-| [Photoswipe Masonry Gallery plugin for WordPress cross-site scripting (CVE-2022-0750)](https://exchange.xforce.ibmcloud.com/vulnerabilities/220516) | Visit link for details | Feb 25, 2022 |
-| [Apache JSPWiki cross-site request forgery (CVE-2022-24947)](https://exchange.xforce.ibmcloud.com/vulnerabilities/220510) | Visit link for details | Feb 25, 2022 |
-| [KDE KCron privilege escalation (CVE-2022-24986)](https://exchange.xforce.ibmcloud.com/vulnerabilities/220469) | Visit link for details | Feb 25, 2022 |
-| [Bently Nevada 3500 brute force (CVE-2021-32997)](https://exchange.xforce.ibmcloud.com/vulnerabilities/220515) | Visit link for details | Feb 24, 2022 |
-| [Open Mobile Terminal Platform (OMPT) information disclosure (CVE-2022-23835)](https://exchange.xforce.ibmcloud.com/vulnerabilities/220457) | Visit link for details | Feb 24, 2022 |
-| [AWS @awsui/components-react module for NPM cross-site scripting (CVE-2022-24709)](https://exchange.xforce.ibmcloud.com/vulnerabilities/220453) | Visit link for details | Feb 24, 2022 |
-## ZeroDayInitiative
-|Title|Description|Date|
-|---|---|---|
-| [(Pwn2Own) Cisco RV340 utility-ping-request Insecure Temporary File Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-420/) | Visit link for details | 2022-02-22 |
-| [(Pwn2Own) Cisco RV340 JSON RPC file-copy Command Injection Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-419/) | Visit link for details | 2022-02-22 |
-| [(Pwn2Own) Cisco RV340 Plug and Play Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-418/) | Visit link for details | 2022-02-22 |
-| [(Pwn2Own) Cisco RV340 update-clients Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-417/) | Visit link for details | 2022-02-22 |
-| [(Pwn2Own) Cisco RV340 NGINX Missing Authentication Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-416/) | Visit link for details | 2022-02-22 |
-| [(Pwn2Own) Cisco RV340 NGINX Improper Authentication Unrestricted File Upload Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-415/) | Visit link for details | 2022-02-22 |
-| [(Pwn2Own) Cisco RV340 SSLVPN Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-414/) | Visit link for details | 2022-02-22 |
-| [(Pwn2Own) Cisco RV340 Firmware Update Improper Certificate Validation Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-413/) | Visit link for details | 2022-02-22 |
