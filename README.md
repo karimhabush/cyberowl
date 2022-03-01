@@ -1,7 +1,7 @@
 <div id="top"></div>
 
  ## CyberOwl 
- > Last Updated 28/02/2022 14:54:21 
+ > Last Updated 01/03/2022 09:12:38 
 
  
 A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
@@ -17,6 +17,8 @@ A daily updated summary of the most frequent types of security incidents current
 ## CERT-FR [:arrow_heading_up:](#cyberowl) 
 |Title|Description|Date|
 |---|---|---|
+| [Vulnérabilité dans NetApp SnapCenter](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-190/) | Une vulnérabilité a été découverte dans NetApp SnapCenter. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données. | 28 février 2022 |
+| [Multiples vulnérabilités dans les produits GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-189/) | De multiples vulnérabilités ont été découvertes dans les produits GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à l'intégrité des données. | 28 février 2022 |
 | [Vulnérabilité dans Juniper Junos OS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-188/) | Une vulnérabilité a été découverte dans Juniper Junos OS. Elle permet à un attaquant de provoquer un déni de service à distance. | 25 février 2022 |
 | [Multiples vulnérabilités dans le serveur HTTP d’IBM WebSphere](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-187/) | De multiples vulnérabilités ont été découvertes dans le serveur HTTP d'IBM WebSphere. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance. | 25 février 2022 |
 | [Multiples vulnérabilités dans Qnap Proxy Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-186/) | De multiples vulnérabilités ont été découvertes dans Qnap Proxy Server. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS). | 25 février 2022 |
@@ -25,17 +27,15 @@ A daily updated summary of the most frequent types of security incidents current
 | [Multiples vulnérabilités dans Cisco NX-OS et Nexus](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-183/) | De multiples vulnérabilités ont été découvertes dans Cisco NX-OS et Nexus. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance. | 24 février 2022 |
 | [Vulnérabilité dans VMware Workspace ONE Boxer](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-182/) | Une vulnérabilité a été découverte dans VMware Workspace ONE Boxer. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS). | 24 février 2022 |
 | [Vulnérabilité dans F5 BIG-IP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-181/) | Une vulnérabilité a été découverte dans F5 BIG-IP. Elle permet à un attaquant de provoquer une élévation de privilèges. | 24 février 2022 |
-| [[SCADA] Multiples vulnérabilités dans Siemens](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-180/) | De multiples vulnérabilités ont été découvertes dans Siemens . Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges. | 23 février 2022 |
-| [Vulnérabilité dans Synology DiskStation Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-179/) | Une vulnérabilité a été découverte dans Synology DiskStation Manager. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. | 23 février 2022 |
 ## CISA [:arrow_heading_up:](#cyberowl) 
 |Title|Description|Date|
 |---|---|---|
+| [Broadcom Software Discloses APT Actors Deploying Daxin Malware in Global Espionage Campaign ](https://www.cisa.gov/uscert/ncas/current-activity/2022/02/28/broadcom-software-discloses-apt-actors-deploying-daxin-malware) | <p><a href="https://software.broadcom.com/">Broadcom Software</a>—an industry member of CISA’s <a href="https://www.cisa.gov/jcdc">Joint Cyber Defense Collaborative (JCDC)</a>—uncovers an advanced persistent threat (APT) campaign against select governments and other critical infrastructure targets in a publication titled <a href="https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/daxin-backdoor-espionage">Daxin: Stealthy Backdoor Designed for Attacks Against Hardened Networks</a>.</p> | Monday, February 28, 2022 |
 | [CISA Releases Advisory on Destructive Malware Targeting Organizations in Ukraine](https://www.cisa.gov/uscert/ncas/current-activity/2022/02/26/cisa-releases-advisory-destructive-malware-targeting-organizations) | <p>CISA and the Federal Bureau of Investigation have released an <a href="https://www.cisa.gov/uscert/ncas/alerts/aa22-057a">advisory</a> on destructive malware targeting organizations in Ukraine. The advisory also provides recommendations and strategies to prepare for and respond to destructive malware. </p> | Saturday, February 26, 2022 |
 | [CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2022/02/25/cisa-adds-four-known-exploited-vulnerabilities-catalog) | <p>CISA has added four new vulnerabilities to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence that threat actors are actively exploiting the vulnerabilities listed in the table below. These types of vulnerabilities are a frequent attack vector for malicious cyber actors of all types and pose significant risk to the federal enterprise.</p> | Friday, February 25, 2022 |
 | [Mozilla Releases Security Update for Mozilla VPN](https://www.cisa.gov/uscert/ncas/current-activity/2022/02/25/mozilla-releases-security-update-mozilla-vpn) | <p>Mozilla has released a security update to address a vulnerability in Mozilla VPN. An attacker could exploit this vulnerability to take control of an affected system.  </p> | Friday, February 25, 2022 |
 | [Iranian Government-Sponsored MuddyWater Actors Conducting Malicious Cyber Operations](https://www.cisa.gov/uscert/ncas/current-activity/2022/02/24/iranian-government-sponsored-muddywater-actors-conducting) | <p>CISA, the Federal Bureau of Investigation (FBI), U.S. Cyber Command Cyber National Mission Force (CNMF), the United Kingdom’s National Cyber Security Centre (NCSC-UK), and the National Security Agency (NSA) have issued a <a href="https://www.cisa.gov/uscert/ncas/alerts/aa22-055a">joint Cybersecurity Advisory (CSA)</a> detailing malicious cyber operations by Iranian government-sponsored advanced persistent threat (APT) actors known as MuddyWater. </p> | Thursday, February 24, 2022 |
 | [Cisco Releases Security Updates for Multiple Products](https://www.cisa.gov/uscert/ncas/current-activity/2022/02/24/cisco-releases-security-updates-multiple-products) | <p>Cisco has released security updates to address vulnerabilities in multiple Cisco products. An attacker could exploit one of these vulnerabilities to take control of an affected system. For updates addressing lower severity vulnerabilities, see the <a href="https://tools.cisco.com/security/center/publicationListing.x">Cisco Security Advisories page</a>.</p> | Thursday, February 24, 2022 |
-| [New Sandworm Malware Cyclops Blink Replaces VPNFilter](https://www.cisa.gov/uscert/ncas/current-activity/2022/02/23/new-sandworm-malware-cyclops-blink-replaces-vpnfilter) | <p>The United Kingdom’s National Cyber Security Centre, CISA, the National Security Agency, and the Federal Bureau of Investigation have released a <a href="https://www.cisa.gov/uscert/ncas/alerts/aa22-054a">joint Cybersecurity Advisory (CSA)</a> reporting that the malicious cyber actor known as Sandworm or Voodoo Bear is using new malware, referred to as Cyclops Blink. Cyclops Blink appears to be a replacement framework for the VPNFilter malware exposed in 2018, which exploited network devices, primarily small office/home office routers and network-attached storage devices.</p> | Wednesday, February 23, 2022 |
 ## ZeroDayInitiative [:arrow_heading_up:](#cyberowl) 
 |Title|Date|
 |---|---|
@@ -50,19 +50,20 @@ A daily updated summary of the most frequent types of security incidents current
 ## IBMCLOUD [:arrow_heading_up:](#cyberowl) 
 |Title|Date|
 |---|---|
-| [Apache JSPWiki cross-site scripting (CVE-2022-24948)](https://exchange.xforce.ibmcloud.com/vulnerabilities/220518) | Feb 25, 2022 |
-| [Bank Management System email SQL injection](https://exchange.xforce.ibmcloud.com/vulnerabilities/220517) | Feb 25, 2022 |
-| [Photoswipe Masonry Gallery plugin for WordPress cross-site scripting (CVE-2022-0750)](https://exchange.xforce.ibmcloud.com/vulnerabilities/220516) | Feb 25, 2022 |
-| [Apache JSPWiki cross-site request forgery (CVE-2022-24947)](https://exchange.xforce.ibmcloud.com/vulnerabilities/220510) | Feb 25, 2022 |
-| [KDE KCron privilege escalation (CVE-2022-24986)](https://exchange.xforce.ibmcloud.com/vulnerabilities/220469) | Feb 25, 2022 |
-| [Bently Nevada 3500 brute force (CVE-2021-32997)](https://exchange.xforce.ibmcloud.com/vulnerabilities/220515) | Feb 24, 2022 |
-| [Open Mobile Terminal Platform (OMPT) information disclosure (CVE-2022-23835)](https://exchange.xforce.ibmcloud.com/vulnerabilities/220457) | Feb 24, 2022 |
-| [AWS @awsui/components-react module for NPM cross-site scripting (CVE-2022-24709)](https://exchange.xforce.ibmcloud.com/vulnerabilities/220453) | Feb 24, 2022 |
+| [Axis IP cameras file upload](https://exchange.xforce.ibmcloud.com/vulnerabilities/220622) | Feb 28, 2022 |
+| [Cobian Reflector denial of service](https://exchange.xforce.ibmcloud.com/vulnerabilities/220620) | Feb 28, 2022 |
+| [Cobian Backup (Gravity) code execution](https://exchange.xforce.ibmcloud.com/vulnerabilities/220618) | Feb 28, 2022 |
+| [Cobian Backup (Gravity) denial of service](https://exchange.xforce.ibmcloud.com/vulnerabilities/220614) | Feb 28, 2022 |
+| [MODX Revolution code execution (CVE-2022-26149)](https://exchange.xforce.ibmcloud.com/vulnerabilities/220545) | Feb 28, 2022 |
+| [Cherwell Service Management (CSM) open redirect (CVE-2022-26158)](https://exchange.xforce.ibmcloud.com/vulnerabilities/220610) | Feb 27, 2022 |
+| [Cherwell Service Management (CSM) information disclosure (CVE-2022-26157)](https://exchange.xforce.ibmcloud.com/vulnerabilities/220609) | Feb 27, 2022 |
+| [Cherwell Service Management (CSM) open redirect (CVE-2022-26156)](https://exchange.xforce.ibmcloud.com/vulnerabilities/220608) | Feb 27, 2022 |
 
 
 ## DGSSI [:arrow_heading_up:](#cyberowl) 
 |Title|Description|Date|
 |---|---|---|
+| [35032802/22 - Vulnérabilité dans les produits ESET ](https://www.dgssi.gov.ma/fr/content/3503280222-vulnerabilite-dans-les-produits-eset.html) | Une vulnérabilité a été corrigée dans les produits ESET susmentionnés. Un attaquant pourrait exploiter cette faille afin de causer un déni de service à distance. | 28 février 2022 |
 | [35022802/22 - Vulnérabilité affectant Mozilla VPN](https://www.dgssi.gov.ma/fr/content/3502280222-vulnerabilite-affectant-mozilla-vpn.html) | Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger une vulnérabilité affectant son produit Mozilla VPN. L’exploitation de cette vulnérabilité peut permettre à un attaquant local d’élever... | 28 février 2022 |
 | [35012502/22 - Vulnérabilité affectantF5 BIG-IP](https://www.dgssi.gov.ma/fr/content/3501250222-vulnerabilite-affectant-f5-big-ip.html) | F5 Networks annonce la correction d’une vulnérabilité affectant les versions susmentionnées de son produit BIG-IP. Un attaquant distant peut exploiter ces vulnérabilités pour élever ses privilèges. | 25 février 2022 |
 | [35002402/22 - Vulnérabilité dans VMwareWorkspace ONE Boxer](https://www.dgssi.gov.ma/fr/content/3500240222-vulnerabilite-dans-vmware-workspace-one-boxer.html) | Une vulnérabilité a été corrigée dans VMwareWorkspace ONE Boxer. Un attaquant pour-rait exploiter cette faille afin de réussir une exécution de code arbitraire à distance. | 24 février 2022 |
@@ -74,4 +75,3 @@ A daily updated summary of the most frequent types of security incidents current
 | [34942102/22 - Mise à jour de sécurité pour PHP](https://www.dgssi.gov.ma/fr/content/3494210222-mise-jour-de-securite-pour-php.html) | Une mise à jour de sécurité a été publiée pour le noyau des versions susmentionnées de PHP. Un attaquant pourrait exploiter ces vulnérabilités afin d’exécuter du code arbitraire à distance et causer un déni de service. Un exploit... | 21 février 2022 |
 | [34932102/22 - Vulnérabilitéaffectant le plugin «UpdraftPlus» pour WordPress](https://www.dgssi.gov.ma/fr/content/3493210222-vulnerabilite-affectant-le-plugin-updraftplus-pour-wordpress.html) | WordPressannonce la correction d’unevulnérabilitéaffectant le plugin « UpdraftPlus». L’exploitation de cette vulnérabilitépeut permettre à un attaquant authentifié d’accéder à des informations confidentielles. | 21 février 2022 |
 | [34921802/22 - Vulnérabilités dans IBM WebSphere](https://www.dgssi.gov.ma/fr/content/3492180222-vulnerabilites-dans-ibm-websphere.html) | IBM annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées du serveur d’application IBM WebSphere. Un attaquant pourrait exploiter ces vulnérabilités afin d’exécuter du code arbitraire à distance et... | 18 février 2022 |
-| [Vulnérabilités dans le CMS Drupal](https://www.dgssi.gov.ma/fr/content/vulnerabilites-dans-le-cms-drupal.html) | Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées du CMS Drupal. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte aux informations confidentielles. | 17 février 2022 |
