@@ -1,7 +1,7 @@
 <div id="top"></div>
 
  ## CyberOwl 
- > Last Updated 01/03/2022 15:14:15 
+ > Last Updated 01/03/2022 15:37:45 
 
  
 A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
@@ -36,6 +36,17 @@ A daily updated summary of the most frequent types of security incidents current
 | [Mozilla Releases Security Update for Mozilla VPN](https://www.cisa.gov/uscert/ncas/current-activity/2022/02/25/mozilla-releases-security-update-mozilla-vpn) | <p>Mozilla has released a security update to address a vulnerability in Mozilla VPN. An attacker could exploit this vulnerability to take control of an affected system.  </p> | Friday, February 25, 2022 |
 | [Iranian Government-Sponsored MuddyWater Actors Conducting Malicious Cyber Operations](https://www.cisa.gov/uscert/ncas/current-activity/2022/02/24/iranian-government-sponsored-muddywater-actors-conducting) | <p>CISA, the Federal Bureau of Investigation (FBI), U.S. Cyber Command Cyber National Mission Force (CNMF), the United Kingdom’s National Cyber Security Centre (NCSC-UK), and the National Security Agency (NSA) have issued a <a href="https://www.cisa.gov/uscert/ncas/alerts/aa22-055a">joint Cybersecurity Advisory (CSA)</a> detailing malicious cyber operations by Iranian government-sponsored advanced persistent threat (APT) actors known as MuddyWater. </p> | Thursday, February 24, 2022 |
 | [Cisco Releases Security Updates for Multiple Products](https://www.cisa.gov/uscert/ncas/current-activity/2022/02/24/cisco-releases-security-updates-multiple-products) | <p>Cisco has released security updates to address vulnerabilities in multiple Cisco products. An attacker could exploit one of these vulnerabilities to take control of an affected system. For updates addressing lower severity vulnerabilities, see the <a href="https://tools.cisco.com/security/center/publicationListing.x">Cisco Security Advisories page</a>.</p> | Thursday, February 24, 2022 |
+## IBMCLOUD [:arrow_heading_up:](#cyberowl) 
+|Title|Date|
+|---|---|
+| [SwiftSensors Gateway security bypass (CVE-2021-40422)](https://exchange.xforce.ibmcloud.com/vulnerabilities/220635) | Feb 28, 2022 |
+| [Gerbv denial of service (CVE-2021-40400)](https://exchange.xforce.ibmcloud.com/vulnerabilities/220633) | Feb 28, 2022 |
+| [Axis IP cameras file upload](https://exchange.xforce.ibmcloud.com/vulnerabilities/220622) | Feb 28, 2022 |
+| [Cobian Reflector denial of service](https://exchange.xforce.ibmcloud.com/vulnerabilities/220620) | Feb 28, 2022 |
+| [Cobian Backup (Gravity) code execution](https://exchange.xforce.ibmcloud.com/vulnerabilities/220618) | Feb 28, 2022 |
+| [Cobian Backup (Gravity) denial of service](https://exchange.xforce.ibmcloud.com/vulnerabilities/220614) | Feb 28, 2022 |
+| [MODX Revolution code execution (CVE-2022-26149)](https://exchange.xforce.ibmcloud.com/vulnerabilities/220545) | Feb 28, 2022 |
+| [Cherwell Service Management (CSM) open redirect (CVE-2022-26158)](https://exchange.xforce.ibmcloud.com/vulnerabilities/220610) | Feb 27, 2022 |
 ## ZeroDayInitiative [:arrow_heading_up:](#cyberowl) 
 |Title|Date|
 |---|---|
@@ -47,17 +58,13 @@ A daily updated summary of the most frequent types of security incidents current
 | [(0Day) Delta Industrial Automation DIAEnergie HandlerPage_KID Arbitrary File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-423/) | 2022-03-01 |
 | [(0Day) Delta Industrial Automation CNCSoft ScreenEditor DPB File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-422/) | 2022-03-01 |
 | [(0Day) Delta Industrial Automation CNCSoft ScreenEditor DPB File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-421/) | 2022-03-01 |
-## IBMCLOUD [:arrow_heading_up:](#cyberowl) 
-|Title|Date|
-|---|---|
-| [Axis IP cameras file upload](https://exchange.xforce.ibmcloud.com/vulnerabilities/220622) | Feb 28, 2022 |
-| [Cobian Reflector denial of service](https://exchange.xforce.ibmcloud.com/vulnerabilities/220620) | Feb 28, 2022 |
-| [Cobian Backup (Gravity) code execution](https://exchange.xforce.ibmcloud.com/vulnerabilities/220618) | Feb 28, 2022 |
-| [Cobian Backup (Gravity) denial of service](https://exchange.xforce.ibmcloud.com/vulnerabilities/220614) | Feb 28, 2022 |
-| [MODX Revolution code execution (CVE-2022-26149)](https://exchange.xforce.ibmcloud.com/vulnerabilities/220545) | Feb 28, 2022 |
-| [Cherwell Service Management (CSM) open redirect (CVE-2022-26158)](https://exchange.xforce.ibmcloud.com/vulnerabilities/220610) | Feb 27, 2022 |
-| [Cherwell Service Management (CSM) information disclosure (CVE-2022-26157)](https://exchange.xforce.ibmcloud.com/vulnerabilities/220609) | Feb 27, 2022 |
-| [Cherwell Service Management (CSM) open redirect (CVE-2022-26156)](https://exchange.xforce.ibmcloud.com/vulnerabilities/220608) | Feb 27, 2022 |
+| [(Pwn2Own) Cisco RV340 utility-ping-request Insecure Temporary File Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-420/) | 2022-02-22 |
+| [(Pwn2Own) Cisco RV340 JSON RPC file-copy Command Injection Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-419/) | 2022-02-22 |
+| [(Pwn2Own) Cisco RV340 Plug and Play Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-418/) | 2022-02-22 |
+| [(Pwn2Own) Cisco RV340 update-clients Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-417/) | 2022-02-22 |
+| [(Pwn2Own) Cisco RV340 NGINX Missing Authentication Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-416/) | 2022-02-22 |
+| [(Pwn2Own) Cisco RV340 NGINX Improper Authentication Unrestricted File Upload Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-415/) | 2022-02-22 |
+| [(Pwn2Own) Cisco RV340 SSLVPN Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-414/) | 2022-02-22 |
 
 
 ## DGSSI [:arrow_heading_up:](#cyberowl) 
