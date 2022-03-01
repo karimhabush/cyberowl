@@ -1,7 +1,7 @@
 <div id="top"></div>
 
  ## CyberOwl 
- > Last Updated 01/03/2022 09:12:38 
+ > Last Updated 01/03/2022 15:14:15 
 
  
 A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
@@ -17,16 +17,16 @@ A daily updated summary of the most frequent types of security incidents current
 ## CERT-FR [:arrow_heading_up:](#cyberowl) 
 |Title|Description|Date|
 |---|---|---|
+| [Vulnérabilité dans F-Secure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-194/) | Une vulnérabilité a été découverte dans F-Secure. Elle permet à un attaquant de provoquer un déni de service à distance. | 1 mars 2022 |
+| [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-193/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Elles permettent à un attaquant de provoquer un déni de service et une élévation de privilèges. | 1 mars 2022 |
+| [Multiples vulnérabilités dans IBM QRadar SIEM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-192/) | De multiples vulnérabilités ont été découvertes dans IBM QRadar SIEM. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données. | 1 mars 2022 |
+| [Multiples vulnérabilités dans ElasticSearch et Kibana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-191/) | De multiples vulnérabilités ont été découvertes dans ElasticSearch et Kibana. Certaines d'entre elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. | 1 mars 2022 |
 | [Vulnérabilité dans NetApp SnapCenter](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-190/) | Une vulnérabilité a été découverte dans NetApp SnapCenter. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données. | 28 février 2022 |
 | [Multiples vulnérabilités dans les produits GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-189/) | De multiples vulnérabilités ont été découvertes dans les produits GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à l'intégrité des données. | 28 février 2022 |
 | [Vulnérabilité dans Juniper Junos OS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-188/) | Une vulnérabilité a été découverte dans Juniper Junos OS. Elle permet à un attaquant de provoquer un déni de service à distance. | 25 février 2022 |
 | [Multiples vulnérabilités dans le serveur HTTP d’IBM WebSphere](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-187/) | De multiples vulnérabilités ont été découvertes dans le serveur HTTP d'IBM WebSphere. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance. | 25 février 2022 |
 | [Multiples vulnérabilités dans Qnap Proxy Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-186/) | De multiples vulnérabilités ont été découvertes dans Qnap Proxy Server. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS). | 25 février 2022 |
 | [Vulnérabilité dans les produits ESET](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-185/) | Une vulnérabilité a été découverte dans les produits ESET . Elle permet à un attaquant de provoquer un déni de service à distance. | 25 février 2022 |
-| [Vulnérabilité dans Juniper Junos OS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-184/) | Une vulnérabilité a été découverte dans Juniper Junos OS. Elle permet à un attaquant de provoquer un déni de service à distance. | 24 février 2022 |
-| [Multiples vulnérabilités dans Cisco NX-OS et Nexus](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-183/) | De multiples vulnérabilités ont été découvertes dans Cisco NX-OS et Nexus. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance. | 24 février 2022 |
-| [Vulnérabilité dans VMware Workspace ONE Boxer](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-182/) | Une vulnérabilité a été découverte dans VMware Workspace ONE Boxer. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS). | 24 février 2022 |
-| [Vulnérabilité dans F5 BIG-IP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-181/) | Une vulnérabilité a été découverte dans F5 BIG-IP. Elle permet à un attaquant de provoquer une élévation de privilèges. | 24 février 2022 |
 ## CISA [:arrow_heading_up:](#cyberowl) 
 |Title|Description|Date|
 |---|---|---|
@@ -39,14 +39,14 @@ A daily updated summary of the most frequent types of security incidents current
 ## ZeroDayInitiative [:arrow_heading_up:](#cyberowl) 
 |Title|Date|
 |---|---|
-| [(Pwn2Own) Cisco RV340 utility-ping-request Insecure Temporary File Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-420/) | 2022-02-22 |
-| [(Pwn2Own) Cisco RV340 JSON RPC file-copy Command Injection Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-419/) | 2022-02-22 |
-| [(Pwn2Own) Cisco RV340 Plug and Play Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-418/) | 2022-02-22 |
-| [(Pwn2Own) Cisco RV340 update-clients Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-417/) | 2022-02-22 |
-| [(Pwn2Own) Cisco RV340 NGINX Missing Authentication Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-416/) | 2022-02-22 |
-| [(Pwn2Own) Cisco RV340 NGINX Improper Authentication Unrestricted File Upload Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-415/) | 2022-02-22 |
-| [(Pwn2Own) Cisco RV340 SSLVPN Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-414/) | 2022-02-22 |
-| [(Pwn2Own) Cisco RV340 Firmware Update Improper Certificate Validation Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-413/) | 2022-02-22 |
+| [(0Day) Microsoft Visual Studio Link Following Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-428/) | 2022-03-01 |
+| [(0Day) Microsoft Visual Studio Link Following Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-427/) | 2022-03-01 |
+| [(0Day) Microsoft .NET Link Following Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-426/) | 2022-03-01 |
+| [(0Day) Microsoft Visual Studio Link Following Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-425/) | 2022-03-01 |
+| [(0Day) Delta Industrial Automation DIAEnergie AM_Handler SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-424/) | 2022-03-01 |
+| [(0Day) Delta Industrial Automation DIAEnergie HandlerPage_KID Arbitrary File Upload Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-423/) | 2022-03-01 |
+| [(0Day) Delta Industrial Automation CNCSoft ScreenEditor DPB File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-422/) | 2022-03-01 |
+| [(0Day) Delta Industrial Automation CNCSoft ScreenEditor DPB File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-421/) | 2022-03-01 |
 ## IBMCLOUD [:arrow_heading_up:](#cyberowl) 
 |Title|Date|
 |---|---|
@@ -63,6 +63,7 @@ A daily updated summary of the most frequent types of security incidents current
 ## DGSSI [:arrow_heading_up:](#cyberowl) 
 |Title|Description|Date|
 |---|---|---|
+| [35040103/22 - Vulnérabilités dans Schneider Electric Easergy](https://www.dgssi.gov.ma/fr/content/3504010322-vulnerabilites-dans-schneider-electric-easergy.html) | Plusieurs vulnérabilités ont été corrigées dans Schneider Electric Easergy P5 et P3. L’exploitation de ces failles permet à un attaquant de causer un déni de service, divulguer des informations confidentielles et potentiellement prendre le... | 01 mars 2022 |
 | [35032802/22 - Vulnérabilité dans les produits ESET ](https://www.dgssi.gov.ma/fr/content/3503280222-vulnerabilite-dans-les-produits-eset.html) | Une vulnérabilité a été corrigée dans les produits ESET susmentionnés. Un attaquant pourrait exploiter cette faille afin de causer un déni de service à distance. | 28 février 2022 |
 | [35022802/22 - Vulnérabilité affectant Mozilla VPN](https://www.dgssi.gov.ma/fr/content/3502280222-vulnerabilite-affectant-mozilla-vpn.html) | Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger une vulnérabilité affectant son produit Mozilla VPN. L’exploitation de cette vulnérabilité peut permettre à un attaquant local d’élever... | 28 février 2022 |
 | [35012502/22 - Vulnérabilité affectantF5 BIG-IP](https://www.dgssi.gov.ma/fr/content/3501250222-vulnerabilite-affectant-f5-big-ip.html) | F5 Networks annonce la correction d’une vulnérabilité affectant les versions susmentionnées de son produit BIG-IP. Un attaquant distant peut exploiter ces vulnérabilités pour élever ses privilèges. | 25 février 2022 |
@@ -74,4 +75,3 @@ A daily updated summary of the most frequent types of security incidents current
 | [34952102/22 - Vulnérabilité affectant F5 Traffix SDC](https://www.dgssi.gov.ma/fr/content/3495210222-vulnerabilite-affectant-f5-traffix-sdc.html) | Une vulnérabilité a été corrigée dans F5 Traffix SDC. Cette vulnérabilité permet à un attaquant local d'effectuer des actions en utilisant les privilèges de l'utilisateur qui exécute le processus Tomcat. Un attaquant peut être en... | 21 février 2022 |
 | [34942102/22 - Mise à jour de sécurité pour PHP](https://www.dgssi.gov.ma/fr/content/3494210222-mise-jour-de-securite-pour-php.html) | Une mise à jour de sécurité a été publiée pour le noyau des versions susmentionnées de PHP. Un attaquant pourrait exploiter ces vulnérabilités afin d’exécuter du code arbitraire à distance et causer un déni de service. Un exploit... | 21 février 2022 |
 | [34932102/22 - Vulnérabilitéaffectant le plugin «UpdraftPlus» pour WordPress](https://www.dgssi.gov.ma/fr/content/3493210222-vulnerabilite-affectant-le-plugin-updraftplus-pour-wordpress.html) | WordPressannonce la correction d’unevulnérabilitéaffectant le plugin « UpdraftPlus». L’exploitation de cette vulnérabilitépeut permettre à un attaquant authentifié d’accéder à des informations confidentielles. | 21 février 2022 |
-| [34921802/22 - Vulnérabilités dans IBM WebSphere](https://www.dgssi.gov.ma/fr/content/3492180222-vulnerabilites-dans-ibm-websphere.html) | IBM annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées du serveur d’application IBM WebSphere. Un attaquant pourrait exploiter ces vulnérabilités afin d’exécuter du code arbitraire à distance et... | 18 février 2022 |
