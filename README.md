@@ -1,7 +1,7 @@
 <div id="top"></div>
 
  ## CyberOwl 
- > Last Updated 02/03/2022 09:15:45 
+ > Last Updated 02/03/2022 09:19:42 
 
  
 A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
@@ -9,11 +9,20 @@ A daily updated summary of the most frequent types of security incidents current
 
 ### Jump to 
  * [CISA](#cisa-arrow_heading_up)
-* [DGSSI](#dgssi-arrow_heading_up)
+* [MA-CERT](#ma-cert-arrow_heading_up)
 * [CERT-FR](#cert-fr-arrow_heading_up)
 * [IBMCLOUD](#ibmcloud-arrow_heading_up)
 * [ZeroDayInitiative](#zerodayinitiative-arrow_heading_up)
 
+## CISA [:arrow_heading_up:](#cyberowl) 
+|Title|Description|Date|
+|---|---|---|
+| [Broadcom Software Discloses APT Actors Deploying Daxin Malware in Global Espionage Campaign ](https://www.cisa.gov/uscert/ncas/current-activity/2022/02/28/broadcom-software-discloses-apt-actors-deploying-daxin-malware) | <p><a href="https://software.broadcom.com/">Broadcom Software</a>—an industry member of CISA’s <a href="https://www.cisa.gov/jcdc">Joint Cyber Defense Collaborative (JCDC)</a>—uncovers an advanced persistent threat (APT) campaign against select governments and other critical infrastructure targets in a publication titled <a href="https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/daxin-backdoor-espionage">Daxin: Stealthy Backdoor Designed for Attacks Against Hardened Networks</a>.</p> | Monday, February 28, 2022 |
+| [CISA Releases Advisory on Destructive Malware Targeting Organizations in Ukraine](https://www.cisa.gov/uscert/ncas/current-activity/2022/02/26/cisa-releases-advisory-destructive-malware-targeting-organizations) | <p>CISA and the Federal Bureau of Investigation have released an <a href="https://www.cisa.gov/uscert/ncas/alerts/aa22-057a">advisory</a> on destructive malware targeting organizations in Ukraine. The advisory also provides recommendations and strategies to prepare for and respond to destructive malware. </p> | Saturday, February 26, 2022 |
+| [CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2022/02/25/cisa-adds-four-known-exploited-vulnerabilities-catalog) | <p>CISA has added four new vulnerabilities to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence that threat actors are actively exploiting the vulnerabilities listed in the table below. These types of vulnerabilities are a frequent attack vector for malicious cyber actors of all types and pose significant risk to the federal enterprise.</p> | Friday, February 25, 2022 |
+| [Mozilla Releases Security Update for Mozilla VPN](https://www.cisa.gov/uscert/ncas/current-activity/2022/02/25/mozilla-releases-security-update-mozilla-vpn) | <p>Mozilla has released a security update to address a vulnerability in Mozilla VPN. An attacker could exploit this vulnerability to take control of an affected system.  </p> | Friday, February 25, 2022 |
+| [Iranian Government-Sponsored MuddyWater Actors Conducting Malicious Cyber Operations](https://www.cisa.gov/uscert/ncas/current-activity/2022/02/24/iranian-government-sponsored-muddywater-actors-conducting) | <p>CISA, the Federal Bureau of Investigation (FBI), U.S. Cyber Command Cyber National Mission Force (CNMF), the United Kingdom’s National Cyber Security Centre (NCSC-UK), and the National Security Agency (NSA) have issued a <a href="https://www.cisa.gov/uscert/ncas/alerts/aa22-055a">joint Cybersecurity Advisory (CSA)</a> detailing malicious cyber operations by Iranian government-sponsored advanced persistent threat (APT) actors known as MuddyWater. </p> | Thursday, February 24, 2022 |
+| [Cisco Releases Security Updates for Multiple Products](https://www.cisa.gov/uscert/ncas/current-activity/2022/02/24/cisco-releases-security-updates-multiple-products) | <p>Cisco has released security updates to address vulnerabilities in multiple Cisco products. An attacker could exploit one of these vulnerabilities to take control of an affected system. For updates addressing lower severity vulnerabilities, see the <a href="https://tools.cisco.com/security/center/publicationListing.x">Cisco Security Advisories page</a>.</p> | Thursday, February 24, 2022 |
 ## CERT-FR [:arrow_heading_up:](#cyberowl) 
 |Title|Description|Date|
 |---|---|---|
@@ -27,15 +36,6 @@ A daily updated summary of the most frequent types of security incidents current
 | [Multiples vulnérabilités dans le serveur HTTP d’IBM WebSphere](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-187/) | De multiples vulnérabilités ont été découvertes dans le serveur HTTP d'IBM WebSphere. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance. | 25 février 2022 |
 | [Multiples vulnérabilités dans Qnap Proxy Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-186/) | De multiples vulnérabilités ont été découvertes dans Qnap Proxy Server. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS). | 25 février 2022 |
 | [Vulnérabilité dans les produits ESET](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-185/) | Une vulnérabilité a été découverte dans les produits ESET . Elle permet à un attaquant de provoquer un déni de service à distance. | 25 février 2022 |
-## CISA [:arrow_heading_up:](#cyberowl) 
-|Title|Description|Date|
-|---|---|---|
-| [Broadcom Software Discloses APT Actors Deploying Daxin Malware in Global Espionage Campaign ](https://www.cisa.gov/uscert/ncas/current-activity/2022/02/28/broadcom-software-discloses-apt-actors-deploying-daxin-malware) | <p><a href="https://software.broadcom.com/">Broadcom Software</a>—an industry member of CISA’s <a href="https://www.cisa.gov/jcdc">Joint Cyber Defense Collaborative (JCDC)</a>—uncovers an advanced persistent threat (APT) campaign against select governments and other critical infrastructure targets in a publication titled <a href="https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/daxin-backdoor-espionage">Daxin: Stealthy Backdoor Designed for Attacks Against Hardened Networks</a>.</p> | Monday, February 28, 2022 |
-| [CISA Releases Advisory on Destructive Malware Targeting Organizations in Ukraine](https://www.cisa.gov/uscert/ncas/current-activity/2022/02/26/cisa-releases-advisory-destructive-malware-targeting-organizations) | <p>CISA and the Federal Bureau of Investigation have released an <a href="https://www.cisa.gov/uscert/ncas/alerts/aa22-057a">advisory</a> on destructive malware targeting organizations in Ukraine. The advisory also provides recommendations and strategies to prepare for and respond to destructive malware. </p> | Saturday, February 26, 2022 |
-| [CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2022/02/25/cisa-adds-four-known-exploited-vulnerabilities-catalog) | <p>CISA has added four new vulnerabilities to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence that threat actors are actively exploiting the vulnerabilities listed in the table below. These types of vulnerabilities are a frequent attack vector for malicious cyber actors of all types and pose significant risk to the federal enterprise.</p> | Friday, February 25, 2022 |
-| [Mozilla Releases Security Update for Mozilla VPN](https://www.cisa.gov/uscert/ncas/current-activity/2022/02/25/mozilla-releases-security-update-mozilla-vpn) | <p>Mozilla has released a security update to address a vulnerability in Mozilla VPN. An attacker could exploit this vulnerability to take control of an affected system.  </p> | Friday, February 25, 2022 |
-| [Iranian Government-Sponsored MuddyWater Actors Conducting Malicious Cyber Operations](https://www.cisa.gov/uscert/ncas/current-activity/2022/02/24/iranian-government-sponsored-muddywater-actors-conducting) | <p>CISA, the Federal Bureau of Investigation (FBI), U.S. Cyber Command Cyber National Mission Force (CNMF), the United Kingdom’s National Cyber Security Centre (NCSC-UK), and the National Security Agency (NSA) have issued a <a href="https://www.cisa.gov/uscert/ncas/alerts/aa22-055a">joint Cybersecurity Advisory (CSA)</a> detailing malicious cyber operations by Iranian government-sponsored advanced persistent threat (APT) actors known as MuddyWater. </p> | Thursday, February 24, 2022 |
-| [Cisco Releases Security Updates for Multiple Products](https://www.cisa.gov/uscert/ncas/current-activity/2022/02/24/cisco-releases-security-updates-multiple-products) | <p>Cisco has released security updates to address vulnerabilities in multiple Cisco products. An attacker could exploit one of these vulnerabilities to take control of an affected system. For updates addressing lower severity vulnerabilities, see the <a href="https://tools.cisco.com/security/center/publicationListing.x">Cisco Security Advisories page</a>.</p> | Thursday, February 24, 2022 |
 ## IBMCLOUD [:arrow_heading_up:](#cyberowl) 
 |Title|Date|
 |---|---|
@@ -67,7 +67,7 @@ A daily updated summary of the most frequent types of security incidents current
 | [(Pwn2Own) Cisco RV340 SSLVPN Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-414/) | 2022-02-22 |
 
 
-## DGSSI [:arrow_heading_up:](#cyberowl) 
+## MA-CERT [:arrow_heading_up:](#cyberowl) 
 |Title|Description|Date|
 |---|---|---|
 | [35040103/22 - Vulnérabilités dans Schneider Electric Easergy](https://www.dgssi.gov.ma/fr/content/3504010322-vulnerabilites-dans-schneider-electric-easergy.html) | Plusieurs vulnérabilités ont été corrigées dans Schneider Electric Easergy P5 et P3. L’exploitation de ces failles permet à un attaquant de causer un déni de service, divulguer des informations confidentielles et potentiellement prendre le... | 01 mars 2022 |
