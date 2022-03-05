@@ -1,7 +1,7 @@
 <div id="top"></div>
 
  ## CyberOwl 
- > Last Updated 05/03/2022 15:00:22 
+ > Last Updated 05/03/2022 18:23:26 
 
  
 A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
