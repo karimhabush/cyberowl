@@ -1,7 +1,7 @@
 <div id="top"></div>
 
  ## CyberOwl 
- > Last Updated 06/03/2022 13:47:48 
+ > Last Updated 07/03/2022 09:20:56 
 
 A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
 
@@ -34,6 +34,17 @@ A daily updated summary of the most frequent types of security incidents current
 | [Google Releases Security Updates for Chrome](https://www.cisa.gov/uscert/ncas/current-activity/2022/03/02/google-releases-security-updates-chrome) | <p>Google has released Chrome version 99.0.4844.51 for Windows, Mac, and Linux. This version addresses vulnerabilities that an attacker could exploit to take control of an affected system.</p> | Wednesday, March 2, 2022 |
 | [Broadcom Software Discloses APT Actors Deploying Daxin Malware in Global Espionage Campaign ](https://www.cisa.gov/uscert/ncas/current-activity/2022/02/28/broadcom-software-discloses-apt-actors-deploying-daxin-malware) | <p><a href="https://software.broadcom.com/">Broadcom Software</a>—an industry member of CISA’s <a href="https://www.cisa.gov/jcdc">Joint Cyber Defense Collaborative (JCDC)</a>—uncovers an advanced persistent threat (APT) campaign against select governments and other critical infrastructure targets in a publication titled <a href="https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/daxin-backdoor-espionage">Daxin: Stealthy Backdoor Designed for Attacks Against Hardened Networks</a>.</p> | Monday, February 28, 2022 |
 | [CISA Releases Advisory on Destructive Malware Targeting Organizations in Ukraine](https://www.cisa.gov/uscert/ncas/current-activity/2022/02/26/cisa-releases-advisory-destructive-malware-targeting-organizations) | <p>CISA and the Federal Bureau of Investigation have released an <a href="https://www.cisa.gov/uscert/ncas/alerts/aa22-057a">advisory</a> on destructive malware targeting organizations in Ukraine. The advisory also provides recommendations and strategies to prepare for and respond to destructive malware. </p> | Saturday, February 26, 2022 |
+## IBMCLOUD [:arrow_heading_up:](#cyberowl)
+|Title|Description|Date|
+|---|---|---|
+| [Mozilla Firefox, Firefox ESR, Firefox for Android, Focus, Thunderbird code execution (CVE-2022-26486)](https://exchange.xforce.ibmcloud.com/vulnerabilities/221068) | Visit link for details | Mar 5, 2022 |
+| [Mozilla Firefox, Firefox ESR, Firefox for Android, Focus, Thunderbird code execution (CVE-2022-26485)](https://exchange.xforce.ibmcloud.com/vulnerabilities/221067) | Visit link for details | Mar 5, 2022 |
+| [Apache POI denial of service (CVE-2022-26336)](https://exchange.xforce.ibmcloud.com/vulnerabilities/221045) | Visit link for details | Mar 4, 2022 |
+| [SAE J2497 (PLC4TRUCKS) security bypass (CVE-2022-26131)](https://exchange.xforce.ibmcloud.com/vulnerabilities/221035) | Visit link for details | Mar 4, 2022 |
+| [SAE J2497 (PLC4TRUCKS) security bypass (CVE-2022-25922)](https://exchange.xforce.ibmcloud.com/vulnerabilities/221034) | Visit link for details | Mar 4, 2022 |
+| [Digital Arts i-FILTER man-in-the-middle (CVE-2022-21170)](https://exchange.xforce.ibmcloud.com/vulnerabilities/221026) | Visit link for details | Mar 4, 2022 |
+| [Node.js shescape module information disclosure (CVE-2022-24725)](https://exchange.xforce.ibmcloud.com/vulnerabilities/221055) | Visit link for details | Mar 3, 2022 |
+| [Twisted denial of service (CVE-2022-21716)](https://exchange.xforce.ibmcloud.com/vulnerabilities/221053) | Visit link for details | Mar 3, 2022 |
 ## ZeroDayInitiative [:arrow_heading_up:](#cyberowl) 
 |Title|Date|
 |---|---|
