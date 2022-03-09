@@ -1,3 +1,4 @@
+from mdtemplate import Template
 import scrapy
 
 class CisaSpider(scrapy.Spider):
@@ -8,18 +9,25 @@ class CisaSpider(scrapy.Spider):
     def parse(self, response): 
         if('cached' in response.flags):
             return 
-        item = """## CISA [:arrow_heading_up:](#cyberowl)\n|Title|Description|Date|\n|---|---|---|\n"""
-        with open("README.md","a") as f:
-                f.write(item)
-                f.close()
+        
+        _data =[]
         for bulletin in response.css("div.views-row"):
-            link = "https://www.cisa.gov/uscert"+bulletin.xpath("descendant-or-self::h3/span/a/@href").get()
-            date = bulletin.xpath("descendant-or-self::div[contains(@class,'entry-date')]/span[2]/text()").get().replace("\n","").replace("\t","").replace("\r","").replace("  ","")
-            title = bulletin.xpath("descendant-or-self::h3/span/a/text()").get().replace("\n","").replace("\t","").replace("\r","").replace("  ","")
-            description = bulletin.xpath('descendant-or-self::div[contains(@class,"field-content")]/p').get().replace("\n","").replace("\t","").replace("\r","").replace("  ","")
+            LINK = "https://www.cisa.gov/uscert"+bulletin.xpath("descendant-or-self::h3/span/a/@href").get()
+            DATE = bulletin.xpath("descendant-or-self::div[contains(@class,'entry-date')]/span[2]/text()").get().replace("\n","").replace("\t","").replace("\r","").replace("  ","")
+            TITLE = bulletin.xpath("descendant-or-self::h3/span/a/text()").get().replace("\n","").replace("\t","").replace("\r","").replace("  ","")
+            DESC = bulletin.xpath('descendant-or-self::div[contains(@class,"field-content")]/p').get().replace("\n","").replace("\t","").replace("\r","").replace("  ","")
+            
+            ITEM={
+                "_title":TITLE,
+                "_link":LINK,
+                "_date":DATE,
+                "_desc":DESC
+            }
 
-            item = f"""| [{title}]({link}) | {description} | {date} |\n"""
-
-            with open("README.md","a") as f:
-                f.write(item)
+            _data.append(ITEM)
+        
+        _to_write = Template("CISA",_data)
+        
+        with open("tistREADME.md","a") as f:
+                f.write(_to_write._fill_table())
                 f.close()

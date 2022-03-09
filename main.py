@@ -26,16 +26,13 @@ def main():
         process.start()
 
     except :
-        print("to print the error!")
-    finally :
-        print("Successfully crawled and updated README")
+        raise ValueError("to print the error!")
+    
     
     try:
         git_push()
     except : 
-        print("To print the errors about gitpush!")
-    finally:
-        print("Successfully pushed to github!")
+        raise ValueError("to print the errors about gitpuhs!")
 
     
 if __name__ == "__main__":
