@@ -5,6 +5,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from msedge.selenium_tools import EdgeOptions
 from msedge.selenium_tools import Edge
+from mdtemplate import Template 
 
 class ZDISpider(scrapy.Spider):
     name = "countries_spider"
@@ -36,24 +37,28 @@ class ZDISpider(scrapy.Spider):
         countries = driver.find_elements_by_xpath("descendant-or-self::table[contains(@class,'table')]/tbody/tr")
         num_bulletins = 0
         # Using Scrapy's yield to store output instead of explicitly writing to a JSON file
-        item = """## ZeroDayInitiative [:arrow_heading_up:](#cyberowl) \n|Title|Date|\n|---|---|\n"""
-        with open("README.md","a") as f:
-                f.write(item)
-                f.close()
-        
+        _data =[]
         for country in countries:
-            link = country.find_element_by_xpath(".//a").get_attribute("href")
-            date = country.find_element_by_xpath(".//td[5]").text
-            title = country.find_element_by_xpath(".//a").text
+            LINK = country.find_element_by_xpath(".//a").get_attribute("href")
+            DATE = country.find_element_by_xpath(".//td[5]").text
+            TITLE = country.find_element_by_xpath(".//a").text
             
-            item = f"""| [{title}]({link}) | {date} |\n"""
-            
-            with open("README.md","a") as f:
-                f.write(item)
-                f.close()
-                
+            ITEM={
+                "_title":TITLE,
+                "_link":LINK,
+                "_date":DATE,
+                "_desc":"Visit link for details"
+            }
+
+            _data.append(ITEM)
             num_bulletins+=1
-            if num_bulletins >= 15:
+            if num_bulletins >= 8:
                 break
+        
+        _to_write = Template("ZeroDayInitiative",_data)
+        
+        with open("README.md","a") as f:
+                f.write(_to_write._fill_table())
+                f.close()
 
         driver.quit()
