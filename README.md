@@ -1,7 +1,7 @@
 <div id="top"></div>
 
  ## CyberOwl 
- > Last Updated 10/03/2022 09:20:31 
+ > Last Updated 11/03/2022 10:32:23 
 
 A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
 
@@ -12,30 +12,17 @@ A daily updated summary of the most frequent types of security incidents current
 * [IBMCLOUD](#ibmcloud-arrow_heading_up)
 * [ZeroDayInitiative](#zerodayinitiative-arrow_heading_up)
 
-## CERT-FR [:arrow_heading_up:](#cyberowl) 
-|Title|Description|Date|
-|---|---|---|
-| [Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-227/) | De multiples vulnérabilités ont été corrigées dans  | 9 mars 2022 |
-| [Multiples vulnérabilités dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-226/) | De multiples vulnérabilités ont été corrigées dans  | 9 mars 2022 |
-| [Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-225/) | De multiples vulnérabilités ont été corrigées dans  | 9 mars 2022 |
-| [Multiples vulnérabilités dans Microsoft Office](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-224/) | De multiples vulnérabilités ont été corrigées dans  | 9 mars 2022 |
-| [[SCADA] Vulnérabilité dans les produits Moxa](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-223/) | Une vulnérabilité a été découverte dans les produits Moxa. Elle permet à un attaquant de provoquer une élévation de privilèges. | 9 mars 2022 |
-| [Multiples vulnérabilités dans les produits Intel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-222/) | De multiples vulnérabilités ont été découvertes dans les produits Intel. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une élévation de privilèges. | 9 mars 2022 |
-| [Multiples vulnérabilités dans Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-221/) | De multiples vulnérabilités ont été découvertes dans Xen. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données. | 9 mars 2022 |
-| [Vulnérabilité dans Ruby on Rails](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-220/) | Une vulnérabilité a été découverte dans Ruby on Rails. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. | 9 mars 2022 |
-| [Multiples vulnérabilités dans Mozilla Firefox](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-219/) | De multiples vulnérabilités ont été découvertes dans Mozilla Firefox. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et un contournement de la politique de sécurité. | 9 mars 2022 |
-| [Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-218/) | De multiples vulnérabilités ont été découvertes dans les produits Nextcloud. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à la confidentialité des données et un déni de service à distance. | 9 mars 2022 |
 ## IBMCLOUD [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
-| [Siemens Mendix Studio Pro information disclosure (CVE-2022-26317)](https://exchange.xforce.ibmcloud.com/vulnerabilities/221356) | Visit link for details | Mar 8, 2022 |
-| [Siemens Mendix Forgot Password Appstore module information disclosure (CVE-2022-26314)](https://exchange.xforce.ibmcloud.com/vulnerabilities/221355) | Visit link for details | Mar 8, 2022 |
-| [Siemens Mendix Forgot Password Appstore module security bypass (CVE-2022-26313)](https://exchange.xforce.ibmcloud.com/vulnerabilities/221354) | Visit link for details | Mar 8, 2022 |
-| [Couchbase Cloud Native Operator information disclosure (CVE-2022-26311)](https://exchange.xforce.ibmcloud.com/vulnerabilities/221353) | Visit link for details | Mar 8, 2022 |
-| [Multiple Arm and Ampere CPUs information disclosure (CVE-2022-25368)](https://exchange.xforce.ibmcloud.com/vulnerabilities/221352) | Visit link for details | Mar 8, 2022 |
-| [Schneider Electric APC Smart-UPS security bypass (CVE-2022-0715)](https://exchange.xforce.ibmcloud.com/vulnerabilities/221343) | Visit link for details | Mar 8, 2022 |
-| [Schneider Electric APC Smart-UPS security bypass (CVE-2022-22806)](https://exchange.xforce.ibmcloud.com/vulnerabilities/221342) | Visit link for details | Mar 8, 2022 |
-| [luocms SQL injection (CVE-2022-24600)](https://exchange.xforce.ibmcloud.com/vulnerabilities/221341) | Visit link for details | Mar 8, 2022 |
+| [Zabbix items.php file upload](https://exchange.xforce.ibmcloud.com/vulnerabilities/221494) | Visit link for details | Mar 10, 2022 |
+| [Xen netfront denial of service (CVE-2022-23042)](https://exchange.xforce.ibmcloud.com/vulnerabilities/221478) | Visit link for details | Mar 10, 2022 |
+| [Xen multiple backends security bypass (CVE-2022-23041)](https://exchange.xforce.ibmcloud.com/vulnerabilities/221477) | Visit link for details | Mar 10, 2022 |
+| [Xen xenbus security bypass (CVE-2022-23040)](https://exchange.xforce.ibmcloud.com/vulnerabilities/221476) | Visit link for details | Mar 10, 2022 |
+| [Xen gntalloc security bypass (CVE-2022-23039)](https://exchange.xforce.ibmcloud.com/vulnerabilities/221475) | Visit link for details | Mar 10, 2022 |
+| [Xen scsifront security bypass (CVE-2022-23038)](https://exchange.xforce.ibmcloud.com/vulnerabilities/221474) | Visit link for details | Mar 10, 2022 |
+| [Xen netfront security bypass (CVE-2022-23037)](https://exchange.xforce.ibmcloud.com/vulnerabilities/221473) | Visit link for details | Mar 10, 2022 |
+| [Xen blkfront security bypass (CVE-2022-23036)](https://exchange.xforce.ibmcloud.com/vulnerabilities/221471) | Visit link for details | Mar 10, 2022 |
 ## ZeroDayInitiative [:arrow_heading_up:](#cyberowl) 
 |Title|Date|
 |---|---|
@@ -59,6 +46,10 @@ A daily updated summary of the most frequent types of security incidents current
 ## MA-CERT [:arrow_heading_up:](#cyberowl) 
 |Title|Description|Date|
 |---|---|---|
+| [35271003/22 - Vulnérabilités affectant des produits d’Intel](https://www.dgssi.gov.ma/fr/content/3527100322-vulnerabilites-affectant-des-produits-d-intel.html) | Intel annonce la disponibilité de mises à jour de sécurité qui corrigent trois vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peut permettre à un attaquant l’accès à des données... | 10 mars 2022 |
+| [35291003/22 - Vulnérabilités dans les produits Siemens](https://www.dgssi.gov.ma/fr/content/3529100322-vulnerabilites-dans-les-produits-siemens.html) | Plusieurs vulnérabilités ont été corrigées dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à dis-tance, réussir une élévation de privilèges, causer un... | 10 mars 2022 |
+| [35261003/22 - Vulnérabilités dans HP UEFI Firmware](https://www.dgssi.gov.ma/fr/content/3526100322-vulnerabilites-dans-hp-uefi-firmware.html) | Plusieurs vulnérabilités ont été corrigées dans le micrologiciel UEFI (BIOS) de certains produits HP, y compris des ordinateurs portables, des ordinateurs de bureau et des systèmes PoS. L’exploitation de ces vulnérabilités peut permettre à... | 10 mars 2022 |
+| [35281003/22 - Vulnérabilités dans les produits Citrix](https://www.dgssi.gov.ma/fr/content/3528100322-vulnerabilites-dans-les-produits-citrix.html) | Deux vulnérabilités ont été corrigées dans les produits Citrix susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de porter atteinte à la confidentialité de données. | 10 mars 2022 |
 | [35200903/22 - Vulnérabilités affectantle navigateur Mozilla Firefox](https://www.dgssi.gov.ma/fr/content/3520090322-vulnerabilites-affectant-le-navigateur-mozilla-firefox.html) | Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de cesvulnérabilités peut permettre à un... | 09 mars 2022 |
 | [35190903/22 -Vulnérabilités critiques affectant le système d’exploitation Android](https://www.dgssi.gov.ma/fr/content/3519090322-vulnerabilites-critiques-affectant-le-systeme-d-exploitation-android.html) | Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de cesvulnérabilités peut permettre à un... | 09 mars 2022 |
 | [35180903/22 - Vulnérabilités critiques affectant plusieursproduits SAP](https://www.dgssi.gov.ma/fr/content/3518090322-vulnerabilites-critiques-affectant-plusieurs-produits-sap.html) | SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités critiques affectant certains de ses produits. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuterdu code... | 09 mars 2022 |
@@ -67,7 +58,16 @@ A daily updated summary of the most frequent types of security incidents current
 | [35240903/22 - Vulnérabilités dans les produits Microsoft (Patch Tuesday Mars 2022)](https://www.dgssi.gov.ma/fr/content/3524090322-vulnerabilites-dans-les-produits-microsoft-patch-tuesday-mars-2022.html) | Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code à distance, réussir une élévation de... | 09 mars 2022 |
 | [35230903/22 - Vulnérabilités dans Microsoft Exchange Server (Patch Tuesday Mars 2022)](https://www.dgssi.gov.ma/fr/content/3523090322-vulnerabilites-dans-microsoft-exchange-server-patch-tuesday-mars-2022.html) | Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant Microsoft Exchange Server. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire à distance. | 09 mars 2022 |
 | [35220903/22 - Vulnérabilités dans Microsoft Office (Patch Tuesday Mars 2022)](https://www.dgssi.gov.ma/fr/content/3522090322-vulnerabilites-dans-microsoft-office-patch-tuesday-mars-2022.html) | Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées des produits Microsoft Office. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code à distance, causer un... | 09 mars 2022 |
-| [35180903/22 - Vulnérabilités affectant plusieurs produits d’Adobe](https://www.dgssi.gov.ma/fr/content/3518090322-vulnerabilites-affectant-plusieurs-produits-d-adobe.html) | Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant l’exécution de code arbitraire ou l’... | 09 mars 2022 |
-| [35160803/22 - Vulnérabilité critique dans le noyau Linux](https://www.dgssi.gov.ma/fr/content/3516080322-vulnerabilite-critique-dans-le-noyau-linux.html) | Des chercheurs en sécurité ont découvert une vulnérabilité critique (CVE-2022-0847) nommée "Dirty Pipe" dans le noyau Linux. Une preuve de concept (PoC) exploitant la vulnérabilité a également été publiée.Une exploitation... | 08 mars 2022 |
-| [35150803/22 - Vulnérabilité dans Google Chrome OS](https://www.dgssi.gov.ma/fr/content/3515080322-vulnerabilite-dans-google-chrome-os.html) | Plusieurs vulnérabilités ont été corrigées dans Google Chrome OS. L’exploitation de ces failles permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 08 mars 2022 |
-| [35140703/22 - Vulnérabilité dans Sophos SSL VPN client](https://www.dgssi.gov.ma/fr/content/3514070322-vulnerabilite-dans-sophos-ssl-vpn-client.html) | Une vulnérabilité a été corrigée dans Sophos SSL VPN client. L'exploitation de cette vulnérabilité pourrait permettre à un attaquant de porter atteinte à la confidentialité des données. | 07 mars 2022 |
+## CERT-FR [:arrow_heading_up:](#cyberowl) 
+|Title|Description|Date|
+|---|---|---|
+| [Multiples vulnérabilités dans Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-236/) | De multiples vulnérabilités ont été découvertes dans Xen. Elles permettent à un attaquant de provoquer un déni de service, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. | 10 mars 2022 |
+| [Multiples vulnérabilités dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-235/) | De multiples vulnérabilités ont été découvertes dans Mozilla Thunderbird. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une atteinte à l'intégrité des données. | 10 mars 2022 |
+| [Multiples vulnérabilités dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-234/) | De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une élévation de privilèges. | 10 mars 2022 |
+| [Vulnérabilité dans les produits F-Secure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-233/) | Une vulnérabilité a été découverte dans les produits F-Secure. Elle permet à un attaquant de provoquer une exécution de code arbitraire. | 10 mars 2022 |
+| [Multiples vulnérabilités dans Nagios XI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-232/) | De multiples vulnérabilités ont été découvertes dans Nagios XI. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS). | 10 mars 2022 |
+| [Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-231/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service, un contournement de la politique de sécurité et une atteinte à la confidentialité des données. | 10 mars 2022 |
+| [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-230/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une atteinte à l'intégrité des données. | 10 mars 2022 |
+| [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-229/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service et un contournement de la politique de sécurité. | 10 mars 2022 |
+| [Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-228/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service et une atteinte à l'intégrité des données. | 10 mars 2022 |
+| [Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-227/) | De multiples vulnérabilités ont été corrigées dans  | 9 mars 2022 |
