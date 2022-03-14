@@ -1,7 +1,7 @@
 <div id="top"></div>
 
  ## CyberOwl 
- > Last Updated 12/03/2022 11:02:04 
+ > Last Updated 14/03/2022 09:19:45 
 
 A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
 
@@ -25,26 +25,6 @@ A daily updated summary of the most frequent types of security incidents current
 | [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-229/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service et un contournement de la politique de sécurité. | 10 mars 2022 |
 | [Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-228/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service et une atteinte à l'intégrité des données. | 10 mars 2022 |
 | [Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-227/) | De multiples vulnérabilités ont été corrigées dans  | 9 mars 2022 |
-## CISA [:arrow_heading_up:](#cyberowl)
-|Title|Description|Date|
-|---|---|---|
-| [Dirty Pipe Privilege Escalation Vulnerability in Linux](https://www.cisa.gov/uscert/ncas/current-activity/2022/03/10/dirty-pipe-privilege-escalation-vulnerability-linux) | <p>CISA is aware of a privilege escalation vulnerability in Linux kernel versions 5.8 and later known as “Dirty Pipe” (<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-0847">CVE-2022-0847</a>). A local attacker could exploit this vulnerability to take control of an affected system.</p> | Thursday, March 10, 2022 |
-| [Updated: Conti Ransomware](https://www.cisa.gov/uscert/ncas/current-activity/2022/03/09/updated-conti-ransomware) | <p>CISA, the Federal Bureau of Investigation (FBI), the National Security Agency (NSA), and the United States Secret Service (USSS) have re-released an advisory on <a href="https://www.cisa.gov/uscert/ncas/alerts/aa21-265a">Conti ransomware</a>. Conti cyber threat actors remain active and reported Conti ransomware attacks against U.S. and international organizations have risen to more than 1,000. </p> | Wednesday, March 9, 2022 |
-| [Adobe Releases Security Updates for Multiple Products ](https://www.cisa.gov/uscert/ncas/current-activity/2022/03/08/adobe-releases-security-updates-multiple-products) | <p>Adobe has released security updates to address vulnerabilities in multiple products. An attacker could exploit some of these vulnerabilities to take control of an affected system. </p> | Tuesday, March 8, 2022 |
-| [SAP Releases March 2022 Security Updates](https://www.cisa.gov/uscert/ncas/current-activity/2022/03/08/sap-releases-march-2022-security-updates) | <p>SAP has released security updates to address vulnerabilities affecting multiple products. An attacker could exploit some of these vulnerabilities to take control of an affected system.</p> | Tuesday, March 8, 2022 |
-| [Microsoft Releases March 2022 Security Updates](https://www.cisa.gov/uscert/ncas/current-activity/2022/03/08/microsoft-releases-march-2022-security-updates) | <p>Microsoft has released updates to address multiple vulnerabilities in Microsoft software. A remote attacker could exploit some of these vulnerabilities to take control of an affected system.</p> | Tuesday, March 8, 2022 |
-| [Mozilla Releases Security Updates](https://www.cisa.gov/uscert/ncas/current-activity/2022/03/08/mozilla-releases-security-updates) | <p>Mozilla has released security updates to address vulnerabilities in Firefox, Firefox ESR, and Thunderbird. An attacker could exploit some of these vulnerabilities to take control of an affected system. </p> | Tuesday, March 8, 2022 |
-## IBMCloud [:arrow_heading_up:](#cyberowl)
-|Title|Description|Date|
-|---|---|---|
-| [Linux Kernel VirtIO Bluetooth driver denial of service (CVE-2022-26878)](https://exchange.xforce.ibmcloud.com/vulnerabilities/221587) | Visit link for details | Mar 11, 2022 |
-| [Employee Performance Evaluation System email SQL injection](https://exchange.xforce.ibmcloud.com/vulnerabilities/221579) | Visit link for details | Mar 11, 2022 |
-| [Tdarr Help command execution](https://exchange.xforce.ibmcloud.com/vulnerabilities/221578) | Visit link for details | Mar 11, 2022 |
-| [FLEX-1080 Web and FLEX-1085 Web information disclosure](https://exchange.xforce.ibmcloud.com/vulnerabilities/221577) | Visit link for details | Mar 11, 2022 |
-| [Apple SwiftNIO HTTP/2 denial of service (CVE-2022-0618)](https://exchange.xforce.ibmcloud.com/vulnerabilities/221597) | Visit link for details | Mar 10, 2022 |
-| [NETGEAR DGND3700 security bypass](https://exchange.xforce.ibmcloud.com/vulnerabilities/221545) | Visit link for details | Mar 10, 2022 |
-| [Sandboxie-Plus privilege escalation](https://exchange.xforce.ibmcloud.com/vulnerabilities/221531) | Visit link for details | Mar 10, 2022 |
-| [McAfee Safe Connect VPN privilege escalation](https://exchange.xforce.ibmcloud.com/vulnerabilities/221530) | Visit link for details | Mar 10, 2022 |
 ## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
@@ -56,6 +36,17 @@ A daily updated summary of the most frequent types of security incidents current
 | [MyBB Admin Control Panel Code Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-503/) | Visit link for details | 2022-03-11 |
 | [Mozilla Firefox textPath Element Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-502/) | Visit link for details | 2022-03-09 |
 | [Microsoft Office Visio EMF EMR_COMMENT_EMFPLUS Untrusted Pointer Dereference Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-501/) | Visit link for details | 2022-03-09 |
+## IBMCloud [:arrow_heading_up:](#cyberowl)
+|Title|Description|Date|
+|---|---|---|
+| [Linux Kernel VirtIO Bluetooth driver denial of service (CVE-2022-26878)](https://exchange.xforce.ibmcloud.com/vulnerabilities/221587) | Visit link for details | Mar 11, 2022 |
+| [Employee Performance Evaluation System email SQL injection](https://exchange.xforce.ibmcloud.com/vulnerabilities/221579) | Visit link for details | Mar 11, 2022 |
+| [Tdarr Help command execution](https://exchange.xforce.ibmcloud.com/vulnerabilities/221578) | Visit link for details | Mar 11, 2022 |
+| [FLEX-1080 Web and FLEX-1085 Web information disclosure](https://exchange.xforce.ibmcloud.com/vulnerabilities/221577) | Visit link for details | Mar 11, 2022 |
+| [Apple SwiftNIO HTTP/2 denial of service (CVE-2022-0618)](https://exchange.xforce.ibmcloud.com/vulnerabilities/221597) | Visit link for details | Mar 10, 2022 |
+| [NETGEAR DGND3700 security bypass](https://exchange.xforce.ibmcloud.com/vulnerabilities/221545) | Visit link for details | Mar 10, 2022 |
+| [Sandboxie-Plus privilege escalation](https://exchange.xforce.ibmcloud.com/vulnerabilities/221531) | Visit link for details | Mar 10, 2022 |
+| [McAfee Safe Connect VPN privilege escalation](https://exchange.xforce.ibmcloud.com/vulnerabilities/221530) | Visit link for details | Mar 10, 2022 |
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
@@ -71,3 +62,12 @@ A daily updated summary of the most frequent types of security incidents current
 | [35250903/22 - Vulnérabilité dans Microsoft Browser (Patch Tuesday Mars 2022)](https://www.dgssi.gov.ma/fr/content/3525090322-vulnerabilite-dans-microsoft-browser-patch-tuesday-mars-2022.html) | Microsoft annonce la correction de plusieurs vulnérabilités affectant sonnavigateur Microsoft Edge (Chromium-based). L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges ou de... | 09 mars 2022 |
 | [35240903/22 - Vulnérabilités dans les produits Microsoft (Patch Tuesday Mars 2022)](https://www.dgssi.gov.ma/fr/content/3524090322-vulnerabilites-dans-les-produits-microsoft-patch-tuesday-mars-2022.html) | Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code à distance, réussir une élévation de... | 09 mars 2022 |
 | [35210903/22 - Vulnérabilités dans Microsoft Windows (Patch Tuesday Mars 2022)](https://www.dgssi.gov.ma/fr/content/3521090322-vulnerabilites-dans-microsoft-windows-patch-tuesday-mars-2022.html) | Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant lessystèmes d’exploitation Windows susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de divulguer des informations... | 09 mars 2022 |
+## CISA [:arrow_heading_up:](#cyberowl)
+|Title|Description|Date|
+|---|---|---|
+| [Dirty Pipe Privilege Escalation Vulnerability in Linux](https://www.cisa.gov/uscert/ncas/current-activity/2022/03/10/dirty-pipe-privilege-escalation-vulnerability-linux) | <p>CISA is aware of a privilege escalation vulnerability in Linux kernel versions 5.8 and later known as “Dirty Pipe” (<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-0847">CVE-2022-0847</a>). A local attacker could exploit this vulnerability to take control of an affected system.</p> | Thursday, March 10, 2022 |
+| [Updated: Conti Ransomware](https://www.cisa.gov/uscert/ncas/current-activity/2022/03/09/updated-conti-ransomware) | <p>CISA, the Federal Bureau of Investigation (FBI), the National Security Agency (NSA), and the United States Secret Service (USSS) have re-released an advisory on <a href="https://www.cisa.gov/uscert/ncas/alerts/aa21-265a">Conti ransomware</a>. Conti cyber threat actors remain active and reported Conti ransomware attacks against U.S. and international organizations have risen to more than 1,000. </p> | Wednesday, March 9, 2022 |
+| [Adobe Releases Security Updates for Multiple Products ](https://www.cisa.gov/uscert/ncas/current-activity/2022/03/08/adobe-releases-security-updates-multiple-products) | <p>Adobe has released security updates to address vulnerabilities in multiple products. An attacker could exploit some of these vulnerabilities to take control of an affected system. </p> | Tuesday, March 8, 2022 |
+| [SAP Releases March 2022 Security Updates](https://www.cisa.gov/uscert/ncas/current-activity/2022/03/08/sap-releases-march-2022-security-updates) | <p>SAP has released security updates to address vulnerabilities affecting multiple products. An attacker could exploit some of these vulnerabilities to take control of an affected system.</p> | Tuesday, March 8, 2022 |
+| [Microsoft Releases March 2022 Security Updates](https://www.cisa.gov/uscert/ncas/current-activity/2022/03/08/microsoft-releases-march-2022-security-updates) | <p>Microsoft has released updates to address multiple vulnerabilities in Microsoft software. A remote attacker could exploit some of these vulnerabilities to take control of an affected system.</p> | Tuesday, March 8, 2022 |
+| [Mozilla Releases Security Updates](https://www.cisa.gov/uscert/ncas/current-activity/2022/03/08/mozilla-releases-security-updates) | <p>Mozilla has released security updates to address vulnerabilities in Firefox, Firefox ESR, and Thunderbird. An attacker could exploit some of these vulnerabilities to take control of an affected system. </p> | Tuesday, March 8, 2022 |
