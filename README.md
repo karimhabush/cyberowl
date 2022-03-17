@@ -1,7 +1,7 @@
 <div id="top"></div>
 
  ## CyberOwl 
- > Last Updated 17/03/2022 12:53:46 
+ > Last Updated 17/03/2022 12:54:47 
 
 A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
 
@@ -25,26 +25,6 @@ A daily updated summary of the most frequent types of security incidents current
 | [Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-243/) | De multiples vulnérabilités ont été découvertes dans les produits Apple. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données. | 15 mars 2022 |
 | [Multiples vulnérabilités dans les produits Veeam](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-242/) | De multiples vulnérabilités ont été découvertes dans les produits Veeam. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges. | 14 mars 2022 |
 | [Multiples vulnérabilités dans Apache HTTP Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-241/) | De multiples vulnérabilités ont été découvertes dans Apache HTTP Server. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et un contournement de la politique de sécurité. | 14 mars 2022 |
-## CISA [:arrow_heading_up:](#cyberowl)
-|Title|Description|Date|
-|---|---|---|
-| [Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/uscert/ncas/current-activity/2022/03/16/apple-releases-security-updates-multiple-products) | <p>Apple has released security updates to address vulnerabilities in multiple products. An attacker could exploit some of these vulnerabilities to take control of an affected system. </p> | Wednesday, March 16, 2022 |
-| [Google Releases Security Updates for Chrome](https://www.cisa.gov/uscert/ncas/current-activity/2022/03/16/google-releases-security-updates-chrome) | <p>Google has released Chrome version 99.0.4844.74 for Windows, Mac, and Linux. This version addresses vulnerabilities that an attacker could exploit to take control of an affected system.  <br> <br>CISA encourages users and administrators to review the <a href="https://chromereleases.googleblog.com/2022/03/stable-channel-update-for-desktop_15.html">Chrome Release Note</a> and apply the necessary updates.</p> | Wednesday, March 16, 2022 |
-| [CISA Adds 15 Known Exploited Vulnerability to Catalog ](https://www.cisa.gov/uscert/ncas/current-activity/2022/03/15/cisa-adds-15-known-exploited-vulnerability-catalog) | <p>CISA has added 15 new vulnerabilities to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog%20">Known Exploited Vulnerabilities Catalog</a>, based on evidence that threat actors are actively exploiting the vulnerabilities listed in the table below. These types of vulnerabilities are a frequent attack vector for malicious cyber actors of all types and pose significant risk to the federal enterprise.</p> | Tuesday, March 15, 2022 |
-| [Updated: Kubernetes Hardening Guide](https://www.cisa.gov/uscert/ncas/current-activity/2022/03/15/updated-kubernetes-hardening-guide) | <p>The National Security Agency (NSA) and CISA have updated their <a href="https://media.defense.gov/2021/Aug/03/2002820425/-1/-1/0/CTR_Kubernetes_Hardening_Guidance_1.1_20220315.PDF">joint Cybersecurity Technical Report (CTR): Kubernetes Hardening Guide</a>, originally released in August 2021, based on valuable feedback and inputs from the cybersecurity community. </p> | Tuesday, March 15, 2022 |
-| [Russian State-Sponsored Cyber Actors Access Network Misconfigured with Default MFA Protocols](https://www.cisa.gov/uscert/ncas/current-activity/2022/03/15/russian-state-sponsored-cyber-actors-access-network-misconfigured) | <p>CISA and the Federal Bureau of Investigation (FBI) have released a <a href="https://www.cisa.gov/uscert/ncas/alerts/aa22-074a">joint Cybersecurity Advisory</a> that details how Russian state-sponsored cyber actors accessed a network with misconfigured default multifactor authentication (MFA) protocols. The actors then exploited a critical Windows Print Spooler vulnerability, “PrintNightmare” (CVE-2021-34527), to run arbitrary code with system privileges.</p> | Tuesday, March 15, 2022 |
-| [Dirty Pipe Privilege Escalation Vulnerability in Linux](https://www.cisa.gov/uscert/ncas/current-activity/2022/03/10/dirty-pipe-privilege-escalation-vulnerability-linux) | <p>CISA is aware of a privilege escalation vulnerability in Linux kernel versions 5.8 and later known as “Dirty Pipe” (<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-0847">CVE-2022-0847</a>). A local attacker could exploit this vulnerability to take control of an affected system.</p> | Thursday, March 10, 2022 |
-## IBMCloud [:arrow_heading_up:](#cyberowl)
-|Title|Description|Date|
-|---|---|---|
-| [CKEditor denial of service (CVE-2022-24729)](https://exchange.xforce.ibmcloud.com/vulnerabilities/222037) | Visit link for details | Mar 16, 2022 |
-| [CKEditor cross-site scripting (CVE-2022-24728)](https://exchange.xforce.ibmcloud.com/vulnerabilities/222035) | Visit link for details | Mar 16, 2022 |
-| [ISC BIND DS lookup denial of service (CVE-2022-0667)](https://exchange.xforce.ibmcloud.com/vulnerabilities/221993) | Visit link for details | Mar 16, 2022 |
-| [ISC BIND INSIST denial of service (CVE-2022-0635)](https://exchange.xforce.ibmcloud.com/vulnerabilities/221992) | Visit link for details | Mar 16, 2022 |
-| [ISC BIND forwarders security bypass (CVE-2022-25220)](https://exchange.xforce.ibmcloud.com/vulnerabilities/221991) | Visit link for details | Mar 16, 2022 |
-| [ISC BIND TCP packets denial of service (CVE-2022-0396)](https://exchange.xforce.ibmcloud.com/vulnerabilities/221990) | Visit link for details | Mar 16, 2022 |
-| [Moodle criteria_settings.php SQL injection](https://exchange.xforce.ibmcloud.com/vulnerabilities/221979) | Visit link for details | Mar 16, 2022 |
-| [Pluck CMS file upload (CVE-2022-26965)](https://exchange.xforce.ibmcloud.com/vulnerabilities/221978) | Visit link for details | Mar 16, 2022 |
 ## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
@@ -56,6 +36,17 @@ A daily updated summary of the most frequent types of security incidents current
 | [Autodesk AutoCAD PCX File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-505/) | Visit link for details | 2022-03-11 |
 | [Autodesk AutoCAD JT File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-504/) | Visit link for details | 2022-03-11 |
 | [MyBB Admin Control Panel Code Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-503/) | Visit link for details | 2022-03-11 |
+## IBMCloud [:arrow_heading_up:](#cyberowl)
+|Title|Description|Date|
+|---|---|---|
+| [CKEditor denial of service (CVE-2022-24729)](https://exchange.xforce.ibmcloud.com/vulnerabilities/222037) | Visit link for details | Mar 16, 2022 |
+| [CKEditor cross-site scripting (CVE-2022-24728)](https://exchange.xforce.ibmcloud.com/vulnerabilities/222035) | Visit link for details | Mar 16, 2022 |
+| [ISC BIND DS lookup denial of service (CVE-2022-0667)](https://exchange.xforce.ibmcloud.com/vulnerabilities/221993) | Visit link for details | Mar 16, 2022 |
+| [ISC BIND INSIST denial of service (CVE-2022-0635)](https://exchange.xforce.ibmcloud.com/vulnerabilities/221992) | Visit link for details | Mar 16, 2022 |
+| [ISC BIND forwarders security bypass (CVE-2022-25220)](https://exchange.xforce.ibmcloud.com/vulnerabilities/221991) | Visit link for details | Mar 16, 2022 |
+| [ISC BIND TCP packets denial of service (CVE-2022-0396)](https://exchange.xforce.ibmcloud.com/vulnerabilities/221990) | Visit link for details | Mar 16, 2022 |
+| [Moodle criteria_settings.php SQL injection](https://exchange.xforce.ibmcloud.com/vulnerabilities/221979) | Visit link for details | Mar 16, 2022 |
+| [Pluck CMS file upload (CVE-2022-26965)](https://exchange.xforce.ibmcloud.com/vulnerabilities/221978) | Visit link for details | Mar 16, 2022 |
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
@@ -71,3 +62,12 @@ A daily updated summary of the most frequent types of security incidents current
 | [35301103/22 - Vulnérabilités dans les produits Palo Alto](https://www.dgssi.gov.ma/fr/content/3530110322-vulnerabilites-dans-les-produits-palo-alto.html) | Plusieurs vulnérabilités ont été corrigées dans les produits Palo Alto Networks. L'exploitation de ces failles peut permettre à un attaquant local d’avoir des privilèges « SYSTEM ou root » et de porter atteinte aux informations... | 11 mars 2022 |
 | [35271003/22 - Vulnérabilités affectant des produits d’Intel](https://www.dgssi.gov.ma/fr/content/3527100322-vulnerabilites-affectant-des-produits-d-intel.html) | Intel annonce la disponibilité de mises à jour de sécurité qui corrigent trois vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peut permettre à un attaquant l’accès à des données... | 10 mars 2022 |
 | [35291003/22 - Vulnérabilités dans les produits Siemens](https://www.dgssi.gov.ma/fr/content/3529100322-vulnerabilites-dans-les-produits-siemens.html) | Plusieurs vulnérabilités ont été corrigées dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à dis-tance, réussir une élévation de privilèges, causer un... | 10 mars 2022 |
+## CISA [:arrow_heading_up:](#cyberowl)
+|Title|Description|Date|
+|---|---|---|
+| [Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/uscert/ncas/current-activity/2022/03/16/apple-releases-security-updates-multiple-products) | <p>Apple has released security updates to address vulnerabilities in multiple products. An attacker could exploit some of these vulnerabilities to take control of an affected system. </p> | Wednesday, March 16, 2022 |
+| [Google Releases Security Updates for Chrome](https://www.cisa.gov/uscert/ncas/current-activity/2022/03/16/google-releases-security-updates-chrome) | <p>Google has released Chrome version 99.0.4844.74 for Windows, Mac, and Linux. This version addresses vulnerabilities that an attacker could exploit to take control of an affected system.  <br> <br>CISA encourages users and administrators to review the <a href="https://chromereleases.googleblog.com/2022/03/stable-channel-update-for-desktop_15.html">Chrome Release Note</a> and apply the necessary updates.</p> | Wednesday, March 16, 2022 |
+| [CISA Adds 15 Known Exploited Vulnerability to Catalog ](https://www.cisa.gov/uscert/ncas/current-activity/2022/03/15/cisa-adds-15-known-exploited-vulnerability-catalog) | <p>CISA has added 15 new vulnerabilities to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog%20">Known Exploited Vulnerabilities Catalog</a>, based on evidence that threat actors are actively exploiting the vulnerabilities listed in the table below. These types of vulnerabilities are a frequent attack vector for malicious cyber actors of all types and pose significant risk to the federal enterprise.</p> | Tuesday, March 15, 2022 |
+| [Updated: Kubernetes Hardening Guide](https://www.cisa.gov/uscert/ncas/current-activity/2022/03/15/updated-kubernetes-hardening-guide) | <p>The National Security Agency (NSA) and CISA have updated their <a href="https://media.defense.gov/2021/Aug/03/2002820425/-1/-1/0/CTR_Kubernetes_Hardening_Guidance_1.1_20220315.PDF">joint Cybersecurity Technical Report (CTR): Kubernetes Hardening Guide</a>, originally released in August 2021, based on valuable feedback and inputs from the cybersecurity community. </p> | Tuesday, March 15, 2022 |
+| [Russian State-Sponsored Cyber Actors Access Network Misconfigured with Default MFA Protocols](https://www.cisa.gov/uscert/ncas/current-activity/2022/03/15/russian-state-sponsored-cyber-actors-access-network-misconfigured) | <p>CISA and the Federal Bureau of Investigation (FBI) have released a <a href="https://www.cisa.gov/uscert/ncas/alerts/aa22-074a">joint Cybersecurity Advisory</a> that details how Russian state-sponsored cyber actors accessed a network with misconfigured default multifactor authentication (MFA) protocols. The actors then exploited a critical Windows Print Spooler vulnerability, “PrintNightmare” (CVE-2021-34527), to run arbitrary code with system privileges.</p> | Tuesday, March 15, 2022 |
+| [Dirty Pipe Privilege Escalation Vulnerability in Linux](https://www.cisa.gov/uscert/ncas/current-activity/2022/03/10/dirty-pipe-privilege-escalation-vulnerability-linux) | <p>CISA is aware of a privilege escalation vulnerability in Linux kernel versions 5.8 and later known as “Dirty Pipe” (<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-0847">CVE-2022-0847</a>). A local attacker could exploit this vulnerability to take control of an affected system.</p> | Thursday, March 10, 2022 |
