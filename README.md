@@ -1,7 +1,7 @@
 <div id="top"></div>
 
  ## CyberOwl 
- > Last Updated 17/03/2022 12:56:16 
+ > Last Updated 18/03/2022 09:16:56 
 
 A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
 
@@ -12,28 +12,28 @@ A daily updated summary of the most frequent types of security incidents current
 * [IBMCLOUD](#ibmcloud-arrow_heading_up)
 * [ZeroDayInitiative](#zerodayinitiative-arrow_heading_up)
 
+## CISA [:arrow_heading_up:](#cyberowl)
+|Title|Description|Date|
+|---|---|---|
+| [WordPress Releases Security Update](https://www.cisa.gov/uscert/ncas/current-activity/2022/03/17/wordpress-releases-security-update) | <p>WordPress versions prior to 5.9.2 are affected by multiple vulnerabilities. Exploitation of some of these vulnerabilities could allow a remote attacker to take control of an affected website.</p> | Thursday, March 17, 2022 |
+| [ISC Releases Security Advisories for BIND](https://www.cisa.gov/uscert/ncas/current-activity/2022/03/17/isc-releases-security-advisories-bind) | <p>The Internet Systems Consortium (ISC) has released security advisories that address vulnerabilities affecting multiple versions of ISC Berkeley Internet Name Domain (BIND). A remote attacker could exploit these vulnerabilities to cause a denial-of-service condition.</p> | Thursday, March 17, 2022 |
+| [Strengthening Cybersecurity of SATCOM Network Providers and Customers](https://www.cisa.gov/uscert/ncas/current-activity/2022/03/17/strengthening-cybersecurity-satcom-network-providers-and-customers) | <p>CISA and the Federal Bureau of Investigation (FBI) are aware of possible threats to U.S. and international satellite communications (SATCOM) networks. Successful intrusions into SATCOM networks could create additional risk for SATCOM network customer environments.</p> | Thursday, March 17, 2022 |
+| [OpenSSL Releases Security Updates](https://www.cisa.gov/uscert/ncas/current-activity/2022/03/17/openssl-releases-security-updates) | <p>OpenSSL has released security updates addressing a vulnerability affecting multiple versions of OpenSSL. An attacker could exploit this vulnerability to cause a denial-of-service condition.</p> | Thursday, March 17, 2022 |
+| [Drupal Releases Security Updates](https://www.cisa.gov/uscert/ncas/current-activity/2022/03/17/drupal-releases-security-updates) | <p>Drupal has released security updates to address vulnerabilities affecting Drupal 9.2 and 9.3. An attacker could exploit one of these vulnerabilities to take control of an affected system.</p> | Thursday, March 17, 2022 |
+| [Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/uscert/ncas/current-activity/2022/03/16/apple-releases-security-updates-multiple-products) | <p>Apple has released security updates to address vulnerabilities in multiple products. An attacker could exploit some of these vulnerabilities to take control of an affected system. </p> | Wednesday, March 16, 2022 |
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
+| [Multiples vulnérabilités dans ISC BIND](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-254/) | De multiples vulnérabilités ont été découvertes dans ISC BIND. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à l'intégrité des données. | 17 mars 2022 |
+| [Multiples vulnérabilités dans IBM Spectrum Protect Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-253/) | De multiples vulnérabilités ont été découvertes dans IBM Spectrum Protect Server. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. | 17 mars 2022 |
+| [Multiples vulnérabilités dans Drupal](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-252/) | De multiples vulnérabilités ont été découvertes dans Drupal. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance. | 17 mars 2022 |
+| [Multiples vulnérabilités dans WordPress](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-251/) | De multiples vulnérabilités ont été découvertes dans WordPress. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et une injection de code indirecte à distance (XSS). | 17 mars 2022 |
 | [Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-250/) | Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance. | 16 mars 2022 |
 | [Multiples vulnérabilités dans IBM WebSphere Application Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-249/) | De multiples vulnérabilités ont été découvertes dans IBM WebSphere Application Server. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance. | 16 mars 2022 |
 | [Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-248/) | De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 16 mars 2022 |
 | [Vulnérabilité dans PostgreSQL pgAdmin](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-247/) | Une vulnérabilité a été découverte dans PostgreSQL pgAdmin. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. | 16 mars 2022 |
 | [Multiples vulnérabilités dans Apple Safari](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-246/) | De multiples vulnérabilités ont été découvertes dans Apple Safari. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité. | 16 mars 2022 |
 | [[SCADA] Multiples vulnérabilités dans Belden HiLCOS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-245/) | De multiples vulnérabilités ont été découvertes dans Belden HiLCOS. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. | 16 mars 2022 |
-| [Vulnérabilité dans IBM Spectrum Protect](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-244/) | Une vulnérabilité a été découverte dans IBM Spectrum Protect. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. | 15 mars 2022 |
-| [Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-243/) | De multiples vulnérabilités ont été découvertes dans les produits Apple. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données. | 15 mars 2022 |
-| [Multiples vulnérabilités dans les produits Veeam](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-242/) | De multiples vulnérabilités ont été découvertes dans les produits Veeam. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges. | 14 mars 2022 |
-| [Multiples vulnérabilités dans Apache HTTP Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-241/) | De multiples vulnérabilités ont été découvertes dans Apache HTTP Server. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et un contournement de la politique de sécurité. | 14 mars 2022 |
-## CISA [:arrow_heading_up:](#cyberowl)
-|Title|Description|Date|
-|---|---|---|
-| [Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/uscert/ncas/current-activity/2022/03/16/apple-releases-security-updates-multiple-products) | <p>Apple has released security updates to address vulnerabilities in multiple products. An attacker could exploit some of these vulnerabilities to take control of an affected system. </p> | Wednesday, March 16, 2022 |
-| [Google Releases Security Updates for Chrome](https://www.cisa.gov/uscert/ncas/current-activity/2022/03/16/google-releases-security-updates-chrome) | <p>Google has released Chrome version 99.0.4844.74 for Windows, Mac, and Linux. This version addresses vulnerabilities that an attacker could exploit to take control of an affected system.  <br> <br>CISA encourages users and administrators to review the <a href="https://chromereleases.googleblog.com/2022/03/stable-channel-update-for-desktop_15.html">Chrome Release Note</a> and apply the necessary updates.</p> | Wednesday, March 16, 2022 |
-| [CISA Adds 15 Known Exploited Vulnerability to Catalog ](https://www.cisa.gov/uscert/ncas/current-activity/2022/03/15/cisa-adds-15-known-exploited-vulnerability-catalog) | <p>CISA has added 15 new vulnerabilities to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog%20">Known Exploited Vulnerabilities Catalog</a>, based on evidence that threat actors are actively exploiting the vulnerabilities listed in the table below. These types of vulnerabilities are a frequent attack vector for malicious cyber actors of all types and pose significant risk to the federal enterprise.</p> | Tuesday, March 15, 2022 |
-| [Updated: Kubernetes Hardening Guide](https://www.cisa.gov/uscert/ncas/current-activity/2022/03/15/updated-kubernetes-hardening-guide) | <p>The National Security Agency (NSA) and CISA have updated their <a href="https://media.defense.gov/2021/Aug/03/2002820425/-1/-1/0/CTR_Kubernetes_Hardening_Guidance_1.1_20220315.PDF">joint Cybersecurity Technical Report (CTR): Kubernetes Hardening Guide</a>, originally released in August 2021, based on valuable feedback and inputs from the cybersecurity community. </p> | Tuesday, March 15, 2022 |
-| [Russian State-Sponsored Cyber Actors Access Network Misconfigured with Default MFA Protocols](https://www.cisa.gov/uscert/ncas/current-activity/2022/03/15/russian-state-sponsored-cyber-actors-access-network-misconfigured) | <p>CISA and the Federal Bureau of Investigation (FBI) have released a <a href="https://www.cisa.gov/uscert/ncas/alerts/aa22-074a">joint Cybersecurity Advisory</a> that details how Russian state-sponsored cyber actors accessed a network with misconfigured default multifactor authentication (MFA) protocols. The actors then exploited a critical Windows Print Spooler vulnerability, “PrintNightmare” (CVE-2021-34527), to run arbitrary code with system privileges.</p> | Tuesday, March 15, 2022 |
-| [Dirty Pipe Privilege Escalation Vulnerability in Linux](https://www.cisa.gov/uscert/ncas/current-activity/2022/03/10/dirty-pipe-privilege-escalation-vulnerability-linux) | <p>CISA is aware of a privilege escalation vulnerability in Linux kernel versions 5.8 and later known as “Dirty Pipe” (<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-0847">CVE-2022-0847</a>). A local attacker could exploit this vulnerability to take control of an affected system.</p> | Thursday, March 10, 2022 |
 ## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
@@ -48,14 +48,14 @@ A daily updated summary of the most frequent types of security incidents current
 ## IBMCloud [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
-| [CKEditor denial of service (CVE-2022-24729)](https://exchange.xforce.ibmcloud.com/vulnerabilities/222037) | Visit link for details | Mar 16, 2022 |
-| [CKEditor cross-site scripting (CVE-2022-24728)](https://exchange.xforce.ibmcloud.com/vulnerabilities/222035) | Visit link for details | Mar 16, 2022 |
-| [ISC BIND DS lookup denial of service (CVE-2022-0667)](https://exchange.xforce.ibmcloud.com/vulnerabilities/221993) | Visit link for details | Mar 16, 2022 |
-| [ISC BIND INSIST denial of service (CVE-2022-0635)](https://exchange.xforce.ibmcloud.com/vulnerabilities/221992) | Visit link for details | Mar 16, 2022 |
-| [ISC BIND forwarders security bypass (CVE-2022-25220)](https://exchange.xforce.ibmcloud.com/vulnerabilities/221991) | Visit link for details | Mar 16, 2022 |
-| [ISC BIND TCP packets denial of service (CVE-2022-0396)](https://exchange.xforce.ibmcloud.com/vulnerabilities/221990) | Visit link for details | Mar 16, 2022 |
-| [Moodle criteria_settings.php SQL injection](https://exchange.xforce.ibmcloud.com/vulnerabilities/221979) | Visit link for details | Mar 16, 2022 |
-| [Pluck CMS file upload (CVE-2022-26965)](https://exchange.xforce.ibmcloud.com/vulnerabilities/221978) | Visit link for details | Mar 16, 2022 |
+| [Microsoft Edge (Chromium-based) privilege escalation (CVE-2022-26899)](https://exchange.xforce.ibmcloud.com/vulnerabilities/222122) | Visit link for details | Mar 17, 2022 |
+| [Anaconda Anaconda3 and Miniconda3 privilege escalation (CVE-2022-26526)](https://exchange.xforce.ibmcloud.com/vulnerabilities/222118) | Visit link for details | Mar 17, 2022 |
+| [Gradio command execution (CVE-2022-24770)](https://exchange.xforce.ibmcloud.com/vulnerabilities/222116) | Visit link for details | Mar 17, 2022 |
+| [Pylons Project Waitress HTTP request smuggling (CVE-2022-24761)](https://exchange.xforce.ibmcloud.com/vulnerabilities/222113) | Visit link for details | Mar 17, 2022 |
+| [Node.js @chainsafe/libp2p-noise module man-in-the-middle (CVE-2022-24759)](https://exchange.xforce.ibmcloud.com/vulnerabilities/222112) | Visit link for details | Mar 17, 2022 |
+| [Johnson Controls Metasys ADS/ADX/OAS Servers code execution (CVE-2021-36202)](https://exchange.xforce.ibmcloud.com/vulnerabilities/222091) | Visit link for details | Mar 17, 2022 |
+| [Zulip Server security bypass (CVE-2022-24751)](https://exchange.xforce.ibmcloud.com/vulnerabilities/222111) | Visit link for details | Mar 16, 2022 |
+| [Node.js node-ipc module code execution (CVE-2022-23812)](https://exchange.xforce.ibmcloud.com/vulnerabilities/222100) | Visit link for details | Mar 16, 2022 |
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
