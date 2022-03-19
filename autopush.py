@@ -7,7 +7,7 @@ GITHUB_ACCESS_TOKEN = os.environ.get("GITHUB_ACCESS_TOKEN")
 GITHUB_USERNAME = os.environ.get("GITHUB_USERNAME")
 
 try:
-    git.Git("./").clone(os.environ.get("GITHUB_REPO"))
+    git.Git(os.getcwd()).clone(os.environ.get("GITHUB_REPO"))
 except Exception:
     print("[INFO]: Already cloned")
 
