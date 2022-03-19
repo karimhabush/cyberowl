@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 ## CyberOwl 
-> Last Updated 19/03/2022 12:51:54 
+> Last Updated 19/03/2022 13:47:38 
 
 
 A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
@@ -15,6 +15,15 @@ A daily updated summary of the most frequent types of security incidents current
 * [IBMCLOUD](#ibmcloud-arrow_heading_up)
 * [ZeroDayInitiative](#zerodayinitiative-arrow_heading_up)
 
+## CISA [:arrow_heading_up:](#cyberowl)
+|Title|Description|Date|
+|---|---|---|
+| [CRI-O Security Update for Kubernetes](https://www.cisa.gov/uscert/ncas/current-activity/2022/03/18/cri-o-security-update-kubernetes) | <p>CRI-O has released a security update addressing a critical vulnerability—<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-0811">CVE-2022-0811</a>—in CRI-O 1.19. A local attacker could exploit this vulnerability to take control of an affected Kubernetes environment as well as other software or platforms that use CRI-O runtime containers.</p> | Friday, March 18, 2022 |
+| [WordPress Releases Security Update](https://www.cisa.gov/uscert/ncas/current-activity/2022/03/17/wordpress-releases-security-update) | <p>WordPress versions prior to 5.9.2 are affected by multiple vulnerabilities. Exploitation of some of these vulnerabilities could allow a remote attacker to take control of an affected website.</p> | Thursday, March 17, 2022 |
+| [ISC Releases Security Advisories for BIND](https://www.cisa.gov/uscert/ncas/current-activity/2022/03/17/isc-releases-security-advisories-bind) | <p>The Internet Systems Consortium (ISC) has released security advisories that address vulnerabilities affecting multiple versions of ISC Berkeley Internet Name Domain (BIND). A remote attacker could exploit these vulnerabilities to cause a denial-of-service condition.</p> | Thursday, March 17, 2022 |
+| [Strengthening Cybersecurity of SATCOM Network Providers and Customers](https://www.cisa.gov/uscert/ncas/current-activity/2022/03/17/strengthening-cybersecurity-satcom-network-providers-and-customers) | <p>CISA and the Federal Bureau of Investigation (FBI) are aware of possible threats to U.S. and international satellite communications (SATCOM) networks. Successful intrusions into SATCOM networks could create additional risk for SATCOM network customer environments.</p> | Thursday, March 17, 2022 |
+| [OpenSSL Releases Security Updates](https://www.cisa.gov/uscert/ncas/current-activity/2022/03/17/openssl-releases-security-updates) | <p>OpenSSL has released security updates addressing a vulnerability affecting multiple versions of OpenSSL. An attacker could exploit this vulnerability to cause a denial-of-service condition.</p> | Thursday, March 17, 2022 |
+| [Drupal Releases Security Updates](https://www.cisa.gov/uscert/ncas/current-activity/2022/03/17/drupal-releases-security-updates) | <p>Drupal has released security updates to address vulnerabilities affecting Drupal 9.2 and 9.3. An attacker could exploit one of these vulnerabilities to take control of an affected system.</p> | Thursday, March 17, 2022 |
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
@@ -28,37 +37,6 @@ A daily updated summary of the most frequent types of security incidents current
 | [Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-250/) | Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance. | 16 mars 2022 |
 | [Multiples vulnérabilités dans IBM WebSphere Application Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-249/) | De multiples vulnérabilités ont été découvertes dans IBM WebSphere Application Server. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance. | 16 mars 2022 |
 | [Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-248/) | De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 16 mars 2022 |
-## CISA [:arrow_heading_up:](#cyberowl)
-|Title|Description|Date|
-|---|---|---|
-| [CRI-O Security Update for Kubernetes](https://www.cisa.gov/uscert/ncas/current-activity/2022/03/18/cri-o-security-update-kubernetes) | <p>CRI-O has released a security update addressing a critical vulnerability—<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-0811">CVE-2022-0811</a>—in CRI-O 1.19. A local attacker could exploit this vulnerability to take control of an affected Kubernetes environment as well as other software or platforms that use CRI-O runtime containers.</p> | Friday, March 18, 2022 |
-| [WordPress Releases Security Update](https://www.cisa.gov/uscert/ncas/current-activity/2022/03/17/wordpress-releases-security-update) | <p>WordPress versions prior to 5.9.2 are affected by multiple vulnerabilities. Exploitation of some of these vulnerabilities could allow a remote attacker to take control of an affected website.</p> | Thursday, March 17, 2022 |
-| [ISC Releases Security Advisories for BIND](https://www.cisa.gov/uscert/ncas/current-activity/2022/03/17/isc-releases-security-advisories-bind) | <p>The Internet Systems Consortium (ISC) has released security advisories that address vulnerabilities affecting multiple versions of ISC Berkeley Internet Name Domain (BIND). A remote attacker could exploit these vulnerabilities to cause a denial-of-service condition.</p> | Thursday, March 17, 2022 |
-| [Strengthening Cybersecurity of SATCOM Network Providers and Customers](https://www.cisa.gov/uscert/ncas/current-activity/2022/03/17/strengthening-cybersecurity-satcom-network-providers-and-customers) | <p>CISA and the Federal Bureau of Investigation (FBI) are aware of possible threats to U.S. and international satellite communications (SATCOM) networks. Successful intrusions into SATCOM networks could create additional risk for SATCOM network customer environments.</p> | Thursday, March 17, 2022 |
-| [OpenSSL Releases Security Updates](https://www.cisa.gov/uscert/ncas/current-activity/2022/03/17/openssl-releases-security-updates) | <p>OpenSSL has released security updates addressing a vulnerability affecting multiple versions of OpenSSL. An attacker could exploit this vulnerability to cause a denial-of-service condition.</p> | Thursday, March 17, 2022 |
-| [Drupal Releases Security Updates](https://www.cisa.gov/uscert/ncas/current-activity/2022/03/17/drupal-releases-security-updates) | <p>Drupal has released security updates to address vulnerabilities affecting Drupal 9.2 and 9.3. An attacker could exploit one of these vulnerabilities to take control of an affected system.</p> | Thursday, March 17, 2022 |
-## IBMCloud [:arrow_heading_up:](#cyberowl)
-|Title|Description|Date|
-|---|---|---|
-| [Adobe Acrobat Reader DC code execution (CVE-2022-24092)](https://exchange.xforce.ibmcloud.com/vulnerabilities/222169) | Visit link for details | Mar 18, 2022 |
-| [Adobe Acrobat Reader DC code execution (CVE-2022-24091)](https://exchange.xforce.ibmcloud.com/vulnerabilities/222168) | Visit link for details | Mar 18, 2022 |
-| [Simple Mobile Comparison Website cross-site scripting](https://exchange.xforce.ibmcloud.com/vulnerabilities/222160) | Visit link for details | Mar 18, 2022 |
-| [Node.js node-forge module security bypass (CVE-2022-24773)](https://exchange.xforce.ibmcloud.com/vulnerabilities/222174) | Visit link for details | Mar 17, 2022 |
-| [Node.js node-forge module security bypass (CVE-2022-24772)](https://exchange.xforce.ibmcloud.com/vulnerabilities/222173) | Visit link for details | Mar 17, 2022 |
-| [Node.js node-forge module security bypass (CVE-2022-24771)](https://exchange.xforce.ibmcloud.com/vulnerabilities/222172) | Visit link for details | Mar 17, 2022 |
-| [NETGEAR routers buffer overflow](https://exchange.xforce.ibmcloud.com/vulnerabilities/222137) | Visit link for details | Mar 17, 2022 |
-| [NETGEAR multiple products security bypass](https://exchange.xforce.ibmcloud.com/vulnerabilities/222134) | Visit link for details | Mar 17, 2022 |
-## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
-|Title|Description|Date|
-|---|---|---|
-| [(Pwn2Own) Canon imageCLASS MF644Cdw privet Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-516/) | Visit link for details | 2022-03-18 |
-| [(Pwn2Own) Canon imageCLASS MF644Cdw SLP Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-515/) | Visit link for details | 2022-03-18 |
-| [(Pwn2Own) Canon imageCLASS MF644Cdw CADM Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-514/) | Visit link for details | 2022-03-18 |
-| [Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-513/) | Visit link for details | 2022-03-18 |
-| [Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-512/) | Visit link for details | 2022-03-18 |
-| [Siemens Simcenter Femap NEU File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-511/) | Visit link for details | 2022-03-18 |
-| [Apple macOS ColorSync ICC File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-510/) | Visit link for details | 2022-03-16 |
-| [Siemens Simcenter Femap BDF File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-509/) | Visit link for details | 2022-03-16 |
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
