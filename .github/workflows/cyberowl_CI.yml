@@ -25,10 +25,9 @@ jobs:
     - name: Lint with flake8 
       run: |
         flake8 
-    - name: Coverage report 
+    - name: Unittest testing 
       run: |
-        coverage run manage.py test 
-        coverage report 
-    - name: Django Testing 
+        python3 -m coverage run -m unittest discocer 
+    - name: Coverage Report 
       run: | 
-        python3 manage.py test
+        python3 -m coverage report
