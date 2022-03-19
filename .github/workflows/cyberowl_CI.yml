@@ -33,6 +33,7 @@ jobs:
         python3 -m coverage report
   
   deploy:
+    needs: build
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
