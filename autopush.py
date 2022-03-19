@@ -7,7 +7,7 @@ GITHUB_ACCESS_TOKEN = os.environ.get("GITHUB_ACCESS_TOKEN")
 GITHUB_USERNAME = os.environ.get("GITHUB_USERNAME")
 
 # make sure .git folder is properly configured
-PATH_OF_GIT_REPO = os.getcwd() + f"\.git"
+PATH_OF_GIT_REPO = os.getcwd() + r"\.git"
 print(PATH_OF_GIT_REPO)
 COMMIT_MESSAGE = 'This is a test commit'
 FILE_TO_ADD = "README.md"
