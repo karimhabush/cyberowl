@@ -14,7 +14,7 @@ class CisaSpider(scrapy.Spider):
 
         _data = []
         for bulletin in response.css("div.views-row"):
-            LINK = "https://www.cisa.gov/uscert"+bulletin.xpath("descendant-or-self::h3/span/a/@href").get()
+            LINK = "https://www.cisa.gov/uscert" + bulletin.xpath("descendant-or-self::h3/span/a/@href").get()
             DATE = bulletin.xpath("descendant-or-self::div[contains(@class,'entry-date')]/span[2]/text()").get().replace(
                 "\n", "").replace("\t", "").replace("\r", "").replace("  ", "")
             TITLE = bulletin.xpath("descendant-or-self::h3/span/a/text()").get().replace("\n",
