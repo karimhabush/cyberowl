@@ -5,6 +5,7 @@ class CertFrSpider(scrapy.Spider):
     start_urls = [
         'https://www.cert.ssi.gouv.fr/avis/'
     ]
+    
     def parse(self, response): 
         if('cached' in response.flags):
             return 

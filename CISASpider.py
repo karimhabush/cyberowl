@@ -1,5 +1,6 @@
-from mdtemplate import Template
 import scrapy
+from mdtemplate import Template
+
 
 class CisaSpider(scrapy.Spider):
     name = 'cisa'
