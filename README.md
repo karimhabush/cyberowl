@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 ## CyberOwl 
-> Last Updated 19/03/2022 12:50:36 
+> Last Updated 19/03/2022 12:51:54 
 
 
 A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
@@ -37,17 +37,6 @@ A daily updated summary of the most frequent types of security incidents current
 | [Strengthening Cybersecurity of SATCOM Network Providers and Customers](https://www.cisa.gov/uscert/ncas/current-activity/2022/03/17/strengthening-cybersecurity-satcom-network-providers-and-customers) | <p>CISA and the Federal Bureau of Investigation (FBI) are aware of possible threats to U.S. and international satellite communications (SATCOM) networks. Successful intrusions into SATCOM networks could create additional risk for SATCOM network customer environments.</p> | Thursday, March 17, 2022 |
 | [OpenSSL Releases Security Updates](https://www.cisa.gov/uscert/ncas/current-activity/2022/03/17/openssl-releases-security-updates) | <p>OpenSSL has released security updates addressing a vulnerability affecting multiple versions of OpenSSL. An attacker could exploit this vulnerability to cause a denial-of-service condition.</p> | Thursday, March 17, 2022 |
 | [Drupal Releases Security Updates](https://www.cisa.gov/uscert/ncas/current-activity/2022/03/17/drupal-releases-security-updates) | <p>Drupal has released security updates to address vulnerabilities affecting Drupal 9.2 and 9.3. An attacker could exploit one of these vulnerabilities to take control of an affected system.</p> | Thursday, March 17, 2022 |
-## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
-|Title|Description|Date|
-|---|---|---|
-| [(Pwn2Own) Canon imageCLASS MF644Cdw privet Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-516/) | Visit link for details | 2022-03-18 |
-| [(Pwn2Own) Canon imageCLASS MF644Cdw SLP Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-515/) | Visit link for details | 2022-03-18 |
-| [(Pwn2Own) Canon imageCLASS MF644Cdw CADM Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-514/) | Visit link for details | 2022-03-18 |
-| [Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-513/) | Visit link for details | 2022-03-18 |
-| [Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-512/) | Visit link for details | 2022-03-18 |
-| [Siemens Simcenter Femap NEU File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-511/) | Visit link for details | 2022-03-18 |
-| [Apple macOS ColorSync ICC File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-510/) | Visit link for details | 2022-03-16 |
-| [Siemens Simcenter Femap BDF File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-509/) | Visit link for details | 2022-03-16 |
 ## IBMCloud [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
@@ -59,6 +48,17 @@ A daily updated summary of the most frequent types of security incidents current
 | [Node.js node-forge module security bypass (CVE-2022-24771)](https://exchange.xforce.ibmcloud.com/vulnerabilities/222172) | Visit link for details | Mar 17, 2022 |
 | [NETGEAR routers buffer overflow](https://exchange.xforce.ibmcloud.com/vulnerabilities/222137) | Visit link for details | Mar 17, 2022 |
 | [NETGEAR multiple products security bypass](https://exchange.xforce.ibmcloud.com/vulnerabilities/222134) | Visit link for details | Mar 17, 2022 |
+## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
+|Title|Description|Date|
+|---|---|---|
+| [(Pwn2Own) Canon imageCLASS MF644Cdw privet Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-516/) | Visit link for details | 2022-03-18 |
+| [(Pwn2Own) Canon imageCLASS MF644Cdw SLP Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-515/) | Visit link for details | 2022-03-18 |
+| [(Pwn2Own) Canon imageCLASS MF644Cdw CADM Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-514/) | Visit link for details | 2022-03-18 |
+| [Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-513/) | Visit link for details | 2022-03-18 |
+| [Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-512/) | Visit link for details | 2022-03-18 |
+| [Siemens Simcenter Femap NEU File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-511/) | Visit link for details | 2022-03-18 |
+| [Apple macOS ColorSync ICC File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-510/) | Visit link for details | 2022-03-16 |
+| [Siemens Simcenter Femap BDF File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-509/) | Visit link for details | 2022-03-16 |
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
