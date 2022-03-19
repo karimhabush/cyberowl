@@ -1,14 +1,16 @@
 from git import Repo
-import os 
+import os
 from dotenv import load_dotenv
 load_dotenv()
 
 GITHUB_ACCESS_TOKEN = os.environ.get("GITHUB_ACCESS_TOKEN")
 GITHUB_USERNAME = os.environ.get("GITHUB_USERNAME")
 
-PATH_OF_GIT_REPO = os.getcwd()+"\.git"  # make sure .git folder is properly configured
+# make sure .git folder is properly configured
+PATH_OF_GIT_REPO = os.getcwd()+"\.git"
 COMMIT_MESSAGE = 'This is a test commit'
-FILE_TO_ADD="README.md"
+FILE_TO_ADD = "README.md"
+
 
 def git_push():
     try:
@@ -18,4 +20,4 @@ def git_push():
         origin = repo.remote(name='origin')
         origin.push()
     except:
-        print('Some error occured while pushing the code')    
+        print('Some error occured while pushing the code')

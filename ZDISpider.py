@@ -5,7 +5,8 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from msedge.selenium_tools import EdgeOptions
 from msedge.selenium_tools import Edge
-from mdtemplate import Template 
+from mdtemplate import Template
+
 
 class ZDISpider(scrapy.Spider):
     name = "countries_spider"
@@ -22,7 +23,7 @@ class ZDISpider(scrapy.Spider):
         options.add_argument("headless")
         options.use_chromium = True
         options.add_argument("disable-gpu")
-        driver = Edge(executable_path="./msedgedriver.exe",options=options)
+        driver = Edge(executable_path="./msedgedriver.exe", options=options)
         # Getting list of Countries
         driver.get("https://www.zerodayinitiative.com/advisories/published/")
 
@@ -31,34 +32,36 @@ class ZDISpider(scrapy.Spider):
 
         # Explicit wait
         wait = WebDriverWait(driver, 5)
-        wait.until(EC.presence_of_element_located((By.XPATH, "descendant-or-self::table[contains(@class,'table')]/tbody/tr")))
+        wait.until(EC.presence_of_element_located(
+            (By.XPATH, "descendant-or-self::table[contains(@class,'table')]/tbody/tr")))
 
         # Extracting bulletins
-        countries = driver.find_elements_by_xpath("descendant-or-self::table[contains(@class,'table')]/tbody/tr")
+        countries = driver.find_elements_by_xpath(
+            "descendant-or-self::table[contains(@class,'table')]/tbody/tr")
         num_bulletins = 0
         # Using Scrapy's yield to store output instead of explicitly writing to a JSON file
-        _data =[]
+        _data = []
         for country in countries:
             LINK = country.find_element_by_xpath(".//a").get_attribute("href")
             DATE = country.find_element_by_xpath(".//td[5]").text
             TITLE = country.find_element_by_xpath(".//a").text
-            
-            ITEM={
-                "_title":TITLE,
-                "_link":LINK,
-                "_date":DATE,
-                "_desc":"Visit link for details"
+
+            ITEM = {
+                "_title": TITLE,
+                "_link": LINK,
+                "_date": DATE,
+                "_desc": "Visit link for details"
             }
 
             _data.append(ITEM)
-            num_bulletins+=1
+            num_bulletins += 1
             if num_bulletins >= 8:
                 break
-        
-        _to_write = Template("ZeroDayInitiative",_data)
-        
-        with open("README.md","a") as f:
-                f.write(_to_write._fill_table())
-                f.close()
+
+        _to_write = Template("ZeroDayInitiative", _data)
+
+        with open("README.md", "a") as f:
+            f.write(_to_write._fill_table())
+            f.close()
 
         driver.quit()
