@@ -1,0 +1,34 @@
+name: cyberowl CI 
+
+on:
+  push:
+    branches:
+      - main
+  
+  pull_request:
+    branches:
+      - main
+
+jobs: 
+  build:
+    runs-on: windows-latest
+    steps:
+    - uses: actions/checkout@v2 
+    - name: Set up Python 
+      uses: actions/setup-python@v2 
+      with:
+        python-version: 3.8
+    - name: Install dependencies
+      run: 
+        python3 -m pip install --upgrade pip 
+        pip install -r requirements.txt 
+    - name: Lint with flake8 
+      run: |
+        flake8 
+    - name: Coverage report 
+      run: |
+        coverage run manage.py test 
+        coverage report 
+    - name: Django Testing 
+      run: | 
+        python3 manage.py test
