@@ -8,7 +8,7 @@ GITHUB_USERNAME = os.environ.get("GITHUB_USERNAME")
 
 try:
     git.Git("./").clone(os.environ.get("GITHUB_REPO"))
-except:
+except Exception:
     print("[INFO]: Already cloned")
 
 # make sure .git folder is properly configured
