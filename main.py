@@ -25,8 +25,8 @@ A daily updated summary of the most frequent types of security incidents current
         process.crawl(CisaSpider)
         process.crawl(DgssiSpider)
         process.crawl(CertFrSpider)
-        process.crawl(IBMCloudSpider)
-        process.crawl(ZDISpider)
+        # process.crawl(IBMCloudSpider)
+        # process.crawl(ZDISpider)
         process.start()
 
     except Exception:

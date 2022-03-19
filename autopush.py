@@ -7,17 +7,18 @@ GITHUB_ACCESS_TOKEN = os.environ.get("GITHUB_ACCESS_TOKEN")
 GITHUB_USERNAME = os.environ.get("GITHUB_USERNAME")
 
 # make sure .git folder is properly configured
-PATH_OF_GIT_REPO = os.getcwd() + r"\.git"
+PATH_OF_GIT_REPO = os.getcwd() + f"\.git"
+print(PATH_OF_GIT_REPO)
 COMMIT_MESSAGE = 'This is a test commit'
 FILE_TO_ADD = "README.md"
+BRANCH = "dev"
 
 
 def git_push():
-    try:
-        repo = Repo(PATH_OF_GIT_REPO)
-        repo.git.add(FILE_TO_ADD)
-        repo.index.commit(COMMIT_MESSAGE)
-        origin = repo.remote(name='origin')
-        origin.push()
-    except Exception:
-        print('Some error occured while pushing the code')
+
+    repo = Repo(PATH_OF_GIT_REPO)
+    repo.git.checkout(BRANCH)
+    repo.git.add(FILE_TO_ADD)
+    repo.index.commit(COMMIT_MESSAGE)
+    origin = repo.remote(name='origin')
+    origin.push(refspec="dev:dev")
