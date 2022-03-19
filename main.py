@@ -35,7 +35,7 @@ A daily updated summary of the most frequent types of security incidents current
     try:
         git_push()
     except Exception:
-        raise ValueError("to print the errors about gitpuhs!")
+        raise ValueError("Errors at git_push")
 
 
 if __name__ == "__main__":

@@ -1,4 +1,4 @@
-from git import Repo
+import git
 import os
 from dotenv import load_dotenv
 load_dotenv()
@@ -6,17 +6,21 @@ load_dotenv()
 GITHUB_ACCESS_TOKEN = os.environ.get("GITHUB_ACCESS_TOKEN")
 GITHUB_USERNAME = os.environ.get("GITHUB_USERNAME")
 
+try:
+    git.Git("./").clone(os.environ.get("GITHUB_REPO"))
+except:
+    print("[INFO]: Already cloned")
+
 # make sure .git folder is properly configured
-PATH_OF_GIT_REPO = os.getcwd() + r"/.git"
+PATH_OF_GIT_REPO = os.getcwd() + r"/cyberowl/.git"
 print(PATH_OF_GIT_REPO)
-COMMIT_MESSAGE = 'This is a test commit from heroku'
+COMMIT_MESSAGE = 'This is a commit from heroku! time to merge hh !'
 FILE_TO_ADD = "README.md"
 BRANCH = "dev"
 
 
 def git_push():
-
-    repo = Repo(PATH_OF_GIT_REPO)
+    repo = git.Repo(PATH_OF_GIT_REPO)
     repo.git.checkout(BRANCH)
     repo.git.add(FILE_TO_ADD)
     repo.index.commit(COMMIT_MESSAGE)
