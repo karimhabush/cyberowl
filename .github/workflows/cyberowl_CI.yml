@@ -42,5 +42,3 @@ jobs:
           heroku_api_key: ${{secrets.HEROKU_DEV_TOKEN}}
           heroku_app_name: "infinite-bastion-32176" #Must be unique in Heroku
           heroku_email: "karim.habush@gmail.com"
-          usedocker: true
-
