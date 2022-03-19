@@ -27,7 +27,7 @@ jobs:
         flake8 
     - name: Unittest testing 
       run: |
-        python3 -m coverage run -m unittest discocer 
+        python3 -m coverage run -m unittest discover 
     - name: Coverage Report 
       run: | 
         python3 -m coverage report
