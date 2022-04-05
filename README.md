@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 ## CyberOwl 
-> Last Updated 05/04/2022 09:39:47 
+> Last Updated 05/04/2022 10:37:46 
 
 
 A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
@@ -37,6 +37,28 @@ A daily updated summary of the most frequent types of security incidents current
 | [CISA Releases Security Advisories for Rockwell Automation Products ](https://www.cisa.gov/uscert/ncas/current-activity/2022/03/31/cisa-releases-security-advisories-rockwell-automation-products) | <p>CISA has released two Industrial Controls Systems Advisories (ICSAs) detailing vulnerabilities in Rockwell Automation products. An attacker could exploit these vulnerabilities to inject code on affected system. <br> </p> | Thursday, March 31, 2022 |
 | [FBI Releases PIN on Ransomware Straining Local Governments and Public Services](https://www.cisa.gov/uscert/ncas/current-activity/2022/03/31/fbi-releases-pin-ransomware-straining-local-governments-and-public) | <p>The Federal Bureau of Investigation (FBI) has released a Private Industry Notification (PIN) to inform U.S. Government Facilities Sector partners of cyber actors conducting ransomware attacks on local government agencies that have resulted in disrupted operational services, risks to public safety, and financial losses.</p> | Thursday, March 31, 2022 |
 | [CISA Adds Seven Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2022/03/31/cisa-adds-seven-known-exploited-vulnerabilities-catalog) | <p>CISA has added seven new vulnerabilities to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: to view the newly added vulnerabilities in the catalog, click on the arrow on the of the "Date Added to Catalog" column, which will sort by descending dates.</p> | Thursday, March 31, 2022 |
+## IBMCloud [:arrow_heading_up:](#cyberowl)
+|Title|Description|Date|
+|---|---|---|
+| [Google Chrome Extensions code execution (CVE-2022-1232)](https://exchange.xforce.ibmcloud.com/vulnerabilities/223333) | Visit link for details | Apr 4, 2022 |
+| [Payroll Management System username SQL injection](https://exchange.xforce.ibmcloud.com/vulnerabilities/223315) | Visit link for details | Apr 4, 2022 |
+| [Sherpa Connector Service privilege escalation (CVE-2022-23909)](https://exchange.xforce.ibmcloud.com/vulnerabilities/223313) | Visit link for details | Apr 4, 2022 |
+| [ALLMediaServer buffer overflow (CVE-2022-28381)](https://exchange.xforce.ibmcloud.com/vulnerabilities/223284) | Visit link for details | Apr 3, 2022 |
+| [BusyBox code execution (CVE-2022-28391)](https://exchange.xforce.ibmcloud.com/vulnerabilities/223283) | Visit link for details | Apr 3, 2022 |
+| [Barco Control Room Management Suite directory traversal (CVE-2022-26233)](https://exchange.xforce.ibmcloud.com/vulnerabilities/223305) | Visit link for details | Apr 1, 2022 |
+| [Microsoft Edge privilege escalation (CVE-2022-26912)](https://exchange.xforce.ibmcloud.com/vulnerabilities/223300) | Visit link for details | Apr 1, 2022 |
+| [ULeak Security Dashboard plugin for WordPress tools.php cross-site scripting](https://exchange.xforce.ibmcloud.com/vulnerabilities/223248) | Visit link for details | Apr 1, 2022 |
+## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
+|Title|Description|Date|
+|---|---|---|
+| [Trend Micro Antivirus for Mac Link Following Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-546/) | Visit link for details | 2022-04-01 |
+| [(0Day) Siemens Simcenter Femap NEU File Parsing Out-Of-Bounds Write Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-545/) | Visit link for details | 2022-03-29 |
+| [(Pwn2Own) Netgear R6700v3 NetUSB Integer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-544/) | Visit link for details | 2022-03-29 |
+| [KOYO Screen Creator SCA2 File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-543/) | Visit link for details | 2022-03-29 |
+| [(0Day) Siemens Simcenter Femap NEU File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-542/) | Visit link for details | 2022-03-28 |
+| [(0Day) Array Networks MotionPro Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-541/) | Visit link for details | 2022-04-04 |
+| [Adobe Acrobat Reader DC JP2 File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-540/) | Visit link for details | 2022-03-25 |
+| [Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-539/) | Visit link for details | 2022-03-25 |
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
