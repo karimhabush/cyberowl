@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 ## CyberOwl 
-> Last Updated 05/04/2022 10:37:46 
+> Last Updated 06/04/2022 09:37:54 
 
 
 A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
@@ -18,6 +18,9 @@ A daily updated summary of the most frequent types of security incidents current
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
+| [Vulnérabilité dans le client ownCloud pour Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-310/) | Une vulnérabilité a été découverte dans le client ownCloud pour Android . Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données. | 5 avril 2022 |
+| [Vulnérabilité dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-309/) | Une vulnérabilité a été découverte dans Google Chrome. Elle permet à un attaquant de provoquer une exécution de code arbitraire. | 5 avril 2022 |
+| [Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-308/) | De multiples vulnérabilités ont été découvertes dans Google Android. Elles permettent à un attaquant de provoquer un déni de service, une atteinte à la confidentialité des données et une élévation de privilèges. | 5 avril 2022 |
 | [Vulnérabilité dans VMware Tanzu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-307/) | Une vulnérabilité a été découverte dans VMware Tanzu. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. | 4 avril 2022 |
 | [Multiples vulnérabilités dans Google Chrome OS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-306/) | De multiples vulnérabilités ont été découvertes dans Google Chrome OS. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 4 avril 2022 |
 | [Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-305/) | De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et une élévation de privilèges. | 4 avril 2022 |
@@ -25,9 +28,6 @@ A daily updated summary of the most frequent types of security incidents current
 | [Vulnérabilité dans Tenable Nessus Agent](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-303/) | Une vulnérabilité a été découverte dans Tenable Nessus Agent. Elle permet à un attaquant de provoquer un déni de service à distance. | 1 avril 2022 |
 | [Vulnérabilité dans IBM QRadar Network Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-302/) | Une vulnérabilité a été découverte dans IBM QRadar Network Security. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données. | 1 avril 2022 |
 | [Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-301/) | De multiples vulnérabilités ont été découvertes dans les produits Apple. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et une atteinte à la confidentialité des données. | 1 avril 2022 |
-| [Vulnérabilité dans les produits Pulse Secure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-300/) | Une vulnérabilité a été découverte dans les produits Pulse Secure. Elle permet à un attaquant de provoquer un déni de service à distance. | 1 avril 2022 |
-| [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-299/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une atteinte à l'intégrité des données. | 1 avril 2022 |
-| [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-298/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Elles permettent à un attaquant de provoquer un déni de service, une atteinte à la confidentialité des données et une élévation de privilèges. | 1 avril 2022 |
 ## CISA [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
@@ -40,28 +40,30 @@ A daily updated summary of the most frequent types of security incidents current
 ## IBMCloud [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
-| [Google Chrome Extensions code execution (CVE-2022-1232)](https://exchange.xforce.ibmcloud.com/vulnerabilities/223333) | Visit link for details | Apr 4, 2022 |
-| [Payroll Management System username SQL injection](https://exchange.xforce.ibmcloud.com/vulnerabilities/223315) | Visit link for details | Apr 4, 2022 |
-| [Sherpa Connector Service privilege escalation (CVE-2022-23909)](https://exchange.xforce.ibmcloud.com/vulnerabilities/223313) | Visit link for details | Apr 4, 2022 |
-| [ALLMediaServer buffer overflow (CVE-2022-28381)](https://exchange.xforce.ibmcloud.com/vulnerabilities/223284) | Visit link for details | Apr 3, 2022 |
-| [BusyBox code execution (CVE-2022-28391)](https://exchange.xforce.ibmcloud.com/vulnerabilities/223283) | Visit link for details | Apr 3, 2022 |
-| [Barco Control Room Management Suite directory traversal (CVE-2022-26233)](https://exchange.xforce.ibmcloud.com/vulnerabilities/223305) | Visit link for details | Apr 1, 2022 |
-| [Microsoft Edge privilege escalation (CVE-2022-26912)](https://exchange.xforce.ibmcloud.com/vulnerabilities/223300) | Visit link for details | Apr 1, 2022 |
-| [ULeak Security Dashboard plugin for WordPress tools.php cross-site scripting](https://exchange.xforce.ibmcloud.com/vulnerabilities/223248) | Visit link for details | Apr 1, 2022 |
+| [Mozilla Firefox denial of service (CVE-2022-28287)](https://exchange.xforce.ibmcloud.com/vulnerabilities/223447) | Visit link for details | Apr 5, 2022 |
+| [Rancher Desktop security bypass (CVE-2022-21947)](https://exchange.xforce.ibmcloud.com/vulnerabilities/223435) | Visit link for details | Apr 5, 2022 |
+| [Apache Pinot denial of service (CVE-2022-23974)](https://exchange.xforce.ibmcloud.com/vulnerabilities/223426) | Visit link for details | Apr 5, 2022 |
+| [Rockwell Automation Connected Components Workbench, ISaGRAF Workbench, and Safety Instrumented System Workstation code execution (CVE-2022-1118)](https://exchange.xforce.ibmcloud.com/vulnerabilities/223424) | Visit link for details | Apr 5, 2022 |
+| [Xen RMRR denial of service (CVE-2022-26361)](https://exchange.xforce.ibmcloud.com/vulnerabilities/223413) | Visit link for details | Apr 5, 2022 |
+| [Xen RMRR denial of service (CVE-2022-26360)](https://exchange.xforce.ibmcloud.com/vulnerabilities/223412) | Visit link for details | Apr 5, 2022 |
+| [Xen RMRR denial of service (CVE-2022-26359)](https://exchange.xforce.ibmcloud.com/vulnerabilities/223411) | Visit link for details | Apr 5, 2022 |
+| [Xen RMRR denial of service (CVE-2022-26358)](https://exchange.xforce.ibmcloud.com/vulnerabilities/223410) | Visit link for details | Apr 5, 2022 |
 ## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
-| [Trend Micro Antivirus for Mac Link Following Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-546/) | Visit link for details | 2022-04-01 |
-| [(0Day) Siemens Simcenter Femap NEU File Parsing Out-Of-Bounds Write Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-545/) | Visit link for details | 2022-03-29 |
-| [(Pwn2Own) Netgear R6700v3 NetUSB Integer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-544/) | Visit link for details | 2022-03-29 |
-| [KOYO Screen Creator SCA2 File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-543/) | Visit link for details | 2022-03-29 |
-| [(0Day) Siemens Simcenter Femap NEU File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-542/) | Visit link for details | 2022-03-28 |
-| [(0Day) Array Networks MotionPro Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-541/) | Visit link for details | 2022-04-04 |
-| [Adobe Acrobat Reader DC JP2 File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-540/) | Visit link for details | 2022-03-25 |
-| [Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-539/) | Visit link for details | 2022-03-25 |
+| [Rockwell Automation Connected Components Workbench ccwsln File Parsing XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-585/) | Visit link for details | 2022-04-05 |
+| [Rockwell Automation Connected Components Workbench ccwsln File Parsing XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-584/) | Visit link for details | 2022-04-05 |
+| [Schneider Electric SCADAPack Workbench isasln File Parsing XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-583/) | Visit link for details | 2022-04-05 |
+| [Schneider Electric SCADAPack Workbench isasln File Parsing XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-582/) | Visit link for details | 2022-04-05 |
+| [Omron CX-One CX-Position NCI File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-581/) | Visit link for details | 2022-04-05 |
+| [Omron CX-One CX-Position NCI File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-580/) | Visit link for details | 2022-04-05 |
+| [Omron CX-One CX-Position NCI File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-579/) | Visit link for details | 2022-04-05 |
+| [Omron CX-One CX-Position NCI File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-578/) | Visit link for details | 2022-04-05 |
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
+| [35730504/22 - Vulnérabilités dans Android](https://www.dgssi.gov.ma/fr/content/3573050422-vulnerabilites-dans-android.html) | Plusieurs vulnérabilités ont été corrigées dans le système d’exploitation Android. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges ou de causer un déni de service. | 05 avril 2022 |
+| [35720504/22 - Vulnérabilité dans les produits VMware](https://www.dgssi.gov.ma/fr/content/3572050422-vulnerabilite-dans-les-produits-vmware.html) | VMware annonce la correction du Zero-day affectant Spring Framework implémenté dans plusieurs de ses produits. L’exploitation de cette vulnérabilité peutpermettreà un attaquant distant d’exécuter du code arbitraire. | 05 avril 2022 |
 | [35710404/22 - Vulnérabilités dans Rockwell Automation Logix Controllers](https://www.dgssi.gov.ma/fr/content/3571040422-vulnerabilites-dans-rockwell-automation-logix-controllers.html) | Deux failles de sécurité critiques ont été découvertes dans les contrôleurs Logix de Rockwell Automation. L'exploitation réussie de ces vulnérabilités peut permettre à un attaquant de modifier les programmes de l'utilisateur. Un... | 04 avril 2022 |
 | [35700404/22 - Vulnérabilité critique affectant des produits de Zyxel](https://www.dgssi.gov.ma/fr/content/3570040422-vulnerabilite-critique-affectant-des-produits-de-zyxel.html) | Zyxel annonce la correction d’une vulnérabilité critique affectant les versions susmentionnées de ses produits. L’exploitation de cette vulnérabilité peut permettre à un attaquant de contourner l’authentification. | 04 avril 2022 |
 | [35680404/22 - Zero-dayaffectant Spring Framework implémenté dans plusieursproduits deCisco](https://www.dgssi.gov.ma/fr/content/3568040422-zero-day-affectant-spring-framework-implemente-dans-plusieurs-produits-de-cisco.html) | Cisco annonce la correction du Zero-day affectant Spring Framework implémenté dans plusieurs de ses produits. Cette vulnérabilité a fait l’objetd’un bulletin de sécurité du maCERTet son exploitation peutpermettreà un attaquant... | 04 avril 2022 |
@@ -72,5 +74,3 @@ A daily updated summary of the most frequent types of security incidents current
 | [35650104/22 - Correction du Zero-day affectant Spring Framework](https://www.dgssi.gov.ma/fr/content/3565010422-correction-du-zero-day-affectant-spring-framework.html) | Le correctif de sécurité pour la vulnérabilité de type "zero-day" (CVE-2022-22965) dans Spring Framework est maintenant disponible. Une application « Spring MVC » ou « Spring WebFlux » exécutée sous JDK 9+ sur Tomcat en tant que... | 01 avril 2022 |
 | [35633103/22 - Vulnérabilité dans les produits Palo Alto ](https://www.dgssi.gov.ma/fr/content/3563310322-vulnerabilite-dans-les-produits-palo-alto.html) | Une vulnérabilité a été corrigée dans les produits Palo Alto. L'exploitation de cette faille pourrait permettre à un attaquant de causer un déni de service sur les périphériques Palo Alto vulnérables. | 31 mars 2022 |
 | [35623103/22 - Exploitation massive de la vulnérabilité critique « Spring4Shell » affectant Spring Fr](https://www.dgssi.gov.ma/fr/content/3562310322-exploitation-massive-de-la-vulnerabilite-critique-spring4shell-affectant-spring-framework.html) | Des chercheurs en sécurité ont révélé une vulnérabilité critique de type "zero-day" découverte dans le célèbre Framework de développement d'applications Web Java Spring, qui expose une grande variété d'applications Web... | 31 mars 2022 |
-| [35613103/22 - Vulnérabilité affectant Spring Cloud Function](https://www.dgssi.gov.ma/fr/content/3561310322-vulnerabilite-affectant-spring-cloud-function.html) | VMware annonce la correction d’une vulnérabilitéaffectant Spring Cloud Function. L'exploitation de cette vulnérabilité peut permettre à un attaquant d’accéder à des données confidentielles. | 31 mars 2022 |
-| [35603103/22 - Vulnérabilités affectant Google Chrome](https://www.dgssi.gov.ma/fr/content/3560310322-vulnerabilites-affectant-google-chrome.html) | Google a corrigé plusieurs vulnérabilités dans son navigateur Google Chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du système affecté. | 31 mars 2022 |
