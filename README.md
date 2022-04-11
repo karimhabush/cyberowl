@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 ## CyberOwl 
-> Last Updated 08/04/2022 12:35:25 
+> Last Updated 11/04/2022 09:38:32 
 
 
 A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
@@ -15,28 +15,6 @@ A daily updated summary of the most frequent types of security incidents current
 * [IBMCLOUD](#ibmcloud-arrow_heading_up)
 * [ZeroDayInitiative](#zerodayinitiative-arrow_heading_up)
 
-## IBMCloud [:arrow_heading_up:](#cyberowl)
-|Title|Description|Date|
-|---|---|---|
-| [GNU Binutils denial of service (CVE-2021-43149)](https://exchange.xforce.ibmcloud.com/vulnerabilities/223690) | Visit link for details | Apr 7, 2022 |
-| [Social Amelioration Program (SAP) Information System security bypass (CVE-2022-1248)](https://exchange.xforce.ibmcloud.com/vulnerabilities/223689) | Visit link for details | Apr 7, 2022 |
-| [Apache Hadoop for Windows security bypass (CVE-2022-26612)](https://exchange.xforce.ibmcloud.com/vulnerabilities/223688) | Visit link for details | Apr 7, 2022 |
-| [School Club Application System id SQL injection](https://exchange.xforce.ibmcloud.com/vulnerabilities/223625) | Visit link for details | Apr 7, 2022 |
-| [Franklin Fueling Systems Colibri directory traversal (CVE-2021-46417)](https://exchange.xforce.ibmcloud.com/vulnerabilities/223612) | Visit link for details | Apr 7, 2022 |
-| [WP Downgrade plugin for WordPress cross-site scripting (CVE-2022-1001)](https://exchange.xforce.ibmcloud.com/vulnerabilities/223611) | Visit link for details | Apr 7, 2022 |
-| [Loco Translate plugin for WordPress cross-site scripting (CVE-2022-0765)](https://exchange.xforce.ibmcloud.com/vulnerabilities/223610) | Visit link for details | Apr 7, 2022 |
-| [Hummingbird plugin for WordPress cross-site scripting (CVE-2022-0994)](https://exchange.xforce.ibmcloud.com/vulnerabilities/223609) | Visit link for details | Apr 7, 2022 |
-## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
-|Title|Description|Date|
-|---|---|---|
-| [Rockwell Automation Connected Components Workbench CCWARC File Parsing Deserialization Of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-589/) | Visit link for details | 2022-04-08 |
-| [Rockwell Automation Connected Components Workbench CCWARC File Parsing Deserialization Of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-588/) | Visit link for details | 2022-04-08 |
-| [Rockwell Automation Connected Components Workbench CCWARC File Parsing Deserialization Of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-587/) | Visit link for details | 2022-04-08 |
-| [Rockwell Automation Connected Components Workbench CCWARC File Parsing Deserialization Of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-586/) | Visit link for details | 2022-04-08 |
-| [Rockwell Automation Connected Components Workbench ccwsln File Parsing XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-585/) | Visit link for details | 2022-04-05 |
-| [Rockwell Automation Connected Components Workbench ccwsln File Parsing XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-584/) | Visit link for details | 2022-04-05 |
-| [Schneider Electric SCADAPack Workbench isasln File Parsing XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-583/) | Visit link for details | 2022-04-05 |
-| [Schneider Electric SCADAPack Workbench isasln File Parsing XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-582/) | Visit link for details | 2022-04-05 |
 ## CISA [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
@@ -49,23 +27,45 @@ A daily updated summary of the most frequent types of security incidents current
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
+| [Multiples vulnérabilités dans les produits QNAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-324/) | De multiples vulnérabilités ont été découvertes dans les produits QNAP. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données. | 8 avril 2022 |
+| [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-323/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une atteinte à l'intégrité des données. | 8 avril 2022 |
+| [Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-322/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Elles permettent à un attaquant de provoquer un déni de service, une atteinte à la confidentialité des données et une élévation de privilèges. | 8 avril 2022 |
+| [Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-321/) | Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer une élévation de privilèges. | 8 avril 2022 |
 | [Multiples vulnérabilités dans Tenable Tenable.sc](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-320/) | De multiples vulnérabilités ont été découvertes dans Tenable Tenable.sc. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance. | 7 avril 2022 |
 | [Vulnérabilité dans Stormshield Endpoint Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-319/) | Une vulnérabilité a été découverte dans Stormshield Endpoint Security. Elle permet à un attaquant de provoquer un déni de service à distance. | 7 avril 2022 |
 | [Multiples vulnérabilités dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-318/) | De multiples vulnérabilités ont été découvertes dans les produits VMware. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une élévation de privilèges. | 7 avril 2022 |
 | [Vulnérabilité dans Citrix Hypervisor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-317/) | Une vulnérabilité a été découverte dans Citrix Hypervisor. Elle permet à un attaquant de provoquer un déni de service. | 7 avril 2022 |
 | [Multiples vulnérabilités dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-316/) | De multiples vulnérabilités ont été découvertes dans Mozilla Thunderbird. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une atteinte à l'intégrité des données. | 7 avril 2022 |
 | [Multiples vulnérabilités dans Cisco Data Center Network Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-315/) | De multiples vulnérabilités ont été découvertes dans Cisco  | 6 avril 2022 |
-| [Multiples vulnérabilités dans Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-314/) | De multiples vulnérabilités ont été découvertes dans Xen. Elles permettent à un attaquant de provoquer un déni de service, une atteinte à la confidentialité des données et une élévation de privilèges. | 6 avril 2022 |
-| [Multiples vulnérabilités dans les commutateurs Aruba Instant On 1930](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-313/) | De multiples vulnérabilités ont été découvertes dans les commutateurs Aruba Instant On 1930. Elles permettent à un attaquant de provoquer un déni de service à distance. | 6 avril 2022 |
-| [Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-312/) | De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et un contournement de la politique de sécurité. | 6 avril 2022 |
-| [Multiples vulnérabilités dans Mozilla Firefox et Firefox ESR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-311/) | De multiples vulnérabilités ont été découvertes dans Mozilla Firefox et Firefox ESR. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une atteinte à l'intégrité des données. | 6 avril 2022 |
+## IBMCloud [:arrow_heading_up:](#cyberowl)
+|Title|Description|Date|
+|---|---|---|
+| [ManageEngine ADSelfService Plus code execution (CVE-2022-28810)](https://exchange.xforce.ibmcloud.com/vulnerabilities/223803) | Visit link for details | Apr 9, 2022 |
+| [Lua buffer overflow (CVE-2022-28805)](https://exchange.xforce.ibmcloud.com/vulnerabilities/223769) | Visit link for details | Apr 8, 2022 |
+| [Linux Kernel privilege escalation (CVE-2022-1158)](https://exchange.xforce.ibmcloud.com/vulnerabilities/223755) | Visit link for details | Apr 8, 2022 |
+| [AeroCMS file upload (CVE-2022-27061)](https://exchange.xforce.ibmcloud.com/vulnerabilities/223752) | Visit link for details | Apr 8, 2022 |
+| [Car Rental Management System SQL injection (CVE-2022-28000)](https://exchange.xforce.ibmcloud.com/vulnerabilities/223751) | Visit link for details | Apr 8, 2022 |
+| [PHPGurukul Zoo Management System file upload (CVE-2022-27351)](https://exchange.xforce.ibmcloud.com/vulnerabilities/223750) | Visit link for details | Apr 8, 2022 |
+| [E-Commerce Website file upload (CVE-2022-27346)](https://exchange.xforce.ibmcloud.com/vulnerabilities/223749) | Visit link for details | Apr 8, 2022 |
+| [Simple House Rental Management System file upload (CVE-2022-27352)](https://exchange.xforce.ibmcloud.com/vulnerabilities/223748) | Visit link for details | Apr 8, 2022 |
+## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
+|Title|Description|Date|
+|---|---|---|
+| [Rockwell Automation Connected Components Workbench CCWARC File Parsing Deserialization Of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-589/) | Visit link for details | 2022-04-08 |
+| [Rockwell Automation Connected Components Workbench CCWARC File Parsing Deserialization Of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-588/) | Visit link for details | 2022-04-08 |
+| [Rockwell Automation Connected Components Workbench CCWARC File Parsing Deserialization Of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-587/) | Visit link for details | 2022-04-08 |
+| [Rockwell Automation Connected Components Workbench CCWARC File Parsing Deserialization Of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-586/) | Visit link for details | 2022-04-08 |
+| [Rockwell Automation Connected Components Workbench ccwsln File Parsing XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-585/) | Visit link for details | 2022-04-05 |
+| [Rockwell Automation Connected Components Workbench ccwsln File Parsing XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-584/) | Visit link for details | 2022-04-05 |
+| [Schneider Electric SCADAPack Workbench isasln File Parsing XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-583/) | Visit link for details | 2022-04-05 |
+| [Schneider Electric SCADAPack Workbench isasln File Parsing XML External Entity Processing Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-582/) | Visit link for details | 2022-04-05 |
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
 | [35840704/22 - Vulnérabilité dans l’hyperviseur Citrix ](https://www.dgssi.gov.ma/fr/content/3584070422-vulnerabilite-dans-l-hyperviseur-citrix.html) | Citrixannonce la disponibilité demise à jour de sécurité permettant de corriger une vulnérabilité affectant l’hyperviseur Citrix. L’exploitation de cette vulnérabilité peut permettre à un attaquant de causer un déni de service. | 07 avril 2022 |
 | [35830704/22 - Vulnérabilités dans les produits VMware](https://www.dgssi.gov.ma/fr/content/3583070422-vulnerabilites-dans-les-produits-vmware.html) | VMware annonce la correction de plusieurs vulnérabilités affectant les produits susmentionnés. L’exploitation de ces failles peutpermettreà un attaquant distant d’exécuter du code arbitraire. | 07 avril 2022 |
-| [35800704/22 - Vulnérabilités affectant plusieursproduits deCisco](https://www.dgssi.gov.ma/fr/content/3580070422-vulnerabilites-affectant-plusieurs-produits-de-cisco.html) | Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’injecter du contenu dans une page, de... | 07 avril 2022 |
 | [35810704/22 - Vulnérabilités dans les produits Fortiguard ](https://www.dgssi.gov.ma/fr/content/3581070422-vulnerabilites-dans-les-produits-fortiguard.html) | Plusieurs vulnérabilités ont été corrigées dans les produits Fortiguard susmentionnés. Un attaquant pourrait exploiter certaines de ces vulnérabilités pour réussir une élévation de privilèges, provoquer une exécution de code arbitraire à... | 07 avril 2022 |
+| [35800704/22 - Vulnérabilités affectant plusieursproduits deCisco](https://www.dgssi.gov.ma/fr/content/3580070422-vulnerabilites-affectant-plusieurs-produits-de-cisco.html) | Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’injecter du contenu dans une page, de... | 07 avril 2022 |
 | [35810704/22 - Vulnérabilités dans Mozilla Firefox et Firefox ESR](https://www.dgssi.gov.ma/fr/content/3581070422-vulnerabilites-dans-mozilla-firefox-et-firefox-esr.html) | Mozilla a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant les versions de Firefox et Firefox ESR susmentionnées. Un attaquant pourrait exploiter certaines de ces vulnérabilités afin de prendre le... | 07 avril 2022 |
 | [35760604/22 - Vulnérabilité dans les produits F5](https://www.dgssi.gov.ma/fr/content/3576060422-vulnerabilite-dans-les-produits-f5.html) | Une vulnérabilité a été corrigée dans les produits F5 susmentionnés. L’exploitation de cette faille permet à un attaquant d’exécuter du code arbitraire à distance ou de causer un déni de service. | 06 avril 2022 |
 | [35750604/22 - Vulnérabilités dans l'hyperviseur Xen ](https://www.dgssi.gov.ma/fr/content/3575060422-vulnerabilites-dans-l-hyperviseur-xen.html) | Plusieurs vulnérabilités ont été corrigées dans les versions d’hyperviseur Xen susmentionnées. L'exploitation de ces failles peut permettre à un attaquant de causer un déni de service, de porter atteinte à la confidentialité de... | 06 avril 2022 |
