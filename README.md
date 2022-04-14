@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 ## CyberOwl 
-> Last Updated 13/04/2022 21:12:42 
+> Last Updated 14/04/2022 09:51:03 
 
 
 A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
@@ -15,6 +15,15 @@ A daily updated summary of the most frequent types of security incidents current
 * [IBMCLOUD](#ibmcloud-arrow_heading_up)
 * [ZeroDayInitiative](#zerodayinitiative-arrow_heading_up)
 
+## CISA [:arrow_heading_up:](#cyberowl)
+|Title|Description|Date|
+|---|---|---|
+| [Microsoft Releases Advisory to Address Critical Remote Code Execution Vulnerability (CVE-2022-26809) ](https://www.cisa.gov/uscert/ncas/current-activity/2022/04/13/microsoft-releases-advisory-address-critical-remote-code-execution) | <p>Microsoft has released <a href="https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2022-26809">an advisory</a> to address CVE-2022-26809, a critical remote code execution vulnerability in Remote Procedure Call Runtime Library. A remote, unauthenticated attacker could exploit this vulnerability to take control of an affected system. </p> | Wednesday, April 13, 2022 |
+| [APT Actors Target ICS/SCADA Devices](https://www.cisa.gov/uscert/ncas/current-activity/2022/04/13/apt-actors-target-icsscada-devices) | <p>CISA, the Department of Energy (DOE), the National Security Agency (NSA), and the Federal Bureau of Investigation (FBI) have released a <a href="https://www.cisa.gov/uscert/ncas/alerts/aa22-103a">joint Cybersecurity Advisory (CSA)</a>, warning that certain advanced persistent threat (APT) actors have exhibited the capability to gain full system access to multiple industrial control system (ICS)/supervisory control and data acquisition (SCADA) devices using custom-made tools. </p> | Wednesday, April 13, 2022 |
+| [CISA Adds 10 Known Exploited Vulnerabilities to Catalog ](https://www.cisa.gov/uscert/ncas/current-activity/2022/04/13/cisa-adds-10-known-exploited-vulnerabilities-catalog) | <p>CISA has added 10 new vulnerabilities to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: to view the newly added vulnerabilities in the catalog, click on the arrow on the of the "Date Added to Catalog" column, which will sort by descending dates. </p> | Wednesday, April 13, 2022 |
+| [ICSJWG Spring 2022 Virtual Meeting](https://www.cisa.gov/uscert/ncas/current-activity/2022/04/13/icsjwg-spring-2022-virtual-meeting) | <p>The Industrial Control Systems Joint Working Group (ICSJWG) will hold its Spring 2022 Virtual Meeting April 26–27. ICSJWG meetings facilitate relationship building among critical infrastructure stakeholders and owners/operators of industrial control systems, idea exchanges regarding critical issues affecting industrial control systems (ICS) cybersecurity, and information sharing to reduce the risk to the nation’s industrial control systems.</p> | Wednesday, April 13, 2022 |
+| [Apache Releases Security Advisory for Struts 2 ](https://www.cisa.gov/uscert/ncas/current-activity/2022/04/12/apache-releases-security-advisory-struts-2) | <p>The Apache Software Foundation has released a security advisory to address a vulnerability in Struts in the version range 2.0.0 to 2.5.29. An attacker could exploit this vulnerability to take control of an affected system.  </p> | Tuesday, April 12, 2022 |
+| [Citrix Releases Security Updates for Multiple Products](https://www.cisa.gov/uscert/ncas/current-activity/2022/04/12/citrix-releases-security-updates-multiple-products) | <p>Citrix has released security updates to address vulnerabilities in multiple products. An attacker could exploit some of these vulnerabilities to take control of an affected system.</p> | Tuesday, April 12, 2022 |
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
@@ -28,15 +37,28 @@ A daily updated summary of the most frequent types of security incidents current
 | [Multiples vulnérabilités dans Stormshield Network Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-330/) | De multiples vulnérabilités ont été découvertes dans Stormshield Network Security. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à l'intégrité des données. | 13 avril 2022 |
 | [[SCADA] Multiples vulnérabilités dans les produits SIEMENS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-329/) | De multiples vulnérabilités ont été découvertes dans les produits SIEMENS. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance. | 12 avril 2022 |
 | [[SCADA] Multiples vulnérabilités dans les produits Schneider](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-328/) | De multiples vulnérabilités ont été découvertes dans les produits Schneider. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données. | 12 avril 2022 |
-## CISA [:arrow_heading_up:](#cyberowl)
+## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
-| [Microsoft Releases Advisory to Address Critical Remote Code Execution Vulnerability (CVE-2022-26809) ](https://www.cisa.gov/uscert/ncas/current-activity/2022/04/13/microsoft-releases-advisory-address-critical-remote-code-execution) | <p>Microsoft has released <a href="https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2022-26809">an advisory</a> to address CVE-2022-26809, a critical remote code execution vulnerability in Remote Procedure Call Runtime Library. A remote, unauthenticated attacker could exploit this vulnerability to take control of an affected system. </p> | Wednesday, April 13, 2022 |
-| [APT Actors Target ICS/SCADA Devices](https://www.cisa.gov/uscert/ncas/current-activity/2022/04/13/apt-actors-target-icsscada-devices) | <p>CISA, the Department of Energy (DOE), the National Security Agency (NSA), and the Federal Bureau of Investigation (FBI) have released a <a href="https://www.cisa.gov/uscert/ncas/alerts/aa22-103a">joint Cybersecurity Advisory (CSA)</a>, warning that certain advanced persistent threat (APT) actors have exhibited the capability to gain full system access to multiple industrial control system (ICS)/supervisory control and data acquisition (SCADA) devices using custom-made tools. </p> | Wednesday, April 13, 2022 |
-| [CISA Adds 10 Known Exploited Vulnerabilities to Catalog ](https://www.cisa.gov/uscert/ncas/current-activity/2022/04/13/cisa-adds-10-known-exploited-vulnerabilities-catalog) | <p>CISA has added 10 new vulnerabilities to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: to view the newly added vulnerabilities in the catalog, click on the arrow on the of the "Date Added to Catalog" column, which will sort by descending dates. </p> | Wednesday, April 13, 2022 |
-| [ICSJWG Spring 2022 Virtual Meeting](https://www.cisa.gov/uscert/ncas/current-activity/2022/04/13/icsjwg-spring-2022-virtual-meeting) | <p>The Industrial Control Systems Joint Working Group (ICSJWG) will hold its Spring 2022 Virtual Meeting April 26–27. ICSJWG meetings facilitate relationship building among critical infrastructure stakeholders and owners/operators of industrial control systems, idea exchanges regarding critical issues affecting industrial control systems (ICS) cybersecurity, and information sharing to reduce the risk to the nation’s industrial control systems.</p> | Wednesday, April 13, 2022 |
-| [Apache Releases Security Advisory for Struts 2 ](https://www.cisa.gov/uscert/ncas/current-activity/2022/04/12/apache-releases-security-advisory-struts-2) | <p>The Apache Software Foundation has released a security advisory to address a vulnerability in Struts in the version range 2.0.0 to 2.5.29. An attacker could exploit this vulnerability to take control of an affected system.  </p> | Tuesday, April 12, 2022 |
-| [Citrix Releases Security Updates for Multiple Products](https://www.cisa.gov/uscert/ncas/current-activity/2022/04/12/citrix-releases-security-updates-multiple-products) | <p>Citrix has released security updates to address vulnerabilities in multiple products. An attacker could exploit some of these vulnerabilities to take control of an affected system.</p> | Tuesday, April 12, 2022 |
+| [(Pwn2Own) Samsung Galaxy S21 loadUrl Open Redirect Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-621/) | Visit link for details | 2022-04-12 |
+| [Trend Micro HouseCall for Home Networks Uncontrolled Search Path Element Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-620/) | Visit link for details | 2022-04-12 |
+| [Tukaani XZ Utils xzgrep Argument Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-619/) | Visit link for details | 2022-04-12 |
+| [Bentley MicroStation CONNECT IFC File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-618/) | Visit link for details | 2022-04-12 |
+| [Bentley MicroStation CONNECT IFC File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-617/) | Visit link for details | 2022-04-12 |
+| [Bentley MicroStation CONNECT IFC File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-616/) | Visit link for details | 2022-04-12 |
+| [Bentley MicroStation CONNECT IFC File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-615/) | Visit link for details | 2022-04-12 |
+| [Bentley MicroStation CONNECT IFC File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-614/) | Visit link for details | 2022-04-12 |
+## IBMCloud [:arrow_heading_up:](#cyberowl)
+|Title|Description|Date|
+|---|---|---|
+| [Juniper Networks Junos OS and Junos OS Evolved denial of service (CVE-2022-22197)](https://exchange.xforce.ibmcloud.com/vulnerabilities/224226) | Visit link for details | Apr 13, 2022 |
+| [Juniper Networks Junos OS and Junos OS Evolved denial of service (CVE-2022-22196)](https://exchange.xforce.ibmcloud.com/vulnerabilities/224225) | Visit link for details | Apr 13, 2022 |
+| [Juniper Networks Junos OS Evolved denial of service (CVE-2022-22195)](https://exchange.xforce.ibmcloud.com/vulnerabilities/224224) | Visit link for details | Apr 13, 2022 |
+| [Juniper Networks Junos OS and Junos OS Evolved denial of service (CVE-2022-22193)](https://exchange.xforce.ibmcloud.com/vulnerabilities/224223) | Visit link for details | Apr 13, 2022 |
+| [Juniper Networks Paragon Active Assurance information disclosure (CVE-2022-22190)](https://exchange.xforce.ibmcloud.com/vulnerabilities/224222) | Visit link for details | Apr 13, 2022 |
+| [Juniper Networks Junos OS Evolved denial of service (CVE-2022-22183)](https://exchange.xforce.ibmcloud.com/vulnerabilities/224221) | Visit link for details | Apr 13, 2022 |
+| [Juniper Networks Junos OS cross-site scripting (CVE-2022-22182)](https://exchange.xforce.ibmcloud.com/vulnerabilities/224220) | Visit link for details | Apr 13, 2022 |
+| [Juniper Networks Junos OS cross-site scripting (CVE-2022-22181)](https://exchange.xforce.ibmcloud.com/vulnerabilities/224219) | Visit link for details | Apr 13, 2022 |
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
@@ -52,25 +74,3 @@ A daily updated summary of the most frequent types of security incidents current
 | [35840704/22 - Vulnérabilité dans l’hyperviseur Citrix ](https://www.dgssi.gov.ma/fr/content/3584070422-vulnerabilite-dans-l-hyperviseur-citrix.html) | Citrixannonce la disponibilité demise à jour de sécurité permettant de corriger une vulnérabilité affectant l’hyperviseur Citrix. L’exploitation de cette vulnérabilité peut permettre à un attaquant de causer un déni de service. | 07 avril 2022 |
 | [35830704/22 - Vulnérabilités dans les produits VMware](https://www.dgssi.gov.ma/fr/content/3583070422-vulnerabilites-dans-les-produits-vmware.html) | VMware annonce la correction de plusieurs vulnérabilités affectant les produits susmentionnés. L’exploitation de ces failles peutpermettreà un attaquant distant d’exécuter du code arbitraire. | 07 avril 2022 |
 | [35810704/22 - Vulnérabilités dans les produits Fortiguard ](https://www.dgssi.gov.ma/fr/content/3581070422-vulnerabilites-dans-les-produits-fortiguard.html) | Plusieurs vulnérabilités ont été corrigées dans les produits Fortiguard susmentionnés. Un attaquant pourrait exploiter certaines de ces vulnérabilités pour réussir une élévation de privilèges, provoquer une exécution de code arbitraire à... | 07 avril 2022 |
-## IBMCloud [:arrow_heading_up:](#cyberowl)
-|Title|Description|Date|
-|---|---|---|
-| [Cisco SD-WAN vEdge routers denial of service (CVE-2022-20717)](https://exchange.xforce.ibmcloud.com/vulnerabilities/224173) | Visit link for details | Apr 13, 2022 |
-| [Cisco Wireless LAN Controller security bypass (CVE-2022-20695)](https://exchange.xforce.ibmcloud.com/vulnerabilities/224154) | Visit link for details | Apr 13, 2022 |
-| [Palo Alto Networks PAN-OS denial of service (CVE-2022-0023)](https://exchange.xforce.ibmcloud.com/vulnerabilities/224152) | Visit link for details | Apr 13, 2022 |
-| [Citrix StoreFront Server cross-site scripting (CVE-2022-27503)](https://exchange.xforce.ibmcloud.com/vulnerabilities/224185) | Visit link for details | Apr 12, 2022 |
-| [Explore CMS page SQL injection](https://exchange.xforce.ibmcloud.com/vulnerabilities/224151) | Visit link for details | Apr 12, 2022 |
-| [Inductive Automation Ignition directory traversal (CVE-2022-1264)](https://exchange.xforce.ibmcloud.com/vulnerabilities/224150) | Visit link for details | Apr 12, 2022 |
-| [Aethon TUG Home Base Server cross-site scripting (CVE-2022-1059)](https://exchange.xforce.ibmcloud.com/vulnerabilities/224149) | Visit link for details | Apr 12, 2022 |
-| [Aethon TUG Home Base Server security bypass (CVE-2022-1066)](https://exchange.xforce.ibmcloud.com/vulnerabilities/224148) | Visit link for details | Apr 12, 2022 |
-## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
-|Title|Description|Date|
-|---|---|---|
-| [(Pwn2Own) Samsung Galaxy S21 loadUrl Open Redirect Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-621/) | Visit link for details | 2022-04-12 |
-| [Trend Micro HouseCall for Home Networks Uncontrolled Search Path Element Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-620/) | Visit link for details | 2022-04-12 |
-| [Tukaani XZ Utils xzgrep Argument Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-619/) | Visit link for details | 2022-04-12 |
-| [Bentley MicroStation CONNECT IFC File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-618/) | Visit link for details | 2022-04-12 |
-| [Bentley MicroStation CONNECT IFC File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-617/) | Visit link for details | 2022-04-12 |
-| [Bentley MicroStation CONNECT IFC File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-616/) | Visit link for details | 2022-04-12 |
-| [Bentley MicroStation CONNECT IFC File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-615/) | Visit link for details | 2022-04-12 |
-| [Bentley MicroStation CONNECT IFC File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-614/) | Visit link for details | 2022-04-12 |
