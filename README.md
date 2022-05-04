@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 ## CyberOwl 
-> Last Updated 03/05/2022 08:23:39 
+> Last Updated 04/05/2022 08:34:53 
 
 
 A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
@@ -18,14 +18,14 @@ A daily updated summary of the most frequent types of security incidents current
 ## IBMCloud [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
-| [NETGEAR products information disclosure](None) | Visit link for details | May 2, 2022 |
-| [Strapi information disclosure (CVE-2021-46440)](None) | Visit link for details | May 2, 2022 |
-| [StaffList plugin for WordPress staff record remove cross-site request forgery](None) | Visit link for details | May 2, 2022 |
-| [StaffList plugin for WordPress admin.php SQL injection](None) | Visit link for details | May 2, 2022 |
-| [Shopizer cross-site scripting (CVE-2022-23060)](None) | Visit link for details | May 1, 2022 |
-| [Shopizer security bypass (CVE-2022-23061)](None) | Visit link for details | May 1, 2022 |
-| [Apache NiFi information disclosure (CVE-2022-29265)](None) | Visit link for details | Apr 29, 2022 |
-| [Subscribe To Comments Reloaded plugin for WordPress cross-site request forgery (CVE-2022-29414)](None) | Visit link for details | Apr 29, 2022 |
+| [Mozilla Firefox code execution (CVE-2022-29918)](None) | Visit link for details | May 3, 2022 |
+| [Mozilla Firefox code execution (CVE-2022-29917)](None) | Visit link for details | May 3, 2022 |
+| [Mozilla Firefox information disclosure (CVE-2022-29915)](None) | Visit link for details | May 3, 2022 |
+| [Mozilla Firefox for Android security bypass (CVE-2022-29910)](None) | Visit link for details | May 3, 2022 |
+| [Mozilla Firefox security bypass (CVE-2022-29912)](None) | Visit link for details | May 3, 2022 |
+| [Mozilla Firefox security bypass (CVE-2022-29911)](None) | Visit link for details | May 3, 2022 |
+| [Mozilla Firefox information disclosure (CVE-2022-29916)](None) | Visit link for details | May 3, 2022 |
+| [Mozilla Firefox security bypass (CVE-2022-29909)](None) | Visit link for details | May 3, 2022 |
 ## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
@@ -37,19 +37,6 @@ A daily updated summary of the most frequent types of security incidents current
 | [Autodesk FBX Review ABC File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-710/) | Visit link for details | 7.8 |
 | [Oracle MySQL Cluster Data Node Improper Validation of Array Index Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-709/) | Visit link for details | 9.8 |
 | [Oracle MySQL Cluster Data Node Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-708/) | Visit link for details | 9.8 |
-## CERT-FR [:arrow_heading_up:](#cyberowl)
-|Title|Description|Date|
-|---|---|---|
-| [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-403/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une atteinte à la confidentialité des données et une élévation de privilèges. | 29 avril 2022 |
-| [Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-402/) | De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 29 avril 2022 |
-| [Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-401/) | De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données. | 29 avril 2022 |
-| [Multiples vulnérabilités dans NagiosXI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-400/) | De multiples vulnérabilités ont été découvertes dans Nagios XI. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un contournement de la politique de sécurité et une atteinte à l'intégrité des données. | 29 avril 2022 |
-| [Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-399/) | De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données. | 28 avril 2022 |
-| [Vulnérabilité dans les produits Sophos](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-398/) | Une vulnérabilités a été découverte dans les produits Sophos. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données. | 28 avril 2022 |
-| [Multiples vulnérabilités dans Liferay Portal](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-397/) | De multiples vulnérabilités ont été découvertes dans Liferay Portal. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une injection de code indirecte à distance (XSS). | 28 avril 2022 |
-| [Multiples vulnérabilités dans les produits SonicWall](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-396/) | De multiples vulnérabilités ont été découvertes dans les produits SonicWall. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données. | 28 avril 2022 |
-| [Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-395/) | De multiples vulnérabilités ont été découvertes dans les produits Nextcloud. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à la confidentialité des données. | 27 avril 2022 |
-| [Multiples vulnérabilités dans MISP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-394/) | De multiples vulnérabilités ont été découvertes dans MISP. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une injection de code indirecte à distance (XSS). | 27 avril 2022 |
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
@@ -74,3 +61,16 @@ A daily updated summary of the most frequent types of security incidents current
 | [2021 Top Routinely Exploited Vulnerabilities](https://www.cisa.gov/uscert/ncas/current-activity/2022/04/27/2021-top-routinely-exploited-vulnerabilities) | <p>CISA, the National Security Agency (NSA), the Federal Bureau of Investigation (FBI), the Australian Cyber Security Centre (ACSC), the Canadian Centre for Cyber Security (CCCS), the New Zealand National Cyber Security Centre (NZ NCSC), and the United Kingdom’s National Cyber Security Centre (NCSC-UK)  have released a <a href="https://www.cisa.gov/uscert/ncas/alerts/aa22-117a">joint Cybersecurity Advisory</a> that provides details on the top 15 Common Vulnerabilities and Exposures (CVEs) routinely exploited by malicious cyber actors in 2021, as well as other CVEs frequently exploited.</p> | Wednesday, April 27, 2022 |
 | [CISA Adds Seven Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2022/04/25/cisa-adds-seven-known-exploited-vulnerabilities-catalog) | <p>CISA has added seven new vulnerabilities to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: to view the newly added vulnerabilities in the catalog, click on the arrow on the of the "Date Added to Catalog" column, which will sort by descending dates. </p> | Monday, April 25, 2022 |
 | [FBI Releases IOCs Associated with BlackCat/ALPHV Ransomware](https://www.cisa.gov/uscert/ncas/current-activity/2022/04/22/fbi-releases-iocs-associated-blackcatalphv-ransomware) | <p>The Federal Bureau of Investigation (FBI) has released <a href="https://www.ic3.gov/Media/News/2022/220420.pdf">a Flash report</a> detailing indicators of compromise (IOCs) associated with attacks involving BlackCat/ALPHV, a Ransomware-as-a-Service that has compromised at least 60 entities worldwide.</p> | Friday, April 22, 2022 |
+## CERT-FR [:arrow_heading_up:](#cyberowl)
+|Title|Description|Date|
+|---|---|---|
+| [Multiples vulnérabilités dans Google Pixel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-408/) | De multiples vulnérabilités ont été découvertes dans Google Pixel. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une élévation de privilèges. | 3 mai 2022 |
+| [Vulnérabilité dans IBM Spectrum Scale](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-407/) | Une vulnérabilité a été découverte dans IBM Spectrum Scale. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. | 3 mai 2022 |
+| [Multiples vulnérabilités dans les produits Gitlab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-406/) | De multiples vulnérabilités ont été découvertes dans les produits Gitlab. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité. | 3 mai 2022 |
+| [Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-405/) | De multiples vulnérabilités ont été découvertes dans Google Android. Elles permettent à un attaquant de provoquer un déni de service, une atteinte à la confidentialité des données et une élévation de privilèges. | 3 mai 2022 |
+| [[SCADA] Vulnérabilité dans Moxa MXview Series](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-404/) | Une vulnérabilité a été découverte dans Moxa MXview Series. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges. | 3 mai 2022 |
+| [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-403/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une atteinte à la confidentialité des données et une élévation de privilèges. | 29 avril 2022 |
+| [Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-402/) | De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 29 avril 2022 |
+| [Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-401/) | De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données. | 29 avril 2022 |
+| [Multiples vulnérabilités dans NagiosXI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-400/) | De multiples vulnérabilités ont été découvertes dans Nagios XI. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un contournement de la politique de sécurité et une atteinte à l'intégrité des données. | 29 avril 2022 |
+| [Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-399/) | De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données. | 28 avril 2022 |
