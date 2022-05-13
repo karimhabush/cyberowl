@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 ## CyberOwl 
-> Last Updated 12/05/2022 16:57:10 
+> Last Updated 13/05/2022 09:11:52 
 
 
 A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
@@ -15,15 +15,6 @@ A daily updated summary of the most frequent types of security incidents current
 * [IBMCLOUD](#ibmcloud-arrow_heading_up)
 * [ZeroDayInitiative](#zerodayinitiative-arrow_heading_up)
 
-## CISA [:arrow_heading_up:](#cyberowl)
-|Title|Description|Date|
-|---|---|---|
-| [Google Releases Security Updates for Chrome](https://www.cisa.gov/uscert/ncas/current-activity/2022/05/11/google-releases-security-updates-chrome) | <p>Google has released Chrome version 101.0.4951.64 for Windows, Mac, and Linux. This version addresses vulnerabilities that an attacker could exploit to take control of an affected system. </p> | Wednesday, May 11, 2022 |
-| [Microsoft Releases May 2022 Security Updates](https://www.cisa.gov/uscert/ncas/current-activity/2022/05/11/microsoft-releases-may-2022-security-updates) | <p>Microsoft has released updates to address multiple vulnerabilities in Microsoft software. An attacker can exploit some of these vulnerabilities to take control of an affected system.</p> | Wednesday, May 11, 2022 |
-| [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2022/05/11/cisa-adds-one-known-exploited-vulnerability-catalog) | <p>CISA has added one new vulnerability to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: to view the newly added vulnerability in the catalog, click on the arrow on the of the "Date Added to Catalog" column, which will sort by descending dates. </p> | Wednesday, May 11, 2022 |
-| [CISA Joins Partners to Release Advisory on Protecting MSPs and their Customers](https://www.cisa.gov/uscert/ncas/current-activity/2022/05/11/cisa-joins-partners-release-advisory-protecting-msps-and-their) | <p>The cybersecurity authorities of the United Kingdom, Australia, Canada, New Zealand, and the United States have released joint Cybersecurity Advisory (CSA), <a href="https://www.cisa.gov/uscert/ncas/alerts/aa22-131a">Protecting Against Cyber Threats to Managed Service Providers and their Customers</a>, to provide guidance on how to protect against malicious cyber activity targeting managed service providers (MSPs) and their customers.</p> | Wednesday, May 11, 2022 |
-| [CISA Adds One Known Exploited Vulnerability to Catalog ](https://www.cisa.gov/uscert/ncas/current-activity/2022/05/10/cisa-adds-one-known-exploited-vulnerability-catalog) | <p>CISA has added one new vulnerability to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: to view the newly added vulnerability in the catalog, click on the arrow on the of the "Date Added to Catalog" column, which will sort by descending dates. </p> | Tuesday, May 10, 2022 |
-| [U.S. Government Attributes Cyberattacks on SATCOM Networks to Russian State-Sponsored Malicious Cyber Actors](https://www.cisa.gov/uscert/ncas/current-activity/2022/05/10/us-government-attributes-cyberattacks-satcom-networks-russian) | <p>CISA and the Federal Bureau of Investigation (FBI) have updated the joint cybersecurity advisory, <a href="https://www.cisa.gov/uscert/ncas/alerts/aa22-076a">Strengthening Cybersecurity of SATCOM Network Providers and Customers</a>, originally released March 17, 2022, with <a href="https://www.state.gov/attribution-of-russias-malicious-cyber-activity-against-ukraine/">U.S. government attribution to Russian state-sponsored malicious cyber actors</a>.</p> | Tuesday, May 10, 2022 |
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
@@ -37,6 +28,17 @@ A daily updated summary of the most frequent types of security incidents current
 | [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-451/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service et une élévation de privilèges. | 12 mai 2022 |
 | [Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-450/) | De multiples vulnérabilités ont été corrigées dans  | 11 mai 2022 |
 | [Multiples vulnérabilités dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-449/) | De multiples vulnérabilités ont été corrigées dans  | 11 mai 2022 |
+## IBMCloud [:arrow_heading_up:](#cyberowl)
+|Title|Description|Date|
+|---|---|---|
+| [Open Container Initiative runc privilege escalation (CVE-2022-29162)](None) | Visit link for details | May 12, 2022 |
+| [Multipel Zyxel devices command execution (CVE-2022-30525)](None) | Visit link for details | May 12, 2022 |
+| [F-Secure SAFE Browser for Android spoofing (CVE-2022-28873)](None) | Visit link for details | May 12, 2022 |
+| [F-Secure SAFE Browser for Android spoofing (CVE-2022-28872)](None) | Visit link for details | May 12, 2022 |
+| [Konica Minolta bizhub C3300i and C3350i printer devices information disclosure (CVE-2022-29588)](None) | Visit link for details | May 12, 2022 |
+| [Konica Minolta bizhub C3300i and C3350i printer devices weak security (CVE-2022-29587)](None) | Visit link for details | May 12, 2022 |
+| [Konica Minolta bizhub C3300i and C3350i printer devices security bypass (CVE-2022-29586)](None) | Visit link for details | May 12, 2022 |
+| [ImpressCMS extensionsToBeSanitized file upload](None) | Visit link for details | May 11, 2022 |
 ## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
@@ -48,17 +50,6 @@ A daily updated summary of the most frequent types of security incidents current
 | [Foxit PDF Reader Doc Object Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-769/) | Visit link for details | 7.8 |
 | [Foxit PDF Reader Annotation Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-768/) | Visit link for details | 7.8 |
 | [Foxit PDF Reader Doc Object Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-767/) | Visit link for details | 7.8 |
-## IBMCloud [:arrow_heading_up:](#cyberowl)
-|Title|Description|Date|
-|---|---|---|
-| [Palo Alto Networks Cortex XSOAR information disclosure (CVE-2022-0027)](None) | Visit link for details | May 11, 2022 |
-| [Palo Alto Networks Cortex XDR Agent privilege escalation (CVE-2022-0026)](None) | Visit link for details | May 11, 2022 |
-| [Palo Alto Networks Cortex XDR Agent privilege escalation (CVE-2022-0025)](None) | Visit link for details | May 11, 2022 |
-| [Palo Alto Networks PAN-OS file upload (CVE-2022-0024)](None) | Visit link for details | May 11, 2022 |
-| [GitLab information disclosure (CVE-2022-1417)](None) | Visit link for details | May 11, 2022 |
-| [cURL libcurl information disclosure (CVE-2022-30115)](None) | Visit link for details | May 11, 2022 |
-| [cURL libcurl security bypass (CVE-2022-27782)](None) | Visit link for details | May 11, 2022 |
-| [cURL libcurl denial of service (CVE-2022-27781)](None) | Visit link for details | May 11, 2022 |
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
@@ -74,3 +65,12 @@ A daily updated summary of the most frequent types of security incidents current
 | [36271105/22 - Vulnérabilités dans Microsoft Office (Patch Tuesday Mai 2022)](https://www.dgssi.gov.ma/fr/content/3627110522-vulnerabilites-dans-microsoft-office-patch-tuesday-mai-2022.html) | Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées des produits Microsoft Office. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code à distance et de... | 11 mai 2022 |
 | [36261105/22 - Vulnérabilités dans Microsoft Windows (Patch Tuesday Mai 2022)](https://www.dgssi.gov.ma/fr/content/3626110522-vulnerabilites-dans-microsoft-windows-patch-tuesday-mai-2022.html) | Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant lessystèmes d’exploitation Windows susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de divulguer des informations... | 11 mai 2022 |
 | [36301105/22 - Vulnérabilités affectant plusieurs produits d’Adobe](https://www.dgssi.gov.ma/fr/content/3630110522-vulnerabilites-affectant-plusieurs-produits-d-adobe.html) | Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant l’exécution de code arbitraire ou l’... | 11 mai 2022 |
+## CISA [:arrow_heading_up:](#cyberowl)
+|Title|Description|Date|
+|---|---|---|
+| [Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/uscert/ncas/current-activity/2022/05/12/adobe-releases-security-updates-multiple-products) | <p>Adobe has released security updates to address vulnerabilities in multiple products. An attacker could exploit some of these vulnerabilities to take control of an affected system. </p> | Thursday, May 12, 2022 |
+| [Google Releases Security Updates for Chrome](https://www.cisa.gov/uscert/ncas/current-activity/2022/05/11/google-releases-security-updates-chrome) | <p>Google has released Chrome version 101.0.4951.64 for Windows, Mac, and Linux. This version addresses vulnerabilities that an attacker could exploit to take control of an affected system. </p> | Wednesday, May 11, 2022 |
+| [Microsoft Releases May 2022 Security Updates](https://www.cisa.gov/uscert/ncas/current-activity/2022/05/11/microsoft-releases-may-2022-security-updates) | <p>Microsoft has released updates to address multiple vulnerabilities in Microsoft software. An attacker can exploit some of these vulnerabilities to take control of an affected system.</p> | Wednesday, May 11, 2022 |
+| [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2022/05/11/cisa-adds-one-known-exploited-vulnerability-catalog) | <p>CISA has added one new vulnerability to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: to view the newly added vulnerability in the catalog, click on the arrow on the of the "Date Added to Catalog" column, which will sort by descending dates. </p> | Wednesday, May 11, 2022 |
+| [CISA Joins Partners to Release Advisory on Protecting MSPs and their Customers](https://www.cisa.gov/uscert/ncas/current-activity/2022/05/11/cisa-joins-partners-release-advisory-protecting-msps-and-their) | <p>The cybersecurity authorities of the United Kingdom, Australia, Canada, New Zealand, and the United States have released joint Cybersecurity Advisory (CSA), <a href="https://www.cisa.gov/uscert/ncas/alerts/aa22-131a">Protecting Against Cyber Threats to Managed Service Providers and their Customers</a>, to provide guidance on how to protect against malicious cyber activity targeting managed service providers (MSPs) and their customers.</p> | Wednesday, May 11, 2022 |
+| [CISA Adds One Known Exploited Vulnerability to Catalog ](https://www.cisa.gov/uscert/ncas/current-activity/2022/05/10/cisa-adds-one-known-exploited-vulnerability-catalog) | <p>CISA has added one new vulnerability to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: to view the newly added vulnerability in the catalog, click on the arrow on the of the "Date Added to Catalog" column, which will sort by descending dates. </p> | Tuesday, May 10, 2022 |
