@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 ## CyberOwl 
-> Last Updated 15/05/2022 11:56:01 
+> Last Updated 16/05/2022 09:12:26 
 
 
 A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
@@ -37,6 +37,17 @@ A daily updated summary of the most frequent types of security incidents current
 | [Microsoft Releases May 2022 Security Updates](https://www.cisa.gov/uscert/ncas/current-activity/2022/05/11/microsoft-releases-may-2022-security-updates) | <p>Microsoft has released updates to address multiple vulnerabilities in Microsoft software. An attacker can exploit some of these vulnerabilities to take control of an affected system.</p> | Wednesday, May 11, 2022 |
 | [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2022/05/11/cisa-adds-one-known-exploited-vulnerability-catalog) | <p>CISA has added one new vulnerability to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: to view the newly added vulnerability in the catalog, click on the arrow on the of the "Date Added to Catalog" column, which will sort by descending dates. </p> | Wednesday, May 11, 2022 |
 | [CISA Joins Partners to Release Advisory on Protecting MSPs and their Customers](https://www.cisa.gov/uscert/ncas/current-activity/2022/05/11/cisa-joins-partners-release-advisory-protecting-msps-and-their) | <p>The cybersecurity authorities of the United Kingdom, Australia, Canada, New Zealand, and the United States have released joint Cybersecurity Advisory (CSA), <a href="https://www.cisa.gov/uscert/ncas/alerts/aa22-131a">Protecting Against Cyber Threats to Managed Service Providers and their Customers</a>, to provide guidance on how to protect against malicious cyber activity targeting managed service providers (MSPs) and their customers.</p> | Wednesday, May 11, 2022 |
+## IBMCloud [:arrow_heading_up:](#cyberowl)
+|Title|Description|Date|
+|---|---|---|
+| [SonicWall SMA1000 series security bypass (CVE-2022-22282)](None) | Visit link for details | May 13, 2022 |
+| [SonicWall SMA1000 series open redirect (CVE-2022-1702)](None) | Visit link for details | May 13, 2022 |
+| [SonicWall SMA1000 series information disclosure (CVE-2022-1701)](None) | Visit link for details | May 13, 2022 |
+| [Easy Blog plugin for EC-CUBE4 cross-site request forgery (CVE-2022-27174)](None) | Visit link for details | May 13, 2022 |
+| [Strapi cross-site scripting (CVE-2022-29894)](None) | Visit link for details | May 13, 2022 |
+| [ZTE ZXMP M721 devices privilege escalation (CVE-2022-23139)](None) | Visit link for details | May 12, 2022 |
+| [Microsoft Windows Print Spooler privilege escalation (CVE-2022-30138)](None) | Visit link for details | May 12, 2022 |
+| [Foxit PDF Reader code execution (CVE-2022-28669)](None) | Visit link for details | May 12, 2022 |
 ## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
@@ -48,17 +59,6 @@ A daily updated summary of the most frequent types of security incidents current
 | [Foxit PDF Reader Doc Object Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-769/) | Visit link for details | 7.8 |
 | [Foxit PDF Reader Annotation Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-768/) | Visit link for details | 7.8 |
 | [Foxit PDF Reader Doc Object Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-767/) | Visit link for details | 7.8 |
-## IBMCloud [:arrow_heading_up:](#cyberowl)
-|Title|Description|Date|
-|---|---|---|
-| [Easy Blog plugin for EC-CUBE4 cross-site request forgery (CVE-2022-27174)](None) | Visit link for details | May 13, 2022 |
-| [Strapi cross-site scripting (CVE-2022-29894)](None) | Visit link for details | May 13, 2022 |
-| [Microsoft Windows Print Spooler privilege escalation (CVE-2022-30138)](None) | Visit link for details | May 12, 2022 |
-| [Foxit PDF Reader code execution (CVE-2022-28669)](None) | Visit link for details | May 12, 2022 |
-| [Foxit PDF Reader information disclosure (CVE-2022-28670)](None) | Visit link for details | May 12, 2022 |
-| [Foxit PDF Reader code execution (CVE-2022-28671)](None) | Visit link for details | May 12, 2022 |
-| [Foxit PDF Reader code execution (CVE-2022-28674)](None) | Visit link for details | May 12, 2022 |
-| [Foxit PDF Reader code execution (CVE-2022-28672)](None) | Visit link for details | May 12, 2022 |
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
