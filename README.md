@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 ## CyberOwl 
-> Last Updated 26/05/2022 12:47:54 
+> Last Updated 27/05/2022 09:49:58 
 
 
 A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
@@ -15,6 +15,15 @@ A daily updated summary of the most frequent types of security incidents current
 * [IBMCLOUD](#ibmcloud-arrow_heading_up)
 * [ZeroDayInitiative](#zerodayinitiative-arrow_heading_up)
 
+## CISA [:arrow_heading_up:](#cyberowl)
+|Title|Description|Date|
+|---|---|---|
+| [Drupal Releases Security Updates](https://www.cisa.gov/uscert/ncas/current-activity/2022/05/26/drupal-releases-security-updates) | <p>Drupal has released security updates to address a vulnerability that does not affect Drupal core but may affect some contributed projects or custom code on Drupal sites. Exploitation of this vulnerability could allow a remote attacker to take control of an affected website.</p> | Thursday, May 26, 2022 |
+| [Citrix Releases Security Updates for ADC and Gateway](https://www.cisa.gov/uscert/ncas/current-activity/2022/05/26/citrix-releases-security-updates-adc-and-gateway) | <p>Citrix has released security updates to address vulnerabilities in ADC and Gateway. An attacker could exploit these vulnerabilities to cause a denial-of-service condition.</p> | Thursday, May 26, 2022 |
+| [CISA and DoD Release 5G Security Evaluation Process Investigation Study](https://www.cisa.gov/uscert/ncas/current-activity/2022/05/26/cisa-and-dod-release-5g-security-evaluation-process-investigation) | <p>CISA and the Department of Defense (DoD) have released their <em>5G Security Evaluation Process Investigation Study </em>for federal agencies. The new features, capabilities, and services offered by fifth-generation (5G) cellular network technology can transform mission and business operations; and federal agencies will eventually be applying different 5G usage scenarios: low-, mid-, and high-band spectrum. </p> | Thursday, May 26, 2022 |
+| [Google Releases Security Updates for Chrome](https://www.cisa.gov/uscert/ncas/current-activity/2022/05/25/google-releases-security-updates-chrome) | <p>Google has released Chrome version 102.0.5005.61 for Windows, Mac, and Linux. This version addresses vulnerabilities that an attacker could exploit to take control of an affected system. </p> | Wednesday, May 25, 2022 |
+| [CISA Adds 34 Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2022/05/25/cisa-adds-34-known-exploited-vulnerabilities-catalog) | <p>CISA has added 34 new vulnerabilities to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. <strong>Note:</strong> to view the newly added vulnerabilities in the catalog, click on the arrow on the of the "Date Added to Catalog" column, which will sort by descending dates.</p> | Wednesday, May 25, 2022 |
+| [CISA Adds 20 Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2022/05/24/cisa-adds-20-known-exploited-vulnerabilities-catalog) | <p>CISA has added 20 new vulnerabilities to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. <strong>Note:</strong> to view the newly added vulnerabilities in the catalog, click on the arrow on the of the "Date Added to Catalog" column, which will sort by descending dates. </p> | Tuesday, May 24, 2022 |
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
@@ -28,37 +37,28 @@ A daily updated summary of the most frequent types of security incidents current
 | [Multiples vulnérabilités dans IBM Spectrum Scale](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-489/) | De multiples vulnérabilités ont été découvertes dans IBM Spectrum Scale. Certaines d'entre elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. | 24 mai 2022 |
 | [Multiples vulnérabilités dans les produits F-Secure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-488/) | De multiples vulnérabilités ont été découvertes dans les produits F-Secure. Elles permettent à un attaquant de provoquer un déni de service à distance. | 23 mai 2022 |
 | [Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-487/) | De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service et un contournement de la politique de sécurité. | 23 mai 2022 |
-## CISA [:arrow_heading_up:](#cyberowl)
-|Title|Description|Date|
-|---|---|---|
-| [Google Releases Security Updates for Chrome](https://www.cisa.gov/uscert/ncas/current-activity/2022/05/25/google-releases-security-updates-chrome) | <p>Google has released Chrome version 102.0.5005.61 for Windows, Mac, and Linux. This version addresses vulnerabilities that an attacker could exploit to take control of an affected system. </p> | Wednesday, May 25, 2022 |
-| [CISA Adds 34 Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2022/05/25/cisa-adds-34-known-exploited-vulnerabilities-catalog) | <p>CISA has added 34 new vulnerabilities to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. <strong>Note:</strong> to view the newly added vulnerabilities in the catalog, click on the arrow on the of the "Date Added to Catalog" column, which will sort by descending dates.</p> | Wednesday, May 25, 2022 |
-| [CISA Adds 20 Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2022/05/24/cisa-adds-20-known-exploited-vulnerabilities-catalog) | <p>CISA has added 20 new vulnerabilities to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. <strong>Note:</strong> to view the newly added vulnerabilities in the catalog, click on the arrow on the of the "Date Added to Catalog" column, which will sort by descending dates. </p> | Tuesday, May 24, 2022 |
-| [Mozilla Releases Security Products for Multiple Firefox Products](https://www.cisa.gov/uscert/ncas/current-activity/2022/05/23/mozilla-releases-security-products-multiple-firefox-products) | <p>Mozilla has released security updates to address vulnerabilities in Firefox 100.0.2, Firefox for Android 100.3.0, and Firefox ESR 91.9.1. An attacker could exploit these vulnerabilities to take control of an affected system.  </p> | Monday, May 23, 2022 |
-| [CISA Adds 21 Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2022/05/23/cisa-adds-21-known-exploited-vulnerabilities-catalog) | <p>CISA has added 21 new vulnerabilities to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: to view the newly added vulnerabilities in the catalog, click on the arrow on the of the "Date Added to Catalog" column, which will sort by descending dates. </p> | Monday, May 23, 2022 |
-| [ISC Releases Security Advisory for BIND](https://www.cisa.gov/uscert/ncas/current-activity/2022/05/19/isc-releases-security-advisory-bind) | <p>The Internet Systems Consortium (ISC) has released a security advisory that addresses a vulnerability affecting version 9.18.0 of ISC Berkeley Internet Name Domain (BIND). A remote attacker could exploit this vulnerability to cause a denial-of-service condition.</p> | Thursday, May 19, 2022 |
-## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
-|Title|Description|Date|
-|---|---|---|
-| [Foxit PDF Reader deletePages Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-774/) | Visit link for details | 7.8 |
-| [Foxit PDF Reader Doc Object Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-773/) | Visit link for details | 7.8 |
-| [Foxit PDF Reader deletePages Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-772/) | Visit link for details | 2.5 |
-| [Foxit PDF Reader Annotation Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-771/) | Visit link for details | 7.8 |
-| [Foxit PDF Reader Annotation Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-770/) | Visit link for details | 7.8 |
-| [Foxit PDF Reader Doc Object Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-769/) | Visit link for details | 7.8 |
-| [Foxit PDF Reader Annotation Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-768/) | Visit link for details | 7.8 |
-| [Foxit PDF Reader Doc Object Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-767/) | Visit link for details | 7.8 |
 ## IBMCloud [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
-| [Linux Kernel denial of service (CVE-2022-1789)](None) | Visit link for details | May 25, 2022 |
-| [logrotate denial of service (CVE-2022-1348)](None) | Visit link for details | May 25, 2022 |
-| [Citrix ADC and Citrix Gateway denial of service (CVE-2022-27508)](None) | Visit link for details | May 25, 2022 |
-| [Citrix ADC and Citrix Gateway denial of service (CVE-2022-27507)](None) | Visit link for details | May 25, 2022 |
-| [HashiCorp go-getter command execution (CVE-2022-26945)](None) | Visit link for details | May 24, 2022 |
-| [HashiCorp go-getter denial of service (CVE-2022-30321)](None) | Visit link for details | May 24, 2022 |
-| [HashiCorp go-getter denial of service (CVE-2022-30322)](None) | Visit link for details | May 24, 2022 |
-| [HashiCorp go-getter denial of service (CVE-2022-30323)](None) | Visit link for details | May 24, 2022 |
+| [Tuxera NTFS-3G code execution (CVE-2022-30787)](None) | Visit link for details | May 26, 2022 |
+| [Tuxera NTFS-3G code execution (CVE-2022-30785)](None) | Visit link for details | May 26, 2022 |
+| [Tuxera NTFS-3G code execution (CVE-2022-30783)](None) | Visit link for details | May 26, 2022 |
+| [Google Chrome OS information disclosure](None) | Visit link for details | May 26, 2022 |
+| [Tenda AC18 buffer overflow (CVE-2022-30472)](None) | Visit link for details | May 26, 2022 |
+| [Tenda AC18 buffer overflow (CVE-2022-30473)](None) | Visit link for details | May 26, 2022 |
+| [Tenda AC18 buffer overflow (CVE-2022-30474)](None) | Visit link for details | May 26, 2022 |
+| [Tenda AC18 buffer overflow (CVE-2022-30475)](None) | Visit link for details | May 26, 2022 |
+## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
+|Title|Description|Date|
+|---|---|---|
+| [Trend Micro Apex One Uncontrolled Search Path Element Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-797/) | Visit link for details | 7.8 |
+| [Delta Industrial Automation ASDA-Soft PAR File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-796/) | Visit link for details | 7.8 |
+| [Delta Industrial Automation ASDA-Soft SCP File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-795/) | Visit link for details | 7.8 |
+| [Apple macOS HEIC File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-794/) | Visit link for details | 7.8 |
+| [Apple Safari WebGL generateMipmap Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-793/) | Visit link for details | 8.8 |
+| [Apple macOS ImageIO WebP File Parsing Integer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-792/) | Visit link for details | 7.8 |
+| [Apple macOS SCPT File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-791/) | Visit link for details | 3.3 |
+| [Trend Micro Apex One Incorrect Permission Assignment Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-790/) | Visit link for details | 7.8 |
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
