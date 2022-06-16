@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 ## CyberOwl 
-> Last Updated 15/06/2022 17:28:00 
+> Last Updated 16/06/2022 09:06:38 
 
 
 A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
@@ -15,6 +15,15 @@ A daily updated summary of the most frequent types of security incidents current
 * [IBMCLOUD](#ibmcloud-arrow_heading_up)
 * [ZeroDayInitiative](#zerodayinitiative-arrow_heading_up)
 
+## CISA [:arrow_heading_up:](#cyberowl)
+|Title|Description|Date|
+|---|---|---|
+| [Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/uscert/ncas/current-activity/2022/06/14/adobe-releases-security-updates-multiple-products) | <p>Adobe has released security updates to address vulnerabilities in multiple products. An attacker could exploit some of these vulnerabilities to take control of an affected system.  </p> | Tuesday, June 14, 2022 |
+| [SAP Releases June 2022 Security Updates](https://www.cisa.gov/uscert/ncas/current-activity/2022/06/14/sap-releases-june-2022-security-updates) | <p>SAP has released security updates to address vulnerabilities affecting multiple products. An attacker could exploit some of these vulnerabilities to take control of an affected system.</p> | Tuesday, June 14, 2022 |
+| [CISA Adds One Known Exploited Vulnerability to Catalog ](https://www.cisa.gov/uscert/ncas/current-activity/2022/06/14/cisa-adds-one-known-exploited-vulnerability-catalog) | <p>CISA has added one new vulnerability to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: to view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.    </p> | Tuesday, June 14, 2022 |
+| [Citrix Releases Security Updates for Application Delivery Management](https://www.cisa.gov/uscert/ncas/current-activity/2022/06/14/citrix-releases-security-updates-application-delivery-management) | <p>Citrix has released security updates to address vulnerabilities in Application Delivery Management. An attacker could exploit these vulnerabilities to take control of an affected system.</p> | Tuesday, June 14, 2022 |
+| [Microsoft Releases June 2022 Security Updates](https://www.cisa.gov/uscert/ncas/current-activity/2022/06/14/microsoft-releases-june-2022-security-updates) | <p>Microsoft has released updates to address multiple vulnerabilities in Microsoft software. An attacker can exploit some of these vulnerabilities to take control of an affected system.</p> | Tuesday, June 14, 2022 |
+| [Drupal Releases Security Updates](https://www.cisa.gov/uscert/ncas/current-activity/2022/06/13/drupal-releases-security-updates) | <p>Drupal has released security updates to address a Guzzle third-party library vulnerability that does not affect Drupal core but may affect some contributed projects or custom code on Drupal sites. Exploitation of this vulnerability could allow a remote attacker to take control of an affected website.</p> | Monday, June 13, 2022 |
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
@@ -28,15 +37,6 @@ A daily updated summary of the most frequent types of security incidents current
 | [Multiples vulnérabilités dans les produits Intel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-552/) | De multiples vulnérabilités ont été découvertes dans les produits Intel. Elles permettent à un attaquant de provoquer un déni de service et une atteinte à la confidentialité des données. | 15 juin 2022 |
 | [Multiples vulnérabilités dans Zimbra](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-551/) | De multiples vulnérabilités ont été découvertes dans Zimbra. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données. | 15 juin 2022 |
 | [Multiples vulnérabilités dans VMware ESXi](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-550/) | De multiples vulnérabilités ont été découvertes dans VMware ESXi. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données. | 15 juin 2022 |
-## CISA [:arrow_heading_up:](#cyberowl)
-|Title|Description|Date|
-|---|---|---|
-| [Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/uscert/ncas/current-activity/2022/06/14/adobe-releases-security-updates-multiple-products) | <p>Adobe has released security updates to address vulnerabilities in multiple products. An attacker could exploit some of these vulnerabilities to take control of an affected system.  </p> | Tuesday, June 14, 2022 |
-| [SAP Releases June 2022 Security Updates](https://www.cisa.gov/uscert/ncas/current-activity/2022/06/14/sap-releases-june-2022-security-updates) | <p>SAP has released security updates to address vulnerabilities affecting multiple products. An attacker could exploit some of these vulnerabilities to take control of an affected system.</p> | Tuesday, June 14, 2022 |
-| [CISA Adds One Known Exploited Vulnerability to Catalog ](https://www.cisa.gov/uscert/ncas/current-activity/2022/06/14/cisa-adds-one-known-exploited-vulnerability-catalog) | <p>CISA has added one new vulnerability to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: to view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.    </p> | Tuesday, June 14, 2022 |
-| [Citrix Releases Security Updates for Application Delivery Management](https://www.cisa.gov/uscert/ncas/current-activity/2022/06/14/citrix-releases-security-updates-application-delivery-management) | <p>Citrix has released security updates to address vulnerabilities in Application Delivery Management. An attacker could exploit these vulnerabilities to take control of an affected system.</p> | Tuesday, June 14, 2022 |
-| [Microsoft Releases June 2022 Security Updates](https://www.cisa.gov/uscert/ncas/current-activity/2022/06/14/microsoft-releases-june-2022-security-updates) | <p>Microsoft has released updates to address multiple vulnerabilities in Microsoft software. An attacker can exploit some of these vulnerabilities to take control of an affected system.</p> | Tuesday, June 14, 2022 |
-| [Drupal Releases Security Updates](https://www.cisa.gov/uscert/ncas/current-activity/2022/06/13/drupal-releases-security-updates) | <p>Drupal has released security updates to address a Guzzle third-party library vulnerability that does not affect Drupal core but may affect some contributed projects or custom code on Drupal sites. Exploitation of this vulnerability could allow a remote attacker to take control of an affected website.</p> | Monday, June 13, 2022 |
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
