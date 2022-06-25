@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 ## CyberOwl 
-> Last Updated 24/06/2022 17:14:06 
+> Last Updated 25/06/2022 11:37:27 
 
 
 A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
@@ -15,19 +15,6 @@ A daily updated summary of the most frequent types of security incidents current
 * [IBMCLOUD](#ibmcloud-arrow_heading_up)
 * [ZeroDayInitiative](#zerodayinitiative-arrow_heading_up)
 
-## CERT-FR [:arrow_heading_up:](#cyberowl)
-|Title|Description|Date|
-|---|---|---|
-| [Vulnérabilité dans Apache Tomcat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-579/) | Une vulnérabilité a été découverte dans Apache Tomcat. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS). | 23 juin 2022 |
-| [Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-578/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Elles permettent à un attaquant de provoquer une élévation de privilèges. | 22 juin 2022 |
-| [Vulnérabilité dans les produits QNAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-577/) | Une vulnérabilité a été découverte dans les produits QNAP. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. | 22 juin 2022 |
-| [Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-576/) | De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et un contournement de la politique de sécurité. | 22 juin 2022 |
-| [Vulnérabilité dans OpenSSL c_rehash](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-575/) | Une vulnérabilité a été découverte dans OpenSSL c_rehash. Elle permet à un attaquant de provoquer une exécution de code arbitraire. | 22 juin 2022 |
-| [[SCADA] Vulnérabilité dans Siemens SIMATIC WinCC OA](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-574/) | Une vulnérabilité a été découverte dans Siemens SIMATIC WinCC OA. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. | 22 juin 2022 |
-| [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-573/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire et un déni de service. | 21 juin 2022 |
-| [Vulnérabilité dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-572/) | Une vulnérabilité a été découverte dans les produits IBM. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. | 21 juin 2022 |
-| [Vulnérabilité dans VMware Spring Data MongoDB](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-571/) | Une vulnérabilité a été découverte dans VMware Spring Data MongoDB. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. | 21 juin 2022 |
-| [Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-570/) | De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité. | 20 juin 2022 |
 ## CISA [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
@@ -52,3 +39,16 @@ A daily updated summary of the most frequent types of security incidents current
 | [36951706/22 - Vulnérabilités dans les produits Siemens](https://www.dgssi.gov.ma/fr/content/3695170622-vulnerabilites-dans-les-produits-siemens.html) | Plusieurs vulnérabilités ont été corrigées dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à dis-tance, réussir une élévation de privilèges, causer un... | 17 juin 2022 |
 | [36941706/22 - Vulnérabilité critique affectant le plugin «Ninja Forms» pour WordPress](https://www.dgssi.gov.ma/fr/content/3694170622-vulnerabilite-critique-affectant-le-plugin-ninja-forms-pour-wordpress.html) | WordPressannonce la correction d’unevulnérabilité critique affectant le plugin « Ninja Forms». L’exploitation de cette vulnérabilitépeut permettre à un attaquant d’exécuter du code malicieux. | 17 juin 2022 |
 | [36931606/22 - Vulnérabilités critiques dans les produits Splunk](https://www.dgssi.gov.ma/fr/content/3693160622-vulnerabilites-critiques-dans-les-produits-splunk.html) | Splunk a publié une mise à jour de sécurité corrigeant plusieurs vulnérabilités critiques dans les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire, de contourner la... | 16 juin 2022 |
+## CERT-FR [:arrow_heading_up:](#cyberowl)
+|Title|Description|Date|
+|---|---|---|
+| [Vulnérabilité dans Apache Tomcat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-579/) | Une vulnérabilité a été découverte dans Apache Tomcat. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS). | 23 juin 2022 |
+| [Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-578/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Elles permettent à un attaquant de provoquer une élévation de privilèges. | 22 juin 2022 |
+| [Vulnérabilité dans les produits QNAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-577/) | Une vulnérabilité a été découverte dans les produits QNAP. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. | 22 juin 2022 |
+| [Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-576/) | De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et un contournement de la politique de sécurité. | 22 juin 2022 |
+| [Vulnérabilité dans OpenSSL c_rehash](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-575/) | Une vulnérabilité a été découverte dans OpenSSL c_rehash. Elle permet à un attaquant de provoquer une exécution de code arbitraire. | 22 juin 2022 |
+| [[SCADA] Vulnérabilité dans Siemens SIMATIC WinCC OA](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-574/) | Une vulnérabilité a été découverte dans Siemens SIMATIC WinCC OA. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. | 22 juin 2022 |
+| [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-573/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire et un déni de service. | 21 juin 2022 |
+| [Vulnérabilité dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-572/) | Une vulnérabilité a été découverte dans les produits IBM. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. | 21 juin 2022 |
+| [Vulnérabilité dans VMware Spring Data MongoDB](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-571/) | Une vulnérabilité a été découverte dans VMware Spring Data MongoDB. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. | 21 juin 2022 |
+| [Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-570/) | De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité. | 20 juin 2022 |
