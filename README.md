@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 ## CyberOwl 
-> Last Updated 08/07/2022 13:33:42 
+> Last Updated 08/07/2022 13:41:06 
 
 
 A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
@@ -24,6 +24,28 @@ A daily updated summary of the most frequent types of security incidents current
 | [Google Releases Security Update for Chrome](https://www.cisa.gov/uscert/ncas/current-activity/2022/07/05/google-releases-security-update-chrome) | <p>Google has released Chrome version 103.0.5060.114 for Windows. This version addresses vulnerabilities that an attacker could exploit to take control of an affected system. </p> | Tuesday, July 5, 2022 |
 | [Prepare for a New Cryptographic Standard to Protect Against Future Quantum-Based Threats](https://www.cisa.gov/uscert/ncas/current-activity/2022/07/05/prepare-new-cryptographic-standard-protect-against-future-quantum) | <p>The National Institute of Standards and Technology (NIST) has announced that a new post-quantum cryptographic standard will replace current public-key cryptography, which is vulnerable to quantum-based attacks.</p> | Tuesday, July 5, 2022 |
 | [CISA Adds One Known Exploited Vulnerability to Catalog ](https://www.cisa.gov/uscert/ncas/current-activity/2022/07/01/cisa-adds-one-known-exploited-vulnerability-catalog) | <p>CISA has added one new vulnerability to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. <strong>Note:</strong> to view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.</p> | Friday, July 1, 2022 |
+## IBMCloud [:arrow_heading_up:](#cyberowl)
+|Title|Description|Date|
+|---|---|---|
+| [Eclipse Jetty denial of service (CVE-2022-2191)](None) | Visit link for details | Jul 7, 2022 |
+| [Eclipse Jetty denial of service (CVE-2022-2048)](None) | Visit link for details | Jul 7, 2022 |
+| [Eclipse Jetty security bypass (CVE-2022-2047)](None) | Visit link for details | Jul 7, 2022 |
+| [Apache Druid clickjacking (CVE-2022-28889)](None) | Visit link for details | Jul 7, 2022 |
+| [Apache Druid cross-site scripting (CVE-2021-44791)](None) | Visit link for details | Jul 7, 2022 |
+| [Nodejs squid-sysvinit module denial of service (CVE-2021-46784)](None) | Visit link for details | Jul 7, 2022 |
+| [Node.js openssl.cnf security bypass (CVE-2022-32222)](None) | Visit link for details | Jul 7, 2022 |
+| [](None) | Visit link for details |  |
+## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
+|Title|Description|Date|
+|---|---|---|
+| [SAP 3D Visual Enterprise Viewer EPS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-958/) | Visit link for details | 7.8 |
+| [SAP 3D Visual Enterprise Viewer BPM File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-957/) | Visit link for details | 7.8 |
+| [SAP 3D Visual Enterprise Viewer HDR File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-956/) | Visit link for details | 7.8 |
+| [Sante PACS Server SQL Injection Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-955/) | Visit link for details | 9.8 |
+| [Centreon Virtual Metrics SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-954/) | Visit link for details | 6.5 |
+| [Centreon Poller Resource SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-953/) | Visit link for details | 7.2 |
+| [Foxit PDF Reader Annotation modDate Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-952/) | Visit link for details | 3.3 |
+| [Foxit PDF Reader Doc Object color Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-951/) | Visit link for details | 3.3 |
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
