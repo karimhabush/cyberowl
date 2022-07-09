@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 ## CyberOwl 
-> Last Updated 09/07/2022 09:13:53 
+> Last Updated 09/07/2022 21:12:56 
 
 
 A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
@@ -35,6 +35,17 @@ A daily updated summary of the most frequent types of security incidents current
 | [Centreon Virtual Metrics SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-954/) | Visit link for details | 6.5 |
 | [Centreon Poller Resource SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-953/) | Visit link for details | 7.2 |
 | [Foxit PDF Reader Annotation modDate Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-952/) | Visit link for details | 3.3 |
+## IBMCloud [:arrow_heading_up:](#cyberowl)
+|Title|Description|Date|
+|---|---|---|
+| [DENX Das U-Boot buffer overflow (CVE-2022-2347)](None) | Visit link for details | Jul 8, 2022 |
+| [Bently Nevada security bypass (CVE-2022-29952)](None) | Visit link for details | Jul 7, 2022 |
+| [Bently Nevada default account (CVE-2022-29953)](None) | Visit link for details | Jul 7, 2022 |
+| [Centreon Platform SQL injection (CVE-2022-34872)](None) | Visit link for details | Jul 7, 2022 |
+| [Hex-Rays Idapro denial of service (CVE-2022-32441)](None) | Visit link for details | Jul 7, 2022 |
+| [TOTOLINK EX300 command execution (CVE-2022-32449)](None) | Visit link for details | Jul 7, 2022 |
+| [AdminLTE queryads.php cross-site scripting (CVE-2022-31029)](None) | Visit link for details | Jul 7, 2022 |
+| [](None) | Visit link for details |  |
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
@@ -50,17 +61,6 @@ A daily updated summary of the most frequent types of security incidents current
 | [37110407/22 - Vulnérabilités dans ElasticSearch et Kibana](https://www.dgssi.gov.ma/fr/content/3711040722-vulnerabilites-dans-elasticsearch-et-kibana.html) | Deux vulnérabilités ont été corrigées dans les versions susmentionnées d’Elasticsearch et Kibana. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges ou d'injecter du code arbitraire à distance. | 04 juillet 2022 |
 | [37100407/22 - Vulnérabilité dans Microsoft Edge](https://www.dgssi.gov.ma/fr/content/3710040722-vulnerabilite-dans-microsoft-edge.html) | Microsoft annonce la correction d’une vulnérabilité dans Microsoft Edge. L’exploitation de cette faille peut permettre à un attaquant de réussir une élévation de privilèges. | 04 juillet 2022 |
 | [37090107/22 - Nouveau Malware " SessionManager " cible les serveurs Web IIS de Microsoft](https://www.dgssi.gov.ma/fr/content/3709010722-nouveau-malware-sessionmanager-cible-les-serveurs-web-iis-de-microsoft.html) | Un nouveau malware surnommé "SessionManager" a été découvert affectant les serveurs web utilisant IIS de Microsoft. Les attaquants ont utilisé ce logiciel malveillant pour détourner des serveurs Microsoft Exchange appartenant à... | 01 juillet 2022 |
-## IBMCloud [:arrow_heading_up:](#cyberowl)
-|Title|Description|Date|
-|---|---|---|
-| [Bently Nevada security bypass (CVE-2022-29952)](None) | Visit link for details | Jul 7, 2022 |
-| [Bently Nevada default account (CVE-2022-29953)](None) | Visit link for details | Jul 7, 2022 |
-| [Centreon Platform SQL injection (CVE-2022-34872)](None) | Visit link for details | Jul 7, 2022 |
-| [Hex-Rays Idapro denial of service (CVE-2022-32441)](None) | Visit link for details | Jul 7, 2022 |
-| [TOTOLINK EX300 command execution (CVE-2022-32449)](None) | Visit link for details | Jul 7, 2022 |
-| [AdminLTE queryads.php cross-site scripting (CVE-2022-31029)](None) | Visit link for details | Jul 7, 2022 |
-| [Hyperledger Fabric denial of service (CVE-2022-31121)](None) | Visit link for details | Jul 7, 2022 |
-| [](None) | Visit link for details |  |
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
