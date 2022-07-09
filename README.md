@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 ## CyberOwl 
-> Last Updated 08/07/2022 21:13:41 
+> Last Updated 09/07/2022 09:13:53 
 
 
 A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
@@ -24,6 +24,17 @@ A daily updated summary of the most frequent types of security incidents current
 | [Google Releases Security Update for Chrome](https://www.cisa.gov/uscert/ncas/current-activity/2022/07/05/google-releases-security-update-chrome) | <p>Google has released Chrome version 103.0.5060.114 for Windows. This version addresses vulnerabilities that an attacker could exploit to take control of an affected system. </p> | Tuesday, July 5, 2022 |
 | [Prepare for a New Cryptographic Standard to Protect Against Future Quantum-Based Threats](https://www.cisa.gov/uscert/ncas/current-activity/2022/07/05/prepare-new-cryptographic-standard-protect-against-future-quantum) | <p>The National Institute of Standards and Technology (NIST) has announced that a new post-quantum cryptographic standard will replace current public-key cryptography, which is vulnerable to quantum-based attacks.</p> | Tuesday, July 5, 2022 |
 | [CISA Adds One Known Exploited Vulnerability to Catalog ](https://www.cisa.gov/uscert/ncas/current-activity/2022/07/01/cisa-adds-one-known-exploited-vulnerability-catalog) | <p>CISA has added one new vulnerability to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. <strong>Note:</strong> to view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.</p> | Friday, July 1, 2022 |
+## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
+|Title|Description|Date|
+|---|---|---|
+| [(0Day) Vinchin Backup and Recovery MySQL Server Use of Hard-coded Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-959/) | Visit link for details | 9.8 |
+| [SAP 3D Visual Enterprise Viewer EPS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-958/) | Visit link for details | 7.8 |
+| [SAP 3D Visual Enterprise Viewer BPM File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-957/) | Visit link for details | 7.8 |
+| [SAP 3D Visual Enterprise Viewer HDR File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-956/) | Visit link for details | 7.8 |
+| [Sante PACS Server SQL Injection Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-955/) | Visit link for details | 9.8 |
+| [Centreon Virtual Metrics SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-954/) | Visit link for details | 6.5 |
+| [Centreon Poller Resource SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-953/) | Visit link for details | 7.2 |
+| [Foxit PDF Reader Annotation modDate Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-952/) | Visit link for details | 3.3 |
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
@@ -39,17 +50,6 @@ A daily updated summary of the most frequent types of security incidents current
 | [37110407/22 - Vulnérabilités dans ElasticSearch et Kibana](https://www.dgssi.gov.ma/fr/content/3711040722-vulnerabilites-dans-elasticsearch-et-kibana.html) | Deux vulnérabilités ont été corrigées dans les versions susmentionnées d’Elasticsearch et Kibana. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges ou d'injecter du code arbitraire à distance. | 04 juillet 2022 |
 | [37100407/22 - Vulnérabilité dans Microsoft Edge](https://www.dgssi.gov.ma/fr/content/3710040722-vulnerabilite-dans-microsoft-edge.html) | Microsoft annonce la correction d’une vulnérabilité dans Microsoft Edge. L’exploitation de cette faille peut permettre à un attaquant de réussir une élévation de privilèges. | 04 juillet 2022 |
 | [37090107/22 - Nouveau Malware " SessionManager " cible les serveurs Web IIS de Microsoft](https://www.dgssi.gov.ma/fr/content/3709010722-nouveau-malware-sessionmanager-cible-les-serveurs-web-iis-de-microsoft.html) | Un nouveau malware surnommé "SessionManager" a été découvert affectant les serveurs web utilisant IIS de Microsoft. Les attaquants ont utilisé ce logiciel malveillant pour détourner des serveurs Microsoft Exchange appartenant à... | 01 juillet 2022 |
-## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
-|Title|Description|Date|
-|---|---|---|
-| [(0Day) Vinchin Backup and Recovery MySQL Server Use of Hard-coded Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-959/) | Visit link for details | 9.8 |
-| [SAP 3D Visual Enterprise Viewer EPS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-958/) | Visit link for details | 7.8 |
-| [SAP 3D Visual Enterprise Viewer BPM File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-957/) | Visit link for details | 7.8 |
-| [SAP 3D Visual Enterprise Viewer HDR File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-956/) | Visit link for details | 7.8 |
-| [Sante PACS Server SQL Injection Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-955/) | Visit link for details | 9.8 |
-| [Centreon Virtual Metrics SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-954/) | Visit link for details | 6.5 |
-| [Centreon Poller Resource SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-953/) | Visit link for details | 7.2 |
-| [Foxit PDF Reader Annotation modDate Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-952/) | Visit link for details | 3.3 |
 ## IBMCloud [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
