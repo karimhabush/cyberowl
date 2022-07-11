@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 ## CyberOwl 
-> Last Updated 11/07/2022 09:15:22 
+> Last Updated 11/07/2022 21:13:22 
 
 
 A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
@@ -38,14 +38,27 @@ A daily updated summary of the most frequent types of security incidents current
 ## IBMCloud [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
+| [IBM SiteProtector information disclosure (CVE-2020-4150)](None) | Visit link for details | Jul 10, 2022 |
+| [IBM SiteProtector information disclosure (CVE-2020-4138)](None) | Visit link for details | Jul 10, 2022 |
+| [Node.js ably-fragmenter-test module code execution](None) | Visit link for details | Jul 8, 2022 |
+| [Node.js fully-featured-scalable-chat-app module code execution](None) | Visit link for details | Jul 8, 2022 |
+| [Node.js ably-latency-bot module code execution](None) | Visit link for details | Jul 8, 2022 |
+| [Yokogawa Rental & Lease Passage Drive command execution (CVE-2022-34866)](None) | Visit link for details | Jul 8, 2022 |
 | [DENX Das U-Boot buffer overflow (CVE-2022-2347)](None) | Visit link for details | Jul 8, 2022 |
-| [Bently Nevada security bypass (CVE-2022-29952)](None) | Visit link for details | Jul 7, 2022 |
-| [Bently Nevada default account (CVE-2022-29953)](None) | Visit link for details | Jul 7, 2022 |
-| [Centreon Platform SQL injection (CVE-2022-34872)](None) | Visit link for details | Jul 7, 2022 |
-| [Hex-Rays Idapro denial of service (CVE-2022-32441)](None) | Visit link for details | Jul 7, 2022 |
-| [TOTOLINK EX300 command execution (CVE-2022-32449)](None) | Visit link for details | Jul 7, 2022 |
-| [AdminLTE queryads.php cross-site scripting (CVE-2022-31029)](None) | Visit link for details | Jul 7, 2022 |
 | [](None) | Visit link for details |  |
+## CERT-FR [:arrow_heading_up:](#cyberowl)
+|Title|Description|Date|
+|---|---|---|
+| [Multiples vulnérabilités dans IBM MQ Operator et Queue manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-624/) | De multiples vulnérabilités ont été découvertes dans IBM MQ Operator et Queue manager. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une élévation de privilèges. | 11 juillet 2022 |
+| [Vulnérabilité dans F5 BIG-IP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-623/) | Une vulnérabilité a été découverte dans F5 BIG-IP. Elle permet à un attaquant de provoquer un déni de service, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. | 11 juillet 2022 |
+| [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-622/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. | 8 juillet 2022 |
+| [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-621/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une atteinte à la confidentialité des données. | 8 juillet 2022 |
+| [Multiples vulnérabilités dans PHP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-620/) | De multiples vulnérabilités ont été découvertes dans PHP. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 8 juillet 2022 |
+| [Multiples vulnérabilités dans IBM QRadar](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-619/) | De multiples vulnérabilités ont été découvertes dans IBM QRadar. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. | 8 juillet 2022 |
+| [Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-618/) | De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. | 7 juillet 2022 |
+| [Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-617/) | De multiples vulnérabilités ont été découvertes dans Google Android. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et une atteinte à la confidentialité des données. | 7 juillet 2022 |
+| [Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-616/) | De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 7 juillet 2022 |
+| [Multiples vulnérabilités dans Google ChromeOS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-615/) | De multiples vulnérabilités ont été découvertes dans Google ChromeOS. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 7 juillet 2022 |
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
@@ -61,16 +74,3 @@ A daily updated summary of the most frequent types of security incidents current
 | [37110407/22 - Vulnérabilités dans ElasticSearch et Kibana](https://www.dgssi.gov.ma/fr/content/3711040722-vulnerabilites-dans-elasticsearch-et-kibana.html) | Deux vulnérabilités ont été corrigées dans les versions susmentionnées d’Elasticsearch et Kibana. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges ou d'injecter du code arbitraire à distance. | 04 juillet 2022 |
 | [37100407/22 - Vulnérabilité dans Microsoft Edge](https://www.dgssi.gov.ma/fr/content/3710040722-vulnerabilite-dans-microsoft-edge.html) | Microsoft annonce la correction d’une vulnérabilité dans Microsoft Edge. L’exploitation de cette faille peut permettre à un attaquant de réussir une élévation de privilèges. | 04 juillet 2022 |
 | [37090107/22 - Nouveau Malware " SessionManager " cible les serveurs Web IIS de Microsoft](https://www.dgssi.gov.ma/fr/content/3709010722-nouveau-malware-sessionmanager-cible-les-serveurs-web-iis-de-microsoft.html) | Un nouveau malware surnommé "SessionManager" a été découvert affectant les serveurs web utilisant IIS de Microsoft. Les attaquants ont utilisé ce logiciel malveillant pour détourner des serveurs Microsoft Exchange appartenant à... | 01 juillet 2022 |
-## CERT-FR [:arrow_heading_up:](#cyberowl)
-|Title|Description|Date|
-|---|---|---|
-| [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-622/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. | 8 juillet 2022 |
-| [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-621/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une atteinte à la confidentialité des données. | 8 juillet 2022 |
-| [Multiples vulnérabilités dans PHP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-620/) | De multiples vulnérabilités ont été découvertes dans PHP. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 8 juillet 2022 |
-| [Multiples vulnérabilités dans IBM QRadar](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-619/) | De multiples vulnérabilités ont été découvertes dans IBM QRadar. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. | 8 juillet 2022 |
-| [Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-618/) | De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. | 7 juillet 2022 |
-| [Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-617/) | De multiples vulnérabilités ont été découvertes dans Google Android. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et une atteinte à la confidentialité des données. | 7 juillet 2022 |
-| [Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-616/) | De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 7 juillet 2022 |
-| [Multiples vulnérabilités dans Google ChromeOS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-615/) | De multiples vulnérabilités ont été découvertes dans Google ChromeOS. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 7 juillet 2022 |
-| [Vulnérabilité dans Nextcloud Mail](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-614/) | Une vulnérabilité a été découverte dans Nextcloud Mail. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. | 7 juillet 2022 |
-| [Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-613/) | De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données. | 6 juillet 2022 |
