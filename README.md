@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 ## CyberOwl 
-> Last Updated 11/07/2022 21:13:22 
+> Last Updated 12/07/2022 09:13:17 
 
 
 A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
@@ -27,38 +27,25 @@ A daily updated summary of the most frequent types of security incidents current
 ## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
+| [Trend Micro Maximum Security Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-962/) | Visit link for details | 4.4 |
+| [Linux Kernel LightNVM Subsystem Heap-based Overflow Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-961/) | Visit link for details | 8.2 |
+| [Linux Kernel LightNVM Subsystem Heap-based Overflow Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-960/) | Visit link for details | 8.2 |
 | [(0Day) Vinchin Backup and Recovery MySQL Server Use of Hard-coded Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-959/) | Visit link for details | 9.8 |
 | [SAP 3D Visual Enterprise Viewer EPS File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-958/) | Visit link for details | 7.8 |
 | [SAP 3D Visual Enterprise Viewer BPM File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-957/) | Visit link for details | 7.8 |
 | [SAP 3D Visual Enterprise Viewer HDR File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-956/) | Visit link for details | 7.8 |
 | [Sante PACS Server SQL Injection Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-955/) | Visit link for details | 9.8 |
-| [Centreon Virtual Metrics SQL Injection Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-954/) | Visit link for details | 6.5 |
-| [Centreon Poller Resource SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-953/) | Visit link for details | 7.2 |
-| [Foxit PDF Reader Annotation modDate Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-952/) | Visit link for details | 3.3 |
 ## IBMCloud [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
+| [Lenze cabinet products security bypass (CVE-2022-2302)](None) | Visit link for details | Jul 11, 2022 |
+| [Kubernetes SIGs AWS IAM Authenticator privilege escalation (CVE-2022-2385)](None) | Visit link for details | Jul 11, 2022 |
+| [OctoBot file upload (CVE-2021-36711)](None) | Visit link for details | Jul 11, 2022 |
+| [H3C SSL VPN cross-site scripting (CVE-2022-35416)](None) | Visit link for details | Jul 10, 2022 |
 | [IBM SiteProtector information disclosure (CVE-2020-4150)](None) | Visit link for details | Jul 10, 2022 |
 | [IBM SiteProtector information disclosure (CVE-2020-4138)](None) | Visit link for details | Jul 10, 2022 |
-| [Node.js ably-fragmenter-test module code execution](None) | Visit link for details | Jul 8, 2022 |
-| [Node.js fully-featured-scalable-chat-app module code execution](None) | Visit link for details | Jul 8, 2022 |
-| [Node.js ably-latency-bot module code execution](None) | Visit link for details | Jul 8, 2022 |
-| [Yokogawa Rental & Lease Passage Drive command execution (CVE-2022-34866)](None) | Visit link for details | Jul 8, 2022 |
-| [DENX Das U-Boot buffer overflow (CVE-2022-2347)](None) | Visit link for details | Jul 8, 2022 |
+| [Digital Guardian Agent information disclosure (CVE-2022-35412)](None) | Visit link for details | Jul 8, 2022 |
 | [](None) | Visit link for details |  |
-## CERT-FR [:arrow_heading_up:](#cyberowl)
-|Title|Description|Date|
-|---|---|---|
-| [Multiples vulnérabilités dans IBM MQ Operator et Queue manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-624/) | De multiples vulnérabilités ont été découvertes dans IBM MQ Operator et Queue manager. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une élévation de privilèges. | 11 juillet 2022 |
-| [Vulnérabilité dans F5 BIG-IP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-623/) | Une vulnérabilité a été découverte dans F5 BIG-IP. Elle permet à un attaquant de provoquer un déni de service, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. | 11 juillet 2022 |
-| [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-622/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. | 8 juillet 2022 |
-| [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-621/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une atteinte à la confidentialité des données. | 8 juillet 2022 |
-| [Multiples vulnérabilités dans PHP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-620/) | De multiples vulnérabilités ont été découvertes dans PHP. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 8 juillet 2022 |
-| [Multiples vulnérabilités dans IBM QRadar](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-619/) | De multiples vulnérabilités ont été découvertes dans IBM QRadar. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. | 8 juillet 2022 |
-| [Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-618/) | De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. | 7 juillet 2022 |
-| [Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-617/) | De multiples vulnérabilités ont été découvertes dans Google Android. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et une atteinte à la confidentialité des données. | 7 juillet 2022 |
-| [Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-616/) | De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 7 juillet 2022 |
-| [Multiples vulnérabilités dans Google ChromeOS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-615/) | De multiples vulnérabilités ont été découvertes dans Google ChromeOS. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 7 juillet 2022 |
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
@@ -74,3 +61,16 @@ A daily updated summary of the most frequent types of security incidents current
 | [37110407/22 - Vulnérabilités dans ElasticSearch et Kibana](https://www.dgssi.gov.ma/fr/content/3711040722-vulnerabilites-dans-elasticsearch-et-kibana.html) | Deux vulnérabilités ont été corrigées dans les versions susmentionnées d’Elasticsearch et Kibana. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges ou d'injecter du code arbitraire à distance. | 04 juillet 2022 |
 | [37100407/22 - Vulnérabilité dans Microsoft Edge](https://www.dgssi.gov.ma/fr/content/3710040722-vulnerabilite-dans-microsoft-edge.html) | Microsoft annonce la correction d’une vulnérabilité dans Microsoft Edge. L’exploitation de cette faille peut permettre à un attaquant de réussir une élévation de privilèges. | 04 juillet 2022 |
 | [37090107/22 - Nouveau Malware " SessionManager " cible les serveurs Web IIS de Microsoft](https://www.dgssi.gov.ma/fr/content/3709010722-nouveau-malware-sessionmanager-cible-les-serveurs-web-iis-de-microsoft.html) | Un nouveau malware surnommé "SessionManager" a été découvert affectant les serveurs web utilisant IIS de Microsoft. Les attaquants ont utilisé ce logiciel malveillant pour détourner des serveurs Microsoft Exchange appartenant à... | 01 juillet 2022 |
+## CERT-FR [:arrow_heading_up:](#cyberowl)
+|Title|Description|Date|
+|---|---|---|
+| [Multiples vulnérabilités dans IBM MQ Operator et Queue manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-624/) | De multiples vulnérabilités ont été découvertes dans IBM MQ Operator et Queue manager. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une élévation de privilèges. | 11 juillet 2022 |
+| [Vulnérabilité dans F5 BIG-IP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-623/) | Une vulnérabilité a été découverte dans F5 BIG-IP. Elle permet à un attaquant de provoquer un déni de service, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. | 11 juillet 2022 |
+| [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-622/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. | 8 juillet 2022 |
+| [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-621/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une atteinte à la confidentialité des données. | 8 juillet 2022 |
+| [Multiples vulnérabilités dans PHP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-620/) | De multiples vulnérabilités ont été découvertes dans PHP. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 8 juillet 2022 |
+| [Multiples vulnérabilités dans IBM QRadar](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-619/) | De multiples vulnérabilités ont été découvertes dans IBM QRadar. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. | 8 juillet 2022 |
+| [Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-618/) | De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. | 7 juillet 2022 |
+| [Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-617/) | De multiples vulnérabilités ont été découvertes dans Google Android. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et une atteinte à la confidentialité des données. | 7 juillet 2022 |
+| [Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-616/) | De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 7 juillet 2022 |
+| [Multiples vulnérabilités dans Google ChromeOS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-615/) | De multiples vulnérabilités ont été découvertes dans Google ChromeOS. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 7 juillet 2022 |
