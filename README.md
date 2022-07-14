@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 ## CyberOwl 
-> Last Updated 13/07/2022 21:14:27 
+> Last Updated 14/07/2022 09:15:28 
 
 
 A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
@@ -18,24 +18,24 @@ A daily updated summary of the most frequent types of security incidents current
 ## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
-| [Microsoft Windows win32kfull UMPDDrvStretchBltROP Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-978/) | Visit link for details | 8.8 |
-| [Microsoft Windows win32kfull UMPDDrvAlphaBlend Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-977/) | Visit link for details | 8.8 |
-| [Microsoft Windows win32kfull UMPDDrvCopyBits Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-976/) | Visit link for details | 8.8 |
-| [Microsoft Windows win32kfull UMPDDrvStretchBlt Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-975/) | Visit link for details | 8.8 |
-| [Microsoft Windows win32kfull UMPDDrvPlgBlt Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-974/) | Visit link for details | 8.8 |
-| [Microsoft Windows win32kfull UMPDDrvTransparentBlt Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-973/) | Visit link for details | 8.8 |
-| [Microsoft Windows win32kfull UMPDDrvBitBlt Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-972/) | Visit link for details | 8.8 |
-| [Microsoft Windows win32kfull UMPDDrvStrokePath Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-971/) | Visit link for details | 8.8 |
+| [Adobe Acrobat Reader DC PDF Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1001/) | Visit link for details | 7.8 |
+| [Adobe Acrobat Reader DC AcroForm value Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1000/) | Visit link for details | 7.8 |
+| [Adobe Character Animator SVG File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-999/) | Visit link for details | 7.8 |
+| [Adobe Acrobat Reader DC Font Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-998/) | Visit link for details | 7.8 |
+| [Adobe Character Animator SVG File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-997/) | Visit link for details | 7.8 |
+| [Adobe Acrobat Reader DC AcroForm exportValues Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-996/) | Visit link for details | 7.8 |
+| [Adobe Acrobat Reader DC AcroForm currentValueIndices Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-995/) | Visit link for details | 7.8 |
+| [Adobe Acrobat Reader DC PDF Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-994/) | Visit link for details | 7.8 |
 ## IBMCloud [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
-| [Lenovo Notebook BIOS buffer overflow (CVE-2022-1890)](None) | Visit link for details | Jul 12, 2022 |
-| [Lenovo Notebook BIOS buffer overflow (CVE-2022-1891)](None) | Visit link for details | Jul 12, 2022 |
-| [Lenovo Notebook BIOS buffer overflow (CVE-2022-1892)](None) | Visit link for details | Jul 12, 2022 |
-| [Adobe Acrobat and Adobe Reader information disclosure (CVE-2022-34238)](None) | Visit link for details | Jul 12, 2022 |
-| [Siemens SICAM GridEdge security bypass (CVE-2022-34464)](None) | Visit link for details | Jul 12, 2022 |
-| [LUX - TYPO3 Marketing Automation extension for TYPO3 SQL injection (CVE-2022-35628)](None) | Visit link for details | Jul 12, 2022 |
-| [Siemens Parasolid and Siemens Simcenter Femap code execution (CVE-2022-34465)](None) | Visit link for details | Jul 12, 2022 |
+| [Juniper Networks Junos Space Security Director Policy Enforcer weak security](None) | Visit link for details | Jul 13, 2022 |
+| [Juniper Networks Junos OS privilege escalation (CVE-2022-22221)](None) | Visit link for details | Jul 13, 2022 |
+| [Juniper Networks Junos OS denial of service (CVE-2022-22217)](None) | Visit link for details | Jul 13, 2022 |
+| [Juniper Networks Junos OS and Junos OS Evolved denial of service (CVE-2022-22215)](None) | Visit link for details | Jul 13, 2022 |
+| [Juniper Networks Junos OS and Junos OS Evolved denial of service (CVE-2022-22214)](None) | Visit link for details | Jul 13, 2022 |
+| [Juniper Networks Junos OS denial of service (CVE-2022-22205)](None) | Visit link for details | Jul 13, 2022 |
+| [Juniper Networks Junos OS denial of service (CVE-2022-22202)](None) | Visit link for details | Jul 13, 2022 |
 | [](None) | Visit link for details |  |
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
