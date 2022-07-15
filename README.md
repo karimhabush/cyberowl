@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 ## CyberOwl 
-> Last Updated 15/07/2022 09:14:09 
+> Last Updated 15/07/2022 21:13:02 
 
 
 A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
@@ -15,31 +15,32 @@ A daily updated summary of the most frequent types of security incidents current
 * [IBMCLOUD](#ibmcloud-arrow_heading_up)
 * [ZeroDayInitiative](#zerodayinitiative-arrow_heading_up)
 
-## IBMCloud [:arrow_heading_up:](#cyberowl)
-|Title|Description|Date|
-|---|---|---|
-| [Google Chrome WebGPU code execution (CVE-2022-2399)](None) | Visit link for details | Jul 14, 2022 |
-| [Siemens Teamcenter Visualization and Siemens JT2Go buffer overflow (CVE-2022-2069)](None) | Visit link for details | Jul 14, 2022 |
-| [Entity Print module for Drupal code execution](None) | Visit link for details | Jul 13, 2022 |
-| [EGT-Kommunikationstechnik UG Mediacenter cross-site scripting (CVE-2022-31904)](None) | Visit link for details | Jul 13, 2022 |
-| [Atlassian Jira Transition Scheduler add-on cross-site scripting (CVE-2022-32274)](None) | Visit link for details | Jul 13, 2022 |
-| [Juniper Networks Junos Space Security Director Policy Enforcer weak security](None) | Visit link for details | Jul 13, 2022 |
-| [Juniper Networks Junos OS privilege escalation (CVE-2022-22221)](None) | Visit link for details | Jul 13, 2022 |
-| [](None) | Visit link for details |  |
 ## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
-| [Autodesk AutoCAD PRT File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1011/) | Visit link for details | 7.8 |
-| [Autodesk AutoCAD PRT File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1010/) | Visit link for details | 7.8 |
-| [Adobe InCopy Font Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1009/) | Visit link for details | 7.8 |
-| [Adobe InCopy Font Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1008/) | Visit link for details | 7.8 |
-| [Adobe InCopy Font Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1007/) | Visit link for details | 3.3 |
-| [Adobe InCopy Font Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1006/) | Visit link for details | 7.8 |
-| [Adobe InDesign Font Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1005/) | Visit link for details | 7.8 |
-| [Adobe InDesign Font Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1004/) | Visit link for details | 7.8 |
+| [Siemens Simcenter Femap NEU File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1025/) | Visit link for details | 7.8 |
+| [Microsoft Windows win32kfull UMPDDrvStartBanding Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1024/) | Visit link for details | 8.8 |
+| [Microsoft Windows win32kfull UMPDDrvFillPath Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1023/) | Visit link for details | 8.8 |
+| [Microsoft Windows win32kfull UMPDDrvFontManagement Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1022/) | Visit link for details | 8.8 |
+| [Microsoft Windows Active Directory Certificate Services Improper Authorization Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1021/) | Visit link for details | 8.4 |
+| [(Pwn2Own) Inductive Automation Ignition ZIP File Insufficient UI Warning Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1020/) | Visit link for details | 7.8 |
+| [(Pwn2Own) Inductive Automation Ignition Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1019/) | Visit link for details | 7.8 |
+| [(Pwn2Own) Inductive Automation Ignition Missing Authentication for Critical Function Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1018/) | Visit link for details | 8.1 |
+## IBMCloud [:arrow_heading_up:](#cyberowl)
+|Title|Description|Date|
+|---|---|---|
+| [Mattermost Server information disclosure (CVE-2022-2401)](None) | Visit link for details | Jul 14, 2022 |
+| [Mattermost Server denial of service (CVE-2022-2406)](None) | Visit link for details | Jul 14, 2022 |
+| [Mattermost Server information disclosure (CVE-2022-2408)](None) | Visit link for details | Jul 14, 2022 |
+| [Fastify bearer-auth information disclosure (CVE-2022-31142)](None) | Visit link for details | Jul 14, 2022 |
+| [Google Chrome WebGPU code execution (CVE-2022-2399)](None) | Visit link for details | Jul 14, 2022 |
+| [Siemens Teamcenter Visualization and Siemens JT2Go buffer overflow (CVE-2022-2069)](None) | Visit link for details | Jul 14, 2022 |
+| [Sourcecodester Simple e-Learning System cross-site scripting (CVE-2022-2396)](None) | Visit link for details | Jul 13, 2022 |
+| [](None) | Visit link for details |  |
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
+| [37321507/22 - Vulnérabilités affectantplusieurs produits de Juniper](https://www.dgssi.gov.ma/fr/content/3732150722-vulnerabilites-affectant-plusieurs-produits-de-juniper.html) | Juniper annonce la correction de multiples vulnérabilités qui affectent plusieurs deses produits. Un attaquant distantpourrait exploiter ces failles pour exécuter du code arbitraire, éleverses privilèges, accéder à des... | 15 juillet 2022 |
 | [37311407/22 - Vulnérabilités dans les produits industriels Siemens](https://www.dgssi.gov.ma/fr/content/3731140722-vulnerabilites-dans-les-produits-industriels-siemens.html) | Plusieurs vulnérabilités ont été corrigées dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir une élévation de privilèges, causer un... | 14 juillet 2022 |
 | [37301407/22 - Vulnérabilités dans les processeurs AMD](https://www.dgssi.gov.ma/fr/content/3730140722-vulnerabilites-dans-les-processeurs-amd.html) | Plusieurs vulnérabilités ont été corrigées dans les processeurs AMD susmentionnés. Un attaquant distant pourrait exploiter certaines de ces vulnérabilités afin d’exécuter du code arbitraire à distance, accéder aux informations... | 14 juillet 2022 |
 | [37291407/22 - Vulnérabilités dansles produits Intel](https://www.dgssi.gov.ma/fr/content/3729140722-vulnerabilites-dans-les-produits-intel.html) | Intel a publié une mise à jour de sécurité corrigeant plusieurs vulnérabilités recensées dans les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de porter atteinte à la confidentialité de données. | 14 juillet 2022 |
@@ -51,17 +52,16 @@ A daily updated summary of the most frequent types of security incidents current
 | [37251307/22 - Vulnérabilités dans Microsoft Office (Patch Tuesday Juillet 2022)](https://www.dgssi.gov.ma/fr/content/3725130722-vulnerabilites-dans-microsoft-office-patch-tuesday-juillet-2022.html) | Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées des produits Microsoft Office. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code à distance ou de... | 13 juillet 2022 |
 | [37221307/22 - Vulnérabilités affectant Citrix Hypervisor](https://www.dgssi.gov.ma/fr/content/3722130722-vulnerabilites-affectant-citrix-hypervisor.html) | Citrix annonce la correction de deux vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code à distance. | 13 juillet 2022 |
 | [37200807/22 - Vulnérabilité dans les produits F5](https://www.dgssi.gov.ma/fr/content/3720080722-vulnerabilite-dans-les-produits-f5.html) | Une vulnérabilité a été corrigée dans les produits F5 susmentionnés. L’exploitation de cette faille permet à un attaquant de porter atteinte aux informations confidentielles. | 08 juillet 2022 |
-| [37190807/22 - Vulnérabilités dans Google Android](https://www.dgssi.gov.ma/fr/content/3719080722-vulnerabilites-dans-google-android.html) | Google annonce la publication d’un nouveau correctif de sécurité permettant la correction de plusieurs vulnérabilités dans son système d’exploitation Google Android. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’... | 08 juillet 2022 |
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
-| [Multiples vulnérabilités dans les produits AMD](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-637/) | De multiples vulnérabilités ont été découvertes dans les produits AMD. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à la confidentialité des données et une exécution de code arbitraire. | 13 juillet 2022 |
-| [Multiples vulnérabilités dans les produits Intel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-636/) | De multiples vulnérabilités ont été découvertes dans les produits Intel. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données. | 13 juillet 2022 |
-| [Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-635/) | De multiples vulnérabilités ont été corrigées dans  | 13 juillet 2022 |
-| [Multiples vulnérabilités dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-634/) | De multiples vulnérabilités ont été corrigées dans  | 13 juillet 2022 |
-| [Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-633/) | De multiples vulnérabilités ont été corrigées dans  | 13 juillet 2022 |
-| [Vulnérabilité dans Microsoft Office](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-632/) | Une vulnérabilité a été corrigée dans  | 13 juillet 2022 |
-| [Vulnérabilité dans IBM App Connect Enterprise Certified Container](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-631/) | Une vulnérabilité a été découverte dans IBM App Connect Enterprise Certified Container. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. | 13 juillet 2022 |
-| [Vulnérabilité dans Veeam Management Pack](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-630/) | Une vulnérabilité a été découverte dans Veeam Management Pack. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS). | 13 juillet 2022 |
-| [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-629/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service et un contournement de la politique de sécurité. | 13 juillet 2022 |
-| [[SCADA] Multiples vulnérabilités dans les produits Schneider Electric](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-628/) | De multiples vulnérabilités ont été découvertes dans les produits Schneider Electric. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité. | 12 juillet 2022 |
+| [Multiples vulnérabilités dans les produits Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-650/) | De multiples vulnérabilités ont été découvertes dans les produits Juniper. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité. | 15 juillet 2022 |
+| [Multiples vulnérabilités dans Grafana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-649/) | De multiples vulnérabilités ont été découvertes dans Grafana. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une élévation de privilèges et une injection de code indirecte à distance (XSS). | 15 juillet 2022 |
+| [Multiples vulnérabilités dans les produits SonicWall](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-648/) | De multiples vulnérabilités ont été découvertes dans les produits SonicWall. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité. | 15 juillet 2022 |
+| [Vulnérabilité dans IBM Tivoli Netcool/OMNIbus](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-647/) | Une vulnérabilité a été découverte dans IBM Tivoli Netcool/OMNIbus. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. | 15 juillet 2022 |
+| [[SCADA] Multiples vulnérabilités dans les produits Schneider Electric](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-646/) | De multiples vulnérabilités ont été découvertes dans les produits Schneider Electric. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité. | 15 juillet 2022 |
+| [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-645/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une atteinte à la confidentialité des données. | 15 juillet 2022 |
+| [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-644/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service et un contournement de la politique de sécurité. | 15 juillet 2022 |
+| [Vulnérabilité dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-643/) | Une vulnérabilité a été découverte dans le noyau Linux de Red Hat. Elle permet à un attaquant de provoquer une élévation de privilèges. | 15 juillet 2022 |
+| [Vulnérabilité dans les produits F-Secure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-642/) | Une vulnérabilité a été découverte dans les produits F-Secure. Elle permet à un attaquant de provoquer un déni de service à distance. | 15 juillet 2022 |
+| [Multiples vulnérabilités dans Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-641/) | De multiples vulnérabilités ont été découvertes dans Xen. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données. | 15 juillet 2022 |
