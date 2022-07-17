@@ -35,6 +35,6 @@ class Template:
         TABLE = self._set_heading()
         TABLE += self._set_table_headers()
         for row in self.DATA:
-            TABLE += self._set_table_content(row["_title"],
-                                             row["_link"], row["_desc"], row["_date"])
+            TABLE += self._set_table_content(row["_title"].encode("utf-8"),
+                                             row["_link"].encode("utf-8"), row["_desc"].encode("utf-8"), row["_date"].encode("utf-8"))
         return TABLE
