@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 ## CyberOwl 
-> Last Updated 17/07/2022 10:20:36 
+> Last Updated 17/07/2022 16:09:15 
 
 
 A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
@@ -41,17 +41,6 @@ A daily updated summary of the most frequent types of security incidents current
 | [37251307/22 - Vulnérabilités dans Microsoft Office (Patch Tuesday Juillet 2022)](https://www.dgssi.gov.ma/fr/content/3725130722-vulnerabilites-dans-microsoft-office-patch-tuesday-juillet-2022.html) | Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées des produits Microsoft Office. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code à distance ou de... | 13 juillet 2022 |
 | [37221307/22 - Vulnérabilités affectant Citrix Hypervisor](https://www.dgssi.gov.ma/fr/content/3722130722-vulnerabilites-affectant-citrix-hypervisor.html) | Citrix annonce la correction de deux vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code à distance. | 13 juillet 2022 |
 | [37200807/22 - Vulnérabilité dans les produits F5](https://www.dgssi.gov.ma/fr/content/3720080722-vulnerabilite-dans-les-produits-f5.html) | Une vulnérabilité a été corrigée dans les produits F5 susmentionnés. L’exploitation de cette faille permet à un attaquant de porter atteinte aux informations confidentielles. | 08 juillet 2022 |
-## IBMCloud [:arrow_heading_up:](#cyberowl)
-|Title|Description|Date|
-|---|---|---|
-| [AWS SDK for Java directory traversal (CVE-2022-31159)](None) | Visit link for details | Jul 15, 2022 |
-| [Packback LTI 1.3 Tool Library weak-security (CVE-2022-31158)](None) | Visit link for details | Jul 15, 2022 |
-| [Packback LTI 1.3 Tool Library security bypass (CVE-2022-31157)](None) | Visit link for details | Jul 15, 2022 |
-| [Gradle security bypass (CVE-2022-31156)](None) | Visit link for details | Jul 14, 2022 |
-| [OpenZeppelin Contracts for Cairo denial of service (CVE-2022-31153)](None) | Visit link for details | Jul 14, 2022 |
-| [OAMG Convert2RHEL information disclosure (CVE-2022-1662)](None) | Visit link for details | Jul 14, 2022 |
-| [Grafana cross-site scripting (CVE-2022-31097)](None) | Visit link for details | Jul 14, 2022 |
-| [Grafana security bypass (CVE-2022-31107)](None) | Visit link for details | Jul 14, 2022 |
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
