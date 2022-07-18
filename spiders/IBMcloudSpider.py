@@ -9,11 +9,11 @@ from mdtemplate import Template
 
 class IBMCloudSpider(scrapy.Spider):
     name = "countries_spider"
-    allowed_domains = ["toscrape.com"]
+    allowed_domains = ["ibmcloud.com"]
 
     # Using a dummy website to start scrapy request
     def start_requests(self):
-        url = "http://quotes.toscrape.com"
+        url = "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities"
         yield scrapy.Request(url=url, callback=self.parse_countries)
 
     def parse_countries(self, response):

@@ -9,11 +9,11 @@ from mdtemplate import Template
 
 class ZDISpider(scrapy.Spider):
     name = "countries_spider"
-    allowed_domains = ["toscrape.com"]
+    allowed_domains = ["zerodayinitiative.com"]
 
     # Using a dummy website to start scrapy request
     def start_requests(self):
-        url = "http://quotes.toscrape.com"
+        url = "https://www.zerodayinitiative.com/advisories/published/"
         yield scrapy.Request(url=url, callback=self.parse_countries)
 
     def parse_countries(self, response):
