@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 ## CyberOwl 
-> Last Updated 18/07/2022 09:15:43 
+> Last Updated 18/07/2022 17:20:02 
 
 
 A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
@@ -53,6 +53,9 @@ A daily updated summary of the most frequent types of security incidents current
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
+| [Multiples vulnérabilités dans Moodle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-653/) | De multiples vulnérabilités ont été découvertes dans Moodle. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS). | 18 juillet 2022 |
+| [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-652/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une atteinte à la confidentialité des données. | 18 juillet 2022 |
+| [Vulnérabilité dans SonicWall Switch](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-651/) | Une vulnérabilité a été découverte dans SonicWall Switch. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. | 18 juillet 2022 |
 | [Multiples vulnérabilités dans les produits Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-650/) | De multiples vulnérabilités ont été découvertes dans les produits Juniper. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité. | 15 juillet 2022 |
 | [Multiples vulnérabilités dans Grafana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-649/) | De multiples vulnérabilités ont été découvertes dans Grafana. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une élévation de privilèges et une injection de code indirecte à distance (XSS). | 15 juillet 2022 |
 | [Multiples vulnérabilités dans les produits SonicWall](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-648/) | De multiples vulnérabilités ont été découvertes dans les produits SonicWall. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité. | 15 juillet 2022 |
@@ -60,6 +63,3 @@ A daily updated summary of the most frequent types of security incidents current
 | [[SCADA] Multiples vulnérabilités dans les produits Schneider Electric](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-646/) | De multiples vulnérabilités ont été découvertes dans les produits Schneider Electric. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité. | 15 juillet 2022 |
 | [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-645/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une atteinte à la confidentialité des données. | 15 juillet 2022 |
 | [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-644/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service et un contournement de la politique de sécurité. | 15 juillet 2022 |
-| [Vulnérabilité dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-643/) | Une vulnérabilité a été découverte dans le noyau Linux de Red Hat. Elle permet à un attaquant de provoquer une élévation de privilèges. | 15 juillet 2022 |
-| [Vulnérabilité dans les produits F-Secure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-642/) | Une vulnérabilité a été découverte dans les produits F-Secure. Elle permet à un attaquant de provoquer un déni de service à distance. | 15 juillet 2022 |
-| [Multiples vulnérabilités dans Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-641/) | De multiples vulnérabilités ont été découvertes dans Xen. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données. | 15 juillet 2022 |
