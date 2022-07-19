@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 ## CyberOwl 
-> Last Updated 19/07/2022 09:16:44 
+> Last Updated 19/07/2022 21:15:43 
 
 
 A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
@@ -18,12 +18,23 @@ A daily updated summary of the most frequent types of security incidents current
 ## CISA [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
+| [CISA released Security Advisory on MiCODUS MV720 Global Positioning System (GPS) Tracker](https://www.cisa.gov/uscert/ncas/current-activity/2022/07/19/cisa-released-security-advisory-micodus-mv720-global-positioning) | <p>CISA has released an Industrial Controls Systems Advisory (ICSA) detailing six vulnerabilities that were discovered in MiCODUS MV720 Global Positioning System Tracker. Successful exploitation of these vulnerabilities may allow a remote actor to exploit access and gain control the global positioning system tracker. These vulnerabilities could impact access to a vehicle fuel supply, vehicle control, or allow locational surveillance of vehicles in which the device is installed.</p> | Tuesday, July 19, 2022 |
 | [CISA Updates Advisory on Cyber Actors Continued Exploitation of Log4Shell in VMware Horizon Systems](https://www.cisa.gov/uscert/ncas/current-activity/2022/07/18/cisa-updates-advisory-cyber-actors-continued-exploitation) | <p>CISA has updated the joint CISA-United States Coast Guard Cyber Command (CGCYBER) Cybersecurity Advisory <a href="https://www.cisa.gov/uscert/ncas/alerts/aa22-174a">AA22-174A: Malicious Cyber Actors Continue to Exploit Log4Shell in VMware Horizon</a>, originally released June 23, 2022. The advisory now includes IOCs provided in Malware Analysis Report (MAR)-10382580-2.</p> | Monday, July 18, 2022 |
 | [Juniper Networks Releases Security Updates for Multiple Products ](https://www.cisa.gov/uscert/ncas/current-activity/2022/07/14/juniper-networks-releases-security-updates-multiple-products-1) | <p>Juniper Networks has released security updates to address vulnerabilities affecting multiple products. An attacker could exploit some of these vulnerabilities to take control of an affected system.Â </p> | Thursday, July 14, 2022 |
 | [Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/uscert/ncas/current-activity/2022/07/12/adobe-releases-security-updates-multiple-products) | <p>Adobe has released security updates to address vulnerabilities in multiple products. An attacker could exploit some of these vulnerabilities to take control of an affected system.Â </p> | Tuesday, July 12, 2022 |
 | [Microsoft Releases July 2022 Security Updates](https://www.cisa.gov/uscert/ncas/current-activity/2022/07/12/microsoft-releases-july-2022-security-updates) | <p>Microsoft has released updates to address multiple vulnerabilities in Microsoft software. An attacker can exploit some of these vulnerabilities to take control of an affected system.</p> | Tuesday, July 12, 2022 |
 | [SAP Releases July 2022 Security Updates](https://www.cisa.gov/uscert/ncas/current-activity/2022/07/12/sap-releases-july-2022-security-updates) | <p>SAP has released security updates to address vulnerabilities affecting multiple products. An attacker could exploit some of these vulnerabilities to take control of an affected system.</p> | Tuesday, July 12, 2022 |
-| [Citrix Releases Security Updates for Hypervisor](https://www.cisa.gov/uscert/ncas/current-activity/2022/07/12/citrix-releases-security-updates-hypervisor) | <p>Citrix has released security updates to address vulnerabilities in Hypervisor. An attacker could exploit these vulnerabilities to take control of an affected system.</p> | Tuesday, July 12, 2022 |
+## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
+|Title|Description|Date|
+|---|---|---|
+| [Siemens Simcenter Femap NEU File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1025/) | Visit link for details | 7.8 |
+| [Microsoft Windows win32kfull UMPDDrvStartBanding Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1024/) | Visit link for details | 8.8 |
+| [Microsoft Windows win32kfull UMPDDrvFillPath Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1023/) | Visit link for details | 8.8 |
+| [Microsoft Windows win32kfull UMPDDrvFontManagement Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1022/) | Visit link for details | 8.8 |
+| [VMware ESXi TCP/IP Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1021/) | Visit link for details | 8.1 |
+| [(Pwn2Own) Inductive Automation Ignition ZIP File Insufficient UI Warning Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1020/) | Visit link for details | 7.8 |
+| [(Pwn2Own) Inductive Automation Ignition Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1019/) | Visit link for details | 7.8 |
+| [(Pwn2Own) Inductive Automation Ignition Missing Authentication for Critical Function Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1018/) | Visit link for details | 8.1 |
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
@@ -52,14 +63,3 @@ A daily updated summary of the most frequent types of security incidents current
 | [37251307/22 - Vulnérabilités dans Microsoft Office (Patch Tuesday Juillet 2022)](https://www.dgssi.gov.ma/fr/content/3725130722-vulnerabilites-dans-microsoft-office-patch-tuesday-juillet-2022.html) | Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées des produits Microsoft Office. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code à distance ou de... | 13 juillet 2022 |
 | [37221307/22 - Vulnérabilités affectant Citrix Hypervisor](https://www.dgssi.gov.ma/fr/content/3722130722-vulnerabilites-affectant-citrix-hypervisor.html) | Citrix annonce la correction de deux vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code à distance. | 13 juillet 2022 |
 | [37200807/22 - Vulnérabilité dans les produits F5](https://www.dgssi.gov.ma/fr/content/3720080722-vulnerabilite-dans-les-produits-f5.html) | Une vulnérabilité a été corrigée dans les produits F5 susmentionnés. L’exploitation de cette faille permet à un attaquant de porter atteinte aux informations confidentielles. | 08 juillet 2022 |
-## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
-|Title|Description|Date|
-|---|---|---|
-| [Siemens Simcenter Femap NEU File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1025/) | Visit link for details | 7.8 |
-| [Microsoft Windows win32kfull UMPDDrvStartBanding Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1024/) | Visit link for details | 8.8 |
-| [Microsoft Windows win32kfull UMPDDrvFillPath Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1023/) | Visit link for details | 8.8 |
-| [Microsoft Windows win32kfull UMPDDrvFontManagement Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1022/) | Visit link for details | 8.8 |
-| [VMware ESXi TCP/IP Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1021/) | Visit link for details | 8.1 |
-| [(Pwn2Own) Inductive Automation Ignition ZIP File Insufficient UI Warning Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1020/) | Visit link for details | 7.8 |
-| [(Pwn2Own) Inductive Automation Ignition Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1019/) | Visit link for details | 7.8 |
-| [(Pwn2Own) Inductive Automation Ignition Missing Authentication for Critical Function Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1018/) | Visit link for details | 8.1 |
