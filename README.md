@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 ## CyberOwl 
-> Last Updated 19/07/2022 21:15:43 
+> Last Updated 20/07/2022 00:23:37 
 
 
 A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
@@ -15,6 +15,17 @@ A daily updated summary of the most frequent types of security incidents current
 * [IBMCLOUD](#ibmcloud-arrow_heading_up)
 * [ZeroDayInitiative](#zerodayinitiative-arrow_heading_up)
 
+## IBMCloud [:arrow_heading_up:](#cyberowl)
+|Title|Description|Date|
+|---|---|---|
+| [Apache Xalan Java XSLT library code execution (CVE-2022-34169)](None) | Visit link for details | Jul 19, 2022 |
+| [Google Chrome Views code execution (CVE-2022-2481)](None) | Visit link for details | Jul 19, 2022 |
+| [Google Chrome Service Worker API code execution (CVE-2022-2480)](None) | Visit link for details | Jul 19, 2022 |
+| [Google Chrome File security bypass (CVE-2022-2479)](None) | Visit link for details | Jul 19, 2022 |
+| [Google Chrome PDF code execution (CVE-2022-2478)](None) | Visit link for details | Jul 19, 2022 |
+| [Google Chrome Guest View code execution (CVE-2022-2477)](None) | Visit link for details | Jul 19, 2022 |
+| [Sourcecodester Garage Management System SQL injection (CVE-2022-2467)](None) | Visit link for details | Jul 19, 2022 |
+| [](None) | Visit link for details |  |
 ## CISA [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
@@ -27,14 +38,14 @@ A daily updated summary of the most frequent types of security incidents current
 ## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
-| [Siemens Simcenter Femap NEU File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1025/) | Visit link for details | 7.8 |
-| [Microsoft Windows win32kfull UMPDDrvStartBanding Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1024/) | Visit link for details | 8.8 |
-| [Microsoft Windows win32kfull UMPDDrvFillPath Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1023/) | Visit link for details | 8.8 |
-| [Microsoft Windows win32kfull UMPDDrvFontManagement Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1022/) | Visit link for details | 8.8 |
-| [VMware ESXi TCP/IP Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1021/) | Visit link for details | 8.1 |
-| [(Pwn2Own) Inductive Automation Ignition ZIP File Insufficient UI Warning Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1020/) | Visit link for details | 7.8 |
-| [(Pwn2Own) Inductive Automation Ignition Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1019/) | Visit link for details | 7.8 |
-| [(Pwn2Own) Inductive Automation Ignition Missing Authentication for Critical Function Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1018/) | Visit link for details | 8.1 |
+| [Siemens Simcenter Femap NEU File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1025/) | Visit link for details | July 15, 2022 |
+| [Microsoft Windows win32kfull UMPDDrvStartBanding Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1024/) | Visit link for details | July 15, 2022 |
+| [Microsoft Windows win32kfull UMPDDrvFillPath Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1023/) | Visit link for details | July 15, 2022 |
+| [Microsoft Windows win32kfull UMPDDrvFontManagement Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1022/) | Visit link for details | July 15, 2022 |
+| [VMware ESXi TCP/IP Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1021/) | Visit link for details | July 18, 2022 |
+| [(Pwn2Own) Inductive Automation Ignition ZIP File Insufficient UI Warning Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1020/) | Visit link for details | July 15, 2022 |
+| [(Pwn2Own) Inductive Automation Ignition Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1019/) | Visit link for details | July 15, 2022 |
+| [(Pwn2Own) Inductive Automation Ignition Missing Authentication for Critical Function Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1018/) | Visit link for details | July 15, 2022 |
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
