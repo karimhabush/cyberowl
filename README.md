@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 ## CyberOwl 
-> Last Updated 20/07/2022 01:07:55 
+> Last Updated 20/07/2022 09:14:47 
 
 
 A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
@@ -15,16 +15,6 @@ A daily updated summary of the most frequent types of security incidents current
 * [IBMCLOUD](#ibmcloud-arrow_heading_up)
 * [ZeroDayInitiative](#zerodayinitiative-arrow_heading_up)
 
-## IBMCloud [:arrow_heading_up:](#cyberowl)
-|Title|Description|Date|
-|---|---|---|
-| [Apache Xalan Java XSLT library code execution (CVE-2022-34169)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 19, 2022 |
-| [Google Chrome Views code execution (CVE-2022-2481)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 19, 2022 |
-| [Google Chrome Service Worker API code execution (CVE-2022-2480)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 19, 2022 |
-| [Google Chrome File security bypass (CVE-2022-2479)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 19, 2022 |
-| [Google Chrome PDF code execution (CVE-2022-2478)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 19, 2022 |
-| [Google Chrome Guest View code execution (CVE-2022-2477)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 19, 2022 |
-| [Sourcecodester Garage Management System SQL injection (CVE-2022-2467)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 19, 2022 |
 ## CISA [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
@@ -34,6 +24,16 @@ A daily updated summary of the most frequent types of security incidents current
 | [Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/uscert/ncas/current-activity/2022/07/12/adobe-releases-security-updates-multiple-products) | <p>Adobe has released security updates to address vulnerabilities in multiple products. An attacker could exploit some of these vulnerabilities to take control of an affected system. </p> | Tuesday, July 12, 2022 |
 | [Microsoft Releases July 2022 Security Updates](https://www.cisa.gov/uscert/ncas/current-activity/2022/07/12/microsoft-releases-july-2022-security-updates) | <p>Microsoft has released updates to address multiple vulnerabilities in Microsoft software. An attacker can exploit some of these vulnerabilities to take control of an affected system.</p> | Tuesday, July 12, 2022 |
 | [SAP Releases July 2022 Security Updates](https://www.cisa.gov/uscert/ncas/current-activity/2022/07/12/sap-releases-july-2022-security-updates) | <p>SAP has released security updates to address vulnerabilities affecting multiple products. An attacker could exploit some of these vulnerabilities to take control of an affected system.</p> | Tuesday, July 12, 2022 |
+## IBMCloud [:arrow_heading_up:](#cyberowl)
+|Title|Description|Date|
+|---|---|---|
+| [SICK Safety Designer code execution (CVE-2022-27580)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 19, 2022 |
+| [SICK Flexi Soft Designer code execution (CVE-2022-27579)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 19, 2022 |
+| [Linux Kernel Lockdown feature security bypass (CVE-2022-21505)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 19, 2022 |
+| [Apache Xalan Java XSLT library code execution (CVE-2022-34169)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 19, 2022 |
+| [Google Chrome Views code execution (CVE-2022-2481)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 19, 2022 |
+| [Google Chrome Service Worker API code execution (CVE-2022-2480)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 19, 2022 |
+| [Google Chrome File security bypass (CVE-2022-2479)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 19, 2022 |
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
