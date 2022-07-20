@@ -55,7 +55,7 @@ class IBMCloudSpider(scrapy.Spider):
 
             _data.append(ITEM)
             num_bulletins += 1
-            if num_bulletins >= 8:
+            if num_bulletins >= 7:
                 break
 
         _to_write = Template("IBMCloud", _data)
