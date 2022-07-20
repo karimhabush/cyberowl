@@ -42,7 +42,7 @@ class IBMCloudSpider(scrapy.Spider):
         # Using Scrapy's yield to store output instead of explicitly writing to a JSON file
         _data = []
         for country in countries:
-            LINK = country.find_element_by_xpath("./td//a/@href").text
+            LINK = "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities"
             DATE = country.find_element_by_xpath(".//td[4]").text
             TITLE = country.find_element_by_xpath(".//a").text
 
