@@ -42,7 +42,7 @@ class ZDISpider(scrapy.Spider):
         _data = []
         for country in countries:
             LINK = country.find_element_by_xpath(".//a").get_attribute("href")
-            DATE = country.find_element_by_xpath(".//td[5]").text
+            DATE = country.find_element_by_xpath(".//td[6]").text
             TITLE = country.find_element_by_xpath(".//a").text
 
             ITEM = {
