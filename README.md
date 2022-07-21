@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 ## CyberOwl 
-> Last Updated 20/07/2022 21:12:47 
+> Last Updated 21/07/2022 09:14:54 
 
 
 A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
@@ -29,22 +29,11 @@ A daily updated summary of the most frequent types of security incidents current
 |---|---|---|
 | [Cisco Nexus Dashboard cross-site request forgery (CVE-2022-20861)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 20, 2022 |
 | [Emporium eCommerce Online Shopping CMS /categories/other-categories? SQL injection](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 20, 2022 |
-| [Oracle MySQL Server denial of service (CVE-2022-21522)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 19, 2022 |
-| [Oracle PeopleSoft Enterprise PeopleTools information disclosure (CVE-2022-21521)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 19, 2022 |
-| [Oracle PeopleSoft Enterprise PeopleTools unspecified (CVE-2022-21520)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 19, 2022 |
-| [Oracle MySQL Cluster denial of service (CVE-2022-21519)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 19, 2022 |
-| [Oracle Health Sciences Data Management Workbench information disclosure (CVE-2022-21518)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 19, 2022 |
-## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
-|Title|Description|Date|
-|---|---|---|
-| [Siemens Simcenter Femap NEU File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1025/) | Visit link for details | July 15, 2022 |
-| [Microsoft Windows win32kfull UMPDDrvStartBanding Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1024/) | Visit link for details | July 15, 2022 |
-| [Microsoft Windows win32kfull UMPDDrvFillPath Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1023/) | Visit link for details | July 15, 2022 |
-| [Microsoft Windows win32kfull UMPDDrvFontManagement Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1022/) | Visit link for details | July 15, 2022 |
-| [VMware ESXi TCP/IP Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1021/) | Visit link for details | July 18, 2022 |
-| [(Pwn2Own) Inductive Automation Ignition ZIP File Insufficient UI Warning Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1020/) | Visit link for details | July 15, 2022 |
-| [(Pwn2Own) Inductive Automation Ignition Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1019/) | Visit link for details | July 15, 2022 |
-| [(Pwn2Own) Inductive Automation Ignition Missing Authentication for Critical Function Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1018/) | Visit link for details | July 15, 2022 |
+| [Oracle FLEXCUBE Universal Banking unspecified (CVE-2022-21544)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 19, 2022 |
+| [Oracle PeopleSoft Enterprise PeopleTools unspecified (CVE-2022-21543)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 19, 2022 |
+| [Oracle JD Edwards EnterpriseOne Orchestrator information disclosure (CVE-2022-21532)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 19, 2022 |
+| [Oracle MySQL Server denial of service (CVE-2022-21531)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 19, 2022 |
+| [Oracle MySQL Server denial of service (CVE-2022-21530)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 19, 2022 |
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
@@ -73,3 +62,14 @@ A daily updated summary of the most frequent types of security incidents current
 | [37271307/22 - Vulnérabilités dans les produits Microsoft Azure (Patch Tuesday Juillet 2022)](https://www.dgssi.gov.ma/fr/content/3727130722-vulnerabilites-dans-les-produits-microsoft-azure-patch-tuesday-juillet-2022.html) | Plusieurs vulnérabilités ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant d’exécuter du code arbitraire à distance, de porter atteinte aux informations confidentielles et de... | 13 juillet 2022 |
 | [37261307/22 - Vulnérabilités dans Microsoft Windows (Patch Tuesday Juillet 2022)](https://www.dgssi.gov.ma/fr/content/3726130722-vulnerabilites-dans-microsoft-windows-patch-tuesday-juillet-2022.html) | Microsoft annonce la correction de plusieurs vulnérabilités affectant lessystèmes d’exploitation Windows susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de divulguer des informations confidentielles,... | 13 juillet 2022 |
 | [37221307/22 - Vulnérabilités affectant plusieursproduits SAP](https://www.dgssi.gov.ma/fr/content/3722130722-vulnerabilites-affectant-plusieurs-produits-sap.html) | SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuterdu code arbitraire, d... | 13 juillet 2022 |
+## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
+|Title|Description|Date|
+|---|---|---|
+| [Siemens Simcenter Femap NEU File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1025/) | Visit link for details | July 15, 2022 |
+| [Microsoft Windows win32kfull UMPDDrvStartBanding Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1024/) | Visit link for details | July 15, 2022 |
+| [Microsoft Windows win32kfull UMPDDrvFillPath Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1023/) | Visit link for details | July 15, 2022 |
+| [Microsoft Windows win32kfull UMPDDrvFontManagement Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1022/) | Visit link for details | July 15, 2022 |
+| [VMware ESXi TCP/IP Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1021/) | Visit link for details | July 18, 2022 |
+| [(Pwn2Own) Inductive Automation Ignition ZIP File Insufficient UI Warning Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1020/) | Visit link for details | July 15, 2022 |
+| [(Pwn2Own) Inductive Automation Ignition Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1019/) | Visit link for details | July 15, 2022 |
+| [(Pwn2Own) Inductive Automation Ignition Missing Authentication for Critical Function Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1018/) | Visit link for details | July 15, 2022 |
