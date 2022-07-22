@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 ## CyberOwl 
-> Last Updated 21/07/2022 21:16:45 
+> Last Updated 22/07/2022 09:16:19 
 
 
 A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
@@ -15,6 +15,16 @@ A daily updated summary of the most frequent types of security incidents current
 * [IBMCLOUD](#ibmcloud-arrow_heading_up)
 * [ZeroDayInitiative](#zerodayinitiative-arrow_heading_up)
 
+## IBMCloud [:arrow_heading_up:](#cyberowl)
+|Title|Description|Date|
+|---|---|---|
+| [Cybozu office cross-site scripting (CVE-2022-29487)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 21, 2022 |
+| [Cybozu office cross-site scripting (CVE-2022-30604)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 21, 2022 |
+| [Cybozu office cross-site scripting (CVE-2022-28715)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 21, 2022 |
+| [Cybozu office cross-site scripting (CVE-2022-33151)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 21, 2022 |
+| [Kite code execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 21, 2022 |
+| [Dr. Fone code execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 21, 2022 |
+| [Apple iOS and iPadOS information disclosure (CVE-2022-32855)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 20, 2022 |
 ## CISA [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
@@ -37,19 +47,10 @@ A daily updated summary of the most frequent types of security incidents current
 | [Multiples vulnérabilités dans Oracle Virtualization](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-661/) | De multiples vulnérabilités ont été découvertes dans Oracle Virtualization. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. | 20 juillet 2022 |
 | [Multiples vulnérabilités dans Oracle Systems](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-660/) | De multiples vulnérabilités ont été découvertes dans Oracle Systems. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une atteinte à l'intégrité des données. | 20 juillet 2022 |
 | [Multiples vulnérabilités dans Oracle WebLogic](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-659/) | De multiples vulnérabilités ont été découvertes dans Oracle WebLogic. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à l'intégrité des données. | 20 juillet 2022 |
-## IBMCloud [:arrow_heading_up:](#cyberowl)
-|Title|Description|Date|
-|---|---|---|
-| [Simple E-Learning System SQL injection (CVE-2022-2489)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 20, 2022 |
-| [Simple E-Learning System SQL injection (CVE-2022-2490)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 20, 2022 |
-| [Library Management System with QR code Attendance and Auto Generate Library Card SQL injection (CVE-2022-2492)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 20, 2022 |
-| [Apple iOS, iPadOS, and tvOS information disclosure (CVE-2022-32824)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 20, 2022 |
-| [Apple iOS, iPadOS, and tvOS buffer overflow (CVE-2022-32788)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 20, 2022 |
-| [Cisco Nexus Dashboard man-in-the-middle (CVE-2022-20860)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 20, 2022 |
-| [Cisco Nexus Dashboard privilege escalation (CVE-2022-20906)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 20, 2022 |
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
+| [37402207/22 -Vulnérabilités dans les produits Atlassian](https://www.dgssi.gov.ma/fr/content/3740220722-vulnerabilites-dans-les-produits-atlassian.html) | Atlassian a publié une mise à jour de sécurité pour corriger deux vulnérabilités dans les produits susmentionnés. L'exploitation réussie de ces vulnérabilités peut permettre à un attaquant non authentifié de contourner la politique de... | 22 juillet 2022 |
 | [37372107/22 - Vulnérabilités affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma/fr/content/3737210722-vulnerabilites-affectant-plusieurs-produits-d-apple.html) | Apple annonce lacorrectionde plusieursvulnérabilitésaffectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peutpermettre à un attaquant d’exécuter du code arbitraire, d’élever ses privilèges, d... | 21 juillet 2022 |
 | [37392107/22 - Vulnérabilités dans le CMS Drupal](https://www.dgssi.gov.ma/fr/content/3739210722-vulnerabilites-dans-le-cms-drupal.html) | Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées du CMS Drupal. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance, de porter atteinte aux informations... | 21 juillet 2022 |
 | [37382107/22 - Vulnérabilité critique dans Confluence Server et Data Center](https://www.dgssi.gov.ma/fr/content/3738210722-vulnerabilite-critique-dans-confluence-server-et-data-center.html) | Atlassian a publié une mise à jour de sécurité pour corriger une vulnérabilité critique dans ses produits Confluence Server et Data Center. L'exploitation réussie de cette vulnérabilité peut permettre à un attaquant non authentifié de... | 21 juillet 2022 |
@@ -61,7 +62,6 @@ A daily updated summary of the most frequent types of security incidents current
 | [37321507/22 - Vulnérabilités affectantplusieurs produits de Juniper](https://www.dgssi.gov.ma/fr/content/3732150722-vulnerabilites-affectant-plusieurs-produits-de-juniper.html) | Juniper annonce la correction de multiples vulnérabilités qui affectent plusieurs deses produits. Un attaquant distantpourrait exploiter ces failles pour exécuter du code arbitraire, éleverses privilèges, accéder à des... | 15 juillet 2022 |
 | [37311407/22 - Vulnérabilités dans les produits industriels Siemens](https://www.dgssi.gov.ma/fr/content/3731140722-vulnerabilites-dans-les-produits-industriels-siemens.html) | Plusieurs vulnérabilités ont été corrigées dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir une élévation de privilèges, causer un... | 14 juillet 2022 |
 | [37301407/22 - Vulnérabilités dans les processeurs AMD](https://www.dgssi.gov.ma/fr/content/3730140722-vulnerabilites-dans-les-processeurs-amd.html) | Plusieurs vulnérabilités ont été corrigées dans les processeurs AMD susmentionnés. Un attaquant distant pourrait exploiter certaines de ces vulnérabilités afin d’exécuter du code arbitraire à distance, accéder aux informations... | 14 juillet 2022 |
-| [37291407/22 - Vulnérabilités dansles produits Intel](https://www.dgssi.gov.ma/fr/content/3729140722-vulnerabilites-dans-les-produits-intel.html) | Intel a publié une mise à jour de sécurité corrigeant plusieurs vulnérabilités recensées dans les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de porter atteinte à la confidentialité de données. | 14 juillet 2022 |
 ## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
