@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 ## CyberOwl 
-> Last Updated 24/07/2022 09:14:01 
+> Last Updated 24/07/2022 21:13:01 
 
 
 A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
@@ -29,11 +29,11 @@ A daily updated summary of the most frequent types of security incidents current
 |---|---|---|
 | [SonicWall Global Management System (GMS) and Analytics SQL injection (CVE-2022-22280)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 22, 2022 |
 | [Booked open redirect (CVE-2022-30706)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 22, 2022 |
-| [DASDEC cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 21, 2022 |
-| [Rockwell Automation ISaGRAF Workbench privilege escalation (CVE-2022-2463)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 21, 2022 |
-| [ICONICS MobileHMI and IoTWorX IoT Visualizer products denial of service (CVE-2022-33319)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 21, 2022 |
-| [ICONICS MobileHMI and IoTWorX IoT Visualizer products code execution (CVE-2022-33320)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 21, 2022 |
-| [ICONICS MobileHMI and IoTWorX IoT Visualizer products code execution (CVE-2022-33317)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 21, 2022 |
+| [Open-Xchange OX App Suite server-side request forgery (CVE-2022-24406)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 21, 2022 |
+| [Open-Xchange OX App Suite command execution (CVE-2022-24405)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 21, 2022 |
+| [Open-Xchange OX App Suite cross-site scripting (CVE-2022-23101)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 21, 2022 |
+| [Open-Xchange OX App Suite command execution (CVE-2022-23100)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 21, 2022 |
+| [Open-Xchange OX App Suite cross-site scripting (CVE-2022-23099)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 21, 2022 |
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
