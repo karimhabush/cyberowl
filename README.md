@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 ## CyberOwl 
-> Last Updated 24/07/2022 21:13:01 
+> Last Updated 25/07/2022 09:14:43 
 
 
 A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
@@ -27,13 +27,13 @@ A daily updated summary of the most frequent types of security incidents current
 ## IBMCloud [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
+| [PrestaShop code execution (CVE-2022-36408)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 22, 2022 |
 | [SonicWall Global Management System (GMS) and Analytics SQL injection (CVE-2022-22280)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 22, 2022 |
 | [Booked open redirect (CVE-2022-30706)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 22, 2022 |
 | [Open-Xchange OX App Suite server-side request forgery (CVE-2022-24406)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 21, 2022 |
 | [Open-Xchange OX App Suite command execution (CVE-2022-24405)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 21, 2022 |
 | [Open-Xchange OX App Suite cross-site scripting (CVE-2022-23101)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 21, 2022 |
 | [Open-Xchange OX App Suite command execution (CVE-2022-23100)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 21, 2022 |
-| [Open-Xchange OX App Suite cross-site scripting (CVE-2022-23099)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 21, 2022 |
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
@@ -47,6 +47,17 @@ A daily updated summary of the most frequent types of security incidents current
 | [Multiples vulnérabilités dans Drupal](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-667/) | De multiples vulnérabilités ont été découvertes dans Drupal. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un contournement de la politique de sécurité. | 21 juillet 2022 |
 | [Multiples vulnérabilités dans Cisco Nexus Dashboard](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-666/) | De multiples vulnérabilités ont été découvertes dans Cisco Nexus Dashboard. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. | 21 juillet 2022 |
 | [Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-665/) | De multiples vulnérabilités ont été découvertes dans les produits Apple. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance. | 21 juillet 2022 |
+## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
+|Title|Description|Date|
+|---|---|---|
+| [Siemens Simcenter Femap NEU File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1025/) | Visit link for details | July 15, 2022 |
+| [Microsoft Windows win32kfull UMPDDrvStartBanding Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1024/) | Visit link for details | July 15, 2022 |
+| [Microsoft Windows win32kfull UMPDDrvFillPath Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1023/) | Visit link for details | July 15, 2022 |
+| [Microsoft Windows win32kfull UMPDDrvFontManagement Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1022/) | Visit link for details | July 15, 2022 |
+| [VMware ESXi TCP/IP Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1021/) | Visit link for details | July 18, 2022 |
+| [(Pwn2Own) Inductive Automation Ignition ZIP File Insufficient UI Warning Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1020/) | Visit link for details | July 15, 2022 |
+| [(Pwn2Own) Inductive Automation Ignition Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1019/) | Visit link for details | July 15, 2022 |
+| [(Pwn2Own) Inductive Automation Ignition Missing Authentication for Critical Function Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1018/) | Visit link for details | July 15, 2022 |
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
@@ -62,14 +73,3 @@ A daily updated summary of the most frequent types of security incidents current
 | [37322007/22 - Vulnérabilités affectantle CMS Moodle](https://www.dgssi.gov.ma/fr/content/3732200722-vulnerabilites-affectant-le-cms-moodle.html) | Moodle annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées de son CMS. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’accéder à des données confidentielles, d’exécuter du code... | 20 juillet 2022 |
 | [37321507/22 - Vulnérabilités affectantplusieurs produits de Juniper](https://www.dgssi.gov.ma/fr/content/3732150722-vulnerabilites-affectant-plusieurs-produits-de-juniper.html) | Juniper annonce la correction de multiples vulnérabilités qui affectent plusieurs deses produits. Un attaquant distantpourrait exploiter ces failles pour exécuter du code arbitraire, éleverses privilèges, accéder à des... | 15 juillet 2022 |
 | [37311407/22 - Vulnérabilités dans les produits industriels Siemens](https://www.dgssi.gov.ma/fr/content/3731140722-vulnerabilites-dans-les-produits-industriels-siemens.html) | Plusieurs vulnérabilités ont été corrigées dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir une élévation de privilèges, causer un... | 14 juillet 2022 |
-## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
-|Title|Description|Date|
-|---|---|---|
-| [Siemens Simcenter Femap NEU File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1025/) | Visit link for details | July 15, 2022 |
-| [Microsoft Windows win32kfull UMPDDrvStartBanding Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1024/) | Visit link for details | July 15, 2022 |
-| [Microsoft Windows win32kfull UMPDDrvFillPath Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1023/) | Visit link for details | July 15, 2022 |
-| [Microsoft Windows win32kfull UMPDDrvFontManagement Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1022/) | Visit link for details | July 15, 2022 |
-| [VMware ESXi TCP/IP Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1021/) | Visit link for details | July 18, 2022 |
-| [(Pwn2Own) Inductive Automation Ignition ZIP File Insufficient UI Warning Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1020/) | Visit link for details | July 15, 2022 |
-| [(Pwn2Own) Inductive Automation Ignition Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1019/) | Visit link for details | July 15, 2022 |
-| [(Pwn2Own) Inductive Automation Ignition Missing Authentication for Critical Function Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1018/) | Visit link for details | July 15, 2022 |
