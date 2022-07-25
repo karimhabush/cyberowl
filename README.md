@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 ## CyberOwl 
-> Last Updated 25/07/2022 09:14:43 
+> Last Updated 25/07/2022 21:13:05 
 
 
 A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
@@ -27,16 +27,18 @@ A daily updated summary of the most frequent types of security incidents current
 ## IBMCloud [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
-| [PrestaShop code execution (CVE-2022-36408)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 22, 2022 |
-| [SonicWall Global Management System (GMS) and Analytics SQL injection (CVE-2022-22280)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 22, 2022 |
-| [Booked open redirect (CVE-2022-30706)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 22, 2022 |
-| [Open-Xchange OX App Suite server-side request forgery (CVE-2022-24406)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 21, 2022 |
-| [Open-Xchange OX App Suite command execution (CVE-2022-24405)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 21, 2022 |
-| [Open-Xchange OX App Suite cross-site scripting (CVE-2022-23101)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 21, 2022 |
-| [Open-Xchange OX App Suite command execution (CVE-2022-23100)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 21, 2022 |
+| [Marty Marketplace Multi Vendor Ecommerce Script attributes[] SQL injection](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 25, 2022 |
+| [untangle information disclosure (CVE-2022-31471)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 25, 2022 |
+| [untangle denial of service (CVE-2022-33977)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 25, 2022 |
+| [Node.js lido-dao-test-dp module code execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 22, 2022 |
+| [Node.js amplify-category-api-e2e-core module code execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 22, 2022 |
+| [Node.js bitmovin-internal module code execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 22, 2022 |
+| [Node.js stripe-demo-connect-standard-saas-platform module code execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 22, 2022 |
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
+| [Multiples vulnérabilités dans Adobe Acrobat et Reader](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-676/) | De multiples vulnérabilités ont été découvertes dans Adobe Acrobat et Reader. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à la confidentialité des données. | 25 juillet 2022 |
+| [Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-675/) | De multiples vulnérabilités ont été corrigées dans  | 25 juillet 2022 |
 | [Multiples vulnérabilités dans les produits WithSecure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-674/) | De multiples vulnérabilités ont été découvertes dans les produits WithSecure. Elles permettent à un attaquant de provoquer un déni de service. | 22 juillet 2022 |
 | [Vulnérabilité dans Microsoft Azure Arc Jumpstart](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-673/) | Une vulnérabilité a été découverte dans Microsoft Azure Arc Jumpstart. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données. | 22 juillet 2022 |
 | [Vulnérabilité dans les produits SonicWall](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-672/) | Une vulnérabilité a été découverte dans les produits d'administration SonicWall GMS et Analytics. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. | 22 juillet 2022 |
@@ -45,8 +47,6 @@ A daily updated summary of the most frequent types of security incidents current
 | [Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-669/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. | 22 juillet 2022 |
 | [Vulnérabilité dans les produits WithSecure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-668/) | Une vulnérabilité a été découverte dans les produits WithSecure. Elle permet à un attaquant de provoquer une élévation de privilèges. | 21 juillet 2022 |
 | [Multiples vulnérabilités dans Drupal](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-667/) | De multiples vulnérabilités ont été découvertes dans Drupal. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un contournement de la politique de sécurité. | 21 juillet 2022 |
-| [Multiples vulnérabilités dans Cisco Nexus Dashboard](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-666/) | De multiples vulnérabilités ont été découvertes dans Cisco Nexus Dashboard. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. | 21 juillet 2022 |
-| [Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-665/) | De multiples vulnérabilités ont été découvertes dans les produits Apple. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance. | 21 juillet 2022 |
 ## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
