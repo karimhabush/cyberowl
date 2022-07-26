@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 ## CyberOwl 
-> Last Updated 26/07/2022 09:14:47 
+> Last Updated 26/07/2022 21:12:43 
 
 
 A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
@@ -15,16 +15,6 @@ A daily updated summary of the most frequent types of security incidents current
 * [IBMCLOUD](#ibmcloud-arrow_heading_up)
 * [ZeroDayInitiative](#zerodayinitiative-arrow_heading_up)
 
-## IBMCloud [:arrow_heading_up:](#cyberowl)
-|Title|Description|Date|
-|---|---|---|
-| [GNOME GdkPixbuf (aka GDK-PixBuf) buffer overflow (CVE-2021-46829)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 25, 2022 |
-| [LibreOffice information disclosure (CVE-2022-26307)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 25, 2022 |
-| [LibreOffice information disclosure (CVE-2022-26306)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 25, 2022 |
-| [LibreOffice code execution (CVE-2022-26305)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 25, 2022 |
-| [Marty Marketplace Multi Vendor Ecommerce Script attributes[] SQL injection](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 25, 2022 |
-| [PATLITE NHL-3FB2/NHP-3FB2 buffer overflow (CVE-2022-35911)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 25, 2022 |
-| [untangle information disclosure (CVE-2022-31471)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 25, 2022 |
 ## CISA [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
@@ -34,6 +24,16 @@ A daily updated summary of the most frequent types of security incidents current
 | [Google Releases Security Updates for Chrome](https://www.cisa.gov/uscert/ncas/current-activity/2022/07/21/google-releases-security-updates-chrome) | <p paraeid="{89255f5e-4ab5-45bd-aa25-0f5811fbda49}{184}" paraid="2004898120">Google has released Chrome version 103.0.5060.134Â  for Windows, Mac, and Linux. This version addresses vulnerabilities that an attacker could exploit to take control of an affected system.Â Â </p> | Thursday, July 21, 2022 |
 | [Drupal Releases Security Updateâ€¯](https://www.cisa.gov/uscert/ncas/current-activity/2022/07/21/drupal-releases-security-update) | <p paraeid="{3090b53b-5e41-4f7f-ae9a-5ab99b08d883}{172}" paraid="1487606976">Drupal has released security updates to address vulnerabilities affecting Drupal 9.3 and 9.4. An attacker could exploit some of these vulnerabilities to take control of an affected system.â€¯Â </p> | Thursday, July 21, 2022 |
 | [CNMF Discloses Malware in Ukraine](https://www.cisa.gov/uscert/ncas/current-activity/2022/07/21/cnmf-discloses-malware-ukraine) | <p class="MsoNormal"><span>U.S. Cyber Commandâ€™s Cyber National Mission Force (CNMF), i<span>n close coordination with the Security Service of Ukraine, has released a list of indicators of compromise (IOCs) of malware seen in Ukraine.</span></span></p> | Thursday, July 21, 2022 |
+## IBMCloud [:arrow_heading_up:](#cyberowl)
+|Title|Description|Date|
+|---|---|---|
+| [Citrix ADC and Citrix Gateway open redirect (CVE-2022-27509)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 26, 2022 |
+| [FileWave security bypass (CVE-2022-34907)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 25, 2022 |
+| [GNOME GdkPixbuf (aka GDK-PixBuf) buffer overflow (CVE-2021-46829)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 25, 2022 |
+| [LibreOffice information disclosure (CVE-2022-26307)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 25, 2022 |
+| [LibreOffice information disclosure (CVE-2022-26306)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 25, 2022 |
+| [LibreOffice code execution (CVE-2022-26305)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 25, 2022 |
+| [Flipbox plugin for WordPress security bypass (CVE-2022-33969)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 25, 2022 |
 ## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
@@ -48,6 +48,8 @@ A daily updated summary of the most frequent types of security incidents current
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
+| [Vulnérabilité dans LemonLDAP::NG](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-678/) | Une vulnérabilité a été découverte dans LemonLDAP::NG. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. | 26 juillet 2022 |
+| [Vulnérabilité dans Trend Micro Apex One et Worry-Free Business Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-677/) | Une vulnérabilité a été découverte dans Trend Micro Apex One et Worry-Free Business Security. Elle permet à un attaquant de provoquer une élévation de privilèges. | 26 juillet 2022 |
 | [Multiples vulnérabilités dans Adobe Acrobat et Reader](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-676/) | De multiples vulnérabilités ont été découvertes dans Adobe Acrobat et Reader. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à la confidentialité des données. | 25 juillet 2022 |
 | [Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-675/) | De multiples vulnérabilités ont été corrigées dans  | 25 juillet 2022 |
 | [Multiples vulnérabilités dans les produits WithSecure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-674/) | De multiples vulnérabilités ont été découvertes dans les produits WithSecure. Elles permettent à un attaquant de provoquer un déni de service. | 22 juillet 2022 |
@@ -56,8 +58,6 @@ A daily updated summary of the most frequent types of security incidents current
 | [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-671/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une atteinte à la confidentialité des données. | 22 juillet 2022 |
 | [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-670/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une atteinte à la confidentialité des données. | 22 juillet 2022 |
 | [Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-669/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. | 22 juillet 2022 |
-| [Vulnérabilité dans les produits WithSecure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-668/) | Une vulnérabilité a été découverte dans les produits WithSecure. Elle permet à un attaquant de provoquer une élévation de privilèges. | 21 juillet 2022 |
-| [Multiples vulnérabilités dans Drupal](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-667/) | De multiples vulnérabilités ont été découvertes dans Drupal. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un contournement de la politique de sécurité. | 21 juillet 2022 |
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
