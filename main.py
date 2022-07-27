@@ -10,11 +10,7 @@ from datetime import datetime
 def main():
     now = datetime.now().strftime("%d/%m/%Y %H:%M:%S")
 
-    item = f"""<div id="top"></div>\n\n## CyberOwl \n ![cyberowl](https://github.com/karimhabush/cyberowl/docs/images/logo.png)
-\n> Last Updated {now} \n\n
-A daily updated summary of the most frequent types of security incidents currently being reported from different sources.\n\n
-### Jump to \n * [CISA](#cisa-arrow_heading_up)\n* [MA-CERT](#ma-cert-arrow_heading_up)\n* [CERT-FR](#cert-fr-arrow_heading_up)
-\n* [IBMCLOUD](#ibmcloud-arrow_heading_up)\n* [ZeroDayInitiative](#zerodayinitiative-arrow_heading_up)\n\n"""
+    item = f"""<div id="top"></div>\n\n## CyberOwl \n ![cyberowl](docs/images/logo.png)\n> Last Updated {now} \n\nA daily updated summary of the most frequent types of security incidents currently being reported from different sources.\n\n--- \n\n### 🦘 Jump to \n | CyberOwl Sources | Description |\n|---|---|\n| [US-CERT](#cisa-arrow_heading_up) | United States Computer Emergency and Readiness Team. |\n| [MA-CERT](#ma-cert-arrow_heading_up) | Moroccan Computer Emergency Response Team. | \n | [CERT-FR](#cert-fr-arrow_heading_up) | The French national government Computer Security Incident Response Team. |\n| [CERT-FR](#cert-fr-arrow_heading_up) | The French national government Computer Security Incident Response Team. |\n| [IBM X-Force Exchange](#ibmcloud-arrow_heading_up) | A cloud-based threat intelligence platform that allows to consume, share and act on threat intelligence. |\n| [ZeroDayInitiative](#zerodayinitiative-arrow_heading_up) | An international software vulnerability initiative that was started in 2005 by TippingPoint. |\n\n> Suggest a source by creating an [issue](https://github.com/karimhabush/cyberowl/issues)! 🙌\n\n---\n\n"""
 
     with open("README.md", "w") as f:
         f.write(item)
