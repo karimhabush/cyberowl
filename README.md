@@ -1,9 +1,9 @@
 <div id="top"></div>
 
 ## CyberOwl 
- ![cyberowl](https://github.com/karimhabush/cyberowl/docs/images/logo.png)
+ ![cyberowl](docs/images/logo.png)
 
-> Last Updated 27/07/2022 19:01:58 
+> Last Updated 27/07/2022 19:04:01 
 
 
 A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
@@ -30,6 +30,16 @@ A daily updated summary of the most frequent types of security incidents current
 | [Vulnérabilité dans Aruba Virtual Intranet Access](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-679/) | Une vulnérabilité a été découverte dans Aruba Virtual Intranet Access. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données. | 27 juillet 2022 |
 | [Vulnérabilité dans LemonLDAP::NG](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-678/) | Une vulnérabilité a été découverte dans LemonLDAP::NG. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. | 26 juillet 2022 |
 | [Vulnérabilité dans Trend Micro Apex One et Worry-Free Business Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-677/) | Une vulnérabilité a été découverte dans Trend Micro Apex One et Worry-Free Business Security. Elle permet à un attaquant de provoquer une élévation de privilèges. | 26 juillet 2022 |
+## IBMCloud [:arrow_heading_up:](#cyberowl)
+|Title|Description|Date|
+|---|---|---|
+| [Trend Micro Apex One and Worry-Free Business Security privilege escalation (CVE-2022-36336)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 27, 2022 |
+| [MOXA NPort 5110 device denial of service (CVE-2022-2043)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 26, 2022 |
+| [MOXA NPort 5110 device denial of service (CVE-2022-2044)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 26, 2022 |
+| [Honeywell Saia Burgess PG5 PCD information disclosure (CVE-2022-30320)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 26, 2022 |
+| [Honeywell Saia Burgess PG5 PCD security bypass (CVE-2022-30319)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 26, 2022 |
+| [Honeywell Safety Manager security bypass (CVE-2022-30314)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 26, 2022 |
+| [Honeywell Safety Manager security bypass (CVE-2022-30316)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 26, 2022 |
 ## CISA [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
@@ -54,16 +64,6 @@ A daily updated summary of the most frequent types of security incidents current
 | [37362107/22 - Vulnérabilités dans Cisco Small Business](https://www.dgssi.gov.ma/fr/content/3736210722-vulnerabilites-dans-cisco-small-business.html) | Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de Cisco Small Business. L’exploitation de ces failles pourrait permettre à un attaquant distant et authentifié d'exécuter du code arbitraire sur un appareil... | 21 juillet 2022 |
 | [37352107/22 - Vulnérabilités critique dans Cisco Nexus Dashboard](https://www.dgssi.gov.ma/fr/content/3735210722-vulnerabilites-critique-dans-cisco-nexus-dashboard.html) | Plusieurs vulnérabilités Critiques ont été corrigées dans Cisco Nexus Dashboard. L’exploitation de ces failles permet à un attaquant d’exécuter des commandes et d'effectuer des actions avec les privilèges de l'administrateur ou... | 21 juillet 2022 |
 | [37342007/22 - "Oracle Critical Patch Update" du Mois Juillet 2022](https://www.dgssi.gov.ma/fr/content/3734200722-oracle-critical-patch-update-du-mois-juillet-2022.html) | Oracle a publié des correctifs de sécurité pour traiter plusieurs vulnérabilités dans le cadre de sa mise à jour « Oracle Critical Patch Update » du mois Juillet 2022. L'exploitation de certaines de ces vulnérabilités pourrait... | 20 juillet 2022 |
-## IBMCloud [:arrow_heading_up:](#cyberowl)
-|Title|Description|Date|
-|---|---|---|
-| [Trend Micro Apex One and Worry-Free Business Security privilege escalation (CVE-2022-36336)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 27, 2022 |
-| [MOXA NPort 5110 device denial of service (CVE-2022-2043)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 26, 2022 |
-| [MOXA NPort 5110 device denial of service (CVE-2022-2044)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 26, 2022 |
-| [Honeywell Saia Burgess PG5 PCD information disclosure (CVE-2022-30320)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 26, 2022 |
-| [Honeywell Saia Burgess PG5 PCD security bypass (CVE-2022-30319)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 26, 2022 |
-| [Honeywell Safety Manager security bypass (CVE-2022-30314)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 26, 2022 |
-| [Honeywell Safety Manager security bypass (CVE-2022-30316)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 26, 2022 |
 ## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
