@@ -2,7 +2,7 @@
 
 ## CyberOwl 
  ![cyberowl](docs/images/logo.png)
-> Last Updated 28/07/2022 09:13:08 
+> Last Updated 28/07/2022 08:55:51 UTC 
 
 A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
 
@@ -30,16 +30,30 @@ A daily updated summary of the most frequent types of security incidents current
 | [Drupal Releases Security Update ](https://www.cisa.gov/uscert/ncas/current-activity/2022/07/21/drupal-releases-security-update) | <p paraeid="{3090b53b-5e41-4f7f-ae9a-5ab99b08d883}{172}" paraid="1487606976">Drupal has released security updates to address vulnerabilities affecting Drupal 9.3 and 9.4. An attacker could exploit some of these vulnerabilities to take control of an affected system.  </p> | Thursday, July 21, 2022 |
 | [CNMF Discloses Malware in Ukraine](https://www.cisa.gov/uscert/ncas/current-activity/2022/07/21/cnmf-discloses-malware-ukraine) | <p class="MsoNormal"><span>U.S. Cyber Command’s Cyber National Mission Force (CNMF), i<span>n close coordination with the Security Service of Ukraine, has released a list of indicators of compromise (IOCs) of malware seen in Ukraine.</span></span></p> | Thursday, July 21, 2022 |
 ---
+### CERT-FR [:arrow_heading_up:](#cyberowl)
+|Title|Description|Date|
+|---|---|---|
+| [Multiples vulnérabilités dans Samba](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-686/) | De multiples vulnérabilités ont été découvertes dans Samba. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données. | 27 juillet 2022 |
+| [Multiples vulnérabilités dans Mitel Micollab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-685/) | De multiples vulnérabilités ont été découvertes dans Mitel Micollab. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une élévation de privilèges. | 27 juillet 2022 |
+| [Multiples vulnérabilités dans Mozilla Firefox](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-684/) | De multiples vulnérabilités ont été découvertes dans Mozilla Firefox. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité. | 27 juillet 2022 |
+| [Multiples vulnérabilités dans IBM QRadar SIEM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-683/) | De multiples vulnérabilités ont été découvertes dans IBM QRadar SIEM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données. | 27 juillet 2022 |
+| [Multiples vulnérabilités dans StormShield Network Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-682/) | De multiples vulnérabilités ont été découvertes dans StormShield Network Security. Elles permettent à un attaquant de provoquer un déni de service à distance. | 27 juillet 2022 |
+| [Vulnérabilité dans Citrix ADC et Gateway](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-681/) | Une vulnérabilité a été découverte dans Citrix ADC et Gateway. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. | 27 juillet 2022 |
+| [Vulnérabilité dans Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-680/) | Une vulnérabilité a été découverte dans Xen. Elle permet à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une élévation de privilèges. | 27 juillet 2022 |
+| [Vulnérabilité dans Aruba Virtual Intranet Access](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-679/) | Une vulnérabilité a été découverte dans Aruba Virtual Intranet Access. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données. | 27 juillet 2022 |
+| [Vulnérabilité dans LemonLDAP::NG](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-678/) | Une vulnérabilité a été découverte dans LemonLDAP::NG. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. | 26 juillet 2022 |
+| [Vulnérabilité dans Trend Micro Apex One et Worry-Free Business Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-677/) | Une vulnérabilité a été découverte dans Trend Micro Apex One et Worry-Free Business Security. Elle permet à un attaquant de provoquer une élévation de privilèges. | 26 juillet 2022 |
+---
 ### IBMCloud [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
+| [InMailX Outlook Plugin cross-site scripting (CVE-2022-27105)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 27, 2022 |
 | [Atlassian Jira Service Management Server and Data Center server-side request forgery (CVE-2021-43959)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 27, 2022 |
 | [Webmin cross-site scripting (CVE-2022-36880)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 27, 2022 |
 | [Jenkins HTTP Request Plugin information disclosure (CVE-2022-36901)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 27, 2022 |
 | [Jenkins Compuware zAdviser API Plugin information disclosure (CVE-2022-36900)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 27, 2022 |
 | [Jenkins Compuware ISPW Operations Plugin information disclosure (CVE-2022-36899)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 27, 2022 |
 | [Jenkins Compuware ISPW Operations Plugin information disclosure (CVE-2022-36898)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 27, 2022 |
-| [Jenkins Compuware Xpediter Code Coverage Plugin information disclosure (CVE-2022-36897)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 27, 2022 |
 ---
 ### MA-CERT [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
@@ -56,20 +70,6 @@ A daily updated summary of the most frequent types of security incidents current
 | [37362107/22 - Vulnérabilités dans Cisco Small Business](https://www.dgssi.gov.ma/fr/content/3736210722-vulnerabilites-dans-cisco-small-business.html) | Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de Cisco Small Business. L’exploitation de ces failles pourrait permettre à un attaquant distant et authentifié d'exécuter du code arbitraire sur un appareil... | 21 juillet 2022 |
 | [37352107/22 - Vulnérabilités critique dans Cisco Nexus Dashboard](https://www.dgssi.gov.ma/fr/content/3735210722-vulnerabilites-critique-dans-cisco-nexus-dashboard.html) | Plusieurs vulnérabilités Critiques ont été corrigées dans Cisco Nexus Dashboard. L’exploitation de ces failles permet à un attaquant d’exécuter des commandes et d'effectuer des actions avec les privilèges de l'administrateur ou... | 21 juillet 2022 |
 | [37342007/22 - "Oracle Critical Patch Update" du Mois Juillet 2022](https://www.dgssi.gov.ma/fr/content/3734200722-oracle-critical-patch-update-du-mois-juillet-2022.html) | Oracle a publié des correctifs de sécurité pour traiter plusieurs vulnérabilités dans le cadre de sa mise à jour « Oracle Critical Patch Update » du mois Juillet 2022. L'exploitation de certaines de ces vulnérabilités pourrait... | 20 juillet 2022 |
----
-### CERT-FR [:arrow_heading_up:](#cyberowl)
-|Title|Description|Date|
-|---|---|---|
-| [Multiples vulnérabilités dans Samba](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-686/) | De multiples vulnérabilités ont été découvertes dans Samba. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données. | 27 juillet 2022 |
-| [Multiples vulnérabilités dans Mitel Micollab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-685/) | De multiples vulnérabilités ont été découvertes dans Mitel Micollab. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une élévation de privilèges. | 27 juillet 2022 |
-| [Multiples vulnérabilités dans Mozilla Firefox](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-684/) | De multiples vulnérabilités ont été découvertes dans Mozilla Firefox. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité. | 27 juillet 2022 |
-| [Multiples vulnérabilités dans IBM QRadar SIEM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-683/) | De multiples vulnérabilités ont été découvertes dans IBM QRadar SIEM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données. | 27 juillet 2022 |
-| [Multiples vulnérabilités dans StormShield Network Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-682/) | De multiples vulnérabilités ont été découvertes dans StormShield Network Security. Elles permettent à un attaquant de provoquer un déni de service à distance. | 27 juillet 2022 |
-| [Vulnérabilité dans Citrix ADC et Gateway](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-681/) | Une vulnérabilité a été découverte dans Citrix ADC et Gateway. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. | 27 juillet 2022 |
-| [Vulnérabilité dans Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-680/) | Une vulnérabilité a été découverte dans Xen. Elle permet à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une élévation de privilèges. | 27 juillet 2022 |
-| [Vulnérabilité dans Aruba Virtual Intranet Access](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-679/) | Une vulnérabilité a été découverte dans Aruba Virtual Intranet Access. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données. | 27 juillet 2022 |
-| [Vulnérabilité dans LemonLDAP::NG](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-678/) | Une vulnérabilité a été découverte dans LemonLDAP::NG. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. | 26 juillet 2022 |
-| [Vulnérabilité dans Trend Micro Apex One et Worry-Free Business Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-677/) | Une vulnérabilité a été découverte dans Trend Micro Apex One et Worry-Free Business Security. Elle permet à un attaquant de provoquer une élévation de privilèges. | 26 juillet 2022 |
 ---
 ### ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
