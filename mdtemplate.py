@@ -23,7 +23,7 @@ class Template:
                     "The dictionnaries in _data arrow is expecting the element _date.")
 
     def _set_heading(self):
-        return f"""## {self.SOURCE} [:arrow_heading_up:](#cyberowl)\n"""
+        return f"""---\n### {self.SOURCE} [:arrow_heading_up:](#cyberowl)\n"""
 
     def _set_table_headers(self):
         return """|Title|Description|Date|\n|---|---|---|\n"""

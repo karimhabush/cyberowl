@@ -31,7 +31,7 @@ class CisaSpider(scrapy.Spider):
 
             _data.append(ITEM)
 
-        _to_write = Template("CISA", _data)
+        _to_write = Template("US-CERT", _data)
 
         with open("README.md", "a", encoding="utf-8") as f:
             f.write(_to_write._fill_table())
