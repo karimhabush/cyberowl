@@ -2,7 +2,7 @@
 
 ## CyberOwl 
  ![cyberowl](docs/images/logo.png)
-> Last Updated 28/07/2022 21:13:14 UTC 
+> Last Updated 29/07/2022 09:15:21 UTC 
 
 A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
 
@@ -30,17 +30,6 @@ A daily updated summary of the most frequent types of security incidents current
 | [Atlassian Releases Security Advisory for Questions for Confluence App, CVE-2022-26138](https://www.cisa.gov/uscert/ncas/current-activity/2022/07/22/atlassian-releases-security-advisory-questions-confluence-app-cve) | <p>Atlassian has released a security advisory to address a vulnerability (CVE-2022-26138) affecting Questions for Confluence App. An attacker could exploit this vulnerability to obtain sensitive information. Atlassian reports that the vulnerability is likely to be exploited in the wild.</p> | Friday, July 22, 2022 |
 | [Google Releases Security Updates for Chrome](https://www.cisa.gov/uscert/ncas/current-activity/2022/07/21/google-releases-security-updates-chrome) | <p paraeid="{89255f5e-4ab5-45bd-aa25-0f5811fbda49}{184}" paraid="2004898120">Google has released Chrome version 103.0.5060.134Â  for Windows, Mac, and Linux. This version addresses vulnerabilities that an attacker could exploit to take control of an affected system.Â Â </p> | Thursday, July 21, 2022 |
 ---
-### IBMCloud [:arrow_heading_up:](#cyberowl)
-|Title|Description|Date|
-|---|---|---|
-| [Loan Management System addUser.php save_ltype.php save_borrower.php cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 28, 2022 |
-| [Loan Management System login SQL injection](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 28, 2022 |
-| [FreshTomato denial of service (CVE-2022-28665)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 27, 2022 |
-| [FreshTomato denial of service (CVE-2022-28664)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 27, 2022 |
-| [PDF generator API module for Drupal code execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 27, 2022 |
-| [Context module for Drupal cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 27, 2022 |
-| [Tagify module for Drupal security bypass](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 27, 2022 |
----
 ### CERT-FR [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
@@ -55,17 +44,16 @@ A daily updated summary of the most frequent types of security incidents current
 | [Vulnérabilité dans LemonLDAP::NG](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-678/) | Une vulnérabilité a été découverte dans LemonLDAP::NG. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. | 26 juillet 2022 |
 | [Vulnérabilité dans Trend Micro Apex One et Worry-Free Business Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-677/) | Une vulnérabilité a été découverte dans Trend Micro Apex One et Worry-Free Business Security. Elle permet à un attaquant de provoquer une élévation de privilèges. | 26 juillet 2022 |
 ---
-### ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
+### IBMCloud [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
-| [Trend Micro Apex One Security Agent Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1033/) | Visit link for details | July 28, 2022 |
-| [EnterpriseDT CompleteFTP Server HttpFile Directory Traversal Arbitrary File Deletion Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1032/) | Visit link for details | July 28, 2022 |
-| [OPC Labs QuickOPC Connectivity Explorer Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1031/) | Visit link for details | July 28, 2022 |
-| [(Pwn2Own) Unified Automation OPC UA C++ Improper Update of Reference Count Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1030/) | Visit link for details | July 28, 2022 |
-| [(Pwn2Own) Unified Automation OPC UA C++ Infinite Loop Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1029/) | Visit link for details | July 28, 2022 |
-| [Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1028/) | Visit link for details | July 28, 2022 |
-| [Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1027/) | Visit link for details | July 28, 2022 |
-| [Oracle MySQL Cluster Data Node Integer Underflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1026/) | Visit link for details | July 27, 2022 |
+| [Synology CardDAV Server SQL injection (CVE-2022-27613)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 28, 2022 |
+| [JetBrains IntelliJ IDEA information disclosure (CVE-2022-37010)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 28, 2022 |
+| [JetBrains IntelliJ IDEA code execution (CVE-2022-37009)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 28, 2022 |
+| [Apache Calcite Avatica code execution (CVE-2022-36364)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 28, 2022 |
+| [OPC Labs QuickOPC code execution (CVE-2022-2561)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 28, 2022 |
+| [EnterpriseDT CompleteFTP Server directory traversal (CVE-2022-2560)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 28, 2022 |
+| [JustSystems JUST Online Update for J-License privilege escalation](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 28, 2022 |
 ---
 ### MA-CERT [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
@@ -82,3 +70,15 @@ A daily updated summary of the most frequent types of security incidents current
 | [37362107/22 - Vulnérabilités dans Cisco Small Business](https://www.dgssi.gov.ma/fr/content/3736210722-vulnerabilites-dans-cisco-small-business.html) | Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de Cisco Small Business. L’exploitation de ces failles pourrait permettre à un attaquant distant et authentifié d'exécuter du code arbitraire sur un appareil... | 21 juillet 2022 |
 | [37352107/22 - Vulnérabilités critique dans Cisco Nexus Dashboard](https://www.dgssi.gov.ma/fr/content/3735210722-vulnerabilites-critique-dans-cisco-nexus-dashboard.html) | Plusieurs vulnérabilités Critiques ont été corrigées dans Cisco Nexus Dashboard. L’exploitation de ces failles permet à un attaquant d’exécuter des commandes et d'effectuer des actions avec les privilèges de l'administrateur ou... | 21 juillet 2022 |
 | [37342007/22 - "Oracle Critical Patch Update" du Mois Juillet 2022](https://www.dgssi.gov.ma/fr/content/3734200722-oracle-critical-patch-update-du-mois-juillet-2022.html) | Oracle a publié des correctifs de sécurité pour traiter plusieurs vulnérabilités dans le cadre de sa mise à jour « Oracle Critical Patch Update » du mois Juillet 2022. L'exploitation de certaines de ces vulnérabilités pourrait... | 20 juillet 2022 |
+---
+### ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
+|Title|Description|Date|
+|---|---|---|
+| [Trend Micro Apex One Security Agent Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1033/) | Visit link for details | July 28, 2022 |
+| [EnterpriseDT CompleteFTP Server HttpFile Directory Traversal Arbitrary File Deletion Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1032/) | Visit link for details | July 28, 2022 |
+| [OPC Labs QuickOPC Connectivity Explorer Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1031/) | Visit link for details | July 28, 2022 |
+| [(Pwn2Own) Unified Automation OPC UA C++ Improper Update of Reference Count Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1030/) | Visit link for details | July 28, 2022 |
+| [(Pwn2Own) Unified Automation OPC UA C++ Infinite Loop Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1029/) | Visit link for details | July 28, 2022 |
+| [Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1028/) | Visit link for details | July 28, 2022 |
+| [Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1027/) | Visit link for details | July 28, 2022 |
+| [Oracle MySQL Cluster Data Node Integer Underflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1026/) | Visit link for details | July 27, 2022 |
