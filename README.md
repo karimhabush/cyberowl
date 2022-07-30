@@ -2,7 +2,7 @@
 
 ## CyberOwl 
  ![cyberowl](docs/images/logo.png)
-> Last Updated 30/07/2022 21:22:10 UTC 
+> Last Updated 30/07/2022 23:52:13 UTC 
 
 A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
 
@@ -17,6 +17,7 @@ A daily updated summary of the most frequent types of security incidents current
 | [IBM X-Force Exchange](#ibmcloud-arrow_heading_up) | A cloud-based threat intelligence platform that allows to consume, share and act on threat intelligence. |
 | [ZeroDayInitiative](#zerodayinitiative-arrow_heading_up) | An international software vulnerability initiative that was started in 2005 by TippingPoint. |
 | [OBS Vigilance](#obs-vigilance-arrow_heading_up) |Vigilance is an initiative created by OBS (Orange Business Services) since 1999 to watch public vulnerabilities and then offer security fixes, a database and tools to remediate them. |
+| [VulDB](#vuldb-arrow_heading_up) | Number one vulnerability database documenting and explaining security vulnerabilities, threats, and exploits since 1970. |
 
 > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
 
@@ -69,6 +70,20 @@ A daily updated summary of the most frequent types of security incidents current
 | [<a href="https://vigilance.fr/vulnerability/Webmin-Usermin-Cross-Site-Scripting-via-Read-Mail-Module-38947" class="noirorange"><b>Webmin - Usermin</b>: Cross Site Scripting via Read Mail Module</a>](https://vigilance.fr/vulnerability/Webmin-Usermin-Cross-Site-Scripting-via-Read-Mail-Module-38947) | An attacker can trigger a Cross Site Scripting of Webmin - Usermin, via Read Mail Module, in order to run JavaScript code in the context of the web site... | Visit link for details |
 | [<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-nfqnl-mangle-38946" class="noirorange"><b>Linux kernel</b>: denial of service via nfqnl_mangle()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-nfqnl-mangle-38946) | An attacker can cause a fatal error of the Linux kernel, via nfqnl_mangle(), in order to trigger a denial of service... | Visit link for details |
 | [<a href="https://vigilance.fr/vulnerability/Go-denial-of-service-via-go-parser-Parse-38945" class="noirorange"><b>Go</b>: denial of service via go/parser Parse</a>](https://vigilance.fr/vulnerability/Go-denial-of-service-via-go-parser-Parse-38945) | An attacker can cause a fatal error of Go, via go/parser Parse, in order to trigger a denial of service... | Visit link for details |
+---
+### VulDB [:arrow_heading_up:](#cyberowl)
+|Title|Description|Date|
+|---|---|---|
+| [Rockwell Automation ISaGRAF Workbench deserialization](https://vuldb.com/?id.205343) | Visit link for details | 2022-07-30 at 22:24 |
+| [Rockwell Automation ISaGRAF Workbench path traversal](https://vuldb.com/?id.205342) | Visit link for details | 2022-07-30 at 22:24 |
+| [Rockwell Automation ISaGRAF Workbench 7z File path traversal](https://vuldb.com/?id.205341) | Visit link for details | 2022-07-30 at 22:23 |
+| [AutomationDirect SIO-MB04RTDS cleartext transmission](https://vuldb.com/?id.205340) | Visit link for details | 2022-07-30 at 22:20 |
+| [Inductive Automation Ignition xml external entity reference](https://vuldb.com/?id.205339) | Visit link for details | 2022-07-30 at 22:18 |
+| [Moxa NPort 5110 out-of-bounds write](https://vuldb.com/?id.205338) | Visit link for details | 2022-07-30 at 19:31 |
+| [Moxa NPort 5110 out-of-bounds write](https://vuldb.com/?id.205337) | Visit link for details | 2022-07-30 at 19:30 |
+| [Velocidex Velociraptor GUI cross site scripting](https://vuldb.com/?id.205336) | Visit link for details | 2022-07-30 at 11:22 |
+| [Velocidex Velociraptor Collection Report cross site scripting](https://vuldb.com/?id.205335) | Visit link for details | 2022-07-30 at 11:22 |
+| [Trend Micro VPN Proxy Pro permission](https://vuldb.com/?id.205334) | Visit link for details | 2022-07-30 at 11:21 |
 ---
 ### MA-CERT [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
