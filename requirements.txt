@@ -1,7 +1,7 @@
 ﻿GitPython==3.1.27
 python-dotenv==0.20.0
 Scrapy==2.6.2
-selenium==4.3.0
+selenium==3.141.0
 msedge-selenium-tools==3.141.4
 coverage==6.4.2
 flake8==4.0.1
