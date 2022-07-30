@@ -1,8 +1,7 @@
 <div id="top"></div>
 
 ## CyberOwl 
- ![cyberowl](docs/images/logo.png)
-> Last Updated 30/07/2022 23:52:13 UTC 
+> Last Updated 30/07/2022 23:58:26 UTC 
 
 A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
 
