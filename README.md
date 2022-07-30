@@ -2,7 +2,7 @@
 
 ## CyberOwl 
  ![cyberowl](docs/images/logo.png)
-> Last Updated 29/07/2022 21:13:44 UTC 
+> Last Updated 30/07/2022 21:22:10 UTC 
 
 A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
 
@@ -16,9 +16,21 @@ A daily updated summary of the most frequent types of security incidents current
 | [CERT-FR](#cert-fr-arrow_heading_up) | The French national government Computer Security Incident Response Team. |
 | [IBM X-Force Exchange](#ibmcloud-arrow_heading_up) | A cloud-based threat intelligence platform that allows to consume, share and act on threat intelligence. |
 | [ZeroDayInitiative](#zerodayinitiative-arrow_heading_up) | An international software vulnerability initiative that was started in 2005 by TippingPoint. |
+| [OBS Vigilance](#obs-vigilance-arrow_heading_up) |Vigilance is an initiative created by OBS (Orange Business Services) since 1999 to watch public vulnerabilities and then offer security fixes, a database and tools to remediate them. |
 
 > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
 
+---
+### IBMCloud [:arrow_heading_up:](#cyberowl)
+|Title|Description|Date|
+|---|---|---|
+| [Western Digital Sweet B denial of service (CVE-2022-23004)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 29, 2022 |
+| [Western Digital Sweet B denial of service (CVE-2022-23003)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 29, 2022 |
+| [Western Digital Sweet B denial of service (CVE-2022-23002)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 29, 2022 |
+| [Western Digital Sweet B denial of service (CVE-2022-23001)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 29, 2022 |
+| [Schneider Electric SpaceLogic C-Bus Home Controller command execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 29, 2022 |
+| [Carel pCOWeb HVAC BACnet Gateway directory traversal](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 29, 2022 |
+| [Geonetwork XML external entity injection](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 29, 2022 |
 ---
 ### US-CERT [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
@@ -44,16 +56,19 @@ A daily updated summary of the most frequent types of security incidents current
 | [Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-687/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une élévation de privilèges. | 29 juillet 2022 |
 | [Multiples vulnérabilités dans Samba](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-686/) | De multiples vulnérabilités ont été découvertes dans Samba. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données. | 27 juillet 2022 |
 ---
-### IBMCloud [:arrow_heading_up:](#cyberowl)
+### OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
-| [Unified Automation OPC UA C++ server denial of service (CVE-2022-37012)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 28, 2022 |
-| [Synology Media Server buffer overflow (CVE-2022-22683)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 28, 2022 |
-| [Synology WebDAV Server directory traversal (CVE-2022-22685)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 28, 2022 |
-| [Synology Audio Station directory traversal (CVE-2022-27611)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 28, 2022 |
-| [Synology Audio Station buffer overflow (CVE-2022-27612)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 28, 2022 |
-| [Synology CardDAV Server SQL injection (CVE-2022-27613)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 28, 2022 |
-| [Synology Media Server information disclosure (CVE-2022-27614)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 28, 2022 |
+| [<a href="https://vigilance.fr/vulnerability/Ruby-TZInfo-directory-traversal-via-tzinfo-data-38959" class="noirorange"><b>Ruby TZInfo</b>: directory traversal via tzinfo-data</a>](https://vigilance.fr/vulnerability/Ruby-TZInfo-directory-traversal-via-tzinfo-data-38959) | An attacker can traverse directories of Ruby TZInfo, via tzinfo-data, in order to read a file outside the service root path... | Visit link for details |
+| [<a href="https://vigilance.fr/vulnerability/Das-U-Boot-buffer-overflow-via-do-i2c-md-38958" class="noirorange"><b>Das U-Boot</b>: buffer overflow via do_i2c_md()</a>](https://vigilance.fr/vulnerability/Das-U-Boot-buffer-overflow-via-do-i2c-md-38958) | An attacker can trigger a buffer overflow of Das U-Boot, via do_i2c_md(), in order to trigger a denial of service, and possibly to run code... | Visit link for details |
+| [<a href="https://vigilance.fr/vulnerability/Booth-information-disclosure-via-Ignored-Authfile-Directive-38957" class="noirorange"><b>Booth</b>: information disclosure via Ignored Authfile Directive</a>](https://vigilance.fr/vulnerability/Booth-information-disclosure-via-Ignored-Authfile-Directive-38957) | An attacker can bypass access restrictions to data of Booth, via Ignored Authfile Directive, in order to read sensitive information... | Visit link for details |
+| [<a href="https://vigilance.fr/vulnerability/Centreon-Web-multiple-vulnerabilities-38954" class="noirorange"><b>Centreon Web</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Centreon-Web-multiple-vulnerabilities-38954) | An attacker can use several vulnerabilities of Centreon Web... | Visit link for details |
+| [<a href="https://vigilance.fr/vulnerability/libtirpc-overload-via-Idle-TCP-Connections-38952" class="noirorange"><b>libtirpc</b>: overload via Idle TCP Connections</a>](https://vigilance.fr/vulnerability/libtirpc-overload-via-Idle-TCP-Connections-38952) | An attacker can trigger an overload of libtirpc, via Idle TCP Connections, in order to trigger a denial of service... | Visit link for details |
+| [<a href="https://vigilance.fr/vulnerability/libguestfs-overload-via-get-keys-38950" class="noirorange"><b>libguestfs</b>: overload via get_keys()</a>](https://vigilance.fr/vulnerability/libguestfs-overload-via-get-keys-38950) | An attacker can trigger an overload of libguestfs, via get_keys(), in order to trigger a denial of service... | Visit link for details |
+| [<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-xfrm-pols-put-38948" class="noirorange"><b>Linux kernel</b>: denial of service via xfrm_pols_put()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-xfrm-pols-put-38948) | An attacker can cause a fatal error of the Linux kernel, via xfrm_pols_put(), in order to trigger a denial of service... | Visit link for details |
+| [<a href="https://vigilance.fr/vulnerability/Webmin-Usermin-Cross-Site-Scripting-via-Read-Mail-Module-38947" class="noirorange"><b>Webmin - Usermin</b>: Cross Site Scripting via Read Mail Module</a>](https://vigilance.fr/vulnerability/Webmin-Usermin-Cross-Site-Scripting-via-Read-Mail-Module-38947) | An attacker can trigger a Cross Site Scripting of Webmin - Usermin, via Read Mail Module, in order to run JavaScript code in the context of the web site... | Visit link for details |
+| [<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-nfqnl-mangle-38946" class="noirorange"><b>Linux kernel</b>: denial of service via nfqnl_mangle()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-nfqnl-mangle-38946) | An attacker can cause a fatal error of the Linux kernel, via nfqnl_mangle(), in order to trigger a denial of service... | Visit link for details |
+| [<a href="https://vigilance.fr/vulnerability/Go-denial-of-service-via-go-parser-Parse-38945" class="noirorange"><b>Go</b>: denial of service via go/parser Parse</a>](https://vigilance.fr/vulnerability/Go-denial-of-service-via-go-parser-Parse-38945) | An attacker can cause a fatal error of Go, via go/parser Parse, in order to trigger a denial of service... | Visit link for details |
 ---
 ### MA-CERT [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
