@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 ## CyberOwl 
-> Last Updated 01/08/2022 09:15:09 UTC 
+> Last Updated 01/08/2022 21:14:11 UTC 
 
 A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
 
@@ -34,25 +34,13 @@ A daily updated summary of the most frequent types of security incidents current
 ### IBMCloud [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
-| [Western Digital Sweet B denial of service (CVE-2022-23004)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 29, 2022 |
-| [Western Digital Sweet B denial of service (CVE-2022-23003)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 29, 2022 |
-| [Western Digital Sweet B denial of service (CVE-2022-23002)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 29, 2022 |
-| [Western Digital Sweet B denial of service (CVE-2022-23001)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 29, 2022 |
-| [Schneider Electric SpaceLogic C-Bus Home Controller command execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 29, 2022 |
-| [Carel pCOWeb HVAC BACnet Gateway directory traversal](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 29, 2022 |
-| [Geonetwork XML external entity injection](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 29, 2022 |
----
-### ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
-|Title|Description|Date|
-|---|---|---|
-| [Autodesk Desktop App Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1035/) | Visit link for details | July 29, 2022 |
-| [Autodesk Desktop App Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1034/) | Visit link for details | July 29, 2022 |
-| [Trend Micro Apex One Security Agent Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1033/) | Visit link for details | July 28, 2022 |
-| [EnterpriseDT CompleteFTP Server HttpFile Directory Traversal Arbitrary File Deletion Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1032/) | Visit link for details | July 28, 2022 |
-| [OPC Labs QuickOPC Connectivity Explorer Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1031/) | Visit link for details | July 28, 2022 |
-| [(Pwn2Own) Unified Automation OPC UA C++ Improper Update of Reference Count Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1030/) | Visit link for details | July 28, 2022 |
-| [(Pwn2Own) Unified Automation OPC UA C++ Infinite Loop Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1029/) | Visit link for details | July 28, 2022 |
-| [Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1028/) | Visit link for details | July 28, 2022 |
+| [Sourcecodester Garage Management System SQL injection (CVE-2022-2577)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 29, 2022 |
+| [Sourcecodester Garage Management System SQL injection (CVE-2022-2579)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 29, 2022 |
+| [Floating Div plugin for WordPress cross-site scripting (CVE-2022-36378)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 29, 2022 |
+| [WP-UserOnline plugin for WordPress User Browsing Site cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 29, 2022 |
+| [Crime Reporting System a_users.php cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 29, 2022 |
+| [Nintendo WAP-001 buffer overflow (CVE-2022-36293)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 29, 2022 |
+| [Nintendo WAP-001 command execution (CVE-2022-36381)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 29, 2022 |
 ---
 ### CERT-FR [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
@@ -71,20 +59,21 @@ A daily updated summary of the most frequent types of security incidents current
 ### VulDB [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
-| [HPE iLO 5 Local Privilege Escalation](https://vuldb.com/?id.205358) | Visit link for details | 2022-08-01 at 12:00 |
-| [HPE iLO 5 Local Privilege Escalation](https://vuldb.com/?id.205357) | Visit link for details | 2022-08-01 at 12:00 |
-| [HPE iLO 5 Local Privilege Escalation](https://vuldb.com/?id.205356) | Visit link for details | 2022-08-01 at 11:59 |
-| [HPE iLO 5 Remote Code Execution](https://vuldb.com/?id.205355) | Visit link for details | 2022-08-01 at 11:58 |
-| [HPE iLO 5 Remote Code Execution](https://vuldb.com/?id.205354) | Visit link for details | 2022-08-01 at 11:58 |
-| [HPE iLO 5 Remote Code Execution](https://vuldb.com/?id.205353) | Visit link for details | 2022-08-01 at 11:57 |
-| [HPE iLO 5 Local Privilege Escalation](https://vuldb.com/?id.205352) | Visit link for details | 2022-08-01 at 11:56 |
-| [HPE iLO 5 Local Privilege Escalation](https://vuldb.com/?id.205351) | Visit link for details | 2022-08-01 at 11:56 |
-| [HPE iLO 5 Local Privilege Escalation](https://vuldb.com/?id.205350) | Visit link for details | 2022-08-01 at 11:55 |
-| [HPE iLO 5 Local Privilege Escalation](https://vuldb.com/?id.205349) | Visit link for details | 2022-08-01 at 11:54 |
+| [MediaTek MT8695 Video Codec memory corruption](https://vuldb.com/?id.205429) | Visit link for details | 2022-08-01 at 20:58 |
+| [MediaTek MT6833/MT6853/MT6873/MT6877/MT6893 Camera ISP out-of-bounds write](https://vuldb.com/?id.205428) | Visit link for details | 2022-08-01 at 20:58 |
+| [MediaTek MT8797 Camera ISP out-of-bounds write](https://vuldb.com/?id.205427) | Visit link for details | 2022-08-01 at 20:57 |
+| [Shopware Customer Module cross site scripting](https://vuldb.com/?id.205426) | Visit link for details | 2022-08-01 at 20:57 |
+| [Enalean Tuleap REST Endpoint authorization](https://vuldb.com/?id.205425) | Visit link for details | 2022-08-01 at 20:55 |
+| [IBM CICS TX input validation](https://vuldb.com/?id.205424) | Visit link for details | 2022-08-01 at 20:54 |
+| [IBM CICS TX HTTP Header injection](https://vuldb.com/?id.205423) | Visit link for details | 2022-08-01 at 20:54 |
+| [IBM CICS TX Local Privilege Escalation](https://vuldb.com/?id.205422) | Visit link for details | 2022-08-01 at 20:53 |
+| [IBM CICS TX missing secure attribute](https://vuldb.com/?id.205421) | Visit link for details | 2022-08-01 at 20:53 |
+| [IBM CICS TX cross-site request forgery](https://vuldb.com/?id.205420) | Visit link for details | 2022-08-01 at 20:52 |
 ---
 ### OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
+| [<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-August-2022-38968" class="noirorange"><b>Google Android - Pixel</b>: multiple vulnerabilities of August 2022</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-August-2022-38968) | An attacker can use several vulnerabilities of Google Android - Pixel... | Visit link for details |
 | [<a href="https://vigilance.fr/vulnerability/Linux-kernel-code-execution-via-BSS-BRK-Uncleared-Area-38966" class="noirorange"><b>Linux kernel</b>: code execution via BSS/BRK Uncleared Area</a>](https://vigilance.fr/vulnerability/Linux-kernel-code-execution-via-BSS-BRK-Uncleared-Area-38966) | An attacker can use a vulnerability of the Linux kernel, via BSS/BRK Uncleared Area, in order to run code... | Visit link for details |
 | [<a href="https://vigilance.fr/vulnerability/MariaDB-denial-of-service-via-create-worker-threads-38965" class="noirorange"><b>MariaDB</b>: denial of service via <wbr>create_worker_thread<wbr>s()</wbr></wbr></a>](https://vigilance.fr/vulnerability/MariaDB-denial-of-service-via-create-worker-threads-38965) | An attacker can cause a fatal error of MariaDB, via  | Visit link for details |
 | [<a href="https://vigilance.fr/vulnerability/MariaDB-denial-of-service-via-create-worker-threads-38964" class="noirorange"><b>MariaDB</b>: denial of service via <wbr>create_worker_thread<wbr>s()</wbr></wbr></a>](https://vigilance.fr/vulnerability/MariaDB-denial-of-service-via-create-worker-threads-38964) | An attacker can cause a fatal error of MariaDB, via  | Visit link for details |
@@ -94,11 +83,11 @@ A daily updated summary of the most frequent types of security incidents current
 | [<a href="https://vigilance.fr/vulnerability/pgjdbc-file-write-via-FileHandler-38960" class="noirorange"><b>pgjdbc</b>: file write via FileHandler</a>](https://vigilance.fr/vulnerability/pgjdbc-file-write-via-FileHandler-38960) | An attacker can bypass access restrictions of pgjdbc, via FileHandler, in order to alter files... | Visit link for details |
 | [<a href="https://vigilance.fr/vulnerability/Ruby-TZInfo-directory-traversal-via-tzinfo-data-38959" class="noirorange"><b>Ruby TZInfo</b>: directory traversal via tzinfo-data</a>](https://vigilance.fr/vulnerability/Ruby-TZInfo-directory-traversal-via-tzinfo-data-38959) | An attacker can traverse directories of Ruby TZInfo, via tzinfo-data, in order to read a file outside the service root path... | Visit link for details |
 | [<a href="https://vigilance.fr/vulnerability/Das-U-Boot-buffer-overflow-via-do-i2c-md-38958" class="noirorange"><b>Das U-Boot</b>: buffer overflow via do_i2c_md()</a>](https://vigilance.fr/vulnerability/Das-U-Boot-buffer-overflow-via-do-i2c-md-38958) | An attacker can trigger a buffer overflow of Das U-Boot, via do_i2c_md(), in order to trigger a denial of service, and possibly to run code... | Visit link for details |
-| [<a href="https://vigilance.fr/vulnerability/Booth-information-disclosure-via-Ignored-Authfile-Directive-38957" class="noirorange"><b>Booth</b>: information disclosure via Ignored Authfile Directive</a>](https://vigilance.fr/vulnerability/Booth-information-disclosure-via-Ignored-Authfile-Directive-38957) | An attacker can bypass access restrictions to data of Booth, via Ignored Authfile Directive, in order to read sensitive information... | Visit link for details |
 ---
 ### MA-CERT [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
+| [37470108/22 - Vulnérabilités corrigées dans Zimbra ](https://www.dgssi.gov.ma/fr/content/3747010822-vulnerabilites-corrigees-dans-zimbra.html) | Zimbra annonce la disponibilité d’une mise à jour de sécurité permettant la correctionde deux vulnérabilités affectant sa plateforme collaborative Zimbra. L'exploitationde ces vulnérabilités peut permettre à un attaquant distant... | 01 août 2022 |
 | [37460108/22 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma/fr/content/3746010822-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html) | Mozilla Foundation annonce la disponibilité demises à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant son client de messagerie Mozilla Thunderbird. L’exploitation de ces vulnérabilités peut permettre à un... | 01 août 2022 |
 | [37452707/22 - Vulnérabilités corrigées dans SAMBA](https://www.dgssi.gov.ma/fr/content/3745270722-vulnerabilites-corrigees-dans-samba.html) | Plusieurs vulnérabilités affectant Samba ont été corrigées. L'exploitation de ces vulnérabilités peut permettre à un attaquant de contourner la politique de sécurité, d’accéder à des donnéesconfidentielles ou de causer un déni... | 27 juillet 2022 |
 | [37442707/22 - Vulnérabilités affectantle navigateur Mozilla Firefox](https://www.dgssi.gov.ma/fr/content/3744270722-vulnerabilites-affectant-le-navigateur-mozilla-firefox.html) | Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de cesvulnérabilités peut permettre à un... | 27 juillet 2022 |
@@ -110,4 +99,15 @@ A daily updated summary of the most frequent types of security incidents current
 | [37392107/22 - Vulnérabilités dans le CMS Drupal](https://www.dgssi.gov.ma/fr/content/3739210722-vulnerabilites-dans-le-cms-drupal.html) | Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées du CMS Drupal. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance, de porter atteinte aux informations... | 21 juillet 2022 |
 | [37382107/22 - Vulnérabilité critique dans Confluence Server et Data Center](https://www.dgssi.gov.ma/fr/content/3738210722-vulnerabilite-critique-dans-confluence-server-et-data-center.html) | Atlassian a publié une mise à jour de sécurité pour corriger une vulnérabilité critique dans ses produits Confluence Server et Data Center. L'exploitation réussie de cette vulnérabilité peut permettre à un attaquant non authentifié de... | 21 juillet 2022 |
 | [37362107/22 - Vulnérabilités dans Cisco Small Business](https://www.dgssi.gov.ma/fr/content/3736210722-vulnerabilites-dans-cisco-small-business.html) | Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de Cisco Small Business. L’exploitation de ces failles pourrait permettre à un attaquant distant et authentifié d'exécuter du code arbitraire sur un appareil... | 21 juillet 2022 |
-| [37352107/22 - Vulnérabilités critique dans Cisco Nexus Dashboard](https://www.dgssi.gov.ma/fr/content/3735210722-vulnerabilites-critique-dans-cisco-nexus-dashboard.html) | Plusieurs vulnérabilités Critiques ont été corrigées dans Cisco Nexus Dashboard. L’exploitation de ces failles permet à un attaquant d’exécuter des commandes et d'effectuer des actions avec les privilèges de l'administrateur ou... | 21 juillet 2022 |
+---
+### ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
+|Title|Description|Date|
+|---|---|---|
+| [Autodesk Desktop App Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1035/) | Visit link for details | July 29, 2022 |
+| [Autodesk Desktop App Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1034/) | Visit link for details | July 29, 2022 |
+| [Trend Micro Apex One Security Agent Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1033/) | Visit link for details | July 28, 2022 |
+| [EnterpriseDT CompleteFTP Server HttpFile Directory Traversal Arbitrary File Deletion Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1032/) | Visit link for details | July 28, 2022 |
+| [OPC Labs QuickOPC Connectivity Explorer Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1031/) | Visit link for details | July 28, 2022 |
+| [(Pwn2Own) Unified Automation OPC UA C++ Improper Update of Reference Count Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1030/) | Visit link for details | July 28, 2022 |
+| [(Pwn2Own) Unified Automation OPC UA C++ Infinite Loop Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1029/) | Visit link for details | July 28, 2022 |
+| [Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1028/) | Visit link for details | July 28, 2022 |
