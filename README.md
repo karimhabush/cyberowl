@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 ## CyberOwl 
-> Last Updated 01/08/2022 21:14:11 UTC 
+> Last Updated 02/08/2022 09:15:08 UTC 
 
 A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
 
@@ -21,6 +21,17 @@ A daily updated summary of the most frequent types of security incidents current
 > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
 
 ---
+### IBMCloud [:arrow_heading_up:](#cyberowl)
+|Title|Description|Date|
+|---|---|---|
+| [Bosch BF-OS information disclosure (CVE-2022-36302)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 1, 2022 |
+| [Bosch BF-OS information disclosure (CVE-2022-36301)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 1, 2022 |
+| [GnuTLS denial of service (CVE-2022-2509)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 1, 2022 |
+| [TCL LinkHub Mesh Wifi device denial of service (CVE-2022-27660)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 1, 2022 |
+| [TCL LinkHub Mesh Wifi device information disclosure (CVE-2022-27633)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 1, 2022 |
+| [TCL LinkHub Mesh Wifi device information disclosure (CVE-2022-27630)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 1, 2022 |
+| [TCL LinkHub Mesh Wifi device denial of service (CVE-2022-27185)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 1, 2022 |
+---
 ### US-CERT [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
@@ -30,17 +41,6 @@ A daily updated summary of the most frequent types of security incidents current
 | [Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/uscert/ncas/current-activity/2022/07/22/apple-releases-security-updates-multiple-products) | <p>Apple has released security updates to address vulnerabilities in multiple products. These updates address vulnerabilities attackers could exploit to take control of affected systems.</p> | Friday, July 22, 2022 |
 | [Cisco Releases Security Updates for Multiple Products](https://www.cisa.gov/uscert/ncas/current-activity/2022/07/22/cisco-releases-security-updates-multiple-products) | <p>Cisco has released security updates to address vulnerabilities in multiple products. Some of these vulnerabilities could allow a remote attacker to execute take control of an affected system. For updates addressing lower severity vulnerabilities, see the <a href="https://tools.cisco.com/security/center/publicationListing.x">Cisco Security Advisories page</a>.Â </p> | Friday, July 22, 2022 |
 | [Atlassian Releases Security Advisory for Questions for Confluence App, CVE-2022-26138](https://www.cisa.gov/uscert/ncas/current-activity/2022/07/22/atlassian-releases-security-advisory-questions-confluence-app-cve) | <p>Atlassian has released a security advisory to address a vulnerability (CVE-2022-26138) affecting Questions for Confluence App. An attacker could exploit this vulnerability to obtain sensitive information. Atlassian reports that the vulnerability is likely to be exploited in the wild.</p> | Friday, July 22, 2022 |
----
-### IBMCloud [:arrow_heading_up:](#cyberowl)
-|Title|Description|Date|
-|---|---|---|
-| [Sourcecodester Garage Management System SQL injection (CVE-2022-2577)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 29, 2022 |
-| [Sourcecodester Garage Management System SQL injection (CVE-2022-2579)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 29, 2022 |
-| [Floating Div plugin for WordPress cross-site scripting (CVE-2022-36378)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 29, 2022 |
-| [WP-UserOnline plugin for WordPress User Browsing Site cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 29, 2022 |
-| [Crime Reporting System a_users.php cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 29, 2022 |
-| [Nintendo WAP-001 buffer overflow (CVE-2022-36293)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 29, 2022 |
-| [Nintendo WAP-001 command execution (CVE-2022-36381)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Jul 29, 2022 |
 ---
 ### CERT-FR [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
@@ -56,20 +56,6 @@ A daily updated summary of the most frequent types of security incidents current
 | [Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-687/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une élévation de privilèges. | 29 juillet 2022 |
 | [Multiples vulnérabilités dans Samba](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-686/) | De multiples vulnérabilités ont été découvertes dans Samba. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données. | 27 juillet 2022 |
 ---
-### VulDB [:arrow_heading_up:](#cyberowl)
-|Title|Description|Date|
-|---|---|---|
-| [MediaTek MT8695 Video Codec memory corruption](https://vuldb.com/?id.205429) | Visit link for details | 2022-08-01 at 20:58 |
-| [MediaTek MT6833/MT6853/MT6873/MT6877/MT6893 Camera ISP out-of-bounds write](https://vuldb.com/?id.205428) | Visit link for details | 2022-08-01 at 20:58 |
-| [MediaTek MT8797 Camera ISP out-of-bounds write](https://vuldb.com/?id.205427) | Visit link for details | 2022-08-01 at 20:57 |
-| [Shopware Customer Module cross site scripting](https://vuldb.com/?id.205426) | Visit link for details | 2022-08-01 at 20:57 |
-| [Enalean Tuleap REST Endpoint authorization](https://vuldb.com/?id.205425) | Visit link for details | 2022-08-01 at 20:55 |
-| [IBM CICS TX input validation](https://vuldb.com/?id.205424) | Visit link for details | 2022-08-01 at 20:54 |
-| [IBM CICS TX HTTP Header injection](https://vuldb.com/?id.205423) | Visit link for details | 2022-08-01 at 20:54 |
-| [IBM CICS TX Local Privilege Escalation](https://vuldb.com/?id.205422) | Visit link for details | 2022-08-01 at 20:53 |
-| [IBM CICS TX missing secure attribute](https://vuldb.com/?id.205421) | Visit link for details | 2022-08-01 at 20:53 |
-| [IBM CICS TX cross-site request forgery](https://vuldb.com/?id.205420) | Visit link for details | 2022-08-01 at 20:52 |
----
 ### OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
@@ -83,6 +69,20 @@ A daily updated summary of the most frequent types of security incidents current
 | [<a href="https://vigilance.fr/vulnerability/pgjdbc-file-write-via-FileHandler-38960" class="noirorange"><b>pgjdbc</b>: file write via FileHandler</a>](https://vigilance.fr/vulnerability/pgjdbc-file-write-via-FileHandler-38960) | An attacker can bypass access restrictions of pgjdbc, via FileHandler, in order to alter files... | Visit link for details |
 | [<a href="https://vigilance.fr/vulnerability/Ruby-TZInfo-directory-traversal-via-tzinfo-data-38959" class="noirorange"><b>Ruby TZInfo</b>: directory traversal via tzinfo-data</a>](https://vigilance.fr/vulnerability/Ruby-TZInfo-directory-traversal-via-tzinfo-data-38959) | An attacker can traverse directories of Ruby TZInfo, via tzinfo-data, in order to read a file outside the service root path... | Visit link for details |
 | [<a href="https://vigilance.fr/vulnerability/Das-U-Boot-buffer-overflow-via-do-i2c-md-38958" class="noirorange"><b>Das U-Boot</b>: buffer overflow via do_i2c_md()</a>](https://vigilance.fr/vulnerability/Das-U-Boot-buffer-overflow-via-do-i2c-md-38958) | An attacker can trigger a buffer overflow of Das U-Boot, via do_i2c_md(), in order to trigger a denial of service, and possibly to run code... | Visit link for details |
+---
+### VulDB [:arrow_heading_up:](#cyberowl)
+|Title|Description|Date|
+|---|---|---|
+| [MediaTek MT8797 cta permission](https://vuldb.com/?id.205494) | Visit link for details | 2022-08-02 at 08:41 |
+| [beancount fava cross site scripting](https://vuldb.com/?id.205493) | Visit link for details | 2022-08-02 at 08:41 |
+| [PyroCMS cross site scripting](https://vuldb.com/?id.205492) | Visit link for details | 2022-08-02 at 08:40 |
+| [Backdrop CMS Password Reset information disclosure](https://vuldb.com/?id.205491) | Visit link for details | 2022-08-02 at 08:40 |
+| [University of Texas Mango Plugins access control](https://vuldb.com/?id.205490) | Visit link for details | 2022-08-02 at 08:39 |
+| [MediaTek MT8981 WiFi Driver out-of-bounds write](https://vuldb.com/?id.205489) | Visit link for details | 2022-08-02 at 08:38 |
+| [MediaTek MT8981 WiFi Driver out-of-bounds write](https://vuldb.com/?id.205488) | Visit link for details | 2022-08-02 at 08:38 |
+| [MediaTek MT8981 WiFi Driver out-of-bounds write](https://vuldb.com/?id.205487) | Visit link for details | 2022-08-02 at 08:37 |
+| [MediaTek MT8981 WiFi Driver out-of-bounds write](https://vuldb.com/?id.205486) | Visit link for details | 2022-08-02 at 08:37 |
+| [MediaTek MT8981 WiFi Driver out-of-bounds write](https://vuldb.com/?id.205485) | Visit link for details | 2022-08-02 at 08:36 |
 ---
 ### MA-CERT [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
