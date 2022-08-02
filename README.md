@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 ## CyberOwl 
-> Last Updated 02/08/2022 09:15:08 UTC 
+> Last Updated 02/08/2022 21:14:39 UTC 
 
 A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
 
@@ -24,13 +24,13 @@ A daily updated summary of the most frequent types of security incidents current
 ### IBMCloud [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
-| [Bosch BF-OS information disclosure (CVE-2022-36302)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 1, 2022 |
-| [Bosch BF-OS information disclosure (CVE-2022-36301)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 1, 2022 |
-| [GnuTLS denial of service (CVE-2022-2509)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 1, 2022 |
-| [TCL LinkHub Mesh Wifi device denial of service (CVE-2022-27660)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 1, 2022 |
-| [TCL LinkHub Mesh Wifi device information disclosure (CVE-2022-27633)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 1, 2022 |
-| [TCL LinkHub Mesh Wifi device information disclosure (CVE-2022-27630)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 1, 2022 |
-| [TCL LinkHub Mesh Wifi device denial of service (CVE-2022-27185)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 1, 2022 |
+| [VMware Workspace ONE Access, Identity Manager and vRealize Automation security bypass (CVE-2022-31656)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 2, 2022 |
+| [Google Chrome Service Worker API code execution (CVE-2022-2603)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 2, 2022 |
+| [VMware Workspace ONE Access, Identity Manager and vRealize Automation code execution (CVE-2022-31659)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 2, 2022 |
+| [VMware Workspace ONE Access, Identity Manager and vRealize Automation privilege escalation (CVE-2022-31661)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 2, 2022 |
+| [VMware Workspace ONE Access, Identity Manager and vRealize Automation directory traversal (CVE-2022-31662)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 2, 2022 |
+| [VMware Workspace ONE Access, Identity Manager and vRealize Automation cross-site scripting (CVE-2022-31663)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 2, 2022 |
+| [VMware Workspace ONE Access, Identity Manager and vRealize Automation privilege escalation (CVE-2022-31664)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 2, 2022 |
 ---
 ### US-CERT [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
@@ -45,20 +45,23 @@ A daily updated summary of the most frequent types of security incidents current
 ### CERT-FR [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
+| [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-700/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une élévation de privilèges. | 2 août 2022 |
+| [Vulnérabilité dans Foxit Reader](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-699/) | Une vulnérabilité a été découverte dans Foxit Reader pour Linux. Elle permet à un attaquant de provoquer un déni de service à distance. | 2 août 2022 |
+| [Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-698/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de RedHat. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une élévation de privilèges. | 2 août 2022 |
+| [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-697/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une élévation de privilèges. | 2 août 2022 |
+| [Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-696/) | De multiples vulnérabilités ont été découvertes dans Google Android. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une élévation de privilèges. | 2 août 2022 |
 | [Multiples vulnérabilités dans LibreOffice](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-695/) | De multiples vulnérabilités ont été découvertes dans LibreOffice. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. | 29 juillet 2022 |
 | [Multiples vulnérabilités dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-694/) | De multiples vulnérabilités ont été découvertes dans Mozilla Thunderbird. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité. | 29 juillet 2022 |
 | [Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-693/) | De multiples vulnérabilités ont été découvertes dans GitLab. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS). | 29 juillet 2022 |
 | [Multiples vulnérabilités dans Zimbra](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-692/) | De multiples vulnérabilités ont été découvertes dans Zimbra. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un contournement de la politique de sécurité. | 29 juillet 2022 |
 | [Vulnérabilité dans Tenable.sc](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-691/) | Une vulnérabilité a été découverte dans Tenable.sc. Elle permet à un attaquant de provoquer un déni de service à distance. | 29 juillet 2022 |
-| [Multiples vulnérabilités dans Foxit PDF Reader et PDF Editor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-690/) | De multiples vulnérabilités ont été découvertes dans Foxit PDF Reader et PDF Editor. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données. | 29 juillet 2022 |
-| [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-689/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à l'intégrité des données. | 29 juillet 2022 |
-| [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-688/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service et un contournement de la politique de sécurité. | 29 juillet 2022 |
-| [Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-687/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une élévation de privilèges. | 29 juillet 2022 |
-| [Multiples vulnérabilités dans Samba](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-686/) | De multiples vulnérabilités ont été découvertes dans Samba. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données. | 27 juillet 2022 |
 ---
 ### OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
+| [<a href="https://vigilance.fr/vulnerability/JupyterLab-code-execution-via-Html-Form-Action-38972" class="noirorange"><b>JupyterLab</b>: code execution via Html Form Action</a>](https://vigilance.fr/vulnerability/JupyterLab-code-execution-via-Html-Form-Action-38972) | An attacker can use a vulnerability of JupyterLab, via Html Form Action, in order to run code... | Visit link for details |
+| [<a href="https://vigilance.fr/vulnerability/FortiOS-FortiGate-information-disclosure-via-Inter-VDOM-Checksum-38971" class="noirorange"><b>FortiOS - FortiGate</b>: information disclosure via Inter-VDOM Checksum</a>](https://vigilance.fr/vulnerability/FortiOS-FortiGate-information-disclosure-via-Inter-VDOM-Checksum-38971) | An attacker can bypass access restrictions to data of FortiOS - FortiGate, via Inter-VDOM Checksum, in order to read sensitive information... | Visit link for details |
+| [<a href="https://vigilance.fr/vulnerability/FortiOS-code-execution-via-CLI-Format-String-38970" class="noirorange"><b>FortiOS</b>: code execution via CLI Format String</a>](https://vigilance.fr/vulnerability/FortiOS-code-execution-via-CLI-Format-String-38970) | An attacker can use a vulnerability of FortiOS, via CLI Format String, in order to run code... | Visit link for details |
 | [<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-August-2022-38968" class="noirorange"><b>Google Android - Pixel</b>: multiple vulnerabilities of August 2022</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-August-2022-38968) | An attacker can use several vulnerabilities of Google Android - Pixel... | Visit link for details |
 | [<a href="https://vigilance.fr/vulnerability/Linux-kernel-code-execution-via-BSS-BRK-Uncleared-Area-38966" class="noirorange"><b>Linux kernel</b>: code execution via BSS/BRK Uncleared Area</a>](https://vigilance.fr/vulnerability/Linux-kernel-code-execution-via-BSS-BRK-Uncleared-Area-38966) | An attacker can use a vulnerability of the Linux kernel, via BSS/BRK Uncleared Area, in order to run code... | Visit link for details |
 | [<a href="https://vigilance.fr/vulnerability/MariaDB-denial-of-service-via-create-worker-threads-38965" class="noirorange"><b>MariaDB</b>: denial of service via <wbr>create_worker_thread<wbr>s()</wbr></wbr></a>](https://vigilance.fr/vulnerability/MariaDB-denial-of-service-via-create-worker-threads-38965) | An attacker can cause a fatal error of MariaDB, via  | Visit link for details |
@@ -66,23 +69,20 @@ A daily updated summary of the most frequent types of security incidents current
 | [<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-two-vulnerabilities-38963" class="noirorange"><b>WebKitGTK - WPE WebKit</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-two-vulnerabilities-38963) | An attacker can use several vulnerabilities of WebKitGTK - WPE WebKit... | Visit link for details |
 | [<a href="https://vigilance.fr/vulnerability/GnuTLS-double-free-via-gnutls-pkcs7-verify-38962" class="noirorange"><b>GnuTLS</b>: double free via <wbr>gnutls_pkcs7_verify(<wbr>)</wbr></wbr></a>](https://vigilance.fr/vulnerability/GnuTLS-double-free-via-gnutls-pkcs7-verify-38962) | An attacker can force a double memory free of GnuTLS, via  | Visit link for details |
 | [<a href="https://vigilance.fr/vulnerability/Poppler-denial-of-service-via-Hints-Hints-38961" class="noirorange"><b>Poppler</b>: denial of service via Hints::Hints()</a>](https://vigilance.fr/vulnerability/Poppler-denial-of-service-via-Hints-Hints-38961) | An attacker can cause a fatal error of Poppler, via Hints::Hints(), in order to trigger a denial of service... | Visit link for details |
-| [<a href="https://vigilance.fr/vulnerability/pgjdbc-file-write-via-FileHandler-38960" class="noirorange"><b>pgjdbc</b>: file write via FileHandler</a>](https://vigilance.fr/vulnerability/pgjdbc-file-write-via-FileHandler-38960) | An attacker can bypass access restrictions of pgjdbc, via FileHandler, in order to alter files... | Visit link for details |
-| [<a href="https://vigilance.fr/vulnerability/Ruby-TZInfo-directory-traversal-via-tzinfo-data-38959" class="noirorange"><b>Ruby TZInfo</b>: directory traversal via tzinfo-data</a>](https://vigilance.fr/vulnerability/Ruby-TZInfo-directory-traversal-via-tzinfo-data-38959) | An attacker can traverse directories of Ruby TZInfo, via tzinfo-data, in order to read a file outside the service root path... | Visit link for details |
-| [<a href="https://vigilance.fr/vulnerability/Das-U-Boot-buffer-overflow-via-do-i2c-md-38958" class="noirorange"><b>Das U-Boot</b>: buffer overflow via do_i2c_md()</a>](https://vigilance.fr/vulnerability/Das-U-Boot-buffer-overflow-via-do-i2c-md-38958) | An attacker can trigger a buffer overflow of Das U-Boot, via do_i2c_md(), in order to trigger a denial of service, and possibly to run code... | Visit link for details |
 ---
 ### VulDB [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
+| [TIBCO iWay Service Manager Console pathname traversal](https://vuldb.com/?id.205498) | Visit link for details | 2022-08-02 at 22:29 |
+| [rsync File Name channel accessible](https://vuldb.com/?id.205497) | Visit link for details | 2022-08-02 at 22:27 |
+| [Interactive Infocom Teamplus Pro Thread Subject allocation of resources](https://vuldb.com/?id.205496) | Visit link for details | 2022-08-02 at 22:26 |
+| [Interactive Infocom Teamplus Pro allocation of resources](https://vuldb.com/?id.205495) | Visit link for details | 2022-08-02 at 22:25 |
 | [MediaTek MT8797 cta permission](https://vuldb.com/?id.205494) | Visit link for details | 2022-08-02 at 08:41 |
 | [beancount fava cross site scripting](https://vuldb.com/?id.205493) | Visit link for details | 2022-08-02 at 08:41 |
 | [PyroCMS cross site scripting](https://vuldb.com/?id.205492) | Visit link for details | 2022-08-02 at 08:40 |
 | [Backdrop CMS Password Reset information disclosure](https://vuldb.com/?id.205491) | Visit link for details | 2022-08-02 at 08:40 |
 | [University of Texas Mango Plugins access control](https://vuldb.com/?id.205490) | Visit link for details | 2022-08-02 at 08:39 |
 | [MediaTek MT8981 WiFi Driver out-of-bounds write](https://vuldb.com/?id.205489) | Visit link for details | 2022-08-02 at 08:38 |
-| [MediaTek MT8981 WiFi Driver out-of-bounds write](https://vuldb.com/?id.205488) | Visit link for details | 2022-08-02 at 08:38 |
-| [MediaTek MT8981 WiFi Driver out-of-bounds write](https://vuldb.com/?id.205487) | Visit link for details | 2022-08-02 at 08:37 |
-| [MediaTek MT8981 WiFi Driver out-of-bounds write](https://vuldb.com/?id.205486) | Visit link for details | 2022-08-02 at 08:37 |
-| [MediaTek MT8981 WiFi Driver out-of-bounds write](https://vuldb.com/?id.205485) | Visit link for details | 2022-08-02 at 08:36 |
 ---
 ### MA-CERT [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
