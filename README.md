@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 ## CyberOwl 
-> Last Updated 03/08/2022 21:16:46 UTC 
+> Last Updated 04/08/2022 09:13:46 UTC 
 
 A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
 
@@ -34,13 +34,27 @@ A daily updated summary of the most frequent types of security incidents current
 ### IBMCloud [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
-| [TIBCO iWay Service Manager cross-site scripting (CVE-2022-30571)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 2, 2022 |
-| [TIBCO iWay Service Manager directory traversal (CVE-2022-30572)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 2, 2022 |
-| [Mealie file upload (CVE-2022-34613)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 2, 2022 |
-| [Mealie cross-site scripting (CVE-2022-34618)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 2, 2022 |
-| [Mealie code execution (CVE-2022-34625)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 2, 2022 |
-| [Rsync security bypass (CVE-2022-29154)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 2, 2022 |
-| [Google Chrome PDF buffer overflow (CVE-2022-2624)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 2, 2022 |
+| [F5 BIG-IP security bypass (CVE-2022-35728)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 3, 2022 |
+| [F5 BIG-IP (APM) denial of service (CVE-2022-35245)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 3, 2022 |
+| [F5 BIG-IP security bypass (CVE-2022-35243)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 3, 2022 |
+| [F5 BIG-IP denial of service (CVE-2022-35240)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 3, 2022 |
+| [F5 BIG-IP denial of service (CVE-2022-35236)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 3, 2022 |
+| [F5 BIG-IP denial of service (CVE-2022-34655)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 3, 2022 |
+| [F5 BIG-IP privilege escalation (CVE-2022-35735)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 3, 2022 |
+---
+### VulDB [:arrow_heading_up:](#cyberowl)
+|Title|Description|Date|
+|---|---|---|
+| [SourceCodester Multi Language Hotel Management Software sql injection](https://vuldb.com/?id.205595) | Visit link for details | 2022-08-04 at 09:54 |
+| [jeecg-boot unrestricted upload](https://vuldb.com/?id.205594) | Visit link for details | 2022-08-04 at 09:52 |
+| [xhyve e1000 Virtual Device stack-based overflow](https://vuldb.com/?id.205593) | Visit link for details | 2022-08-04 at 08:56 |
+| [Tencent TscanCode tsclua denial of service](https://vuldb.com/?id.205592) | Visit link for details | 2022-08-04 at 08:55 |
+| [HCL Launch authorization](https://vuldb.com/?id.205591) | Visit link for details | 2022-08-04 at 08:55 |
+| [Fortinet FortiOS CLI access control](https://vuldb.com/?id.205590) | Visit link for details | 2022-08-04 at 08:54 |
+| [JetBrains Rider Project Dialog code injection](https://vuldb.com/?id.205589) | Visit link for details | 2022-08-04 at 08:54 |
+| [TripleCross Control Command memory corruption](https://vuldb.com/?id.205588) | Visit link for details | 2022-08-04 at 08:53 |
+| [GVRET SerialConsole.cpp handleConfigCmd buffer overflow](https://vuldb.com/?id.205587) | Visit link for details | 2022-08-04 at 08:52 |
+| [Luadec UnsetPending heap-based overflow](https://vuldb.com/?id.205586) | Visit link for details | 2022-08-04 at 08:51 |
 ---
 ### CERT-FR [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
@@ -56,19 +70,31 @@ A daily updated summary of the most frequent types of security incidents current
 | [Multiples vulnérabilités dans LibreOffice](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-695/) | De multiples vulnérabilités ont été découvertes dans LibreOffice. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. | 29 juillet 2022 |
 | [Multiples vulnérabilités dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-694/) | De multiples vulnérabilités ont été découvertes dans Mozilla Thunderbird. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité. | 29 juillet 2022 |
 ---
+### ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
+|Title|Description|Date|
+|---|---|---|
+| [ICONICS GENESIS64 GenBroker64 Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1044/) | Visit link for details | Aug. 3, 2022 |
+| [ICONICS GENESIS64 GraphWorX64 TDFX File Parsing Deserialization Of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1043/) | Visit link for details | Aug. 3, 2022 |
+| [ICONICS GENESIS64 colorpalletes Directory Traversal Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1042/) | Visit link for details | Aug. 3, 2022 |
+| [(Pwn2Own) ICONICS GENESIS64 genbroker64 Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1041/) | Visit link for details | Aug. 3, 2022 |
+| [(Pwn2Own) ICONICS GENESIS64 ColorPaletteEntry Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1040/) | Visit link for details | Aug. 3, 2022 |
+| [(Pwn2Own) ICONICS GENESIS64 TDFX File Parsing Exposed Dangerous Function Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1039/) | Visit link for details | Aug. 3, 2022 |
+| [Lexmark MC3224i Firmware Downgrade Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1038/) | Visit link for details | Aug. 2, 2022 |
+| [NetBSD Kernel getkerninfo System Call Uninitialized Memory Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1037/) | Visit link for details | Aug. 2, 2022 |
+---
 ### OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
+| [<a href="https://vigilance.fr/vulnerability/MySQL-Percona-Server-for-MySQL-denial-of-service-via-fetch-step-38991" class="noirorange"><b>MySQL - Percona Server for MySQL</b>: denial of service via fetch_step()</a>](https://vigilance.fr/vulnerability/MySQL-Percona-Server-for-MySQL-denial-of-service-via-fetch-step-38991) | An attacker can cause a fatal error of MySQL - Percona Server for MySQL, via fetch_step(), in order to trigger a denial of service... | Visit link for details |
+| [<a href="https://vigilance.fr/vulnerability/NVIDIA-Graphics-Drivers-NULL-pointer-dereference-via-Kernel-Mode-Layer-38989" class="noirorange"><b>NVIDIA Graphics Drivers</b>: NULL pointer dereference via Kernel Mode Layer</a>](https://vigilance.fr/vulnerability/NVIDIA-Graphics-Drivers-NULL-pointer-dereference-via-Kernel-Mode-Layer-38989) | An attacker can force a NULL pointer to be dereferenced on NVIDIA Graphics Drivers, via Kernel Mode Layer, in order to trigger a denial of service... | Visit link for details |
+| [<a href="https://vigilance.fr/vulnerability/NVIDIA-Graphics-Drivers-privilege-escalation-via-Dynamic-Boost-D-Bus-38988" class="noirorange"><b>NVIDIA Graphics Drivers</b>: privilege escalation via Dynamic Boost D-Bus</a>](https://vigilance.fr/vulnerability/NVIDIA-Graphics-Drivers-privilege-escalation-via-Dynamic-Boost-D-Bus-38988) | An attacker can bypass restrictions of NVIDIA Graphics Drivers, via Dynamic Boost D-Bus, in order to escalate his privileges... | Visit link for details |
+| [<a href="https://vigilance.fr/vulnerability/NVIDIA-Graphics-Drivers-memory-corruption-via-Unvalidated-Input-38987" class="noirorange"><b>NVIDIA Graphics Drivers</b>: memory corruption via Unvalidated Input</a>](https://vigilance.fr/vulnerability/NVIDIA-Graphics-Drivers-memory-corruption-via-Unvalidated-Input-38987) | An attacker can trigger a memory corruption of NVIDIA Graphics Drivers, via Unvalidated Input, in order to trigger a denial of service, and possibly to run code... | Visit link for details |
+| [<a href="https://vigilance.fr/vulnerability/openSUSE-Leap-SUSE-LE-privilege-escalation-via-Keylime-User-38986" class="noirorange"><b>openSUSE Leap - SUSE LE</b>: privilege escalation via Keylime User</a>](https://vigilance.fr/vulnerability/openSUSE-Leap-SUSE-LE-privilege-escalation-via-Keylime-User-38986) | An attacker can bypass restrictions of openSUSE Leap - SUSE LE, via Keylime User, in order to escalate his privileges... | Visit link for details |
+| [<a href="https://vigilance.fr/vulnerability/Das-U-Boot-buffer-overflow-via-Metadata-Reading-Process-38985" class="noirorange"><b>Das U-Boot</b>: buffer overflow via Metadata Reading Process</a>](https://vigilance.fr/vulnerability/Das-U-Boot-buffer-overflow-via-Metadata-Reading-Process-38985) | An attacker can trigger a buffer overflow of Das U-Boot, via Metadata Reading Process, in order to trigger a denial of service, and possibly to run code... | Visit link for details |
 | [<a href="https://vigilance.fr/vulnerability/CKEditor-Cross-Site-Scripting-via-Instance-Destroying-Process-38984" class="noirorange"><b>CKEditor</b>: Cross Site Scripting via Instance Destroying Process</a>](https://vigilance.fr/vulnerability/CKEditor-Cross-Site-Scripting-via-Instance-Destroying-Process-38984) | An attacker can trigger a Cross Site Scripting of CKEditor, via Instance Destroying Process, in order to run JavaScript code in the context of the web site... | Visit link for details |
 | [<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-multiple-vulnerabilities-38983" class="noirorange"><b>F5 BIG-IP</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-multiple-vulnerabilities-38983) | An attacker can use several vulnerabilities of F5 BIG-IP... | Visit link for details |
 | [<a href="https://vigilance.fr/vulnerability/openSUSE-Leap-SUSE-LE-security-improvement-via-permissions-38982" class="noirorange"><b>openSUSE Leap - SUSE LE</b>: security improvement via permissions</a>](https://vigilance.fr/vulnerability/openSUSE-Leap-SUSE-LE-security-improvement-via-permissions-38982) | The security of openSUSE Leap - SUSE LE was improved via permissions... | Visit link for details |
 | [<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-F-Secure-Anti-Virus-denial-of-service-via-PE32-bit-File-38981" class="noirorange"><b>WithSecure Endpoint Protection - F-Secure Anti-Virus</b>: denial of service via PE32-bit File</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-F-Secure-Anti-Virus-denial-of-service-via-PE32-bit-File-38981) | An attacker can cause a fatal error of WithSecure Endpoint Protection - F-Secure Anti-Virus, via PE32-bit File, in order to trigger a denial of service... | Visit link for details |
-| [<a href="https://vigilance.fr/vulnerability/Synology-DSM-file-read-write-via-USB-Copy-38980" class="noirorange"><b>Synology DSM</b>: file read/write via USB Copy</a>](https://vigilance.fr/vulnerability/Synology-DSM-file-read-write-via-USB-Copy-38980) | An attacker can bypass access restrictions of Synology DSM, via USB Copy, in order to read or alter files... | Visit link for details |
-| [<a href="https://vigilance.fr/vulnerability/Synology-DSM-file-reading-via-SSO-Server-38979" class="noirorange"><b>Synology DSM</b>: file reading via SSO Server</a>](https://vigilance.fr/vulnerability/Synology-DSM-file-reading-via-SSO-Server-38979) | An attacker can read a file of Synology DSM, via SSO Server, in order to obtain sensitive information... | Visit link for details |
-| [<a href="https://vigilance.fr/vulnerability/Synology-DSM-Man-in-the-Middle-via-Note-Station-Client-38978" class="noirorange"><b>Synology DSM</b>: Man-in-the-Middle via Note Station Client</a>](https://vigilance.fr/vulnerability/Synology-DSM-Man-in-the-Middle-via-Note-Station-Client-38978) | An attacker can act as a Man-in-the-Middle on Synology DSM, via Note Station Client, in order to read or write data in the session... | Visit link for details |
-| [<a href="https://vigilance.fr/vulnerability/Synology-DSM-file-deletion-via-Storage-Analyzer-38977" class="noirorange"><b>Synology DSM</b>: file deletion via Storage Analyzer</a>](https://vigilance.fr/vulnerability/Synology-DSM-file-deletion-via-Storage-Analyzer-38977) | An attacker can bypass access restrictions of Synology DSM, via Storage Analyzer, in order to delete a file... | Visit link for details |
-| [<a href="https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-38976" class="noirorange"><b>Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-38976) | An attacker can use several vulnerabilities of Chrome... | Visit link for details |
-| [<a href="https://vigilance.fr/vulnerability/NetBSD-memory-reading-via-Stat-System-Call-38975" class="noirorange"><b>NetBSD</b>: memory reading via Stat System Call</a>](https://vigilance.fr/vulnerability/NetBSD-memory-reading-via-Stat-System-Call-38975) | An attacker can read a memory fragment of NetBSD, via Stat System Call, in order to obtain sensitive information... | Visit link for details |
 ---
 ### MA-CERT [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
@@ -85,29 +111,3 @@ A daily updated summary of the most frequent types of security incidents current
 | [37402207/22 -Vulnérabilités dans les produits Atlassian](https://www.dgssi.gov.ma/fr/content/3740220722-vulnerabilites-dans-les-produits-atlassian.html) | Atlassian a publié une mise à jour de sécurité pour corriger deux vulnérabilités dans les produits susmentionnés. L'exploitation réussie de ces vulnérabilités peut permettre à un attaquant non authentifié de contourner la politique de... | 22 juillet 2022 |
 | [37372107/22 - Vulnérabilités affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma/fr/content/3737210722-vulnerabilites-affectant-plusieurs-produits-d-apple.html) | Apple annonce lacorrectionde plusieursvulnérabilitésaffectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peutpermettre à un attaquant d’exécuter du code arbitraire, d’élever ses privilèges, d... | 21 juillet 2022 |
 | [37392107/22 - Vulnérabilités dans le CMS Drupal](https://www.dgssi.gov.ma/fr/content/3739210722-vulnerabilites-dans-le-cms-drupal.html) | Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées du CMS Drupal. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance, de porter atteinte aux informations... | 21 juillet 2022 |
----
-### ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
-|Title|Description|Date|
-|---|---|---|
-| [ICONICS GENESIS64 GenBroker64 Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1044/) | Visit link for details | Aug. 3, 2022 |
-| [ICONICS GENESIS64 GraphWorX64 TDFX File Parsing Deserialization Of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1043/) | Visit link for details | Aug. 3, 2022 |
-| [ICONICS GENESIS64 colorpalletes Directory Traversal Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1042/) | Visit link for details | Aug. 3, 2022 |
-| [(Pwn2Own) ICONICS GENESIS64 genbroker64 Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1041/) | Visit link for details | Aug. 3, 2022 |
-| [(Pwn2Own) ICONICS GENESIS64 ColorPaletteEntry Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1040/) | Visit link for details | Aug. 3, 2022 |
-| [(Pwn2Own) ICONICS GENESIS64 TDFX File Parsing Exposed Dangerous Function Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1039/) | Visit link for details | Aug. 3, 2022 |
-| [Lexmark MC3224i Firmware Downgrade Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1038/) | Visit link for details | Aug. 2, 2022 |
-| [NetBSD Kernel getkerninfo System Call Uninitialized Memory Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1037/) | Visit link for details | Aug. 2, 2022 |
----
-### VulDB [:arrow_heading_up:](#cyberowl)
-|Title|Description|Date|
-|---|---|---|
-| [Fortinet FortiADC HTTP Request access control](https://vuldb.com/?id.205563) | Visit link for details | 2022-08-03 at 20:56 |
-| [D-Link DIR-818LW binary.soapcgi_main Privilege Escalation](https://vuldb.com/?id.205562) | Visit link for details | 2022-08-03 at 20:56 |
-| [D-Link DIR-818LW ssdpcgi_main Privilege Escalation](https://vuldb.com/?id.205561) | Visit link for details | 2022-08-03 at 20:55 |
-| [SQLite C API array index](https://vuldb.com/?id.205560) | Visit link for details | 2022-08-03 at 13:35 |
-| [OpenStack Nova Neutron Port denial of service](https://vuldb.com/?id.205559) | Visit link for details | 2022-08-03 at 13:34 |
-| [Synology USB Copy WebAPI path traversal](https://vuldb.com/?id.205558) | Visit link for details | 2022-08-03 at 13:33 |
-| [VMware Workspace ONE Access cross site scripting](https://vuldb.com/?id.205557) | Visit link for details | 2022-08-03 at 11:34 |
-| [VMware Workspace ONE Access path traversal](https://vuldb.com/?id.205556) | Visit link for details | 2022-08-03 at 11:33 |
-| [VMware Workspace ONE Access/Identity Manager URL injection](https://vuldb.com/?id.205555) | Visit link for details | 2022-08-03 at 11:32 |
-| [VMware Workspace ONE Access JDBC injection](https://vuldb.com/?id.205554) | Visit link for details | 2022-08-03 at 11:32 |
