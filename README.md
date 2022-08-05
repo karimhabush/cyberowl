@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 ## CyberOwl 
-> Last Updated 05/08/2022 09:17:05 UTC 
+> Last Updated 05/08/2022 21:12:59 UTC 
 
 A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
 
@@ -31,17 +31,6 @@ A daily updated summary of the most frequent types of security incidents current
 | [CISA and ACSC Release Top 2021 Malware Strains](https://www.cisa.gov/uscert/ncas/current-activity/2022/08/02/cisa-and-acsc-release-top-2021-malware-strains) | <p>CISA and the Australian Cyber Security Centre (ACSC) have published a <a href="https://www.cisa.gov/uscert/ncas/alerts/aa22-216a">joint Cybersecurity Advisory on the top malware strains observed in 2021</a>. Malicious cyber actors often use malware to covertly compromise and then gain access to a computer or mobile device. As malicious cyber actors have been using most of these top malware strains for more than five years, organizations have opportunities to better prepare, identify, and mitigate attacks from these strains. Â </p> | Tuesday, August 2, 2022 |
 | [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2022/07/29/cisa-adds-one-known-exploited-vulnerability-catalog) | <p>CISA has added one new vulnerability to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. <strong>Note:</strong> To view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.</p> | Friday, July 29, 2022 |
 ---
-### IBMCloud [:arrow_heading_up:](#cyberowl)
-|Title|Description|Date|
-|---|---|---|
-| [Nextcloud Mail server-side request forgery (CVE-2022-31132)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 4, 2022 |
-| [Nextcloud Server security bypass (CVE-2022-31120)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 4, 2022 |
-| [Nextcloud Mail information disclosure (CVE-2022-31119)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 4, 2022 |
-| [Nextcloud Server information disclosure (CVE-2022-31118)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 4, 2022 |
-| [Apache JSPWiki cross-site request forgery (CVE-2022-34158)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 4, 2022 |
-| [Apache JSPWiki cross-site scripting (CVE-2022-28732)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 4, 2022 |
-| [Apache JSPWiki cross-site request forgery (CVE-2022-28731)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 4, 2022 |
----
 ### CERT-FR [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
@@ -56,35 +45,21 @@ A daily updated summary of the most frequent types of security incidents current
 | [Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-702/) | De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 3 août 2022 |
 | [Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-701/) | De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un contournement de la politique de sécurité et une atteinte à la confidentialité des données. | 3 août 2022 |
 ---
-### ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
+### IBMCloud [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
-| [Cisco RV340 wfapp Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1047/) | Visit link for details | Aug. 4, 2022 |
-| [Docker Desktop Exposed Dangerous Method Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1046/) | Visit link for details | Aug. 4, 2022 |
-| [Microsoft Windows win32kfull UMPDDrvStrokeAndFillPath Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1045/) | Visit link for details | Aug. 4, 2022 |
-| [ICONICS GENESIS64 GenBroker64 Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1044/) | Visit link for details | Aug. 3, 2022 |
-| [ICONICS GENESIS64 GraphWorX64 TDFX File Parsing Deserialization Of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1043/) | Visit link for details | Aug. 3, 2022 |
-| [ICONICS GENESIS64 colorpalletes Directory Traversal Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1042/) | Visit link for details | Aug. 3, 2022 |
-| [(Pwn2Own) ICONICS GENESIS64 genbroker64 Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1041/) | Visit link for details | Aug. 3, 2022 |
-| [(Pwn2Own) ICONICS GENESIS64 ColorPaletteEntry Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1040/) | Visit link for details | Aug. 3, 2022 |
----
-### VulDB [:arrow_heading_up:](#cyberowl)
-|Title|Description|Date|
-|---|---|---|
-| [Contiki-NG IPv6 Neighbor Discovery uip-nd6.c uip_buf out-of-bounds](https://vuldb.com/?id.205654) | Visit link for details | 2022-08-05 at 08:59 |
-| [Grommunio Gromox PAM Module permission](https://vuldb.com/?id.205653) | Visit link for details | 2022-08-05 at 08:58 |
-| [Renato cross site scripting](https://vuldb.com/?id.205652) | Visit link for details | 2022-08-05 at 08:57 |
-| [Renato denial of service](https://vuldb.com/?id.205651) | Visit link for details | 2022-08-05 at 08:56 |
-| [cosign signature verification](https://vuldb.com/?id.205650) | Visit link for details | 2022-08-05 at 08:55 |
-| [muhttpd URL request.c do_request information disclosure](https://vuldb.com/?id.205649) | Visit link for details | 2022-08-05 at 08:54 |
-| [Samsung mTower __utee_from_attr buffer overflow](https://vuldb.com/?id.205648) | Visit link for details | 2022-08-05 at 08:53 |
-| [Renato weak password](https://vuldb.com/?id.205647) | Visit link for details | 2022-08-05 at 08:52 |
-| [TOTOLINK A3600R shadow.sample hard-coded credentials](https://vuldb.com/?id.205646) | Visit link for details | 2022-08-05 at 08:51 |
-| [Crow query_string.h qs_parse denial of service](https://vuldb.com/?id.205645) | Visit link for details | 2022-08-05 at 08:49 |
+| [Testimonial Slider and Showcase plugin for WordPress post_title cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 5, 2022 |
+| [Online Admission System edit.php SQL injection](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 5, 2022 |
+| [Ecwid Ecommerce Shopping Cart plugin for WordPress cross-site request forgery (CVE-2022-2432)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 5, 2022 |
+| [PostgreSQL SQL injection (CVE-2022-31197)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 5, 2022 |
+| [Raneto denial of service (CVE-2022-35142)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 4, 2022 |
+| [Raneto cross-site scripting (CVE-2022-35144)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 4, 2022 |
+| [Download Manager plugin for WordPress file deletion (CVE-2022-2431)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 4, 2022 |
 ---
 ### OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
+| [<a href="https://vigilance.fr/vulnerability/WavPack-NULL-pointer-dereference-via-filespec-name-39000" class="noirorange"><b>WavPack</b>: NULL pointer dereference via filespec_name()</a>](https://vigilance.fr/vulnerability/WavPack-NULL-pointer-dereference-via-filespec-name-39000) | An attacker can force a NULL pointer to be dereferenced on WavPack, via filespec_name(), in order to trigger a denial of service... | Visit link for details |
 | [<a href="https://vigilance.fr/vulnerability/libxml2-Cross-Site-Scripting-via-Server-Side-Include-38998" class="noirorange"><b>libxml2</b>: Cross Site Scripting via Server Side Include</a>](https://vigilance.fr/vulnerability/libxml2-Cross-Site-Scripting-via-Server-Side-Include-38998) | An attacker can trigger a Cross Site Scripting of libxml2, via Server Side Include, in order to run JavaScript code in the context of the web site... | Visit link for details |
 | [<a href="https://vigilance.fr/vulnerability/mod-wsgi-ingress-filtrering-bypass-via-X-Client-IP-38997" class="noirorange"><b>mod-wsgi</b>: ingress filtrering bypass via X-Client-IP</a>](https://vigilance.fr/vulnerability/mod-wsgi-ingress-filtrering-bypass-via-X-Client-IP-38997) | An attacker can bypass filtering rules of mod-wsgi, via X-Client-IP, in order to send malicious data... | Visit link for details |
 | [<a href="https://vigilance.fr/vulnerability/Django-file-reading-via-FileResponse-38996" class="noirorange"><b>Django</b>: file reading via FileResponse</a>](https://vigilance.fr/vulnerability/Django-file-reading-via-FileResponse-38996) | An attacker can read a file of Django, via FileResponse, in order to obtain sensitive information... | Visit link for details |
@@ -94,11 +69,37 @@ A daily updated summary of the most frequent types of security incidents current
 | [<a href="https://vigilance.fr/vulnerability/MySQL-Percona-Server-for-MySQL-denial-of-service-via-fetch-step-38991" class="noirorange"><b>MySQL - Percona Server for MySQL</b>: denial of service via fetch_step()</a>](https://vigilance.fr/vulnerability/MySQL-Percona-Server-for-MySQL-denial-of-service-via-fetch-step-38991) | An attacker can cause a fatal error of MySQL - Percona Server for MySQL, via fetch_step(), in order to trigger a denial of service... | Visit link for details |
 | [<a href="https://vigilance.fr/vulnerability/NVIDIA-Graphics-Drivers-NULL-pointer-dereference-via-Kernel-Mode-Layer-38989" class="noirorange"><b>NVIDIA Graphics Drivers</b>: NULL pointer dereference via Kernel Mode Layer</a>](https://vigilance.fr/vulnerability/NVIDIA-Graphics-Drivers-NULL-pointer-dereference-via-Kernel-Mode-Layer-38989) | An attacker can force a NULL pointer to be dereferenced on NVIDIA Graphics Drivers, via Kernel Mode Layer, in order to trigger a denial of service... | Visit link for details |
 | [<a href="https://vigilance.fr/vulnerability/NVIDIA-Graphics-Drivers-privilege-escalation-via-Dynamic-Boost-D-Bus-38988" class="noirorange"><b>NVIDIA Graphics Drivers</b>: privilege escalation via Dynamic Boost D-Bus</a>](https://vigilance.fr/vulnerability/NVIDIA-Graphics-Drivers-privilege-escalation-via-Dynamic-Boost-D-Bus-38988) | An attacker can bypass restrictions of NVIDIA Graphics Drivers, via Dynamic Boost D-Bus, in order to escalate his privileges... | Visit link for details |
-| [<a href="https://vigilance.fr/vulnerability/NVIDIA-Graphics-Drivers-memory-corruption-via-Unvalidated-Input-38987" class="noirorange"><b>NVIDIA Graphics Drivers</b>: memory corruption via Unvalidated Input</a>](https://vigilance.fr/vulnerability/NVIDIA-Graphics-Drivers-memory-corruption-via-Unvalidated-Input-38987) | An attacker can trigger a memory corruption of NVIDIA Graphics Drivers, via Unvalidated Input, in order to trigger a denial of service, and possibly to run code... | Visit link for details |
+---
+### ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
+|Title|Description|Date|
+|---|---|---|
+| [OPC Foundation UA .NET Standard BrowseRequest Missing Authentication Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1064/) | Visit link for details | Aug. 5, 2022 |
+| [Foxit PDF Reader AcroForm deletePages Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1063/) | Visit link for details | Aug. 5, 2022 |
+| [Foxit PDF Reader AcroForm deletePages Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1062/) | Visit link for details | Aug. 5, 2022 |
+| [Foxit PDF Reader AcroForm Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1061/) | Visit link for details | Aug. 5, 2022 |
+| [Foxit PDF Reader PDF File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1060/) | Visit link for details | Aug. 5, 2022 |
+| [Foxit PDF Reader AcroForm deletePages Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1059/) | Visit link for details | Aug. 5, 2022 |
+| [Foxit PDF Reader AcroForm resetForm Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1058/) | Visit link for details | Aug. 5, 2022 |
+| [Foxit PDF Reader Doc Object Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1057/) | Visit link for details | Aug. 5, 2022 |
+---
+### VulDB [:arrow_heading_up:](#cyberowl)
+|Title|Description|Date|
+|---|---|---|
+| [Samsung Internet Browser information disclosure](https://vuldb.com/?id.205733) | Visit link for details | 2022-08-05 at 22:22 |
+| [Samsung Cameralyzer WebApp access control](https://vuldb.com/?id.205732) | Visit link for details | 2022-08-05 at 22:20 |
+| [Samsung Notes UriFileUtils path traversal](https://vuldb.com/?id.205731) | Visit link for details | 2022-08-05 at 22:12 |
+| [Michlol rashim Web Interface resource injection](https://vuldb.com/?id.205730) | Visit link for details | 2022-08-05 at 22:12 |
+| [Samsung Charm Bluetooth onCharacteristicChanged implicit intent for sensitive communication](https://vuldb.com/?id.205729) | Visit link for details | 2022-08-05 at 22:11 |
+| [Samsung Charm Bluetooth onCharacteristicRead implicit intent for sensitive communication](https://vuldb.com/?id.205728) | Visit link for details | 2022-08-05 at 22:10 |
+| [Samsung DesktopSystemUI access control](https://vuldb.com/?id.205727) | Visit link for details | 2022-08-05 at 22:10 |
+| [Samsung Mobile Device NFC ConfirmConnectActivity information disclosure](https://vuldb.com/?id.205726) | Visit link for details | 2022-08-05 at 22:09 |
+| [oretnom23 Fast Food Ordering System Menu List Page cross site scripting](https://vuldb.com/?id.205725) | Visit link for details | 2022-08-05 at 22:08 |
+| [Samsung Mobile Device SecDevicePickerDialog onCreate improper restriction of rendered ui layers](https://vuldb.com/?id.205724) | Visit link for details | 2022-08-05 at 22:06 |
 ---
 ### MA-CERT [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
+| [37530508/22 - Vulnérabilités affectantdes produits F5 ](https://www.dgssi.gov.ma/fr/content/3753050822-vulnerabilites-affectant-des-produits-f5.html) | F5 Networks annonce la correction de plusieursvulnérabilités affectant certaines versions de ses produits susmentionnés. Un attaquant distant peut exploiter ces vulnérabilités pour exécuter du code arbitraire, contourner les mesures de... | 05 août 2022 |
 | [37520508/22 - Vulnérabilités critiques affectant plusieursproduits deCisco](https://www.dgssi.gov.ma/fr/content/3752050822-vulnerabilites-critiques-affectant-plusieurs-produits-de-cisco.html) | Cisco annonce la correction de trois vulnérabilités critiques affectant certaines versions de ses produits susmentionnés.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’exécuter du code arbitraire ou... | 05 août 2022 |
 | [37510408/22 - Mises à jour de sécurité pour des produits de Fortinet ](https://www.dgssi.gov.ma/fr/content/3751040822-mises-jour-de-securite-pour-des-produits-de-fortinet.html) | Fortinet annonce la disponibilité de mises à jour de sécurité permettant la correctiondetrois vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peut permettre à un attaquant distant d’... | 04 août 2022 |
 | [37500408/22 - Vulnérabilités affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/content/3750040822-vulnerabilites-affectant-le-navigateur-google-chrome.html) | Google vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilitésaffectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à un attaquant de causer des problèmes non... | 04 août 2022 |
@@ -110,4 +111,3 @@ A daily updated summary of the most frequent types of security incidents current
 | [37442707/22 - Vulnérabilités affectantle navigateur Mozilla Firefox](https://www.dgssi.gov.ma/fr/content/3744270722-vulnerabilites-affectant-le-navigateur-mozilla-firefox.html) | Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de cesvulnérabilités peut permettre à un... | 27 juillet 2022 |
 | [37432607/22 - Vulnérabilités affectantle navigateur Microsoft Edge ](https://www.dgssi.gov.ma/fr/content/3743260722-vulnerabilites-affectant-le-navigateur-microsoft-edge.html) | Microsoft vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilités affectant le navigateur Microsoft Edge. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code... | 26 juillet 2022 |
 | [37422607/22 - Vulnérabilités affectant Adobe Acrobat et Adobe Reader](https://www.dgssi.gov.ma/fr/content/3742260722-vulnerabilites-affectant-adobe-acrobat-et-adobe-reader.html) | Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant l’exécution de code arbitraire ou l’... | 26 juillet 2022 |
-| [37412207/22 - Vulnérabilités dans Google Chrome](https://www.dgssi.gov.ma/fr/content/3741220722-vulnerabilites-dans-google-chrome.html) | Google a corrigé plusieurs vulnérabilités dans son navigateur Google Chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du système affecté. | 22 juillet 2022 |
