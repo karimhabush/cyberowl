@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 ## CyberOwl 
-> Last Updated 06/08/2022 09:14:46 UTC 
+> Last Updated 06/08/2022 21:13:41 UTC 
 
 A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
 
@@ -21,17 +21,6 @@ A daily updated summary of the most frequent types of security incidents current
 > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
 
 ---
-### IBMCloud [:arrow_heading_up:](#cyberowl)
-|Title|Description|Date|
-|---|---|---|
-| [Testimonial Slider and Showcase plugin for WordPress post_title cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 5, 2022 |
-| [Online Admission System edit.php SQL injection](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 5, 2022 |
-| [Ecwid Ecommerce Shopping Cart plugin for WordPress cross-site request forgery (CVE-2022-2432)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 5, 2022 |
-| [zlib buffer overflow (CVE-2022-37434)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 5, 2022 |
-| [PostgreSQL SQL injection (CVE-2022-31197)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 5, 2022 |
-| [Raneto denial of service (CVE-2022-35142)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 4, 2022 |
-| [Raneto brute force (CVE-2022-35143)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 4, 2022 |
----
 ### US-CERT [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
@@ -42,17 +31,16 @@ A daily updated summary of the most frequent types of security incidents current
 | [CISA and ACSC Release Top 2021 Malware Strains](https://www.cisa.gov/uscert/ncas/current-activity/2022/08/02/cisa-and-acsc-release-top-2021-malware-strains) | <p>CISA and the Australian Cyber Security Centre (ACSC) have published a <a href="https://www.cisa.gov/uscert/ncas/alerts/aa22-216a">joint Cybersecurity Advisory on the top malware strains observed in 2021</a>. Malicious cyber actors often use malware to covertly compromise and then gain access to a computer or mobile device. As malicious cyber actors have been using most of these top malware strains for more than five years, organizations have opportunities to better prepare, identify, and mitigate attacks from these strains. Â </p> | Tuesday, August 2, 2022 |
 | [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2022/07/29/cisa-adds-one-known-exploited-vulnerability-catalog) | <p>CISA has added one new vulnerability to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. <strong>Note:</strong> To view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.</p> | Friday, July 29, 2022 |
 ---
-### ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
+### IBMCloud [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
-| [OPC Foundation UA .NET Standard BrowseRequest Missing Authentication Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1064/) | Visit link for details | Aug. 5, 2022 |
-| [Foxit PDF Reader AcroForm deletePages Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1063/) | Visit link for details | Aug. 5, 2022 |
-| [Foxit PDF Reader AcroForm deletePages Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1062/) | Visit link for details | Aug. 5, 2022 |
-| [Foxit PDF Reader AcroForm Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1061/) | Visit link for details | Aug. 5, 2022 |
-| [Foxit PDF Reader PDF File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1060/) | Visit link for details | Aug. 5, 2022 |
-| [Foxit PDF Reader AcroForm deletePages Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1059/) | Visit link for details | Aug. 5, 2022 |
-| [Foxit PDF Reader AcroForm resetForm Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1058/) | Visit link for details | Aug. 5, 2022 |
-| [Foxit PDF Reader Doc Object Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1057/) | Visit link for details | Aug. 5, 2022 |
+| [Evmos Ethermint denial of service (CVE-2022-35936)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 5, 2022 |
+| [Testimonial Slider and Showcase plugin for WordPress post_title cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 5, 2022 |
+| [Online Admission System edit.php SQL injection](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 5, 2022 |
+| [Ecwid Ecommerce Shopping Cart plugin for WordPress cross-site request forgery (CVE-2022-2432)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 5, 2022 |
+| [zlib buffer overflow (CVE-2022-37434)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 5, 2022 |
+| [PostgreSQL SQL injection (CVE-2022-31197)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 5, 2022 |
+| [Microsoft Edge (Chromium-based) privilege escalation (CVE-2022-35796)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 5, 2022 |
 ---
 ### CERT-FR [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
@@ -68,20 +56,6 @@ A daily updated summary of the most frequent types of security incidents current
 | [Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-702/) | De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. | 3 août 2022 |
 | [Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-701/) | De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un contournement de la politique de sécurité et une atteinte à la confidentialité des données. | 3 août 2022 |
 ---
-### VulDB [:arrow_heading_up:](#cyberowl)
-|Title|Description|Date|
-|---|---|---|
-| [Samsung Game Launcher information disclosure](https://vuldb.com/?id.205810) | Visit link for details | 2022-08-06 at 08:24 |
-| [Brocade Fabric OS path traversal](https://vuldb.com/?id.205809) | Visit link for details | 2022-08-06 at 08:24 |
-| [NVIDIA vGPU Software Virtual GPU Manager null pointer dereference](https://vuldb.com/?id.205808) | Visit link for details | 2022-08-06 at 08:22 |
-| [Samsung Game Optimizing Service Package Name privileges management](https://vuldb.com/?id.205807) | Visit link for details | 2022-08-06 at 08:22 |
-| [Samsung Charm cancelAlarmManager implicit intent for sensitive communication](https://vuldb.com/?id.205806) | Visit link for details | 2022-08-06 at 08:21 |
-| [Samsung Charm implicit intent for sensitive communication](https://vuldb.com/?id.205805) | Visit link for details | 2022-08-06 at 08:21 |
-| [Samsung Dex for PC access control](https://vuldb.com/?id.205804) | Visit link for details | 2022-08-06 at 08:20 |
-| [Samsung Bluetooth information disclosure](https://vuldb.com/?id.205803) | Visit link for details | 2022-08-06 at 08:19 |
-| [Samsung Dialer Application ICCID information disclosure](https://vuldb.com/?id.205802) | Visit link for details | 2022-08-06 at 08:19 |
-| [Samsung AppLock access control](https://vuldb.com/?id.205801) | Visit link for details | 2022-08-06 at 08:19 |
----
 ### OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
@@ -95,6 +69,32 @@ A daily updated summary of the most frequent types of security incidents current
 | [<a href="https://vigilance.fr/vulnerability/MySQL-Percona-Server-for-MySQL-denial-of-service-via-fetch-step-38991" class="noirorange"><b>MySQL - Percona Server for MySQL</b>: denial of service via fetch_step()</a>](https://vigilance.fr/vulnerability/MySQL-Percona-Server-for-MySQL-denial-of-service-via-fetch-step-38991) | An attacker can cause a fatal error of MySQL - Percona Server for MySQL, via fetch_step(), in order to trigger a denial of service... | Visit link for details |
 | [<a href="https://vigilance.fr/vulnerability/NVIDIA-Graphics-Drivers-NULL-pointer-dereference-via-Kernel-Mode-Layer-38989" class="noirorange"><b>NVIDIA Graphics Drivers</b>: NULL pointer dereference via Kernel Mode Layer</a>](https://vigilance.fr/vulnerability/NVIDIA-Graphics-Drivers-NULL-pointer-dereference-via-Kernel-Mode-Layer-38989) | An attacker can force a NULL pointer to be dereferenced on NVIDIA Graphics Drivers, via Kernel Mode Layer, in order to trigger a denial of service... | Visit link for details |
 | [<a href="https://vigilance.fr/vulnerability/NVIDIA-Graphics-Drivers-privilege-escalation-via-Dynamic-Boost-D-Bus-38988" class="noirorange"><b>NVIDIA Graphics Drivers</b>: privilege escalation via Dynamic Boost D-Bus</a>](https://vigilance.fr/vulnerability/NVIDIA-Graphics-Drivers-privilege-escalation-via-Dynamic-Boost-D-Bus-38988) | An attacker can bypass restrictions of NVIDIA Graphics Drivers, via Dynamic Boost D-Bus, in order to escalate his privileges... | Visit link for details |
+---
+### VulDB [:arrow_heading_up:](#cyberowl)
+|Title|Description|Date|
+|---|---|---|
+| [SourceCodester Company Website CMS unrestricted upload](https://vuldb.com/?id.205817) | Visit link for details | 2022-08-06 at 19:04 |
+| [SourceCodester Electronic Medical Records System UPDATE Statement register.php sql injection](https://vuldb.com/?id.205816) | Visit link for details | 2022-08-06 at 19:00 |
+| [SourceCodester Wedding Hall Booking System Staff User Profile cross site scripting](https://vuldb.com/?id.205815) | Visit link for details | 2022-08-06 at 18:56 |
+| [SourceCodester Wedding Hall Booking System Profile Page cross site scripting](https://vuldb.com/?id.205814) | Visit link for details | 2022-08-06 at 18:55 |
+| [SourceCodester Wedding Hall Booking System Booking Form cross site scripting](https://vuldb.com/?id.205813) | Visit link for details | 2022-08-06 at 18:53 |
+| [SourceCodester Wedding Hall Booking System Contact Page cross site scripting](https://vuldb.com/?id.205812) | Visit link for details | 2022-08-06 at 18:52 |
+| [SourceCodester Expense Management System POST Parameter report.php fetch_report_credit sql injection](https://vuldb.com/?id.205811) | Visit link for details | 2022-08-06 at 18:50 |
+| [Samsung Game Launcher information disclosure](https://vuldb.com/?id.205810) | Visit link for details | 2022-08-06 at 08:24 |
+| [Brocade Fabric OS path traversal](https://vuldb.com/?id.205809) | Visit link for details | 2022-08-06 at 08:24 |
+| [NVIDIA vGPU Software Virtual GPU Manager null pointer dereference](https://vuldb.com/?id.205808) | Visit link for details | 2022-08-06 at 08:22 |
+---
+### ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
+|Title|Description|Date|
+|---|---|---|
+| [OPC Foundation UA .NET Standard BrowseRequest Missing Authentication Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1064/) | Visit link for details | Aug. 5, 2022 |
+| [Foxit PDF Reader AcroForm deletePages Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1063/) | Visit link for details | Aug. 5, 2022 |
+| [Foxit PDF Reader AcroForm deletePages Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1062/) | Visit link for details | Aug. 5, 2022 |
+| [Foxit PDF Reader AcroForm Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1061/) | Visit link for details | Aug. 5, 2022 |
+| [Foxit PDF Reader PDF File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1060/) | Visit link for details | Aug. 5, 2022 |
+| [Foxit PDF Reader AcroForm deletePages Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1059/) | Visit link for details | Aug. 5, 2022 |
+| [Foxit PDF Reader AcroForm resetForm Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1058/) | Visit link for details | Aug. 5, 2022 |
+| [Foxit PDF Reader Doc Object Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1057/) | Visit link for details | Aug. 5, 2022 |
 ---
 ### MA-CERT [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
