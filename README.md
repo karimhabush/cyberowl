@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 ## CyberOwl 
-> Last Updated 06/08/2022 21:13:41 UTC 
+> Last Updated 07/08/2022 09:13:41 UTC 
 
 A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
 
@@ -21,16 +21,6 @@ A daily updated summary of the most frequent types of security incidents current
 > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
 
 ---
-### US-CERT [:arrow_heading_up:](#cyberowl)
-|Title|Description|Date|
-|---|---|---|
-| [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2022/08/04/cisa-adds-one-known-exploited-vulnerability-catalog) | <p>CISA has added one new vulnerability to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: to view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates. </p> | Thursday, August 4, 2022 |
-| [Cisco Releases Security Updates for RV Series Routers ](https://www.cisa.gov/uscert/ncas/current-activity/2022/08/04/cisco-releases-security-updates-rv-series-routers) | <p class="MsoNormal">Cisco has released security updates to address vulnerabilities in Cisco Small Business RV160, RV260, RV340, and RV345 Series Routers. A remote attacker could exploit some of these vulnerabilities to take control of an affected system. For updates addressing lower severity vulnerabilities, see the <a href="https://tools.cisco.com/security/center/publicationListing.x">Cisco Security Advisories</a> page. <br> </p> | Thursday, August 4, 2022 |
-| [F5 Releases Security Updates](https://www.cisa.gov/uscert/ncas/current-activity/2022/08/04/f5-releases-security-updates) | <p style="background:white"><span style="color:#333333">F5 has released security updates to address vulnerabilities in multiple products. A privileged attacker could exploit some of these vulnerabilities to take control of an affected system. </span></p> | Thursday, August 4, 2022 |
-| [VMware Releases Security Updates ](https://www.cisa.gov/uscert/ncas/current-activity/2022/08/03/vmware-releases-security-updates-0) | <p>VMware has released security updates to address multiple vulnerabilities in VMware’s Workspace ONE Access, Access Connector, Identity Manager, Identity Manager Connector, and vRealize Automation. A remote attacker could exploit some of these vulnerabilities to take control of an affected system. </p> | Wednesday, August 3, 2022 |
-| [CISA and ACSC Release Top 2021 Malware Strains](https://www.cisa.gov/uscert/ncas/current-activity/2022/08/02/cisa-and-acsc-release-top-2021-malware-strains) | <p>CISA and the Australian Cyber Security Centre (ACSC) have published a <a href="https://www.cisa.gov/uscert/ncas/alerts/aa22-216a">joint Cybersecurity Advisory on the top malware strains observed in 2021</a>. Malicious cyber actors often use malware to covertly compromise and then gain access to a computer or mobile device. As malicious cyber actors have been using most of these top malware strains for more than five years, organizations have opportunities to better prepare, identify, and mitigate attacks from these strains.  </p> | Tuesday, August 2, 2022 |
-| [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2022/07/29/cisa-adds-one-known-exploited-vulnerability-catalog) | <p>CISA has added one new vulnerability to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. <strong>Note:</strong> To view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.</p> | Friday, July 29, 2022 |
----
 ### IBMCloud [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
@@ -41,6 +31,28 @@ A daily updated summary of the most frequent types of security incidents current
 | [zlib buffer overflow (CVE-2022-37434)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 5, 2022 |
 | [PostgreSQL SQL injection (CVE-2022-31197)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 5, 2022 |
 | [Microsoft Edge (Chromium-based) privilege escalation (CVE-2022-35796)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 5, 2022 |
+---
+### US-CERT [:arrow_heading_up:](#cyberowl)
+|Title|Description|Date|
+|---|---|---|
+| [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2022/08/04/cisa-adds-one-known-exploited-vulnerability-catalog) | <p>CISA has added one new vulnerability to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: to view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates. </p> | Thursday, August 4, 2022 |
+| [Cisco Releases Security Updates for RV Series Routers ](https://www.cisa.gov/uscert/ncas/current-activity/2022/08/04/cisco-releases-security-updates-rv-series-routers) | <p class="MsoNormal">Cisco has released security updates to address vulnerabilities in Cisco Small Business RV160, RV260, RV340, and RV345 Series Routers. A remote attacker could exploit some of these vulnerabilities to take control of an affected system. For updates addressing lower severity vulnerabilities, see the <a href="https://tools.cisco.com/security/center/publicationListing.x">Cisco Security Advisories</a> page. <br> </p> | Thursday, August 4, 2022 |
+| [F5 Releases Security Updates](https://www.cisa.gov/uscert/ncas/current-activity/2022/08/04/f5-releases-security-updates) | <p style="background:white"><span style="color:#333333">F5 has released security updates to address vulnerabilities in multiple products. A privileged attacker could exploit some of these vulnerabilities to take control of an affected system. </span></p> | Thursday, August 4, 2022 |
+| [VMware Releases Security Updates ](https://www.cisa.gov/uscert/ncas/current-activity/2022/08/03/vmware-releases-security-updates-0) | <p>VMware has released security updates to address multiple vulnerabilities in VMware’s Workspace ONE Access, Access Connector, Identity Manager, Identity Manager Connector, and vRealize Automation. A remote attacker could exploit some of these vulnerabilities to take control of an affected system. </p> | Wednesday, August 3, 2022 |
+| [CISA and ACSC Release Top 2021 Malware Strains](https://www.cisa.gov/uscert/ncas/current-activity/2022/08/02/cisa-and-acsc-release-top-2021-malware-strains) | <p>CISA and the Australian Cyber Security Centre (ACSC) have published a <a href="https://www.cisa.gov/uscert/ncas/alerts/aa22-216a">joint Cybersecurity Advisory on the top malware strains observed in 2021</a>. Malicious cyber actors often use malware to covertly compromise and then gain access to a computer or mobile device. As malicious cyber actors have been using most of these top malware strains for more than five years, organizations have opportunities to better prepare, identify, and mitigate attacks from these strains.  </p> | Tuesday, August 2, 2022 |
+| [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2022/07/29/cisa-adds-one-known-exploited-vulnerability-catalog) | <p>CISA has added one new vulnerability to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. <strong>Note:</strong> To view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.</p> | Friday, July 29, 2022 |
+---
+### ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
+|Title|Description|Date|
+|---|---|---|
+| [OPC Foundation UA .NET Standard BrowseRequest Missing Authentication Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1064/) | Visit link for details | Aug. 5, 2022 |
+| [Foxit PDF Reader AcroForm deletePages Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1063/) | Visit link for details | Aug. 5, 2022 |
+| [Foxit PDF Reader AcroForm deletePages Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1062/) | Visit link for details | Aug. 5, 2022 |
+| [Foxit PDF Reader AcroForm Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1061/) | Visit link for details | Aug. 5, 2022 |
+| [Foxit PDF Reader PDF File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1060/) | Visit link for details | Aug. 5, 2022 |
+| [Foxit PDF Reader AcroForm deletePages Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1059/) | Visit link for details | Aug. 5, 2022 |
+| [Foxit PDF Reader AcroForm resetForm Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1058/) | Visit link for details | Aug. 5, 2022 |
+| [Foxit PDF Reader Doc Object Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1057/) | Visit link for details | Aug. 5, 2022 |
 ---
 ### CERT-FR [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
@@ -73,28 +85,16 @@ A daily updated summary of the most frequent types of security incidents current
 ### VulDB [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
-| [SourceCodester Company Website CMS unrestricted upload](https://vuldb.com/?id.205817) | Visit link for details | 2022-08-06 at 19:04 |
-| [SourceCodester Electronic Medical Records System UPDATE Statement register.php sql injection](https://vuldb.com/?id.205816) | Visit link for details | 2022-08-06 at 19:00 |
-| [SourceCodester Wedding Hall Booking System Staff User Profile cross site scripting](https://vuldb.com/?id.205815) | Visit link for details | 2022-08-06 at 18:56 |
-| [SourceCodester Wedding Hall Booking System Profile Page cross site scripting](https://vuldb.com/?id.205814) | Visit link for details | 2022-08-06 at 18:55 |
-| [SourceCodester Wedding Hall Booking System Booking Form cross site scripting](https://vuldb.com/?id.205813) | Visit link for details | 2022-08-06 at 18:53 |
-| [SourceCodester Wedding Hall Booking System Contact Page cross site scripting](https://vuldb.com/?id.205812) | Visit link for details | 2022-08-06 at 18:52 |
-| [SourceCodester Expense Management System POST Parameter report.php fetch_report_credit sql injection](https://vuldb.com/?id.205811) | Visit link for details | 2022-08-06 at 18:50 |
-| [Samsung Game Launcher information disclosure](https://vuldb.com/?id.205810) | Visit link for details | 2022-08-06 at 08:24 |
-| [Brocade Fabric OS path traversal](https://vuldb.com/?id.205809) | Visit link for details | 2022-08-06 at 08:24 |
-| [NVIDIA vGPU Software Virtual GPU Manager null pointer dereference](https://vuldb.com/?id.205808) | Visit link for details | 2022-08-06 at 08:22 |
----
-### ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
-|Title|Description|Date|
-|---|---|---|
-| [OPC Foundation UA .NET Standard BrowseRequest Missing Authentication Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1064/) | Visit link for details | Aug. 5, 2022 |
-| [Foxit PDF Reader AcroForm deletePages Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1063/) | Visit link for details | Aug. 5, 2022 |
-| [Foxit PDF Reader AcroForm deletePages Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1062/) | Visit link for details | Aug. 5, 2022 |
-| [Foxit PDF Reader AcroForm Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1061/) | Visit link for details | Aug. 5, 2022 |
-| [Foxit PDF Reader PDF File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1060/) | Visit link for details | Aug. 5, 2022 |
-| [Foxit PDF Reader AcroForm deletePages Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1059/) | Visit link for details | Aug. 5, 2022 |
-| [Foxit PDF Reader AcroForm resetForm Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1058/) | Visit link for details | Aug. 5, 2022 |
-| [Foxit PDF Reader Doc Object Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1057/) | Visit link for details | Aug. 5, 2022 |
+| [SourceCodester Company Website CMS Cookie site-settings.php access control](https://vuldb.com/?id.205826) | Visit link for details | 2022-08-07 at 10:51 |
+| [Exim call_pam.c pam_converse use after free](https://vuldb.com/?id.205825) | Visit link for details | 2022-08-07 at 10:49 |
+| [Foxit PDF Reader/PDF Editor exportXFAData null pointer dereference](https://vuldb.com/?id.205824) | Visit link for details | 2022-08-07 at 10:48 |
+| [Foxit PDF Reader/PDF Editor Collab.addStateModel null pointer dereference](https://vuldb.com/?id.205823) | Visit link for details | 2022-08-07 at 10:45 |
+| [SourceCodester Simple E-Learning System claire_blake cross site scripting](https://vuldb.com/?id.205822) | Visit link for details | 2022-08-07 at 10:44 |
+| [SourceCodester Gym Management System GET Parameter sql injection](https://vuldb.com/?id.205821) | Visit link for details | 2022-08-07 at 10:42 |
+| [SourceCodester Simple E-Learning System claire_blake sql injection](https://vuldb.com/?id.205820) | Visit link for details | 2022-08-07 at 10:24 |
+| [SourceCodester Simple E-Learning System search.php sql injection](https://vuldb.com/?id.205819) | Visit link for details | 2022-08-07 at 10:21 |
+| [SourceCodester Simple E-Learning System comment_frame.php sql injection](https://vuldb.com/?id.205818) | Visit link for details | 2022-08-07 at 10:20 |
+| [SourceCodester Company Website CMS unrestricted upload](https://vuldb.com/?id.205817) | Visit link for details | 2022-08-07 at 19:04 |
 ---
 ### MA-CERT [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
