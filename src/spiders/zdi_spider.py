@@ -1,9 +1,9 @@
 import scrapy
+from msedge.selenium_tools import Edge, EdgeOptions
 from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from msedge.selenium_tools import EdgeOptions
-from msedge.selenium_tools import Edge
+from selenium.webdriver.support.ui import WebDriverWait
+
 from mdtemplate import Template
 
 
@@ -31,12 +31,19 @@ class ZDISpider(scrapy.Spider):
 
         # Explicit wait
         wait = WebDriverWait(driver, 5)
-        wait.until(EC.presence_of_element_located(
-            (By.XPATH, "descendant-or-self::table[contains(@class,'table')]/tbody/tr")))
+        wait.until(
+            EC.presence_of_element_located(
+                (
+                    By.XPATH,
+                    "descendant-or-self::table[contains(@class,'table')]/tbody/tr",
+                )
+            )
+        )
 
         # Extracting bulletins
         countries = driver.find_elements_by_xpath(
-            "descendant-or-self::table[contains(@class,'table')]/tbody/tr")
+            "descendant-or-self::table[contains(@class,'table')]/tbody/tr"
+        )
         num_bulletins = 0
         # Using Scrapy's yield to store output instead of explicitly writing to a JSON file
         _data = []
@@ -49,7 +56,7 @@ class ZDISpider(scrapy.Spider):
                 "_title": TITLE,
                 "_link": LINK,
                 "_date": DATE,
-                "_desc": "Visit link for details"
+                "_desc": "Visit link for details",
             }
 
             _data.append(ITEM)

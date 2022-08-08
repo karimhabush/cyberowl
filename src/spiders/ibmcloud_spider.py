@@ -1,9 +1,9 @@
 import scrapy
+from msedge.selenium_tools import Edge, EdgeOptions
 from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from msedge.selenium_tools import EdgeOptions
-from msedge.selenium_tools import Edge
+from selenium.webdriver.support.ui import WebDriverWait
+
 from mdtemplate import Template
 
 
@@ -13,7 +13,9 @@ class IBMCloudSpider(scrapy.Spider):
 
     # Using a dummy website to start scrapy request
     def start_requests(self):
-        url = "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities"
+        url = (
+            "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities"
+        )
         yield scrapy.Request(url=url, callback=self.parse_countries)
 
     def parse_countries(self, response):
@@ -25,19 +27,27 @@ class IBMCloudSpider(scrapy.Spider):
         driver = Edge(executable_path="./msedgedriver.exe", options=options)
         # Getting list of Countries
         driver.get(
-            "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities")
+            "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities"
+        )
 
         # Implicit wait
         driver.implicitly_wait(10)
 
         # Explicit wait
         wait = WebDriverWait(driver, 5)
-        wait.until(EC.presence_of_element_located(
-            (By.XPATH, "descendant-or-self::table[contains(@class,'searchresult')]/tbody/tr")))
+        wait.until(
+            EC.presence_of_element_located(
+                (
+                    By.XPATH,
+                    "descendant-or-self::table[contains(@class,'searchresult')]/tbody/tr",
+                )
+            )
+        )
 
         # Extracting bulletins
         countries = driver.find_elements_by_xpath(
-            "descendant-or-self::table[contains(@class,'searchresult')]/tbody/tr")
+            "descendant-or-self::table[contains(@class,'searchresult')]/tbody/tr"
+        )
         num_bulletins = 0
         # Using Scrapy's yield to store output instead of explicitly writing to a JSON file
         _data = []
@@ -50,7 +60,7 @@ class IBMCloudSpider(scrapy.Spider):
                 "_title": TITLE,
                 "_link": LINK,
                 "_date": DATE,
-                "_desc": "Visit link for details"
+                "_desc": "Visit link for details",
             }
 
             _data.append(ITEM)
