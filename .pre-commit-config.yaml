@@ -19,17 +19,17 @@ repos:
     hooks:
       - id: isort
         args: ["--profile", "black"]
-  - repo: https://gitlab.com/pycqa/flake8
-    rev: 3.9.2
-    hooks:
-      - id: flake8
-        additional_dependencies: [
-            "flake8-bugbear",
-            "flake8-comprehensions",
-            "flake8-mutable",
-            "flake8-print",
-            "flake8-simplify",
-        ]
+  # - repo: https://gitlab.com/pycqa/flake8
+  #   rev: 3.9.2
+  #   hooks:
+  #     - id: flake8
+  #       additional_dependencies: [
+  #           "flake8-bugbear",
+  #           "flake8-comprehensions",
+  #           "flake8-mutable",
+  #           "flake8-print",
+  #           "flake8-simplify",
+  #       ]
   - repo: https://github.com/humitos/mirrors-autoflake
     rev: v1.3
     hooks:
@@ -39,7 +39,7 @@ repos:
         args: ["--in-place"]
 
   - repo: https://github.com/psf/black
-    rev: 21.12b0
+    rev: 22.3.0
     hooks:
       - id: black
         args: ["--target-version", "py38"]
