@@ -28,3 +28,4 @@ jobs:
         run: |
           git add README.md
           git commit -m "Automatic update with GitHub Actions"
+          git push origin ${GITHUB_REF##*/}
