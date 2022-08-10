@@ -1,4 +1,4 @@
-name: auto_report_cron_job
+name: auto_update_cron_job
 
 on:
   schedule:
