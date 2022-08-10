@@ -1,5 +1,5 @@
 """
-
+    Pipelines for cyberowl scraper.
 """
 from mdtemplate import Template
 
@@ -16,11 +16,18 @@ class AlertPipeline:
         Remove special characters from text.
         """
         return (
-            text.replace("\n", " ")
+            text.replace("\n", "")
             .replace("\r", "")
             .replace("\t", "")
             .replace("  ", "")
+            .replace("|", "")
         )
+
+    def open_spider(self, spider):
+        """
+        Open spider
+        """
+        self.result = []
 
     def process_item(self, item, spider):
         """
@@ -37,10 +44,7 @@ class AlertPipeline:
         """
         Close spider
         """
-        print("oooooooooooooooooooooooOODDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD")
-        _to_write = Template(spider.name, self.result)
-        self.result = []
-        print(self.result)
+        to_write = Template(spider.name, self.result)
         with open("README.md", "a", encoding="utf-8") as file:
-            file.write(_to_write._fill_table())
+            file.write(to_write.fill_table())
             file.close()

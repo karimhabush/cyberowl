@@ -1,52 +1,42 @@
-from datetime import date
-
 import scrapy
 
-from mdtemplate import Template
+from items import AlertItem
 
 
 class VulDBSpider(scrapy.Spider):
+    """
+    Spider for the VulDB website.
+    """
+
     name = "VulDB"
+    max_items = 10
     start_urls = ["https://vuldb.com/?live.recent"]
+    block_selector = "table>tr"
+    link_selector = "descendant-or-self::td[4]//@href"
+    date_selector = "descendant-or-self::td[1]//text()"
+    title_selector = "descendant-or-self::td[4]//text()"
+    description_selector = ""
 
     def parse(self, response):
-        if "cached" in response.flags:
-            return
-        num_bulletins = 0
-        _data = []
-        print(response.css("table>tr").extract())
-        for bulletin in response.css("table>tr"):
-            if num_bulletins == 0:
-                num_bulletins += 1
-                continue
-            LINK = (
-                "https://vuldb.com/"
-                + bulletin.xpath("descendant-or-self::td[4]//@href").get()
-            )
-            DATE = (
-                str(date.today())
-                + " at "
-                + bulletin.xpath("descendant-or-self::td[1]//text()").get()
-            )
-            TITLE = (
-                bulletin.xpath("descendant-or-self::td[4]//text()")
-                .get()
-                .replace("\n", "")
-                .replace("\t", "")
-                .replace("\r", "")
-                .replace("  ", "")
-                .replace("|", "-")
-            )
-            DESC = "Visit link for details"
-            ITEM = {"_title": TITLE, "_link": LINK, "_date": DATE, "_desc": DESC}
+        """
+        Parsing the response
+        """
+        for idx, bulletin in enumerate(response.css(self.block_selector)):
 
-            _data.append(ITEM)
-            num_bulletins += 1
-            if num_bulletins >= 11:
+            # Skip table headers
+            if idx == 0:
+                continue
+
+            # Max number of alerts to scrape
+            if idx > self.max_items:
                 break
 
-        _to_write = Template("VulDB", _data)
+            item = AlertItem()
+            item["title"] = bulletin.xpath(self.title_selector).get()
+            item["link"] = (
+                "https://vuldb.com/" + bulletin.xpath(self.link_selector).get()
+            )
+            item["date"] = bulletin.xpath(self.date_selector).get()
+            item["description"] = "Visit link for details"
 
-        with open("README.md", "a", encoding="utf-8") as f:
-            f.write(_to_write._fill_table())
-            f.close()
+            yield item

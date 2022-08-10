@@ -3,7 +3,7 @@ from datetime import datetime, timezone
 from scrapy.crawler import CrawlerProcess
 from scrapy.settings import Settings
 
-import settings as my_settings
+import settings as cyberowl_settings
 from spiders.cert_fr_spider import CertFRSpider
 from spiders.cisa_spider import CisaSpider
 from spiders.ibmcloud_spider import IBMCloudSpider
@@ -26,15 +26,15 @@ def main():
 
     try:
         crawler_settings = Settings()
-        crawler_settings.setmodule(my_settings)
+        crawler_settings.setmodule(cyberowl_settings)
         process = CrawlerProcess(settings=crawler_settings)
         process.crawl(CisaSpider)
         process.crawl(MACertSpider)
         process.crawl(CertFRSpider)
-        # process.crawl(IBMCloudSpider)
-        # process.crawl(ZDISpider)
-        # process.crawl(VigilanceSpider)
-        # process.crawl(VulDBSpider)
+        process.crawl(IBMCloudSpider)
+        process.crawl(ZDISpider)
+        process.crawl(VigilanceSpider)
+        process.crawl(VulDBSpider)
         process.start()
 
     except Exception as exc:

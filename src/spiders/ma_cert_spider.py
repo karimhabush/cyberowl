@@ -13,6 +13,7 @@ class MACertSpider(scrapy.Spider):
     """
 
     name = "MA-CERT"
+    max_items = 10
     start_urls = ["https://www.dgssi.gov.ma/fr/macert/bulletins-de-securite.html"]
     block_selector = "div.event_row1"
     link_selector = "descendant-or-self::h4/a/@href"
@@ -26,7 +27,11 @@ class MACertSpider(scrapy.Spider):
         """
         Parsing the response
         """
-        for bulletin in response.css(self.block_selector):
+        for idx, bulletin in enumerate(response.css(self.block_selector)):
+
+            if idx > self.max_items:
+                break
+
             item = AlertItem()
 
             item["title"] = bulletin.xpath(self.title_selector).get()

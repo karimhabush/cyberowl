@@ -4,70 +4,58 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 
-from mdtemplate import Template
+from items import AlertItem
 
 
 class ZDISpider(scrapy.Spider):
-    name = "countries_spider"
-    allowed_domains = ["zerodayinitiative.com"]
+    """
+    Class to get dynamic content from ZeroDayInitiative website.
+    """
 
-    # Using a dummy website to start scrapy request
-    def start_requests(self):
-        url = "https://www.zerodayinitiative.com/advisories/published/"
-        yield scrapy.Request(url=url, callback=self.parse_countries)
+    name = "ZeroDayInitiative"
+    max_bulletins = 7
+    start_urls = ["https://www.zerodayinitiative.com/advisories/published/"]
+    block_selector = "descendant-or-self::table[contains(@class,'table')]/tbody/tr"
+    link_selector = ".//a"
+    title_selector = ".//a"
+    date_selector = ".//td[6]"
+    description_selector = ""
 
-    def parse_countries(self, response):
-        # Use headless option to not open a new browser window
+    def __init__(self):
         options = EdgeOptions()
-        options.add_argument("headless")
         options.use_chromium = True
+        options.add_argument("headless")
         options.add_argument("disable-gpu")
-        driver = Edge(executable_path="./msedgedriver.exe", options=options)
-        # Getting list of Countries
-        driver.get("https://www.zerodayinitiative.com/advisories/published/")
+        self.driver = Edge(executable_path="./src/msedgedriver.exe", options=options)
 
-        # Implicit wait
-        driver.implicitly_wait(10)
-
-        # Explicit wait
-        wait = WebDriverWait(driver, 5)
+    def _wait_until_website_is_ready(self) -> None:
+        wait = WebDriverWait(self.driver, 5)
         wait.until(
             EC.presence_of_element_located(
                 (
                     By.XPATH,
-                    "descendant-or-self::table[contains(@class,'table')]/tbody/tr",
+                    self.block_selector,
                 )
             )
         )
 
-        # Extracting bulletins
-        countries = driver.find_elements_by_xpath(
-            "descendant-or-self::table[contains(@class,'table')]/tbody/tr"
-        )
-        num_bulletins = 0
-        # Using Scrapy's yield to store output instead of explicitly writing to a JSON file
-        _data = []
-        for country in countries:
-            LINK = country.find_element_by_xpath(".//a").get_attribute("href")
-            DATE = country.find_element_by_xpath(".//td[6]").text
-            TITLE = country.find_element_by_xpath(".//a").text
+    def parse(self, response, **kwargs):
 
-            ITEM = {
-                "_title": TITLE,
-                "_link": LINK,
-                "_date": DATE,
-                "_desc": "Visit link for details",
-            }
+        self.driver.get(response.url)
+        self._wait_until_website_is_ready()
 
-            _data.append(ITEM)
-            num_bulletins += 1
-            if num_bulletins >= 8:
+        for idx, bulletin in enumerate(
+            self.driver.find_elements_by_xpath(self.block_selector)
+        ):
+            if idx > self.max_bulletins:
                 break
 
-        _to_write = Template("ZeroDayInitiative", _data)
+            item = AlertItem()
+            item["link"] = bulletin.find_element_by_xpath(
+                self.link_selector
+            ).get_attribute("href")
+            item["date"] = bulletin.find_element_by_xpath(self.title_selector).text
+            item["title"] = bulletin.find_element_by_xpath(self.link_selector).text
+            item["description"] = "Visit link for details"
 
-        with open("README.md", "a") as f:
-            f.write(_to_write._fill_table())
-            f.close()
-
-        driver.quit()
+            yield item

@@ -9,6 +9,7 @@ class CisaSpider(scrapy.Spider):
     """
 
     name = "US-CERT"
+    max_items = 10
     start_urls = ["https://www.cisa.gov/uscert/ncas/current-activity"]
     block_selector = "div.views-row"
     link_selector = "descendant-or-self::h3/span/a/@href"
@@ -22,7 +23,11 @@ class CisaSpider(scrapy.Spider):
         """
         Parsing the response
         """
-        for bulletin in response.css(self.block_selector):
+        for idx, bulletin in enumerate(response.css(self.block_selector)):
+
+            if idx > self.max_items:
+                break
+
             item = AlertItem()
 
             item["title"] = bulletin.xpath(self.title_selector).get()
