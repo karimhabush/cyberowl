@@ -19,11 +19,11 @@ jobs:
       - run: python src/main.py
 
       - name: Setup git config
-      - run: |
+        run: |
           git config user.name "GitHub Actions Bot"
           git config user.email "<>"
 
       - name: Commit
-      - run: |
+        run: |
           git add README.md
           git commit -m "Automatic update with GitHub Actions"
