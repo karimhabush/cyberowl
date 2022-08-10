@@ -1,13 +1,13 @@
 <div id="top"></div>
 
-## CyberOwl
-> Last Updated 10/08/2022 11:46:48 UTC
+## CyberOwl 
+> Last Updated 10/08/2022 13:47:52 UTC 
 
 A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
 
----
+--- 
 
-### :kangaroo: Jump to
+### :kangaroo: Jump to 
  | CyberOwl Sources | Description |
 |---|---|
 | [US-CERT](#us-cert-arrow_heading_up) | United States Computer Emergency and Readiness Team. |
@@ -30,6 +30,46 @@ A daily updated summary of the most frequent types of security incidents current
 | [CISA Adds Two Known Exploited Vulnerabilities to Catalog ](https://www.cisa.gov/uscert/ncas/current-activity/2022/08/09/cisa-adds-two-known-exploited-vulnerabilities-catalog) | <p>CISA has added two new vulnerabilities to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: to view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.    </p> | Tuesday, August 9, 2022 |
 | [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2022/08/04/cisa-adds-one-known-exploited-vulnerability-catalog) | <p>CISA has added one new vulnerability to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: to view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates. </p> | Thursday, August 4, 2022 |
 | [Cisco Releases Security Updates for RV Series Routers ](https://www.cisa.gov/uscert/ncas/current-activity/2022/08/04/cisco-releases-security-updates-rv-series-routers) | <p class="MsoNormal">Cisco has released security updates to address vulnerabilities in Cisco Small Business RV160, RV260, RV340, and RV345 Series Routers. A remote attacker could exploit some of these vulnerabilities to take control of an affected system. For updates addressing lower severity vulnerabilities, see the <a href="https://tools.cisco.com/security/center/publicationListing.x">Cisco Security Advisories</a> page. <br> </p> | Thursday, August 4, 2022 |
+---
+### CERT-FR [:arrow_heading_up:](#cyberowl)
+|Title|Description|Date|
+|---|---|---|
+| [Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-732/) | De multiples vulnérabilités ont été corrigées dans  | Publié le 10 août 2022 |
+| [Multiples vulnérabilités dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-731/) | De multiples vulnérabilités ont été corrigées dans  | Publié le 10 août 2022 |
+| [Vulnérabilité dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-730/) | Une vulnérabilité a été corrigée dans  | Publié le 10 août 2022 |
+| [Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-729/) | De multiples vulnérabilités ont été corrigées dans  | Publié le 10 août 2022 |
+| [Multiples vulnérabilités dans Microsoft Office](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-728/) | De multiples vulnérabilités ont été corrigées dans  | Publié le 10 août 2022 |
+| [Multiples vulnérabilités dans les produits Intel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-727/) | De multiples vulnérabilités ont été découvertes dans les produits Intel. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. | Publié le 10 août 2022 |
+| [Multiples vulnérabilités dans les produits Adobe](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-726/) | De multiples vulnérabilités ont été découvertes dans les produits Adobe. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données. | Publié le 10 août 2022 |
+| [Multiples vulnérabilités dans les produits SAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-725/) | De multiples vulnérabilités ont été découvertes dans les produits SAP. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un contournement de la politique de sécurité et une atteinte à la confidentialité des données. | Publié le 10 août 2022 |
+| [Multiples vulnérabilités dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-724/) | De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à la confidentialité des données et une élévation de privilèges. | Publié le 10 août 2022 |
+| [Multiples vulnérabilités dans IBM MQ](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-723/) | De multiples vulnérabilités ont été découvertes dans IBM MQ Operator et IBM MQ Advanced. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et un contournement de la politique de sécurité. | Publié le 10 août 2022 |
+---
+### IBMCLOUD [:arrow_heading_up:](#cyberowl)
+|Title|Description|Date|
+|---|---|---|
+| [Intel NUC Laptop Kit privilege escalation (CVE-2022-34488)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 9, 2022 |
+| [Intel NUC Laptop Kit privilege escalation (CVE-2022-34345)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 9, 2022 |
+| [Intel NUC Laptop Kit privilege escalation (CVE-2022-33209)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 9, 2022 |
+| [Intel NUC Laptop Kit privilege escalation (CVE-2022-32579)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 9, 2022 |
+| [Intel NUC Laptop Kit privilege escalation (CVE-2022-28858)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 9, 2022 |
+| [Intel NUC Laptop Kit privilege escalation (CVE-2022-27493)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 9, 2022 |
+| [Intel AMT and Standard Manageability information disclosure (CVE-2022-30944)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 9, 2022 |
+| [](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details |  |
+---
+### VulDB [:arrow_heading_up:](#cyberowl)
+|Title|Description|Date|
+|---|---|---|
+| [ClamAV Antivirus Regex Module out-of-bounds](https://vuldb.com/?id.206041) | Visit link for details | 15:14 |
+| [KUKA V-KSS Robot Configuration missing authentication](https://vuldb.com/?id.206040) | Visit link for details | 15:01 |
+| [mc-kill-port kill Local Privilege Escalation](https://vuldb.com/?id.206039) | Visit link for details | 15:00 |
+| [Apache Traffic Server Header request smuggling](https://vuldb.com/?id.206038) | Visit link for details | 13:21 |
+| [Apache Traffic Server Header Parser request smuggling](https://vuldb.com/?id.206037) | Visit link for details | 13:21 |
+| [Apache Traffic Server HTTP2 Frame request smuggling](https://vuldb.com/?id.206036) | Visit link for details | 13:18 |
+| [Apache Traffic Server HTTP2 Header Parser request smuggling](https://vuldb.com/?id.206035) | Visit link for details | 13:18 |
+| [Apache Traffic Server HTTP 1.1 Header Parser input validation](https://vuldb.com/?id.206034) | Visit link for details | 13:17 |
+| [Apache Traffic Server HTTP2 Request request smuggling](https://vuldb.com/?id.206033) | Visit link for details | 13:17 |
+| [Cisco Webex Meetings Web Interface cross site scripting](https://vuldb.com/?id.206032) | Visit link for details | 13:16 |
 ---
 ### OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
@@ -61,54 +101,14 @@ A daily updated summary of the most frequent types of security incidents current
 | [37520508/22 - Vulnérabilités critiques affectant plusieursproduits deCisco](/fr/content/3752050822-vulnerabilites-critiques-affectant-plusieurs-produits-de-cisco.html) | Cisco annonce la correction de trois vulnérabilités critiques affectant certaines versions de ses produits susmentionnés.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’exécuter du code arbitraire ou... | 05 août 2022 |
 | [37510408/22 - Mises à jour de sécurité pour des produits de Fortinet ](/fr/content/3751040822-mises-jour-de-securite-pour-des-produits-de-fortinet.html) | Fortinet annonce la disponibilité de mises à jour de sécurité permettant la correctiondetrois vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peut permettre à un attaquant distant d’... | 04 août 2022 |
 ---
-### VulDB [:arrow_heading_up:](#cyberowl)
-|Title|Description|Date|
-|---|---|---|
-| [Apache Traffic Server Header request smuggling](https://vuldb.com/?id.206038) | Visit link for details | 13:21 |
-| [Apache Traffic Server Header Parser request smuggling](https://vuldb.com/?id.206037) | Visit link for details | 13:21 |
-| [Apache Traffic Server HTTP2 Frame request smuggling](https://vuldb.com/?id.206036) | Visit link for details | 13:18 |
-| [Apache Traffic Server HTTP2 Header Parser request smuggling](https://vuldb.com/?id.206035) | Visit link for details | 13:18 |
-| [Apache Traffic Server HTTP 1.1 Header Parser input validation](https://vuldb.com/?id.206034) | Visit link for details | 13:17 |
-| [Apache Traffic Server HTTP2 Request request smuggling](https://vuldb.com/?id.206033) | Visit link for details | 13:17 |
-| [Cisco Webex Meetings Web Interface cross site scripting](https://vuldb.com/?id.206032) | Visit link for details | 13:16 |
-| [Cisco Webex Meetings Web Interface cross site scripting](https://vuldb.com/?id.206031) | Visit link for details | 13:15 |
-| [Cisco BroadWorks Application Delivery Platform Software Web-based Management Interface cross site scripting](https://vuldb.com/?id.206030) | Visit link for details | 13:15 |
-| [Cisco Identity Services Engine External RESTful Services API missing password field masking](https://vuldb.com/?id.206029) | Visit link for details | 13:13 |
----
 ### ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
-| [OPC Foundation UA .NET Standard BrowseRequest Missing Authentication Information Disclosure Vulnerability](OPC Foundation UA .NET Standard BrowseRequest Missing Authentication Information Disclosure Vulnerability) | Visit link for details | OPC Foundation UA .NET Standard BrowseRequest Missing Authentication Information Disclosure Vulnerability |
-| [Foxit PDF Reader AcroForm deletePages Use-After-Free Remote Code Execution Vulnerability](Foxit PDF Reader AcroForm deletePages Use-After-Free Remote Code Execution Vulnerability) | Visit link for details | Foxit PDF Reader AcroForm deletePages Use-After-Free Remote Code Execution Vulnerability |
-| [Foxit PDF Reader AcroForm deletePages Use-After-Free Remote Code Execution Vulnerability](Foxit PDF Reader AcroForm deletePages Use-After-Free Remote Code Execution Vulnerability) | Visit link for details | Foxit PDF Reader AcroForm deletePages Use-After-Free Remote Code Execution Vulnerability |
-| [Foxit PDF Reader AcroForm Use-After-Free Remote Code Execution Vulnerability](Foxit PDF Reader AcroForm Use-After-Free Remote Code Execution Vulnerability) | Visit link for details | Foxit PDF Reader AcroForm Use-After-Free Remote Code Execution Vulnerability |
-| [Foxit PDF Reader PDF File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](Foxit PDF Reader PDF File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability) | Visit link for details | Foxit PDF Reader PDF File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability |
-| [Foxit PDF Reader AcroForm deletePages Use-After-Free Remote Code Execution Vulnerability](Foxit PDF Reader AcroForm deletePages Use-After-Free Remote Code Execution Vulnerability) | Visit link for details | Foxit PDF Reader AcroForm deletePages Use-After-Free Remote Code Execution Vulnerability |
-| [Foxit PDF Reader AcroForm resetForm Out-Of-Bounds Read Information Disclosure Vulnerability](Foxit PDF Reader AcroForm resetForm Out-Of-Bounds Read Information Disclosure Vulnerability) | Visit link for details | Foxit PDF Reader AcroForm resetForm Out-Of-Bounds Read Information Disclosure Vulnerability |
-| [Foxit PDF Reader Doc Object Use-After-Free Remote Code Execution Vulnerability](Foxit PDF Reader Doc Object Use-After-Free Remote Code Execution Vulnerability) | Visit link for details | Foxit PDF Reader Doc Object Use-After-Free Remote Code Execution Vulnerability |
----
-### CERT-FR [:arrow_heading_up:](#cyberowl)
-|Title|Description|Date|
-|---|---|---|
-| [Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-719/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Elles permettent à un attaquant de provoquer un déni de service, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. | Publié le 9 août 2022 |
-| [Multiples vulnérabilités dans les produits Siemens](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-718/) | De multiples vulnérabilités ont été découvertes dans les produits Siemens. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité. | Publié le 9 août 2022 |
-| [Multiples vulnérabilités dans les produits Schneider](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-717/) | De multiples vulnérabilités ont été découvertes dans les produits Schneider. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité. | Publié le 9 août 2022 |
-| [Multiples vulnérabilités dans IBM Cloud Pak System](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-716/) | De multiples vulnérabilités ont été découvertes dans IBM Cloud Pak System. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité. | Publié le 9 août 2022 |
-| [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-715/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Elles permettent à un attaquant de provoquer un déni de service, un contournement de la politique de sécurité et une élévation de privilèges. | Publié le 9 août 2022 |
-| [Vulnérabilité dans Nextcloud Talk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-714/) | Une vulnérabilité a été découverte dans Nextcloud Talk. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. | Publié le 9 août 2022 |
-| [Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-713/) | De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une élévation de privilèges. | Publié le 8 août 2022 |
-| [Multiples vulnérabilités dans IBM QRadar SIEM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-712/) | De multiples vulnérabilités ont été découvertes dans IBM QRadar SIEM. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité. | Publié le 8 août 2022 |
-| [Vulnérabilité dans Kaspersky VPN Secure Connection](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-711/) | Une vulnérabilité a été découverte dans Kaspersky VPN Secure Connection. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données. | Publié le 8 août 2022 |
-| [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-710/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à l'intégrité des données. | Publié le 4 août 2022 |
----
-### IBMCLOUD [:arrow_heading_up:](#cyberowl)
-|Title|Description|Date|
-|---|---|---|
-| [Intel NUC Laptop Kit privilege escalation (CVE-2022-34488)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 9, 2022 |
-| [Intel NUC Laptop Kit privilege escalation (CVE-2022-34345)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 9, 2022 |
-| [Intel NUC Laptop Kit privilege escalation (CVE-2022-33209)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 9, 2022 |
-| [Intel NUC Laptop Kit privilege escalation (CVE-2022-32579)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 9, 2022 |
-| [Intel NUC Laptop Kit privilege escalation (CVE-2022-28858)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 9, 2022 |
-| [Intel NUC Laptop Kit privilege escalation (CVE-2022-27493)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 9, 2022 |
-| [Intel AMT and Standard Manageability information disclosure (CVE-2022-30944)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 9, 2022 |
-| [](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details |  |
+| [OPC Foundation UA .NET Standard BrowseRequest Missing Authentication Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1064/) | Visit link for details | OPC Foundation UA .NET Standard BrowseRequest Missing Authentication Information Disclosure Vulnerability |
+| [Foxit PDF Reader AcroForm deletePages Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1063/) | Visit link for details | Foxit PDF Reader AcroForm deletePages Use-After-Free Remote Code Execution Vulnerability |
+| [Foxit PDF Reader AcroForm deletePages Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1062/) | Visit link for details | Foxit PDF Reader AcroForm deletePages Use-After-Free Remote Code Execution Vulnerability |
+| [Foxit PDF Reader AcroForm Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1061/) | Visit link for details | Foxit PDF Reader AcroForm Use-After-Free Remote Code Execution Vulnerability |
+| [Foxit PDF Reader PDF File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1060/) | Visit link for details | Foxit PDF Reader PDF File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability |
+| [Foxit PDF Reader AcroForm deletePages Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1059/) | Visit link for details | Foxit PDF Reader AcroForm deletePages Use-After-Free Remote Code Execution Vulnerability |
+| [Foxit PDF Reader AcroForm resetForm Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1058/) | Visit link for details | Foxit PDF Reader AcroForm resetForm Out-Of-Bounds Read Information Disclosure Vulnerability |
+| [Foxit PDF Reader Doc Object Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1057/) | Visit link for details | Foxit PDF Reader Doc Object Use-After-Free Remote Code Execution Vulnerability |
