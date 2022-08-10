@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 ## CyberOwl 
-> Last Updated 09/08/2022 21:14:08 UTC 
+> Last Updated 10/08/2022 09:15:31 UTC 
 
 A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
 
@@ -21,26 +21,26 @@ A daily updated summary of the most frequent types of security incidents current
 > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
 
 ---
-### IBMCloud [:arrow_heading_up:](#cyberowl)
-|Title|Description|Date|
-|---|---|---|
-| [Airspan AirSpot file upload (CVE-2022-36264)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 9, 2022 |
-| [Airspan AirSpot command execution (CVE-2022-36265)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 9, 2022 |
-| [Airspan AirSpot command execution (CVE-2022-36267)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 9, 2022 |
-| [Microsoft Azure Site Recovery code execution (CVE-2022-35824)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 9, 2022 |
-| [Microsoft Azure Sphere information disclosure (CVE-2022-35821)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 9, 2022 |
-| [Microsoft Windows Bluetooth Driver privilege escalation (CVE-2022-35820)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 9, 2022 |
-| [Microsoft Azure Site Recovery privilege escalation (CVE-2022-35819)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 9, 2022 |
----
 ### US-CERT [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
+| [Microsoft Releases August 2022 Security Updates](https://www.cisa.gov/uscert/ncas/current-activity/2022/08/09/microsoft-releases-august-2022-security-updates) | <p>Microsoft has released updates to address multiple vulnerabilities in Microsoft software. An attacker can exploit some of these vulnerabilities to take control of an affected system.</p> | Tuesday, August 9, 2022 |
+| [Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/uscert/ncas/current-activity/2022/08/09/adobe-releases-security-updates-multiple-products) | <p>Adobe has released security updates to address vulnerabilities in multiple products. An attacker could exploit some of these vulnerabilities to take control of an affected system.</p> | Tuesday, August 9, 2022 |
+| [VMware Releases Security Updates](https://www.cisa.gov/uscert/ncas/current-activity/2022/08/09/vmware-releases-security-updates) | <p>VMware has released security updates to address multiple vulnerabilities in vRealize Operations. A remote attacker could exploit some of these vulnerabilities to take control of an affected system.</p> | Tuesday, August 9, 2022 |
 | [CISA Adds Two Known Exploited Vulnerabilities to Catalog ](https://www.cisa.gov/uscert/ncas/current-activity/2022/08/09/cisa-adds-two-known-exploited-vulnerabilities-catalog) | <p>CISA has added two new vulnerabilities to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: to view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.    </p> | Tuesday, August 9, 2022 |
 | [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2022/08/04/cisa-adds-one-known-exploited-vulnerability-catalog) | <p>CISA has added one new vulnerability to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: to view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates. </p> | Thursday, August 4, 2022 |
 | [Cisco Releases Security Updates for RV Series Routers ](https://www.cisa.gov/uscert/ncas/current-activity/2022/08/04/cisco-releases-security-updates-rv-series-routers) | <p class="MsoNormal">Cisco has released security updates to address vulnerabilities in Cisco Small Business RV160, RV260, RV340, and RV345 Series Routers. A remote attacker could exploit some of these vulnerabilities to take control of an affected system. For updates addressing lower severity vulnerabilities, see the <a href="https://tools.cisco.com/security/center/publicationListing.x">Cisco Security Advisories</a> page. <br> </p> | Thursday, August 4, 2022 |
-| [F5 Releases Security Updates](https://www.cisa.gov/uscert/ncas/current-activity/2022/08/04/f5-releases-security-updates) | <p style="background:white"><span style="color:#333333">F5 has released security updates to address vulnerabilities in multiple products. A privileged attacker could exploit some of these vulnerabilities to take control of an affected system. </span></p> | Thursday, August 4, 2022 |
-| [VMware Releases Security Updates ](https://www.cisa.gov/uscert/ncas/current-activity/2022/08/03/vmware-releases-security-updates) | <p>VMware has released security updates to address multiple vulnerabilities in VMware’s Workspace ONE Access, Access Connector, Identity Manager, Identity Manager Connector, and vRealize Automation. A remote attacker could exploit some of these vulnerabilities to take control of an affected system. </p> | Wednesday, August 3, 2022 |
-| [CISA and ACSC Release Top 2021 Malware Strains](https://www.cisa.gov/uscert/ncas/current-activity/2022/08/02/cisa-and-acsc-release-top-2021-malware-strains) | <p>CISA and the Australian Cyber Security Centre (ACSC) have published a <a href="https://www.cisa.gov/uscert/ncas/alerts/aa22-216a">joint Cybersecurity Advisory on the top malware strains observed in 2021</a>. Malicious cyber actors often use malware to covertly compromise and then gain access to a computer or mobile device. As malicious cyber actors have been using most of these top malware strains for more than five years, organizations have opportunities to better prepare, identify, and mitigate attacks from these strains.  </p> | Tuesday, August 2, 2022 |
+---
+### IBMCloud [:arrow_heading_up:](#cyberowl)
+|Title|Description|Date|
+|---|---|---|
+| [Intel NUC Laptop Kit privilege escalation (CVE-2022-34488)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 9, 2022 |
+| [Intel NUC Laptop Kit privilege escalation (CVE-2022-34345)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 9, 2022 |
+| [Intel NUC Laptop Kit privilege escalation (CVE-2022-33209)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 9, 2022 |
+| [Intel NUC Laptop Kit privilege escalation (CVE-2022-32579)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 9, 2022 |
+| [Intel NUC Laptop Kit privilege escalation (CVE-2022-28858)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 9, 2022 |
+| [Intel NUC Laptop Kit privilege escalation (CVE-2022-27493)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 9, 2022 |
+| [Intel AMT and Standard Manageability information disclosure (CVE-2022-30944)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 9, 2022 |
 ---
 ### CERT-FR [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
@@ -59,30 +59,30 @@ A daily updated summary of the most frequent types of security incidents current
 ### OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
+| [<a href="https://vigilance.fr/vulnerability/Adobe-Acrobat-Reader-multiple-vulnerabilities-39039" class="noirorange"><b>Adobe Acrobat/Reader</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Adobe-Acrobat-Reader-multiple-vulnerabilities-39039) | An attacker can use several vulnerabilities of Adobe Acrobat/Reader... | Visit link for details |
+| [<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-gre-handle-offloads-39037" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via <wbr>gre_handle_offloads(<wbr>)</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-gre-handle-offloads-39037) | An attacker can force a read at an invalid memory address of the Linux kernel, via  | Visit link for details |
+| [<a href="https://vigilance.fr/vulnerability/Intel-Processor-information-disclosure-via-Shared-Resources-39036" class="noirorange"><b>Intel Processor</b>: information disclosure via Shared Resources</a>](https://vigilance.fr/vulnerability/Intel-Processor-information-disclosure-via-Shared-Resources-39036) | An attacker can bypass access restrictions to data of Intel Processor, via Shared Resources, in order to read sensitive information... | Visit link for details |
+| [<a href="https://vigilance.fr/vulnerability/Intel-Processor-buffer-overflow-via-BIOS-Firmware-39035" class="noirorange"><b>Intel Processor</b>: buffer overflow via BIOS Firmware</a>](https://vigilance.fr/vulnerability/Intel-Processor-buffer-overflow-via-BIOS-Firmware-39035) | An attacker can trigger a buffer overflow of Intel Processor, via BIOS Firmware, in order to trigger a denial of service, and possibly to run code... | Visit link for details |
+| [<a href="https://vigilance.fr/vulnerability/FreeBSD-out-of-bounds-memory-reading-via-elf-note-prpsinfo-39033" class="noirorange"><b>FreeBSD</b>: out-of-bounds memory reading via elf_note_prpsinfo()</a>](https://vigilance.fr/vulnerability/FreeBSD-out-of-bounds-memory-reading-via-elf-note-prpsinfo-39033) | An attacker can force a read at an invalid memory address of FreeBSD, via  | Visit link for details |
+| [<a href="https://vigilance.fr/vulnerability/Ghostscript-NULL-pointer-dereference-via-gx-default-create-buf-device-39032" class="noirorange"><b>Ghostscript</b>: NULL pointer dereference via <wbr>gx_default_create_bu<wbr>f_device()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Ghostscript-NULL-pointer-dereference-via-gx-default-create-buf-device-39032) | An attacker can force a NULL pointer to be dereferenced on Ghostscript, via  | Visit link for details |
+| [<a href="https://vigilance.fr/vulnerability/Linux-kernel-file-write-via-shmem-tmpfs-39031" class="noirorange"><b>Linux kernel</b>: file write via shmem/tmpfs</a>](https://vigilance.fr/vulnerability/Linux-kernel-file-write-via-shmem-tmpfs-39031) | An attacker can bypass access restrictions of the Linux kernel, via shmem/tmpfs, in order to alter files... | Visit link for details |
 | [<a href="https://vigilance.fr/vulnerability/Microsoft-Windows-vulnerabilities-of-August-2022-39030" class="noirorange"><b>Microsoft Windows</b>: vulnerabilities of August 2022</a>](https://vigilance.fr/vulnerability/Microsoft-Windows-vulnerabilities-of-August-2022-39030) | An attacker can use several vulnerabilities of Microsoft products... | Visit link for details |
 | [<a href="https://vigilance.fr/vulnerability/Microsoft-System-Center-Operations-Manager-privilege-escalation-39029" class="noirorange"><b>Microsoft System Center Operations Manager</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Microsoft-System-Center-Operations-Manager-privilege-escalation-39029) | An attacker can bypass restrictions of Microsoft System Center Operations Manager, in order to escalate his privileges... | Visit link for details |
 | [<a href="https://vigilance.fr/vulnerability/Microsoft-Visual-Studio-vulnerabilities-of-August-2022-39028" class="noirorange"><b>Microsoft Visual Studio</b>: vulnerabilities of August 2022</a>](https://vigilance.fr/vulnerability/Microsoft-Visual-Studio-vulnerabilities-of-August-2022-39028) | An attacker can use several vulnerabilities of Microsoft products... | Visit link for details |
-| [<a href="https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-August-2022-39027" class="noirorange"><b>Microsoft Exchange Server</b>: vulnerabilities of August 2022</a>](https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-August-2022-39027) | An attacker can use several vulnerabilities of Microsoft products... | Visit link for details |
-| [<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-August-2022-39026" class="noirorange"><b>Microsoft 365 Apps - Office</b>: vulnerabilities of August 2022</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-August-2022-39026) | An attacker can use several vulnerabilities of Microsoft products... | Visit link for details |
-| [<a href="https://vigilance.fr/vulnerability/Microsoft-NET-spoofing-39025" class="noirorange"><b>Microsoft .NET</b>: spoofing</a>](https://vigilance.fr/vulnerability/Microsoft-NET-spoofing-39025) | An attacker can create spoofed data on Microsoft .NET, in order to deceive the victim... | Visit link for details |
-| [<a href="https://vigilance.fr/vulnerability/Intel-Processors-information-disclosure-via-Post-barrier-RSB-Predictions-39024" class="noirorange"><b>Intel Processors</b>: information disclosure via Post-barrier RSB Predictions</a>](https://vigilance.fr/vulnerability/Intel-Processors-information-disclosure-via-Post-barrier-RSB-Predictions-39024) | An attacker can bypass access restrictions to data of Intel Processors, via Post-barrier RSB Predictions, in order to read sensitive information... | Visit link for details |
-| [<a href="https://vigilance.fr/vulnerability/VMware-Workstation-information-disclosure-via-Unprotected-Credentials-Storage-39023" class="noirorange"><b>VMware Workstation</b>: information disclosure via Unprotected Credentials Storage</a>](https://vigilance.fr/vulnerability/VMware-Workstation-information-disclosure-via-Unprotected-Credentials-Storage-39023) | An attacker can bypass access restrictions to data of VMware Workstation, via Unprotected Credentials Storage, in order to read sensitive information... | Visit link for details |
-| [<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-sprintf-39022" class="noirorange"><b>Linux kernel</b>: buffer overflow via sprintf()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-sprintf-39022) | An attacker can trigger a buffer overflow of the Linux kernel, via sprintf(), in order to trigger a denial of service, and possibly to run code... | Visit link for details |
-| [<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-POSIX-CPU-Timer-39021" class="noirorange"><b>Linux kernel</b>: reuse after free via POSIX CPU Timer</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-POSIX-CPU-Timer-39021) | An attacker can force the reuse of a freed memory area of the Linux kernel, via POSIX CPU Timer, in order to trigger a denial of service, and possibly to run code... | Visit link for details |
 ---
 ### VulDB [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
-| [FTL ftlserver Privilege Escalation](https://vuldb.com/?id.206011) | Visit link for details | 2022-08-09 at 23:09 |
-| [TIBCO FTL ftlserver access control](https://vuldb.com/?id.206010) | Visit link for details | 2022-08-09 at 23:09 |
-| [Microsoft Visual Studio Remote Code Execution](https://vuldb.com/?id.206009) | Visit link for details | 2022-08-09 at 22:58 |
-| [Microsoft Visual Studio Remote Code Execution](https://vuldb.com/?id.206008) | Visit link for details | 2022-08-09 at 22:58 |
-| [Microsoft Visual Studio Remote Code Execution](https://vuldb.com/?id.206007) | Visit link for details | 2022-08-09 at 22:57 |
-| [Microsoft Azure Site Recovery VMWare to Azure Privilege Escalation](https://vuldb.com/?id.206006) | Visit link for details | 2022-08-09 at 22:57 |
-| [Microsoft Azure Sphere information disclosure](https://vuldb.com/?id.206005) | Visit link for details | 2022-08-09 at 22:56 |
-| [Microsoft Windows Bluetooth Driver Privilege Escalation](https://vuldb.com/?id.206004) | Visit link for details | 2022-08-09 at 22:56 |
-| [Microsoft Azure Site Recovery VMWare to Azure Privilege Escalation](https://vuldb.com/?id.206003) | Visit link for details | 2022-08-09 at 22:55 |
-| [Microsoft Azure Site Recovery VMWare to Azure Privilege Escalation](https://vuldb.com/?id.206002) | Visit link for details | 2022-08-09 at 22:55 |
+| [SourceCodester Company Website CMS add-portfolio.php unrestricted upload](https://vuldb.com/?id.206024) | Visit link for details | 2022-08-10 at 08:23 |
+| [Dell BIOS improper authentication](https://vuldb.com/?id.206023) | Visit link for details | 2022-08-10 at 08:22 |
+| [SourceCodester Company Website CMS Add Service add-service.php unrestricted upload](https://vuldb.com/?id.206022) | Visit link for details | 2022-08-10 at 08:17 |
+| [Atlassian Jira Server/Jira Data Center TeamManagement.jspa cross site scripting](https://vuldb.com/?id.206021) | Visit link for details | 2022-08-10 at 07:58 |
+| [SourceCodester Gym Management System unrestricted upload](https://vuldb.com/?id.206017) | Visit link for details | 2022-08-10 at 07:39 |
+| [Microsoft Microsoft Edge Remote Code Execution](https://vuldb.com/?id.206020) | Visit link for details | 2022-08-10 at 07:38 |
+| [Microsoft Microsoft Edge Remote Code Execution](https://vuldb.com/?id.206019) | Visit link for details | 2022-08-10 at 07:37 |
+| [Microsoft Microsoft Edge Remote Code Execution](https://vuldb.com/?id.206018) | Visit link for details | 2022-08-10 at 07:36 |
+| [SourceCodester Simple Online Book Store System edit.php cross site scripting](https://vuldb.com/?id.206016) | Visit link for details | 2022-08-10 at 07:36 |
+| [SourceCodester Simple Online Book Store book.php sql injection](https://vuldb.com/?id.206015) | Visit link for details | 2022-08-10 at 07:34 |
 ---
 ### MA-CERT [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
