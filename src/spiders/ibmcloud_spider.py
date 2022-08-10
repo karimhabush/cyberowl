@@ -13,7 +13,7 @@ class IBMCloudSpider(scrapy.Spider):
     """
 
     name = "IBMCLOUD"
-    max_bulletins = 7
+    max_bulletins = 6
     start_urls = [
         "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities"
     ]
