@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 ## CyberOwl 
-> Last Updated 10/08/2022 21:14:44 UTC 
+> Last Updated 11/08/2022 09:14:30 UTC 
 
 A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
 
@@ -20,17 +20,6 @@ A daily updated summary of the most frequent types of security incidents current
 
 > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
 
----
-### IBMCloud [:arrow_heading_up:](#cyberowl)
-|Title|Description|Date|
-|---|---|---|
-| [jeecg-boot file upload (CVE-2022-2647)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 10, 2022 |
-| [Private Cloud Management Platform security bypass (CVE-2022-2664)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 10, 2022 |
-| [Sourcecodester Simple E-Learning System SQL injection (CVE-2022-2665)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 10, 2022 |
-| [Sourcecodester Loan Management System SQL injection (CVE-2022-2667)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 10, 2022 |
-| [Sourcecodester Garage Management System SQL injection (CVE-2022-2671)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 10, 2022 |
-| [Sourcecodester Garage Management System SQL injection (CVE-2022-2672)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 10, 2022 |
-| [Rigatur Online Booking and Hotel Management System SQL injection (CVE-2022-2673)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 10, 2022 |
 ---
 ### US-CERT [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
@@ -56,18 +45,6 @@ A daily updated summary of the most frequent types of security incidents current
 | [Multiples vulnérabilités dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-724/) | De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à la confidentialité des données et une élévation de privilèges. | 10 août 2022 |
 | [Multiples vulnérabilités dans IBM MQ](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-723/) | De multiples vulnérabilités ont été découvertes dans IBM MQ Operator et IBM MQ Advanced. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et un contournement de la politique de sécurité. | 10 août 2022 |
 ---
-### ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
-|Title|Description|Date|
-|---|---|---|
-| [OPC Foundation UA .NET Standard BrowseRequest Missing Authentication Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1064/) | Visit link for details | Aug. 5, 2022 |
-| [Foxit PDF Reader AcroForm deletePages Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1063/) | Visit link for details | Aug. 5, 2022 |
-| [Foxit PDF Reader AcroForm deletePages Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1062/) | Visit link for details | Aug. 5, 2022 |
-| [Foxit PDF Reader AcroForm Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1061/) | Visit link for details | Aug. 5, 2022 |
-| [Foxit PDF Reader PDF File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1060/) | Visit link for details | Aug. 5, 2022 |
-| [Foxit PDF Reader AcroForm deletePages Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1059/) | Visit link for details | Aug. 5, 2022 |
-| [Foxit PDF Reader AcroForm resetForm Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1058/) | Visit link for details | Aug. 5, 2022 |
-| [Foxit PDF Reader Doc Object Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1057/) | Visit link for details | Aug. 5, 2022 |
----
 ### OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
@@ -81,6 +58,17 @@ A daily updated summary of the most frequent types of security incidents current
 | [<a href="https://vigilance.fr/vulnerability/Adobe-Acrobat-Reader-multiple-vulnerabilities-39039" class="noirorange"><b>Adobe Acrobat/Reader</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Adobe-Acrobat-Reader-multiple-vulnerabilities-39039) | An attacker can use several vulnerabilities of Adobe Acrobat/Reader... | Visit link for details |
 | [<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-gre-handle-offloads-39037" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via <wbr>gre_handle_offloads(<wbr>)</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-gre-handle-offloads-39037) | An attacker can force a read at an invalid memory address of the Linux kernel, via  | Visit link for details |
 | [<a href="https://vigilance.fr/vulnerability/Intel-Processor-information-disclosure-via-Shared-Resources-39036" class="noirorange"><b>Intel Processor</b>: information disclosure via Shared Resources</a>](https://vigilance.fr/vulnerability/Intel-Processor-information-disclosure-via-Shared-Resources-39036) | An attacker can bypass access restrictions to data of Intel Processor, via Shared Resources, in order to read sensitive information... | Visit link for details |
+---
+### IBMCloud [:arrow_heading_up:](#cyberowl)
+|Title|Description|Date|
+|---|---|---|
+| [Palo Alto Networks PAN-OS denial of service (CVE-2022-0028)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 10, 2022 |
+| [Zimbra privilege escalation (CVE-2022-37393)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 10, 2022 |
+| [Cisco Adaptive Security Appliance Software and Firepower Threat Defense Software information disclosure (CVE-2022-20866)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 10, 2022 |
+| [Cisco Adaptive Security Appliance Software HTTP request smuggling (CVE-2022-20713)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 10, 2022 |
+| [Sourcecodester Best Fee Management System SQL injection (CVE-2022-2674)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 10, 2022 |
+| [jeecg-boot file upload (CVE-2022-2647)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 10, 2022 |
+| [Private Cloud Management Platform security bypass (CVE-2022-2664)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 10, 2022 |
 ---
 ### MA-CERT [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
@@ -98,16 +86,14 @@ A daily updated summary of the most frequent types of security incidents current
 | [37510408/22 - Mises à jour de sécurité pour des produits de Fortinet ](https://www.dgssi.gov.ma/fr/content/3751040822-mises-jour-de-securite-pour-des-produits-de-fortinet.html) | Fortinet annonce la disponibilité de mises à jour de sécurité permettant la correctiondetrois vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peut permettre à un attaquant distant d’... | 04 août 2022 |
 | [37500408/22 - Vulnérabilités affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma/fr/content/3750040822-vulnerabilites-affectant-le-navigateur-google-chrome.html) | Google vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilitésaffectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre à un attaquant de causer des problèmes non... | 04 août 2022 |
 ---
-### VulDB [:arrow_heading_up:](#cyberowl)
+### ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
-| [Siemens Teamcenter File Server Cache Service infinite loop](https://vuldb.com/?id.206048) | Visit link for details | 2022-08-10 at 18:26 |
-| [Siemens Simcenter STAR-CCM+ Display Name information disclosure](https://vuldb.com/?id.206047) | Visit link for details | 2022-08-10 at 18:25 |
-| [Siemens CP-8000 MASTER MODULE Web Server Module access control](https://vuldb.com/?id.206046) | Visit link for details | 2022-08-10 at 18:25 |
-| [Siemens SCALANCE XR-500 Web Interface cross site scripting](https://vuldb.com/?id.206045) | Visit link for details | 2022-08-10 at 18:24 |
-| [Siemens SCALANCE XR-500 SSL allocation of resources](https://vuldb.com/?id.206044) | Visit link for details | 2022-08-10 at 18:23 |
-| [Siemens SCALANCE XR-500 injection](https://vuldb.com/?id.206043) | Visit link for details | 2022-08-10 at 16:57 |
-| [Siemens Teamcenter File Server Cache Service command injection](https://vuldb.com/?id.206042) | Visit link for details | 2022-08-10 at 16:55 |
-| [ClamAV Antivirus Regex Module out-of-bounds](https://vuldb.com/?id.206041) | Visit link for details | 2022-08-10 at 15:14 |
-| [KUKA V-KSS Robot Configuration missing authentication](https://vuldb.com/?id.206040) | Visit link for details | 2022-08-10 at 15:01 |
-| [mc-kill-port kill Local Privilege Escalation](https://vuldb.com/?id.206039) | Visit link for details | 2022-08-10 at 15:00 |
+| [OPC Foundation UA .NET Standard BrowseRequest Missing Authentication Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1064/) | Visit link for details | Aug. 5, 2022 |
+| [Foxit PDF Reader AcroForm deletePages Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1063/) | Visit link for details | Aug. 5, 2022 |
+| [Foxit PDF Reader AcroForm deletePages Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1062/) | Visit link for details | Aug. 5, 2022 |
+| [Foxit PDF Reader AcroForm Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1061/) | Visit link for details | Aug. 5, 2022 |
+| [Foxit PDF Reader PDF File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1060/) | Visit link for details | Aug. 5, 2022 |
+| [Foxit PDF Reader AcroForm deletePages Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1059/) | Visit link for details | Aug. 5, 2022 |
+| [Foxit PDF Reader AcroForm resetForm Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1058/) | Visit link for details | Aug. 5, 2022 |
+| [Foxit PDF Reader Doc Object Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1057/) | Visit link for details | Aug. 5, 2022 |
