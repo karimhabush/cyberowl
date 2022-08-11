@@ -1,9 +1,8 @@
 from datetime import datetime, timezone
 
+import settings as cyberowl_settings
 from scrapy.crawler import CrawlerProcess
 from scrapy.settings import Settings
-
-import settings as cyberowl_settings
 from spiders.cert_fr_spider import CertFRSpider
 from spiders.cisa_spider import CisaSpider
 from spiders.ibmcloud_spider import IBMCloudSpider

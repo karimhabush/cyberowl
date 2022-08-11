@@ -3,7 +3,6 @@ This spider is used to scrape alerts from the following source:
 https://www.dgssi.gov.ma/fr/macert/bulletins-de-securite.html
 """
 import scrapy
-
 from items import AlertItem
 
 

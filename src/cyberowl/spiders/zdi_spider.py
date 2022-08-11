@@ -1,10 +1,9 @@
 import scrapy
+from items import AlertItem
 from msedge.selenium_tools import Edge, EdgeOptions
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
-
-from items import AlertItem
 
 
 class ZDISpider(scrapy.Spider):

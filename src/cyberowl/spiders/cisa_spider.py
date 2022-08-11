@@ -1,5 +1,4 @@
 import scrapy
-
 from items import AlertItem
 
 
