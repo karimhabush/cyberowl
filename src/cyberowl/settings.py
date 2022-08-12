@@ -21,3 +21,5 @@ CONCURRENT_REQUESTS = 16
 ITEM_PIPELINES = {
     "pipelines.AlertPipeline": 300,
 }
+
+OUTPUT_FILE = "README.md"

@@ -25,7 +25,9 @@ class ZDISpider(scrapy.Spider):
         options.use_chromium = True
         options.add_argument("headless")
         options.add_argument("disable-gpu")
-        self.driver = Edge(executable_path="./src/msedgedriver.exe", options=options)
+        self.driver = Edge(
+            executable_path="./src/cyberowl/msedgedriver.exe", options=options
+        )
 
     def _wait_until_website_is_ready(self) -> None:
         wait = WebDriverWait(self.driver, 5)

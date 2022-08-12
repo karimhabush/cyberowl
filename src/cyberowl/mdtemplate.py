@@ -1,38 +1,92 @@
 """
-Contains the MDTemplate class. This class is used to
-create a Markdown template used to generate a Markdown table.
+Contains the CyberOwlReadmeGenerator class. This class is used to
+to generate the readme markdown file.
 """
 
 
-class Template:
+class MDTemplate:
     """
-    This class is used to format the data into a table in markdown format.
+    Generates the readme file.
     """
 
-    source: str
-    data: list
+    filename: str
+    buffer: str = ""
 
-    def __init__(self, _source, _data):
-        self.source = _source
-        self.data = _data
+    def __init__(self, filename: str, buffer: str = "") -> None:
+        self.buffer = buffer
+        self.filename = filename
 
-    def _set_heading(self):
-        return f"""---\n### {self.source} [:arrow_heading_up:](#cyberowl)\n"""
+    # @property
+    # def filename(self)-> str:
+    #     """
+    #         Returns the filename.
+    #     """
+    #     return self.filename
 
-    def _set_table_headers(self):
-        return """|Title|Description|Date|\n|---|---|---|\n"""
+    # @property
+    # def buffer(self) -> str:
+    #     """
+    #         Returns the buffer
+    #     """
+    #     return self.buffer
 
-    def _set_table_content(self, title, link, description, date):
-        return f"""| [{title}]({link}) | {description} | {date} |\n"""
+    def new_line(self, text="") -> str:
+        """
+        Linebreak then adds the text if given.
+        """
+        self.buffer = f"{self.buffer}\n {text}"
 
-    def fill_table(self) -> str:
+    def new_header(self, level, text) -> str:
+        """
+        Adds a new header of given level number.
+        """
+        if level == 1:
+            self.buffer = f"{self.buffer}\n\n# {text}\n"
+        elif level == 2:
+            self.buffer = f"{self.buffer}\n\n## {text}\n"
+        elif level == 3:
+            self.buffer = f"{self.buffer}\n\n### {text}\n"
+        elif level == 4:
+            self.buffer = f"{self.buffer}\n\n#### {text}\n"
+        else:
+            self.buffer = f"{self.buffer}\n\n{text}\n"
+
+    def generate_table(self, data: list) -> None:
         """
         Returns a table ready to be written to a file.
+        Args:
+            data: A list of lists. The first list is the headers, and the rest are the rows.
+            for e.g.
+            [
+                ['Title','Description','Date'],
+                ['Title1','Description1','Date1'],
+                ['Title2','Description2','Date2']
+            ]
         """
-        table = self._set_heading()
-        table += self._set_table_headers()
-        for row in self.data:
-            table += self._set_table_content(
-                row["title"], row["link"], row["description"], row["date"]
-            )
-        return table
+        for idx, item in enumerate(data):
+            row = "|"
+            separator = "|"
+
+            # Generate the headers row
+            if idx == 0:
+                for col in item:
+                    row += f"{col}|"
+                    separator += "---|"
+                self.new_line(row)
+                self.new_line(separator)
+                continue
+
+            # Generate the content row
+            for col in item:
+                row += f"{col}|"
+            self.new_line(row)
+
+    def create_md_file(self) -> None:
+        """
+        Creates a markdown file. This is the final method to be called.
+        Args:
+            filename: The name of the file to be created.
+        """
+        with open(self.filename, "w", encoding="utf-8") as file:
+            file.write(self.buffer)
+            file.close()

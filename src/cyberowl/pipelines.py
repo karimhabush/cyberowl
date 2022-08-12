@@ -1,7 +1,7 @@
 """
     Pipelines for cyberowl scraper.
 """
-from mdtemplate import Template
+from cyberowl.utils import generate_alerts_table
 
 
 class AlertPipeline:
@@ -29,7 +29,7 @@ class AlertPipeline:
         """
         Open spider
         """
-        self.items = []
+        self.items = [["Title", "Description", "Date"]]
 
     def process_item(self, item, *args, **kwargs):
         """
@@ -40,13 +40,12 @@ class AlertPipeline:
         item["date"] = self.remove_special_characters(item["date"])
         item["description"] = self.remove_special_characters(item["description"])
 
-        self.items.append(item)
+        self.items.append(
+            [f"[{item['title']}]({item['link']})", item["description"], item["date"]]
+        )
 
     def close_spider(self, spider):
         """
         Close spider
         """
-        to_write = Template(spider.name, self.items)
-        with open("README.md", "a", encoding="utf-8") as file:
-            file.write(to_write.fill_table())
-            file.close()
+        generate_alerts_table(spider.name, self.items)
