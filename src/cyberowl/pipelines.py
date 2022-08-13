@@ -11,7 +11,12 @@ class AlertPipeline:
         items : list of items.
     """
 
-    items: list = []
+    def __init__(self, items: list = []):
+        self.__items = items
+
+    @property
+    def items(self):
+        return self.__items
 
     def remove_special_characters(self, text):
         """
@@ -29,7 +34,7 @@ class AlertPipeline:
         """
         Open spider
         """
-        self.items = [["Title", "Description", "Date"]]
+        self.__items = [["Title", "Description", "Date"]]
 
     def process_item(self, item, *args, **kwargs):
         """
@@ -40,7 +45,7 @@ class AlertPipeline:
         item["date"] = self.remove_special_characters(item["date"])
         item["description"] = self.remove_special_characters(item["description"])
 
-        self.items.append(
+        self.__items.append(
             [f"[{item['title']}]({item['link']})", item["description"], item["date"]]
         )
 
@@ -48,4 +53,4 @@ class AlertPipeline:
         """
         Close spider
         """
-        generate_alerts_table(spider.name, self.items)
+        generate_alerts_table(spider.name, self.__items)
