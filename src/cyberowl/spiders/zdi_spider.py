@@ -30,6 +30,9 @@ class ZDISpider(scrapy.Spider):
         )
 
     def _wait_until_website_is_ready(self) -> None:
+        """
+        Wait until website is ready.
+        """
         wait = WebDriverWait(self.driver, 5)
         wait.until(
             EC.presence_of_element_located(

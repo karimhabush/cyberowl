@@ -9,47 +9,44 @@ class MDTemplate:
     Generates the readme file.
     """
 
-    filename: str
-    buffer: str = ""
-
     def __init__(self, filename: str, buffer: str = "") -> None:
-        self.buffer = buffer
-        self.filename = filename
+        self.__filename = filename
+        self.__buffer = buffer
 
-    # @property
-    # def filename(self)-> str:
-    #     """
-    #         Returns the filename.
-    #     """
-    #     return self.filename
+    @property
+    def filename(self) -> str:
+        """
+        Returns the filename.
+        """
+        return self.__filename
 
-    # @property
-    # def buffer(self) -> str:
-    #     """
-    #         Returns the buffer
-    #     """
-    #     return self.buffer
+    @property
+    def buffer(self) -> str:
+        """
+        Returns the buffer
+        """
+        return self.__buffer
 
     def new_line(self, text="") -> str:
         """
         Linebreak then adds the text if given.
         """
-        self.buffer = f"{self.buffer}\n {text}"
+        self.__buffer = f"{self.buffer}\n {text}"
 
     def new_header(self, level, text) -> str:
         """
         Adds a new header of given level number.
         """
         if level == 1:
-            self.buffer = f"{self.buffer}\n\n# {text}\n"
+            self.__buffer = f"{self.buffer}\n\n# {text}\n"
         elif level == 2:
-            self.buffer = f"{self.buffer}\n\n## {text}\n"
+            self.__buffer = f"{self.buffer}\n\n## {text}\n"
         elif level == 3:
-            self.buffer = f"{self.buffer}\n\n### {text}\n"
+            self.__buffer = f"{self.buffer}\n\n### {text}\n"
         elif level == 4:
-            self.buffer = f"{self.buffer}\n\n#### {text}\n"
+            self.__buffer = f"{self.buffer}\n\n#### {text}\n"
         else:
-            self.buffer = f"{self.buffer}\n\n{text}\n"
+            self.__buffer = f"{self.buffer}\n\n{text}\n"
 
     def generate_table(self, data: list) -> None:
         """
