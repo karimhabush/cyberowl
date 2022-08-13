@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 ## CyberOwl 
-> Last Updated 12/08/2022 21:15:26 UTC 
+> Last Updated 13/08/2022 09:15:25 UTC 
 
 A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
 
@@ -21,6 +21,17 @@ A daily updated summary of the most frequent types of security incidents current
 > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
 
 ---
+### IBMCloud [:arrow_heading_up:](#cyberowl)
+|Title|Description|Date|
+|---|---|---|
+| [Readymade Job Portal Script salary_to SQL injection](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 12, 2022 |
+| [Gas Agency Management System upload file upload](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 12, 2022 |
+| [Gas Agency Management System address cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 12, 2022 |
+| [Gas Agency Management System username SQL injection](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 12, 2022 |
+| [Emerson ROC800, ROC800L and DL8000 security bypass (CVE-2022-30264)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 11, 2022 |
+| [Gumstix Overo SBC on the VSKS board security bypass (CVE-2022-38161)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 11, 2022 |
+| [Fiberhome AN5506-02-B cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 10, 2022 |
+---
 ### US-CERT [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
@@ -31,16 +42,19 @@ A daily updated summary of the most frequent types of security incidents current
 | [CISA Releases Cybersecurity Toolkit to Protect U.S. Elections ](https://www.cisa.gov/uscert/ncas/current-activity/2022/08/10/cisa-releases-cybersecurity-toolkit-protect-us-elections) | <p>CISAâ€”through the <a href="https://www.cisa.gov/jcdc">Joint Cyber Defense Collaborative (JCDC)</a>â€”has released a toolkit of free cybersecurity resources for the election community. The toolkit aims to help state and local government officials, election officials, and vendors enhance the cybersecurity and cyber resilience of U.S. election infrastructure.</p> | Wednesday, August 10, 2022 |
 | [Microsoft Releases August 2022 Security Updates](https://www.cisa.gov/uscert/ncas/current-activity/2022/08/09/microsoft-releases-august-2022-security-updates) | <p>Microsoft has released updates to address multiple vulnerabilities in Microsoft software. An attacker can exploit some of these vulnerabilities to take control of an affected system.</p> | Tuesday, August 9, 2022 |
 ---
-### IBMCloud [:arrow_heading_up:](#cyberowl)
+### VulDB [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
-| [Readymade Job Portal Script salary_to SQL injection](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 12, 2022 |
-| [Gas Agency Management System address cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 12, 2022 |
-| [Gas Agency Management System username SQL injection](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 12, 2022 |
-| [Emerson ROC800, ROC800L and DL8000 security bypass (CVE-2022-30264)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 11, 2022 |
-| [Gumstix Overo SBC on the VSKS board security bypass (CVE-2022-38161)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 11, 2022 |
-| [Fiberhome AN5506-02-B cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 10, 2022 |
-| [jQuery UI Checkboxradio module for Drupal cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 10, 2022 |
+| [CodeIgniter Shield cross-site request forgery](https://vuldb.com/?id.206396) | Visit link for details | 2022-08-13 at 07:54 |
+| [Camilova activerecord-update-by-case Base sql injection](https://vuldb.com/?id.206395) | Visit link for details | 2022-08-13 at 07:53 |
+| [undici undici.request server-side request forgery](https://vuldb.com/?id.206394) | Visit link for details | 2022-08-13 at 07:52 |
+| [Gitea Issue access control](https://vuldb.com/?id.206393) | Visit link for details | 2022-08-13 at 07:52 |
+| [OpenSearch Security Advanced Access Control unknown vulnerability](https://vuldb.com/?id.206392) | Visit link for details | 2022-08-13 at 07:51 |
+| [BookWyrm Link redirect](https://vuldb.com/?id.206391) | Visit link for details | 2022-08-13 at 07:49 |
+| [Esri ArcReader File out-of-bounds](https://vuldb.com/?id.206390) | Visit link for details | 2022-08-13 at 07:47 |
+| [Esri ArcReader File use after free](https://vuldb.com/?id.206389) | Visit link for details | 2022-08-13 at 07:47 |
+| [Esri ArcReader File out-of-bounds](https://vuldb.com/?id.206388) | Visit link for details | 2022-08-13 at 07:46 |
+| [loopback-connector-postgresql sql injection](https://vuldb.com/?id.206387) | Visit link for details | 2022-08-13 at 07:45 |
 ---
 ### CERT-FR [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
@@ -70,19 +84,21 @@ A daily updated summary of the most frequent types of security incidents current
 | [<a href="https://vigilance.fr/vulnerability/Moment-js-overload-via-string-to-date-39040" class="noirorange"><b>Moment.js</b>: overload via string-to-date</a>](https://vigilance.fr/vulnerability/Moment-js-overload-via-string-to-date-39040) | An attacker can trigger an overload of Moment.js, via string-to-date, in order to trigger a denial of service... | Visit link for details |
 | [<a href="https://vigilance.fr/vulnerability/Adobe-Acrobat-Reader-multiple-vulnerabilities-39039" class="noirorange"><b>Adobe Acrobat/Reader</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Adobe-Acrobat-Reader-multiple-vulnerabilities-39039) | An attacker can use several vulnerabilities of Adobe Acrobat/Reader... | Visit link for details |
 ---
-### VulDB [:arrow_heading_up:](#cyberowl)
+### MA-CERT [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
-| [Google Android Settings access control](https://vuldb.com/?id.206362) | Visit link for details | 2022-08-12 at 21:44 |
-| [Google Android Settings permission](https://vuldb.com/?id.206361) | Visit link for details | 2022-08-12 at 21:43 |
-| [ForkCMS cross site scripting](https://vuldb.com/?id.206360) | Visit link for details | 2022-08-12 at 21:42 |
-| [ForkCMS cross site scripting](https://vuldb.com/?id.206359) | Visit link for details | 2022-08-12 at 21:42 |
-| [Synacor Zimbra Collaboration Suite cross site scripting](https://vuldb.com/?id.206358) | Visit link for details | 2022-08-12 at 21:42 |
-| [Google Android Core Utilities input validation](https://vuldb.com/?id.206357) | Visit link for details | 2022-08-12 at 21:41 |
-| [Google Android Wifi Slice permission](https://vuldb.com/?id.206356) | Visit link for details | 2022-08-12 at 21:41 |
-| [Google Android Framework improper restriction of rendered ui layers](https://vuldb.com/?id.206355) | Visit link for details | 2022-08-12 at 21:40 |
-| [Google Android Wifi permission](https://vuldb.com/?id.206354) | Visit link for details | 2022-08-12 at 21:40 |
-| [Google Android DreamServices Local Privilege Escalation](https://vuldb.com/?id.206353) | Visit link for details | 2022-08-12 at 21:40 |
+| [37781208/22 - Vulnérabilités dans les produits Siemens](https://www.dgssi.gov.ma/fr/content/3778120822-vulnerabilites-dans-les-produits-siemens.html) | Plusieurs vulnérabilités ont été corrigées dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à dis-tance, réussir une élévation de privilèges, causer un... | 12 août 2022 |
+| [37771208/22 - Vulnérabilités dans les produits SonicWall](https://www.dgssi.gov.ma/fr/content/3777120822-vulnerabilites-dans-les-produits-sonicwall.html) | Deux vulnérabilités ont été corrigées dans les produits SonicWall susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de réussir une élévation de privilèges et de porter atteinteà la confidentialité des données. | 12 août 2022 |
+| [37761208/22 - Vulnérabilité dans les produits Palo Alto ](https://www.dgssi.gov.ma/fr/content/3776120822-vulnerabilite-dans-les-produits-palo-alto.html) | Une vulnérabilité a été corrigée dans les produits Palo Alto susmentionnés. L'exploitation de cette faille pourrait permettre à un attaquant de causer un déni de service. | 12 août 2022 |
+| [37751108/22 - Vulnérabilités dans les produits SAP](https://www.dgssi.gov.ma/fr/content/3775110822-vulnerabilites-dans-les-produits-sap.html) | SAP annonce la disponibilité d’une mise à jour de sécurité corrigeant plusieurs vulnérabilités affectant les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la confidentialité de... | 11 août 2022 |
+| [37731108/22 - Vulnérabilités dansles produits Intel](https://www.dgssi.gov.ma/fr/content/3773110822-vulnerabilites-dans-les-produits-intel.html) | Intel a publié une mise à jour de sécurité corrigeant plusieurs vulnérabilités recensées dans les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de porter atteinte à la confidentialité de données... | 11 août 2022 |
+| [37741108/22 - Vulnérabilités dans les produits Cisco](https://www.dgssi.gov.ma/fr/content/3774110822-vulnerabilites-dans-les-produits-cisco.html) | Plusieurs vulnérabilités ont été corrigées dans les produits Cisco susmentionnés. L’exploitation de ces failles permet à un attaquant d’exécuter du code arbitraire, de causer un déni de service, de porter atteinte aux informations... | 11 août 2022 |
+| [37721108/22 - Exploitation massive de la vulnérabilité CVE-2022-34713 affectant Windows MSDT](https://www.dgssi.gov.ma/fr/content/3772110822-exploitation-massive-de-la-vulnerabilite-cve-2022-34713-affectant-windows-msdt.html) | Une compagne d’attaque a été détectée exploitant activement une vulnérabilité d’exécution du code à distance (CVE-2022-34713) dans l'outil de diagnostic du support Microsoft Windows (MSDT).Une exploitation réussie de cette... | 11 août 2022 |
+| [37711008/22 - Vulnérabilités critiques dans les produits Adobe](https://www.dgssi.gov.ma/fr/content/3771100822-vulnerabilites-critiques-dans-les-produits-adobe.html) | Plusieurs vulnérabilités ont été corrigées dans les produits Adobe susmentionnés. Un attaquant distant pourrait exploiter certaines de ces vulnérabilités pour prendre le contrôle du système, exécuter du code arbitraire à distance, élever... | 10 août 2022 |
+| [37701008/22 - Vulnérabilités critiques dans les produits VMware](https://www.dgssi.gov.ma/fr/content/3770100822-vulnerabilites-critiques-dans-les-produits-vmware.html) | VMware annonce la correction de plusieurs vulnérabilités critiques affectant les produits susmentionnés. L’exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’exécuter du code arbitraire, de divulguer des... | 10 août 2022 |
+| [37691008/22 - Vulnérabilités dans plusieurs produits Microsoft(Patch Tuesday Aout 2022)](https://www.dgssi.gov.ma/fr/content/3769100822-vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-aout-2022.html) | Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, de porter atteinte aux... | 10 août 2022 |
+| [37671008/22 - Vulnérabilités critiques dans les produits Microsoft Azure (Patch Tuesday Aout 2022)](https://www.dgssi.gov.ma/fr/content/3767100822-vulnerabilites-critiques-dans-les-produits-microsoft-azure-patch-tuesday-aout-2022.html) | Plusieurs vulnérabilités critiques ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant d’exécuter du code arbitraire à distance, de porter atteinte aux informations confidentielles... | 10 août 2022 |
+| [37581008/22 - Vulnérabilités dans Microsoft Exchange Server (Patch Tuesday Aout 2022)](https://www.dgssi.gov.ma/fr/content/3758100822-vulnerabilites-dans-microsoft-exchange-server-patch-tuesday-aout-2022.html) | Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les versions susmentionnées de Microsoft Exchange Server. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de... | 10 août 2022 |
 ---
 ### ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
@@ -95,19 +111,3 @@ A daily updated summary of the most frequent types of security incidents current
 | [Foxit PDF Reader AcroForm deletePages Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1059/) | Visit link for details | Aug. 5, 2022 |
 | [Foxit PDF Reader AcroForm resetForm Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1058/) | Visit link for details | Aug. 5, 2022 |
 | [Foxit PDF Reader Doc Object Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1057/) | Visit link for details | Aug. 5, 2022 |
----
-### MA-CERT [:arrow_heading_up:](#cyberowl)
-|Title|Description|Date|
-|---|---|---|
-| [37781208/22 - Vulnérabilités dans les produits Siemens](https://www.dgssi.gov.ma/fr/content/3778120822-vulnerabilites-dans-les-produits-siemens.html) | Plusieurs vulnérabilités ont été corrigées dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à dis-tance, réussir une élévation de privilèges, causer un... | 12 août 2022 |
-| [37771208/22 - Vulnérabilités dans les produits SonicWall](https://www.dgssi.gov.ma/fr/content/3777120822-vulnerabilites-dans-les-produits-sonicwall.html) | Deux vulnérabilités ont été corrigées dans les produits SonicWall susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de réussir une élévation de privilèges et de porter atteinteà la confidentialité des données. | 12 août 2022 |
-| [37761208/22 - Vulnérabilité dans les produits Palo Alto ](https://www.dgssi.gov.ma/fr/content/3776120822-vulnerabilite-dans-les-produits-palo-alto.html) | Une vulnérabilité a été corrigée dans les produits Palo Alto susmentionnés. L'exploitation de cette faille pourrait permettre à un attaquant de causer un déni de service. | 12 août 2022 |
-| [37751108/22 - Vulnérabilités dans les produits SAP](https://www.dgssi.gov.ma/fr/content/3775110822-vulnerabilites-dans-les-produits-sap.html) | SAP annonce la disponibilité d’une mise à jour de sécurité corrigeant plusieurs vulnérabilités affectant les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la confidentialité de... | 11 août 2022 |
-| [37741108/22 - Vulnérabilités dans les produits Cisco](https://www.dgssi.gov.ma/fr/content/3774110822-vulnerabilites-dans-les-produits-cisco.html) | Plusieurs vulnérabilités ont été corrigées dans les produits Cisco susmentionnés. L’exploitation de ces failles permet à un attaquant d’exécuter du code arbitraire, de causer un déni de service, de porter atteinte aux informations... | 11 août 2022 |
-| [37731108/22 - Vulnérabilités dansles produits Intel](https://www.dgssi.gov.ma/fr/content/3773110822-vulnerabilites-dans-les-produits-intel.html) | Intel a publié une mise à jour de sécurité corrigeant plusieurs vulnérabilités recensées dans les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de porter atteinte à la confidentialité de données... | 11 août 2022 |
-| [37721108/22 - Exploitation massive de la vulnérabilité CVE-2022-34713 affectant Windows MSDT](https://www.dgssi.gov.ma/fr/content/3772110822-exploitation-massive-de-la-vulnerabilite-cve-2022-34713-affectant-windows-msdt.html) | Une compagne d’attaque a été détectée exploitant activement une vulnérabilité d’exécution du code à distance (CVE-2022-34713) dans l'outil de diagnostic du support Microsoft Windows (MSDT).Une exploitation réussie de cette... | 11 août 2022 |
-| [37711008/22 - Vulnérabilités critiques dans les produits Adobe](https://www.dgssi.gov.ma/fr/content/3771100822-vulnerabilites-critiques-dans-les-produits-adobe.html) | Plusieurs vulnérabilités ont été corrigées dans les produits Adobe susmentionnés. Un attaquant distant pourrait exploiter certaines de ces vulnérabilités pour prendre le contrôle du système, exécuter du code arbitraire à distance, élever... | 10 août 2022 |
-| [37701008/22 - Vulnérabilités critiques dans les produits VMware](https://www.dgssi.gov.ma/fr/content/3770100822-vulnerabilites-critiques-dans-les-produits-vmware.html) | VMware annonce la correction de plusieurs vulnérabilités critiques affectant les produits susmentionnés. L’exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’exécuter du code arbitraire, de divulguer des... | 10 août 2022 |
-| [37691008/22 - Vulnérabilités dans plusieurs produits Microsoft(Patch Tuesday Aout 2022)](https://www.dgssi.gov.ma/fr/content/3769100822-vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-aout-2022.html) | Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, de porter atteinte aux... | 10 août 2022 |
-| [37671008/22 - Vulnérabilités critiques dans les produits Microsoft Azure (Patch Tuesday Aout 2022)](https://www.dgssi.gov.ma/fr/content/3767100822-vulnerabilites-critiques-dans-les-produits-microsoft-azure-patch-tuesday-aout-2022.html) | Plusieurs vulnérabilités critiques ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant d’exécuter du code arbitraire à distance, de porter atteinte aux informations confidentielles... | 10 août 2022 |
-| [37581008/22 - Vulnérabilités dans Microsoft Exchange Server (Patch Tuesday Aout 2022)](https://www.dgssi.gov.ma/fr/content/3758100822-vulnerabilites-dans-microsoft-exchange-server-patch-tuesday-aout-2022.html) | Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les versions susmentionnées de Microsoft Exchange Server. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de... | 10 août 2022 |
