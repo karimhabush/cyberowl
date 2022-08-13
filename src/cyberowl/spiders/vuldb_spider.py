@@ -1,3 +1,5 @@
+from datetime import date
+
 import scrapy
 from items import AlertItem
 
@@ -35,7 +37,9 @@ class VulDBSpider(scrapy.Spider):
             item["link"] = (
                 "https://vuldb.com/" + bulletin.xpath(self.link_selector).get()
             )
-            item["date"] = bulletin.xpath(self.date_selector).get()
+            item["date"] = (
+                str(date.today()) + " at " + bulletin.xpath(self.date_selector).get()
+            )
             item["description"] = "Visit link for details"
 
             yield item

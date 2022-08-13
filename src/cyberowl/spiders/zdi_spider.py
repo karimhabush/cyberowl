@@ -58,7 +58,7 @@ class ZDISpider(scrapy.Spider):
             item["link"] = bulletin.find_element_by_xpath(
                 self.link_selector
             ).get_attribute("href")
-            item["date"] = bulletin.find_element_by_xpath(self.title_selector).text
+            item["date"] = bulletin.find_element_by_xpath(self.date_selector).text
             item["title"] = bulletin.find_element_by_xpath(self.link_selector).text
             item["description"] = "Visit link for details"
 
