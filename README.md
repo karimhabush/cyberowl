@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 ## CyberOwl 
-> Last Updated 13/08/2022 21:12:35 UTC 
+> Last Updated 14/08/2022 09:14:04 UTC 
 
 A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
 
@@ -42,18 +42,6 @@ A daily updated summary of the most frequent types of security incidents current
 | [Gas Agency Management System username SQL injection](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 12, 2022 |
 | [Neo4j APOC (Awesome Procedures on Cypher) directory traversal (CVE-2022-37423)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 11, 2022 |
 ---
-### ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
-|Title|Description|Date|
-|---|---|---|
-| [OPC Foundation UA .NET Standard BrowseRequest Missing Authentication Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1064/) | Visit link for details | Aug. 5, 2022 |
-| [Foxit PDF Reader AcroForm deletePages Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1063/) | Visit link for details | Aug. 5, 2022 |
-| [Foxit PDF Reader AcroForm deletePages Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1062/) | Visit link for details | Aug. 5, 2022 |
-| [Foxit PDF Reader AcroForm Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1061/) | Visit link for details | Aug. 5, 2022 |
-| [Foxit PDF Reader PDF File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1060/) | Visit link for details | Aug. 5, 2022 |
-| [Foxit PDF Reader AcroForm deletePages Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1059/) | Visit link for details | Aug. 5, 2022 |
-| [Foxit PDF Reader AcroForm resetForm Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1058/) | Visit link for details | Aug. 5, 2022 |
-| [Foxit PDF Reader Doc Object Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1057/) | Visit link for details | Aug. 5, 2022 |
----
 ### CERT-FR [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
@@ -68,19 +56,17 @@ A daily updated summary of the most frequent types of security incidents current
 | [Multiples vulnérabilités dans SonicWall SMA1000](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-733/) | De multiples vulnérabilités ont été découvertes dans SonicWall SMA1000. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données et une élévation de privilèges. | 11 août 2022 |
 | [Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-732/) | De multiples vulnérabilités ont été corrigées dans  | 10 août 2022 |
 ---
-### VulDB [:arrow_heading_up:](#cyberowl)
+### ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
-| [CodeIgniter Shield cross-site request forgery](https://vuldb.com/?id.206396) | Visit link for details | 2022-08-13 at 07:54 |
-| [Camilova activerecord-update-by-case Base sql injection](https://vuldb.com/?id.206395) | Visit link for details | 2022-08-13 at 07:53 |
-| [undici undici.request server-side request forgery](https://vuldb.com/?id.206394) | Visit link for details | 2022-08-13 at 07:52 |
-| [Gitea Issue access control](https://vuldb.com/?id.206393) | Visit link for details | 2022-08-13 at 07:52 |
-| [OpenSearch Security Advanced Access Control unknown vulnerability](https://vuldb.com/?id.206392) | Visit link for details | 2022-08-13 at 07:51 |
-| [BookWyrm Link redirect](https://vuldb.com/?id.206391) | Visit link for details | 2022-08-13 at 07:49 |
-| [Esri ArcReader File out-of-bounds](https://vuldb.com/?id.206390) | Visit link for details | 2022-08-13 at 07:47 |
-| [Esri ArcReader File use after free](https://vuldb.com/?id.206389) | Visit link for details | 2022-08-13 at 07:47 |
-| [Esri ArcReader File out-of-bounds](https://vuldb.com/?id.206388) | Visit link for details | 2022-08-13 at 07:46 |
-| [loopback-connector-postgresql sql injection](https://vuldb.com/?id.206387) | Visit link for details | 2022-08-13 at 07:45 |
+| [OPC Foundation UA .NET Standard BrowseRequest Missing Authentication Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1064/) | Visit link for details | Aug. 5, 2022 |
+| [Foxit PDF Reader AcroForm deletePages Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1063/) | Visit link for details | Aug. 5, 2022 |
+| [Foxit PDF Reader AcroForm deletePages Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1062/) | Visit link for details | Aug. 5, 2022 |
+| [Foxit PDF Reader AcroForm Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1061/) | Visit link for details | Aug. 5, 2022 |
+| [Foxit PDF Reader PDF File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1060/) | Visit link for details | Aug. 5, 2022 |
+| [Foxit PDF Reader AcroForm deletePages Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1059/) | Visit link for details | Aug. 5, 2022 |
+| [Foxit PDF Reader AcroForm resetForm Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1058/) | Visit link for details | Aug. 5, 2022 |
+| [Foxit PDF Reader Doc Object Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1057/) | Visit link for details | Aug. 5, 2022 |
 ---
 ### OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
@@ -95,6 +81,20 @@ A daily updated summary of the most frequent types of security incidents current
 | [<a href="https://vigilance.fr/vulnerability/Codecov-Python-code-execution-via-gcov-39041" class="noirorange"><b>Codecov Python</b>: code execution via gcov</a>](https://vigilance.fr/vulnerability/Codecov-Python-code-execution-via-gcov-39041) | An attacker can use a vulnerability of Codecov Python, via gcov, in order to run code... | Visit link for details |
 | [<a href="https://vigilance.fr/vulnerability/Moment-js-overload-via-string-to-date-39040" class="noirorange"><b>Moment.js</b>: overload via string-to-date</a>](https://vigilance.fr/vulnerability/Moment-js-overload-via-string-to-date-39040) | An attacker can trigger an overload of Moment.js, via string-to-date, in order to trigger a denial of service... | Visit link for details |
 | [<a href="https://vigilance.fr/vulnerability/Adobe-Acrobat-Reader-multiple-vulnerabilities-39039" class="noirorange"><b>Adobe Acrobat/Reader</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Adobe-Acrobat-Reader-multiple-vulnerabilities-39039) | An attacker can use several vulnerabilities of Adobe Acrobat/Reader... | Visit link for details |
+---
+### VulDB [:arrow_heading_up:](#cyberowl)
+|Title|Description|Date|
+|---|---|---|
+| [SourceCodester Guest Management System cleartext storage](https://vuldb.com/?id.206400) | Visit link for details | 2022-08-14 at 08:41 |
+| [Win32.Ransom.BlueSky CRYPTSP.dll uncontrolled search path](https://vuldb.com/?id.206399) | Visit link for details | 2022-08-14 at 08:39 |
+| [SourceCodester Guest Management System index.php sql injection](https://vuldb.com/?id.206398) | Visit link for details | 2022-08-14 at 08:36 |
+| [SourceCodester Guest Management System myform.php cross site scripting](https://vuldb.com/?id.206397) | Visit link for details | 2022-08-14 at 08:32 |
+| [CodeIgniter Shield cross-site request forgery](https://vuldb.com/?id.206396) | Visit link for details | 2022-08-14 at 07:54 |
+| [Camilova activerecord-update-by-case Base sql injection](https://vuldb.com/?id.206395) | Visit link for details | 2022-08-14 at 07:53 |
+| [undici undici.request server-side request forgery](https://vuldb.com/?id.206394) | Visit link for details | 2022-08-14 at 07:52 |
+| [Gitea Issue access control](https://vuldb.com/?id.206393) | Visit link for details | 2022-08-14 at 07:52 |
+| [OpenSearch Security Advanced Access Control unknown vulnerability](https://vuldb.com/?id.206392) | Visit link for details | 2022-08-14 at 07:51 |
+| [BookWyrm Link redirect](https://vuldb.com/?id.206391) | Visit link for details | 2022-08-14 at 07:49 |
 ---
 ### MA-CERT [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
