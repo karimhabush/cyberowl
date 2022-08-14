@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 ## CyberOwl 
-> Last Updated 14/08/2022 09:14:04 UTC 
+> Last Updated 14/08/2022 21:12:52 UTC 
 
 A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
 
@@ -42,32 +42,6 @@ A daily updated summary of the most frequent types of security incidents current
 | [Gas Agency Management System username SQL injection](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 12, 2022 |
 | [Neo4j APOC (Awesome Procedures on Cypher) directory traversal (CVE-2022-37423)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 11, 2022 |
 ---
-### CERT-FR [:arrow_heading_up:](#cyberowl)
-|Title|Description|Date|
-|---|---|---|
-| [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-741/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. | 12 août 2022 |
-| [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-740/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et un contournement de la politique de sécurité. | 12 août 2022 |
-| [Multiples vulnérabilités dans PostgreSQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-739/) | De multiples vulnérabilités ont été découvertes dans PostgreSQL. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données. | 12 août 2022 |
-| [Multiples vulnérabilités dans Tenable Nessus](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-738/) | De multiples vulnérabilités ont été découvertes dans Tenable Nessus. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données. | 11 août 2022 |
-| [Vulnérabilité dans Palo Alto PAN-OS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-737/) | Une vulnérabilité a été découverte dans Palo Alto PAN-OS. Elle permet à un attaquant de provoquer un déni de service à distance. | 11 août 2022 |
-| [Multiples vulnérabilités dans Zimbra](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-736/) | De multiples vulnérabilités ont été découvertes dans Zimbra. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. | 11 août 2022 |
-| [Vulnérabilité dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-735/) | Une vulnérabilité a été découverte dans les produits Cisco. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. | 11 août 2022 |
-| [Vulnérabilité dans Citrix XenServer](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-734/) | Une vulnérabilité a été découverte dans Citrix XenServer. Elle permet à un attaquant de provoquer un problème de sécurité un déni de service, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données. | 11 août 2022 |
-| [Multiples vulnérabilités dans SonicWall SMA1000](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-733/) | De multiples vulnérabilités ont été découvertes dans SonicWall SMA1000. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données et une élévation de privilèges. | 11 août 2022 |
-| [Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-732/) | De multiples vulnérabilités ont été corrigées dans  | 10 août 2022 |
----
-### ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
-|Title|Description|Date|
-|---|---|---|
-| [OPC Foundation UA .NET Standard BrowseRequest Missing Authentication Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1064/) | Visit link for details | Aug. 5, 2022 |
-| [Foxit PDF Reader AcroForm deletePages Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1063/) | Visit link for details | Aug. 5, 2022 |
-| [Foxit PDF Reader AcroForm deletePages Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1062/) | Visit link for details | Aug. 5, 2022 |
-| [Foxit PDF Reader AcroForm Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1061/) | Visit link for details | Aug. 5, 2022 |
-| [Foxit PDF Reader PDF File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1060/) | Visit link for details | Aug. 5, 2022 |
-| [Foxit PDF Reader AcroForm deletePages Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1059/) | Visit link for details | Aug. 5, 2022 |
-| [Foxit PDF Reader AcroForm resetForm Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1058/) | Visit link for details | Aug. 5, 2022 |
-| [Foxit PDF Reader Doc Object Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1057/) | Visit link for details | Aug. 5, 2022 |
----
 ### OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
@@ -82,9 +56,24 @@ A daily updated summary of the most frequent types of security incidents current
 | [<a href="https://vigilance.fr/vulnerability/Moment-js-overload-via-string-to-date-39040" class="noirorange"><b>Moment.js</b>: overload via string-to-date</a>](https://vigilance.fr/vulnerability/Moment-js-overload-via-string-to-date-39040) | An attacker can trigger an overload of Moment.js, via string-to-date, in order to trigger a denial of service... | Visit link for details |
 | [<a href="https://vigilance.fr/vulnerability/Adobe-Acrobat-Reader-multiple-vulnerabilities-39039" class="noirorange"><b>Adobe Acrobat/Reader</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Adobe-Acrobat-Reader-multiple-vulnerabilities-39039) | An attacker can use several vulnerabilities of Adobe Acrobat/Reader... | Visit link for details |
 ---
+### CERT-FR [:arrow_heading_up:](#cyberowl)
+|Title|Description|Date|
+|---|---|---|
+| [Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-741/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. | 12 août 2022 |
+| [Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-740/) | De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et un contournement de la politique de sécurité. | 12 août 2022 |
+| [Multiples vulnérabilités dans PostgreSQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-739/) | De multiples vulnérabilités ont été découvertes dans PostgreSQL. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données. | 12 août 2022 |
+| [Multiples vulnérabilités dans Tenable Nessus](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-738/) | De multiples vulnérabilités ont été découvertes dans Tenable Nessus. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données. | 11 août 2022 |
+| [Vulnérabilité dans Palo Alto PAN-OS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-737/) | Une vulnérabilité a été découverte dans Palo Alto PAN-OS. Elle permet à un attaquant de provoquer un déni de service à distance. | 11 août 2022 |
+| [Multiples vulnérabilités dans Zimbra](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-736/) | De multiples vulnérabilités ont été découvertes dans Zimbra. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. | 11 août 2022 |
+| [Vulnérabilité dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-735/) | Une vulnérabilité a été découverte dans les produits Cisco. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données et une atteinte à la confidentialité des données. | 11 août 2022 |
+| [Vulnérabilité dans Citrix XenServer](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-734/) | Une vulnérabilité a été découverte dans Citrix XenServer. Elle permet à un attaquant de provoquer un problème de sécurité un déni de service, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données. | 11 août 2022 |
+| [Multiples vulnérabilités dans SonicWall SMA1000](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-733/) | De multiples vulnérabilités ont été découvertes dans SonicWall SMA1000. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données et une élévation de privilèges. | 11 août 2022 |
+| [Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-732/) | De multiples vulnérabilités ont été corrigées dans  | 10 août 2022 |
+---
 ### VulDB [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
+| [SourceCodester Simple and Nice Shopping Cart Script login.php cross site scripting](https://vuldb.com/?id.206401) | Visit link for details | 2022-08-14 at 12:36 |
 | [SourceCodester Guest Management System cleartext storage](https://vuldb.com/?id.206400) | Visit link for details | 2022-08-14 at 08:41 |
 | [Win32.Ransom.BlueSky CRYPTSP.dll uncontrolled search path](https://vuldb.com/?id.206399) | Visit link for details | 2022-08-14 at 08:39 |
 | [SourceCodester Guest Management System index.php sql injection](https://vuldb.com/?id.206398) | Visit link for details | 2022-08-14 at 08:36 |
@@ -94,7 +83,6 @@ A daily updated summary of the most frequent types of security incidents current
 | [undici undici.request server-side request forgery](https://vuldb.com/?id.206394) | Visit link for details | 2022-08-14 at 07:52 |
 | [Gitea Issue access control](https://vuldb.com/?id.206393) | Visit link for details | 2022-08-14 at 07:52 |
 | [OpenSearch Security Advanced Access Control unknown vulnerability](https://vuldb.com/?id.206392) | Visit link for details | 2022-08-14 at 07:51 |
-| [BookWyrm Link redirect](https://vuldb.com/?id.206391) | Visit link for details | 2022-08-14 at 07:49 |
 ---
 ### MA-CERT [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
@@ -111,3 +99,15 @@ A daily updated summary of the most frequent types of security incidents current
 | [37691008/22 - Vulnérabilités dans plusieurs produits Microsoft(Patch Tuesday Aout 2022)](https://www.dgssi.gov.ma/fr/content/3769100822-vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-aout-2022.html) | Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, de porter atteinte aux... | 10 août 2022 |
 | [37671008/22 - Vulnérabilités critiques dans les produits Microsoft Azure (Patch Tuesday Aout 2022)](https://www.dgssi.gov.ma/fr/content/3767100822-vulnerabilites-critiques-dans-les-produits-microsoft-azure-patch-tuesday-aout-2022.html) | Plusieurs vulnérabilités critiques ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant d’exécuter du code arbitraire à distance, de porter atteinte aux informations confidentielles... | 10 août 2022 |
 | [37581008/22 - Vulnérabilités dans Microsoft Exchange Server (Patch Tuesday Aout 2022)](https://www.dgssi.gov.ma/fr/content/3758100822-vulnerabilites-dans-microsoft-exchange-server-patch-tuesday-aout-2022.html) | Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les versions susmentionnées de Microsoft Exchange Server. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de... | 10 août 2022 |
+---
+### ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
+|Title|Description|Date|
+|---|---|---|
+| [OPC Foundation UA .NET Standard BrowseRequest Missing Authentication Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1064/) | Visit link for details | Aug. 5, 2022 |
+| [Foxit PDF Reader AcroForm deletePages Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1063/) | Visit link for details | Aug. 5, 2022 |
+| [Foxit PDF Reader AcroForm deletePages Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1062/) | Visit link for details | Aug. 5, 2022 |
+| [Foxit PDF Reader AcroForm Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1061/) | Visit link for details | Aug. 5, 2022 |
+| [Foxit PDF Reader PDF File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1060/) | Visit link for details | Aug. 5, 2022 |
+| [Foxit PDF Reader AcroForm deletePages Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1059/) | Visit link for details | Aug. 5, 2022 |
+| [Foxit PDF Reader AcroForm resetForm Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1058/) | Visit link for details | Aug. 5, 2022 |
+| [Foxit PDF Reader Doc Object Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1057/) | Visit link for details | Aug. 5, 2022 |
