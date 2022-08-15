@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 ## CyberOwl 
-> Last Updated 14/08/2022 21:12:52 UTC 
+> Last Updated 15/08/2022 09:15:22 UTC 
 
 A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
 
@@ -42,19 +42,19 @@ A daily updated summary of the most frequent types of security incidents current
 | [Gas Agency Management System username SQL injection](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 12, 2022 |
 | [Neo4j APOC (Awesome Procedures on Cypher) directory traversal (CVE-2022-37423)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 11, 2022 |
 ---
-### OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+### VulDB [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
-| [<a href="https://vigilance.fr/vulnerability/WPEBackend-fdo-double-free-39048" class="noirorange"><b>WPEBackend-fdo</b>: double free</a>](https://vigilance.fr/vulnerability/WPEBackend-fdo-double-free-39048) | An attacker can force a double memory free of WPEBackend-fdo, in order to trigger a denial of service, and possibly to run code... | Visit link for details |
-| [<a href="https://vigilance.fr/vulnerability/PostgreSQL-code-execution-via-Extension-Scripts-Replace-Objects-39047" class="noirorange"><b>PostgreSQL</b>: code execution via Extension Scripts Replace Objects</a>](https://vigilance.fr/vulnerability/PostgreSQL-code-execution-via-Extension-Scripts-Replace-Objects-39047) | An attacker can use a vulnerability of PostgreSQL, via Extension Scripts Replace Objects, in order to run code... | Visit link for details |
-| [<a href="https://vigilance.fr/vulnerability/PAN-OS-denial-of-service-via-Reflected-Amplification-39046" class="noirorange"><b>PAN-OS</b>: denial of service via Reflected Amplification</a>](https://vigilance.fr/vulnerability/PAN-OS-denial-of-service-via-Reflected-Amplification-39046) | An attacker can cause a fatal error of PAN-OS, via Reflected Amplification, in order to trigger a denial of service... | Visit link for details |
-| [<a href="https://vigilance.fr/vulnerability/Tenable-Nessus-two-vulnerabilities-39045" class="noirorange"><b>Tenable Nessus</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Tenable-Nessus-two-vulnerabilities-39045) | An attacker can use several vulnerabilities of Tenable Nessus... | Visit link for details |
-| [<a href="https://vigilance.fr/vulnerability/Cisco-ASA-header-injection-via-Clientless-SSL-VPN-39044" class="noirorange"><b>Cisco ASA</b>: header injection via Clientless SSL VPN</a>](https://vigilance.fr/vulnerability/Cisco-ASA-header-injection-via-Clientless-SSL-VPN-39044) | An attacker can add new headers on Cisco ASA, via Clientless SSL VPN, in order to alter the service behavior... | Visit link for details |
-| [<a href="https://vigilance.fr/vulnerability/Cisco-ASA-information-disclosure-via-RSA-Private-Key-39043" class="noirorange"><b>Cisco ASA</b>: information disclosure via RSA Private Key</a>](https://vigilance.fr/vulnerability/Cisco-ASA-information-disclosure-via-RSA-Private-Key-39043) | An attacker can bypass access restrictions to data of Cisco ASA, via RSA Private Key, in order to read sensitive information... | Visit link for details |
-| [<a href="https://vigilance.fr/vulnerability/Drupal-jQuery-UI-Checkboxradio-Cross-Site-Scripting-39042" class="noirorange"><b>Drupal jQuery UI Checkboxradio</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-jQuery-UI-Checkboxradio-Cross-Site-Scripting-39042) | An attacker can trigger a Cross Site Scripting of Drupal jQuery UI Checkboxradio, in order to run JavaScript code in the context of the web site... | Visit link for details |
-| [<a href="https://vigilance.fr/vulnerability/Codecov-Python-code-execution-via-gcov-39041" class="noirorange"><b>Codecov Python</b>: code execution via gcov</a>](https://vigilance.fr/vulnerability/Codecov-Python-code-execution-via-gcov-39041) | An attacker can use a vulnerability of Codecov Python, via gcov, in order to run code... | Visit link for details |
-| [<a href="https://vigilance.fr/vulnerability/Moment-js-overload-via-string-to-date-39040" class="noirorange"><b>Moment.js</b>: overload via string-to-date</a>](https://vigilance.fr/vulnerability/Moment-js-overload-via-string-to-date-39040) | An attacker can trigger an overload of Moment.js, via string-to-date, in order to trigger a denial of service... | Visit link for details |
-| [<a href="https://vigilance.fr/vulnerability/Adobe-Acrobat-Reader-multiple-vulnerabilities-39039" class="noirorange"><b>Adobe Acrobat/Reader</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Adobe-Acrobat-Reader-multiple-vulnerabilities-39039) | An attacker can use several vulnerabilities of Adobe Acrobat/Reader... | Visit link for details |
+| [SourceCodester Simple and Nice Shopping Cart Script login.php cross site scripting](https://vuldb.com/?id.206401) | Visit link for details | 2022-08-15 at 12:36 |
+| [SourceCodester Guest Management System cleartext storage](https://vuldb.com/?id.206400) | Visit link for details | 2022-08-15 at 08:41 |
+| [Win32.Ransom.BlueSky CRYPTSP.dll uncontrolled search path](https://vuldb.com/?id.206399) | Visit link for details | 2022-08-15 at 08:39 |
+| [SourceCodester Guest Management System index.php sql injection](https://vuldb.com/?id.206398) | Visit link for details | 2022-08-15 at 08:36 |
+| [SourceCodester Guest Management System myform.php cross site scripting](https://vuldb.com/?id.206397) | Visit link for details | 2022-08-15 at 08:32 |
+| [CodeIgniter Shield cross-site request forgery](https://vuldb.com/?id.206396) | Visit link for details | 2022-08-15 at 07:54 |
+| [Camilova activerecord-update-by-case Base sql injection](https://vuldb.com/?id.206395) | Visit link for details | 2022-08-15 at 07:53 |
+| [undici undici.request server-side request forgery](https://vuldb.com/?id.206394) | Visit link for details | 2022-08-15 at 07:52 |
+| [Gitea Issue access control](https://vuldb.com/?id.206393) | Visit link for details | 2022-08-15 at 07:52 |
+| [OpenSearch Security Advanced Access Control unknown vulnerability](https://vuldb.com/?id.206392) | Visit link for details | 2022-08-15 at 07:51 |
 ---
 ### CERT-FR [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
@@ -70,19 +70,19 @@ A daily updated summary of the most frequent types of security incidents current
 | [Multiples vulnérabilités dans SonicWall SMA1000](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-733/) | De multiples vulnérabilités ont été découvertes dans SonicWall SMA1000. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données et une élévation de privilèges. | 11 août 2022 |
 | [Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-732/) | De multiples vulnérabilités ont été corrigées dans  | 10 août 2022 |
 ---
-### VulDB [:arrow_heading_up:](#cyberowl)
+### OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
-| [SourceCodester Simple and Nice Shopping Cart Script login.php cross site scripting](https://vuldb.com/?id.206401) | Visit link for details | 2022-08-14 at 12:36 |
-| [SourceCodester Guest Management System cleartext storage](https://vuldb.com/?id.206400) | Visit link for details | 2022-08-14 at 08:41 |
-| [Win32.Ransom.BlueSky CRYPTSP.dll uncontrolled search path](https://vuldb.com/?id.206399) | Visit link for details | 2022-08-14 at 08:39 |
-| [SourceCodester Guest Management System index.php sql injection](https://vuldb.com/?id.206398) | Visit link for details | 2022-08-14 at 08:36 |
-| [SourceCodester Guest Management System myform.php cross site scripting](https://vuldb.com/?id.206397) | Visit link for details | 2022-08-14 at 08:32 |
-| [CodeIgniter Shield cross-site request forgery](https://vuldb.com/?id.206396) | Visit link for details | 2022-08-14 at 07:54 |
-| [Camilova activerecord-update-by-case Base sql injection](https://vuldb.com/?id.206395) | Visit link for details | 2022-08-14 at 07:53 |
-| [undici undici.request server-side request forgery](https://vuldb.com/?id.206394) | Visit link for details | 2022-08-14 at 07:52 |
-| [Gitea Issue access control](https://vuldb.com/?id.206393) | Visit link for details | 2022-08-14 at 07:52 |
-| [OpenSearch Security Advanced Access Control unknown vulnerability](https://vuldb.com/?id.206392) | Visit link for details | 2022-08-14 at 07:51 |
+| [<a href="https://vigilance.fr/vulnerability/WPEBackend-fdo-double-free-39048" class="noirorange"><b>WPEBackend-fdo</b>: double free</a>](https://vigilance.fr/vulnerability/WPEBackend-fdo-double-free-39048) | An attacker can force a double memory free of WPEBackend-fdo, in order to trigger a denial of service, and possibly to run code... | Visit link for details |
+| [<a href="https://vigilance.fr/vulnerability/PostgreSQL-code-execution-via-Extension-Scripts-Replace-Objects-39047" class="noirorange"><b>PostgreSQL</b>: code execution via Extension Scripts Replace Objects</a>](https://vigilance.fr/vulnerability/PostgreSQL-code-execution-via-Extension-Scripts-Replace-Objects-39047) | An attacker can use a vulnerability of PostgreSQL, via Extension Scripts Replace Objects, in order to run code... | Visit link for details |
+| [<a href="https://vigilance.fr/vulnerability/PAN-OS-denial-of-service-via-Reflected-Amplification-39046" class="noirorange"><b>PAN-OS</b>: denial of service via Reflected Amplification</a>](https://vigilance.fr/vulnerability/PAN-OS-denial-of-service-via-Reflected-Amplification-39046) | An attacker can cause a fatal error of PAN-OS, via Reflected Amplification, in order to trigger a denial of service... | Visit link for details |
+| [<a href="https://vigilance.fr/vulnerability/Tenable-Nessus-two-vulnerabilities-39045" class="noirorange"><b>Tenable Nessus</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Tenable-Nessus-two-vulnerabilities-39045) | An attacker can use several vulnerabilities of Tenable Nessus... | Visit link for details |
+| [<a href="https://vigilance.fr/vulnerability/Cisco-ASA-header-injection-via-Clientless-SSL-VPN-39044" class="noirorange"><b>Cisco ASA</b>: header injection via Clientless SSL VPN</a>](https://vigilance.fr/vulnerability/Cisco-ASA-header-injection-via-Clientless-SSL-VPN-39044) | An attacker can add new headers on Cisco ASA, via Clientless SSL VPN, in order to alter the service behavior... | Visit link for details |
+| [<a href="https://vigilance.fr/vulnerability/Cisco-ASA-information-disclosure-via-RSA-Private-Key-39043" class="noirorange"><b>Cisco ASA</b>: information disclosure via RSA Private Key</a>](https://vigilance.fr/vulnerability/Cisco-ASA-information-disclosure-via-RSA-Private-Key-39043) | An attacker can bypass access restrictions to data of Cisco ASA, via RSA Private Key, in order to read sensitive information... | Visit link for details |
+| [<a href="https://vigilance.fr/vulnerability/Drupal-jQuery-UI-Checkboxradio-Cross-Site-Scripting-39042" class="noirorange"><b>Drupal jQuery UI Checkboxradio</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-jQuery-UI-Checkboxradio-Cross-Site-Scripting-39042) | An attacker can trigger a Cross Site Scripting of Drupal jQuery UI Checkboxradio, in order to run JavaScript code in the context of the web site... | Visit link for details |
+| [<a href="https://vigilance.fr/vulnerability/Codecov-Python-code-execution-via-gcov-39041" class="noirorange"><b>Codecov Python</b>: code execution via gcov</a>](https://vigilance.fr/vulnerability/Codecov-Python-code-execution-via-gcov-39041) | An attacker can use a vulnerability of Codecov Python, via gcov, in order to run code... | Visit link for details |
+| [<a href="https://vigilance.fr/vulnerability/Moment-js-overload-via-string-to-date-39040" class="noirorange"><b>Moment.js</b>: overload via string-to-date</a>](https://vigilance.fr/vulnerability/Moment-js-overload-via-string-to-date-39040) | An attacker can trigger an overload of Moment.js, via string-to-date, in order to trigger a denial of service... | Visit link for details |
+| [<a href="https://vigilance.fr/vulnerability/Adobe-Acrobat-Reader-multiple-vulnerabilities-39039" class="noirorange"><b>Adobe Acrobat/Reader</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Adobe-Acrobat-Reader-multiple-vulnerabilities-39039) | An attacker can use several vulnerabilities of Adobe Acrobat/Reader... | Visit link for details |
 ---
 ### MA-CERT [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
