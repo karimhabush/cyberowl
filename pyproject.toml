@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "cyberowl"
+version = "1.0.0"
+description = "A daily updated summary of the most frequent security incidents currently being reported from different sources."
+authors = ["karimhabush <karim.habush@gmail.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = ">=3.7"
+Scrapy = "2.6.2"
+selenium = "3.141.0"
+msedge-selenium-tools = "3.141.4"
+pre-commit = "^2.20.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
