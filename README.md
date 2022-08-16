@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 ## CyberOwl 
-> Last Updated 15/08/2022 21:14:22 UTC 
+> Last Updated 16/08/2022 09:19:47 UTC 
 
 A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
 
@@ -20,6 +20,17 @@ A daily updated summary of the most frequent types of security incidents current
 
 > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
 
+---
+### IBMCloud [:arrow_heading_up:](#cyberowl)
+|Title|Description|Date|
+|---|---|---|
+| [Microsoft Windows Defender Credential Guard security bypass (CVE-2022-35822)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 15, 2022 |
+| [Microsoft Windows Defender privilege escalation (CVE-2022-34711)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 15, 2022 |
+| [RealEstate lidaray SQL injection](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 15, 2022 |
+| [SiteSearch searchkeyword cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 15, 2022 |
+| [totd DNS cache poisoning (CVE-2022-34294)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 13, 2022 |
+| [DNRD (aka Domain Name Relay Daemon) DNS cache poisoning (CVE-2022-33993)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 13, 2022 |
+| [DNRD (aka Domain Name Relay Daemon) DNS cache poisoning (CVE-2022-33992)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 13, 2022 |
 ---
 ### US-CERT [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
@@ -45,20 +56,36 @@ A daily updated summary of the most frequent types of security incidents current
 | [Multiples vulnérabilités dans SonicWall SMA1000](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-733/) | De multiples vulnérabilités ont été découvertes dans SonicWall SMA1000. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données et une élévation de privilèges. | 11 août 2022 |
 | [Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-732/) | De multiples vulnérabilités ont été corrigées dans  | 10 août 2022 |
 ---
-### IBMCloud [:arrow_heading_up:](#cyberowl)
+### ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
-| [Ivanti Pulse Secure Pulse Connect Secure (PCS) privilege escalation (CVE-2021-44720)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 12, 2022 |
-| [JetBrains Ktor information disclosure (CVE-2022-38180)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 12, 2022 |
-| [JetBrains Ktor information disclosure (CVE-2022-38179)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 12, 2022 |
-| [Readymade Job Portal Script salary_to SQL injection](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 12, 2022 |
-| [Gas Agency Management System upload file upload](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 12, 2022 |
-| [Gas Agency Management System address cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 12, 2022 |
-| [Gas Agency Management System username SQL injection](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities) | Visit link for details | Aug 12, 2022 |
+| [NetBSD Kernel stat System Call Uninitialized Memory Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1067/) | Visit link for details | Aug. 15, 2022 |
+| [Apple macOS LaunchServices Sandbox Escape Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1066/) | Visit link for details | Aug. 15, 2022 |
+| [Apple macOS Remote Events Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1065/) | Visit link for details | Aug. 15, 2022 |
+| [OPC Foundation UA .NET Standard BrowseRequest Missing Authentication Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1064/) | Visit link for details | Aug. 5, 2022 |
+| [Foxit PDF Reader AcroForm deletePages Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1063/) | Visit link for details | Aug. 5, 2022 |
+| [Foxit PDF Reader AcroForm deletePages Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1062/) | Visit link for details | Aug. 5, 2022 |
+| [Foxit PDF Reader AcroForm Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1061/) | Visit link for details | Aug. 5, 2022 |
+| [Foxit PDF Reader PDF File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1060/) | Visit link for details | Aug. 5, 2022 |
+---
+### VulDB [:arrow_heading_up:](#cyberowl)
+|Title|Description|Date|
+|---|---|---|
+| [Zoho ManageEngine Analytics Plus XML File xml external entity reference](https://vuldb.com/?id.206450) | Visit link for details | 2022-08-16 at 08:10 |
+| [Mapbox gl-native Image out-of-bounds write](https://vuldb.com/?id.206449) | Visit link for details | 2022-08-16 at 08:09 |
+| [Airspan AirVelocity 1500 snmpd inherently dangerous function](https://vuldb.com/?id.206448) | Visit link for details | 2022-08-16 at 08:07 |
+| [Eternal Terminal listen buffer overflow](https://vuldb.com/?id.206447) | Visit link for details | 2022-08-16 at 08:06 |
+| [Aviatrix Gateway VPN command injection](https://vuldb.com/?id.206446) | Visit link for details | 2022-08-16 at 08:05 |
+| [ESRI Portal for ArcGIS injection](https://vuldb.com/?id.206445) | Visit link for details | 2022-08-16 at 08:04 |
+| [Zoho ManageEngine Analytics Plus zropusermgmt pathname traversal](https://vuldb.com/?id.206444) | Visit link for details | 2022-08-16 at 08:02 |
+| [Minetest protection mechanism](https://vuldb.com/?id.206443) | Visit link for details | 2022-08-16 at 08:01 |
+| [Nordic nRF5 SDK for Mesh Packet heap-based overflow](https://vuldb.com/?id.206442) | Visit link for details | 2022-08-16 at 08:00 |
+| [Nordic nRF5 SDK for Mesh Packet heap-based overflow](https://vuldb.com/?id.206441) | Visit link for details | 2022-08-16 at 07:59 |
 ---
 ### OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
 |---|---|---|
+| [<a href="https://vigilance.fr/vulnerability/rsync-file-write-via-do-server-recv-39055" class="noirorange"><b>rsync</b>: file write via do_server_recv()</a>](https://vigilance.fr/vulnerability/rsync-file-write-via-do-server-recv-39055) | An attacker can bypass access restrictions of rsync, via do_server_recv(), in order to alter files... | Visit link for details |
 | [<a href="https://vigilance.fr/vulnerability/Apache-Commons-Configuration-code-execution-via-Variable-Interpolation-39054" class="noirorange"><b>Apache Commons Configuration</b>: code execution via Variable Interpolation</a>](https://vigilance.fr/vulnerability/Apache-Commons-Configuration-code-execution-via-Variable-Interpolation-39054) | An attacker can use a vulnerability of Apache Commons Configuration, via Variable Interpolation, in order to run code... | Visit link for details |
 | [<a href="https://vigilance.fr/vulnerability/Rust-WebSocket-denial-of-service-via-Dataframe-Parsing-39053" class="noirorange"><b>Rust-WebSocket</b>: denial of service via Dataframe Parsing</a>](https://vigilance.fr/vulnerability/Rust-WebSocket-denial-of-service-via-Dataframe-Parsing-39053) | An attacker can cause a fatal error of Rust-WebSocket, via Dataframe Parsing, in order to trigger a denial of service... | Visit link for details |
 | [<a href="https://vigilance.fr/vulnerability/ownCloud-Client-code-execution-via-URL-39052" class="noirorange"><b>ownCloud Client</b>: code execution via URL</a>](https://vigilance.fr/vulnerability/ownCloud-Client-code-execution-via-URL-39052) | An attacker can use a vulnerability of ownCloud Client, via URL, in order to run code... | Visit link for details |
@@ -68,19 +95,6 @@ A daily updated summary of the most frequent types of security incidents current
 | [<a href="https://vigilance.fr/vulnerability/WPEBackend-fdo-double-free-39048" class="noirorange"><b>WPEBackend-fdo</b>: double free</a>](https://vigilance.fr/vulnerability/WPEBackend-fdo-double-free-39048) | An attacker can force a double memory free of WPEBackend-fdo, in order to trigger a denial of service, and possibly to run code... | Visit link for details |
 | [<a href="https://vigilance.fr/vulnerability/PostgreSQL-code-execution-via-Extension-Scripts-Replace-Objects-39047" class="noirorange"><b>PostgreSQL</b>: code execution via Extension Scripts Replace Objects</a>](https://vigilance.fr/vulnerability/PostgreSQL-code-execution-via-Extension-Scripts-Replace-Objects-39047) | An attacker can use a vulnerability of PostgreSQL, via Extension Scripts Replace Objects, in order to run code... | Visit link for details |
 | [<a href="https://vigilance.fr/vulnerability/PAN-OS-denial-of-service-via-Reflected-Amplification-39046" class="noirorange"><b>PAN-OS</b>: denial of service via Reflected Amplification</a>](https://vigilance.fr/vulnerability/PAN-OS-denial-of-service-via-Reflected-Amplification-39046) | An attacker can cause a fatal error of PAN-OS, via Reflected Amplification, in order to trigger a denial of service... | Visit link for details |
-| [<a href="https://vigilance.fr/vulnerability/Tenable-Nessus-two-vulnerabilities-39045" class="noirorange"><b>Tenable Nessus</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Tenable-Nessus-two-vulnerabilities-39045) | An attacker can use several vulnerabilities of Tenable Nessus... | Visit link for details |
----
-### ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
-|Title|Description|Date|
-|---|---|---|
-| [OPC Foundation UA .NET Standard BrowseRequest Missing Authentication Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1064/) | Visit link for details | Aug. 5, 2022 |
-| [Foxit PDF Reader AcroForm deletePages Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1063/) | Visit link for details | Aug. 5, 2022 |
-| [Foxit PDF Reader AcroForm deletePages Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1062/) | Visit link for details | Aug. 5, 2022 |
-| [Foxit PDF Reader AcroForm Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1061/) | Visit link for details | Aug. 5, 2022 |
-| [Foxit PDF Reader PDF File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1060/) | Visit link for details | Aug. 5, 2022 |
-| [Foxit PDF Reader AcroForm deletePages Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1059/) | Visit link for details | Aug. 5, 2022 |
-| [Foxit PDF Reader AcroForm resetForm Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1058/) | Visit link for details | Aug. 5, 2022 |
-| [Foxit PDF Reader Doc Object Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1057/) | Visit link for details | Aug. 5, 2022 |
 ---
 ### MA-CERT [:arrow_heading_up:](#cyberowl)
 |Title|Description|Date|
