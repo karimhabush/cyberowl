@@ -17,7 +17,7 @@ jobs:
           architecture: 'x64'
       - run: python -m pip install poetry
       - run: python -m poetry install
-      - run: python -m poetry run python src/main.py
+      - run: python -m poetry run python src/cyberowl/main.py
 
       - name: Setup git config
         run: |
