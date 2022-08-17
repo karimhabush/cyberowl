@@ -4,7 +4,6 @@ Cyberowl is a daily updated summary of the most frequent types of security incid
 
 The primary objective of Cyberowl is to assist analysts and security professionals in quickly identifying different types of security incidents affecting their organization's assets. This is the quickest and most effective way to always stay current on the latest types of incidents.
 
-
 ## Quick links
 
 This documentation is broken down into different sections:
