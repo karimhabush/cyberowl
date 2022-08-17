@@ -1,3 +1,8 @@
+"""
+    This spider is used to scrape alerts from the following source:
+    https://www.zerodayinitiative.com/advisories/published/
+"""
+
 import scrapy
 from items import AlertItem
 from msedge.selenium_tools import Edge, EdgeOptions
@@ -7,8 +12,20 @@ from selenium.webdriver.support.ui import WebDriverWait
 
 
 class ZDISpider(scrapy.Spider):
-    """
-    Class to get dynamic content from ZeroDayInitiative website.
+    """Spider for the ZeroDayInitiative website.
+
+    This spider is used to scrape data from the official website of
+    ZeroDayInitiative.
+
+    Attributes:
+        name : Name of the spider.
+        max_items : The maximum number of items to scrape.
+        start_url : The website from which to start crawling.
+        block_selector : The CSS/XPATH selector of the block containing the data.
+        link_selector : The CSS/XPATH selector of the link of the alert.
+        title_selector : The CSS/XPATH selector of the title of the alert.
+        date_selector : The CSS/XPATH selector of the date of creation of the alert.
+        description_selector : The CSS/XPATH selector of the description of the alert.
     """
 
     name = "ZeroDayInitiative"

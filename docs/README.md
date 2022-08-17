@@ -4,24 +4,20 @@
 
 Cyberowl is a daily updated summary of the most frequent types of security incidents currently being reported from different sources.
 
-The primary objective of Cyberowl is to assist analysts and security professionals in quickly identifying different types of security incidents affecting their organization's assets. this is the quickest and most effective way to always stay current on the latest types of incidents.
+The primary objective of Cyberowl is to assist analysts and security professionals in quickly identifying different types of security incidents affecting their organization's assets. This is the quickest and most effective way to always stay current on the latest types of incidents.
 
----
 
-## Table of content
+## Quick links
 
 This documentation is broken down into different sections:
 
-* [Introduction](#introduction)
 * [Core Concepts](#core-concepts)
+* [Api Docs](#api-docs)
 * [Installation](#installation)
-* [Usage](#usage)
-* [Contributing](#contributing)
+* [Contributing](CONTRIBUTING.md)
 * [License](#license)
-* [Tests](#tests)
 * [Code of Conduct](#code-of-conduct)
 
----
 
 
 ## Core Concepts
@@ -39,7 +35,7 @@ Cyberowl uses both `Scrapy` spiders and `Selenium` web drivers to collect data f
 
 Check out cyberwol spiders [here](./../src/cyberowl/spiders/).
 
-### Item Pipeline
+### Data Processing
 
 The Item Pipeline is the place where you define the custom behaviour for processing items after they have been scraped.
 
@@ -57,7 +53,11 @@ Check out `MDTemplate` [here](./../src/cyberowl/mdtemplate.py).
 
 Check out `utils.py` [here](./../src/cyberowl/utils.py).
 
----
+
+## Api Docs
+
+Api Docs are generated using [mkdocs](https://www.mkdocs.org/). Check out [Contributing](CONTRIBUTING.md) for more details on how to generate the Api Docs.
+
 
 ## Installation
 
@@ -75,3 +75,17 @@ Finally, run the main script:
 ```bash
 poetry run python src/cyberowl/main.py
 ```
+
+
+## Contributing
+
+Contributing to Cyberowl is a two step process. Check out [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
+
+## License
+
+Cyberowl is licensed under the [MIT License](./../LICENSE).
+
+
+## Code of Conduct
+
+Cyberowl is a community project and we welcome all contributors to join us. Check out our [Code of Conduct](./../CODE_OF_CONDUCT.md) for more details.

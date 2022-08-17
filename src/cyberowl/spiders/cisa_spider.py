@@ -1,10 +1,26 @@
+"""
+This spider is used to scrape alerts from the following source:
+https://www.cisa.gov/uscert/ncas/current-activity
+"""
 import scrapy
 from items import AlertItem
 
 
 class CisaSpider(scrapy.Spider):
-    """
-    Spider for the US-CERT website.
+    """Spider for the US-CERT website.
+
+    This spider is used to scrape data from the official website of
+    US CERT.
+
+    Attributes:
+        name : Name of the spider.
+        max_items : The maximum number of items to scrape.
+        start_url : The website from which to start crawling.
+        block_selector : The CSS/XPATH selector of the block containing the data.
+        link_selector : The CSS/XPATH selector of the link of the alert.
+        title_selector : The CSS/XPATH selector of the title of the alert.
+        date_selector : The CSS/XPATH selector of the date of creation of the alert.
+        description_selector : The CSS/XPATH selector of the description of the alert.
     """
 
     name = "US-CERT"

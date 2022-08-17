@@ -1,4 +1,4 @@
-site_name: Cyberowl docs
+site_name: Cyberowl API docs
 # site_url: TIST
 
 docs_dir: mkdocs
@@ -6,6 +6,26 @@ docs_dir: mkdocs
 theme:
   name: material
   locale: en
+
+plugins:
+  - mkdocstrings
+
+plugins:
+    - search
+    - mkdocstrings:
+        default_handler: python
+        handlers:
+          python:
+            rendering:
+              show_source: true
+        watch:
+          - ../src/cyberowl
+
+nav:
+  - API docs:
+    - Spiders: spiders.md
+    - Item Pipeline: item_pipeline.md
+    - MDTemplate & Utils: mdtemplate.md
 
 repo_url: https://github.com/karimhabush/cyberowl
 edit_uri: https://github.com/karimhabush/cyberowl/docs/

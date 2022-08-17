@@ -1,3 +1,7 @@
+"""
+This spider is used to scrape alerts from the following source:
+https://vigilance.fr/?action=1135154048&langue=2
+"""
 import scrapy
 from items import AlertItem
 
@@ -5,6 +9,19 @@ from items import AlertItem
 class VigilanceSpider(scrapy.Spider):
     """
     Spider for the OBS-Vigilance website.
+
+    This spider is used to scrape data from the official website of
+    OBS-Vigilance.
+
+    Attributes:
+        name : Name of the spider.
+        max_items : The maximum number of items to scrape.
+        start_url : The website from which to start crawling.
+        block_selector : The CSS/XPATH selector of the block containing the data.
+        link_selector : The CSS/XPATH selector of the link of the alert.
+        title_selector : The CSS/XPATH selector of the title of the alert.
+        date_selector : The CSS/XPATH selector of the date of creation of the alert.
+        description_selector : The CSS/XPATH selector of the description of the alert.
     """
 
     name = "OBS-Vigilance"
