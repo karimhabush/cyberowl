@@ -1,0 +1,11 @@
+site_name: Cyberowl docs
+# site_url: TIST
+
+docs_dir: mkdocs
+
+theme:
+  name: material
+  locale: en
+
+repo_url: https://github.com/karimhabush/cyberowl
+edit_uri: https://github.com/karimhabush/cyberowl/docs/
