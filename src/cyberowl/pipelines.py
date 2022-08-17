@@ -12,6 +12,8 @@ class AlertPipeline:
         e.g [["Title", "Description", "Date"],["Title1", "Description1", "Date1"]]
     """
 
+    __items: list = None
+
     def __init__(self) -> None:
         if self.__items is None:
             self.__items = []

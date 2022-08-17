@@ -18,6 +18,11 @@ def generate_heading() -> None:
         " incidents currently being reported from different sources."
     )
     README_GENERATOR.new_line()
+    README_GENERATOR.new_line(
+        "For more information, please check out the documentation"
+        " [here](./docs/README.md)."
+    )
+    README_GENERATOR.new_line()
     README_GENERATOR.new_line("---")
 
 
