@@ -39,7 +39,7 @@ Check out cyberwol spiders [here](./../src/cyberowl/spiders/).
 
 The Item Pipeline is the place where you define the custom behaviour for processing items after they have been scraped.
 
-In other words, the Item Pipeline is the place where cleaning and processing of data is done as well as storing it in a markdown file.
+In other words, the Item Pipeline is where cleaning and processing of data is done as well as storing it in a markdown file.
 
 Check out cyberwol pipelines [here](./../src/cyberowl/pipelines.py).
 
@@ -71,7 +71,7 @@ Clone the project, and install the dependencies:
 ```bash
 poetry install
 ```
-Finally, run the main script:
+And finally, run the main script:
 ```bash
 poetry run python src/cyberowl/main.py
 ```
@@ -79,7 +79,7 @@ poetry run python src/cyberowl/main.py
 
 ## Contributing
 
-Contributing to Cyberowl is a two step process. Check out [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
+Contributing to Cyberowl is a two step process. Please check out [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
 
 ## License
 
@@ -88,4 +88,4 @@ Cyberowl is licensed under the [MIT License](./../LICENSE).
 
 ## Code of Conduct
 
-Cyberowl is a community project and we welcome all contributors to join us. Check out our [Code of Conduct](./../CODE_OF_CONDUCT.md) for more details.
+Cyberowl is a community project and we welcome all contributors to join us. Please check out our [Code of Conduct](./../CODE_OF_CONDUCT.md) for more details.
