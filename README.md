@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 16/08/2022 21:10:33 UTC
+ > Last Updated 17/08/2022 09:11:33 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -38,13 +38,13 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Eyes of Network web application cross-site scripting (CVE-2022-38357)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 15, 2022|
- |[Eyes of Network web application cross-site scripting (CVE-2022-38358)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 15, 2022|
- |[Eyes of Network web application cross-site request forgery (CVE-2022-38359)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 15, 2022|
- |[Microsoft Windows Defender Credential Guard security bypass (CVE-2022-35822)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 15, 2022|
- |[Microsoft Windows Defender privilege escalation (CVE-2022-34711)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 15, 2022|
- |[RealEstate lidaray SQL injection](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 15, 2022|
- |[SiteSearch searchkeyword cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 15, 2022|
+ |[Rageframe2 cross-site scripting (CVE-2022-36530)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 16, 2022|
+ |[WWBN AVideo cross-site scripting (CVE-2022-28712)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 16, 2022|
+ |[WWBN AVideo cross-site scripting (CVE-2022-30690)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 16, 2022|
+ |[WWBN AVideo cross-site scripting (CVE-2022-32770)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 16, 2022|
+ |[WWBN AVideo cross-site scripting (CVE-2022-32771)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 16, 2022|
+ |[WWBN AVideo cross-site scripting (CVE-2022-32772)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 16, 2022|
+ |[Eclipse Sphinx information disclosure (CVE-2022-2838)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 16, 2022|
  
  ---
 
@@ -52,17 +52,17 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-39065" class="noirorange"><b>Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-39065)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-denial-of-service-via-Universal-Forwarders-ZIP-File-39064" class="noirorange"><b>Splunk Enterprise</b>: denial of service via Universal Forwarders ZIP File</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-denial-of-service-via-Universal-Forwarders-ZIP-File-39064)|An attacker can cause a fatal error of Splunk Enterprise, via Universal Forwarders ZIP File, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-information-disclosure-via-Dashboard-Drilldown-39063" class="noirorange"><b>Splunk Enterprise</b>: information disclosure via Dashboard Drilldown</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-information-disclosure-via-Dashboard-Drilldown-39063)|An attacker can bypass access restrictions to data of Splunk Enterprise, via Dashboard Drilldown, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-Man-in-the-Middle-via-Ingest-Actions-UI-39062" class="noirorange"><b>Splunk Enterprise</b>: Man-in-the-Middle via Ingest Actions UI</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-Man-in-the-Middle-via-Ingest-Actions-UI-39062)|An attacker can act as a Man-in-the-Middle on Splunk Enterprise, via Ingest Actions UI, in order to read or write data in the session...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ansible-privilege-escalation-via-Change-User-39060" class="noirorange"><b>Ansible</b>: privilege escalation via Change User</a>](https://vigilance.fr/vulnerability/Ansible-privilege-escalation-via-Change-User-39060)|An attacker can bypass restrictions of Ansible, via Change User, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/YARA-code-execution-via-Offset-Ranges-39059" class="noirorange"><b>YARA</b>: code execution via Offset Ranges</a>](https://vigilance.fr/vulnerability/YARA-code-execution-via-Offset-Ranges-39059)|An attacker can use a vulnerability of YARA, via Offset Ranges, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Canna-file-read-write-via-UNIX-Socket-39058" class="noirorange"><b>Canna</b>: file read/write via UNIX Socket</a>](https://vigilance.fr/vulnerability/Canna-file-read-write-via-UNIX-Socket-39058)|An attacker can bypass access restrictions of Canna, via UNIX Socket, in order to read or alter files...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Windows-Defender-Credential-Guard-privilege-escalation-39057" class="noirorange"><b>Windows Defender Credential Guard</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Windows-Defender-Credential-Guard-privilege-escalation-39057)|An attacker can bypass restrictions of Windows Defender Credential Guard, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/rsync-file-write-via-do-server-recv-39055" class="noirorange"><b>rsync</b>: file write via do_server_recv()</a>](https://vigilance.fr/vulnerability/rsync-file-write-via-do-server-recv-39055)|An attacker can bypass access restrictions of rsync, via do_server_recv(), in order to alter files...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-Commons-Configuration-code-execution-via-Variable-Interpolation-39054" class="noirorange"><b>Apache Commons Configuration</b>: code execution via Variable Interpolation</a>](https://vigilance.fr/vulnerability/Apache-Commons-Configuration-code-execution-via-Variable-Interpolation-39054)|An attacker can use a vulnerability of Apache Commons Configuration, via Variable Interpolation, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Rust-WebSocket-denial-of-service-via-Dataframe-Parsing-39053" class="noirorange"><b>Rust-WebSocket</b>: denial of service via Dataframe Parsing</a>](https://vigilance.fr/vulnerability/Rust-WebSocket-denial-of-service-via-Dataframe-Parsing-39053)|An attacker can cause a fatal error of Rust-WebSocket, via Dataframe Parsing, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ownCloud-Client-code-execution-via-URL-39052" class="noirorange"><b>ownCloud Client</b>: code execution via URL</a>](https://vigilance.fr/vulnerability/ownCloud-Client-code-execution-via-URL-39052)|An attacker can use a vulnerability of ownCloud Client, via URL, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Traffic-Server-header-injection-via-HTTP-2-Scheme-Method-39051" class="noirorange"><b>Apache Traffic Server</b>: header injection via HTTP/2 Scheme/Method</a>](https://vigilance.fr/vulnerability/Apache-Traffic-Server-header-injection-via-HTTP-2-Scheme-Method-39051)|An attacker can add new headers on Apache Traffic Server, via HTTP/2 Scheme/Method, in order to alter the service behavior...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Traffic-Server-five-vulnerabilities-39050" class="noirorange"><b>Apache Traffic Server</b>: five vulnerabilities</a>](https://vigilance.fr/vulnerability/Apache-Traffic-Server-five-vulnerabilities-39050)|An attacker can use several vulnerabilities of Apache Traffic Server...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cacti-Cross-Site-Scripting-via-Creating-New-Graphs-39049" class="noirorange"><b>Cacti</b>: Cross Site Scripting via Creating New Graphs</a>](https://vigilance.fr/vulnerability/Cacti-Cross-Site-Scripting-via-Creating-New-Graphs-39049)|An attacker can trigger a Cross Site Scripting of Cacti, via Creating New Graphs, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WPEBackend-fdo-double-free-39048" class="noirorange"><b>WPEBackend-fdo</b>: double free</a>](https://vigilance.fr/vulnerability/WPEBackend-fdo-double-free-39048)|An attacker can force a double memory free of WPEBackend-fdo, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PostgreSQL-code-execution-via-Extension-Scripts-Replace-Objects-39047" class="noirorange"><b>PostgreSQL</b>: code execution via Extension Scripts Replace Objects</a>](https://vigilance.fr/vulnerability/PostgreSQL-code-execution-via-Extension-Scripts-Replace-Objects-39047)|An attacker can use a vulnerability of PostgreSQL, via Extension Scripts Replace Objects, in order to run code...|Visit link for details|
  
  ---
 
@@ -87,16 +87,16 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[ESRI Portal for ArcGIS System Property missing encryption](https://vuldb.com/?id.206500)|Visit link for details|2022-08-16 at 21:24|
- |[ESRI Portal for ArcGIS cross site scripting](https://vuldb.com/?id.206499)|Visit link for details|2022-08-16 at 21:23|
- |[Tenda AC9 SetSysTimeCfg command injection](https://vuldb.com/?id.206498)|Visit link for details|2022-08-16 at 21:23|
- |[Emerson OpenBSI SecUsers.ini risky encryption](https://vuldb.com/?id.206497)|Visit link for details|2022-08-16 at 21:22|
- |[ViewPower upsMonitor access control](https://vuldb.com/?id.206496)|Visit link for details|2022-08-16 at 21:22|
- |[mingsoft MCMS Models List delete sql injection](https://vuldb.com/?id.206495)|Visit link for details|2022-08-16 at 21:16|
- |[mingsoft MCMS verify sql injection](https://vuldb.com/?id.206494)|Visit link for details|2022-08-16 at 21:15|
- |[Emerson ROC800/ROC800L/DL8000 Filesystem Operation data authenticity](https://vuldb.com/?id.206493)|Visit link for details|2022-08-16 at 21:14|
- |[ESRI Portal for ArcGIS neutralization of directives](https://vuldb.com/?id.206492)|Visit link for details|2022-08-16 at 21:13|
- |[Apache Airflow Docker Provider Example DAG Privilege Escalation](https://vuldb.com/?id.206491)|Visit link for details|2022-08-16 at 20:56|
+ |[TIBCO Data Science/Statistica Web Console cross site scripting](https://vuldb.com/?id.206632)|Visit link for details|2022-08-17 at 10:59|
+ |[TIBCO Data Science/Statistica Web Console cross site scripting](https://vuldb.com/?id.206631)|Visit link for details|2022-08-17 at 10:58|
+ |[Moodle Admin Task Log cross site scripting](https://vuldb.com/?id.206630)|Visit link for details|2022-08-17 at 10:58|
+ |[Device42 CMDB Exago Web Reports WebReportsApi.dll hard-coded key](https://vuldb.com/?id.206629)|Visit link for details|2022-08-17 at 10:57|
+ |[CERTCC VINCE URL redirect](https://vuldb.com/?id.206628)|Visit link for details|2022-08-17 at 10:56|
+ |[Splunk Enterprise/Universal Forwarders ZIP File highly compressed data (data amplification)](https://vuldb.com/?id.206627)|Visit link for details|2022-08-17 at 10:55|
+ |[Splunk Enterprise Dashboard information disclosure](https://vuldb.com/?id.206626)|Visit link for details|2022-08-17 at 10:53|
+ |[Splunk Enterprise Ingest Action certificate validation](https://vuldb.com/?id.206625)|Visit link for details|2022-08-17 at 10:52|
+ |[Blender Thumbnail infinite loop](https://vuldb.com/?id.206624)|Visit link for details|2022-08-17 at 10:50|
+ |[Sequi PortBloque S improper authentication](https://vuldb.com/?id.206623)|Visit link for details|2022-08-17 at 10:50|
  
  ---
 
