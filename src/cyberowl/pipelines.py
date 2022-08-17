@@ -7,20 +7,27 @@ from cyberowl.utils import generate_alerts_table
 class AlertPipeline:
     """
     AlertPipeline class
-    Args:
-        items : list of items.
+    Attributes:
+        items {list} : A list of scraped and processed items.
+        e.g [["Title", "Description", "Date"],["Title1", "Description1", "Date1"]]
     """
 
-    def __init__(self, items: list = []):
-        self.__items = items
+    def __init__(self) -> None:
+        if self.__items is None:
+            self.__items = []
 
     @property
     def items(self):
         return self.__items
 
     def remove_special_characters(self, text):
-        """
-        Remove special characters from text.
+        """Remove special characters from text.
+
+        Arguments:
+            text str : Text to be processed.
+
+        Returns:
+            str : Processed text.
         """
         return (
             text.replace("\n", "")
@@ -32,13 +39,13 @@ class AlertPipeline:
 
     def open_spider(self, *args, **kwargs):
         """
-        Open spider
+        Method to be called when spider is opened.
         """
         self.__items = [["Title", "Description", "Date"]]
 
     def process_item(self, item, *args, **kwargs):
         """
-        Process item.
+        This method is used to process the item.
         """
         item["title"] = self.remove_special_characters(item["title"])
         item["link"] = self.remove_special_characters(item["link"])
@@ -51,6 +58,6 @@ class AlertPipeline:
 
     def close_spider(self, spider):
         """
-        Close spider
+        Method to be called when spider is closed.
         """
         generate_alerts_table(spider.name, self.__items)
