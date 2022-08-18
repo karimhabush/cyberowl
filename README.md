@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 17/08/2022 21:09:57 UTC
+ > Last Updated 18/08/2022 09:11:23 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,45 +33,6 @@
  |[#StopRansomware: Zeppelin Ransomware](https://www.cisa.gov/uscert/ncas/current-activity/2022/08/11/stopransomware-zeppelin-ransomware)|<p>CISA and the Federal Bureau of Investigation (FBI) have released a joint Cybersecurity Advisory (CSA), <a href="https://www.cisa.gov/uscert/ncas/alerts/aa22-223a">#StopRansomware: Zeppelin Ransomware</a>, to provide information on Zeppelin Ransomware. Actors use Zeppelin Ransomware, a ransomware-as-a-service (RaaS), against a wide range of businesses and critical infrastructure organizations to encrypt victims’ files for financial gain.</p>|Thursday, August 11, 2022|
  |[Palo Alto Networks Releases Security Update for PAN-OS ](https://www.cisa.gov/uscert/ncas/current-activity/2022/08/10/palo-alto-networks-releases-security-update-pan-os)|<p>Palo Alto Networks has released a security update to address a vulnerability in PAN-OS firewall configurations. A remote attacker could exploit this vulnerability to conduct a reflected denial-of service.</p>|Wednesday, August 10, 2022|
  |[CISA Releases Cybersecurity Toolkit to Protect U.S. Elections ](https://www.cisa.gov/uscert/ncas/current-activity/2022/08/10/cisa-releases-cybersecurity-toolkit-protect-us-elections)|<p>CISA—through the <a href="https://www.cisa.gov/jcdc">Joint Cyber Defense Collaborative (JCDC)</a>—has released a toolkit of free cybersecurity resources for the election community. The toolkit aims to help state and local government officials, election officials, and vendors enhance the cybersecurity and cyber resilience of U.S. election infrastructure.</p>|Wednesday, August 10, 2022|
- 
- ---
-
-## IBMCLOUD [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Google Chrome Extensions API code execution (CVE-2022-2861)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 16, 2022|
- |[Google Chrome Cookies security bypass (CVE-2022-2860)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 16, 2022|
- |[Google Chrome Chrome OS Shell code execution (CVE-2022-2859)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 16, 2022|
- |[Google Chrome Intents security bypass (CVE-2022-2856)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 16, 2022|
- |[Google Chrome Downloads buffer overflow (CVE-2022-2853)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 16, 2022|
- |[Google Chrome Sign-In Flow code execution (CVE-2022-2858)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 16, 2022|
- |[Google Chrome Blink code execution (CVE-2022-2857)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 16, 2022|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Secure-Web-Appliance-privilege-escalation-via-Command-Injection-39068" class="noirorange"><b>Cisco Secure Web Appliance</b>: privilege escalation via Command Injection</a>](https://vigilance.fr/vulnerability/Cisco-Secure-Web-Appliance-privilege-escalation-via-Command-Injection-39068)|An attacker can bypass restrictions of Cisco Secure Web Appliance, via Command Injection, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libxml2-ten-vulnerabilities-39067" class="noirorange"><b>libxml2</b>: ten vulnerabilities</a>](https://vigilance.fr/vulnerability/libxml2-ten-vulnerabilities-39067)|An attacker can use several vulnerabilities of libxml2...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-39065" class="noirorange"><b>Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-39065)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-denial-of-service-via-Universal-Forwarders-ZIP-File-39064" class="noirorange"><b>Splunk Enterprise</b>: denial of service via Universal Forwarders ZIP File</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-denial-of-service-via-Universal-Forwarders-ZIP-File-39064)|An attacker can cause a fatal error of Splunk Enterprise, via Universal Forwarders ZIP File, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-information-disclosure-via-Dashboard-Drilldown-39063" class="noirorange"><b>Splunk Enterprise</b>: information disclosure via Dashboard Drilldown</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-information-disclosure-via-Dashboard-Drilldown-39063)|An attacker can bypass access restrictions to data of Splunk Enterprise, via Dashboard Drilldown, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-Man-in-the-Middle-via-Ingest-Actions-UI-39062" class="noirorange"><b>Splunk Enterprise</b>: Man-in-the-Middle via Ingest Actions UI</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-Man-in-the-Middle-via-Ingest-Actions-UI-39062)|An attacker can act as a Man-in-the-Middle on Splunk Enterprise, via Ingest Actions UI, in order to read or write data in the session...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ansible-privilege-escalation-via-Change-User-39060" class="noirorange"><b>Ansible</b>: privilege escalation via Change User</a>](https://vigilance.fr/vulnerability/Ansible-privilege-escalation-via-Change-User-39060)|An attacker can bypass restrictions of Ansible, via Change User, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/YARA-code-execution-via-Offset-Ranges-39059" class="noirorange"><b>YARA</b>: code execution via Offset Ranges</a>](https://vigilance.fr/vulnerability/YARA-code-execution-via-Offset-Ranges-39059)|An attacker can use a vulnerability of YARA, via Offset Ranges, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Canna-file-read-write-via-UNIX-Socket-39058" class="noirorange"><b>Canna</b>: file read/write via UNIX Socket</a>](https://vigilance.fr/vulnerability/Canna-file-read-write-via-UNIX-Socket-39058)|An attacker can bypass access restrictions of Canna, via UNIX Socket, in order to read or alter files...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Windows-Defender-Credential-Guard-privilege-escalation-39057" class="noirorange"><b>Windows Defender Credential Guard</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Windows-Defender-Credential-Guard-privilege-escalation-39057)|An attacker can bypass restrictions of Windows Defender Credential Guard, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/rsync-file-write-via-do-server-recv-39055" class="noirorange"><b>rsync</b>: file write via do_server_recv()</a>](https://vigilance.fr/vulnerability/rsync-file-write-via-do-server-recv-39055)|An attacker can bypass access restrictions of rsync, via do_server_recv(), in order to alter files...|Visit link for details|
  
  ---
 
@@ -107,6 +68,55 @@
  |[37751108/22 - Vulnérabilités dans les produits SAP](/fr/content/3775110822-vulnerabilites-dans-les-produits-sap.html)|SAP annonce la disponibilité d’une mise à jour de sécurité corrigeant plusieurs vulnérabilités affectant les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la confidentialité de...|11 août 2022|
  |[37731108/22 - Vulnérabilités dansles produits Intel](/fr/content/3773110822-vulnerabilites-dans-les-produits-intel.html)|Intel a publié une mise à jour de sécurité corrigeant plusieurs vulnérabilités recensées dans les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de porter atteinte à la confidentialité de données...|11 août 2022|
  |[37741108/22 - Vulnérabilités dans les produits Cisco](/fr/content/3774110822-vulnerabilites-dans-les-produits-cisco.html)|Plusieurs vulnérabilités ont été corrigées dans les produits Cisco susmentionnés. L’exploitation de ces failles permet à un attaquant d’exécuter du code arbitraire, de causer un déni de service, de porter atteinte aux informations...|11 août 2022|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-Secure-Web-Appliance-privilege-escalation-via-Command-Injection-39068" class="noirorange"><b>Cisco Secure Web Appliance</b>: privilege escalation via Command Injection</a>](https://vigilance.fr/vulnerability/Cisco-Secure-Web-Appliance-privilege-escalation-via-Command-Injection-39068)|An attacker can bypass restrictions of Cisco Secure Web Appliance, via Command Injection, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libxml2-ten-vulnerabilities-39067" class="noirorange"><b>libxml2</b>: ten vulnerabilities</a>](https://vigilance.fr/vulnerability/libxml2-ten-vulnerabilities-39067)|An attacker can use several vulnerabilities of libxml2...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-39065" class="noirorange"><b>Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-39065)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-denial-of-service-via-Universal-Forwarders-ZIP-File-39064" class="noirorange"><b>Splunk Enterprise</b>: denial of service via Universal Forwarders ZIP File</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-denial-of-service-via-Universal-Forwarders-ZIP-File-39064)|An attacker can cause a fatal error of Splunk Enterprise, via Universal Forwarders ZIP File, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-information-disclosure-via-Dashboard-Drilldown-39063" class="noirorange"><b>Splunk Enterprise</b>: information disclosure via Dashboard Drilldown</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-information-disclosure-via-Dashboard-Drilldown-39063)|An attacker can bypass access restrictions to data of Splunk Enterprise, via Dashboard Drilldown, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-Man-in-the-Middle-via-Ingest-Actions-UI-39062" class="noirorange"><b>Splunk Enterprise</b>: Man-in-the-Middle via Ingest Actions UI</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-Man-in-the-Middle-via-Ingest-Actions-UI-39062)|An attacker can act as a Man-in-the-Middle on Splunk Enterprise, via Ingest Actions UI, in order to read or write data in the session...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ansible-privilege-escalation-via-Change-User-39060" class="noirorange"><b>Ansible</b>: privilege escalation via Change User</a>](https://vigilance.fr/vulnerability/Ansible-privilege-escalation-via-Change-User-39060)|An attacker can bypass restrictions of Ansible, via Change User, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/YARA-code-execution-via-Offset-Ranges-39059" class="noirorange"><b>YARA</b>: code execution via Offset Ranges</a>](https://vigilance.fr/vulnerability/YARA-code-execution-via-Offset-Ranges-39059)|An attacker can use a vulnerability of YARA, via Offset Ranges, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Canna-file-read-write-via-UNIX-Socket-39058" class="noirorange"><b>Canna</b>: file read/write via UNIX Socket</a>](https://vigilance.fr/vulnerability/Canna-file-read-write-via-UNIX-Socket-39058)|An attacker can bypass access restrictions of Canna, via UNIX Socket, in order to read or alter files...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Windows-Defender-Credential-Guard-privilege-escalation-39057" class="noirorange"><b>Windows Defender Credential Guard</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Windows-Defender-Credential-Guard-privilege-escalation-39057)|An attacker can bypass restrictions of Windows Defender Credential Guard, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/rsync-file-write-via-do-server-recv-39055" class="noirorange"><b>rsync</b>: file write via do_server_recv()</a>](https://vigilance.fr/vulnerability/rsync-file-write-via-do-server-recv-39055)|An attacker can bypass access restrictions of rsync, via do_server_recv(), in order to alter files...|Visit link for details|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Laravel deserialization](https://vuldb.com/?id.206688)|Visit link for details|2022-08-18 at 09:29|
+ |[CherryTree cross site scripting](https://vuldb.com/?id.206687)|Visit link for details|2022-08-18 at 09:21|
+ |[DoraCMS HTTP Request improper authentication](https://vuldb.com/?id.206686)|Visit link for details|2022-08-18 at 09:20|
+ |[Ecowitt GW1100 access control](https://vuldb.com/?id.206685)|Visit link for details|2022-08-18 at 09:20|
+ |[Zoom Rooms for Conference Rooms signature verification](https://vuldb.com/?id.206684)|Visit link for details|2022-08-18 at 09:19|
+ |[sazanrjb InventoryManagementSystem CustomerDAO.java sql injection](https://vuldb.com/?id.206683)|Visit link for details|2022-08-18 at 09:18|
+ |[sazanrjb InventoryManagementSystem UserDAO.java sql injection](https://vuldb.com/?id.206682)|Visit link for details|2022-08-18 at 09:17|
+ |[sazanrjb InventoryManagementSystem SupplierDAO.java sql injection](https://vuldb.com/?id.206681)|Visit link for details|2022-08-18 at 09:17|
+ |[sazanrjb InventoryManagementSystem CustomerDAO.java sql injection](https://vuldb.com/?id.206680)|Visit link for details|2022-08-18 at 09:17|
+ |[sazanrjb InventoryManagementSystem UserDAO.java sql injection](https://vuldb.com/?id.206679)|Visit link for details|2022-08-18 at 09:16|
+ 
+ ---
+
+## IBMCLOUD [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apple iOS and iPadOS code execution (CVE-2022-32893)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 17, 2022|
+ |[Apple iOS and iPadOS privilege escalation (CVE-2022-32894)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 17, 2022|
+ |[Google Chrome Extensions API code execution (CVE-2022-2861)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 16, 2022|
+ |[Google Chrome Cookies security bypass (CVE-2022-2860)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 16, 2022|
+ |[Google Chrome Chrome OS Shell code execution (CVE-2022-2859)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 16, 2022|
+ |[Google Chrome Intents security bypass (CVE-2022-2856)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 16, 2022|
+ |[Google Chrome Downloads buffer overflow (CVE-2022-2853)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 16, 2022|
  
  ---
 
