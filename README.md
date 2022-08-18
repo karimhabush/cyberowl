@@ -4,11 +4,11 @@
 # CyberOwl
 
  > Last Updated 18/08/2022 09:11:23 UTC
- 
+
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
- 
+
  For more information, please check out the documentation [here](./docs/README.md).
- 
+
  ---
  |CyberOwl Sources|Description|
  |---|---|
@@ -19,7 +19,7 @@
  |[ZeroDayInitiative](#zerodayinitiative-arrow_heading_up)|An international software vulnerability initiative that was started in 2005 by TippingPoint.|
  |[OBS Vigilance](#obs-vigilance-arrow_heading_up)|Vigilance is an initiative created by OBS (Orange Business Services) since 1999 to watch public vulnerabilities and then offer security fixes, a database and tools to remediate them.|
  |[VulDB](#vuldb-arrow_heading_up)|Number one vulnerability database documenting and explaining security vulnerabilities, threats, and exploits since 1970.|
- 
+
  > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
  ---
 
@@ -33,7 +33,7 @@
  |[#StopRansomware: Zeppelin Ransomware](https://www.cisa.gov/uscert/ncas/current-activity/2022/08/11/stopransomware-zeppelin-ransomware)|<p>CISA and the Federal Bureau of Investigation (FBI) have released a joint Cybersecurity Advisory (CSA), <a href="https://www.cisa.gov/uscert/ncas/alerts/aa22-223a">#StopRansomware: Zeppelin Ransomware</a>, to provide information on Zeppelin Ransomware. Actors use Zeppelin Ransomware, a ransomware-as-a-service (RaaS), against a wide range of businesses and critical infrastructure organizations to encrypt victims’ files for financial gain.</p>|Thursday, August 11, 2022|
  |[Palo Alto Networks Releases Security Update for PAN-OS ](https://www.cisa.gov/uscert/ncas/current-activity/2022/08/10/palo-alto-networks-releases-security-update-pan-os)|<p>Palo Alto Networks has released a security update to address a vulnerability in PAN-OS firewall configurations. A remote attacker could exploit this vulnerability to conduct a reflected denial-of service.</p>|Wednesday, August 10, 2022|
  |[CISA Releases Cybersecurity Toolkit to Protect U.S. Elections ](https://www.cisa.gov/uscert/ncas/current-activity/2022/08/10/cisa-releases-cybersecurity-toolkit-protect-us-elections)|<p>CISA—through the <a href="https://www.cisa.gov/jcdc">Joint Cyber Defense Collaborative (JCDC)</a>—has released a toolkit of free cybersecurity resources for the election community. The toolkit aims to help state and local government officials, election officials, and vendors enhance the cybersecurity and cyber resilience of U.S. election infrastructure.</p>|Wednesday, August 10, 2022|
- 
+
  ---
 
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
@@ -50,10 +50,10 @@
  |[Vulnérabilité dans PostgreSQL JDBC](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-743/)|Une vulnérabilité a été découverte dans PostgreSQL JDBC. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 16 août 2022|
  |[Multiples vulnérabilités dans Qnap QTS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-742/)|De multiples vulnérabilités ont été découvertes dans Qnap QTS. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 16 août 2022|
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-741/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 12 août 2022|
- 
+
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
+## IBMCLOUD [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
@@ -68,7 +68,7 @@
  |[37751108/22 - Vulnérabilités dans les produits SAP](/fr/content/3775110822-vulnerabilites-dans-les-produits-sap.html)|SAP annonce la disponibilité d’une mise à jour de sécurité corrigeant plusieurs vulnérabilités affectant les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la confidentialité de...|11 août 2022|
  |[37731108/22 - Vulnérabilités dansles produits Intel](/fr/content/3773110822-vulnerabilites-dans-les-produits-intel.html)|Intel a publié une mise à jour de sécurité corrigeant plusieurs vulnérabilités recensées dans les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de porter atteinte à la confidentialité de données...|11 août 2022|
  |[37741108/22 - Vulnérabilités dans les produits Cisco](/fr/content/3774110822-vulnerabilites-dans-les-produits-cisco.html)|Plusieurs vulnérabilités ont été corrigées dans les produits Cisco susmentionnés. L’exploitation de ces failles permet à un attaquant d’exécuter du code arbitraire, de causer un déni de service, de porter atteinte aux informations...|11 août 2022|
- 
+
  ---
 
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
@@ -86,7 +86,7 @@
  |[<a href="https://vigilance.fr/vulnerability/Canna-file-read-write-via-UNIX-Socket-39058" class="noirorange"><b>Canna</b>: file read/write via UNIX Socket</a>](https://vigilance.fr/vulnerability/Canna-file-read-write-via-UNIX-Socket-39058)|An attacker can bypass access restrictions of Canna, via UNIX Socket, in order to read or alter files...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Windows-Defender-Credential-Guard-privilege-escalation-39057" class="noirorange"><b>Windows Defender Credential Guard</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Windows-Defender-Credential-Guard-privilege-escalation-39057)|An attacker can bypass restrictions of Windows Defender Credential Guard, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/rsync-file-write-via-do-server-recv-39055" class="noirorange"><b>rsync</b>: file write via do_server_recv()</a>](https://vigilance.fr/vulnerability/rsync-file-write-via-do-server-recv-39055)|An attacker can bypass access restrictions of rsync, via do_server_recv(), in order to alter files...|Visit link for details|
- 
+
  ---
 
 ## VulDB [:arrow_heading_up:](#cyberowl)
@@ -103,7 +103,7 @@
  |[sazanrjb InventoryManagementSystem SupplierDAO.java sql injection](https://vuldb.com/?id.206681)|Visit link for details|2022-08-18 at 09:17|
  |[sazanrjb InventoryManagementSystem CustomerDAO.java sql injection](https://vuldb.com/?id.206680)|Visit link for details|2022-08-18 at 09:17|
  |[sazanrjb InventoryManagementSystem UserDAO.java sql injection](https://vuldb.com/?id.206679)|Visit link for details|2022-08-18 at 09:16|
- 
+
  ---
 
 ## IBMCLOUD [:arrow_heading_up:](#cyberowl)
@@ -117,7 +117,7 @@
  |[Google Chrome Chrome OS Shell code execution (CVE-2022-2859)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 16, 2022|
  |[Google Chrome Intents security bypass (CVE-2022-2856)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 16, 2022|
  |[Google Chrome Downloads buffer overflow (CVE-2022-2853)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 16, 2022|
- 
+
  ---
 
 ## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
@@ -132,4 +132,3 @@
  |[Foxit PDF Reader AcroForm deletePages Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1062/)|Visit link for details|Aug. 5, 2022|
  |[Foxit PDF Reader AcroForm Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1061/)|Visit link for details|Aug. 5, 2022|
  |[Foxit PDF Reader PDF File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1060/)|Visit link for details|Aug. 5, 2022|
- 
