@@ -62,6 +62,20 @@ poetry run python src/cyberowl/main.py
 
 Cyberowl uses [mkdocs](https://www.mkdocs.org/) to generate the documentation.
 
+To generate the documentation, navigate to `./docs/` folder and run the following command:
+
+```bash
+mkdocs serve
+```
+You can now navigate to [http://localhost:8000/] to view the documentation.
+
+Or if you want to build it, run the following command:
+
+```bash
+mkdocs build
+```
+
+
 ## Testing
 
 Testing is a work in progress. It will be implemented very soon.
