@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 19/08/2022 09:12:04 UTC
+ > Last Updated 19/08/2022 21:10:47 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -42,28 +42,43 @@
  |---|---|---|
  |[Polar Flow for Android /data/data/fi.polar.polarflow/shared_prefs/UserData3.xm information disclosure](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 18, 2022|
  |[FreeBSD privilege escalation (CVE-2022-23090)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 18, 2022|
+ |[IBM MQ external entity injection (CVE-2022-22489)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 18, 2022|
  |[Weaveworks GitOps Tools Extension for VSCode code execution (CVE-2022-35976)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 17, 2022|
  |[Weaveworks GitOps Tools Extension for VSCode code execution (CVE-2022-35975)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 17, 2022|
  |[ipTIME NAS family cross-site request forgery (CVE-2022-23765)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 17, 2022|
  |[TERUTEN WebCube code execution (CVE-2022-23764)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 17, 2022|
- |[Apache ActiveMQ Artemis HTML injection (CVE-2022-35278)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 17, 2022|
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
+## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[Intel DSA access control](https://vuldb.com/?id.206784)|Visit link for details|2022-08-19 at 11:03|
- |[Intel Open AMT Cloud Toolkit improper authentication](https://vuldb.com/?id.206783)|Visit link for details|2022-08-19 at 11:02|
- |[Intel Data Center Manager access control](https://vuldb.com/?id.206782)|Visit link for details|2022-08-19 at 11:02|
- |[Intel Edge Insights improper authentication](https://vuldb.com/?id.206781)|Visit link for details|2022-08-19 at 11:02|
- |[Intel Data Center Manager access control](https://vuldb.com/?id.206780)|Visit link for details|2022-08-19 at 11:01|
- |[Intel PROSet/Wireless WiFi denial of service](https://vuldb.com/?id.206779)|Visit link for details|2022-08-19 at 11:00|
- |[Intel PROSet/Wireless WiFi denial of service](https://vuldb.com/?id.206778)|Visit link for details|2022-08-19 at 11:00|
- |[Intel PROSet/Wireless WiFi buffer overflow](https://vuldb.com/?id.206777)|Visit link for details|2022-08-19 at 11:00|
- |[Intel PROSet/Wireless WiFi inadequate encryption](https://vuldb.com/?id.206776)|Visit link for details|2022-08-19 at 10:59|
- |[Intel PROSet/Wireless WiFi/Killer WiFi denial of service](https://vuldb.com/?id.206775)|Visit link for details|2022-08-19 at 10:58|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-758/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu . Elles permettent à un attaquant de provoquer un déni de service et une atteinte à la confidentialité des données.|Publié le 19 août 2022|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-757/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service et une atteinte à l'intégrité des données.|Publié le 19 août 2022|
+ |[Vulnérabilité dans Apple Safari](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-756/)|Une vulnérabilité a été découverte dans Apple Safari. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 19 août 2022|
+ |[Multiples vulnérabilités dans IBM Spectrum](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-755/)|De multiples vulnérabilités ont été découvertes dans IBM Spectrum. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 19 août 2022|
+ |[Multiples vulnérabilités dans Nagios XI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-754/)|De multiples vulnérabilités ont été découvertes dans Nagios XI. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 19 août 2022|
+ |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-753/)|Une vulnérabilité a été corrigée dans |Publié le 18 août 2022|
+ |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-752/)|De multiples vulnérabilités ont été découvertes dans les produits Apple. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 18 août 2022|
+ |[Vulnérabilité dans Cisco AsyncOS for Secure Web Appliance](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-751/)|Une vulnérabilité a été découverte dans Cisco AsyncOS for Secure Web Appliance. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges.|Publié le 18 août 2022|
+ |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-750/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 17 août 2022|
+ |[Vulnérabilité dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-749/)|Une vulnérabilité a été découverte dans le noyau Linux de Red Hat. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 17 août 2022|
+ 
+ ---
+
+## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(Pwn2Own) Apple Safari Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1123/)|Visit link for details|Aug. 18, 2022|
+ |[ManageEngine OpManager Plus getUserAPIKey Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1122/)|Visit link for details|Aug. 18, 2022|
+ |[ManageEngine NetFlow Analyzer getUserAPIKey Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1121/)|Visit link for details|Aug. 18, 2022|
+ |[ManageEngine OpManager getUserAPIKey Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1120/)|Visit link for details|Aug. 18, 2022|
+ |[ManageEngine Network Configuration Manager getUserAPIKey Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1119/)|Visit link for details|Aug. 18, 2022|
+ |[(Pwn2Own) Linux Kernel nft_object Use-After-Free Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1118/)|Visit link for details|Aug. 18, 2022|
+ |[(Pwn2Own) Linux Kernel route4_change Double Free Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1117/)|Visit link for details|Aug. 18, 2022|
+ |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1116/)|Visit link for details|Aug. 18, 2022|
  
  ---
 
@@ -85,35 +100,20 @@
  
  ---
 
-## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
+## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[(Pwn2Own) Apple Safari Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1123/)|Visit link for details|Aug. 18, 2022|
- |[ManageEngine OpManager Plus getUserAPIKey Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1122/)|Visit link for details|Aug. 18, 2022|
- |[ManageEngine NetFlow Analyzer getUserAPIKey Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1121/)|Visit link for details|Aug. 18, 2022|
- |[ManageEngine OpManager getUserAPIKey Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1120/)|Visit link for details|Aug. 18, 2022|
- |[ManageEngine Network Configuration Manager getUserAPIKey Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1119/)|Visit link for details|Aug. 18, 2022|
- |[(Pwn2Own) Linux Kernel nft_object Use-After-Free Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1118/)|Visit link for details|Aug. 18, 2022|
- |[(Pwn2Own) Linux Kernel route4_change Double Free Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1117/)|Visit link for details|Aug. 18, 2022|
- |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1116/)|Visit link for details|Aug. 18, 2022|
- 
- ---
-
-## CERT-FR [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-753/)|Une vulnérabilité a été corrigée dans |Publié le 18 août 2022|
- |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-752/)|De multiples vulnérabilités ont été découvertes dans les produits Apple. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 18 août 2022|
- |[Vulnérabilité dans Cisco AsyncOS for Secure Web Appliance](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-751/)|Une vulnérabilité a été découverte dans Cisco AsyncOS for Secure Web Appliance. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges.|Publié le 18 août 2022|
- |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-750/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 17 août 2022|
- |[Vulnérabilité dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-749/)|Une vulnérabilité a été découverte dans le noyau Linux de Red Hat. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 17 août 2022|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-748/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 17 août 2022|
- |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-747/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 17 août 2022|
- |[Multiples vulnérabilités dans Splunk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-746/)|De multiples vulnérabilités ont été découvertes dans Splunk. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 17 août 2022|
- |[Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-745/)|De multiples vulnérabilités ont été corrigées dans |Publié le 16 août 2022|
- |[Multiples vulnérabilités dans Apache OpenOffice](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-744/)|De multiples vulnérabilités ont été découvertes dans Apache OpenOffice. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 16 août 2022|
+ |[Cisco Secure Web Appliance HTTP os command injection](https://vuldb.com/?id.206846)|Visit link for details|2022-08-19 at 21:50|
+ |[SourceCodester Simple and Nice Shopping Cart Script profile.php unrestricted upload](https://vuldb.com/?id.206845)|Visit link for details|2022-08-19 at 21:47|
+ |[Wellcms cross-site request forgery](https://vuldb.com/?id.206844)|Visit link for details|2022-08-19 at 21:46|
+ |[EyouCMS Column Management cross-site request forgery](https://vuldb.com/?id.206843)|Visit link for details|2022-08-19 at 21:45|
+ |[XunRuiCMS cross-site request forgery](https://vuldb.com/?id.206842)|Visit link for details|2022-08-19 at 21:45|
+ |[jizhicms sql injection](https://vuldb.com/?id.206841)|Visit link for details|2022-08-19 at 21:44|
+ |[Jellyfin Access Token cross site scripting](https://vuldb.com/?id.206840)|Visit link for details|2022-08-19 at 21:44|
+ |[JIZHICMS cross-site request forgery](https://vuldb.com/?id.206839)|Visit link for details|2022-08-19 at 21:43|
+ |[StreamLabs Desktop Application obs64.exe access control](https://vuldb.com/?id.206838)|Visit link for details|2022-08-19 at 21:43|
+ |[Mealie GET channel accessible](https://vuldb.com/?id.206837)|Visit link for details|2022-08-19 at 21:41|
  
  ---
 
@@ -121,6 +121,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[37871908/22 - « Zero-Day » affectant le navigateur Apple Safari ](/fr/content/3787190822-zero-day-affectant-le-navigateur-apple-safari.html)|Apple annonce la correction d’une vulnérabilité critique affectant les versions susmentionnées de son navigateur Safari. Selon Apple cette vulnérabilité est activement exploitée et peut permettre à un attaquant distant d’exécuter du code...|19 août 2022|
+ |[37861908/22 - Vulnérabilité dans Cisco AsyncOS for Secure Web Appliance](/fr/content/3786190822-vulnerabilite-dans-cisco-asyncos-secure-web-appliance.html)|Une vulnérabilité a été corrigée dans Cisco AsyncOS for Secure Web Appliance. L’exploitation de cette faille pourrait permettre à un attaquant d’exécuter du code arbitraire à distance et de réussir une élévation de privilèges.|19 août 2022|
  |[37841808/22 - Vulnérabilités critiques affectantle navigateur Google Chrome ](/fr/content/3784180822-vulnerabilites-critiques-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilitésaffectant le navigateur Google Chrome. Une de ces vulnérabilités identifiée par «CVE-2022-2856 » est activement exploitéeL’...|18 août 2022|
  |[37851708/22 - Vulnérabilités dans macOS Monterey](/fr/content/3785170822-vulnerabilites-dans-macos-monterey.html)|Deux vulnérabilités ont été corrigées dans macOS Monterey. L’exploitation de ces failles pourrait permettre à un attaquant d’exécuter du code arbitraire à distance. Apple confirme que ces deux vulnérabilités sont activement exploitées.|18 août 2022|
  |[37831708/22 - Vulnérabilités dans Zimbra](/fr/content/3783170822-vulnerabilites-dans-zimbra.html)|Plusieurs vulnérabilités ont été corrigées dans Zimbra. L’exploitation de ces failles pourrait permettre à un attaquant d’exécuter du code arbitraire à distance et de porter atteinte à la confidentialité des données.|17 août 2022|
@@ -130,6 +132,4 @@
  |[37791508/22 - Vulnérabilités dans PostgreSQL](/fr/content/3779150822-vulnerabilites-dans-postgresql.html)|Deux vulnérabilités ont été corrigées dans les versions PostgreSQL susmentionnées. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance, de causer un déni de service et de porter atteinte à...|15 août 2022|
  |[37781208/22 - Vulnérabilités dans les produits Siemens](/fr/content/3778120822-vulnerabilites-dans-les-produits-siemens.html)|Plusieurs vulnérabilités ont été corrigées dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à dis-tance, réussir une élévation de privilèges, causer un...|12 août 2022|
  |[37771208/22 - Vulnérabilités dans les produits SonicWall](/fr/content/3777120822-vulnerabilites-dans-les-produits-sonicwall.html)|Deux vulnérabilités ont été corrigées dans les produits SonicWall susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de réussir une élévation de privilèges et de porter atteinteà la confidentialité des données.|12 août 2022|
- |[37761208/22 - Vulnérabilité dans les produits Palo Alto ](/fr/content/3776120822-vulnerabilite-dans-les-produits-palo-alto.html)|Une vulnérabilité a été corrigée dans les produits Palo Alto susmentionnés. L'exploitation de cette faille pourrait permettre à un attaquant de causer un déni de service.|12 août 2022|
- |[37751108/22 - Vulnérabilités dans les produits SAP](/fr/content/3775110822-vulnerabilites-dans-les-produits-sap.html)|SAP annonce la disponibilité d’une mise à jour de sécurité corrigeant plusieurs vulnérabilités affectant les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la confidentialité de...|11 août 2022|
  
