@@ -31,7 +31,7 @@ class MDTemplate:
         """
         Linebreak then adds the text if given.
         """
-        self.__buffer = f"{self.buffer}\n {text}"
+        self.__buffer = f"{self.buffer}\n{text}"
 
     def new_header(self, level, text) -> str:
         """
@@ -46,7 +46,7 @@ class MDTemplate:
         elif level == 4:
             self.__buffer = f"{self.buffer}\n\n#### {text}\n"
         else:
-            self.__buffer = f"{self.buffer}\n\n{text}\n"
+            self.__buffer = f"{self.buffer}\n{text}\n"
 
     def generate_table(self, data: list) -> None:
         """
