@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 18/08/2022 21:11:04 UTC
+ > Last Updated 19/08/2022 09:12:04 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -30,26 +30,9 @@
  |[CISA releases 5 Industrial Control Systems Advisories](https://www.cisa.gov/uscert/ncas/current-activity/2022/08/18/cisa-releases-5-industrial-control-systems-advisories)|<p class="MsoNormal">CISA has released 5 Industrial Control Systems (ICS) advisories on August 18, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p>|Thursday, August 18, 2022|
  |[Cisco Releases Security Update for Cisco Secure Web Appliance](https://www.cisa.gov/uscert/ncas/current-activity/2022/08/18/cisco-releases-security-update-cisco-secure-web-appliance)|<p>Cisco has released security updates to address vulnerabilities in Cisco Secure Web Appliance. A remote attacker could exploit some of these vulnerabilities to take control of an affected system. For updates addressing lower severity vulnerabilities, see the <a href="https://tools.cisco.com/security/center/publicationListing.x">Cisco Security Advisories</a> page. <br> </p>|Thursday, August 18, 2022|
  |[CISA Adds Seven Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2022/08/18/cisa-adds-seven-known-exploited-vulnerabilities-catalog)|<p>CISA has added seven new vulnerabilities to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: to view the newly added vulnerabilities in the catalog, click on the arrow in the “Date Added to Catalog” column, which will sort by descending dates. <br> </p>|Thursday, August 18, 2022|
- |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/uscert/ncas/current-activity/2022/08/18/apple-releases-security-updates-multiple-products)|<p>Apple has released security updates to address vulnerabilities in macOS Monterey, iOS and iPadOS. An attacker could exploit one of these vulnerabilities to take control of an affected device.</p>|Thursday, August 18, 2022|
+ |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/uscert/ncas/current-activity/2022/08/18/apple-releases-security-updates-multiple-products)|<p>Apple has released security updates to address vulnerabilities in macOS Monterey, iOS and iPadOS, and Safari. An attacker could exploit one of these vulnerabilities to take control of an affected device.</p>|Thursday, August 18, 2022|
  |[Threat Actors Exploiting Multiple Vulnerabilities Against Zimbra Collaboration Suite](https://www.cisa.gov/uscert/ncas/current-activity/2022/08/16/threat-actors-exploiting-multiple-vulnerabilities-against-zimbra)|<p>CISA and the Multi-State Information Sharing &amp; Analysis Center (MS-ISAC) have released a <a href="https://www.cisa.gov/uscert/ncas/alerts/aa22-228a">joint Cybersecurity Advisory (CSA)</a> in response to active exploitation of multiple vulnerabilities against Zimbra Collaboration Suite (ZCS), an enterprise cloud-hosted collaboration software and email platform. </p>|Tuesday, August 16, 2022|
  |[CISA Adds Two Known Exploited Vulnerabilities to Catalog ](https://www.cisa.gov/uscert/ncas/current-activity/2022/08/11/cisa-adds-two-known-exploited-vulnerabilities-catalog)|<p>CISA has added two new vulnerabilities to its<a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog"> Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: to view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates. </p>|Thursday, August 11, 2022|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[McAfee Security Scan Plus Configuration File integrity check](https://vuldb.com/?id.206726)|Visit link for details|2022-08-18 at 20:49|
- |[Hyperledger Fabric Gateway Client Application denial of service](https://vuldb.com/?id.206725)|Visit link for details|2022-08-18 at 20:49|
- |[vim null pointer dereference](https://vuldb.com/?id.206724)|Visit link for details|2022-08-18 at 20:48|
- |[FLIR AX8 pathname traversal](https://vuldb.com/?id.206723)|Visit link for details|2022-08-18 at 20:48|
- |[Qualys Cloud Agent access control](https://vuldb.com/?id.206722)|Visit link for details|2022-08-18 at 20:47|
- |[Qualys Cloud Agent qualys-cloud-agent-scan.log log file](https://vuldb.com/?id.206721)|Visit link for details|2022-08-18 at 20:46|
- |[py-cord Slash Command discord.py access control](https://vuldb.com/?id.206720)|Visit link for details|2022-08-18 at 20:44|
- |[Google Chrome Extensions API Privilege Escalation](https://vuldb.com/?id.206719)|Visit link for details|2022-08-18 at 20:39|
- |[Google Chrome Cookies Privilege Escalation](https://vuldb.com/?id.206718)|Visit link for details|2022-08-18 at 20:39|
- |[Google Chrome OS Shell use after free](https://vuldb.com/?id.206717)|Visit link for details|2022-08-18 at 20:38|
  
  ---
 
@@ -57,13 +40,30 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Sourcecodester Student Management System SQL injection (CVE-2022-2876)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 17, 2022|
- |[Clinic's Patient Management System cross-site scripting (CVE-2022-35117)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 17, 2022|
- |[Cisco Secure Web Appliance privilege escalation (CVE-2022-20871)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 17, 2022|
- |[Apple iOS and iPadOS code execution (CVE-2022-32893)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 17, 2022|
- |[Apple iOS and iPadOS privilege escalation (CVE-2022-32894)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 17, 2022|
- |[Timetable and Event Schedule plugin for WordPress cross-site scripting (CVE-2022-2843)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 16, 2022|
- |[Timetable and Event Schedule plugin for WordPress cross-site scripting (CVE-2022-2844)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 16, 2022|
+ |[Polar Flow for Android /data/data/fi.polar.polarflow/shared_prefs/UserData3.xm information disclosure](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 18, 2022|
+ |[FreeBSD privilege escalation (CVE-2022-23090)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 18, 2022|
+ |[Weaveworks GitOps Tools Extension for VSCode code execution (CVE-2022-35976)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 17, 2022|
+ |[Weaveworks GitOps Tools Extension for VSCode code execution (CVE-2022-35975)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 17, 2022|
+ |[ipTIME NAS family cross-site request forgery (CVE-2022-23765)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 17, 2022|
+ |[TERUTEN WebCube code execution (CVE-2022-23764)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 17, 2022|
+ |[Apache ActiveMQ Artemis HTML injection (CVE-2022-35278)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 17, 2022|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Intel DSA access control](https://vuldb.com/?id.206784)|Visit link for details|2022-08-19 at 11:03|
+ |[Intel Open AMT Cloud Toolkit improper authentication](https://vuldb.com/?id.206783)|Visit link for details|2022-08-19 at 11:02|
+ |[Intel Data Center Manager access control](https://vuldb.com/?id.206782)|Visit link for details|2022-08-19 at 11:02|
+ |[Intel Edge Insights improper authentication](https://vuldb.com/?id.206781)|Visit link for details|2022-08-19 at 11:02|
+ |[Intel Data Center Manager access control](https://vuldb.com/?id.206780)|Visit link for details|2022-08-19 at 11:01|
+ |[Intel PROSet/Wireless WiFi denial of service](https://vuldb.com/?id.206779)|Visit link for details|2022-08-19 at 11:00|
+ |[Intel PROSet/Wireless WiFi denial of service](https://vuldb.com/?id.206778)|Visit link for details|2022-08-19 at 11:00|
+ |[Intel PROSet/Wireless WiFi buffer overflow](https://vuldb.com/?id.206777)|Visit link for details|2022-08-19 at 11:00|
+ |[Intel PROSet/Wireless WiFi inadequate encryption](https://vuldb.com/?id.206776)|Visit link for details|2022-08-19 at 10:59|
+ |[Intel PROSet/Wireless WiFi/Killer WiFi denial of service](https://vuldb.com/?id.206775)|Visit link for details|2022-08-19 at 10:58|
  
  ---
 
@@ -71,6 +71,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/FreeBSD-buffer-overflow-via-9p-Message-Handling-39082" class="noirorange"><b>FreeBSD</b>: buffer overflow via 9p Message Handling</a>](https://vigilance.fr/vulnerability/FreeBSD-buffer-overflow-via-9p-Message-Handling-39082)|An attacker, in a guest system, can trigger a buffer overflow of FreeBSD, via 9p Message Handling, in order to trigger a denial of service, and possibly to run code on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FreeBSD-memory-reading-via-Stale-Virtual-Memory-Mapping-39081" class="noirorange"><b>FreeBSD</b>: memory reading via Stale Virtual Memory Mapping</a>](https://vigilance.fr/vulnerability/FreeBSD-memory-reading-via-Stale-Virtual-Memory-Mapping-39081)|An attacker can read a memory fragment of FreeBSD, via Stale Virtual Memory Mapping, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FreeBSD-reuse-after-free-via-AIO-Credential-39080" class="noirorange"><b>FreeBSD</b>: reuse after free via AIO Credential</a>](https://vigilance.fr/vulnerability/FreeBSD-reuse-after-free-via-AIO-Credential-39080)|An attacker can force the reuse of a freed memory area of FreeBSD, via AIO Credential, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-external-XML-entity-injection-via-Explorer-Import-Wizard-39077" class="noirorange"><b>IBM MQ</b>: external XML entity injection via Explorer Import Wizard</a>](https://vigilance.fr/vulnerability/IBM-MQ-external-XML-entity-injection-via-Explorer-Import-Wizard-39077)|An attacker can transmit malicious XML data to IBM MQ, via Explorer Import Wizard, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/schroot-privilege-escalation-via-Session-Names-39076" class="noirorange"><b>schroot</b>: privilege escalation via Session Names</a>](https://vigilance.fr/vulnerability/schroot-privilege-escalation-via-Session-Names-39076)|An attacker can bypass restrictions of schroot, via Session Names, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/LibTIFF-integer-overflow-via-tiffcrop-extractContigSamplesShifted16bits-39075" class="noirorange"><b>LibTIFF</b>: integer overflow via tiffcrop <wbr>extractContigSamples<wbr>Shifted16bits()</wbr></wbr></a>](https://vigilance.fr/vulnerability/LibTIFF-integer-overflow-via-tiffcrop-extractContigSamplesShifted16bits-39075)|An attacker can trigger an integer overflow of LibTIFF, via tiffcrop |Visit link for details|
@@ -79,9 +82,21 @@
  |[<a href="https://vigilance.fr/vulnerability/QEMU-overload-via-xhci-ring-chain-length-39072" class="noirorange"><b>QEMU</b>: overload via <wbr>xhci_ring_chain_leng<wbr>th()</wbr></wbr></a>](https://vigilance.fr/vulnerability/QEMU-overload-via-xhci-ring-chain-length-39072)|An attacker can trigger an overload of QEMU, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/QEMU-reuse-after-free-via-lsi-do-msgout-39071" class="noirorange"><b>QEMU</b>: reuse after free via lsi_do_msgout()</a>](https://vigilance.fr/vulnerability/QEMU-reuse-after-free-via-lsi-do-msgout-39071)|An attacker, in a guest system, can force the reuse of a freed memory area of QEMU, via lsi_do_msgout(), in order to trigger a denial of service, and possibly to run code on the host system...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-two-vulnerabilities-39070" class="noirorange"><b>Apple iOS/macOS</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-two-vulnerabilities-39070)|An attacker can use several vulnerabilities of Apple iOS/macOS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Secure-Web-Appliance-privilege-escalation-via-Command-Injection-39068" class="noirorange"><b>Cisco Secure Web Appliance</b>: privilege escalation via Command Injection</a>](https://vigilance.fr/vulnerability/Cisco-Secure-Web-Appliance-privilege-escalation-via-Command-Injection-39068)|An attacker can bypass restrictions of Cisco Secure Web Appliance, via Command Injection, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libxml2-ten-vulnerabilities-39067" class="noirorange"><b>libxml2</b>: ten vulnerabilities</a>](https://vigilance.fr/vulnerability/libxml2-ten-vulnerabilities-39067)|An attacker can use several vulnerabilities of libxml2...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-39065" class="noirorange"><b>Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-39065)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
+ 
+ ---
+
+## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(Pwn2Own) Apple Safari Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1123/)|Visit link for details|Aug. 18, 2022|
+ |[ManageEngine OpManager Plus getUserAPIKey Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1122/)|Visit link for details|Aug. 18, 2022|
+ |[ManageEngine NetFlow Analyzer getUserAPIKey Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1121/)|Visit link for details|Aug. 18, 2022|
+ |[ManageEngine OpManager getUserAPIKey Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1120/)|Visit link for details|Aug. 18, 2022|
+ |[ManageEngine Network Configuration Manager getUserAPIKey Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1119/)|Visit link for details|Aug. 18, 2022|
+ |[(Pwn2Own) Linux Kernel nft_object Use-After-Free Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1118/)|Visit link for details|Aug. 18, 2022|
+ |[(Pwn2Own) Linux Kernel route4_change Double Free Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1117/)|Visit link for details|Aug. 18, 2022|
+ |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1116/)|Visit link for details|Aug. 18, 2022|
  
  ---
 
@@ -117,19 +132,4 @@
  |[37771208/22 - Vulnérabilités dans les produits SonicWall](/fr/content/3777120822-vulnerabilites-dans-les-produits-sonicwall.html)|Deux vulnérabilités ont été corrigées dans les produits SonicWall susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de réussir une élévation de privilèges et de porter atteinteà la confidentialité des données.|12 août 2022|
  |[37761208/22 - Vulnérabilité dans les produits Palo Alto ](/fr/content/3776120822-vulnerabilite-dans-les-produits-palo-alto.html)|Une vulnérabilité a été corrigée dans les produits Palo Alto susmentionnés. L'exploitation de cette faille pourrait permettre à un attaquant de causer un déni de service.|12 août 2022|
  |[37751108/22 - Vulnérabilités dans les produits SAP](/fr/content/3775110822-vulnerabilites-dans-les-produits-sap.html)|SAP annonce la disponibilité d’une mise à jour de sécurité corrigeant plusieurs vulnérabilités affectant les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la confidentialité de...|11 août 2022|
- 
- ---
-
-## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Windows win32kfull Bitmap Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1075/)|Visit link for details|Aug. 18, 2022|
- |[Microsoft Outlook MIME Header Heap Corruption Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1074/)|Visit link for details|Aug. 18, 2022|
- |[Microsoft Windows Untrusted Script Execution Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1073/)|Visit link for details|Aug. 18, 2022|
- |[(Pwn2Own) Microsoft Windows partmgr Integer Overflow Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1072/)|Visit link for details|Aug. 18, 2022|
- |[(Pwn2Own) Microsoft Windows partmgr Improper Authorization Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1071/)|Visit link for details|Aug. 18, 2022|
- |[(Pwn2Own) Microsoft Windows vhdmp Driver Improper Authorization Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1070/)|Visit link for details|Aug. 18, 2022|
- |[(Pwn2Own) Microsoft Windows cdd Driver Memory Corruption Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1069/)|Visit link for details|Aug. 18, 2022|
- |[(Pwn2Own) Microsoft Windows bthport Driver Improper Authorization Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1068/)|Visit link for details|Aug. 18, 2022|
  
