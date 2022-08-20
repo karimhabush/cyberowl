@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 19/08/2022 21:10:47 UTC
+ > Last Updated 20/08/2022 09:11:33 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -23,33 +23,6 @@
  > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
  ---
 
-## US-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA releases 5 Industrial Control Systems Advisories](https://www.cisa.gov/uscert/ncas/current-activity/2022/08/18/cisa-releases-5-industrial-control-systems-advisories)|<p class="MsoNormal">CISA has released 5 Industrial Control Systems (ICS) advisories on August 18, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p>|Thursday, August 18, 2022|
- |[Cisco Releases Security Update for Cisco Secure Web Appliance](https://www.cisa.gov/uscert/ncas/current-activity/2022/08/18/cisco-releases-security-update-cisco-secure-web-appliance)|<p>Cisco has released security updates to address vulnerabilities in Cisco Secure Web Appliance. A remote attacker could exploit some of these vulnerabilities to take control of an affected system. For updates addressing lower severity vulnerabilities, see the <a href="https://tools.cisco.com/security/center/publicationListing.x">Cisco Security Advisories</a> page. <br> </p>|Thursday, August 18, 2022|
- |[CISA Adds Seven Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2022/08/18/cisa-adds-seven-known-exploited-vulnerabilities-catalog)|<p>CISA has added seven new vulnerabilities to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: to view the newly added vulnerabilities in the catalog, click on the arrow in the “Date Added to Catalog” column, which will sort by descending dates. <br> </p>|Thursday, August 18, 2022|
- |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/uscert/ncas/current-activity/2022/08/18/apple-releases-security-updates-multiple-products)|<p>Apple has released security updates to address vulnerabilities in macOS Monterey, iOS and iPadOS, and Safari. An attacker could exploit one of these vulnerabilities to take control of an affected device.</p>|Thursday, August 18, 2022|
- |[Threat Actors Exploiting Multiple Vulnerabilities Against Zimbra Collaboration Suite](https://www.cisa.gov/uscert/ncas/current-activity/2022/08/16/threat-actors-exploiting-multiple-vulnerabilities-against-zimbra)|<p>CISA and the Multi-State Information Sharing &amp; Analysis Center (MS-ISAC) have released a <a href="https://www.cisa.gov/uscert/ncas/alerts/aa22-228a">joint Cybersecurity Advisory (CSA)</a> in response to active exploitation of multiple vulnerabilities against Zimbra Collaboration Suite (ZCS), an enterprise cloud-hosted collaboration software and email platform. </p>|Tuesday, August 16, 2022|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog ](https://www.cisa.gov/uscert/ncas/current-activity/2022/08/11/cisa-adds-two-known-exploited-vulnerabilities-catalog)|<p>CISA has added two new vulnerabilities to its<a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog"> Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: to view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates. </p>|Thursday, August 11, 2022|
- 
- ---
-
-## IBMCLOUD [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Polar Flow for Android /data/data/fi.polar.polarflow/shared_prefs/UserData3.xm information disclosure](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 18, 2022|
- |[FreeBSD privilege escalation (CVE-2022-23090)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 18, 2022|
- |[IBM MQ external entity injection (CVE-2022-22489)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 18, 2022|
- |[Weaveworks GitOps Tools Extension for VSCode code execution (CVE-2022-35976)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 17, 2022|
- |[Weaveworks GitOps Tools Extension for VSCode code execution (CVE-2022-35975)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 17, 2022|
- |[ipTIME NAS family cross-site request forgery (CVE-2022-23765)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 17, 2022|
- |[TERUTEN WebCube code execution (CVE-2022-23764)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 17, 2022|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -67,18 +40,21 @@
  
  ---
 
-## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
+## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[(Pwn2Own) Apple Safari Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1123/)|Visit link for details|Aug. 18, 2022|
- |[ManageEngine OpManager Plus getUserAPIKey Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1122/)|Visit link for details|Aug. 18, 2022|
- |[ManageEngine NetFlow Analyzer getUserAPIKey Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1121/)|Visit link for details|Aug. 18, 2022|
- |[ManageEngine OpManager getUserAPIKey Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1120/)|Visit link for details|Aug. 18, 2022|
- |[ManageEngine Network Configuration Manager getUserAPIKey Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1119/)|Visit link for details|Aug. 18, 2022|
- |[(Pwn2Own) Linux Kernel nft_object Use-After-Free Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1118/)|Visit link for details|Aug. 18, 2022|
- |[(Pwn2Own) Linux Kernel route4_change Double Free Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1117/)|Visit link for details|Aug. 18, 2022|
- |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1116/)|Visit link for details|Aug. 18, 2022|
+ |[37871908/22 - « Zero-Day » affectant le navigateur Apple Safari ](/fr/content/3787190822-zero-day-affectant-le-navigateur-apple-safari.html)|Apple annonce la correction d’une vulnérabilité critique affectant les versions susmentionnées de son navigateur Safari. Selon Apple cette vulnérabilité est activement exploitée et peut permettre à un attaquant distant d’exécuter du code...|19 août 2022|
+ |[37861908/22 - Vulnérabilité dans Cisco AsyncOS for Secure Web Appliance](/fr/content/3786190822-vulnerabilite-dans-cisco-asyncos-secure-web-appliance.html)|Une vulnérabilité a été corrigée dans Cisco AsyncOS for Secure Web Appliance. L’exploitation de cette faille pourrait permettre à un attaquant d’exécuter du code arbitraire à distance et de réussir une élévation de privilèges.|19 août 2022|
+ |[37841808/22 - Vulnérabilités critiques affectantle navigateur Google Chrome ](/fr/content/3784180822-vulnerabilites-critiques-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilitésaffectant le navigateur Google Chrome. Une de ces vulnérabilités identifiée par «CVE-2022-2856 » est activement exploitéeL’...|18 août 2022|
+ |[37851708/22 - Vulnérabilités dans macOS Monterey](/fr/content/3785170822-vulnerabilites-dans-macos-monterey.html)|Deux vulnérabilités ont été corrigées dans macOS Monterey. L’exploitation de ces failles pourrait permettre à un attaquant d’exécuter du code arbitraire à distance. Apple confirme que ces deux vulnérabilités sont activement exploitées.|18 août 2022|
+ |[37831708/22 - Vulnérabilités dans Zimbra](/fr/content/3783170822-vulnerabilites-dans-zimbra.html)|Plusieurs vulnérabilités ont été corrigées dans Zimbra. L’exploitation de ces failles pourrait permettre à un attaquant d’exécuter du code arbitraire à distance et de porter atteinte à la confidentialité des données.|17 août 2022|
+ |[37821708/22 - Vulnérabilités affectant des produits QNAP ](/fr/content/3782170822-vulnerabilites-affectant-des-produits-qnap.html)|QNAP annonce la disponibilité de mises à jour de sécurité permettant la correctionde plusieurs vulnérabilités affectant ses produits susmentionnés. L'exploitationde ces vulnérabilités peut permettre à un attaquant distant d’...|17 août 2022|
+ |[37811608/22 - Vulnérabilités dans Microsoft Windows ](/fr/content/3781160822-vulnerabilites-dans-microsoft-windows.html)|Microsoft annonce la correction de deux vulnérabilités affectant lessystèmes d’exploitation Windows susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges ou de contourner...|16 août 2022|
+ |[37801608/22 - Vulnérabilités dans les produits de vidéoconférence ZOOM ](/fr/content/3780160822-vulnerabilites-dans-les-produits-de-videoconference-zoom.html)|Zoom annonce la correction de plusieurs vulnérabilités critiques affectant les produits susmentionnés de vidéoconférence Zoom. L’exploitation de ces failles peut permettre à un attaquant local d’avoir les privilèges d’un utilisateur « root...|16 août 2022|
+ |[37791508/22 - Vulnérabilités dans PostgreSQL](/fr/content/3779150822-vulnerabilites-dans-postgresql.html)|Deux vulnérabilités ont été corrigées dans les versions PostgreSQL susmentionnées. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance, de causer un déni de service et de porter atteinte à...|15 août 2022|
+ |[37781208/22 - Vulnérabilités dans les produits Siemens](/fr/content/3778120822-vulnerabilites-dans-les-produits-siemens.html)|Plusieurs vulnérabilités ont été corrigées dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à dis-tance, réussir une élévation de privilèges, causer un...|12 août 2022|
+ |[37771208/22 - Vulnérabilités dans les produits SonicWall](/fr/content/3777120822-vulnerabilites-dans-les-produits-sonicwall.html)|Deux vulnérabilités ont été corrigées dans les produits SonicWall susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de réussir une élévation de privilèges et de porter atteinteà la confidentialité des données.|12 août 2022|
  
  ---
 
@@ -104,32 +80,56 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Cisco Secure Web Appliance HTTP os command injection](https://vuldb.com/?id.206846)|Visit link for details|2022-08-19 at 21:50|
- |[SourceCodester Simple and Nice Shopping Cart Script profile.php unrestricted upload](https://vuldb.com/?id.206845)|Visit link for details|2022-08-19 at 21:47|
- |[Wellcms cross-site request forgery](https://vuldb.com/?id.206844)|Visit link for details|2022-08-19 at 21:46|
- |[EyouCMS Column Management cross-site request forgery](https://vuldb.com/?id.206843)|Visit link for details|2022-08-19 at 21:45|
- |[XunRuiCMS cross-site request forgery](https://vuldb.com/?id.206842)|Visit link for details|2022-08-19 at 21:45|
- |[jizhicms sql injection](https://vuldb.com/?id.206841)|Visit link for details|2022-08-19 at 21:44|
- |[Jellyfin Access Token cross site scripting](https://vuldb.com/?id.206840)|Visit link for details|2022-08-19 at 21:44|
- |[JIZHICMS cross-site request forgery](https://vuldb.com/?id.206839)|Visit link for details|2022-08-19 at 21:43|
- |[StreamLabs Desktop Application obs64.exe access control](https://vuldb.com/?id.206838)|Visit link for details|2022-08-19 at 21:43|
- |[Mealie GET channel accessible](https://vuldb.com/?id.206837)|Visit link for details|2022-08-19 at 21:41|
+ |[Project-Nexus sql injection](https://vuldb.com/?id.206870)|Visit link for details|2022-08-20 at 09:15|
+ |[chatwoot cross site scripting](https://vuldb.com/?id.206869)|Visit link for details|2022-08-20 at 09:13|
+ |[BPC SmartVista Error Message cross site scripting](https://vuldb.com/?id.206868)|Visit link for details|2022-08-20 at 09:12|
+ |[Tenda AC15 httpd formWifiBasicSet stack-based overflow](https://vuldb.com/?id.206867)|Visit link for details|2022-08-20 at 09:12|
+ |[Tenda AC9 httpd buffer overflow](https://vuldb.com/?id.206866)|Visit link for details|2022-08-20 at 09:11|
+ |[MapGIS IGServer denial of service](https://vuldb.com/?id.206865)|Visit link for details|2022-08-20 at 09:11|
+ |[MapGIS IGServer hard-coded credentials](https://vuldb.com/?id.206864)|Visit link for details|2022-08-20 at 09:10|
+ |[XXL-JOB permission](https://vuldb.com/?id.206863)|Visit link for details|2022-08-20 at 09:09|
+ |[Emerson Electric Proficy Machine Edition integrity check](https://vuldb.com/?id.206862)|Visit link for details|2022-08-20 at 09:08|
+ |[Emerson Electric Proficy Machine Edition access control](https://vuldb.com/?id.206861)|Visit link for details|2022-08-20 at 09:06|
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
+## IBMCLOUD [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[37871908/22 - « Zero-Day » affectant le navigateur Apple Safari ](/fr/content/3787190822-zero-day-affectant-le-navigateur-apple-safari.html)|Apple annonce la correction d’une vulnérabilité critique affectant les versions susmentionnées de son navigateur Safari. Selon Apple cette vulnérabilité est activement exploitée et peut permettre à un attaquant distant d’exécuter du code...|19 août 2022|
- |[37861908/22 - Vulnérabilité dans Cisco AsyncOS for Secure Web Appliance](/fr/content/3786190822-vulnerabilite-dans-cisco-asyncos-secure-web-appliance.html)|Une vulnérabilité a été corrigée dans Cisco AsyncOS for Secure Web Appliance. L’exploitation de cette faille pourrait permettre à un attaquant d’exécuter du code arbitraire à distance et de réussir une élévation de privilèges.|19 août 2022|
- |[37841808/22 - Vulnérabilités critiques affectantle navigateur Google Chrome ](/fr/content/3784180822-vulnerabilites-critiques-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilitésaffectant le navigateur Google Chrome. Une de ces vulnérabilités identifiée par «CVE-2022-2856 » est activement exploitéeL’...|18 août 2022|
- |[37851708/22 - Vulnérabilités dans macOS Monterey](/fr/content/3785170822-vulnerabilites-dans-macos-monterey.html)|Deux vulnérabilités ont été corrigées dans macOS Monterey. L’exploitation de ces failles pourrait permettre à un attaquant d’exécuter du code arbitraire à distance. Apple confirme que ces deux vulnérabilités sont activement exploitées.|18 août 2022|
- |[37831708/22 - Vulnérabilités dans Zimbra](/fr/content/3783170822-vulnerabilites-dans-zimbra.html)|Plusieurs vulnérabilités ont été corrigées dans Zimbra. L’exploitation de ces failles pourrait permettre à un attaquant d’exécuter du code arbitraire à distance et de porter atteinte à la confidentialité des données.|17 août 2022|
- |[37821708/22 - Vulnérabilités affectant des produits QNAP ](/fr/content/3782170822-vulnerabilites-affectant-des-produits-qnap.html)|QNAP annonce la disponibilité de mises à jour de sécurité permettant la correctionde plusieurs vulnérabilités affectant ses produits susmentionnés. L'exploitationde ces vulnérabilités peut permettre à un attaquant distant d’...|17 août 2022|
- |[37811608/22 - Vulnérabilités dans Microsoft Windows ](/fr/content/3781160822-vulnerabilites-dans-microsoft-windows.html)|Microsoft annonce la correction de deux vulnérabilités affectant lessystèmes d’exploitation Windows susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges ou de contourner...|16 août 2022|
- |[37801608/22 - Vulnérabilités dans les produits de vidéoconférence ZOOM ](/fr/content/3780160822-vulnerabilites-dans-les-produits-de-videoconference-zoom.html)|Zoom annonce la correction de plusieurs vulnérabilités critiques affectant les produits susmentionnés de vidéoconférence Zoom. L’exploitation de ces failles peut permettre à un attaquant local d’avoir les privilèges d’un utilisateur « root...|16 août 2022|
- |[37791508/22 - Vulnérabilités dans PostgreSQL](/fr/content/3779150822-vulnerabilites-dans-postgresql.html)|Deux vulnérabilités ont été corrigées dans les versions PostgreSQL susmentionnées. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance, de causer un déni de service et de porter atteinte à...|15 août 2022|
- |[37781208/22 - Vulnérabilités dans les produits Siemens](/fr/content/3778120822-vulnerabilites-dans-les-produits-siemens.html)|Plusieurs vulnérabilités ont été corrigées dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à dis-tance, réussir une élévation de privilèges, causer un...|12 août 2022|
- |[37771208/22 - Vulnérabilités dans les produits SonicWall](/fr/content/3777120822-vulnerabilites-dans-les-produits-sonicwall.html)|Deux vulnérabilités ont été corrigées dans les produits SonicWall susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de réussir une élévation de privilèges et de porter atteinteà la confidentialité des données.|12 août 2022|
+ |[Octopus Deploy denial of service (CVE-2022-1901)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 19, 2022|
+ |[Octopus Deploy denial of service (CVE-2022-2049)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 19, 2022|
+ |[Octopus Deploy denial of service (CVE-2022-2074)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 19, 2022|
+ |[Octopus Deploy denial of service (CVE-2022-2075)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 19, 2022|
+ |[Polar Flow for Android /data/data/fi.polar.polarflow/shared_prefs/UserData3.xm information disclosure](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 18, 2022|
+ |[FreeBSD privilege escalation (CVE-2022-23090)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 18, 2022|
+ |[IBM MQ external entity injection (CVE-2022-22489)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 18, 2022|
+ 
+ ---
+
+## US-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA releases 5 Industrial Control Systems Advisories](https://www.cisa.gov/uscert/ncas/current-activity/2022/08/18/cisa-releases-5-industrial-control-systems-advisories)|<p class="MsoNormal">CISA has released 5 Industrial Control Systems (ICS) advisories on August 18, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p>|Thursday, August 18, 2022|
+ |[Cisco Releases Security Update for Cisco Secure Web Appliance](https://www.cisa.gov/uscert/ncas/current-activity/2022/08/18/cisco-releases-security-update-cisco-secure-web-appliance)|<p>Cisco has released security updates to address vulnerabilities in Cisco Secure Web Appliance. A remote attacker could exploit some of these vulnerabilities to take control of an affected system. For updates addressing lower severity vulnerabilities, see the <a href="https://tools.cisco.com/security/center/publicationListing.x">Cisco Security Advisories</a> page. <br> </p>|Thursday, August 18, 2022|
+ |[CISA Adds Seven Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2022/08/18/cisa-adds-seven-known-exploited-vulnerabilities-catalog)|<p>CISA has added seven new vulnerabilities to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: to view the newly added vulnerabilities in the catalog, click on the arrow in the “Date Added to Catalog” column, which will sort by descending dates. <br> </p>|Thursday, August 18, 2022|
+ |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/uscert/ncas/current-activity/2022/08/18/apple-releases-security-updates-multiple-products)|<p>Apple has released security updates to address vulnerabilities in macOS Monterey, iOS and iPadOS, and Safari. An attacker could exploit one of these vulnerabilities to take control of an affected device.</p>|Thursday, August 18, 2022|
+ |[Threat Actors Exploiting Multiple Vulnerabilities Against Zimbra Collaboration Suite](https://www.cisa.gov/uscert/ncas/current-activity/2022/08/16/threat-actors-exploiting-multiple-vulnerabilities-against-zimbra)|<p>CISA and the Multi-State Information Sharing &amp; Analysis Center (MS-ISAC) have released a <a href="https://www.cisa.gov/uscert/ncas/alerts/aa22-228a">joint Cybersecurity Advisory (CSA)</a> in response to active exploitation of multiple vulnerabilities against Zimbra Collaboration Suite (ZCS), an enterprise cloud-hosted collaboration software and email platform. </p>|Tuesday, August 16, 2022|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog ](https://www.cisa.gov/uscert/ncas/current-activity/2022/08/11/cisa-adds-two-known-exploited-vulnerabilities-catalog)|<p>CISA has added two new vulnerabilities to its<a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog"> Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: to view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates. </p>|Thursday, August 11, 2022|
+ 
+ ---
+
+## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(Pwn2Own) Apple Safari Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1123/)|Visit link for details|Aug. 18, 2022|
+ |[ManageEngine OpManager Plus getUserAPIKey Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1122/)|Visit link for details|Aug. 18, 2022|
+ |[ManageEngine NetFlow Analyzer getUserAPIKey Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1121/)|Visit link for details|Aug. 18, 2022|
+ |[ManageEngine OpManager getUserAPIKey Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1120/)|Visit link for details|Aug. 18, 2022|
+ |[ManageEngine Network Configuration Manager getUserAPIKey Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1119/)|Visit link for details|Aug. 18, 2022|
+ |[(Pwn2Own) Linux Kernel nft_object Use-After-Free Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1118/)|Visit link for details|Aug. 18, 2022|
+ |[(Pwn2Own) Linux Kernel route4_change Double Free Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1117/)|Visit link for details|Aug. 18, 2022|
+ |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1116/)|Visit link for details|Aug. 18, 2022|
  
