@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 20/08/2022 09:11:33 UTC
+ > Last Updated 20/08/2022 21:11:56 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -21,6 +21,68 @@
  |[VulDB](#vuldb-arrow_heading_up)|Number one vulnerability database documenting and explaining security vulnerabilities, threats, and exploits since 1970.|
  
  > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
+ ---
+
+## US-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA releases 5 Industrial Control Systems Advisories](https://www.cisa.gov/uscert/ncas/current-activity/2022/08/18/cisa-releases-5-industrial-control-systems-advisories)|<p class="MsoNormal">CISA has released 5 Industrial Control Systems (ICS) advisories on August 18, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p>|Thursday, August 18, 2022|
+ |[Cisco Releases Security Update for Cisco Secure Web Appliance](https://www.cisa.gov/uscert/ncas/current-activity/2022/08/18/cisco-releases-security-update-cisco-secure-web-appliance)|<p>Cisco has released security updates to address vulnerabilities in Cisco Secure Web Appliance. A remote attacker could exploit some of these vulnerabilities to take control of an affected system. For updates addressing lower severity vulnerabilities, see the <a href="https://tools.cisco.com/security/center/publicationListing.x">Cisco Security Advisories</a> page. <br> </p>|Thursday, August 18, 2022|
+ |[CISA Adds Seven Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2022/08/18/cisa-adds-seven-known-exploited-vulnerabilities-catalog)|<p>CISA has added seven new vulnerabilities to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: to view the newly added vulnerabilities in the catalog, click on the arrow in the “Date Added to Catalog” column, which will sort by descending dates. <br> </p>|Thursday, August 18, 2022|
+ |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/uscert/ncas/current-activity/2022/08/18/apple-releases-security-updates-multiple-products)|<p>Apple has released security updates to address vulnerabilities in macOS Monterey, iOS and iPadOS, and Safari. An attacker could exploit one of these vulnerabilities to take control of an affected device.</p>|Thursday, August 18, 2022|
+ |[Threat Actors Exploiting Multiple Vulnerabilities Against Zimbra Collaboration Suite](https://www.cisa.gov/uscert/ncas/current-activity/2022/08/16/threat-actors-exploiting-multiple-vulnerabilities-against-zimbra)|<p>CISA and the Multi-State Information Sharing &amp; Analysis Center (MS-ISAC) have released a <a href="https://www.cisa.gov/uscert/ncas/alerts/aa22-228a">joint Cybersecurity Advisory (CSA)</a> in response to active exploitation of multiple vulnerabilities against Zimbra Collaboration Suite (ZCS), an enterprise cloud-hosted collaboration software and email platform. </p>|Tuesday, August 16, 2022|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog ](https://www.cisa.gov/uscert/ncas/current-activity/2022/08/11/cisa-adds-two-known-exploited-vulnerabilities-catalog)|<p>CISA has added two new vulnerabilities to its<a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog"> Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: to view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates. </p>|Thursday, August 11, 2022|
+ 
+ ---
+
+## IBMCLOUD [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Mealie information disclosure (CVE-2022-34624)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 19, 2022|
+ |[Mealie information disclosure (CVE-2022-34623)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 19, 2022|
+ |[Mealie security bypass (CVE-2022-34621)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 19, 2022|
+ |[Mealie security bypass (CVE-2022-34615)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 19, 2022|
+ |[Octopus Deploy denial of service (CVE-2022-1901)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 19, 2022|
+ |[Octopus Deploy denial of service (CVE-2022-2049)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 19, 2022|
+ |[Octopus Deploy denial of service (CVE-2022-2074)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 19, 2022|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/FreeBSD-buffer-overflow-via-9p-Message-Handling-39082" class="noirorange"><b>FreeBSD</b>: buffer overflow via 9p Message Handling</a>](https://vigilance.fr/vulnerability/FreeBSD-buffer-overflow-via-9p-Message-Handling-39082)|An attacker, in a guest system, can trigger a buffer overflow of FreeBSD, via 9p Message Handling, in order to trigger a denial of service, and possibly to run code on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FreeBSD-memory-reading-via-Stale-Virtual-Memory-Mapping-39081" class="noirorange"><b>FreeBSD</b>: memory reading via Stale Virtual Memory Mapping</a>](https://vigilance.fr/vulnerability/FreeBSD-memory-reading-via-Stale-Virtual-Memory-Mapping-39081)|An attacker can read a memory fragment of FreeBSD, via Stale Virtual Memory Mapping, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FreeBSD-reuse-after-free-via-AIO-Credential-39080" class="noirorange"><b>FreeBSD</b>: reuse after free via AIO Credential</a>](https://vigilance.fr/vulnerability/FreeBSD-reuse-after-free-via-AIO-Credential-39080)|An attacker can force the reuse of a freed memory area of FreeBSD, via AIO Credential, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-external-XML-entity-injection-via-Explorer-Import-Wizard-39077" class="noirorange"><b>IBM MQ</b>: external XML entity injection via Explorer Import Wizard</a>](https://vigilance.fr/vulnerability/IBM-MQ-external-XML-entity-injection-via-Explorer-Import-Wizard-39077)|An attacker can transmit malicious XML data to IBM MQ, via Explorer Import Wizard, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/schroot-privilege-escalation-via-Session-Names-39076" class="noirorange"><b>schroot</b>: privilege escalation via Session Names</a>](https://vigilance.fr/vulnerability/schroot-privilege-escalation-via-Session-Names-39076)|An attacker can bypass restrictions of schroot, via Session Names, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-integer-overflow-via-tiffcrop-extractContigSamplesShifted16bits-39075" class="noirorange"><b>LibTIFF</b>: integer overflow via tiffcrop <wbr>extractContigSamples<wbr>Shifted16bits()</wbr></wbr></a>](https://vigilance.fr/vulnerability/LibTIFF-integer-overflow-via-tiffcrop-extractContigSamplesShifted16bits-39075)|An attacker can trigger an integer overflow of LibTIFF, via tiffcrop |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-out-of-bounds-memory-reading-via-tiffcrop-computeInputPixelOffsets-39074" class="noirorange"><b>LibTIFF</b>: out-of-bounds memory reading via tiffcrop <wbr>computeInputPixelOff<wbr>sets()</wbr></wbr></a>](https://vigilance.fr/vulnerability/LibTIFF-out-of-bounds-memory-reading-via-tiffcrop-computeInputPixelOffsets-39074)|An attacker can force a read at an invalid memory address of LibTIFF, via tiffcrop |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-integer-overflow-via-tiffcrop-offsets-39073" class="noirorange"><b>LibTIFF</b>: integer overflow via tiffcrop offsets</a>](https://vigilance.fr/vulnerability/LibTIFF-integer-overflow-via-tiffcrop-offsets-39073)|An attacker can trigger an integer overflow of LibTIFF, via tiffcrop offsets, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/QEMU-overload-via-xhci-ring-chain-length-39072" class="noirorange"><b>QEMU</b>: overload via <wbr>xhci_ring_chain_leng<wbr>th()</wbr></wbr></a>](https://vigilance.fr/vulnerability/QEMU-overload-via-xhci-ring-chain-length-39072)|An attacker can trigger an overload of QEMU, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/QEMU-reuse-after-free-via-lsi-do-msgout-39071" class="noirorange"><b>QEMU</b>: reuse after free via lsi_do_msgout()</a>](https://vigilance.fr/vulnerability/QEMU-reuse-after-free-via-lsi-do-msgout-39071)|An attacker, in a guest system, can force the reuse of a freed memory area of QEMU, via lsi_do_msgout(), in order to trigger a denial of service, and possibly to run code on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-two-vulnerabilities-39070" class="noirorange"><b>Apple iOS/macOS</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-two-vulnerabilities-39070)|An attacker can use several vulnerabilities of Apple iOS/macOS...|Visit link for details|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Delta Electronics Delta Robot Automation Studio XML Document xml external entity reference](https://vuldb.com/?id.206872)|Visit link for details|2022-08-20 at 16:13|
+ |[LS Electric PLC/XG5000 inadequate encryption](https://vuldb.com/?id.206871)|Visit link for details|2022-08-20 at 16:03|
+ |[Project-Nexus sql injection](https://vuldb.com/?id.206870)|Visit link for details|2022-08-20 at 09:15|
+ |[chatwoot cross site scripting](https://vuldb.com/?id.206869)|Visit link for details|2022-08-20 at 09:13|
+ |[BPC SmartVista Error Message cross site scripting](https://vuldb.com/?id.206868)|Visit link for details|2022-08-20 at 09:12|
+ |[Tenda AC15 httpd formWifiBasicSet stack-based overflow](https://vuldb.com/?id.206867)|Visit link for details|2022-08-20 at 09:12|
+ |[Tenda AC9 httpd buffer overflow](https://vuldb.com/?id.206866)|Visit link for details|2022-08-20 at 09:11|
+ |[MapGIS IGServer denial of service](https://vuldb.com/?id.206865)|Visit link for details|2022-08-20 at 09:11|
+ |[MapGIS IGServer hard-coded credentials](https://vuldb.com/?id.206864)|Visit link for details|2022-08-20 at 09:10|
+ |[XXL-JOB permission](https://vuldb.com/?id.206863)|Visit link for details|2022-08-20 at 09:09|
+ 
  ---
 
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
@@ -55,68 +117,6 @@
  |[37791508/22 - Vulnérabilités dans PostgreSQL](/fr/content/3779150822-vulnerabilites-dans-postgresql.html)|Deux vulnérabilités ont été corrigées dans les versions PostgreSQL susmentionnées. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance, de causer un déni de service et de porter atteinte à...|15 août 2022|
  |[37781208/22 - Vulnérabilités dans les produits Siemens](/fr/content/3778120822-vulnerabilites-dans-les-produits-siemens.html)|Plusieurs vulnérabilités ont été corrigées dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à dis-tance, réussir une élévation de privilèges, causer un...|12 août 2022|
  |[37771208/22 - Vulnérabilités dans les produits SonicWall](/fr/content/3777120822-vulnerabilites-dans-les-produits-sonicwall.html)|Deux vulnérabilités ont été corrigées dans les produits SonicWall susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de réussir une élévation de privilèges et de porter atteinteà la confidentialité des données.|12 août 2022|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/FreeBSD-buffer-overflow-via-9p-Message-Handling-39082" class="noirorange"><b>FreeBSD</b>: buffer overflow via 9p Message Handling</a>](https://vigilance.fr/vulnerability/FreeBSD-buffer-overflow-via-9p-Message-Handling-39082)|An attacker, in a guest system, can trigger a buffer overflow of FreeBSD, via 9p Message Handling, in order to trigger a denial of service, and possibly to run code on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeBSD-memory-reading-via-Stale-Virtual-Memory-Mapping-39081" class="noirorange"><b>FreeBSD</b>: memory reading via Stale Virtual Memory Mapping</a>](https://vigilance.fr/vulnerability/FreeBSD-memory-reading-via-Stale-Virtual-Memory-Mapping-39081)|An attacker can read a memory fragment of FreeBSD, via Stale Virtual Memory Mapping, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeBSD-reuse-after-free-via-AIO-Credential-39080" class="noirorange"><b>FreeBSD</b>: reuse after free via AIO Credential</a>](https://vigilance.fr/vulnerability/FreeBSD-reuse-after-free-via-AIO-Credential-39080)|An attacker can force the reuse of a freed memory area of FreeBSD, via AIO Credential, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-external-XML-entity-injection-via-Explorer-Import-Wizard-39077" class="noirorange"><b>IBM MQ</b>: external XML entity injection via Explorer Import Wizard</a>](https://vigilance.fr/vulnerability/IBM-MQ-external-XML-entity-injection-via-Explorer-Import-Wizard-39077)|An attacker can transmit malicious XML data to IBM MQ, via Explorer Import Wizard, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/schroot-privilege-escalation-via-Session-Names-39076" class="noirorange"><b>schroot</b>: privilege escalation via Session Names</a>](https://vigilance.fr/vulnerability/schroot-privilege-escalation-via-Session-Names-39076)|An attacker can bypass restrictions of schroot, via Session Names, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-integer-overflow-via-tiffcrop-extractContigSamplesShifted16bits-39075" class="noirorange"><b>LibTIFF</b>: integer overflow via tiffcrop <wbr>extractContigSamples<wbr>Shifted16bits()</wbr></wbr></a>](https://vigilance.fr/vulnerability/LibTIFF-integer-overflow-via-tiffcrop-extractContigSamplesShifted16bits-39075)|An attacker can trigger an integer overflow of LibTIFF, via tiffcrop |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-out-of-bounds-memory-reading-via-tiffcrop-computeInputPixelOffsets-39074" class="noirorange"><b>LibTIFF</b>: out-of-bounds memory reading via tiffcrop <wbr>computeInputPixelOff<wbr>sets()</wbr></wbr></a>](https://vigilance.fr/vulnerability/LibTIFF-out-of-bounds-memory-reading-via-tiffcrop-computeInputPixelOffsets-39074)|An attacker can force a read at an invalid memory address of LibTIFF, via tiffcrop |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-integer-overflow-via-tiffcrop-offsets-39073" class="noirorange"><b>LibTIFF</b>: integer overflow via tiffcrop offsets</a>](https://vigilance.fr/vulnerability/LibTIFF-integer-overflow-via-tiffcrop-offsets-39073)|An attacker can trigger an integer overflow of LibTIFF, via tiffcrop offsets, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/QEMU-overload-via-xhci-ring-chain-length-39072" class="noirorange"><b>QEMU</b>: overload via <wbr>xhci_ring_chain_leng<wbr>th()</wbr></wbr></a>](https://vigilance.fr/vulnerability/QEMU-overload-via-xhci-ring-chain-length-39072)|An attacker can trigger an overload of QEMU, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/QEMU-reuse-after-free-via-lsi-do-msgout-39071" class="noirorange"><b>QEMU</b>: reuse after free via lsi_do_msgout()</a>](https://vigilance.fr/vulnerability/QEMU-reuse-after-free-via-lsi-do-msgout-39071)|An attacker, in a guest system, can force the reuse of a freed memory area of QEMU, via lsi_do_msgout(), in order to trigger a denial of service, and possibly to run code on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-two-vulnerabilities-39070" class="noirorange"><b>Apple iOS/macOS</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-two-vulnerabilities-39070)|An attacker can use several vulnerabilities of Apple iOS/macOS...|Visit link for details|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Project-Nexus sql injection](https://vuldb.com/?id.206870)|Visit link for details|2022-08-20 at 09:15|
- |[chatwoot cross site scripting](https://vuldb.com/?id.206869)|Visit link for details|2022-08-20 at 09:13|
- |[BPC SmartVista Error Message cross site scripting](https://vuldb.com/?id.206868)|Visit link for details|2022-08-20 at 09:12|
- |[Tenda AC15 httpd formWifiBasicSet stack-based overflow](https://vuldb.com/?id.206867)|Visit link for details|2022-08-20 at 09:12|
- |[Tenda AC9 httpd buffer overflow](https://vuldb.com/?id.206866)|Visit link for details|2022-08-20 at 09:11|
- |[MapGIS IGServer denial of service](https://vuldb.com/?id.206865)|Visit link for details|2022-08-20 at 09:11|
- |[MapGIS IGServer hard-coded credentials](https://vuldb.com/?id.206864)|Visit link for details|2022-08-20 at 09:10|
- |[XXL-JOB permission](https://vuldb.com/?id.206863)|Visit link for details|2022-08-20 at 09:09|
- |[Emerson Electric Proficy Machine Edition integrity check](https://vuldb.com/?id.206862)|Visit link for details|2022-08-20 at 09:08|
- |[Emerson Electric Proficy Machine Edition access control](https://vuldb.com/?id.206861)|Visit link for details|2022-08-20 at 09:06|
- 
- ---
-
-## IBMCLOUD [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Octopus Deploy denial of service (CVE-2022-1901)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 19, 2022|
- |[Octopus Deploy denial of service (CVE-2022-2049)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 19, 2022|
- |[Octopus Deploy denial of service (CVE-2022-2074)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 19, 2022|
- |[Octopus Deploy denial of service (CVE-2022-2075)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 19, 2022|
- |[Polar Flow for Android /data/data/fi.polar.polarflow/shared_prefs/UserData3.xm information disclosure](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 18, 2022|
- |[FreeBSD privilege escalation (CVE-2022-23090)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 18, 2022|
- |[IBM MQ external entity injection (CVE-2022-22489)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 18, 2022|
- 
- ---
-
-## US-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA releases 5 Industrial Control Systems Advisories](https://www.cisa.gov/uscert/ncas/current-activity/2022/08/18/cisa-releases-5-industrial-control-systems-advisories)|<p class="MsoNormal">CISA has released 5 Industrial Control Systems (ICS) advisories on August 18, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p>|Thursday, August 18, 2022|
- |[Cisco Releases Security Update for Cisco Secure Web Appliance](https://www.cisa.gov/uscert/ncas/current-activity/2022/08/18/cisco-releases-security-update-cisco-secure-web-appliance)|<p>Cisco has released security updates to address vulnerabilities in Cisco Secure Web Appliance. A remote attacker could exploit some of these vulnerabilities to take control of an affected system. For updates addressing lower severity vulnerabilities, see the <a href="https://tools.cisco.com/security/center/publicationListing.x">Cisco Security Advisories</a> page. <br> </p>|Thursday, August 18, 2022|
- |[CISA Adds Seven Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2022/08/18/cisa-adds-seven-known-exploited-vulnerabilities-catalog)|<p>CISA has added seven new vulnerabilities to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: to view the newly added vulnerabilities in the catalog, click on the arrow in the “Date Added to Catalog” column, which will sort by descending dates. <br> </p>|Thursday, August 18, 2022|
- |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/uscert/ncas/current-activity/2022/08/18/apple-releases-security-updates-multiple-products)|<p>Apple has released security updates to address vulnerabilities in macOS Monterey, iOS and iPadOS, and Safari. An attacker could exploit one of these vulnerabilities to take control of an affected device.</p>|Thursday, August 18, 2022|
- |[Threat Actors Exploiting Multiple Vulnerabilities Against Zimbra Collaboration Suite](https://www.cisa.gov/uscert/ncas/current-activity/2022/08/16/threat-actors-exploiting-multiple-vulnerabilities-against-zimbra)|<p>CISA and the Multi-State Information Sharing &amp; Analysis Center (MS-ISAC) have released a <a href="https://www.cisa.gov/uscert/ncas/alerts/aa22-228a">joint Cybersecurity Advisory (CSA)</a> in response to active exploitation of multiple vulnerabilities against Zimbra Collaboration Suite (ZCS), an enterprise cloud-hosted collaboration software and email platform. </p>|Tuesday, August 16, 2022|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog ](https://www.cisa.gov/uscert/ncas/current-activity/2022/08/11/cisa-adds-two-known-exploited-vulnerabilities-catalog)|<p>CISA has added two new vulnerabilities to its<a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog"> Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: to view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates. </p>|Thursday, August 11, 2022|
  
  ---
 
