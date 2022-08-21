@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 21/08/2022 09:10:19 UTC
+ > Last Updated 21/08/2022 21:09:50 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -36,54 +36,6 @@
  
  ---
 
-## CERT-FR [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-758/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu . Elles permettent à un attaquant de provoquer un déni de service et une atteinte à la confidentialité des données.|Publié le 19 août 2022|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-757/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service et une atteinte à l'intégrité des données.|Publié le 19 août 2022|
- |[Vulnérabilité dans Apple Safari](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-756/)|Une vulnérabilité a été découverte dans Apple Safari. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 19 août 2022|
- |[Multiples vulnérabilités dans IBM Spectrum](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-755/)|De multiples vulnérabilités ont été découvertes dans IBM Spectrum. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 19 août 2022|
- |[Multiples vulnérabilités dans Nagios XI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-754/)|De multiples vulnérabilités ont été découvertes dans Nagios XI. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 19 août 2022|
- |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-753/)|Une vulnérabilité a été corrigée dans |Publié le 18 août 2022|
- |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-752/)|De multiples vulnérabilités ont été découvertes dans les produits Apple. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 18 août 2022|
- |[Vulnérabilité dans Cisco AsyncOS for Secure Web Appliance](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-751/)|Une vulnérabilité a été découverte dans Cisco AsyncOS for Secure Web Appliance. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges.|Publié le 18 août 2022|
- |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-750/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 17 août 2022|
- |[Vulnérabilité dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-749/)|Une vulnérabilité a été découverte dans le noyau Linux de Red Hat. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 17 août 2022|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Rhonabwy JWE Token denial of service](https://vuldb.com/?id.206873)|Visit link for details|2022-08-21 at 08:14|
- |[Delta Electronics Delta Robot Automation Studio XML Document xml external entity reference](https://vuldb.com/?id.206872)|Visit link for details|2022-08-21 at 16:13|
- |[LS Electric PLC/XG5000 inadequate encryption](https://vuldb.com/?id.206871)|Visit link for details|2022-08-21 at 16:03|
- |[Project-Nexus sql injection](https://vuldb.com/?id.206870)|Visit link for details|2022-08-21 at 09:15|
- |[chatwoot cross site scripting](https://vuldb.com/?id.206869)|Visit link for details|2022-08-21 at 09:13|
- |[BPC SmartVista Error Message cross site scripting](https://vuldb.com/?id.206868)|Visit link for details|2022-08-21 at 09:12|
- |[Tenda AC15 httpd formWifiBasicSet stack-based overflow](https://vuldb.com/?id.206867)|Visit link for details|2022-08-21 at 09:12|
- |[Tenda AC9 httpd buffer overflow](https://vuldb.com/?id.206866)|Visit link for details|2022-08-21 at 09:11|
- |[MapGIS IGServer denial of service](https://vuldb.com/?id.206865)|Visit link for details|2022-08-21 at 09:11|
- |[MapGIS IGServer hard-coded credentials](https://vuldb.com/?id.206864)|Visit link for details|2022-08-21 at 09:10|
- 
- ---
-
-## IBMCLOUD [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Mealie information disclosure (CVE-2022-34624)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 19, 2022|
- |[Mealie information disclosure (CVE-2022-34623)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 19, 2022|
- |[Mealie security bypass (CVE-2022-34621)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 19, 2022|
- |[Mealie security bypass (CVE-2022-34615)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 19, 2022|
- |[Octopus Deploy denial of service (CVE-2022-1901)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 19, 2022|
- |[Octopus Deploy denial of service (CVE-2022-2049)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 19, 2022|
- |[Octopus Deploy denial of service (CVE-2022-2074)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 19, 2022|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -99,6 +51,38 @@
  |[<a href="https://vigilance.fr/vulnerability/QEMU-overload-via-xhci-ring-chain-length-39072" class="noirorange"><b>QEMU</b>: overload via <wbr>xhci_ring_chain_leng<wbr>th()</wbr></wbr></a>](https://vigilance.fr/vulnerability/QEMU-overload-via-xhci-ring-chain-length-39072)|An attacker can trigger an overload of QEMU, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/QEMU-reuse-after-free-via-lsi-do-msgout-39071" class="noirorange"><b>QEMU</b>: reuse after free via lsi_do_msgout()</a>](https://vigilance.fr/vulnerability/QEMU-reuse-after-free-via-lsi-do-msgout-39071)|An attacker, in a guest system, can force the reuse of a freed memory area of QEMU, via lsi_do_msgout(), in order to trigger a denial of service, and possibly to run code on the host system...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-two-vulnerabilities-39070" class="noirorange"><b>Apple iOS/macOS</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-two-vulnerabilities-39070)|An attacker can use several vulnerabilities of Apple iOS/macOS...|Visit link for details|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[yetiforcecrm cross site scripting](https://vuldb.com/?id.206877)|Visit link for details|2022-08-21 at 15:44|
+ |[Apache Flume JMS Source injection](https://vuldb.com/?id.206876)|Visit link for details|2022-08-21 at 15:44|
+ |[NotrinosERP unknown vulnerability](https://vuldb.com/?id.206875)|Visit link for details|2022-08-21 at 15:43|
+ |[MA Lighting grandMA2 Light hard-coded credentials](https://vuldb.com/?id.206874)|Visit link for details|2022-08-21 at 15:42|
+ |[Rhonabwy JWE Token denial of service](https://vuldb.com/?id.206873)|Visit link for details|2022-08-21 at 08:14|
+ |[Delta Electronics Delta Robot Automation Studio XML Document xml external entity reference](https://vuldb.com/?id.206872)|Visit link for details|2022-08-21 at 16:13|
+ |[LS Electric PLC/XG5000 inadequate encryption](https://vuldb.com/?id.206871)|Visit link for details|2022-08-21 at 16:03|
+ |[Project-Nexus sql injection](https://vuldb.com/?id.206870)|Visit link for details|2022-08-21 at 09:15|
+ |[chatwoot cross site scripting](https://vuldb.com/?id.206869)|Visit link for details|2022-08-21 at 09:13|
+ |[BPC SmartVista Error Message cross site scripting](https://vuldb.com/?id.206868)|Visit link for details|2022-08-21 at 09:12|
+ 
+ ---
+
+## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(Pwn2Own) Apple Safari Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1123/)|Visit link for details|Aug. 18, 2022|
+ |[ManageEngine OpManager Plus getUserAPIKey Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1122/)|Visit link for details|Aug. 18, 2022|
+ |[ManageEngine NetFlow Analyzer getUserAPIKey Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1121/)|Visit link for details|Aug. 18, 2022|
+ |[ManageEngine OpManager getUserAPIKey Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1120/)|Visit link for details|Aug. 18, 2022|
+ |[ManageEngine Network Configuration Manager getUserAPIKey Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1119/)|Visit link for details|Aug. 18, 2022|
+ |[(Pwn2Own) Linux Kernel nft_object Use-After-Free Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1118/)|Visit link for details|Aug. 18, 2022|
+ |[(Pwn2Own) Linux Kernel route4_change Double Free Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1117/)|Visit link for details|Aug. 18, 2022|
+ |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1116/)|Visit link for details|Aug. 18, 2022|
  
  ---
 
@@ -120,16 +104,32 @@
  
  ---
 
-## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
+## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[(Pwn2Own) Apple Safari Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1123/)|Visit link for details|Aug. 18, 2022|
- |[ManageEngine OpManager Plus getUserAPIKey Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1122/)|Visit link for details|Aug. 18, 2022|
- |[ManageEngine NetFlow Analyzer getUserAPIKey Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1121/)|Visit link for details|Aug. 18, 2022|
- |[ManageEngine OpManager getUserAPIKey Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1120/)|Visit link for details|Aug. 18, 2022|
- |[ManageEngine Network Configuration Manager getUserAPIKey Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1119/)|Visit link for details|Aug. 18, 2022|
- |[(Pwn2Own) Linux Kernel nft_object Use-After-Free Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1118/)|Visit link for details|Aug. 18, 2022|
- |[(Pwn2Own) Linux Kernel route4_change Double Free Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1117/)|Visit link for details|Aug. 18, 2022|
- |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1116/)|Visit link for details|Aug. 18, 2022|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-758/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu . Elles permettent à un attaquant de provoquer un déni de service et une atteinte à la confidentialité des données.|Publié le 19 août 2022|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-757/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service et une atteinte à l'intégrité des données.|Publié le 19 août 2022|
+ |[Vulnérabilité dans Apple Safari](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-756/)|Une vulnérabilité a été découverte dans Apple Safari. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 19 août 2022|
+ |[Multiples vulnérabilités dans IBM Spectrum](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-755/)|De multiples vulnérabilités ont été découvertes dans IBM Spectrum. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 19 août 2022|
+ |[Multiples vulnérabilités dans Nagios XI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-754/)|De multiples vulnérabilités ont été découvertes dans Nagios XI. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 19 août 2022|
+ |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-753/)|Une vulnérabilité a été corrigée dans |Publié le 18 août 2022|
+ |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-752/)|De multiples vulnérabilités ont été découvertes dans les produits Apple. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 18 août 2022|
+ |[Vulnérabilité dans Cisco AsyncOS for Secure Web Appliance](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-751/)|Une vulnérabilité a été découverte dans Cisco AsyncOS for Secure Web Appliance. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges.|Publié le 18 août 2022|
+ |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-750/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 17 août 2022|
+ |[Vulnérabilité dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-749/)|Une vulnérabilité a été découverte dans le noyau Linux de Red Hat. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 17 août 2022|
+ 
+ ---
+
+## IBMCLOUD [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Mealie information disclosure (CVE-2022-34624)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 19, 2022|
+ |[Mealie information disclosure (CVE-2022-34623)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 19, 2022|
+ |[Mealie security bypass (CVE-2022-34621)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 19, 2022|
+ |[Mealie security bypass (CVE-2022-34615)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 19, 2022|
+ |[Octopus Deploy denial of service (CVE-2022-1901)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 19, 2022|
+ |[Octopus Deploy denial of service (CVE-2022-2049)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 19, 2022|
+ |[Octopus Deploy denial of service (CVE-2022-2074)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 19, 2022|
  
