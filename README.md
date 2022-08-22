@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 21/08/2022 21:09:50 UTC
+ > Last Updated 22/08/2022 09:11:39 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -40,6 +40,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-Multiple-Line-Breaks-39083" class="noirorange"><b>Vim</b>: reuse after free via Multiple Line Breaks</a>](https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-Multiple-Line-Breaks-39083)|An attacker can force the reuse of a freed memory area of Vim, via Multiple Line Breaks, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FreeBSD-buffer-overflow-via-9p-Message-Handling-39082" class="noirorange"><b>FreeBSD</b>: buffer overflow via 9p Message Handling</a>](https://vigilance.fr/vulnerability/FreeBSD-buffer-overflow-via-9p-Message-Handling-39082)|An attacker, in a guest system, can trigger a buffer overflow of FreeBSD, via 9p Message Handling, in order to trigger a denial of service, and possibly to run code on the host system...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FreeBSD-memory-reading-via-Stale-Virtual-Memory-Mapping-39081" class="noirorange"><b>FreeBSD</b>: memory reading via Stale Virtual Memory Mapping</a>](https://vigilance.fr/vulnerability/FreeBSD-memory-reading-via-Stale-Virtual-Memory-Mapping-39081)|An attacker can read a memory fragment of FreeBSD, via Stale Virtual Memory Mapping, in order to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FreeBSD-reuse-after-free-via-AIO-Credential-39080" class="noirorange"><b>FreeBSD</b>: reuse after free via AIO Credential</a>](https://vigilance.fr/vulnerability/FreeBSD-reuse-after-free-via-AIO-Credential-39080)|An attacker can force the reuse of a freed memory area of FreeBSD, via AIO Credential, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
@@ -50,7 +51,6 @@
  |[<a href="https://vigilance.fr/vulnerability/LibTIFF-integer-overflow-via-tiffcrop-offsets-39073" class="noirorange"><b>LibTIFF</b>: integer overflow via tiffcrop offsets</a>](https://vigilance.fr/vulnerability/LibTIFF-integer-overflow-via-tiffcrop-offsets-39073)|An attacker can trigger an integer overflow of LibTIFF, via tiffcrop offsets, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/QEMU-overload-via-xhci-ring-chain-length-39072" class="noirorange"><b>QEMU</b>: overload via <wbr>xhci_ring_chain_leng<wbr>th()</wbr></wbr></a>](https://vigilance.fr/vulnerability/QEMU-overload-via-xhci-ring-chain-length-39072)|An attacker can trigger an overload of QEMU, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/QEMU-reuse-after-free-via-lsi-do-msgout-39071" class="noirorange"><b>QEMU</b>: reuse after free via lsi_do_msgout()</a>](https://vigilance.fr/vulnerability/QEMU-reuse-after-free-via-lsi-do-msgout-39071)|An attacker, in a guest system, can force the reuse of a freed memory area of QEMU, via lsi_do_msgout(), in order to trigger a denial of service, and possibly to run code on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-two-vulnerabilities-39070" class="noirorange"><b>Apple iOS/macOS</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-two-vulnerabilities-39070)|An attacker can use several vulnerabilities of Apple iOS/macOS...|Visit link for details|
  
  ---
 
@@ -58,31 +58,16 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[yetiforcecrm cross site scripting](https://vuldb.com/?id.206877)|Visit link for details|2022-08-21 at 15:44|
- |[Apache Flume JMS Source injection](https://vuldb.com/?id.206876)|Visit link for details|2022-08-21 at 15:44|
- |[NotrinosERP unknown vulnerability](https://vuldb.com/?id.206875)|Visit link for details|2022-08-21 at 15:43|
- |[MA Lighting grandMA2 Light hard-coded credentials](https://vuldb.com/?id.206874)|Visit link for details|2022-08-21 at 15:42|
- |[Rhonabwy JWE Token denial of service](https://vuldb.com/?id.206873)|Visit link for details|2022-08-21 at 08:14|
- |[Delta Electronics Delta Robot Automation Studio XML Document xml external entity reference](https://vuldb.com/?id.206872)|Visit link for details|2022-08-21 at 16:13|
- |[LS Electric PLC/XG5000 inadequate encryption](https://vuldb.com/?id.206871)|Visit link for details|2022-08-21 at 16:03|
- |[Project-Nexus sql injection](https://vuldb.com/?id.206870)|Visit link for details|2022-08-21 at 09:15|
- |[chatwoot cross site scripting](https://vuldb.com/?id.206869)|Visit link for details|2022-08-21 at 09:13|
- |[BPC SmartVista Error Message cross site scripting](https://vuldb.com/?id.206868)|Visit link for details|2022-08-21 at 09:12|
- 
- ---
-
-## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[(Pwn2Own) Apple Safari Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1123/)|Visit link for details|Aug. 18, 2022|
- |[ManageEngine OpManager Plus getUserAPIKey Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1122/)|Visit link for details|Aug. 18, 2022|
- |[ManageEngine NetFlow Analyzer getUserAPIKey Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1121/)|Visit link for details|Aug. 18, 2022|
- |[ManageEngine OpManager getUserAPIKey Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1120/)|Visit link for details|Aug. 18, 2022|
- |[ManageEngine Network Configuration Manager getUserAPIKey Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1119/)|Visit link for details|Aug. 18, 2022|
- |[(Pwn2Own) Linux Kernel nft_object Use-After-Free Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1118/)|Visit link for details|Aug. 18, 2022|
- |[(Pwn2Own) Linux Kernel route4_change Double Free Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1117/)|Visit link for details|Aug. 18, 2022|
- |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1116/)|Visit link for details|Aug. 18, 2022|
+ |[CrowdStrike Falcon Uninstallation authorization](https://vuldb.com/?id.206880)|Visit link for details|2022-08-22 at 10:01|
+ |[Clinics Patient Management System patients.php cross site scripting](https://vuldb.com/?id.206879)|Visit link for details|2022-08-22 at 07:55|
+ |[PHPGurukul Bus Pass Management System view-enquiry.php sql injection](https://vuldb.com/?id.206878)|Visit link for details|2022-08-22 at 07:53|
+ |[yetiforcecrm cross site scripting](https://vuldb.com/?id.206877)|Visit link for details|2022-08-22 at 15:44|
+ |[Apache Flume JMS Source injection](https://vuldb.com/?id.206876)|Visit link for details|2022-08-22 at 15:44|
+ |[NotrinosERP unknown vulnerability](https://vuldb.com/?id.206875)|Visit link for details|2022-08-22 at 15:43|
+ |[MA Lighting grandMA2 Light hard-coded credentials](https://vuldb.com/?id.206874)|Visit link for details|2022-08-22 at 15:42|
+ |[Rhonabwy JWE Token denial of service](https://vuldb.com/?id.206873)|Visit link for details|2022-08-22 at 08:14|
+ |[Delta Electronics Delta Robot Automation Studio XML Document xml external entity reference](https://vuldb.com/?id.206872)|Visit link for details|2022-08-22 at 16:13|
+ |[LS Electric PLC/XG5000 inadequate encryption](https://vuldb.com/?id.206871)|Visit link for details|2022-08-22 at 16:03|
  
  ---
 
@@ -132,4 +117,19 @@
  |[Octopus Deploy denial of service (CVE-2022-1901)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 19, 2022|
  |[Octopus Deploy denial of service (CVE-2022-2049)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 19, 2022|
  |[Octopus Deploy denial of service (CVE-2022-2074)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 19, 2022|
+ 
+ ---
+
+## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(Pwn2Own) Apple Safari Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1123/)|Visit link for details|Aug. 18, 2022|
+ |[ManageEngine OpManager Plus getUserAPIKey Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1122/)|Visit link for details|Aug. 18, 2022|
+ |[ManageEngine NetFlow Analyzer getUserAPIKey Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1121/)|Visit link for details|Aug. 18, 2022|
+ |[ManageEngine OpManager getUserAPIKey Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1120/)|Visit link for details|Aug. 18, 2022|
+ |[ManageEngine Network Configuration Manager getUserAPIKey Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1119/)|Visit link for details|Aug. 18, 2022|
+ |[(Pwn2Own) Linux Kernel nft_object Use-After-Free Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1118/)|Visit link for details|Aug. 18, 2022|
+ |[(Pwn2Own) Linux Kernel route4_change Double Free Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1117/)|Visit link for details|Aug. 18, 2022|
+ |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1116/)|Visit link for details|Aug. 18, 2022|
  
