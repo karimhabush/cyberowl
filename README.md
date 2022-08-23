@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 22/08/2022 21:11:26 UTC
+ > Last Updated 23/08/2022 09:11:35 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -36,10 +36,43 @@
  
  ---
 
+## IBMCLOUD [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CrowdStrike Falcon security bypass (CVE-2022-2841)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 22, 2022|
+ |[Crow information disclosure (CVE-2022-38668)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 22, 2022|
+ |[Crow code execution (CVE-2022-38667)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 22, 2022|
+ |[McAfee Data Loss Prevention (DLP) Endpoint for Windows XML external entity injection (CVE-2022-2330)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 22, 2022|
+ |[UNIMO UDR-JA1004, UNIMO UDR-JA1008, and UNIMO UDR-JA1016 command execution (CVE-2022-35733)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 22, 2022|
+ |[Sourcecodester Simple and Nice Shopping Cart Script file upload (CVE-2022-2909)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 22, 2022|
+ |[Adobe Commerce security bypass (CVE-2022-35692)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 22, 2022|
+ 
+ ---
+
+## CERT-FR [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-762/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Elles permettent à un attaquant de provoquer un déni de service et une élévation de privilèges.|Publié le 23 août 2022|
+ |[Vulnérabilité dans les produits GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-761/)|Une vulnérabilité a été découverte dans les produits GitLab. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 23 août 2022|
+ |[Vulnérabilité dans F5 BIG-IP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-760/)|Une vulnérabilité a été découverte dans F5 BIG-IP. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 23 août 2022|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-759/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 22 août 2022|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-758/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu . Elles permettent à un attaquant de provoquer un déni de service et une atteinte à la confidentialité des données.|Publié le 19 août 2022|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-757/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service et une atteinte à l'intégrité des données.|Publié le 19 août 2022|
+ |[Vulnérabilité dans Apple Safari](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-756/)|Une vulnérabilité a été découverte dans Apple Safari. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 19 août 2022|
+ |[Multiples vulnérabilités dans IBM Spectrum](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-755/)|De multiples vulnérabilités ont été découvertes dans IBM Spectrum. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 19 août 2022|
+ |[Multiples vulnérabilités dans Nagios XI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-754/)|De multiples vulnérabilités ont été découvertes dans Nagios XI. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 19 août 2022|
+ |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-753/)|Une vulnérabilité a été corrigée dans |Publié le 18 août 2022|
+ 
+ ---
+
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Ruby-Rails-Html-Sanitizer-Cross-Site-Scripting-39089" class="noirorange"><b>Ruby <wbr>Rails-Html-Sanitizer</wbr></b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Ruby-Rails-Html-Sanitizer-Cross-Site-Scripting-39089)|An attacker can trigger a Cross Site Scripting of Ruby |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Das-U-Boot-buffer-overflow-via-sqfs-readdir-39088" class="noirorange"><b>Das U-Boot</b>: buffer overflow via sqfs_readdir()</a>](https://vigilance.fr/vulnerability/Das-U-Boot-buffer-overflow-via-sqfs-readdir-39088)|An attacker can trigger a buffer overflow of Das U-Boot, via sqfs_readdir(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libxslt-reuse-after-free-via-strip-space-39087" class="noirorange"><b>libxslt</b>: reuse after free via strip-space</a>](https://vigilance.fr/vulnerability/libxslt-reuse-after-free-via-strip-space-39087)|An attacker can force the reuse of a freed memory area of libxslt, via strip-space, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libxslt-memory-corruption-via-xsltNumberFormatGetMultipleLevel-39086" class="noirorange"><b>libxslt</b>: memory corruption via <wbr>xsltNumberFormatGetM<wbr>ultipleLevel()</wbr></wbr></a>](https://vigilance.fr/vulnerability/libxslt-memory-corruption-via-xsltNumberFormatGetMultipleLevel-39086)|An attacker can trigger a memory corruption of libxslt, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/RHEL-two-vulnerabilities-via-Podman-39085" class="noirorange"><b>RHEL</b>: two vulnerabilities via Podman</a>](https://vigilance.fr/vulnerability/RHEL-two-vulnerabilities-via-Podman-39085)|An attacker can use several vulnerabilities of RHEL, via Podman...|Visit link for details|
@@ -49,8 +82,6 @@
  |[<a href="https://vigilance.fr/vulnerability/FreeBSD-memory-reading-via-Stale-Virtual-Memory-Mapping-39081" class="noirorange"><b>FreeBSD</b>: memory reading via Stale Virtual Memory Mapping</a>](https://vigilance.fr/vulnerability/FreeBSD-memory-reading-via-Stale-Virtual-Memory-Mapping-39081)|An attacker can read a memory fragment of FreeBSD, via Stale Virtual Memory Mapping, in order to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FreeBSD-reuse-after-free-via-AIO-Credential-39080" class="noirorange"><b>FreeBSD</b>: reuse after free via AIO Credential</a>](https://vigilance.fr/vulnerability/FreeBSD-reuse-after-free-via-AIO-Credential-39080)|An attacker can force the reuse of a freed memory area of FreeBSD, via AIO Credential, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-external-XML-entity-injection-via-Explorer-Import-Wizard-39077" class="noirorange"><b>IBM MQ</b>: external XML entity injection via Explorer Import Wizard</a>](https://vigilance.fr/vulnerability/IBM-MQ-external-XML-entity-injection-via-Explorer-Import-Wizard-39077)|An attacker can transmit malicious XML data to IBM MQ, via Explorer Import Wizard, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/schroot-privilege-escalation-via-Session-Names-39076" class="noirorange"><b>schroot</b>: privilege escalation via Session Names</a>](https://vigilance.fr/vulnerability/schroot-privilege-escalation-via-Session-Names-39076)|An attacker can bypass restrictions of schroot, via Session Names, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-integer-overflow-via-tiffcrop-extractContigSamplesShifted16bits-39075" class="noirorange"><b>LibTIFF</b>: integer overflow via tiffcrop <wbr>extractContigSamples<wbr>Shifted16bits()</wbr></wbr></a>](https://vigilance.fr/vulnerability/LibTIFF-integer-overflow-via-tiffcrop-extractContigSamplesShifted16bits-39075)|An attacker can trigger an integer overflow of LibTIFF, via tiffcrop |Visit link for details|
  
  ---
 
@@ -58,6 +89,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[SourceCodester Simple and Nice Shopping Cart Script profile.php sql injection](https://vuldb.com/?id.207001)|Visit link for details|2022-08-23 at 10:43|
+ |[ConsoleTVs Noxen users.php cross site scripting](https://vuldb.com/?id.207000)|Visit link for details|2022-08-23 at 10:39|
+ |[bustle mobiledoc-kit cross site scripting](https://vuldb.com/?id.206999)|Visit link for details|2022-08-23 at 10:37|
+ |[Frappe ERPNext cross site scripting](https://vuldb.com/?id.206998)|Visit link for details|2022-08-23 at 10:36|
+ |[Pega Platform cross-site request forgery](https://vuldb.com/?id.206997)|Visit link for details|2022-08-23 at 10:33|
+ |[Pega Platform cross site scripting](https://vuldb.com/?id.206996)|Visit link for details|2022-08-23 at 10:32|
+ |[D-Link AC1200/DSL-3782 HTTP Request denial of service](https://vuldb.com/?id.206995)|Visit link for details|2022-08-23 at 10:32|
+ |[Zengenti Contensis Classic File Upload Wizard unrestricted upload](https://vuldb.com/?id.206994)|Visit link for details|2022-08-23 at 10:24|
+ |[yetiforcecrm cross site scripting](https://vuldb.com/?id.206993)|Visit link for details|2022-08-23 at 10:23|
+ |[TP-LINK Archer A7 tddp command injection](https://vuldb.com/?id.206992)|Visit link for details|2022-08-23 at 09:43|
  
  ---
 
@@ -79,20 +120,6 @@
  
  ---
 
-## IBMCLOUD [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[PDF-XChange Editor code execution (CVE-2022-37350)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 21, 2022|
- |[PDF-XChange Editor information disclosure (CVE-2022-37351)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 21, 2022|
- |[PDF-XChange Editor information disclosure (CVE-2022-37352)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 21, 2022|
- |[PDF-XChange Editor information disclosure (CVE-2022-37353)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 21, 2022|
- |[PDF-XChange Editor code execution (CVE-2022-37354)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 21, 2022|
- |[PDF-XChange Editor code execution (CVE-2022-37355)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 21, 2022|
- |[PDF-XChange Editor code execution (CVE-2022-37356)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 21, 2022|
- 
- ---
-
 ## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -105,21 +132,4 @@
  |[(Pwn2Own) Linux Kernel nft_object Use-After-Free Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1118/)|Visit link for details|Aug. 18, 2022|
  |[(Pwn2Own) Linux Kernel route4_change Double Free Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1117/)|Visit link for details|Aug. 18, 2022|
  |[Adobe Acrobat Reader DC Font Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1116/)|Visit link for details|Aug. 18, 2022|
- 
- ---
-
-## CERT-FR [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-759/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 22 août 2022|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-758/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu . Elles permettent à un attaquant de provoquer un déni de service et une atteinte à la confidentialité des données.|Publié le 19 août 2022|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-757/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service et une atteinte à l'intégrité des données.|Publié le 19 août 2022|
- |[Vulnérabilité dans Apple Safari](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-756/)|Une vulnérabilité a été découverte dans Apple Safari. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 19 août 2022|
- |[Multiples vulnérabilités dans IBM Spectrum](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-755/)|De multiples vulnérabilités ont été découvertes dans IBM Spectrum. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 19 août 2022|
- |[Multiples vulnérabilités dans Nagios XI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-754/)|De multiples vulnérabilités ont été découvertes dans Nagios XI. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 19 août 2022|
- |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-753/)|Une vulnérabilité a été corrigée dans |Publié le 18 août 2022|
- |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-752/)|De multiples vulnérabilités ont été découvertes dans les produits Apple. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 18 août 2022|
- |[Vulnérabilité dans Cisco AsyncOS for Secure Web Appliance](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-751/)|Une vulnérabilité a été découverte dans Cisco AsyncOS for Secure Web Appliance. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges.|Publié le 18 août 2022|
- |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-750/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 17 août 2022|
  
