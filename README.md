@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 23/08/2022 21:11:06 UTC
+ > Last Updated 24/08/2022 09:10:38 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -36,70 +36,17 @@
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[JFinal CMS list sql injection](https://vuldb.com/?id.207020)|Visit link for details|2022-08-23 at 19:11|
- |[JFinal CMS list sql injection](https://vuldb.com/?id.207019)|Visit link for details|2022-08-23 at 19:11|
- |[TRENDnet TV-IP572PI access control](https://vuldb.com/?id.207018)|Visit link for details|2022-08-23 at 19:11|
- |[D-Link DIR-615 WAN Configuration Page wan.htm improper authentication](https://vuldb.com/?id.207017)|Visit link for details|2022-08-23 at 19:10|
- |[Apache ActiveMQ Artemis Address/Queue cross site scripting](https://vuldb.com/?id.207016)|Visit link for details|2022-08-23 at 18:36|
- |[taocms path traversal](https://vuldb.com/?id.207015)|Visit link for details|2022-08-23 at 18:35|
- |[CODESYS Visualization observable response discrepancy](https://vuldb.com/?id.207014)|Visit link for details|2022-08-23 at 15:26|
- |[pimcore cross site scripting](https://vuldb.com/?id.207013)|Visit link for details|2022-08-23 at 13:08|
- |[ASNeG OpcUaStack OPC UA Message OpcUaNodeIdBase.h get denial of service](https://vuldb.com/?id.207012)|Visit link for details|2022-08-23 at 13:08|
- |[PukiWiki cross site scripting](https://vuldb.com/?id.207011)|Visit link for details|2022-08-23 at 13:07|
- 
- ---
-
 ## IBMCLOUD [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[Mozilla Firefox and Thunderbird code execution (CVE-2022-38476)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 23, 2022|
- |[Mozilla Firefox security bypass (CVE-2022-38475)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 23, 2022|
- |[Mozilla Firefox for Android security bypass (CVE-2022-38474)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 23, 2022|
- |[Mozilla Firefox security bypass (CVE-2022-38473)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 23, 2022|
- |[Mozilla Firefox spoofing (CVE-2022-38472)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 23, 2022|
- |[VMware Tools privilege escalation (CVE-2022-31676)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 23, 2022|
- |[Mozilla Firefox code execution (CVE-2022-38478)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 23, 2022|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[37882308/22 - Vulnérabilités dans Microsoft Edge](/fr/content/3788230822-vulnerabilites-dans-microsoft-edge.html)|Microsoft annonce la correction de plusieurs vulnérabilités dans Microsoft Edge. L’exploitation de ces failles peut permettre à un attaquant de provoquer un problème de sécurité non spécifié.|23 août 2022|
- |[37871908/22 - « Zero-Day » affectant le navigateur Apple Safari ](/fr/content/3787190822-zero-day-affectant-le-navigateur-apple-safari.html)|Apple annonce la correction d’une vulnérabilité critique affectant les versions susmentionnées de son navigateur Safari. Selon Apple cette vulnérabilité est activement exploitée et peut permettre à un attaquant distant d’exécuter du code...|19 août 2022|
- |[37861908/22 - Vulnérabilité dans Cisco AsyncOS for Secure Web Appliance](/fr/content/3786190822-vulnerabilite-dans-cisco-asyncos-secure-web-appliance.html)|Une vulnérabilité a été corrigée dans Cisco AsyncOS for Secure Web Appliance. L’exploitation de cette faille pourrait permettre à un attaquant d’exécuter du code arbitraire à distance et de réussir une élévation de privilèges.|19 août 2022|
- |[37841808/22 - Vulnérabilités critiques affectantle navigateur Google Chrome ](/fr/content/3784180822-vulnerabilites-critiques-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilitésaffectant le navigateur Google Chrome. Une de ces vulnérabilités identifiée par «CVE-2022-2856 » est activement exploitéeL’...|18 août 2022|
- |[37851708/22 - Vulnérabilités dans macOS Monterey](/fr/content/3785170822-vulnerabilites-dans-macos-monterey.html)|Deux vulnérabilités ont été corrigées dans macOS Monterey. L’exploitation de ces failles pourrait permettre à un attaquant d’exécuter du code arbitraire à distance. Apple confirme que ces deux vulnérabilités sont activement exploitées.|18 août 2022|
- |[37831708/22 - Vulnérabilités dans Zimbra](/fr/content/3783170822-vulnerabilites-dans-zimbra.html)|Plusieurs vulnérabilités ont été corrigées dans Zimbra. L’exploitation de ces failles pourrait permettre à un attaquant d’exécuter du code arbitraire à distance et de porter atteinte à la confidentialité des données.|17 août 2022|
- |[37821708/22 - Vulnérabilités affectant des produits QNAP ](/fr/content/3782170822-vulnerabilites-affectant-des-produits-qnap.html)|QNAP annonce la disponibilité de mises à jour de sécurité permettant la correctionde plusieurs vulnérabilités affectant ses produits susmentionnés. L'exploitationde ces vulnérabilités peut permettre à un attaquant distant d’...|17 août 2022|
- |[37811608/22 - Vulnérabilités dans Microsoft Windows ](/fr/content/3781160822-vulnerabilites-dans-microsoft-windows.html)|Microsoft annonce la correction de deux vulnérabilités affectant lessystèmes d’exploitation Windows susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges ou de contourner...|16 août 2022|
- |[37801608/22 - Vulnérabilités dans les produits de vidéoconférence ZOOM ](/fr/content/3780160822-vulnerabilites-dans-les-produits-de-videoconference-zoom.html)|Zoom annonce la correction de plusieurs vulnérabilités critiques affectant les produits susmentionnés de vidéoconférence Zoom. L’exploitation de ces failles peut permettre à un attaquant local d’avoir les privilèges d’un utilisateur « root...|16 août 2022|
- |[37791508/22 - Vulnérabilités dans PostgreSQL](/fr/content/3779150822-vulnerabilites-dans-postgresql.html)|Deux vulnérabilités ont été corrigées dans les versions PostgreSQL susmentionnées. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance, de causer un déni de service et de porter atteinte à...|15 août 2022|
- |[37781208/22 - Vulnérabilités dans les produits Siemens](/fr/content/3778120822-vulnerabilites-dans-les-produits-siemens.html)|Plusieurs vulnérabilités ont été corrigées dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à dis-tance, réussir une élévation de privilèges, causer un...|12 août 2022|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/VMware-Tools-privilege-escalation-39101" class="noirorange"><b>VMware Tools</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/VMware-Tools-privilege-escalation-39101)|An attacker can bypass restrictions of VMware Tools, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-reserve-sfa-size-39100" class="noirorange"><b>Linux kernel</b>: buffer overflow via reserve_sfa_size()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-reserve-sfa-size-39100)|An attacker can trigger a buffer overflow of the Linux kernel, via reserve_sfa_size(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-write-access-via-TCP-Session-Mixed-IPID-Assignment-39099" class="noirorange"><b>Linux kernel</b>: write access via TCP Session Mixed IPID Assignment</a>](https://vigilance.fr/vulnerability/Linux-kernel-write-access-via-TCP-Session-Mixed-IPID-Assignment-39099)|An attacker can bypass access restrictions of the Linux kernel, via TCP Session Mixed IPID Assignment, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/cosign-weak-signature-39098" class="noirorange"><b>cosign</b>: weak signature</a>](https://vigilance.fr/vulnerability/cosign-weak-signature-39098)|An attacker can use malicious data on cosign, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-39097" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-39097)|An attacker can use several vulnerabilities of Jenkins Plugins...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-compile-lock-unlock-39096" class="noirorange"><b>Vim</b>: buffer overflow via <wbr>compile_lock_unlock(<wbr>)</wbr></wbr></a>](https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-compile-lock-unlock-39096)|An attacker can trigger a buffer overflow of Vim, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-f-assert-fails-39095" class="noirorange"><b>Vim</b>: reuse after free via f_assert_fails()</a>](https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-f-assert-fails-39095)|An attacker can force the reuse of a freed memory area of Vim, via f_assert_fails(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-out-of-bounds-memory-reading-via-check-vim9-unlet-39094" class="noirorange"><b>Vim</b>: out-of-bounds memory reading via check_vim9_unlet()</a>](https://vigilance.fr/vulnerability/Vim-out-of-bounds-memory-reading-via-check-vim9-unlet-39094)|An attacker can force a read at an invalid memory address of Vim, via check_vim9_unlet(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-multiple-vulnerabilities-39093" class="noirorange"><b>Mozilla Firefox</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-multiple-vulnerabilities-39093)|An attacker can use several vulnerabilities of Mozilla Firefox...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-aerdl-unpack-39092" class="noirorange"><b>WithSecure Endpoint Protection</b>: denial of service via aerdl unpack</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-aerdl-unpack-39092)|An attacker can cause a fatal error of WithSecure Endpoint Protection, via aerdl unpack, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-overload-via-aegen-dll-39091" class="noirorange"><b>WithSecure Endpoint Protection</b>: overload via aegen.dll</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-overload-via-aegen-dll-39091)|An attacker can trigger an overload of WithSecure Endpoint Protection, via aegen.dll, in order to trigger a denial of service...|Visit link for details|
+ |[ServiceNow cross-site scripting (CVE-2022-38463)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 23, 2022|
+ |[Multiple F-Secure and WithSecure products denial of service (CVE-2022-28883)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 23, 2022|
+ |[Multiple F-Secure and WithSecure products denial of service (CVE-2022-28882)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 23, 2022|
+ |[Jenkins CollabNet Plugins Plugin information disclosure (CVE-2022-38665)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 23, 2022|
+ |[Jenkins Job Configuration History Plugin cross-site scripting (CVE-2022-38664)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 23, 2022|
+ |[Jenkins Git Plugin information disclosure (CVE-2022-38663)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 23, 2022|
+ |[PukiWiki cross-site scripting (CVE-2022-27637)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 23, 2022|
  
  ---
 
@@ -120,16 +67,59 @@
  
  ---
 
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Nim-read-write-access-via-asyncftpclient-39109" class="noirorange"><b>Nim</b>: read-write access via asyncftpclient</a>](https://vigilance.fr/vulnerability/Nim-read-write-access-via-asyncftpclient-39109)|An attacker can bypass access restrictions of Nim, via asyncftpclient, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Nim-Man-in-the-Middle-39108" class="noirorange"><b>Nim</b>: Man-in-the-Middle</a>](https://vigilance.fr/vulnerability/Nim-Man-in-the-Middle-39108)|An attacker can act as a Man-in-the-Middle on Nim, in order to read or write data in the session...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Nim-three-vulnerabilities-39107" class="noirorange"><b>Nim</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Nim-three-vulnerabilities-39107)|An attacker can use several vulnerabilities of Nim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-VirtualBox-memory-corruption-via-PGMPhysRead-39106" class="noirorange"><b>Oracle VirtualBox</b>: memory corruption via PGMPhysRead()</a>](https://vigilance.fr/vulnerability/Oracle-VirtualBox-memory-corruption-via-PGMPhysRead-39106)|An attacker, in a guest system, can trigger a memory corruption of Oracle VirtualBox, via PGMPhysRead(), in order to trigger a denial of service, and possibly to run code on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-VirtualBox-information-disclosure-via-sosendoob-39105" class="noirorange"><b>Oracle VirtualBox</b>: information disclosure via sosendoob()</a>](https://vigilance.fr/vulnerability/Oracle-VirtualBox-information-disclosure-via-sosendoob-39105)|An attacker, in a guest system, can bypass access restrictions to data of Oracle VirtualBox, via sosendoob(), in order to read sensitive information on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-Memory-Deduplication-39104" class="noirorange"><b>Linux kernel</b>: information disclosure via Memory Deduplication</a>](https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-Memory-Deduplication-39104)|An attacker can bypass access restrictions to data of the Linux kernel, via Memory Deduplication, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-mbochs-ioctl-39103" class="noirorange"><b>Linux kernel</b>: memory reading via mbochs_ioctl()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-mbochs-ioctl-39103)|An attacker can read a memory fragment of the Linux kernel, via mbochs_ioctl(), in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-Pressure-Stall-Information-39102" class="noirorange"><b>Linux kernel</b>: memory corruption via Pressure Stall Information</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-Pressure-Stall-Information-39102)|An attacker can trigger a memory corruption of the Linux kernel, via Pressure Stall Information, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/VMware-Tools-privilege-escalation-39101" class="noirorange"><b>VMware Tools</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/VMware-Tools-privilege-escalation-39101)|An attacker can bypass restrictions of VMware Tools, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-reserve-sfa-size-39100" class="noirorange"><b>Linux kernel</b>: buffer overflow via reserve_sfa_size()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-reserve-sfa-size-39100)|An attacker can trigger a buffer overflow of the Linux kernel, via reserve_sfa_size(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-write-access-via-TCP-Session-Mixed-IPID-Assignment-39099" class="noirorange"><b>Linux kernel</b>: write access via TCP Session Mixed IPID Assignment</a>](https://vigilance.fr/vulnerability/Linux-kernel-write-access-via-TCP-Session-Mixed-IPID-Assignment-39099)|An attacker can bypass access restrictions of the Linux kernel, via TCP Session Mixed IPID Assignment, in order to alter data...|Visit link for details|
+ 
+ ---
+
 ## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[Omron CX-One CX-Programmer CXP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1150/)|Visit link for details|Aug. 23, 2022|
- |[Measuresoft ScadaPro Server Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1149/)|Visit link for details|Aug. 23, 2022|
- |[Measuresoft ScadaPro Client Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1148/)|Visit link for details|Aug. 23, 2022|
- |[Measuresoft ScadaPro Client Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1147/)|Visit link for details|Aug. 23, 2022|
- |[Measuresoft ScadaPro Server Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1146/)|Visit link for details|Aug. 23, 2022|
- |[Measuresoft ScadaPro Server Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1145/)|Visit link for details|Aug. 23, 2022|
- |[Measuresoft ScadaPro Server Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1144/)|Visit link for details|Aug. 23, 2022|
- |[Measuresoft ScadaPro Server ORM File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1143/)|Visit link for details|Aug. 23, 2022|
+ |[(0Day) Tencent WeChat WXAM Decoder Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1164/)|Visit link for details|Aug. 23, 2022|
+ |[ICONICS GENESIS64 PKGX File Parsing Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1163/)|Visit link for details|Aug. 23, 2022|
+ |[ICONICS GENESIS64 GDFX File Parsing Path Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1162/)|Visit link for details|Aug. 23, 2022|
+ |[(Pwn2Own) Softing Secure Integration Server Use of Default Credentials Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1161/)|Visit link for details|Aug. 23, 2022|
+ |[Softing Secure Integration Server Content-Length Integer Underflow Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1160/)|Visit link for details|Aug. 23, 2022|
+ |[Softing Secure Integration Server Content-Length Out-Of-Bounds Read Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1159/)|Visit link for details|Aug. 23, 2022|
+ |[Softing Secure Integration Server Content-Type NULL Pointer Dereference Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1158/)|Visit link for details|Aug. 23, 2022|
+ |[Softing Secure Integration Server URI NULL Pointer Dereference Denial-of-Service Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1157/)|Visit link for details|Aug. 23, 2022|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[37882308/22 - Vulnérabilités dans Microsoft Edge](/fr/content/3788230822-vulnerabilites-dans-microsoft-edge.html)|Microsoft annonce la correction de plusieurs vulnérabilités dans Microsoft Edge. L’exploitation de ces failles peut permettre à un attaquant de provoquer un problème de sécurité non spécifié.|23 août 2022|
+ |[37871908/22 - « Zero-Day » affectant le navigateur Apple Safari ](/fr/content/3787190822-zero-day-affectant-le-navigateur-apple-safari.html)|Apple annonce la correction d’une vulnérabilité critique affectant les versions susmentionnées de son navigateur Safari. Selon Apple cette vulnérabilité est activement exploitée et peut permettre à un attaquant distant d’exécuter du code...|19 août 2022|
+ |[37861908/22 - Vulnérabilité dans Cisco AsyncOS for Secure Web Appliance](/fr/content/3786190822-vulnerabilite-dans-cisco-asyncos-secure-web-appliance.html)|Une vulnérabilité a été corrigée dans Cisco AsyncOS for Secure Web Appliance. L’exploitation de cette faille pourrait permettre à un attaquant d’exécuter du code arbitraire à distance et de réussir une élévation de privilèges.|19 août 2022|
+ |[37841808/22 - Vulnérabilités critiques affectantle navigateur Google Chrome ](/fr/content/3784180822-vulnerabilites-critiques-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilitésaffectant le navigateur Google Chrome. Une de ces vulnérabilités identifiée par «CVE-2022-2856 » est activement exploitéeL’...|18 août 2022|
+ |[37851708/22 - Vulnérabilités dans macOS Monterey](/fr/content/3785170822-vulnerabilites-dans-macos-monterey.html)|Deux vulnérabilités ont été corrigées dans macOS Monterey. L’exploitation de ces failles pourrait permettre à un attaquant d’exécuter du code arbitraire à distance. Apple confirme que ces deux vulnérabilités sont activement exploitées.|18 août 2022|
+ |[37831708/22 - Vulnérabilités dans Zimbra](/fr/content/3783170822-vulnerabilites-dans-zimbra.html)|Plusieurs vulnérabilités ont été corrigées dans Zimbra. L’exploitation de ces failles pourrait permettre à un attaquant d’exécuter du code arbitraire à distance et de porter atteinte à la confidentialité des données.|17 août 2022|
+ |[37821708/22 - Vulnérabilités affectant des produits QNAP ](/fr/content/3782170822-vulnerabilites-affectant-des-produits-qnap.html)|QNAP annonce la disponibilité de mises à jour de sécurité permettant la correctionde plusieurs vulnérabilités affectant ses produits susmentionnés. L'exploitationde ces vulnérabilités peut permettre à un attaquant distant d’...|17 août 2022|
+ |[37811608/22 - Vulnérabilités dans Microsoft Windows ](/fr/content/3781160822-vulnerabilites-dans-microsoft-windows.html)|Microsoft annonce la correction de deux vulnérabilités affectant lessystèmes d’exploitation Windows susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges ou de contourner...|16 août 2022|
+ |[37801608/22 - Vulnérabilités dans les produits de vidéoconférence ZOOM ](/fr/content/3780160822-vulnerabilites-dans-les-produits-de-videoconference-zoom.html)|Zoom annonce la correction de plusieurs vulnérabilités critiques affectant les produits susmentionnés de vidéoconférence Zoom. L’exploitation de ces failles peut permettre à un attaquant local d’avoir les privilèges d’un utilisateur « root...|16 août 2022|
+ |[37791508/22 - Vulnérabilités dans PostgreSQL](/fr/content/3779150822-vulnerabilites-dans-postgresql.html)|Deux vulnérabilités ont été corrigées dans les versions PostgreSQL susmentionnées. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance, de causer un déni de service et de porter atteinte à...|15 août 2022|
+ |[37781208/22 - Vulnérabilités dans les produits Siemens](/fr/content/3778120822-vulnerabilites-dans-les-produits-siemens.html)|Plusieurs vulnérabilités ont été corrigées dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à dis-tance, réussir une élévation de privilèges, causer un...|12 août 2022|
  
