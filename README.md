@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 24/08/2022 21:10:18 UTC
+ > Last Updated 25/08/2022 09:12:00 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -40,34 +40,17 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/HCL-Domino-iNotes-user-access-via-Password-Strength-Checks-39119" class="noirorange"><b>HCL Domino  iNotes</b>: user access via Password Strength Checks</a>](https://vigilance.fr/vulnerability/HCL-Domino-iNotes-user-access-via-Password-Strength-Checks-39119)|An attacker can bypass restrictions of HCL Domino  iNotes, via Password Strength Checks, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HCL-Domino-iNotes-information-disclosure-via-Non-existent-Domain-Link-39118" class="noirorange"><b>HCL Domino  iNotes</b>: information disclosure via Non-existent Domain Link</a>](https://vigilance.fr/vulnerability/HCL-Domino-iNotes-information-disclosure-via-Non-existent-Domain-Link-39118)|An attacker can bypass access restrictions to data of HCL Domino  iNotes, via Non-existent Domain Link, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HCL-Domino-iNotes-Cross-Site-Scripting-via-Form-POST-Request-39117" class="noirorange"><b>HCL Domino  iNotes</b>: Cross Site Scripting via Form POST Request</a>](https://vigilance.fr/vulnerability/HCL-Domino-iNotes-Cross-Site-Scripting-via-Form-POST-Request-39117)|An attacker can trigger a Cross Site Scripting of HCL Domino  iNotes, via Form POST Request, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-pipe-resize-ring-39116" class="noirorange"><b>Linux kernel</b>: memory corruption via pipe_resize_ring()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-pipe-resize-ring-39116)|An attacker can trigger a memory corruption of the Linux kernel, via pipe_resize_ring(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/systemd-reuse-after-free-via-DnsStream-39115" class="noirorange"><b>systemd</b>: reuse after free via DnsStream</a>](https://vigilance.fr/vulnerability/systemd-reuse-after-free-via-DnsStream-39115)|An attacker can force the reuse of a freed memory area of systemd, via DnsStream, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-inode-init-always-39114" class="noirorange"><b>Linux kernel</b>: reuse after free via inode_init_always()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-inode-init-always-39114)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Commerce-Elavon-information-disclosure-via-On-site-Payment-Gateway-39113" class="noirorange"><b>Drupal Commerce Elavon</b>: information disclosure via On-site Payment Gateway</a>](https://vigilance.fr/vulnerability/Drupal-Commerce-Elavon-information-disclosure-via-On-site-Payment-Gateway-39113)|An attacker can bypass access restrictions to data of Drupal Commerce Elavon, via On-site Payment Gateway, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-NX-OS-code-execution-via-Cisco-Discovery-Protocol-39112" class="noirorange"><b>Cisco NX-OS</b>: code execution via Cisco Discovery Protocol</a>](https://vigilance.fr/vulnerability/Cisco-NX-OS-code-execution-via-Cisco-Discovery-Protocol-39112)|An attacker can use a vulnerability of Cisco NX-OS, via Cisco Discovery Protocol, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-NX-OS-denial-of-service-via-OSPFv3-39111" class="noirorange"><b>Cisco NX-OS</b>: denial of service via OSPFv3</a>](https://vigilance.fr/vulnerability/Cisco-NX-OS-denial-of-service-via-OSPFv3-39111)|An attacker can cause a fatal error of Cisco NX-OS, via OSPFv3, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-packet-recvmsg-39110" class="noirorange"><b>Linux kernel</b>: memory corruption via packet_recvmsg()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-packet-recvmsg-39110)|An attacker can trigger a memory corruption of the Linux kernel, via packet_recvmsg(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Nim-read-write-access-via-asyncftpclient-39109" class="noirorange"><b>Nim</b>: read-write access via asyncftpclient</a>](https://vigilance.fr/vulnerability/Nim-read-write-access-via-asyncftpclient-39109)|An attacker can bypass access restrictions of Nim, via asyncftpclient, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Nim-Man-in-the-Middle-39108" class="noirorange"><b>Nim</b>: Man-in-the-Middle</a>](https://vigilance.fr/vulnerability/Nim-Man-in-the-Middle-39108)|An attacker can act as a Man-in-the-Middle on Nim, in order to read or write data in the session...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Nim-three-vulnerabilities-39107" class="noirorange"><b>Nim</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Nim-three-vulnerabilities-39107)|An attacker can use several vulnerabilities of Nim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Oracle-VirtualBox-memory-corruption-via-PGMPhysRead-39106" class="noirorange"><b>Oracle VirtualBox</b>: memory corruption via PGMPhysRead()</a>](https://vigilance.fr/vulnerability/Oracle-VirtualBox-memory-corruption-via-PGMPhysRead-39106)|An attacker, in a guest system, can trigger a memory corruption of Oracle VirtualBox, via PGMPhysRead(), in order to trigger a denial of service, and possibly to run code on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Oracle-VirtualBox-information-disclosure-via-sosendoob-39105" class="noirorange"><b>Oracle VirtualBox</b>: information disclosure via sosendoob()</a>](https://vigilance.fr/vulnerability/Oracle-VirtualBox-information-disclosure-via-sosendoob-39105)|An attacker, in a guest system, can bypass access restrictions to data of Oracle VirtualBox, via sosendoob(), in order to read sensitive information on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-Memory-Deduplication-39104" class="noirorange"><b>Linux kernel</b>: information disclosure via Memory Deduplication</a>](https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-Memory-Deduplication-39104)|An attacker can bypass access restrictions to data of the Linux kernel, via Memory Deduplication, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-mbochs-ioctl-39103" class="noirorange"><b>Linux kernel</b>: memory reading via mbochs_ioctl()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-mbochs-ioctl-39103)|An attacker can read a memory fragment of the Linux kernel, via mbochs_ioctl(), in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-Pressure-Stall-Information-39102" class="noirorange"><b>Linux kernel</b>: memory corruption via Pressure Stall Information</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-Pressure-Stall-Information-39102)|An attacker can trigger a memory corruption of the Linux kernel, via Pressure Stall Information, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[GnuTLS Hash Update null pointer dereference](https://vuldb.com/?id.207106)|Visit link for details|2022-08-24 at 22:49|
- |[Linux Kernel NILFS File System inode.c security_inode_alloc use after free](https://vuldb.com/?id.207105)|Visit link for details|2022-08-24 at 22:48|
- |[Linux Kernel SVC RDMA Counter initialization](https://vuldb.com/?id.207104)|Visit link for details|2022-08-24 at 22:47|
- |[Linux Kernel eBPF out-of-bounds write](https://vuldb.com/?id.207103)|Visit link for details|2022-08-24 at 22:46|
- |[Linux Kernel XFS File System inode.c inode_init_owner access control](https://vuldb.com/?id.207102)|Visit link for details|2022-08-24 at 22:45|
- |[Linux Kernel ebpf Verifier verifier.c adjust_scalar_min_max_vals unknown vulnerability](https://vuldb.com/?id.207101)|Visit link for details|2022-08-24 at 22:44|
- |[Hitachi Energy RTU500 HCI Modbus TCP stack-based overflow](https://vuldb.com/?id.207100)|Visit link for details|2022-08-24 at 15:35|
- |[Measuresoft ScadaPro Server/ScadaPro Client link following](https://vuldb.com/?id.207099)|Visit link for details|2022-08-24 at 15:34|
- |[Measuresoft ScadaPro Server/ScadaPro Client link following](https://vuldb.com/?id.207098)|Visit link for details|2022-08-24 at 15:33|
- |[Measuresoft ScadaPro Server Project File use after free](https://vuldb.com/?id.207097)|Visit link for details|2022-08-24 at 15:32|
  
  ---
 
@@ -85,6 +68,23 @@
  |[Vulnérabilité dans F5 BIG-IP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-760/)|Une vulnérabilité a été découverte dans F5 BIG-IP. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 23 août 2022|
  |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-759/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 22 août 2022|
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-758/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu . Elles permettent à un attaquant de provoquer un déni de service et une atteinte à la confidentialité des données.|Publié le 19 août 2022|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Artica Proxy fw.login.php cross site scripting](https://vuldb.com/?id.207142)|Visit link for details|2022-08-25 at 09:19|
+ |[libpngs pngimage pngimage.c buffer overflow](https://vuldb.com/?id.207141)|Visit link for details|2022-08-25 at 09:18|
+ |[Linux Kernel XFS xfs_ioctl.c xfs_ioc_space buffer size](https://vuldb.com/?id.207140)|Visit link for details|2022-08-25 at 09:17|
+ |[GNU glibc getcwd off-by-one](https://vuldb.com/?id.207139)|Visit link for details|2022-08-25 at 09:15|
+ |[MikroTik RouterOS Mount Point access control](https://vuldb.com/?id.207138)|Visit link for details|2022-08-25 at 09:15|
+ |[PrinterLogic Windows Client pathname traversal](https://vuldb.com/?id.207137)|Visit link for details|2022-08-25 at 09:14|
+ |[72crm unrestricted upload](https://vuldb.com/?id.207136)|Visit link for details|2022-08-25 at 09:13|
+ |[ABB Zenon storing passwords in a recoverable format](https://vuldb.com/?id.207135)|Visit link for details|2022-08-25 at 09:13|
+ |[ABB Zenon storing passwords in a recoverable format](https://vuldb.com/?id.207134)|Visit link for details|2022-08-25 at 09:12|
+ |[ABB Zenon Log Message path traversal](https://vuldb.com/?id.207133)|Visit link for details|2022-08-25 at 09:12|
  
  ---
 
@@ -110,13 +110,13 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Linux Kernel privilege escalation (CVE-2022-2959)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 24, 2022|
+ |[Cisco FXOS Software command execution (CVE-2022-20865)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 24, 2022|
+ |[Cisco ACI Multi-Site Orchestrator (MSO) privilege escalation (CVE-2022-20921)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 24, 2022|
+ |[Cisco FXOS and NX-OS Software buffer overflow (CVE-2022-20824)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 24, 2022|
+ |[Cisco NX-OS Software denial of service (CVE-2022-20823)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 24, 2022|
  |[PukiWiki cross-site scripting (CVE-2022-36350)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 23, 2022|
  |[WP phpMyAdmin plugin for WordPress cross-site scripting (CVE-2022-2407)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 23, 2022|
- |[Measuresoft ScadaPro Server code execution (CVE-2022-2892)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 23, 2022|
- |[Measuresoft ScadaPro Server and Client denial of service (CVE-2022-2898)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 23, 2022|
- |[Measuresoft ScadaPro Server and Client privilege escalation (CVE-2022-2897)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 23, 2022|
- |[Measuresoft ScadaPro Server and Client code execution (CVE-2022-2896)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 23, 2022|
- |[Measuresoft ScadaPro Server and Client buffer overflow (CVE-2022-2895)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 23, 2022|
  
  ---
 
