@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 25/08/2022 21:10:52 UTC
+ > Last Updated 26/08/2022 09:10:48 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -40,6 +40,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/SQLite-denial-of-service-via-fts5UnicodeTokenize-39124" class="noirorange"><b>SQLite</b>: denial of service via <wbr>fts5UnicodeTokenize(<wbr>)</wbr></wbr></a>](https://vigilance.fr/vulnerability/SQLite-denial-of-service-via-fts5UnicodeTokenize-39124)|An attacker can cause a fatal error of SQLite, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-NULL-pointer-dereference-via-sug-filltree-39122" class="noirorange"><b>Vim</b>: NULL pointer dereference via sug_filltree()</a>](https://vigilance.fr/vulnerability/Vim-NULL-pointer-dereference-via-sug-filltree-39122)|An attacker can force a NULL pointer to be dereferenced on Vim, via sug_filltree(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-tagfunc-39121" class="noirorange"><b>Vim</b>: reuse after free via tagfunc</a>](https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-tagfunc-39121)|An attacker can force the reuse of a freed memory area of Vim, via tagfunc, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apereo-CAS-Server-user-access-via-OpenID-Connect-39120" class="noirorange"><b>Apereo CAS Server</b>: user access via OpenID Connect</a>](https://vigilance.fr/vulnerability/Apereo-CAS-Server-user-access-via-OpenID-Connect-39120)|An attacker can bypass restrictions of Apereo CAS Server, via OpenID Connect, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/HCL-Domino-iNotes-user-access-via-Password-Strength-Checks-39119" class="noirorange"><b>HCL Domino  iNotes</b>: user access via Password Strength Checks</a>](https://vigilance.fr/vulnerability/HCL-Domino-iNotes-user-access-via-Password-Strength-Checks-39119)|An attacker can bypass restrictions of HCL Domino  iNotes, via Password Strength Checks, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/HCL-Domino-iNotes-information-disclosure-via-Non-existent-Domain-Link-39118" class="noirorange"><b>HCL Domino  iNotes</b>: information disclosure via Non-existent Domain Link</a>](https://vigilance.fr/vulnerability/HCL-Domino-iNotes-information-disclosure-via-Non-existent-Domain-Link-39118)|An attacker can bypass access restrictions to data of HCL Domino  iNotes, via Non-existent Domain Link, in order to read sensitive information...|Visit link for details|
@@ -48,55 +51,6 @@
  |[<a href="https://vigilance.fr/vulnerability/systemd-reuse-after-free-via-DnsStream-39115" class="noirorange"><b>systemd</b>: reuse after free via DnsStream</a>](https://vigilance.fr/vulnerability/systemd-reuse-after-free-via-DnsStream-39115)|An attacker can force the reuse of a freed memory area of systemd, via DnsStream, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-inode-init-always-39114" class="noirorange"><b>Linux kernel</b>: reuse after free via inode_init_always()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-inode-init-always-39114)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Commerce-Elavon-information-disclosure-via-On-site-Payment-Gateway-39113" class="noirorange"><b>Drupal Commerce Elavon</b>: information disclosure via On-site Payment Gateway</a>](https://vigilance.fr/vulnerability/Drupal-Commerce-Elavon-information-disclosure-via-On-site-Payment-Gateway-39113)|An attacker can bypass access restrictions to data of Drupal Commerce Elavon, via On-site Payment Gateway, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-NX-OS-code-execution-via-Cisco-Discovery-Protocol-39112" class="noirorange"><b>Cisco NX-OS</b>: code execution via Cisco Discovery Protocol</a>](https://vigilance.fr/vulnerability/Cisco-NX-OS-code-execution-via-Cisco-Discovery-Protocol-39112)|An attacker can use a vulnerability of Cisco NX-OS, via Cisco Discovery Protocol, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-NX-OS-denial-of-service-via-OSPFv3-39111" class="noirorange"><b>Cisco NX-OS</b>: denial of service via OSPFv3</a>](https://vigilance.fr/vulnerability/Cisco-NX-OS-denial-of-service-via-OSPFv3-39111)|An attacker can cause a fatal error of Cisco NX-OS, via OSPFv3, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-packet-recvmsg-39110" class="noirorange"><b>Linux kernel</b>: memory corruption via packet_recvmsg()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-packet-recvmsg-39110)|An attacker can trigger a memory corruption of the Linux kernel, via packet_recvmsg(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- 
- ---
-
-## IBMCLOUD [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Ap Pagebuilder module for PrestaShop SQL injection (CVE-2022-22897)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 25, 2022|
- |[Centreon cross-site scripting (CVE-2022-36194)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 25, 2022|
- |[Exment SQL Injection (CVE-2022-37333)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 24, 2022|
- |[Exment cross-site scripting (CVE-2022-38080)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 24, 2022|
- |[Exment cross-site scripting (CVE-2022-38089)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 24, 2022|
- |[Linux Kernel privilege escalation (CVE-2022-2959)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 24, 2022|
- |[Cisco FXOS Software command execution (CVE-2022-20865)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 24, 2022|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[TOTOLINK A3700R setIpPortFilterRules stack-based overflow](https://vuldb.com/?id.207284)|Visit link for details|2022-08-25 at 21:22|
- |[MDaemon SecurityGateway for Email Servers cross site scripting](https://vuldb.com/?id.207283)|Visit link for details|2022-08-25 at 21:22|
- |[Claroline SVG File Upload cross site scripting](https://vuldb.com/?id.207282)|Visit link for details|2022-08-25 at 21:22|
- |[MDaemon SecurityGateway for Email Servers Blacklist Endpoint cross site scripting](https://vuldb.com/?id.207281)|Visit link for details|2022-08-25 at 21:21|
- |[MDaemon SecurityGateway for Email Servers whitelist Endpoint cross site scripting](https://vuldb.com/?id.207280)|Visit link for details|2022-08-25 at 21:21|
- |[MDaemon SecurityGateway for Email Servers data_leak_list_ajax cross site scripting](https://vuldb.com/?id.207279)|Visit link for details|2022-08-25 at 21:21|
- |[MDaemon SecurityGateway for Email Servers rulles_list_ajax cross site scripting](https://vuldb.com/?id.207278)|Visit link for details|2022-08-25 at 21:20|
- |[Claroline SVG File cross site scripting](https://vuldb.com/?id.207277)|Visit link for details|2022-08-25 at 21:20|
- |[Tenda AX12 POST Request SetIpMacBind sub_42FDE4 buffer overflow](https://vuldb.com/?id.207276)|Visit link for details|2022-08-25 at 21:19|
- |[Claroline Calendar Event cross site scripting](https://vuldb.com/?id.207275)|Visit link for details|2022-08-25 at 21:19|
- 
- ---
-
-## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Fatek Automation FvDesigner FPJ File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1174/)|Visit link for details|Aug. 25, 2022|
- |[Fatek Automation FvDesigner FPJ File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1173/)|Visit link for details|Aug. 25, 2022|
- |[Fatek Automation FvDesigner FPJ File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1172/)|Visit link for details|Aug. 25, 2022|
- |[Fatek Automation FvDesigner FPJ File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1171/)|Visit link for details|Aug. 25, 2022|
- |[Fatek Automation FvDesigner FPJ File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1170/)|Visit link for details|Aug. 25, 2022|
- |[Fatek Automation FvDesigner FPJ File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1169/)|Visit link for details|Aug. 25, 2022|
- |[Fatek Automation FvDesigner FPJ File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1168/)|Visit link for details|Aug. 25, 2022|
- |[Fatek Automation FvDesigner FPJ File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1167/)|Visit link for details|Aug. 25, 2022|
  
  ---
 
@@ -117,6 +71,23 @@
  
  ---
 
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Cisco ACI Multi-Site Orchestrator API improper authorization](https://vuldb.com/?id.207364)|Visit link for details|2022-08-26 at 09:56|
+ |[NetApp Active IQ Unified Manager AutoSupport Telemetry information disclosure](https://vuldb.com/?id.207363)|Visit link for details|2022-08-26 at 09:56|
+ |[GE WorkstationST iHistorian Data Display cross site scripting](https://vuldb.com/?id.207362)|Visit link for details|2022-08-26 at 09:55|
+ |[Jfinal CMS Blog Module cross site scripting](https://vuldb.com/?id.207361)|Visit link for details|2022-08-26 at 09:54|
+ |[GE WorkstationST Challenge-Response response splitting](https://vuldb.com/?id.207360)|Visit link for details|2022-08-26 at 09:53|
+ |[mod_wsgi Header less trusted source](https://vuldb.com/?id.207359)|Visit link for details|2022-08-26 at 09:52|
+ |[Elastic Cloud Enterprise user log file](https://vuldb.com/?id.207358)|Visit link for details|2022-08-26 at 09:52|
+ |[colord cd-device-db.c sqlite3_exec information disclosure](https://vuldb.com/?id.207357)|Visit link for details|2022-08-26 at 09:51|
+ |[GNOME anjuta libxml2 API anjuta-bookmarks.c xmlGetProp information disclosure](https://vuldb.com/?id.207356)|Visit link for details|2022-08-26 at 09:50|
+ |[VTK libxml2 API vtkXMLTreeReader.cxx xmlDocGetRootElement resource consumption](https://vuldb.com/?id.207355)|Visit link for details|2022-08-26 at 09:50|
+ 
+ ---
+
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -132,4 +103,33 @@
  |[37861908/22 - Vulnérabilité dans Cisco AsyncOS for Secure Web Appliance](/fr/content/3786190822-vulnerabilite-dans-cisco-asyncos-secure-web-appliance.html)|Une vulnérabilité a été corrigée dans Cisco AsyncOS for Secure Web Appliance. L’exploitation de cette faille pourrait permettre à un attaquant d’exécuter du code arbitraire à distance et de réussir une élévation de privilèges.|19 août 2022|
  |[37841808/22 - Vulnérabilités critiques affectantle navigateur Google Chrome ](/fr/content/3784180822-vulnerabilites-critiques-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilitésaffectant le navigateur Google Chrome. Une de ces vulnérabilités identifiée par «CVE-2022-2856 » est activement exploitéeL’...|18 août 2022|
  |[37851708/22 - Vulnérabilités dans macOS Monterey](/fr/content/3785170822-vulnerabilites-dans-macos-monterey.html)|Deux vulnérabilités ont été corrigées dans macOS Monterey. L’exploitation de ces failles pourrait permettre à un attaquant d’exécuter du code arbitraire à distance. Apple confirme que ces deux vulnérabilités sont activement exploitées.|18 août 2022|
+ 
+ ---
+
+## IBMCLOUD [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apache Hadoop command execution (CVE-2021-25642)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 25, 2022|
+ |[Apache libapreq2 denial of service (CVE-2022-22728)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 25, 2022|
+ |[Ap Pagebuilder module for PrestaShop SQL injection (CVE-2022-22897)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 25, 2022|
+ |[Centreon cross-site scripting (CVE-2022-36194)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 25, 2022|
+ |[FATEK Automation FvDesigner code execution (CVE-2022-2866)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 25, 2022|
+ |[Elasticsearch Elastic Cloud Enterprise information disclosure (CVE-2022-23715)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 24, 2022|
+ |[Commerce Elavon module for Drupal security bypass](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 24, 2022|
+ 
+ ---
+
+## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Fatek Automation FvDesigner FPJ File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1174/)|Visit link for details|Aug. 25, 2022|
+ |[Fatek Automation FvDesigner FPJ File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1173/)|Visit link for details|Aug. 25, 2022|
+ |[Fatek Automation FvDesigner FPJ File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1172/)|Visit link for details|Aug. 25, 2022|
+ |[Fatek Automation FvDesigner FPJ File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1171/)|Visit link for details|Aug. 25, 2022|
+ |[Fatek Automation FvDesigner FPJ File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1170/)|Visit link for details|Aug. 25, 2022|
+ |[Fatek Automation FvDesigner FPJ File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1169/)|Visit link for details|Aug. 25, 2022|
+ |[Fatek Automation FvDesigner FPJ File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1168/)|Visit link for details|Aug. 25, 2022|
+ |[Fatek Automation FvDesigner FPJ File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1167/)|Visit link for details|Aug. 25, 2022|
  
