@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 26/08/2022 09:10:48 UTC
+ > Last Updated 26/08/2022 21:11:04 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -40,6 +40,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/libyang-assertion-error-via-lys-node-free-39126" class="noirorange"><b>libyang</b>: assertion error via lys_node_free()</a>](https://vigilance.fr/vulnerability/libyang-assertion-error-via-lys-node-free-39126)|An attacker can force an assertion error of libyang, via lys_node_free(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-bpf-tail-call-39125" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via bpf_tail_call()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-bpf-tail-call-39125)|An attacker can force a read at an invalid memory address of the Linux kernel, via bpf_tail_call(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/SQLite-denial-of-service-via-fts5UnicodeTokenize-39124" class="noirorange"><b>SQLite</b>: denial of service via <wbr>fts5UnicodeTokenize(<wbr>)</wbr></wbr></a>](https://vigilance.fr/vulnerability/SQLite-denial-of-service-via-fts5UnicodeTokenize-39124)|An attacker can cause a fatal error of SQLite, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Vim-NULL-pointer-dereference-via-sug-filltree-39122" class="noirorange"><b>Vim</b>: NULL pointer dereference via sug_filltree()</a>](https://vigilance.fr/vulnerability/Vim-NULL-pointer-dereference-via-sug-filltree-39122)|An attacker can force a NULL pointer to be dereferenced on Vim, via sug_filltree(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-tagfunc-39121" class="noirorange"><b>Vim</b>: reuse after free via tagfunc</a>](https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-tagfunc-39121)|An attacker can force the reuse of a freed memory area of Vim, via tagfunc, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
@@ -49,25 +51,6 @@
  |[<a href="https://vigilance.fr/vulnerability/HCL-Domino-iNotes-Cross-Site-Scripting-via-Form-POST-Request-39117" class="noirorange"><b>HCL Domino  iNotes</b>: Cross Site Scripting via Form POST Request</a>](https://vigilance.fr/vulnerability/HCL-Domino-iNotes-Cross-Site-Scripting-via-Form-POST-Request-39117)|An attacker can trigger a Cross Site Scripting of HCL Domino  iNotes, via Form POST Request, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-pipe-resize-ring-39116" class="noirorange"><b>Linux kernel</b>: memory corruption via pipe_resize_ring()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-pipe-resize-ring-39116)|An attacker can trigger a memory corruption of the Linux kernel, via pipe_resize_ring(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/systemd-reuse-after-free-via-DnsStream-39115" class="noirorange"><b>systemd</b>: reuse after free via DnsStream</a>](https://vigilance.fr/vulnerability/systemd-reuse-after-free-via-DnsStream-39115)|An attacker can force the reuse of a freed memory area of systemd, via DnsStream, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-inode-init-always-39114" class="noirorange"><b>Linux kernel</b>: reuse after free via inode_init_always()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-inode-init-always-39114)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Commerce-Elavon-information-disclosure-via-On-site-Payment-Gateway-39113" class="noirorange"><b>Drupal Commerce Elavon</b>: information disclosure via On-site Payment Gateway</a>](https://vigilance.fr/vulnerability/Drupal-Commerce-Elavon-information-disclosure-via-On-site-Payment-Gateway-39113)|An attacker can bypass access restrictions to data of Drupal Commerce Elavon, via On-site Payment Gateway, in order to read sensitive information...|Visit link for details|
- 
- ---
-
-## CERT-FR [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans SonicWall SMA](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-771/)|De multiples vulnérabilités ont été découvertes dans SonicWall SMA. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 25 août 2022|
- |[Vulnérabilité dans ElasticSearch Cloud Enterprise](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-770/)|Une vulnérabilité a été découverte dans ElasticSearch Cloud Enterprise. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 25 août 2022|
- |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-769/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une élévation de privilèges.|Publié le 25 août 2022|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-768/)|De multiples vulnérabilités ont été corrigées dans le noyau Linux d'|Publié le 25 août 2022|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-767/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 24 août 2022|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-766/)|De multiples vulnérabilités ont été corrigées dans |Publié le 24 août 2022|
- |[Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-765/)|De multiples vulnérabilités ont été corrigées dans |Publié le 24 août 2022|
- |[Multiples vulnérabilités dans les produits F-Secure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-764/)|De multiples vulnérabilités ont été découvertes dans F-Secure les produits F-Secure. Elles permettent à un attaquant de provoquer un déni de service.|Publié le 24 août 2022|
- |[Vulnérabilité dans VMware Tools](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-763/)|Une vulnérabilité a été découverte dans VMware Tools. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 24 août 2022|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-762/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Elles permettent à un attaquant de provoquer un déni de service et une élévation de privilèges.|Publié le 23 août 2022|
  
  ---
 
@@ -75,16 +58,33 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Cisco ACI Multi-Site Orchestrator API improper authorization](https://vuldb.com/?id.207364)|Visit link for details|2022-08-26 at 09:56|
- |[NetApp Active IQ Unified Manager AutoSupport Telemetry information disclosure](https://vuldb.com/?id.207363)|Visit link for details|2022-08-26 at 09:56|
- |[GE WorkstationST iHistorian Data Display cross site scripting](https://vuldb.com/?id.207362)|Visit link for details|2022-08-26 at 09:55|
- |[Jfinal CMS Blog Module cross site scripting](https://vuldb.com/?id.207361)|Visit link for details|2022-08-26 at 09:54|
- |[GE WorkstationST Challenge-Response response splitting](https://vuldb.com/?id.207360)|Visit link for details|2022-08-26 at 09:53|
- |[mod_wsgi Header less trusted source](https://vuldb.com/?id.207359)|Visit link for details|2022-08-26 at 09:52|
- |[Elastic Cloud Enterprise user log file](https://vuldb.com/?id.207358)|Visit link for details|2022-08-26 at 09:52|
- |[colord cd-device-db.c sqlite3_exec information disclosure](https://vuldb.com/?id.207357)|Visit link for details|2022-08-26 at 09:51|
- |[GNOME anjuta libxml2 API anjuta-bookmarks.c xmlGetProp information disclosure](https://vuldb.com/?id.207356)|Visit link for details|2022-08-26 at 09:50|
- |[VTK libxml2 API vtkXMLTreeReader.cxx xmlDocGetRootElement resource consumption](https://vuldb.com/?id.207355)|Visit link for details|2022-08-26 at 09:50|
+ |[Keycloak input validation](https://vuldb.com/?id.207392)|Visit link for details|2022-08-26 at 20:50|
+ |[QEMU AHCI Controller Device ahci_reset_port locking](https://vuldb.com/?id.207391)|Visit link for details|2022-08-26 at 20:48|
+ |[openshift-serverless Privilege Escalation](https://vuldb.com/?id.207390)|Visit link for details|2022-08-26 at 20:47|
+ |[Keycloak WebAuthn improper authentication](https://vuldb.com/?id.207389)|Visit link for details|2022-08-26 at 20:46|
+ |[openstack-tripleo-heat-templates OSP13 Deployment information disclosure](https://vuldb.com/?id.207388)|Visit link for details|2022-08-26 at 20:45|
+ |[ImageMagick Convert Command memory leak](https://vuldb.com/?id.207387)|Visit link for details|2022-08-26 at 20:44|
+ |[OpenStack Keystone Application Secret stack-based overflow](https://vuldb.com/?id.207386)|Visit link for details|2022-08-26 at 20:43|
+ |[Red Hat Satellite permissions](https://vuldb.com/?id.207385)|Visit link for details|2022-08-26 at 20:42|
+ |[Linux Kernel SUID/GUID begin_new_exec permission](https://vuldb.com/?id.207384)|Visit link for details|2022-08-26 at 20:41|
+ |[RPM link following](https://vuldb.com/?id.207383)|Visit link for details|2022-08-26 at 20:38|
+ 
+ ---
+
+## CERT-FR [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-774/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 26 août 2022|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-773/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une atteinte à la confidentialité des données.|Publié le 26 août 2022|
+ |[Multiples vulnérabilités dans Tenable Nessus Agent](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-772/)|De multiples vulnérabilités ont été découvertes dans Tenable Nessus Agent. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 26 août 2022|
+ |[Multiples vulnérabilités dans SonicWall SMA](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-771/)|De multiples vulnérabilités ont été découvertes dans SonicWall SMA. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 25 août 2022|
+ |[Vulnérabilité dans ElasticSearch Cloud Enterprise](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-770/)|Une vulnérabilité a été découverte dans ElasticSearch Cloud Enterprise. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 25 août 2022|
+ |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-769/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une élévation de privilèges.|Publié le 25 août 2022|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-768/)|De multiples vulnérabilités ont été corrigées dans le noyau Linux d'|Publié le 25 août 2022|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-767/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 24 août 2022|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-766/)|De multiples vulnérabilités ont été corrigées dans |Publié le 24 août 2022|
+ |[Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-765/)|De multiples vulnérabilités ont été corrigées dans |Publié le 24 août 2022|
  
  ---
 
@@ -92,6 +92,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[37962608/22 - Vulnérabilités dans SonicWall SMA](/fr/content/3796260822-vulnerabilites-dans-sonicwall-sma.html)|Une vulnérabilité a été corrigée dans SonicWall SMA. L'exploitation de cette faille peut permettre à un attaquant distant d’exécuter des commandes arbitraires, de causer un déni de service ou de porter atteinte à la confidentialité de...|26 août 2022|
+ |[37952608/22 - Vulnérabilités dans Sophos UTM](/fr/content/3795260822-vulnerabilites-dans-sophos-utm.html)|Plusieurs vulnérabilités ont été corrigées affectant Sophos UTM. L’exploitation de ces failles peut permettre à un attaquant distant d’exécuter du code arbitraire ou de contourner la politique de sécurité.|26 août 2022|
  |[37942508/22 - Vulnérabilités affectant des produits d’IBM ](/fr/content/3794250822-vulnerabilites-affectant-des-produits-d-ibm.html)|IBM annonce la correction de plusieursvulnérabilités affectant ses produits susmentionnés. L’exploitation de ces failles permet à un attaquant d’exécuter du code arbitraire, de contourner la politique de sécurité, d’accéder à des données...|25 août 2022|
  |[37932508/22 -Vulnérabilités affectant plusieursproduits deCisco](/fr/content/3793250822-vulnerabilites-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’exécuter des commandes arbitraires, d’...|25 août 2022|
  |[37922508/22 - Vulnérabilités dans les produits Mozilla ](/fr/content/3792250822-vulnerabilites-dans-les-produits-mozilla.html)|Mozilla a corrigé plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance et de contourner la politique de sécurité.|25 août 2022|
@@ -101,8 +103,6 @@
  |[37882308/22 - Vulnérabilités dans Microsoft Edge](/fr/content/3788230822-vulnerabilites-dans-microsoft-edge.html)|Microsoft annonce la correction de plusieurs vulnérabilités dans Microsoft Edge. L’exploitation de ces failles peut permettre à un attaquant de provoquer un problème de sécurité non spécifié.|23 août 2022|
  |[37871908/22 - « Zero-Day » affectant le navigateur Apple Safari ](/fr/content/3787190822-zero-day-affectant-le-navigateur-apple-safari.html)|Apple annonce la correction d’une vulnérabilité critique affectant les versions susmentionnées de son navigateur Safari. Selon Apple cette vulnérabilité est activement exploitée et peut permettre à un attaquant distant d’exécuter du code...|19 août 2022|
  |[37861908/22 - Vulnérabilité dans Cisco AsyncOS for Secure Web Appliance](/fr/content/3786190822-vulnerabilite-dans-cisco-asyncos-secure-web-appliance.html)|Une vulnérabilité a été corrigée dans Cisco AsyncOS for Secure Web Appliance. L’exploitation de cette faille pourrait permettre à un attaquant d’exécuter du code arbitraire à distance et de réussir une élévation de privilèges.|19 août 2022|
- |[37841808/22 - Vulnérabilités critiques affectantle navigateur Google Chrome ](/fr/content/3784180822-vulnerabilites-critiques-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilitésaffectant le navigateur Google Chrome. Une de ces vulnérabilités identifiée par «CVE-2022-2856 » est activement exploitéeL’...|18 août 2022|
- |[37851708/22 - Vulnérabilités dans macOS Monterey](/fr/content/3785170822-vulnerabilites-dans-macos-monterey.html)|Deux vulnérabilités ont été corrigées dans macOS Monterey. L’exploitation de ces failles pourrait permettre à un attaquant d’exécuter du code arbitraire à distance. Apple confirme que ces deux vulnérabilités sont activement exploitées.|18 août 2022|
  
  ---
 
@@ -110,13 +110,13 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[SEO Scout plugin for WordPress cross-site request forgery (CVE-2022-36358)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 25, 2022|
+ |[Claroline cross-site request forgery (CVE-2022-37160)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 25, 2022|
+ |[Claroline cross-site scripting (CVE-2022-37161)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 25, 2022|
+ |[Claroline cross-site scripting (CVE-2022-37162)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 25, 2022|
  |[Apache Hadoop command execution (CVE-2021-25642)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 25, 2022|
  |[Apache libapreq2 denial of service (CVE-2022-22728)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 25, 2022|
  |[Ap Pagebuilder module for PrestaShop SQL injection (CVE-2022-22897)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 25, 2022|
- |[Centreon cross-site scripting (CVE-2022-36194)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 25, 2022|
- |[FATEK Automation FvDesigner code execution (CVE-2022-2866)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 25, 2022|
- |[Elasticsearch Elastic Cloud Enterprise information disclosure (CVE-2022-23715)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 24, 2022|
- |[Commerce Elavon module for Drupal security bypass](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 24, 2022|
  
  ---
 
