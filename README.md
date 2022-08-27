@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 26/08/2022 21:11:04 UTC
+ > Last Updated 27/08/2022 09:11:29 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -58,16 +58,16 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Keycloak input validation](https://vuldb.com/?id.207392)|Visit link for details|2022-08-26 at 20:50|
- |[QEMU AHCI Controller Device ahci_reset_port locking](https://vuldb.com/?id.207391)|Visit link for details|2022-08-26 at 20:48|
- |[openshift-serverless Privilege Escalation](https://vuldb.com/?id.207390)|Visit link for details|2022-08-26 at 20:47|
- |[Keycloak WebAuthn improper authentication](https://vuldb.com/?id.207389)|Visit link for details|2022-08-26 at 20:46|
- |[openstack-tripleo-heat-templates OSP13 Deployment information disclosure](https://vuldb.com/?id.207388)|Visit link for details|2022-08-26 at 20:45|
- |[ImageMagick Convert Command memory leak](https://vuldb.com/?id.207387)|Visit link for details|2022-08-26 at 20:44|
- |[OpenStack Keystone Application Secret stack-based overflow](https://vuldb.com/?id.207386)|Visit link for details|2022-08-26 at 20:43|
- |[Red Hat Satellite permissions](https://vuldb.com/?id.207385)|Visit link for details|2022-08-26 at 20:42|
- |[Linux Kernel SUID/GUID begin_new_exec permission](https://vuldb.com/?id.207384)|Visit link for details|2022-08-26 at 20:41|
- |[RPM link following](https://vuldb.com/?id.207383)|Visit link for details|2022-08-26 at 20:38|
+ |[oretnom23 Fast Food Ordering System cross site scripting](https://vuldb.com/?id.207425)|Visit link for details|2022-08-27 at 10:49|
+ |[SourceCodester Simple Task Managing System cross site scripting](https://vuldb.com/?id.207424)|Visit link for details|2022-08-27 at 10:47|
+ |[SourceCodester Simple Task Managing System loginVaLidation.php sql injection](https://vuldb.com/?id.207423)|Visit link for details|2022-08-27 at 10:45|
+ |[oretnom23 Fast Food Ordering System index.php sql injection](https://vuldb.com/?id.207422)|Visit link for details|2022-08-27 at 10:43|
+ |[Keycloak Admin Console cross site scripting](https://vuldb.com/?id.207421)|Visit link for details|2022-08-27 at 08:19|
+ |[Foreman Datacenter Plugin information disclosure](https://vuldb.com/?id.207420)|Visit link for details|2022-08-27 at 08:18|
+ |[Deluge Web UI cross site scripting](https://vuldb.com/?id.207419)|Visit link for details|2022-08-27 at 08:17|
+ |[edoc-doctor-appointment-system access control](https://vuldb.com/?id.207418)|Visit link for details|2022-08-27 at 08:17|
+ |[ZK Framework AuUploader information disclosure](https://vuldb.com/?id.207417)|Visit link for details|2022-08-27 at 08:16|
+ |[Eurosoft Bootloader Secure Boot access control](https://vuldb.com/?id.207416)|Visit link for details|2022-08-27 at 08:15|
  
  ---
 
