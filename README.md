@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 27/08/2022 09:11:29 UTC
+ > Last Updated 27/08/2022 21:09:44 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -36,41 +36,6 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/libyang-assertion-error-via-lys-node-free-39126" class="noirorange"><b>libyang</b>: assertion error via lys_node_free()</a>](https://vigilance.fr/vulnerability/libyang-assertion-error-via-lys-node-free-39126)|An attacker can force an assertion error of libyang, via lys_node_free(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-bpf-tail-call-39125" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via bpf_tail_call()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-bpf-tail-call-39125)|An attacker can force a read at an invalid memory address of the Linux kernel, via bpf_tail_call(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SQLite-denial-of-service-via-fts5UnicodeTokenize-39124" class="noirorange"><b>SQLite</b>: denial of service via <wbr>fts5UnicodeTokenize(<wbr>)</wbr></wbr></a>](https://vigilance.fr/vulnerability/SQLite-denial-of-service-via-fts5UnicodeTokenize-39124)|An attacker can cause a fatal error of SQLite, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-NULL-pointer-dereference-via-sug-filltree-39122" class="noirorange"><b>Vim</b>: NULL pointer dereference via sug_filltree()</a>](https://vigilance.fr/vulnerability/Vim-NULL-pointer-dereference-via-sug-filltree-39122)|An attacker can force a NULL pointer to be dereferenced on Vim, via sug_filltree(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-tagfunc-39121" class="noirorange"><b>Vim</b>: reuse after free via tagfunc</a>](https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-tagfunc-39121)|An attacker can force the reuse of a freed memory area of Vim, via tagfunc, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apereo-CAS-Server-user-access-via-OpenID-Connect-39120" class="noirorange"><b>Apereo CAS Server</b>: user access via OpenID Connect</a>](https://vigilance.fr/vulnerability/Apereo-CAS-Server-user-access-via-OpenID-Connect-39120)|An attacker can bypass restrictions of Apereo CAS Server, via OpenID Connect, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HCL-Domino-iNotes-user-access-via-Password-Strength-Checks-39119" class="noirorange"><b>HCL Domino  iNotes</b>: user access via Password Strength Checks</a>](https://vigilance.fr/vulnerability/HCL-Domino-iNotes-user-access-via-Password-Strength-Checks-39119)|An attacker can bypass restrictions of HCL Domino  iNotes, via Password Strength Checks, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HCL-Domino-iNotes-information-disclosure-via-Non-existent-Domain-Link-39118" class="noirorange"><b>HCL Domino  iNotes</b>: information disclosure via Non-existent Domain Link</a>](https://vigilance.fr/vulnerability/HCL-Domino-iNotes-information-disclosure-via-Non-existent-Domain-Link-39118)|An attacker can bypass access restrictions to data of HCL Domino  iNotes, via Non-existent Domain Link, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HCL-Domino-iNotes-Cross-Site-Scripting-via-Form-POST-Request-39117" class="noirorange"><b>HCL Domino  iNotes</b>: Cross Site Scripting via Form POST Request</a>](https://vigilance.fr/vulnerability/HCL-Domino-iNotes-Cross-Site-Scripting-via-Form-POST-Request-39117)|An attacker can trigger a Cross Site Scripting of HCL Domino  iNotes, via Form POST Request, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-pipe-resize-ring-39116" class="noirorange"><b>Linux kernel</b>: memory corruption via pipe_resize_ring()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-pipe-resize-ring-39116)|An attacker can trigger a memory corruption of the Linux kernel, via pipe_resize_ring(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/systemd-reuse-after-free-via-DnsStream-39115" class="noirorange"><b>systemd</b>: reuse after free via DnsStream</a>](https://vigilance.fr/vulnerability/systemd-reuse-after-free-via-DnsStream-39115)|An attacker can force the reuse of a freed memory area of systemd, via DnsStream, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[oretnom23 Fast Food Ordering System cross site scripting](https://vuldb.com/?id.207425)|Visit link for details|2022-08-27 at 10:49|
- |[SourceCodester Simple Task Managing System cross site scripting](https://vuldb.com/?id.207424)|Visit link for details|2022-08-27 at 10:47|
- |[SourceCodester Simple Task Managing System loginVaLidation.php sql injection](https://vuldb.com/?id.207423)|Visit link for details|2022-08-27 at 10:45|
- |[oretnom23 Fast Food Ordering System index.php sql injection](https://vuldb.com/?id.207422)|Visit link for details|2022-08-27 at 10:43|
- |[Keycloak Admin Console cross site scripting](https://vuldb.com/?id.207421)|Visit link for details|2022-08-27 at 08:19|
- |[Foreman Datacenter Plugin information disclosure](https://vuldb.com/?id.207420)|Visit link for details|2022-08-27 at 08:18|
- |[Deluge Web UI cross site scripting](https://vuldb.com/?id.207419)|Visit link for details|2022-08-27 at 08:17|
- |[edoc-doctor-appointment-system access control](https://vuldb.com/?id.207418)|Visit link for details|2022-08-27 at 08:17|
- |[ZK Framework AuUploader information disclosure](https://vuldb.com/?id.207417)|Visit link for details|2022-08-27 at 08:16|
- |[Eurosoft Bootloader Secure Boot access control](https://vuldb.com/?id.207416)|Visit link for details|2022-08-27 at 08:15|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -88,21 +53,20 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
+## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[37962608/22 - Vulnérabilités dans SonicWall SMA](/fr/content/3796260822-vulnerabilites-dans-sonicwall-sma.html)|Une vulnérabilité a été corrigée dans SonicWall SMA. L'exploitation de cette faille peut permettre à un attaquant distant d’exécuter des commandes arbitraires, de causer un déni de service ou de porter atteinte à la confidentialité de...|26 août 2022|
- |[37952608/22 - Vulnérabilités dans Sophos UTM](/fr/content/3795260822-vulnerabilites-dans-sophos-utm.html)|Plusieurs vulnérabilités ont été corrigées affectant Sophos UTM. L’exploitation de ces failles peut permettre à un attaquant distant d’exécuter du code arbitraire ou de contourner la politique de sécurité.|26 août 2022|
- |[37942508/22 - Vulnérabilités affectant des produits d’IBM ](/fr/content/3794250822-vulnerabilites-affectant-des-produits-d-ibm.html)|IBM annonce la correction de plusieursvulnérabilités affectant ses produits susmentionnés. L’exploitation de ces failles permet à un attaquant d’exécuter du code arbitraire, de contourner la politique de sécurité, d’accéder à des données...|25 août 2022|
- |[37932508/22 -Vulnérabilités affectant plusieursproduits deCisco](/fr/content/3793250822-vulnerabilites-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’exécuter des commandes arbitraires, d’...|25 août 2022|
- |[37922508/22 - Vulnérabilités dans les produits Mozilla ](/fr/content/3792250822-vulnerabilites-dans-les-produits-mozilla.html)|Mozilla a corrigé plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance et de contourner la politique de sécurité.|25 août 2022|
- |[37912508/22 - Vulnérabilités dans les produits F-Secure](/fr/content/3791250822-vulnerabilites-dans-les-produits-f-secure.html)|Deux vulnérabilités ont été corrigées dans les produits susmentionnés de F-Secure. L’exploitation de ces failles peut permettre à un attaquant distant de causer un déni de service.|25 août 2022|
- |[3790240822 - Vulnérabilité critique affectant GitLab](/fr/content/3790240822-vulnerabilite-critique-affectant-gitlab.html)|GitLab annonce la disponibilité de mises à jour permettant de corriger une vulnérabilité critique affectant ses produits susmentionnés. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du code...|24 août 2022|
- |[37892408/22 - Vulnérabilité dans VMware Tools](/fr/content/3789240822-vulnerabilite-dans-vmware-tools.html)|Une vulnérabilité a été corrigée dans VMware Tools pour Windows. Un attaquant pourrait exploiter cette faille afin de réussir une élévation de privilèges en tant qu'utilisateur « root » de la machine virtuelle.|24 août 2022|
- |[37882308/22 - Vulnérabilités dans Microsoft Edge](/fr/content/3788230822-vulnerabilites-dans-microsoft-edge.html)|Microsoft annonce la correction de plusieurs vulnérabilités dans Microsoft Edge. L’exploitation de ces failles peut permettre à un attaquant de provoquer un problème de sécurité non spécifié.|23 août 2022|
- |[37871908/22 - « Zero-Day » affectant le navigateur Apple Safari ](/fr/content/3787190822-zero-day-affectant-le-navigateur-apple-safari.html)|Apple annonce la correction d’une vulnérabilité critique affectant les versions susmentionnées de son navigateur Safari. Selon Apple cette vulnérabilité est activement exploitée et peut permettre à un attaquant distant d’exécuter du code...|19 août 2022|
- |[37861908/22 - Vulnérabilité dans Cisco AsyncOS for Secure Web Appliance](/fr/content/3786190822-vulnerabilite-dans-cisco-asyncos-secure-web-appliance.html)|Une vulnérabilité a été corrigée dans Cisco AsyncOS for Secure Web Appliance. L’exploitation de cette faille pourrait permettre à un attaquant d’exécuter du code arbitraire à distance et de réussir une élévation de privilèges.|19 août 2022|
+ |[Schroot denial of service](https://vuldb.com/?id.207428)|Visit link for details|2022-08-27 at 17:02|
+ |[Fatek FvDesigner Project File out-of-bounds write](https://vuldb.com/?id.207427)|Visit link for details|2022-08-27 at 16:06|
+ |[tcpdump VRRP Parser print-vrrp.c vrrp_print buffer over-read](https://vuldb.com/?id.207426)|Visit link for details|2022-08-27 at 16:05|
+ |[oretnom23 Fast Food Ordering System cross site scripting](https://vuldb.com/?id.207425)|Visit link for details|2022-08-27 at 10:49|
+ |[SourceCodester Simple Task Managing System cross site scripting](https://vuldb.com/?id.207424)|Visit link for details|2022-08-27 at 10:47|
+ |[SourceCodester Simple Task Managing System loginVaLidation.php sql injection](https://vuldb.com/?id.207423)|Visit link for details|2022-08-27 at 10:45|
+ |[oretnom23 Fast Food Ordering System index.php sql injection](https://vuldb.com/?id.207422)|Visit link for details|2022-08-27 at 10:43|
+ |[Keycloak Admin Console cross site scripting](https://vuldb.com/?id.207421)|Visit link for details|2022-08-27 at 08:19|
+ |[Foreman Datacenter Plugin information disclosure](https://vuldb.com/?id.207420)|Visit link for details|2022-08-27 at 08:18|
+ |[Deluge Web UI cross site scripting](https://vuldb.com/?id.207419)|Visit link for details|2022-08-27 at 08:17|
  
  ---
 
@@ -132,4 +96,40 @@
  |[Fatek Automation FvDesigner FPJ File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1169/)|Visit link for details|Aug. 25, 2022|
  |[Fatek Automation FvDesigner FPJ File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1168/)|Visit link for details|Aug. 25, 2022|
  |[Fatek Automation FvDesigner FPJ File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1167/)|Visit link for details|Aug. 25, 2022|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/libyang-assertion-error-via-lys-node-free-39126" class="noirorange"><b>libyang</b>: assertion error via lys_node_free()</a>](https://vigilance.fr/vulnerability/libyang-assertion-error-via-lys-node-free-39126)|An attacker can force an assertion error of libyang, via lys_node_free(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-bpf-tail-call-39125" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via bpf_tail_call()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-bpf-tail-call-39125)|An attacker can force a read at an invalid memory address of the Linux kernel, via bpf_tail_call(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SQLite-denial-of-service-via-fts5UnicodeTokenize-39124" class="noirorange"><b>SQLite</b>: denial of service via <wbr>fts5UnicodeTokenize(<wbr>)</wbr></wbr></a>](https://vigilance.fr/vulnerability/SQLite-denial-of-service-via-fts5UnicodeTokenize-39124)|An attacker can cause a fatal error of SQLite, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-NULL-pointer-dereference-via-sug-filltree-39122" class="noirorange"><b>Vim</b>: NULL pointer dereference via sug_filltree()</a>](https://vigilance.fr/vulnerability/Vim-NULL-pointer-dereference-via-sug-filltree-39122)|An attacker can force a NULL pointer to be dereferenced on Vim, via sug_filltree(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-tagfunc-39121" class="noirorange"><b>Vim</b>: reuse after free via tagfunc</a>](https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-tagfunc-39121)|An attacker can force the reuse of a freed memory area of Vim, via tagfunc, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apereo-CAS-Server-user-access-via-OpenID-Connect-39120" class="noirorange"><b>Apereo CAS Server</b>: user access via OpenID Connect</a>](https://vigilance.fr/vulnerability/Apereo-CAS-Server-user-access-via-OpenID-Connect-39120)|An attacker can bypass restrictions of Apereo CAS Server, via OpenID Connect, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HCL-Domino-iNotes-user-access-via-Password-Strength-Checks-39119" class="noirorange"><b>HCL Domino  iNotes</b>: user access via Password Strength Checks</a>](https://vigilance.fr/vulnerability/HCL-Domino-iNotes-user-access-via-Password-Strength-Checks-39119)|An attacker can bypass restrictions of HCL Domino  iNotes, via Password Strength Checks, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HCL-Domino-iNotes-information-disclosure-via-Non-existent-Domain-Link-39118" class="noirorange"><b>HCL Domino  iNotes</b>: information disclosure via Non-existent Domain Link</a>](https://vigilance.fr/vulnerability/HCL-Domino-iNotes-information-disclosure-via-Non-existent-Domain-Link-39118)|An attacker can bypass access restrictions to data of HCL Domino  iNotes, via Non-existent Domain Link, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HCL-Domino-iNotes-Cross-Site-Scripting-via-Form-POST-Request-39117" class="noirorange"><b>HCL Domino  iNotes</b>: Cross Site Scripting via Form POST Request</a>](https://vigilance.fr/vulnerability/HCL-Domino-iNotes-Cross-Site-Scripting-via-Form-POST-Request-39117)|An attacker can trigger a Cross Site Scripting of HCL Domino  iNotes, via Form POST Request, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-pipe-resize-ring-39116" class="noirorange"><b>Linux kernel</b>: memory corruption via pipe_resize_ring()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-pipe-resize-ring-39116)|An attacker can trigger a memory corruption of the Linux kernel, via pipe_resize_ring(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/systemd-reuse-after-free-via-DnsStream-39115" class="noirorange"><b>systemd</b>: reuse after free via DnsStream</a>](https://vigilance.fr/vulnerability/systemd-reuse-after-free-via-DnsStream-39115)|An attacker can force the reuse of a freed memory area of systemd, via DnsStream, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[37962608/22 - Vulnérabilités dans SonicWall SMA](/fr/content/3796260822-vulnerabilites-dans-sonicwall-sma.html)|Une vulnérabilité a été corrigée dans SonicWall SMA. L'exploitation de cette faille peut permettre à un attaquant distant d’exécuter des commandes arbitraires, de causer un déni de service ou de porter atteinte à la confidentialité de...|26 août 2022|
+ |[37952608/22 - Vulnérabilités dans Sophos UTM](/fr/content/3795260822-vulnerabilites-dans-sophos-utm.html)|Plusieurs vulnérabilités ont été corrigées affectant Sophos UTM. L’exploitation de ces failles peut permettre à un attaquant distant d’exécuter du code arbitraire ou de contourner la politique de sécurité.|26 août 2022|
+ |[37942508/22 - Vulnérabilités affectant des produits d’IBM ](/fr/content/3794250822-vulnerabilites-affectant-des-produits-d-ibm.html)|IBM annonce la correction de plusieursvulnérabilités affectant ses produits susmentionnés. L’exploitation de ces failles permet à un attaquant d’exécuter du code arbitraire, de contourner la politique de sécurité, d’accéder à des données...|25 août 2022|
+ |[37932508/22 -Vulnérabilités affectant plusieursproduits deCisco](/fr/content/3793250822-vulnerabilites-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’exécuter des commandes arbitraires, d’...|25 août 2022|
+ |[37922508/22 - Vulnérabilités dans les produits Mozilla ](/fr/content/3792250822-vulnerabilites-dans-les-produits-mozilla.html)|Mozilla a corrigé plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance et de contourner la politique de sécurité.|25 août 2022|
+ |[37912508/22 - Vulnérabilités dans les produits F-Secure](/fr/content/3791250822-vulnerabilites-dans-les-produits-f-secure.html)|Deux vulnérabilités ont été corrigées dans les produits susmentionnés de F-Secure. L’exploitation de ces failles peut permettre à un attaquant distant de causer un déni de service.|25 août 2022|
+ |[3790240822 - Vulnérabilité critique affectant GitLab](/fr/content/3790240822-vulnerabilite-critique-affectant-gitlab.html)|GitLab annonce la disponibilité de mises à jour permettant de corriger une vulnérabilité critique affectant ses produits susmentionnés. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du code...|24 août 2022|
+ |[37892408/22 - Vulnérabilité dans VMware Tools](/fr/content/3789240822-vulnerabilite-dans-vmware-tools.html)|Une vulnérabilité a été corrigée dans VMware Tools pour Windows. Un attaquant pourrait exploiter cette faille afin de réussir une élévation de privilèges en tant qu'utilisateur « root » de la machine virtuelle.|24 août 2022|
+ |[37882308/22 - Vulnérabilités dans Microsoft Edge](/fr/content/3788230822-vulnerabilites-dans-microsoft-edge.html)|Microsoft annonce la correction de plusieurs vulnérabilités dans Microsoft Edge. L’exploitation de ces failles peut permettre à un attaquant de provoquer un problème de sécurité non spécifié.|23 août 2022|
+ |[37871908/22 - « Zero-Day » affectant le navigateur Apple Safari ](/fr/content/3787190822-zero-day-affectant-le-navigateur-apple-safari.html)|Apple annonce la correction d’une vulnérabilité critique affectant les versions susmentionnées de son navigateur Safari. Selon Apple cette vulnérabilité est activement exploitée et peut permettre à un attaquant distant d’exécuter du code...|19 août 2022|
+ |[37861908/22 - Vulnérabilité dans Cisco AsyncOS for Secure Web Appliance](/fr/content/3786190822-vulnerabilite-dans-cisco-asyncos-secure-web-appliance.html)|Une vulnérabilité a été corrigée dans Cisco AsyncOS for Secure Web Appliance. L’exploitation de cette faille pourrait permettre à un attaquant d’exécuter du code arbitraire à distance et de réussir une élévation de privilèges.|19 août 2022|
  
