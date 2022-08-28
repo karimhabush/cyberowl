@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 28/08/2022 09:10:28 UTC
+ > Last Updated 28/08/2022 21:11:44 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -36,37 +36,6 @@
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Zaver pathname traversal](https://vuldb.com/?id.207431)|Visit link for details|2022-08-28 at 01:38|
- |[exotel-py backdoor](https://vuldb.com/?id.207430)|Visit link for details|2022-08-28 at 01:37|
- |[MariaDB ds_compress.cc compress_write deadlock](https://vuldb.com/?id.207429)|Visit link for details|2022-08-28 at 01:35|
- |[Schroot denial of service](https://vuldb.com/?id.207428)|Visit link for details|2022-08-28 at 17:02|
- |[Fatek FvDesigner Project File out-of-bounds write](https://vuldb.com/?id.207427)|Visit link for details|2022-08-28 at 16:06|
- |[tcpdump VRRP Parser print-vrrp.c vrrp_print buffer over-read](https://vuldb.com/?id.207426)|Visit link for details|2022-08-28 at 16:05|
- |[oretnom23 Fast Food Ordering System cross site scripting](https://vuldb.com/?id.207425)|Visit link for details|2022-08-28 at 10:49|
- |[SourceCodester Simple Task Managing System cross site scripting](https://vuldb.com/?id.207424)|Visit link for details|2022-08-28 at 10:47|
- |[SourceCodester Simple Task Managing System loginVaLidation.php sql injection](https://vuldb.com/?id.207423)|Visit link for details|2022-08-28 at 10:45|
- |[oretnom23 Fast Food Ordering System index.php sql injection](https://vuldb.com/?id.207422)|Visit link for details|2022-08-28 at 10:43|
- 
- ---
-
-## IBMCLOUD [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[SEO Scout plugin for WordPress cross-site request forgery (CVE-2022-36358)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 25, 2022|
- |[Claroline cross-site request forgery (CVE-2022-37160)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 25, 2022|
- |[Claroline cross-site scripting (CVE-2022-37161)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 25, 2022|
- |[Claroline cross-site scripting (CVE-2022-37162)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 25, 2022|
- |[Apache Hadoop command execution (CVE-2021-25642)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 25, 2022|
- |[Apache libapreq2 denial of service (CVE-2022-22728)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 25, 2022|
- |[Ap Pagebuilder module for PrestaShop SQL injection (CVE-2022-22897)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 25, 2022|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -82,6 +51,23 @@
  |[<a href="https://vigilance.fr/vulnerability/HCL-Domino-iNotes-Cross-Site-Scripting-via-Form-POST-Request-39117" class="noirorange"><b>HCL Domino  iNotes</b>: Cross Site Scripting via Form POST Request</a>](https://vigilance.fr/vulnerability/HCL-Domino-iNotes-Cross-Site-Scripting-via-Form-POST-Request-39117)|An attacker can trigger a Cross Site Scripting of HCL Domino  iNotes, via Form POST Request, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-pipe-resize-ring-39116" class="noirorange"><b>Linux kernel</b>: memory corruption via pipe_resize_ring()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-pipe-resize-ring-39116)|An attacker can trigger a memory corruption of the Linux kernel, via pipe_resize_ring(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/systemd-reuse-after-free-via-DnsStream-39115" class="noirorange"><b>systemd</b>: reuse after free via DnsStream</a>](https://vigilance.fr/vulnerability/systemd-reuse-after-free-via-DnsStream-39115)|An attacker can force the reuse of a freed memory area of systemd, via DnsStream, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[D-Link DIR845L S80telnetd.sh hard-coded credentials](https://vuldb.com/?id.207452)|Visit link for details|2022-08-28 at 22:01|
+ |[Trendnet TEW733GR S80telnetd.sh hard-coded credentials](https://vuldb.com/?id.207451)|Visit link for details|2022-08-28 at 22:00|
+ |[Linksys E1200 ej_get_web_page_name buffer overflow](https://vuldb.com/?id.207450)|Visit link for details|2022-08-28 at 22:00|
+ |[D-Link Go-RT-AC750 ssdpcgi_main command injection](https://vuldb.com/?id.207449)|Visit link for details|2022-08-28 at 21:59|
+ |[D-Link Go-RT-AC750 hnap_main command injection](https://vuldb.com/?id.207448)|Visit link for details|2022-08-28 at 21:59|
+ |[D-Link Go-RT-AC750 hnap_main buffer overflow](https://vuldb.com/?id.207447)|Visit link for details|2022-08-28 at 21:58|
+ |[Tenda M3 formSetGuideListItem buffer overflow](https://vuldb.com/?id.207446)|Visit link for details|2022-08-28 at 21:58|
+ |[Tenda M3 formDelPushedAd stack-based overflow](https://vuldb.com/?id.207445)|Visit link for details|2022-08-28 at 21:57|
+ |[Tenda M3 formDelAd stack-based overflow](https://vuldb.com/?id.207444)|Visit link for details|2022-08-28 at 21:57|
+ |[Tenda M3 formSetFixTools heap-based overflow](https://vuldb.com/?id.207443)|Visit link for details|2022-08-28 at 21:56|
  
  ---
 
@@ -117,6 +103,20 @@
  |[37882308/22 - Vulnérabilités dans Microsoft Edge](/fr/content/3788230822-vulnerabilites-dans-microsoft-edge.html)|Microsoft annonce la correction de plusieurs vulnérabilités dans Microsoft Edge. L’exploitation de ces failles peut permettre à un attaquant de provoquer un problème de sécurité non spécifié.|23 août 2022|
  |[37871908/22 - « Zero-Day » affectant le navigateur Apple Safari ](/fr/content/3787190822-zero-day-affectant-le-navigateur-apple-safari.html)|Apple annonce la correction d’une vulnérabilité critique affectant les versions susmentionnées de son navigateur Safari. Selon Apple cette vulnérabilité est activement exploitée et peut permettre à un attaquant distant d’exécuter du code...|19 août 2022|
  |[37861908/22 - Vulnérabilité dans Cisco AsyncOS for Secure Web Appliance](/fr/content/3786190822-vulnerabilite-dans-cisco-asyncos-secure-web-appliance.html)|Une vulnérabilité a été corrigée dans Cisco AsyncOS for Secure Web Appliance. L’exploitation de cette faille pourrait permettre à un attaquant d’exécuter du code arbitraire à distance et de réussir une élévation de privilèges.|19 août 2022|
+ 
+ ---
+
+## IBMCLOUD [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SEO Scout plugin for WordPress cross-site request forgery (CVE-2022-36358)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 25, 2022|
+ |[Claroline cross-site request forgery (CVE-2022-37160)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 25, 2022|
+ |[Claroline cross-site scripting (CVE-2022-37161)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 25, 2022|
+ |[Claroline cross-site scripting (CVE-2022-37162)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 25, 2022|
+ |[Apache Hadoop command execution (CVE-2021-25642)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 25, 2022|
+ |[Apache libapreq2 denial of service (CVE-2022-22728)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 25, 2022|
+ |[Ap Pagebuilder module for PrestaShop SQL injection (CVE-2022-22897)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 25, 2022|
  
  ---
 
