@@ -1,14 +1,16 @@
-"""
-    This spider is used to scrape alerts from the following source:
-    https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities
+"""IBMCLOUD spider.
+
+This spider is used to scrape alerts from the following source:
+https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities
 """
 
 import scrapy
-from items import AlertItem
 from msedge.selenium_tools import Edge, EdgeOptions
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
+
+from cyberowl.items import AlertItem
 
 
 class IBMCloudSpider(scrapy.Spider):
@@ -42,6 +44,7 @@ class IBMCloudSpider(scrapy.Spider):
     description_selector = ""
 
     def __init__(self):
+        """Initialize the spider."""
         options = EdgeOptions()
         options.use_chromium = True
         options.add_argument("headless")
@@ -51,6 +54,7 @@ class IBMCloudSpider(scrapy.Spider):
         )
 
     def _wait_until_website_is_ready(self) -> None:
+        """Wait until the website is ready to be scraped."""
         wait = WebDriverWait(self.driver, 5)
         wait.until(
             EC.presence_of_element_located(
@@ -62,7 +66,7 @@ class IBMCloudSpider(scrapy.Spider):
         )
 
     def parse(self, response, **kwargs):
-
+        """Parse the website."""
         self.driver.get(response.url)
         self._wait_until_website_is_ready()
 

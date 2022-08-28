@@ -1,9 +1,11 @@
-"""
+"""US-CERT Spider.
+
 This spider is used to scrape alerts from the following source:
 https://www.cisa.gov/uscert/ncas/current-activity
 """
 import scrapy
-from items import AlertItem
+
+from cyberowl.items import AlertItem
 
 
 class CisaSpider(scrapy.Spider):
@@ -35,9 +37,7 @@ class CisaSpider(scrapy.Spider):
     description_selector = "descendant-or-self::div[contains(@class,'field-content')]/p"
 
     def parse(self, response):
-        """
-        Parsing the response
-        """
+        """Parse the response."""
         for idx, bulletin in enumerate(response.css(self.block_selector)):
 
             if idx > self.max_items:

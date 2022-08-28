@@ -1,21 +1,21 @@
-import settings as cyberowl_settings
+"""This module contains the main function used execute the crawler."""
+
 from scrapy.crawler import CrawlerProcess
 from scrapy.settings import Settings
-from spiders.cert_fr_spider import CertFRSpider
-from spiders.cisa_spider import CisaSpider
-from spiders.ibmcloud_spider import IBMCloudSpider
-from spiders.ma_cert_spider import MACertSpider
-from spiders.vigilance_spider import VigilanceSpider
-from spiders.vuldb_spider import VulDBSpider
-from spiders.zdi_spider import ZDISpider
-from utils import generate_heading, generate_table_of_content, write_to_readme
+
+import cyberowl.settings as cyberowl_settings
+from cyberowl.spiders.cert_fr_spider import CertFRSpider
+from cyberowl.spiders.cisa_spider import CisaSpider
+from cyberowl.spiders.ibmcloud_spider import IBMCloudSpider
+from cyberowl.spiders.ma_cert_spider import MACertSpider
+from cyberowl.spiders.vigilance_spider import VigilanceSpider
+from cyberowl.spiders.vuldb_spider import VulDBSpider
+from cyberowl.spiders.zdi_spider import ZDISpider
+from cyberowl.utils import generate_heading, generate_table_of_content, write_to_readme
 
 
 def main():
-    """
-    Main function.
-    """
-
+    """Execute the crawler."""
     generate_heading()
     generate_table_of_content()
 

@@ -1,7 +1,5 @@
-"""
-Scrapy settings file.
-"""
-from mdtemplate import MDTemplate
+"""Scrapy settings file."""
+from cyberowl.mdtemplate import MDTemplate
 
 BOT_NAME = "cyberowl"
 

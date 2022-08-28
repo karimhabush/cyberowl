@@ -1,13 +1,13 @@
-"""
+"""VulDB Spider.
+
 This spider is used to scrape alerts from the following source:
 https://vuldb.com/?live.recent
 """
-
-
 from datetime import date
 
 import scrapy
-from items import AlertItem
+
+from cyberowl.items import AlertItem
 
 
 class VulDBSpider(scrapy.Spider):
@@ -37,9 +37,7 @@ class VulDBSpider(scrapy.Spider):
     description_selector = ""
 
     def parse(self, response):
-        """
-        Parsing the response
-        """
+        """Parse the response."""
         for idx, bulletin in enumerate(response.css(self.block_selector)):
 
             # Skip table headers

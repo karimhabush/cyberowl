@@ -1,14 +1,16 @@
-"""
-    This spider is used to scrape alerts from the following source:
-    https://www.zerodayinitiative.com/advisories/published/
+"""ZDI Spider.
+
+This spider is used to scrape alerts from the following source:
+https://www.zerodayinitiative.com/advisories/published/
 """
 
 import scrapy
-from items import AlertItem
 from msedge.selenium_tools import Edge, EdgeOptions
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
+
+from cyberowl.items import AlertItem
 
 
 class ZDISpider(scrapy.Spider):
@@ -38,6 +40,7 @@ class ZDISpider(scrapy.Spider):
     description_selector = ""
 
     def __init__(self):
+        """Initialize the spider."""
         options = EdgeOptions()
         options.use_chromium = True
         options.add_argument("headless")
@@ -47,9 +50,7 @@ class ZDISpider(scrapy.Spider):
         )
 
     def _wait_until_website_is_ready(self) -> None:
-        """
-        Wait until website is ready.
-        """
+        """Wait until website is ready."""
         wait = WebDriverWait(self.driver, 5)
         wait.until(
             EC.presence_of_element_located(
@@ -61,7 +62,7 @@ class ZDISpider(scrapy.Spider):
         )
 
     def parse(self, response, **kwargs):
-
+        """Parse the response."""
         self.driver.get(response.url)
         self._wait_until_website_is_ready()
 

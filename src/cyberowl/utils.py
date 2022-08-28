@@ -1,13 +1,13 @@
+"""Utils functions for Cyberowl."""
+
 from datetime import datetime, timezone
 
-from settings import README_GENERATOR
-from sources import CYBEROWL_SOURCES
+from cyberowl.settings import README_GENERATOR
+from cyberowl.sources import CYBEROWL_SOURCES
 
 
 def generate_heading() -> None:
-    """
-    Generates the heading of the readme file.
-    """
+    """Generate the heading of the readme file."""
     now = datetime.now(timezone.utc).strftime("%d/%m/%Y %H:%M:%S")
     README_GENERATOR.new_line("<div id='top'></div>")
     README_GENERATOR.new_header(level=1, text="CyberOwl")
@@ -27,9 +27,7 @@ def generate_heading() -> None:
 
 
 def generate_table_of_content() -> None:
-    """
-    Generates the table of content.
-    """
+    """Generate the table of content."""
     README_GENERATOR.generate_table(CYBEROWL_SOURCES)
     README_GENERATOR.new_line()
     README_GENERATOR.new_line(
@@ -39,9 +37,7 @@ def generate_table_of_content() -> None:
 
 
 def generate_alerts_table(source, alerts: list) -> None:
-    """
-    Generates the table of alerts.
-    """
+    """Generate the table of alerts."""
     README_GENERATOR.new_line("---")
     README_GENERATOR.new_header(
         level=2, text=f"{source} [:arrow_heading_up:](#cyberowl)"
@@ -51,4 +47,5 @@ def generate_alerts_table(source, alerts: list) -> None:
 
 
 def write_to_readme() -> None:
+    """Write the readme file."""
     README_GENERATOR.create_md_file()

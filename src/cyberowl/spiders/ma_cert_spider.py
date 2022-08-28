@@ -1,9 +1,11 @@
-"""
+"""MA-CERT Spider.
+
 This spider is used to scrape alerts from the following source:
 https://www.dgssi.gov.ma/fr/macert/bulletins-de-securite.html
 """
 import scrapy
-from items import AlertItem
+
+from cyberowl.items import AlertItem
 
 
 class MACertSpider(scrapy.Spider):
@@ -35,9 +37,7 @@ class MACertSpider(scrapy.Spider):
     )
 
     def parse(self, response):
-        """
-        Parsing the response.
-        """
+        """Parse the response."""
         for idx, bulletin in enumerate(response.css(self.block_selector)):
 
             if idx > self.max_items:

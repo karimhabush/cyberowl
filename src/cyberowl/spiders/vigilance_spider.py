@@ -1,9 +1,11 @@
-"""
+"""Vigilance Spider.
+
 This spider is used to scrape alerts from the following source:
 https://vigilance.fr/?action=1135154048&langue=2
 """
 import scrapy
-from items import AlertItem
+
+from cyberowl.items import AlertItem
 
 
 class VigilanceSpider(scrapy.Spider):
@@ -34,9 +36,7 @@ class VigilanceSpider(scrapy.Spider):
     description_selector = "descendant-or-self::tr/td/font/i/a/text()"
 
     def parse(self, response):
-        """
-        Parsing the response
-        """
+        """Parse the response."""
         for idx, bulletin in enumerate(response.css(self.block_selector)):
 
             if idx > self.max_items:
