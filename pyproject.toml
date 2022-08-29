@@ -15,6 +15,7 @@ mkdocs-material = "^8.4.0"
 mkdocstrings = {extras = ["python"], version = "^0.19.0"}
 betamax = "^0.8.1"
 pytest-vcr = "^1.0.2"
+coverage = "^6.4.4"
 
 [tool.poetry.dev-dependencies]
 pre-commit = "^2.20.0"
