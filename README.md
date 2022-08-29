@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 28/08/2022 21:11:44 UTC
+ > Last Updated 29/08/2022 09:11:52 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -40,17 +40,17 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/MariaDB-denial-of-service-via-compress-write-39135" class="noirorange"><b>MariaDB</b>: denial of service via compress_write()</a>](https://vigilance.fr/vulnerability/MariaDB-denial-of-service-via-compress-write-39135)|An attacker can cause a fatal error of MariaDB, via compress_write(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-KVM-SEV-API-39134" class="noirorange"><b>Linux kernel</b>: denial of service via KVM SEV API</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-KVM-SEV-API-39134)|An attacker, in a guest system, can cause a fatal error of the Linux kernel, via KVM SEV API, in order to trigger a denial of service on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/QEMU-denial-of-service-via-Register-Frame-Information-Structure-39133" class="noirorange"><b>QEMU</b>: denial of service via Register Frame Information Structure</a>](https://vigilance.fr/vulnerability/QEMU-denial-of-service-via-Register-Frame-Information-Structure-39133)|An attacker, in a guest system, can cause a fatal error of QEMU, via Register Frame Information Structure, in order to trigger a denial of service on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-extractImageSection-39129" class="noirorange"><b>LibTIFF</b>: buffer overflow via <wbr>extractImageSection(<wbr>)</wbr></wbr></a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-extractImageSection-39129)|An attacker can trigger a buffer overflow of LibTIFF, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/nDPI-out-of-bounds-memory-reading-via-ndpi-search-h323-39128" class="noirorange"><b>nDPI</b>: out-of-bounds memory reading via ndpi_search_h323()</a>](https://vigilance.fr/vulnerability/nDPI-out-of-bounds-memory-reading-via-ndpi-search-h323-39128)|An attacker can force a read at an invalid memory address of nDPI, via ndpi_search_h323(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-buffer-overflow-39127" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: buffer overflow</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-buffer-overflow-39127)|An attacker can trigger a buffer overflow of WebKitGTK  WPE WebKit, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libyang-assertion-error-via-lys-node-free-39126" class="noirorange"><b>libyang</b>: assertion error via lys_node_free()</a>](https://vigilance.fr/vulnerability/libyang-assertion-error-via-lys-node-free-39126)|An attacker can force an assertion error of libyang, via lys_node_free(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-bpf-tail-call-39125" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via bpf_tail_call()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-bpf-tail-call-39125)|An attacker can force a read at an invalid memory address of the Linux kernel, via bpf_tail_call(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/SQLite-denial-of-service-via-fts5UnicodeTokenize-39124" class="noirorange"><b>SQLite</b>: denial of service via <wbr>fts5UnicodeTokenize(<wbr>)</wbr></wbr></a>](https://vigilance.fr/vulnerability/SQLite-denial-of-service-via-fts5UnicodeTokenize-39124)|An attacker can cause a fatal error of SQLite, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Vim-NULL-pointer-dereference-via-sug-filltree-39122" class="noirorange"><b>Vim</b>: NULL pointer dereference via sug_filltree()</a>](https://vigilance.fr/vulnerability/Vim-NULL-pointer-dereference-via-sug-filltree-39122)|An attacker can force a NULL pointer to be dereferenced on Vim, via sug_filltree(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-tagfunc-39121" class="noirorange"><b>Vim</b>: reuse after free via tagfunc</a>](https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-tagfunc-39121)|An attacker can force the reuse of a freed memory area of Vim, via tagfunc, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apereo-CAS-Server-user-access-via-OpenID-Connect-39120" class="noirorange"><b>Apereo CAS Server</b>: user access via OpenID Connect</a>](https://vigilance.fr/vulnerability/Apereo-CAS-Server-user-access-via-OpenID-Connect-39120)|An attacker can bypass restrictions of Apereo CAS Server, via OpenID Connect, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HCL-Domino-iNotes-user-access-via-Password-Strength-Checks-39119" class="noirorange"><b>HCL Domino  iNotes</b>: user access via Password Strength Checks</a>](https://vigilance.fr/vulnerability/HCL-Domino-iNotes-user-access-via-Password-Strength-Checks-39119)|An attacker can bypass restrictions of HCL Domino  iNotes, via Password Strength Checks, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HCL-Domino-iNotes-information-disclosure-via-Non-existent-Domain-Link-39118" class="noirorange"><b>HCL Domino  iNotes</b>: information disclosure via Non-existent Domain Link</a>](https://vigilance.fr/vulnerability/HCL-Domino-iNotes-information-disclosure-via-Non-existent-Domain-Link-39118)|An attacker can bypass access restrictions to data of HCL Domino  iNotes, via Non-existent Domain Link, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HCL-Domino-iNotes-Cross-Site-Scripting-via-Form-POST-Request-39117" class="noirorange"><b>HCL Domino  iNotes</b>: Cross Site Scripting via Form POST Request</a>](https://vigilance.fr/vulnerability/HCL-Domino-iNotes-Cross-Site-Scripting-via-Form-POST-Request-39117)|An attacker can trigger a Cross Site Scripting of HCL Domino  iNotes, via Form POST Request, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-pipe-resize-ring-39116" class="noirorange"><b>Linux kernel</b>: memory corruption via pipe_resize_ring()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-pipe-resize-ring-39116)|An attacker can trigger a memory corruption of the Linux kernel, via pipe_resize_ring(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/systemd-reuse-after-free-via-DnsStream-39115" class="noirorange"><b>systemd</b>: reuse after free via DnsStream</a>](https://vigilance.fr/vulnerability/systemd-reuse-after-free-via-DnsStream-39115)|An attacker can force the reuse of a freed memory area of systemd, via DnsStream, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
  ---
 
@@ -58,33 +58,16 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[D-Link DIR845L S80telnetd.sh hard-coded credentials](https://vuldb.com/?id.207452)|Visit link for details|2022-08-28 at 22:01|
- |[Trendnet TEW733GR S80telnetd.sh hard-coded credentials](https://vuldb.com/?id.207451)|Visit link for details|2022-08-28 at 22:00|
- |[Linksys E1200 ej_get_web_page_name buffer overflow](https://vuldb.com/?id.207450)|Visit link for details|2022-08-28 at 22:00|
- |[D-Link Go-RT-AC750 ssdpcgi_main command injection](https://vuldb.com/?id.207449)|Visit link for details|2022-08-28 at 21:59|
- |[D-Link Go-RT-AC750 hnap_main command injection](https://vuldb.com/?id.207448)|Visit link for details|2022-08-28 at 21:59|
- |[D-Link Go-RT-AC750 hnap_main buffer overflow](https://vuldb.com/?id.207447)|Visit link for details|2022-08-28 at 21:58|
- |[Tenda M3 formSetGuideListItem buffer overflow](https://vuldb.com/?id.207446)|Visit link for details|2022-08-28 at 21:58|
- |[Tenda M3 formDelPushedAd stack-based overflow](https://vuldb.com/?id.207445)|Visit link for details|2022-08-28 at 21:57|
- |[Tenda M3 formDelAd stack-based overflow](https://vuldb.com/?id.207444)|Visit link for details|2022-08-28 at 21:57|
- |[Tenda M3 formSetFixTools heap-based overflow](https://vuldb.com/?id.207443)|Visit link for details|2022-08-28 at 21:56|
- 
- ---
-
-## CERT-FR [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-774/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 26 août 2022|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-773/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une atteinte à la confidentialité des données.|Publié le 26 août 2022|
- |[Multiples vulnérabilités dans Tenable Nessus Agent](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-772/)|De multiples vulnérabilités ont été découvertes dans Tenable Nessus Agent. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 26 août 2022|
- |[Multiples vulnérabilités dans SonicWall SMA](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-771/)|De multiples vulnérabilités ont été découvertes dans SonicWall SMA. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 25 août 2022|
- |[Vulnérabilité dans ElasticSearch Cloud Enterprise](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-770/)|Une vulnérabilité a été découverte dans ElasticSearch Cloud Enterprise. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 25 août 2022|
- |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-769/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une élévation de privilèges.|Publié le 25 août 2022|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-768/)|De multiples vulnérabilités ont été corrigées dans le noyau Linux d'|Publié le 25 août 2022|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-767/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 24 août 2022|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-766/)|De multiples vulnérabilités ont été corrigées dans |Publié le 24 août 2022|
- |[Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-765/)|De multiples vulnérabilités ont été corrigées dans |Publié le 24 août 2022|
+ |[Tenda TX9 Pro SetNetControlList buffer overflow](https://vuldb.com/?id.207468)|Visit link for details|2022-08-29 at 10:31|
+ |[Pagekit CMS Markdown edit cross site scripting](https://vuldb.com/?id.207467)|Visit link for details|2022-08-29 at 10:30|
+ |[TOTOLINK A810R downloadFile.cgi command injection](https://vuldb.com/?id.207466)|Visit link for details|2022-08-29 at 10:30|
+ |[TOTOLINK A810R shadow.sample hard-coded password](https://vuldb.com/?id.207465)|Visit link for details|2022-08-29 at 07:57|
+ |[TOTOLINK A3000RU shadow.sample hard-coded password](https://vuldb.com/?id.207464)|Visit link for details|2022-08-29 at 07:55|
+ |[TOTOLINK A860R shadow.sample hard-coded password](https://vuldb.com/?id.207463)|Visit link for details|2022-08-29 at 07:55|
+ |[TOTOLINK N600R shadow.sample hard-coded password](https://vuldb.com/?id.207462)|Visit link for details|2022-08-29 at 07:54|
+ |[TOTOLINK A950RG shadow.sample hard-coded password](https://vuldb.com/?id.207461)|Visit link for details|2022-08-29 at 07:53|
+ |[TOTOLINK A800R shadow.sample hard-coded password](https://vuldb.com/?id.207460)|Visit link for details|2022-08-29 at 07:48|
+ |[TOTOLINK A720R shadow.sample hard-coded password](https://vuldb.com/?id.207459)|Visit link for details|2022-08-29 at 07:47|
  
  ---
 
@@ -106,20 +89,6 @@
  
  ---
 
-## IBMCLOUD [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[SEO Scout plugin for WordPress cross-site request forgery (CVE-2022-36358)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 25, 2022|
- |[Claroline cross-site request forgery (CVE-2022-37160)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 25, 2022|
- |[Claroline cross-site scripting (CVE-2022-37161)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 25, 2022|
- |[Claroline cross-site scripting (CVE-2022-37162)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 25, 2022|
- |[Apache Hadoop command execution (CVE-2021-25642)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 25, 2022|
- |[Apache libapreq2 denial of service (CVE-2022-22728)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 25, 2022|
- |[Ap Pagebuilder module for PrestaShop SQL injection (CVE-2022-22897)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 25, 2022|
- 
- ---
-
 ## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -132,4 +101,35 @@
  |[Fatek Automation FvDesigner FPJ File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1169/)|Visit link for details|Aug. 25, 2022|
  |[Fatek Automation FvDesigner FPJ File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1168/)|Visit link for details|Aug. 25, 2022|
  |[Fatek Automation FvDesigner FPJ File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1167/)|Visit link for details|Aug. 25, 2022|
+ 
+ ---
+
+## CERT-FR [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-774/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 26 août 2022|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-773/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une atteinte à la confidentialité des données.|Publié le 26 août 2022|
+ |[Multiples vulnérabilités dans Tenable Nessus Agent](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-772/)|De multiples vulnérabilités ont été découvertes dans Tenable Nessus Agent. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 26 août 2022|
+ |[Multiples vulnérabilités dans SonicWall SMA](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-771/)|De multiples vulnérabilités ont été découvertes dans SonicWall SMA. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 25 août 2022|
+ |[Vulnérabilité dans ElasticSearch Cloud Enterprise](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-770/)|Une vulnérabilité a été découverte dans ElasticSearch Cloud Enterprise. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 25 août 2022|
+ |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-769/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une élévation de privilèges.|Publié le 25 août 2022|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-768/)|De multiples vulnérabilités ont été corrigées dans le noyau Linux d'|Publié le 25 août 2022|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-767/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 24 août 2022|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-766/)|De multiples vulnérabilités ont été corrigées dans |Publié le 24 août 2022|
+ |[Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-765/)|De multiples vulnérabilités ont été corrigées dans |Publié le 24 août 2022|
+ 
+ ---
+
+## IBMCLOUD [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SEO Scout plugin for WordPress cross-site request forgery (CVE-2022-36358)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 25, 2022|
+ |[Claroline cross-site request forgery (CVE-2022-37160)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 25, 2022|
+ |[Claroline cross-site scripting (CVE-2022-37161)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 25, 2022|
+ |[Claroline cross-site scripting (CVE-2022-37162)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 25, 2022|
+ |[Apache Hadoop command execution (CVE-2021-25642)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 25, 2022|
+ |[Apache libapreq2 denial of service (CVE-2022-22728)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 25, 2022|
+ |[Ap Pagebuilder module for PrestaShop SQL injection (CVE-2022-22897)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 25, 2022|
  
