@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 29/08/2022 21:10:26 UTC
+ > Last Updated 30/08/2022 09:11:42 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -36,17 +36,52 @@
  
  ---
 
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Hitachi Kokusai Electric ISnex HC-IP9100HD GET Request ptippage.cgi path traversal](https://vuldb.com/?id.207566)|Visit link for details|2022-08-30 at 11:10|
+ |[HireVue Hiring Platform risky encryption](https://vuldb.com/?id.207565)|Visit link for details|2022-08-30 at 11:09|
+ |[mdx-mermaid cross site scripting](https://vuldb.com/?id.207564)|Visit link for details|2022-08-30 at 08:34|
+ |[Patlite NH-FB Firmware unrestricted upload](https://vuldb.com/?id.207563)|Visit link for details|2022-08-30 at 08:32|
+ |[Hitachi Kokusai Electric ISnex HC-IP9100HD POST Request ptipupgrade.cgi access control](https://vuldb.com/?id.207562)|Visit link for details|2022-08-30 at 08:31|
+ |[Seiko SkyBridge MB-A200 ping_exec.cgi command injection](https://vuldb.com/?id.207561)|Visit link for details|2022-08-30 at 08:30|
+ |[Seiko SkyBridge MB-A100/SkyBridge MB-A110 ciel.cfg hard-coded password](https://vuldb.com/?id.207560)|Visit link for details|2022-08-30 at 08:30|
+ |[Seiko SkyBridge MB-A100/SkyBridge MB-A110 Restore Backup unrestricted upload](https://vuldb.com/?id.207559)|Visit link for details|2022-08-30 at 08:28|
+ |[Seiko SkyBridge MB-A100/SkyBridge MB-A110 07system08execute_ping_01 command injection](https://vuldb.com/?id.207558)|Visit link for details|2022-08-30 at 08:28|
+ |[Hytec Inter HWL-2511-SS Command Line Interface command injection](https://vuldb.com/?id.207557)|Visit link for details|2022-08-30 at 08:27|
+ 
+ ---
+
 ## IBMCLOUD [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[DPDK denial of service (CVE-2022-28199)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 29, 2022|
+ |[DPDK denial of service (CVE-2022-2132)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 29, 2022|
+ |[CentreCOM AR260S V2 backdoor (CVE-2022-34869)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 29, 2022|
+ |[CentreCOM AR260S V2 command execution (CVE-2022-35273)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 29, 2022|
+ |[CentreCOM AR260S V2 command execution (CVE-2022-38094)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 29, 2022|
+ |[CentreCOM AR260S V2 default account (CVE-2022-38394)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 29, 2022|
  |[AeroCMS author SQL injection](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 29, 2022|
- |[Broadcom Symantec Privileged Access Management (PAM) privilege escalation (CVE-2022-25625)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 26, 2022|
- |[Node.js xten module code execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 25, 2022|
- |[Node.js yargs-parxe module code execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 25, 2022|
- |[Node.js yeoman-33enerator module code execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 25, 2022|
- |[Node.js yeoman-enviromenv module code execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 25, 2022|
- |[Node.js yncrquest module code execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 25, 2022|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/DCMTK-vulnerability-39141" class="noirorange"><b>DCMTK</b>: vulnerability</a>](https://vigilance.fr/vulnerability/DCMTK-vulnerability-39141)|A vulnerability of DCMTK was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SDL-reuse-after-free-via-XFree-39140" class="noirorange"><b>SDL</b>: reuse after free via XFree()</a>](https://vigilance.fr/vulnerability/SDL-reuse-after-free-via-XFree-39140)|An attacker can force the reuse of a freed memory area of SDL, via XFree(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-VM-PFNMAP-39139" class="noirorange"><b>Linux kernel</b>: memory corruption via VM_PFNMAP</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-VM-PFNMAP-39139)|An attacker can trigger a memory corruption of the Linux kernel, via VM_PFNMAP, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-KVM-VCPU-PREEMPTED-39138" class="noirorange"><b>Linux kernel</b>: memory corruption via KVM_VCPU_PREEMPTED</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-KVM-VCPU-PREEMPTED-39138)|An attacker, in a guest system, can trigger a memory corruption of the Linux kernel, via KVM_VCPU_PREEMPTED, in order to trigger a denial of service, and possibly to run code on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/syslog-ng-memory-corruption-via-Timestamp-Parser-39137" class="noirorange"><b>syslog-ng</b>: memory corruption via Timestamp Parser</a>](https://vigilance.fr/vulnerability/syslog-ng-memory-corruption-via-Timestamp-Parser-39137)|An attacker can trigger a memory corruption of syslog-ng, via Timestamp Parser, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Micro-Focus-ArcSight-Logger-two-vulnerabilities-39136" class="noirorange"><b>Micro Focus ArcSight Logger</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Micro-Focus-ArcSight-Logger-two-vulnerabilities-39136)|An attacker can use several vulnerabilities of Micro Focus ArcSight Logger...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MariaDB-denial-of-service-via-compress-write-39135" class="noirorange"><b>MariaDB</b>: denial of service via compress_write()</a>](https://vigilance.fr/vulnerability/MariaDB-denial-of-service-via-compress-write-39135)|An attacker can cause a fatal error of MariaDB, via compress_write(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-KVM-SEV-API-39134" class="noirorange"><b>Linux kernel</b>: denial of service via KVM SEV API</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-KVM-SEV-API-39134)|An attacker, in a guest system, can cause a fatal error of the Linux kernel, via KVM SEV API, in order to trigger a denial of service on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/QEMU-denial-of-service-via-Register-Frame-Information-Structure-39133" class="noirorange"><b>QEMU</b>: denial of service via Register Frame Information Structure</a>](https://vigilance.fr/vulnerability/QEMU-denial-of-service-via-Register-Frame-Information-Structure-39133)|An attacker, in a guest system, can cause a fatal error of QEMU, via Register Frame Information Structure, in order to trigger a denial of service on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-extractImageSection-39129" class="noirorange"><b>LibTIFF</b>: buffer overflow via <wbr>extractImageSection(<wbr>)</wbr></wbr></a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-extractImageSection-39129)|An attacker can trigger a buffer overflow of LibTIFF, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/nDPI-out-of-bounds-memory-reading-via-ndpi-search-h323-39128" class="noirorange"><b>nDPI</b>: out-of-bounds memory reading via ndpi_search_h323()</a>](https://vigilance.fr/vulnerability/nDPI-out-of-bounds-memory-reading-via-ndpi-search-h323-39128)|An attacker can force a read at an invalid memory address of nDPI, via ndpi_search_h323(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  
  ---
 
@@ -64,41 +99,6 @@
  |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-769/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une élévation de privilèges.|Publié le 25 août 2022|
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-768/)|De multiples vulnérabilités ont été corrigées dans le noyau Linux d'|Publié le 25 août 2022|
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-767/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 24 août 2022|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-VM-PFNMAP-39139" class="noirorange"><b>Linux kernel</b>: memory corruption via VM_PFNMAP</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-VM-PFNMAP-39139)|An attacker can trigger a memory corruption of the Linux kernel, via VM_PFNMAP, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-KVM-VCPU-PREEMPTED-39138" class="noirorange"><b>Linux kernel</b>: memory corruption via KVM_VCPU_PREEMPTED</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-KVM-VCPU-PREEMPTED-39138)|An attacker, in a guest system, can trigger a memory corruption of the Linux kernel, via KVM_VCPU_PREEMPTED, in order to trigger a denial of service, and possibly to run code on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/syslog-ng-memory-corruption-via-Timestamp-Parser-39137" class="noirorange"><b>syslog-ng</b>: memory corruption via Timestamp Parser</a>](https://vigilance.fr/vulnerability/syslog-ng-memory-corruption-via-Timestamp-Parser-39137)|An attacker can trigger a memory corruption of syslog-ng, via Timestamp Parser, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Micro-Focus-ArcSight-Logger-two-vulnerabilities-39136" class="noirorange"><b>Micro Focus ArcSight Logger</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Micro-Focus-ArcSight-Logger-two-vulnerabilities-39136)|An attacker can use several vulnerabilities of Micro Focus ArcSight Logger...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/MariaDB-denial-of-service-via-compress-write-39135" class="noirorange"><b>MariaDB</b>: denial of service via compress_write()</a>](https://vigilance.fr/vulnerability/MariaDB-denial-of-service-via-compress-write-39135)|An attacker can cause a fatal error of MariaDB, via compress_write(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-KVM-SEV-API-39134" class="noirorange"><b>Linux kernel</b>: denial of service via KVM SEV API</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-KVM-SEV-API-39134)|An attacker, in a guest system, can cause a fatal error of the Linux kernel, via KVM SEV API, in order to trigger a denial of service on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/QEMU-denial-of-service-via-Register-Frame-Information-Structure-39133" class="noirorange"><b>QEMU</b>: denial of service via Register Frame Information Structure</a>](https://vigilance.fr/vulnerability/QEMU-denial-of-service-via-Register-Frame-Information-Structure-39133)|An attacker, in a guest system, can cause a fatal error of QEMU, via Register Frame Information Structure, in order to trigger a denial of service on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-extractImageSection-39129" class="noirorange"><b>LibTIFF</b>: buffer overflow via <wbr>extractImageSection(<wbr>)</wbr></wbr></a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-extractImageSection-39129)|An attacker can trigger a buffer overflow of LibTIFF, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/nDPI-out-of-bounds-memory-reading-via-ndpi-search-h323-39128" class="noirorange"><b>nDPI</b>: out-of-bounds memory reading via ndpi_search_h323()</a>](https://vigilance.fr/vulnerability/nDPI-out-of-bounds-memory-reading-via-ndpi-search-h323-39128)|An attacker can force a read at an invalid memory address of nDPI, via ndpi_search_h323(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-buffer-overflow-39127" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: buffer overflow</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-buffer-overflow-39127)|An attacker can trigger a buffer overflow of WebKitGTK  WPE WebKit, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libyang-assertion-error-via-lys-node-free-39126" class="noirorange"><b>libyang</b>: assertion error via lys_node_free()</a>](https://vigilance.fr/vulnerability/libyang-assertion-error-via-lys-node-free-39126)|An attacker can force an assertion error of libyang, via lys_node_free(), in order to trigger a denial of service...|Visit link for details|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[LibTIFF TIFF File tiffcrop.c extractImageSection out-of-bounds](https://vuldb.com/?id.207530)|Visit link for details|2022-08-29 at 21:52|
- |[Ingredients Stock Management System denial of service](https://vuldb.com/?id.207529)|Visit link for details|2022-08-29 at 21:51|
- |[Subrion CMS Admin Panel cross site scripting](https://vuldb.com/?id.207528)|Visit link for details|2022-08-29 at 21:50|
- |[nitrado.js redos](https://vuldb.com/?id.207527)|Visit link for details|2022-08-29 at 21:46|
- |[HCL iNotes redirect](https://vuldb.com/?id.207526)|Visit link for details|2022-08-29 at 21:44|
- |[HCL iNotes URL cross site scripting](https://vuldb.com/?id.207525)|Visit link for details|2022-08-29 at 21:43|
- |[Advancecomp memory corruption](https://vuldb.com/?id.207524)|Visit link for details|2022-08-29 at 21:43|
- |[fapolicyd Regular Expression file access](https://vuldb.com/?id.207523)|Visit link for details|2022-08-29 at 21:41|
- |[ImageMagick TIFF Image quantum-private.h PushShortPixel memory corruption](https://vuldb.com/?id.207522)|Visit link for details|2022-08-29 at 21:38|
- |[dnsmasq Packet use after free](https://vuldb.com/?id.207521)|Visit link for details|2022-08-29 at 21:24|
  
  ---
 
