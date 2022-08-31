@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 30/08/2022 21:10:57 UTC
+ > Last Updated 31/08/2022 09:13:03 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -40,30 +40,13 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[DPDK denial of service (CVE-2022-28199)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 29, 2022|
- |[DPDK denial of service (CVE-2022-2132)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 29, 2022|
- |[CentreCOM AR260S V2 backdoor (CVE-2022-34869)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 29, 2022|
- |[CentreCOM AR260S V2 command execution (CVE-2022-35273)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 29, 2022|
- |[CentreCOM AR260S V2 command execution (CVE-2022-38094)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 29, 2022|
- |[CentreCOM AR260S V2 default account (CVE-2022-38394)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 29, 2022|
- |[AeroCMS author SQL injection](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 29, 2022|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Tenda AC6/AC1200 Packet setWizard access control](https://vuldb.com/?id.207589)|Visit link for details|2022-08-30 at 21:16|
- |[Tenda AC6/AC1200 GET Request DownloadFlash information disclosure](https://vuldb.com/?id.207588)|Visit link for details|2022-08-30 at 21:16|
- |[ZLMediaKit RTMP Request denial of service](https://vuldb.com/?id.207587)|Visit link for details|2022-08-30 at 21:15|
- |[Wavlink WL-WN575A3 adm.cgi command injection](https://vuldb.com/?id.207586)|Visit link for details|2022-08-30 at 21:14|
- |[x-data-spreadsheet Cell cross site scripting](https://vuldb.com/?id.207585)|Visit link for details|2022-08-30 at 14:13|
- |[arnoldaldrin binaries stack-based overflow](https://vuldb.com/?id.207584)|Visit link for details|2022-08-30 at 14:12|
- |[sanitize-html HTML Comment incorrect regex](https://vuldb.com/?id.207583)|Visit link for details|2022-08-30 at 14:11|
- |[Trellix DLP Endpoint xml external entity reference](https://vuldb.com/?id.207582)|Visit link for details|2022-08-30 at 14:07|
- |[Realtek Bluetooth Mesh SDK Segmented Packet buffer overflow](https://vuldb.com/?id.207581)|Visit link for details|2022-08-30 at 14:06|
- |[Realtek Bluetooth Mesh SDK Segmented Packet buffer overflow](https://vuldb.com/?id.207580)|Visit link for details|2022-08-30 at 14:05|
+ |[Le-yan Personnel and Salary Management System security bypass (CVE-2022-38116)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 30, 2022|
+ |[Realtek Linux/Android Bluetooth Mesh SDK denial of service (CVE-2022-26529)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 30, 2022|
+ |[Realtek Linux/Android Bluetooth Mesh SDK denial of service (CVE-2022-26528)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 30, 2022|
+ |[Realtek Linux/Android Bluetooth Mesh SDK denial of service (CVE-2022-26527)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 30, 2022|
+ |[Sensormatic Electronics iSTAR Ultra command execution (CVE-2022-21941)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 30, 2022|
+ |[Apache Geode code execution (CVE-2022-37023)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 30, 2022|
+ |[Apache Geode code execution (CVE-2022-37022)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 30, 2022|
  
  ---
 
@@ -84,18 +67,10 @@
  
  ---
 
-## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
+## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[Fatek Automation FvDesigner FPJ File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1174/)|Visit link for details|Aug. 25, 2022|
- |[Fatek Automation FvDesigner FPJ File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1173/)|Visit link for details|Aug. 25, 2022|
- |[Fatek Automation FvDesigner FPJ File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1172/)|Visit link for details|Aug. 25, 2022|
- |[Fatek Automation FvDesigner FPJ File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1171/)|Visit link for details|Aug. 25, 2022|
- |[Fatek Automation FvDesigner FPJ File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1170/)|Visit link for details|Aug. 25, 2022|
- |[Fatek Automation FvDesigner FPJ File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1169/)|Visit link for details|Aug. 25, 2022|
- |[Fatek Automation FvDesigner FPJ File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1168/)|Visit link for details|Aug. 25, 2022|
- |[Fatek Automation FvDesigner FPJ File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1167/)|Visit link for details|Aug. 25, 2022|
  
  ---
 
@@ -103,6 +78,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/curl-denial-of-service-via-Cookies-Control-Codes-39156" class="noirorange"><b>curl</b>: denial of service via Cookies Control Codes</a>](https://vigilance.fr/vulnerability/curl-denial-of-service-via-Cookies-Control-Codes-39156)|An attacker can cause a fatal error of curl, via Cookies Control Codes, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Grafana-file-reading-via-Image-Renderer-Plugin-39155" class="noirorange"><b>Grafana</b>: file reading via Image Renderer Plugin</a>](https://vigilance.fr/vulnerability/Grafana-file-reading-via-Image-Renderer-Plugin-39155)|An attacker can read a file of Grafana, via Image Renderer Plugin, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-src-quickfix-c-39154" class="noirorange"><b>Vim</b>: reuse after free via src/quickfix.c</a>](https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-src-quickfix-c-39154)|An attacker can force the reuse of a freed memory area of Vim, via src/quickfix.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WordPress-Core-three-vulnerabilities-39153" class="noirorange"><b>WordPress Core</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/WordPress-Core-three-vulnerabilities-39153)|An attacker can use several vulnerabilities of WordPress Core...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-39152" class="noirorange"><b>Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-39152)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Aruba-AOS-CX-multiple-vulnerabilities-39151" class="noirorange"><b>Aruba AOS-CX</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Aruba-AOS-CX-multiple-vulnerabilities-39151)|An attacker can use several vulnerabilities of Aruba AOS-CX...|Visit link for details|
@@ -111,9 +89,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Joomla-Core-information-disclosure-via-JEXEC-Or-Die-Check-39147" class="noirorange"><b>Joomla Core</b>: information disclosure via _JEXEC Or Die Check</a>](https://vigilance.fr/vulnerability/Joomla-Core-information-disclosure-via-JEXEC-Or-Die-Check-39147)|An attacker can bypass access restrictions to data of Joomla Core, via _JEXEC Or Die Check, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Jupyter-Notebook-information-disclosure-via-allow-hidden-39145" class="noirorange"><b>Jupyter Notebook</b>: information disclosure via allow_hidden</a>](https://vigilance.fr/vulnerability/Jupyter-Notebook-information-disclosure-via-allow-hidden-39145)|An attacker can bypass access restrictions to data of Jupyter Notebook, via allow_hidden, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Jupyter-Notebook-information-disclosure-via-5xx-Error-39144" class="noirorange"><b>Jupyter Notebook</b>: information disclosure via 5xx Error</a>](https://vigilance.fr/vulnerability/Jupyter-Notebook-information-disclosure-via-5xx-Error-39144)|An attacker can bypass access restrictions to data of Jupyter Notebook, via 5xx Error, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-ingress-filtrering-bypass-via-nf-conntrack-irc-39143" class="noirorange"><b>Linux kernel</b>: ingress filtrering bypass via nf_conntrack_irc</a>](https://vigilance.fr/vulnerability/Linux-kernel-ingress-filtrering-bypass-via-nf-conntrack-irc-39143)|An attacker can bypass filtering rules of the Linux kernel, via nf_conntrack_irc, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/NagVis-three-vulnerabilities-39142" class="noirorange"><b>NagVis</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/NagVis-three-vulnerabilities-39142)|An attacker can use several vulnerabilities of NagVis...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/DCMTK-vulnerability-39141" class="noirorange"><b>DCMTK</b>: vulnerability</a>](https://vigilance.fr/vulnerability/DCMTK-vulnerability-39141)|A vulnerability of DCMTK was announced...|Visit link for details|
  
  ---
 
@@ -132,4 +107,19 @@
  |[37892408/22 - Vulnérabilité dans VMware Tools](/fr/content/3789240822-vulnerabilite-dans-vmware-tools.html)|Une vulnérabilité a été corrigée dans VMware Tools pour Windows. Un attaquant pourrait exploiter cette faille afin de réussir une élévation de privilèges en tant qu'utilisateur « root » de la machine virtuelle.|24 août 2022|
  |[37882308/22 - Vulnérabilités dans Microsoft Edge](/fr/content/3788230822-vulnerabilites-dans-microsoft-edge.html)|Microsoft annonce la correction de plusieurs vulnérabilités dans Microsoft Edge. L’exploitation de ces failles peut permettre à un attaquant de provoquer un problème de sécurité non spécifié.|23 août 2022|
  |[37871908/22 - « Zero-Day » affectant le navigateur Apple Safari ](/fr/content/3787190822-zero-day-affectant-le-navigateur-apple-safari.html)|Apple annonce la correction d’une vulnérabilité critique affectant les versions susmentionnées de son navigateur Safari. Selon Apple cette vulnérabilité est activement exploitée et peut permettre à un attaquant distant d’exécuter du code...|19 août 2022|
+ 
+ ---
+
+## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Fatek Automation FvDesigner FPJ File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1174/)|Visit link for details|Aug. 25, 2022|
+ |[Fatek Automation FvDesigner FPJ File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1173/)|Visit link for details|Aug. 25, 2022|
+ |[Fatek Automation FvDesigner FPJ File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1172/)|Visit link for details|Aug. 25, 2022|
+ |[Fatek Automation FvDesigner FPJ File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1171/)|Visit link for details|Aug. 25, 2022|
+ |[Fatek Automation FvDesigner FPJ File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1170/)|Visit link for details|Aug. 25, 2022|
+ |[Fatek Automation FvDesigner FPJ File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1169/)|Visit link for details|Aug. 25, 2022|
+ |[Fatek Automation FvDesigner FPJ File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1168/)|Visit link for details|Aug. 25, 2022|
+ |[Fatek Automation FvDesigner FPJ File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1167/)|Visit link for details|Aug. 25, 2022|
  
