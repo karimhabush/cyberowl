@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 31/08/2022 09:13:03 UTC
+ > Last Updated 31/08/2022 21:13:53 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -40,37 +40,13 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Le-yan Personnel and Salary Management System security bypass (CVE-2022-38116)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 30, 2022|
- |[Realtek Linux/Android Bluetooth Mesh SDK denial of service (CVE-2022-26529)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 30, 2022|
- |[Realtek Linux/Android Bluetooth Mesh SDK denial of service (CVE-2022-26528)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 30, 2022|
- |[Realtek Linux/Android Bluetooth Mesh SDK denial of service (CVE-2022-26527)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 30, 2022|
- |[Sensormatic Electronics iSTAR Ultra command execution (CVE-2022-21941)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 30, 2022|
- |[Apache Geode code execution (CVE-2022-37023)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 30, 2022|
- |[Apache Geode code execution (CVE-2022-37022)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 30, 2022|
- 
- ---
-
-## CERT-FR [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans Synology DSM et SRM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-777/)|De multiples vulnérabilités ont été découvertes dans Synology DSM et SRM. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.|Publié le 30 août 2022|
- |[Multiples vulnérabilités dans Moodle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-776/)|De multiples vulnérabilités ont été découvertes dans Moodle. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et une injection de requêtes illégitimes par rebond (CSRF).|Publié le 29 août 2022|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-775/)|De multiples vulnérabilités ont été corrigées dans |Publié le 29 août 2022|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-774/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 26 août 2022|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-773/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une atteinte à la confidentialité des données.|Publié le 26 août 2022|
- |[Multiples vulnérabilités dans Tenable Nessus Agent](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-772/)|De multiples vulnérabilités ont été découvertes dans Tenable Nessus Agent. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 26 août 2022|
- |[Multiples vulnérabilités dans SonicWall SMA](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-771/)|De multiples vulnérabilités ont été découvertes dans SonicWall SMA. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 25 août 2022|
- |[Vulnérabilité dans ElasticSearch Cloud Enterprise](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-770/)|Une vulnérabilité a été découverte dans ElasticSearch Cloud Enterprise. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 25 août 2022|
- |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-769/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une élévation de privilèges.|Publié le 25 août 2022|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-768/)|De multiples vulnérabilités ont été corrigées dans le noyau Linux d'|Publié le 25 août 2022|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
+ |[WordPress Core _meta cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 31, 2022|
+ |[WordPress Core Link SQL injection](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 31, 2022|
+ |[Sourcecodester Simple Task Managing System SQL injection (CVE-2022-3013)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 31, 2022|
+ |[Sourcecodester Fast Food Ordering System cross-site scripting (CVE-2022-3015)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 31, 2022|
+ |[Hgiga OAKlouds Portal website SQL injection (CVE-2022-38118)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 30, 2022|
+ |[Realtek Linux/Android Bluetooth Mesh SDK denial of service (CVE-2022-25635)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 30, 2022|
+ |[Watchguard Firebox buffer overflow (CVE-2022-31789)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 30, 2022|
  
  ---
 
@@ -78,6 +54,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Horde-Groupware-Webmail-Edition-code-execution-via-Reflection-Injection-39157" class="noirorange"><b>Horde Groupware Webmail Edition</b>: code execution via Reflection Injection</a>](https://vigilance.fr/vulnerability/Horde-Groupware-Webmail-Edition-code-execution-via-Reflection-Injection-39157)|An attacker can use a vulnerability of Horde Groupware Webmail Edition, via Reflection Injection, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/curl-denial-of-service-via-Cookies-Control-Codes-39156" class="noirorange"><b>curl</b>: denial of service via Cookies Control Codes</a>](https://vigilance.fr/vulnerability/curl-denial-of-service-via-Cookies-Control-Codes-39156)|An attacker can cause a fatal error of curl, via Cookies Control Codes, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Grafana-file-reading-via-Image-Renderer-Plugin-39155" class="noirorange"><b>Grafana</b>: file reading via Image Renderer Plugin</a>](https://vigilance.fr/vulnerability/Grafana-file-reading-via-Image-Renderer-Plugin-39155)|An attacker can read a file of Grafana, via Image Renderer Plugin, in order to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-src-quickfix-c-39154" class="noirorange"><b>Vim</b>: reuse after free via src/quickfix.c</a>](https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-src-quickfix-c-39154)|An attacker can force the reuse of a freed memory area of Vim, via src/quickfix.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
@@ -88,7 +65,23 @@
  |[<a href="https://vigilance.fr/vulnerability/DPDK-buffer-overflow-via-copy-desc-to-mbuf-39148" class="noirorange"><b>DPDK</b>: buffer overflow via copy_desc_to_mbuf()</a>](https://vigilance.fr/vulnerability/DPDK-buffer-overflow-via-copy-desc-to-mbuf-39148)|An attacker can trigger a buffer overflow of DPDK, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Joomla-Core-information-disclosure-via-JEXEC-Or-Die-Check-39147" class="noirorange"><b>Joomla Core</b>: information disclosure via _JEXEC Or Die Check</a>](https://vigilance.fr/vulnerability/Joomla-Core-information-disclosure-via-JEXEC-Or-Die-Check-39147)|An attacker can bypass access restrictions to data of Joomla Core, via _JEXEC Or Die Check, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Jupyter-Notebook-information-disclosure-via-allow-hidden-39145" class="noirorange"><b>Jupyter Notebook</b>: information disclosure via allow_hidden</a>](https://vigilance.fr/vulnerability/Jupyter-Notebook-information-disclosure-via-allow-hidden-39145)|An attacker can bypass access restrictions to data of Jupyter Notebook, via allow_hidden, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jupyter-Notebook-information-disclosure-via-5xx-Error-39144" class="noirorange"><b>Jupyter Notebook</b>: information disclosure via 5xx Error</a>](https://vigilance.fr/vulnerability/Jupyter-Notebook-information-disclosure-via-5xx-Error-39144)|An attacker can bypass access restrictions to data of Jupyter Notebook, via 5xx Error, in order to read sensitive information...|Visit link for details|
+ 
+ ---
+
+## CERT-FR [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans Aruba AOS-CX](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-784/)|De multiples vulnérabilités ont été découvertes dans Aruba AOS-CX. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une injection de requêtes illégitimes par rebond (CSRF) et une atteinte à la confidentialité des données.|Publié le 31 août 2022|
+ |[Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-783/)|De multiples vulnérabilités ont été corrigées dans |Publié le 31 août 2022|
+ |[Multiples vulnérabilités dans les produits Gitlab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-782/)|De multiples vulnérabilités ont été découvertes dans les produits Gitlab. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 31 août 2022|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-781/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 31 août 2022|
+ |[Multiples vulnérabilités dans Stormshield SMC](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-780/)|De multiples vulnérabilités ont été découvertes dans Stormshield Stormshield Management Center (SMC). Elles permettent à un attaquant de provoquer un déni de service.|Publié le 31 août 2022|
+ |[Vulnérabilité dans Joomla!](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-779/)|Une vulnérabilité a été découverte dans Joomla!. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 31 août 2022|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-778/)|De multiples vulnérabilités ont été corrigées dans |Publié le 31 août 2022|
+ |[Multiples vulnérabilités dans Synology DSM et SRM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-777/)|De multiples vulnérabilités ont été découvertes dans Synology DSM et SRM. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.|Publié le 30 août 2022|
+ |[Multiples vulnérabilités dans Moodle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-776/)|De multiples vulnérabilités ont été découvertes dans Moodle. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et une injection de requêtes illégitimes par rebond (CSRF).|Publié le 29 août 2022|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-775/)|De multiples vulnérabilités ont été corrigées dans |Publié le 29 août 2022|
  
  ---
 
@@ -96,6 +89,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[3798318/22 - Vulnérabilités dans Google Chrome](/fr/content/379831822-vulnerabilites-dans-google-chrome.html)|Google a corrigé plusieurs vulnérabilités affectant son navigateur Google Chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du système affecté.|31 août 2022|
  |[3797208/22 - Vulnérabilité critique affectant Atlassian Bitbucket Server et Data Center](/fr/content/379720822-vulnerabilite-critique-affectant-atlassian-bitbucket-server-et-data-center.html)|Atlassian a publié des mises à jour de sécurité pour corriger une vulnérabilité critique d'injection de commande (CVE-2022-36804) dans Bitbucket Server et Data Center. L'exploitation réussie de cette vulnérabilité pourrait...|29 août 2022|
  |[37962608/22 - Vulnérabilités dans SonicWall SMA](/fr/content/3796260822-vulnerabilites-dans-sonicwall-sma.html)|Une vulnérabilité a été corrigée dans SonicWall SMA. L'exploitation de cette faille peut permettre à un attaquant distant d’exécuter des commandes arbitraires, de causer un déni de service ou de porter atteinte à la confidentialité de...|26 août 2022|
  |[37952608/22 - Vulnérabilités dans Sophos UTM](/fr/content/3795260822-vulnerabilites-dans-sophos-utm.html)|Plusieurs vulnérabilités ont été corrigées affectant Sophos UTM. L’exploitation de ces failles peut permettre à un attaquant distant d’exécuter du code arbitraire ou de contourner la politique de sécurité.|26 août 2022|
@@ -106,7 +100,23 @@
  |[3790240822 - Vulnérabilité critique affectant GitLab](/fr/content/3790240822-vulnerabilite-critique-affectant-gitlab.html)|GitLab annonce la disponibilité de mises à jour permettant de corriger une vulnérabilité critique affectant ses produits susmentionnés. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du code...|24 août 2022|
  |[37892408/22 - Vulnérabilité dans VMware Tools](/fr/content/3789240822-vulnerabilite-dans-vmware-tools.html)|Une vulnérabilité a été corrigée dans VMware Tools pour Windows. Un attaquant pourrait exploiter cette faille afin de réussir une élévation de privilèges en tant qu'utilisateur « root » de la machine virtuelle.|24 août 2022|
  |[37882308/22 - Vulnérabilités dans Microsoft Edge](/fr/content/3788230822-vulnerabilites-dans-microsoft-edge.html)|Microsoft annonce la correction de plusieurs vulnérabilités dans Microsoft Edge. L’exploitation de ces failles peut permettre à un attaquant de provoquer un problème de sécurité non spécifié.|23 août 2022|
- |[37871908/22 - « Zero-Day » affectant le navigateur Apple Safari ](/fr/content/3787190822-zero-day-affectant-le-navigateur-apple-safari.html)|Apple annonce la correction d’une vulnérabilité critique affectant les versions susmentionnées de son navigateur Safari. Selon Apple cette vulnérabilité est activement exploitée et peut permettre à un attaquant distant d’exécuter du code...|19 août 2022|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Libtiffs TIFF File tiffcp.c main stack-based overflow](https://vuldb.com/?id.207638)|Visit link for details|2022-08-31 at 22:48|
+ |[Libtiffs TIFF File tiffinfo.c TIFFReadRawDataStriped out-of-bounds](https://vuldb.com/?id.207637)|Visit link for details|2022-08-31 at 22:48|
+ |[NodeBB random values](https://vuldb.com/?id.207636)|Visit link for details|2022-08-31 at 22:47|
+ |[libtiff tif_close.c TIFFClose release of reference](https://vuldb.com/?id.207635)|Visit link for details|2022-08-31 at 22:43|
+ |[PostgreSQL Non-Temporary Object sql injection](https://vuldb.com/?id.207634)|Visit link for details|2022-08-31 at 22:42|
+ |[Linux Kernel IP Framework af_key.c pfkey_register out-of-bounds write](https://vuldb.com/?id.207633)|Visit link for details|2022-08-31 at 22:41|
+ |[Linux Kernel Memory Subsystem gup.c race condition](https://vuldb.com/?id.207632)|Visit link for details|2022-08-31 at 22:40|
+ |[Linux Kernel KVM lapic.c kvm_irq_delivery_to_apic_fast null pointer dereference](https://vuldb.com/?id.207631)|Visit link for details|2022-08-31 at 22:39|
+ |[Linux Kernel io-uring io_uring.c use after free](https://vuldb.com/?id.207630)|Visit link for details|2022-08-31 at 22:38|
+ |[Linux Kernel NFC core.c use after free](https://vuldb.com/?id.207629)|Visit link for details|2022-08-31 at 22:37|
  
  ---
 
