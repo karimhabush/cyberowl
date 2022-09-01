@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 31/08/2022 21:13:53 UTC
+ > Last Updated 01/09/2022 09:14:33 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -36,38 +36,6 @@
  
  ---
 
-## IBMCLOUD [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[WordPress Core _meta cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 31, 2022|
- |[WordPress Core Link SQL injection](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 31, 2022|
- |[Sourcecodester Simple Task Managing System SQL injection (CVE-2022-3013)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 31, 2022|
- |[Sourcecodester Fast Food Ordering System cross-site scripting (CVE-2022-3015)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 31, 2022|
- |[Hgiga OAKlouds Portal website SQL injection (CVE-2022-38118)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 30, 2022|
- |[Realtek Linux/Android Bluetooth Mesh SDK denial of service (CVE-2022-25635)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 30, 2022|
- |[Watchguard Firebox buffer overflow (CVE-2022-31789)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 30, 2022|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Horde-Groupware-Webmail-Edition-code-execution-via-Reflection-Injection-39157" class="noirorange"><b>Horde Groupware Webmail Edition</b>: code execution via Reflection Injection</a>](https://vigilance.fr/vulnerability/Horde-Groupware-Webmail-Edition-code-execution-via-Reflection-Injection-39157)|An attacker can use a vulnerability of Horde Groupware Webmail Edition, via Reflection Injection, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/curl-denial-of-service-via-Cookies-Control-Codes-39156" class="noirorange"><b>curl</b>: denial of service via Cookies Control Codes</a>](https://vigilance.fr/vulnerability/curl-denial-of-service-via-Cookies-Control-Codes-39156)|An attacker can cause a fatal error of curl, via Cookies Control Codes, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Grafana-file-reading-via-Image-Renderer-Plugin-39155" class="noirorange"><b>Grafana</b>: file reading via Image Renderer Plugin</a>](https://vigilance.fr/vulnerability/Grafana-file-reading-via-Image-Renderer-Plugin-39155)|An attacker can read a file of Grafana, via Image Renderer Plugin, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-src-quickfix-c-39154" class="noirorange"><b>Vim</b>: reuse after free via src/quickfix.c</a>](https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-src-quickfix-c-39154)|An attacker can force the reuse of a freed memory area of Vim, via src/quickfix.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WordPress-Core-three-vulnerabilities-39153" class="noirorange"><b>WordPress Core</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/WordPress-Core-three-vulnerabilities-39153)|An attacker can use several vulnerabilities of WordPress Core...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-39152" class="noirorange"><b>Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-39152)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Aruba-AOS-CX-multiple-vulnerabilities-39151" class="noirorange"><b>Aruba AOS-CX</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Aruba-AOS-CX-multiple-vulnerabilities-39151)|An attacker can use several vulnerabilities of Aruba AOS-CX...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/DPDK-denial-of-service-via-Mlx5-Driver-39149" class="noirorange"><b>DPDK</b>: denial of service via Mlx5 Driver</a>](https://vigilance.fr/vulnerability/DPDK-denial-of-service-via-Mlx5-Driver-39149)|An attacker can cause a fatal error of DPDK, via Mlx5 Driver, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/DPDK-buffer-overflow-via-copy-desc-to-mbuf-39148" class="noirorange"><b>DPDK</b>: buffer overflow via copy_desc_to_mbuf()</a>](https://vigilance.fr/vulnerability/DPDK-buffer-overflow-via-copy-desc-to-mbuf-39148)|An attacker can trigger a buffer overflow of DPDK, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Joomla-Core-information-disclosure-via-JEXEC-Or-Die-Check-39147" class="noirorange"><b>Joomla Core</b>: information disclosure via _JEXEC Or Die Check</a>](https://vigilance.fr/vulnerability/Joomla-Core-information-disclosure-via-JEXEC-Or-Die-Check-39147)|An attacker can bypass access restrictions to data of Joomla Core, via _JEXEC Or Die Check, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jupyter-Notebook-information-disclosure-via-allow-hidden-39145" class="noirorange"><b>Jupyter Notebook</b>: information disclosure via allow_hidden</a>](https://vigilance.fr/vulnerability/Jupyter-Notebook-information-disclosure-via-allow-hidden-39145)|An attacker can bypass access restrictions to data of Jupyter Notebook, via allow_hidden, in order to read sensitive information...|Visit link for details|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -82,6 +50,41 @@
  |[Multiples vulnérabilités dans Synology DSM et SRM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-777/)|De multiples vulnérabilités ont été découvertes dans Synology DSM et SRM. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.|Publié le 30 août 2022|
  |[Multiples vulnérabilités dans Moodle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-776/)|De multiples vulnérabilités ont été découvertes dans Moodle. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et une injection de requêtes illégitimes par rebond (CSRF).|Publié le 29 août 2022|
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-775/)|De multiples vulnérabilités ont été corrigées dans |Publié le 29 août 2022|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Mozilla-Thunderbird-four-vulnerabilities-39162" class="noirorange"><b>Mozilla Thunderbird</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Thunderbird-four-vulnerabilities-39162)|An attacker can use several vulnerabilities of Mozilla Thunderbird...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-pfkey-register-39161" class="noirorange"><b>Linux kernel</b>: denial of service via pfkey_register()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-pfkey-register-39161)|An attacker can cause a fatal error of the Linux kernel, via pfkey_register(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-reuse-after-free-via-TIFFClose-39160" class="noirorange"><b>LibTIFF</b>: reuse after free via TIFFClose()</a>](https://vigilance.fr/vulnerability/LibTIFF-reuse-after-free-via-TIFFClose-39160)|An attacker can force the reuse of a freed memory area of LibTIFF, via TIFFClose(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-assertion-error-via-rotateImage-39159" class="noirorange"><b>LibTIFF</b>: assertion error via rotateImage()</a>](https://vigilance.fr/vulnerability/LibTIFF-assertion-error-via-rotateImage-39159)|An attacker can force an assertion error of LibTIFF, via rotateImage(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GCC-denial-of-service-via-IPA-VRP-Without-IPA-CP-39158" class="noirorange"><b>GCC</b>: denial of service via IPA-VRP Without IPA-CP</a>](https://vigilance.fr/vulnerability/GCC-denial-of-service-via-IPA-VRP-Without-IPA-CP-39158)|An attacker can cause a fatal error of GCC, via IPA-VRP Without IPA-CP, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Horde-Groupware-Webmail-Edition-code-execution-via-Reflection-Injection-39157" class="noirorange"><b>Horde Groupware Webmail Edition</b>: code execution via Reflection Injection</a>](https://vigilance.fr/vulnerability/Horde-Groupware-Webmail-Edition-code-execution-via-Reflection-Injection-39157)|An attacker can use a vulnerability of Horde Groupware Webmail Edition, via Reflection Injection, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/curl-denial-of-service-via-Cookies-Control-Codes-39156" class="noirorange"><b>curl</b>: denial of service via Cookies Control Codes</a>](https://vigilance.fr/vulnerability/curl-denial-of-service-via-Cookies-Control-Codes-39156)|An attacker can cause a fatal error of curl, via Cookies Control Codes, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Grafana-file-reading-via-Image-Renderer-Plugin-39155" class="noirorange"><b>Grafana</b>: file reading via Image Renderer Plugin</a>](https://vigilance.fr/vulnerability/Grafana-file-reading-via-Image-Renderer-Plugin-39155)|An attacker can read a file of Grafana, via Image Renderer Plugin, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-src-quickfix-c-39154" class="noirorange"><b>Vim</b>: reuse after free via src/quickfix.c</a>](https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-src-quickfix-c-39154)|An attacker can force the reuse of a freed memory area of Vim, via src/quickfix.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WordPress-Core-three-vulnerabilities-39153" class="noirorange"><b>WordPress Core</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/WordPress-Core-three-vulnerabilities-39153)|An attacker can use several vulnerabilities of WordPress Core...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-39152" class="noirorange"><b>Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-39152)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Sensormatic iSTAR Ultra command injection](https://vuldb.com/?id.207658)|Visit link for details|2022-09-01 at 10:49|
+ |[DPDK Header denial of service](https://vuldb.com/?id.207657)|Visit link for details|2022-09-01 at 10:48|
+ |[GNU gcc g++ ipa-cp.c ipcp_store_vr_results denial of service](https://vuldb.com/?id.207656)|Visit link for details|2022-09-01 at 10:41|
+ |[Zulip Message interpretation conflict](https://vuldb.com/?id.207655)|Visit link for details|2022-09-01 at 10:36|
+ |[Carel pCOWeb HVAC BACnet Gateway GET Parameter logdownload.cgi pathname traversal](https://vuldb.com/?id.207654)|Visit link for details|2022-09-01 at 10:32|
+ |[Micro Focus ArcSight Logger cross site scripting](https://vuldb.com/?id.207653)|Visit link for details|2022-09-01 at 10:30|
+ |[Micro Focus ArcSight Logger cross site scripting](https://vuldb.com/?id.207652)|Visit link for details|2022-09-01 at 10:30|
+ |[Flux path traversal](https://vuldb.com/?id.207651)|Visit link for details|2022-09-01 at 10:29|
+ |[Dell Edge Gateway 5200 SMM command injection](https://vuldb.com/?id.207650)|Visit link for details|2022-09-01 at 10:28|
+ |[HPE OneView information disclosure](https://vuldb.com/?id.207649)|Visit link for details|2022-09-01 at 10:13|
  
  ---
 
@@ -103,20 +106,17 @@
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
+## IBMCLOUD [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[Libtiffs TIFF File tiffcp.c main stack-based overflow](https://vuldb.com/?id.207638)|Visit link for details|2022-08-31 at 22:48|
- |[Libtiffs TIFF File tiffinfo.c TIFFReadRawDataStriped out-of-bounds](https://vuldb.com/?id.207637)|Visit link for details|2022-08-31 at 22:48|
- |[NodeBB random values](https://vuldb.com/?id.207636)|Visit link for details|2022-08-31 at 22:47|
- |[libtiff tif_close.c TIFFClose release of reference](https://vuldb.com/?id.207635)|Visit link for details|2022-08-31 at 22:43|
- |[PostgreSQL Non-Temporary Object sql injection](https://vuldb.com/?id.207634)|Visit link for details|2022-08-31 at 22:42|
- |[Linux Kernel IP Framework af_key.c pfkey_register out-of-bounds write](https://vuldb.com/?id.207633)|Visit link for details|2022-08-31 at 22:41|
- |[Linux Kernel Memory Subsystem gup.c race condition](https://vuldb.com/?id.207632)|Visit link for details|2022-08-31 at 22:40|
- |[Linux Kernel KVM lapic.c kvm_irq_delivery_to_apic_fast null pointer dereference](https://vuldb.com/?id.207631)|Visit link for details|2022-08-31 at 22:39|
- |[Linux Kernel io-uring io_uring.c use after free](https://vuldb.com/?id.207630)|Visit link for details|2022-08-31 at 22:38|
- |[Linux Kernel NFC core.c use after free](https://vuldb.com/?id.207629)|Visit link for details|2022-08-31 at 22:37|
+ |[Flux Project Flux2 directory traversal (CVE-2022-36035)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 31, 2022|
+ |[Freeciv buffer overflow (CVE-2022-39047)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 31, 2022|
+ |[GNU C Library (glibc) information disclosure (CVE-2022-39046)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 31, 2022|
+ |[OAMG Convert2RHEL information disclosure (CVE-2022-0851)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 31, 2022|
+ |[cURL libcurl denial of service (CVE-2022-35252)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 31, 2022|
+ |[WordPress Core error messages cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 31, 2022|
+ |[WordPress Core _meta cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 31, 2022|
  
  ---
 
@@ -124,12 +124,12 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Fatek Automation FvDesigner FPJ File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1174/)|Visit link for details|Aug. 25, 2022|
- |[Fatek Automation FvDesigner FPJ File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1173/)|Visit link for details|Aug. 25, 2022|
- |[Fatek Automation FvDesigner FPJ File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1172/)|Visit link for details|Aug. 25, 2022|
- |[Fatek Automation FvDesigner FPJ File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1171/)|Visit link for details|Aug. 25, 2022|
- |[Fatek Automation FvDesigner FPJ File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1170/)|Visit link for details|Aug. 25, 2022|
- |[Fatek Automation FvDesigner FPJ File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1169/)|Visit link for details|Aug. 25, 2022|
- |[Fatek Automation FvDesigner FPJ File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1168/)|Visit link for details|Aug. 25, 2022|
- |[Fatek Automation FvDesigner FPJ File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1167/)|Visit link for details|Aug. 25, 2022|
+ |[ManageEngine NetFlow Analyzer getDNSResolveOption Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1183/)|Visit link for details|Sept. 1, 2022|
+ |[ManageEngine OpManager getNmapInitialOption Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1182/)|Visit link for details|Sept. 1, 2022|
+ |[ManageEngine OpManager Plus getNmapInitialOption Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1181/)|Visit link for details|Sept. 1, 2022|
+ |[ManageEngine NetFlow Analyzer getNmapInitialOption Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1180/)|Visit link for details|Sept. 1, 2022|
+ |[ManageEngine OpManager getDNSResolveOption Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1179/)|Visit link for details|Sept. 1, 2022|
+ |[Trend Micro HouseCall Incorrect Permission Assignment Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1178/)|Visit link for details|Aug. 31, 2022|
+ |[Trend Micro Maximum Security Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1177/)|Visit link for details|Aug. 31, 2022|
+ |[Trend Micro Maximum Security Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1176/)|Visit link for details|Aug. 31, 2022|
  
