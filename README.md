@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 01/09/2022 21:14:00 UTC
+ > Last Updated 02/09/2022 09:14:24 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -36,37 +36,6 @@
  
  ---
 
-## IBMCLOUD [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Flux Project Flux2 directory traversal (CVE-2022-36035)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 31, 2022|
- |[Freeciv buffer overflow (CVE-2022-39047)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 31, 2022|
- |[GNU C Library (glibc) information disclosure (CVE-2022-39046)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 31, 2022|
- |[OAMG Convert2RHEL information disclosure (CVE-2022-0851)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 31, 2022|
- |[cURL libcurl denial of service (CVE-2022-35252)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 31, 2022|
- |[Huawei WS7200-10 security bypass (CVE-2021-46835)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 31, 2022|
- |[WordPress Core error messages cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Aug 31, 2022|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Linux Kernel i740 Driver ioctl divide by zero](https://vuldb.com/?id.207711)|Visit link for details|2022-09-01 at 22:24|
- |[Linux Kernel printer_ioctl use after free](https://vuldb.com/?id.207710)|Visit link for details|2022-09-01 at 22:22|
- |[Apache ShenYu Admin Administrator permission](https://vuldb.com/?id.207709)|Visit link for details|2022-09-01 at 18:45|
- |[Weave GitOps Enterprise javascript URL cross site scripting](https://vuldb.com/?id.207708)|Visit link for details|2022-09-01 at 17:06|
- |[Helm Data Structure resource consumption](https://vuldb.com/?id.207707)|Visit link for details|2022-09-01 at 17:05|
- |[Contiki-NG IPv6 Packet uipbuf.c uipbuf_get_next_header buffer overflow](https://vuldb.com/?id.207706)|Visit link for details|2022-09-01 at 17:00|
- |[Contiki-NG 6LoWPAN Packet out-of-bounds](https://vuldb.com/?id.207705)|Visit link for details|2022-09-01 at 16:59|
- |[Contiki-NG Fragmented Packet sicslowpan.c 6LoWPAN out-of-bounds write](https://vuldb.com/?id.207704)|Visit link for details|2022-09-01 at 16:58|
- |[libtiff tiffcrop.c rotateImage buffer size](https://vuldb.com/?id.207703)|Visit link for details|2022-09-01 at 16:14|
- |[libtiff tiffcrop.c rotateImage double free](https://vuldb.com/?id.207702)|Visit link for details|2022-09-01 at 16:14|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -84,36 +53,21 @@
  
  ---
 
-## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[ManageEngine NetFlow Analyzer getDNSResolveOption Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1183/)|Visit link for details|Sept. 1, 2022|
- |[ManageEngine OpManager getNmapInitialOption Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1182/)|Visit link for details|Sept. 1, 2022|
- |[ManageEngine OpManager Plus getNmapInitialOption Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1181/)|Visit link for details|Sept. 1, 2022|
- |[ManageEngine NetFlow Analyzer getNmapInitialOption Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1180/)|Visit link for details|Sept. 1, 2022|
- |[ManageEngine OpManager getDNSResolveOption Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1179/)|Visit link for details|Sept. 1, 2022|
- |[Trend Micro HouseCall Incorrect Permission Assignment Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1178/)|Visit link for details|Aug. 31, 2022|
- |[Trend Micro Maximum Security Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1177/)|Visit link for details|Aug. 31, 2022|
- |[Trend Micro Maximum Security Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1176/)|Visit link for details|Aug. 31, 2022|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/pcs-privilege-escalation-via-Unix-Socket-39165" class="noirorange"><b>pcs</b>: privilege escalation via Unix Socket</a>](https://vigilance.fr/vulnerability/pcs-privilege-escalation-via-Unix-Socket-39165)|An attacker can bypass restrictions of pcs, via Unix Socket, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-lock-acquire-39174" class="noirorange"><b>Linux kernel</b>: reuse after free via __lock_acquire()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-lock-acquire-39174)|An attacker can force the reuse of a freed memory area of the Linux kernel, via __lock_acquire(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Samba-weak-encryption-via-gnutls-rnd-39173" class="noirorange"><b>Samba</b>: weak encryption via gnutls_rnd()</a>](https://vigilance.fr/vulnerability/Samba-weak-encryption-via-gnutls-rnd-39173)|An attacker can access data on Samba, via gnutls_rnd(), in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-i740fb-check-var-39172" class="noirorange"><b>Linux kernel</b>: denial of service via i740fb_check_var()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-i740fb-check-var-39172)|An attacker can cause a fatal error of the Linux kernel, via i740fb_check_var(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-vidtv-s302m-c-39171" class="noirorange"><b>Linux kernel</b>: memory leak via vidtv_s302m.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-vidtv-s302m-c-39171)|An attacker can create a memory leak of the Linux kernel, via vidtv_s302m.c, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Samba-write-access-via-dNSHostName-39170" class="noirorange"><b>Samba</b>: write access via dNSHostName</a>](https://vigilance.fr/vulnerability/Samba-write-access-via-dNSHostName-39170)|An attacker can bypass access restrictions of Samba, via dNSHostName, in order to alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Sofia-SIP-three-vulnerabilities-39169" class="noirorange"><b>Sofia-SIP</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Sofia-SIP-three-vulnerabilities-39169)|An attacker can use several vulnerabilities of Sofia-SIP...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-code-execution-39168" class="noirorange"><b>Microsoft Edge Chromium</b>: code execution</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-code-execution-39168)|An attacker can use a vulnerability of Microsoft Edge Chromium, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-ismt-access-39167" class="noirorange"><b>Linux kernel</b>: buffer overflow via ismt_access()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-ismt-access-39167)|An attacker can trigger a buffer overflow of the Linux kernel, via ismt_access(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-Dm-verity-LoadPin-39166" class="noirorange"><b>Linux kernel</b>: privilege escalation via Dm-verity LoadPin</a>](https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-Dm-verity-LoadPin-39166)|An attacker can bypass restrictions of the Linux kernel, via Dm-verity LoadPin, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ClusterLabs-PCS-privilege-escalation-via-Unix-Socket-39165" class="noirorange"><b>ClusterLabs/PCS</b>: privilege escalation via Unix Socket</a>](https://vigilance.fr/vulnerability/ClusterLabs-PCS-privilege-escalation-via-Unix-Socket-39165)|An attacker can bypass restrictions of ClusterLabs/PCS, via Unix Socket, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Vim-out-of-bounds-memory-reading-via-display-dollar-39164" class="noirorange"><b>Vim</b>: out-of-bounds memory reading via display_dollar()</a>](https://vigilance.fr/vulnerability/Vim-out-of-bounds-memory-reading-via-display-dollar-39164)|An attacker can force a read at an invalid memory address of Vim, via display_dollar(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PowerDNS-Recursor-denial-of-service-via-Protobuf-Logging-Exception-Cleanup-39163" class="noirorange"><b>PowerDNS Recursor</b>: denial of service via Protobuf Logging Exception Cleanup</a>](https://vigilance.fr/vulnerability/PowerDNS-Recursor-denial-of-service-via-Protobuf-Logging-Exception-Cleanup-39163)|An attacker can cause a fatal error of PowerDNS Recursor, via Protobuf Logging Exception Cleanup, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mozilla-Thunderbird-four-vulnerabilities-39162" class="noirorange"><b>Mozilla Thunderbird</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Thunderbird-four-vulnerabilities-39162)|An attacker can use several vulnerabilities of Mozilla Thunderbird...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-pfkey-register-39161" class="noirorange"><b>Linux kernel</b>: denial of service via pfkey_register()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-pfkey-register-39161)|An attacker can cause a fatal error of the Linux kernel, via pfkey_register(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-reuse-after-free-via-TIFFClose-39160" class="noirorange"><b>LibTIFF</b>: reuse after free via TIFFClose()</a>](https://vigilance.fr/vulnerability/LibTIFF-reuse-after-free-via-TIFFClose-39160)|An attacker can force the reuse of a freed memory area of LibTIFF, via TIFFClose(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-assertion-error-via-rotateImage-39159" class="noirorange"><b>LibTIFF</b>: assertion error via rotateImage()</a>](https://vigilance.fr/vulnerability/LibTIFF-assertion-error-via-rotateImage-39159)|An attacker can force an assertion error of LibTIFF, via rotateImage(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GCC-denial-of-service-via-IPA-VRP-Without-IPA-CP-39158" class="noirorange"><b>GCC</b>: denial of service via IPA-VRP Without IPA-CP</a>](https://vigilance.fr/vulnerability/GCC-denial-of-service-via-IPA-VRP-Without-IPA-CP-39158)|An attacker can cause a fatal error of GCC, via IPA-VRP Without IPA-CP, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Horde-Groupware-Webmail-Edition-code-execution-via-Reflection-Injection-39157" class="noirorange"><b>Horde Groupware Webmail Edition</b>: code execution via Reflection Injection</a>](https://vigilance.fr/vulnerability/Horde-Groupware-Webmail-Edition-code-execution-via-Reflection-Injection-39157)|An attacker can use a vulnerability of Horde Groupware Webmail Edition, via Reflection Injection, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/curl-denial-of-service-via-Cookies-Control-Codes-39156" class="noirorange"><b>curl</b>: denial of service via Cookies Control Codes</a>](https://vigilance.fr/vulnerability/curl-denial-of-service-via-Cookies-Control-Codes-39156)|An attacker can cause a fatal error of curl, via Cookies Control Codes, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Grafana-file-reading-via-Image-Renderer-Plugin-39155" class="noirorange"><b>Grafana</b>: file reading via Image Renderer Plugin</a>](https://vigilance.fr/vulnerability/Grafana-file-reading-via-Image-Renderer-Plugin-39155)|An attacker can read a file of Grafana, via Image Renderer Plugin, in order to obtain sensitive information...|Visit link for details|
  
  ---
 
@@ -132,4 +86,21 @@
  |[37932508/22 -Vulnérabilités affectant plusieursproduits deCisco](/fr/content/3793250822-vulnerabilites-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’exécuter des commandes arbitraires, d’...|25 août 2022|
  |[37922508/22 - Vulnérabilités dans les produits Mozilla ](/fr/content/3792250822-vulnerabilites-dans-les-produits-mozilla.html)|Mozilla a corrigé plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance et de contourner la politique de sécurité.|25 août 2022|
  |[37912508/22 - Vulnérabilités dans les produits F-Secure](/fr/content/3791250822-vulnerabilites-dans-les-produits-f-secure.html)|Deux vulnérabilités ont été corrigées dans les produits susmentionnés de F-Secure. L’exploitation de ces failles peut permettre à un attaquant distant de causer un déni de service.|25 août 2022|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[IBM Cognos Analytics Autocomplete information disclosure](https://vuldb.com/?id.207774)|Visit link for details|2022-09-02 at 09:57|
+ |[IBM Cognos Analytics cleartext storage](https://vuldb.com/?id.207773)|Visit link for details|2022-09-02 at 09:56|
+ |[IBM Cognos Analytics XML Data xml external entity reference](https://vuldb.com/?id.207772)|Visit link for details|2022-09-02 at 09:56|
+ |[IBM Cognos Analytics cross-site request forgery](https://vuldb.com/?id.207771)|Visit link for details|2022-09-02 at 09:55|
+ |[IBM Cognos Analytics cross-site request forgery](https://vuldb.com/?id.207770)|Visit link for details|2022-09-02 at 09:55|
+ |[IBM Cognos Analytics cross-site request forgery](https://vuldb.com/?id.207769)|Visit link for details|2022-09-02 at 09:55|
+ |[IBM Cognos Analytics Email Request resource consumption](https://vuldb.com/?id.207768)|Visit link for details|2022-09-02 at 09:55|
+ |[BlueZ avdtp.c denial of service](https://vuldb.com/?id.207767)|Visit link for details|2022-09-02 at 09:54|
+ |[BlueZ avrcp.c params_len information disclosure](https://vuldb.com/?id.207766)|Visit link for details|2022-09-02 at 09:53|
+ |[GNU Binutils ELF dwarf.c display_debug_abbrev infinite loop](https://vuldb.com/?id.207765)|Visit link for details|2022-09-02 at 09:53|
  
