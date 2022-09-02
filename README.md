@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 02/09/2022 09:14:24 UTC
+ > Last Updated 02/09/2022 11:59:43 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,6 +57,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Oxygen-XML-WebHelp-Cross-Site-Scripting-via-Search-Terms-Proposals-39175" class="noirorange"><b>Oxygen XML WebHelp</b>: Cross Site Scripting via Search Terms Proposals</a>](https://vigilance.fr/vulnerability/Oxygen-XML-WebHelp-Cross-Site-Scripting-via-Search-Terms-Proposals-39175)|An attacker can trigger a Cross Site Scripting of Oxygen XML WebHelp, via Search Terms Proposals, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-lock-acquire-39174" class="noirorange"><b>Linux kernel</b>: reuse after free via __lock_acquire()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-lock-acquire-39174)|An attacker can force the reuse of a freed memory area of the Linux kernel, via __lock_acquire(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Samba-weak-encryption-via-gnutls-rnd-39173" class="noirorange"><b>Samba</b>: weak encryption via gnutls_rnd()</a>](https://vigilance.fr/vulnerability/Samba-weak-encryption-via-gnutls-rnd-39173)|An attacker can access data on Samba, via gnutls_rnd(), in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-i740fb-check-var-39172" class="noirorange"><b>Linux kernel</b>: denial of service via i740fb_check_var()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-i740fb-check-var-39172)|An attacker can cause a fatal error of the Linux kernel, via i740fb_check_var(), in order to trigger a denial of service...|Visit link for details|
@@ -67,25 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-ismt-access-39167" class="noirorange"><b>Linux kernel</b>: buffer overflow via ismt_access()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-ismt-access-39167)|An attacker can trigger a buffer overflow of the Linux kernel, via ismt_access(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-Dm-verity-LoadPin-39166" class="noirorange"><b>Linux kernel</b>: privilege escalation via Dm-verity LoadPin</a>](https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-Dm-verity-LoadPin-39166)|An attacker can bypass restrictions of the Linux kernel, via Dm-verity LoadPin, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ClusterLabs-PCS-privilege-escalation-via-Unix-Socket-39165" class="noirorange"><b>ClusterLabs/PCS</b>: privilege escalation via Unix Socket</a>](https://vigilance.fr/vulnerability/ClusterLabs-PCS-privilege-escalation-via-Unix-Socket-39165)|An attacker can bypass restrictions of ClusterLabs/PCS, via Unix Socket, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-out-of-bounds-memory-reading-via-display-dollar-39164" class="noirorange"><b>Vim</b>: out-of-bounds memory reading via display_dollar()</a>](https://vigilance.fr/vulnerability/Vim-out-of-bounds-memory-reading-via-display-dollar-39164)|An attacker can force a read at an invalid memory address of Vim, via display_dollar(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[3801019/22 - Vulnérabilité dans le CMS Joomla](/fr/content/380101922-vulnerabilite-dans-le-cms-joomla.html)|Une vulnérabilité a été corrigée dans le CMS Joomla. L’exploitation de cette faille permet à un attaquant de porter atteinte à la confidentialité de données.|01 septembre 2022|
- |[3800019/22 - Vulnérabilités dans le CMS WordPress](/fr/content/380001922-vulnerabilites-dans-le-cms-wordpress.html)|Plusieurs vulnérabilités ont été corrigées dans le CMS WordPress. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’injecter des requêtes SQL, de porter atteinte à l'intégrité des données et de réussir l’injection...|01 septembre 2022|
- |[3799019/22 - Zero-day corrigés dans les produits Apple](/fr/content/379901922-zero-day-corriges-dans-les-produits-apple.html)|Apple a publié des mises à jour de sécurité corrigeant deux vulnérabilités zero-day activement exploitées affectant les anciens iPhones et iPads. Ces vulnérabilités sont identifiées sous « CVE-2022-32894 et CVE-2022-32893». L'...|01 septembre 2022|
- |[3798318/22 - Vulnérabilités dans Google Chrome](/fr/content/379831822-vulnerabilites-dans-google-chrome.html)|Google a corrigé plusieurs vulnérabilités affectant son navigateur Google Chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du système affecté.|31 août 2022|
- |[3797208/22 - Vulnérabilité critique affectant Atlassian Bitbucket Server et Data Center](/fr/content/379720822-vulnerabilite-critique-affectant-atlassian-bitbucket-server-et-data-center.html)|Atlassian a publié des mises à jour de sécurité pour corriger une vulnérabilité critique d'injection de commande (CVE-2022-36804) dans Bitbucket Server et Data Center. L'exploitation réussie de cette vulnérabilité pourrait...|29 août 2022|
- |[37962608/22 - Vulnérabilités dans SonicWall SMA](/fr/content/3796260822-vulnerabilites-dans-sonicwall-sma.html)|Une vulnérabilité a été corrigée dans SonicWall SMA. L'exploitation de cette faille peut permettre à un attaquant distant d’exécuter des commandes arbitraires, de causer un déni de service ou de porter atteinte à la confidentialité de...|26 août 2022|
- |[37952608/22 - Vulnérabilités dans Sophos UTM](/fr/content/3795260822-vulnerabilites-dans-sophos-utm.html)|Plusieurs vulnérabilités ont été corrigées affectant Sophos UTM. L’exploitation de ces failles peut permettre à un attaquant distant d’exécuter du code arbitraire ou de contourner la politique de sécurité.|26 août 2022|
- |[37942508/22 - Vulnérabilités affectant des produits d’IBM ](/fr/content/3794250822-vulnerabilites-affectant-des-produits-d-ibm.html)|IBM annonce la correction de plusieursvulnérabilités affectant ses produits susmentionnés. L’exploitation de ces failles permet à un attaquant d’exécuter du code arbitraire, de contourner la politique de sécurité, d’accéder à des données...|25 août 2022|
- |[37932508/22 -Vulnérabilités affectant plusieursproduits deCisco](/fr/content/3793250822-vulnerabilites-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’exécuter des commandes arbitraires, d’...|25 août 2022|
- |[37922508/22 - Vulnérabilités dans les produits Mozilla ](/fr/content/3792250822-vulnerabilites-dans-les-produits-mozilla.html)|Mozilla a corrigé plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance et de contourner la politique de sécurité.|25 août 2022|
- |[37912508/22 - Vulnérabilités dans les produits F-Secure](/fr/content/3791250822-vulnerabilites-dans-les-produits-f-secure.html)|Deux vulnérabilités ont été corrigées dans les produits susmentionnés de F-Secure. L’exploitation de ces failles peut permettre à un attaquant distant de causer un déni de service.|25 août 2022|
  
  ---
 
@@ -103,4 +85,22 @@
  |[BlueZ avdtp.c denial of service](https://vuldb.com/?id.207767)|Visit link for details|2022-09-02 at 09:54|
  |[BlueZ avrcp.c params_len information disclosure](https://vuldb.com/?id.207766)|Visit link for details|2022-09-02 at 09:53|
  |[GNU Binutils ELF dwarf.c display_debug_abbrev infinite loop](https://vuldb.com/?id.207765)|Visit link for details|2022-09-02 at 09:53|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[38020209/22 - Vulnérabilités dans Mozilla Thunderbird](https://www.dgssi.gov.ma//fr/content/3802020922-vulnerabilites-dans-mozilla-thunderbird.html)|Mozilla a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Mozilla Thunderbird. Un attaquant pourrait exploiter certaines de ces failles afin de causer un déni de service et de porter atteinte à la...|02 septembre 2022|
+ |[3801019/22 - Vulnérabilité dans le CMS Joomla](https://www.dgssi.gov.ma//fr/content/380101922-vulnerabilite-dans-le-cms-joomla.html)|Une vulnérabilité a été corrigée dans le CMS Joomla. L’exploitation de cette faille permet à un attaquant de porter atteinte à la confidentialité de données.|01 septembre 2022|
+ |[3800019/22 - Vulnérabilités dans le CMS WordPress](https://www.dgssi.gov.ma//fr/content/380001922-vulnerabilites-dans-le-cms-wordpress.html)|Plusieurs vulnérabilités ont été corrigées dans le CMS WordPress. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’injecter des requêtes SQL, de porter atteinte à l'intégrité des données et de réussir l’injection...|01 septembre 2022|
+ |[3799019/22 - Zero-day corrigés dans les produits Apple](https://www.dgssi.gov.ma//fr/content/379901922-zero-day-corriges-dans-les-produits-apple.html)|Apple a publié des mises à jour de sécurité corrigeant deux vulnérabilités zero-day activement exploitées affectant les anciens iPhones et iPads. Ces vulnérabilités sont identifiées sous « CVE-2022-32894 et CVE-2022-32893». L'...|01 septembre 2022|
+ |[3798318/22 - Vulnérabilités dans Google Chrome](https://www.dgssi.gov.ma//fr/content/379831822-vulnerabilites-dans-google-chrome.html)|Google a corrigé plusieurs vulnérabilités affectant son navigateur Google Chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du système affecté.|31 août 2022|
+ |[3797208/22 - Vulnérabilité critique affectant Atlassian Bitbucket Server et Data Center](https://www.dgssi.gov.ma//fr/content/379720822-vulnerabilite-critique-affectant-atlassian-bitbucket-server-et-data-center.html)|Atlassian a publié des mises à jour de sécurité pour corriger une vulnérabilité critique d'injection de commande (CVE-2022-36804) dans Bitbucket Server et Data Center. L'exploitation réussie de cette vulnérabilité pourrait...|29 août 2022|
+ |[37962608/22 - Vulnérabilités dans SonicWall SMA](https://www.dgssi.gov.ma//fr/content/3796260822-vulnerabilites-dans-sonicwall-sma.html)|Une vulnérabilité a été corrigée dans SonicWall SMA. L'exploitation de cette faille peut permettre à un attaquant distant d’exécuter des commandes arbitraires, de causer un déni de service ou de porter atteinte à la confidentialité de...|26 août 2022|
+ |[37952608/22 - Vulnérabilités dans Sophos UTM](https://www.dgssi.gov.ma//fr/content/3795260822-vulnerabilites-dans-sophos-utm.html)|Plusieurs vulnérabilités ont été corrigées affectant Sophos UTM. L’exploitation de ces failles peut permettre à un attaquant distant d’exécuter du code arbitraire ou de contourner la politique de sécurité.|26 août 2022|
+ |[37942508/22 - Vulnérabilités affectant des produits d’IBM ](https://www.dgssi.gov.ma//fr/content/3794250822-vulnerabilites-affectant-des-produits-d-ibm.html)|IBM annonce la correction de plusieursvulnérabilités affectant ses produits susmentionnés. L’exploitation de ces failles permet à un attaquant d’exécuter du code arbitraire, de contourner la politique de sécurité, d’accéder à des données...|25 août 2022|
+ |[37932508/22 -Vulnérabilités affectant plusieursproduits deCisco](https://www.dgssi.gov.ma//fr/content/3793250822-vulnerabilites-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’exécuter des commandes arbitraires, d’...|25 août 2022|
+ |[37922508/22 - Vulnérabilités dans les produits Mozilla ](https://www.dgssi.gov.ma//fr/content/3792250822-vulnerabilites-dans-les-produits-mozilla.html)|Mozilla a corrigé plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance et de contourner la politique de sécurité.|25 août 2022|
  
