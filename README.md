@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 03/09/2022 09:14:46 UTC
+ > Last Updated 03/09/2022 21:12:47 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -40,30 +40,20 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Red Hat Enterprise Linux 7 Extras information disclosure (CVE-2022-2739)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 2, 2022|
+ |[Red Hat Enterprise Linux 7 Extras code execution (CVE-2022-2738)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 2, 2022|
  |[Google Chrome Mojo security bypass (CVE-2022-3075)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 2, 2022|
  |[PowerCMS command execution (CVE-2022-33941)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 2, 2022|
  |[Netroics Blog Posts Grid plugin for WordPress cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 2, 2022|
  |[Apache Airflow information disclosure (CVE-2022-38170)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 2, 2022|
  |[Apache Airflow session hijacking (CVE-2022-38054)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 2, 2022|
- |[Apache OFBiz denial of service (CVE-2022-29158)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 2, 2022|
- |[Apache OFBiz code execution (CVE-2022-29063)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 2, 2022|
  
  ---
 
-## CERT-FR [:arrow_heading_up:](#cyberowl)
+## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-793/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et une exécution de code arbitraire à distance.|Publié le 2 septembre 2022|
- |[Multiples vulnérabilités dans les produits F5](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-792/)|De multiples vulnérabilités ont été découvertes dans les produits F5. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une élévation de privilèges.|Publié le 2 septembre 2022|
- |[Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-791/)|De multiples vulnérabilités ont été corrigées dans |Publié le 2 septembre 2022|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-790/)|De multiples vulnérabilités ont été corrigées dans |Publié le 2 septembre 2022|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-789/)|De multiples vulnérabilités ont été corrigées dans |Publié le 2 septembre 2022|
- |[Vulnérabilité dans Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-788/)|Une vulnérabilité a été découverte dans Nextcloud. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 1 septembre 2022|
- |[Vulnérabilité dans Apple iOS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-787/)|Une vulnérabilité a été découverte dans Apple iOS. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 1 septembre 2022|
- |[Multiples vulnérabilités dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-786/)|De multiples vulnérabilités ont été découvertes dans Mozilla Thunderbird. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 1 septembre 2022|
- |[Multiples vulnérabilités dans IBM Cognos Analytics](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-785/)|De multiples vulnérabilités ont été découvertes dans IBM Cognos Analytics. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 1 septembre 2022|
- |[Multiples vulnérabilités dans Aruba AOS-CX](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-784/)|De multiples vulnérabilités ont été découvertes dans Aruba AOS-CX. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une injection de requêtes illégitimes par rebond (CSRF) et une atteinte à la confidentialité des données.|Publié le 31 août 2022|
  
  ---
 
@@ -85,20 +75,20 @@
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
+## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[Sourcecodehero ERP System Project processlogin.php sql injection](https://vuldb.com/?id.207845)|Visit link for details|2022-09-03 at 08:50|
- |[Databasir HTTP POST Request server-side request forgery](https://vuldb.com/?id.207844)|Visit link for details|2022-09-03 at 08:48|
- |[influxData influxDB improper authentication](https://vuldb.com/?id.207843)|Visit link for details|2022-09-03 at 08:46|
- |[Product Comments cross site scripting](https://vuldb.com/?id.207842)|Visit link for details|2022-09-03 at 08:45|
- |[Expense Management System debit_credit_p sql injection](https://vuldb.com/?id.207841)|Visit link for details|2022-09-03 at 08:44|
- |[Synapse unknown vulnerability](https://vuldb.com/?id.207840)|Visit link for details|2022-09-03 at 08:27|
- |[libvncclient rfbClientCleanup memory leak](https://vuldb.com/?id.207839)|Visit link for details|2022-09-03 at 08:17|
- |[Telos Alliance Omnia MPX Node userDB.json access control](https://vuldb.com/?id.207838)|Visit link for details|2022-09-03 at 07:30|
- |[PKUVCL davs2 header.cc parse_sequence_header buffer overflow](https://vuldb.com/?id.207837)|Visit link for details|2022-09-03 at 07:23|
- |[Grafana Image Renderer information disclosure](https://vuldb.com/?id.207836)|Visit link for details|2022-09-03 at 07:22|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-793/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et une exécution de code arbitraire à distance.|Publié le 2 septembre 2022|
+ |[Multiples vulnérabilités dans les produits F5](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-792/)|De multiples vulnérabilités ont été découvertes dans les produits F5. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une élévation de privilèges.|Publié le 2 septembre 2022|
+ |[Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-791/)|De multiples vulnérabilités ont été corrigées dans |Publié le 2 septembre 2022|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-790/)|De multiples vulnérabilités ont été corrigées dans |Publié le 2 septembre 2022|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-789/)|De multiples vulnérabilités ont été corrigées dans |Publié le 2 septembre 2022|
+ |[Vulnérabilité dans Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-788/)|Une vulnérabilité a été découverte dans Nextcloud. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 1 septembre 2022|
+ |[Vulnérabilité dans Apple iOS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-787/)|Une vulnérabilité a été découverte dans Apple iOS. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 1 septembre 2022|
+ |[Multiples vulnérabilités dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-786/)|De multiples vulnérabilités ont été découvertes dans Mozilla Thunderbird. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 1 septembre 2022|
+ |[Multiples vulnérabilités dans IBM Cognos Analytics](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-785/)|De multiples vulnérabilités ont été découvertes dans IBM Cognos Analytics. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 1 septembre 2022|
+ |[Multiples vulnérabilités dans Aruba AOS-CX](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-784/)|De multiples vulnérabilités ont été découvertes dans Aruba AOS-CX. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une injection de requêtes illégitimes par rebond (CSRF) et une atteinte à la confidentialité des données.|Publié le 31 août 2022|
  
  ---
 
