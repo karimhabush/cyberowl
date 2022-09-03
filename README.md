@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 02/09/2022 21:11:20 UTC
+ > Last Updated 03/09/2022 09:14:46 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -36,6 +36,20 @@
  
  ---
 
+## IBMCLOUD [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Google Chrome Mojo security bypass (CVE-2022-3075)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 2, 2022|
+ |[PowerCMS command execution (CVE-2022-33941)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 2, 2022|
+ |[Netroics Blog Posts Grid plugin for WordPress cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 2, 2022|
+ |[Apache Airflow information disclosure (CVE-2022-38170)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 2, 2022|
+ |[Apache Airflow session hijacking (CVE-2022-38054)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 2, 2022|
+ |[Apache OFBiz denial of service (CVE-2022-29158)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 2, 2022|
+ |[Apache OFBiz code execution (CVE-2022-29063)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 2, 2022|
+ 
+ ---
+
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -50,52 +64,6 @@
  |[Multiples vulnérabilités dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-786/)|De multiples vulnérabilités ont été découvertes dans Mozilla Thunderbird. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 1 septembre 2022|
  |[Multiples vulnérabilités dans IBM Cognos Analytics](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-785/)|De multiples vulnérabilités ont été découvertes dans IBM Cognos Analytics. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 1 septembre 2022|
  |[Multiples vulnérabilités dans Aruba AOS-CX](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-784/)|De multiples vulnérabilités ont été découvertes dans Aruba AOS-CX. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une injection de requêtes illégitimes par rebond (CSRF) et une atteinte à la confidentialité des données.|Publié le 31 août 2022|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[SFTPGo Two-factor Authentication improper authentication](https://vuldb.com/?id.207832)|Visit link for details|2022-09-02 at 22:57|
- |[PublicCMS ueditor server-side request forgery](https://vuldb.com/?id.207831)|Visit link for details|2022-09-02 at 22:55|
- |[Dell Command Update/Update/Alienware Update Custom Catalog Configuration access control](https://vuldb.com/?id.207830)|Visit link for details|2022-09-02 at 22:55|
- |[Dell EMC PowerScale OneFS path traversal](https://vuldb.com/?id.207829)|Visit link for details|2022-09-02 at 22:54|
- |[Dell EMC PowerScale OneFS cleartext transmission](https://vuldb.com/?id.207828)|Visit link for details|2022-09-02 at 22:54|
- |[jgraph drawio access control](https://vuldb.com/?id.207827)|Visit link for details|2022-09-02 at 22:53|
- |[Modsecurity owasp-modsecurity-crs WAF Protection sql injection](https://vuldb.com/?id.207826)|Visit link for details|2022-09-02 at 22:53|
- |[Dell EMC PowerScale OneFS log file](https://vuldb.com/?id.207825)|Visit link for details|2022-09-02 at 22:52|
- |[Qualcomm Snapdragon Auto Multimedia memory corruption](https://vuldb.com/?id.207824)|Visit link for details|2022-09-02 at 17:14|
- |[Qualcomm Snapdragon Auto ASF Clip memory corruption](https://vuldb.com/?id.207823)|Visit link for details|2022-09-02 at 17:14|
- 
- ---
-
-## IBMCLOUD [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Netroics Blog Posts Grid plugin for WordPress cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 2, 2022|
- |[Apache Airflow information disclosure (CVE-2022-38170)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 2, 2022|
- |[Apache Airflow session hijacking (CVE-2022-38054)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 2, 2022|
- |[Apache OFBiz denial of service (CVE-2022-29158)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 2, 2022|
- |[Apache OFBiz code execution (CVE-2022-29063)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 2, 2022|
- |[Apache OFBiz code execution (CVE-2022-25813)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 2, 2022|
- |[Apache OFBiz directory traversal (CVE-2022-25371)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 2, 2022|
- 
- ---
-
-## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[ManageEngine NetFlow Analyzer getDNSResolveOption Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1183/)|Visit link for details|Sept. 1, 2022|
- |[ManageEngine OpManager getNmapInitialOption Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1182/)|Visit link for details|Sept. 1, 2022|
- |[ManageEngine OpManager Plus getNmapInitialOption Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1181/)|Visit link for details|Sept. 1, 2022|
- |[ManageEngine NetFlow Analyzer getNmapInitialOption Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1180/)|Visit link for details|Sept. 1, 2022|
- |[ManageEngine OpManager getDNSResolveOption Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1179/)|Visit link for details|Sept. 1, 2022|
- |[Trend Micro HouseCall Incorrect Permission Assignment Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1178/)|Visit link for details|Aug. 31, 2022|
- |[Trend Micro Maximum Security Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1177/)|Visit link for details|Aug. 31, 2022|
- |[Trend Micro Maximum Security Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1176/)|Visit link for details|Aug. 31, 2022|
  
  ---
 
@@ -117,6 +85,23 @@
  
  ---
 
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Sourcecodehero ERP System Project processlogin.php sql injection](https://vuldb.com/?id.207845)|Visit link for details|2022-09-03 at 08:50|
+ |[Databasir HTTP POST Request server-side request forgery](https://vuldb.com/?id.207844)|Visit link for details|2022-09-03 at 08:48|
+ |[influxData influxDB improper authentication](https://vuldb.com/?id.207843)|Visit link for details|2022-09-03 at 08:46|
+ |[Product Comments cross site scripting](https://vuldb.com/?id.207842)|Visit link for details|2022-09-03 at 08:45|
+ |[Expense Management System debit_credit_p sql injection](https://vuldb.com/?id.207841)|Visit link for details|2022-09-03 at 08:44|
+ |[Synapse unknown vulnerability](https://vuldb.com/?id.207840)|Visit link for details|2022-09-03 at 08:27|
+ |[libvncclient rfbClientCleanup memory leak](https://vuldb.com/?id.207839)|Visit link for details|2022-09-03 at 08:17|
+ |[Telos Alliance Omnia MPX Node userDB.json access control](https://vuldb.com/?id.207838)|Visit link for details|2022-09-03 at 07:30|
+ |[PKUVCL davs2 header.cc parse_sequence_header buffer overflow](https://vuldb.com/?id.207837)|Visit link for details|2022-09-03 at 07:23|
+ |[Grafana Image Renderer information disclosure](https://vuldb.com/?id.207836)|Visit link for details|2022-09-03 at 07:22|
+ 
+ ---
+
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -132,4 +117,19 @@
  |[37942508/22 - Vulnérabilités affectant des produits d’IBM ](https://www.dgssi.gov.ma//fr/content/3794250822-vulnerabilites-affectant-des-produits-d-ibm.html)|IBM annonce la correction de plusieursvulnérabilités affectant ses produits susmentionnés. L’exploitation de ces failles permet à un attaquant d’exécuter du code arbitraire, de contourner la politique de sécurité, d’accéder à des données...|25 août 2022|
  |[37932508/22 -Vulnérabilités affectant plusieursproduits deCisco](https://www.dgssi.gov.ma//fr/content/3793250822-vulnerabilites-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’exécuter des commandes arbitraires, d’...|25 août 2022|
  |[37922508/22 - Vulnérabilités dans les produits Mozilla ](https://www.dgssi.gov.ma//fr/content/3792250822-vulnerabilites-dans-les-produits-mozilla.html)|Mozilla a corrigé plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance et de contourner la politique de sécurité.|25 août 2022|
+ 
+ ---
+
+## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ManageEngine NetFlow Analyzer getDNSResolveOption Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1183/)|Visit link for details|Sept. 1, 2022|
+ |[ManageEngine OpManager getNmapInitialOption Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1182/)|Visit link for details|Sept. 1, 2022|
+ |[ManageEngine OpManager Plus getNmapInitialOption Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1181/)|Visit link for details|Sept. 1, 2022|
+ |[ManageEngine NetFlow Analyzer getNmapInitialOption Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1180/)|Visit link for details|Sept. 1, 2022|
+ |[ManageEngine OpManager getDNSResolveOption Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1179/)|Visit link for details|Sept. 1, 2022|
+ |[Trend Micro HouseCall Incorrect Permission Assignment Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1178/)|Visit link for details|Aug. 31, 2022|
+ |[Trend Micro Maximum Security Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1177/)|Visit link for details|Aug. 31, 2022|
+ |[Trend Micro Maximum Security Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1176/)|Visit link for details|Aug. 31, 2022|
  
