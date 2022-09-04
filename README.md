@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 03/09/2022 21:12:47 UTC
+ > Last Updated 04/09/2022 09:14:17 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -36,6 +36,23 @@
  
  ---
 
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[vim use after free](https://vuldb.com/?id.207846)|Visit link for details|2022-09-04 at 21:15|
+ |[Sourcecodehero ERP System Project processlogin.php sql injection](https://vuldb.com/?id.207845)|Visit link for details|2022-09-04 at 08:50|
+ |[Databasir HTTP POST Request server-side request forgery](https://vuldb.com/?id.207844)|Visit link for details|2022-09-04 at 08:48|
+ |[influxData influxDB improper authentication](https://vuldb.com/?id.207843)|Visit link for details|2022-09-04 at 08:46|
+ |[Product Comments cross site scripting](https://vuldb.com/?id.207842)|Visit link for details|2022-09-04 at 08:45|
+ |[Expense Management System debit_credit_p sql injection](https://vuldb.com/?id.207841)|Visit link for details|2022-09-04 at 08:44|
+ |[Synapse unknown vulnerability](https://vuldb.com/?id.207840)|Visit link for details|2022-09-04 at 08:27|
+ |[libvncclient rfbClientCleanup memory leak](https://vuldb.com/?id.207839)|Visit link for details|2022-09-04 at 08:17|
+ |[Telos Alliance Omnia MPX Node userDB.json access control](https://vuldb.com/?id.207838)|Visit link for details|2022-09-04 at 07:30|
+ |[PKUVCL davs2 header.cc parse_sequence_header buffer overflow](https://vuldb.com/?id.207837)|Visit link for details|2022-09-04 at 07:23|
+ 
+ ---
+
 ## IBMCLOUD [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -47,13 +64,6 @@
  |[Netroics Blog Posts Grid plugin for WordPress cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 2, 2022|
  |[Apache Airflow information disclosure (CVE-2022-38170)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 2, 2022|
  |[Apache Airflow session hijacking (CVE-2022-38054)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 2, 2022|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
