@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 05/09/2022 09:13:37 UTC
+ > Last Updated 05/09/2022 21:10:58 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -40,16 +40,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Vulnérabilité dans les produits WithSecure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-797/)|Une vulnérabilité a été découverte dans les produits WithSecure. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 5 septembre 2022|
+ |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-796/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 5 septembre 2022|
+ |[Vulnérabilité dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-795/)|Une vulnérabilité a été corrigée dans |Publié le 5 septembre 2022|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-794/)|De multiples vulnérabilités ont été corrigées dans |Publié le 5 septembre 2022|
  |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-793/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et une exécution de code arbitraire à distance.|Publié le 2 septembre 2022|
  |[Multiples vulnérabilités dans les produits F5](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-792/)|De multiples vulnérabilités ont été découvertes dans les produits F5. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une élévation de privilèges.|Publié le 2 septembre 2022|
  |[Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-791/)|De multiples vulnérabilités ont été corrigées dans |Publié le 2 septembre 2022|
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-790/)|De multiples vulnérabilités ont été corrigées dans |Publié le 2 septembre 2022|
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-789/)|De multiples vulnérabilités ont été corrigées dans |Publié le 2 septembre 2022|
  |[Vulnérabilité dans Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-788/)|Une vulnérabilité a été découverte dans Nextcloud. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 1 septembre 2022|
- |[Vulnérabilité dans Apple iOS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-787/)|Une vulnérabilité a été découverte dans Apple iOS. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 1 septembre 2022|
- |[Multiples vulnérabilités dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-786/)|De multiples vulnérabilités ont été découvertes dans Mozilla Thunderbird. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 1 septembre 2022|
- |[Multiples vulnérabilités dans IBM Cognos Analytics](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-785/)|De multiples vulnérabilités ont été découvertes dans IBM Cognos Analytics. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 1 septembre 2022|
- |[Multiples vulnérabilités dans Aruba AOS-CX](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-784/)|De multiples vulnérabilités ont été découvertes dans Aruba AOS-CX. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une injection de requêtes illégitimes par rebond (CSRF) et une atteinte à la confidentialité des données.|Publié le 31 août 2022|
  
  ---
 
@@ -57,6 +57,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/QtWebEngine-vulnerability-39189" class="noirorange"><b>QtWebEngine</b>: vulnerability</a>](https://vigilance.fr/vulnerability/QtWebEngine-vulnerability-39189)|A vulnerability of QtWebEngine was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Python-Core-overload-via-Large-Integer-Conversion-39188" class="noirorange"><b>Python Core</b>: overload via Large Integer Conversion</a>](https://vigilance.fr/vulnerability/Python-Core-overload-via-Large-Integer-Conversion-39188)|An attacker can trigger an overload of Python Core, via Large Integer Conversion, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-overload-via-aerdl-dll-39187" class="noirorange"><b>WithSecure Endpoint Protection</b>: overload via aerdl.dll</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-overload-via-aerdl-dll-39187)|An attacker can trigger an overload of WithSecure Endpoint Protection, via aerdl.dll, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-nft-verdict-init-39186" class="noirorange"><b>Linux kernel</b>: denial of service via nft_verdict_init()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-nft-verdict-init-39186)|An attacker can cause a fatal error of the Linux kernel, via nft_verdict_init(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-code-execution-via-Mojo-39185" class="noirorange"><b>Chrome</b>: code execution via Mojo</a>](https://vigilance.fr/vulnerability/Chrome-code-execution-via-Mojo-39185)|An attacker can use a vulnerability of Chrome, via Mojo, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libmodbus-buffer-overflow-via-modbus-reply-39184" class="noirorange"><b>libmodbus</b>: buffer overflow via modbus_reply()</a>](https://vigilance.fr/vulnerability/libmodbus-buffer-overflow-via-modbus-reply-39184)|An attacker can trigger a buffer overflow of libmodbus, via modbus_reply(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
@@ -65,9 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Rails-code-execution-via-Active-Storage-39181" class="noirorange"><b>Rails</b>: code execution via Active Storage</a>](https://vigilance.fr/vulnerability/Rails-code-execution-via-Active-Storage-39181)|An attacker can use a vulnerability of Rails, via Active Storage, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-qf-buf-add-line-39180" class="noirorange"><b>Vim</b>: reuse after free via qf_buf_add_line()</a>](https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-qf-buf-add-line-39180)|An attacker can force the reuse of a freed memory area of Vim, via qf_buf_add_line(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Tcpreplay-three-vulnerabilities-39179" class="noirorange"><b>Tcpreplay</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Tcpreplay-three-vulnerabilities-39179)|An attacker can use several vulnerabilities of Tcpreplay...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Tcpreplay-memory-leak-via-fix-ipv6-checksums-39178" class="noirorange"><b>Tcpreplay</b>: memory leak via <wbr>fix_ipv6_checksums()</wbr></a>](https://vigilance.fr/vulnerability/Tcpreplay-memory-leak-via-fix-ipv6-checksums-39178)|An attacker can create a memory leak of Tcpreplay, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Tcpreplay-four-vulnerabilities-39177" class="noirorange"><b>Tcpreplay</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Tcpreplay-four-vulnerabilities-39177)|An attacker can use several vulnerabilities of Tcpreplay...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libtar-four-vulnerabilities-39176" class="noirorange"><b>libtar</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/libtar-four-vulnerabilities-39176)|An attacker can use several vulnerabilities of libtar...|Visit link for details|
  
  ---
 
@@ -75,6 +75,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[38040509/22 - Vulnérabilitédans Microsoft Edge Chromium-based](https://www.dgssi.gov.ma//fr/content/3804050922-vulnerabilite-dans-microsoft-edge-chromium-based.html)|Une vulnérabilité critique a été corrigée dans Microsoft Edge (Chromium-based). L’exploitation de cette faille permet à un attaquant de prendre le contrôle du système affecté.Google confirme quela vulnérabilité CVE-2022-3075 est...|05 septembre 2022|
+ |[38030509/22 - Exploitation active d'une vulnérabilité de haute gravité dans Google Chrome](https://www.dgssi.gov.ma//fr/content/3803050922-exploitation-active-d-une-vulnerabilite-de-haute-gravite-dans-google-chrome.html)|Google a publié Chrome 105.0.5195.102 pour Windows, Mac et Linux afin de corriger une vulnérabilité de haute gravité (CVE-2022-3075) qui est activement exploitée.Les utilisateurs de Google Chrome sous Windows, Mac et Linux sont invités à...|05 septembre 2022|
  |[38020209/22 - Vulnérabilités dans Mozilla Thunderbird](https://www.dgssi.gov.ma//fr/content/3802020922-vulnerabilites-dans-mozilla-thunderbird.html)|Mozilla a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Mozilla Thunderbird. Un attaquant pourrait exploiter certaines de ces failles afin de causer un déni de service et de porter atteinte à la...|02 septembre 2022|
  |[3801019/22 - Vulnérabilité dans le CMS Joomla](https://www.dgssi.gov.ma//fr/content/380101922-vulnerabilite-dans-le-cms-joomla.html)|Une vulnérabilité a été corrigée dans le CMS Joomla. L’exploitation de cette faille permet à un attaquant de porter atteinte à la confidentialité de données.|01 septembre 2022|
  |[3800019/22 - Vulnérabilités dans le CMS WordPress](https://www.dgssi.gov.ma//fr/content/380001922-vulnerabilites-dans-le-cms-wordpress.html)|Plusieurs vulnérabilités ont été corrigées dans le CMS WordPress. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’injecter des requêtes SQL, de porter atteinte à l'intégrité des données et de réussir l’injection...|01 septembre 2022|
@@ -84,8 +86,6 @@
  |[37962608/22 - Vulnérabilités dans SonicWall SMA](https://www.dgssi.gov.ma//fr/content/3796260822-vulnerabilites-dans-sonicwall-sma.html)|Une vulnérabilité a été corrigée dans SonicWall SMA. L'exploitation de cette faille peut permettre à un attaquant distant d’exécuter des commandes arbitraires, de causer un déni de service ou de porter atteinte à la confidentialité de...|26 août 2022|
  |[37952608/22 - Vulnérabilités dans Sophos UTM](https://www.dgssi.gov.ma//fr/content/3795260822-vulnerabilites-dans-sophos-utm.html)|Plusieurs vulnérabilités ont été corrigées affectant Sophos UTM. L’exploitation de ces failles peut permettre à un attaquant distant d’exécuter du code arbitraire ou de contourner la politique de sécurité.|26 août 2022|
  |[37942508/22 - Vulnérabilités affectant des produits d’IBM ](https://www.dgssi.gov.ma//fr/content/3794250822-vulnerabilites-affectant-des-produits-d-ibm.html)|IBM annonce la correction de plusieursvulnérabilités affectant ses produits susmentionnés. L’exploitation de ces failles permet à un attaquant d’exécuter du code arbitraire, de contourner la politique de sécurité, d’accéder à des données...|25 août 2022|
- |[37932508/22 -Vulnérabilités affectant plusieursproduits deCisco](https://www.dgssi.gov.ma//fr/content/3793250822-vulnerabilites-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’exécuter des commandes arbitraires, d’...|25 août 2022|
- |[37922508/22 - Vulnérabilités dans les produits Mozilla ](https://www.dgssi.gov.ma//fr/content/3792250822-vulnerabilites-dans-les-produits-mozilla.html)|Mozilla a corrigé plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance et de contourner la politique de sécurité.|25 août 2022|
  
  ---
 
@@ -93,14 +93,14 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[SourceCodester Clinics Patient Management System medicine_details.php sql injection](https://vuldb.com/?id.207854)|Visit link for details|2022-09-05 at 08:52|
- |[SourceCodester Online Employee Leave Management System addemployee.php cross-site request forgery](https://vuldb.com/?id.207853)|Visit link for details|2022-09-05 at 08:48|
- |[Samsung mTower sign_pFwInfo denial of service](https://vuldb.com/?id.207852)|Visit link for details|2022-09-05 at 08:41|
- |[Samsung mTower aes256_encrypt null pointer dereference](https://vuldb.com/?id.207851)|Visit link for details|2022-09-05 at 08:37|
- |[Samsung mTower sign_pFwInfo denial of service](https://vuldb.com/?id.207850)|Visit link for details|2022-09-05 at 08:37|
- |[BlackBoard Learn access control](https://vuldb.com/?id.207849)|Visit link for details|2022-09-05 at 08:31|
- |[Appsmith List Widget cross site scripting](https://vuldb.com/?id.207848)|Visit link for details|2022-09-05 at 07:47|
- |[SourceCodester Clinics Patient Management System Login index.php sql injection](https://vuldb.com/?id.207847)|Visit link for details|2022-09-05 at 16:47|
- |[vim use after free](https://vuldb.com/?id.207846)|Visit link for details|2022-09-05 at 21:15|
- |[Sourcecodehero ERP System Project processlogin.php sql injection](https://vuldb.com/?id.207845)|Visit link for details|2022-09-05 at 08:50|
+ |[Multivendor Marketplace Solution for WooCommerce Order Status cross-site request forgery](https://vuldb.com/?id.207874)|Visit link for details|2022-09-05 at 17:07|
+ |[codeprojects Online Driving School login.php sql injection](https://vuldb.com/?id.207873)|Visit link for details|2022-09-05 at 15:51|
+ |[codeprojects Online Driving School registration.php unrestricted upload](https://vuldb.com/?id.207872)|Visit link for details|2022-09-05 at 15:41|
+ |[DokuWiki cross site scripting](https://vuldb.com/?id.207871)|Visit link for details|2022-09-05 at 15:36|
+ |[SnakeYAML YAML File Parser stack-based overflow](https://vuldb.com/?id.207870)|Visit link for details|2022-09-05 at 15:32|
+ |[SnakeYAML YAML File Parser stack-based overflow](https://vuldb.com/?id.207869)|Visit link for details|2022-09-05 at 15:29|
+ |[SnakeYAML YAML File Parser stack-based overflow](https://vuldb.com/?id.207868)|Visit link for details|2022-09-05 at 15:21|
+ |[SnakeYAML YAML File Parser stack-based overflow](https://vuldb.com/?id.207867)|Visit link for details|2022-09-05 at 14:40|
+ |[Apache IoTDB grafana-connector improper authorization](https://vuldb.com/?id.207866)|Visit link for details|2022-09-05 at 14:36|
+ |[Apache IoTDB Session Privilege Escalation](https://vuldb.com/?id.207865)|Visit link for details|2022-09-05 at 14:35|
  
