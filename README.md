@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 05/09/2022 21:10:58 UTC
+ > Last Updated 06/09/2022 09:13:28 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,17 +57,24 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-pxa3xx-gcu-write-39194" class="noirorange"><b>Linux kernel</b>: integer overflow via pxa3xx_gcu_write()</a>](https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-pxa3xx-gcu-write-39194)|An attacker can trigger an integer overflow of the Linux kernel, via pxa3xx_gcu_write(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OTRS-code-execution-via-Template-Toolkit-Perl-Code-39193" class="noirorange"><b>OTRS</b>: code execution via Template Toolkit Perl Code</a>](https://vigilance.fr/vulnerability/OTRS-code-execution-via-Template-Toolkit-Perl-Code-39193)|An attacker can use a vulnerability of OTRS, via Template Toolkit Perl Code, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OTRS-Cross-Site-Scripting-via-Customer-Information-39192" class="noirorange"><b>OTRS</b>: Cross Site Scripting via Customer Information</a>](https://vigilance.fr/vulnerability/OTRS-Cross-Site-Scripting-via-Customer-Information-39192)|An attacker can trigger a Cross Site Scripting of OTRS, via Customer Information, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OTRS-Cross-Site-Scripting-via-Admin-Interface-39191" class="noirorange"><b>OTRS</b>: Cross Site Scripting via Admin Interface</a>](https://vigilance.fr/vulnerability/OTRS-Cross-Site-Scripting-via-Admin-Interface-39191)|An attacker can trigger a Cross Site Scripting of OTRS, via Admin Interface, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/389-ds-denial-of-service-via-Malformed-Cookie-39190" class="noirorange"><b>389-ds</b>: denial of service via Malformed Cookie</a>](https://vigilance.fr/vulnerability/389-ds-denial-of-service-via-Malformed-Cookie-39190)|An attacker can cause a fatal error of 389-ds, via Malformed Cookie, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/QtWebEngine-vulnerability-39189" class="noirorange"><b>QtWebEngine</b>: vulnerability</a>](https://vigilance.fr/vulnerability/QtWebEngine-vulnerability-39189)|A vulnerability of QtWebEngine was announced...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Python-Core-overload-via-Large-Integer-Conversion-39188" class="noirorange"><b>Python Core</b>: overload via Large Integer Conversion</a>](https://vigilance.fr/vulnerability/Python-Core-overload-via-Large-Integer-Conversion-39188)|An attacker can trigger an overload of Python Core, via Large Integer Conversion, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-overload-via-aerdl-dll-39187" class="noirorange"><b>WithSecure Endpoint Protection</b>: overload via aerdl.dll</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-overload-via-aerdl-dll-39187)|An attacker can trigger an overload of WithSecure Endpoint Protection, via aerdl.dll, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-nft-verdict-init-39186" class="noirorange"><b>Linux kernel</b>: denial of service via nft_verdict_init()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-nft-verdict-init-39186)|An attacker can cause a fatal error of the Linux kernel, via nft_verdict_init(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-code-execution-via-Mojo-39185" class="noirorange"><b>Chrome</b>: code execution via Mojo</a>](https://vigilance.fr/vulnerability/Chrome-code-execution-via-Mojo-39185)|An attacker can use a vulnerability of Chrome, via Mojo, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libmodbus-buffer-overflow-via-modbus-reply-39184" class="noirorange"><b>libmodbus</b>: buffer overflow via modbus_reply()</a>](https://vigilance.fr/vulnerability/libmodbus-buffer-overflow-via-modbus-reply-39184)|An attacker can trigger a buffer overflow of libmodbus, via modbus_reply(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GhostScript-buffer-overflow-via-lp8000-print-page-39183" class="noirorange"><b>GhostScript</b>: buffer overflow via lp8000_print_page()</a>](https://vigilance.fr/vulnerability/GhostScript-buffer-overflow-via-lp8000-print-page-39183)|An attacker can trigger a buffer overflow of GhostScript, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Rails-code-execution-via-YAML-Serialized-Columns-39182" class="noirorange"><b>Rails</b>: code execution via YAML Serialized Columns</a>](https://vigilance.fr/vulnerability/Rails-code-execution-via-YAML-Serialized-Columns-39182)|An attacker can use a vulnerability of Rails, via YAML Serialized Columns, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Rails-code-execution-via-Active-Storage-39181" class="noirorange"><b>Rails</b>: code execution via Active Storage</a>](https://vigilance.fr/vulnerability/Rails-code-execution-via-Active-Storage-39181)|An attacker can use a vulnerability of Rails, via Active Storage, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-qf-buf-add-line-39180" class="noirorange"><b>Vim</b>: reuse after free via qf_buf_add_line()</a>](https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-qf-buf-add-line-39180)|An attacker can force the reuse of a freed memory area of Vim, via qf_buf_add_line(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Tcpreplay-three-vulnerabilities-39179" class="noirorange"><b>Tcpreplay</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Tcpreplay-three-vulnerabilities-39179)|An attacker can use several vulnerabilities of Tcpreplay...|Visit link for details|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
@@ -75,6 +82,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[38050609/22 - Compagne d’attaques par le ransomware « DeadBolt » cible les NAS QNAP](https://www.dgssi.gov.ma//fr/content/3805060922-compagne-d-attaques-par-le-ransomware-deadbolt-cible-les-nas-qnap.html)|Une nouvelle vague d’attaques de ransomware « DeadBolt » exploitant une faille zero-day cible les périphériques de stockage en réseau (NAS) exécutant les versions susmentionnées de Station photo.A cet effet, QNAP a publié un avis de...|06 septembre 2022|
  |[38040509/22 - Vulnérabilitédans Microsoft Edge Chromium-based](https://www.dgssi.gov.ma//fr/content/3804050922-vulnerabilite-dans-microsoft-edge-chromium-based.html)|Une vulnérabilité critique a été corrigée dans Microsoft Edge (Chromium-based). L’exploitation de cette faille permet à un attaquant de prendre le contrôle du système affecté.Google confirme quela vulnérabilité CVE-2022-3075 est...|05 septembre 2022|
  |[38030509/22 - Exploitation active d'une vulnérabilité de haute gravité dans Google Chrome](https://www.dgssi.gov.ma//fr/content/3803050922-exploitation-active-d-une-vulnerabilite-de-haute-gravite-dans-google-chrome.html)|Google a publié Chrome 105.0.5195.102 pour Windows, Mac et Linux afin de corriger une vulnérabilité de haute gravité (CVE-2022-3075) qui est activement exploitée.Les utilisateurs de Google Chrome sous Windows, Mac et Linux sont invités à...|05 septembre 2022|
  |[38020209/22 - Vulnérabilités dans Mozilla Thunderbird](https://www.dgssi.gov.ma//fr/content/3802020922-vulnerabilites-dans-mozilla-thunderbird.html)|Mozilla a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Mozilla Thunderbird. Un attaquant pourrait exploiter certaines de ces failles afin de causer un déni de service et de porter atteinte à la...|02 septembre 2022|
@@ -85,22 +93,4 @@
  |[3797208/22 - Vulnérabilité critique affectant Atlassian Bitbucket Server et Data Center](https://www.dgssi.gov.ma//fr/content/379720822-vulnerabilite-critique-affectant-atlassian-bitbucket-server-et-data-center.html)|Atlassian a publié des mises à jour de sécurité pour corriger une vulnérabilité critique d'injection de commande (CVE-2022-36804) dans Bitbucket Server et Data Center. L'exploitation réussie de cette vulnérabilité pourrait...|29 août 2022|
  |[37962608/22 - Vulnérabilités dans SonicWall SMA](https://www.dgssi.gov.ma//fr/content/3796260822-vulnerabilites-dans-sonicwall-sma.html)|Une vulnérabilité a été corrigée dans SonicWall SMA. L'exploitation de cette faille peut permettre à un attaquant distant d’exécuter des commandes arbitraires, de causer un déni de service ou de porter atteinte à la confidentialité de...|26 août 2022|
  |[37952608/22 - Vulnérabilités dans Sophos UTM](https://www.dgssi.gov.ma//fr/content/3795260822-vulnerabilites-dans-sophos-utm.html)|Plusieurs vulnérabilités ont été corrigées affectant Sophos UTM. L’exploitation de ces failles peut permettre à un attaquant distant d’exécuter du code arbitraire ou de contourner la politique de sécurité.|26 août 2022|
- |[37942508/22 - Vulnérabilités affectant des produits d’IBM ](https://www.dgssi.gov.ma//fr/content/3794250822-vulnerabilites-affectant-des-produits-d-ibm.html)|IBM annonce la correction de plusieursvulnérabilités affectant ses produits susmentionnés. L’exploitation de ces failles permet à un attaquant d’exécuter du code arbitraire, de contourner la politique de sécurité, d’accéder à des données...|25 août 2022|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Multivendor Marketplace Solution for WooCommerce Order Status cross-site request forgery](https://vuldb.com/?id.207874)|Visit link for details|2022-09-05 at 17:07|
- |[codeprojects Online Driving School login.php sql injection](https://vuldb.com/?id.207873)|Visit link for details|2022-09-05 at 15:51|
- |[codeprojects Online Driving School registration.php unrestricted upload](https://vuldb.com/?id.207872)|Visit link for details|2022-09-05 at 15:41|
- |[DokuWiki cross site scripting](https://vuldb.com/?id.207871)|Visit link for details|2022-09-05 at 15:36|
- |[SnakeYAML YAML File Parser stack-based overflow](https://vuldb.com/?id.207870)|Visit link for details|2022-09-05 at 15:32|
- |[SnakeYAML YAML File Parser stack-based overflow](https://vuldb.com/?id.207869)|Visit link for details|2022-09-05 at 15:29|
- |[SnakeYAML YAML File Parser stack-based overflow](https://vuldb.com/?id.207868)|Visit link for details|2022-09-05 at 15:21|
- |[SnakeYAML YAML File Parser stack-based overflow](https://vuldb.com/?id.207867)|Visit link for details|2022-09-05 at 14:40|
- |[Apache IoTDB grafana-connector improper authorization](https://vuldb.com/?id.207866)|Visit link for details|2022-09-05 at 14:36|
- |[Apache IoTDB Session Privilege Escalation](https://vuldb.com/?id.207865)|Visit link for details|2022-09-05 at 14:35|
  
