@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 06/09/2022 09:13:28 UTC
+ > Last Updated 06/09/2022 21:11:23 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -27,54 +27,12 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/uscert/ncas/current-activity/2022/09/06/cisa-releases-five-industrial-control-systems-advisories)|<p>CISA has released five Industrial Control Systems (ICS) advisories on September 06, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p>|Tuesday, September 6, 2022|
+ |[#StopRansomware: Vice Society ](https://www.cisa.gov/uscert/ncas/current-activity/2022/09/06/stopransomware-vice-society)|<p>CISA, the Federal Bureau of Investigation (FBI), and the Multi-State Information Sharing and Analysis Center (MS-ISAC) have released a joint Cybersecurity Advisory (CSA), <a href="https://www.us-cert.gov/ncas/alerts/aa22-249a">#StopRansomware: Vice Society</a>, to disseminate tactics, techniques, and procedures (TTPs) and indicators of compromise (IOCs) associated with Vice Society actors identified through FBI investigations as recently as September 2022.</p>|Tuesday, September 6, 2022|
  |[Mozilla Releases Security Update for Thunderbird](https://www.cisa.gov/uscert/ncas/current-activity/2022/09/02/mozilla-releases-security-update-thunderbird)|<p>Mozilla has released security update to address a vulnerability in Thunderbird. An attacker could exploit this vulnerability to take control of an affected system.</p>|Friday, September 2, 2022|
  |[CISA, NSA, and ODNI Release Part One of Guidance on Securing the Software Supply Chain](https://www.cisa.gov/uscert/ncas/current-activity/2022/09/02/cisa-nsa-and-odni-release-part-one-guidance-securing-software)|<p>CISA, the National Security Agency (NSA), and the Office of the Director of National Intelligence (ODNI), have published part one of a three-part joint publication series, <a href="/sites/default/files/publications/ESF_SECURING_THE_SOFTWARE_SUPPLY_CHAIN_DEVELOPERS.PDF">Securing Software Supply Chain Series - Recommended Practices for Developers</a>.</p>|Friday, September 2, 2022|
  |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/uscert/ncas/current-activity/2022/09/01/apple-releases-security-updates-multiple-products)|<p>Apple has released security updates to address a vulnerability (CVE-2022-32893) in iPhone 5s, iPhone 6, iPhone 6 Plus, iPad Air, iPad mini 2, iPad mini 3, and iPod touch (6th generation). Exploitation of this vulnerability could allow an attacker to take control of affected device.</p>|Thursday, September 1, 2022|
  |[CISA releases two Industrial Control Systems Advisories](https://www.cisa.gov/uscert/ncas/current-activity/2022/08/31/cisa-releases-two-industrial-control-systems-advisories)|<p>CISA has released two Industrial Control Systems (ICS) advisories on September 01, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. </p>|Wednesday, August 31, 2022|
- |[CISA Releases 12 Industrial Control Systems Advisories](https://www.cisa.gov/uscert/ncas/current-activity/2022/08/29/cisa-releases-12-industrial-control-systems-advisories)|<p>CISA has released 12 Industrial Control Systems (ICS) advisories on August 30, 2022. These advisories provides timely information about current security issues, vulnerabilities, and exploits surrounding ICS.  </p>|Monday, August 29, 2022|
- |[Cisco Releases Security Updates for Multiple Products](https://www.cisa.gov/uscert/ncas/current-activity/2022/08/25/cisco-releases-security-updates-multiple-products)|<p>Cisco has released security updates for vulnerabilities affecting ACI Multi-Site Orchestrator, FXOS, and NX-OS software. A remote attacker could exploit some of these vulnerabilities to take control of an affected system. For updates addressing lower severity vulnerabilities, see the <a href="https://tools.cisco.com/security/center/publicationListing.x">Cisco Security Advisories page</a>.</p>|Thursday, August 25, 2022|
- 
- ---
-
-## CERT-FR [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Vulnérabilité dans les produits WithSecure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-797/)|Une vulnérabilité a été découverte dans les produits WithSecure. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 5 septembre 2022|
- |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-796/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 5 septembre 2022|
- |[Vulnérabilité dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-795/)|Une vulnérabilité a été corrigée dans |Publié le 5 septembre 2022|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-794/)|De multiples vulnérabilités ont été corrigées dans |Publié le 5 septembre 2022|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-793/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et une exécution de code arbitraire à distance.|Publié le 2 septembre 2022|
- |[Multiples vulnérabilités dans les produits F5](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-792/)|De multiples vulnérabilités ont été découvertes dans les produits F5. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une élévation de privilèges.|Publié le 2 septembre 2022|
- |[Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-791/)|De multiples vulnérabilités ont été corrigées dans |Publié le 2 septembre 2022|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-790/)|De multiples vulnérabilités ont été corrigées dans |Publié le 2 septembre 2022|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-789/)|De multiples vulnérabilités ont été corrigées dans |Publié le 2 septembre 2022|
- |[Vulnérabilité dans Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-788/)|Une vulnérabilité a été découverte dans Nextcloud. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 1 septembre 2022|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-pxa3xx-gcu-write-39194" class="noirorange"><b>Linux kernel</b>: integer overflow via pxa3xx_gcu_write()</a>](https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-pxa3xx-gcu-write-39194)|An attacker can trigger an integer overflow of the Linux kernel, via pxa3xx_gcu_write(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OTRS-code-execution-via-Template-Toolkit-Perl-Code-39193" class="noirorange"><b>OTRS</b>: code execution via Template Toolkit Perl Code</a>](https://vigilance.fr/vulnerability/OTRS-code-execution-via-Template-Toolkit-Perl-Code-39193)|An attacker can use a vulnerability of OTRS, via Template Toolkit Perl Code, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OTRS-Cross-Site-Scripting-via-Customer-Information-39192" class="noirorange"><b>OTRS</b>: Cross Site Scripting via Customer Information</a>](https://vigilance.fr/vulnerability/OTRS-Cross-Site-Scripting-via-Customer-Information-39192)|An attacker can trigger a Cross Site Scripting of OTRS, via Customer Information, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OTRS-Cross-Site-Scripting-via-Admin-Interface-39191" class="noirorange"><b>OTRS</b>: Cross Site Scripting via Admin Interface</a>](https://vigilance.fr/vulnerability/OTRS-Cross-Site-Scripting-via-Admin-Interface-39191)|An attacker can trigger a Cross Site Scripting of OTRS, via Admin Interface, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/389-ds-denial-of-service-via-Malformed-Cookie-39190" class="noirorange"><b>389-ds</b>: denial of service via Malformed Cookie</a>](https://vigilance.fr/vulnerability/389-ds-denial-of-service-via-Malformed-Cookie-39190)|An attacker can cause a fatal error of 389-ds, via Malformed Cookie, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/QtWebEngine-vulnerability-39189" class="noirorange"><b>QtWebEngine</b>: vulnerability</a>](https://vigilance.fr/vulnerability/QtWebEngine-vulnerability-39189)|A vulnerability of QtWebEngine was announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Python-Core-overload-via-Large-Integer-Conversion-39188" class="noirorange"><b>Python Core</b>: overload via Large Integer Conversion</a>](https://vigilance.fr/vulnerability/Python-Core-overload-via-Large-Integer-Conversion-39188)|An attacker can trigger an overload of Python Core, via Large Integer Conversion, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-overload-via-aerdl-dll-39187" class="noirorange"><b>WithSecure Endpoint Protection</b>: overload via aerdl.dll</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-overload-via-aerdl-dll-39187)|An attacker can trigger an overload of WithSecure Endpoint Protection, via aerdl.dll, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-nft-verdict-init-39186" class="noirorange"><b>Linux kernel</b>: denial of service via nft_verdict_init()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-nft-verdict-init-39186)|An attacker can cause a fatal error of the Linux kernel, via nft_verdict_init(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-code-execution-via-Mojo-39185" class="noirorange"><b>Chrome</b>: code execution via Mojo</a>](https://vigilance.fr/vulnerability/Chrome-code-execution-via-Mojo-39185)|An attacker can use a vulnerability of Chrome, via Mojo, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libmodbus-buffer-overflow-via-modbus-reply-39184" class="noirorange"><b>libmodbus</b>: buffer overflow via modbus_reply()</a>](https://vigilance.fr/vulnerability/libmodbus-buffer-overflow-via-modbus-reply-39184)|An attacker can trigger a buffer overflow of libmodbus, via modbus_reply(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
@@ -93,4 +51,56 @@
  |[3797208/22 - Vulnérabilité critique affectant Atlassian Bitbucket Server et Data Center](https://www.dgssi.gov.ma//fr/content/379720822-vulnerabilite-critique-affectant-atlassian-bitbucket-server-et-data-center.html)|Atlassian a publié des mises à jour de sécurité pour corriger une vulnérabilité critique d'injection de commande (CVE-2022-36804) dans Bitbucket Server et Data Center. L'exploitation réussie de cette vulnérabilité pourrait...|29 août 2022|
  |[37962608/22 - Vulnérabilités dans SonicWall SMA](https://www.dgssi.gov.ma//fr/content/3796260822-vulnerabilites-dans-sonicwall-sma.html)|Une vulnérabilité a été corrigée dans SonicWall SMA. L'exploitation de cette faille peut permettre à un attaquant distant d’exécuter des commandes arbitraires, de causer un déni de service ou de porter atteinte à la confidentialité de...|26 août 2022|
  |[37952608/22 - Vulnérabilités dans Sophos UTM](https://www.dgssi.gov.ma//fr/content/3795260822-vulnerabilites-dans-sophos-utm.html)|Plusieurs vulnérabilités ont été corrigées affectant Sophos UTM. L’exploitation de ces failles peut permettre à un attaquant distant d’exécuter du code arbitraire ou de contourner la politique de sécurité.|26 août 2022|
+ 
+ ---
+
+## CERT-FR [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Vulnérabilité dans WithSecure F-Secure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-798/)|Une vulnérabilité a été découverte dans WithSecure F-Secure. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 6 septembre 2022|
+ |[Vulnérabilité dans les produits WithSecure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-797/)|Une vulnérabilité a été découverte dans les produits WithSecure. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 5 septembre 2022|
+ |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-796/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 5 septembre 2022|
+ |[Vulnérabilité dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-795/)|Une vulnérabilité a été corrigée dans |Publié le 5 septembre 2022|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-794/)|De multiples vulnérabilités ont été corrigées dans |Publié le 5 septembre 2022|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-793/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et une exécution de code arbitraire à distance.|Publié le 2 septembre 2022|
+ |[Multiples vulnérabilités dans les produits F5](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-792/)|De multiples vulnérabilités ont été découvertes dans les produits F5. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une élévation de privilèges.|Publié le 2 septembre 2022|
+ |[Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-791/)|De multiples vulnérabilités ont été corrigées dans |Publié le 2 septembre 2022|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-790/)|De multiples vulnérabilités ont été corrigées dans |Publié le 2 septembre 2022|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-789/)|De multiples vulnérabilités ont été corrigées dans |Publié le 2 septembre 2022|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-September-2022-39200" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of September 2022</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-September-2022-39200)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-no-encryption-via-Keytab-Files-39199" class="noirorange"><b>FortiOS</b>: no encryption via Keytab Files</a>](https://vigilance.fr/vulnerability/FortiOS-no-encryption-via-Keytab-Files-39199)|An attacker can access data on FortiOS, via Keytab Files, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-denial-of-service-via-TCP-Middlebox-Reflection-39198" class="noirorange"><b>FortiOS</b>: denial of service via TCP Middlebox Reflection</a>](https://vigilance.fr/vulnerability/FortiOS-denial-of-service-via-TCP-Middlebox-Reflection-39198)|An attacker can cause a fatal error of FortiOS, via TCP Middlebox Reflection, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-Cross-Site-Scripting-via-Security-Fabric-External-Connector-39197" class="noirorange"><b>FortiOS</b>: Cross Site Scripting via Security Fabric External Connector</a>](https://vigilance.fr/vulnerability/FortiOS-Cross-Site-Scripting-via-Security-Fabric-External-Connector-39197)|An attacker can trigger a Cross Site Scripting of FortiOS, via Security Fabric External Connector, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-information-disclosure-via-ADOM-39196" class="noirorange"><b>FortiAnalyzer  FortiManager</b>: information disclosure via ADOM</a>](https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-information-disclosure-via-ADOM-39196)|An attacker can bypass access restrictions to data of FortiAnalyzer  FortiManager, via ADOM, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Python-Flask-Security-Too-Cross-Site-Request-Forgery-39195" class="noirorange"><b>Python Flask-Security-Too</b>: Cross Site Request Forgery</a>](https://vigilance.fr/vulnerability/Python-Flask-Security-Too-Cross-Site-Request-Forgery-39195)|An attacker can trigger a Cross Site Request Forgery of Python Flask-Security-Too, in order to force the victim to perform operations...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-pxa3xx-gcu-write-39194" class="noirorange"><b>Linux kernel</b>: integer overflow via pxa3xx_gcu_write()</a>](https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-pxa3xx-gcu-write-39194)|An attacker can trigger an integer overflow of the Linux kernel, via pxa3xx_gcu_write(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OTRS-code-execution-via-Template-Toolkit-Perl-Code-39193" class="noirorange"><b>OTRS</b>: code execution via Template Toolkit Perl Code</a>](https://vigilance.fr/vulnerability/OTRS-code-execution-via-Template-Toolkit-Perl-Code-39193)|An attacker can use a vulnerability of OTRS, via Template Toolkit Perl Code, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OTRS-Cross-Site-Scripting-via-Customer-Information-39192" class="noirorange"><b>OTRS</b>: Cross Site Scripting via Customer Information</a>](https://vigilance.fr/vulnerability/OTRS-Cross-Site-Scripting-via-Customer-Information-39192)|An attacker can trigger a Cross Site Scripting of OTRS, via Customer Information, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OTRS-Cross-Site-Scripting-via-Admin-Interface-39191" class="noirorange"><b>OTRS</b>: Cross Site Scripting via Admin Interface</a>](https://vigilance.fr/vulnerability/OTRS-Cross-Site-Scripting-via-Admin-Interface-39191)|An attacker can trigger a Cross Site Scripting of OTRS, via Admin Interface, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/389-ds-denial-of-service-via-Malformed-Cookie-39190" class="noirorange"><b>389-ds</b>: denial of service via Malformed Cookie</a>](https://vigilance.fr/vulnerability/389-ds-denial-of-service-via-Malformed-Cookie-39190)|An attacker can cause a fatal error of 389-ds, via Malformed Cookie, in order to trigger a denial of service...|Visit link for details|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Fortinet FortiADC User Profile privileges management](https://vuldb.com/?id.207895)|Visit link for details|2022-09-06 at 21:10|
+ |[Indy Node pool-upgrade Request improper authentication](https://vuldb.com/?id.207894)|Visit link for details|2022-09-06 at 21:08|
+ |[chatwoot improper authorization](https://vuldb.com/?id.207893)|Visit link for details|2022-09-06 at 16:54|
+ |[francoisjacquet rosariosis length parameter](https://vuldb.com/?id.207892)|Visit link for details|2022-09-06 at 16:53|
+ |[Hitachi RAID Manager Storage Replication Adapter os command injection](https://vuldb.com/?id.207891)|Visit link for details|2022-09-06 at 16:50|
+ |[Hitachi RAID Manager Storage Replication Adapter information exposure](https://vuldb.com/?id.207890)|Visit link for details|2022-09-06 at 16:43|
+ |[jgraph drawio cross site scripting](https://vuldb.com/?id.207889)|Visit link for details|2022-09-06 at 10:18|
+ |[TigerGraph GSQL Query Language Privilege Escalation](https://vuldb.com/?id.207888)|Visit link for details|2022-09-06 at 10:18|
+ |[Netic User Export Add-on improper authorization](https://vuldb.com/?id.207887)|Visit link for details|2022-09-06 at 10:14|
+ |[BitDefender GravityZone Console On-Premise Message deserialization](https://vuldb.com/?id.207886)|Visit link for details|2022-09-06 at 10:06|
  
