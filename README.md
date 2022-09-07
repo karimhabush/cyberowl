@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 07/09/2022 09:14:08 UTC
+ > Last Updated 07/09/2022 21:13:03 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -40,51 +40,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-802/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 7 septembre 2022|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-801/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 7 septembre 2022|
+ |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-800/)|De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 7 septembre 2022|
+ |[Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-799/)|De multiples vulnérabilités ont été découvertes dans Google Android. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 7 septembre 2022|
  |[Vulnérabilité dans WithSecure F-Secure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-798/)|Une vulnérabilité a été découverte dans WithSecure F-Secure. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 6 septembre 2022|
  |[Vulnérabilité dans les produits WithSecure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-797/)|Une vulnérabilité a été découverte dans les produits WithSecure. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 5 septembre 2022|
  |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-796/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 5 septembre 2022|
  |[Vulnérabilité dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-795/)|Une vulnérabilité a été corrigée dans |Publié le 5 septembre 2022|
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-794/)|De multiples vulnérabilités ont été corrigées dans |Publié le 5 septembre 2022|
  |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-793/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et une exécution de code arbitraire à distance.|Publié le 2 septembre 2022|
- |[Multiples vulnérabilités dans les produits F5](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-792/)|De multiples vulnérabilités ont été découvertes dans les produits F5. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une élévation de privilèges.|Publié le 2 septembre 2022|
- |[Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-791/)|De multiples vulnérabilités ont été corrigées dans |Publié le 2 septembre 2022|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-790/)|De multiples vulnérabilités ont été corrigées dans |Publié le 2 septembre 2022|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-789/)|De multiples vulnérabilités ont été corrigées dans |Publié le 2 septembre 2022|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Aruba Networks AOS-CX cross-site request forgery](https://vuldb.com/?id.207959)|Visit link for details|2022-09-07 at 10:17|
- |[tinyexr rleUncompress heap-based overflow](https://vuldb.com/?id.207958)|Visit link for details|2022-09-07 at 10:15|
- |[Open Asset Import Library CreateMeshes memory corruption](https://vuldb.com/?id.207957)|Visit link for details|2022-09-07 at 10:12|
- |[vm2 Sandbox dynamically-managed code resources](https://vuldb.com/?id.207956)|Visit link for details|2022-09-07 at 10:12|
- |[OpenRemote Groovy Rule Privilege Escalation](https://vuldb.com/?id.207955)|Visit link for details|2022-09-07 at 10:11|
- |[MediaTek MT8788 BT Firmware out-of-bounds write](https://vuldb.com/?id.207954)|Visit link for details|2022-09-07 at 10:11|
- |[Aruba Networks ArubaOS-CX AOS-CX Command Line Interface Parser command injection](https://vuldb.com/?id.207953)|Visit link for details|2022-09-07 at 10:10|
- |[Aruba Networks ArubaOS-CX AOS-CX Command Line Interface Parser command injection](https://vuldb.com/?id.207952)|Visit link for details|2022-09-07 at 10:09|
- |[wpdevart Poll, Survey, Questionnaire and Voting System Plugin cross site scripting](https://vuldb.com/?id.207951)|Visit link for details|2022-09-07 at 10:07|
- |[Oplugins Booking Calendar Plugin Translations Update cross-site request forgery](https://vuldb.com/?id.207950)|Visit link for details|2022-09-07 at 10:06|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[38060709/22 - Vulnérabilité critique dans ZyXEL NAS](https://www.dgssi.gov.ma//fr/content/3806070922-vulnerabilite-critique-dans-zyxel-nas.html)|Une vulnérabilité critique a été corrigée affectant Plusieurs serveurs de stockage en réseau (NAS) du constructeur ZyXEL. L’exploitation de cette faille peut permettre à un attaquant d’exécuter du code arbitraire à distance.|07 septembre 2022|
- |[38050609/22 - Compagne d’attaques par le ransomware « DeadBolt » cible les NAS QNAP](https://www.dgssi.gov.ma//fr/content/3805060922-compagne-d-attaques-par-le-ransomware-deadbolt-cible-les-nas-qnap.html)|Une nouvelle vague d’attaques de ransomware « DeadBolt » exploitant une faille zero-day cible les périphériques de stockage en réseau (NAS) exécutant les versions susmentionnées de Station photo.A cet effet, QNAP a publié un avis de...|06 septembre 2022|
- |[38040509/22 - Vulnérabilitédans Microsoft Edge Chromium-based](https://www.dgssi.gov.ma//fr/content/3804050922-vulnerabilite-dans-microsoft-edge-chromium-based.html)|Une vulnérabilité critique a été corrigée dans Microsoft Edge (Chromium-based). L’exploitation de cette faille permet à un attaquant de prendre le contrôle du système affecté.Google confirme quela vulnérabilité CVE-2022-3075 est...|05 septembre 2022|
- |[38030509/22 - Exploitation active d'une vulnérabilité de haute gravité dans Google Chrome](https://www.dgssi.gov.ma//fr/content/3803050922-exploitation-active-d-une-vulnerabilite-de-haute-gravite-dans-google-chrome.html)|Google a publié Chrome 105.0.5195.102 pour Windows, Mac et Linux afin de corriger une vulnérabilité de haute gravité (CVE-2022-3075) qui est activement exploitée.Les utilisateurs de Google Chrome sous Windows, Mac et Linux sont invités à...|05 septembre 2022|
- |[38020209/22 - Vulnérabilités dans Mozilla Thunderbird](https://www.dgssi.gov.ma//fr/content/3802020922-vulnerabilites-dans-mozilla-thunderbird.html)|Mozilla a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Mozilla Thunderbird. Un attaquant pourrait exploiter certaines de ces failles afin de causer un déni de service et de porter atteinte à la...|02 septembre 2022|
- |[3801019/22 - Vulnérabilité dans le CMS Joomla](https://www.dgssi.gov.ma//fr/content/380101922-vulnerabilite-dans-le-cms-joomla.html)|Une vulnérabilité a été corrigée dans le CMS Joomla. L’exploitation de cette faille permet à un attaquant de porter atteinte à la confidentialité de données.|01 septembre 2022|
- |[3800019/22 - Vulnérabilités dans le CMS WordPress](https://www.dgssi.gov.ma//fr/content/380001922-vulnerabilites-dans-le-cms-wordpress.html)|Plusieurs vulnérabilités ont été corrigées dans le CMS WordPress. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’injecter des requêtes SQL, de porter atteinte à l'intégrité des données et de réussir l’injection...|01 septembre 2022|
- |[3799019/22 - Zero-day corrigés dans les produits Apple](https://www.dgssi.gov.ma//fr/content/379901922-zero-day-corriges-dans-les-produits-apple.html)|Apple a publié des mises à jour de sécurité corrigeant deux vulnérabilités zero-day activement exploitées affectant les anciens iPhones et iPads. Ces vulnérabilités sont identifiées sous « CVE-2022-32894 et CVE-2022-32893». L'...|01 septembre 2022|
- |[3798318/22 - Vulnérabilités dans Google Chrome](https://www.dgssi.gov.ma//fr/content/379831822-vulnerabilites-dans-google-chrome.html)|Google a corrigé plusieurs vulnérabilités affectant son navigateur Google Chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du système affecté.|31 août 2022|
- |[3797208/22 - Vulnérabilité critique affectant Atlassian Bitbucket Server et Data Center](https://www.dgssi.gov.ma//fr/content/379720822-vulnerabilite-critique-affectant-atlassian-bitbucket-server-et-data-center.html)|Atlassian a publié des mises à jour de sécurité pour corriger une vulnérabilité critique d'injection de commande (CVE-2022-36804) dans Bitbucket Server et Data Center. L'exploitation réussie de cette vulnérabilité pourrait...|29 août 2022|
- |[37962608/22 - Vulnérabilités dans SonicWall SMA](https://www.dgssi.gov.ma//fr/content/3796260822-vulnerabilites-dans-sonicwall-sma.html)|Une vulnérabilité a été corrigée dans SonicWall SMA. L'exploitation de cette faille peut permettre à un attaquant distant d’exécuter des commandes arbitraires, de causer un déni de service ou de porter atteinte à la confidentialité de...|26 août 2022|
  
  ---
 
@@ -92,6 +57,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-Meraki-MR-ingress-filtrering-bypass-via-Splash-Page-Insecure-Configuration-39208" class="noirorange"><b>Cisco Meraki MR</b>: ingress filtrering bypass via Splash Page Insecure Configuration</a>](https://vigilance.fr/vulnerability/Cisco-Meraki-MR-ingress-filtrering-bypass-via-Splash-Page-Insecure-Configuration-39208)|An attacker can bypass filtering rules of Cisco Meraki MR, via Splash Page Insecure Configuration, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/XnView-vulnerability-39205" class="noirorange"><b>XnView</b>: vulnerability</a>](https://vigilance.fr/vulnerability/XnView-vulnerability-39205)|A vulnerability of XnView was announced...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FreeBSD-denial-of-service-via-TCP-TSopt-39204" class="noirorange"><b>FreeBSD</b>: denial of service via TCP TSopt</a>](https://vigilance.fr/vulnerability/FreeBSD-denial-of-service-via-TCP-TSopt-39204)|An attacker can cause a fatal error of FreeBSD, via TCP TSopt, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-do-cmdline-39203" class="noirorange"><b>Vim</b>: reuse after free via do_cmdline()</a>](https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-do-cmdline-39203)|An attacker can force the reuse of a freed memory area of Vim, via do_cmdline(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ClusterLabs-PCS-user-access-via-Expired-Accounts-39202" class="noirorange"><b>ClusterLabs/PCS</b>: user access via Expired Accounts</a>](https://vigilance.fr/vulnerability/ClusterLabs-PCS-user-access-via-Expired-Accounts-39202)|An attacker can bypass restrictions of ClusterLabs/PCS, via Expired Accounts, in order to gain user privileges...|Visit link for details|
@@ -101,6 +68,39 @@
  |[<a href="https://vigilance.fr/vulnerability/FortiOS-denial-of-service-via-TCP-Middlebox-Reflection-39198" class="noirorange"><b>FortiOS</b>: denial of service via TCP Middlebox Reflection</a>](https://vigilance.fr/vulnerability/FortiOS-denial-of-service-via-TCP-Middlebox-Reflection-39198)|An attacker can cause a fatal error of FortiOS, via TCP Middlebox Reflection, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FortiOS-Cross-Site-Scripting-via-Security-Fabric-External-Connector-39197" class="noirorange"><b>FortiOS</b>: Cross Site Scripting via Security Fabric External Connector</a>](https://vigilance.fr/vulnerability/FortiOS-Cross-Site-Scripting-via-Security-Fabric-External-Connector-39197)|An attacker can trigger a Cross Site Scripting of FortiOS, via Security Fabric External Connector, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-information-disclosure-via-ADOM-39196" class="noirorange"><b>FortiAnalyzer  FortiManager</b>: information disclosure via ADOM</a>](https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-information-disclosure-via-ADOM-39196)|An attacker can bypass access restrictions to data of FortiAnalyzer  FortiManager, via ADOM, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Python-Flask-Security-Too-Cross-Site-Request-Forgery-39195" class="noirorange"><b>Python Flask-Security-Too</b>: Cross Site Request Forgery</a>](https://vigilance.fr/vulnerability/Python-Flask-Security-Too-Cross-Site-Request-Forgery-39195)|An attacker can trigger a Cross Site Request Forgery of Python Flask-Security-Too, in order to force the victim to perform operations...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-pxa3xx-gcu-write-39194" class="noirorange"><b>Linux kernel</b>: integer overflow via pxa3xx_gcu_write()</a>](https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-pxa3xx-gcu-write-39194)|An attacker can trigger an integer overflow of the Linux kernel, via pxa3xx_gcu_write(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[38080709/22 - Vulnérabilités dans Android](https://www.dgssi.gov.ma//fr/content/3808070922-vulnerabilites-dans-android.html)|Plusieurs vulnérabilités critiques ont été corrigées dans le système d’exploitation Android. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, de causer un déni de service, d’...|07 septembre 2022|
+ |[38070709/22 - Vulnérabilités dans les produits Fortiguard ](https://www.dgssi.gov.ma//fr/content/3807070922-vulnerabilites-dans-les-produits-fortiguard.html)|Plusieurs vulnérabilités ont été corrigées dans les produits Fortiguard susmentionnés. Un attaquant pourrait exploiter certaines de ces vulnérabilités pour réussir une élévation de privilèges, provoquer une exécution de code arbitraire à...|07 septembre 2022|
+ |[38060709/22 - Vulnérabilité critique dans ZyXEL NAS](https://www.dgssi.gov.ma//fr/content/3806070922-vulnerabilite-critique-dans-zyxel-nas.html)|Une vulnérabilité critique a été corrigée affectant Plusieurs serveurs de stockage en réseau (NAS) du constructeur ZyXEL. L’exploitation de cette faille peut permettre à un attaquant d’exécuter du code arbitraire à distance.|07 septembre 2022|
+ |[38050609/22 - Compagne d’attaques par le ransomware « DeadBolt » cible les NAS QNAP](https://www.dgssi.gov.ma//fr/content/3805060922-compagne-d-attaques-par-le-ransomware-deadbolt-cible-les-nas-qnap.html)|Une nouvelle vague d’attaques de ransomware « DeadBolt » exploitant une faille zero-day cible les périphériques de stockage en réseau (NAS) exécutant les versions susmentionnées de Station photo.A cet effet, QNAP a publié un avis de...|06 septembre 2022|
+ |[38040509/22 - Vulnérabilitédans Microsoft Edge Chromium-based](https://www.dgssi.gov.ma//fr/content/3804050922-vulnerabilite-dans-microsoft-edge-chromium-based.html)|Une vulnérabilité critique a été corrigée dans Microsoft Edge (Chromium-based). L’exploitation de cette faille permet à un attaquant de prendre le contrôle du système affecté.Google confirme quela vulnérabilité CVE-2022-3075 est...|05 septembre 2022|
+ |[38030509/22 - Exploitation active d'une vulnérabilité de haute gravité dans Google Chrome](https://www.dgssi.gov.ma//fr/content/3803050922-exploitation-active-d-une-vulnerabilite-de-haute-gravite-dans-google-chrome.html)|Google a publié Chrome 105.0.5195.102 pour Windows, Mac et Linux afin de corriger une vulnérabilité de haute gravité (CVE-2022-3075) qui est activement exploitée.Les utilisateurs de Google Chrome sous Windows, Mac et Linux sont invités à...|05 septembre 2022|
+ |[38020209/22 - Vulnérabilités dans Mozilla Thunderbird](https://www.dgssi.gov.ma//fr/content/3802020922-vulnerabilites-dans-mozilla-thunderbird.html)|Mozilla a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Mozilla Thunderbird. Un attaquant pourrait exploiter certaines de ces failles afin de causer un déni de service et de porter atteinte à la...|02 septembre 2022|
+ |[3801019/22 - Vulnérabilité dans le CMS Joomla](https://www.dgssi.gov.ma//fr/content/380101922-vulnerabilite-dans-le-cms-joomla.html)|Une vulnérabilité a été corrigée dans le CMS Joomla. L’exploitation de cette faille permet à un attaquant de porter atteinte à la confidentialité de données.|01 septembre 2022|
+ |[3800019/22 - Vulnérabilités dans le CMS WordPress](https://www.dgssi.gov.ma//fr/content/380001922-vulnerabilites-dans-le-cms-wordpress.html)|Plusieurs vulnérabilités ont été corrigées dans le CMS WordPress. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’injecter des requêtes SQL, de porter atteinte à l'intégrité des données et de réussir l’injection...|01 septembre 2022|
+ |[3799019/22 - Zero-day corrigés dans les produits Apple](https://www.dgssi.gov.ma//fr/content/379901922-zero-day-corriges-dans-les-produits-apple.html)|Apple a publié des mises à jour de sécurité corrigeant deux vulnérabilités zero-day activement exploitées affectant les anciens iPhones et iPads. Ces vulnérabilités sont identifiées sous « CVE-2022-32894 et CVE-2022-32893». L'...|01 septembre 2022|
+ |[3798318/22 - Vulnérabilités dans Google Chrome](https://www.dgssi.gov.ma//fr/content/379831822-vulnerabilites-dans-google-chrome.html)|Google a corrigé plusieurs vulnérabilités affectant son navigateur Google Chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du système affecté.|31 août 2022|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Trojan.Win32.Autoit.fhj vp8decoder.dll permission](https://vuldb.com/?id.208075)|Visit link for details|2022-09-07 at 21:40|
+ |[Trojan-Spy.Win32.Pophot.bsl Batch File access control](https://vuldb.com/?id.208074)|Visit link for details|2022-09-07 at 21:39|
+ |[Trojan-Ransom.Win32.Hive.bv permission](https://vuldb.com/?id.208073)|Visit link for details|2022-09-07 at 21:37|
+ |[Trojan.Win32.Autoit.fhj permission](https://vuldb.com/?id.208072)|Visit link for details|2022-09-07 at 21:36|
+ |[Backdoor.Win32.Hupigon.aspg unquoted search path](https://vuldb.com/?id.208071)|Visit link for details|2022-09-07 at 21:33|
+ |[Backdoor.Win32.Winshell.5_0 Service Port 5277 hard-coded credentials](https://vuldb.com/?id.208070)|Visit link for details|2022-09-07 at 21:32|
+ |[MediaTek MT8797 preloader out-of-bounds write](https://vuldb.com/?id.208069)|Visit link for details|2022-09-07 at 21:31|
+ |[Fortinet FortiMail Mail Message cross site scripting](https://vuldb.com/?id.208068)|Visit link for details|2022-09-07 at 21:30|
+ |[Fortinet FortiOS Security Fabric External Connector cross site scripting](https://vuldb.com/?id.208067)|Visit link for details|2022-09-07 at 21:29|
+ |[DDMAL MEI2Volpiano xml.etree xml external entity reference](https://vuldb.com/?id.208066)|Visit link for details|2022-09-07 at 21:29|
  
