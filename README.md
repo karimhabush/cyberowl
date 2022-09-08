@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 08/09/2022 18:17:55 UTC
+ > Last Updated 08/09/2022 21:13:00 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -50,24 +50,6 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/YaST-SambaProvision-information-disclosure-via-Password-Process-List-39218" class="noirorange"><b>YaST SambaProvision</b>: information disclosure via Password Process List</a>](https://vigilance.fr/vulnerability/YaST-SambaProvision-information-disclosure-via-Password-Process-List-39218)|An attacker can bypass access restrictions to data of YaST SambaProvision, via Password Process List, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Node-got-information-disclosure-via-UNIX-Socket-39217" class="noirorange"><b>Node got</b>: information disclosure via UNIX Socket</a>](https://vigilance.fr/vulnerability/Node-got-information-disclosure-via-UNIX-Socket-39217)|An attacker can bypass access restrictions to data of Node got, via UNIX Socket, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libiberty-buffer-overflow-via-dlang-lname-39216" class="noirorange"><b>libiberty</b>: buffer overflow via dlang_lname()</a>](https://vigilance.fr/vulnerability/libiberty-buffer-overflow-via-dlang-lname-39216)|An attacker can trigger a buffer overflow of libiberty, via dlang_lname(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/AutoTrace-buffer-overflow-via-ReadImage-39215" class="noirorange"><b>AutoTrace</b>: buffer overflow via ReadImage()</a>](https://vigilance.fr/vulnerability/AutoTrace-buffer-overflow-via-ReadImage-39215)|An attacker can trigger a buffer overflow of AutoTrace, via ReadImage(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Sophos-Firewall-privilege-escalation-via-Webadmin-39214" class="noirorange"><b>Sophos Firewall</b>: privilege escalation via Webadmin</a>](https://vigilance.fr/vulnerability/Sophos-Firewall-privilege-escalation-via-Webadmin-39214)|An attacker can bypass restrictions of Sophos Firewall, via Webadmin, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-overload-via-F5-Ethernet-Trailer-Dissector-39213" class="noirorange"><b>Wireshark</b>: overload via F5 Ethernet Trailer Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-overload-via-F5-Ethernet-Trailer-Dissector-39213)|An attacker can trigger an overload of Wireshark, via F5 Ethernet Trailer Dissector, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebSphere-AS-header-injection-39212" class="noirorange"><b>WebSphere AS</b>: header injection</a>](https://vigilance.fr/vulnerability/WebSphere-AS-header-injection-39212)|An attacker can add new headers on WebSphere AS, in order to alter the service behavior...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Permissions-by-Term-information-disclosure-via-Translated-Content-39211" class="noirorange"><b>Drupal Permissions by Term</b>: information disclosure via Translated Content</a>](https://vigilance.fr/vulnerability/Drupal-Permissions-by-Term-information-disclosure-via-Translated-Content-39211)|An attacker can bypass access restrictions to data of Drupal Permissions by Term, via Translated Content, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Permissions-by-Term-information-disclosure-via-Cached-Multiple-Entity-Types-39210" class="noirorange"><b>Drupal Permissions by Term</b>: information disclosure via Cached Multiple Entity Types</a>](https://vigilance.fr/vulnerability/Drupal-Permissions-by-Term-information-disclosure-via-Cached-Multiple-Entity-Types-39210)|An attacker can bypass access restrictions to data of Drupal Permissions by Term, via Cached Multiple Entity Types, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Next-js-information-disclosure-39209" class="noirorange"><b>Drupal Next.js</b>: information disclosure</a>](https://vigilance.fr/vulnerability/Drupal-Next-js-information-disclosure-39209)|An attacker can bypass access restrictions to data of Drupal Next.js, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Meraki-MR-ingress-filtrering-bypass-via-Splash-Page-Insecure-Configuration-39208" class="noirorange"><b>Cisco Meraki MR</b>: ingress filtrering bypass via Splash Page Insecure Configuration</a>](https://vigilance.fr/vulnerability/Cisco-Meraki-MR-ingress-filtrering-bypass-via-Splash-Page-Insecure-Configuration-39208)|An attacker can bypass filtering rules of Cisco Meraki MR, via Splash Page Insecure Configuration, in order to send malicious data...|Visit link for details|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -85,10 +67,44 @@
  
  ---
 
+## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(Pwn2Own) Tesla ice_updater Time-Of-Check Time-Of-Use Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1188/)|Visit link for details|Sept. 8, 2022|
+ |[(Pwn2Own) ConnMan received_data Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1187/)|Visit link for details|Sept. 8, 2022|
+ |[(Pwn2Own) ConnMan wispr_portal_web_result wp_object Double Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1186/)|Visit link for details|Sept. 8, 2022|
+ |[Microsoft Windows Active Directory Certificate Services Improper Authorization Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1185/)|Visit link for details|Sept. 6, 2022|
+ |[ManageEngine OpManager Plus getDNSResolveOption Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1184/)|Visit link for details|Sept. 5, 2022|
+ |[ManageEngine NetFlow Analyzer getDNSResolveOption Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1183/)|Visit link for details|Sept. 1, 2022|
+ |[ManageEngine OpManager getNmapInitialOption Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1182/)|Visit link for details|Sept. 1, 2022|
+ |[ManageEngine OpManager Plus getNmapInitialOption Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1181/)|Visit link for details|Sept. 1, 2022|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-undici-Server-Side-Request-Forgery-via-Pathname-Absolute-URL-39223" class="noirorange"><b>Node.js undici</b>: Server-Side Request Forgery via Pathname Absolute URL</a>](https://vigilance.fr/vulnerability/Node-js-undici-Server-Side-Request-Forgery-via-Pathname-Absolute-URL-39223)|An attacker can trigger a Server-Side Request Forgery of Node.js undici, via Pathname Absolute URL, in order to force the server to send queries...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-undici-header-injection-via-Content-Type-39222" class="noirorange"><b>Node.js undici</b>: header injection via Content-Type</a>](https://vigilance.fr/vulnerability/Node-js-undici-header-injection-via-Content-Type-39222)|An attacker can add new headers on Node.js undici, via Content-Type, in order to alter the service behavior...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-undici-header-injection-via-CRLF-39221" class="noirorange"><b>Node.js undici</b>: header injection via CRLF</a>](https://vigilance.fr/vulnerability/Node-js-undici-header-injection-via-CRLF-39221)|An attacker can add new headers on Node.js undici, via CRLF, in order to alter the service behavior...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/npm-file-reading-via-gitignore-npmignore-39220" class="noirorange"><b>npm</b>: file reading via gitignore / npmignore</a>](https://vigilance.fr/vulnerability/npm-file-reading-via-gitignore-npmignore-39220)|An attacker can read a file of npm, via gitignore / npmignore, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/YaST-SambaProvision-information-disclosure-via-Password-Process-List-39218" class="noirorange"><b>YaST SambaProvision</b>: information disclosure via Password Process List</a>](https://vigilance.fr/vulnerability/YaST-SambaProvision-information-disclosure-via-Password-Process-List-39218)|An attacker can bypass access restrictions to data of YaST SambaProvision, via Password Process List, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Node-got-information-disclosure-via-UNIX-Socket-39217" class="noirorange"><b>Node got</b>: information disclosure via UNIX Socket</a>](https://vigilance.fr/vulnerability/Node-got-information-disclosure-via-UNIX-Socket-39217)|An attacker can bypass access restrictions to data of Node got, via UNIX Socket, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libiberty-buffer-overflow-via-dlang-lname-39216" class="noirorange"><b>libiberty</b>: buffer overflow via dlang_lname()</a>](https://vigilance.fr/vulnerability/libiberty-buffer-overflow-via-dlang-lname-39216)|An attacker can trigger a buffer overflow of libiberty, via dlang_lname(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/AutoTrace-buffer-overflow-via-ReadImage-39215" class="noirorange"><b>AutoTrace</b>: buffer overflow via ReadImage()</a>](https://vigilance.fr/vulnerability/AutoTrace-buffer-overflow-via-ReadImage-39215)|An attacker can trigger a buffer overflow of AutoTrace, via ReadImage(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Sophos-Firewall-privilege-escalation-via-Webadmin-39214" class="noirorange"><b>Sophos Firewall</b>: privilege escalation via Webadmin</a>](https://vigilance.fr/vulnerability/Sophos-Firewall-privilege-escalation-via-Webadmin-39214)|An attacker can bypass restrictions of Sophos Firewall, via Webadmin, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-overload-via-F5-Ethernet-Trailer-Dissector-39213" class="noirorange"><b>Wireshark</b>: overload via F5 Ethernet Trailer Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-overload-via-F5-Ethernet-Trailer-Dissector-39213)|An attacker can trigger an overload of Wireshark, via F5 Ethernet Trailer Dissector, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebSphere-AS-header-injection-39212" class="noirorange"><b>WebSphere AS</b>: header injection</a>](https://vigilance.fr/vulnerability/WebSphere-AS-header-injection-39212)|An attacker can add new headers on WebSphere AS, in order to alter the service behavior...|Visit link for details|
+ 
+ ---
+
 ## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[janobe Interview Management System editQuestion.php sql injection](https://vuldb.com/?id.208134)|Visit link for details|2022-09-08 at 21:20|
  |[jgraph drawio cross site scripting](https://vuldb.com/?id.208133)|Visit link for details|2022-09-08 at 18:09|
  |[jgraph drawio cross site scripting](https://vuldb.com/?id.208132)|Visit link for details|2022-09-08 at 18:08|
  |[Jitsi HTTP Request clickjacking](https://vuldb.com/?id.208131)|Visit link for details|2022-09-08 at 18:08|
@@ -98,7 +114,6 @@
  |[Cisco Webex App Messaging Interface multiple interpretations of ui input](https://vuldb.com/?id.208127)|Visit link for details|2022-09-08 at 18:04|
  |[Cisco SD-WAN vManage Software Binding Configuration access control](https://vuldb.com/?id.208126)|Visit link for details|2022-09-08 at 18:01|
  |[Alfasado PowerCMS XMLRPC API command injection](https://vuldb.com/?id.208125)|Visit link for details|2022-09-08 at 14:17|
- |[PLANEX SmaCam CS-QR10/SmaCam Night Vision CS-QR20 protection mechanism](https://vuldb.com/?id.208124)|Visit link for details|2022-09-08 at 14:16|
  
  ---
 
@@ -117,19 +132,4 @@
  |[38020209/22 - Vulnérabilités dans Mozilla Thunderbird](https://www.dgssi.gov.ma//fr/content/3802020922-vulnerabilites-dans-mozilla-thunderbird.html)|Mozilla a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Mozilla Thunderbird. Un attaquant pourrait exploiter certaines de ces failles afin de causer un déni de service et de porter atteinte à la...|02 septembre 2022|
  |[3801019/22 - Vulnérabilité dans le CMS Joomla](https://www.dgssi.gov.ma//fr/content/380101922-vulnerabilite-dans-le-cms-joomla.html)|Une vulnérabilité a été corrigée dans le CMS Joomla. L’exploitation de cette faille permet à un attaquant de porter atteinte à la confidentialité de données.|01 septembre 2022|
  |[3800019/22 - Vulnérabilités dans le CMS WordPress](https://www.dgssi.gov.ma//fr/content/380001922-vulnerabilites-dans-le-cms-wordpress.html)|Plusieurs vulnérabilités ont été corrigées dans le CMS WordPress. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’injecter des requêtes SQL, de porter atteinte à l'intégrité des données et de réussir l’injection...|01 septembre 2022|
- 
- ---
-
-## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[(Pwn2Own) Tesla ice_updater Time-Of-Check Time-Of-Use Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1188/)|Visit link for details|Sept. 8, 2022|
- |[(Pwn2Own) ConnMan received_data Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1187/)|Visit link for details|Sept. 8, 2022|
- |[(Pwn2Own) ConnMan wispr_portal_web_result wp_object Double Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1186/)|Visit link for details|Sept. 8, 2022|
- |[Microsoft Windows Active Directory Certificate Services Improper Authorization Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1185/)|Visit link for details|Sept. 6, 2022|
- |[ManageEngine OpManager Plus getDNSResolveOption Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1184/)|Visit link for details|Sept. 5, 2022|
- |[ManageEngine NetFlow Analyzer getDNSResolveOption Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1183/)|Visit link for details|Sept. 1, 2022|
- |[ManageEngine OpManager getNmapInitialOption Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1182/)|Visit link for details|Sept. 1, 2022|
- |[ManageEngine OpManager Plus getNmapInitialOption Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1181/)|Visit link for details|Sept. 1, 2022|
  
