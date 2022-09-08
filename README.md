@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 07/09/2022 21:13:03 UTC
+ > Last Updated 08/09/2022 09:15:57 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -53,24 +53,6 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Meraki-MR-ingress-filtrering-bypass-via-Splash-Page-Insecure-Configuration-39208" class="noirorange"><b>Cisco Meraki MR</b>: ingress filtrering bypass via Splash Page Insecure Configuration</a>](https://vigilance.fr/vulnerability/Cisco-Meraki-MR-ingress-filtrering-bypass-via-Splash-Page-Insecure-Configuration-39208)|An attacker can bypass filtering rules of Cisco Meraki MR, via Splash Page Insecure Configuration, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/XnView-vulnerability-39205" class="noirorange"><b>XnView</b>: vulnerability</a>](https://vigilance.fr/vulnerability/XnView-vulnerability-39205)|A vulnerability of XnView was announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeBSD-denial-of-service-via-TCP-TSopt-39204" class="noirorange"><b>FreeBSD</b>: denial of service via TCP TSopt</a>](https://vigilance.fr/vulnerability/FreeBSD-denial-of-service-via-TCP-TSopt-39204)|An attacker can cause a fatal error of FreeBSD, via TCP TSopt, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-do-cmdline-39203" class="noirorange"><b>Vim</b>: reuse after free via do_cmdline()</a>](https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-do-cmdline-39203)|An attacker can force the reuse of a freed memory area of Vim, via do_cmdline(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ClusterLabs-PCS-user-access-via-Expired-Accounts-39202" class="noirorange"><b>ClusterLabs/PCS</b>: user access via Expired Accounts</a>](https://vigilance.fr/vulnerability/ClusterLabs-PCS-user-access-via-Expired-Accounts-39202)|An attacker can bypass restrictions of ClusterLabs/PCS, via Expired Accounts, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Poppler-integer-overflow-via-JBIG2Stream-readTextRegionSeg-39201" class="noirorange"><b>Poppler</b>: integer overflow via <wbr>JBIG2Stream::readTex<wbr>tRegionSeg()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Poppler-integer-overflow-via-JBIG2Stream-readTextRegionSeg-39201)|An attacker can trigger an integer overflow of Poppler, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-September-2022-39200" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of September 2022</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-September-2022-39200)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-no-encryption-via-Keytab-Files-39199" class="noirorange"><b>FortiOS</b>: no encryption via Keytab Files</a>](https://vigilance.fr/vulnerability/FortiOS-no-encryption-via-Keytab-Files-39199)|An attacker can access data on FortiOS, via Keytab Files, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-denial-of-service-via-TCP-Middlebox-Reflection-39198" class="noirorange"><b>FortiOS</b>: denial of service via TCP Middlebox Reflection</a>](https://vigilance.fr/vulnerability/FortiOS-denial-of-service-via-TCP-Middlebox-Reflection-39198)|An attacker can cause a fatal error of FortiOS, via TCP Middlebox Reflection, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-Cross-Site-Scripting-via-Security-Fabric-External-Connector-39197" class="noirorange"><b>FortiOS</b>: Cross Site Scripting via Security Fabric External Connector</a>](https://vigilance.fr/vulnerability/FortiOS-Cross-Site-Scripting-via-Security-Fabric-External-Connector-39197)|An attacker can trigger a Cross Site Scripting of FortiOS, via Security Fabric External Connector, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-information-disclosure-via-ADOM-39196" class="noirorange"><b>FortiAnalyzer  FortiManager</b>: information disclosure via ADOM</a>](https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-information-disclosure-via-ADOM-39196)|An attacker can bypass access restrictions to data of FortiAnalyzer  FortiManager, via ADOM, in order to read sensitive information...|Visit link for details|
- 
- ---
-
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -89,18 +71,36 @@
  
  ---
 
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Sophos-Firewall-privilege-escalation-via-Webadmin-39214" class="noirorange"><b>Sophos Firewall</b>: privilege escalation via Webadmin</a>](https://vigilance.fr/vulnerability/Sophos-Firewall-privilege-escalation-via-Webadmin-39214)|An attacker can bypass restrictions of Sophos Firewall, via Webadmin, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-overload-via-F5-Ethernet-Trailer-Dissector-39213" class="noirorange"><b>Wireshark</b>: overload via F5 Ethernet Trailer Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-overload-via-F5-Ethernet-Trailer-Dissector-39213)|An attacker can trigger an overload of Wireshark, via F5 Ethernet Trailer Dissector, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebSphere-AS-header-injection-39212" class="noirorange"><b>WebSphere AS</b>: header injection</a>](https://vigilance.fr/vulnerability/WebSphere-AS-header-injection-39212)|An attacker can add new headers on WebSphere AS, in order to alter the service behavior...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Permissions-by-Term-information-disclosure-via-Translated-Content-39211" class="noirorange"><b>Drupal Permissions by Term</b>: information disclosure via Translated Content</a>](https://vigilance.fr/vulnerability/Drupal-Permissions-by-Term-information-disclosure-via-Translated-Content-39211)|An attacker can bypass access restrictions to data of Drupal Permissions by Term, via Translated Content, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Permissions-by-Term-information-disclosure-via-Cached-Multiple-Entity-Types-39210" class="noirorange"><b>Drupal Permissions by Term</b>: information disclosure via Cached Multiple Entity Types</a>](https://vigilance.fr/vulnerability/Drupal-Permissions-by-Term-information-disclosure-via-Cached-Multiple-Entity-Types-39210)|An attacker can bypass access restrictions to data of Drupal Permissions by Term, via Cached Multiple Entity Types, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Next-js-information-disclosure-39209" class="noirorange"><b>Drupal Next.js</b>: information disclosure</a>](https://vigilance.fr/vulnerability/Drupal-Next-js-information-disclosure-39209)|An attacker can bypass access restrictions to data of Drupal Next.js, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-Meraki-MR-ingress-filtrering-bypass-via-Splash-Page-Insecure-Configuration-39208" class="noirorange"><b>Cisco Meraki MR</b>: ingress filtrering bypass via Splash Page Insecure Configuration</a>](https://vigilance.fr/vulnerability/Cisco-Meraki-MR-ingress-filtrering-bypass-via-Splash-Page-Insecure-Configuration-39208)|An attacker can bypass filtering rules of Cisco Meraki MR, via Splash Page Insecure Configuration, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/XnView-vulnerability-39205" class="noirorange"><b>XnView</b>: vulnerability</a>](https://vigilance.fr/vulnerability/XnView-vulnerability-39205)|A vulnerability of XnView was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FreeBSD-denial-of-service-via-TCP-TSopt-39204" class="noirorange"><b>FreeBSD</b>: denial of service via TCP TSopt</a>](https://vigilance.fr/vulnerability/FreeBSD-denial-of-service-via-TCP-TSopt-39204)|An attacker can cause a fatal error of FreeBSD, via TCP TSopt, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-do-cmdline-39203" class="noirorange"><b>Vim</b>: reuse after free via do_cmdline()</a>](https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-do-cmdline-39203)|An attacker can force the reuse of a freed memory area of Vim, via do_cmdline(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ClusterLabs-PCS-user-access-via-Expired-Accounts-39202" class="noirorange"><b>ClusterLabs/PCS</b>: user access via Expired Accounts</a>](https://vigilance.fr/vulnerability/ClusterLabs-PCS-user-access-via-Expired-Accounts-39202)|An attacker can bypass restrictions of ClusterLabs/PCS, via Expired Accounts, in order to gain user privileges...|Visit link for details|
+ 
+ ---
+
 ## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[Trojan.Win32.Autoit.fhj vp8decoder.dll permission](https://vuldb.com/?id.208075)|Visit link for details|2022-09-07 at 21:40|
- |[Trojan-Spy.Win32.Pophot.bsl Batch File access control](https://vuldb.com/?id.208074)|Visit link for details|2022-09-07 at 21:39|
- |[Trojan-Ransom.Win32.Hive.bv permission](https://vuldb.com/?id.208073)|Visit link for details|2022-09-07 at 21:37|
- |[Trojan.Win32.Autoit.fhj permission](https://vuldb.com/?id.208072)|Visit link for details|2022-09-07 at 21:36|
- |[Backdoor.Win32.Hupigon.aspg unquoted search path](https://vuldb.com/?id.208071)|Visit link for details|2022-09-07 at 21:33|
- |[Backdoor.Win32.Winshell.5_0 Service Port 5277 hard-coded credentials](https://vuldb.com/?id.208070)|Visit link for details|2022-09-07 at 21:32|
- |[MediaTek MT8797 preloader out-of-bounds write](https://vuldb.com/?id.208069)|Visit link for details|2022-09-07 at 21:31|
- |[Fortinet FortiMail Mail Message cross site scripting](https://vuldb.com/?id.208068)|Visit link for details|2022-09-07 at 21:30|
- |[Fortinet FortiOS Security Fabric External Connector cross site scripting](https://vuldb.com/?id.208067)|Visit link for details|2022-09-07 at 21:29|
- |[DDMAL MEI2Volpiano xml.etree xml external entity reference](https://vuldb.com/?id.208066)|Visit link for details|2022-09-07 at 21:29|
+ |[Nagios XI System Settings Page cross site scripting](https://vuldb.com/?id.208108)|Visit link for details|2022-09-08 at 10:55|
+ |[Tenda G3 httpd addDhcpRule buffer overflow](https://vuldb.com/?id.208107)|Visit link for details|2022-09-08 at 10:54|
+ |[KubeVela VelaUX APIServer getSystemInfo authentication replay](https://vuldb.com/?id.208106)|Visit link for details|2022-09-08 at 10:53|
+ |[xiunobbs Attachment Upload cross site scripting](https://vuldb.com/?id.208105)|Visit link for details|2022-09-08 at 10:52|
+ |[Wikmd Markdown cross site scripting](https://vuldb.com/?id.208104)|Visit link for details|2022-09-08 at 10:52|
+ |[Sophos Firewall Webadmin sql injection](https://vuldb.com/?id.208103)|Visit link for details|2022-09-08 at 10:51|
+ |[FPT G-97RG6M/G-97RG3 ping Privilege Escalation](https://vuldb.com/?id.208102)|Visit link for details|2022-09-08 at 10:47|
+ |[PlexTrac Authentication Provider information disclosure](https://vuldb.com/?id.208101)|Visit link for details|2022-09-08 at 10:43|
+ |[Netgear R8000 POST bd_genie_create_account.cgi buffer overflow](https://vuldb.com/?id.208100)|Visit link for details|2022-09-08 at 10:41|
+ |[Nagios XI Manage MIBs Page sql injection](https://vuldb.com/?id.208099)|Visit link for details|2022-09-08 at 10:41|
  
