@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 10/09/2022 09:13:18 UTC
+ > Last Updated 10/09/2022 21:14:09 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -36,66 +36,38 @@
  
  ---
 
-## CERT-FR [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-807/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une atteinte à la confidentialité des données.|Publié le 9 septembre 2022|
- |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-806/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 8 septembre 2022|
- |[Vulnérabilité dans Tenable.sc](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-805/)|Une vulnérabilité a été découverte dans Tenable.sc. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 8 septembre 2022|
- |[Multiples vulnérabilités dans Aruba Clearpass Policy Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-804/)|De multiples vulnérabilités ont été découvertes dans Aruba Clearpass Policy Manager. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service et une atteinte à l'intégrité des données.|Publié le 8 septembre 2022|
- |[Vulnérabilité dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-803/)|Une vulnérabilité a été découverte dans Wireshark. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 8 septembre 2022|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-802/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 7 septembre 2022|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-801/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 7 septembre 2022|
- |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-800/)|De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 7 septembre 2022|
- |[Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-799/)|De multiples vulnérabilités ont été découvertes dans Google Android. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 7 septembre 2022|
- |[Vulnérabilité dans WithSecure F-Secure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-798/)|Une vulnérabilité a été découverte dans WithSecure F-Secure. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 6 septembre 2022|
- 
- ---
-
 ## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[JFinal CMS list sql injection](https://vuldb.com/?id.208279)|Visit link for details|2022-09-10 at 09:32|
- |[JFinal CMS list sql injection](https://vuldb.com/?id.208278)|Visit link for details|2022-09-10 at 09:31|
- |[JFinal CMS list sql injection](https://vuldb.com/?id.208277)|Visit link for details|2022-09-10 at 09:31|
- |[JFinal CMS list_approve sql injection](https://vuldb.com/?id.208276)|Visit link for details|2022-09-10 at 09:31|
- |[JFinal CMS list sql injection](https://vuldb.com/?id.208275)|Visit link for details|2022-09-10 at 09:28|
- |[OpenHarmony improper authentication](https://vuldb.com/?id.208274)|Visit link for details|2022-09-10 at 09:28|
- |[Samsung Find my Mobile IMEI information disclosure](https://vuldb.com/?id.208273)|Visit link for details|2022-09-10 at 09:27|
- |[Samsung Members/Global FaqSymptomCardViewModel information disclosure](https://vuldb.com/?id.208272)|Visit link for details|2022-09-10 at 09:25|
- |[Samsung Pass improper authorization](https://vuldb.com/?id.208271)|Visit link for details|2022-09-10 at 09:24|
- |[Samsung SmartTagPlugin cross site scripting](https://vuldb.com/?id.208270)|Visit link for details|2022-09-10 at 09:22|
+ |[PTC Kepware KEPServerEX OPC UA Message stack-based overflow](https://vuldb.com/?id.208303)|Visit link for details|2022-09-10 at 21:57|
+ |[PTC Kepware KEPServerEX OPC UA Message heap-based overflow](https://vuldb.com/?id.208302)|Visit link for details|2022-09-10 at 21:56|
+ |[MZ Automation libIEC61850 null pointer dereference](https://vuldb.com/?id.208301)|Visit link for details|2022-09-10 at 21:38|
+ |[MZ Automation libIEC61850 type confusion](https://vuldb.com/?id.208300)|Visit link for details|2022-09-10 at 21:37|
+ |[MZ Automation libIEC61850 stack-based overflow](https://vuldb.com/?id.208299)|Visit link for details|2022-09-10 at 21:36|
+ |[MZ Automation libIEC61850 memcpy stack-based overflow](https://vuldb.com/?id.208298)|Visit link for details|2022-09-10 at 21:35|
+ |[Shirne CMS controller.php path traversal](https://vuldb.com/?id.208297)|Visit link for details|2022-09-10 at 16:01|
+ |[Markdown-Nice cross site scripting](https://vuldb.com/?id.208296)|Visit link for details|2022-09-10 at 16:00|
+ |[OpenKM javascript Substring cross site scripting](https://vuldb.com/?id.208295)|Visit link for details|2022-09-10 at 16:00|
+ |[aEnrich a+HRD file inclusion](https://vuldb.com/?id.208294)|Visit link for details|2022-09-10 at 15:59|
  
  ---
 
-## IBMCLOUD [:arrow_heading_up:](#cyberowl)
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[AirDisk application for iOS cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 9, 2022|
- |[Online Notice Board e SQL injection](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 9, 2022|
- |[A-Form plugin for Movable Type cross-site scripting (CVE-2022-38972)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 9, 2022|
- |[XWiki Platform Web Templates information disclosure (CVE-2022-36091)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 8, 2022|
- |[XWiki Platform Old Core security bypass (CVE-2022-36092)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 8, 2022|
- |[XWiki Platform Web Templates security bypass (CVE-2022-36093)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 8, 2022|
- |[XWiki Platform Web Parent POM cross-site scripting (CVE-2022-36094)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 8, 2022|
- 
- ---
-
-## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[(Pwn2Own) Tesla ice_updater Time-Of-Check Time-Of-Use Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1188/)|Visit link for details|Sept. 8, 2022|
- |[(Pwn2Own) ConnMan received_data Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1187/)|Visit link for details|Sept. 8, 2022|
- |[(Pwn2Own) ConnMan wispr_portal_web_result wp_object Double Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1186/)|Visit link for details|Sept. 8, 2022|
- |[Microsoft Windows Active Directory Certificate Services Improper Authorization Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1185/)|Visit link for details|Sept. 6, 2022|
- |[ManageEngine OpManager Plus getDNSResolveOption Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1184/)|Visit link for details|Sept. 5, 2022|
- |[ManageEngine NetFlow Analyzer getDNSResolveOption Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1183/)|Visit link for details|Sept. 1, 2022|
- |[ManageEngine OpManager getNmapInitialOption Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1182/)|Visit link for details|Sept. 1, 2022|
- |[ManageEngine OpManager Plus getNmapInitialOption Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1181/)|Visit link for details|Sept. 1, 2022|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-NULL-pointer-dereference-via-generate-loadvar-39236" class="noirorange"><b>Vim</b>: NULL pointer dereference via generate_loadvar()</a>](https://vigilance.fr/vulnerability/Vim-NULL-pointer-dereference-via-generate-loadvar-39236)|An attacker can force a NULL pointer to be dereferenced on Vim, via generate_loadvar(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-compile-nested-function-39235" class="noirorange"><b>Vim</b>: reuse after free via <wbr>compile_nested_funct<wbr>ion()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-compile-nested-function-39235)|An attacker can force the reuse of a freed memory area of Vim, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-latin-ptr2len-39234" class="noirorange"><b>Vim</b>: buffer overflow via latin_ptr2len()</a>](https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-latin-ptr2len-39234)|An attacker can trigger a buffer overflow of Vim, via latin_ptr2len(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-memory-corruption-via-diff-mark-adjust-tp-39233" class="noirorange"><b>Vim</b>: memory corruption via <wbr>diff_mark_adjust_tp(<wbr>)</wbr></wbr></a>](https://vigilance.fr/vulnerability/Vim-memory-corruption-via-diff-mark-adjust-tp-39233)|An attacker can trigger a memory corruption of Vim, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-out-of-bounds-memory-reading-via-cstrchr-39232" class="noirorange"><b>Vim</b>: out-of-bounds memory reading via cstrchr()</a>](https://vigilance.fr/vulnerability/Vim-out-of-bounds-memory-reading-via-cstrchr-39232)|An attacker can force a read at an invalid memory address of Vim, via cstrchr(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-eval-string-39231" class="noirorange"><b>Vim</b>: buffer overflow via eval_string()</a>](https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-eval-string-39231)|An attacker can trigger a buffer overflow of Vim, via eval_string(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-ins-comp-get-next-word-or-line-39230" class="noirorange"><b>Vim</b>: buffer overflow via <wbr>ins_comp_get_next_wo<wbr>rd_or_line()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-ins-comp-get-next-word-or-line-39230)|An attacker can trigger a buffer overflow of Vim, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-apply-autocmds-group-39229" class="noirorange"><b>Vim</b>: buffer overflow via <wbr>apply_autocmds_group<wbr>()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-apply-autocmds-group-39229)|An attacker can trigger a buffer overflow of Vim, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Docker-Engine-Moby-privilege-escalation-via-Supplementary-Group-39228" class="noirorange"><b>Docker Engine/Moby</b>: privilege escalation via Supplementary Group</a>](https://vigilance.fr/vulnerability/Docker-Engine-Moby-privilege-escalation-via-Supplementary-Group-39228)|An attacker can bypass restrictions of Docker Engine/Moby, via Supplementary Group, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-stex-queuecommand-lck-39227" class="noirorange"><b>Linux kernel</b>: memory reading via <wbr>stex_queuecommand_lc<wbr>k()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-stex-queuecommand-lck-39227)|An attacker can read a memory fragment of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MediaWiki-Cross-Site-Scripting-via-SpecialContributions-php-39226" class="noirorange"><b>MediaWiki</b>: Cross Site Scripting via <wbr>SpecialContributions<wbr>.php</wbr></wbr></a>](https://vigilance.fr/vulnerability/MediaWiki-Cross-Site-Scripting-via-SpecialContributions-php-39226)|An attacker can trigger a Cross Site Scripting of MediaWiki, via |Visit link for details|
  
  ---
 
@@ -117,19 +89,47 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Vim-NULL-pointer-dereference-via-generate-loadvar-39236" class="noirorange"><b>Vim</b>: NULL pointer dereference via generate_loadvar()</a>](https://vigilance.fr/vulnerability/Vim-NULL-pointer-dereference-via-generate-loadvar-39236)|An attacker can force a NULL pointer to be dereferenced on Vim, via generate_loadvar(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-compile-nested-function-39235" class="noirorange"><b>Vim</b>: reuse after free via <wbr>compile_nested_funct<wbr>ion()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-compile-nested-function-39235)|An attacker can force the reuse of a freed memory area of Vim, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-latin-ptr2len-39234" class="noirorange"><b>Vim</b>: buffer overflow via latin_ptr2len()</a>](https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-latin-ptr2len-39234)|An attacker can trigger a buffer overflow of Vim, via latin_ptr2len(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-memory-corruption-via-diff-mark-adjust-tp-39233" class="noirorange"><b>Vim</b>: memory corruption via <wbr>diff_mark_adjust_tp(<wbr>)</wbr></wbr></a>](https://vigilance.fr/vulnerability/Vim-memory-corruption-via-diff-mark-adjust-tp-39233)|An attacker can trigger a memory corruption of Vim, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-out-of-bounds-memory-reading-via-cstrchr-39232" class="noirorange"><b>Vim</b>: out-of-bounds memory reading via cstrchr()</a>](https://vigilance.fr/vulnerability/Vim-out-of-bounds-memory-reading-via-cstrchr-39232)|An attacker can force a read at an invalid memory address of Vim, via cstrchr(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-eval-string-39231" class="noirorange"><b>Vim</b>: buffer overflow via eval_string()</a>](https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-eval-string-39231)|An attacker can trigger a buffer overflow of Vim, via eval_string(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-ins-comp-get-next-word-or-line-39230" class="noirorange"><b>Vim</b>: buffer overflow via <wbr>ins_comp_get_next_wo<wbr>rd_or_line()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-ins-comp-get-next-word-or-line-39230)|An attacker can trigger a buffer overflow of Vim, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-apply-autocmds-group-39229" class="noirorange"><b>Vim</b>: buffer overflow via <wbr>apply_autocmds_group<wbr>()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-apply-autocmds-group-39229)|An attacker can trigger a buffer overflow of Vim, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Docker-Engine-Moby-privilege-escalation-via-Supplementary-Group-39228" class="noirorange"><b>Docker Engine/Moby</b>: privilege escalation via Supplementary Group</a>](https://vigilance.fr/vulnerability/Docker-Engine-Moby-privilege-escalation-via-Supplementary-Group-39228)|An attacker can bypass restrictions of Docker Engine/Moby, via Supplementary Group, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-stex-queuecommand-lck-39227" class="noirorange"><b>Linux kernel</b>: memory reading via <wbr>stex_queuecommand_lc<wbr>k()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-stex-queuecommand-lck-39227)|An attacker can read a memory fragment of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/MediaWiki-Cross-Site-Scripting-via-SpecialContributions-php-39226" class="noirorange"><b>MediaWiki</b>: Cross Site Scripting via <wbr>SpecialContributions<wbr>.php</wbr></wbr></a>](https://vigilance.fr/vulnerability/MediaWiki-Cross-Site-Scripting-via-SpecialContributions-php-39226)|An attacker can trigger a Cross Site Scripting of MediaWiki, via |Visit link for details|
+ |[(Pwn2Own) Tesla ice_updater Time-Of-Check Time-Of-Use Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1188/)|Visit link for details|Sept. 8, 2022|
+ |[(Pwn2Own) ConnMan received_data Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1187/)|Visit link for details|Sept. 8, 2022|
+ |[(Pwn2Own) ConnMan wispr_portal_web_result wp_object Double Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1186/)|Visit link for details|Sept. 8, 2022|
+ |[Microsoft Windows Active Directory Certificate Services Improper Authorization Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1185/)|Visit link for details|Sept. 6, 2022|
+ |[ManageEngine OpManager Plus getDNSResolveOption Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1184/)|Visit link for details|Sept. 5, 2022|
+ |[ManageEngine NetFlow Analyzer getDNSResolveOption Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1183/)|Visit link for details|Sept. 1, 2022|
+ |[ManageEngine OpManager getNmapInitialOption Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1182/)|Visit link for details|Sept. 1, 2022|
+ |[ManageEngine OpManager Plus getNmapInitialOption Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1181/)|Visit link for details|Sept. 1, 2022|
+ 
+ ---
+
+## CERT-FR [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-807/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une atteinte à la confidentialité des données.|Publié le 9 septembre 2022|
+ |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-806/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 8 septembre 2022|
+ |[Vulnérabilité dans Tenable.sc](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-805/)|Une vulnérabilité a été découverte dans Tenable.sc. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 8 septembre 2022|
+ |[Multiples vulnérabilités dans Aruba Clearpass Policy Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-804/)|De multiples vulnérabilités ont été découvertes dans Aruba Clearpass Policy Manager. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service et une atteinte à l'intégrité des données.|Publié le 8 septembre 2022|
+ |[Vulnérabilité dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-803/)|Une vulnérabilité a été découverte dans Wireshark. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 8 septembre 2022|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-802/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 7 septembre 2022|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-801/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 7 septembre 2022|
+ |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-800/)|De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 7 septembre 2022|
+ |[Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-799/)|De multiples vulnérabilités ont été découvertes dans Google Android. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 7 septembre 2022|
+ |[Vulnérabilité dans WithSecure F-Secure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-798/)|Une vulnérabilité a été découverte dans WithSecure F-Secure. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 6 septembre 2022|
+ 
+ ---
+
+## IBMCLOUD [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Octopus Deploy file upload (CVE-2022-2528)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 9, 2022|
+ |[UBports Ubuntu Touch weak security (CVE-2022-40297)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 9, 2022|
+ |[gravitl Netmaker privilege escalation (CVE-2022-36110)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 9, 2022|
+ |[Moby code execution (CVE-2022-36109)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 9, 2022|
+ |[Hyperledger indy-node denial of service (CVE-2022-31006)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 9, 2022|
+ |[Linux Kernel information> disclosure](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 9, 2022|
+ |[AirDisk application for iOS cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 9, 2022|
  
