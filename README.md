@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 11/09/2022 09:11:32 UTC
+ > Last Updated 11/09/2022 21:13:11 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -36,54 +36,6 @@
  
  ---
 
-## CERT-FR [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-807/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une atteinte à la confidentialité des données.|Publié le 9 septembre 2022|
- |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-806/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 8 septembre 2022|
- |[Vulnérabilité dans Tenable.sc](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-805/)|Une vulnérabilité a été découverte dans Tenable.sc. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 8 septembre 2022|
- |[Multiples vulnérabilités dans Aruba Clearpass Policy Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-804/)|De multiples vulnérabilités ont été découvertes dans Aruba Clearpass Policy Manager. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service et une atteinte à l'intégrité des données.|Publié le 8 septembre 2022|
- |[Vulnérabilité dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-803/)|Une vulnérabilité a été découverte dans Wireshark. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 8 septembre 2022|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-802/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 7 septembre 2022|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-801/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 7 septembre 2022|
- |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-800/)|De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 7 septembre 2022|
- |[Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-799/)|De multiples vulnérabilités ont été découvertes dans Google Android. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 7 septembre 2022|
- |[Vulnérabilité dans WithSecure F-Secure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-798/)|Une vulnérabilité a été découverte dans WithSecure F-Secure. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 6 septembre 2022|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[PTC Kepware KEPServerEX OPC UA Message stack-based overflow](https://vuldb.com/?id.208303)|Visit link for details|2022-09-11 at 21:57|
- |[PTC Kepware KEPServerEX OPC UA Message heap-based overflow](https://vuldb.com/?id.208302)|Visit link for details|2022-09-11 at 21:56|
- |[MZ Automation libIEC61850 null pointer dereference](https://vuldb.com/?id.208301)|Visit link for details|2022-09-11 at 21:38|
- |[MZ Automation libIEC61850 type confusion](https://vuldb.com/?id.208300)|Visit link for details|2022-09-11 at 21:37|
- |[MZ Automation libIEC61850 stack-based overflow](https://vuldb.com/?id.208299)|Visit link for details|2022-09-11 at 21:36|
- |[MZ Automation libIEC61850 memcpy stack-based overflow](https://vuldb.com/?id.208298)|Visit link for details|2022-09-11 at 21:35|
- |[Shirne CMS controller.php path traversal](https://vuldb.com/?id.208297)|Visit link for details|2022-09-11 at 16:01|
- |[Markdown-Nice cross site scripting](https://vuldb.com/?id.208296)|Visit link for details|2022-09-11 at 16:00|
- |[OpenKM javascript Substring cross site scripting](https://vuldb.com/?id.208295)|Visit link for details|2022-09-11 at 16:00|
- |[aEnrich a+HRD file inclusion](https://vuldb.com/?id.208294)|Visit link for details|2022-09-11 at 15:59|
- 
- ---
-
-## IBMCLOUD [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Octopus Deploy file upload (CVE-2022-2528)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 9, 2022|
- |[UBports Ubuntu Touch weak security (CVE-2022-40297)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 9, 2022|
- |[gravitl Netmaker privilege escalation (CVE-2022-36110)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 9, 2022|
- |[Moby code execution (CVE-2022-36109)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 9, 2022|
- |[Hyperledger indy-node denial of service (CVE-2022-31006)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 9, 2022|
- |[Linux Kernel information> disclosure](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 9, 2022|
- |[AirDisk application for iOS cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 9, 2022|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -102,18 +54,34 @@
  
  ---
 
-## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
+## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[(Pwn2Own) Tesla ice_updater Time-Of-Check Time-Of-Use Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1188/)|Visit link for details|Sept. 8, 2022|
- |[(Pwn2Own) ConnMan received_data Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1187/)|Visit link for details|Sept. 8, 2022|
- |[(Pwn2Own) ConnMan wispr_portal_web_result wp_object Double Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1186/)|Visit link for details|Sept. 8, 2022|
- |[Microsoft Windows Active Directory Certificate Services Improper Authorization Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1185/)|Visit link for details|Sept. 6, 2022|
- |[ManageEngine OpManager Plus getDNSResolveOption Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1184/)|Visit link for details|Sept. 5, 2022|
- |[ManageEngine NetFlow Analyzer getDNSResolveOption Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1183/)|Visit link for details|Sept. 1, 2022|
- |[ManageEngine OpManager getNmapInitialOption Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1182/)|Visit link for details|Sept. 1, 2022|
- |[ManageEngine OpManager Plus getNmapInitialOption Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1181/)|Visit link for details|Sept. 1, 2022|
+ |[Apache Calcite xml external entity reference](https://vuldb.com/?id.208304)|Visit link for details|2022-09-11 at 17:21|
+ |[PTC Kepware KEPServerEX OPC UA Message stack-based overflow](https://vuldb.com/?id.208303)|Visit link for details|2022-09-11 at 21:57|
+ |[PTC Kepware KEPServerEX OPC UA Message heap-based overflow](https://vuldb.com/?id.208302)|Visit link for details|2022-09-11 at 21:56|
+ |[MZ Automation libIEC61850 null pointer dereference](https://vuldb.com/?id.208301)|Visit link for details|2022-09-11 at 21:38|
+ |[MZ Automation libIEC61850 type confusion](https://vuldb.com/?id.208300)|Visit link for details|2022-09-11 at 21:37|
+ |[MZ Automation libIEC61850 stack-based overflow](https://vuldb.com/?id.208299)|Visit link for details|2022-09-11 at 21:36|
+ |[MZ Automation libIEC61850 memcpy stack-based overflow](https://vuldb.com/?id.208298)|Visit link for details|2022-09-11 at 21:35|
+ |[Shirne CMS controller.php path traversal](https://vuldb.com/?id.208297)|Visit link for details|2022-09-11 at 16:01|
+ |[Markdown-Nice cross site scripting](https://vuldb.com/?id.208296)|Visit link for details|2022-09-11 at 16:00|
+ |[OpenKM javascript Substring cross site scripting](https://vuldb.com/?id.208295)|Visit link for details|2022-09-11 at 16:00|
+ 
+ ---
+
+## IBMCLOUD [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Octopus Deploy file upload (CVE-2022-2528)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 9, 2022|
+ |[UBports Ubuntu Touch weak security (CVE-2022-40297)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 9, 2022|
+ |[gravitl Netmaker privilege escalation (CVE-2022-36110)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 9, 2022|
+ |[Moby code execution (CVE-2022-36109)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 9, 2022|
+ |[Hyperledger indy-node denial of service (CVE-2022-31006)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 9, 2022|
+ |[Linux Kernel information> disclosure](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 9, 2022|
+ |[AirDisk application for iOS cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 9, 2022|
  
  ---
 
@@ -132,4 +100,36 @@
  |[38030509/22 - Exploitation active d'une vulnérabilité de haute gravité dans Google Chrome](https://www.dgssi.gov.ma//fr/content/3803050922-exploitation-active-d-une-vulnerabilite-de-haute-gravite-dans-google-chrome.html)|Google a publié Chrome 105.0.5195.102 pour Windows, Mac et Linux afin de corriger une vulnérabilité de haute gravité (CVE-2022-3075) qui est activement exploitée.Les utilisateurs de Google Chrome sous Windows, Mac et Linux sont invités à...|05 septembre 2022|
  |[38020209/22 - Vulnérabilités dans Mozilla Thunderbird](https://www.dgssi.gov.ma//fr/content/3802020922-vulnerabilites-dans-mozilla-thunderbird.html)|Mozilla a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Mozilla Thunderbird. Un attaquant pourrait exploiter certaines de ces failles afin de causer un déni de service et de porter atteinte à la...|02 septembre 2022|
  |[3801019/22 - Vulnérabilité dans le CMS Joomla](https://www.dgssi.gov.ma//fr/content/380101922-vulnerabilite-dans-le-cms-joomla.html)|Une vulnérabilité a été corrigée dans le CMS Joomla. L’exploitation de cette faille permet à un attaquant de porter atteinte à la confidentialité de données.|01 septembre 2022|
+ 
+ ---
+
+## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(Pwn2Own) Tesla ice_updater Time-Of-Check Time-Of-Use Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1188/)|Visit link for details|Sept. 8, 2022|
+ |[(Pwn2Own) ConnMan received_data Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1187/)|Visit link for details|Sept. 8, 2022|
+ |[(Pwn2Own) ConnMan wispr_portal_web_result wp_object Double Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1186/)|Visit link for details|Sept. 8, 2022|
+ |[Microsoft Windows Active Directory Certificate Services Improper Authorization Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1185/)|Visit link for details|Sept. 6, 2022|
+ |[ManageEngine OpManager Plus getDNSResolveOption Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1184/)|Visit link for details|Sept. 5, 2022|
+ |[ManageEngine NetFlow Analyzer getDNSResolveOption Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1183/)|Visit link for details|Sept. 1, 2022|
+ |[ManageEngine OpManager getNmapInitialOption Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1182/)|Visit link for details|Sept. 1, 2022|
+ |[ManageEngine OpManager Plus getNmapInitialOption Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1181/)|Visit link for details|Sept. 1, 2022|
+ 
+ ---
+
+## CERT-FR [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-807/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une atteinte à la confidentialité des données.|Publié le 9 septembre 2022|
+ |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-806/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 8 septembre 2022|
+ |[Vulnérabilité dans Tenable.sc](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-805/)|Une vulnérabilité a été découverte dans Tenable.sc. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 8 septembre 2022|
+ |[Multiples vulnérabilités dans Aruba Clearpass Policy Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-804/)|De multiples vulnérabilités ont été découvertes dans Aruba Clearpass Policy Manager. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service et une atteinte à l'intégrité des données.|Publié le 8 septembre 2022|
+ |[Vulnérabilité dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-803/)|Une vulnérabilité a été découverte dans Wireshark. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 8 septembre 2022|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-802/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 7 septembre 2022|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-801/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 7 septembre 2022|
+ |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-800/)|De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 7 septembre 2022|
+ |[Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-799/)|De multiples vulnérabilités ont été découvertes dans Google Android. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 7 septembre 2022|
+ |[Vulnérabilité dans WithSecure F-Secure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-798/)|Une vulnérabilité a été découverte dans WithSecure F-Secure. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 6 septembre 2022|
  
