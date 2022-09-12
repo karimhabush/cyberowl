@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 11/09/2022 21:13:11 UTC
+ > Last Updated 12/09/2022 09:20:53 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -40,6 +40,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-efi-capsule-flush-39240" class="noirorange"><b>Linux kernel</b>: reuse after free via efi_capsule_flush()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-efi-capsule-flush-39240)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-ismt-access-39239" class="noirorange"><b>Linux kernel</b>: buffer overflow via ismt_access()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-ismt-access-39239)|An attacker can trigger a buffer overflow of the Linux kernel, via ismt_access(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-NULL-pointer-dereference-via-assert-fails-39238" class="noirorange"><b>Vim</b>: NULL pointer dereference via assert_fails()</a>](https://vigilance.fr/vulnerability/Vim-NULL-pointer-dereference-via-assert-fails-39238)|An attacker can force a NULL pointer to be dereferenced on Vim, via assert_fails(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Vim-NULL-pointer-dereference-via-generate-loadvar-39236" class="noirorange"><b>Vim</b>: NULL pointer dereference via generate_loadvar()</a>](https://vigilance.fr/vulnerability/Vim-NULL-pointer-dereference-via-generate-loadvar-39236)|An attacker can force a NULL pointer to be dereferenced on Vim, via generate_loadvar(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-compile-nested-function-39235" class="noirorange"><b>Vim</b>: reuse after free via <wbr>compile_nested_funct<wbr>ion()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-compile-nested-function-39235)|An attacker can force the reuse of a freed memory area of Vim, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-latin-ptr2len-39234" class="noirorange"><b>Vim</b>: buffer overflow via latin_ptr2len()</a>](https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-latin-ptr2len-39234)|An attacker can trigger a buffer overflow of Vim, via latin_ptr2len(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
@@ -48,9 +51,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-eval-string-39231" class="noirorange"><b>Vim</b>: buffer overflow via eval_string()</a>](https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-eval-string-39231)|An attacker can trigger a buffer overflow of Vim, via eval_string(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-ins-comp-get-next-word-or-line-39230" class="noirorange"><b>Vim</b>: buffer overflow via <wbr>ins_comp_get_next_wo<wbr>rd_or_line()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-ins-comp-get-next-word-or-line-39230)|An attacker can trigger a buffer overflow of Vim, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-apply-autocmds-group-39229" class="noirorange"><b>Vim</b>: buffer overflow via <wbr>apply_autocmds_group<wbr>()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-apply-autocmds-group-39229)|An attacker can trigger a buffer overflow of Vim, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Docker-Engine-Moby-privilege-escalation-via-Supplementary-Group-39228" class="noirorange"><b>Docker Engine/Moby</b>: privilege escalation via Supplementary Group</a>](https://vigilance.fr/vulnerability/Docker-Engine-Moby-privilege-escalation-via-Supplementary-Group-39228)|An attacker can bypass restrictions of Docker Engine/Moby, via Supplementary Group, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-stex-queuecommand-lck-39227" class="noirorange"><b>Linux kernel</b>: memory reading via <wbr>stex_queuecommand_lc<wbr>k()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-stex-queuecommand-lck-39227)|An attacker can read a memory fragment of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/MediaWiki-Cross-Site-Scripting-via-SpecialContributions-php-39226" class="noirorange"><b>MediaWiki</b>: Cross Site Scripting via <wbr>SpecialContributions<wbr>.php</wbr></wbr></a>](https://vigilance.fr/vulnerability/MediaWiki-Cross-Site-Scripting-via-SpecialContributions-php-39226)|An attacker can trigger a Cross Site Scripting of MediaWiki, via |Visit link for details|
  
  ---
 
@@ -58,16 +58,23 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Apache Calcite xml external entity reference](https://vuldb.com/?id.208304)|Visit link for details|2022-09-11 at 17:21|
- |[PTC Kepware KEPServerEX OPC UA Message stack-based overflow](https://vuldb.com/?id.208303)|Visit link for details|2022-09-11 at 21:57|
- |[PTC Kepware KEPServerEX OPC UA Message heap-based overflow](https://vuldb.com/?id.208302)|Visit link for details|2022-09-11 at 21:56|
- |[MZ Automation libIEC61850 null pointer dereference](https://vuldb.com/?id.208301)|Visit link for details|2022-09-11 at 21:38|
- |[MZ Automation libIEC61850 type confusion](https://vuldb.com/?id.208300)|Visit link for details|2022-09-11 at 21:37|
- |[MZ Automation libIEC61850 stack-based overflow](https://vuldb.com/?id.208299)|Visit link for details|2022-09-11 at 21:36|
- |[MZ Automation libIEC61850 memcpy stack-based overflow](https://vuldb.com/?id.208298)|Visit link for details|2022-09-11 at 21:35|
- |[Shirne CMS controller.php path traversal](https://vuldb.com/?id.208297)|Visit link for details|2022-09-11 at 16:01|
- |[Markdown-Nice cross site scripting](https://vuldb.com/?id.208296)|Visit link for details|2022-09-11 at 16:00|
- |[OpenKM javascript Substring cross site scripting](https://vuldb.com/?id.208295)|Visit link for details|2022-09-11 at 16:00|
+ 
+ ---
+
+## CERT-FR [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-807/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une atteinte à la confidentialité des données.|Publié le 9 septembre 2022|
+ |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-806/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 8 septembre 2022|
+ |[Vulnérabilité dans Tenable.sc](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-805/)|Une vulnérabilité a été découverte dans Tenable.sc. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 8 septembre 2022|
+ |[Multiples vulnérabilités dans Aruba Clearpass Policy Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-804/)|De multiples vulnérabilités ont été découvertes dans Aruba Clearpass Policy Manager. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service et une atteinte à l'intégrité des données.|Publié le 8 septembre 2022|
+ |[Vulnérabilité dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-803/)|Une vulnérabilité a été découverte dans Wireshark. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 8 septembre 2022|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-802/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 7 septembre 2022|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-801/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 7 septembre 2022|
+ |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-800/)|De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 7 septembre 2022|
+ |[Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-799/)|De multiples vulnérabilités ont été découvertes dans Google Android. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 7 septembre 2022|
+ |[Vulnérabilité dans WithSecure F-Secure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-798/)|Une vulnérabilité a été découverte dans WithSecure F-Secure. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 6 septembre 2022|
  
  ---
 
@@ -75,13 +82,13 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Markdown-Nice cross-site scripting (CVE-2022-38639)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 11, 2022|
  |[Octopus Deploy file upload (CVE-2022-2528)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 9, 2022|
  |[UBports Ubuntu Touch weak security (CVE-2022-40297)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 9, 2022|
  |[gravitl Netmaker privilege escalation (CVE-2022-36110)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 9, 2022|
  |[Moby code execution (CVE-2022-36109)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 9, 2022|
  |[Hyperledger indy-node denial of service (CVE-2022-31006)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 9, 2022|
  |[Linux Kernel information> disclosure](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 9, 2022|
- |[AirDisk application for iOS cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 9, 2022|
  
  ---
 
@@ -115,21 +122,4 @@
  |[ManageEngine NetFlow Analyzer getDNSResolveOption Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1183/)|Visit link for details|Sept. 1, 2022|
  |[ManageEngine OpManager getNmapInitialOption Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1182/)|Visit link for details|Sept. 1, 2022|
  |[ManageEngine OpManager Plus getNmapInitialOption Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1181/)|Visit link for details|Sept. 1, 2022|
- 
- ---
-
-## CERT-FR [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-807/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une atteinte à la confidentialité des données.|Publié le 9 septembre 2022|
- |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-806/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 8 septembre 2022|
- |[Vulnérabilité dans Tenable.sc](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-805/)|Une vulnérabilité a été découverte dans Tenable.sc. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 8 septembre 2022|
- |[Multiples vulnérabilités dans Aruba Clearpass Policy Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-804/)|De multiples vulnérabilités ont été découvertes dans Aruba Clearpass Policy Manager. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service et une atteinte à l'intégrité des données.|Publié le 8 septembre 2022|
- |[Vulnérabilité dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-803/)|Une vulnérabilité a été découverte dans Wireshark. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 8 septembre 2022|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-802/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 7 septembre 2022|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-801/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 7 septembre 2022|
- |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-800/)|De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 7 septembre 2022|
- |[Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-799/)|De multiples vulnérabilités ont été découvertes dans Google Android. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 7 septembre 2022|
- |[Vulnérabilité dans WithSecure F-Secure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-798/)|Une vulnérabilité a été découverte dans WithSecure F-Secure. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 6 septembre 2022|
  
