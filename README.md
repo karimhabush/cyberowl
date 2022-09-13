@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 12/09/2022 21:13:07 UTC
+ > Last Updated 13/09/2022 09:17:14 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -36,38 +36,17 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+## IBMCLOUD [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-39249" class="noirorange"><b>Apple iOS/macOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-39249)|An attacker can use several vulnerabilities of Apple iOS/macOS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebSphere-AS-Cross-Site-Scripting-via-Admin-Console-39248" class="noirorange"><b>WebSphere AS</b>: Cross Site Scripting via Admin Console</a>](https://vigilance.fr/vulnerability/WebSphere-AS-Cross-Site-Scripting-via-Admin-Console-39248)|An attacker can trigger a Cross Site Scripting of WebSphere AS, via Admin Console, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-db2expln-39247" class="noirorange"><b>IBM Db2</b>: denial of service via db2expln</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-db2expln-39247)|An attacker can cause a fatal error of IBM Db2, via db2expln, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-information-disclosure-via-CREATE-OR-REPLACE-39246" class="noirorange"><b>IBM Db2</b>: information disclosure via CREATE OR REPLACE</a>](https://vigilance.fr/vulnerability/IBM-Db2-information-disclosure-via-CREATE-OR-REPLACE-39246)|An attacker can bypass access restrictions to data of IBM Db2, via CREATE OR REPLACE, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/frr-out-of-bounds-memory-reading-via-BGP-Daemon-39245" class="noirorange"><b>frr</b>: out-of-bounds memory reading via BGP Daemon</a>](https://vigilance.fr/vulnerability/frr-out-of-bounds-memory-reading-via-BGP-Daemon-39245)|An attacker can force a read at an invalid memory address of frr, via BGP Daemon, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/frr-memory-leak-via-IS-IS-Daemon-39244" class="noirorange"><b>frr</b>: memory leak via IS-IS Daemon</a>](https://vigilance.fr/vulnerability/frr-memory-leak-via-IS-IS-Daemon-39244)|An attacker can create a memory leak of frr, via IS-IS Daemon, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libyang-four-vulnerabilities-39243" class="noirorange"><b>libyang</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/libyang-four-vulnerabilities-39243)|An attacker can use several vulnerabilities of libyang...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Node-js-vm2-prototype-pollution-39242" class="noirorange"><b>Node.js vm2</b>: prototype pollution</a>](https://vigilance.fr/vulnerability/Node-js-vm2-prototype-pollution-39242)|An attacker can alter the JavaScript code of Node.js vm2, in order to change the software behavior...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-efi-capsule-flush-39240" class="noirorange"><b>Linux kernel</b>: reuse after free via efi_capsule_flush()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-efi-capsule-flush-39240)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-ismt-access-39239" class="noirorange"><b>Linux kernel</b>: buffer overflow via ismt_access()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-ismt-access-39239)|An attacker can trigger a buffer overflow of the Linux kernel, via ismt_access(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-NULL-pointer-dereference-via-assert-fails-39238" class="noirorange"><b>Vim</b>: NULL pointer dereference via assert_fails()</a>](https://vigilance.fr/vulnerability/Vim-NULL-pointer-dereference-via-assert-fails-39238)|An attacker can force a NULL pointer to be dereferenced on Vim, via assert_fails(), in order to trigger a denial of service...|Visit link for details|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Torguard VPN information disclosure](https://vuldb.com/?id.208323)|Visit link for details|2022-09-12 at 16:32|
- |[SysAid Help Desk Asset Dashboard cross site scripting](https://vuldb.com/?id.208322)|Visit link for details|2022-09-12 at 09:24|
- |[SysAid Help Desk Linked SR cross site scripting](https://vuldb.com/?id.208321)|Visit link for details|2022-09-12 at 09:23|
- |[SysAid Help Desk Password Services Module cross site scripting](https://vuldb.com/?id.208320)|Visit link for details|2022-09-12 at 09:23|
- |[SysAid Help Desk cross site scripting](https://vuldb.com/?id.208319)|Visit link for details|2022-09-12 at 09:22|
- |[Movable Type plugin A-Form cross site scripting](https://vuldb.com/?id.208318)|Visit link for details|2022-09-12 at 09:22|
- |[sazanrjb InventoryManagementSystem ConnectionFactory.java sql injection](https://vuldb.com/?id.208317)|Visit link for details|2022-09-12 at 09:21|
- |[sazanrjb InventoryManagementSystem CustomerDAO.java sql injection](https://vuldb.com/?id.208316)|Visit link for details|2022-09-12 at 09:18|
- |[sazanrjb InventoryManagementSystem UserDAO.java sql injection](https://vuldb.com/?id.208315)|Visit link for details|2022-09-12 at 09:17|
- |[sazanrjb InventoryManagementSystem Stocks.java sql injection](https://vuldb.com/?id.208314)|Visit link for details|2022-09-12 at 09:15|
+ |[Apple macOS Big Sur and Monterey information disclosure (CVE-2022-32896)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 12, 2022|
+ |[Apple macOS Big Sur and Monterey privilege escalation (CVE-2022-32900)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 12, 2022|
+ |[Apple macOS Big Sur and Monterey security bypass (CVE-2022-32902)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 12, 2022|
+ |[OpenKM cross-site scripting (CVE-2022-40317)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 12, 2022|
+ |[Matrix Dendrite security bypass (CVE-2022-39200)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 12, 2022|
+ |[Apple iOS and iPadOS Safari spoofing (CVE-2022-32795)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 12, 2022|
+ |[Apple iOS and iPadOS Contacts security bypass (CVE-2022-32854)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 12, 2022|
  
  ---
 
@@ -88,6 +67,41 @@
  
  ---
 
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-libapreq2-buffer-overflow-via-Multipart-Form-Upload-39252" class="noirorange"><b>Apache libapreq2</b>: buffer overflow via Multipart Form Upload</a>](https://vigilance.fr/vulnerability/Apache-libapreq2-buffer-overflow-via-Multipart-Form-Upload-39252)|An attacker can trigger a buffer overflow of Apache libapreq2, via Multipart Form Upload, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/AIX-privilege-escalation-via-invscout-39251" class="noirorange"><b>AIX</b>: privilege escalation via invscout</a>](https://vigilance.fr/vulnerability/AIX-privilege-escalation-via-invscout-39251)|An attacker can bypass restrictions of AIX, via invscout, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/AIX-privilege-escalation-via-Kernel-39250" class="noirorange"><b>AIX</b>: privilege escalation via Kernel</a>](https://vigilance.fr/vulnerability/AIX-privilege-escalation-via-Kernel-39250)|An attacker can bypass restrictions of AIX, via Kernel, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-39249" class="noirorange"><b>Apple iOS/macOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-39249)|An attacker can use several vulnerabilities of Apple iOS/macOS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebSphere-AS-Cross-Site-Scripting-via-Admin-Console-39248" class="noirorange"><b>WebSphere AS</b>: Cross Site Scripting via Admin Console</a>](https://vigilance.fr/vulnerability/WebSphere-AS-Cross-Site-Scripting-via-Admin-Console-39248)|An attacker can trigger a Cross Site Scripting of WebSphere AS, via Admin Console, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-db2expln-39247" class="noirorange"><b>IBM Db2</b>: denial of service via db2expln</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-db2expln-39247)|An attacker can cause a fatal error of IBM Db2, via db2expln, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-information-disclosure-via-CREATE-OR-REPLACE-39246" class="noirorange"><b>IBM Db2</b>: information disclosure via CREATE OR REPLACE</a>](https://vigilance.fr/vulnerability/IBM-Db2-information-disclosure-via-CREATE-OR-REPLACE-39246)|An attacker can bypass access restrictions to data of IBM Db2, via CREATE OR REPLACE, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/frr-out-of-bounds-memory-reading-via-BGP-Daemon-39245" class="noirorange"><b>frr</b>: out-of-bounds memory reading via BGP Daemon</a>](https://vigilance.fr/vulnerability/frr-out-of-bounds-memory-reading-via-BGP-Daemon-39245)|An attacker can force a read at an invalid memory address of frr, via BGP Daemon, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/frr-memory-leak-via-IS-IS-Daemon-39244" class="noirorange"><b>frr</b>: memory leak via IS-IS Daemon</a>](https://vigilance.fr/vulnerability/frr-memory-leak-via-IS-IS-Daemon-39244)|An attacker can create a memory leak of frr, via IS-IS Daemon, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libyang-four-vulnerabilities-39243" class="noirorange"><b>libyang</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/libyang-four-vulnerabilities-39243)|An attacker can use several vulnerabilities of libyang...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-vm2-prototype-pollution-39242" class="noirorange"><b>Node.js vm2</b>: prototype pollution</a>](https://vigilance.fr/vulnerability/Node-js-vm2-prototype-pollution-39242)|An attacker can alter the JavaScript code of Node.js vm2, in order to change the software behavior...|Visit link for details|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Zephyr Project Manager admin-ajax.php sql injection](https://vuldb.com/?id.208362)|Visit link for details|2022-09-13 at 10:41|
+ |[Dell BIOS return value](https://vuldb.com/?id.208361)|Visit link for details|2022-09-13 at 10:38|
+ |[Dell BIOS unknown vulnerability](https://vuldb.com/?id.208360)|Visit link for details|2022-09-13 at 10:38|
+ |[Dell BIOS null byte or nul character](https://vuldb.com/?id.208359)|Visit link for details|2022-09-13 at 10:37|
+ |[Dell BIOS information disclosure](https://vuldb.com/?id.208358)|Visit link for details|2022-09-13 at 10:37|
+ |[Dell BIOS return value](https://vuldb.com/?id.208357)|Visit link for details|2022-09-13 at 10:36|
+ |[Cuppa CMS Add New Group cu_user_groups cross site scripting](https://vuldb.com/?id.208356)|Visit link for details|2022-09-13 at 10:36|
+ |[Slims9 Senayan Library Management System Search Bar cross site scripting](https://vuldb.com/?id.208355)|Visit link for details|2022-09-13 at 10:35|
+ |[Hitachi Energy MicroSCADA X SYS600 Workplace X WebUI improper authorization](https://vuldb.com/?id.208354)|Visit link for details|2022-09-13 at 10:34|
+ |[TP-Link M7350 V3 Web Configuration Interface command injection](https://vuldb.com/?id.208353)|Visit link for details|2022-09-13 at 10:32|
+ 
+ ---
+
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -103,20 +117,6 @@
  |[38050609/22 - Compagne d’attaques par le ransomware « DeadBolt » cible les NAS QNAP](https://www.dgssi.gov.ma//fr/content/3805060922-compagne-d-attaques-par-le-ransomware-deadbolt-cible-les-nas-qnap.html)|Une nouvelle vague d’attaques de ransomware « DeadBolt » exploitant une faille zero-day cible les périphériques de stockage en réseau (NAS) exécutant les versions susmentionnées de Station photo.A cet effet, QNAP a publié un avis de...|06 septembre 2022|
  |[38040509/22 - Vulnérabilitédans Microsoft Edge Chromium-based](https://www.dgssi.gov.ma//fr/content/3804050922-vulnerabilite-dans-microsoft-edge-chromium-based.html)|Une vulnérabilité critique a été corrigée dans Microsoft Edge (Chromium-based). L’exploitation de cette faille permet à un attaquant de prendre le contrôle du système affecté.Google confirme quela vulnérabilité CVE-2022-3075 est...|05 septembre 2022|
  |[38030509/22 - Exploitation active d'une vulnérabilité de haute gravité dans Google Chrome](https://www.dgssi.gov.ma//fr/content/3803050922-exploitation-active-d-une-vulnerabilite-de-haute-gravite-dans-google-chrome.html)|Google a publié Chrome 105.0.5195.102 pour Windows, Mac et Linux afin de corriger une vulnérabilité de haute gravité (CVE-2022-3075) qui est activement exploitée.Les utilisateurs de Google Chrome sous Windows, Mac et Linux sont invités à...|05 septembre 2022|
- 
- ---
-
-## IBMCLOUD [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[ETAP Safety Manager authenticate.php cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 12, 2022|
- |[HP PC products privilege escalation (CVE-2022-31642)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 11, 2022|
- |[HP PC products privilege escalation (CVE-2022-31641)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 11, 2022|
- |[HP PC products privilege escalation (CVE-2022-31640)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 11, 2022|
- |[Markdown-Nice cross-site scripting (CVE-2022-38639)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 11, 2022|
- |[AVEVA InTouch Access Anywhere Secure Gateway directory traversal (CVE-2022-23854)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 9, 2022|
- |[SACCO SQL injection](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 9, 2022|
  
  ---
 
