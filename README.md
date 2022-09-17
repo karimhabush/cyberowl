@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 17/09/2022 09:13:04 UTC
+ > Last Updated 17/09/2022 21:11:38 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -36,59 +36,20 @@
  
  ---
 
-## CERT-FR [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-825/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.|Publié le 15 septembre 2022|
- |[Vulnérabilité dans PaloAlto Cortex XDR Agent](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-824/)|Une vulnérabilité a été découverte dans PaloAlto Cortex XDR Agent. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 15 septembre 2022|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-823/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 septembre 2022|
- |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-822/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 septembre 2022|
- |[Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-821/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 septembre 2022|
- |[Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-820/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 septembre 2022|
- |[Multiples vulnérabilités dans les produits SAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-819/)|De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 14 septembre 2022|
- |[Vulnérabilité dans Citrix Hypervisor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-818/)|Une vulnérabilité a été découverte dans Citrix Hypervisor. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 14 septembre 2022|
- |[Multiples vulnérabilités dans Trend Micro Apex One](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-817/)|De multiples vulnérabilités ont été découvertes dans Trend Micro Apex One. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service et un contournement de la politique de sécurité.|Publié le 14 septembre 2022|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-816/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 14 septembre 2022|
- 
- ---
-
 ## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- 
- ---
-
-## IBMCLOUD [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Rocket LMS min_age max_age SQL injection](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 16, 2022|
- |[EC-CUBE directory traversal (CVE-2022-40199)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 15, 2022|
- |[Tauri information disclosure (CVE-2022-39215)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 15, 2022|
- |[Go-CVSS denial of service (CVE-2022-39213)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 15, 2022|
- |[Nextcloud Files Access Control information disclosure (CVE-2022-36075)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 15, 2022|
- |[Nextcloud Server information disclosure (CVE-2022-36074)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 15, 2022|
- |[GitHub cmark-gfm denial of service (CVE-2022-39209)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 15, 2022|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Intel-SGX-DCAP-denial-of-service-39302" class="noirorange"><b>Intel SGX DCAP</b>: denial of service</a>](https://vigilance.fr/vulnerability/Intel-SGX-DCAP-denial-of-service-39302)|An attacker can cause a fatal error of Intel SGX DCAP, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libraw-four-vulnerabilities-39301" class="noirorange"><b>libraw</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/libraw-four-vulnerabilities-39301)|An attacker can use several vulnerabilities of libraw...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GLPI-Server-Side-Request-Forgery-via-RSS-Feeds-And-Planning-39300" class="noirorange"><b>GLPI</b>: Server-Side Request Forgery via RSS Feeds And Planning</a>](https://vigilance.fr/vulnerability/GLPI-Server-Side-Request-Forgery-via-RSS-Feeds-And-Planning-39300)|An attacker can trigger a Server-Side Request Forgery of GLPI, via RSS Feeds And Planning, in order to force the server to send queries...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GLPI-Cross-Site-Scripting-via-Plugin-Controller-39299" class="noirorange"><b>GLPI</b>: Cross Site Scripting via Plugin Controller</a>](https://vigilance.fr/vulnerability/GLPI-Cross-Site-Scripting-via-Plugin-Controller-39299)|An attacker can trigger a Cross Site Scripting of GLPI, via Plugin Controller, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GLPI-Cross-Site-Scripting-via-Registration-API-39298" class="noirorange"><b>GLPI</b>: Cross Site Scripting via Registration API</a>](https://vigilance.fr/vulnerability/GLPI-Cross-Site-Scripting-via-Registration-API-39298)|An attacker can trigger a Cross Site Scripting of GLPI, via Registration API, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GLPI-Cross-Site-Scripting-via-Global-Search-39297" class="noirorange"><b>GLPI</b>: Cross Site Scripting via Global Search</a>](https://vigilance.fr/vulnerability/GLPI-Cross-Site-Scripting-via-Global-Search-39297)|An attacker can trigger a Cross Site Scripting of GLPI, via Global Search, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GLPI-information-disclosure-via-Login-Page-Error-39296" class="noirorange"><b>GLPI</b>: information disclosure via Login Page Error</a>](https://vigilance.fr/vulnerability/GLPI-information-disclosure-via-Login-Page-Error-39296)|An attacker can bypass access restrictions to data of GLPI, via Login Page Error, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GLPI-user-access-39295" class="noirorange"><b>GLPI</b>: user access</a>](https://vigilance.fr/vulnerability/GLPI-user-access-39295)|An attacker can bypass restrictions of GLPI, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Brocade-Fabric-OS-multiple-vulnerabilities-39294" class="noirorange"><b>Brocade Fabric OS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Brocade-Fabric-OS-multiple-vulnerabilities-39294)|An attacker can use several vulnerabilities of Brocade Fabric OS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Node-Core-vulnerabity-unveiled-on-22-09-2022-39292" class="noirorange"><b>Node Core</b>: vulnerabity unveiled on 22/09/2022</a>](https://vigilance.fr/vulnerability/Node-Core-vulnerabity-unveiled-on-22-09-2022-39292)|A vulnerability of Node Core will be unveiled on 22/09/2022...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/KDiskMark-file-read-write-via-Helper-flushPageCache-39291" class="noirorange"><b>KDiskMark</b>: file read/write via <wbr>Helper::flushPageCac<wbr>he()</wbr></wbr></a>](https://vigilance.fr/vulnerability/KDiskMark-file-read-write-via-Helper-flushPageCache-39291)|An attacker can bypass access restrictions of KDiskMark, via |Visit link for details|
+ |[Google Chrome DevTools input validation](https://vuldb.com/?id.209004)|Visit link for details|2022-09-17 at 17:00|
+ |[Google Chrome Internals heap-based overflow](https://vuldb.com/?id.209003)|Visit link for details|2022-09-17 at 16:59|
+ |[Google Chrome Frames use after free](https://vuldb.com/?id.209002)|Visit link for details|2022-09-17 at 16:58|
+ |[Google Chrome PDF use after free](https://vuldb.com/?id.209001)|Visit link for details|2022-09-17 at 16:58|
+ |[Google Chrome PDF use after free](https://vuldb.com/?id.209000)|Visit link for details|2022-09-17 at 16:57|
+ |[Google Chrome PDF use after free](https://vuldb.com/?id.208999)|Visit link for details|2022-09-17 at 16:57|
+ |[Snipe-IT improper authentication](https://vuldb.com/?id.208998)|Visit link for details|2022-09-17 at 16:49|
+ |[Craft CMS Drafts cross site scripting](https://vuldb.com/?id.208997)|Visit link for details|2022-09-17 at 11:13|
+ |[Craft CMS fields cross site scripting](https://vuldb.com/?id.208996)|Visit link for details|2022-09-17 at 11:13|
+ |[6Kare Emakin Activity Stream Page setProfile cross site scripting](https://vuldb.com/?id.208995)|Visit link for details|2022-09-17 at 11:12|
  
  ---
 
@@ -107,6 +68,55 @@
  |[38171409/22 - Vulnérabilité « Zero-Day » affectant le plugin «WPGateway» pour WordPress](https://www.dgssi.gov.ma//fr/content/3817140922-vulnerabilite-zero-day-affectant-le-plugin-wpgateway-pour-wordpress.html)|WordPressannonce la correction d’unevulnérabilité critique affectant le plugin « WPGateway». Cette vulnérabilité est activement exploitée et peut permettre à un attaquant de prendre le contrôle total sur le site web vulnérable|14 septembre 2022|
  |[38231409/22 - Vulnérabilités dans plusieurs produits Microsoft(Patch Tuesday Septembre 2022)](https://www.dgssi.gov.ma//fr/content/3823140922-vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-septembre-2022.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, de causer un déni de...|14 septembre 2022|
  |[38221409/22 - Vulnérabilité dans les produits Microsoft Azure (Patch Tuesday Septembre 2022)](https://www.dgssi.gov.ma//fr/content/3822140922-vulnerabilite-dans-les-produits-microsoft-azure-patch-tuesday-septembre-2022.html)|Une vulnérabilité a été corrigée dans les produits Azure susmentionnés. L’exploitation de cette faille permet à un attaquant de réussir une élévation de privilèges.|14 septembre 2022|
+ 
+ ---
+
+## IBMCLOUD [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Aspire Software OASES (Open Aviation Strategic Engineering System) code execution (CVE-2022-40337)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 16, 2022|
+ |[Kubernetes kube-apiserver server-side request forgery (CVE-2022-3172)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 16, 2022|
+ |[Rocket LMS min_age max_age SQL injection](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 16, 2022|
+ |[Kubernetes security bypass (CVE-2021-25749)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 15, 2022|
+ |[EC-CUBE directory traversal (CVE-2022-40199)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 15, 2022|
+ |[Tauri information disclosure (CVE-2022-39215)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 15, 2022|
+ |[Go-CVSS denial of service (CVE-2022-39213)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 15, 2022|
+ 
+ ---
+
+## CERT-FR [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-825/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.|Publié le 15 septembre 2022|
+ |[Vulnérabilité dans PaloAlto Cortex XDR Agent](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-824/)|Une vulnérabilité a été découverte dans PaloAlto Cortex XDR Agent. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 15 septembre 2022|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-823/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 septembre 2022|
+ |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-822/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 septembre 2022|
+ |[Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-821/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 septembre 2022|
+ |[Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-820/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 septembre 2022|
+ |[Multiples vulnérabilités dans les produits SAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-819/)|De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 14 septembre 2022|
+ |[Vulnérabilité dans Citrix Hypervisor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-818/)|Une vulnérabilité a été découverte dans Citrix Hypervisor. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 14 septembre 2022|
+ |[Multiples vulnérabilités dans Trend Micro Apex One](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-817/)|De multiples vulnérabilités ont été découvertes dans Trend Micro Apex One. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service et un contournement de la politique de sécurité.|Publié le 14 septembre 2022|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-816/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 14 septembre 2022|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Intel-SGX-DCAP-denial-of-service-39302" class="noirorange"><b>Intel SGX DCAP</b>: denial of service</a>](https://vigilance.fr/vulnerability/Intel-SGX-DCAP-denial-of-service-39302)|An attacker can cause a fatal error of Intel SGX DCAP, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libraw-four-vulnerabilities-39301" class="noirorange"><b>libraw</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/libraw-four-vulnerabilities-39301)|An attacker can use several vulnerabilities of libraw...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GLPI-Server-Side-Request-Forgery-via-RSS-Feeds-And-Planning-39300" class="noirorange"><b>GLPI</b>: Server-Side Request Forgery via RSS Feeds And Planning</a>](https://vigilance.fr/vulnerability/GLPI-Server-Side-Request-Forgery-via-RSS-Feeds-And-Planning-39300)|An attacker can trigger a Server-Side Request Forgery of GLPI, via RSS Feeds And Planning, in order to force the server to send queries...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GLPI-Cross-Site-Scripting-via-Plugin-Controller-39299" class="noirorange"><b>GLPI</b>: Cross Site Scripting via Plugin Controller</a>](https://vigilance.fr/vulnerability/GLPI-Cross-Site-Scripting-via-Plugin-Controller-39299)|An attacker can trigger a Cross Site Scripting of GLPI, via Plugin Controller, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GLPI-Cross-Site-Scripting-via-Registration-API-39298" class="noirorange"><b>GLPI</b>: Cross Site Scripting via Registration API</a>](https://vigilance.fr/vulnerability/GLPI-Cross-Site-Scripting-via-Registration-API-39298)|An attacker can trigger a Cross Site Scripting of GLPI, via Registration API, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GLPI-Cross-Site-Scripting-via-Global-Search-39297" class="noirorange"><b>GLPI</b>: Cross Site Scripting via Global Search</a>](https://vigilance.fr/vulnerability/GLPI-Cross-Site-Scripting-via-Global-Search-39297)|An attacker can trigger a Cross Site Scripting of GLPI, via Global Search, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GLPI-information-disclosure-via-Login-Page-Error-39296" class="noirorange"><b>GLPI</b>: information disclosure via Login Page Error</a>](https://vigilance.fr/vulnerability/GLPI-information-disclosure-via-Login-Page-Error-39296)|An attacker can bypass access restrictions to data of GLPI, via Login Page Error, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GLPI-user-access-39295" class="noirorange"><b>GLPI</b>: user access</a>](https://vigilance.fr/vulnerability/GLPI-user-access-39295)|An attacker can bypass restrictions of GLPI, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Brocade-Fabric-OS-multiple-vulnerabilities-39294" class="noirorange"><b>Brocade Fabric OS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Brocade-Fabric-OS-multiple-vulnerabilities-39294)|An attacker can use several vulnerabilities of Brocade Fabric OS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Node-Core-vulnerabity-unveiled-on-22-09-2022-39292" class="noirorange"><b>Node Core</b>: vulnerabity unveiled on 22/09/2022</a>](https://vigilance.fr/vulnerability/Node-Core-vulnerabity-unveiled-on-22-09-2022-39292)|A vulnerability of Node Core will be unveiled on 22/09/2022...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/KDiskMark-file-read-write-via-Helper-flushPageCache-39291" class="noirorange"><b>KDiskMark</b>: file read/write via <wbr>Helper::flushPageCac<wbr>he()</wbr></wbr></a>](https://vigilance.fr/vulnerability/KDiskMark-file-read-write-via-Helper-flushPageCache-39291)|An attacker can bypass access restrictions of KDiskMark, via |Visit link for details|
  
  ---
 
