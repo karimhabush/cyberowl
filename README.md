@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 16/09/2022 21:11:26 UTC
+ > Last Updated 17/09/2022 09:13:04 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -36,20 +36,6 @@
  
  ---
 
-## IBMCLOUD [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Rocket LMS min_age max_age SQL injection](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 16, 2022|
- |[EC-CUBE directory traversal (CVE-2022-40199)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 15, 2022|
- |[Tauri information disclosure (CVE-2022-39215)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 15, 2022|
- |[Go-CVSS denial of service (CVE-2022-39213)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 15, 2022|
- |[Nextcloud Files Access Control information disclosure (CVE-2022-36075)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 15, 2022|
- |[Nextcloud Server information disclosure (CVE-2022-36074)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 15, 2022|
- |[GitHub cmark-gfm denial of service (CVE-2022-39209)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 15, 2022|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -67,18 +53,24 @@
  
  ---
 
-## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
+## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[Siemens Simcenter Femap X_T File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1249/)|Visit link for details|Sept. 16, 2022|
- |[Siemens Simcenter Femap X_T File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1248/)|Visit link for details|Sept. 16, 2022|
- |[Siemens Simcenter Femap X_T File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1247/)|Visit link for details|Sept. 16, 2022|
- |[Siemens Simcenter Femap X_T File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1246/)|Visit link for details|Sept. 16, 2022|
- |[Siemens Simcenter Femap X_T File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1245/)|Visit link for details|Sept. 16, 2022|
- |[Siemens Simcenter Femap X_T File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1244/)|Visit link for details|Sept. 16, 2022|
- |[Siemens Simcenter Femap X_T File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1243/)|Visit link for details|Sept. 16, 2022|
- |[Siemens Simcenter Femap X_T File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1242/)|Visit link for details|Sept. 16, 2022|
+ 
+ ---
+
+## IBMCLOUD [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Rocket LMS min_age max_age SQL injection](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 16, 2022|
+ |[EC-CUBE directory traversal (CVE-2022-40199)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 15, 2022|
+ |[Tauri information disclosure (CVE-2022-39215)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 15, 2022|
+ |[Go-CVSS denial of service (CVE-2022-39213)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 15, 2022|
+ |[Nextcloud Files Access Control information disclosure (CVE-2022-36075)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 15, 2022|
+ |[Nextcloud Server information disclosure (CVE-2022-36074)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 15, 2022|
+ |[GitHub cmark-gfm denial of service (CVE-2022-39209)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 15, 2022|
  
  ---
 
@@ -100,23 +92,6 @@
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Craft CMS myaccount cross site scripting](https://vuldb.com/?id.208882)|Visit link for details|2022-09-16 at 21:32|
- |[jgraph drawio cross site scripting](https://vuldb.com/?id.208881)|Visit link for details|2022-09-16 at 21:32|
- |[Genesys PureConnect Interaction Web Tools Chat Service Printable Chat History cross site scripting](https://vuldb.com/?id.208880)|Visit link for details|2022-09-16 at 21:32|
- |[Aspire OASES Open Print Folder Menu Privilege Escalation](https://vuldb.com/?id.208879)|Visit link for details|2022-09-16 at 21:31|
- |[budibase access control](https://vuldb.com/?id.208878)|Visit link for details|2022-09-16 at 21:31|
- |[EspoCRM unrestricted upload](https://vuldb.com/?id.208877)|Visit link for details|2022-09-16 at 21:30|
- |[Tenda RX9_Pro SetNetControlList buffer overflow](https://vuldb.com/?id.208876)|Visit link for details|2022-09-16 at 21:30|
- |[Tenda RX9_Pro setIPv6Status buffer overflow](https://vuldb.com/?id.208875)|Visit link for details|2022-09-16 at 21:30|
- |[Tenda RX9_Pro setMacFilterCfg buffer overflow](https://vuldb.com/?id.208874)|Visit link for details|2022-09-16 at 21:29|
- |[TOTOLINK T6 cstecgi.cgi command injection](https://vuldb.com/?id.208873)|Visit link for details|2022-09-16 at 21:29|
- 
- ---
-
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -132,4 +107,19 @@
  |[38171409/22 - Vulnérabilité « Zero-Day » affectant le plugin «WPGateway» pour WordPress](https://www.dgssi.gov.ma//fr/content/3817140922-vulnerabilite-zero-day-affectant-le-plugin-wpgateway-pour-wordpress.html)|WordPressannonce la correction d’unevulnérabilité critique affectant le plugin « WPGateway». Cette vulnérabilité est activement exploitée et peut permettre à un attaquant de prendre le contrôle total sur le site web vulnérable|14 septembre 2022|
  |[38231409/22 - Vulnérabilités dans plusieurs produits Microsoft(Patch Tuesday Septembre 2022)](https://www.dgssi.gov.ma//fr/content/3823140922-vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-septembre-2022.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, de causer un déni de...|14 septembre 2022|
  |[38221409/22 - Vulnérabilité dans les produits Microsoft Azure (Patch Tuesday Septembre 2022)](https://www.dgssi.gov.ma//fr/content/3822140922-vulnerabilite-dans-les-produits-microsoft-azure-patch-tuesday-septembre-2022.html)|Une vulnérabilité a été corrigée dans les produits Azure susmentionnés. L’exploitation de cette faille permet à un attaquant de réussir une élévation de privilèges.|14 septembre 2022|
+ 
+ ---
+
+## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Siemens Simcenter Femap X_T File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1249/)|Visit link for details|Sept. 16, 2022|
+ |[Siemens Simcenter Femap X_T File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1248/)|Visit link for details|Sept. 16, 2022|
+ |[Siemens Simcenter Femap X_T File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1247/)|Visit link for details|Sept. 16, 2022|
+ |[Siemens Simcenter Femap X_T File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1246/)|Visit link for details|Sept. 16, 2022|
+ |[Siemens Simcenter Femap X_T File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1245/)|Visit link for details|Sept. 16, 2022|
+ |[Siemens Simcenter Femap X_T File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1244/)|Visit link for details|Sept. 16, 2022|
+ |[Siemens Simcenter Femap X_T File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1243/)|Visit link for details|Sept. 16, 2022|
+ |[Siemens Simcenter Femap X_T File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1242/)|Visit link for details|Sept. 16, 2022|
  
