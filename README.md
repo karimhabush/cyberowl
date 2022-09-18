@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 17/09/2022 21:11:38 UTC
+ > Last Updated 18/09/2022 09:12:25 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -36,20 +36,38 @@
  
  ---
 
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Intel-SGX-DCAP-denial-of-service-39302" class="noirorange"><b>Intel SGX DCAP</b>: denial of service</a>](https://vigilance.fr/vulnerability/Intel-SGX-DCAP-denial-of-service-39302)|An attacker can cause a fatal error of Intel SGX DCAP, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libraw-four-vulnerabilities-39301" class="noirorange"><b>libraw</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/libraw-four-vulnerabilities-39301)|An attacker can use several vulnerabilities of libraw...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GLPI-Server-Side-Request-Forgery-via-RSS-Feeds-And-Planning-39300" class="noirorange"><b>GLPI</b>: Server-Side Request Forgery via RSS Feeds And Planning</a>](https://vigilance.fr/vulnerability/GLPI-Server-Side-Request-Forgery-via-RSS-Feeds-And-Planning-39300)|An attacker can trigger a Server-Side Request Forgery of GLPI, via RSS Feeds And Planning, in order to force the server to send queries...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GLPI-Cross-Site-Scripting-via-Plugin-Controller-39299" class="noirorange"><b>GLPI</b>: Cross Site Scripting via Plugin Controller</a>](https://vigilance.fr/vulnerability/GLPI-Cross-Site-Scripting-via-Plugin-Controller-39299)|An attacker can trigger a Cross Site Scripting of GLPI, via Plugin Controller, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GLPI-Cross-Site-Scripting-via-Registration-API-39298" class="noirorange"><b>GLPI</b>: Cross Site Scripting via Registration API</a>](https://vigilance.fr/vulnerability/GLPI-Cross-Site-Scripting-via-Registration-API-39298)|An attacker can trigger a Cross Site Scripting of GLPI, via Registration API, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GLPI-Cross-Site-Scripting-via-Global-Search-39297" class="noirorange"><b>GLPI</b>: Cross Site Scripting via Global Search</a>](https://vigilance.fr/vulnerability/GLPI-Cross-Site-Scripting-via-Global-Search-39297)|An attacker can trigger a Cross Site Scripting of GLPI, via Global Search, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GLPI-information-disclosure-via-Login-Page-Error-39296" class="noirorange"><b>GLPI</b>: information disclosure via Login Page Error</a>](https://vigilance.fr/vulnerability/GLPI-information-disclosure-via-Login-Page-Error-39296)|An attacker can bypass access restrictions to data of GLPI, via Login Page Error, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GLPI-user-access-39295" class="noirorange"><b>GLPI</b>: user access</a>](https://vigilance.fr/vulnerability/GLPI-user-access-39295)|An attacker can bypass restrictions of GLPI, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Brocade-Fabric-OS-multiple-vulnerabilities-39294" class="noirorange"><b>Brocade Fabric OS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Brocade-Fabric-OS-multiple-vulnerabilities-39294)|An attacker can use several vulnerabilities of Brocade Fabric OS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Node-Core-vulnerabity-unveiled-on-22-09-2022-39292" class="noirorange"><b>Node Core</b>: vulnerabity unveiled on 22/09/2022</a>](https://vigilance.fr/vulnerability/Node-Core-vulnerabity-unveiled-on-22-09-2022-39292)|A vulnerability of Node Core will be unveiled on 22/09/2022...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/KDiskMark-file-read-write-via-Helper-flushPageCache-39291" class="noirorange"><b>KDiskMark</b>: file read/write via <wbr>Helper::flushPageCac<wbr>he()</wbr></wbr></a>](https://vigilance.fr/vulnerability/KDiskMark-file-read-write-via-Helper-flushPageCache-39291)|An attacker can bypass access restrictions of KDiskMark, via |Visit link for details|
+ 
+ ---
+
 ## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[Google Chrome DevTools input validation](https://vuldb.com/?id.209004)|Visit link for details|2022-09-17 at 17:00|
- |[Google Chrome Internals heap-based overflow](https://vuldb.com/?id.209003)|Visit link for details|2022-09-17 at 16:59|
- |[Google Chrome Frames use after free](https://vuldb.com/?id.209002)|Visit link for details|2022-09-17 at 16:58|
- |[Google Chrome PDF use after free](https://vuldb.com/?id.209001)|Visit link for details|2022-09-17 at 16:58|
- |[Google Chrome PDF use after free](https://vuldb.com/?id.209000)|Visit link for details|2022-09-17 at 16:57|
- |[Google Chrome PDF use after free](https://vuldb.com/?id.208999)|Visit link for details|2022-09-17 at 16:57|
- |[Snipe-IT improper authentication](https://vuldb.com/?id.208998)|Visit link for details|2022-09-17 at 16:49|
- |[Craft CMS Drafts cross site scripting](https://vuldb.com/?id.208997)|Visit link for details|2022-09-17 at 11:13|
- |[Craft CMS fields cross site scripting](https://vuldb.com/?id.208996)|Visit link for details|2022-09-17 at 11:13|
- |[6Kare Emakin Activity Stream Page setProfile cross site scripting](https://vuldb.com/?id.208995)|Visit link for details|2022-09-17 at 11:12|
+ |[ikus060 rdiffweb cross-site request forgery](https://vuldb.com/?id.209008)|Visit link for details|2022-09-18 at 07:50|
+ |[librenms cross site scripting](https://vuldb.com/?id.209007)|Visit link for details|2022-09-18 at 07:50|
+ |[Netic Group Export Add-On improper authorization](https://vuldb.com/?id.209006)|Visit link for details|2022-09-18 at 07:49|
+ |[vim heap-based overflow](https://vuldb.com/?id.209005)|Visit link for details|2022-09-18 at 07:49|
+ |[Google Chrome DevTools input validation](https://vuldb.com/?id.209004)|Visit link for details|2022-09-18 at 17:00|
+ |[Google Chrome Internals heap-based overflow](https://vuldb.com/?id.209003)|Visit link for details|2022-09-18 at 16:59|
+ |[Google Chrome Frames use after free](https://vuldb.com/?id.209002)|Visit link for details|2022-09-18 at 16:58|
+ |[Google Chrome PDF use after free](https://vuldb.com/?id.209001)|Visit link for details|2022-09-18 at 16:58|
+ |[Google Chrome PDF use after free](https://vuldb.com/?id.209000)|Visit link for details|2022-09-18 at 16:57|
+ |[Google Chrome PDF use after free](https://vuldb.com/?id.208999)|Visit link for details|2022-09-18 at 16:57|
  
  ---
 
@@ -71,20 +89,6 @@
  
  ---
 
-## IBMCLOUD [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Aspire Software OASES (Open Aviation Strategic Engineering System) code execution (CVE-2022-40337)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 16, 2022|
- |[Kubernetes kube-apiserver server-side request forgery (CVE-2022-3172)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 16, 2022|
- |[Rocket LMS min_age max_age SQL injection](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 16, 2022|
- |[Kubernetes security bypass (CVE-2021-25749)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 15, 2022|
- |[EC-CUBE directory traversal (CVE-2022-40199)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 15, 2022|
- |[Tauri information disclosure (CVE-2022-39215)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 15, 2022|
- |[Go-CVSS denial of service (CVE-2022-39213)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 15, 2022|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -102,24 +106,6 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Intel-SGX-DCAP-denial-of-service-39302" class="noirorange"><b>Intel SGX DCAP</b>: denial of service</a>](https://vigilance.fr/vulnerability/Intel-SGX-DCAP-denial-of-service-39302)|An attacker can cause a fatal error of Intel SGX DCAP, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libraw-four-vulnerabilities-39301" class="noirorange"><b>libraw</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/libraw-four-vulnerabilities-39301)|An attacker can use several vulnerabilities of libraw...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GLPI-Server-Side-Request-Forgery-via-RSS-Feeds-And-Planning-39300" class="noirorange"><b>GLPI</b>: Server-Side Request Forgery via RSS Feeds And Planning</a>](https://vigilance.fr/vulnerability/GLPI-Server-Side-Request-Forgery-via-RSS-Feeds-And-Planning-39300)|An attacker can trigger a Server-Side Request Forgery of GLPI, via RSS Feeds And Planning, in order to force the server to send queries...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GLPI-Cross-Site-Scripting-via-Plugin-Controller-39299" class="noirorange"><b>GLPI</b>: Cross Site Scripting via Plugin Controller</a>](https://vigilance.fr/vulnerability/GLPI-Cross-Site-Scripting-via-Plugin-Controller-39299)|An attacker can trigger a Cross Site Scripting of GLPI, via Plugin Controller, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GLPI-Cross-Site-Scripting-via-Registration-API-39298" class="noirorange"><b>GLPI</b>: Cross Site Scripting via Registration API</a>](https://vigilance.fr/vulnerability/GLPI-Cross-Site-Scripting-via-Registration-API-39298)|An attacker can trigger a Cross Site Scripting of GLPI, via Registration API, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GLPI-Cross-Site-Scripting-via-Global-Search-39297" class="noirorange"><b>GLPI</b>: Cross Site Scripting via Global Search</a>](https://vigilance.fr/vulnerability/GLPI-Cross-Site-Scripting-via-Global-Search-39297)|An attacker can trigger a Cross Site Scripting of GLPI, via Global Search, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GLPI-information-disclosure-via-Login-Page-Error-39296" class="noirorange"><b>GLPI</b>: information disclosure via Login Page Error</a>](https://vigilance.fr/vulnerability/GLPI-information-disclosure-via-Login-Page-Error-39296)|An attacker can bypass access restrictions to data of GLPI, via Login Page Error, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GLPI-user-access-39295" class="noirorange"><b>GLPI</b>: user access</a>](https://vigilance.fr/vulnerability/GLPI-user-access-39295)|An attacker can bypass restrictions of GLPI, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Brocade-Fabric-OS-multiple-vulnerabilities-39294" class="noirorange"><b>Brocade Fabric OS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Brocade-Fabric-OS-multiple-vulnerabilities-39294)|An attacker can use several vulnerabilities of Brocade Fabric OS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Node-Core-vulnerabity-unveiled-on-22-09-2022-39292" class="noirorange"><b>Node Core</b>: vulnerabity unveiled on 22/09/2022</a>](https://vigilance.fr/vulnerability/Node-Core-vulnerabity-unveiled-on-22-09-2022-39292)|A vulnerability of Node Core will be unveiled on 22/09/2022...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/KDiskMark-file-read-write-via-Helper-flushPageCache-39291" class="noirorange"><b>KDiskMark</b>: file read/write via <wbr>Helper::flushPageCac<wbr>he()</wbr></wbr></a>](https://vigilance.fr/vulnerability/KDiskMark-file-read-write-via-Helper-flushPageCache-39291)|An attacker can bypass access restrictions of KDiskMark, via |Visit link for details|
- 
- ---
-
 ## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -132,4 +118,18 @@
  |[Siemens Simcenter Femap X_T File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1244/)|Visit link for details|Sept. 16, 2022|
  |[Siemens Simcenter Femap X_T File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1243/)|Visit link for details|Sept. 16, 2022|
  |[Siemens Simcenter Femap X_T File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1242/)|Visit link for details|Sept. 16, 2022|
+ 
+ ---
+
+## IBMCLOUD [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Huawei EMUI information disclosure (CVE-2022-39010)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 16, 2022|
+ |[Huawei EMUI security bypass (CVE-2022-39009)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 16, 2022|
+ |[Huawei EMUI security bypass (CVE-2022-39008)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 16, 2022|
+ |[Huawei EMUI privilege escalation (CVE-2022-39007)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 16, 2022|
+ |[Huawei EMUI and Magic UI denial of service (CVE-2022-39006)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 16, 2022|
+ |[Huawei EMUI and Magic UI denial of service (CVE-2022-39005)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 16, 2022|
+ |[Huawei EMUI and Magic UI denial of service (CVE-2022-39004)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 16, 2022|
  
