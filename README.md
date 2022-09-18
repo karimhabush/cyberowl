@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 18/09/2022 09:12:25 UTC
+ > Last Updated 18/09/2022 21:11:31 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -58,16 +58,47 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[profanity weak prng](https://vuldb.com/?id.209012)|Visit link for details|2022-09-18 at 22:11|
+ |[vuetify VCalendar Component eventName cross site scripting](https://vuldb.com/?id.209011)|Visit link for details|2022-09-18 at 20:44|
+ |[Linux Kernel stex.c stex_queuecommand_lck information disclosure](https://vuldb.com/?id.209010)|Visit link for details|2022-09-18 at 20:44|
+ |[Modern Campus Omni CMS login-page sql injection](https://vuldb.com/?id.209009)|Visit link for details|2022-09-18 at 20:43|
  |[ikus060 rdiffweb cross-site request forgery](https://vuldb.com/?id.209008)|Visit link for details|2022-09-18 at 07:50|
  |[librenms cross site scripting](https://vuldb.com/?id.209007)|Visit link for details|2022-09-18 at 07:50|
  |[Netic Group Export Add-On improper authorization](https://vuldb.com/?id.209006)|Visit link for details|2022-09-18 at 07:49|
  |[vim heap-based overflow](https://vuldb.com/?id.209005)|Visit link for details|2022-09-18 at 07:49|
  |[Google Chrome DevTools input validation](https://vuldb.com/?id.209004)|Visit link for details|2022-09-18 at 17:00|
  |[Google Chrome Internals heap-based overflow](https://vuldb.com/?id.209003)|Visit link for details|2022-09-18 at 16:59|
- |[Google Chrome Frames use after free](https://vuldb.com/?id.209002)|Visit link for details|2022-09-18 at 16:58|
- |[Google Chrome PDF use after free](https://vuldb.com/?id.209001)|Visit link for details|2022-09-18 at 16:58|
- |[Google Chrome PDF use after free](https://vuldb.com/?id.209000)|Visit link for details|2022-09-18 at 16:57|
- |[Google Chrome PDF use after free](https://vuldb.com/?id.208999)|Visit link for details|2022-09-18 at 16:57|
+ 
+ ---
+
+## CERT-FR [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-825/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.|Publié le 15 septembre 2022|
+ |[Vulnérabilité dans PaloAlto Cortex XDR Agent](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-824/)|Une vulnérabilité a été découverte dans PaloAlto Cortex XDR Agent. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 15 septembre 2022|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-823/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 septembre 2022|
+ |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-822/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 septembre 2022|
+ |[Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-821/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 septembre 2022|
+ |[Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-820/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 septembre 2022|
+ |[Multiples vulnérabilités dans les produits SAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-819/)|De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 14 septembre 2022|
+ |[Vulnérabilité dans Citrix Hypervisor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-818/)|Une vulnérabilité a été découverte dans Citrix Hypervisor. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 14 septembre 2022|
+ |[Multiples vulnérabilités dans Trend Micro Apex One](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-817/)|De multiples vulnérabilités ont été découvertes dans Trend Micro Apex One. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service et un contournement de la politique de sécurité.|Publié le 14 septembre 2022|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-816/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 14 septembre 2022|
+ 
+ ---
+
+## IBMCLOUD [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Zoho ManageEngine PAM360, Password Manager Pro, and Access Manager Plus SQL Injection (CVE-2022-40300)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 16, 2022|
+ |[Huawei EMUI information disclosure (CVE-2022-39010)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 16, 2022|
+ |[Huawei EMUI security bypass (CVE-2022-39009)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 16, 2022|
+ |[Huawei EMUI security bypass (CVE-2022-39008)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 16, 2022|
+ |[Huawei EMUI privilege escalation (CVE-2022-39007)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 16, 2022|
+ |[Huawei EMUI and Magic UI denial of service (CVE-2022-39006)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 16, 2022|
+ |[Huawei EMUI and Magic UI denial of service (CVE-2022-39005)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 16, 2022|
  
  ---
 
@@ -89,23 +120,6 @@
  
  ---
 
-## CERT-FR [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-825/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.|Publié le 15 septembre 2022|
- |[Vulnérabilité dans PaloAlto Cortex XDR Agent](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-824/)|Une vulnérabilité a été découverte dans PaloAlto Cortex XDR Agent. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 15 septembre 2022|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-823/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 septembre 2022|
- |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-822/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 septembre 2022|
- |[Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-821/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 septembre 2022|
- |[Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-820/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 septembre 2022|
- |[Multiples vulnérabilités dans les produits SAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-819/)|De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 14 septembre 2022|
- |[Vulnérabilité dans Citrix Hypervisor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-818/)|Une vulnérabilité a été découverte dans Citrix Hypervisor. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 14 septembre 2022|
- |[Multiples vulnérabilités dans Trend Micro Apex One](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-817/)|De multiples vulnérabilités ont été découvertes dans Trend Micro Apex One. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service et un contournement de la politique de sécurité.|Publié le 14 septembre 2022|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-816/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 14 septembre 2022|
- 
- ---
-
 ## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -118,18 +132,4 @@
  |[Siemens Simcenter Femap X_T File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1244/)|Visit link for details|Sept. 16, 2022|
  |[Siemens Simcenter Femap X_T File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1243/)|Visit link for details|Sept. 16, 2022|
  |[Siemens Simcenter Femap X_T File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1242/)|Visit link for details|Sept. 16, 2022|
- 
- ---
-
-## IBMCLOUD [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Huawei EMUI information disclosure (CVE-2022-39010)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 16, 2022|
- |[Huawei EMUI security bypass (CVE-2022-39009)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 16, 2022|
- |[Huawei EMUI security bypass (CVE-2022-39008)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 16, 2022|
- |[Huawei EMUI privilege escalation (CVE-2022-39007)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 16, 2022|
- |[Huawei EMUI and Magic UI denial of service (CVE-2022-39006)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 16, 2022|
- |[Huawei EMUI and Magic UI denial of service (CVE-2022-39005)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 16, 2022|
- |[Huawei EMUI and Magic UI denial of service (CVE-2022-39004)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 16, 2022|
  
