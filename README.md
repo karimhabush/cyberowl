@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 19/09/2022 09:18:46 UTC
+ > Last Updated 19/09/2022 21:12:30 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -40,16 +40,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiples vulnérabilités dans Synology GLPI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-832/)|De multiples vulnérabilités ont été découvertes dans Synology GLPI. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 19 septembre 2022|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-831/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 19 septembre 2022|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-830/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 19 septembre 2022|
+ |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-829/)|De multiples vulnérabilités ont été découvertes dans les produits Nextcloud. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 19 septembre 2022|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-828/)|De multiples vulnérabilités ont été corrigées dans |Publié le 19 septembre 2022|
+ |[Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-827/)|De multiples vulnérabilités ont été corrigées dans |Publié le 19 septembre 2022|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-826/)|De multiples vulnérabilités ont été corrigées dans |Publié le 19 septembre 2022|
  |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-825/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.|Publié le 15 septembre 2022|
  |[Vulnérabilité dans PaloAlto Cortex XDR Agent](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-824/)|Une vulnérabilité a été découverte dans PaloAlto Cortex XDR Agent. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 15 septembre 2022|
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-823/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 septembre 2022|
- |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-822/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 septembre 2022|
- |[Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-821/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 septembre 2022|
- |[Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-820/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 septembre 2022|
- |[Multiples vulnérabilités dans les produits SAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-819/)|De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 14 septembre 2022|
- |[Vulnérabilité dans Citrix Hypervisor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-818/)|Une vulnérabilité a été découverte dans Citrix Hypervisor. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 14 septembre 2022|
- |[Multiples vulnérabilités dans Trend Micro Apex One](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-817/)|De multiples vulnérabilités ont été découvertes dans Trend Micro Apex One. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service et un contournement de la politique de sécurité.|Publié le 14 septembre 2022|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-816/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 14 septembre 2022|
  
  ---
 
@@ -57,16 +57,16 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[vim use after free](https://vuldb.com/?id.209015)|Visit link for details|2022-09-19 at 08:27|
- |[Axiomatic Bento4 WriteFields null pointer dereference](https://vuldb.com/?id.209014)|Visit link for details|2022-09-19 at 08:22|
- |[Axiomatic Bento4 GetSampleSize null pointer dereference](https://vuldb.com/?id.209013)|Visit link for details|2022-09-19 at 08:22|
- |[profanity weak prng](https://vuldb.com/?id.209012)|Visit link for details|2022-09-19 at 22:11|
- |[vuetify VCalendar Component eventName cross site scripting](https://vuldb.com/?id.209011)|Visit link for details|2022-09-19 at 20:44|
- |[Linux Kernel stex.c stex_queuecommand_lck information disclosure](https://vuldb.com/?id.209010)|Visit link for details|2022-09-19 at 20:44|
- |[Modern Campus Omni CMS login-page sql injection](https://vuldb.com/?id.209009)|Visit link for details|2022-09-19 at 20:43|
- |[ikus060 rdiffweb cross-site request forgery](https://vuldb.com/?id.209008)|Visit link for details|2022-09-19 at 07:50|
- |[librenms cross site scripting](https://vuldb.com/?id.209007)|Visit link for details|2022-09-19 at 07:50|
- |[Netic Group Export Add-On improper authorization](https://vuldb.com/?id.209006)|Visit link for details|2022-09-19 at 07:49|
+ |[JFinal CMS sql injection](https://vuldb.com/?id.209079)|Visit link for details|2022-09-19 at 21:11|
+ |[Fabasoft Cloud Enterprise Client access control](https://vuldb.com/?id.209078)|Visit link for details|2022-09-19 at 21:10|
+ |[JetBrains IntelliJ IDEA uncontrolled search path](https://vuldb.com/?id.209077)|Visit link for details|2022-09-19 at 21:10|
+ |[NOKIA 1350OMS cross site scripting](https://vuldb.com/?id.209076)|Visit link for details|2022-09-19 at 21:10|
+ |[NOKIA 1350OMS cross site scripting](https://vuldb.com/?id.209075)|Visit link for details|2022-09-19 at 21:09|
+ |[Tinyproxy HTTP Request process_request information disclosure](https://vuldb.com/?id.209074)|Visit link for details|2022-09-19 at 21:09|
+ |[SmartVista SVFE2 country_group.jsf sql injection](https://vuldb.com/?id.209073)|Visit link for details|2022-09-19 at 21:08|
+ |[ProcessMaker User Profile Page permission](https://vuldb.com/?id.209072)|Visit link for details|2022-09-19 at 21:08|
+ |[Openwrt HTTP Request header_value information disclosure](https://vuldb.com/?id.209071)|Visit link for details|2022-09-19 at 21:07|
+ |[NOKIA 1350OMS path traversal](https://vuldb.com/?id.209070)|Visit link for details|2022-09-19 at 21:07|
  
  ---
 
@@ -74,13 +74,13 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[GetYourGuide Ticketing plugin for WordPress GYG-Ticketing cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 19, 2022|
+ |[Genesys PureConnect cross-site scripting (CVE-2022-37775)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 19, 2022|
+ |[IBM Spectrum Protect Plus directory traversal (CVE-2022-40608)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 17, 2022|
+ |[IBM Spectrum Protect Plus information disclosure (CVE-2022-40234)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 17, 2022|
  |[Zoho ManageEngine PAM360, Password Manager Pro, and Access Manager Plus SQL Injection (CVE-2022-40300)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 16, 2022|
  |[Huawei EMUI information disclosure (CVE-2022-39010)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 16, 2022|
  |[Huawei EMUI security bypass (CVE-2022-39009)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 16, 2022|
- |[Huawei EMUI security bypass (CVE-2022-39008)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 16, 2022|
- |[Huawei EMUI privilege escalation (CVE-2022-39007)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 16, 2022|
- |[Huawei EMUI and Magic UI denial of service (CVE-2022-39006)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 16, 2022|
- |[Huawei EMUI and Magic UI denial of service (CVE-2022-39005)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 16, 2022|
  
  ---
 
@@ -88,6 +88,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Kafka-denial-of-service-via-Brokers-Memory-39312" class="noirorange"><b>Apache Kafka</b>: denial of service via Brokers Memory</a>](https://vigilance.fr/vulnerability/Apache-Kafka-denial-of-service-via-Brokers-Memory-39312)|An attacker can cause a fatal error of Apache Kafka, via Brokers Memory, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-overload-via-aerdl-so-aerdl-dll-39311" class="noirorange"><b>WithSecure Endpoint Protection</b>: overload via aerdl.so/aerdl.dll</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-overload-via-aerdl-so-aerdl-dll-39311)|An attacker can trigger an overload of WithSecure Endpoint Protection, via aerdl.so/aerdl.dll, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Enlightenment-privilege-escalation-39310" class="noirorange"><b>Enlightenment</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Enlightenment-privilege-escalation-39310)|An attacker can bypass restrictions of Enlightenment, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-op-replace-39309" class="noirorange"><b>Vim</b>: buffer overflow via op_replace()</a>](https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-op-replace-39309)|An attacker can trigger a buffer overflow of Vim, via op_replace(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Spectrum-Protect-Plus-File-Systems-Agent-directory-traversal-via-Microsoft-File-Systems-39308" class="noirorange"><b>IBM Spectrum Protect Plus File Systems Agent</b>: directory traversal via Microsoft File Systems</a>](https://vigilance.fr/vulnerability/IBM-Spectrum-Protect-Plus-File-Systems-Agent-directory-traversal-via-Microsoft-File-Systems-39308)|An attacker can traverse directories of IBM Spectrum Protect Plus File Systems Agent, via Microsoft File Systems, in order to read a file outside the service root path...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/MinIO-overload-via-Unclosed-Connections-39307" class="noirorange"><b>MinIO</b>: overload via Unclosed Connections</a>](https://vigilance.fr/vulnerability/MinIO-overload-via-Unclosed-Connections-39307)|An attacker can trigger an overload of MinIO, via Unclosed Connections, in order to trigger a denial of service...|Visit link for details|
@@ -96,9 +99,6 @@
  |[<a href="https://vigilance.fr/vulnerability/IBM-Spectrum-Protect-Plus-information-disclosure-via-Uploaded-Certificate-Private-Key-39304" class="noirorange"><b>IBM Spectrum Protect Plus</b>: information disclosure via Uploaded Certificate Private Key</a>](https://vigilance.fr/vulnerability/IBM-Spectrum-Protect-Plus-information-disclosure-via-Uploaded-Certificate-Private-Key-39304)|An attacker can bypass access restrictions to data of IBM Spectrum Protect Plus, via Uploaded Certificate Private Key, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/MuPDF-denial-of-service-via-Zero-Width-Pages-39303" class="noirorange"><b>MuPDF</b>: denial of service via Zero Width Pages</a>](https://vigilance.fr/vulnerability/MuPDF-denial-of-service-via-Zero-Width-Pages-39303)|An attacker can cause a fatal error of MuPDF, via Zero Width Pages, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Intel-SGX-DCAP-denial-of-service-39302" class="noirorange"><b>Intel SGX DCAP</b>: denial of service</a>](https://vigilance.fr/vulnerability/Intel-SGX-DCAP-denial-of-service-39302)|An attacker can cause a fatal error of Intel SGX DCAP, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libraw-four-vulnerabilities-39301" class="noirorange"><b>libraw</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/libraw-four-vulnerabilities-39301)|An attacker can use several vulnerabilities of libraw...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GLPI-Server-Side-Request-Forgery-via-RSS-Feeds-And-Planning-39300" class="noirorange"><b>GLPI</b>: Server-Side Request Forgery via RSS Feeds And Planning</a>](https://vigilance.fr/vulnerability/GLPI-Server-Side-Request-Forgery-via-RSS-Feeds-And-Planning-39300)|An attacker can trigger a Server-Side Request Forgery of GLPI, via RSS Feeds And Planning, in order to force the server to send queries...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GLPI-Cross-Site-Scripting-via-Plugin-Controller-39299" class="noirorange"><b>GLPI</b>: Cross Site Scripting via Plugin Controller</a>](https://vigilance.fr/vulnerability/GLPI-Cross-Site-Scripting-via-Plugin-Controller-39299)|An attacker can trigger a Cross Site Scripting of GLPI, via Plugin Controller, in order to run JavaScript code in the context of the web site...|Visit link for details|
  
  ---
 
@@ -124,12 +124,12 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Siemens Simcenter Femap X_T File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1249/)|Visit link for details|Sept. 16, 2022|
- |[Siemens Simcenter Femap X_T File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1248/)|Visit link for details|Sept. 16, 2022|
- |[Siemens Simcenter Femap X_T File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1247/)|Visit link for details|Sept. 16, 2022|
- |[Siemens Simcenter Femap X_T File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1246/)|Visit link for details|Sept. 16, 2022|
- |[Siemens Simcenter Femap X_T File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1245/)|Visit link for details|Sept. 16, 2022|
- |[Siemens Simcenter Femap X_T File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1244/)|Visit link for details|Sept. 16, 2022|
- |[Siemens Simcenter Femap X_T File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1243/)|Visit link for details|Sept. 16, 2022|
- |[Siemens Simcenter Femap X_T File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1242/)|Visit link for details|Sept. 16, 2022|
+ |[Microsoft Office Visio EMF File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1287/)|Visit link for details|Sept. 19, 2022|
+ |[Microsoft PowerPoint PPTX File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1286/)|Visit link for details|Sept. 19, 2022|
+ |[Microsoft Windows Group Policy Preference Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1285/)|Visit link for details|Sept. 19, 2022|
+ |[Microsoft Windows DirectX Graphics Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1284/)|Visit link for details|Sept. 19, 2022|
+ |[Adobe Bridge DCM File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1283/)|Visit link for details|Sept. 19, 2022|
+ |[Adobe Photoshop U3D File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1282/)|Visit link for details|Sept. 19, 2022|
+ |[Adobe Photoshop U3D File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1281/)|Visit link for details|Sept. 19, 2022|
+ |[Adobe Photoshop U3D File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1280/)|Visit link for details|Sept. 19, 2022|
  
