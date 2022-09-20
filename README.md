@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 19/09/2022 21:12:30 UTC
+ > Last Updated 20/09/2022 09:20:00 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -36,6 +36,20 @@
  
  ---
 
+## IBMCLOUD [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Linux Kernel information disclosure (CVE-2022-40768)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 19, 2022|
+ |[Apache Kafka denial of service (CVE-2022-34917)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 19, 2022|
+ |[GetYourGuide Ticketing plugin for WordPress GYG-Ticketing cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 19, 2022|
+ |[Genesys PureConnect cross-site scripting (CVE-2022-37775)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 19, 2022|
+ |[Moodern Campus Omni CMS SQL injection (CVE-2022-40766)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 17, 2022|
+ |[IBM Spectrum Protect Plus directory traversal (CVE-2022-40608)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 17, 2022|
+ |[IBM Spectrum Protect Plus information disclosure (CVE-2022-40234)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 17, 2022|
+ 
+ ---
+
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -53,41 +67,12 @@
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[JFinal CMS sql injection](https://vuldb.com/?id.209079)|Visit link for details|2022-09-19 at 21:11|
- |[Fabasoft Cloud Enterprise Client access control](https://vuldb.com/?id.209078)|Visit link for details|2022-09-19 at 21:10|
- |[JetBrains IntelliJ IDEA uncontrolled search path](https://vuldb.com/?id.209077)|Visit link for details|2022-09-19 at 21:10|
- |[NOKIA 1350OMS cross site scripting](https://vuldb.com/?id.209076)|Visit link for details|2022-09-19 at 21:10|
- |[NOKIA 1350OMS cross site scripting](https://vuldb.com/?id.209075)|Visit link for details|2022-09-19 at 21:09|
- |[Tinyproxy HTTP Request process_request information disclosure](https://vuldb.com/?id.209074)|Visit link for details|2022-09-19 at 21:09|
- |[SmartVista SVFE2 country_group.jsf sql injection](https://vuldb.com/?id.209073)|Visit link for details|2022-09-19 at 21:08|
- |[ProcessMaker User Profile Page permission](https://vuldb.com/?id.209072)|Visit link for details|2022-09-19 at 21:08|
- |[Openwrt HTTP Request header_value information disclosure](https://vuldb.com/?id.209071)|Visit link for details|2022-09-19 at 21:07|
- |[NOKIA 1350OMS path traversal](https://vuldb.com/?id.209070)|Visit link for details|2022-09-19 at 21:07|
- 
- ---
-
-## IBMCLOUD [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[GetYourGuide Ticketing plugin for WordPress GYG-Ticketing cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 19, 2022|
- |[Genesys PureConnect cross-site scripting (CVE-2022-37775)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 19, 2022|
- |[IBM Spectrum Protect Plus directory traversal (CVE-2022-40608)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 17, 2022|
- |[IBM Spectrum Protect Plus information disclosure (CVE-2022-40234)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 17, 2022|
- |[Zoho ManageEngine PAM360, Password Manager Pro, and Access Manager Plus SQL Injection (CVE-2022-40300)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 16, 2022|
- |[Huawei EMUI information disclosure (CVE-2022-39010)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 16, 2022|
- |[Huawei EMUI security bypass (CVE-2022-39009)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 16, 2022|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-em28xx-usb-probe-39314" class="noirorange"><b>Linux kernel</b>: reuse after free via em28xx_usb_probe()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-em28xx-usb-probe-39314)|An attacker can force the reuse of a freed memory area of the Linux kernel, via em28xx_usb_probe(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SUSE-permissions-file-read-write-via-chkstat-39313" class="noirorange"><b>SUSE permissions</b>: file read/write via chkstat()</a>](https://vigilance.fr/vulnerability/SUSE-permissions-file-read-write-via-chkstat-39313)|An attacker can bypass access restrictions of SUSE permissions, via chkstat(), in order to read or alter files...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-Kafka-denial-of-service-via-Brokers-Memory-39312" class="noirorange"><b>Apache Kafka</b>: denial of service via Brokers Memory</a>](https://vigilance.fr/vulnerability/Apache-Kafka-denial-of-service-via-Brokers-Memory-39312)|An attacker can cause a fatal error of Apache Kafka, via Brokers Memory, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-overload-via-aerdl-so-aerdl-dll-39311" class="noirorange"><b>WithSecure Endpoint Protection</b>: overload via aerdl.so/aerdl.dll</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-overload-via-aerdl-so-aerdl-dll-39311)|An attacker can trigger an overload of WithSecure Endpoint Protection, via aerdl.so/aerdl.dll, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Enlightenment-privilege-escalation-39310" class="noirorange"><b>Enlightenment</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Enlightenment-privilege-escalation-39310)|An attacker can bypass restrictions of Enlightenment, in order to escalate his privileges...|Visit link for details|
@@ -97,8 +82,23 @@
  |[<a href="https://vigilance.fr/vulnerability/MinIO-file-reading-via-admin-ServerUpdate-39306" class="noirorange"><b>MinIO</b>: file reading via admin:ServerUpdate</a>](https://vigilance.fr/vulnerability/MinIO-file-reading-via-admin-ServerUpdate-39306)|An attacker can read a file of MinIO, via admin:ServerUpdate, in order to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Pallets-Werkzeug-header-injection-39305" class="noirorange"><b>Pallets Werkzeug</b>: header injection</a>](https://vigilance.fr/vulnerability/Pallets-Werkzeug-header-injection-39305)|An attacker can add new headers on Pallets Werkzeug, in order to alter the service behavior...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Spectrum-Protect-Plus-information-disclosure-via-Uploaded-Certificate-Private-Key-39304" class="noirorange"><b>IBM Spectrum Protect Plus</b>: information disclosure via Uploaded Certificate Private Key</a>](https://vigilance.fr/vulnerability/IBM-Spectrum-Protect-Plus-information-disclosure-via-Uploaded-Certificate-Private-Key-39304)|An attacker can bypass access restrictions to data of IBM Spectrum Protect Plus, via Uploaded Certificate Private Key, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/MuPDF-denial-of-service-via-Zero-Width-Pages-39303" class="noirorange"><b>MuPDF</b>: denial of service via Zero Width Pages</a>](https://vigilance.fr/vulnerability/MuPDF-denial-of-service-via-Zero-Width-Pages-39303)|An attacker can cause a fatal error of MuPDF, via Zero Width Pages, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Intel-SGX-DCAP-denial-of-service-39302" class="noirorange"><b>Intel SGX DCAP</b>: denial of service</a>](https://vigilance.fr/vulnerability/Intel-SGX-DCAP-denial-of-service-39302)|An attacker can cause a fatal error of Intel SGX DCAP, in order to trigger a denial of service...|Visit link for details|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Trojan-Dropper.Win32.Corty.10 cleartext storage in the registry](https://vuldb.com/?id.209129)|Visit link for details|2022-09-20 at 10:01|
+ |[Backdoor.Win32.Hellza.120 Service 12122 improper authentication](https://vuldb.com/?id.209128)|Visit link for details|2022-09-20 at 10:01|
+ |[Backdoor.Win32.Hellza.120 backdoor](https://vuldb.com/?id.209127)|Visit link for details|2022-09-20 at 10:00|
+ |[Trojan.Ransom.Ryuk.A uncontrolled search path](https://vuldb.com/?id.209126)|Visit link for details|2022-09-20 at 09:59|
+ |[Jeesns list cross site scripting](https://vuldb.com/?id.209125)|Visit link for details|2022-09-20 at 09:58|
+ |[Safe Software FME Server Login Page cross site scripting](https://vuldb.com/?id.209124)|Visit link for details|2022-09-20 at 09:57|
+ |[UCMS Site Management Page cross site scripting](https://vuldb.com/?id.209123)|Visit link for details|2022-09-20 at 09:56|
+ |[Trend Micro Apex One/Apex One as a Service permission](https://vuldb.com/?id.209122)|Visit link for details|2022-09-20 at 09:56|
+ |[Trend Micro Apex One/Apex One as a Service link following](https://vuldb.com/?id.209121)|Visit link for details|2022-09-20 at 09:54|
+ |[Trend Micro Apex One/Apex One as a Service denial of service](https://vuldb.com/?id.209120)|Visit link for details|2022-09-20 at 09:53|
  
  ---
 
@@ -124,12 +124,12 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Apple macOS vImage ICC File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1289/)|Visit link for details|Sept. 19, 2022|
+ |[Microsoft SharePoint Workflow Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1288/)|Visit link for details|Sept. 19, 2022|
  |[Microsoft Office Visio EMF File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1287/)|Visit link for details|Sept. 19, 2022|
  |[Microsoft PowerPoint PPTX File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1286/)|Visit link for details|Sept. 19, 2022|
  |[Microsoft Windows Group Policy Preference Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1285/)|Visit link for details|Sept. 19, 2022|
  |[Microsoft Windows DirectX Graphics Use-After-Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1284/)|Visit link for details|Sept. 19, 2022|
  |[Adobe Bridge DCM File Parsing Use-After-Free Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1283/)|Visit link for details|Sept. 19, 2022|
  |[Adobe Photoshop U3D File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1282/)|Visit link for details|Sept. 19, 2022|
- |[Adobe Photoshop U3D File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1281/)|Visit link for details|Sept. 19, 2022|
- |[Adobe Photoshop U3D File Parsing Uninitialized Variable Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1280/)|Visit link for details|Sept. 19, 2022|
  
