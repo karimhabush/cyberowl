@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 20/09/2022 21:12:13 UTC
+ > Last Updated 21/09/2022 09:17:01 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -36,17 +36,56 @@
  
  ---
 
-## IBMCLOUD [:arrow_heading_up:](#cyberowl)
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[Mozilla Firefox code execution (CVE-2022-40962)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 20, 2022|
- |[Mozilla Firefox instruction cache denial of service (CVE-2022-40957)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 20, 2022|
- |[Mozilla Firefox CSP security bypass (CVE-2022-40956)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 20, 2022|
- |[Mozilla Firefox for Android Graphics denial of service (CVE-2022-40961)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 20, 2022|
- |[Mozilla Firefox secure context security bypass (CVE-2022-40958)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 20, 2022|
- |[Mozilla Firefox FeaturePolicy security bypass (CVE-2022-40959)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 20, 2022|
- |[Mozilla Firefox non-UTF-8 URLs denial of service (CVE-2022-40960)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 20, 2022|
+ |[<a href="https://vigilance.fr/vulnerability/libexpat-reuse-after-free-via-doContent-39330" class="noirorange"><b>libexpat</b>: reuse after free via doContent()</a>](https://vigilance.fr/vulnerability/libexpat-reuse-after-free-via-doContent-39330)|An attacker can force the reuse of a freed memory area of libexpat, via doContent(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Moodle-Cross-Site-Scripting-via-Topic-39329" class="noirorange"><b>Moodle</b>: Cross Site Scripting via Topic</a>](https://vigilance.fr/vulnerability/Moodle-Cross-Site-Scripting-via-Topic-39329)|An attacker can trigger a Cross Site Scripting of Moodle, via Topic, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libConfuse-out-of-bounds-memory-reading-via-cfg-tilde-expand-39328" class="noirorange"><b>libConfuse</b>: out-of-bounds memory reading via cfg_tilde_expand()</a>](https://vigilance.fr/vulnerability/libConfuse-out-of-bounds-memory-reading-via-cfg-tilde-expand-39328)|An attacker can force a read at an invalid memory address of libConfuse, via cfg_tilde_expand(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Rizin-multiple-vulnerabilities-39327" class="noirorange"><b>Rizin</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Rizin-multiple-vulnerabilities-39327)|An attacker can use several vulnerabilities of Rizin...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-PMD-Move-39326" class="noirorange"><b>Linux kernel</b>: reuse after free via PMD Move</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-PMD-Move-39326)|An attacker can force the reuse of a freed memory area of the Linux kernel, via PMD Move, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-multiple-vulnerabilities-39325" class="noirorange"><b>Centreon Web</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Centreon-Web-multiple-vulnerabilities-39325)|An attacker can use several vulnerabilities of Centreon Web...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Grafana-privilege-escalation-via-Folders-Dashboards-39324" class="noirorange"><b>Grafana</b>: privilege escalation via Folders/Dashboards</a>](https://vigilance.fr/vulnerability/Grafana-privilege-escalation-via-Folders-Dashboards-39324)|An attacker can bypass restrictions of Grafana, via Folders/Dashboards, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Grafana-privilege-escalation-via-Auth-Proxy-39323" class="noirorange"><b>Grafana</b>: privilege escalation via Auth Proxy</a>](https://vigilance.fr/vulnerability/Grafana-privilege-escalation-via-Auth-Proxy-39323)|An attacker can bypass restrictions of Grafana, via Auth Proxy, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/KubeVirt-directory-traversal-39322" class="noirorange"><b>KubeVirt</b>: directory traversal</a>](https://vigilance.fr/vulnerability/KubeVirt-directory-traversal-39322)|An attacker can traverse directories of KubeVirt, in order to read a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-multiple-vulnerabilities-39321" class="noirorange"><b>Mozilla Firefox</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-multiple-vulnerabilities-39321)|An attacker can use several vulnerabilities of Mozilla Firefox...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Endpoint-Configuration-Manager-spoofing-39320" class="noirorange"><b>Microsoft Endpoint Configuration Manager</b>: spoofing</a>](https://vigilance.fr/vulnerability/Microsoft-Endpoint-Configuration-Manager-spoofing-39320)|An attacker can create spoofed data on Microsoft Endpoint Configuration Manager, in order to deceive the victim...|Visit link for details|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apple macOS Privacy Preferences access control](https://vuldb.com/?id.209217)|Visit link for details|2022-09-21 at 10:35|
+ |[Apple macOS access control](https://vuldb.com/?id.209216)|Visit link for details|2022-09-21 at 10:34|
+ |[Apple macOS Privacy Preferences access control](https://vuldb.com/?id.209215)|Visit link for details|2022-09-21 at 10:34|
+ |[JFinal CMS sql injection](https://vuldb.com/?id.209214)|Visit link for details|2022-09-21 at 10:33|
+ |[TIBCO Spotfire Analytics Platform for AWS Marketplace Web Player server-side request forgery](https://vuldb.com/?id.209213)|Visit link for details|2022-09-21 at 10:32|
+ |[McWebserver HTTP Request path traversal](https://vuldb.com/?id.209212)|Visit link for details|2022-09-21 at 10:31|
+ |[SFTPGo WebClient cross site scripting](https://vuldb.com/?id.209211)|Visit link for details|2022-09-21 at 10:30|
+ |[Huawei CV81-WDM denial of service](https://vuldb.com/?id.209210)|Visit link for details|2022-09-21 at 10:25|
+ |[Apple macOS IP Address information disclosure](https://vuldb.com/?id.209209)|Visit link for details|2022-09-21 at 10:24|
+ |[Apple Safari IP Address information disclosure](https://vuldb.com/?id.209208)|Visit link for details|2022-09-21 at 10:24|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[38322009/22 - Vulnérabilités dans Mozilla Thunderbird](https://www.dgssi.gov.ma//fr/content/3832200922-vulnerabilites-dans-mozilla-thunderbird.html)|Mozilla a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Mozilla Thunderbird. Un attaquant pourrait exploiter certaines de ces failles afin de causer un déni de service, d’exécuter du code arbitraire à...|20 septembre 2022|
+ |[38301909/22 - Vulnérabilités dans les produits Lenovo](https://www.dgssi.gov.ma//fr/content/3830190922-vulnerabilites-dans-les-produits-lenovo.html)|Plusieurs vulnérabilités ont été corrigées dans les produits Lenovo susmentionnés.L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges, de porter atteinte à la confidentialité des données et d’...|19 septembre 2022|
+ |[38281609/22 - Vulnérabilités critiques affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/3828160922-vulnerabilites-critiques-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilitésaffectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre àun attaquant d’exécuter du code...|16 septembre 2022|
+ |[38291709/22 - Vulnérabilité dans PaloAlto Cortex XDR Agent](https://www.dgssi.gov.ma//fr/content/3829170922-vulnerabilite-dans-paloalto-cortex-xdr-agent.html)|Une vulnérabilité a été corrigée dans PaloAlto Cortex XDR Agent. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte à laconfidentialité des données.|16 septembre 2022|
+ |[38271509/22 - Vulnérabilités dans les produits Cisco](https://www.dgssi.gov.ma//fr/content/3827150922-vulnerabilites-dans-les-produits-cisco.html)|Cisco annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités affectant les produits Cisco utilisant les versions vulnérables de Cisco IOS XR. L’exploitation de ces failles permet à un...|15 septembre 2022|
+ |[38261509/22 - Vulnérabilités affectant le BIOS sur plusieursproduits deLenovo](https://www.dgssi.gov.ma//fr/content/3826150922-vulnerabilites-affectant-le-bios-sur-plusieurs-produits-de-lenovo.html)|Lenovo annonce la correction de plusieurs vulnérabilités affectant plusieurs de ses produits.L'exploitation de ces vulnérabilités peutpermettreà un attaquant d’élever ses privilèges, d’accéder à des informations confidentielles...|15 septembre 2022|
+ |[38251509/22 - Vulnérabilité dans Citrix Hypervisor](https://www.dgssi.gov.ma//fr/content/3825150922-vulnerabilite-dans-citrix-hypervisor.html)|Citrixannonce la disponibilité d’une mise à jour de sécurité permettant la correction d’une vulnérabilité affectant les versions de Citrix Hypervisor susmentionnées. L’exploitation de cette faille peut permettre à un attaquant de...|15 septembre 2022|
+ |[38191409/22 - Vulnérabilités affectant plusieurs produits d’Adobe](https://www.dgssi.gov.ma//fr/content/3819140922-vulnerabilites-affectant-plusieurs-produits-d-adobe.html)|Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités critiques affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant l’exécution de code...|15 septembre 2022|
+ |[38241409/22 - Vulnérabilités dans les produits SAP](https://www.dgssi.gov.ma//fr/content/3824140922-vulnerabilites-dans-les-produits-sap.html)|SAP annonce la disponibilité d’une mise à jour de sécurité corrigeant plusieurs vulnérabilités critiques affectant les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la...|14 septembre 2022|
+ |[38181409/22 - Vulnérabilités critiques affectant Trend Micro Apex One](https://www.dgssi.gov.ma//fr/content/3818140922-vulnerabilites-critiques-affectant-trend-micro-apex-one.html)|Trend Micro annonce la correction de plusieurs vulnérabilités affectantson produit Apex One.L'exploitation de ces vulnérabilités peutpermettreà un attaquant d’exécuter de code arbitraire, d’accéder à des informations...|14 septembre 2022|
+ |[38171409/22 - Vulnérabilité « Zero-Day » affectant le plugin «WPGateway» pour WordPress](https://www.dgssi.gov.ma//fr/content/3817140922-vulnerabilite-zero-day-affectant-le-plugin-wpgateway-pour-wordpress.html)|WordPressannonce la correction d’unevulnérabilité critique affectant le plugin « WPGateway». Cette vulnérabilité est activement exploitée et peut permettre à un attaquant de prendre le contrôle total sur le site web vulnérable|14 septembre 2022|
  
  ---
 
@@ -67,6 +106,20 @@
  
  ---
 
+## IBMCLOUD [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft Endpoint Configuration Manager (CVE-2022-37972)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 20, 2022|
+ |[Mozilla Firefox code execution (CVE-2022-40962)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 20, 2022|
+ |[Mozilla Firefox instruction cache denial of service (CVE-2022-40957)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 20, 2022|
+ |[Mozilla Firefox CSP security bypass (CVE-2022-40956)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 20, 2022|
+ |[Mozilla Firefox for Android Graphics denial of service (CVE-2022-40961)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 20, 2022|
+ |[Mozilla Firefox secure context security bypass (CVE-2022-40958)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 20, 2022|
+ |[Mozilla Firefox FeaturePolicy security bypass (CVE-2022-40959)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 20, 2022|
+ 
+ ---
+
 ## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -79,57 +132,4 @@
  |[Apple macOS vImage ICC File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1289/)|Visit link for details|Sept. 19, 2022|
  |[Microsoft SharePoint Workflow Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1288/)|Visit link for details|Sept. 19, 2022|
  |[Microsoft Office Visio EMF File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1287/)|Visit link for details|Sept. 19, 2022|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[CODESYS Solidigm SSD improper authentication](https://vuldb.com/?id.209150)|Visit link for details|2022-09-20 at 21:34|
- |[Intel Solidigm SSD protection mechanism](https://vuldb.com/?id.209149)|Visit link for details|2022-09-20 at 21:33|
- |[Intel Solidigm SSD protection mechanism](https://vuldb.com/?id.209148)|Visit link for details|2022-09-20 at 21:31|
- |[microweber injection](https://vuldb.com/?id.209147)|Visit link for details|2022-09-20 at 21:28|
- |[Final CMS sql injection](https://vuldb.com/?id.209146)|Visit link for details|2022-09-20 at 21:27|
- |[Pagekit Storage Feature unrestricted upload](https://vuldb.com/?id.209145)|Visit link for details|2022-09-20 at 21:27|
- |[TestLink planView.php cross-site request forgery](https://vuldb.com/?id.209144)|Visit link for details|2022-09-20 at 21:25|
- |[Cloudreve File Upload cross site scripting](https://vuldb.com/?id.209143)|Visit link for details|2022-09-20 at 18:27|
- |[Apache InLong MySQL JDBC connection URL deserialization](https://vuldb.com/?id.209142)|Visit link for details|2022-09-20 at 18:26|
- |[microweber code injection](https://vuldb.com/?id.209141)|Visit link for details|2022-09-20 at 16:29|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-PMD-Move-39326" class="noirorange"><b>Linux kernel</b>: reuse after free via PMD Move</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-PMD-Move-39326)|An attacker can force the reuse of a freed memory area of the Linux kernel, via PMD Move, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-multiple-vulnerabilities-39325" class="noirorange"><b>Centreon Web</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Centreon-Web-multiple-vulnerabilities-39325)|An attacker can use several vulnerabilities of Centreon Web...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Grafana-privilege-escalation-via-Folders-Dashboards-39324" class="noirorange"><b>Grafana</b>: privilege escalation via Folders/Dashboards</a>](https://vigilance.fr/vulnerability/Grafana-privilege-escalation-via-Folders-Dashboards-39324)|An attacker can bypass restrictions of Grafana, via Folders/Dashboards, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Grafana-privilege-escalation-via-Auth-Proxy-39323" class="noirorange"><b>Grafana</b>: privilege escalation via Auth Proxy</a>](https://vigilance.fr/vulnerability/Grafana-privilege-escalation-via-Auth-Proxy-39323)|An attacker can bypass restrictions of Grafana, via Auth Proxy, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/KubeVirt-directory-traversal-39322" class="noirorange"><b>KubeVirt</b>: directory traversal</a>](https://vigilance.fr/vulnerability/KubeVirt-directory-traversal-39322)|An attacker can traverse directories of KubeVirt, in order to read a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-multiple-vulnerabilities-39321" class="noirorange"><b>Mozilla Firefox</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-multiple-vulnerabilities-39321)|An attacker can use several vulnerabilities of Mozilla Firefox...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Endpoint-Configuration-Manager-spoofing-39320" class="noirorange"><b>Microsoft Endpoint Configuration Manager</b>: spoofing</a>](https://vigilance.fr/vulnerability/Microsoft-Endpoint-Configuration-Manager-spoofing-39320)|An attacker can create spoofed data on Microsoft Endpoint Configuration Manager, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-tiffcp-39319" class="noirorange"><b>LibTIFF</b>: buffer overflow via tiffcp</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-tiffcp-39319)|An attacker can trigger a buffer overflow of LibTIFF, via tiffcp, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-TIFFReadRawDataStriped-39318" class="noirorange"><b>LibTIFF</b>: buffer overflow via <wbr>TIFFReadRawDataStrip<wbr>ed()</wbr></wbr></a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-TIFFReadRawDataStriped-39318)|An attacker can trigger a buffer overflow of LibTIFF, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-Microsoft-Edge-Chromium-information-disclosure-via-Leaked-Password-Enhanced-Spellcheck-39317" class="noirorange"><b>Chrome  Microsoft Edge Chromium</b>: information disclosure via Leaked Password Enhanced Spellcheck</a>](https://vigilance.fr/vulnerability/Chrome-Microsoft-Edge-Chromium-information-disclosure-via-Leaked-Password-Enhanced-Spellcheck-39317)|Google or Microsoft can obtain users' passwords, via Enhanced Spellcheck, in order to potentially connect to the relevant services...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-em28xx-usb-probe-39314" class="noirorange"><b>Linux kernel</b>: reuse after free via em28xx_usb_probe()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-em28xx-usb-probe-39314)|An attacker can force the reuse of a freed memory area of the Linux kernel, via em28xx_usb_probe(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[38322009/22 - Vulnérabilités dans Mozilla Thunderbird](https://www.dgssi.gov.ma//fr/content/3832200922-vulnerabilites-dans-mozilla-thunderbird.html)|Mozilla a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Mozilla Thunderbird. Un attaquant pourrait exploiter certaines de ces failles afin de causer un déni de service, d’exécuter du code arbitraire à...|20 septembre 2022|
- |[38301909/22 - Vulnérabilités dans les produits Lenovo](https://www.dgssi.gov.ma//fr/content/3830190922-vulnerabilites-dans-les-produits-lenovo.html)|Plusieurs vulnérabilités ont été corrigées dans les produits Lenovo susmentionnés.L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges, de porter atteinte à la confidentialité des données et d’...|19 septembre 2022|
- |[38281609/22 - Vulnérabilités critiques affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/3828160922-vulnerabilites-critiques-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilitésaffectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre àun attaquant d’exécuter du code...|16 septembre 2022|
- |[38291709/22 - Vulnérabilité dans PaloAlto Cortex XDR Agent](https://www.dgssi.gov.ma//fr/content/3829170922-vulnerabilite-dans-paloalto-cortex-xdr-agent.html)|Une vulnérabilité a été corrigée dans PaloAlto Cortex XDR Agent. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte à laconfidentialité des données.|16 septembre 2022|
- |[38271509/22 - Vulnérabilités dans les produits Cisco](https://www.dgssi.gov.ma//fr/content/3827150922-vulnerabilites-dans-les-produits-cisco.html)|Cisco annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités affectant les produits Cisco utilisant les versions vulnérables de Cisco IOS XR. L’exploitation de ces failles permet à un...|15 septembre 2022|
- |[38261509/22 - Vulnérabilités affectant le BIOS sur plusieursproduits deLenovo](https://www.dgssi.gov.ma//fr/content/3826150922-vulnerabilites-affectant-le-bios-sur-plusieurs-produits-de-lenovo.html)|Lenovo annonce la correction de plusieurs vulnérabilités affectant plusieurs de ses produits.L'exploitation de ces vulnérabilités peutpermettreà un attaquant d’élever ses privilèges, d’accéder à des informations confidentielles...|15 septembre 2022|
- |[38251509/22 - Vulnérabilité dans Citrix Hypervisor](https://www.dgssi.gov.ma//fr/content/3825150922-vulnerabilite-dans-citrix-hypervisor.html)|Citrixannonce la disponibilité d’une mise à jour de sécurité permettant la correction d’une vulnérabilité affectant les versions de Citrix Hypervisor susmentionnées. L’exploitation de cette faille peut permettre à un attaquant de...|15 septembre 2022|
- |[38191409/22 - Vulnérabilités affectant plusieurs produits d’Adobe](https://www.dgssi.gov.ma//fr/content/3819140922-vulnerabilites-affectant-plusieurs-produits-d-adobe.html)|Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités critiques affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant l’exécution de code...|15 septembre 2022|
- |[38241409/22 - Vulnérabilités dans les produits SAP](https://www.dgssi.gov.ma//fr/content/3824140922-vulnerabilites-dans-les-produits-sap.html)|SAP annonce la disponibilité d’une mise à jour de sécurité corrigeant plusieurs vulnérabilités critiques affectant les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la...|14 septembre 2022|
- |[38181409/22 - Vulnérabilités critiques affectant Trend Micro Apex One](https://www.dgssi.gov.ma//fr/content/3818140922-vulnerabilites-critiques-affectant-trend-micro-apex-one.html)|Trend Micro annonce la correction de plusieurs vulnérabilités affectantson produit Apex One.L'exploitation de ces vulnérabilités peutpermettreà un attaquant d’exécuter de code arbitraire, d’accéder à des informations...|14 septembre 2022|
- |[38171409/22 - Vulnérabilité « Zero-Day » affectant le plugin «WPGateway» pour WordPress](https://www.dgssi.gov.ma//fr/content/3817140922-vulnerabilite-zero-day-affectant-le-plugin-wpgateway-pour-wordpress.html)|WordPressannonce la correction d’unevulnérabilité critique affectant le plugin « WPGateway». Cette vulnérabilité est activement exploitée et peut permettre à un attaquant de prendre le contrôle total sur le site web vulnérable|14 septembre 2022|
  
