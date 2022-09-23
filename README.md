@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 23/09/2022 09:17:13 UTC
+ > Last Updated 23/09/2022 21:11:05 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -40,13 +40,13 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Apache Batik server-side request forgery (CVE-2022-40146)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 22, 2022|
- |[Apache Batik server-side request forgery (CVE-2022-38648)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 22, 2022|
- |[Apache Batik server-side request forgery (CVE-2022-38398)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 22, 2022|
- |[WorkOrder CMS username password cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 22, 2022|
- |[ScadaPro Server security bypass (CVE-2022-3263)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 22, 2022|
- |[Multix cross-site request forgery](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 22, 2022|
- |[Multix cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 22, 2022|
+ |[3dady real-time web stats plugin for WordPress plugin options cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 23, 2022|
+ |[Testa Online Test Management System login.php cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 23, 2022|
+ |[Netgear Nighthawk AC1900 Smart WiFi Dual Band Gigabit Router R7000 buffer overflow (CVE-2022-37234)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 22, 2022|
+ |[Evoh NFT EvohClaimable code execution (CVE-2022-35621)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 22, 2022|
+ |[Apache Pulsar man-in-the-middle (CVE-2022-33683)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 22, 2022|
+ |[Apache Pulsar man-in-the-middle (CVE-2022-33682)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 22, 2022|
+ |[Apache Pulsar man-in-the-middle (CVE-2022-33681)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 22, 2022|
  
  ---
 
@@ -54,33 +54,6 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Zephyr Project Manager REST Call cross site scripting](https://vuldb.com/?id.209370)|Visit link for details|2022-09-23 at 09:03|
- |[OTFCC libc.so.6+0xbb384 memory corruption](https://vuldb.com/?id.209369)|Visit link for details|2022-09-23 at 09:01|
- |[vim use after free](https://vuldb.com/?id.209368)|Visit link for details|2022-09-23 at 09:00|
- |[CONS3RT Plugin cross-site request forgery](https://vuldb.com/?id.209367)|Visit link for details|2022-09-23 at 09:00|
- |[SCM HttpClient Plugin cross-site request forgery](https://vuldb.com/?id.209366)|Visit link for details|2022-09-23 at 08:59|
- |[Worksoft Execution Manager Plugin cross-site request forgery](https://vuldb.com/?id.209365)|Visit link for details|2022-09-23 at 08:59|
- |[Walti Plugin API Response cross site scripting](https://vuldb.com/?id.209364)|Visit link for details|2022-09-23 at 08:59|
- |[Security Inspector Plugin Session Cache report cross-site request forgery](https://vuldb.com/?id.209363)|Visit link for details|2022-09-23 at 08:58|
- |[Build-Publisher Plugin API Endpoint config.xml cross-site request forgery](https://vuldb.com/?id.209362)|Visit link for details|2022-09-23 at 08:57|
- |[NS-ND Integration Performance Publisher Plugin Test cross site scripting](https://vuldb.com/?id.209361)|Visit link for details|2022-09-23 at 08:57|
- 
- ---
-
-## CERT-FR [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-850/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 22 septembre 2022|
- |[Multiples vulnérabilités dans Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-849/)|De multiples vulnérabilités ont été corrigées dans |Publié le 22 septembre 2022|
- |[Multiples vulnérabilités dans Bind](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-848/)|De multiples vulnérabilités ont été découvertes dans Bind. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 21 septembre 2022|
- |[Multiples vulnérabilités dans Tenable Nessus Network Monitor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-847/)|De multiples vulnérabilités ont été découvertes dans Tenable Nessus Network Monitor. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 21 septembre 2022|
- |[Vulnérabilité dans Microsoft Endpoint Configuration Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-846/)|Vulnérabilité a été découverte dans Microsoft Endpoint Configuration Manager. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 21 septembre 2022|
- |[Multiples vulnérabilités dans Grafana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-845/)|De multiples vulnérabilités ont été découvertes dans Grafana. Elles permettent à un attaquant de provoquer une élévation de privilèges.|Publié le 21 septembre 2022|
- |[Multiples vulnérabilités dans Mozilla Firefox et Firefox ESR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-844/)|De multiples vulnérabilités ont été découvertes dans Mozilla Firefox et Firefox ESR. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 21 septembre 2022|
- |[Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-843/)|De multiples vulnérabilités ont été corrigées dans |Publié le 21 septembre 2022|
- |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-842/)|De multiples vulnérabilités ont été corrigées dans |Publié le 20 septembre 2022|
- |[Vulnérabilité dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-841/)|Une vulnérabilité a été corrigée dans |Publié le 20 septembre 2022|
  
  ---
 
@@ -88,6 +61,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Sophos-Firewall-code-execution-via-User-Portal-Webadmin-39358" class="noirorange"><b>Sophos Firewall</b>: code execution via User Portal / Webadmin</a>](https://vigilance.fr/vulnerability/Sophos-Firewall-code-execution-via-User-Portal-Webadmin-39358)|An attacker can use a vulnerability of Sophos Firewall, via User Portal / Webadmin, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Squid-cache-out-of-bounds-memory-reading-via-SSPI-SMB-Authentication-39356" class="noirorange"><b>Squid cache</b>: out-of-bounds memory reading via SSPI / SMB Authentication</a>](https://vigilance.fr/vulnerability/Squid-cache-out-of-bounds-memory-reading-via-SSPI-SMB-Authentication-39356)|An attacker can force a read at an invalid memory address of Squid cache, via SSPI / SMB Authentication, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Squid-cache-information-disclosure-via-Cache-Manager-39355" class="noirorange"><b>Squid cache</b>: information disclosure via Cache Manager</a>](https://vigilance.fr/vulnerability/Squid-cache-information-disclosure-via-Cache-Manager-39355)|An attacker can bypass access restrictions to data of Squid cache, via Cache Manager, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/OAuthLib-denial-of-service-via-Redirect-Uri-39354" class="noirorange"><b>OAuthLib</b>: denial of service via Redirect Uri</a>](https://vigilance.fr/vulnerability/OAuthLib-denial-of-service-via-Redirect-Uri-39354)|An attacker can cause a fatal error of OAuthLib, via Redirect Uri, in order to trigger a denial of service...|Visit link for details|
@@ -98,22 +72,23 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-drivers-media-dvb-core-dmxdev-c-39347" class="noirorange"><b>Linux kernel</b>: reuse after free via <wbr>drivers/media/dvb-co<wbr>re/dmxdev.c</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-drivers-media-dvb-core-dmxdev-c-39347)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Python-Core-directory-traversal-via-tarfile-39346" class="noirorange"><b>Python Core</b>: directory traversal via tarfile</a>](https://vigilance.fr/vulnerability/Python-Core-directory-traversal-via-tarfile-39346)|An attacker can traverse directories of Python Core, via tarfile, in order to write a file outside the service root path...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Go-directory-traversal-via-JoinPath-39343" class="noirorange"><b>Go</b>: directory traversal via JoinPath</a>](https://vigilance.fr/vulnerability/Go-directory-traversal-via-JoinPath-39343)|An attacker can traverse directories of Go, via JoinPath, in order to read a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Go-denial-of-service-via-net-http-HTTP-2-Preempted-Shutdown-39342" class="noirorange"><b>Go</b>: denial of service via net/http HTTP/2 Preempted Shutdown</a>](https://vigilance.fr/vulnerability/Go-denial-of-service-via-net-http-HTTP-2-Preempted-Shutdown-39342)|An attacker can cause a fatal error of Go, via net/http HTTP/2 Preempted Shutdown, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
-## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
+## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[Apple macOS TIFF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1295/)|Visit link for details|Sept. 21, 2022|
- |[FreeBSD Kernel MPT Heap-based Buffer Overflow Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1294/)|Visit link for details|Sept. 20, 2022|
- |[FreeBSD Kernel MPT Heap-based Buffer Overflow Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1293/)|Visit link for details|Sept. 20, 2022|
- |[FreeBSD Kernel Netmap Integer Overflow Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1292/)|Visit link for details|Sept. 20, 2022|
- |[FreeBSD Kernel Netmap Time-Of-Check Time-Of-Use Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1291/)|Visit link for details|Sept. 20, 2022|
- |[D-Link Multiple Routers lighttpd Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1290/)|Visit link for details|Sept. 20, 2022|
- |[Apple macOS vImage ICC File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1289/)|Visit link for details|Sept. 19, 2022|
- |[Microsoft SharePoint Workflow Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1288/)|Visit link for details|Sept. 19, 2022|
+ |[Multiples vulnérabilités dans TrendMicro Deep Security Agent](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-852/)|De multiples vulnérabilités ont été découvertes dans TrendMicro Deep Security Agent. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 23 septembre 2022|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-851/)|De multiples vulnérabilités ont été corrigées dans |Publié le 23 septembre 2022|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-850/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 22 septembre 2022|
+ |[Multiples vulnérabilités dans Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-849/)|De multiples vulnérabilités ont été corrigées dans |Publié le 22 septembre 2022|
+ |[Multiples vulnérabilités dans Bind](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-848/)|De multiples vulnérabilités ont été découvertes dans Bind. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 21 septembre 2022|
+ |[Multiples vulnérabilités dans Tenable Nessus Network Monitor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-847/)|De multiples vulnérabilités ont été découvertes dans Tenable Nessus Network Monitor. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 21 septembre 2022|
+ |[Vulnérabilité dans Microsoft Endpoint Configuration Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-846/)|Vulnérabilité a été découverte dans Microsoft Endpoint Configuration Manager. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 21 septembre 2022|
+ |[Multiples vulnérabilités dans Grafana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-845/)|De multiples vulnérabilités ont été découvertes dans Grafana. Elles permettent à un attaquant de provoquer une élévation de privilèges.|Publié le 21 septembre 2022|
+ |[Multiples vulnérabilités dans Mozilla Firefox et Firefox ESR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-844/)|De multiples vulnérabilités ont été découvertes dans Mozilla Firefox et Firefox ESR. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 21 septembre 2022|
+ |[Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-843/)|De multiples vulnérabilités ont été corrigées dans |Publié le 21 septembre 2022|
  
  ---
 
@@ -132,4 +107,19 @@
  |[38291709/22 - Vulnérabilité dans PaloAlto Cortex XDR Agent](https://www.dgssi.gov.ma//fr/content/3829170922-vulnerabilite-dans-paloalto-cortex-xdr-agent.html)|Une vulnérabilité a été corrigée dans PaloAlto Cortex XDR Agent. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte à laconfidentialité des données.|16 septembre 2022|
  |[38271509/22 - Vulnérabilités dans les produits Cisco](https://www.dgssi.gov.ma//fr/content/3827150922-vulnerabilites-dans-les-produits-cisco.html)|Cisco annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités affectant les produits Cisco utilisant les versions vulnérables de Cisco IOS XR. L’exploitation de ces failles permet à un...|15 septembre 2022|
  |[38261509/22 - Vulnérabilités affectant le BIOS sur plusieursproduits deLenovo](https://www.dgssi.gov.ma//fr/content/3826150922-vulnerabilites-affectant-le-bios-sur-plusieurs-produits-de-lenovo.html)|Lenovo annonce la correction de plusieurs vulnérabilités affectant plusieurs de ses produits.L'exploitation de ces vulnérabilités peutpermettreà un attaquant d’élever ses privilèges, d’accéder à des informations confidentielles...|15 septembre 2022|
+ 
+ ---
+
+## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Trend Micro Deep Security Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1299/)|Visit link for details|Sept. 23, 2022|
+ |[Trend Micro Deep Security Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1298/)|Visit link for details|Sept. 23, 2022|
+ |[Trend Micro Deep Security Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1297/)|Visit link for details|Sept. 23, 2022|
+ |[Trend Micro Deep Security Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1296/)|Visit link for details|Sept. 23, 2022|
+ |[Apple macOS TIFF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1295/)|Visit link for details|Sept. 21, 2022|
+ |[FreeBSD Kernel MPT Heap-based Buffer Overflow Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1294/)|Visit link for details|Sept. 20, 2022|
+ |[FreeBSD Kernel MPT Heap-based Buffer Overflow Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1293/)|Visit link for details|Sept. 20, 2022|
+ |[FreeBSD Kernel Netmap Integer Overflow Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1292/)|Visit link for details|Sept. 20, 2022|
  
