@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 23/09/2022 21:11:05 UTC
+ > Last Updated 24/09/2022 09:14:17 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -27,7 +27,7 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[CISA Has Added One Known Exploited Vulnerability to Catalog ](https://www.cisa.gov/uscert/ncas/current-activity/2022/09/22/cisa-has-added-one-known-exploited-vulnerability-catalog)|<p>CISA has added one new vulnerability to it's <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise.<strong> Note:</strong> To view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.      </p>|Thursday, September 22, 2022|
+ |[CISA Has Added One Known Exploited Vulnerability to Catalog ](https://www.cisa.gov/uscert/ncas/current-activity/2022/09/23/cisa-has-added-one-known-exploited-vulnerability-catalog)|<p>CISA has added one new vulnerability to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise.<strong> Note:</strong> To view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.</p>|Friday, September 23, 2022|
  |[CISA and NSA Publish Joint Cybersecurity Advisory on Control System Defense](https://www.cisa.gov/uscert/ncas/current-activity/2022/09/22/cisa-and-nsa-publish-joint-cybersecurity-advisory-control-system)|<p>CISA and the National Security Agency (NSA) have published a joint cybersecurity advisory about control system defense for operational technology (OT) and industrial control systems (ICSs). <a href="https://www.cisa.gov/uscert/ncas/alerts/aa22-265a">Control System Defense: Know the Opponent</a> is intended to provide critical infrastructure owners and operators with an understanding of the tactics, techniques, and procedures (TTPs) used by malicious cyber actors.</p>|Thursday, September 22, 2022|
  |[ISC Releases Security Advisories for Multiple Versions of BIND 9 ](https://www.cisa.gov/uscert/ncas/current-activity/2022/09/22/isc-releases-security-advisories-multiple-versions-bind-9)|<p>The Internet Systems Consortium (ISC) has released security advisories that address vulnerabilities affecting multiple versions of the ISC’s Berkeley Internet Name Domain (BIND) 9. A remote attacker could exploit these vulnerabilities to potentially cause denial-of-service conditions. For advisories addressing lower severity vulnerabilities, see the <a href="https://kb.isc.org/docs/aa-00913">BIND 9 Security Vulnerability Matrix</a>. <br> </p>|Thursday, September 22, 2022|
  |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/uscert/ncas/current-activity/2022/09/22/cisa-releases-three-industrial-control-systems-advisories)|<p>CISA has released three Industrial Control Systems (ICS) advisories on September 22, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p>|Thursday, September 22, 2022|
@@ -36,24 +36,24 @@
  
  ---
 
-## IBMCLOUD [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[3dady real-time web stats plugin for WordPress plugin options cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 23, 2022|
- |[Testa Online Test Management System login.php cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 23, 2022|
- |[Netgear Nighthawk AC1900 Smart WiFi Dual Band Gigabit Router R7000 buffer overflow (CVE-2022-37234)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 22, 2022|
- |[Evoh NFT EvohClaimable code execution (CVE-2022-35621)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 22, 2022|
- |[Apache Pulsar man-in-the-middle (CVE-2022-33683)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 22, 2022|
- |[Apache Pulsar man-in-the-middle (CVE-2022-33682)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 22, 2022|
- |[Apache Pulsar man-in-the-middle (CVE-2022-33681)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 22, 2022|
- 
- ---
-
 ## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ 
+ ---
+
+## IBMCLOUD [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Squid-Cache Squid information disclosure (CVE-2022-41318)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 23, 2022|
+ |[Squid-Cache Squid information disclosure (CVE-2022-41317)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 23, 2022|
+ |[Node.js weak security (CVE-2022-35255)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 23, 2022|
+ |[3dady real-time web stats plugin for WordPress plugin options cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 23, 2022|
+ |[Testa Online Test Management System login.php cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 23, 2022|
+ |[Arvados security bypass (CVE-2022-39238)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 22, 2022|
+ |[Redis integer overflow (CVE-2022-35951)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 22, 2022|
  
  ---
 
