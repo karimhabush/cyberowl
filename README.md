@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 24/09/2022 09:14:17 UTC
+ > Last Updated 24/09/2022 21:11:25 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -36,45 +36,6 @@
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
-## IBMCLOUD [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Squid-Cache Squid information disclosure (CVE-2022-41318)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 23, 2022|
- |[Squid-Cache Squid information disclosure (CVE-2022-41317)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 23, 2022|
- |[Node.js weak security (CVE-2022-35255)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 23, 2022|
- |[3dady real-time web stats plugin for WordPress plugin options cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 23, 2022|
- |[Testa Online Test Management System login.php cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 23, 2022|
- |[Arvados security bypass (CVE-2022-39238)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 22, 2022|
- |[Redis integer overflow (CVE-2022-35951)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 22, 2022|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Sophos-Firewall-code-execution-via-User-Portal-Webadmin-39358" class="noirorange"><b>Sophos Firewall</b>: code execution via User Portal / Webadmin</a>](https://vigilance.fr/vulnerability/Sophos-Firewall-code-execution-via-User-Portal-Webadmin-39358)|An attacker can use a vulnerability of Sophos Firewall, via User Portal / Webadmin, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Squid-cache-out-of-bounds-memory-reading-via-SSPI-SMB-Authentication-39356" class="noirorange"><b>Squid cache</b>: out-of-bounds memory reading via SSPI / SMB Authentication</a>](https://vigilance.fr/vulnerability/Squid-cache-out-of-bounds-memory-reading-via-SSPI-SMB-Authentication-39356)|An attacker can force a read at an invalid memory address of Squid cache, via SSPI / SMB Authentication, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Squid-cache-information-disclosure-via-Cache-Manager-39355" class="noirorange"><b>Squid cache</b>: information disclosure via Cache Manager</a>](https://vigilance.fr/vulnerability/Squid-cache-information-disclosure-via-Cache-Manager-39355)|An attacker can bypass access restrictions to data of Squid cache, via Cache Manager, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OAuthLib-denial-of-service-via-Redirect-Uri-39354" class="noirorange"><b>OAuthLib</b>: denial of service via Redirect Uri</a>](https://vigilance.fr/vulnerability/OAuthLib-denial-of-service-via-Redirect-Uri-39354)|An attacker can cause a fatal error of OAuthLib, via Redirect Uri, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libjpeg-turbo-buffer-overflow-via-get-word-rgb-row-39353" class="noirorange"><b>libjpeg-turbo</b>: buffer overflow via get_word_rgb_row()</a>](https://vigilance.fr/vulnerability/libjpeg-turbo-buffer-overflow-via-get-word-rgb-row-39353)|An attacker can trigger a buffer overflow of libjpeg-turbo, via get_word_rgb_row(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libjpeg-turbo-NULL-pointer-dereference-via-jcopy-sample-rows-39352" class="noirorange"><b>libjpeg-turbo</b>: NULL pointer dereference via jcopy_sample_rows()</a>](https://vigilance.fr/vulnerability/libjpeg-turbo-NULL-pointer-dereference-via-jcopy-sample-rows-39352)|An attacker can force a NULL pointer to be dereferenced on libjpeg-turbo, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/MediaWiki-write-access-via-Special-ChangeContentModel-AbuseFilter-Bypass-39351" class="noirorange"><b>MediaWiki</b>: write access via <wbr>Special:ChangeConten<wbr>tModel AbuseFilter Bypass</wbr></wbr></a>](https://vigilance.fr/vulnerability/MediaWiki-write-access-via-Special-ChangeContentModel-AbuseFilter-Bypass-39351)|An attacker can bypass access restrictions of MediaWiki, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HP-LaserJet-two-vulnerabilities-39348" class="noirorange"><b>HP LaserJet</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/HP-LaserJet-two-vulnerabilities-39348)|An attacker can use several vulnerabilities of HP LaserJet...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-drivers-media-dvb-core-dmxdev-c-39347" class="noirorange"><b>Linux kernel</b>: reuse after free via <wbr>drivers/media/dvb-co<wbr>re/dmxdev.c</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-drivers-media-dvb-core-dmxdev-c-39347)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Python-Core-directory-traversal-via-tarfile-39346" class="noirorange"><b>Python Core</b>: directory traversal via tarfile</a>](https://vigilance.fr/vulnerability/Python-Core-directory-traversal-via-tarfile-39346)|An attacker can traverse directories of Python Core, via tarfile, in order to write a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Go-directory-traversal-via-JoinPath-39343" class="noirorange"><b>Go</b>: directory traversal via JoinPath</a>](https://vigilance.fr/vulnerability/Go-directory-traversal-via-JoinPath-39343)|An attacker can traverse directories of Go, via JoinPath, in order to read a file outside the service root path...|Visit link for details|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -89,6 +50,52 @@
  |[Multiples vulnérabilités dans Grafana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-845/)|De multiples vulnérabilités ont été découvertes dans Grafana. Elles permettent à un attaquant de provoquer une élévation de privilèges.|Publié le 21 septembre 2022|
  |[Multiples vulnérabilités dans Mozilla Firefox et Firefox ESR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-844/)|De multiples vulnérabilités ont été découvertes dans Mozilla Firefox et Firefox ESR. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 21 septembre 2022|
  |[Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-843/)|De multiples vulnérabilités ont été corrigées dans |Publié le 21 septembre 2022|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Host Engineering H0-ECOM100 Communications Module stack-based overflow](https://vuldb.com/?id.209537)|Visit link for details|2022-09-24 at 18:14|
+ |[Medtronic MiniMed 620G protection mechanism](https://vuldb.com/?id.209536)|Visit link for details|2022-09-24 at 18:12|
+ |[Nepxion Discovery URL getForEntity server-side request forgery](https://vuldb.com/?id.209535)|Visit link for details|2022-09-24 at 13:13|
+ |[Nepxion Discovery SpEL unknown vulnerability](https://vuldb.com/?id.209534)|Visit link for details|2022-09-24 at 13:12|
+ |[Rocket.Chat Mobile App PIN improper authentication](https://vuldb.com/?id.209533)|Visit link for details|2022-09-24 at 13:11|
+ |[Jodit Editor cross site scripting](https://vuldb.com/?id.209532)|Visit link for details|2022-09-24 at 13:11|
+ |[Rocket.Chat Style cross site scripting](https://vuldb.com/?id.209531)|Visit link for details|2022-09-24 at 13:10|
+ |[Apple macOS Bluetooth access control](https://vuldb.com/?id.209530)|Visit link for details|2022-09-24 at 13:09|
+ |[vim null pointer dereference](https://vuldb.com/?id.209529)|Visit link for details|2022-09-24 at 13:08|
+ |[Rocket.chat Direct Message access control](https://vuldb.com/?id.209528)|Visit link for details|2022-09-24 at 13:08|
+ 
+ ---
+
+## IBMCLOUD [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Sophos Firewall code execution (CVE-2022-3236)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 23, 2022|
+ |[Squid-Cache Squid information disclosure (CVE-2022-41318)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 23, 2022|
+ |[Squid-Cache Squid information disclosure (CVE-2022-41317)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 23, 2022|
+ |[Node.js weak security (CVE-2022-35255)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 23, 2022|
+ |[3dady real-time web stats plugin for WordPress plugin options cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 23, 2022|
+ |[Testa Online Test Management System login.php cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 23, 2022|
+ |[Apache Pinot unspecified (CVE-2022-26112)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 22, 2022|
+ 
+ ---
+
+## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Trend Micro Deep Security Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1299/)|Visit link for details|Sept. 23, 2022|
+ |[Trend Micro Deep Security Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1298/)|Visit link for details|Sept. 23, 2022|
+ |[Trend Micro Deep Security Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1297/)|Visit link for details|Sept. 23, 2022|
+ |[Trend Micro Deep Security Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1296/)|Visit link for details|Sept. 23, 2022|
+ |[Apple macOS TIFF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1295/)|Visit link for details|Sept. 21, 2022|
+ |[FreeBSD Kernel MPT Heap-based Buffer Overflow Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1294/)|Visit link for details|Sept. 20, 2022|
+ |[FreeBSD Kernel MPT Heap-based Buffer Overflow Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1293/)|Visit link for details|Sept. 20, 2022|
+ |[FreeBSD Kernel Netmap Integer Overflow Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1292/)|Visit link for details|Sept. 20, 2022|
  
  ---
 
@@ -110,16 +117,19 @@
  
  ---
 
-## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[Trend Micro Deep Security Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1299/)|Visit link for details|Sept. 23, 2022|
- |[Trend Micro Deep Security Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1298/)|Visit link for details|Sept. 23, 2022|
- |[Trend Micro Deep Security Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1297/)|Visit link for details|Sept. 23, 2022|
- |[Trend Micro Deep Security Link Following Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1296/)|Visit link for details|Sept. 23, 2022|
- |[Apple macOS TIFF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1295/)|Visit link for details|Sept. 21, 2022|
- |[FreeBSD Kernel MPT Heap-based Buffer Overflow Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1294/)|Visit link for details|Sept. 20, 2022|
- |[FreeBSD Kernel MPT Heap-based Buffer Overflow Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1293/)|Visit link for details|Sept. 20, 2022|
- |[FreeBSD Kernel Netmap Integer Overflow Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1292/)|Visit link for details|Sept. 20, 2022|
+ |[<a href="https://vigilance.fr/vulnerability/Sophos-Firewall-code-execution-via-User-Portal-Webadmin-39358" class="noirorange"><b>Sophos Firewall</b>: code execution via User Portal / Webadmin</a>](https://vigilance.fr/vulnerability/Sophos-Firewall-code-execution-via-User-Portal-Webadmin-39358)|An attacker can use a vulnerability of Sophos Firewall, via User Portal / Webadmin, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Squid-cache-out-of-bounds-memory-reading-via-SSPI-SMB-Authentication-39356" class="noirorange"><b>Squid cache</b>: out-of-bounds memory reading via SSPI / SMB Authentication</a>](https://vigilance.fr/vulnerability/Squid-cache-out-of-bounds-memory-reading-via-SSPI-SMB-Authentication-39356)|An attacker can force a read at an invalid memory address of Squid cache, via SSPI / SMB Authentication, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Squid-cache-information-disclosure-via-Cache-Manager-39355" class="noirorange"><b>Squid cache</b>: information disclosure via Cache Manager</a>](https://vigilance.fr/vulnerability/Squid-cache-information-disclosure-via-Cache-Manager-39355)|An attacker can bypass access restrictions to data of Squid cache, via Cache Manager, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OAuthLib-denial-of-service-via-Redirect-Uri-39354" class="noirorange"><b>OAuthLib</b>: denial of service via Redirect Uri</a>](https://vigilance.fr/vulnerability/OAuthLib-denial-of-service-via-Redirect-Uri-39354)|An attacker can cause a fatal error of OAuthLib, via Redirect Uri, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libjpeg-turbo-buffer-overflow-via-get-word-rgb-row-39353" class="noirorange"><b>libjpeg-turbo</b>: buffer overflow via get_word_rgb_row()</a>](https://vigilance.fr/vulnerability/libjpeg-turbo-buffer-overflow-via-get-word-rgb-row-39353)|An attacker can trigger a buffer overflow of libjpeg-turbo, via get_word_rgb_row(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libjpeg-turbo-NULL-pointer-dereference-via-jcopy-sample-rows-39352" class="noirorange"><b>libjpeg-turbo</b>: NULL pointer dereference via jcopy_sample_rows()</a>](https://vigilance.fr/vulnerability/libjpeg-turbo-NULL-pointer-dereference-via-jcopy-sample-rows-39352)|An attacker can force a NULL pointer to be dereferenced on libjpeg-turbo, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MediaWiki-write-access-via-Special-ChangeContentModel-AbuseFilter-Bypass-39351" class="noirorange"><b>MediaWiki</b>: write access via <wbr>Special:ChangeConten<wbr>tModel AbuseFilter Bypass</wbr></wbr></a>](https://vigilance.fr/vulnerability/MediaWiki-write-access-via-Special-ChangeContentModel-AbuseFilter-Bypass-39351)|An attacker can bypass access restrictions of MediaWiki, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HP-LaserJet-two-vulnerabilities-39348" class="noirorange"><b>HP LaserJet</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/HP-LaserJet-two-vulnerabilities-39348)|An attacker can use several vulnerabilities of HP LaserJet...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-drivers-media-dvb-core-dmxdev-c-39347" class="noirorange"><b>Linux kernel</b>: reuse after free via <wbr>drivers/media/dvb-co<wbr>re/dmxdev.c</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-drivers-media-dvb-core-dmxdev-c-39347)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Python-Core-directory-traversal-via-tarfile-39346" class="noirorange"><b>Python Core</b>: directory traversal via tarfile</a>](https://vigilance.fr/vulnerability/Python-Core-directory-traversal-via-tarfile-39346)|An attacker can traverse directories of Python Core, via tarfile, in order to write a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Go-directory-traversal-via-JoinPath-39343" class="noirorange"><b>Go</b>: directory traversal via JoinPath</a>](https://vigilance.fr/vulnerability/Go-directory-traversal-via-JoinPath-39343)|An attacker can traverse directories of Go, via JoinPath, in order to read a file outside the service root path...|Visit link for details|
  
