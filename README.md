@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 24/09/2022 21:11:25 UTC
+ > Last Updated 25/09/2022 09:13:15 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -53,23 +53,6 @@
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Host Engineering H0-ECOM100 Communications Module stack-based overflow](https://vuldb.com/?id.209537)|Visit link for details|2022-09-24 at 18:14|
- |[Medtronic MiniMed 620G protection mechanism](https://vuldb.com/?id.209536)|Visit link for details|2022-09-24 at 18:12|
- |[Nepxion Discovery URL getForEntity server-side request forgery](https://vuldb.com/?id.209535)|Visit link for details|2022-09-24 at 13:13|
- |[Nepxion Discovery SpEL unknown vulnerability](https://vuldb.com/?id.209534)|Visit link for details|2022-09-24 at 13:12|
- |[Rocket.Chat Mobile App PIN improper authentication](https://vuldb.com/?id.209533)|Visit link for details|2022-09-24 at 13:11|
- |[Jodit Editor cross site scripting](https://vuldb.com/?id.209532)|Visit link for details|2022-09-24 at 13:11|
- |[Rocket.Chat Style cross site scripting](https://vuldb.com/?id.209531)|Visit link for details|2022-09-24 at 13:10|
- |[Apple macOS Bluetooth access control](https://vuldb.com/?id.209530)|Visit link for details|2022-09-24 at 13:09|
- |[vim null pointer dereference](https://vuldb.com/?id.209529)|Visit link for details|2022-09-24 at 13:08|
- |[Rocket.chat Direct Message access control](https://vuldb.com/?id.209528)|Visit link for details|2022-09-24 at 13:08|
- 
- ---
-
 ## IBMCLOUD [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -99,21 +82,20 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
+## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[38382209/22 - Vulnérabilités affectantle navigateur Mozilla Firefox](https://www.dgssi.gov.ma//fr/content/3838220922-vulnerabilites-affectant-le-navigateur-mozilla-firefox.html)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de cesvulnérabilités peut permettre à un...|22 septembre 2022|
- |[38372209/22 - Vulnérabilité affectant des produits F-Secure](https://www.dgssi.gov.ma//fr/content/3837220922-vulnerabilite-affectant-des-produits-f-secure.html)|F-secure annonce la correction d’une vulnérabilité affectantses produits susmentionnés.L'exploitation de cette vulnérabilité peutpermettreà un attaquant distant de causer un déni de service.|22 septembre 2022|
- |[38352209/22 - Patch de sécurité Out Of Band de Microsoft concernant Microsoft Endpoint Configuration](https://www.dgssi.gov.ma//fr/content/3835220922-patch-de-securite-out-band-de-microsoft-concernant-microsoft-endpoint-configuration-manager.html)|Microsoft a publié un patch de sécurité spécial qui corrige une vulnérabilité affectant Microsoft Endpoint Configuration Manager. L’exploitation de cette faille peut permettre à un attaquant de contourner la politique de sécurité.|22 septembre 2022|
- |[38342209/22 - Vulnérabilités dans le DNSBIND](https://www.dgssi.gov.ma//fr/content/3834220922-vulnerabilites-dans-le-dns-bind.html)|Internet Systems Consortium (ISC) a publié un correctif de sécurité qui corrige plusieurs vulnérabilités dans les versions de DNS BIND susmentionnées. L’exploitation de ces failles peut permettre à un attaquant distant de causer un déni de...|22 septembre 2022|
- |[38332109/22 - Vulnérabilité affectant VMware Spring](https://www.dgssi.gov.ma//fr/content/3833210922-vulnerabilite-affectant-vmware-spring.html)|VMware annonce la correction d’une vulnérabilitéaffectant son Framework VMware Spring.L'exploitation de cette vulnérabilité peut permettre à un attaquant d’accéder à des données confidentielles.|21 septembre 2022|
- |[38322009/22 - Vulnérabilités dans Mozilla Thunderbird](https://www.dgssi.gov.ma//fr/content/3832200922-vulnerabilites-dans-mozilla-thunderbird.html)|Mozilla a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Mozilla Thunderbird. Un attaquant pourrait exploiter certaines de ces failles afin de causer un déni de service, d’exécuter du code arbitraire à...|20 septembre 2022|
- |[38301909/22 - Vulnérabilités dans les produits Lenovo](https://www.dgssi.gov.ma//fr/content/3830190922-vulnerabilites-dans-les-produits-lenovo.html)|Plusieurs vulnérabilités ont été corrigées dans les produits Lenovo susmentionnés.L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges, de porter atteinte à la confidentialité des données et d’...|19 septembre 2022|
- |[38281609/22 - Vulnérabilités critiques affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/3828160922-vulnerabilites-critiques-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilitésaffectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre àun attaquant d’exécuter du code...|16 septembre 2022|
- |[38291709/22 - Vulnérabilité dans PaloAlto Cortex XDR Agent](https://www.dgssi.gov.ma//fr/content/3829170922-vulnerabilite-dans-paloalto-cortex-xdr-agent.html)|Une vulnérabilité a été corrigée dans PaloAlto Cortex XDR Agent. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte à laconfidentialité des données.|16 septembre 2022|
- |[38271509/22 - Vulnérabilités dans les produits Cisco](https://www.dgssi.gov.ma//fr/content/3827150922-vulnerabilites-dans-les-produits-cisco.html)|Cisco annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités affectant les produits Cisco utilisant les versions vulnérables de Cisco IOS XR. L’exploitation de ces failles permet à un...|15 septembre 2022|
- |[38261509/22 - Vulnérabilités affectant le BIOS sur plusieursproduits deLenovo](https://www.dgssi.gov.ma//fr/content/3826150922-vulnerabilites-affectant-le-bios-sur-plusieurs-produits-de-lenovo.html)|Lenovo annonce la correction de plusieurs vulnérabilités affectant plusieurs de ses produits.L'exploitation de ces vulnérabilités peutpermettreà un attaquant d’élever ses privilèges, d’accéder à des informations confidentielles...|15 septembre 2022|
+ |[Backdoor.Win32.Bingle.b Service Port 22 hard-coded password](https://vuldb.com/?id.209539)|Visit link for details|2022-09-25 at 09:16|
+ |[secp256k1-js ECDSA Signature signature verification](https://vuldb.com/?id.209538)|Visit link for details|2022-09-25 at 00:24|
+ |[Host Engineering H0-ECOM100 Communications Module stack-based overflow](https://vuldb.com/?id.209537)|Visit link for details|2022-09-25 at 18:14|
+ |[Medtronic MiniMed 620G protection mechanism](https://vuldb.com/?id.209536)|Visit link for details|2022-09-25 at 18:12|
+ |[Nepxion Discovery URL getForEntity server-side request forgery](https://vuldb.com/?id.209535)|Visit link for details|2022-09-25 at 13:13|
+ |[Nepxion Discovery SpEL unknown vulnerability](https://vuldb.com/?id.209534)|Visit link for details|2022-09-25 at 13:12|
+ |[Rocket.Chat Mobile App PIN improper authentication](https://vuldb.com/?id.209533)|Visit link for details|2022-09-25 at 13:11|
+ |[Jodit Editor cross site scripting](https://vuldb.com/?id.209532)|Visit link for details|2022-09-25 at 13:11|
+ |[Rocket.Chat Style cross site scripting](https://vuldb.com/?id.209531)|Visit link for details|2022-09-25 at 13:10|
+ |[Apple macOS Bluetooth access control](https://vuldb.com/?id.209530)|Visit link for details|2022-09-25 at 13:09|
  
  ---
 
@@ -132,4 +114,22 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-drivers-media-dvb-core-dmxdev-c-39347" class="noirorange"><b>Linux kernel</b>: reuse after free via <wbr>drivers/media/dvb-co<wbr>re/dmxdev.c</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-drivers-media-dvb-core-dmxdev-c-39347)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Python-Core-directory-traversal-via-tarfile-39346" class="noirorange"><b>Python Core</b>: directory traversal via tarfile</a>](https://vigilance.fr/vulnerability/Python-Core-directory-traversal-via-tarfile-39346)|An attacker can traverse directories of Python Core, via tarfile, in order to write a file outside the service root path...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Go-directory-traversal-via-JoinPath-39343" class="noirorange"><b>Go</b>: directory traversal via JoinPath</a>](https://vigilance.fr/vulnerability/Go-directory-traversal-via-JoinPath-39343)|An attacker can traverse directories of Go, via JoinPath, in order to read a file outside the service root path...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[38382209/22 - Vulnérabilités affectantle navigateur Mozilla Firefox](https://www.dgssi.gov.ma//fr/content/3838220922-vulnerabilites-affectant-le-navigateur-mozilla-firefox.html)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de cesvulnérabilités peut permettre à un...|22 septembre 2022|
+ |[38372209/22 - Vulnérabilité affectant des produits F-Secure](https://www.dgssi.gov.ma//fr/content/3837220922-vulnerabilite-affectant-des-produits-f-secure.html)|F-secure annonce la correction d’une vulnérabilité affectantses produits susmentionnés.L'exploitation de cette vulnérabilité peutpermettreà un attaquant distant de causer un déni de service.|22 septembre 2022|
+ |[38352209/22 - Patch de sécurité Out Of Band de Microsoft concernant Microsoft Endpoint Configuration](https://www.dgssi.gov.ma//fr/content/3835220922-patch-de-securite-out-band-de-microsoft-concernant-microsoft-endpoint-configuration-manager.html)|Microsoft a publié un patch de sécurité spécial qui corrige une vulnérabilité affectant Microsoft Endpoint Configuration Manager. L’exploitation de cette faille peut permettre à un attaquant de contourner la politique de sécurité.|22 septembre 2022|
+ |[38342209/22 - Vulnérabilités dans le DNSBIND](https://www.dgssi.gov.ma//fr/content/3834220922-vulnerabilites-dans-le-dns-bind.html)|Internet Systems Consortium (ISC) a publié un correctif de sécurité qui corrige plusieurs vulnérabilités dans les versions de DNS BIND susmentionnées. L’exploitation de ces failles peut permettre à un attaquant distant de causer un déni de...|22 septembre 2022|
+ |[38332109/22 - Vulnérabilité affectant VMware Spring](https://www.dgssi.gov.ma//fr/content/3833210922-vulnerabilite-affectant-vmware-spring.html)|VMware annonce la correction d’une vulnérabilitéaffectant son Framework VMware Spring.L'exploitation de cette vulnérabilité peut permettre à un attaquant d’accéder à des données confidentielles.|21 septembre 2022|
+ |[38322009/22 - Vulnérabilités dans Mozilla Thunderbird](https://www.dgssi.gov.ma//fr/content/3832200922-vulnerabilites-dans-mozilla-thunderbird.html)|Mozilla a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Mozilla Thunderbird. Un attaquant pourrait exploiter certaines de ces failles afin de causer un déni de service, d’exécuter du code arbitraire à...|20 septembre 2022|
+ |[38301909/22 - Vulnérabilités dans les produits Lenovo](https://www.dgssi.gov.ma//fr/content/3830190922-vulnerabilites-dans-les-produits-lenovo.html)|Plusieurs vulnérabilités ont été corrigées dans les produits Lenovo susmentionnés.L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges, de porter atteinte à la confidentialité des données et d’...|19 septembre 2022|
+ |[38281609/22 - Vulnérabilités critiques affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/3828160922-vulnerabilites-critiques-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilitésaffectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre àun attaquant d’exécuter du code...|16 septembre 2022|
+ |[38291709/22 - Vulnérabilité dans PaloAlto Cortex XDR Agent](https://www.dgssi.gov.ma//fr/content/3829170922-vulnerabilite-dans-paloalto-cortex-xdr-agent.html)|Une vulnérabilité a été corrigée dans PaloAlto Cortex XDR Agent. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte à laconfidentialité des données.|16 septembre 2022|
+ |[38271509/22 - Vulnérabilités dans les produits Cisco](https://www.dgssi.gov.ma//fr/content/3827150922-vulnerabilites-dans-les-produits-cisco.html)|Cisco annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités affectant les produits Cisco utilisant les versions vulnérables de Cisco IOS XR. L’exploitation de ces failles permet à un...|15 septembre 2022|
+ |[38261509/22 - Vulnérabilités affectant le BIOS sur plusieursproduits deLenovo](https://www.dgssi.gov.ma//fr/content/3826150922-vulnerabilites-affectant-le-bios-sur-plusieurs-produits-de-lenovo.html)|Lenovo annonce la correction de plusieurs vulnérabilités affectant plusieurs de ses produits.L'exploitation de ces vulnérabilités peutpermettreà un attaquant d’élever ses privilèges, d’accéder à des informations confidentielles...|15 septembre 2022|
  
