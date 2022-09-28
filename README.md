@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 27/09/2022 21:13:53 UTC
+ > Last Updated 28/09/2022 09:20:35 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -36,6 +36,37 @@
  
  ---
 
+## IBMCLOUD [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Cisco Access Points security bypass (CVE-2022-20728)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 27, 2022|
+ |[Multiple Cisco Products security bypass (CVE-2021-27862)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 27, 2022|
+ |[Multiple Cisco Products security bypass (CVE-2021-27861)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 27, 2022|
+ |[Multiple Cisco Products security bypass (CVE-2021-27854)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 27, 2022|
+ |[Multiple Cisco Products security bypass (CVE-2021-27853)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 27, 2022|
+ |[Food Ordering Management System register-router.php SQL injection](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 27, 2022|
+ |[Vtiger CRM cross-site scripting (CVE-2022-38335)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 27, 2022|
+ 
+ ---
+
+## CERT-FR [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Vulnérabilité dans Pulse Secure VPN Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-856/)|Une vulnérabilité a été découverte dans Pulse Secure VPN Server. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 27 septembre 2022|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-855/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire et un déni de service.|Publié le 26 septembre 2022|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-854/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 26 septembre 2022|
+ |[Vulnérabilité dans Sophos Firewall](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-853/)|Une vulnérabilité a été découverte dans Sophos Firewall. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 26 septembre 2022|
+ |[Multiples vulnérabilités dans TrendMicro Deep Security Agent](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-852/)|De multiples vulnérabilités ont été découvertes dans TrendMicro Deep Security Agent. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 23 septembre 2022|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-851/)|De multiples vulnérabilités ont été corrigées dans |Publié le 23 septembre 2022|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-850/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 22 septembre 2022|
+ |[Multiples vulnérabilités dans Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-849/)|De multiples vulnérabilités ont été corrigées dans |Publié le 22 septembre 2022|
+ |[Multiples vulnérabilités dans Bind](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-848/)|De multiples vulnérabilités ont été découvertes dans Bind. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 21 septembre 2022|
+ |[Multiples vulnérabilités dans Tenable Nessus Network Monitor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-847/)|De multiples vulnérabilités ont été découvertes dans Tenable Nessus Network Monitor. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 21 septembre 2022|
+ 
+ ---
+
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -58,33 +89,16 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[mailcow Swagger API Template clickjacking](https://vuldb.com/?id.209637)|Visit link for details|2022-09-27 at 19:27|
- |[Orckestra C1 CMS deserialization](https://vuldb.com/?id.209636)|Visit link for details|2022-09-27 at 19:25|
- |[TaskBuilder SVG File Upload cross site scripting](https://vuldb.com/?id.209635)|Visit link for details|2022-09-27 at 10:17|
- |[ikus060 rdiffweb length parameter](https://vuldb.com/?id.209634)|Visit link for details|2022-09-27 at 08:53|
- |[SourceCodester Online Market Place Site cross site scripting](https://vuldb.com/?id.209633)|Visit link for details|2022-09-27 at 08:53|
- |[Centreon Escalation cross site scripting](https://vuldb.com/?id.209632)|Visit link for details|2022-09-27 at 08:52|
- |[ikus060 rdiffweb length parameter](https://vuldb.com/?id.209631)|Visit link for details|2022-09-27 at 08:51|
- |[Hitachi Content Platform Tenant Configuration access control](https://vuldb.com/?id.209630)|Visit link for details|2022-09-27 at 08:51|
- |[Bifrost HTTP Basic Authentication improper authentication](https://vuldb.com/?id.209629)|Visit link for details|2022-09-27 at 08:50|
- |[Linux Kernel io_uring Module off-by-one](https://vuldb.com/?id.209628)|Visit link for details|2022-09-27 at 08:49|
- 
- ---
-
-## CERT-FR [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Vulnérabilité dans Pulse Secure VPN Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-856/)|Une vulnérabilité a été découverte dans Pulse Secure VPN Server. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 27 septembre 2022|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-855/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire et un déni de service.|Publié le 26 septembre 2022|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-854/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 26 septembre 2022|
- |[Vulnérabilité dans Sophos Firewall](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-853/)|Une vulnérabilité a été découverte dans Sophos Firewall. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 26 septembre 2022|
- |[Multiples vulnérabilités dans TrendMicro Deep Security Agent](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-852/)|De multiples vulnérabilités ont été découvertes dans TrendMicro Deep Security Agent. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 23 septembre 2022|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-851/)|De multiples vulnérabilités ont été corrigées dans |Publié le 23 septembre 2022|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-850/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 22 septembre 2022|
- |[Multiples vulnérabilités dans Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-849/)|De multiples vulnérabilités ont été corrigées dans |Publié le 22 septembre 2022|
- |[Multiples vulnérabilités dans Bind](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-848/)|De multiples vulnérabilités ont été découvertes dans Bind. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 21 septembre 2022|
- |[Multiples vulnérabilités dans Tenable Nessus Network Monitor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-847/)|De multiples vulnérabilités ont été découvertes dans Tenable Nessus Network Monitor. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 21 septembre 2022|
+ |[Sony PS4/PS5 exFAT UVFAT_readupcasetable heap-based overflow](https://vuldb.com/?id.209679)|Visit link for details|2022-09-28 at 10:20|
+ |[Armoury Crate Service Log File symlink](https://vuldb.com/?id.209678)|Visit link for details|2022-09-28 at 07:42|
+ |[Cowell Enterprise Travel Management System URL cross site scripting](https://vuldb.com/?id.209677)|Visit link for details|2022-09-28 at 07:41|
+ |[Heimavista Rpage URL cross site scripting](https://vuldb.com/?id.209676)|Visit link for details|2022-09-28 at 07:40|
+ |[Lianquan Smart eVision POST Data cross site scripting](https://vuldb.com/?id.209675)|Visit link for details|2022-09-28 at 07:39|
+ |[Lianquan Smart eVision Report API path traversal](https://vuldb.com/?id.209674)|Visit link for details|2022-09-28 at 07:39|
+ |[Lianquan Smart eVision File Acquisition path traversal](https://vuldb.com/?id.209673)|Visit link for details|2022-09-28 at 07:38|
+ |[Lianquan Smart eVision System Command privileges management](https://vuldb.com/?id.209672)|Visit link for details|2022-09-28 at 07:37|
+ |[Lianquan Smart eVision Task Acquisition improper authorization](https://vuldb.com/?id.209671)|Visit link for details|2022-09-28 at 07:37|
+ |[Lianquan Smart eVision System Information Query improper authorization](https://vuldb.com/?id.209670)|Visit link for details|2022-09-28 at 07:36|
  
  ---
 
@@ -92,6 +106,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[38422809/22 - Vulnérabilités affectant plusieursproduits deCisco](https://www.dgssi.gov.ma//fr/content/3842280922-vulnerabilites-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant de contourner les mesures de sécurité.|28 septembre 2022|
+ |[38412809/22 - Vulnérabilités dans WhatsApp](https://www.dgssi.gov.ma//fr/content/3841280922-vulnerabilites-dans-whatsapp.html)|WhatsApp a publié une mise à jour pour corriger deux vulnérabilités d'exécution de code à distance (CVE-2022-36934 et CVE-2022-27492) affectant son application mobile. La faille « CVE-2022-36934 » affecte le composant "WhatsApp...|28 septembre 2022|
  |[38402609/22 - Vulnérabilité critique dans Sophos Firewall](https://www.dgssi.gov.ma//fr/content/3840260922-vulnerabilite-critique-dans-sophos-firewall.html)|Une vulnérabilité critique a été corrigée dans le portail web de Sophos Firewall. L’exploitation de cette faille peut permettre à un attaquant distant d’exécuter du code arbitraire.|26 septembre 2022|
  |[38392609/22 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/3839260922-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant son client de messagerie Mozilla Thunderbird. L’exploitation de ces vulnérabilités peut permettre à un...|26 septembre 2022|
  |[38382209/22 - Vulnérabilités affectantle navigateur Mozilla Firefox](https://www.dgssi.gov.ma//fr/content/3838220922-vulnerabilites-affectant-le-navigateur-mozilla-firefox.html)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de cesvulnérabilités peut permettre à un...|22 septembre 2022|
@@ -101,22 +117,6 @@
  |[38332109/22 - Vulnérabilité affectant VMware Spring](https://www.dgssi.gov.ma//fr/content/3833210922-vulnerabilite-affectant-vmware-spring.html)|VMware annonce la correction d’une vulnérabilitéaffectant son Framework VMware Spring.L'exploitation de cette vulnérabilité peut permettre à un attaquant d’accéder à des données confidentielles.|21 septembre 2022|
  |[38322009/22 - Vulnérabilités dans Mozilla Thunderbird](https://www.dgssi.gov.ma//fr/content/3832200922-vulnerabilites-dans-mozilla-thunderbird.html)|Mozilla a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Mozilla Thunderbird. Un attaquant pourrait exploiter certaines de ces failles afin de causer un déni de service, d’exécuter du code arbitraire à...|20 septembre 2022|
  |[38301909/22 - Vulnérabilités dans les produits Lenovo](https://www.dgssi.gov.ma//fr/content/3830190922-vulnerabilites-dans-les-produits-lenovo.html)|Plusieurs vulnérabilités ont été corrigées dans les produits Lenovo susmentionnés.L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges, de porter atteinte à la confidentialité des données et d’...|19 septembre 2022|
- |[38281609/22 - Vulnérabilités critiques affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/3828160922-vulnerabilites-critiques-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilitésaffectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre àun attaquant d’exécuter du code...|16 septembre 2022|
- |[38291709/22 - Vulnérabilité dans PaloAlto Cortex XDR Agent](https://www.dgssi.gov.ma//fr/content/3829170922-vulnerabilite-dans-paloalto-cortex-xdr-agent.html)|Une vulnérabilité a été corrigée dans PaloAlto Cortex XDR Agent. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte à laconfidentialité des données.|16 septembre 2022|
- 
- ---
-
-## IBMCLOUD [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[SabaiDiscuss plugin for WordPress field_number[min] field_number[max] field_range[min] field_range[max] cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 26, 2022|
- |[Active eCommerce CMS /aiz-uploadder/download/ information disclosure](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 26, 2022|
- |[Windscribe privilege escalation (CVE-2022-41141)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 26, 2022|
- |[Mist command execution (CVE-2022-39245)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 26, 2022|
- |[LivelyCart Pro min_price max_price cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 26, 2022|
- |[Forym plugin for WordPress s cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 26, 2022|
- |[osCommerce keywords cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 26, 2022|
  
  ---
 
