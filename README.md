@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 30/09/2022 09:22:46 UTC
+ > Last Updated 30/09/2022 21:11:55 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -27,50 +27,12 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[VMWare Releases Guidance for VirtualPITA, VirtualPIE, and VirtualGATE Malware Targeting vSphere](https://www.cisa.gov/uscert/ncas/current-activity/2022/09/29/vmware-releases-guidance-virtualpita-virtualpie-and-virtualgate)|<p>VMWare has released <a href="https://core.vmware.com/vsphere-esxi-mandiant-malware-persistence">Protecting vSphere From Specialized Malware</a>, addressing malware artifacts known as VirtualPITA (ESXi &amp; Linux), VirtualPIE (ESXi), and VirtualGATE (Windows), which are used to exploit and gain persistent access to instances of ESXi.</p>|Thursday, September 29, 2022|
- |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/uscert/ncas/current-activity/2022/09/29/cisa-releases-six-industrial-control-systems-advisories)|<p>CISA has released six (6) Industrial Control Systems (ICS) advisories on September 29, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. </p>|Thursday, September 29, 2022|
- |[CISA Publishes User Guide to Prepare for Nov. 1 Move to TLP 2.0 ](https://www.cisa.gov/uscert/ncas/current-activity/2022/09/29/cisa-publishes-user-guide-prepare-nov-1-move-tlp-20)|<p>CISA has published its <a href="https://www.cisa.gov/tlp">Traffic Light Protocol 2.0 User Guide and Traffic Light Protocol: Moving to Version 2.0 fact sheet</a> in preparation for its November 1, 2022 move from Traffic Light Protocol (TLP) Version 1.0 to TLP 2.0.</p>|Thursday, September 29, 2022|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/uscert/ncas/current-activity/2022/09/27/cisa-releases-three-industrial-control-systems-advisories)|<p>CISA has released three (3) Industrial Control Systems (ICS) advisories on September 27th, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p>|Tuesday, September 27, 2022|
- |[CISA Updates Advisory on Threat Actors Exploiting Multiple CVEs Against Zimbra Collaboration Suite](https://www.cisa.gov/uscert/ncas/current-activity/2022/09/27/cisa-updates-advisory-threat-actors-exploiting-multiple-cves)|<p>CISA and the Multi-State Information Sharing &amp; Analysis Center (MS-ISAC) has updated joint Cybersecurity Advisory <a href="https://www.cisa.gov/uscert/ncas/alerts/aa22-228a">AA22-228A: Threat Actors Exploiting Multiple CVEs Against Zimbra Collaboration Suite</a>, originally released August 16, 2022. The advisory has been updated to include additional Malware Analysis Reports and indicators of compromise.</p>|Tuesday, September 27, 2022|
- |[CISA Has Added One Known Exploited Vulnerability to Catalog ](https://www.cisa.gov/uscert/ncas/current-activity/2022/09/23/cisa-has-added-one-known-exploited-vulnerability-catalog)|<p>CISA has added one new vulnerability to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise.<strong> Note:</strong> To view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.</p>|Friday, September 23, 2022|
- 
- ---
-
-## CERT-FR [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Vulnérabilité dans Drupal core](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-866/)|Une vulnérabilité a été découverte dans Drupal core. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 29 septembre 2022|
- |[Vulnérabilité dans Elastic Cloud Enterprise](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-865/)|Une vulnérabilité a été découverte dans Elastic Cloud Enterprise. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 29 septembre 2022|
- |[Multiples vulnérabilités dans les produits SolarWinds](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-864/)|De multiples vulnérabilités ont été découvertes dans les produits SolarWinds. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 29 septembre 2022|
- |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-863/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 29 septembre 2022|
- |[Multiples vulnérabilités dans Aruba Access Points](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-862/)|De multiples vulnérabilités ont été découvertes dans Aruba Access Points. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 28 septembre 2022|
- |[Vulnérabilité dans Moodle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-861/)|Une vulnérabilité a été découverte dans Moodle. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 28 septembre 2022|
- |[Vulnérabilité dans Pulse Connect Secure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-860/)|Une vulnérabilité a été découverte dans Pulse Connect Secure. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 28 septembre 2022|
- |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-859/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 28 septembre 2022|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-858/)|De multiples vulnérabilités ont été corrigées dans |Publié le 28 septembre 2022|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-857/)|De multiples vulnérabilités ont été corrigées dans |Publié le 28 septembre 2022|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
-## IBMCLOUD [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[PHP cross-site request forgery (CVE-2022-31629)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 29, 2022|
- |[PHP denial of service (CVE-2022-31628)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 29, 2022|
- |[matrix-nio security bypass (CVE-2022-39254)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 29, 2022|
- |[matrix-sdk-crypto security bypass (CVE-2022-39252)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 29, 2022|
- |[AdsManager extension for Joomla ad_vectormap SQL injection](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 29, 2022|
- |[Online Examination System account.php SQL injection](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 29, 2022|
- |[NextAuth.js @next-auth/upstash-redis-adapter security bypass (CVE-2022-39263)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 28, 2022|
+ |[Drupal Releases Security Update](https://www.cisa.gov/uscert/ncas/current-activity/2022/09/30/drupal-releases-security-update)|<p>Drupal has released a security update to address a vulnerability affecting multiple versions of Drupal. An attacker could exploit this vulnerability to access sensitive information. For advisories addressing lower severity vulnerabilities, see Drupal’s <a href="https://www.drupal.org/security">Security advisories</a>.</p>|Friday, September 30, 2022|
+ |[Microsoft Releases Guidance on Zero-Day Vulnerabilities in Microsoft Exchange Server](https://www.cisa.gov/uscert/ncas/current-activity/2022/09/30/microsoft-releases-guidance-zero-day-vulnerabilities-microsoft)|<p>Microsoft has released <a href="https://msrc-blog.microsoft.com/2022/09/29/customer-guidance-for-reported-zero-day-vulnerabilities-in-microsoft-exchange-server/">Customer Guidance for Reported Zero-day Vulnerabilities in Microsoft Exchange Server</a>. According to the blog post, “Microsoft is aware of limited targeted attacks using the two vulnerabilities to get into users’ systems.” The two vulnerabilities are CVE-2022-41040 and CVE-2022-41082, affecting on-premises Microsoft Exchange Server 2013, 2016, and 2019. Note: Microsoft Exchange Online is not affected. </p>|Friday, September 30, 2022|
+ |[Cisco Releases Security Updates for Multiple Products](https://www.cisa.gov/uscert/ncas/current-activity/2022/09/30/cisco-releases-security-updates-multiple-products)|<p>Cisco has released security updates for vulnerabilities affecting multiple products. A remote attacker could exploit some of these vulnerabilities to take control of an affected system. For updates addressing high and low severity vulnerabilities, see the <a href="https://tools.cisco.com/security/center/publicationListing.x">Cisco Security Advisories page</a>.</p>|Friday, September 30, 2022|
+ |[Mozilla Releases Security Update for Thunderbird](https://www.cisa.gov/uscert/ncas/current-activity/2022/09/30/mozilla-releases-security-update-thunderbird)|<p>Mozilla has released a security update to address a vulnerability in Thunderbird. An attacker could exploit this vulnerability to take control of an affected system.</p>|Friday, September 30, 2022|
+ |[Hurricane-Related Scams ](https://www.cisa.gov/uscert/ncas/current-activity/2022/09/30/hurricane-related-scams)|<p>CISA warns users to remain on alert for malicious cyber activity targeting potential disaster victims and charitable donors following a hurricane. Fraudulent emails—often containing malicious links or attachments—are common after major natural disasters. Exercise caution in handling emails with hurricane-related subject lines, attachments, or hyperlinks. In addition, be wary of social media pleas, texts, or door-to-door solicitations relating to severe weather events.</p>|Friday, September 30, 2022|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2022/09/30/cisa-adds-three-known-exploited-vulnerabilities-catalog)|<p>CISA has added three vulnerabilities to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: to view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.      </p>|Friday, September 30, 2022|
  
  ---
 
@@ -78,6 +40,10 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-multiple-vulnerabilities-39435" class="noirorange"><b>Centreon Web</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Centreon-Web-multiple-vulnerabilities-39435)|An attacker can use several vulnerabilities of Centreon Web...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Joomla-EDocman-Cross-Site-Scripting-39434" class="noirorange"><b>Joomla EDocman</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Joomla-EDocman-Cross-Site-Scripting-39434)|An attacker can trigger a Cross Site Scripting of Joomla EDocman, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-two-vulnerabilities-39433" class="noirorange"><b>Chrome</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-two-vulnerabilities-39433)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-aerdl-dll-39432" class="noirorange"><b>WithSecure Endpoint Protection</b>: denial of service via aerdl.dll</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-aerdl-dll-39432)|An attacker can cause a fatal error of WithSecure Endpoint Protection, via aerdl.dll, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/VNC-Server-three-vulnerabilities-39431" class="noirorange"><b>VNC Server</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/VNC-Server-three-vulnerabilities-39431)|An attacker can use several vulnerabilities of VNC Server...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-code-execution-via-PowerShell-39430" class="noirorange"><b>Microsoft Exchange Server</b>: code execution via PowerShell</a>](https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-code-execution-via-PowerShell-39430)|An attacker can use a vulnerability of Microsoft Exchange Server, via PowerShell, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-Server-Side-Request-Forgery-39429" class="noirorange"><b>Microsoft Exchange Server</b>: Server-Side Request Forgery</a>](https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-Server-Side-Request-Forgery-39429)|An attacker can trigger a Server-Side Request Forgery of Microsoft Exchange Server, in order to force the server to send queries...|Visit link for details|
@@ -85,10 +51,40 @@
  |[<a href="https://vigilance.fr/vulnerability/bash-NULL-pointer-dereference-via-parameter-brace-transform-39426" class="noirorange"><b>bash</b>: NULL pointer dereference via <wbr>parameter_brace_tran<wbr>sform()</wbr></wbr></a>](https://vigilance.fr/vulnerability/bash-NULL-pointer-dereference-via-parameter-brace-transform-39426)|An attacker can force a NULL pointer to be dereferenced on bash, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/telnetd-NULL-pointer-dereference-via-0xff-0xf7-0xff-0xf8-39425" class="noirorange"><b>telnetd</b>: NULL pointer dereference via 0xff 0xf7 / 0xff 0xf8</a>](https://vigilance.fr/vulnerability/telnetd-NULL-pointer-dereference-via-0xff-0xf7-0xff-0xf8-39425)|An attacker can force a NULL pointer to be dereferenced on telnetd, via 0xff 0xf7 / 0xff 0xf8, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libvncclient-memory-leak-via-rfbClientCleanup-39424" class="noirorange"><b>libvncclient</b>: memory leak via rfbClientCleanup()</a>](https://vigilance.fr/vulnerability/libvncclient-memory-leak-via-rfbClientCleanup-39424)|An attacker can create a memory leak of libvncclient, via rfbClientCleanup(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Python-Core-integer-overflow-via-list-resize-39423" class="noirorange"><b>Python Core</b>: integer overflow via list_resize()</a>](https://vigilance.fr/vulnerability/Python-Core-integer-overflow-via-list-resize-39423)|An attacker can trigger an integer overflow of Python Core, via list_resize(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Python-Core-code-execution-via-get-remote-certificate-py-39422" class="noirorange"><b>Python Core</b>: code execution via <wbr>get-remote-certifica<wbr>te.py</wbr></wbr></a>](https://vigilance.fr/vulnerability/Python-Core-code-execution-via-get-remote-certificate-py-39422)|An attacker can use a vulnerability of Python Core, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Matrix-Javascript-SDK-four-vulnerabilities-39421" class="noirorange"><b>Matrix Javascript SDK</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Matrix-Javascript-SDK-four-vulnerabilities-39421)|An attacker can use several vulnerabilities of Matrix Javascript SDK...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Joomla-EShop-Joomla-Shopping-Cart-Cross-Site-Scripting-39419" class="noirorange"><b>Joomla EShop Joomla Shopping-Cart</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Joomla-EShop-Joomla-Shopping-Cart-Cross-Site-Scripting-39419)|An attacker can trigger a Cross Site Scripting of Joomla EShop Joomla Shopping-Cart, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ 
+ ---
+
+## CERT-FR [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans les produits GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-873/)|De multiples vulnérabilités ont été découvertes dans les produits GitLab. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 30 septembre 2022|
+ |[Multiples vulnérabilités dans PHP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-872/)|De multiples vulnérabilités ont été découvertes dans PHP. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service et un contournement de la politique de sécurité.|Publié le 30 septembre 2022|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-871/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 30 septembre 2022|
+ |[Vulnérabilité dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-870/)|Une vulnérabilité a été corrigée dans |Publié le 30 septembre 2022|
+ |[Multiples vulnérabilités dans Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-869/)|De multiples vulnérabilités ont été corrigées dans |Publié le 30 septembre 2022|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-868/)|De multiples vulnérabilités ont été corrigées dans |Publié le 30 septembre 2022|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-867/)|De multiples vulnérabilités ont été corrigées dans |Publié le 30 septembre 2022|
+ |[Vulnérabilité dans Drupal core](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-866/)|Une vulnérabilité a été découverte dans Drupal core. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 29 septembre 2022|
+ |[Vulnérabilité dans Elastic Cloud Enterprise](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-865/)|Une vulnérabilité a été découverte dans Elastic Cloud Enterprise. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 29 septembre 2022|
+ |[Multiples vulnérabilités dans les produits SolarWinds](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-864/)|De multiples vulnérabilités ont été découvertes dans les produits SolarWinds. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 29 septembre 2022|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[COVESA DLT Daemon DLT File Parser heap-based overflow](https://vuldb.com/?id.210026)|Visit link for details|2022-09-30 at 16:34|
+ |[COVESA DLT Daemon DLT File null pointer dereference](https://vuldb.com/?id.210025)|Visit link for details|2022-09-30 at 16:32|
+ |[Cloudflare GoFlow sflow Decoder resource consumption](https://vuldb.com/?id.210024)|Visit link for details|2022-09-30 at 15:18|
+ |[DNN path traversal](https://vuldb.com/?id.210023)|Visit link for details|2022-09-30 at 15:17|
+ |[react-native-reanimated Parser Colors.js incorrect regex](https://vuldb.com/?id.210022)|Visit link for details|2022-09-30 at 15:16|
+ |[css-what Regular Expression index.js parse incorrect regex](https://vuldb.com/?id.210021)|Visit link for details|2022-09-30 at 15:16|
+ |[Axiomatic Bento4 Ap4StdCFileByteStream.cpp Create memory leak](https://vuldb.com/?id.210020)|Visit link for details|2022-09-30 at 15:15|
+ |[Axiomatic Bento4 Ap4DataBuffer.cpp ReallocateBuffer memory allocation](https://vuldb.com/?id.210019)|Visit link for details|2022-09-30 at 15:15|
+ |[Axiomatic Bento4 Ap4Array.h AP4_Array memory allocation](https://vuldb.com/?id.210018)|Visit link for details|2022-09-30 at 15:14|
+ |[Xpdf XRef.cc fetch denial of service](https://vuldb.com/?id.210017)|Visit link for details|2022-09-30 at 15:13|
  
  ---
 
@@ -96,6 +92,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[38463009/22 - Zero-Day activement exploité affectant Microsoft Exchange ](https://www.dgssi.gov.ma//fr/content/3846300922-zero-day-activement-exploite-affectant-microsoft-exchange.html)|Une Entreprise de cyber sécurité vietnamienneannonce la découverte de deux vulnérabilités « Zero-day » identifiées par « CVE-2022-41040 » et « CVE-2022-41082 » affectant le serveur de messagerie Microsoft Exchange. Ces deux...|30 septembre 2022|
  |[38453009/22 - Vulnérabilités dans les produits SolarWinds](https://www.dgssi.gov.ma//fr/content/3845300922-vulnerabilites-dans-les-produits-solarwinds.html)|Plusieurs vulnérabilités ont été corrigées dans les produits SolarWinds susmentionnés. L'exploitation de ces failles pourrait permettre à un attaquant d’exécuter du code arbitraire à distance et de porter atteinte à la confidentialité...|30 septembre 2022|
  |[38442909/22 - Vulnérabilité dans le CMS Drupal](https://www.dgssi.gov.ma//fr/content/3844290922-vulnerabilite-dans-le-cms-drupal.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées du CMS Drupal. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité des données ou de contourner la politique de sécurité.|29 septembre 2022|
  |[38432909/22 - Vulnérabilités dans Google Chrome](https://www.dgssi.gov.ma//fr/content/3843290922-vulnerabilites-dans-google-chrome.html)|Google a corrigé plusieurs vulnérabilités dans son navigateur Google Chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du système affecté.|29 septembre 2022|
@@ -106,7 +103,20 @@
  |[38382209/22 - Vulnérabilités affectantle navigateur Mozilla Firefox](https://www.dgssi.gov.ma//fr/content/3838220922-vulnerabilites-affectant-le-navigateur-mozilla-firefox.html)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de cesvulnérabilités peut permettre à un...|22 septembre 2022|
  |[38372209/22 - Vulnérabilité affectant des produits F-Secure](https://www.dgssi.gov.ma//fr/content/3837220922-vulnerabilite-affectant-des-produits-f-secure.html)|F-secure annonce la correction d’une vulnérabilité affectantses produits susmentionnés.L'exploitation de cette vulnérabilité peutpermettreà un attaquant distant de causer un déni de service.|22 septembre 2022|
  |[38352209/22 - Patch de sécurité Out Of Band de Microsoft concernant Microsoft Endpoint Configuration](https://www.dgssi.gov.ma//fr/content/3835220922-patch-de-securite-out-band-de-microsoft-concernant-microsoft-endpoint-configuration-manager.html)|Microsoft a publié un patch de sécurité spécial qui corrige une vulnérabilité affectant Microsoft Endpoint Configuration Manager. L’exploitation de cette faille peut permettre à un attaquant de contourner la politique de sécurité.|22 septembre 2022|
- |[38342209/22 - Vulnérabilités dans le DNSBIND](https://www.dgssi.gov.ma//fr/content/3834220922-vulnerabilites-dans-le-dns-bind.html)|Internet Systems Consortium (ISC) a publié un correctif de sécurité qui corrige plusieurs vulnérabilités dans les versions de DNS BIND susmentionnées. L’exploitation de ces failles peut permettre à un attaquant distant de causer un déni de...|22 septembre 2022|
+ 
+ ---
+
+## IBMCLOUD [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[BookStack cross-site scripting (CVE-2022-40690)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 30, 2022|
+ |[Google Chrome V8 code execution (CVE-2022-3373)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 30, 2022|
+ |[Google Chrome Custom Elements code execution (CVE-2022-3370)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 30, 2022|
+ |[GoFlow denial of service (CVE-2022-2529)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 30, 2022|
+ |[Node.js css-what module denial of service (CVE-2022-21222)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 29, 2022|
+ |[Node.js react-native-reanimated module denial of service (CVE-2022-24373)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 29, 2022|
+ |[Sourcecodester Best Student Result Management System SQL injection (CVE-2022-40887)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 29, 2022|
  
  ---
 
@@ -114,6 +124,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[SolarWinds Network Performance Monitor UpdateActionsDescriptions SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1325/)|Visit link for details|Sept. 30, 2022|
  |[Microsoft Windows Active Directory Certificate Services Improper Authorization Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1324/)|Visit link for details|Sept. 29, 2022|
  |[(0Day) GE CIMPLICITY CIM File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1323/)|Visit link for details|Sept. 29, 2022|
  |[(0Day) GE CIMPLICITY CIM File Parsing Untrusted Pointer Dereference Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1322/)|Visit link for details|Sept. 29, 2022|
@@ -121,5 +132,4 @@
  |[(0Day) GE CIMPLICITY CIM File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1320/)|Visit link for details|Sept. 29, 2022|
  |[(0Day) GE CIMPLICITY CIM File Parsing Uninitialized Pointer Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1319/)|Visit link for details|Sept. 29, 2022|
  |[Autodesk AutoCAD MODEL File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1318/)|Visit link for details|Sept. 29, 2022|
- |[Autodesk AutoCAD SLDPRT File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1317/)|Visit link for details|Sept. 29, 2022|
  
