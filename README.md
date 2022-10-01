@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 30/09/2022 21:11:55 UTC
+ > Last Updated 01/10/2022 09:18:26 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -75,16 +75,16 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[COVESA DLT Daemon DLT File Parser heap-based overflow](https://vuldb.com/?id.210026)|Visit link for details|2022-09-30 at 16:34|
- |[COVESA DLT Daemon DLT File null pointer dereference](https://vuldb.com/?id.210025)|Visit link for details|2022-09-30 at 16:32|
- |[Cloudflare GoFlow sflow Decoder resource consumption](https://vuldb.com/?id.210024)|Visit link for details|2022-09-30 at 15:18|
- |[DNN path traversal](https://vuldb.com/?id.210023)|Visit link for details|2022-09-30 at 15:17|
- |[react-native-reanimated Parser Colors.js incorrect regex](https://vuldb.com/?id.210022)|Visit link for details|2022-09-30 at 15:16|
- |[css-what Regular Expression index.js parse incorrect regex](https://vuldb.com/?id.210021)|Visit link for details|2022-09-30 at 15:16|
- |[Axiomatic Bento4 Ap4StdCFileByteStream.cpp Create memory leak](https://vuldb.com/?id.210020)|Visit link for details|2022-09-30 at 15:15|
- |[Axiomatic Bento4 Ap4DataBuffer.cpp ReallocateBuffer memory allocation](https://vuldb.com/?id.210019)|Visit link for details|2022-09-30 at 15:15|
- |[Axiomatic Bento4 Ap4Array.h AP4_Array memory allocation](https://vuldb.com/?id.210018)|Visit link for details|2022-09-30 at 15:14|
- |[Xpdf XRef.cc fetch denial of service](https://vuldb.com/?id.210017)|Visit link for details|2022-09-30 at 15:13|
+ |[htmly pathname traversal](https://vuldb.com/?id.210078)|Visit link for details|2022-10-01 at 11:08|
+ |[Bus Pass Management System download-pass.php sql injection](https://vuldb.com/?id.210077)|Visit link for details|2022-10-01 at 11:08|
+ |[Billing System Project editcategory.php sql injection](https://vuldb.com/?id.210076)|Visit link for details|2022-10-01 at 11:08|
+ |[Billing System Project edituser.php sql injection](https://vuldb.com/?id.210075)|Visit link for details|2022-10-01 at 11:07|
+ |[Billing System Project createProduct.php Privilege Escalation](https://vuldb.com/?id.210074)|Visit link for details|2022-10-01 at 11:07|
+ |[RealVNC VNC Server/VNC Viewer MSI Installer Repair access control](https://vuldb.com/?id.210073)|Visit link for details|2022-10-01 at 11:07|
+ |[Innovaphone AP Manager command injection](https://vuldb.com/?id.210072)|Visit link for details|2022-10-01 at 11:06|
+ |[Moodle Mustache Template Helper cross site scripting](https://vuldb.com/?id.210071)|Visit link for details|2022-10-01 at 11:05|
+ |[SolarWinds Orion Platform QoE Application cross site scripting](https://vuldb.com/?id.210070)|Visit link for details|2022-10-01 at 11:04|
+ |[Pulse Secure Pulse Connect Secure Header request smuggling](https://vuldb.com/?id.210069)|Visit link for details|2022-10-01 at 10:52|
  
  ---
 
@@ -110,13 +110,13 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[SolarWinds Orion Platform cross-site scripting (CVE-2022-36965)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 30, 2022|
+ |[SolarWinds Orion Platform privilege escalation (CVE-2022-36961)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 30, 2022|
+ |[jCart for OpenCart extension for Joomla! cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 30, 2022|
+ |[EShop extension for Joomla! cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 30, 2022|
+ |[JoomRecipe extension for Joomla! cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 30, 2022|
  |[BookStack cross-site scripting (CVE-2022-40690)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 30, 2022|
  |[Google Chrome V8 code execution (CVE-2022-3373)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 30, 2022|
- |[Google Chrome Custom Elements code execution (CVE-2022-3370)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 30, 2022|
- |[GoFlow denial of service (CVE-2022-2529)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 30, 2022|
- |[Node.js css-what module denial of service (CVE-2022-21222)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 29, 2022|
- |[Node.js react-native-reanimated module denial of service (CVE-2022-24373)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 29, 2022|
- |[Sourcecodester Best Student Result Management System SQL injection (CVE-2022-40887)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 29, 2022|
  
  ---
 
