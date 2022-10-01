@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 01/10/2022 09:18:26 UTC
+ > Last Updated 01/10/2022 21:12:14 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -28,29 +28,11 @@
  |Title|Description|Date|
  |---|---|---|
  |[Drupal Releases Security Update](https://www.cisa.gov/uscert/ncas/current-activity/2022/09/30/drupal-releases-security-update)|<p>Drupal has released a security update to address a vulnerability affecting multiple versions of Drupal. An attacker could exploit this vulnerability to access sensitive information. For advisories addressing lower severity vulnerabilities, see Drupal’s <a href="https://www.drupal.org/security">Security advisories</a>.</p>|Friday, September 30, 2022|
- |[Microsoft Releases Guidance on Zero-Day Vulnerabilities in Microsoft Exchange Server](https://www.cisa.gov/uscert/ncas/current-activity/2022/09/30/microsoft-releases-guidance-zero-day-vulnerabilities-microsoft)|<p>Microsoft has released <a href="https://msrc-blog.microsoft.com/2022/09/29/customer-guidance-for-reported-zero-day-vulnerabilities-in-microsoft-exchange-server/">Customer Guidance for Reported Zero-day Vulnerabilities in Microsoft Exchange Server</a>. According to the blog post, “Microsoft is aware of limited targeted attacks using the two vulnerabilities to get into users’ systems.” The two vulnerabilities are CVE-2022-41040 and CVE-2022-41082, affecting on-premises Microsoft Exchange Server 2013, 2016, and 2019. Note: Microsoft Exchange Online is not affected. </p>|Friday, September 30, 2022|
+ |[Microsoft Releases Guidance on Zero-Day Vulnerabilities in Microsoft Exchange Server](https://www.cisa.gov/uscert/ncas/current-activity/2022/09/30/microsoft-releases-guidance-zero-day-vulnerabilities-microsoft)|<p>Microsoft has released <a href="https://msrc-blog.microsoft.com/2022/09/29/customer-guidance-for-reported-zero-day-vulnerabilities-in-microsoft-exchange-server/">Customer Guidance for Reported Zero-day Vulnerabilities in Microsoft Exchange Server</a>. According to the blog post, “Microsoft is aware of limited targeted attacks using the two vulnerabilities to get into users’ systems.” The two vulnerabilities are CVE-2022-41040 and CVE-2022-41082, affecting on-premises Microsoft Exchange Server 2013, 2016, and 2019. <strong>Note:</strong> Microsoft Exchange Online is not affected. </p>|Friday, September 30, 2022|
  |[Cisco Releases Security Updates for Multiple Products](https://www.cisa.gov/uscert/ncas/current-activity/2022/09/30/cisco-releases-security-updates-multiple-products)|<p>Cisco has released security updates for vulnerabilities affecting multiple products. A remote attacker could exploit some of these vulnerabilities to take control of an affected system. For updates addressing high and low severity vulnerabilities, see the <a href="https://tools.cisco.com/security/center/publicationListing.x">Cisco Security Advisories page</a>.</p>|Friday, September 30, 2022|
  |[Mozilla Releases Security Update for Thunderbird](https://www.cisa.gov/uscert/ncas/current-activity/2022/09/30/mozilla-releases-security-update-thunderbird)|<p>Mozilla has released a security update to address a vulnerability in Thunderbird. An attacker could exploit this vulnerability to take control of an affected system.</p>|Friday, September 30, 2022|
  |[Hurricane-Related Scams ](https://www.cisa.gov/uscert/ncas/current-activity/2022/09/30/hurricane-related-scams)|<p>CISA warns users to remain on alert for malicious cyber activity targeting potential disaster victims and charitable donors following a hurricane. Fraudulent emails—often containing malicious links or attachments—are common after major natural disasters. Exercise caution in handling emails with hurricane-related subject lines, attachments, or hyperlinks. In addition, be wary of social media pleas, texts, or door-to-door solicitations relating to severe weather events.</p>|Friday, September 30, 2022|
  |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2022/09/30/cisa-adds-three-known-exploited-vulnerabilities-catalog)|<p>CISA has added three vulnerabilities to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: to view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.      </p>|Friday, September 30, 2022|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-multiple-vulnerabilities-39435" class="noirorange"><b>Centreon Web</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Centreon-Web-multiple-vulnerabilities-39435)|An attacker can use several vulnerabilities of Centreon Web...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Joomla-EDocman-Cross-Site-Scripting-39434" class="noirorange"><b>Joomla EDocman</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Joomla-EDocman-Cross-Site-Scripting-39434)|An attacker can trigger a Cross Site Scripting of Joomla EDocman, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-two-vulnerabilities-39433" class="noirorange"><b>Chrome</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-two-vulnerabilities-39433)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-aerdl-dll-39432" class="noirorange"><b>WithSecure Endpoint Protection</b>: denial of service via aerdl.dll</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-aerdl-dll-39432)|An attacker can cause a fatal error of WithSecure Endpoint Protection, via aerdl.dll, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/VNC-Server-three-vulnerabilities-39431" class="noirorange"><b>VNC Server</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/VNC-Server-three-vulnerabilities-39431)|An attacker can use several vulnerabilities of VNC Server...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-code-execution-via-PowerShell-39430" class="noirorange"><b>Microsoft Exchange Server</b>: code execution via PowerShell</a>](https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-code-execution-via-PowerShell-39430)|An attacker can use a vulnerability of Microsoft Exchange Server, via PowerShell, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-Server-Side-Request-Forgery-39429" class="noirorange"><b>Microsoft Exchange Server</b>: Server-Side Request Forgery</a>](https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-Server-Side-Request-Forgery-39429)|An attacker can trigger a Server-Side Request Forgery of Microsoft Exchange Server, in order to force the server to send queries...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SQLite-integer-overflow-via-FTS3-Extension-39428" class="noirorange"><b>SQLite</b>: integer overflow via FTS3 Extension</a>](https://vigilance.fr/vulnerability/SQLite-integer-overflow-via-FTS3-Extension-39428)|An attacker can trigger an integer overflow of SQLite, via FTS3 Extension, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/bash-NULL-pointer-dereference-via-parameter-brace-transform-39426" class="noirorange"><b>bash</b>: NULL pointer dereference via <wbr>parameter_brace_tran<wbr>sform()</wbr></wbr></a>](https://vigilance.fr/vulnerability/bash-NULL-pointer-dereference-via-parameter-brace-transform-39426)|An attacker can force a NULL pointer to be dereferenced on bash, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/telnetd-NULL-pointer-dereference-via-0xff-0xf7-0xff-0xf8-39425" class="noirorange"><b>telnetd</b>: NULL pointer dereference via 0xff 0xf7 / 0xff 0xf8</a>](https://vigilance.fr/vulnerability/telnetd-NULL-pointer-dereference-via-0xff-0xf7-0xff-0xf8-39425)|An attacker can force a NULL pointer to be dereferenced on telnetd, via 0xff 0xf7 / 0xff 0xf8, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libvncclient-memory-leak-via-rfbClientCleanup-39424" class="noirorange"><b>libvncclient</b>: memory leak via rfbClientCleanup()</a>](https://vigilance.fr/vulnerability/libvncclient-memory-leak-via-rfbClientCleanup-39424)|An attacker can create a memory leak of libvncclient, via rfbClientCleanup(), in order to trigger a denial of service...|Visit link for details|
  
  ---
 
@@ -88,6 +70,38 @@
  
  ---
 
+## IBMCLOUD [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SolarWinds Orion Platform cross-site scripting (CVE-2022-36965)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 30, 2022|
+ |[SolarWinds Orion Platform privilege escalation (CVE-2022-36961)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 30, 2022|
+ |[jCart for OpenCart extension for Joomla! cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 30, 2022|
+ |[EShop extension for Joomla! cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 30, 2022|
+ |[JoomRecipe extension for Joomla! cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 30, 2022|
+ |[BookStack cross-site scripting (CVE-2022-40690)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 30, 2022|
+ |[Google Chrome V8 code execution (CVE-2022-3373)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 30, 2022|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-multiple-vulnerabilities-39435" class="noirorange"><b>Centreon Web</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Centreon-Web-multiple-vulnerabilities-39435)|An attacker can use several vulnerabilities of Centreon Web...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Joomla-EDocman-Cross-Site-Scripting-39434" class="noirorange"><b>Joomla EDocman</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Joomla-EDocman-Cross-Site-Scripting-39434)|An attacker can trigger a Cross Site Scripting of Joomla EDocman, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-two-vulnerabilities-39433" class="noirorange"><b>Chrome</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-two-vulnerabilities-39433)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-aerdl-dll-39432" class="noirorange"><b>WithSecure Endpoint Protection</b>: denial of service via aerdl.dll</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-aerdl-dll-39432)|An attacker can cause a fatal error of WithSecure Endpoint Protection, via aerdl.dll, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/VNC-Server-three-vulnerabilities-39431" class="noirorange"><b>VNC Server</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/VNC-Server-three-vulnerabilities-39431)|An attacker can use several vulnerabilities of VNC Server...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-code-execution-via-PowerShell-39430" class="noirorange"><b>Microsoft Exchange Server</b>: code execution via PowerShell</a>](https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-code-execution-via-PowerShell-39430)|An attacker can use a vulnerability of Microsoft Exchange Server, via PowerShell, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-Server-Side-Request-Forgery-39429" class="noirorange"><b>Microsoft Exchange Server</b>: Server-Side Request Forgery</a>](https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-Server-Side-Request-Forgery-39429)|An attacker can trigger a Server-Side Request Forgery of Microsoft Exchange Server, in order to force the server to send queries...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SQLite-integer-overflow-via-FTS3-Extension-39428" class="noirorange"><b>SQLite</b>: integer overflow via FTS3 Extension</a>](https://vigilance.fr/vulnerability/SQLite-integer-overflow-via-FTS3-Extension-39428)|An attacker can trigger an integer overflow of SQLite, via FTS3 Extension, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/bash-NULL-pointer-dereference-via-parameter-brace-transform-39426" class="noirorange"><b>bash</b>: NULL pointer dereference via <wbr>parameter_brace_tran<wbr>sform()</wbr></wbr></a>](https://vigilance.fr/vulnerability/bash-NULL-pointer-dereference-via-parameter-brace-transform-39426)|An attacker can force a NULL pointer to be dereferenced on bash, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/telnetd-NULL-pointer-dereference-via-0xff-0xf7-0xff-0xf8-39425" class="noirorange"><b>telnetd</b>: NULL pointer dereference via 0xff 0xf7 / 0xff 0xf8</a>](https://vigilance.fr/vulnerability/telnetd-NULL-pointer-dereference-via-0xff-0xf7-0xff-0xf8-39425)|An attacker can force a NULL pointer to be dereferenced on telnetd, via 0xff 0xf7 / 0xff 0xf8, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libvncclient-memory-leak-via-rfbClientCleanup-39424" class="noirorange"><b>libvncclient</b>: memory leak via rfbClientCleanup()</a>](https://vigilance.fr/vulnerability/libvncclient-memory-leak-via-rfbClientCleanup-39424)|An attacker can create a memory leak of libvncclient, via rfbClientCleanup(), in order to trigger a denial of service...|Visit link for details|
+ 
+ ---
+
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -103,20 +117,6 @@
  |[38382209/22 - Vulnérabilités affectantle navigateur Mozilla Firefox](https://www.dgssi.gov.ma//fr/content/3838220922-vulnerabilites-affectant-le-navigateur-mozilla-firefox.html)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de cesvulnérabilités peut permettre à un...|22 septembre 2022|
  |[38372209/22 - Vulnérabilité affectant des produits F-Secure](https://www.dgssi.gov.ma//fr/content/3837220922-vulnerabilite-affectant-des-produits-f-secure.html)|F-secure annonce la correction d’une vulnérabilité affectantses produits susmentionnés.L'exploitation de cette vulnérabilité peutpermettreà un attaquant distant de causer un déni de service.|22 septembre 2022|
  |[38352209/22 - Patch de sécurité Out Of Band de Microsoft concernant Microsoft Endpoint Configuration](https://www.dgssi.gov.ma//fr/content/3835220922-patch-de-securite-out-band-de-microsoft-concernant-microsoft-endpoint-configuration-manager.html)|Microsoft a publié un patch de sécurité spécial qui corrige une vulnérabilité affectant Microsoft Endpoint Configuration Manager. L’exploitation de cette faille peut permettre à un attaquant de contourner la politique de sécurité.|22 septembre 2022|
- 
- ---
-
-## IBMCLOUD [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[SolarWinds Orion Platform cross-site scripting (CVE-2022-36965)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 30, 2022|
- |[SolarWinds Orion Platform privilege escalation (CVE-2022-36961)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 30, 2022|
- |[jCart for OpenCart extension for Joomla! cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 30, 2022|
- |[EShop extension for Joomla! cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 30, 2022|
- |[JoomRecipe extension for Joomla! cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 30, 2022|
- |[BookStack cross-site scripting (CVE-2022-40690)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 30, 2022|
- |[Google Chrome V8 code execution (CVE-2022-3373)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 30, 2022|
  
  ---
 
