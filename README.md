@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 02/10/2022 09:16:26 UTC
+ > Last Updated 02/10/2022 21:12:37 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -36,23 +36,6 @@
  
  ---
 
-## CERT-FR [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans les produits GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-873/)|De multiples vulnérabilités ont été découvertes dans les produits GitLab. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 30 septembre 2022|
- |[Multiples vulnérabilités dans PHP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-872/)|De multiples vulnérabilités ont été découvertes dans PHP. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service et un contournement de la politique de sécurité.|Publié le 30 septembre 2022|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-871/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 30 septembre 2022|
- |[Vulnérabilité dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-870/)|Une vulnérabilité a été corrigée dans |Publié le 30 septembre 2022|
- |[Multiples vulnérabilités dans Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-869/)|De multiples vulnérabilités ont été corrigées dans |Publié le 30 septembre 2022|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-868/)|De multiples vulnérabilités ont été corrigées dans |Publié le 30 septembre 2022|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-867/)|De multiples vulnérabilités ont été corrigées dans |Publié le 30 septembre 2022|
- |[Vulnérabilité dans Drupal core](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-866/)|Une vulnérabilité a été découverte dans Drupal core. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 29 septembre 2022|
- |[Vulnérabilité dans Elastic Cloud Enterprise](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-865/)|Une vulnérabilité a été découverte dans Elastic Cloud Enterprise. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 29 septembre 2022|
- |[Multiples vulnérabilités dans les produits SolarWinds](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-864/)|De multiples vulnérabilités ont été découvertes dans les produits SolarWinds. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 29 septembre 2022|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -68,6 +51,23 @@
  |[<a href="https://vigilance.fr/vulnerability/bash-NULL-pointer-dereference-via-parameter-brace-transform-39426" class="noirorange"><b>bash</b>: NULL pointer dereference via <wbr>parameter_brace_tran<wbr>sform()</wbr></wbr></a>](https://vigilance.fr/vulnerability/bash-NULL-pointer-dereference-via-parameter-brace-transform-39426)|An attacker can force a NULL pointer to be dereferenced on bash, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/telnetd-NULL-pointer-dereference-via-0xff-0xf7-0xff-0xf8-39425" class="noirorange"><b>telnetd</b>: NULL pointer dereference via 0xff 0xf7 / 0xff 0xf8</a>](https://vigilance.fr/vulnerability/telnetd-NULL-pointer-dereference-via-0xff-0xf7-0xff-0xf8-39425)|An attacker can force a NULL pointer to be dereferenced on telnetd, via 0xff 0xf7 / 0xff 0xf8, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libvncclient-memory-leak-via-rfbClientCleanup-39424" class="noirorange"><b>libvncclient</b>: memory leak via rfbClientCleanup()</a>](https://vigilance.fr/vulnerability/libvncclient-memory-leak-via-rfbClientCleanup-39424)|An attacker can create a memory leak of libvncclient, via rfbClientCleanup(), in order to trigger a denial of service...|Visit link for details|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ZKTeco ZKBiosecurity authUserAction!edit.action access control](https://vuldb.com/?id.210099)|Visit link for details|2022-10-02 at 18:56|
+ |[ZKTeco ZKBiosecurity baseOpLog.do sql injection](https://vuldb.com/?id.210098)|Visit link for details|2022-10-02 at 18:54|
+ |[Google Chrome ChromeOS Notifications use after free](https://vuldb.com/?id.210097)|Visit link for details|2022-10-02 at 18:47|
+ |[Google Chrome Intents input validation](https://vuldb.com/?id.210096)|Visit link for details|2022-10-02 at 18:46|
+ |[Google Chrome Safe Browsing Remote Code Execution](https://vuldb.com/?id.210095)|Visit link for details|2022-10-02 at 18:45|
+ |[Google Chrome Blink type confusion](https://vuldb.com/?id.210094)|Visit link for details|2022-10-02 at 18:45|
+ |[Google Chrome Logging use after free](https://vuldb.com/?id.210093)|Visit link for details|2022-10-02 at 18:44|
+ |[Google Chrome Full Screen Remote Code Execution](https://vuldb.com/?id.210092)|Visit link for details|2022-10-02 at 18:43|
+ |[Google Chrome VPN Remote Code Execution](https://vuldb.com/?id.210091)|Visit link for details|2022-10-02 at 18:43|
+ |[Google Chrome Import use after free](https://vuldb.com/?id.210090)|Visit link for details|2022-10-02 at 18:41|
  
  ---
 
@@ -89,20 +89,18 @@
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
+## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[htmly pathname traversal](https://vuldb.com/?id.210078)|Visit link for details|2022-10-02 at 11:08|
- |[Bus Pass Management System download-pass.php sql injection](https://vuldb.com/?id.210077)|Visit link for details|2022-10-02 at 11:08|
- |[Billing System Project editcategory.php sql injection](https://vuldb.com/?id.210076)|Visit link for details|2022-10-02 at 11:08|
- |[Billing System Project edituser.php sql injection](https://vuldb.com/?id.210075)|Visit link for details|2022-10-02 at 11:07|
- |[Billing System Project createProduct.php Privilege Escalation](https://vuldb.com/?id.210074)|Visit link for details|2022-10-02 at 11:07|
- |[RealVNC VNC Server/VNC Viewer MSI Installer Repair access control](https://vuldb.com/?id.210073)|Visit link for details|2022-10-02 at 11:07|
- |[Innovaphone AP Manager command injection](https://vuldb.com/?id.210072)|Visit link for details|2022-10-02 at 11:06|
- |[Moodle Mustache Template Helper cross site scripting](https://vuldb.com/?id.210071)|Visit link for details|2022-10-02 at 11:05|
- |[SolarWinds Orion Platform QoE Application cross site scripting](https://vuldb.com/?id.210070)|Visit link for details|2022-10-02 at 11:04|
- |[Pulse Secure Pulse Connect Secure Header request smuggling](https://vuldb.com/?id.210069)|Visit link for details|2022-10-02 at 10:52|
+ |[SolarWinds Network Performance Monitor UpdateActionsDescriptions SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1325/)|Visit link for details|Sept. 30, 2022|
+ |[Microsoft Windows Active Directory Certificate Services Improper Authorization Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1324/)|Visit link for details|Sept. 29, 2022|
+ |[(0Day) GE CIMPLICITY CIM File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1323/)|Visit link for details|Sept. 29, 2022|
+ |[(0Day) GE CIMPLICITY CIM File Parsing Untrusted Pointer Dereference Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1322/)|Visit link for details|Sept. 29, 2022|
+ |[(0Day) GE CIMPLICITY CIM File Parsing Uninitialized Pointer Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1321/)|Visit link for details|Sept. 29, 2022|
+ |[(0Day) GE CIMPLICITY CIM File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1320/)|Visit link for details|Sept. 29, 2022|
+ |[(0Day) GE CIMPLICITY CIM File Parsing Uninitialized Pointer Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1319/)|Visit link for details|Sept. 29, 2022|
+ |[Autodesk AutoCAD MODEL File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1318/)|Visit link for details|Sept. 29, 2022|
  
  ---
 
@@ -120,16 +118,18 @@
  
  ---
 
-## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
+## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[SolarWinds Network Performance Monitor UpdateActionsDescriptions SQL Injection Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1325/)|Visit link for details|Sept. 30, 2022|
- |[Microsoft Windows Active Directory Certificate Services Improper Authorization Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1324/)|Visit link for details|Sept. 29, 2022|
- |[(0Day) GE CIMPLICITY CIM File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1323/)|Visit link for details|Sept. 29, 2022|
- |[(0Day) GE CIMPLICITY CIM File Parsing Untrusted Pointer Dereference Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1322/)|Visit link for details|Sept. 29, 2022|
- |[(0Day) GE CIMPLICITY CIM File Parsing Uninitialized Pointer Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1321/)|Visit link for details|Sept. 29, 2022|
- |[(0Day) GE CIMPLICITY CIM File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1320/)|Visit link for details|Sept. 29, 2022|
- |[(0Day) GE CIMPLICITY CIM File Parsing Uninitialized Pointer Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1319/)|Visit link for details|Sept. 29, 2022|
- |[Autodesk AutoCAD MODEL File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1318/)|Visit link for details|Sept. 29, 2022|
+ |[Multiples vulnérabilités dans les produits GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-873/)|De multiples vulnérabilités ont été découvertes dans les produits GitLab. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 30 septembre 2022|
+ |[Multiples vulnérabilités dans PHP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-872/)|De multiples vulnérabilités ont été découvertes dans PHP. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service et un contournement de la politique de sécurité.|Publié le 30 septembre 2022|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-871/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 30 septembre 2022|
+ |[Vulnérabilité dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-870/)|Une vulnérabilité a été corrigée dans |Publié le 30 septembre 2022|
+ |[Multiples vulnérabilités dans Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-869/)|De multiples vulnérabilités ont été corrigées dans |Publié le 30 septembre 2022|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-868/)|De multiples vulnérabilités ont été corrigées dans |Publié le 30 septembre 2022|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-867/)|De multiples vulnérabilités ont été corrigées dans |Publié le 30 septembre 2022|
+ |[Vulnérabilité dans Drupal core](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-866/)|Une vulnérabilité a été découverte dans Drupal core. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 29 septembre 2022|
+ |[Vulnérabilité dans Elastic Cloud Enterprise](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-865/)|Une vulnérabilité a été découverte dans Elastic Cloud Enterprise. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 29 septembre 2022|
+ |[Multiples vulnérabilités dans les produits SolarWinds](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-864/)|De multiples vulnérabilités ont été découvertes dans les produits SolarWinds. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 29 septembre 2022|
  
