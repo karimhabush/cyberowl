@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 01/10/2022 21:12:14 UTC
+ > Last Updated 02/10/2022 09:16:26 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -53,37 +53,6 @@
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[htmly pathname traversal](https://vuldb.com/?id.210078)|Visit link for details|2022-10-01 at 11:08|
- |[Bus Pass Management System download-pass.php sql injection](https://vuldb.com/?id.210077)|Visit link for details|2022-10-01 at 11:08|
- |[Billing System Project editcategory.php sql injection](https://vuldb.com/?id.210076)|Visit link for details|2022-10-01 at 11:08|
- |[Billing System Project edituser.php sql injection](https://vuldb.com/?id.210075)|Visit link for details|2022-10-01 at 11:07|
- |[Billing System Project createProduct.php Privilege Escalation](https://vuldb.com/?id.210074)|Visit link for details|2022-10-01 at 11:07|
- |[RealVNC VNC Server/VNC Viewer MSI Installer Repair access control](https://vuldb.com/?id.210073)|Visit link for details|2022-10-01 at 11:07|
- |[Innovaphone AP Manager command injection](https://vuldb.com/?id.210072)|Visit link for details|2022-10-01 at 11:06|
- |[Moodle Mustache Template Helper cross site scripting](https://vuldb.com/?id.210071)|Visit link for details|2022-10-01 at 11:05|
- |[SolarWinds Orion Platform QoE Application cross site scripting](https://vuldb.com/?id.210070)|Visit link for details|2022-10-01 at 11:04|
- |[Pulse Secure Pulse Connect Secure Header request smuggling](https://vuldb.com/?id.210069)|Visit link for details|2022-10-01 at 10:52|
- 
- ---
-
-## IBMCLOUD [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[SolarWinds Orion Platform cross-site scripting (CVE-2022-36965)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 30, 2022|
- |[SolarWinds Orion Platform privilege escalation (CVE-2022-36961)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 30, 2022|
- |[jCart for OpenCart extension for Joomla! cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 30, 2022|
- |[EShop extension for Joomla! cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 30, 2022|
- |[JoomRecipe extension for Joomla! cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 30, 2022|
- |[BookStack cross-site scripting (CVE-2022-40690)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 30, 2022|
- |[Google Chrome V8 code execution (CVE-2022-3373)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 30, 2022|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -117,6 +86,37 @@
  |[38382209/22 - Vulnérabilités affectantle navigateur Mozilla Firefox](https://www.dgssi.gov.ma//fr/content/3838220922-vulnerabilites-affectant-le-navigateur-mozilla-firefox.html)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de cesvulnérabilités peut permettre à un...|22 septembre 2022|
  |[38372209/22 - Vulnérabilité affectant des produits F-Secure](https://www.dgssi.gov.ma//fr/content/3837220922-vulnerabilite-affectant-des-produits-f-secure.html)|F-secure annonce la correction d’une vulnérabilité affectantses produits susmentionnés.L'exploitation de cette vulnérabilité peutpermettreà un attaquant distant de causer un déni de service.|22 septembre 2022|
  |[38352209/22 - Patch de sécurité Out Of Band de Microsoft concernant Microsoft Endpoint Configuration](https://www.dgssi.gov.ma//fr/content/3835220922-patch-de-securite-out-band-de-microsoft-concernant-microsoft-endpoint-configuration-manager.html)|Microsoft a publié un patch de sécurité spécial qui corrige une vulnérabilité affectant Microsoft Endpoint Configuration Manager. L’exploitation de cette faille peut permettre à un attaquant de contourner la politique de sécurité.|22 septembre 2022|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[htmly pathname traversal](https://vuldb.com/?id.210078)|Visit link for details|2022-10-02 at 11:08|
+ |[Bus Pass Management System download-pass.php sql injection](https://vuldb.com/?id.210077)|Visit link for details|2022-10-02 at 11:08|
+ |[Billing System Project editcategory.php sql injection](https://vuldb.com/?id.210076)|Visit link for details|2022-10-02 at 11:08|
+ |[Billing System Project edituser.php sql injection](https://vuldb.com/?id.210075)|Visit link for details|2022-10-02 at 11:07|
+ |[Billing System Project createProduct.php Privilege Escalation](https://vuldb.com/?id.210074)|Visit link for details|2022-10-02 at 11:07|
+ |[RealVNC VNC Server/VNC Viewer MSI Installer Repair access control](https://vuldb.com/?id.210073)|Visit link for details|2022-10-02 at 11:07|
+ |[Innovaphone AP Manager command injection](https://vuldb.com/?id.210072)|Visit link for details|2022-10-02 at 11:06|
+ |[Moodle Mustache Template Helper cross site scripting](https://vuldb.com/?id.210071)|Visit link for details|2022-10-02 at 11:05|
+ |[SolarWinds Orion Platform QoE Application cross site scripting](https://vuldb.com/?id.210070)|Visit link for details|2022-10-02 at 11:04|
+ |[Pulse Secure Pulse Connect Secure Header request smuggling](https://vuldb.com/?id.210069)|Visit link for details|2022-10-02 at 10:52|
+ 
+ ---
+
+## IBMCLOUD [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SolarWinds Orion Platform cross-site scripting (CVE-2022-36965)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 30, 2022|
+ |[SolarWinds Orion Platform privilege escalation (CVE-2022-36961)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 30, 2022|
+ |[jCart for OpenCart extension for Joomla! cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 30, 2022|
+ |[EShop extension for Joomla! cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 30, 2022|
+ |[JoomRecipe extension for Joomla! cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 30, 2022|
+ |[BookStack cross-site scripting (CVE-2022-40690)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 30, 2022|
+ |[Google Chrome V8 code execution (CVE-2022-3373)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 30, 2022|
  
  ---
 
