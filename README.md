@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 02/10/2022 21:12:37 UTC
+ > Last Updated 03/10/2022 09:20:30 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -36,21 +36,20 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-multiple-vulnerabilities-39435" class="noirorange"><b>Centreon Web</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Centreon-Web-multiple-vulnerabilities-39435)|An attacker can use several vulnerabilities of Centreon Web...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Joomla-EDocman-Cross-Site-Scripting-39434" class="noirorange"><b>Joomla EDocman</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Joomla-EDocman-Cross-Site-Scripting-39434)|An attacker can trigger a Cross Site Scripting of Joomla EDocman, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-two-vulnerabilities-39433" class="noirorange"><b>Chrome</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-two-vulnerabilities-39433)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-aerdl-dll-39432" class="noirorange"><b>WithSecure Endpoint Protection</b>: denial of service via aerdl.dll</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-aerdl-dll-39432)|An attacker can cause a fatal error of WithSecure Endpoint Protection, via aerdl.dll, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/VNC-Server-three-vulnerabilities-39431" class="noirorange"><b>VNC Server</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/VNC-Server-three-vulnerabilities-39431)|An attacker can use several vulnerabilities of VNC Server...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-code-execution-via-PowerShell-39430" class="noirorange"><b>Microsoft Exchange Server</b>: code execution via PowerShell</a>](https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-code-execution-via-PowerShell-39430)|An attacker can use a vulnerability of Microsoft Exchange Server, via PowerShell, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-Server-Side-Request-Forgery-39429" class="noirorange"><b>Microsoft Exchange Server</b>: Server-Side Request Forgery</a>](https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-Server-Side-Request-Forgery-39429)|An attacker can trigger a Server-Side Request Forgery of Microsoft Exchange Server, in order to force the server to send queries...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SQLite-integer-overflow-via-FTS3-Extension-39428" class="noirorange"><b>SQLite</b>: integer overflow via FTS3 Extension</a>](https://vigilance.fr/vulnerability/SQLite-integer-overflow-via-FTS3-Extension-39428)|An attacker can trigger an integer overflow of SQLite, via FTS3 Extension, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/bash-NULL-pointer-dereference-via-parameter-brace-transform-39426" class="noirorange"><b>bash</b>: NULL pointer dereference via <wbr>parameter_brace_tran<wbr>sform()</wbr></wbr></a>](https://vigilance.fr/vulnerability/bash-NULL-pointer-dereference-via-parameter-brace-transform-39426)|An attacker can force a NULL pointer to be dereferenced on bash, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/telnetd-NULL-pointer-dereference-via-0xff-0xf7-0xff-0xf8-39425" class="noirorange"><b>telnetd</b>: NULL pointer dereference via 0xff 0xf7 / 0xff 0xf8</a>](https://vigilance.fr/vulnerability/telnetd-NULL-pointer-dereference-via-0xff-0xf7-0xff-0xf8-39425)|An attacker can force a NULL pointer to be dereferenced on telnetd, via 0xff 0xf7 / 0xff 0xf8, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libvncclient-memory-leak-via-rfbClientCleanup-39424" class="noirorange"><b>libvncclient</b>: memory leak via rfbClientCleanup()</a>](https://vigilance.fr/vulnerability/libvncclient-memory-leak-via-rfbClientCleanup-39424)|An attacker can create a memory leak of libvncclient, via rfbClientCleanup(), in order to trigger a denial of service...|Visit link for details|
+ |[Multiples vulnérabilités dans les produits GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-873/)|De multiples vulnérabilités ont été découvertes dans les produits GitLab. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 30 septembre 2022|
+ |[Multiples vulnérabilités dans PHP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-872/)|De multiples vulnérabilités ont été découvertes dans PHP. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service et un contournement de la politique de sécurité.|Publié le 30 septembre 2022|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-871/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 30 septembre 2022|
+ |[Vulnérabilité dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-870/)|Une vulnérabilité a été corrigée dans |Publié le 30 septembre 2022|
+ |[Multiples vulnérabilités dans Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-869/)|De multiples vulnérabilités ont été corrigées dans |Publié le 30 septembre 2022|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-868/)|De multiples vulnérabilités ont été corrigées dans |Publié le 30 septembre 2022|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-867/)|De multiples vulnérabilités ont été corrigées dans |Publié le 30 septembre 2022|
+ |[Vulnérabilité dans Drupal core](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-866/)|Une vulnérabilité a été découverte dans Drupal core. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 29 septembre 2022|
+ |[Vulnérabilité dans Elastic Cloud Enterprise](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-865/)|Une vulnérabilité a été découverte dans Elastic Cloud Enterprise. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 29 septembre 2022|
+ |[Multiples vulnérabilités dans les produits SolarWinds](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-864/)|De multiples vulnérabilités ont été découvertes dans les produits SolarWinds. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 29 septembre 2022|
  
  ---
 
@@ -58,16 +57,48 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[ZKTeco ZKBiosecurity authUserAction!edit.action access control](https://vuldb.com/?id.210099)|Visit link for details|2022-10-02 at 18:56|
- |[ZKTeco ZKBiosecurity baseOpLog.do sql injection](https://vuldb.com/?id.210098)|Visit link for details|2022-10-02 at 18:54|
- |[Google Chrome ChromeOS Notifications use after free](https://vuldb.com/?id.210097)|Visit link for details|2022-10-02 at 18:47|
- |[Google Chrome Intents input validation](https://vuldb.com/?id.210096)|Visit link for details|2022-10-02 at 18:46|
- |[Google Chrome Safe Browsing Remote Code Execution](https://vuldb.com/?id.210095)|Visit link for details|2022-10-02 at 18:45|
- |[Google Chrome Blink type confusion](https://vuldb.com/?id.210094)|Visit link for details|2022-10-02 at 18:45|
- |[Google Chrome Logging use after free](https://vuldb.com/?id.210093)|Visit link for details|2022-10-02 at 18:44|
- |[Google Chrome Full Screen Remote Code Execution](https://vuldb.com/?id.210092)|Visit link for details|2022-10-02 at 18:43|
- |[Google Chrome VPN Remote Code Execution](https://vuldb.com/?id.210091)|Visit link for details|2022-10-02 at 18:43|
- |[Google Chrome Import use after free](https://vuldb.com/?id.210090)|Visit link for details|2022-10-02 at 18:41|
+ |[DedeCMS unrestricted upload](https://vuldb.com/?id.210100)|Visit link for details|2022-10-03 at 08:17|
+ |[ZKTeco ZKBiosecurity authUserAction!edit.action access control](https://vuldb.com/?id.210099)|Visit link for details|2022-10-03 at 18:56|
+ |[ZKTeco ZKBiosecurity baseOpLog.do sql injection](https://vuldb.com/?id.210098)|Visit link for details|2022-10-03 at 18:54|
+ |[Google Chrome ChromeOS Notifications use after free](https://vuldb.com/?id.210097)|Visit link for details|2022-10-03 at 18:47|
+ |[Google Chrome Intents input validation](https://vuldb.com/?id.210096)|Visit link for details|2022-10-03 at 18:46|
+ |[Google Chrome Safe Browsing Remote Code Execution](https://vuldb.com/?id.210095)|Visit link for details|2022-10-03 at 18:45|
+ |[Google Chrome Blink type confusion](https://vuldb.com/?id.210094)|Visit link for details|2022-10-03 at 18:45|
+ |[Google Chrome Logging use after free](https://vuldb.com/?id.210093)|Visit link for details|2022-10-03 at 18:44|
+ |[Google Chrome Full Screen Remote Code Execution](https://vuldb.com/?id.210092)|Visit link for details|2022-10-03 at 18:43|
+ |[Google Chrome VPN Remote Code Execution](https://vuldb.com/?id.210091)|Visit link for details|2022-10-03 at 18:43|
+ 
+ ---
+
+## IBMCLOUD [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SolarWinds Orion Platform cross-site scripting (CVE-2022-36965)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 30, 2022|
+ |[SolarWinds Orion Platform privilege escalation (CVE-2022-36961)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 30, 2022|
+ |[jCart for OpenCart extension for Joomla! cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 30, 2022|
+ |[EShop extension for Joomla! cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 30, 2022|
+ |[JoomRecipe extension for Joomla! cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 30, 2022|
+ |[BookStack cross-site scripting (CVE-2022-40690)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 30, 2022|
+ |[Google Chrome V8 code execution (CVE-2022-3373)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 30, 2022|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Joomla-JoomRecipe-Cross-Site-Scripting-39440" class="noirorange"><b>Joomla JoomRecipe</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Joomla-JoomRecipe-Cross-Site-Scripting-39440)|An attacker can trigger a Cross Site Scripting of Joomla JoomRecipe, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cosign-four-vulnerabilities-39439" class="noirorange"><b>Cosign</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Cosign-four-vulnerabilities-39439)|An attacker can use several vulnerabilities of Cosign...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/NetBSD-reuse-after-free-via-Coredump-Credential-Reference-39438" class="noirorange"><b>NetBSD</b>: reuse after free via Coredump Credential Reference</a>](https://vigilance.fr/vulnerability/NetBSD-reuse-after-free-via-Coredump-Credential-Reference-39438)|An attacker can force the reuse of a freed memory area of NetBSD, via Coredump Credential Reference, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Kitty-code-execution-via-Desktop-Notification-Escape-Sequence-39437" class="noirorange"><b>Kitty</b>: code execution via Desktop Notification Escape Sequence</a>](https://vigilance.fr/vulnerability/Kitty-code-execution-via-Desktop-Notification-Escape-Sequence-39437)|An attacker can use a vulnerability of Kitty, via Desktop Notification Escape Sequence, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-Thenify-code-execution-via-eval-39436" class="noirorange"><b>Node.js Thenify</b>: code execution via eval()</a>](https://vigilance.fr/vulnerability/Node-js-Thenify-code-execution-via-eval-39436)|An attacker can use a vulnerability of Node.js Thenify, via eval(), in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-multiple-vulnerabilities-39435" class="noirorange"><b>Centreon Web</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Centreon-Web-multiple-vulnerabilities-39435)|An attacker can use several vulnerabilities of Centreon Web...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Joomla-EDocman-Cross-Site-Scripting-39434" class="noirorange"><b>Joomla EDocman</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Joomla-EDocman-Cross-Site-Scripting-39434)|An attacker can trigger a Cross Site Scripting of Joomla EDocman, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-two-vulnerabilities-39433" class="noirorange"><b>Chrome</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-two-vulnerabilities-39433)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-aerdl-dll-39432" class="noirorange"><b>WithSecure Endpoint Protection</b>: denial of service via aerdl.dll</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-aerdl-dll-39432)|An attacker can cause a fatal error of WithSecure Endpoint Protection, via aerdl.dll, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/RealVNC-VNC-Server-VNC-Viewer-three-vulnerabilities-39431" class="noirorange"><b>RealVNC VNC Server  VNC Viewer</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/RealVNC-VNC-Server-VNC-Viewer-three-vulnerabilities-39431)|An attacker can use several vulnerabilities of RealVNC VNC Server  VNC Viewer...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-code-execution-via-PowerShell-39430" class="noirorange"><b>Microsoft Exchange Server</b>: code execution via PowerShell</a>](https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-code-execution-via-PowerShell-39430)|An attacker can use a vulnerability of Microsoft Exchange Server, via PowerShell, in order to run code...|Visit link for details|
  
  ---
 
@@ -101,35 +132,4 @@
  |[(0Day) GE CIMPLICITY CIM File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1320/)|Visit link for details|Sept. 29, 2022|
  |[(0Day) GE CIMPLICITY CIM File Parsing Uninitialized Pointer Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1319/)|Visit link for details|Sept. 29, 2022|
  |[Autodesk AutoCAD MODEL File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1318/)|Visit link for details|Sept. 29, 2022|
- 
- ---
-
-## IBMCLOUD [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[SolarWinds Orion Platform cross-site scripting (CVE-2022-36965)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 30, 2022|
- |[SolarWinds Orion Platform privilege escalation (CVE-2022-36961)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 30, 2022|
- |[jCart for OpenCart extension for Joomla! cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 30, 2022|
- |[EShop extension for Joomla! cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 30, 2022|
- |[JoomRecipe extension for Joomla! cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 30, 2022|
- |[BookStack cross-site scripting (CVE-2022-40690)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 30, 2022|
- |[Google Chrome V8 code execution (CVE-2022-3373)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 30, 2022|
- 
- ---
-
-## CERT-FR [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans les produits GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-873/)|De multiples vulnérabilités ont été découvertes dans les produits GitLab. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 30 septembre 2022|
- |[Multiples vulnérabilités dans PHP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-872/)|De multiples vulnérabilités ont été découvertes dans PHP. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service et un contournement de la politique de sécurité.|Publié le 30 septembre 2022|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-871/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 30 septembre 2022|
- |[Vulnérabilité dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-870/)|Une vulnérabilité a été corrigée dans |Publié le 30 septembre 2022|
- |[Multiples vulnérabilités dans Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-869/)|De multiples vulnérabilités ont été corrigées dans |Publié le 30 septembre 2022|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-868/)|De multiples vulnérabilités ont été corrigées dans |Publié le 30 septembre 2022|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-867/)|De multiples vulnérabilités ont été corrigées dans |Publié le 30 septembre 2022|
- |[Vulnérabilité dans Drupal core](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-866/)|Une vulnérabilité a été découverte dans Drupal core. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 29 septembre 2022|
- |[Vulnérabilité dans Elastic Cloud Enterprise](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-865/)|Une vulnérabilité a été découverte dans Elastic Cloud Enterprise. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 29 septembre 2022|
- |[Multiples vulnérabilités dans les produits SolarWinds](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-864/)|De multiples vulnérabilités ont été découvertes dans les produits SolarWinds. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 29 septembre 2022|
  
