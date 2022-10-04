@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 03/10/2022 21:11:59 UTC
+ > Last Updated 04/10/2022 09:19:39 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -40,6 +40,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Polycom-RealPresence-Resource-Manager-external-XML-entity-injection-39452" class="noirorange"><b>Polycom RealPresence Resource Manager</b>: external XML entity injection</a>](https://vigilance.fr/vulnerability/Polycom-RealPresence-Resource-Manager-external-XML-entity-injection-39452)|An attacker can transmit malicious XML data to Polycom RealPresence Resource Manager, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/strongSwan-overload-via-OCSP-URI-CRL-Distribution-Points-39451" class="noirorange"><b>strongSwan</b>: overload via OCSP URI / CRL Distribution Points</a>](https://vigilance.fr/vulnerability/strongSwan-overload-via-OCSP-URI-CRL-Distribution-Points-39451)|An attacker can trigger an overload of strongSwan, via OCSP URI / CRL Distribution Points, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-spoofing-39450" class="noirorange"><b>Microsoft Edge Chromium</b>: spoofing</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-spoofing-39450)|An attacker can create spoofed data on Microsoft Edge Chromium, in order to deceive the victim...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Puppetlabs-mysql-code-execution-39449" class="noirorange"><b>Puppetlabs-mysql</b>: code execution</a>](https://vigilance.fr/vulnerability/Puppetlabs-mysql-code-execution-39449)|An attacker can use a vulnerability of Puppetlabs-mysql, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Puppetlabs-apt-code-execution-via-Command-Injection-39448" class="noirorange"><b>Puppetlabs-apt</b>: code execution via Command Injection</a>](https://vigilance.fr/vulnerability/Puppetlabs-apt-code-execution-via-Command-Injection-39448)|An attacker can use a vulnerability of Puppetlabs-apt, via Command Injection, in order to run code...|Visit link for details|
@@ -49,25 +51,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-drivers-video-fbdev-smscufx-c-39444" class="noirorange"><b>Linux kernel</b>: reuse after free via <wbr>drivers/video/fbdev/<wbr>smscufx.c</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-drivers-video-fbdev-smscufx-c-39444)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-drivers-char-pcmcia-synclink-cs-c-39443" class="noirorange"><b>Linux kernel</b>: reuse after free via <wbr>drivers/char/pcmcia/<wbr>synclink_cs.c</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-drivers-char-pcmcia-synclink-cs-c-39443)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Joomla-JoomRecipe-Cross-Site-Scripting-39440" class="noirorange"><b>Joomla JoomRecipe</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Joomla-JoomRecipe-Cross-Site-Scripting-39440)|An attacker can trigger a Cross Site Scripting of Joomla JoomRecipe, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cosign-four-vulnerabilities-39439" class="noirorange"><b>Cosign</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Cosign-four-vulnerabilities-39439)|An attacker can use several vulnerabilities of Cosign...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/NetBSD-reuse-after-free-via-Coredump-Credential-Reference-39438" class="noirorange"><b>NetBSD</b>: reuse after free via Coredump Credential Reference</a>](https://vigilance.fr/vulnerability/NetBSD-reuse-after-free-via-Coredump-Credential-Reference-39438)|An attacker can force the reuse of a freed memory area of NetBSD, via Coredump Credential Reference, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Snyk CLI Privilege Escalation](https://vuldb.com/?id.210146)|Visit link for details|2022-10-03 at 21:12|
- |[Autodesk AutoCAD PDF File Remote Code Execution](https://vuldb.com/?id.210145)|Visit link for details|2022-10-03 at 21:10|
- |[Autodesk AutoCAD MODEL File Remote Code Execution](https://vuldb.com/?id.210144)|Visit link for details|2022-10-03 at 21:09|
- |[Autodesk Desktop App access control](https://vuldb.com/?id.210143)|Visit link for details|2022-10-03 at 21:09|
- |[Veritas NetBackup pbx_exchange Registration path traversal](https://vuldb.com/?id.210142)|Visit link for details|2022-10-03 at 21:08|
- |[Veritas NetBackup DiscoveryService xml external entity reference](https://vuldb.com/?id.210141)|Visit link for details|2022-10-03 at 21:07|
- |[Veritas NetBackup pbx_exchange null pointer dereference](https://vuldb.com/?id.210140)|Visit link for details|2022-10-03 at 21:06|
- |[Veritas NetBackup nbars xml external entity reference](https://vuldb.com/?id.210139)|Visit link for details|2022-10-03 at 21:06|
- |[Veritas NetBackup DiscoveryService path traversal](https://vuldb.com/?id.210138)|Visit link for details|2022-10-03 at 21:03|
- |[Veritas NetBackup idm/nbars/SLP sql injection](https://vuldb.com/?id.210137)|Visit link for details|2022-10-03 at 21:02|
  
  ---
 
@@ -88,17 +71,20 @@
  
  ---
 
-## IBMCLOUD [:arrow_heading_up:](#cyberowl)
+## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[Actian Zen PSQL security bypass (CVE-2022-40756)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 30, 2022|
- |[Innovaphone command execution (CVE-2022-41870)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 30, 2022|
- |[RealVNC VNC Server and VNC Viewer privilege escalation (CVE-2022-41975)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 30, 2022|
- |[Withsecure products denial of service (CVE-2022-28887)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 30, 2022|
- |[SolarWinds Orion Platform cross-site scripting (CVE-2022-36965)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 30, 2022|
- |[SolarWinds Orion Platform privilege escalation (CVE-2022-36961)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 30, 2022|
- |[jCart for OpenCart extension for Joomla! cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 30, 2022|
+ |[Centreon Poller sql injection](https://vuldb.com/?id.210147)|Visit link for details|2022-10-04 at 09:34|
+ |[Snyk CLI Privilege Escalation](https://vuldb.com/?id.210146)|Visit link for details|2022-10-04 at 21:12|
+ |[Autodesk AutoCAD PDF File Remote Code Execution](https://vuldb.com/?id.210145)|Visit link for details|2022-10-04 at 21:10|
+ |[Autodesk AutoCAD MODEL File Remote Code Execution](https://vuldb.com/?id.210144)|Visit link for details|2022-10-04 at 21:09|
+ |[Autodesk Desktop App access control](https://vuldb.com/?id.210143)|Visit link for details|2022-10-04 at 21:09|
+ |[Veritas NetBackup pbx_exchange Registration path traversal](https://vuldb.com/?id.210142)|Visit link for details|2022-10-04 at 21:08|
+ |[Veritas NetBackup DiscoveryService xml external entity reference](https://vuldb.com/?id.210141)|Visit link for details|2022-10-04 at 21:07|
+ |[Veritas NetBackup pbx_exchange null pointer dereference](https://vuldb.com/?id.210140)|Visit link for details|2022-10-04 at 21:06|
+ |[Veritas NetBackup nbars xml external entity reference](https://vuldb.com/?id.210139)|Visit link for details|2022-10-04 at 21:06|
+ |[Veritas NetBackup DiscoveryService path traversal](https://vuldb.com/?id.210138)|Visit link for details|2022-10-04 at 21:03|
  
  ---
 
@@ -106,6 +92,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[38500410/22 - Vulnérabilités dans Android](https://www.dgssi.gov.ma//fr/content/3850041022-vulnerabilites-dans-android.html)|Plusieurs vulnérabilités critiques ont été corrigées dans le système d’exploitation Android. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, de causer un déni de service, d’...|04 octobre 2022|
+ |[38490310/22 - Vulnérabilités dans PHP](https://www.dgssi.gov.ma//fr/content/3849031022-vulnerabilites-dans-php.html)|Deux vulnérabilités ont été corrigées dans les versions de PHP susmentionnées. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service et de contourner la politique de sécurité.|03 octobre 2022|
  |[38480310/22 - Nouveau Malware cible les vSphere Installation Bundles (VIB) non signés dans VMWare ES](https://www.dgssi.gov.ma//fr/content/3848031022-nouveau-malware-cible-les-vsphere-installation-bundles-vib-non-signes-dans-vmware-esxi.html)|Des chercheurs en sécurité ont publié un avis concernant un logiciel malveillant qui cible les serveurs vSphere. Une exploitation réussie pourrait permettre à un attaquant de tirer parti des vSphere Installation Bundles (VIB) non signés...|03 octobre 2022|
  |[38470310/22 - Vulnérabilités dans Mozilla Thunderbird](https://www.dgssi.gov.ma//fr/content/3847031022-vulnerabilites-dans-mozilla-thunderbird.html)|Mozilla a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Mozilla Thunderbird. Un attaquant pourrait exploiter certaines de ces failles afin de porter atteinte à laconfidentialité des données ou de...|03 octobre 2022|
  |[38463009/22 - Zero-Day activement exploité affectant Microsoft Exchange ](https://www.dgssi.gov.ma//fr/content/3846300922-zero-day-activement-exploite-affectant-microsoft-exchange.html)|Une Entreprise de cyber sécurité vietnamienneannonce la découverte de deux vulnérabilités « Zero-day » identifiées par « CVE-2022-41040 » et « CVE-2022-41082 » affectant le serveur de messagerie Microsoft Exchange. Ces deux...|30 septembre 2022|
@@ -115,8 +103,20 @@
  |[38422809/22 - Vulnérabilités affectant plusieursproduits deCisco](https://www.dgssi.gov.ma//fr/content/3842280922-vulnerabilites-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant de contourner les mesures de sécurité.|28 septembre 2022|
  |[38412809/22 - Vulnérabilités dans WhatsApp](https://www.dgssi.gov.ma//fr/content/3841280922-vulnerabilites-dans-whatsapp.html)|WhatsApp a publié une mise à jour pour corriger deux vulnérabilités d'exécution de code à distance (CVE-2022-36934 et CVE-2022-27492) affectant son application mobile. La faille « CVE-2022-36934 » affecte le composant "WhatsApp...|28 septembre 2022|
  |[38402609/22 - Vulnérabilité critique dans Sophos Firewall](https://www.dgssi.gov.ma//fr/content/3840260922-vulnerabilite-critique-dans-sophos-firewall.html)|Une vulnérabilité critique a été corrigée dans le portail web de Sophos Firewall. L’exploitation de cette faille peut permettre à un attaquant distant d’exécuter du code arbitraire.|26 septembre 2022|
- |[38392609/22 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/3839260922-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant son client de messagerie Mozilla Thunderbird. L’exploitation de ces vulnérabilités peut permettre à un...|26 septembre 2022|
- |[38382209/22 - Vulnérabilités affectantle navigateur Mozilla Firefox](https://www.dgssi.gov.ma//fr/content/3838220922-vulnerabilites-affectant-le-navigateur-mozilla-firefox.html)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de cesvulnérabilités peut permettre à un...|22 septembre 2022|
+ 
+ ---
+
+## IBMCLOUD [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft Edge (Chromium-based) spoofing (CVE-2022-41035)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 3, 2022|
+ |[Joomla MarvikShop extension for Joomla sortdir limitstart limit cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 3, 2022|
+ |[JUX Charity Hub extension for Joomla title SQL injection](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 3, 2022|
+ |[jMarket extension for Joomla controller trucs%5Bx%5D%5Bsearch%5D vWjx Itemid trucs%5B182%5D%5Bpid%5D cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 1, 2022|
+ |[Actian Zen PSQL security bypass (CVE-2022-40756)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 30, 2022|
+ |[Innovaphone command execution (CVE-2022-41870)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 30, 2022|
+ |[RealVNC VNC Server and VNC Viewer privilege escalation (CVE-2022-41975)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Sep 30, 2022|
  
  ---
 
