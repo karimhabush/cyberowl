@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 04/10/2022 21:14:52 UTC
+ > Last Updated 05/10/2022 09:18:11 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -36,38 +36,6 @@
  
  ---
 
-## IBMCLOUD [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[OWASP ZAP weak security](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 4, 2022|
- |[MarvikShop extension for Joomla sortdir SQL injection](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 3, 2022|
- |[Password Manager cross-site scripting (CVE-2022-36664)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 3, 2022|
- |[Easy Shop extension for Joomla cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 3, 2022|
- |[JKassa ShoppingCart extension for Joomla SQL injection](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 3, 2022|
- |[Microsoft Edge (Chromium-based) spoofing (CVE-2022-41035)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 3, 2022|
- |[Centreon SQL injection (CVE-2022-41142)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 3, 2022|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/NetBSD-file-reading-via-procfs-39459" class="noirorange"><b>NetBSD</b>: file reading via procfs</a>](https://vigilance.fr/vulnerability/NetBSD-file-reading-via-procfs-39459)|An attacker can read a file of NetBSD, via procfs, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Django-overload-via-Internationalized-URLs-39458" class="noirorange"><b>Django</b>: overload via Internationalized URLs</a>](https://vigilance.fr/vulnerability/Django-overload-via-Internationalized-URLs-39458)|An attacker can trigger an overload of Django, via Internationalized URLs, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/colord-memory-reading-via-err-msg-39457" class="noirorange"><b>colord</b>: memory reading via err_msg</a>](https://vigilance.fr/vulnerability/colord-memory-reading-via-err-msg-39457)|An attacker can read a memory fragment of colord, via err_msg, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSSH-three-vulnerabilities-39456" class="noirorange"><b>OpenSSH</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/OpenSSH-three-vulnerabilities-39456)|An attacker can use several vulnerabilities of OpenSSH...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/pfSense-Cross-Site-Scripting-via-browser-php-39454" class="noirorange"><b>pfSense</b>: Cross Site Scripting via browser.php</a>](https://vigilance.fr/vulnerability/pfSense-Cross-Site-Scripting-via-browser-php-39454)|An attacker can trigger a Cross Site Scripting of pfSense, via browser.php, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Barbican-privilege-escalation-via-Request-Query-String-39453" class="noirorange"><b>Barbican</b>: privilege escalation via Request Query String</a>](https://vigilance.fr/vulnerability/Barbican-privilege-escalation-via-Request-Query-String-39453)|An attacker can bypass restrictions of Barbican, via Request Query String, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Polycom-RealPresence-Resource-Manager-external-XML-entity-injection-39452" class="noirorange"><b>Polycom RealPresence Resource Manager</b>: external XML entity injection</a>](https://vigilance.fr/vulnerability/Polycom-RealPresence-Resource-Manager-external-XML-entity-injection-39452)|An attacker can transmit malicious XML data to Polycom RealPresence Resource Manager, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/strongSwan-overload-via-OCSP-URI-CRL-Distribution-Points-39451" class="noirorange"><b>strongSwan</b>: overload via OCSP URI / CRL Distribution Points</a>](https://vigilance.fr/vulnerability/strongSwan-overload-via-OCSP-URI-CRL-Distribution-Points-39451)|An attacker can trigger an overload of strongSwan, via OCSP URI / CRL Distribution Points, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-spoofing-39450" class="noirorange"><b>Microsoft Edge Chromium</b>: spoofing</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-spoofing-39450)|An attacker can create spoofed data on Microsoft Edge Chromium, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Puppetlabs-mysql-code-execution-39449" class="noirorange"><b>Puppetlabs-mysql</b>: code execution</a>](https://vigilance.fr/vulnerability/Puppetlabs-mysql-code-execution-39449)|An attacker can use a vulnerability of Puppetlabs-mysql, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Puppetlabs-apt-code-execution-via-Command-Injection-39448" class="noirorange"><b>Puppetlabs-apt</b>: code execution via Command Injection</a>](https://vigilance.fr/vulnerability/Puppetlabs-apt-code-execution-via-Command-Injection-39448)|An attacker can use a vulnerability of Puppetlabs-apt, via Command Injection, in order to run code...|Visit link for details|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -89,16 +57,34 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Centreon Poller sql injection](https://vuldb.com/?id.210147)|Visit link for details|2022-10-04 at 09:34|
- |[Snyk CLI Privilege Escalation](https://vuldb.com/?id.210146)|Visit link for details|2022-10-04 at 21:12|
- |[Autodesk AutoCAD PDF File Remote Code Execution](https://vuldb.com/?id.210145)|Visit link for details|2022-10-04 at 21:10|
- |[Autodesk AutoCAD MODEL File Remote Code Execution](https://vuldb.com/?id.210144)|Visit link for details|2022-10-04 at 21:09|
- |[Autodesk Desktop App access control](https://vuldb.com/?id.210143)|Visit link for details|2022-10-04 at 21:09|
- |[Veritas NetBackup pbx_exchange Registration path traversal](https://vuldb.com/?id.210142)|Visit link for details|2022-10-04 at 21:08|
- |[Veritas NetBackup DiscoveryService xml external entity reference](https://vuldb.com/?id.210141)|Visit link for details|2022-10-04 at 21:07|
- |[Veritas NetBackup pbx_exchange null pointer dereference](https://vuldb.com/?id.210140)|Visit link for details|2022-10-04 at 21:06|
- |[Veritas NetBackup nbars xml external entity reference](https://vuldb.com/?id.210139)|Visit link for details|2022-10-04 at 21:06|
- |[Veritas NetBackup DiscoveryService path traversal](https://vuldb.com/?id.210138)|Visit link for details|2022-10-04 at 21:03|
+ |[BD Totalys MultiProcessor hard-coded credentials](https://vuldb.com/?id.210155)|Visit link for details|2022-10-05 at 09:42|
+ |[Omron CX-Programmer out-of-bounds write](https://vuldb.com/?id.210154)|Visit link for details|2022-10-05 at 09:41|
+ |[Omron CX-Programmer out-of-bounds write](https://vuldb.com/?id.210153)|Visit link for details|2022-10-05 at 09:40|
+ |[Omron CX-Programmer CX-P.exe out-of-bounds write](https://vuldb.com/?id.210152)|Visit link for details|2022-10-05 at 09:39|
+ |[Horner Automation Cscape FNT File uninitialized pointer](https://vuldb.com/?id.210151)|Visit link for details|2022-10-05 at 09:37|
+ |[Horner Automation Cscape FNT File uninitialized pointer](https://vuldb.com/?id.210150)|Visit link for details|2022-10-05 at 09:36|
+ |[Horner Automation Cscape FNT File out-of-bounds write](https://vuldb.com/?id.210149)|Visit link for details|2022-10-05 at 09:34|
+ |[Johnson Controls Metasys ADX User Identity Claim improper authentication](https://vuldb.com/?id.210148)|Visit link for details|2022-10-05 at 09:32|
+ |[Centreon Poller sql injection](https://vuldb.com/?id.210147)|Visit link for details|2022-10-05 at 09:34|
+ |[Snyk CLI Privilege Escalation](https://vuldb.com/?id.210146)|Visit link for details|2022-10-05 at 21:12|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Keycloak-code-execution-via-SAML-Protocol-Mapper-Javascript-Upload-39469" class="noirorange"><b>Keycloak</b>: code execution via SAML Protocol Mapper Javascript Upload</a>](https://vigilance.fr/vulnerability/Keycloak-code-execution-via-SAML-Protocol-Mapper-Javascript-Upload-39469)|An attacker can use a vulnerability of Keycloak, via SAML Protocol Mapper Javascript Upload, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Keycloak-Cross-Site-Scripting-via-Default-Roles-Functionality-39468" class="noirorange"><b>Keycloak</b>: Cross Site Scripting via Default Roles Functionality</a>](https://vigilance.fr/vulnerability/Keycloak-Cross-Site-Scripting-via-Default-Roles-Functionality-39468)|An attacker can trigger a Cross Site Scripting of Keycloak, via Default Roles Functionality, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Keycloak-Cross-Site-Scripting-via-Group-Name-39467" class="noirorange"><b>Keycloak</b>: Cross Site Scripting via Group Name</a>](https://vigilance.fr/vulnerability/Keycloak-Cross-Site-Scripting-via-Group-Name-39467)|An attacker can trigger a Cross Site Scripting of Keycloak, via Group Name, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Scala-code-execution-via-JAR-File-Deserialization-39466" class="noirorange"><b>Scala</b>: code execution via JAR File Deserialization</a>](https://vigilance.fr/vulnerability/Scala-code-execution-via-JAR-File-Deserialization-39466)|An attacker can use a vulnerability of Scala, via JAR File Deserialization, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PostgreSQL-JDBC-Driver-SQL-injection-via-refreshRow-39465" class="noirorange"><b>PostgreSQL JDBC Driver</b>: SQL injection via refreshRow()</a>](https://vigilance.fr/vulnerability/PostgreSQL-JDBC-Driver-SQL-injection-via-refreshRow-39465)|An attacker can use a SQL injection of PostgreSQL JDBC Driver, via refreshRow(), in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MediaWiki-ingress-filtrering-bypass-via-reassignEdits-39464" class="noirorange"><b>MediaWiki</b>: ingress filtrering bypass via reassignEdits()</a>](https://vigilance.fr/vulnerability/MediaWiki-ingress-filtrering-bypass-via-reassignEdits-39464)|An attacker can bypass filtering rules of MediaWiki, via reassignEdits(), in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MediaWiki-information-disclosure-via-HTMLUserTextField-Hidden-Users-39463" class="noirorange"><b>MediaWiki</b>: information disclosure via HTMLUserTextField Hidden Users</a>](https://vigilance.fr/vulnerability/MediaWiki-information-disclosure-via-HTMLUserTextField-Hidden-Users-39463)|An attacker can bypass access restrictions to data of MediaWiki, via HTMLUserTextField Hidden Users, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MediaWiki-Cross-Site-Scripting-via-VisualEditor-Media-Dialog-39462" class="noirorange"><b>MediaWiki</b>: Cross Site Scripting via VisualEditor Media Dialog</a>](https://vigilance.fr/vulnerability/MediaWiki-Cross-Site-Scripting-via-VisualEditor-Media-Dialog-39462)|An attacker can trigger a Cross Site Scripting of MediaWiki, via VisualEditor Media Dialog, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MediaWiki-information-disclosure-via-REST-API-Autocomplete-Search-Results-39461" class="noirorange"><b>MediaWiki</b>: information disclosure via REST API Autocomplete Search Results</a>](https://vigilance.fr/vulnerability/MediaWiki-information-disclosure-via-REST-API-Autocomplete-Search-Results-39461)|An attacker can bypass access restrictions to data of MediaWiki, via REST API Autocomplete Search Results, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/JACK2-file-reading-via-Double-File-Descriptor-Close-39460" class="noirorange"><b>JACK2</b>: file reading via Double File Descriptor Close</a>](https://vigilance.fr/vulnerability/JACK2-file-reading-via-Double-File-Descriptor-Close-39460)|An attacker can read a file of JACK2, via Double File Descriptor Close, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/NetBSD-file-reading-via-procfs-39459" class="noirorange"><b>NetBSD</b>: file reading via procfs</a>](https://vigilance.fr/vulnerability/NetBSD-file-reading-via-procfs-39459)|An attacker can read a file of NetBSD, via procfs, in order to obtain sensitive information...|Visit link for details|
  
  ---
 
@@ -106,6 +92,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[38520510/22 - Nouvelles solutions de contournement du Zero Day activement exploité affectant Microso](https://www.dgssi.gov.ma//fr/content/3852051022-nouvelles-solutions-de-contournement-du-zero-day-activement-exploite-affectant-microsoft-exchange.html)|Microsoft a révisé ses mesures d'atténuation pour les failles de type "zero-day" récemment divulguées et activement exploitées dans Exchange Server, après avoir constaté qu'elles pouvaient être trivialement contournées...|05 octobre 2022|
  |[38510410/22 - Vulnérabilités affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/3851041022-vulnerabilites-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger deuxvulnérabilitésaffectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre àun attaquant d’exécuter du code arbitraire ou...|04 octobre 2022|
  |[38500410/22 - Vulnérabilités dans Android](https://www.dgssi.gov.ma//fr/content/3850041022-vulnerabilites-dans-android.html)|Plusieurs vulnérabilités critiques ont été corrigées dans le système d’exploitation Android. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, de causer un déni de service, d’...|04 octobre 2022|
  |[38490310/22 - Vulnérabilités dans PHP](https://www.dgssi.gov.ma//fr/content/3849031022-vulnerabilites-dans-php.html)|Deux vulnérabilités ont été corrigées dans les versions de PHP susmentionnées. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service et de contourner la politique de sécurité.|03 octobre 2022|
@@ -116,7 +103,6 @@
  |[38442909/22 - Vulnérabilité dans le CMS Drupal](https://www.dgssi.gov.ma//fr/content/3844290922-vulnerabilite-dans-le-cms-drupal.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées du CMS Drupal. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité des données ou de contourner la politique de sécurité.|29 septembre 2022|
  |[38432909/22 - Vulnérabilités dans Google Chrome](https://www.dgssi.gov.ma//fr/content/3843290922-vulnerabilites-dans-google-chrome.html)|Google a corrigé plusieurs vulnérabilités dans son navigateur Google Chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du système affecté.|29 septembre 2022|
  |[38422809/22 - Vulnérabilités affectant plusieursproduits deCisco](https://www.dgssi.gov.ma//fr/content/3842280922-vulnerabilites-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant de contourner les mesures de sécurité.|28 septembre 2022|
- |[38412809/22 - Vulnérabilités dans WhatsApp](https://www.dgssi.gov.ma//fr/content/3841280922-vulnerabilites-dans-whatsapp.html)|WhatsApp a publié une mise à jour pour corriger deux vulnérabilités d'exécution de code à distance (CVE-2022-36934 et CVE-2022-27492) affectant son application mobile. La faille « CVE-2022-36934 » affecte le composant "WhatsApp...|28 septembre 2022|
  
  ---
 
