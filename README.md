@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 06/10/2022 21:12:47 UTC
+ > Last Updated 07/10/2022 09:18:22 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -40,6 +40,10 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-HttpComponents-HttpClient-information-disclosure-via-Temporary-Directory-Hijacking-39489" class="noirorange"><b>Apache HttpComponents HttpClient</b>: information disclosure via Temporary Directory Hijacking</a>](https://vigilance.fr/vulnerability/Apache-HttpComponents-HttpClient-information-disclosure-via-Temporary-Directory-Hijacking-39489)|An attacker can bypass access restrictions to data of Apache HttpComponents HttpClient, via Temporary Directory Hijacking, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/VMware-ESXi-NULL-pointer-dereference-39488" class="noirorange"><b>VMware ESXi</b>: NULL pointer dereference</a>](https://vigilance.fr/vulnerability/VMware-ESXi-NULL-pointer-dereference-39488)|An attacker, in a guest system, can force a NULL pointer to be dereferenced on VMware ESXi, in order to trigger a denial of service on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/VMware-vCenter-Server-privilege-escalation-via-PSC-Deserialization-39487" class="noirorange"><b>VMware vCenter Server</b>: privilege escalation via PSC Deserialization</a>](https://vigilance.fr/vulnerability/VMware-vCenter-Server-privilege-escalation-via-PSC-Deserialization-39487)|An attacker can bypass restrictions of VMware vCenter Server, via PSC Deserialization, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/D-Bus-three-vulnerabilities-39486" class="noirorange"><b>D-Bus</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/D-Bus-three-vulnerabilities-39486)|An attacker can use several vulnerabilities of D-Bus...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/pngcheck-buffer-overflow-39485" class="noirorange"><b>pngcheck</b>: buffer overflow</a>](https://vigilance.fr/vulnerability/pngcheck-buffer-overflow-39485)|An attacker can trigger a buffer overflow of pngcheck, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Data-Node-Rebalancing-39484" class="noirorange"><b>IBM QRadar SIEM</b>: information disclosure via Data Node Rebalancing</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Data-Node-Rebalancing-39484)|An attacker can bypass access restrictions to data of IBM QRadar SIEM, via Data Node Rebalancing, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Local-Service-39483" class="noirorange"><b>IBM QRadar SIEM</b>: information disclosure via Local Service</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Local-Service-39483)|An attacker can bypass access restrictions to data of IBM QRadar SIEM, via Local Service, in order to read sensitive information...|Visit link for details|
@@ -47,10 +51,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Undertow-overload-via-HTTP-2-Flow-Control-Handling-39481" class="noirorange"><b>Undertow</b>: overload via HTTP/2 Flow Control Handling</a>](https://vigilance.fr/vulnerability/Undertow-overload-via-HTTP-2-Flow-Control-Handling-39481)|An attacker can trigger an overload of Undertow, via HTTP/2 Flow Control Handling, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-anon-vma-39480" class="noirorange"><b>Linux kernel</b>: reuse after free via anon_vma</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-anon-vma-39480)|An attacker can force the reuse of a freed memory area of the Linux kernel, via anon_vma, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Sendmail-information-disclosure-via-Closed-SMTP-Session-Connection-Cache-39479" class="noirorange"><b>Sendmail</b>: information disclosure via Closed SMTP Session Connection Cache</a>](https://vigilance.fr/vulnerability/Sendmail-information-disclosure-via-Closed-SMTP-Session-Connection-Cache-39479)|An attacker can bypass access restrictions to data of Sendmail, via Closed SMTP Session Connection Cache, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/RabbitMQ-weak-encryption-via-Predictable-Credential-Obfuscation-Seed-39478" class="noirorange"><b>RabbitMQ</b>: weak encryption via Predictable Credential Obfuscation Seed</a>](https://vigilance.fr/vulnerability/RabbitMQ-weak-encryption-via-Predictable-Credential-Obfuscation-Seed-39478)|An attacker can access data on RabbitMQ, via Predictable Credential Obfuscation Seed, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-ATA-190-seven-vulnerabilities-39476" class="noirorange"><b>Cisco ATA 190</b>: seven vulnerabilities</a>](https://vigilance.fr/vulnerability/Cisco-ATA-190-seven-vulnerabilities-39476)|An attacker can use several vulnerabilities of Cisco ATA 190...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Secure-Web-Appliance-ingress-filtrering-bypass-via-Content-Encoding-39475" class="noirorange"><b>Cisco Secure Web Appliance</b>: ingress filtrering bypass via Content Encoding</a>](https://vigilance.fr/vulnerability/Cisco-Secure-Web-Appliance-ingress-filtrering-bypass-via-Content-Encoding-39475)|An attacker can bypass filtering rules of Cisco Secure Web Appliance, via Content Encoding, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ISC-DHCP-memory-leak-via-fqdn-universe-decode-39474" class="noirorange"><b>ISC DHCP</b>: memory leak via <wbr>fqdn_universe_decode<wbr>()</wbr></wbr></a>](https://vigilance.fr/vulnerability/ISC-DHCP-memory-leak-via-fqdn-universe-decode-39474)|An attacker can create a memory leak of ISC DHCP, via |Visit link for details|
  
  ---
 
@@ -58,16 +58,16 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Rockwell Automation FactoryTalk VantagePoint sql injection](https://vuldb.com/?id.210245)|Visit link for details|2022-10-06 at 23:04|
- |[Rockwell Automation FactoryTalk VantagePoint SQL access control](https://vuldb.com/?id.210244)|Visit link for details|2022-10-06 at 23:03|
- |[HIWIN Robot System Software Command Source access control](https://vuldb.com/?id.210243)|Visit link for details|2022-10-06 at 23:02|
- |[Centreon Template cross site scripting](https://vuldb.com/?id.210242)|Visit link for details|2022-10-06 at 23:00|
- |[Zinc Template Delete cross site scripting](https://vuldb.com/?id.210241)|Visit link for details|2022-10-06 at 22:59|
- |[Moodle H5P Library cross-site request forgery](https://vuldb.com/?id.210240)|Visit link for details|2022-10-06 at 22:58|
- |[Octopus Server Session Cookie cross-site request forgery](https://vuldb.com/?id.210239)|Visit link for details|2022-10-06 at 22:58|
- |[syslabs sif signature verification](https://vuldb.com/?id.210238)|Visit link for details|2022-10-06 at 22:56|
- |[Yetiforce CRM cross site scripting](https://vuldb.com/?id.210237)|Visit link for details|2022-10-06 at 22:54|
- |[Octopus Server Session Cookie missing critical step in authentication](https://vuldb.com/?id.210236)|Visit link for details|2022-10-06 at 22:53|
+ |[discourse-chat Channel cross site scripting](https://vuldb.com/?id.210253)|Visit link for details|2022-10-07 at 07:46|
+ |[Beckman Coulter Remisol Advance Running Service default permission](https://vuldb.com/?id.210252)|Visit link for details|2022-10-07 at 07:45|
+ |[Beckman Coulter Remisol Advance Running Service default permission](https://vuldb.com/?id.210251)|Visit link for details|2022-10-07 at 07:44|
+ |[Facebook Hermes recursion](https://vuldb.com/?id.210250)|Visit link for details|2022-10-07 at 07:44|
+ |[NPS Parameter improper authentication](https://vuldb.com/?id.210249)|Visit link for details|2022-10-07 at 07:43|
+ |[CodeIgniter Session Cookie initialization](https://vuldb.com/?id.210248)|Visit link for details|2022-10-07 at 07:35|
+ |[Online Leave Management System sql injection](https://vuldb.com/?id.210247)|Visit link for details|2022-10-07 at 07:34|
+ |[SourceCodester Web-Based Student Clearance System POST Parameter login.php sql injection](https://vuldb.com/?id.210246)|Visit link for details|2022-10-07 at 07:33|
+ |[Rockwell Automation FactoryTalk VantagePoint sql injection](https://vuldb.com/?id.210245)|Visit link for details|2022-10-07 at 23:04|
+ |[Rockwell Automation FactoryTalk VantagePoint SQL access control](https://vuldb.com/?id.210244)|Visit link for details|2022-10-07 at 23:03|
  
  ---
 
@@ -92,6 +92,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[38550710/22 - Vulnérabilité dans les produits F5](https://www.dgssi.gov.ma//fr/content/3855071022-vulnerabilite-dans-les-produits-f5.html)|Une vulnérabilité a été corrigée dans les produits F5 susmentionnés. L’exploitation de cette faille permet à un attaquant d’exécuter du code arbitraire à distance.|07 octobre 2022|
  |[38560610/22 - Vulnérabilités affectant plusieursproduits deCisco](https://www.dgssi.gov.ma//fr/content/3856061022-vulnerabilites-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’injecter du contenu dans une page ou...|06 octobre 2022|
  |[38550610/22 - Vulnérabilités affectantle navigateur Microsoft Edge ](https://www.dgssi.gov.ma//fr/content/3855061022-vulnerabilites-affectant-le-navigateur-microsoft-edge.html)|Microsoft vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilités affectant le navigateur Microsoft Edge. L’exploitation de cette vulnérabilité peut permettre à un attaquant d’exécuter du code...|06 octobre 2022|
  |[38540610/22 - Vulnérabilités dans OpenSSH](https://www.dgssi.gov.ma//fr/content/3854061022-vulnerabilites-dans-openssh.html)|Plusieurs vulnérabilités ont été corrigées dans OpenSSH. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du système affecté et de contourner la poli-tique de sécurité.|06 octobre 2022|
@@ -102,7 +103,6 @@
  |[38480310/22 - Nouveau Malware cible les vSphere Installation Bundles (VIB) non signés dans VMWare ES](https://www.dgssi.gov.ma//fr/content/3848031022-nouveau-malware-cible-les-vsphere-installation-bundles-vib-non-signes-dans-vmware-esxi.html)|Des chercheurs en sécurité ont publié un avis concernant un logiciel malveillant qui cible les serveurs vSphere. Une exploitation réussie pourrait permettre à un attaquant de tirer parti des vSphere Installation Bundles (VIB) non signés...|03 octobre 2022|
  |[38470310/22 - Vulnérabilités dans Mozilla Thunderbird](https://www.dgssi.gov.ma//fr/content/3847031022-vulnerabilites-dans-mozilla-thunderbird.html)|Mozilla a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant Mozilla Thunderbird. Un attaquant pourrait exploiter certaines de ces failles afin de porter atteinte à laconfidentialité des données ou de...|03 octobre 2022|
  |[38463009/22 - Zero-Day activement exploité affectant Microsoft Exchange ](https://www.dgssi.gov.ma//fr/content/3846300922-zero-day-activement-exploite-affectant-microsoft-exchange.html)|Une Entreprise de cyber sécurité vietnamienneannonce la découverte de deux vulnérabilités « Zero-day » identifiées par « CVE-2022-41040 » et « CVE-2022-41082 » affectant le serveur de messagerie Microsoft Exchange. Ces deux...|30 septembre 2022|
- |[38453009/22 - Vulnérabilités dans les produits SolarWinds](https://www.dgssi.gov.ma//fr/content/3845300922-vulnerabilites-dans-les-produits-solarwinds.html)|Plusieurs vulnérabilités ont été corrigées dans les produits SolarWinds susmentionnés. L'exploitation de ces failles pourrait permettre à un attaquant d’exécuter du code arbitraire à distance et de porter atteinte à la confidentialité...|30 septembre 2022|
  
  ---
 
@@ -110,13 +110,13 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Freedesktop D-Bus denial of service (CVE-2022-42012)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 6, 2022|
+ |[Freedesktop D-Bus denial of service (CVE-2022-42011)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 6, 2022|
+ |[Freedesktop D-Bus denial of service (CVE-2022-42010)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 6, 2022|
  |[IPFire cross-site scripting (CVE-2022-36368)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 6, 2022|
  |[Rockwell Automation FactoryTalk VantagePoint SQL injection (CVE-2022-3158)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 6, 2022|
+ |[Enlightenment privilege escalation (CVE-2022-37706)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 5, 2022|
  |[Cisco Enterprise NFV Infrastructure Software (NFVIS) code execution (CVE-2022-20929)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 5, 2022|
- |[Cisco Expressway Series and Cisco TelePresence Video Communication Server man-in-the-middle (CVE-2022-20814)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 5, 2022|
- |[Cisco Expressway Series and Cisco TelePresence Video Communication Server cross-site request forgery (CVE-2022-20853)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 5, 2022|
- |[Cisco BroadWorks Hosted Thin Receptionist cross-site scripting (CVE-2022-20948)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 5, 2022|
- |[Cisco ATA 190 Series Analog Telephone Adapter Software denial of service (CVE-2022-20766)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 5, 2022|
  
  ---
 
