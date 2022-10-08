@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 08/10/2022 09:16:18 UTC
+ > Last Updated 08/10/2022 21:12:12 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -36,37 +36,6 @@
  
  ---
 
-## IBMCLOUD [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Vik Booking extension for Joomla index.php cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 7, 2022|
- |[GROWI information disclosure (CVE-2022-41799)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 7, 2022|
- |[Fortinet FortiOS and Fortinet FortiProxy security bypass (CVE-2022-40684)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 7, 2022|
- |[JoomBri Freelance extension for Joomla /index.php cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 6, 2022|
- |[CodeIgniter information disclosure (CVE-2022-39284)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 6, 2022|
- |[HIWIN Robot System Software (HRSS) denial of service (CVE-2022-3382)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 6, 2022|
- |[JoomBri Careers extension for Joomla! cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 6, 2022|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Trend Micro Apex One origin validation](https://vuldb.com/?id.210364)|Visit link for details|2022-10-08 at 09:54|
- |[Trend Micro Apex One Security Agent out-of-bounds](https://vuldb.com/?id.210363)|Visit link for details|2022-10-08 at 09:53|
- |[Trend Micro Apex One Security Agent certificate validation](https://vuldb.com/?id.210362)|Visit link for details|2022-10-08 at 09:52|
- |[Trend Micro Apex One Vulnerability Protection Service toctou](https://vuldb.com/?id.210361)|Visit link for details|2022-10-08 at 09:50|
- |[Tesla Model 3 input validation](https://vuldb.com/?id.210360)|Visit link for details|2022-10-08 at 09:43|
- |[Tesla Model 3 bcmdhd Driver access control](https://vuldb.com/?id.210359)|Visit link for details|2022-10-08 at 09:42|
- |[Trend Micro Apex One Web Console access control](https://vuldb.com/?id.210358)|Visit link for details|2022-10-08 at 09:40|
- |[Linux Kernel IPv4 fib_semantics.c fib_nh_match out-of-bounds](https://vuldb.com/?id.210357)|Visit link for details|2022-10-08 at 09:38|
- |[SourceCodester Web-Based Student Clearance System add-student.php prepare cross site scripting](https://vuldb.com/?id.210356)|Visit link for details|2022-10-08 at 09:24|
- |[MediaTek MT6983 vowe out-of-bounds write](https://vuldb.com/?id.210355)|Visit link for details|2022-10-08 at 09:22|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -85,6 +54,23 @@
  
  ---
 
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Centreon Contact Group sql injection](https://vuldb.com/?id.210366)|Visit link for details|2022-10-08 at 11:58|
+ |[Centreon Poller Broker sql injection](https://vuldb.com/?id.210365)|Visit link for details|2022-10-08 at 11:56|
+ |[Trend Micro Apex One origin validation](https://vuldb.com/?id.210364)|Visit link for details|2022-10-08 at 09:54|
+ |[Trend Micro Apex One Security Agent out-of-bounds](https://vuldb.com/?id.210363)|Visit link for details|2022-10-08 at 09:53|
+ |[Trend Micro Apex One Security Agent certificate validation](https://vuldb.com/?id.210362)|Visit link for details|2022-10-08 at 09:52|
+ |[Trend Micro Apex One Vulnerability Protection Service toctou](https://vuldb.com/?id.210361)|Visit link for details|2022-10-08 at 09:50|
+ |[Tesla Model 3 input validation](https://vuldb.com/?id.210360)|Visit link for details|2022-10-08 at 09:43|
+ |[Tesla Model 3 bcmdhd Driver access control](https://vuldb.com/?id.210359)|Visit link for details|2022-10-08 at 09:42|
+ |[Trend Micro Apex One Web Console access control](https://vuldb.com/?id.210358)|Visit link for details|2022-10-08 at 09:40|
+ |[Linux Kernel IPv4 fib_semantics.c fib_nh_match out-of-bounds](https://vuldb.com/?id.210357)|Visit link for details|2022-10-08 at 09:38|
+ 
+ ---
+
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -99,6 +85,20 @@
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-883/)|De multiples vulnérabilités ont été corrigées dans |Publié le 5 octobre 2022|
  |[Multiples vulnérabilités dans OpenSSH](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-882/)|De multiples vulnérabilités ont été découvertes dans OpenSSH. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et un contournement de la politique de sécurité.|Publié le 5 octobre 2022|
  |[Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-881/)|De multiples vulnérabilités ont été découvertes dans Google Android. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 4 octobre 2022|
+ 
+ ---
+
+## IBMCLOUD [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Vik Booking extension for Joomla index.php cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 7, 2022|
+ |[GROWI information disclosure (CVE-2022-41799)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 7, 2022|
+ |[Fortinet FortiOS and Fortinet FortiProxy security bypass (CVE-2022-40684)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 7, 2022|
+ |[JoomBri Freelance extension for Joomla /index.php cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 6, 2022|
+ |[CodeIgniter information disclosure (CVE-2022-39284)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 6, 2022|
+ |[HIWIN Robot System Software (HRSS) denial of service (CVE-2022-3382)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 6, 2022|
+ |[JoomBri Careers extension for Joomla! cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 6, 2022|
  
  ---
 
