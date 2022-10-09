@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 08/10/2022 21:12:12 UTC
+ > Last Updated 09/10/2022 09:14:50 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -36,6 +36,40 @@
  
  ---
 
+## CERT-FR [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-890/)|De multiples vulnérabilités ont été corrigées dans |Publié le 7 octobre 2022|
+ |[Multiples vulnérabilités dans IBM Security QRadar Analyst Workflow](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-889/)|De multiples vulnérabilités ont été découvertes dans IBM Security QRadar Analyst Workflow. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 7 octobre 2022|
+ |[Vulnérabilité dans les produits F5](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-888/)|Une vulnérabilité a été découverte dans les produits F5. Elle permet à un attaquant de provoquer une exécution de code arbitraire, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 7 octobre 2022|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-887/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 7 octobre 2022|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-886/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 6 octobre 2022|
+ |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-885/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une élévation de privilèges, un déni de service à distance et une injection de requêtes illégitimes par rebond (CSRF).|Publié le 6 octobre 2022|
+ |[Multiples vulnérabilités dans Trend Micro Apex One](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-884/)|De multiples vulnérabilités ont été découvertes dans Trend Micro Apex One. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à l'intégrité des données et une élévation de privilèges.|Publié le 6 octobre 2022|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-883/)|De multiples vulnérabilités ont été corrigées dans |Publié le 5 octobre 2022|
+ |[Multiples vulnérabilités dans OpenSSH](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-882/)|De multiples vulnérabilités ont été découvertes dans OpenSSH. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et un contournement de la politique de sécurité.|Publié le 5 octobre 2022|
+ |[Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-881/)|De multiples vulnérabilités ont été découvertes dans Google Android. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 4 octobre 2022|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SourceCodester Web-Based Student Clearance System Photo edit-photo.php unrestricted upload](https://vuldb.com/?id.210367)|Visit link for details|2022-10-09 at 08:36|
+ |[Centreon Contact Group sql injection](https://vuldb.com/?id.210366)|Visit link for details|2022-10-09 at 11:58|
+ |[Centreon Poller Broker sql injection](https://vuldb.com/?id.210365)|Visit link for details|2022-10-09 at 11:56|
+ |[Trend Micro Apex One origin validation](https://vuldb.com/?id.210364)|Visit link for details|2022-10-09 at 09:54|
+ |[Trend Micro Apex One Security Agent out-of-bounds](https://vuldb.com/?id.210363)|Visit link for details|2022-10-09 at 09:53|
+ |[Trend Micro Apex One Security Agent certificate validation](https://vuldb.com/?id.210362)|Visit link for details|2022-10-09 at 09:52|
+ |[Trend Micro Apex One Vulnerability Protection Service toctou](https://vuldb.com/?id.210361)|Visit link for details|2022-10-09 at 09:50|
+ |[Tesla Model 3 input validation](https://vuldb.com/?id.210360)|Visit link for details|2022-10-09 at 09:43|
+ |[Tesla Model 3 bcmdhd Driver access control](https://vuldb.com/?id.210359)|Visit link for details|2022-10-09 at 09:42|
+ |[Trend Micro Apex One Web Console access control](https://vuldb.com/?id.210358)|Visit link for details|2022-10-09 at 09:40|
+ 
+ ---
+
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -51,40 +85,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Undertow-denial-of-service-via-AjpServerRequestConduit-39482" class="noirorange"><b>Undertow</b>: denial of service via <wbr>AjpServerRequestCond<wbr>uit</wbr></wbr></a>](https://vigilance.fr/vulnerability/Undertow-denial-of-service-via-AjpServerRequestConduit-39482)|An attacker can cause a fatal error of Undertow, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Undertow-overload-via-HTTP-2-Flow-Control-Handling-39481" class="noirorange"><b>Undertow</b>: overload via HTTP/2 Flow Control Handling</a>](https://vigilance.fr/vulnerability/Undertow-overload-via-HTTP-2-Flow-Control-Handling-39481)|An attacker can trigger an overload of Undertow, via HTTP/2 Flow Control Handling, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-anon-vma-39480" class="noirorange"><b>Linux kernel</b>: reuse after free via anon_vma</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-anon-vma-39480)|An attacker can force the reuse of a freed memory area of the Linux kernel, via anon_vma, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Centreon Contact Group sql injection](https://vuldb.com/?id.210366)|Visit link for details|2022-10-08 at 11:58|
- |[Centreon Poller Broker sql injection](https://vuldb.com/?id.210365)|Visit link for details|2022-10-08 at 11:56|
- |[Trend Micro Apex One origin validation](https://vuldb.com/?id.210364)|Visit link for details|2022-10-08 at 09:54|
- |[Trend Micro Apex One Security Agent out-of-bounds](https://vuldb.com/?id.210363)|Visit link for details|2022-10-08 at 09:53|
- |[Trend Micro Apex One Security Agent certificate validation](https://vuldb.com/?id.210362)|Visit link for details|2022-10-08 at 09:52|
- |[Trend Micro Apex One Vulnerability Protection Service toctou](https://vuldb.com/?id.210361)|Visit link for details|2022-10-08 at 09:50|
- |[Tesla Model 3 input validation](https://vuldb.com/?id.210360)|Visit link for details|2022-10-08 at 09:43|
- |[Tesla Model 3 bcmdhd Driver access control](https://vuldb.com/?id.210359)|Visit link for details|2022-10-08 at 09:42|
- |[Trend Micro Apex One Web Console access control](https://vuldb.com/?id.210358)|Visit link for details|2022-10-08 at 09:40|
- |[Linux Kernel IPv4 fib_semantics.c fib_nh_match out-of-bounds](https://vuldb.com/?id.210357)|Visit link for details|2022-10-08 at 09:38|
- 
- ---
-
-## CERT-FR [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-890/)|De multiples vulnérabilités ont été corrigées dans |Publié le 7 octobre 2022|
- |[Multiples vulnérabilités dans IBM Security QRadar Analyst Workflow](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-889/)|De multiples vulnérabilités ont été découvertes dans IBM Security QRadar Analyst Workflow. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 7 octobre 2022|
- |[Vulnérabilité dans les produits F5](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-888/)|Une vulnérabilité a été découverte dans les produits F5. Elle permet à un attaquant de provoquer une exécution de code arbitraire, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 7 octobre 2022|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-887/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 7 octobre 2022|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-886/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 6 octobre 2022|
- |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-885/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une élévation de privilèges, un déni de service à distance et une injection de requêtes illégitimes par rebond (CSRF).|Publié le 6 octobre 2022|
- |[Multiples vulnérabilités dans Trend Micro Apex One](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-884/)|De multiples vulnérabilités ont été découvertes dans Trend Micro Apex One. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à l'intégrité des données et une élévation de privilèges.|Publié le 6 octobre 2022|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-883/)|De multiples vulnérabilités ont été corrigées dans |Publié le 5 octobre 2022|
- |[Multiples vulnérabilités dans OpenSSH](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-882/)|De multiples vulnérabilités ont été découvertes dans OpenSSH. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et un contournement de la politique de sécurité.|Publié le 5 octobre 2022|
- |[Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-881/)|De multiples vulnérabilités ont été découvertes dans Google Android. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 4 octobre 2022|
  
  ---
 
