@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 09/10/2022 21:11:47 UTC
+ > Last Updated 10/10/2022 09:19:27 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -36,20 +36,21 @@
  
  ---
 
-## CERT-FR [:arrow_heading_up:](#cyberowl)
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-890/)|De multiples vulnérabilités ont été corrigées dans |Publié le 7 octobre 2022|
- |[Multiples vulnérabilités dans IBM Security QRadar Analyst Workflow](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-889/)|De multiples vulnérabilités ont été découvertes dans IBM Security QRadar Analyst Workflow. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 7 octobre 2022|
- |[Vulnérabilité dans les produits F5](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-888/)|Une vulnérabilité a été découverte dans les produits F5. Elle permet à un attaquant de provoquer une exécution de code arbitraire, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 7 octobre 2022|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-887/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 7 octobre 2022|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-886/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 6 octobre 2022|
- |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-885/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une élévation de privilèges, un déni de service à distance et une injection de requêtes illégitimes par rebond (CSRF).|Publié le 6 octobre 2022|
- |[Multiples vulnérabilités dans Trend Micro Apex One](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-884/)|De multiples vulnérabilités ont été découvertes dans Trend Micro Apex One. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à l'intégrité des données et une élévation de privilèges.|Publié le 6 octobre 2022|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-883/)|De multiples vulnérabilités ont été corrigées dans |Publié le 5 octobre 2022|
- |[Multiples vulnérabilités dans OpenSSH](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-882/)|De multiples vulnérabilités ont été découvertes dans OpenSSH. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et un contournement de la politique de sécurité.|Publié le 5 octobre 2022|
- |[Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-881/)|De multiples vulnérabilités ont été découvertes dans Google Android. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 4 octobre 2022|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-fib-nh-match-39495" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via fib_nh_match()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-fib-nh-match-39495)|An attacker can force a read at an invalid memory address of the Linux kernel, via fib_nh_match(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libksba-integer-overflow-via-TLV-Parser-39494" class="noirorange"><b>libksba</b>: integer overflow via TLV Parser</a>](https://vigilance.fr/vulnerability/libksba-integer-overflow-via-TLV-Parser-39494)|An attacker can trigger an integer overflow of libksba, via TLV Parser, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Knot-Resolver-overload-via-Large-NS-Sets-39493" class="noirorange"><b>Knot Resolver</b>: overload via Large NS Sets</a>](https://vigilance.fr/vulnerability/Knot-Resolver-overload-via-Large-NS-Sets-39493)|An attacker can trigger an overload of Knot Resolver, via Large NS Sets, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/joblib-code-execution-via-pre-dispatch-Parallel-39492" class="noirorange"><b>joblib</b>: code execution via pre_dispatch Parallel()</a>](https://vigilance.fr/vulnerability/joblib-code-execution-via-pre-dispatch-Parallel-39492)|An attacker can use a vulnerability of joblib, via pre_dispatch Parallel(), in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/nheko-Man-in-the-Middle-via-Secret-Requests-39491" class="noirorange"><b>nheko</b>: Man-in-the-Middle via Secret Requests</a>](https://vigilance.fr/vulnerability/nheko-Man-in-the-Middle-via-Secret-Requests-39491)|An attacker can act as a Man-in-the-Middle on nheko, via Secret Requests, in order to read or write data in the session...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-privilege-escalation-39490" class="noirorange"><b>FortiOS</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/FortiOS-privilege-escalation-39490)|An attacker can bypass restrictions of FortiOS, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-HttpComponents-HttpClient-information-disclosure-via-Temporary-Directory-Hijacking-39489" class="noirorange"><b>Apache HttpComponents HttpClient</b>: information disclosure via Temporary Directory Hijacking</a>](https://vigilance.fr/vulnerability/Apache-HttpComponents-HttpClient-information-disclosure-via-Temporary-Directory-Hijacking-39489)|An attacker can bypass access restrictions to data of Apache HttpComponents HttpClient, via Temporary Directory Hijacking, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/VMware-ESXi-NULL-pointer-dereference-39488" class="noirorange"><b>VMware ESXi</b>: NULL pointer dereference</a>](https://vigilance.fr/vulnerability/VMware-ESXi-NULL-pointer-dereference-39488)|An attacker, in a guest system, can force a NULL pointer to be dereferenced on VMware ESXi, in order to trigger a denial of service on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/VMware-vCenter-Server-privilege-escalation-via-PSC-Deserialization-39487" class="noirorange"><b>VMware vCenter Server</b>: privilege escalation via PSC Deserialization</a>](https://vigilance.fr/vulnerability/VMware-vCenter-Server-privilege-escalation-via-PSC-Deserialization-39487)|An attacker can bypass restrictions of VMware vCenter Server, via PSC Deserialization, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/D-Bus-three-vulnerabilities-39486" class="noirorange"><b>D-Bus</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/D-Bus-three-vulnerabilities-39486)|An attacker can use several vulnerabilities of D-Bus...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/pngcheck-buffer-overflow-39485" class="noirorange"><b>pngcheck</b>: buffer overflow</a>](https://vigilance.fr/vulnerability/pngcheck-buffer-overflow-39485)|An attacker can trigger a buffer overflow of pngcheck, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
  ---
 
@@ -57,48 +58,16 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[SourceCodester Web-Based Student Clearance System Photo edit-photo.php unrestricted upload](https://vuldb.com/?id.210367)|Visit link for details|2022-10-09 at 08:36|
- |[Centreon Contact Group sql injection](https://vuldb.com/?id.210366)|Visit link for details|2022-10-09 at 11:58|
- |[Centreon Poller Broker sql injection](https://vuldb.com/?id.210365)|Visit link for details|2022-10-09 at 11:56|
- |[Trend Micro Apex One origin validation](https://vuldb.com/?id.210364)|Visit link for details|2022-10-09 at 09:54|
- |[Trend Micro Apex One Security Agent out-of-bounds](https://vuldb.com/?id.210363)|Visit link for details|2022-10-09 at 09:53|
- |[Trend Micro Apex One Security Agent certificate validation](https://vuldb.com/?id.210362)|Visit link for details|2022-10-09 at 09:52|
- |[Trend Micro Apex One Vulnerability Protection Service toctou](https://vuldb.com/?id.210361)|Visit link for details|2022-10-09 at 09:50|
- |[Tesla Model 3 input validation](https://vuldb.com/?id.210360)|Visit link for details|2022-10-09 at 09:43|
- |[Tesla Model 3 bcmdhd Driver access control](https://vuldb.com/?id.210359)|Visit link for details|2022-10-09 at 09:42|
- |[Trend Micro Apex One Web Console access control](https://vuldb.com/?id.210358)|Visit link for details|2022-10-09 at 09:40|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-privilege-escalation-39490" class="noirorange"><b>FortiOS</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/FortiOS-privilege-escalation-39490)|An attacker can bypass restrictions of FortiOS, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-HttpComponents-HttpClient-information-disclosure-via-Temporary-Directory-Hijacking-39489" class="noirorange"><b>Apache HttpComponents HttpClient</b>: information disclosure via Temporary Directory Hijacking</a>](https://vigilance.fr/vulnerability/Apache-HttpComponents-HttpClient-information-disclosure-via-Temporary-Directory-Hijacking-39489)|An attacker can bypass access restrictions to data of Apache HttpComponents HttpClient, via Temporary Directory Hijacking, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/VMware-ESXi-NULL-pointer-dereference-39488" class="noirorange"><b>VMware ESXi</b>: NULL pointer dereference</a>](https://vigilance.fr/vulnerability/VMware-ESXi-NULL-pointer-dereference-39488)|An attacker, in a guest system, can force a NULL pointer to be dereferenced on VMware ESXi, in order to trigger a denial of service on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/VMware-vCenter-Server-privilege-escalation-via-PSC-Deserialization-39487" class="noirorange"><b>VMware vCenter Server</b>: privilege escalation via PSC Deserialization</a>](https://vigilance.fr/vulnerability/VMware-vCenter-Server-privilege-escalation-via-PSC-Deserialization-39487)|An attacker can bypass restrictions of VMware vCenter Server, via PSC Deserialization, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/D-Bus-three-vulnerabilities-39486" class="noirorange"><b>D-Bus</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/D-Bus-three-vulnerabilities-39486)|An attacker can use several vulnerabilities of D-Bus...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/pngcheck-buffer-overflow-39485" class="noirorange"><b>pngcheck</b>: buffer overflow</a>](https://vigilance.fr/vulnerability/pngcheck-buffer-overflow-39485)|An attacker can trigger a buffer overflow of pngcheck, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Data-Node-Rebalancing-39484" class="noirorange"><b>IBM QRadar SIEM</b>: information disclosure via Data Node Rebalancing</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Data-Node-Rebalancing-39484)|An attacker can bypass access restrictions to data of IBM QRadar SIEM, via Data Node Rebalancing, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Local-Service-39483" class="noirorange"><b>IBM QRadar SIEM</b>: information disclosure via Local Service</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Local-Service-39483)|An attacker can bypass access restrictions to data of IBM QRadar SIEM, via Local Service, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Undertow-denial-of-service-via-AjpServerRequestConduit-39482" class="noirorange"><b>Undertow</b>: denial of service via <wbr>AjpServerRequestCond<wbr>uit</wbr></wbr></a>](https://vigilance.fr/vulnerability/Undertow-denial-of-service-via-AjpServerRequestConduit-39482)|An attacker can cause a fatal error of Undertow, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Undertow-overload-via-HTTP-2-Flow-Control-Handling-39481" class="noirorange"><b>Undertow</b>: overload via HTTP/2 Flow Control Handling</a>](https://vigilance.fr/vulnerability/Undertow-overload-via-HTTP-2-Flow-Control-Handling-39481)|An attacker can trigger an overload of Undertow, via HTTP/2 Flow Control Handling, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-anon-vma-39480" class="noirorange"><b>Linux kernel</b>: reuse after free via anon_vma</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-anon-vma-39480)|An attacker can force the reuse of a freed memory area of the Linux kernel, via anon_vma, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- 
- ---
-
-## IBMCLOUD [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Vik Booking extension for Joomla index.php cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 7, 2022|
- |[GROWI information disclosure (CVE-2022-41799)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 7, 2022|
- |[Fortinet FortiOS and Fortinet FortiProxy security bypass (CVE-2022-40684)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 7, 2022|
- |[JoomBri Freelance extension for Joomla /index.php cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 6, 2022|
- |[CodeIgniter information disclosure (CVE-2022-39284)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 6, 2022|
- |[HIWIN Robot System Software (HRSS) denial of service (CVE-2022-3382)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 6, 2022|
- |[JoomBri Careers extension for Joomla! cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 6, 2022|
+ |[D-Bus libdbus denial of service](https://vuldb.com/?id.210371)|Visit link for details|2022-10-10 at 07:56|
+ |[D-Bus Array Length denial of service](https://vuldb.com/?id.210370)|Visit link for details|2022-10-10 at 07:55|
+ |[D-Bus libdbus denial of service](https://vuldb.com/?id.210369)|Visit link for details|2022-10-10 at 07:54|
+ |[Linux Kernel rmap.c anon_vma use after free](https://vuldb.com/?id.210368)|Visit link for details|2022-10-10 at 07:54|
+ |[SourceCodester Web-Based Student Clearance System Photo edit-photo.php unrestricted upload](https://vuldb.com/?id.210367)|Visit link for details|2022-10-10 at 08:36|
+ |[Centreon Contact Group sql injection](https://vuldb.com/?id.210366)|Visit link for details|2022-10-10 at 11:58|
+ |[Centreon Poller Broker sql injection](https://vuldb.com/?id.210365)|Visit link for details|2022-10-10 at 11:56|
+ |[Trend Micro Apex One origin validation](https://vuldb.com/?id.210364)|Visit link for details|2022-10-10 at 09:54|
+ |[Trend Micro Apex One Security Agent out-of-bounds](https://vuldb.com/?id.210363)|Visit link for details|2022-10-10 at 09:53|
+ |[Trend Micro Apex One Security Agent certificate validation](https://vuldb.com/?id.210362)|Visit link for details|2022-10-10 at 09:52|
  
  ---
 
@@ -132,4 +101,35 @@
  |[Trend Micro Apex One Security Agent Improper Certificate Validation Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1402/)|Visit link for details|Oct. 7, 2022|
  |[Trend Micro Apex One Security Agent Out-Of-Bounds Access Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1401/)|Visit link for details|Oct. 7, 2022|
  |[Trend Micro Apex One Origin Validation Error Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1400/)|Visit link for details|Oct. 7, 2022|
+ 
+ ---
+
+## CERT-FR [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-890/)|De multiples vulnérabilités ont été corrigées dans |Publié le 7 octobre 2022|
+ |[Multiples vulnérabilités dans IBM Security QRadar Analyst Workflow](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-889/)|De multiples vulnérabilités ont été découvertes dans IBM Security QRadar Analyst Workflow. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 7 octobre 2022|
+ |[Vulnérabilité dans les produits F5](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-888/)|Une vulnérabilité a été découverte dans les produits F5. Elle permet à un attaquant de provoquer une exécution de code arbitraire, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 7 octobre 2022|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-887/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 7 octobre 2022|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-886/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 6 octobre 2022|
+ |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-885/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une élévation de privilèges, un déni de service à distance et une injection de requêtes illégitimes par rebond (CSRF).|Publié le 6 octobre 2022|
+ |[Multiples vulnérabilités dans Trend Micro Apex One](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-884/)|De multiples vulnérabilités ont été découvertes dans Trend Micro Apex One. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à l'intégrité des données et une élévation de privilèges.|Publié le 6 octobre 2022|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-883/)|De multiples vulnérabilités ont été corrigées dans |Publié le 5 octobre 2022|
+ |[Multiples vulnérabilités dans OpenSSH](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-882/)|De multiples vulnérabilités ont été découvertes dans OpenSSH. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et un contournement de la politique de sécurité.|Publié le 5 octobre 2022|
+ |[Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-881/)|De multiples vulnérabilités ont été découvertes dans Google Android. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 4 octobre 2022|
+ 
+ ---
+
+## IBMCLOUD [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Vik Booking extension for Joomla index.php cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 7, 2022|
+ |[GROWI information disclosure (CVE-2022-41799)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 7, 2022|
+ |[Fortinet FortiOS and Fortinet FortiProxy security bypass (CVE-2022-40684)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 7, 2022|
+ |[JoomBri Freelance extension for Joomla /index.php cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 6, 2022|
+ |[CodeIgniter information disclosure (CVE-2022-39284)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 6, 2022|
+ |[HIWIN Robot System Software (HRSS) denial of service (CVE-2022-3382)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 6, 2022|
+ |[JoomBri Careers extension for Joomla! cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 6, 2022|
  
