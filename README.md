@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 11/10/2022 09:19:40 UTC
+ > Last Updated 11/10/2022 21:13:37 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -27,12 +27,12 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[FBI and CISA Publish a PSA on Information Manipulation Tactics for 2022 Midterm Elections](https://www.cisa.gov/uscert/ncas/current-activity/2022/10/07/fbi-and-cisa-publish-psa-information-manipulation-tactics-2022)|<p>The Federal Bureau of Investigation (FBI) and CISA have published a <a href="https://www.cisa.gov/sites/default/files/publications/PSA-information-activities_508.pdf">joint public service announcement </a>that:</p>|Friday, October 7, 2022|
+ |[Microsoft Releases October 2022 Security Updates](https://www.cisa.gov/uscert/ncas/current-activity/2022/10/11/microsoft-releases-october-2022-security-updates)|<p>Microsoft has released updates to address multiple vulnerabilities in Microsoft software. An attacker can exploit some of these vulnerabilities to take control of an affected system.</p>|Tuesday, October 11, 2022|
+ |[CISA Has Added One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2022/10/11/cisa-has-added-one-known-exploited-vulnerability-catalog)|<p>CISA has added one new vulnerability to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. This type of vulnerability is a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: To view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.      </p>|Tuesday, October 11, 2022|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/uscert/ncas/current-activity/2022/10/07/cisa-releases-three-industrial-control-systems-advisories)|<p>CISA has released three Industrial Control Systems (ICS) advisories on October 11, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.  </p>|Friday, October 7, 2022|
+ |[FBI and CISA Publish a PSA on Information Manipulation Tactics for 2022 Midterm Elections](https://www.cisa.gov/uscert/ncas/current-activity/2022/10/07/fbi-and-cisa-publish-psa-information-manipulation-tactics-2022)|<p>The Federal Bureau of Investigation (FBI) and CISA have published a <a href="https://cisa.gov/sites/default/files/publications/PSA-information-activities_508.pdf">joint public service announcement </a>that:</p>|Friday, October 7, 2022|
  |[Top CVEs Actively Exploited by People’s Republic of China State-Sponsored Cyber Actors   ](https://www.cisa.gov/uscert/ncas/current-activity/2022/10/06/top-cves-actively-exploited-peoples-republic-china-state-sponsored)|<p>CISA, the Federal Bureau of Investigation (FBI), and the National Security Agency (NSA) have released a joint Cybersecurity Advisory (CSA) providing the top Common Vulnerabilities and Exposures (CVEs) used since 2020 by People’s Republic of China (PRC) state-sponsored cyber actors. PRC state-sponsored cyber actors continue to exploit known vulnerabilities to actively target U.S. and allied networks, including software and hardware companies to illegally obtain intellectual property and develop access into sensitive networks.</p>|Thursday, October 6, 2022|
  |[Cisco Releases Security Updates for Multiple Products](https://www.cisa.gov/uscert/ncas/current-activity/2022/10/06/cisco-releases-security-updates-multiple-products)|<p>Cisco has released security updates to address vulnerabilities in multiple Cisco products. A remote attacker could exploit some of these vulnerabilities to take control of an affected system. For updates addressing lower severity vulnerabilities, see the <a href="https://tools.cisco.com/security/center/publicationListing.x">Cisco Security Advisories</a> page. </p>|Thursday, October 6, 2022|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/uscert/ncas/current-activity/2022/10/06/cisa-releases-two-industrial-control-systems-advisories)|<p>CISA released two (2) Industrial Control Systems (ICS) advisories on October 06, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p>|Thursday, October 6, 2022|
- |[FBI and CISA Publish a PSA on Malicious Cyber Activity Against Election Infrastructure](https://www.cisa.gov/uscert/ncas/current-activity/2022/10/05/fbi-and-cisa-publish-psa-malicious-cyber-activity-against-election)|<p>The Federal Bureau of Investigation (FBI) and CISA have published a <a href="https://www.cisa.gov/sites/default/files/publications/PSA_cyber-activity_508.pdf">joint public service announcement</a> that:</p>|Wednesday, October 5, 2022|
- |[Impacket and Exfiltration Tool Used to Steal Sensitive Information from Defense Industrial Base Organization](https://www.cisa.gov/uscert/ncas/current-activity/2022/10/04/impacket-and-exfiltration-tool-used-steal-sensitive-information)|<p>CISA, the Federal Bureau of Investigation (FBI), and the National Security Agency (NSA) have released a joint Cybersecurity Advisory (CSA), <a href="https://www.cisa.gov/uscert/ncas/alerts/aa22-277A">Impacket and Exfiltration Tool Used to Steal Sensitive Information from Defense Industrial Base Organization</a>, highlighting advanced persistent threat (APT) activity observed on a Defense Industrial Base (DIB) sector organization’s enterprise network.</p>|Tuesday, October 4, 2022|
  
  ---
 
@@ -40,17 +40,17 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-signalfd-binder-poll-39503" class="noirorange"><b>Linux kernel</b>: reuse after free via signalfd / binder poll()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-signalfd-binder-poll-39503)|An attacker can force the reuse of a freed memory area of the Linux kernel, via signalfd / binder poll(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-Unmap-Page-Walker-Race-39502" class="noirorange"><b>Linux kernel</b>: reuse after free via Unmap Page Walker Race</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-Unmap-Page-Walker-Race-39502)|An attacker can force the reuse of a freed memory area of the Linux kernel, via Unmap Page Walker Race, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-denial-of-service-via-Email-Message-39501" class="noirorange"><b>Apple iOS</b>: denial of service via Email Message</a>](https://vigilance.fr/vulnerability/Apple-iOS-denial-of-service-via-Email-Message-39501)|An attacker can cause a fatal error of Apple iOS, via Email Message, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiAnalyzer-FortiManager-information-disclosure-via-GUI-Template-Image-39500" class="noirorange"><b>Fortinet FortiAnalyzer  FortiManager</b>: information disclosure via GUI Template Image</a>](https://vigilance.fr/vulnerability/Fortinet-FortiAnalyzer-FortiManager-information-disclosure-via-GUI-Template-Image-39500)|An attacker can bypass access restrictions to data of Fortinet FortiAnalyzer  FortiManager, via GUI Template Image, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiOS-privilege-escalation-via-Switch-control-CLI-Command-39499" class="noirorange"><b>Fortinet FortiOS</b>: privilege escalation via Switch-control CLI Command</a>](https://vigilance.fr/vulnerability/Fortinet-FortiOS-privilege-escalation-via-Switch-control-CLI-Command-39499)|An attacker can bypass restrictions of Fortinet FortiOS, via Switch-control CLI Command, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiOS-NULL-pointer-dereference-via-SSL-VPN-Portal-39498" class="noirorange"><b>Fortinet FortiOS</b>: NULL pointer dereference via SSL VPN Portal</a>](https://vigilance.fr/vulnerability/Fortinet-FortiOS-NULL-pointer-dereference-via-SSL-VPN-Portal-39498)|An attacker can force a NULL pointer to be dereferenced on Fortinet FortiOS, via SSL VPN Portal, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ibexa-DXP-information-disclosure-via-Taxonomy-39497" class="noirorange"><b>Ibexa DXP</b>: information disclosure via Taxonomy</a>](https://vigilance.fr/vulnerability/Ibexa-DXP-information-disclosure-via-Taxonomy-39497)|An attacker can bypass access restrictions to data of Ibexa DXP, via Taxonomy, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-fib-nh-match-39495" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via fib_nh_match()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-fib-nh-match-39495)|An attacker can force a read at an invalid memory address of the Linux kernel, via fib_nh_match(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libksba-integer-overflow-via-TLV-Parser-39494" class="noirorange"><b>libksba</b>: integer overflow via TLV Parser</a>](https://vigilance.fr/vulnerability/libksba-integer-overflow-via-TLV-Parser-39494)|An attacker can trigger an integer overflow of libksba, via TLV Parser, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Knot-Resolver-overload-via-Large-NS-Sets-39493" class="noirorange"><b>Knot Resolver</b>: overload via Large NS Sets</a>](https://vigilance.fr/vulnerability/Knot-Resolver-overload-via-Large-NS-Sets-39493)|An attacker can trigger an overload of Knot Resolver, via Large NS Sets, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/joblib-code-execution-via-pre-dispatch-Parallel-39492" class="noirorange"><b>joblib</b>: code execution via pre_dispatch Parallel()</a>](https://vigilance.fr/vulnerability/joblib-code-execution-via-pre-dispatch-Parallel-39492)|An attacker can use a vulnerability of joblib, via pre_dispatch Parallel(), in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-October-2022-39525" class="noirorange"><b>Windows</b>: vulnerabilities of October 2022</a>](https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-October-2022-39525)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-October-2022-39524" class="noirorange"><b>Microsoft SharePoint</b>: vulnerabilities of October 2022</a>](https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-October-2022-39524)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-October-2022-39523" class="noirorange"><b>Microsoft 365 Apps  Office</b>: vulnerabilities of October 2022</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-October-2022-39523)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-NET-Visual-Studio-privilege-escalation-39522" class="noirorange"><b>Microsoft .NET  Visual Studio</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Microsoft-NET-Visual-Studio-privilege-escalation-39522)|An attacker can bypass restrictions of Microsoft .NET  Visual Studio, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSL-no-encryption-via-Custom-Cipher-NID-undef-39521" class="noirorange"><b>OpenSSL</b>: no encryption via Custom Cipher NID_undef</a>](https://vigilance.fr/vulnerability/OpenSSL-no-encryption-via-Custom-Cipher-NID-undef-39521)|An attacker can access data on OpenSSL, via Custom Cipher NID_undef, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-de-decembre-2021-39520" class="noirorange"><b>SAP</b>: multiple vulnerabilities de décembre 2021</a>](https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-de-decembre-2021-39520)|An attacker can use several vulnerabilities of SAP products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-Macro-URL-39519" class="noirorange"><b>LibreOffice</b>: code execution via Macro URL</a>](https://vigilance.fr/vulnerability/LibreOffice-code-execution-via-Macro-URL-39519)|An attacker can use a vulnerability of LibreOffice, via Macro URL, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Grafana-information-disclosure-via-Forward-Login-Cookie-39516" class="noirorange"><b>Grafana</b>: information disclosure via Forward Login Cookie</a>](https://vigilance.fr/vulnerability/Grafana-information-disclosure-via-Forward-Login-Cookie-39516)|An attacker can bypass access restrictions to data of Grafana, via Forward Login Cookie, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Grafana-information-disclosure-via-Proxy-Endpoints-HTTP-Headers-39515" class="noirorange"><b>Grafana</b>: information disclosure via Proxy Endpoints HTTP Headers</a>](https://vigilance.fr/vulnerability/Grafana-information-disclosure-via-Proxy-Endpoints-HTTP-Headers-39515)|An attacker can bypass access restrictions to data of Grafana, via Proxy Endpoints HTTP Headers, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SIMATIC-HMI-denial-of-service-via-TCP-Packets-39514" class="noirorange"><b>SIMATIC HMI</b>: denial of service via TCP Packets</a>](https://vigilance.fr/vulnerability/SIMATIC-HMI-denial-of-service-via-TCP-Packets-39514)|An attacker can cause a fatal error of SIMATIC HMI, via TCP Packets, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/RUGGEDCOM-RM1224-privilege-escalation-via-Web-Interface-39513" class="noirorange"><b>RUGGEDCOM RM1224</b>: privilege escalation via Web Interface</a>](https://vigilance.fr/vulnerability/RUGGEDCOM-RM1224-privilege-escalation-via-Web-Interface-39513)|An attacker can bypass restrictions of RUGGEDCOM RM1224, via Web Interface, in order to escalate his privileges...|Visit link for details|
  
  ---
 
@@ -58,30 +58,16 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Trend Micro Apex One Data Loss Prevention permission](https://vuldb.com/?id.210412)|Visit link for details|2022-10-11 at 10:32|
- |[CERTCC VINCE Email injection](https://vuldb.com/?id.210411)|Visit link for details|2022-10-11 at 10:31|
- |[CERTCC VINCE injection](https://vuldb.com/?id.210410)|Visit link for details|2022-10-11 at 10:30|
- |[Dell Wyse ThinOS UI redos](https://vuldb.com/?id.210409)|Visit link for details|2022-10-11 at 10:29|
- |[Facebook Hermes JavaScript integer overflow to buffer overflow](https://vuldb.com/?id.210408)|Visit link for details|2022-10-11 at 10:29|
- |[Facebook Hermes Array out-of-bounds write](https://vuldb.com/?id.210407)|Visit link for details|2022-10-11 at 10:28|
- |[aeson JSON resource consumption](https://vuldb.com/?id.210406)|Visit link for details|2022-10-11 at 10:27|
- |[SolarWinds Network Configuration Manager SWIS sql injection](https://vuldb.com/?id.210405)|Visit link for details|2022-10-11 at 10:26|
- |[fastify Header denial of service](https://vuldb.com/?id.210404)|Visit link for details|2022-10-11 at 10:24|
- |[Dell EMC Enterprise SONiC OS SSH hard-coded key](https://vuldb.com/?id.210403)|Visit link for details|2022-10-11 at 10:24|
- 
- ---
-
-## IBMCLOUD [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Linux Kernel code execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2022|
- |[Online Shopping System Advanced cid password SQL injection](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2022|
- |[Vik Rent Car extension for Joomla index.php cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2022|
- |[Apple iOS denial of service (CVE-2022-22658)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2022|
- |[Fortinet FortiTester command execution (CVE-2022-35844)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2022|
- |[Fortinet FortiTester brute force (CVE-2022-35846)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2022|
- |[Fortinet FortiOS command execution (CVE-2021-44171)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 10, 2022|
+ |[SourceCodester Human Resource Management System Image File employeeview.php unrestricted upload](https://vuldb.com/?id.210559)|Visit link for details|2022-10-11 at 21:17|
+ |[Metro UI cross site scripting](https://vuldb.com/?id.210558)|Visit link for details|2022-10-11 at 21:16|
+ |[Dell Hybrid Client System Files command injection](https://vuldb.com/?id.210557)|Visit link for details|2022-10-11 at 21:15|
+ |[Dell Hybrid Client User Profile access control](https://vuldb.com/?id.210556)|Visit link for details|2022-10-11 at 21:14|
+ |[Dell Hybrid Client UI path traversal](https://vuldb.com/?id.210555)|Visit link for details|2022-10-11 at 21:14|
+ |[Dell BIOS SMRAM input validation](https://vuldb.com/?id.210554)|Visit link for details|2022-10-11 at 21:14|
+ |[Dell BIOS SMRAM input validation](https://vuldb.com/?id.210553)|Visit link for details|2022-10-11 at 21:12|
+ |[Dell Cloud Mobility for Dell Storage access control](https://vuldb.com/?id.210552)|Visit link for details|2022-10-11 at 21:11|
+ |[Dell Container Storage Modules goiscsi/gobrick os command injection](https://vuldb.com/?id.210551)|Visit link for details|2022-10-11 at 21:10|
+ |[Dell Container Storage Modules goiscsi/gobrick os command injection](https://vuldb.com/?id.210550)|Visit link for details|2022-10-11 at 21:09|
  
  ---
 
@@ -89,6 +75,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[38591110/22 - Vulnérabilités affectant plusieurs produits VMware ](https://www.dgssi.gov.ma//fr/content/3859111022-vulnerabilites-affectant-plusieurs-produits-vmware.html)|VMware annonce la correction de deux vulnérabilités affectant ses produits susmentionnés.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’exécuter du code arbitraire ou de causer un déni de service.|11 octobre 2022|
  |[38580710/22 - Vulnérabilité critique dans les produits Fortinet](https://www.dgssi.gov.ma//fr/content/3858071022-vulnerabilite-critique-dans-les-produits-fortinet.html)|Fortinet a publié des mises à jour de sécurité pour corriger une vulnérabilité critique (CVE-2022-40684) affectant les versions susmentionnées de FortiOS, FortiProxy et FortiSwitchManager.L'exploitation réussie de cette vulnérabilité...|11 octobre 2022|
  |[38571110/22 - Vulnérabilité Critique affectant la bibliothèque VM2 SandBox ](https://www.dgssi.gov.ma//fr/content/3857111022-vulnerabilite-critique-affectant-la-bibliotheque-vm2-sandbox.html)|Des chercheurs en sécurité informatique annoncent la découverte d’une vulnérabilité très critique affectant le SandBox VM2.L'exploitation de cette vulnérabilité peutpermettreà un attaquant distant de contourner les mesures de...|11 octobre 2022|
  |[38550710/22 - Vulnérabilité dans les produits F5](https://www.dgssi.gov.ma//fr/content/3855071022-vulnerabilite-dans-les-produits-f5.html)|Une vulnérabilité a été corrigée dans les produits F5 susmentionnés. L’exploitation de cette faille permet à un attaquant d’exécuter du code arbitraire à distance.|07 octobre 2022|
@@ -99,24 +86,6 @@
  |[38510410/22 - Vulnérabilités affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/3851041022-vulnerabilites-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger deuxvulnérabilitésaffectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre àun attaquant d’exécuter du code arbitraire ou...|04 octobre 2022|
  |[38500410/22 - Vulnérabilités dans Android](https://www.dgssi.gov.ma//fr/content/3850041022-vulnerabilites-dans-android.html)|Plusieurs vulnérabilités critiques ont été corrigées dans le système d’exploitation Android. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, de causer un déni de service, d’...|04 octobre 2022|
  |[38490310/22 - Vulnérabilités dans PHP](https://www.dgssi.gov.ma//fr/content/3849031022-vulnerabilites-dans-php.html)|Deux vulnérabilités ont été corrigées dans les versions de PHP susmentionnées. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service et de contourner la politique de sécurité.|03 octobre 2022|
- |[38480310/22 - Nouveau Malware cible les vSphere Installation Bundles (VIB) non signés dans VMWare ES](https://www.dgssi.gov.ma//fr/content/3848031022-nouveau-malware-cible-les-vsphere-installation-bundles-vib-non-signes-dans-vmware-esxi.html)|Des chercheurs en sécurité ont publié un avis concernant un logiciel malveillant qui cible les serveurs vSphere. Une exploitation réussie pourrait permettre à un attaquant de tirer parti des vSphere Installation Bundles (VIB) non signés...|03 octobre 2022|
- 
- ---
-
-## CERT-FR [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans les produits VMWare](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-892/)|De multiples vulnérabilités ont été découvertes dans les produits VMWare. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et un déni de service à distance.|Publié le 10 octobre 2022|
- |[Multiples vulnérabilités dans IBM QRadar](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-891/)|De multiples vulnérabilités ont été découvertes dans IBM QRadar. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 10 octobre 2022|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-890/)|De multiples vulnérabilités ont été corrigées dans |Publié le 7 octobre 2022|
- |[Multiples vulnérabilités dans IBM Security QRadar Analyst Workflow](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-889/)|De multiples vulnérabilités ont été découvertes dans IBM Security QRadar Analyst Workflow. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 7 octobre 2022|
- |[Vulnérabilité dans les produits F5](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-888/)|Une vulnérabilité a été découverte dans les produits F5. Elle permet à un attaquant de provoquer une exécution de code arbitraire, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 7 octobre 2022|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-887/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 7 octobre 2022|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-886/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 6 octobre 2022|
- |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-885/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une élévation de privilèges, un déni de service à distance et une injection de requêtes illégitimes par rebond (CSRF).|Publié le 6 octobre 2022|
- |[Multiples vulnérabilités dans Trend Micro Apex One](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-884/)|De multiples vulnérabilités ont été découvertes dans Trend Micro Apex One. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à l'intégrité des données et une élévation de privilèges.|Publié le 6 octobre 2022|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-883/)|De multiples vulnérabilités ont été corrigées dans |Publié le 5 octobre 2022|
  
  ---
 
@@ -132,4 +101,35 @@
  |[Trend Micro Apex One Security Agent Improper Certificate Validation Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1402/)|Visit link for details|Oct. 7, 2022|
  |[Trend Micro Apex One Security Agent Out-Of-Bounds Access Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1401/)|Visit link for details|Oct. 7, 2022|
  |[Trend Micro Apex One Origin Validation Error Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1400/)|Visit link for details|Oct. 7, 2022|
+ 
+ ---
+
+## IBMCLOUD [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Adobe Dimension code execution (CVE-2022-38442)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2022|
+ |[Adobe Dimension code execution (CVE-2022-38441)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2022|
+ |[Adobe Dimension code execution (CVE-2022-38440)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2022|
+ |[Adobe Dimension code execution (CVE-2022-38444)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2022|
+ |[Adobe Commerce and Magento Open Source cross-site scripting (CVE-2022-35698)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2022|
+ |[VMware Aria Operations information disclosure (CVE-2022-31682)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2022|
+ |[Xen denial of service (CVE-2022-33749)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2022|
+ 
+ ---
+
+## CERT-FR [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[[SCADA] Multiples vulnérabilités dans les produits Siemens](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-897/)|De multiples vulnérabilités ont été découvertes dans les produits Siemens. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 11 octobre 2022|
+ |[[SCADA] Multiples vulnérabilités dans les produits Schneider Electric](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-896/)|De multiples vulnérabilités ont été découvertes dans les produits Schneider Electric. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 11 octobre 2022|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-895/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 11 octobre 2022|
+ |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-894/)|De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 11 octobre 2022|
+ |[Vulnérabilité dans Apple iOS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-893/)|Une vulnérabilité a été découverte dans Apple iOS. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 11 octobre 2022|
+ |[Multiples vulnérabilités dans les produits VMWare](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-892/)|De multiples vulnérabilités ont été découvertes dans les produits VMWare. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et un déni de service à distance.|Publié le 10 octobre 2022|
+ |[Multiples vulnérabilités dans IBM QRadar](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-891/)|De multiples vulnérabilités ont été découvertes dans IBM QRadar. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 10 octobre 2022|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-890/)|De multiples vulnérabilités ont été corrigées dans |Publié le 7 octobre 2022|
+ |[Multiples vulnérabilités dans IBM Security QRadar Analyst Workflow](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-889/)|De multiples vulnérabilités ont été découvertes dans IBM Security QRadar Analyst Workflow. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 7 octobre 2022|
+ |[Vulnérabilité dans les produits F5](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-888/)|Une vulnérabilité a été découverte dans les produits F5. Elle permet à un attaquant de provoquer une exécution de code arbitraire, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 7 octobre 2022|
  
