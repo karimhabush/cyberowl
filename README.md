@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 13/10/2022 09:19:47 UTC
+ > Last Updated 13/10/2022 21:14:39 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -27,12 +27,30 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA Releases Twenty-Five Industrial Control Systems Advisories](https://www.cisa.gov/uscert/ncas/current-activity/2022/10/13/cisa-releases-twenty-five-industrial-control-systems-advisories)|<p>CISA has released twenty-five (25) Industrial Control Systems (ICS) advisories on October 13, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p>|Thursday, October 13, 2022|
  |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/uscert/ncas/current-activity/2022/10/11/adobe-releases-security-updates-multiple-products)|<p>Adobe has released security updates to address multiple vulnerabilities in Adobe software. An attacker can exploit some of these vulnerabilities to take control of an affected system.</p>|Tuesday, October 11, 2022|
  |[Microsoft Releases October 2022 Security Updates](https://www.cisa.gov/uscert/ncas/current-activity/2022/10/11/microsoft-releases-october-2022-security-updates)|<p>Microsoft has released updates to address multiple vulnerabilities in Microsoft software. An attacker can exploit some of these vulnerabilities to take control of an affected system.</p>|Tuesday, October 11, 2022|
  |[CISA Has Added One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2022/10/11/cisa-has-added-one-known-exploited-vulnerability-catalog)|<p>CISA has added one new vulnerability to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. This type of vulnerability is a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: To view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.      </p>|Tuesday, October 11, 2022|
  |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/uscert/ncas/current-activity/2022/10/07/cisa-releases-three-industrial-control-systems-advisories)|<p>CISA has released three Industrial Control Systems (ICS) advisories on October 11, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.  </p>|Friday, October 7, 2022|
  |[FBI and CISA Publish a PSA on Information Manipulation Tactics for 2022 Midterm Elections](https://www.cisa.gov/uscert/ncas/current-activity/2022/10/07/fbi-and-cisa-publish-psa-information-manipulation-tactics-2022)|<p>The Federal Bureau of Investigation (FBI) and CISA have published a <a href="https://cisa.gov/sites/default/files/publications/PSA-information-activities_508.pdf">joint public service announcement </a>that:</p>|Friday, October 7, 2022|
- |[Top CVEs Actively Exploited by People’s Republic of China State-Sponsored Cyber Actors   ](https://www.cisa.gov/uscert/ncas/current-activity/2022/10/06/top-cves-actively-exploited-peoples-republic-china-state-sponsored)|<p>CISA, the Federal Bureau of Investigation (FBI), and the National Security Agency (NSA) have released a joint Cybersecurity Advisory (CSA) providing the top Common Vulnerabilities and Exposures (CVEs) used since 2020 by People’s Republic of China (PRC) state-sponsored cyber actors. PRC state-sponsored cyber actors continue to exploit known vulnerabilities to actively target U.S. and allied networks, including software and hardware companies to illegally obtain intellectual property and develop access into sensitive networks.</p>|Thursday, October 6, 2022|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Heimdal-denial-of-service-via-Memory-Management-Operations-39543" class="noirorange"><b>Heimdal</b>: denial of service via Memory Management Operations</a>](https://vigilance.fr/vulnerability/Heimdal-denial-of-service-via-Memory-Management-Operations-39543)|An attacker can cause a fatal error of Heimdal, via Memory Management Operations, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GNU-oSIP-integer-overflow-via-osip-body-parse-header-39542" class="noirorange"><b>GNU oSIP</b>: integer overflow via <wbr>osip_body_parse_head<wbr>er()</wbr></wbr></a>](https://vigilance.fr/vulnerability/GNU-oSIP-integer-overflow-via-osip-body-parse-header-39542)|An attacker can trigger an integer overflow of GNU oSIP, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-two-vulnerabilities-39541" class="noirorange"><b>Ivanti Connect Secure</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-two-vulnerabilities-39541)|An attacker can use several vulnerabilities of Ivanti Connect Secure...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-five-vulnerabilities-via-WLAN-39540" class="noirorange"><b>Linux kernel</b>: five vulnerabilities via WLAN</a>](https://vigilance.fr/vulnerability/Linux-kernel-five-vulnerabilities-via-WLAN-39540)|An attacker can use several vulnerabilities of the Linux kernel, via WLAN...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/unzip-NULL-pointer-dereference-via-Unicode-Strings-39539" class="noirorange"><b>unzip</b>: NULL pointer dereference via Unicode Strings</a>](https://vigilance.fr/vulnerability/unzip-NULL-pointer-dereference-via-Unicode-Strings-39539)|An attacker can force a NULL pointer to be dereferenced on unzip, via Unicode Strings, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Twig-Field-Value-egress-filtrering-bypass-39538" class="noirorange"><b>Drupal Twig Field Value</b>: egress filtrering bypass</a>](https://vigilance.fr/vulnerability/Drupal-Twig-Field-Value-egress-filtrering-bypass-39538)|An attacker can bypass filtering rules of Drupal Twig Field Value, in order to exfilter sensitive data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OFFIS-DCMTK-directory-traversal-via-Service-Class-User-DICOM-39537" class="noirorange"><b>OFFIS DCMTK</b>: directory traversal via Service Class User DICOM</a>](https://vigilance.fr/vulnerability/OFFIS-DCMTK-directory-traversal-via-Service-Class-User-DICOM-39537)|An attacker can traverse directories of OFFIS DCMTK, via Service Class User DICOM, in order to write a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OFFIS-DCMTK-directory-traversal-via-Service-Class-Provider-DICOM-39536" class="noirorange"><b>OFFIS DCMTK</b>: directory traversal via Service Class Provider DICOM</a>](https://vigilance.fr/vulnerability/OFFIS-DCMTK-directory-traversal-via-Service-Class-Provider-DICOM-39536)|An attacker can traverse directories of OFFIS DCMTK, via Service Class Provider DICOM, in order to write a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PAN-OS-privilege-escalation-via-Web-Interface-39535" class="noirorange"><b>PAN-OS</b>: privilege escalation via Web Interface</a>](https://vigilance.fr/vulnerability/PAN-OS-privilege-escalation-via-Web-Interface-39535)|An attacker can bypass restrictions of PAN-OS, via Web Interface, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Grafana-no-signature-via-Plugin-Signature-Versioning-39534" class="noirorange"><b>Grafana</b>: no signature via Plugin Signature Versioning</a>](https://vigilance.fr/vulnerability/Grafana-no-signature-via-Plugin-Signature-Versioning-39534)|An attacker can use malicious data on Grafana, via Plugin Signature Versioning, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Grafana-denial-of-service-via-Basic-Authentication-Email-Username-39533" class="noirorange"><b>Grafana</b>: denial of service via Basic Authentication Email Username</a>](https://vigilance.fr/vulnerability/Grafana-denial-of-service-via-Basic-Authentication-Email-Username-39533)|An attacker can cause a fatal error of Grafana, via Basic Authentication Email Username, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
@@ -43,38 +61,20 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Twig-Field-Value-egress-filtrering-bypass-39538" class="noirorange"><b>Drupal Twig Field Value</b>: egress filtrering bypass</a>](https://vigilance.fr/vulnerability/Drupal-Twig-Field-Value-egress-filtrering-bypass-39538)|An attacker can bypass filtering rules of Drupal Twig Field Value, in order to exfilter sensitive data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OFFIS-DCMTK-directory-traversal-via-Service-Class-User-DICOM-39537" class="noirorange"><b>OFFIS DCMTK</b>: directory traversal via Service Class User DICOM</a>](https://vigilance.fr/vulnerability/OFFIS-DCMTK-directory-traversal-via-Service-Class-User-DICOM-39537)|An attacker can traverse directories of OFFIS DCMTK, via Service Class User DICOM, in order to write a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OFFIS-DCMTK-directory-traversal-via-Service-Class-Provider-DICOM-39536" class="noirorange"><b>OFFIS DCMTK</b>: directory traversal via Service Class Provider DICOM</a>](https://vigilance.fr/vulnerability/OFFIS-DCMTK-directory-traversal-via-Service-Class-Provider-DICOM-39536)|An attacker can traverse directories of OFFIS DCMTK, via Service Class Provider DICOM, in order to write a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PAN-OS-privilege-escalation-via-Web-Interface-39535" class="noirorange"><b>PAN-OS</b>: privilege escalation via Web Interface</a>](https://vigilance.fr/vulnerability/PAN-OS-privilege-escalation-via-Web-Interface-39535)|An attacker can bypass restrictions of PAN-OS, via Web Interface, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Grafana-no-signature-via-Plugin-Signature-Versioning-39534" class="noirorange"><b>Grafana</b>: no signature via Plugin Signature Versioning</a>](https://vigilance.fr/vulnerability/Grafana-no-signature-via-Plugin-Signature-Versioning-39534)|An attacker can use malicious data on Grafana, via Plugin Signature Versioning, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Grafana-denial-of-service-via-Basic-Authentication-Email-Username-39533" class="noirorange"><b>Grafana</b>: denial of service via Basic Authentication Email Username</a>](https://vigilance.fr/vulnerability/Grafana-denial-of-service-via-Basic-Authentication-Email-Username-39533)|An attacker can cause a fatal error of Grafana, via Basic Authentication Email Username, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-user-access-via-Autologin-Access-39532" class="noirorange"><b>Centreon Web</b>: user access via Autologin Access</a>](https://vigilance.fr/vulnerability/Centreon-Web-user-access-via-Autologin-Access-39532)|An attacker can bypass restrictions of Centreon Web, via Autologin Access, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Junos-OS-multiple-vulnerabilities-39531" class="noirorange"><b>Junos OS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Junos-OS-multiple-vulnerabilities-39531)|An attacker can use several vulnerabilities of Junos OS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-39530" class="noirorange"><b>Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-39530)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Trellix-ePO-two-vulnerabilities-39529" class="noirorange"><b>Trellix ePO</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Trellix-ePO-two-vulnerabilities-39529)|An attacker can use several vulnerabilities of Trellix ePO...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Python-msi-buffer-overflow-via-Record-Object-39528" class="noirorange"><b>Python msi</b>: buffer overflow via Record Object</a>](https://vigilance.fr/vulnerability/Python-msi-buffer-overflow-via-Record-Object-39528)|An attacker can trigger a buffer overflow of Python msi, via Record Object, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiples vulnérabilités dans les produits Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-916/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 13 octobre 2022|
+ |[Vulnérabilité dans SonicWall GMS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-915/)|Une vulnérabilité a été découverte dans SonicWall GMS. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 13 octobre 2022|
+ |[Multiples vulnérabilités dans Grafana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-914/)|De multiples vulnérabilités ont été découvertes dans Grafana. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 13 octobre 2022|
+ |[Multiples vulnérabilités dans Mitel Connect et MiCollab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-913/)|De multiples vulnérabilités ont été découvertes dans Mitel Connect et MiCollab. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 13 octobre 2022|
+ |[Vulnérabilité dans Palo Alto Networks PAN-OS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-912/)|Une vulnérabilité a été découverte dans Palo Alto Networks PAN-OS. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 13 octobre 2022|
+ |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-911/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 13 octobre 2022|
  |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-910/)|De multiples vulnérabilités ont été corrigées dans |Publié le 12 octobre 2022|
  |[Multiples vulnérabilités dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-909/)|De multiples vulnérabilités ont été corrigées dans |Publié le 12 octobre 2022|
  |[Vulnérabilité dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-908/)|Une vulnérabilité a été corrigée dans |Publié le 12 octobre 2022|
  |[Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-907/)|De multiples vulnérabilités ont été corrigées dans |Publié le 12 octobre 2022|
- |[Multiples vulnérabilités dans Microsoft Office](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-906/)|De multiples vulnérabilités ont été corrigées dans |Publié le 12 octobre 2022|
- |[Multiples vulnérabilités dans Citrix Hypervisor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-905/)|De multiples vulnérabilités ont été découvertes dans Citrix Hypervisor. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 12 octobre 2022|
- |[Multiples vulnérabilités dans les produits SAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-904/)|De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 12 octobre 2022|
- |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-903/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 12 octobre 2022|
- |[Multiples vulnérabilités dans Zimbra Collaboration](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-902/)|De multiples vulnérabilités ont été découvertes dans Zimbra Collaboration. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une injection de code indirecte à distance (XSS).|Publié le 12 octobre 2022|
- |[Multiples vulnérabilités dans Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-901/)|De multiples vulnérabilités ont été découvertes dans Xen. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 12 octobre 2022|
  
  ---
 
@@ -82,6 +82,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[38681310/22 - Vulnérabilité dans Palo Alto PAN-OS](https://www.dgssi.gov.ma//fr/content/3868131022-vulnerabilite-dans-palo-alto-pan-os.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées de Palo Alto PAN-OS. L'exploitation de cette faille peut permettre à un attaquant de réussir une usurpation d’identité et une élévation de privilèges.|13 octobre 2022|
+ |[38671310/22 - Vulnérabilités critiques affectant Aruba EdgeConnect Enterprise Orchestrator](https://www.dgssi.gov.ma//fr/content/3867131022-vulnerabilites-critiques-affectant-aruba-edgeconnect-enterprise-orchestrator.html)|Aruba Networks annonce la correction detroisvulnérabilités critiques affectant les versions susmentionnées de son produit Aruba EdgeConnect Enterprise Orchestrator. L'exploitation de ces vulnérabilités peutpermettreà un...|13 octobre 2022|
  |[38661310/22 - Vulnérabilités dans Zimbra Collaboration](https://www.dgssi.gov.ma//fr/content/3866131022-vulnerabilites-dans-zimbra-collaboration.html)|Plusieurs vulnérabilités ont été corrigées dans Zimbra Collaboration. L’exploitation de ces failles pourrait permettre à un attaquant d’exécuter du code arbitraireà distance, de réussir une élévation de privilèges et d’injecter du code...|13 octobre 2022|
  |[38661310/22 - Vulnérabilités dans Google Chrome](https://www.dgssi.gov.ma//fr/content/3866131022-vulnerabilites-dans-google-chrome.html)|Google a corrigé plusieurs vulnérabilités dans son navigateur Google Chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du système affecté.|13 octobre 2022|
  |[38661210/22 - Vulnérabilités affectant plusieursproduits SAP](https://www.dgssi.gov.ma//fr/content/3866121022-vulnerabilites-affectant-plusieurs-produits-sap.html)|SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuterdu code arbitraire, d...|12 octobre 2022|
@@ -91,8 +93,20 @@
  |[38621210/22 - Vulnérabilités critiques dans Microsoft Windows (Patch Tuesday Octobre 2022)](https://www.dgssi.gov.ma//fr/content/3862121022-vulnerabilites-critiques-dans-microsoft-windows-patch-tuesday-octobre-2022.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques et un zero-day active-ment exploité affectant lessystèmes d’exploitation Windows susmentionnés. La vulnérabilité zero-day activement exploitée corrigée aujourd'...|12 octobre 2022|
  |[38611210/22 - Vulnérabilités critiques dans les produits Microsoft Azure (Patch Tuesday Octobre 2022](https://www.dgssi.gov.ma//fr/content/3861121022-vulnerabilites-critiques-dans-les-produits-microsoft-azure-patch-tuesday-octobre-2022.html)|Plusieurs vulnérabilités critiques ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges et une usurpation d’identité.|12 octobre 2022|
  |[38601210/22 - Vulnérabilités critiques affectant plusieurs produits d’Adobe](https://www.dgssi.gov.ma//fr/content/3860121022-vulnerabilites-critiques-affectant-plusieurs-produits-d-adobe.html)|Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuterdu code arbitraire, d’...|12 octobre 2022|
- |[38591110/22 - Vulnérabilités affectant plusieurs produits VMware ](https://www.dgssi.gov.ma//fr/content/3859111022-vulnerabilites-affectant-plusieurs-produits-vmware.html)|VMware annonce la correction de deux vulnérabilités affectant ses produits susmentionnés.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’exécuter du code arbitraire ou de causer un déni de service.|11 octobre 2022|
- |[38580710/22 - Vulnérabilité critique dans les produits Fortinet](https://www.dgssi.gov.ma//fr/content/3858071022-vulnerabilite-critique-dans-les-produits-fortinet.html)|Fortinet a publié des mises à jour de sécurité pour corriger une vulnérabilité critique (CVE-2022-40684) affectant les versions susmentionnées de FortiOS, FortiProxy et FortiSwitchManager.L'exploitation réussie de cette vulnérabilité...|11 octobre 2022|
+ 
+ ---
+
+## IBMCLOUD [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ResIOT IoT Platform and LoRaWAN Network Server cross-site request forgery (CVE-2022-34020)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 12, 2022|
+ |[Bentley MicroStation and Bentley View buffer overflow (CVE-2022-42899)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 12, 2022|
+ |[Bentley MicroStation and Bentley View buffer overflow (CVE-2022-42900)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 12, 2022|
+ |[Bentley MicroStation and Bentley View buffer overflow (CVE-2022-42901)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 12, 2022|
+ |[Twig Field Value module for Drupal security bypass](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 12, 2022|
+ |[Palo Alto Networks PAN-OS security bypass (CVE-2022-0030)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 12, 2022|
+ |[Juniper Junos OS Evolved denial of service (CVE-2022-22192)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 12, 2022|
  
  ---
 
@@ -108,18 +122,4 @@
  |[Trend Micro Apex One Security Agent Improper Certificate Validation Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1402/)|Visit link for details|Oct. 7, 2022|
  |[Trend Micro Apex One Security Agent Out-Of-Bounds Access Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1401/)|Visit link for details|Oct. 7, 2022|
  |[Trend Micro Apex One Origin Validation Error Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1400/)|Visit link for details|Oct. 7, 2022|
- 
- ---
-
-## IBMCLOUD [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Juniper Networks Junos OS and Junos OS Evolved denial of service (CVE-2022-22250)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 12, 2022|
- |[Juniper Networks Junos OS Evolved command execution (CVE-2022-22248)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 12, 2022|
- |[Juniper Networks Junos OS and Junos OS Evolved denial of service (CVE-2022-22240)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 12, 2022|
- |[Juniper Networks Junos OS denial of service (CVE-2022-22235)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 12, 2022|
- |[Juniper Networks Junos OS denial of service (CVE-2022-22234)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 12, 2022|
- |[Juniper Networks Paragon Active Assurance cross-site scripting (CVE-2022-22229)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 12, 2022|
- |[Juniper Networks Junos OS local file include (CVE-2022-22246)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 12, 2022|
  
