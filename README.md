@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 12/10/2022 21:13:43 UTC
+ > Last Updated 13/10/2022 09:19:47 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -40,16 +40,6 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[WiJungle NGFW excessive authentication](https://vuldb.com/?id.210719)|Visit link for details|2022-10-12 at 21:55|
- |[Palo Alto PAN-OS Web Interface authentication spoofing](https://vuldb.com/?id.210718)|Visit link for details|2022-10-12 at 21:54|
- |[SourceCodester Human Resource Management System getstatecity.php sql injection](https://vuldb.com/?id.210717)|Visit link for details|2022-10-12 at 18:29|
- |[SourceCodester Human Resource Management System city.php sql injection](https://vuldb.com/?id.210716)|Visit link for details|2022-10-12 at 18:27|
- |[SourceCodester Human Resource Management System city.php sql injection](https://vuldb.com/?id.210715)|Visit link for details|2022-10-12 at 18:26|
- |[SourceCodester Human Resource Management System getstatecity.php sql injection](https://vuldb.com/?id.210714)|Visit link for details|2022-10-12 at 18:25|
- |[Apple iOS Email denial of service](https://vuldb.com/?id.210713)|Visit link for details|2022-10-12 at 16:31|
- |[Dolibarr ERP/CRM Installation Page injection](https://vuldb.com/?id.210712)|Visit link for details|2022-10-12 at 16:24|
- |[REDCap Alerts cross site scripting](https://vuldb.com/?id.210711)|Visit link for details|2022-10-12 at 16:23|
- |[mfncooper mockery mockery.js enable prototype pollution](https://vuldb.com/?id.210710)|Visit link for details|2022-10-12 at 16:22|
  
  ---
 
@@ -57,6 +47,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Twig-Field-Value-egress-filtrering-bypass-39538" class="noirorange"><b>Drupal Twig Field Value</b>: egress filtrering bypass</a>](https://vigilance.fr/vulnerability/Drupal-Twig-Field-Value-egress-filtrering-bypass-39538)|An attacker can bypass filtering rules of Drupal Twig Field Value, in order to exfilter sensitive data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/OFFIS-DCMTK-directory-traversal-via-Service-Class-User-DICOM-39537" class="noirorange"><b>OFFIS DCMTK</b>: directory traversal via Service Class User DICOM</a>](https://vigilance.fr/vulnerability/OFFIS-DCMTK-directory-traversal-via-Service-Class-User-DICOM-39537)|An attacker can traverse directories of OFFIS DCMTK, via Service Class User DICOM, in order to write a file outside the service root path...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/OFFIS-DCMTK-directory-traversal-via-Service-Class-Provider-DICOM-39536" class="noirorange"><b>OFFIS DCMTK</b>: directory traversal via Service Class Provider DICOM</a>](https://vigilance.fr/vulnerability/OFFIS-DCMTK-directory-traversal-via-Service-Class-Provider-DICOM-39536)|An attacker can traverse directories of OFFIS DCMTK, via Service Class Provider DICOM, in order to write a file outside the service root path...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/PAN-OS-privilege-escalation-via-Web-Interface-39535" class="noirorange"><b>PAN-OS</b>: privilege escalation via Web Interface</a>](https://vigilance.fr/vulnerability/PAN-OS-privilege-escalation-via-Web-Interface-39535)|An attacker can bypass restrictions of PAN-OS, via Web Interface, in order to escalate his privileges...|Visit link for details|
@@ -67,7 +58,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-39530" class="noirorange"><b>Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-39530)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Trellix-ePO-two-vulnerabilities-39529" class="noirorange"><b>Trellix ePO</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Trellix-ePO-two-vulnerabilities-39529)|An attacker can use several vulnerabilities of Trellix ePO...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Python-msi-buffer-overflow-via-Record-Object-39528" class="noirorange"><b>Python msi</b>: buffer overflow via Record Object</a>](https://vigilance.fr/vulnerability/Python-msi-buffer-overflow-via-Record-Object-39528)|An attacker can trigger a buffer overflow of Python msi, via Record Object, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Adobe-Commerce-Magento-Open-Source-Cross-Site-Scripting-39527" class="noirorange"><b>Adobe Commerce  Magento Open Source</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Adobe-Commerce-Magento-Open-Source-Cross-Site-Scripting-39527)|An attacker can trigger a Cross Site Scripting of Adobe Commerce  Magento Open Source, in order to run JavaScript code in the context of the web site...|Visit link for details|
  
  ---
 
@@ -92,6 +82,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[38661310/22 - Vulnérabilités dans Zimbra Collaboration](https://www.dgssi.gov.ma//fr/content/3866131022-vulnerabilites-dans-zimbra-collaboration.html)|Plusieurs vulnérabilités ont été corrigées dans Zimbra Collaboration. L’exploitation de ces failles pourrait permettre à un attaquant d’exécuter du code arbitraireà distance, de réussir une élévation de privilèges et d’injecter du code...|13 octobre 2022|
+ |[38661310/22 - Vulnérabilités dans Google Chrome](https://www.dgssi.gov.ma//fr/content/3866131022-vulnerabilites-dans-google-chrome.html)|Google a corrigé plusieurs vulnérabilités dans son navigateur Google Chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du système affecté.|13 octobre 2022|
  |[38661210/22 - Vulnérabilités affectant plusieursproduits SAP](https://www.dgssi.gov.ma//fr/content/3866121022-vulnerabilites-affectant-plusieurs-produits-sap.html)|SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuterdu code arbitraire, d...|12 octobre 2022|
  |[38651210/22 - Vulnérabilité affectant Apple iOS ](https://www.dgssi.gov.ma//fr/content/3865121022-vulnerabilite-affectant-apple-ios.html)|Apple annonce lacorrectiond’une vulnérabilité affectant son système d’exploitation iOS.L'exploitation decette vulnérabilité peut permettre à un attaquant de causer un déni de service.|12 octobre 2022|
  |[38641210/22 - Vulnérabilités dans plusieurs produits Microsoft(Patch Tuesday Octobre 2022)](https://www.dgssi.gov.ma//fr/content/3864121022-vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-octobre-2022.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, d’exécuter du code...|12 octobre 2022|
@@ -101,22 +93,6 @@
  |[38601210/22 - Vulnérabilités critiques affectant plusieurs produits d’Adobe](https://www.dgssi.gov.ma//fr/content/3860121022-vulnerabilites-critiques-affectant-plusieurs-produits-d-adobe.html)|Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuterdu code arbitraire, d’...|12 octobre 2022|
  |[38591110/22 - Vulnérabilités affectant plusieurs produits VMware ](https://www.dgssi.gov.ma//fr/content/3859111022-vulnerabilites-affectant-plusieurs-produits-vmware.html)|VMware annonce la correction de deux vulnérabilités affectant ses produits susmentionnés.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’exécuter du code arbitraire ou de causer un déni de service.|11 octobre 2022|
  |[38580710/22 - Vulnérabilité critique dans les produits Fortinet](https://www.dgssi.gov.ma//fr/content/3858071022-vulnerabilite-critique-dans-les-produits-fortinet.html)|Fortinet a publié des mises à jour de sécurité pour corriger une vulnérabilité critique (CVE-2022-40684) affectant les versions susmentionnées de FortiOS, FortiProxy et FortiSwitchManager.L'exploitation réussie de cette vulnérabilité...|11 octobre 2022|
- |[38571110/22 - Vulnérabilité Critique affectant la bibliothèque VM2 SandBox ](https://www.dgssi.gov.ma//fr/content/3857111022-vulnerabilite-critique-affectant-la-bibliotheque-vm2-sandbox.html)|Des chercheurs en sécurité informatique annoncent la découverte d’une vulnérabilité très critique affectant le SandBox VM2.L'exploitation de cette vulnérabilité peutpermettreà un attaquant distant de contourner les mesures de...|11 octobre 2022|
- |[38550710/22 - Vulnérabilité dans les produits F5](https://www.dgssi.gov.ma//fr/content/3855071022-vulnerabilite-dans-les-produits-f5.html)|Une vulnérabilité a été corrigée dans les produits F5 susmentionnés. L’exploitation de cette faille permet à un attaquant d’exécuter du code arbitraire à distance.|07 octobre 2022|
- 
- ---
-
-## IBMCLOUD [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Aruba Networks Aruba EdgeConnect Enterprise Orchestrator command execution (CVE-2022-37915)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2022|
- |[Aruba Networks Aruba EdgeConnect Enterprise Orchestrator security bypass (CVE-2022-37914)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2022|
- |[Aruba Networks Aruba EdgeConnect Enterprise Orchestrator security bypass (CVE-2022-37913)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2022|
- |[Apache Shiro security bypass (CVE-2022-40664)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2022|
- |[Siemens products command execution (CVE-2022-40176)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2022|
- |[Siemens products information disclosure (CVE-2022-40177)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2022|
- |[Siemens SIMATIC S7-1200, S7-1500 CPUs and related products information disclosure (CVE-2022-38465)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 11, 2022|
  
  ---
 
@@ -132,4 +108,18 @@
  |[Trend Micro Apex One Security Agent Improper Certificate Validation Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1402/)|Visit link for details|Oct. 7, 2022|
  |[Trend Micro Apex One Security Agent Out-Of-Bounds Access Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1401/)|Visit link for details|Oct. 7, 2022|
  |[Trend Micro Apex One Origin Validation Error Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1400/)|Visit link for details|Oct. 7, 2022|
+ 
+ ---
+
+## IBMCLOUD [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Juniper Networks Junos OS and Junos OS Evolved denial of service (CVE-2022-22250)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 12, 2022|
+ |[Juniper Networks Junos OS Evolved command execution (CVE-2022-22248)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 12, 2022|
+ |[Juniper Networks Junos OS and Junos OS Evolved denial of service (CVE-2022-22240)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 12, 2022|
+ |[Juniper Networks Junos OS denial of service (CVE-2022-22235)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 12, 2022|
+ |[Juniper Networks Junos OS denial of service (CVE-2022-22234)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 12, 2022|
+ |[Juniper Networks Paragon Active Assurance cross-site scripting (CVE-2022-22229)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 12, 2022|
+ |[Juniper Networks Junos OS local file include (CVE-2022-22246)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 12, 2022|
  
