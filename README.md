@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 13/10/2022 21:14:39 UTC
+ > Last Updated 14/10/2022 09:19:48 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -40,6 +40,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Go-overload-via-regexp-syntax-39546" class="noirorange"><b>Go</b>: overload via regexp/syntax</a>](https://vigilance.fr/vulnerability/Go-overload-via-regexp-syntax-39546)|An attacker can trigger an overload of Go, via regexp/syntax, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Go-denial-of-service-via-net-http-httputil-39545" class="noirorange"><b>Go</b>: denial of service via net/http/httputil</a>](https://vigilance.fr/vulnerability/Go-denial-of-service-via-net-http-httputil-39545)|An attacker can cause a fatal error of Go, via net/http/httputil, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Go-overload-via-archive-tar-39544" class="noirorange"><b>Go</b>: overload via archive/tar</a>](https://vigilance.fr/vulnerability/Go-overload-via-archive-tar-39544)|An attacker can trigger an overload of Go, via archive/tar, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Heimdal-denial-of-service-via-Memory-Management-Operations-39543" class="noirorange"><b>Heimdal</b>: denial of service via Memory Management Operations</a>](https://vigilance.fr/vulnerability/Heimdal-denial-of-service-via-Memory-Management-Operations-39543)|An attacker can cause a fatal error of Heimdal, via Memory Management Operations, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GNU-oSIP-integer-overflow-via-osip-body-parse-header-39542" class="noirorange"><b>GNU oSIP</b>: integer overflow via <wbr>osip_body_parse_head<wbr>er()</wbr></wbr></a>](https://vigilance.fr/vulnerability/GNU-oSIP-integer-overflow-via-osip-body-parse-header-39542)|An attacker can trigger an integer overflow of GNU oSIP, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-two-vulnerabilities-39541" class="noirorange"><b>Ivanti Connect Secure</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-two-vulnerabilities-39541)|An attacker can use several vulnerabilities of Ivanti Connect Secure...|Visit link for details|
@@ -48,9 +51,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Twig-Field-Value-egress-filtrering-bypass-39538" class="noirorange"><b>Drupal Twig Field Value</b>: egress filtrering bypass</a>](https://vigilance.fr/vulnerability/Drupal-Twig-Field-Value-egress-filtrering-bypass-39538)|An attacker can bypass filtering rules of Drupal Twig Field Value, in order to exfilter sensitive data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/OFFIS-DCMTK-directory-traversal-via-Service-Class-User-DICOM-39537" class="noirorange"><b>OFFIS DCMTK</b>: directory traversal via Service Class User DICOM</a>](https://vigilance.fr/vulnerability/OFFIS-DCMTK-directory-traversal-via-Service-Class-User-DICOM-39537)|An attacker can traverse directories of OFFIS DCMTK, via Service Class User DICOM, in order to write a file outside the service root path...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/OFFIS-DCMTK-directory-traversal-via-Service-Class-Provider-DICOM-39536" class="noirorange"><b>OFFIS DCMTK</b>: directory traversal via Service Class Provider DICOM</a>](https://vigilance.fr/vulnerability/OFFIS-DCMTK-directory-traversal-via-Service-Class-Provider-DICOM-39536)|An attacker can traverse directories of OFFIS DCMTK, via Service Class Provider DICOM, in order to write a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PAN-OS-privilege-escalation-via-Web-Interface-39535" class="noirorange"><b>PAN-OS</b>: privilege escalation via Web Interface</a>](https://vigilance.fr/vulnerability/PAN-OS-privilege-escalation-via-Web-Interface-39535)|An attacker can bypass restrictions of PAN-OS, via Web Interface, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Grafana-no-signature-via-Plugin-Signature-Versioning-39534" class="noirorange"><b>Grafana</b>: no signature via Plugin Signature Versioning</a>](https://vigilance.fr/vulnerability/Grafana-no-signature-via-Plugin-Signature-Versioning-39534)|An attacker can use malicious data on Grafana, via Plugin Signature Versioning, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Grafana-denial-of-service-via-Basic-Authentication-Email-Username-39533" class="noirorange"><b>Grafana</b>: denial of service via Basic Authentication Email Username</a>](https://vigilance.fr/vulnerability/Grafana-denial-of-service-via-Basic-Authentication-Email-Username-39533)|An attacker can cause a fatal error of Grafana, via Basic Authentication Email Username, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
@@ -58,23 +58,16 @@
 
  |Title|Description|Date|
  |---|---|---|
- 
- ---
-
-## CERT-FR [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans les produits Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-916/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 13 octobre 2022|
- |[Vulnérabilité dans SonicWall GMS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-915/)|Une vulnérabilité a été découverte dans SonicWall GMS. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 13 octobre 2022|
- |[Multiples vulnérabilités dans Grafana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-914/)|De multiples vulnérabilités ont été découvertes dans Grafana. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 13 octobre 2022|
- |[Multiples vulnérabilités dans Mitel Connect et MiCollab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-913/)|De multiples vulnérabilités ont été découvertes dans Mitel Connect et MiCollab. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 13 octobre 2022|
- |[Vulnérabilité dans Palo Alto Networks PAN-OS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-912/)|Une vulnérabilité a été découverte dans Palo Alto Networks PAN-OS. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 13 octobre 2022|
- |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-911/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 13 octobre 2022|
- |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-910/)|De multiples vulnérabilités ont été corrigées dans |Publié le 12 octobre 2022|
- |[Multiples vulnérabilités dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-909/)|De multiples vulnérabilités ont été corrigées dans |Publié le 12 octobre 2022|
- |[Vulnérabilité dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-908/)|Une vulnérabilité a été corrigée dans |Publié le 12 octobre 2022|
- |[Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-907/)|De multiples vulnérabilités ont été corrigées dans |Publié le 12 octobre 2022|
+ |[SourceCodester Purchase Order Management System Supplier cross site scripting](https://vuldb.com/?id.210832)|Visit link for details|2022-10-14 at 09:10|
+ |[Human Resource Management System Leave cross site scripting](https://vuldb.com/?id.210831)|Visit link for details|2022-10-14 at 09:07|
+ |[OcoMon download.php sql injection](https://vuldb.com/?id.210830)|Visit link for details|2022-10-14 at 09:05|
+ |[Bevywise MQTTRoute Dashboard cross site scripting](https://vuldb.com/?id.210829)|Visit link for details|2022-10-14 at 09:04|
+ |[Bevywise MQTTRoute Dashboard cross-site request forgery](https://vuldb.com/?id.210828)|Visit link for details|2022-10-14 at 09:04|
+ |[Boodskap IoT Platform cross site scripting](https://vuldb.com/?id.210827)|Visit link for details|2022-10-14 at 09:04|
+ |[ResIOT IOT Platform and LoRaWAN Network Server Form Field cross site scripting](https://vuldb.com/?id.210826)|Visit link for details|2022-10-14 at 09:03|
+ |[Ree6 Log authorization](https://vuldb.com/?id.210825)|Visit link for details|2022-10-14 at 09:02|
+ |[Atlassian Jira Align MasterUserEdit API permission](https://vuldb.com/?id.210824)|Visit link for details|2022-10-14 at 09:02|
+ |[Ree6 sql injection](https://vuldb.com/?id.210823)|Visit link for details|2022-10-14 at 09:00|
  
  ---
 
@@ -100,13 +93,13 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[ResIOT IoT Platform and LoRaWAN Network Server cross-site request forgery (CVE-2022-34020)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 12, 2022|
- |[Bentley MicroStation and Bentley View buffer overflow (CVE-2022-42899)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 12, 2022|
- |[Bentley MicroStation and Bentley View buffer overflow (CVE-2022-42900)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 12, 2022|
- |[Bentley MicroStation and Bentley View buffer overflow (CVE-2022-42901)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 12, 2022|
- |[Twig Field Value module for Drupal security bypass](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 12, 2022|
- |[Palo Alto Networks PAN-OS security bypass (CVE-2022-0030)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 12, 2022|
- |[Juniper Junos OS Evolved denial of service (CVE-2022-22192)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 12, 2022|
+ |[SonicWall GMS directory traversal (CVE-2021-20030)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 13, 2022|
+ |[Apache Commons Text code execution (CVE-2022-42889)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 13, 2022|
+ |[Linux Kernel denial of service (CVE-2022-42722)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 13, 2022|
+ |[Linux Kernel denial of service (CVE-2022-42721)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 13, 2022|
+ |[Linux Kernel code execution (CVE-2022-42720)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 13, 2022|
+ |[Linux Kernel code execution (CVE-2022-42719)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 13, 2022|
+ |[Linux Kernel denial of service (CVE-2022-41674)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 13, 2022|
  
  ---
 
@@ -122,4 +115,21 @@
  |[Trend Micro Apex One Security Agent Improper Certificate Validation Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1402/)|Visit link for details|Oct. 7, 2022|
  |[Trend Micro Apex One Security Agent Out-Of-Bounds Access Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1401/)|Visit link for details|Oct. 7, 2022|
  |[Trend Micro Apex One Origin Validation Error Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1400/)|Visit link for details|Oct. 7, 2022|
+ 
+ ---
+
+## CERT-FR [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans les produits Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-916/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 13 octobre 2022|
+ |[Vulnérabilité dans SonicWall GMS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-915/)|Une vulnérabilité a été découverte dans SonicWall GMS. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 13 octobre 2022|
+ |[Multiples vulnérabilités dans Grafana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-914/)|De multiples vulnérabilités ont été découvertes dans Grafana. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 13 octobre 2022|
+ |[Multiples vulnérabilités dans Mitel Connect et MiCollab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-913/)|De multiples vulnérabilités ont été découvertes dans Mitel Connect et MiCollab. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 13 octobre 2022|
+ |[Vulnérabilité dans Palo Alto Networks PAN-OS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-912/)|Une vulnérabilité a été découverte dans Palo Alto Networks PAN-OS. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 13 octobre 2022|
+ |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-911/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 13 octobre 2022|
+ |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-910/)|De multiples vulnérabilités ont été corrigées dans |Publié le 12 octobre 2022|
+ |[Multiples vulnérabilités dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-909/)|De multiples vulnérabilités ont été corrigées dans |Publié le 12 octobre 2022|
+ |[Vulnérabilité dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-908/)|Une vulnérabilité a été corrigée dans |Publié le 12 octobre 2022|
+ |[Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-907/)|De multiples vulnérabilités ont été corrigées dans |Publié le 12 octobre 2022|
  
