@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 15/10/2022 09:17:32 UTC
+ > Last Updated 15/10/2022 21:12:57 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -36,17 +36,21 @@
  
  ---
 
-## IBMCLOUD [:arrow_heading_up:](#cyberowl)
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[SonicWall GMS directory traversal (CVE-2021-20030)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 13, 2022|
- |[Apache Commons Text code execution (CVE-2022-42889)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 13, 2022|
- |[Linux Kernel denial of service (CVE-2022-42722)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 13, 2022|
- |[Linux Kernel denial of service (CVE-2022-42721)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 13, 2022|
- |[Linux Kernel code execution (CVE-2022-42720)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 13, 2022|
- |[Linux Kernel code execution (CVE-2022-42719)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 13, 2022|
- |[Linux Kernel denial of service (CVE-2022-41674)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 13, 2022|
+ |[<a href="https://vigilance.fr/vulnerability/libxml2-three-vulnerabilities-39554" class="noirorange"><b>libxml2</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/libxml2-three-vulnerabilities-39554)|An attacker can use several vulnerabilities of libxml2...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GNOME-gThumb-denial-of-service-via-JPEG-Image-39553" class="noirorange"><b>GNOME gThumb</b>: denial of service via JPEG Image</a>](https://vigilance.fr/vulnerability/GNOME-gThumb-denial-of-service-via-JPEG-Image-39553)|An attacker can cause a fatal error of GNOME gThumb, via JPEG Image, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-NULL-pointer-dereference-via-eval-next-non-blank-39552" class="noirorange"><b>Vim</b>: NULL pointer dereference via <wbr>eval_next_non_blank(<wbr>)</wbr></wbr></a>](https://vigilance.fr/vulnerability/Vim-NULL-pointer-dereference-via-eval-next-non-blank-39552)|An attacker can force a NULL pointer to be dereferenced on Vim, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-get-next-completion-match-39551" class="noirorange"><b>Vim</b>: reuse after free via <wbr>get_next_completion_<wbr>match()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-get-next-completion-match-39551)|An attacker can force the reuse of a freed memory area of Vim, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-getcmdline-int-39550" class="noirorange"><b>Vim</b>: reuse after free via getcmdline_int()</a>](https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-getcmdline-int-39550)|An attacker can force the reuse of a freed memory area of Vim, via getcmdline_int(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-spell-load-lang-39549" class="noirorange"><b>Vim</b>: reuse after free via spell_load_lang()</a>](https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-spell-load-lang-39549)|An attacker can force the reuse of a freed memory area of Vim, via spell_load_lang(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-scroll-to-fraction-39548" class="noirorange"><b>Vim</b>: buffer overflow via <wbr>scroll_to_fraction()</wbr></a>](https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-scroll-to-fraction-39548)|An attacker can trigger a buffer overflow of Vim, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-movemark-39547" class="noirorange"><b>Vim</b>: reuse after free via movemark()</a>](https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-movemark-39547)|An attacker can force the reuse of a freed memory area of Vim, via movemark(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Go-overload-via-regexp-syntax-39546" class="noirorange"><b>Go</b>: overload via regexp/syntax</a>](https://vigilance.fr/vulnerability/Go-overload-via-regexp-syntax-39546)|An attacker can trigger an overload of Go, via regexp/syntax, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Go-denial-of-service-via-net-http-httputil-39545" class="noirorange"><b>Go</b>: denial of service via net/http/httputil</a>](https://vigilance.fr/vulnerability/Go-denial-of-service-via-net-http-httputil-39545)|An attacker can cause a fatal error of Go, via net/http/httputil, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Go-overload-via-archive-tar-39544" class="noirorange"><b>Go</b>: overload via archive/tar</a>](https://vigilance.fr/vulnerability/Go-overload-via-archive-tar-39544)|An attacker can trigger an overload of Go, via archive/tar, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
@@ -67,23 +71,6 @@
  
  ---
 
-## CERT-FR [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-919/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 14 octobre 2022|
- |[Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-918/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Elles permettent à un attaquant de provoquer un déni de service, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 14 octobre 2022|
- |[Multiples vulnérabilités dans Ivanti Connect Secure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-917/)|De multiples vulnérabilités ont été découvertes dans Ivanti Connect Secure. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 14 octobre 2022|
- |[Multiples vulnérabilités dans les produits Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-916/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 13 octobre 2022|
- |[Vulnérabilité dans SonicWall GMS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-915/)|Une vulnérabilité a été découverte dans SonicWall GMS. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 13 octobre 2022|
- |[Multiples vulnérabilités dans Grafana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-914/)|De multiples vulnérabilités ont été découvertes dans Grafana. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 13 octobre 2022|
- |[Multiples vulnérabilités dans Mitel Connect et MiCollab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-913/)|De multiples vulnérabilités ont été découvertes dans Mitel Connect et MiCollab. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 13 octobre 2022|
- |[Vulnérabilité dans Palo Alto Networks PAN-OS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-912/)|Une vulnérabilité a été découverte dans Palo Alto Networks PAN-OS. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 13 octobre 2022|
- |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-911/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 13 octobre 2022|
- |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-910/)|De multiples vulnérabilités ont été corrigées dans |Publié le 12 octobre 2022|
- 
- ---
-
 ## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -99,21 +86,34 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+## IBMCLOUD [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/libxml2-three-vulnerabilities-39554" class="noirorange"><b>libxml2</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/libxml2-three-vulnerabilities-39554)|An attacker can use several vulnerabilities of libxml2...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GNOME-gThumb-denial-of-service-via-JPEG-Image-39553" class="noirorange"><b>GNOME gThumb</b>: denial of service via JPEG Image</a>](https://vigilance.fr/vulnerability/GNOME-gThumb-denial-of-service-via-JPEG-Image-39553)|An attacker can cause a fatal error of GNOME gThumb, via JPEG Image, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-NULL-pointer-dereference-via-eval-next-non-blank-39552" class="noirorange"><b>Vim</b>: NULL pointer dereference via <wbr>eval_next_non_blank(<wbr>)</wbr></wbr></a>](https://vigilance.fr/vulnerability/Vim-NULL-pointer-dereference-via-eval-next-non-blank-39552)|An attacker can force a NULL pointer to be dereferenced on Vim, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-get-next-completion-match-39551" class="noirorange"><b>Vim</b>: reuse after free via <wbr>get_next_completion_<wbr>match()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-get-next-completion-match-39551)|An attacker can force the reuse of a freed memory area of Vim, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-getcmdline-int-39550" class="noirorange"><b>Vim</b>: reuse after free via getcmdline_int()</a>](https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-getcmdline-int-39550)|An attacker can force the reuse of a freed memory area of Vim, via getcmdline_int(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-spell-load-lang-39549" class="noirorange"><b>Vim</b>: reuse after free via spell_load_lang()</a>](https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-spell-load-lang-39549)|An attacker can force the reuse of a freed memory area of Vim, via spell_load_lang(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-scroll-to-fraction-39548" class="noirorange"><b>Vim</b>: buffer overflow via <wbr>scroll_to_fraction()</wbr></a>](https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-scroll-to-fraction-39548)|An attacker can trigger a buffer overflow of Vim, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-movemark-39547" class="noirorange"><b>Vim</b>: reuse after free via movemark()</a>](https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-movemark-39547)|An attacker can force the reuse of a freed memory area of Vim, via movemark(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Go-overload-via-regexp-syntax-39546" class="noirorange"><b>Go</b>: overload via regexp/syntax</a>](https://vigilance.fr/vulnerability/Go-overload-via-regexp-syntax-39546)|An attacker can trigger an overload of Go, via regexp/syntax, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Go-denial-of-service-via-net-http-httputil-39545" class="noirorange"><b>Go</b>: denial of service via net/http/httputil</a>](https://vigilance.fr/vulnerability/Go-denial-of-service-via-net-http-httputil-39545)|An attacker can cause a fatal error of Go, via net/http/httputil, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Go-overload-via-archive-tar-39544" class="noirorange"><b>Go</b>: overload via archive/tar</a>](https://vigilance.fr/vulnerability/Go-overload-via-archive-tar-39544)|An attacker can trigger an overload of Go, via archive/tar, in order to trigger a denial of service...|Visit link for details|
+ |[SonicWall GMS directory traversal (CVE-2021-20030)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 13, 2022|
+ |[Apache Commons Text code execution (CVE-2022-42889)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 13, 2022|
+ |[Linux Kernel denial of service (CVE-2022-42722)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 13, 2022|
+ |[Linux Kernel denial of service (CVE-2022-42721)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 13, 2022|
+ |[Linux Kernel code execution (CVE-2022-42720)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 13, 2022|
+ |[Linux Kernel code execution (CVE-2022-42719)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 13, 2022|
+ |[Linux Kernel denial of service (CVE-2022-41674)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 13, 2022|
+ 
+ ---
+
+## CERT-FR [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-919/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 14 octobre 2022|
+ |[Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-918/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Elles permettent à un attaquant de provoquer un déni de service, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 14 octobre 2022|
+ |[Multiples vulnérabilités dans Ivanti Connect Secure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-917/)|De multiples vulnérabilités ont été découvertes dans Ivanti Connect Secure. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 14 octobre 2022|
+ |[Multiples vulnérabilités dans les produits Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-916/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 13 octobre 2022|
+ |[Vulnérabilité dans SonicWall GMS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-915/)|Une vulnérabilité a été découverte dans SonicWall GMS. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 13 octobre 2022|
+ |[Multiples vulnérabilités dans Grafana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-914/)|De multiples vulnérabilités ont été découvertes dans Grafana. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 13 octobre 2022|
+ |[Multiples vulnérabilités dans Mitel Connect et MiCollab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-913/)|De multiples vulnérabilités ont été découvertes dans Mitel Connect et MiCollab. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 13 octobre 2022|
+ |[Vulnérabilité dans Palo Alto Networks PAN-OS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-912/)|Une vulnérabilité a été découverte dans Palo Alto Networks PAN-OS. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 13 octobre 2022|
+ |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-911/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 13 octobre 2022|
+ |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-910/)|De multiples vulnérabilités ont été corrigées dans |Publié le 12 octobre 2022|
  
  ---
 
