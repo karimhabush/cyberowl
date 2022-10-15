@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 14/10/2022 21:13:44 UTC
+ > Last Updated 15/10/2022 09:17:32 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,6 +47,23 @@
  |[Linux Kernel code execution (CVE-2022-42720)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 13, 2022|
  |[Linux Kernel code execution (CVE-2022-42719)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 13, 2022|
  |[Linux Kernel denial of service (CVE-2022-41674)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 13, 2022|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SourceCodester Sanitization Management System Quote Requests Tab cross site scripting](https://vuldb.com/?id.211015)|Visit link for details|2022-10-15 at 10:54|
+ |[SourceCodester Sanitization Management System User Creation cross site scripting](https://vuldb.com/?id.211014)|Visit link for details|2022-10-15 at 10:53|
+ |[Adobe Commerce/Magento Open Source access control](https://vuldb.com/?id.211013)|Visit link for details|2022-10-15 at 10:45|
+ |[Adobe Commerce/Magento Open Source cross site scripting](https://vuldb.com/?id.211012)|Visit link for details|2022-10-15 at 10:45|
+ |[Adobe Dimension use after free](https://vuldb.com/?id.211011)|Visit link for details|2022-10-15 at 10:38|
+ |[Adobe Dimension use after free](https://vuldb.com/?id.211010)|Visit link for details|2022-10-15 at 10:38|
+ |[Adobe Dimension use after free](https://vuldb.com/?id.211009)|Visit link for details|2022-10-15 at 10:38|
+ |[Adobe Dimension use after free](https://vuldb.com/?id.211008)|Visit link for details|2022-10-15 at 10:37|
+ |[Adobe Dimension use after free](https://vuldb.com/?id.211007)|Visit link for details|2022-10-15 at 10:37|
+ |[Adobe Dimension out-of-bounds](https://vuldb.com/?id.211006)|Visit link for details|2022-10-15 at 10:36|
  
  ---
 
@@ -97,23 +114,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Go-overload-via-regexp-syntax-39546" class="noirorange"><b>Go</b>: overload via regexp/syntax</a>](https://vigilance.fr/vulnerability/Go-overload-via-regexp-syntax-39546)|An attacker can trigger an overload of Go, via regexp/syntax, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Go-denial-of-service-via-net-http-httputil-39545" class="noirorange"><b>Go</b>: denial of service via net/http/httputil</a>](https://vigilance.fr/vulnerability/Go-denial-of-service-via-net-http-httputil-39545)|An attacker can cause a fatal error of Go, via net/http/httputil, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Go-overload-via-archive-tar-39544" class="noirorange"><b>Go</b>: overload via archive/tar</a>](https://vigilance.fr/vulnerability/Go-overload-via-archive-tar-39544)|An attacker can trigger an overload of Go, via archive/tar, in order to trigger a denial of service...|Visit link for details|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Autodesk AutoCAD PKT File SubassemblyComposer.exe memory corruption](https://vuldb.com/?id.210879)|Visit link for details|2022-10-14 at 21:32|
- |[Autodesk FBX SDK PCT File DesignReview.exe memory corruption](https://vuldb.com/?id.210878)|Visit link for details|2022-10-14 at 21:31|
- |[Autodesk Moldflow PKT File SubassemblyComposer.exe memory corruption](https://vuldb.com/?id.210877)|Visit link for details|2022-10-14 at 21:27|
- |[Huawei HarmonyOS HISP Module access control](https://vuldb.com/?id.210876)|Visit link for details|2022-10-14 at 21:26|
- |[Huawei HarmonyOS HISP Module out-of-bounds](https://vuldb.com/?id.210875)|Visit link for details|2022-10-14 at 21:26|
- |[Huawei HarmonyOS HIPP Module out-of-bounds](https://vuldb.com/?id.210874)|Visit link for details|2022-10-14 at 21:26|
- |[Huawei HarmonyOS HIPP Module out-of-bounds](https://vuldb.com/?id.210873)|Visit link for details|2022-10-14 at 21:25|
- |[Huawei HarmonyOS BT Hfp Client Module use after free](https://vuldb.com/?id.210872)|Visit link for details|2022-10-14 at 21:25|
- |[Google Android ap_input_processor.c information disclosure](https://vuldb.com/?id.210871)|Visit link for details|2022-10-14 at 21:24|
- |[Autodesk FBX SDK out-of-bounds write](https://vuldb.com/?id.210870)|Visit link for details|2022-10-14 at 21:24|
  
  ---
 
