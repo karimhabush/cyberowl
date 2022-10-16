@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 15/10/2022 21:12:57 UTC
+ > Last Updated 16/10/2022 09:15:35 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -36,56 +36,6 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/libxml2-three-vulnerabilities-39554" class="noirorange"><b>libxml2</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/libxml2-three-vulnerabilities-39554)|An attacker can use several vulnerabilities of libxml2...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GNOME-gThumb-denial-of-service-via-JPEG-Image-39553" class="noirorange"><b>GNOME gThumb</b>: denial of service via JPEG Image</a>](https://vigilance.fr/vulnerability/GNOME-gThumb-denial-of-service-via-JPEG-Image-39553)|An attacker can cause a fatal error of GNOME gThumb, via JPEG Image, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-NULL-pointer-dereference-via-eval-next-non-blank-39552" class="noirorange"><b>Vim</b>: NULL pointer dereference via <wbr>eval_next_non_blank(<wbr>)</wbr></wbr></a>](https://vigilance.fr/vulnerability/Vim-NULL-pointer-dereference-via-eval-next-non-blank-39552)|An attacker can force a NULL pointer to be dereferenced on Vim, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-get-next-completion-match-39551" class="noirorange"><b>Vim</b>: reuse after free via <wbr>get_next_completion_<wbr>match()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-get-next-completion-match-39551)|An attacker can force the reuse of a freed memory area of Vim, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-getcmdline-int-39550" class="noirorange"><b>Vim</b>: reuse after free via getcmdline_int()</a>](https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-getcmdline-int-39550)|An attacker can force the reuse of a freed memory area of Vim, via getcmdline_int(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-spell-load-lang-39549" class="noirorange"><b>Vim</b>: reuse after free via spell_load_lang()</a>](https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-spell-load-lang-39549)|An attacker can force the reuse of a freed memory area of Vim, via spell_load_lang(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-scroll-to-fraction-39548" class="noirorange"><b>Vim</b>: buffer overflow via <wbr>scroll_to_fraction()</wbr></a>](https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-scroll-to-fraction-39548)|An attacker can trigger a buffer overflow of Vim, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-movemark-39547" class="noirorange"><b>Vim</b>: reuse after free via movemark()</a>](https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-movemark-39547)|An attacker can force the reuse of a freed memory area of Vim, via movemark(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Go-overload-via-regexp-syntax-39546" class="noirorange"><b>Go</b>: overload via regexp/syntax</a>](https://vigilance.fr/vulnerability/Go-overload-via-regexp-syntax-39546)|An attacker can trigger an overload of Go, via regexp/syntax, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Go-denial-of-service-via-net-http-httputil-39545" class="noirorange"><b>Go</b>: denial of service via net/http/httputil</a>](https://vigilance.fr/vulnerability/Go-denial-of-service-via-net-http-httputil-39545)|An attacker can cause a fatal error of Go, via net/http/httputil, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Go-overload-via-archive-tar-39544" class="noirorange"><b>Go</b>: overload via archive/tar</a>](https://vigilance.fr/vulnerability/Go-overload-via-archive-tar-39544)|An attacker can trigger an overload of Go, via archive/tar, in order to trigger a denial of service...|Visit link for details|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[SourceCodester Sanitization Management System Quote Requests Tab cross site scripting](https://vuldb.com/?id.211015)|Visit link for details|2022-10-15 at 10:54|
- |[SourceCodester Sanitization Management System User Creation cross site scripting](https://vuldb.com/?id.211014)|Visit link for details|2022-10-15 at 10:53|
- |[Adobe Commerce/Magento Open Source access control](https://vuldb.com/?id.211013)|Visit link for details|2022-10-15 at 10:45|
- |[Adobe Commerce/Magento Open Source cross site scripting](https://vuldb.com/?id.211012)|Visit link for details|2022-10-15 at 10:45|
- |[Adobe Dimension use after free](https://vuldb.com/?id.211011)|Visit link for details|2022-10-15 at 10:38|
- |[Adobe Dimension use after free](https://vuldb.com/?id.211010)|Visit link for details|2022-10-15 at 10:38|
- |[Adobe Dimension use after free](https://vuldb.com/?id.211009)|Visit link for details|2022-10-15 at 10:38|
- |[Adobe Dimension use after free](https://vuldb.com/?id.211008)|Visit link for details|2022-10-15 at 10:37|
- |[Adobe Dimension use after free](https://vuldb.com/?id.211007)|Visit link for details|2022-10-15 at 10:37|
- |[Adobe Dimension out-of-bounds](https://vuldb.com/?id.211006)|Visit link for details|2022-10-15 at 10:36|
- 
- ---
-
-## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Adobe Dimension SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1439/)|Visit link for details|Oct. 14, 2022|
- |[Altair HyperView Player H3D File Parsing Improper Validation of Array Index Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1438/)|Visit link for details|Oct. 14, 2022|
- |[Altair HyperView Player H3D File Parsing Uninitialized Memory Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1437/)|Visit link for details|Oct. 14, 2022|
- |[Altair HyperView Player H3D File Parsing Uninitialized Memory Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1436/)|Visit link for details|Oct. 14, 2022|
- |[Altair HyperView Player H3D File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1435/)|Visit link for details|Oct. 14, 2022|
- |[Adobe ColdFusion Application Server Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1434/)|Visit link for details|Oct. 14, 2022|
- |[Adobe ColdFusion Application Server Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1433/)|Visit link for details|Oct. 14, 2022|
- |[Adobe ColdFusion Application Server Directory Traversal Arbitrary File Disclosure Or Deletion Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1432/)|Visit link for details|Oct. 14, 2022|
- 
- ---
-
 ## IBMCLOUD [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -114,6 +64,56 @@
  |[Vulnérabilité dans Palo Alto Networks PAN-OS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-912/)|Une vulnérabilité a été découverte dans Palo Alto Networks PAN-OS. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 13 octobre 2022|
  |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-911/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 13 octobre 2022|
  |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-910/)|De multiples vulnérabilités ont été corrigées dans |Publié le 12 octobre 2022|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Linux Kernel IPv6 ipv6_renew_options memory leak](https://vuldb.com/?id.211021)|Visit link for details|2022-10-16 at 10:22|
+ |[Linux Kernel Driver memory.c use after free](https://vuldb.com/?id.211020)|Visit link for details|2022-10-16 at 10:21|
+ |[Linux Kernel hugetlb.c hugetlb_no_page race condition](https://vuldb.com/?id.211019)|Visit link for details|2022-10-16 at 10:18|
+ |[Linux Kernel kcm kcmsock.c kcm_tx_work race condition](https://vuldb.com/?id.211018)|Visit link for details|2022-10-16 at 10:07|
+ |[Gitea Git Backend argument injection](https://vuldb.com/?id.211017)|Visit link for details|2022-10-16 at 08:47|
+ |[Backdoor.Win32.DarkSky.23 Service Port 5418 stack-based overflow](https://vuldb.com/?id.211016)|Visit link for details|2022-10-16 at 08:45|
+ |[SourceCodester Sanitization Management System Quote Requests Tab cross site scripting](https://vuldb.com/?id.211015)|Visit link for details|2022-10-16 at 10:54|
+ |[SourceCodester Sanitization Management System User Creation cross site scripting](https://vuldb.com/?id.211014)|Visit link for details|2022-10-16 at 10:53|
+ |[Adobe Commerce/Magento Open Source access control](https://vuldb.com/?id.211013)|Visit link for details|2022-10-16 at 10:45|
+ |[Adobe Commerce/Magento Open Source cross site scripting](https://vuldb.com/?id.211012)|Visit link for details|2022-10-16 at 10:45|
+ 
+ ---
+
+## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Adobe Dimension SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1439/)|Visit link for details|Oct. 14, 2022|
+ |[Altair HyperView Player H3D File Parsing Improper Validation of Array Index Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1438/)|Visit link for details|Oct. 14, 2022|
+ |[Altair HyperView Player H3D File Parsing Uninitialized Memory Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1437/)|Visit link for details|Oct. 14, 2022|
+ |[Altair HyperView Player H3D File Parsing Uninitialized Memory Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1436/)|Visit link for details|Oct. 14, 2022|
+ |[Altair HyperView Player H3D File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1435/)|Visit link for details|Oct. 14, 2022|
+ |[Adobe ColdFusion Application Server Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1434/)|Visit link for details|Oct. 14, 2022|
+ |[Adobe ColdFusion Application Server Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1433/)|Visit link for details|Oct. 14, 2022|
+ |[Adobe ColdFusion Application Server Directory Traversal Arbitrary File Disclosure Or Deletion Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1432/)|Visit link for details|Oct. 14, 2022|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/libxml2-three-vulnerabilities-39554" class="noirorange"><b>libxml2</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/libxml2-three-vulnerabilities-39554)|An attacker can use several vulnerabilities of libxml2...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GNOME-gThumb-denial-of-service-via-JPEG-Image-39553" class="noirorange"><b>GNOME gThumb</b>: denial of service via JPEG Image</a>](https://vigilance.fr/vulnerability/GNOME-gThumb-denial-of-service-via-JPEG-Image-39553)|An attacker can cause a fatal error of GNOME gThumb, via JPEG Image, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-NULL-pointer-dereference-via-eval-next-non-blank-39552" class="noirorange"><b>Vim</b>: NULL pointer dereference via <wbr>eval_next_non_blank(<wbr>)</wbr></wbr></a>](https://vigilance.fr/vulnerability/Vim-NULL-pointer-dereference-via-eval-next-non-blank-39552)|An attacker can force a NULL pointer to be dereferenced on Vim, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-get-next-completion-match-39551" class="noirorange"><b>Vim</b>: reuse after free via <wbr>get_next_completion_<wbr>match()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-get-next-completion-match-39551)|An attacker can force the reuse of a freed memory area of Vim, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-getcmdline-int-39550" class="noirorange"><b>Vim</b>: reuse after free via getcmdline_int()</a>](https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-getcmdline-int-39550)|An attacker can force the reuse of a freed memory area of Vim, via getcmdline_int(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-spell-load-lang-39549" class="noirorange"><b>Vim</b>: reuse after free via spell_load_lang()</a>](https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-spell-load-lang-39549)|An attacker can force the reuse of a freed memory area of Vim, via spell_load_lang(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-scroll-to-fraction-39548" class="noirorange"><b>Vim</b>: buffer overflow via <wbr>scroll_to_fraction()</wbr></a>](https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-scroll-to-fraction-39548)|An attacker can trigger a buffer overflow of Vim, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-movemark-39547" class="noirorange"><b>Vim</b>: reuse after free via movemark()</a>](https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-movemark-39547)|An attacker can force the reuse of a freed memory area of Vim, via movemark(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Go-overload-via-regexp-syntax-39546" class="noirorange"><b>Go</b>: overload via regexp/syntax</a>](https://vigilance.fr/vulnerability/Go-overload-via-regexp-syntax-39546)|An attacker can trigger an overload of Go, via regexp/syntax, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Go-denial-of-service-via-net-http-httputil-39545" class="noirorange"><b>Go</b>: denial of service via net/http/httputil</a>](https://vigilance.fr/vulnerability/Go-denial-of-service-via-net-http-httputil-39545)|An attacker can cause a fatal error of Go, via net/http/httputil, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Go-overload-via-archive-tar-39544" class="noirorange"><b>Go</b>: overload via archive/tar</a>](https://vigilance.fr/vulnerability/Go-overload-via-archive-tar-39544)|An attacker can trigger an overload of Go, via archive/tar, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
