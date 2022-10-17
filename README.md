@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 16/10/2022 21:10:50 UTC
+ > Last Updated 17/10/2022 09:26:34 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -36,38 +36,28 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/libxml2-three-vulnerabilities-39554" class="noirorange"><b>libxml2</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/libxml2-three-vulnerabilities-39554)|An attacker can use several vulnerabilities of libxml2...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GNOME-gThumb-denial-of-service-via-JPEG-Image-39553" class="noirorange"><b>GNOME gThumb</b>: denial of service via JPEG Image</a>](https://vigilance.fr/vulnerability/GNOME-gThumb-denial-of-service-via-JPEG-Image-39553)|An attacker can cause a fatal error of GNOME gThumb, via JPEG Image, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-NULL-pointer-dereference-via-eval-next-non-blank-39552" class="noirorange"><b>Vim</b>: NULL pointer dereference via <wbr>eval_next_non_blank(<wbr>)</wbr></wbr></a>](https://vigilance.fr/vulnerability/Vim-NULL-pointer-dereference-via-eval-next-non-blank-39552)|An attacker can force a NULL pointer to be dereferenced on Vim, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-get-next-completion-match-39551" class="noirorange"><b>Vim</b>: reuse after free via <wbr>get_next_completion_<wbr>match()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-get-next-completion-match-39551)|An attacker can force the reuse of a freed memory area of Vim, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-getcmdline-int-39550" class="noirorange"><b>Vim</b>: reuse after free via getcmdline_int()</a>](https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-getcmdline-int-39550)|An attacker can force the reuse of a freed memory area of Vim, via getcmdline_int(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-spell-load-lang-39549" class="noirorange"><b>Vim</b>: reuse after free via spell_load_lang()</a>](https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-spell-load-lang-39549)|An attacker can force the reuse of a freed memory area of Vim, via spell_load_lang(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-scroll-to-fraction-39548" class="noirorange"><b>Vim</b>: buffer overflow via <wbr>scroll_to_fraction()</wbr></a>](https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-scroll-to-fraction-39548)|An attacker can trigger a buffer overflow of Vim, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-movemark-39547" class="noirorange"><b>Vim</b>: reuse after free via movemark()</a>](https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-movemark-39547)|An attacker can force the reuse of a freed memory area of Vim, via movemark(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Go-overload-via-regexp-syntax-39546" class="noirorange"><b>Go</b>: overload via regexp/syntax</a>](https://vigilance.fr/vulnerability/Go-overload-via-regexp-syntax-39546)|An attacker can trigger an overload of Go, via regexp/syntax, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Go-denial-of-service-via-net-http-httputil-39545" class="noirorange"><b>Go</b>: denial of service via net/http/httputil</a>](https://vigilance.fr/vulnerability/Go-denial-of-service-via-net-http-httputil-39545)|An attacker can cause a fatal error of Go, via net/http/httputil, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Go-overload-via-archive-tar-39544" class="noirorange"><b>Go</b>: overload via archive/tar</a>](https://vigilance.fr/vulnerability/Go-overload-via-archive-tar-39544)|An attacker can trigger an overload of Go, via archive/tar, in order to trigger a denial of service...|Visit link for details|
- 
- ---
-
 ## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[Linux Kernel iproute2 ipaddress.c ipaddr_link_get memory leak](https://vuldb.com/?id.211028)|Visit link for details|2022-10-16 at 19:42|
- |[Linux Kernel iproute2 fdb.c fdb_get memory leak](https://vuldb.com/?id.211027)|Visit link for details|2022-10-16 at 19:41|
- |[Linux Kernel iproute2 ipmptcp.c mptcp_addr_show memory leak](https://vuldb.com/?id.211026)|Visit link for details|2022-10-16 at 19:39|
- |[Linux Kernel iproute2 ipneigh.c ipneigh_get memory leak](https://vuldb.com/?id.211025)|Visit link for details|2022-10-16 at 19:37|
- |[Linux Kernel skb macvlan.c macvlan_handle_frame memory leak](https://vuldb.com/?id.211024)|Visit link for details|2022-10-16 at 19:36|
- |[Django URL incorrect regex](https://vuldb.com/?id.211023)|Visit link for details|2022-10-16 at 14:13|
- |[py Library Info Data incorrect regex](https://vuldb.com/?id.211022)|Visit link for details|2022-10-16 at 14:12|
- |[Linux Kernel IPv6 ipv6_renew_options memory leak](https://vuldb.com/?id.211021)|Visit link for details|2022-10-16 at 10:22|
- |[Linux Kernel Driver memory.c use after free](https://vuldb.com/?id.211020)|Visit link for details|2022-10-16 at 10:21|
- |[Linux Kernel hugetlb.c hugetlb_no_page race condition](https://vuldb.com/?id.211019)|Visit link for details|2022-10-16 at 10:18|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-ipaddr-link-get-39566" class="noirorange"><b>Linux kernel</b>: memory leak via ipaddr_link_get()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-ipaddr-link-get-39566)|An attacker can create a memory leak of the Linux kernel, via ipaddr_link_get(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-fdb-get-39565" class="noirorange"><b>Linux kernel</b>: memory leak via fdb_get()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-fdb-get-39565)|An attacker can create a memory leak of the Linux kernel, via fdb_get(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-mptcp-addr-show-39564" class="noirorange"><b>Linux kernel</b>: memory leak via mptcp_addr_show()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-mptcp-addr-show-39564)|An attacker can create a memory leak of the Linux kernel, via mptcp_addr_show(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-ipneigh-get-39563" class="noirorange"><b>Linux kernel</b>: memory leak via ipneigh_get()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-ipneigh-get-39563)|An attacker can create a memory leak of the Linux kernel, via ipneigh_get(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-macvlan-handle-frame-39562" class="noirorange"><b>Linux kernel</b>: memory leak via <wbr>macvlan_handle_frame<wbr>()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-macvlan-handle-frame-39562)|An attacker can create a memory leak of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-ipv6-renew-options-39561" class="noirorange"><b>Linux kernel</b>: memory leak via <wbr>ipv6_renew_options()</wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-ipv6-renew-options-39561)|An attacker can create a memory leak of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-mm-memory-c-39560" class="noirorange"><b>Linux kernel</b>: reuse after free via mm/memory.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-mm-memory-c-39560)|An attacker can force the reuse of a freed memory area of the Linux kernel, via mm/memory.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-hugetlb-no-page-39559" class="noirorange"><b>Linux kernel</b>: denial of service via hugetlb_no_page()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-hugetlb-no-page-39559)|An attacker can cause a fatal error of the Linux kernel, via hugetlb_no_page(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-kcm-tx-work-39558" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via kcm_tx_work()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-kcm-tx-work-39558)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via kcm_tx_work(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/RoundCube-Webmail-no-encryption-via-Multipart-Re-sent-Email-39557" class="noirorange"><b>RoundCube Webmail</b>: no encryption via Multipart Re-sent Email</a>](https://vigilance.fr/vulnerability/RoundCube-Webmail-no-encryption-via-Multipart-Re-sent-Email-39557)|An attacker can access data on RoundCube Webmail, via Multipart Re-sent Email, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apptainer-weak-signature-via-Sif-Dependency-39556" class="noirorange"><b>Apptainer</b>: weak signature via Sif Dependency</a>](https://vigilance.fr/vulnerability/Apptainer-weak-signature-via-Sif-Dependency-39556)|An attacker can use malicious data on Apptainer, via Sif Dependency, in order to deceive the victim...|Visit link for details|
  
  ---
 
@@ -88,10 +78,18 @@
  
  ---
 
+## IBMCLOUD [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[38701710/22 - Vulnérabilités dans les produits Juniper](https://www.dgssi.gov.ma//fr/content/3870171022-vulnerabilites-dans-les-produits-juniper.html)|Juniper annonce la correction de plusieurs vulnérabilités affectant ses produits. L’exploitation de ces failles peut permettre à un attaquant de réussir une élévation de privilèges, d’exécuter du code arbitraire à distance, de causer un...|17 octobre 2022|
  |[38691410/22 - Publication d’exploit de la vulnérabilité « CVE-2022-40684 » affectant les produits Fo](https://www.dgssi.gov.ma//fr/content/3869141022-publication-d-exploit-de-la-vulnerabilite-cve-2022-40684-affectant-les-produits-fortinet.html)|Un code d’exploit est publiquement disponible de la vulnérabilité critique "CVE-2022-40684" de contournement d'authentification affectant les appliances FortiOS, FortiProxy et FortiSwitchManager de Fortinet. Les attaquants...|14 octobre 2022|
  |[38681310/22 - Vulnérabilité dans Palo Alto PAN-OS](https://www.dgssi.gov.ma//fr/content/3868131022-vulnerabilite-dans-palo-alto-pan-os.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées de Palo Alto PAN-OS. L'exploitation de cette faille peut permettre à un attaquant de réussir une usurpation d’identité et une élévation de privilèges.|13 octobre 2022|
  |[38671310/22 - Vulnérabilités critiques affectant Aruba EdgeConnect Enterprise Orchestrator](https://www.dgssi.gov.ma//fr/content/3867131022-vulnerabilites-critiques-affectant-aruba-edgeconnect-enterprise-orchestrator.html)|Aruba Networks annonce la correction detroisvulnérabilités critiques affectant les versions susmentionnées de son produit Aruba EdgeConnect Enterprise Orchestrator. L'exploitation de ces vulnérabilités peutpermettreà un...|13 octobre 2022|
@@ -102,21 +100,6 @@
  |[38641210/22 - Vulnérabilités dans plusieurs produits Microsoft(Patch Tuesday Octobre 2022)](https://www.dgssi.gov.ma//fr/content/3864121022-vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-octobre-2022.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, d’exécuter du code...|12 octobre 2022|
  |[38631210/22 - Vulnérabilités dans Microsoft Office (Patch Tuesday Octobre 2022)](https://www.dgssi.gov.ma//fr/content/3863121022-vulnerabilites-dans-microsoft-office-patch-tuesday-octobre-2022.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées des produits Microsoft Office. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire à distance,...|12 octobre 2022|
  |[38621210/22 - Vulnérabilités critiques dans Microsoft Windows (Patch Tuesday Octobre 2022)](https://www.dgssi.gov.ma//fr/content/3862121022-vulnerabilites-critiques-dans-microsoft-windows-patch-tuesday-octobre-2022.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques et un zero-day active-ment exploité affectant lessystèmes d’exploitation Windows susmentionnés. La vulnérabilité zero-day activement exploitée corrigée aujourd'...|12 octobre 2022|
- |[38611210/22 - Vulnérabilités critiques dans les produits Microsoft Azure (Patch Tuesday Octobre 2022](https://www.dgssi.gov.ma//fr/content/3861121022-vulnerabilites-critiques-dans-les-produits-microsoft-azure-patch-tuesday-octobre-2022.html)|Plusieurs vulnérabilités critiques ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges et une usurpation d’identité.|12 octobre 2022|
- 
- ---
-
-## IBMCLOUD [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[SonicWall GMS directory traversal (CVE-2021-20030)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 13, 2022|
- |[Apache Commons Text code execution (CVE-2022-42889)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 13, 2022|
- |[Linux Kernel denial of service (CVE-2022-42722)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 13, 2022|
- |[Linux Kernel denial of service (CVE-2022-42721)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 13, 2022|
- |[Linux Kernel code execution (CVE-2022-42720)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 13, 2022|
- |[Linux Kernel code execution (CVE-2022-42719)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 13, 2022|
- |[Linux Kernel denial of service (CVE-2022-41674)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 13, 2022|
  
  ---
 
