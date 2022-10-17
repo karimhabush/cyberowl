@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 17/10/2022 09:26:34 UTC
+ > Last Updated 17/10/2022 21:13:49 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -36,10 +36,51 @@
  
  ---
 
+## CERT-FR [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-922/)|De multiples vulnérabilités ont été corrigées dans |Publié le 17 octobre 2022|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-921/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 17 octobre 2022|
+ |[Multiples vulnérabilités dans les produits Adobe](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-920/)|De multiples vulnérabilités ont été découvertes dans les produits Adobe. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service et un contournement de la politique de sécurité.|Publié le 17 octobre 2022|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-919/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 14 octobre 2022|
+ |[Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-918/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Elles permettent à un attaquant de provoquer un déni de service, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 14 octobre 2022|
+ |[Multiples vulnérabilités dans Ivanti Connect Secure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-917/)|De multiples vulnérabilités ont été découvertes dans Ivanti Connect Secure. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 14 octobre 2022|
+ |[Multiples vulnérabilités dans les produits Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-916/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 13 octobre 2022|
+ |[Vulnérabilité dans SonicWall GMS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-915/)|Une vulnérabilité a été découverte dans SonicWall GMS. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 13 octobre 2022|
+ |[Multiples vulnérabilités dans Grafana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-914/)|De multiples vulnérabilités ont été découvertes dans Grafana. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 13 octobre 2022|
+ |[Multiples vulnérabilités dans Mitel Connect et MiCollab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-913/)|De multiples vulnérabilités ont été découvertes dans Mitel Connect et MiCollab. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 13 octobre 2022|
+ 
+ ---
+
 ## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[GitLab Community Edition/Enterprise Edition GitHub API Endpoint Privilege Escalation](https://vuldb.com/?id.211096)|Visit link for details|2022-10-17 at 21:12|
+ |[GitLab Package Registry improper authentication](https://vuldb.com/?id.211095)|Visit link for details|2022-10-17 at 21:10|
+ |[Secuever reverseWall-MDS improper authentication](https://vuldb.com/?id.211094)|Visit link for details|2022-10-17 at 21:09|
+ |[OSGeo shapelib shpsort.c use after free](https://vuldb.com/?id.211093)|Visit link for details|2022-10-17 at 21:01|
+ |[SalesForce Tableau Server Administration Agent path traversal](https://vuldb.com/?id.211092)|Visit link for details|2022-10-17 at 21:00|
+ |[WordPress Header access control](https://vuldb.com/?id.211091)|Visit link for details|2022-10-17 at 20:59|
+ |[Linux Kernel IPv6 inet6_dgram_ops race condition](https://vuldb.com/?id.211090)|Visit link for details|2022-10-17 at 19:52|
+ |[Linux Kernel TCP tcp_setsockopt race condition](https://vuldb.com/?id.211089)|Visit link for details|2022-10-17 at 19:50|
+ |[Linux Kernel Bluetooth l1oip_core.c del_timer use after free](https://vuldb.com/?id.211088)|Visit link for details|2022-10-17 at 19:47|
+ |[Linux Kernel Bluetooth l2cap_core.c l2cap_reassemble_sdu use after free](https://vuldb.com/?id.211087)|Visit link for details|2022-10-17 at 19:45|
+ 
+ ---
+
+## IBMCLOUD [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[IBM InfoSphere Information Server external entity injection (CVE-2022-40747)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 14, 2022|
+ |[IBM InfoSphere Information Server denial of service (CVE-2022-40235)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 14, 2022|
+ |[IBM InfoSphere Information Server command execution (CVE-2022-35717)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 14, 2022|
+ |[IBM InfoSphere Information Server cross-site scripting (CVE-2022-35642)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 14, 2022|
+ |[IBM InfoSphere Information Server cross-site scripting (CVE-2022-30615)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 14, 2022|
+ |[IBM InfoSphere Information Server cross-site request forgery (CVE-2022-30608)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 14, 2022|
+ |[IBM InfoSphere Information Server information disclosure (CVE-2022-22442)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 14, 2022|
  
  ---
 
@@ -47,6 +88,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/WebSphere-AS-Man-in-the-Middle-via-SOAPAction-39568" class="noirorange"><b>WebSphere AS</b>: Man-in-the-Middle via SOAPAction</a>](https://vigilance.fr/vulnerability/WebSphere-AS-Man-in-the-Middle-via-SOAPAction-39568)|An attacker can act as a Man-in-the-Middle on WebSphere AS, via SOAPAction, in order to read or write data in the session...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Exiv2-overload-via-DataBufdata-39567" class="noirorange"><b>Exiv2</b>: overload via DataBufdata()</a>](https://vigilance.fr/vulnerability/Exiv2-overload-via-DataBufdata-39567)|An attacker can trigger an overload of Exiv2, via DataBufdata(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-ipaddr-link-get-39566" class="noirorange"><b>Linux kernel</b>: memory leak via ipaddr_link_get()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-ipaddr-link-get-39566)|An attacker can create a memory leak of the Linux kernel, via ipaddr_link_get(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-fdb-get-39565" class="noirorange"><b>Linux kernel</b>: memory leak via fdb_get()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-fdb-get-39565)|An attacker can create a memory leak of the Linux kernel, via fdb_get(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-mptcp-addr-show-39564" class="noirorange"><b>Linux kernel</b>: memory leak via mptcp_addr_show()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-mptcp-addr-show-39564)|An attacker can create a memory leak of the Linux kernel, via mptcp_addr_show(), in order to trigger a denial of service...|Visit link for details|
@@ -56,32 +99,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-mm-memory-c-39560" class="noirorange"><b>Linux kernel</b>: reuse after free via mm/memory.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-mm-memory-c-39560)|An attacker can force the reuse of a freed memory area of the Linux kernel, via mm/memory.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-hugetlb-no-page-39559" class="noirorange"><b>Linux kernel</b>: denial of service via hugetlb_no_page()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-hugetlb-no-page-39559)|An attacker can cause a fatal error of the Linux kernel, via hugetlb_no_page(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-kcm-tx-work-39558" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via kcm_tx_work()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-kcm-tx-work-39558)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via kcm_tx_work(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/RoundCube-Webmail-no-encryption-via-Multipart-Re-sent-Email-39557" class="noirorange"><b>RoundCube Webmail</b>: no encryption via Multipart Re-sent Email</a>](https://vigilance.fr/vulnerability/RoundCube-Webmail-no-encryption-via-Multipart-Re-sent-Email-39557)|An attacker can access data on RoundCube Webmail, via Multipart Re-sent Email, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apptainer-weak-signature-via-Sif-Dependency-39556" class="noirorange"><b>Apptainer</b>: weak signature via Sif Dependency</a>](https://vigilance.fr/vulnerability/Apptainer-weak-signature-via-Sif-Dependency-39556)|An attacker can use malicious data on Apptainer, via Sif Dependency, in order to deceive the victim...|Visit link for details|
- 
- ---
-
-## CERT-FR [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-919/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 14 octobre 2022|
- |[Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-918/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Elles permettent à un attaquant de provoquer un déni de service, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 14 octobre 2022|
- |[Multiples vulnérabilités dans Ivanti Connect Secure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-917/)|De multiples vulnérabilités ont été découvertes dans Ivanti Connect Secure. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 14 octobre 2022|
- |[Multiples vulnérabilités dans les produits Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-916/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 13 octobre 2022|
- |[Vulnérabilité dans SonicWall GMS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-915/)|Une vulnérabilité a été découverte dans SonicWall GMS. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 13 octobre 2022|
- |[Multiples vulnérabilités dans Grafana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-914/)|De multiples vulnérabilités ont été découvertes dans Grafana. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 13 octobre 2022|
- |[Multiples vulnérabilités dans Mitel Connect et MiCollab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-913/)|De multiples vulnérabilités ont été découvertes dans Mitel Connect et MiCollab. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 13 octobre 2022|
- |[Vulnérabilité dans Palo Alto Networks PAN-OS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-912/)|Une vulnérabilité a été découverte dans Palo Alto Networks PAN-OS. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 13 octobre 2022|
- |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-911/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 13 octobre 2022|
- |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-910/)|De multiples vulnérabilités ont été corrigées dans |Publié le 12 octobre 2022|
- 
- ---
-
-## IBMCLOUD [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
@@ -107,12 +124,12 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Microsoft Exchange PowerShell Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1442/)|Visit link for details|Oct. 17, 2022|
+ |[Microsoft Exchange Autodiscover Server-Side Request Forgery Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1441/)|Visit link for details|Oct. 17, 2022|
+ |[Siemens Simcenter Femap JT File Parsing Uninitialized Pointer Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1440/)|Visit link for details|Oct. 17, 2022|
  |[Adobe Dimension SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1439/)|Visit link for details|Oct. 14, 2022|
  |[Altair HyperView Player H3D File Parsing Improper Validation of Array Index Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1438/)|Visit link for details|Oct. 14, 2022|
  |[Altair HyperView Player H3D File Parsing Uninitialized Memory Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1437/)|Visit link for details|Oct. 14, 2022|
  |[Altair HyperView Player H3D File Parsing Uninitialized Memory Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1436/)|Visit link for details|Oct. 14, 2022|
  |[Altair HyperView Player H3D File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1435/)|Visit link for details|Oct. 14, 2022|
- |[Adobe ColdFusion Application Server Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1434/)|Visit link for details|Oct. 14, 2022|
- |[Adobe ColdFusion Application Server Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1433/)|Visit link for details|Oct. 14, 2022|
- |[Adobe ColdFusion Application Server Directory Traversal Arbitrary File Disclosure Or Deletion Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1432/)|Visit link for details|Oct. 14, 2022|
  
