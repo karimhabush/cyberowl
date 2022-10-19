@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 18/10/2022 21:11:17 UTC
+ > Last Updated 19/10/2022 09:24:11 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -36,38 +36,17 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+## IBMCLOUD [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-io-uring-39607" class="noirorange"><b>Linux kernel</b>: reuse after free via io_uring</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-io-uring-39607)|An attacker can force the reuse of a freed memory area of the Linux kernel, via io_uring, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Node-js-xmldom-prototype-pollution-via-copy-39603" class="noirorange"><b>Node.js xmldom</b>: prototype pollution via copy()</a>](https://vigilance.fr/vulnerability/Node-js-xmldom-prototype-pollution-via-copy-39603)|An attacker can alter the JavaScript code of Node.js xmldom, via copy(), in order to change the software behavior...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FRRouting-reuse-after-free-via-bgp-notify-send-with-data-39602" class="noirorange"><b>FRRouting</b>: reuse after free via <wbr>bgp_notify_send_with<wbr>_data()</wbr></wbr></a>](https://vigilance.fr/vulnerability/FRRouting-reuse-after-free-via-bgp-notify-send-with-data-39602)|An attacker can force the reuse of a freed memory area of FRRouting, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-multiple-vulnerabilities-39601" class="noirorange"><b>Mozilla Firefox</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-multiple-vulnerabilities-39601)|An attacker can use several vulnerabilities of Mozilla Firefox...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-information-disclosure-via-Template-Content-39594" class="noirorange"><b>OTRS Help Desk</b>: information disclosure via Template Content</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-information-disclosure-via-Template-Content-39594)|An attacker can bypass access restrictions to data of OTRS Help Desk, via Template Content, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-overload-via-Many-Recipients-Email-39593" class="noirorange"><b>OTRS Help Desk</b>: overload via Many Recipients Email</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-overload-via-Many-Recipients-Email-39593)|An attacker can trigger an overload of OTRS Help Desk, via Many Recipients Email, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-inet6-stream-ops-39591" class="noirorange"><b>Linux kernel</b>: denial of service via inet6_stream_ops()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-inet6-stream-ops-39591)|An attacker can cause a fatal error of the Linux kernel, via inet6_stream_ops(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-tcp-getsockopt-39590" class="noirorange"><b>Linux kernel</b>: denial of service via tcp_getsockopt()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-tcp-getsockopt-39590)|An attacker can cause a fatal error of the Linux kernel, via tcp_getsockopt(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-del-timer-39589" class="noirorange"><b>Linux kernel</b>: reuse after free via del_timer()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-del-timer-39589)|An attacker can force the reuse of a freed memory area of the Linux kernel, via del_timer(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-l2cap-reassemble-sdu-39588" class="noirorange"><b>Linux kernel</b>: reuse after free via <wbr>l2cap_reassemble_sdu<wbr>()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-l2cap-reassemble-sdu-39588)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Exim-reuse-after-free-via-Regex-Variables-39587" class="noirorange"><b>Exim</b>: reuse after free via Regex Variables</a>](https://vigilance.fr/vulnerability/Exim-reuse-after-free-via-Regex-Variables-39587)|An attacker can force the reuse of a freed memory area of Exim, via Regex Variables, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Linux Kernel CIFS sess.c sess_free_buffer double free](https://vuldb.com/?id.211364)|Visit link for details|2022-10-18 at 22:06|
- |[Linux Kernel BPF r8152.c intr_callback logging of excessive data](https://vuldb.com/?id.211363)|Visit link for details|2022-10-18 at 22:04|
- |[Linux Kernel iproute2 ipmptcp.c mptcp_limit_get_set memory leak](https://vuldb.com/?id.211362)|Visit link for details|2022-10-18 at 22:01|
- |[Billing System Project editProductImage.php unrestricted upload](https://vuldb.com/?id.211361)|Visit link for details|2022-10-18 at 19:17|
- |[Fortinet FortiTester Certificate Import os command injection](https://vuldb.com/?id.211360)|Visit link for details|2022-10-18 at 19:16|
- |[Fortinet FortiTester Console Login os command injection](https://vuldb.com/?id.211359)|Visit link for details|2022-10-18 at 19:15|
- |[supybot-fedora Refresh resource consumption](https://vuldb.com/?id.211358)|Visit link for details|2022-10-18 at 19:15|
- |[MobSF Mobile Security Framework HTTP Request views.py file inclusion](https://vuldb.com/?id.211357)|Visit link for details|2022-10-18 at 19:10|
- |[TP-LINK AX10v1 hard-coded key](https://vuldb.com/?id.211356)|Visit link for details|2022-10-18 at 19:09|
- |[Tenda AC18 fromSetSysTime stack-based overflow](https://vuldb.com/?id.211355)|Visit link for details|2022-10-18 at 19:08|
+ |[IBM WebSphere Application Server spoofing (CVE-2022-38712)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 17, 2022|
+ |[IBM Business Automation Workflow information disclosure (CVE-2022-35279)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 17, 2022|
+ |[IBM Cognos Analytics information disclosure (CVE-2022-34339)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 17, 2022|
+ |[Gnome ibxml2 code execution (CVE-2022-40304)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 14, 2022|
+ |[Gnome libxml2 integer overflow (CVE-2022-40303)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 14, 2022|
+ |[IBM InfoSphere Information Server external entity injection (CVE-2022-40747)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 14, 2022|
+ |[IBM InfoSphere Information Server denial of service (CVE-2022-40235)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 14, 2022|
  
  ---
 
@@ -88,10 +67,46 @@
  
  ---
 
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/glibc-vulnerability-via-iconv-39618" class="noirorange"><b>glibc</b>: vulnerability via iconv()</a>](https://vigilance.fr/vulnerability/glibc-vulnerability-via-iconv-39618)|A vulnerability of glibc, via iconv(), was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/librt-NULL-pointer-dereference-via-NOTIFY-REMOVED-39617" class="noirorange"><b>librt</b>: NULL pointer dereference via NOTIFY_REMOVED</a>](https://vigilance.fr/vulnerability/librt-NULL-pointer-dereference-via-NOTIFY-REMOVED-39617)|An attacker can force a NULL pointer to be dereferenced on librt, via NOTIFY_REMOVED, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Java-vulnerabilities-of-October-2022-39616" class="noirorange"><b>Java</b>: vulnerabilities of October 2022</a>](https://vigilance.fr/vulnerability/Java-vulnerabilities-of-October-2022-39616)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MySQL-vulnerabilities-of-October-2022-39615" class="noirorange"><b>MySQL</b>: vulnerabilities of October 2022</a>](https://vigilance.fr/vulnerability/MySQL-vulnerabilities-of-October-2022-39615)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-VM-VirtualBox-vulnerabilities-of-October-2022-39614" class="noirorange"><b>Oracle VM VirtualBox</b>: vulnerabilities of October 2022</a>](https://vigilance.fr/vulnerability/Oracle-VM-VirtualBox-vulnerabilities-of-October-2022-39614)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-Solaris-vulnerabilities-of-October-2022-39613" class="noirorange"><b>Oracle Solaris</b>: vulnerabilities of October 2022</a>](https://vigilance.fr/vulnerability/Oracle-Solaris-vulnerabilities-of-October-2022-39613)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-Fusion-Middleware-vulnerabilities-of-October-2022-39612" class="noirorange"><b>Oracle Fusion Middleware</b>: vulnerabilities of October 2022</a>](https://vigilance.fr/vulnerability/Oracle-Fusion-Middleware-vulnerabilities-of-October-2022-39612)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-Communications-vulnerabilities-of-October-2022-39610" class="noirorange"><b>Oracle Communications</b>: vulnerabilities of October 2022</a>](https://vigilance.fr/vulnerability/Oracle-Communications-vulnerabilities-of-October-2022-39610)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-Database-vulnerabilities-of-October-2022-39609" class="noirorange"><b>Oracle Database</b>: vulnerabilities of October 2022</a>](https://vigilance.fr/vulnerability/Oracle-Database-vulnerabilities-of-October-2022-39609)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-BINDER-TYPE-WEAK-HANDLE-39608" class="noirorange"><b>Linux kernel</b>: reuse after free via <wbr>BINDER_TYPE_WEAK_HAN<wbr>DLE</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-BINDER-TYPE-WEAK-HANDLE-39608)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-io-uring-39607" class="noirorange"><b>Linux kernel</b>: reuse after free via io_uring</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-io-uring-39607)|An attacker can force the reuse of a freed memory area of the Linux kernel, via io_uring, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Linux Kernel BPF libbpf.c find_prog_by_sec_insn null pointer dereference](https://vuldb.com/?id.211749)|Visit link for details|2022-10-19 at 11:02|
+ |[EyouCMS Members Center cross-site request forgery](https://vuldb.com/?id.211748)|Visit link for details|2022-10-19 at 10:57|
+ |[Liferay DXP Document/Media Module cross site scripting](https://vuldb.com/?id.211747)|Visit link for details|2022-10-19 at 10:57|
+ |[Liferay Portal/DXP Frontend Taglib Module cross site scripting](https://vuldb.com/?id.211746)|Visit link for details|2022-10-19 at 10:56|
+ |[Liferay Portal/DXP Frontend Editor Module cross site scripting](https://vuldb.com/?id.211745)|Visit link for details|2022-10-19 at 10:55|
+ |[Liferay Portal Object Module cross site scripting](https://vuldb.com/?id.211744)|Visit link for details|2022-10-19 at 10:53|
+ |[Liferay Portal/DXP Role Module cross site scripting](https://vuldb.com/?id.211743)|Visit link for details|2022-10-19 at 10:52|
+ |[Liferay Portal/DXP Document Library Module cross site scripting](https://vuldb.com/?id.211742)|Visit link for details|2022-10-19 at 10:51|
+ |[Liferay Portal/DXP Search Module cross site scripting](https://vuldb.com/?id.211741)|Visit link for details|2022-10-19 at 10:47|
+ |[Corsair K63 Wireless Radio Transmission injection](https://vuldb.com/?id.211740)|Visit link for details|2022-10-19 at 10:46|
+ 
+ ---
+
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[38741910/22 - Vulnérabilités dans le CMS WordPress](https://www.dgssi.gov.ma//fr/content/3874191022-vulnerabilites-dans-le-cms-wordpress.html)|Plusieurs vulnérabilités ont été corrigées dans le CMS WordPress. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire à distance, de porter atteinte à l'intégrité des données et de réussir...|19 octobre 2022|
  |[38731810/22 - Vulnérabilité critique dans la bibliothèque Apache Commons Text](https://www.dgssi.gov.ma//fr/content/3873181022-vulnerabilite-critique-dans-la-bibliotheque-apache-commons-text.html)|La Fondation Apache Software a publié une mise à jour de sécurité pour corriger une vulnérabilité critique (CVE-2022-42889) dans sa bibliothèque Apache Commons Text.Une exploitation réussie pourrait permettre à un attaquant non...|18 octobre 2022|
  |[38711810/22 - Vulnérabilités affectantle navigateur Microsoft Edge ](https://www.dgssi.gov.ma//fr/content/3871181022-vulnerabilites-affectant-le-navigateur-microsoft-edge.html)|Microsoft vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilités affectant le navigateur Microsoft Edge. L’exploitation de cette vulnérabilité peut permettre à un attaquant d’exécuter du code...|18 octobre 2022|
  |[38721810/22 - Vulnérabilités dans les produits de vidéoconférence ZOOM ](https://www.dgssi.gov.ma//fr/content/3872181022-vulnerabilites-dans-les-produits-de-videoconference-zoom.html)|Zoom annonce la correction de deux vulnérabilités affectant les produits susmentionnés de vidéoconférence Zoom. L’exploitation de ces failles peut permettre à un attaquant local d’obtenir des informations confidentielles et de prendre le...|18 octobre 2022|
@@ -102,21 +117,6 @@
  |[38661310/22 - Vulnérabilités dans Zimbra Collaboration](https://www.dgssi.gov.ma//fr/content/3866131022-vulnerabilites-dans-zimbra-collaboration.html)|Plusieurs vulnérabilités ont été corrigées dans Zimbra Collaboration. L’exploitation de ces failles pourrait permettre à un attaquant d’exécuter du code arbitraireà distance, de réussir une élévation de privilèges et d’injecter du code...|13 octobre 2022|
  |[38661310/22 - Vulnérabilités dans Google Chrome](https://www.dgssi.gov.ma//fr/content/3866131022-vulnerabilites-dans-google-chrome.html)|Google a corrigé plusieurs vulnérabilités dans son navigateur Google Chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du système affecté.|13 octobre 2022|
  |[38661210/22 - Vulnérabilités affectant plusieursproduits SAP](https://www.dgssi.gov.ma//fr/content/3866121022-vulnerabilites-affectant-plusieurs-produits-sap.html)|SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuterdu code arbitraire, d...|12 octobre 2022|
- |[38651210/22 - Vulnérabilité affectant Apple iOS ](https://www.dgssi.gov.ma//fr/content/3865121022-vulnerabilite-affectant-apple-ios.html)|Apple annonce lacorrectiond’une vulnérabilité affectant son système d’exploitation iOS.L'exploitation decette vulnérabilité peut permettre à un attaquant de causer un déni de service.|12 octobre 2022|
- 
- ---
-
-## IBMCLOUD [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[IBM WebSphere Application Server spoofing (CVE-2022-38712)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 17, 2022|
- |[IBM Business Automation Workflow information disclosure (CVE-2022-35279)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 17, 2022|
- |[IBM Cognos Analytics information disclosure (CVE-2022-34339)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 17, 2022|
- |[IBM InfoSphere Information Server external entity injection (CVE-2022-40747)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 14, 2022|
- |[IBM InfoSphere Information Server denial of service (CVE-2022-40235)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 14, 2022|
- |[IBM InfoSphere Information Server command execution (CVE-2022-35717)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 14, 2022|
- |[IBM InfoSphere Information Server cross-site scripting (CVE-2022-35642)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 14, 2022|
  
  ---
 
