@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 19/10/2022 09:24:11 UTC
+ > Last Updated 19/10/2022 21:13:51 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -27,61 +27,12 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA Updates Advisory on Threat Actors Exploiting Multiple CVEs Against Zimbra Collaboration Suite](https://www.cisa.gov/uscert/ncas/current-activity/2022/10/19/cisa-updates-advisory-threat-actors-exploiting-multiple-cves)|<p>CISA and the Multi-State Information Sharing &amp; Analysis Center (MS-ISAC) have updated joint Cybersecurity Advisory <a href="https://www.cisa.gov/uscert/ncas/alerts/aa22-228a">AA22-228A: Threat Actors Exploiting Multiple CVEs Against Zimbra Collaboration Suite</a>, originally released August 16, 2022. The advisory has been updated to reference the addition of a new Malware Analysis Report, <a href="https://www.cisa.gov/uscert/ncas/analysis-reports/ar22-292a">MAR-10398871.r1.v2</a>.</p>|Wednesday, October 19, 2022|
+ |[Oracle Releases October 2022 Critical Patch Update](https://www.cisa.gov/uscert/ncas/current-activity/2022/10/19/oracle-releases-october-2022-critical-patch-update)|<p>Oracle has released its Critical Patch Update for October 2022. This update addresses 366 vulnerabilities across multiple products. A remote attacker could exploit some of these vulnerabilities to take control of an affected system.</p>|Wednesday, October 19, 2022|
  |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/uscert/ncas/current-activity/2022/10/18/cisa-releases-two-industrial-control-systems-advisories)|<p>CISA released two Industrial Control Systems (ICS) advisories on October 18, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p>|Tuesday, October 18, 2022|
  |[CISA Releases RedEye: Red Team Campaign Visualization and Reporting Tool](https://www.cisa.gov/uscert/ncas/current-activity/2022/10/14/cisa-releases-redeye-red-team-campaign-visualization-and-reporting)|<p>CISA has released RedEye, an interactive open-source analytic tool to visualize and report Red Team command and control activities. RedEye allows an operator to quickly assess complex data, evaluate mitigation strategies, and enable effective decision making.</p>|Friday, October 14, 2022|
  |[CISA Releases Twenty-Five Industrial Control Systems Advisories](https://www.cisa.gov/uscert/ncas/current-activity/2022/10/13/cisa-releases-twenty-five-industrial-control-systems-advisories)|<p>CISA has released twenty-five (25) Industrial Control Systems (ICS) advisories on October 13, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p>|Thursday, October 13, 2022|
  |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/uscert/ncas/current-activity/2022/10/11/adobe-releases-security-updates-multiple-products)|<p>Adobe has released security updates to address multiple vulnerabilities in Adobe software. An attacker can exploit some of these vulnerabilities to take control of an affected system.</p>|Tuesday, October 11, 2022|
- |[Microsoft Releases October 2022 Security Updates](https://www.cisa.gov/uscert/ncas/current-activity/2022/10/11/microsoft-releases-october-2022-security-updates)|<p>Microsoft has released updates to address multiple vulnerabilities in Microsoft software. An attacker can exploit some of these vulnerabilities to take control of an affected system.</p>|Tuesday, October 11, 2022|
- |[CISA Has Added One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2022/10/11/cisa-has-added-one-known-exploited-vulnerability-catalog)|<p>CISA has added one new vulnerability to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. This type of vulnerability is a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: To view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.      </p>|Tuesday, October 11, 2022|
- 
- ---
-
-## IBMCLOUD [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[IBM WebSphere Application Server spoofing (CVE-2022-38712)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 17, 2022|
- |[IBM Business Automation Workflow information disclosure (CVE-2022-35279)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 17, 2022|
- |[IBM Cognos Analytics information disclosure (CVE-2022-34339)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 17, 2022|
- |[Gnome ibxml2 code execution (CVE-2022-40304)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 14, 2022|
- |[Gnome libxml2 integer overflow (CVE-2022-40303)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 14, 2022|
- |[IBM InfoSphere Information Server external entity injection (CVE-2022-40747)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 14, 2022|
- |[IBM InfoSphere Information Server denial of service (CVE-2022-40235)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 14, 2022|
- 
- ---
-
-## CERT-FR [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans IBM QRadar](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-924/)|De multiples vulnérabilités ont été découvertes dans IBM QRadar. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 18 octobre 2022|
- |[Multiples vulnérabilités dans WordPress](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-923/)|De multiples vulnérabilités ont été découvertes dans WordPress. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une injection de code indirecte à distance (XSS).|Publié le 18 octobre 2022|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-922/)|De multiples vulnérabilités ont été corrigées dans |Publié le 17 octobre 2022|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-921/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 17 octobre 2022|
- |[Multiples vulnérabilités dans les produits Adobe](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-920/)|De multiples vulnérabilités ont été découvertes dans les produits Adobe. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service et un contournement de la politique de sécurité.|Publié le 17 octobre 2022|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-919/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 14 octobre 2022|
- |[Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-918/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Elles permettent à un attaquant de provoquer un déni de service, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 14 octobre 2022|
- |[Multiples vulnérabilités dans Ivanti Connect Secure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-917/)|De multiples vulnérabilités ont été découvertes dans Ivanti Connect Secure. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 14 octobre 2022|
- |[Multiples vulnérabilités dans les produits Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-916/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 13 octobre 2022|
- |[Vulnérabilité dans SonicWall GMS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-915/)|Une vulnérabilité a été découverte dans SonicWall GMS. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 13 octobre 2022|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/glibc-vulnerability-via-iconv-39618" class="noirorange"><b>glibc</b>: vulnerability via iconv()</a>](https://vigilance.fr/vulnerability/glibc-vulnerability-via-iconv-39618)|A vulnerability of glibc, via iconv(), was announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/librt-NULL-pointer-dereference-via-NOTIFY-REMOVED-39617" class="noirorange"><b>librt</b>: NULL pointer dereference via NOTIFY_REMOVED</a>](https://vigilance.fr/vulnerability/librt-NULL-pointer-dereference-via-NOTIFY-REMOVED-39617)|An attacker can force a NULL pointer to be dereferenced on librt, via NOTIFY_REMOVED, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Java-vulnerabilities-of-October-2022-39616" class="noirorange"><b>Java</b>: vulnerabilities of October 2022</a>](https://vigilance.fr/vulnerability/Java-vulnerabilities-of-October-2022-39616)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/MySQL-vulnerabilities-of-October-2022-39615" class="noirorange"><b>MySQL</b>: vulnerabilities of October 2022</a>](https://vigilance.fr/vulnerability/MySQL-vulnerabilities-of-October-2022-39615)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Oracle-VM-VirtualBox-vulnerabilities-of-October-2022-39614" class="noirorange"><b>Oracle VM VirtualBox</b>: vulnerabilities of October 2022</a>](https://vigilance.fr/vulnerability/Oracle-VM-VirtualBox-vulnerabilities-of-October-2022-39614)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Oracle-Solaris-vulnerabilities-of-October-2022-39613" class="noirorange"><b>Oracle Solaris</b>: vulnerabilities of October 2022</a>](https://vigilance.fr/vulnerability/Oracle-Solaris-vulnerabilities-of-October-2022-39613)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Oracle-Fusion-Middleware-vulnerabilities-of-October-2022-39612" class="noirorange"><b>Oracle Fusion Middleware</b>: vulnerabilities of October 2022</a>](https://vigilance.fr/vulnerability/Oracle-Fusion-Middleware-vulnerabilities-of-October-2022-39612)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Oracle-Communications-vulnerabilities-of-October-2022-39610" class="noirorange"><b>Oracle Communications</b>: vulnerabilities of October 2022</a>](https://vigilance.fr/vulnerability/Oracle-Communications-vulnerabilities-of-October-2022-39610)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Oracle-Database-vulnerabilities-of-October-2022-39609" class="noirorange"><b>Oracle Database</b>: vulnerabilities of October 2022</a>](https://vigilance.fr/vulnerability/Oracle-Database-vulnerabilities-of-October-2022-39609)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-BINDER-TYPE-WEAK-HANDLE-39608" class="noirorange"><b>Linux kernel</b>: reuse after free via <wbr>BINDER_TYPE_WEAK_HAN<wbr>DLE</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-BINDER-TYPE-WEAK-HANDLE-39608)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-io-uring-39607" class="noirorange"><b>Linux kernel</b>: reuse after free via io_uring</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-io-uring-39607)|An attacker can force the reuse of a freed memory area of the Linux kernel, via io_uring, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
  ---
 
@@ -89,16 +40,51 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Linux Kernel BPF libbpf.c find_prog_by_sec_insn null pointer dereference](https://vuldb.com/?id.211749)|Visit link for details|2022-10-19 at 11:02|
- |[EyouCMS Members Center cross-site request forgery](https://vuldb.com/?id.211748)|Visit link for details|2022-10-19 at 10:57|
- |[Liferay DXP Document/Media Module cross site scripting](https://vuldb.com/?id.211747)|Visit link for details|2022-10-19 at 10:57|
- |[Liferay Portal/DXP Frontend Taglib Module cross site scripting](https://vuldb.com/?id.211746)|Visit link for details|2022-10-19 at 10:56|
- |[Liferay Portal/DXP Frontend Editor Module cross site scripting](https://vuldb.com/?id.211745)|Visit link for details|2022-10-19 at 10:55|
- |[Liferay Portal Object Module cross site scripting](https://vuldb.com/?id.211744)|Visit link for details|2022-10-19 at 10:53|
- |[Liferay Portal/DXP Role Module cross site scripting](https://vuldb.com/?id.211743)|Visit link for details|2022-10-19 at 10:52|
- |[Liferay Portal/DXP Document Library Module cross site scripting](https://vuldb.com/?id.211742)|Visit link for details|2022-10-19 at 10:51|
- |[Liferay Portal/DXP Search Module cross site scripting](https://vuldb.com/?id.211741)|Visit link for details|2022-10-19 at 10:47|
- |[Corsair K63 Wireless Radio Transmission injection](https://vuldb.com/?id.211740)|Visit link for details|2022-10-19 at 10:46|
+ |[GitHub Enterprise Server SVNBridge deserialization](https://vuldb.com/?id.211807)|Visit link for details|2022-10-19 at 21:10|
+ |[Relatedcode Messenger information disclosure](https://vuldb.com/?id.211806)|Visit link for details|2022-10-19 at 21:09|
+ |[Markdownify Markdown File information disclosure](https://vuldb.com/?id.211805)|Visit link for details|2022-10-19 at 21:08|
+ |[D-Link DIR878 proc.cgi command injection](https://vuldb.com/?id.211804)|Visit link for details|2022-10-19 at 21:08|
+ |[GPAC scene_dump.c gf_dump_vrml_sffield memory corruption](https://vuldb.com/?id.211803)|Visit link for details|2022-10-19 at 21:06|
+ |[GPAC meta.c gf_isom_get_meta_item_info memory corruption](https://vuldb.com/?id.211802)|Visit link for details|2022-10-19 at 21:06|
+ |[GPAC field_decode.c BD_CheckSFTimeOffset memory corruption](https://vuldb.com/?id.211801)|Visit link for details|2022-10-19 at 21:06|
+ |[GPAC isom_intern.c FixSDTPInTRAF heap-based overflow](https://vuldb.com/?id.211800)|Visit link for details|2022-10-19 at 21:06|
+ |[GPAC box_funcs.c gf_isom_box_dump_start_ex heap-based overflow](https://vuldb.com/?id.211799)|Visit link for details|2022-10-19 at 21:05|
+ |[GPAC meta.c gf_isom_meta_restore_items_ref memory corruption](https://vuldb.com/?id.211798)|Visit link for details|2022-10-19 at 21:05|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-denial-of-service-via-DNS-Express-39649" class="noirorange"><b>F5 BIG-IP</b>: denial of service via DNS Express</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-denial-of-service-via-DNS-Express-39649)|An attacker can cause a fatal error of F5 BIG-IP, via DNS Express, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-denial-of-service-via-SYN-Cookies-Auto-Receive-Window-Option-39648" class="noirorange"><b>F5 BIG-IP</b>: denial of service via SYN Cookies Auto Receive Window Option</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-denial-of-service-via-SYN-Cookies-Auto-Receive-Window-Option-39648)|An attacker can cause a fatal error of F5 BIG-IP, via SYN Cookies Auto Receive Window Option, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-memory-leak-via-iControl-REST-39647" class="noirorange"><b>F5 BIG-IP</b>: memory leak via iControl REST</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-memory-leak-via-iControl-REST-39647)|An attacker can create a memory leak of F5 BIG-IP, via iControl REST, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-no-encryption-via-Intel-QAT-AES-GCM-CCM-39646" class="noirorange"><b>F5 BIG-IP</b>: no encryption via Intel QAT AES-GCM/CCM</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-no-encryption-via-Intel-QAT-AES-GCM-CCM-39646)|An attacker can access data on F5 BIG-IP, via Intel QAT AES-GCM/CCM, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-ingress-filtrering-bypass-via-XML-Encoding-39645" class="noirorange"><b>F5 BIG-IP</b>: ingress filtrering bypass via XML Encoding</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-ingress-filtrering-bypass-via-XML-Encoding-39645)|An attacker can bypass filtering rules of F5 BIG-IP, via XML Encoding, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-privilege-escalation-via-iControl-REST-39644" class="noirorange"><b>F5 BIG-IP</b>: privilege escalation via iControl REST</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-privilege-escalation-via-iControl-REST-39644)|An attacker can bypass restrictions of F5 BIG-IP, via iControl REST, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-denial-of-service-via-Attack-Signature-False-Positive-Mode-39643" class="noirorange"><b>F5 BIG-IP</b>: denial of service via Attack Signature False Positive Mode</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-denial-of-service-via-Attack-Signature-False-Positive-Mode-39643)|An attacker can cause a fatal error of F5 BIG-IP, via Attack Signature False Positive Mode, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-memory-leak-via-iRule-39642" class="noirorange"><b>F5 BIG-IP</b>: memory leak via iRule</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-memory-leak-via-iRule-39642)|An attacker can create a memory leak of F5 BIG-IP, via iRule, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-memory-leak-via-Session-Initiation-Protocol-39641" class="noirorange"><b>F5 BIG-IP</b>: memory leak via Session Initiation Protocol</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-memory-leak-via-Session-Initiation-Protocol-39641)|An attacker can create a memory leak of F5 BIG-IP, via SIP, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-memory-leak-via-AFM-Network-Address-Translation-39640" class="noirorange"><b>F5 BIG-IP</b>: memory leak via AFM Network Address Translation</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-memory-leak-via-AFM-Network-Address-Translation-39640)|An attacker can create a memory leak of F5 BIG-IP, via AFM Network Address Translation, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-denial-of-service-via-Traffic-Management-Microkernel-39639" class="noirorange"><b>F5 BIG-IP</b>: denial of service via Traffic Management Microkernel</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-denial-of-service-via-Traffic-Management-Microkernel-39639)|An attacker can cause a fatal error of F5 BIG-IP, via Traffic Management Microkernel, in order to trigger a denial of service...|Visit link for details|
+ 
+ ---
+
+## CERT-FR [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans Oracle WebLogic Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-935/)|De multiples vulnérabilités ont été découvertes dans Oracle WebLogic Server. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 19 octobre 2022|
+ |[Multiples vulnérabilités dans Oracle Virtualization](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-934/)|De multiples vulnérabilités ont été découvertes dans Oracle Virtualization. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 19 octobre 2022|
+ |[Multiples vulnérabilités dans Oracle Systems](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-933/)|De multiples vulnérabilités ont été découvertes dans Oracle Systems. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 19 octobre 2022|
+ |[Multiples vulnérabilités dans Oracle PeopleSoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-932/)|De multiples vulnérabilités ont été découvertes dans Oracle PeopleSoft. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 19 octobre 2022|
+ |[Multiples vulnérabilités dans Oracle MySQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-931/)|De multiples vulnérabilités ont été découvertes dans Oracle MySQL. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 19 octobre 2022|
+ |[Multiples vulnérabilités dans Oracle Java SE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-930/)|De multiples vulnérabilités ont été découvertes dans Oracle Java SE. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 19 octobre 2022|
+ |[Multiples vulnérabilités dans Oracle Database Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-929/)|De multiples vulnérabilités ont été découvertes dans Oracle Database Server. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 19 octobre 2022|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-928/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 19 octobre 2022|
+ |[Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-927/)|De multiples vulnérabilités ont été corrigées dans |Publié le 19 octobre 2022|
+ |[Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-926/)|De multiples vulnérabilités ont été corrigées dans |Publié le 19 octobre 2022|
  
  ---
 
@@ -106,6 +92,10 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[38761910/22 - Vulnérabilités affectantle navigateur Mozilla Firefox](https://www.dgssi.gov.ma//fr/content/3876191022-vulnerabilites-affectant-le-navigateur-mozilla-firefox.html-0)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de cesvulnérabilités peut permettre à un...|19 octobre 2022|
+ |[38761910/22 - Vulnérabilités affectantle navigateur Mozilla Firefox](https://www.dgssi.gov.ma//fr/content/3876191022-vulnerabilites-affectant-le-navigateur-mozilla-firefox.html)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de cesvulnérabilités peut permettre à un...|19 octobre 2022|
+ |[38771910/22 - Vulnérabilités dans Adobe Ilustrator ](https://www.dgssi.gov.ma//fr/content/3877191022-vulnerabilites-dans-adobe-ilustrator.html)|Deux vulnérabilités ont été corrigées dans les produits Adobe Illustrator susmentionnés. Un attaquant distant pourrait exploiter certaines de ces vulnérabilités afin d’exécuter du code arbitraire à distance.|19 octobre 2022|
+ |[38751910/22 - "Oracle Critical Patch Update" du Mois Octobre 2022](https://www.dgssi.gov.ma//fr/content/3875191022-oracle-critical-patch-update-du-mois-octobre-2022.html)|Oracle a publié des correctifs de sécurité pour traiter plusieurs vulnérabilités dans le cadre de sa mise à jour « Oracle Critical Patch Update » du mois Octobre 2022. L'exploitation de certaines de ces vulnérabilités pourrait...|19 octobre 2022|
  |[38741910/22 - Vulnérabilités dans le CMS WordPress](https://www.dgssi.gov.ma//fr/content/3874191022-vulnerabilites-dans-le-cms-wordpress.html)|Plusieurs vulnérabilités ont été corrigées dans le CMS WordPress. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire à distance, de porter atteinte à l'intégrité des données et de réussir...|19 octobre 2022|
  |[38731810/22 - Vulnérabilité critique dans la bibliothèque Apache Commons Text](https://www.dgssi.gov.ma//fr/content/3873181022-vulnerabilite-critique-dans-la-bibliotheque-apache-commons-text.html)|La Fondation Apache Software a publié une mise à jour de sécurité pour corriger une vulnérabilité critique (CVE-2022-42889) dans sa bibliothèque Apache Commons Text.Une exploitation réussie pourrait permettre à un attaquant non...|18 octobre 2022|
  |[38711810/22 - Vulnérabilités affectantle navigateur Microsoft Edge ](https://www.dgssi.gov.ma//fr/content/3871181022-vulnerabilites-affectant-le-navigateur-microsoft-edge.html)|Microsoft vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilités affectant le navigateur Microsoft Edge. L’exploitation de cette vulnérabilité peut permettre à un attaquant d’exécuter du code...|18 octobre 2022|
@@ -113,10 +103,20 @@
  |[38701710/22 - Vulnérabilités dans les produits Juniper](https://www.dgssi.gov.ma//fr/content/3870171022-vulnerabilites-dans-les-produits-juniper.html)|Juniper annonce la correction de plusieurs vulnérabilités affectant ses produits. L’exploitation de ces failles peut permettre à un attaquant de réussir une élévation de privilèges, d’exécuter du code arbitraire à distance, de causer un...|17 octobre 2022|
  |[38691410/22 - Publication d’exploit de la vulnérabilité « CVE-2022-40684 » affectant les produits Fo](https://www.dgssi.gov.ma//fr/content/3869141022-publication-d-exploit-de-la-vulnerabilite-cve-2022-40684-affectant-les-produits-fortinet.html)|Un code d’exploit est publiquement disponible de la vulnérabilité critique "CVE-2022-40684" de contournement d'authentification affectant les appliances FortiOS, FortiProxy et FortiSwitchManager de Fortinet. Les attaquants...|14 octobre 2022|
  |[38681310/22 - Vulnérabilité dans Palo Alto PAN-OS](https://www.dgssi.gov.ma//fr/content/3868131022-vulnerabilite-dans-palo-alto-pan-os.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées de Palo Alto PAN-OS. L'exploitation de cette faille peut permettre à un attaquant de réussir une usurpation d’identité et une élévation de privilèges.|13 octobre 2022|
- |[38671310/22 - Vulnérabilités critiques affectant Aruba EdgeConnect Enterprise Orchestrator](https://www.dgssi.gov.ma//fr/content/3867131022-vulnerabilites-critiques-affectant-aruba-edgeconnect-enterprise-orchestrator.html)|Aruba Networks annonce la correction detroisvulnérabilités critiques affectant les versions susmentionnées de son produit Aruba EdgeConnect Enterprise Orchestrator. L'exploitation de ces vulnérabilités peutpermettreà un...|13 octobre 2022|
- |[38661310/22 - Vulnérabilités dans Zimbra Collaboration](https://www.dgssi.gov.ma//fr/content/3866131022-vulnerabilites-dans-zimbra-collaboration.html)|Plusieurs vulnérabilités ont été corrigées dans Zimbra Collaboration. L’exploitation de ces failles pourrait permettre à un attaquant d’exécuter du code arbitraireà distance, de réussir une élévation de privilèges et d’injecter du code...|13 octobre 2022|
- |[38661310/22 - Vulnérabilités dans Google Chrome](https://www.dgssi.gov.ma//fr/content/3866131022-vulnerabilites-dans-google-chrome.html)|Google a corrigé plusieurs vulnérabilités dans son navigateur Google Chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du système affecté.|13 octobre 2022|
- |[38661210/22 - Vulnérabilités affectant plusieursproduits SAP](https://www.dgssi.gov.ma//fr/content/3866121022-vulnerabilites-affectant-plusieurs-produits-sap.html)|SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuterdu code arbitraire, d...|12 octobre 2022|
+ 
+ ---
+
+## IBMCLOUD [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Oracle Database Server unspecified (CVE-2022-21596)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
+ |[Mozilla Firefox information disclosure (CVE-2022-42931)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 18, 2022|
+ |[Mozilla Firefox information disclosure (CVE-2022-42930)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 18, 2022|
+ |[Mozilla Firefox and Firefox ESR code execution (CVE-2022-42932)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 18, 2022|
+ |[Mozilla Firefox and Firefox ESR denial of service (CVE-2022-42929)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 18, 2022|
+ |[Mozilla Firefox and Firefox ESR code execution (CVE-2022-42928)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 18, 2022|
+ |[Mozilla Firefox and Firefox ESR security bypass (CVE-2022-42927)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 18, 2022|
  
  ---
 
