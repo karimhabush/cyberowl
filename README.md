@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 19/10/2022 21:13:51 UTC
+ > Last Updated 20/10/2022 09:21:12 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -40,16 +40,20 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[GitHub Enterprise Server SVNBridge deserialization](https://vuldb.com/?id.211807)|Visit link for details|2022-10-19 at 21:10|
- |[Relatedcode Messenger information disclosure](https://vuldb.com/?id.211806)|Visit link for details|2022-10-19 at 21:09|
- |[Markdownify Markdown File information disclosure](https://vuldb.com/?id.211805)|Visit link for details|2022-10-19 at 21:08|
- |[D-Link DIR878 proc.cgi command injection](https://vuldb.com/?id.211804)|Visit link for details|2022-10-19 at 21:08|
- |[GPAC scene_dump.c gf_dump_vrml_sffield memory corruption](https://vuldb.com/?id.211803)|Visit link for details|2022-10-19 at 21:06|
- |[GPAC meta.c gf_isom_get_meta_item_info memory corruption](https://vuldb.com/?id.211802)|Visit link for details|2022-10-19 at 21:06|
- |[GPAC field_decode.c BD_CheckSFTimeOffset memory corruption](https://vuldb.com/?id.211801)|Visit link for details|2022-10-19 at 21:06|
- |[GPAC isom_intern.c FixSDTPInTRAF heap-based overflow](https://vuldb.com/?id.211800)|Visit link for details|2022-10-19 at 21:06|
- |[GPAC box_funcs.c gf_isom_box_dump_start_ex heap-based overflow](https://vuldb.com/?id.211799)|Visit link for details|2022-10-19 at 21:05|
- |[GPAC meta.c gf_isom_meta_restore_items_ref memory corruption](https://vuldb.com/?id.211798)|Visit link for details|2022-10-19 at 21:05|
+ 
+ ---
+
+## IBMCLOUD [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Oracle Database Server unspecified (CVE-2022-21596)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
+ |[Oracle GraalVM Enterprise and Java SE denial of service (CVE-2022-21628)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 18, 2022|
+ |[Oracle Virtualization VM VirtualBox Core security bypass (CVE-2022-39427)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 18, 2022|
+ |[Mozilla Firefox information disclosure (CVE-2022-42931)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 18, 2022|
+ |[Mozilla Firefox information disclosure (CVE-2022-42930)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 18, 2022|
+ |[Mozilla Firefox and Firefox ESR code execution (CVE-2022-42932)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 18, 2022|
+ |[Mozilla Firefox and Firefox ESR denial of service (CVE-2022-42929)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 18, 2022|
  
  ---
 
@@ -57,6 +61,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-Meraki-MX-denial-of-service-via-TLS-39652" class="noirorange"><b>Cisco Meraki MX</b>: denial of service via TLS</a>](https://vigilance.fr/vulnerability/Cisco-Meraki-MX-denial-of-service-via-TLS-39652)|An attacker can send malicious TLS packets to Cisco Meraki MX, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Asterisk-Open-Source-two-vulnerabilities-39651" class="noirorange"><b>Asterisk Open Source</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Asterisk-Open-Source-two-vulnerabilities-39651)|An attacker can use several vulnerabilities of Asterisk Open Source...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Commons-Text-code-execution-via-Interpolation-Defaults-39650" class="noirorange"><b>Apache Commons Text</b>: code execution via Interpolation Defaults</a>](https://vigilance.fr/vulnerability/Apache-Commons-Text-code-execution-via-Interpolation-Defaults-39650)|An attacker can use a vulnerability of Apache Commons Text, via Interpolation Defaults, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-denial-of-service-via-DNS-Express-39649" class="noirorange"><b>F5 BIG-IP</b>: denial of service via DNS Express</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-denial-of-service-via-DNS-Express-39649)|An attacker can cause a fatal error of F5 BIG-IP, via DNS Express, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-denial-of-service-via-SYN-Cookies-Auto-Receive-Window-Option-39648" class="noirorange"><b>F5 BIG-IP</b>: denial of service via SYN Cookies Auto Receive Window Option</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-denial-of-service-via-SYN-Cookies-Auto-Receive-Window-Option-39648)|An attacker can cause a fatal error of F5 BIG-IP, via SYN Cookies Auto Receive Window Option, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-memory-leak-via-iControl-REST-39647" class="noirorange"><b>F5 BIG-IP</b>: memory leak via iControl REST</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-memory-leak-via-iControl-REST-39647)|An attacker can create a memory leak of F5 BIG-IP, via iControl REST, in order to trigger a denial of service...|Visit link for details|
@@ -65,9 +72,6 @@
  |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-privilege-escalation-via-iControl-REST-39644" class="noirorange"><b>F5 BIG-IP</b>: privilege escalation via iControl REST</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-privilege-escalation-via-iControl-REST-39644)|An attacker can bypass restrictions of F5 BIG-IP, via iControl REST, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-denial-of-service-via-Attack-Signature-False-Positive-Mode-39643" class="noirorange"><b>F5 BIG-IP</b>: denial of service via Attack Signature False Positive Mode</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-denial-of-service-via-Attack-Signature-False-Positive-Mode-39643)|An attacker can cause a fatal error of F5 BIG-IP, via Attack Signature False Positive Mode, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-memory-leak-via-iRule-39642" class="noirorange"><b>F5 BIG-IP</b>: memory leak via iRule</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-memory-leak-via-iRule-39642)|An attacker can create a memory leak of F5 BIG-IP, via iRule, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-memory-leak-via-Session-Initiation-Protocol-39641" class="noirorange"><b>F5 BIG-IP</b>: memory leak via Session Initiation Protocol</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-memory-leak-via-Session-Initiation-Protocol-39641)|An attacker can create a memory leak of F5 BIG-IP, via SIP, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-memory-leak-via-AFM-Network-Address-Translation-39640" class="noirorange"><b>F5 BIG-IP</b>: memory leak via AFM Network Address Translation</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-memory-leak-via-AFM-Network-Address-Translation-39640)|An attacker can create a memory leak of F5 BIG-IP, via AFM Network Address Translation, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-denial-of-service-via-Traffic-Management-Microkernel-39639" class="noirorange"><b>F5 BIG-IP</b>: denial of service via Traffic Management Microkernel</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-denial-of-service-via-Traffic-Management-Microkernel-39639)|An attacker can cause a fatal error of F5 BIG-IP, via Traffic Management Microkernel, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
@@ -92,9 +96,10 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[38782010/22 - Vulnérabilité dans Avira Security pour Windows](https://www.dgssi.gov.ma//fr/content/3878201022-vulnerabilite-dans-avira-security-pour-windows.html)|Une vulnérabilité a été corrigée dans la fonctionnalité Software Updater d'Avira Security pour Windows. Un attaquant distant pourrait exploiter cette faille afin de réussir une élévation de privilèges.|20 octobre 2022|
  |[38761910/22 - Vulnérabilités affectantle navigateur Mozilla Firefox](https://www.dgssi.gov.ma//fr/content/3876191022-vulnerabilites-affectant-le-navigateur-mozilla-firefox.html-0)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de cesvulnérabilités peut permettre à un...|19 octobre 2022|
- |[38761910/22 - Vulnérabilités affectantle navigateur Mozilla Firefox](https://www.dgssi.gov.ma//fr/content/3876191022-vulnerabilites-affectant-le-navigateur-mozilla-firefox.html)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de cesvulnérabilités peut permettre à un...|19 octobre 2022|
  |[38771910/22 - Vulnérabilités dans Adobe Ilustrator ](https://www.dgssi.gov.ma//fr/content/3877191022-vulnerabilites-dans-adobe-ilustrator.html)|Deux vulnérabilités ont été corrigées dans les produits Adobe Illustrator susmentionnés. Un attaquant distant pourrait exploiter certaines de ces vulnérabilités afin d’exécuter du code arbitraire à distance.|19 octobre 2022|
+ |[38761910/22 - Vulnérabilités affectantle navigateur Mozilla Firefox](https://www.dgssi.gov.ma//fr/content/3876191022-vulnerabilites-affectant-le-navigateur-mozilla-firefox.html)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de cesvulnérabilités peut permettre à un...|19 octobre 2022|
  |[38751910/22 - "Oracle Critical Patch Update" du Mois Octobre 2022](https://www.dgssi.gov.ma//fr/content/3875191022-oracle-critical-patch-update-du-mois-octobre-2022.html)|Oracle a publié des correctifs de sécurité pour traiter plusieurs vulnérabilités dans le cadre de sa mise à jour « Oracle Critical Patch Update » du mois Octobre 2022. L'exploitation de certaines de ces vulnérabilités pourrait...|19 octobre 2022|
  |[38741910/22 - Vulnérabilités dans le CMS WordPress](https://www.dgssi.gov.ma//fr/content/3874191022-vulnerabilites-dans-le-cms-wordpress.html)|Plusieurs vulnérabilités ont été corrigées dans le CMS WordPress. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire à distance, de porter atteinte à l'intégrité des données et de réussir...|19 octobre 2022|
  |[38731810/22 - Vulnérabilité critique dans la bibliothèque Apache Commons Text](https://www.dgssi.gov.ma//fr/content/3873181022-vulnerabilite-critique-dans-la-bibliotheque-apache-commons-text.html)|La Fondation Apache Software a publié une mise à jour de sécurité pour corriger une vulnérabilité critique (CVE-2022-42889) dans sa bibliothèque Apache Commons Text.Une exploitation réussie pourrait permettre à un attaquant non...|18 octobre 2022|
@@ -102,21 +107,6 @@
  |[38721810/22 - Vulnérabilités dans les produits de vidéoconférence ZOOM ](https://www.dgssi.gov.ma//fr/content/3872181022-vulnerabilites-dans-les-produits-de-videoconference-zoom.html)|Zoom annonce la correction de deux vulnérabilités affectant les produits susmentionnés de vidéoconférence Zoom. L’exploitation de ces failles peut permettre à un attaquant local d’obtenir des informations confidentielles et de prendre le...|18 octobre 2022|
  |[38701710/22 - Vulnérabilités dans les produits Juniper](https://www.dgssi.gov.ma//fr/content/3870171022-vulnerabilites-dans-les-produits-juniper.html)|Juniper annonce la correction de plusieurs vulnérabilités affectant ses produits. L’exploitation de ces failles peut permettre à un attaquant de réussir une élévation de privilèges, d’exécuter du code arbitraire à distance, de causer un...|17 octobre 2022|
  |[38691410/22 - Publication d’exploit de la vulnérabilité « CVE-2022-40684 » affectant les produits Fo](https://www.dgssi.gov.ma//fr/content/3869141022-publication-d-exploit-de-la-vulnerabilite-cve-2022-40684-affectant-les-produits-fortinet.html)|Un code d’exploit est publiquement disponible de la vulnérabilité critique "CVE-2022-40684" de contournement d'authentification affectant les appliances FortiOS, FortiProxy et FortiSwitchManager de Fortinet. Les attaquants...|14 octobre 2022|
- |[38681310/22 - Vulnérabilité dans Palo Alto PAN-OS](https://www.dgssi.gov.ma//fr/content/3868131022-vulnerabilite-dans-palo-alto-pan-os.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées de Palo Alto PAN-OS. L'exploitation de cette faille peut permettre à un attaquant de réussir une usurpation d’identité et une élévation de privilèges.|13 octobre 2022|
- 
- ---
-
-## IBMCLOUD [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Oracle Database Server unspecified (CVE-2022-21596)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
- |[Mozilla Firefox information disclosure (CVE-2022-42931)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 18, 2022|
- |[Mozilla Firefox information disclosure (CVE-2022-42930)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 18, 2022|
- |[Mozilla Firefox and Firefox ESR code execution (CVE-2022-42932)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 18, 2022|
- |[Mozilla Firefox and Firefox ESR denial of service (CVE-2022-42929)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 18, 2022|
- |[Mozilla Firefox and Firefox ESR code execution (CVE-2022-42928)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 18, 2022|
- |[Mozilla Firefox and Firefox ESR security bypass (CVE-2022-42927)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 18, 2022|
  
  ---
 
