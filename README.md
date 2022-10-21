@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 21/10/2022 09:20:48 UTC
+ > Last Updated 21/10/2022 21:12:15 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -27,19 +27,12 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[#StopRansomware: Daixin Team](https://www.cisa.gov/uscert/ncas/current-activity/2022/10/21/stopransomware-daixin-team)|<p>CISA, the Federal Bureau of Investigation (FBI), and the Department of Health and Human Services (HHS) have released a joint Cybersecurity Advisory (CSA), #StopRansomware: Daixin Team to provide information on the “Daixin Team,” a cybercrime group actively targeting U.S. businesses, predominantly in the Healthcare and Public Health (HPH) Sector, with ransomware and data extortion operations. This joint CSA provides Daixin actors’ tactics, techniques, and procedures (TTPs) and indicators of compromise (IOCs) obtained from FBI threat response activities and third-party reporting.</p>|Friday, October 21, 2022|
+ |[Cisco Releases Security Update for Cisco Identity Services Engine ](https://www.cisa.gov/uscert/ncas/current-activity/2022/10/21/cisco-releases-security-update-cisco-identity-services-engine)|<p>Cisco has released a security update to address vulnerabilities affecting Cisco Identity Services Engine (ISE). A remote attacker could exploit some of these vulnerabilities to take control of an affected system. For updates addressing high and low severity vulnerabilities, see the <a href="https://tools.cisco.com/security/center/publicationListing.x">Cisco Security Advisories page</a>. </p>|Friday, October 21, 2022|
  |[CISA Adds Two Known Exploited Vulnerabilities to Catalog   ](https://www.cisa.gov/uscert/ncas/current-activity/2022/10/20/cisa-adds-two-known-exploited-vulnerabilities-catalog)|<p>CISA has added two vulnerabilities to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: to view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.      </p>|Thursday, October 20, 2022|
  |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/uscert/ncas/current-activity/2022/10/20/cisa-releases-three-industrial-control-systems-advisories)|<p>CISA has released three (3) Industrial Control Systems (ICS) advisories on October 20, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p>|Thursday, October 20, 2022|
  |[Mozilla Releases Security Updates for Firefox](https://www.cisa.gov/uscert/ncas/current-activity/2022/10/20/mozilla-releases-security-updates-firefox)|<p>Mozilla has released security updates to address vulnerabilities in Firefox ESR and Firefox. An attacker could exploit these vulnerabilities to cause denial-of-service conditions.</p>|Thursday, October 20, 2022|
  |[CISA Requests for Comment on Microsoft 365 Security Configuration Baselines](https://www.cisa.gov/uscert/ncas/current-activity/2022/10/20/cisa-requests-comment-microsoft-365-security-configuration)|<p>CISA has issued requests for comment (RFCs) on eight Microsoft 365 security configuration baselines as part of the Secure Cloud Business Application (SCuBA) project to secure federal civilian executive branch agencies’ (FCEB) cloud environments. The baselines:<br>•    Build on and integrate previous security configuration baselines developed by the <a href="https://www.cio.gov/">Federal Chief Information Officers Council’s Cyber Innovation Tiger Team (CITT).</a><br>•    Initiate a series of pilot efforts to advance cloud security practices across the FCEB. </p>|Thursday, October 20, 2022|
- |[CISA Updates Advisory on Threat Actors Exploiting Multiple CVEs Against Zimbra Collaboration Suite](https://www.cisa.gov/uscert/ncas/current-activity/2022/10/19/cisa-updates-advisory-threat-actors-exploiting-multiple-cves)|<p>CISA and the Multi-State Information Sharing &amp; Analysis Center (MS-ISAC) have updated joint Cybersecurity Advisory <a href="https://www.cisa.gov/uscert/ncas/alerts/aa22-228a">AA22-228A: Threat Actors Exploiting Multiple CVEs Against Zimbra Collaboration Suite</a>, originally released August 16, 2022. The advisory has been updated to reference the addition of a new Malware Analysis Report, <a href="https://www.cisa.gov/uscert/ncas/analysis-reports/ar22-292a">MAR-10398871.r1.v2</a>.</p>|Wednesday, October 19, 2022|
- |[Oracle Releases October 2022 Critical Patch Update](https://www.cisa.gov/uscert/ncas/current-activity/2022/10/19/oracle-releases-october-2022-critical-patch-update)|<p>Oracle has released its Critical Patch Update for October 2022. This update addresses 366 vulnerabilities across multiple products. A remote attacker could exploit some of these vulnerabilities to take control of an affected system.</p>|Wednesday, October 19, 2022|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
@@ -47,13 +40,80 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[BIG-IP (Advanced WAF and ASM) denial of service (CVE-2022-41836)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
- |[F5 F5OS command execution (CVE-2022-41835)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
- |[F5 BIG-IP denial of service (CVE-2022-41833)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
- |[F5 BIG-IP denial of service (CVE-2022-41832)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
- |[F5 BIG-IP (AFM) denial of service (CVE-2022-41806)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
- |[F5 BIG-IP (DNS) denial of service (CVE-2022-41787)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
- |[F5 BIG-IP (Advanced WAF and ASM) denial of service (CVE-2022-41691)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
+ |[F5OS directory traversal (CVE-2022-41780)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
+ |[Oracle VM VirtualBox unspecified (CVE-2022-39427)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
+ |[Oracle VM VirtualBox unspecified (CVE-2022-39426)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
+ |[Oracle VM VirtualBox unspecified (CVE-2022-39425)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
+ |[Oracle VM VirtualBox unspecified (CVE-2022-39424)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
+ |[Oracle VM VirtualBox information disclosure (CVE-2022-39423)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
+ |[Oracle VM VirtualBox unspecified (CVE-2022-39422)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
+ 
+ ---
+
+## CERT-FR [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-942/)|De multiples vulnérabilités ont été corrigées dans |Publié le 21 octobre 2022|
+ |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-941/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une atteinte à la confidentialité des données.|Publié le 21 octobre 2022|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-940/)|De multiples vulnérabilités ont été corrigées dans |Publié le 21 octobre 2022|
+ |[Multiples vulnérabilités dans les produits SolarWinds](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-939/)|De multiples vulnérabilités ont été découvertes dans les produits SolarWinds. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et une exécution de code arbitraire à distance.|Publié le 20 octobre 2022|
+ |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-938/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 20 octobre 2022|
+ |[Multiples vulnérabilités dans les produits F5](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-937/)|De multiples vulnérabilités ont été découvertes dans les produits F5. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 20 octobre 2022|
+ |[Vulnérabilité dans OwnCloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-936/)|Une vulnérabilité a été découverte dans OwnCloud. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 20 octobre 2022|
+ |[Multiples vulnérabilités dans Oracle WebLogic Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-935/)|De multiples vulnérabilités ont été découvertes dans Oracle WebLogic Server. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 19 octobre 2022|
+ |[Multiples vulnérabilités dans Oracle Virtualization](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-934/)|De multiples vulnérabilités ont été découvertes dans Oracle Virtualization. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 19 octobre 2022|
+ |[Multiples vulnérabilités dans Oracle Systems](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-933/)|De multiples vulnérabilités ont été découvertes dans Oracle Systems. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 19 octobre 2022|
+ 
+ ---
+
+## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(Pwn2Own) Linux Kernel io_uring Improper Update of Reference Count Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1462/)|Visit link for details|Oct. 21, 2022|
+ |[SolarWinds Network Performance Monitor MessageToBytes Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1461/)|Visit link for details|Oct. 21, 2022|
+ |[SolarWinds Network Performance Monitor PropertyBagJsonConverter Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1460/)|Visit link for details|Oct. 21, 2022|
+ |[SolarWinds Network Performance Monitor DeserializeFromStrippedXml Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1459/)|Visit link for details|Oct. 21, 2022|
+ |[GNU Gzip zgrep Argument Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1458/)|Visit link for details|Oct. 21, 2022|
+ |[Linux Kernel nftables Uninitialized Variable Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1457/)|Visit link for details|Oct. 21, 2022|
+ |[LibreOffice Exposed Dangerous Function Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1456/)|Visit link for details|Oct. 21, 2022|
+ |[(Pwn2Own) Kepware KEPServerEX Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1455/)|Visit link for details|Oct. 21, 2022|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Linux Kernel BPF inode.c nilfs_new_inode use after free](https://vuldb.com/?id.211992)|Visit link for details|2022-10-21 at 21:33|
+ |[Pop-Up Chop Chop Plugin cross site scripting](https://vuldb.com/?id.211991)|Visit link for details|2022-10-21 at 21:31|
+ |[Fatcat Apps Analytics Cat Plugin cross site scripting](https://vuldb.com/?id.211990)|Visit link for details|2022-10-21 at 21:30|
+ |[Aethon TUG Home Base Server cross site scripting](https://vuldb.com/?id.211989)|Visit link for details|2022-10-21 at 21:30|
+ |[Aethon TUG Home Base Server authorization](https://vuldb.com/?id.211988)|Visit link for details|2022-10-21 at 21:29|
+ |[Aethon TUG Home Base Server channel accessible](https://vuldb.com/?id.211987)|Visit link for details|2022-10-21 at 21:29|
+ |[Aethon TUG Home Base Server authorization](https://vuldb.com/?id.211986)|Visit link for details|2022-10-21 at 21:28|
+ |[Aethon TUG Home Base Server cross site scripting](https://vuldb.com/?id.211985)|Visit link for details|2022-10-21 at 21:27|
+ |[Autodesk AutoCAD DWF File DesignReview.exe memory corruption](https://vuldb.com/?id.211984)|Visit link for details|2022-10-21 at 21:26|
+ |[Autodesk AutoCAD DWF File DesignReview.exe memory corruption](https://vuldb.com/?id.211983)|Visit link for details|2022-10-21 at 21:26|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-tiffcrop-39684" class="noirorange"><b>LibTIFF</b>: buffer overflow via tiffcrop</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-tiffcrop-39684)|An attacker can trigger a buffer overflow of LibTIFF, via tiffcrop, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-TIFFmemcpy-39683" class="noirorange"><b>LibTIFF</b>: buffer overflow via _TIFFmemcpy()</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-TIFFmemcpy-39683)|An attacker can trigger a buffer overflow of LibTIFF, via _TIFFmemcpy(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-out-of-bounds-memory-reading-via-writeSingleSection-39682" class="noirorange"><b>LibTIFF</b>: out-of-bounds memory reading via <wbr>writeSingleSection()</wbr></a>](https://vigilance.fr/vulnerability/LibTIFF-out-of-bounds-memory-reading-via-writeSingleSection-39682)|An attacker can force a read at an invalid memory address of LibTIFF, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-tiffcrop-TIFFmemset-39681" class="noirorange"><b>LibTIFF</b>: buffer overflow via tiffcrop _TIFFmemset()</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-tiffcrop-TIFFmemset-39681)|An attacker can trigger a buffer overflow of LibTIFF, via tiffcrop _TIFFmemset(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-tiffcrop-extractContigSamplesShifted24bits-39680" class="noirorange"><b>LibTIFF</b>: buffer overflow via tiffcrop <wbr>extractContigSamples<wbr>Shifted24bits()</wbr></wbr></a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-tiffcrop-extractContigSamplesShifted24bits-39680)|An attacker can trigger a buffer overflow of LibTIFF, via tiffcrop |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-follow-page-pte-39679" class="noirorange"><b>Linux kernel</b>: memory corruption via follow_page_pte()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-follow-page-pte-39679)|An attacker can trigger a memory corruption of the Linux kernel, via follow_page_pte(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-nilfs-bmap-lookup-at-level-39678" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via <wbr>nilfs_bmap_lookup_at<wbr>_level()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-nilfs-bmap-lookup-at-level-39678)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Exim-reuse-after-free-via-dmarc-dns-lookup-39677" class="noirorange"><b>Exim</b>: reuse after free via dmarc_dns_lookup()</a>](https://vigilance.fr/vulnerability/Exim-reuse-after-free-via-dmarc-dns-lookup-39677)|An attacker can force the reuse of a freed memory area of Exim, via dmarc_dns_lookup(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-bigben-probe-39676" class="noirorange"><b>Linux kernel</b>: buffer overflow via bigben_probe()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-bigben-probe-39676)|An attacker can trigger a buffer overflow of the Linux kernel, via bigben_probe(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-pvr-probe-39675" class="noirorange"><b>Linux kernel</b>: memory leak via pvr_probe()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-pvr-probe-39675)|An attacker can create a memory leak of the Linux kernel, via pvr_probe(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-vhci-write-39674" class="noirorange"><b>Linux kernel</b>: memory leak via vhci_write()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-vhci-write-39674)|An attacker can create a memory leak of the Linux kernel, via vhci_write(), in order to trigger a denial of service...|Visit link for details|
  
  ---
 
@@ -61,6 +121,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[38812110/22 - Vulnérabilités dans les produits SolarWinds](https://www.dgssi.gov.ma//fr/content/3881211022-vulnerabilites-dans-les-produits-solarwinds.html)|Plusieurs vulnérabilités ont été corrigées dans les produits SolarWinds susmentionnés. L'exploitation de ces failles pourrait permettre à un attaquant d’exécuter du code arbitraire à distance.|21 octobre 2022|
  |[38802110/22 - Vulnérabilités dans les produits Cisco](https://www.dgssi.gov.ma//fr/content/3880211022-vulnerabilites-dans-les-produits-cisco.html)|Plusieurs vulnérabilités ont été corrigées dans les produits Cisco susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service et de porter atteinte à la confidentialité des données.|21 octobre 2022|
  |[38792010/22 - Vulnérabilités dans les produits F5](https://www.dgssi.gov.ma//fr/content/3879201022-vulnerabilites-dans-les-produits-f5.html)|Deux vulnérabilités ont été corrigées dans les produits F5 susmentionnés. L’exploitation de ces failles permet à un attaquant distant de causer un déni de service et de porter atteinte à la confidentialité des données.|20 octobre 2022|
  |[38782010/22 - Vulnérabilité dans Avira Security pour Windows](https://www.dgssi.gov.ma//fr/content/3878201022-vulnerabilite-dans-avira-security-pour-windows.html)|Une vulnérabilité a été corrigée dans la fonctionnalité Software Updater d'Avira Security pour Windows. Un attaquant distant pourrait exploiter cette faille afin de réussir une élévation de privilèges.|20 octobre 2022|
@@ -71,55 +132,4 @@
  |[38741910/22 - Vulnérabilités dans le CMS WordPress](https://www.dgssi.gov.ma//fr/content/3874191022-vulnerabilites-dans-le-cms-wordpress.html)|Plusieurs vulnérabilités ont été corrigées dans le CMS WordPress. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire à distance, de porter atteinte à l'intégrité des données et de réussir...|19 octobre 2022|
  |[38731810/22 - Vulnérabilité critique dans la bibliothèque Apache Commons Text](https://www.dgssi.gov.ma//fr/content/3873181022-vulnerabilite-critique-dans-la-bibliotheque-apache-commons-text.html)|La Fondation Apache Software a publié une mise à jour de sécurité pour corriger une vulnérabilité critique (CVE-2022-42889) dans sa bibliothèque Apache Commons Text.Une exploitation réussie pourrait permettre à un attaquant non...|18 octobre 2022|
  |[38711810/22 - Vulnérabilités affectantle navigateur Microsoft Edge ](https://www.dgssi.gov.ma//fr/content/3871181022-vulnerabilites-affectant-le-navigateur-microsoft-edge.html)|Microsoft vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilités affectant le navigateur Microsoft Edge. L’exploitation de cette vulnérabilité peut permettre à un attaquant d’exécuter du code...|18 octobre 2022|
- |[38721810/22 - Vulnérabilités dans les produits de vidéoconférence ZOOM ](https://www.dgssi.gov.ma//fr/content/3872181022-vulnerabilites-dans-les-produits-de-videoconference-zoom.html)|Zoom annonce la correction de deux vulnérabilités affectant les produits susmentionnés de vidéoconférence Zoom. L’exploitation de ces failles peut permettre à un attaquant local d’obtenir des informations confidentielles et de prendre le...|18 octobre 2022|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-double-free-via-rotateImage-39672" class="noirorange"><b>LibTIFF</b>: double free via rotateImage()</a>](https://vigilance.fr/vulnerability/LibTIFF-double-free-via-rotateImage-39672)|An attacker can force a double memory free of LibTIFF, via rotateImage(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-TIFFVGetField-39671" class="noirorange"><b>LibTIFF</b>: buffer overflow via _TIFFVGetField()</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-TIFFVGetField-39671)|An attacker can trigger a buffer overflow of LibTIFF, via _TIFFVGetField(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libostree-memory-corruption-via-bsdiff-39670" class="noirorange"><b>libostree</b>: memory corruption via bsdiff</a>](https://vigilance.fr/vulnerability/libostree-memory-corruption-via-bsdiff-39670)|An attacker can trigger a memory corruption of libostree, via bsdiff, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/v4l2loopback-memory-corruption-via-string-format-39668" class="noirorange"><b>v4l2loopback</b>: memory corruption via string format</a>](https://vigilance.fr/vulnerability/v4l2loopback-memory-corruption-via-string-format-39668)|An attacker can trigger a memory corruption of v4l2loopback, via string format, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jasper-memory-leak-via-cmdopts-parse-39667" class="noirorange"><b>Jasper</b>: memory leak via cmdopts_parse()</a>](https://vigilance.fr/vulnerability/Jasper-memory-leak-via-cmdopts-parse-39667)|An attacker can create a memory leak of Jasper, via cmdopts_parse, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-Appliance-user-access-via-logout-39666" class="noirorange"><b>IBM MQ Appliance</b>: user access via logout</a>](https://vigilance.fr/vulnerability/IBM-MQ-Appliance-user-access-via-logout-39666)|An attacker can bypass restrictions of IBM MQ Appliance, via logout, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-Appliance-Cross-Site-Request-Forgery-via-DataPower-Gatewa-39665" class="noirorange"><b>IBM MQ Appliance</b>: Cross Site Request Forgery via DataPower Gatewa</a>](https://vigilance.fr/vulnerability/IBM-MQ-Appliance-Cross-Site-Request-Forgery-via-DataPower-Gatewa-39665)|An attacker can trigger a Cross Site Request Forgery of IBM MQ Appliance, via DataPower Gatewa, in order to force the victim to perform operations...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-sch-sfb-enqueue-39663" class="noirorange"><b>Linux kernel</b>: reuse after free via sch_sfb enqueue()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-sch-sfb-enqueue-39663)|An attacker can force the reuse of a freed memory area of the Linux kernel, via sch_sfb enqueue(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-find-prog-by-sec-insn-39662" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via <wbr>find_prog_by_sec_ins<wbr>n()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-find-prog-by-sec-insn-39662)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/clone-master-clean-up-file-corruption-39661" class="noirorange"><b>clone-master-clean-u<wbr>p</wbr></b>: file corruption</a>](https://vigilance.fr/vulnerability/clone-master-clean-up-file-corruption-39661)|An attacker can create a symbolic link, in order to alter the pointed file, with privileges of |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Helm-denial-of-service-39660" class="noirorange"><b>Helm</b>: denial of service</a>](https://vigilance.fr/vulnerability/Helm-denial-of-service-39660)|An attacker can cause a fatal error of Helm, in order to trigger a denial of service...|Visit link for details|
- 
- ---
-
-## CERT-FR [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans les produits SolarWinds](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-939/)|De multiples vulnérabilités ont été découvertes dans les produits SolarWinds. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et une exécution de code arbitraire à distance.|Publié le 20 octobre 2022|
- |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-938/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 20 octobre 2022|
- |[Multiples vulnérabilités dans les produits F5](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-937/)|De multiples vulnérabilités ont été découvertes dans les produits F5. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 20 octobre 2022|
- |[Vulnérabilité dans OwnCloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-936/)|Une vulnérabilité a été découverte dans OwnCloud. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 20 octobre 2022|
- |[Multiples vulnérabilités dans Oracle WebLogic Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-935/)|De multiples vulnérabilités ont été découvertes dans Oracle WebLogic Server. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 19 octobre 2022|
- |[Multiples vulnérabilités dans Oracle Virtualization](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-934/)|De multiples vulnérabilités ont été découvertes dans Oracle Virtualization. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 19 octobre 2022|
- |[Multiples vulnérabilités dans Oracle Systems](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-933/)|De multiples vulnérabilités ont été découvertes dans Oracle Systems. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 19 octobre 2022|
- |[Multiples vulnérabilités dans Oracle PeopleSoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-932/)|De multiples vulnérabilités ont été découvertes dans Oracle PeopleSoft. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 19 octobre 2022|
- |[Multiples vulnérabilités dans Oracle MySQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-931/)|De multiples vulnérabilités ont été découvertes dans Oracle MySQL. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 19 octobre 2022|
- |[Multiples vulnérabilités dans Oracle Java SE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-930/)|De multiples vulnérabilités ont été découvertes dans Oracle Java SE. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 19 octobre 2022|
- 
- ---
-
-## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Siemens Simcenter Femap JT File Parsing Uninitialized Pointer Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1440/)|Visit link for details|Oct. 17, 2022|
- |[Adobe Dimension SKP File Parsing Use-After-Free Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1439/)|Visit link for details|Oct. 14, 2022|
- |[Altair HyperView Player H3D File Parsing Improper Validation of Array Index Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1438/)|Visit link for details|Oct. 14, 2022|
- |[Altair HyperView Player H3D File Parsing Uninitialized Memory Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1437/)|Visit link for details|Oct. 14, 2022|
- |[Altair HyperView Player H3D File Parsing Uninitialized Memory Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1436/)|Visit link for details|Oct. 14, 2022|
- |[Altair HyperView Player H3D File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1435/)|Visit link for details|Oct. 14, 2022|
- |[Adobe ColdFusion Application Server Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1434/)|Visit link for details|Oct. 14, 2022|
- |[Adobe ColdFusion Application Server Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1433/)|Visit link for details|Oct. 14, 2022|
  
