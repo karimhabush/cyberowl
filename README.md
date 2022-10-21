@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 20/10/2022 21:13:47 UTC
+ > Last Updated 21/10/2022 09:20:48 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -40,16 +40,6 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Linux Kernel BPF gup.c follow_page_pte race condition](https://vuldb.com/?id.211921)|Visit link for details|2022-10-20 at 21:58|
- |[Linux Kernel nilfs2 inode.c nilfs_bmap_lookup_at_level null pointer dereference](https://vuldb.com/?id.211920)|Visit link for details|2022-10-20 at 21:55|
- |[Exim DMARC dmarc.c dmarc_dns_lookup use after free](https://vuldb.com/?id.211919)|Visit link for details|2022-10-20 at 21:53|
- |[Linux Kernel Bluetooth l2cap_core.c l2cap_recv_acldata memory leak](https://vuldb.com/?id.211918)|Visit link for details|2022-10-20 at 21:50|
- |[Tenda 11N improper authentication](https://vuldb.com/?id.211917)|Visit link for details|2022-10-20 at 21:47|
- |[Siemens JT2Go/Teamcenter Visualization PDF File Parser APDFL.dll heap-based overflow](https://vuldb.com/?id.211916)|Visit link for details|2022-10-20 at 21:46|
- |[Sonos One Mini-PCI Express Slot Local Privilege Escalation](https://vuldb.com/?id.211915)|Visit link for details|2022-10-20 at 21:40|
- |[Adobe Commerce Object Reference me input validation](https://vuldb.com/?id.211914)|Visit link for details|2022-10-20 at 21:39|
- |[Linux Kernel Kid-friendly Wired Controller Driver hid-bigbenff.c bigben_probe memory leak](https://vuldb.com/?id.211913)|Visit link for details|2022-10-20 at 21:38|
- |[PCTechSoft PCSecure Admin Panel hard-coded credentials](https://vuldb.com/?id.211912)|Visit link for details|2022-10-20 at 18:59|
  
  ---
 
@@ -57,13 +47,31 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Cisco TelePresence Collaboration Endpoint and RoomOS Software security bypass (CVE-2022-20955)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
- |[Cisco TelePresence Collaboration Endpoint and RoomOS Software security bypass (CVE-2022-20954)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
- |[Cisco TelePresence Collaboration Endpoint and RoomOS Software information disclosure (CVE-2022-20953)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
- |[Cisco TelePresence Collaboration Endpoint and RoomOS Software directory traversal (CVE-2022-20811)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
- |[Cisco TelePresence Collaboration Endpoint and RoomOS Software directory traversal (CVE-2022-20776)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
- |[Cisco Identity Services Engine (ISE) directory traversal (CVE-2022-20822)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
- |[Cisco Jabber Client Software security bypass (CVE-2022-20917)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
+ |[BIG-IP (Advanced WAF and ASM) denial of service (CVE-2022-41836)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
+ |[F5 F5OS command execution (CVE-2022-41835)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
+ |[F5 BIG-IP denial of service (CVE-2022-41833)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
+ |[F5 BIG-IP denial of service (CVE-2022-41832)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
+ |[F5 BIG-IP (AFM) denial of service (CVE-2022-41806)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
+ |[F5 BIG-IP (DNS) denial of service (CVE-2022-41787)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
+ |[F5 BIG-IP (Advanced WAF and ASM) denial of service (CVE-2022-41691)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[38802110/22 - Vulnérabilités dans les produits Cisco](https://www.dgssi.gov.ma//fr/content/3880211022-vulnerabilites-dans-les-produits-cisco.html)|Plusieurs vulnérabilités ont été corrigées dans les produits Cisco susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service et de porter atteinte à la confidentialité des données.|21 octobre 2022|
+ |[38792010/22 - Vulnérabilités dans les produits F5](https://www.dgssi.gov.ma//fr/content/3879201022-vulnerabilites-dans-les-produits-f5.html)|Deux vulnérabilités ont été corrigées dans les produits F5 susmentionnés. L’exploitation de ces failles permet à un attaquant distant de causer un déni de service et de porter atteinte à la confidentialité des données.|20 octobre 2022|
+ |[38782010/22 - Vulnérabilité dans Avira Security pour Windows](https://www.dgssi.gov.ma//fr/content/3878201022-vulnerabilite-dans-avira-security-pour-windows.html)|Une vulnérabilité a été corrigée dans la fonctionnalité Software Updater d'Avira Security pour Windows. Un attaquant distant pourrait exploiter cette faille afin de réussir une élévation de privilèges.|20 octobre 2022|
+ |[38761910/22 - Vulnérabilités affectantle navigateur Mozilla Firefox](https://www.dgssi.gov.ma//fr/content/3876191022-vulnerabilites-affectant-le-navigateur-mozilla-firefox.html-0)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de cesvulnérabilités peut permettre à un...|19 octobre 2022|
+ |[38771910/22 - Vulnérabilités dans Adobe Ilustrator ](https://www.dgssi.gov.ma//fr/content/3877191022-vulnerabilites-dans-adobe-ilustrator.html)|Deux vulnérabilités ont été corrigées dans les produits Adobe Illustrator susmentionnés. Un attaquant distant pourrait exploiter certaines de ces vulnérabilités afin d’exécuter du code arbitraire à distance.|19 octobre 2022|
+ |[38761910/22 - Vulnérabilités affectantle navigateur Mozilla Firefox](https://www.dgssi.gov.ma//fr/content/3876191022-vulnerabilites-affectant-le-navigateur-mozilla-firefox.html)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de cesvulnérabilités peut permettre à un...|19 octobre 2022|
+ |[38751910/22 - "Oracle Critical Patch Update" du Mois Octobre 2022](https://www.dgssi.gov.ma//fr/content/3875191022-oracle-critical-patch-update-du-mois-octobre-2022.html)|Oracle a publié des correctifs de sécurité pour traiter plusieurs vulnérabilités dans le cadre de sa mise à jour « Oracle Critical Patch Update » du mois Octobre 2022. L'exploitation de certaines de ces vulnérabilités pourrait...|19 octobre 2022|
+ |[38741910/22 - Vulnérabilités dans le CMS WordPress](https://www.dgssi.gov.ma//fr/content/3874191022-vulnerabilites-dans-le-cms-wordpress.html)|Plusieurs vulnérabilités ont été corrigées dans le CMS WordPress. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire à distance, de porter atteinte à l'intégrité des données et de réussir...|19 octobre 2022|
+ |[38731810/22 - Vulnérabilité critique dans la bibliothèque Apache Commons Text](https://www.dgssi.gov.ma//fr/content/3873181022-vulnerabilite-critique-dans-la-bibliotheque-apache-commons-text.html)|La Fondation Apache Software a publié une mise à jour de sécurité pour corriger une vulnérabilité critique (CVE-2022-42889) dans sa bibliothèque Apache Commons Text.Une exploitation réussie pourrait permettre à un attaquant non...|18 octobre 2022|
+ |[38711810/22 - Vulnérabilités affectantle navigateur Microsoft Edge ](https://www.dgssi.gov.ma//fr/content/3871181022-vulnerabilites-affectant-le-navigateur-microsoft-edge.html)|Microsoft vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilités affectant le navigateur Microsoft Edge. L’exploitation de cette vulnérabilité peut permettre à un attaquant d’exécuter du code...|18 octobre 2022|
+ |[38721810/22 - Vulnérabilités dans les produits de vidéoconférence ZOOM ](https://www.dgssi.gov.ma//fr/content/3872181022-vulnerabilites-dans-les-produits-de-videoconference-zoom.html)|Zoom annonce la correction de deux vulnérabilités affectant les produits susmentionnés de vidéoconférence Zoom. L’exploitation de ces failles peut permettre à un attaquant local d’obtenir des informations confidentielles et de prendre le...|18 octobre 2022|
  
  ---
 
@@ -71,17 +79,17 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-double-free-via-rotateImage-39672" class="noirorange"><b>LibTIFF</b>: double free via rotateImage()</a>](https://vigilance.fr/vulnerability/LibTIFF-double-free-via-rotateImage-39672)|An attacker can force a double memory free of LibTIFF, via rotateImage(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-TIFFVGetField-39671" class="noirorange"><b>LibTIFF</b>: buffer overflow via _TIFFVGetField()</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-TIFFVGetField-39671)|An attacker can trigger a buffer overflow of LibTIFF, via _TIFFVGetField(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libostree-memory-corruption-via-bsdiff-39670" class="noirorange"><b>libostree</b>: memory corruption via bsdiff</a>](https://vigilance.fr/vulnerability/libostree-memory-corruption-via-bsdiff-39670)|An attacker can trigger a memory corruption of libostree, via bsdiff, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/v4l2loopback-memory-corruption-via-string-format-39668" class="noirorange"><b>v4l2loopback</b>: memory corruption via string format</a>](https://vigilance.fr/vulnerability/v4l2loopback-memory-corruption-via-string-format-39668)|An attacker can trigger a memory corruption of v4l2loopback, via string format, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Jasper-memory-leak-via-cmdopts-parse-39667" class="noirorange"><b>Jasper</b>: memory leak via cmdopts_parse()</a>](https://vigilance.fr/vulnerability/Jasper-memory-leak-via-cmdopts-parse-39667)|An attacker can create a memory leak of Jasper, via cmdopts_parse, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-Appliance-user-access-via-logout-39666" class="noirorange"><b>IBM MQ Appliance</b>: user access via logout</a>](https://vigilance.fr/vulnerability/IBM-MQ-Appliance-user-access-via-logout-39666)|An attacker can bypass restrictions of IBM MQ Appliance, via logout, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-Appliance-Cross-Site-Request-Forgery-via-DataPower-Gatewa-39665" class="noirorange"><b>IBM MQ Appliance</b>: Cross Site Request Forgery via DataPower Gatewa</a>](https://vigilance.fr/vulnerability/IBM-MQ-Appliance-Cross-Site-Request-Forgery-via-DataPower-Gatewa-39665)|An attacker can trigger a Cross Site Request Forgery of IBM MQ Appliance, via DataPower Gatewa, in order to force the victim to perform operations...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-sch-sfb-enqueue-39663" class="noirorange"><b>Linux kernel</b>: reuse after free via sch_sfb enqueue()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-sch-sfb-enqueue-39663)|An attacker can force the reuse of a freed memory area of the Linux kernel, via sch_sfb enqueue(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-find-prog-by-sec-insn-39662" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via <wbr>find_prog_by_sec_ins<wbr>n()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-find-prog-by-sec-insn-39662)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/clone-master-clean-up-file-corruption-39661" class="noirorange"><b>clone-master-clean-u<wbr>p</wbr></b>: file corruption</a>](https://vigilance.fr/vulnerability/clone-master-clean-up-file-corruption-39661)|An attacker can create a symbolic link, in order to alter the pointed file, with privileges of |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Helm-denial-of-service-39660" class="noirorange"><b>Helm</b>: denial of service</a>](https://vigilance.fr/vulnerability/Helm-denial-of-service-39660)|An attacker can cause a fatal error of Helm, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/buildah-write-access-39659" class="noirorange"><b>buildah</b>: write access</a>](https://vigilance.fr/vulnerability/buildah-write-access-39659)|An attacker can bypass access restrictions of buildah, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-39658" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-39658)|An attacker can use several vulnerabilities of Jenkins Plugins...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Security-QRadar-SIEM-information-disclosure-39657" class="noirorange"><b>IBM Security QRadar SIEM</b>: information disclosure</a>](https://vigilance.fr/vulnerability/IBM-Security-QRadar-SIEM-information-disclosure-39657)|An attacker can bypass access restrictions to data of IBM Security QRadar SIEM, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-denial-of-service-via-mcpd-39656" class="noirorange"><b>F5 BIG-IP</b>: denial of service via mcpd</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-denial-of-service-via-mcpd-39656)|An attacker can cause a fatal error of F5 BIG-IP, via mcpd, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-denial-of-service-via-HTTP-collect-39655" class="noirorange"><b>F5 BIG-IP</b>: denial of service via HTTP::collect</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-denial-of-service-via-HTTP-collect-39655)|An attacker can cause a fatal error of F5 BIG-IP, via HTTP::collect, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-denial-of-service-via-Advanced-WAF-ASM-39654" class="noirorange"><b>F5 BIG-IP</b>: denial of service via Advanced WAF, ASM</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-denial-of-service-via-Advanced-WAF-ASM-39654)|An attacker can cause a fatal error of F5 BIG-IP, via Advanced WAF, ASM, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Search-API-information-disclosure-39653" class="noirorange"><b>Drupal Search API</b>: information disclosure</a>](https://vigilance.fr/vulnerability/Drupal-Search-API-information-disclosure-39653)|An attacker can bypass access restrictions to data of Drupal Search API, in order to read sensitive information...|Visit link for details|
  
  ---
 
@@ -99,24 +107,6 @@
  |[Multiples vulnérabilités dans Oracle PeopleSoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-932/)|De multiples vulnérabilités ont été découvertes dans Oracle PeopleSoft. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 19 octobre 2022|
  |[Multiples vulnérabilités dans Oracle MySQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-931/)|De multiples vulnérabilités ont été découvertes dans Oracle MySQL. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 19 octobre 2022|
  |[Multiples vulnérabilités dans Oracle Java SE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-930/)|De multiples vulnérabilités ont été découvertes dans Oracle Java SE. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 19 octobre 2022|
- 
- ---
-
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[38792010/22 - Vulnérabilités dans les produits F5](https://www.dgssi.gov.ma//fr/content/3879201022-vulnerabilites-dans-les-produits-f5.html)|Deux vulnérabilités ont été corrigées dans les produits F5 susmentionnés. L’exploitation de ces failles permet à un attaquant distant de causer un déni de service et de porter atteinte à la confidentialité des données.|20 octobre 2022|
- |[38782010/22 - Vulnérabilité dans Avira Security pour Windows](https://www.dgssi.gov.ma//fr/content/3878201022-vulnerabilite-dans-avira-security-pour-windows.html)|Une vulnérabilité a été corrigée dans la fonctionnalité Software Updater d'Avira Security pour Windows. Un attaquant distant pourrait exploiter cette faille afin de réussir une élévation de privilèges.|20 octobre 2022|
- |[38761910/22 - Vulnérabilités affectantle navigateur Mozilla Firefox](https://www.dgssi.gov.ma//fr/content/3876191022-vulnerabilites-affectant-le-navigateur-mozilla-firefox.html-0)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de cesvulnérabilités peut permettre à un...|19 octobre 2022|
- |[38771910/22 - Vulnérabilités dans Adobe Ilustrator ](https://www.dgssi.gov.ma//fr/content/3877191022-vulnerabilites-dans-adobe-ilustrator.html)|Deux vulnérabilités ont été corrigées dans les produits Adobe Illustrator susmentionnés. Un attaquant distant pourrait exploiter certaines de ces vulnérabilités afin d’exécuter du code arbitraire à distance.|19 octobre 2022|
- |[38761910/22 - Vulnérabilités affectantle navigateur Mozilla Firefox](https://www.dgssi.gov.ma//fr/content/3876191022-vulnerabilites-affectant-le-navigateur-mozilla-firefox.html)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de cesvulnérabilités peut permettre à un...|19 octobre 2022|
- |[38751910/22 - "Oracle Critical Patch Update" du Mois Octobre 2022](https://www.dgssi.gov.ma//fr/content/3875191022-oracle-critical-patch-update-du-mois-octobre-2022.html)|Oracle a publié des correctifs de sécurité pour traiter plusieurs vulnérabilités dans le cadre de sa mise à jour « Oracle Critical Patch Update » du mois Octobre 2022. L'exploitation de certaines de ces vulnérabilités pourrait...|19 octobre 2022|
- |[38741910/22 - Vulnérabilités dans le CMS WordPress](https://www.dgssi.gov.ma//fr/content/3874191022-vulnerabilites-dans-le-cms-wordpress.html)|Plusieurs vulnérabilités ont été corrigées dans le CMS WordPress. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire à distance, de porter atteinte à l'intégrité des données et de réussir...|19 octobre 2022|
- |[38731810/22 - Vulnérabilité critique dans la bibliothèque Apache Commons Text](https://www.dgssi.gov.ma//fr/content/3873181022-vulnerabilite-critique-dans-la-bibliotheque-apache-commons-text.html)|La Fondation Apache Software a publié une mise à jour de sécurité pour corriger une vulnérabilité critique (CVE-2022-42889) dans sa bibliothèque Apache Commons Text.Une exploitation réussie pourrait permettre à un attaquant non...|18 octobre 2022|
- |[38711810/22 - Vulnérabilités affectantle navigateur Microsoft Edge ](https://www.dgssi.gov.ma//fr/content/3871181022-vulnerabilites-affectant-le-navigateur-microsoft-edge.html)|Microsoft vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilités affectant le navigateur Microsoft Edge. L’exploitation de cette vulnérabilité peut permettre à un attaquant d’exécuter du code...|18 octobre 2022|
- |[38721810/22 - Vulnérabilités dans les produits de vidéoconférence ZOOM ](https://www.dgssi.gov.ma//fr/content/3872181022-vulnerabilites-dans-les-produits-de-videoconference-zoom.html)|Zoom annonce la correction de deux vulnérabilités affectant les produits susmentionnés de vidéoconférence Zoom. L’exploitation de ces failles peut permettre à un attaquant local d’obtenir des informations confidentielles et de prendre le...|18 octobre 2022|
- |[38701710/22 - Vulnérabilités dans les produits Juniper](https://www.dgssi.gov.ma//fr/content/3870171022-vulnerabilites-dans-les-produits-juniper.html)|Juniper annonce la correction de plusieurs vulnérabilités affectant ses produits. L’exploitation de ces failles peut permettre à un attaquant de réussir une élévation de privilèges, d’exécuter du code arbitraire à distance, de causer un...|17 octobre 2022|
  
  ---
 
