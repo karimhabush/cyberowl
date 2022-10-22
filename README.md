@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 22/10/2022 09:17:13 UTC
+ > Last Updated 22/10/2022 21:11:06 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -36,17 +36,41 @@
  
  ---
 
+## CERT-FR [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-942/)|De multiples vulnérabilités ont été corrigées dans |Publié le 21 octobre 2022|
+ |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-941/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une atteinte à la confidentialité des données.|Publié le 21 octobre 2022|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-940/)|De multiples vulnérabilités ont été corrigées dans |Publié le 21 octobre 2022|
+ |[Multiples vulnérabilités dans les produits SolarWinds](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-939/)|De multiples vulnérabilités ont été découvertes dans les produits SolarWinds. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et une exécution de code arbitraire à distance.|Publié le 20 octobre 2022|
+ |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-938/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 20 octobre 2022|
+ |[Multiples vulnérabilités dans les produits F5](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-937/)|De multiples vulnérabilités ont été découvertes dans les produits F5. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 20 octobre 2022|
+ |[Vulnérabilité dans OwnCloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-936/)|Une vulnérabilité a été découverte dans OwnCloud. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 20 octobre 2022|
+ |[Multiples vulnérabilités dans Oracle WebLogic Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-935/)|De multiples vulnérabilités ont été découvertes dans Oracle WebLogic Server. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 19 octobre 2022|
+ |[Multiples vulnérabilités dans Oracle Virtualization](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-934/)|De multiples vulnérabilités ont été découvertes dans Oracle Virtualization. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 19 octobre 2022|
+ |[Multiples vulnérabilités dans Oracle Systems](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-933/)|De multiples vulnérabilités ont été découvertes dans Oracle Systems. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 19 octobre 2022|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## IBMCLOUD [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[Oracle VM VirtualBox denial of service (CVE-2022-21627)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
+ |[Oracle VM VirtualBox denial of service (CVE-2022-21621)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
+ |[Oracle VM VirtualBox unspecified (CVE-2022-21620)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
  |[Oracle Java SE and Oracle GraalVM Enterprise Edition denial of service (CVE-2022-21626)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
  |[F5OS directory traversal (CVE-2022-41780)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
  |[Oracle VM VirtualBox unspecified (CVE-2022-39427)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
  |[Oracle VM VirtualBox unspecified (CVE-2022-39426)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
- |[Oracle VM VirtualBox unspecified (CVE-2022-39425)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
- |[Oracle VM VirtualBox unspecified (CVE-2022-39424)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
- |[Oracle VM VirtualBox information disclosure (CVE-2022-39423)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
  
  ---
 
@@ -65,40 +89,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-bigben-probe-39676" class="noirorange"><b>Linux kernel</b>: buffer overflow via bigben_probe()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-bigben-probe-39676)|An attacker can trigger a buffer overflow of the Linux kernel, via bigben_probe(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-pvr-probe-39675" class="noirorange"><b>Linux kernel</b>: memory leak via pvr_probe()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-pvr-probe-39675)|An attacker can create a memory leak of the Linux kernel, via pvr_probe(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-vhci-write-39674" class="noirorange"><b>Linux kernel</b>: memory leak via vhci_write()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-vhci-write-39674)|An attacker can create a memory leak of the Linux kernel, via vhci_write(), in order to trigger a denial of service...|Visit link for details|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Axiomatic Bento4 mp42aac Ap4ByteStream.cpp WritePartial heap-based overflow](https://vuldb.com/?id.212007)|Visit link for details|2022-10-22 at 09:53|
- |[Axiomatic Bento4 mp42ts Ap4LinearReader.cpp Advance use after free](https://vuldb.com/?id.212006)|Visit link for details|2022-10-22 at 09:46|
- |[Axiomatic Bento4 avcinfo AvcInfo.cpp heap-based overflow](https://vuldb.com/?id.212005)|Visit link for details|2022-10-22 at 09:44|
- |[Axiomatic Bento4 avcinfo Ap4BitStream.cpp WriteBytes heap-based overflow](https://vuldb.com/?id.212004)|Visit link for details|2022-10-22 at 09:43|
- |[Axiomatic Bento4 MP4fragment Ap4StsdAtom.cpp AP4_StsdAtom null pointer dereference](https://vuldb.com/?id.212003)|Visit link for details|2022-10-22 at 09:40|
- |[Axiomatic Bento4 mp42hls Ap4Sample.h GetOffset use after free](https://vuldb.com/?id.212002)|Visit link for details|2022-10-22 at 09:37|
- |[Dell EMC PowerScale OneFS Privilege Escalation](https://vuldb.com/?id.212001)|Visit link for details|2022-10-22 at 09:33|
- |[Dell EMC PowerScale OneFS os command injection](https://vuldb.com/?id.212000)|Visit link for details|2022-10-22 at 09:32|
- |[Dell EMC PowerScale OneFS log file](https://vuldb.com/?id.211999)|Visit link for details|2022-10-22 at 09:32|
- |[skylot jadx ZIP File denial of service](https://vuldb.com/?id.211998)|Visit link for details|2022-10-22 at 09:30|
- 
- ---
-
-## CERT-FR [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-942/)|De multiples vulnérabilités ont été corrigées dans |Publié le 21 octobre 2022|
- |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-941/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une atteinte à la confidentialité des données.|Publié le 21 octobre 2022|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-940/)|De multiples vulnérabilités ont été corrigées dans |Publié le 21 octobre 2022|
- |[Multiples vulnérabilités dans les produits SolarWinds](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-939/)|De multiples vulnérabilités ont été découvertes dans les produits SolarWinds. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et une exécution de code arbitraire à distance.|Publié le 20 octobre 2022|
- |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-938/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 20 octobre 2022|
- |[Multiples vulnérabilités dans les produits F5](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-937/)|De multiples vulnérabilités ont été découvertes dans les produits F5. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 20 octobre 2022|
- |[Vulnérabilité dans OwnCloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-936/)|Une vulnérabilité a été découverte dans OwnCloud. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 20 octobre 2022|
- |[Multiples vulnérabilités dans Oracle WebLogic Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-935/)|De multiples vulnérabilités ont été découvertes dans Oracle WebLogic Server. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 19 octobre 2022|
- |[Multiples vulnérabilités dans Oracle Virtualization](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-934/)|De multiples vulnérabilités ont été découvertes dans Oracle Virtualization. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 19 octobre 2022|
- |[Multiples vulnérabilités dans Oracle Systems](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-933/)|De multiples vulnérabilités ont été découvertes dans Oracle Systems. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 19 octobre 2022|
  
  ---
 
