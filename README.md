@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 23/10/2022 09:16:20 UTC
+ > Last Updated 23/10/2022 21:12:13 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -36,6 +36,23 @@
  
  ---
 
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Backdoor.Win32.Delf.arh FTP Server missing authentication](https://vuldb.com/?id.212013)|Visit link for details|2022-10-23 at 08:20|
+ |[Backdoor.Win32.Psychward.10 Service Port 13013 backdoor](https://vuldb.com/?id.212012)|Visit link for details|2022-10-23 at 08:19|
+ |[Email-Worm.Win32.Kipis.c Service Port 8297 backdoor](https://vuldb.com/?id.212011)|Visit link for details|2022-10-23 at 08:18|
+ |[Axiomatic Bento4 mp42hevc WriteSample heap-based overflow](https://vuldb.com/?id.212010)|Visit link for details|2022-10-23 at 15:09|
+ |[Axiomatic Bento4 mp4edit Create memory leak](https://vuldb.com/?id.212009)|Visit link for details|2022-10-23 at 15:07|
+ |[Axiomatic Bento4 mp4edit CreateAtomFromStream memory leak](https://vuldb.com/?id.212008)|Visit link for details|2022-10-23 at 15:05|
+ |[Axiomatic Bento4 mp42aac Ap4ByteStream.cpp WritePartial heap-based overflow](https://vuldb.com/?id.212007)|Visit link for details|2022-10-23 at 09:53|
+ |[Axiomatic Bento4 mp42ts Ap4LinearReader.cpp Advance use after free](https://vuldb.com/?id.212006)|Visit link for details|2022-10-23 at 09:46|
+ |[Axiomatic Bento4 avcinfo AvcInfo.cpp heap-based overflow](https://vuldb.com/?id.212005)|Visit link for details|2022-10-23 at 09:44|
+ |[Axiomatic Bento4 avcinfo Ap4BitStream.cpp WriteBytes heap-based overflow](https://vuldb.com/?id.212004)|Visit link for details|2022-10-23 at 09:43|
+ 
+ ---
+
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -51,23 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-bigben-probe-39676" class="noirorange"><b>Linux kernel</b>: buffer overflow via bigben_probe()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-bigben-probe-39676)|An attacker can trigger a buffer overflow of the Linux kernel, via bigben_probe(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-pvr-probe-39675" class="noirorange"><b>Linux kernel</b>: memory leak via pvr_probe()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-pvr-probe-39675)|An attacker can create a memory leak of the Linux kernel, via pvr_probe(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-vhci-write-39674" class="noirorange"><b>Linux kernel</b>: memory leak via vhci_write()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-vhci-write-39674)|An attacker can create a memory leak of the Linux kernel, via vhci_write(), in order to trigger a denial of service...|Visit link for details|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Backdoor.Win32.Delf.arh FTP Server missing authentication](https://vuldb.com/?id.212013)|Visit link for details|2022-10-23 at 08:20|
- |[Backdoor.Win32.Psychward.10 Service Port 13013 backdoor](https://vuldb.com/?id.212012)|Visit link for details|2022-10-23 at 08:19|
- |[Email-Worm.Win32.Kipis.c Service Port 8297 backdoor](https://vuldb.com/?id.212011)|Visit link for details|2022-10-23 at 08:18|
- |[Axiomatic Bento4 mp42hevc WriteSample heap-based overflow](https://vuldb.com/?id.212010)|Visit link for details|2022-10-23 at 15:09|
- |[Axiomatic Bento4 mp4edit Create memory leak](https://vuldb.com/?id.212009)|Visit link for details|2022-10-23 at 15:07|
- |[Axiomatic Bento4 mp4edit CreateAtomFromStream memory leak](https://vuldb.com/?id.212008)|Visit link for details|2022-10-23 at 15:05|
- |[Axiomatic Bento4 mp42aac Ap4ByteStream.cpp WritePartial heap-based overflow](https://vuldb.com/?id.212007)|Visit link for details|2022-10-23 at 09:53|
- |[Axiomatic Bento4 mp42ts Ap4LinearReader.cpp Advance use after free](https://vuldb.com/?id.212006)|Visit link for details|2022-10-23 at 09:46|
- |[Axiomatic Bento4 avcinfo AvcInfo.cpp heap-based overflow](https://vuldb.com/?id.212005)|Visit link for details|2022-10-23 at 09:44|
- |[Axiomatic Bento4 avcinfo Ap4BitStream.cpp WriteBytes heap-based overflow](https://vuldb.com/?id.212004)|Visit link for details|2022-10-23 at 09:43|
  
  ---
 
@@ -88,6 +88,20 @@
  
  ---
 
+## IBMCLOUD [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Oracle E-Business Suite Web Applications Desktop Integrator Application Service unspecified (CVE-2022-39428)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
+ |[Oracle E-Business Suite Web Applications Desktop Integrator Application Service unspecified (CVE-2022-21587)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
+ |[Oracle VM VirtualBox denial of service (CVE-2022-21627)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
+ |[Oracle VM VirtualBox denial of service (CVE-2022-21621)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
+ |[Oracle VM VirtualBox unspecified (CVE-2022-21620)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
+ |[Oracle Java SE and Oracle GraalVM Enterprise Edition denial of service (CVE-2022-21626)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
+ |[F5OS directory traversal (CVE-2022-41780)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
+ 
+ ---
+
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -97,26 +111,12 @@
  |[38792010/22 - Vulnérabilités dans les produits F5](https://www.dgssi.gov.ma//fr/content/3879201022-vulnerabilites-dans-les-produits-f5.html)|Deux vulnérabilités ont été corrigées dans les produits F5 susmentionnés. L’exploitation de ces failles permet à un attaquant distant de causer un déni de service et de porter atteinte à la confidentialité des données.|20 octobre 2022|
  |[38782010/22 - Vulnérabilité dans Avira Security pour Windows](https://www.dgssi.gov.ma//fr/content/3878201022-vulnerabilite-dans-avira-security-pour-windows.html)|Une vulnérabilité a été corrigée dans la fonctionnalité Software Updater d'Avira Security pour Windows. Un attaquant distant pourrait exploiter cette faille afin de réussir une élévation de privilèges.|20 octobre 2022|
  |[38761910/22 - Vulnérabilités affectantle navigateur Mozilla Firefox](https://www.dgssi.gov.ma//fr/content/3876191022-vulnerabilites-affectant-le-navigateur-mozilla-firefox.html-0)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de cesvulnérabilités peut permettre à un...|19 octobre 2022|
- |[38771910/22 - Vulnérabilités dans Adobe Ilustrator ](https://www.dgssi.gov.ma//fr/content/3877191022-vulnerabilites-dans-adobe-ilustrator.html)|Deux vulnérabilités ont été corrigées dans les produits Adobe Illustrator susmentionnés. Un attaquant distant pourrait exploiter certaines de ces vulnérabilités afin d’exécuter du code arbitraire à distance.|19 octobre 2022|
  |[38761910/22 - Vulnérabilités affectantle navigateur Mozilla Firefox](https://www.dgssi.gov.ma//fr/content/3876191022-vulnerabilites-affectant-le-navigateur-mozilla-firefox.html)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de cesvulnérabilités peut permettre à un...|19 octobre 2022|
+ |[38771910/22 - Vulnérabilités dans Adobe Ilustrator ](https://www.dgssi.gov.ma//fr/content/3877191022-vulnerabilites-dans-adobe-ilustrator.html)|Deux vulnérabilités ont été corrigées dans les produits Adobe Illustrator susmentionnés. Un attaquant distant pourrait exploiter certaines de ces vulnérabilités afin d’exécuter du code arbitraire à distance.|19 octobre 2022|
  |[38751910/22 - "Oracle Critical Patch Update" du Mois Octobre 2022](https://www.dgssi.gov.ma//fr/content/3875191022-oracle-critical-patch-update-du-mois-octobre-2022.html)|Oracle a publié des correctifs de sécurité pour traiter plusieurs vulnérabilités dans le cadre de sa mise à jour « Oracle Critical Patch Update » du mois Octobre 2022. L'exploitation de certaines de ces vulnérabilités pourrait...|19 octobre 2022|
  |[38741910/22 - Vulnérabilités dans le CMS WordPress](https://www.dgssi.gov.ma//fr/content/3874191022-vulnerabilites-dans-le-cms-wordpress.html)|Plusieurs vulnérabilités ont été corrigées dans le CMS WordPress. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire à distance, de porter atteinte à l'intégrité des données et de réussir...|19 octobre 2022|
  |[38731810/22 - Vulnérabilité critique dans la bibliothèque Apache Commons Text](https://www.dgssi.gov.ma//fr/content/3873181022-vulnerabilite-critique-dans-la-bibliotheque-apache-commons-text.html)|La Fondation Apache Software a publié une mise à jour de sécurité pour corriger une vulnérabilité critique (CVE-2022-42889) dans sa bibliothèque Apache Commons Text.Une exploitation réussie pourrait permettre à un attaquant non...|18 octobre 2022|
  |[38711810/22 - Vulnérabilités affectantle navigateur Microsoft Edge ](https://www.dgssi.gov.ma//fr/content/3871181022-vulnerabilites-affectant-le-navigateur-microsoft-edge.html)|Microsoft vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilités affectant le navigateur Microsoft Edge. L’exploitation de cette vulnérabilité peut permettre à un attaquant d’exécuter du code...|18 octobre 2022|
- 
- ---
-
-## IBMCLOUD [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Oracle VM VirtualBox denial of service (CVE-2022-21627)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
- |[Oracle VM VirtualBox denial of service (CVE-2022-21621)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
- |[Oracle VM VirtualBox unspecified (CVE-2022-21620)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
- |[Oracle Java SE and Oracle GraalVM Enterprise Edition denial of service (CVE-2022-21626)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
- |[F5OS directory traversal (CVE-2022-41780)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
- |[Oracle VM VirtualBox unspecified (CVE-2022-39427)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
- |[Oracle VM VirtualBox unspecified (CVE-2022-39426)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
  
  ---
 
