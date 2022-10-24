@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 23/10/2022 21:12:13 UTC
+ > Last Updated 24/10/2022 09:27:03 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -36,41 +36,6 @@
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Backdoor.Win32.Delf.arh FTP Server missing authentication](https://vuldb.com/?id.212013)|Visit link for details|2022-10-23 at 08:20|
- |[Backdoor.Win32.Psychward.10 Service Port 13013 backdoor](https://vuldb.com/?id.212012)|Visit link for details|2022-10-23 at 08:19|
- |[Email-Worm.Win32.Kipis.c Service Port 8297 backdoor](https://vuldb.com/?id.212011)|Visit link for details|2022-10-23 at 08:18|
- |[Axiomatic Bento4 mp42hevc WriteSample heap-based overflow](https://vuldb.com/?id.212010)|Visit link for details|2022-10-23 at 15:09|
- |[Axiomatic Bento4 mp4edit Create memory leak](https://vuldb.com/?id.212009)|Visit link for details|2022-10-23 at 15:07|
- |[Axiomatic Bento4 mp4edit CreateAtomFromStream memory leak](https://vuldb.com/?id.212008)|Visit link for details|2022-10-23 at 15:05|
- |[Axiomatic Bento4 mp42aac Ap4ByteStream.cpp WritePartial heap-based overflow](https://vuldb.com/?id.212007)|Visit link for details|2022-10-23 at 09:53|
- |[Axiomatic Bento4 mp42ts Ap4LinearReader.cpp Advance use after free](https://vuldb.com/?id.212006)|Visit link for details|2022-10-23 at 09:46|
- |[Axiomatic Bento4 avcinfo AvcInfo.cpp heap-based overflow](https://vuldb.com/?id.212005)|Visit link for details|2022-10-23 at 09:44|
- |[Axiomatic Bento4 avcinfo Ap4BitStream.cpp WriteBytes heap-based overflow](https://vuldb.com/?id.212004)|Visit link for details|2022-10-23 at 09:43|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-tiffcrop-39684" class="noirorange"><b>LibTIFF</b>: buffer overflow via tiffcrop</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-tiffcrop-39684)|An attacker can trigger a buffer overflow of LibTIFF, via tiffcrop, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-TIFFmemcpy-39683" class="noirorange"><b>LibTIFF</b>: buffer overflow via _TIFFmemcpy()</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-TIFFmemcpy-39683)|An attacker can trigger a buffer overflow of LibTIFF, via _TIFFmemcpy(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-out-of-bounds-memory-reading-via-writeSingleSection-39682" class="noirorange"><b>LibTIFF</b>: out-of-bounds memory reading via <wbr>writeSingleSection()</wbr></a>](https://vigilance.fr/vulnerability/LibTIFF-out-of-bounds-memory-reading-via-writeSingleSection-39682)|An attacker can force a read at an invalid memory address of LibTIFF, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-tiffcrop-TIFFmemset-39681" class="noirorange"><b>LibTIFF</b>: buffer overflow via tiffcrop _TIFFmemset()</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-tiffcrop-TIFFmemset-39681)|An attacker can trigger a buffer overflow of LibTIFF, via tiffcrop _TIFFmemset(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-tiffcrop-extractContigSamplesShifted24bits-39680" class="noirorange"><b>LibTIFF</b>: buffer overflow via tiffcrop <wbr>extractContigSamples<wbr>Shifted24bits()</wbr></wbr></a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-tiffcrop-extractContigSamplesShifted24bits-39680)|An attacker can trigger a buffer overflow of LibTIFF, via tiffcrop |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-follow-page-pte-39679" class="noirorange"><b>Linux kernel</b>: memory corruption via follow_page_pte()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-follow-page-pte-39679)|An attacker can trigger a memory corruption of the Linux kernel, via follow_page_pte(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-nilfs-bmap-lookup-at-level-39678" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via <wbr>nilfs_bmap_lookup_at<wbr>_level()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-nilfs-bmap-lookup-at-level-39678)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Exim-reuse-after-free-via-dmarc-dns-lookup-39677" class="noirorange"><b>Exim</b>: reuse after free via dmarc_dns_lookup()</a>](https://vigilance.fr/vulnerability/Exim-reuse-after-free-via-dmarc-dns-lookup-39677)|An attacker can force the reuse of a freed memory area of Exim, via dmarc_dns_lookup(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-bigben-probe-39676" class="noirorange"><b>Linux kernel</b>: buffer overflow via bigben_probe()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-bigben-probe-39676)|An attacker can trigger a buffer overflow of the Linux kernel, via bigben_probe(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-pvr-probe-39675" class="noirorange"><b>Linux kernel</b>: memory leak via pvr_probe()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-pvr-probe-39675)|An attacker can create a memory leak of the Linux kernel, via pvr_probe(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-vhci-write-39674" class="noirorange"><b>Linux kernel</b>: memory leak via vhci_write()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-vhci-write-39674)|An attacker can create a memory leak of the Linux kernel, via vhci_write(), in order to trigger a denial of service...|Visit link for details|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -88,17 +53,67 @@
  
  ---
 
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SourceCodester Sanitization Management System missing authentication](https://vuldb.com/?id.212017)|Visit link for details|2022-10-24 at 07:48|
+ |[SourceCodester Sanitization Management System Master.php cross site scripting](https://vuldb.com/?id.212016)|Visit link for details|2022-10-24 at 07:46|
+ |[SourceCodester Sanitization Management System SystemSettings.php cross site scripting](https://vuldb.com/?id.212015)|Visit link for details|2022-10-24 at 07:45|
+ |[SourceCodester eLearning System manage.php sql injection](https://vuldb.com/?id.212014)|Visit link for details|2022-10-24 at 07:41|
+ |[Backdoor.Win32.Delf.arh FTP Server missing authentication](https://vuldb.com/?id.212013)|Visit link for details|2022-10-24 at 08:20|
+ |[Backdoor.Win32.Psychward.10 Service Port 13013 backdoor](https://vuldb.com/?id.212012)|Visit link for details|2022-10-24 at 08:19|
+ |[Email-Worm.Win32.Kipis.c Service Port 8297 backdoor](https://vuldb.com/?id.212011)|Visit link for details|2022-10-24 at 08:18|
+ |[Axiomatic Bento4 mp42hevc WriteSample heap-based overflow](https://vuldb.com/?id.212010)|Visit link for details|2022-10-24 at 15:09|
+ |[Axiomatic Bento4 mp4edit Create memory leak](https://vuldb.com/?id.212009)|Visit link for details|2022-10-24 at 15:07|
+ |[Axiomatic Bento4 mp4edit CreateAtomFromStream memory leak](https://vuldb.com/?id.212008)|Visit link for details|2022-10-24 at 15:05|
+ 
+ ---
+
 ## IBMCLOUD [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[Oracle Java SE and Oracle GraalVM Enterprise Edition denial of service (CVE-2022-21634)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
+ |[Oracle Java SE and Oracle GraalVM Enterprise Edition information disclosure (CVE-2022-21597)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
+ |[Oracle Java SE and Oracle GraalVM Enterprise Edition security bypass (CVE-2022-39399)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
+ |[Oracle Java SE and Oracle GraalVM Enterprise Edition security bypass (CVE-2022-21624)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
+ |[Oracle Java SE and Oracle GraalVM Enterprise Edition security bypass (CVE-2022-21619)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
  |[Oracle E-Business Suite Web Applications Desktop Integrator Application Service unspecified (CVE-2022-39428)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
  |[Oracle E-Business Suite Web Applications Desktop Integrator Application Service unspecified (CVE-2022-21587)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
- |[Oracle VM VirtualBox denial of service (CVE-2022-21627)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
- |[Oracle VM VirtualBox denial of service (CVE-2022-21621)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
- |[Oracle VM VirtualBox unspecified (CVE-2022-21620)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
- |[Oracle Java SE and Oracle GraalVM Enterprise Edition denial of service (CVE-2022-21626)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
- |[F5OS directory traversal (CVE-2022-41780)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
+ 
+ ---
+
+## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(Pwn2Own) Linux Kernel io_uring Improper Update of Reference Count Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1462/)|Visit link for details|Oct. 21, 2022|
+ |[SolarWinds Network Performance Monitor MessageToBytes Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1461/)|Visit link for details|Oct. 21, 2022|
+ |[SolarWinds Network Performance Monitor PropertyBagJsonConverter Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1460/)|Visit link for details|Oct. 21, 2022|
+ |[SolarWinds Network Performance Monitor DeserializeFromStrippedXml Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1459/)|Visit link for details|Oct. 21, 2022|
+ |[GNU Gzip zgrep Argument Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1458/)|Visit link for details|Oct. 21, 2022|
+ |[Linux Kernel nftables Uninitialized Variable Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1457/)|Visit link for details|Oct. 21, 2022|
+ |[LibreOffice Exposed Dangerous Function Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1456/)|Visit link for details|Oct. 21, 2022|
+ |[(Pwn2Own) Kepware KEPServerEX Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1455/)|Visit link for details|Oct. 21, 2022|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/LAVA-code-execution-39686" class="noirorange"><b>LAVA</b>: code execution</a>](https://vigilance.fr/vulnerability/LAVA-code-execution-39686)|An attacker can use a vulnerability of LAVA, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-tiffcrop-39684" class="noirorange"><b>LibTIFF</b>: buffer overflow via tiffcrop</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-tiffcrop-39684)|An attacker can trigger a buffer overflow of LibTIFF, via tiffcrop, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-TIFFmemcpy-39683" class="noirorange"><b>LibTIFF</b>: buffer overflow via _TIFFmemcpy()</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-TIFFmemcpy-39683)|An attacker can trigger a buffer overflow of LibTIFF, via _TIFFmemcpy(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-out-of-bounds-memory-reading-via-writeSingleSection-39682" class="noirorange"><b>LibTIFF</b>: out-of-bounds memory reading via <wbr>writeSingleSection()</wbr></a>](https://vigilance.fr/vulnerability/LibTIFF-out-of-bounds-memory-reading-via-writeSingleSection-39682)|An attacker can force a read at an invalid memory address of LibTIFF, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-tiffcrop-TIFFmemset-39681" class="noirorange"><b>LibTIFF</b>: buffer overflow via tiffcrop _TIFFmemset()</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-tiffcrop-TIFFmemset-39681)|An attacker can trigger a buffer overflow of LibTIFF, via tiffcrop _TIFFmemset(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-tiffcrop-extractContigSamplesShifted24bits-39680" class="noirorange"><b>LibTIFF</b>: buffer overflow via tiffcrop <wbr>extractContigSamples<wbr>Shifted24bits()</wbr></wbr></a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-tiffcrop-extractContigSamplesShifted24bits-39680)|An attacker can trigger a buffer overflow of LibTIFF, via tiffcrop |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-follow-page-pte-39679" class="noirorange"><b>Linux kernel</b>: memory corruption via follow_page_pte()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-follow-page-pte-39679)|An attacker can trigger a memory corruption of the Linux kernel, via follow_page_pte(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-nilfs-bmap-lookup-at-level-39678" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via <wbr>nilfs_bmap_lookup_at<wbr>_level()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-nilfs-bmap-lookup-at-level-39678)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Exim-reuse-after-free-via-dmarc-dns-lookup-39677" class="noirorange"><b>Exim</b>: reuse after free via dmarc_dns_lookup()</a>](https://vigilance.fr/vulnerability/Exim-reuse-after-free-via-dmarc-dns-lookup-39677)|An attacker can force the reuse of a freed memory area of Exim, via dmarc_dns_lookup(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-bigben-probe-39676" class="noirorange"><b>Linux kernel</b>: buffer overflow via bigben_probe()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-bigben-probe-39676)|An attacker can trigger a buffer overflow of the Linux kernel, via bigben_probe(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-pvr-probe-39675" class="noirorange"><b>Linux kernel</b>: memory leak via pvr_probe()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-pvr-probe-39675)|An attacker can create a memory leak of the Linux kernel, via pvr_probe(), in order to trigger a denial of service...|Visit link for details|
  
  ---
 
@@ -117,19 +132,4 @@
  |[38741910/22 - Vulnérabilités dans le CMS WordPress](https://www.dgssi.gov.ma//fr/content/3874191022-vulnerabilites-dans-le-cms-wordpress.html)|Plusieurs vulnérabilités ont été corrigées dans le CMS WordPress. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire à distance, de porter atteinte à l'intégrité des données et de réussir...|19 octobre 2022|
  |[38731810/22 - Vulnérabilité critique dans la bibliothèque Apache Commons Text](https://www.dgssi.gov.ma//fr/content/3873181022-vulnerabilite-critique-dans-la-bibliotheque-apache-commons-text.html)|La Fondation Apache Software a publié une mise à jour de sécurité pour corriger une vulnérabilité critique (CVE-2022-42889) dans sa bibliothèque Apache Commons Text.Une exploitation réussie pourrait permettre à un attaquant non...|18 octobre 2022|
  |[38711810/22 - Vulnérabilités affectantle navigateur Microsoft Edge ](https://www.dgssi.gov.ma//fr/content/3871181022-vulnerabilites-affectant-le-navigateur-microsoft-edge.html)|Microsoft vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilités affectant le navigateur Microsoft Edge. L’exploitation de cette vulnérabilité peut permettre à un attaquant d’exécuter du code...|18 octobre 2022|
- 
- ---
-
-## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[(Pwn2Own) Linux Kernel io_uring Improper Update of Reference Count Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1462/)|Visit link for details|Oct. 21, 2022|
- |[SolarWinds Network Performance Monitor MessageToBytes Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1461/)|Visit link for details|Oct. 21, 2022|
- |[SolarWinds Network Performance Monitor PropertyBagJsonConverter Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1460/)|Visit link for details|Oct. 21, 2022|
- |[SolarWinds Network Performance Monitor DeserializeFromStrippedXml Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1459/)|Visit link for details|Oct. 21, 2022|
- |[GNU Gzip zgrep Argument Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1458/)|Visit link for details|Oct. 21, 2022|
- |[Linux Kernel nftables Uninitialized Variable Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1457/)|Visit link for details|Oct. 21, 2022|
- |[LibreOffice Exposed Dangerous Function Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1456/)|Visit link for details|Oct. 21, 2022|
- |[(Pwn2Own) Kepware KEPServerEX Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1455/)|Visit link for details|Oct. 21, 2022|
  
