@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 24/10/2022 21:13:45 UTC
+ > Last Updated 25/10/2022 09:25:21 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -36,38 +36,38 @@
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Lanner IAC-AST2500A spx_restservice SubNet_handler_func out-of-bounds write](https://vuldb.com/?id.212048)|Visit link for details|2022-10-24 at 21:44|
- |[Lemon8 Custom URL Scheme improper authorization](https://vuldb.com/?id.212047)|Visit link for details|2022-10-24 at 21:37|
- |[Juiker hard-coded credentials](https://vuldb.com/?id.212046)|Visit link for details|2022-10-24 at 21:36|
- |[Kirby excessive authentication](https://vuldb.com/?id.212045)|Visit link for details|2022-10-24 at 21:35|
- |[pikepdf PDF XMP Metadata Parser xml external entity reference](https://vuldb.com/?id.212044)|Visit link for details|2022-10-24 at 21:34|
- |[Iij SmartKey One-Time Password information disclosure](https://vuldb.com/?id.212043)|Visit link for details|2022-10-24 at 21:33|
- |[BookStack cross site scripting](https://vuldb.com/?id.212042)|Visit link for details|2022-10-24 at 21:33|
- |[IPFire Web User Interface cross site scripting](https://vuldb.com/?id.212041)|Visit link for details|2022-10-24 at 21:32|
- |[libexpat XML_ExternalEntityParserCreate use after free](https://vuldb.com/?id.212040)|Visit link for details|2022-10-24 at 21:31|
- |[free5GC NGAP Message aper.GetBitString denial of service](https://vuldb.com/?id.212039)|Visit link for details|2022-10-24 at 21:31|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/libmodsecurity-vulnerability-39705" class="noirorange"><b>libmodsecurity</b>: vulnerability</a>](https://vigilance.fr/vulnerability/libmodsecurity-vulnerability-39705)|A vulnerability of libmodsecurity was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apple-macOS-iOS-privilege-escalation-via-AppleMobileFileIntegrity-39704" class="noirorange"><b>Apple macOS/iOS</b>: privilege escalation via <wbr>AppleMobileFileInteg<wbr>rity</wbr></wbr></a>](https://vigilance.fr/vulnerability/Apple-macOS-iOS-privilege-escalation-via-AppleMobileFileIntegrity-39704)|An attacker can bypass restrictions of Apple macOS/iOS, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apple-macOS-information-disclosure-via-Sandbox-39703" class="noirorange"><b>Apple macOS</b>: information disclosure via Sandbox</a>](https://vigilance.fr/vulnerability/Apple-macOS-information-disclosure-via-Sandbox-39703)|An attacker can bypass access restrictions to data of Apple macOS, via Sandbox, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apple-macOS-multiple-vulnerabilities-39702" class="noirorange"><b>Apple macOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-macOS-multiple-vulnerabilities-39702)|An attacker can use several vulnerabilities of Apple macOS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-multiple-vulnerabilities-39701" class="noirorange"><b>Apple iOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-iOS-multiple-vulnerabilities-39701)|An attacker can use several vulnerabilities of Apple iOS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/wkhtmltopdf-user-access-39700" class="noirorange"><b>wkhtmltopdf</b>: user access</a>](https://vigilance.fr/vulnerability/wkhtmltopdf-user-access-39700)|An attacker can bypass restrictions of wkhtmltopdf, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/BlueZ-two-vulnerabilities-39699" class="noirorange"><b>BlueZ</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/BlueZ-two-vulnerabilities-39699)|An attacker can use several vulnerabilities of BlueZ...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Python-Core-buffer-overflow-via-sha3-39698" class="noirorange"><b>Python Core</b>: buffer overflow via _sha3</a>](https://vigilance.fr/vulnerability/Python-Core-buffer-overflow-via-sha3-39698)|An attacker can trigger a buffer overflow of Python Core, via _sha3, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-nft-osf-eval-39697" class="noirorange"><b>Linux kernel</b>: information disclosure via nft_osf_eval</a>](https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-nft-osf-eval-39697)|An attacker can bypass access restrictions to data of the Linux kernel, via nft_osf_eval, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-two-vulnerabilities-via-bluetooth-39696" class="noirorange"><b>Linux kernel</b>: two vulnerabilities via bluetooth</a>](https://vigilance.fr/vulnerability/Linux-kernel-two-vulnerabilities-via-bluetooth-39696)|An attacker can use several vulnerabilities of the Linux kernel, via bluetooth...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Nginx-memory-leak-via-ngx-resolver-create-name-query-39694" class="noirorange"><b>Nginx</b>: memory leak via <wbr>ngx_resolver_create_<wbr>name_query</wbr></wbr></a>](https://vigilance.fr/vulnerability/Nginx-memory-leak-via-ngx-resolver-create-name-query-39694)|An attacker can create a memory leak of Nginx, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-mtk-ppe-check-skb-39693" class="noirorange"><b>Linux kernel</b>: reuse after free via <wbr>__mtk_ppe_check_skb(<wbr>)</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-mtk-ppe-check-skb-39693)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-via-IPsec-39692" class="noirorange"><b>Linux kernel</b>: multiple vulnerabilities via IPsec</a>](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-via-IPsec-39692)|An attacker can use several vulnerabilities of the Linux kernel, via IPsec...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-TIFFmemcpy-39691" class="noirorange"><b>LibTIFF</b>: buffer overflow via _TIFFmemcpy()</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-TIFFmemcpy-39691)|An attacker can trigger a buffer overflow of LibTIFF, via _TIFFmemcpy(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-rlb-arp-xmit-39690" class="noirorange"><b>Linux kernel</b>: memory leak via rlb_arp_xmit</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-rlb-arp-xmit-39690)|An attacker can create a memory leak of the Linux kernel, via rlb_arp_xmit, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-devlink-param-get-39689" class="noirorange"><b>Linux kernel</b>: reuse after free via devlink_param_get</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-devlink-param-get-39689)|An attacker can force the reuse of a freed memory area of the Linux kernel, via devlink_param_get, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-af-mctp-c-39688" class="noirorange"><b>Linux kernel</b>: reuse after free via af_mctp.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-af-mctp-c-39688)|An attacker can force the reuse of a freed memory area of the Linux kernel, via af_mctp.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-denial-of-service-via-TIFFFetchStripThing-39687" class="noirorange"><b>LibTIFF</b>: denial of service via <wbr>TIFFFetchStripThing(<wbr>)</wbr></wbr></a>](https://vigilance.fr/vulnerability/LibTIFF-denial-of-service-via-TIFFFetchStripThing-39687)|An attacker can cause a fatal error of LibTIFF, via |Visit link for details|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apple Safari WebKit PDF use after free](https://vuldb.com/?id.212163)|Visit link for details|2022-10-25 at 09:07|
+ |[Apple Safari WebKit state issue](https://vuldb.com/?id.212162)|Visit link for details|2022-10-25 at 09:07|
+ |[Apple Safari WebKit type confusion](https://vuldb.com/?id.212161)|Visit link for details|2022-10-25 at 09:06|
+ |[Apple Safari WebKit Remote Code Execution](https://vuldb.com/?id.212160)|Visit link for details|2022-10-25 at 09:06|
+ |[Apple macOS WebKit Sandboxing access control](https://vuldb.com/?id.212159)|Visit link for details|2022-10-25 at 09:05|
+ |[Apple macOS WebKit PDF use after free](https://vuldb.com/?id.212158)|Visit link for details|2022-10-25 at 09:04|
+ |[Apple macOS WebKit state issue](https://vuldb.com/?id.212157)|Visit link for details|2022-10-25 at 09:04|
+ |[Apple macOS WebKit type confusion](https://vuldb.com/?id.212156)|Visit link for details|2022-10-25 at 09:03|
+ |[Apple macOS WebKit Remote Code Execution](https://vuldb.com/?id.212155)|Visit link for details|2022-10-25 at 09:03|
+ |[Apple macOS WebKit out-of-bounds](https://vuldb.com/?id.212154)|Visit link for details|2022-10-25 at 09:03|
  
  ---
 
@@ -97,8 +97,8 @@
  |[38792010/22 - Vulnérabilités dans les produits F5](https://www.dgssi.gov.ma//fr/content/3879201022-vulnerabilites-dans-les-produits-f5.html)|Deux vulnérabilités ont été corrigées dans les produits F5 susmentionnés. L’exploitation de ces failles permet à un attaquant distant de causer un déni de service et de porter atteinte à la confidentialité des données.|20 octobre 2022|
  |[38782010/22 - Vulnérabilité dans Avira Security pour Windows](https://www.dgssi.gov.ma//fr/content/3878201022-vulnerabilite-dans-avira-security-pour-windows.html)|Une vulnérabilité a été corrigée dans la fonctionnalité Software Updater d'Avira Security pour Windows. Un attaquant distant pourrait exploiter cette faille afin de réussir une élévation de privilèges.|20 octobre 2022|
  |[38761910/22 - Vulnérabilités affectantle navigateur Mozilla Firefox](https://www.dgssi.gov.ma//fr/content/3876191022-vulnerabilites-affectant-le-navigateur-mozilla-firefox.html-0)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de cesvulnérabilités peut permettre à un...|19 octobre 2022|
- |[38761910/22 - Vulnérabilités affectantle navigateur Mozilla Firefox](https://www.dgssi.gov.ma//fr/content/3876191022-vulnerabilites-affectant-le-navigateur-mozilla-firefox.html)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de cesvulnérabilités peut permettre à un...|19 octobre 2022|
  |[38771910/22 - Vulnérabilités dans Adobe Ilustrator ](https://www.dgssi.gov.ma//fr/content/3877191022-vulnerabilites-dans-adobe-ilustrator.html)|Deux vulnérabilités ont été corrigées dans les produits Adobe Illustrator susmentionnés. Un attaquant distant pourrait exploiter certaines de ces vulnérabilités afin d’exécuter du code arbitraire à distance.|19 octobre 2022|
+ |[38761910/22 - Vulnérabilités affectantle navigateur Mozilla Firefox](https://www.dgssi.gov.ma//fr/content/3876191022-vulnerabilites-affectant-le-navigateur-mozilla-firefox.html)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de cesvulnérabilités peut permettre à un...|19 octobre 2022|
  |[38751910/22 - "Oracle Critical Patch Update" du Mois Octobre 2022](https://www.dgssi.gov.ma//fr/content/3875191022-oracle-critical-patch-update-du-mois-octobre-2022.html)|Oracle a publié des correctifs de sécurité pour traiter plusieurs vulnérabilités dans le cadre de sa mise à jour « Oracle Critical Patch Update » du mois Octobre 2022. L'exploitation de certaines de ces vulnérabilités pourrait...|19 octobre 2022|
  |[38741910/22 - Vulnérabilités dans le CMS WordPress](https://www.dgssi.gov.ma//fr/content/3874191022-vulnerabilites-dans-le-cms-wordpress.html)|Plusieurs vulnérabilités ont été corrigées dans le CMS WordPress. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire à distance, de porter atteinte à l'intégrité des données et de réussir...|19 octobre 2022|
  |[38731810/22 - Vulnérabilité critique dans la bibliothèque Apache Commons Text](https://www.dgssi.gov.ma//fr/content/3873181022-vulnerabilite-critique-dans-la-bibliotheque-apache-commons-text.html)|La Fondation Apache Software a publié une mise à jour de sécurité pour corriger une vulnérabilité critique (CVE-2022-42889) dans sa bibliothèque Apache Commons Text.Une exploitation réussie pourrait permettre à un attaquant non...|18 octobre 2022|
@@ -110,13 +110,13 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Oracle MySQL Server denial of service (CVE-2022-21633)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
- |[Oracle MySQL Server denial of service (CVE-2022-21632)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
- |[Oracle MySQL Server denial of service (CVE-2022-21625)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
- |[Oracle MySQL Server denial of service (CVE-2022-21617)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
- |[Oracle MySQL Server denial of service (CVE-2022-21611)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
- |[Oracle MySQL Server denial of service (CVE-2022-21608)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
- |[Oracle MySQL Server denial of service (CVE-2022-21607)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
+ |[Apple iOS and iPadOS spoofing (CVE-2022-42799)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 24, 2022|
+ |[Apple iOS and iPadOS security bypass (CVE-2022-42825)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 24, 2022|
+ |[Apple iOS and iPadOS code execution (CVE-2022-32922)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 24, 2022|
+ |[Apple iOS and iPadOS code execution (CVE-2022-42827)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 24, 2022|
+ |[Siemens Siveillance Video Mobile Server security bypass (CVE-2022-43400)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 21, 2022|
+ |[Node.js UglifyJS module code execution (CVE-2022-37598)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 20, 2022|
+ |[Oracle MySQL Server denial of service (CVE-2022-21641)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 19, 2022|
  
  ---
 
@@ -124,12 +124,12 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[TP-Link TL-WR841N ated_tp Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1466/)|Visit link for details|Oct. 25, 2022|
+ |[GnuPG libksba CRL File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1465/)|Visit link for details|Oct. 25, 2022|
+ |[GnuPG libksba CMS File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1464/)|Visit link for details|Oct. 25, 2022|
+ |[GnuPG libksba CMS File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1463/)|Visit link for details|Oct. 25, 2022|
  |[(Pwn2Own) Linux Kernel io_uring Improper Update of Reference Count Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1462/)|Visit link for details|Oct. 21, 2022|
  |[SolarWinds Network Performance Monitor MessageToBytes Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1461/)|Visit link for details|Oct. 21, 2022|
  |[SolarWinds Network Performance Monitor PropertyBagJsonConverter Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1460/)|Visit link for details|Oct. 21, 2022|
  |[SolarWinds Network Performance Monitor DeserializeFromStrippedXml Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1459/)|Visit link for details|Oct. 21, 2022|
- |[GNU Gzip zgrep Argument Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1458/)|Visit link for details|Oct. 21, 2022|
- |[Linux Kernel nftables Uninitialized Variable Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1457/)|Visit link for details|Oct. 21, 2022|
- |[LibreOffice Exposed Dangerous Function Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1456/)|Visit link for details|Oct. 21, 2022|
- |[(Pwn2Own) Kepware KEPServerEX Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1455/)|Visit link for details|Oct. 21, 2022|
  
