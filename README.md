@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 25/10/2022 21:13:37 UTC
+ > Last Updated 26/10/2022 09:13:08 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -36,20 +36,21 @@
  
  ---
 
-## CERT-FR [:arrow_heading_up:](#cyberowl)
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans Samba](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-949/)|De multiples vulnérabilités ont été découvertes dans Samba. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 25 octobre 2022|
- |[Multiples vulnérabilités dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-948/)|De multiples vulnérabilités ont été découvertes dans Mozilla Thunderbird. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 25 octobre 2022|
- |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-947/)|De multiples vulnérabilités ont été découvertes dans les produits Apple. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 25 octobre 2022|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-946/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer un déni de service à distance et une élévation de privilèges.|Publié le 24 octobre 2022|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-945/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire et un déni de service.|Publié le 24 octobre 2022|
- |[Multiples vulnérabilités dans les produits Synology](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-944/)|De multiples vulnérabilités ont été découvertes dans les produits Synology. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.|Publié le 24 octobre 2022|
- |[[SCADA] Vulnérabilité dans Siemens Siveillance Video Mobile Server V2022 R2](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-943/)|Une vulnérabilité a été découverte dans Siemens Siveillance Video Mobile Server V2022 R2. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 24 octobre 2022|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-942/)|De multiples vulnérabilités ont été corrigées dans |Publié le 21 octobre 2022|
- |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-941/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une atteinte à la confidentialité des données.|Publié le 21 octobre 2022|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-940/)|De multiples vulnérabilités ont été corrigées dans |Publié le 21 octobre 2022|
+ |[<a href="https://vigilance.fr/vulnerability/BlueZ-buffer-overflow-via-le-meta-ev-dump-39720" class="noirorange"><b>BlueZ</b>: buffer overflow via le_meta_ev_dump()</a>](https://vigilance.fr/vulnerability/BlueZ-buffer-overflow-via-le-meta-ev-dump-39720)|An attacker can trigger a buffer overflow of BlueZ, via le_meta_ev_dump(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Hadoop-privilege-escalation-39719" class="noirorange"><b>Apache Hadoop</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Apache-Hadoop-privilege-escalation-39719)|An attacker can bypass restrictions of Apache Hadoop, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Tika-denial-of-service-via-Regexp-39718" class="noirorange"><b>Apache Tika</b>: denial of service via Regexp</a>](https://vigilance.fr/vulnerability/Apache-Tika-denial-of-service-via-Regexp-39718)|An attacker can cause a fatal error of Apache Tika, via Regexp, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Tika-denial-of-service-via-Regexp-39717" class="noirorange"><b>Apache Tika</b>: denial of service via Regexp</a>](https://vigilance.fr/vulnerability/Apache-Tika-denial-of-service-via-Regexp-39717)|An attacker can cause a fatal error of Apache Tika, via Regexp, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Hadoop-buffer-overflow-via-libhdfs-39716" class="noirorange"><b>Apache Hadoop</b>: buffer overflow via libhdfs</a>](https://vigilance.fr/vulnerability/Apache-Hadoop-buffer-overflow-via-libhdfs-39716)|An attacker can trigger a buffer overflow of Apache Hadoop, via libhdfs, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Tika-denial-of-service-via-Regexp-39715" class="noirorange"><b>Apache Tika</b>: denial of service via Regexp</a>](https://vigilance.fr/vulnerability/Apache-Tika-denial-of-service-via-Regexp-39715)|An attacker can cause a fatal error of Apache Tika, via Regexp, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Go-denial-of-service-via-ParseAcceptLanguage-39714" class="noirorange"><b>Go</b>: denial of service via ParseAcceptLanguage</a>](https://vigilance.fr/vulnerability/Go-denial-of-service-via-ParseAcceptLanguage-39714)|An attacker can cause a fatal error of Go, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Samba-directory-escape-via-symlink-39711" class="noirorange"><b>Samba</b>: directory escape via symlink</a>](https://vigilance.fr/vulnerability/Samba-directory-escape-via-symlink-39711)|An attacker can exit the folder exported by Samba, via a symbolic link, in order to read or modify a file located outside the root of the share...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Heimdal-GSSAPI-buffer-overflow-via-unwrap-des3-39710" class="noirorange"><b>Heimdal GSSAPI</b>: buffer overflow via unwrap_des3()</a>](https://vigilance.fr/vulnerability/Heimdal-GSSAPI-buffer-overflow-via-unwrap-des3-39710)|An attacker can trigger a buffer overflow of Heimdal GSSAPI, via unwrap_des3(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PKI-Core-information-disclosure-via-caServerKeygen-DirUserCert-39708" class="noirorange"><b>PKI Core</b>: information disclosure via <wbr>caServerKeygen_DirUs<wbr>erCert</wbr></wbr></a>](https://vigilance.fr/vulnerability/PKI-Core-information-disclosure-via-caServerKeygen-DirUserCert-39708)|An attacker can bypass access restrictions to data of PKI Core, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/multipath-tools-two-vulnerabilities-39707" class="noirorange"><b>multipath-tools</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/multipath-tools-two-vulnerabilities-39707)|An attacker can use several vulnerabilities of multipath-tools...|Visit link for details|
  
  ---
 
@@ -57,48 +58,16 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[OpenFGA Wildcard improper authorization](https://vuldb.com/?id.212210)|Visit link for details|2022-10-25 at 22:48|
- |[OpenFGA streamed-list-objects Endpoint improper authorization](https://vuldb.com/?id.212209)|Visit link for details|2022-10-25 at 22:47|
- |[GitHub Actions Runner os command injection](https://vuldb.com/?id.212208)|Visit link for details|2022-10-25 at 22:46|
- |[Dataease MySQL Connection Parameter JdbcProvider.java deserialization](https://vuldb.com/?id.212207)|Visit link for details|2022-10-25 at 22:44|
- |[Free5gc information disclosure](https://vuldb.com/?id.212206)|Visit link for details|2022-10-25 at 22:44|
- |[Esri ArcGIS Server code download](https://vuldb.com/?id.212205)|Visit link for details|2022-10-25 at 22:42|
- |[Esri ArcGIS Server redirect](https://vuldb.com/?id.212204)|Visit link for details|2022-10-25 at 22:42|
- |[Esri ArcGIS Server path traversal](https://vuldb.com/?id.212203)|Visit link for details|2022-10-25 at 22:42|
- |[Abode iota All-In-One Security Kit Web Interface wirelessConnect format string](https://vuldb.com/?id.212202)|Visit link for details|2022-10-25 at 22:41|
- |[Abode iota All-In-One Security Kit Web Interface wirelessConnect format string](https://vuldb.com/?id.212201)|Visit link for details|2022-10-25 at 22:40|
- 
- ---
-
-## IBMCLOUD [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Apple macOS Ventura code execution (CVE-2022-42809)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 24, 2022|
- |[Apple macOS Ventura information disclosure (CVE-2022-42788)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 24, 2022|
- |[Apple macOS Ventura privilege escalation (CVE-2022-32915)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 24, 2022|
- |[Apple macOS Ventura information disclosure (CVE-2022-42814)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 24, 2022|
- |[Apple macOS Ventura information disclosure (CVE-2022-32867)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 24, 2022|
- |[Apple macOS Ventura code execution (CVE-2022-26730)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 24, 2022|
- |[Apple macOS Ventura information disclosure (CVE-2022-42819)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 24, 2022|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Go-denial-of-service-via-ParseAcceptLanguage-39714" class="noirorange"><b>Go</b>: denial of service via ParseAcceptLanguage</a>](https://vigilance.fr/vulnerability/Go-denial-of-service-via-ParseAcceptLanguage-39714)|An attacker can cause a fatal error of Go, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Samba-directory-escape-via-symlink-39711" class="noirorange"><b>Samba</b>: directory escape via symlink</a>](https://vigilance.fr/vulnerability/Samba-directory-escape-via-symlink-39711)|An attacker can exit the folder exported by Samba, via a symbolic link, in order to read or modify a file located outside the root of the share...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Heimdal-GSSAPI-buffer-overflow-via-unwrap-des3-39710" class="noirorange"><b>Heimdal GSSAPI</b>: buffer overflow via unwrap_des3()</a>](https://vigilance.fr/vulnerability/Heimdal-GSSAPI-buffer-overflow-via-unwrap-des3-39710)|An attacker can trigger a buffer overflow of Heimdal GSSAPI, via unwrap_des3(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PKI-Core-information-disclosure-via-caServerKeygen-DirUserCert-39708" class="noirorange"><b>PKI Core</b>: information disclosure via <wbr>caServerKeygen_DirUs<wbr>erCert</wbr></wbr></a>](https://vigilance.fr/vulnerability/PKI-Core-information-disclosure-via-caServerKeygen-DirUserCert-39708)|An attacker can bypass access restrictions to data of PKI Core, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/multipath-tools-two-vulnerabilities-39707" class="noirorange"><b>multipath-tools</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/multipath-tools-two-vulnerabilities-39707)|An attacker can use several vulnerabilities of multipath-tools...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenBSD-LibreSSL-incorrect-certificate-validation-39706" class="noirorange"><b>OpenBSD LibreSSL</b>: incorrect certificate validation</a>](https://vigilance.fr/vulnerability/OpenBSD-LibreSSL-incorrect-certificate-validation-39706)|An attacker can take profit of the loss of error indications during certificate validation by OpenBSD LibreSSL...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libmodsecurity-vulnerability-39705" class="noirorange"><b>libmodsecurity</b>: vulnerability</a>](https://vigilance.fr/vulnerability/libmodsecurity-vulnerability-39705)|A vulnerability of libmodsecurity was announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apple-macOS-iOS-privilege-escalation-via-AppleMobileFileIntegrity-39704" class="noirorange"><b>Apple macOS/iOS</b>: privilege escalation via <wbr>AppleMobileFileInteg<wbr>rity</wbr></wbr></a>](https://vigilance.fr/vulnerability/Apple-macOS-iOS-privilege-escalation-via-AppleMobileFileIntegrity-39704)|An attacker can bypass restrictions of Apple macOS/iOS, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apple-macOS-information-disclosure-via-Sandbox-39703" class="noirorange"><b>Apple macOS</b>: information disclosure via Sandbox</a>](https://vigilance.fr/vulnerability/Apple-macOS-information-disclosure-via-Sandbox-39703)|An attacker can bypass access restrictions to data of Apple macOS, via Sandbox, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apple-macOS-multiple-vulnerabilities-39702" class="noirorange"><b>Apple macOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-macOS-multiple-vulnerabilities-39702)|An attacker can use several vulnerabilities of Apple macOS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-multiple-vulnerabilities-39701" class="noirorange"><b>Apple iOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-iOS-multiple-vulnerabilities-39701)|An attacker can use several vulnerabilities of Apple iOS...|Visit link for details|
+ |[Corel CorelDRAW BMP File Parser out-of-bounds](https://vuldb.com/?id.212298)|Visit link for details|2022-10-26 at 09:42|
+ |[Corel CorelDRAW JP2 File Parser out-of-bounds](https://vuldb.com/?id.212297)|Visit link for details|2022-10-26 at 09:41|
+ |[Corel CorelDRAW PDF File Parser out-of-bounds](https://vuldb.com/?id.212296)|Visit link for details|2022-10-26 at 09:41|
+ |[Corel CorelDRAW GIF File Parser out-of-bounds](https://vuldb.com/?id.212295)|Visit link for details|2022-10-26 at 09:41|
+ |[Corel CorelDRAW CGM File Parser stack-based overflow](https://vuldb.com/?id.212294)|Visit link for details|2022-10-26 at 09:40|
+ |[Corel CorelDRAW GIF File Parser out-of-bounds write](https://vuldb.com/?id.212293)|Visit link for details|2022-10-26 at 09:40|
+ |[Corel CorelDRAW EMF File Parser out-of-bounds](https://vuldb.com/?id.212292)|Visit link for details|2022-10-26 at 09:39|
+ |[Corel CorelDRAW PCX File Parser out-of-bounds write](https://vuldb.com/?id.212291)|Visit link for details|2022-10-26 at 09:39|
+ |[Corel CorelDRAW PCX File Parser out-of-bounds write](https://vuldb.com/?id.212290)|Visit link for details|2022-10-26 at 09:39|
+ |[IronCAD STP File Parser uninitialized pointer](https://vuldb.com/?id.212289)|Visit link for details|2022-10-26 at 09:38|
  
  ---
 
@@ -132,4 +101,35 @@
  |[(0Day) Corel CorelDRAW Graphics Suite CGM File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1471/)|Visit link for details|Oct. 25, 2022|
  |[(0Day) Corel CorelDRAW Graphics Suite JP2 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1470/)|Visit link for details|Oct. 25, 2022|
  |[(0Day) Corel CorelDRAW Graphics Suite BMP File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1469/)|Visit link for details|Oct. 25, 2022|
+ 
+ ---
+
+## IBMCLOUD [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[VMware Cloud Foundation information disclosure (CVE-2022-31678)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 25, 2022|
+ |[Apple macOS Ventura security bypass (CVE-2022-32892)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 24, 2022|
+ |[Apple macOS Ventura code execution (CVE-2022-32888)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 24, 2022|
+ |[Apple macOS Ventura information disclosure (CVE-2022-32875)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 24, 2022|
+ |[Apple macOS Ventura privilege escalation (CVE-2022-42791)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 24, 2022|
+ |[Apple macOS Ventura code execution (CVE-2022-32934)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 24, 2022|
+ |[Apple macOS Ventura information disclosure (CVE-2022-32870)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 24, 2022|
+ 
+ ---
+
+## CERT-FR [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans Samba](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-949/)|De multiples vulnérabilités ont été découvertes dans Samba. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 25 octobre 2022|
+ |[Multiples vulnérabilités dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-948/)|De multiples vulnérabilités ont été découvertes dans Mozilla Thunderbird. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 25 octobre 2022|
+ |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-947/)|De multiples vulnérabilités ont été découvertes dans les produits Apple. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 25 octobre 2022|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-946/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer un déni de service à distance et une élévation de privilèges.|Publié le 24 octobre 2022|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-945/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire et un déni de service.|Publié le 24 octobre 2022|
+ |[Multiples vulnérabilités dans les produits Synology](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-944/)|De multiples vulnérabilités ont été découvertes dans les produits Synology. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.|Publié le 24 octobre 2022|
+ |[[SCADA] Vulnérabilité dans Siemens Siveillance Video Mobile Server V2022 R2](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-943/)|Une vulnérabilité a été découverte dans Siemens Siveillance Video Mobile Server V2022 R2. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 24 octobre 2022|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-942/)|De multiples vulnérabilités ont été corrigées dans |Publié le 21 octobre 2022|
+ |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-941/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une atteinte à la confidentialité des données.|Publié le 21 octobre 2022|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-940/)|De multiples vulnérabilités ont été corrigées dans |Publié le 21 octobre 2022|
  
