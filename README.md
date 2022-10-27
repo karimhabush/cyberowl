@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 26/10/2022 21:11:55 UTC
+ > Last Updated 27/10/2022 09:14:09 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -36,31 +36,6 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/GraphQL-denial-of-service-39730" class="noirorange"><b>GraphQL</b>: denial of service</a>](https://vigilance.fr/vulnerability/GraphQL-denial-of-service-39730)|An attacker can cause a fatal error of GraphQL, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Intel-Processor-information-disclosure-39729" class="noirorange"><b>Intel Processor</b>: information disclosure</a>](https://vigilance.fr/vulnerability/Intel-Processor-information-disclosure-39729)|An attacker can bypass access restrictions to data of Intel Processor, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ArubaOS-multiple-vulnerabilities-39727" class="noirorange"><b>ArubaOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/ArubaOS-multiple-vulnerabilities-39727)|An attacker can use several vulnerabilities of ArubaOS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ArcGIS-Server-six-vulnerabilities-39726" class="noirorange"><b>ArcGIS Server</b>: six vulnerabilities</a>](https://vigilance.fr/vulnerability/ArcGIS-Server-six-vulnerabilities-39726)|An attacker can use several vulnerabilities of ArcGIS Server...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Webmin-Usermin-two-vulnerabilities-39725" class="noirorange"><b>Webmin  Usermin</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Webmin-Usermin-two-vulnerabilities-39725)|An attacker can use several vulnerabilities of Webmin  Usermin...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Joomla-Core-two-vulnerabilities-39724" class="noirorange"><b>Joomla Core</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Joomla-Core-two-vulnerabilities-39724)|An attacker can use several vulnerabilities of Joomla Core...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Synology-DiskStation-Manager-two-vulnerabilities-39723" class="noirorange"><b>Synology DiskStation Manager</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Synology-DiskStation-Manager-two-vulnerabilities-39723)|An attacker can use several vulnerabilities of Synology DiskStation Manager...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Open-vSwitch-buffer-overflow-via-minimasks-39722" class="noirorange"><b>Open vSwitch</b>: buffer overflow via minimasks()</a>](https://vigilance.fr/vulnerability/Open-vSwitch-buffer-overflow-via-minimasks-39722)|An attacker can trigger a buffer overflow of Open vSwitch, via minimasks(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Expat-reuse-after-free-via-XML-ExternalEntityParserCreate-39721" class="noirorange"><b>Expat</b>: reuse after free via <wbr>XML_ExternalEntityPa<wbr>rserCreate()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Expat-reuse-after-free-via-XML-ExternalEntityParserCreate-39721)|An attacker can force the reuse of a freed memory area of Expat, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/BlueZ-buffer-overflow-via-le-meta-ev-dump-39720" class="noirorange"><b>BlueZ</b>: buffer overflow via le_meta_ev_dump()</a>](https://vigilance.fr/vulnerability/BlueZ-buffer-overflow-via-le-meta-ev-dump-39720)|An attacker can trigger a buffer overflow of BlueZ, via le_meta_ev_dump(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Hadoop-privilege-escalation-39719" class="noirorange"><b>Apache Hadoop</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Apache-Hadoop-privilege-escalation-39719)|An attacker can bypass restrictions of Apache Hadoop, in order to escalate his privileges...|Visit link for details|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -75,6 +50,24 @@
  |[Multiples vulnérabilités dans les produits Aruba](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-950/)|De multiples vulnérabilités ont été découvertes dans les produits Aruba. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 26 octobre 2022|
  |[Multiples vulnérabilités dans Samba](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-949/)|De multiples vulnérabilités ont été découvertes dans Samba. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 25 octobre 2022|
  |[Multiples vulnérabilités dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-948/)|De multiples vulnérabilités ont été découvertes dans Mozilla Thunderbird. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 25 octobre 2022|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Jhead-code-execution-via-filenames-39735" class="noirorange"><b>Jhead</b>: code execution via filenames</a>](https://vigilance.fr/vulnerability/Jhead-code-execution-via-filenames-39735)|An attacker can use a vulnerability of Jhead, via filenames, in order to run a shell command...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/cURL-disable-encryption-despite-HSTS-39734" class="noirorange"><b>cURL</b>: disable encryption despite HSTS</a>](https://vigilance.fr/vulnerability/cURL-disable-encryption-despite-HSTS-39734)|The cURL product can use a URL with DNS IDN extensions to bypass the HSTS option and thus disable TLS encryption...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/cURL-double-free-via-HTTP-proxy-39733" class="noirorange"><b>cURL</b>: double free via HTTP proxy</a>](https://vigilance.fr/vulnerability/cURL-double-free-via-HTTP-proxy-39733)|An attacker can force a double memory free of cURL, via HTTP proxy, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/cURL-denial-of-service-via-netrc-39732" class="noirorange"><b>cURL</b>: denial of service via .netrc</a>](https://vigilance.fr/vulnerability/cURL-denial-of-service-via-netrc-39732)|An attacker can cause a fatal error of cURL, via the parsing of .netrc, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/cURL-reuse-after-free-39731" class="noirorange"><b>cURL</b>: reuse after free</a>](https://vigilance.fr/vulnerability/cURL-reuse-after-free-39731)|An attacker can force the reuse of a freed memory area of cURL, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GraphQL-denial-of-service-39730" class="noirorange"><b>GraphQL</b>: denial of service</a>](https://vigilance.fr/vulnerability/GraphQL-denial-of-service-39730)|An attacker can cause a fatal error of GraphQL, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Intel-Processor-information-disclosure-39729" class="noirorange"><b>Intel Processor</b>: information disclosure</a>](https://vigilance.fr/vulnerability/Intel-Processor-information-disclosure-39729)|An attacker can bypass access restrictions to data of Intel Processor, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ArubaOS-multiple-vulnerabilities-39727" class="noirorange"><b>ArubaOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/ArubaOS-multiple-vulnerabilities-39727)|An attacker can use several vulnerabilities of ArubaOS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ArcGIS-Server-six-vulnerabilities-39726" class="noirorange"><b>ArcGIS Server</b>: six vulnerabilities</a>](https://vigilance.fr/vulnerability/ArcGIS-Server-six-vulnerabilities-39726)|An attacker can use several vulnerabilities of ArcGIS Server...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Webmin-Usermin-two-vulnerabilities-39725" class="noirorange"><b>Webmin  Usermin</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Webmin-Usermin-two-vulnerabilities-39725)|An attacker can use several vulnerabilities of Webmin  Usermin...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Joomla-Core-two-vulnerabilities-39724" class="noirorange"><b>Joomla Core</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Joomla-Core-two-vulnerabilities-39724)|An attacker can use several vulnerabilities of Joomla Core...|Visit link for details|
  
  ---
 
@@ -93,6 +86,23 @@
  |[38792010/22 - Vulnérabilités dans les produits F5](https://www.dgssi.gov.ma//fr/content/3879201022-vulnerabilites-dans-les-produits-f5.html)|Deux vulnérabilités ont été corrigées dans les produits F5 susmentionnés. L’exploitation de ces failles permet à un attaquant distant de causer un déni de service et de porter atteinte à la confidentialité des données.|20 octobre 2022|
  |[38782010/22 - Vulnérabilité dans Avira Security pour Windows](https://www.dgssi.gov.ma//fr/content/3878201022-vulnerabilite-dans-avira-security-pour-windows.html)|Une vulnérabilité a été corrigée dans la fonctionnalité Software Updater d'Avira Security pour Windows. Un attaquant distant pourrait exploiter cette faille afin de réussir une élévation de privilèges.|20 octobre 2022|
  |[38761910/22 - Vulnérabilités affectantle navigateur Mozilla Firefox](https://www.dgssi.gov.ma//fr/content/3876191022-vulnerabilites-affectant-le-navigateur-mozilla-firefox.html-0)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de cesvulnérabilités peut permettre à un...|19 octobre 2022|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SourceCodester Online Medicine Ordering System cross site scripting](https://vuldb.com/?id.212347)|Visit link for details|2022-10-27 at 09:56|
+ |[SourceCodester Online Medicine Ordering System sql injection](https://vuldb.com/?id.212346)|Visit link for details|2022-10-27 at 09:53|
+ |[JFinal CMS list sql injection](https://vuldb.com/?id.212345)|Visit link for details|2022-10-27 at 09:45|
+ |[AliveCor Kardia App authentication bypass by assumed-immutable data](https://vuldb.com/?id.212344)|Visit link for details|2022-10-27 at 09:43|
+ |[ikus060 rdiffweb behavioral workflow](https://vuldb.com/?id.212343)|Visit link for details|2022-10-27 at 09:39|
+ |[D-Link DIR-816 A2 setRepeaterSecurity stack-based overflow](https://vuldb.com/?id.212342)|Visit link for details|2022-10-27 at 09:07|
+ |[D-Link DIR-816 A2 form2WizardStep54 stack-based overflow](https://vuldb.com/?id.212341)|Visit link for details|2022-10-27 at 09:07|
+ |[D-Link DIR-816 A2 setSecurity stack-based overflow](https://vuldb.com/?id.212340)|Visit link for details|2022-10-27 at 09:06|
+ |[D-Link DIR-816 A2 form2WizardStep4 stack-based overflow](https://vuldb.com/?id.212339)|Visit link for details|2022-10-27 at 09:06|
+ |[D-Link DIR-816 A2 setSysAdm command injection](https://vuldb.com/?id.212338)|Visit link for details|2022-10-27 at 09:05|
  
  ---
 
