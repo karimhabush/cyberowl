@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 27/10/2022 21:12:40 UTC
+ > Last Updated 28/10/2022 09:14:34 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -42,28 +42,33 @@
  |---|---|---|
  |[Qualcomm Snapdragon products code execution (CVE-2022-33214)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 27, 2022|
  |[VMware Cloud Foundation information disclosure (CVE-2022-31678)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 25, 2022|
+ |[OpenSVC multipath-tools for Linux command execution (CVE-2022-41974)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 24, 2022|
+ |[OpenSVC multipath-tools for Linux security bypass (CVE-2022-41973)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 24, 2022|
  |[Apple macOS Ventura security bypass (CVE-2022-32892)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 24, 2022|
  |[Apple macOS Ventura code execution (CVE-2022-32888)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 24, 2022|
  |[Apple macOS Ventura information disclosure (CVE-2022-32875)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 24, 2022|
- |[Apple macOS Ventura privilege escalation (CVE-2022-42791)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 24, 2022|
- |[Apple macOS Ventura code execution (CVE-2022-32934)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 24, 2022|
  
  ---
 
-## CERT-FR [:arrow_heading_up:](#cyberowl)
+## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans Nextcloud Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-961/)|De multiples vulnérabilités ont été découvertes dans Nextcloud Server. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 27 octobre 2022|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-960/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 27 octobre 2022|
- |[Multiples vulnérabilités dans Tenable Nessus](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-959/)|De multiples vulnérabilités ont été découvertes dans Tenable Nessus. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 27 octobre 2022|
- |[Multiples vulnérabilités dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-958/)|De multiples vulnérabilités ont été découvertes dans Wireshark. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 27 octobre 2022|
- |[Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-957/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service et une atteinte à la confidentialité des données.|Publié le 26 octobre 2022|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-956/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 26 octobre 2022|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-955/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 26 octobre 2022|
- |[Multiples vulnérabilités dans Joomla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-954/)|De multiples vulnérabilités ont été découvertes dans Joomla. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 26 octobre 2022|
- |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-953/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 26 octobre 2022|
- |[Multiples vulnérabilités dans IBM QRadar](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-952/)|De multiples vulnérabilités ont été découvertes dans IBM QRadar. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 26 octobre 2022|
+ 
+ ---
+
+## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Delta Industrial Automation InfraSuite Device Master WriteConfiguration Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1489/)|Visit link for details|Oct. 27, 2022|
+ |[Delta Industrial Automation InfraSuite Device Master APRunning Missing Authentication Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1488/)|Visit link for details|Oct. 27, 2022|
+ |[Delta Industrial Automation InfraSuite Device Master DeSerializeBinary Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1487/)|Visit link for details|Oct. 27, 2022|
+ |[Delta Industrial Automation InfraSuite Device Master ModifyPrivByID Missing Authentication Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1486/)|Visit link for details|Oct. 27, 2022|
+ |[Delta Industrial Automation InfraSuite Device Master AddNewUser Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1485/)|Visit link for details|Oct. 27, 2022|
+ |[Delta Industrial Automation InfraSuite Device Master ExeCommandInCommandLineMode Missing Authentication Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1484/)|Visit link for details|Oct. 27, 2022|
+ |[Delta Industrial Automation InfraSuite Device Master CheckLoadingStartupConfig Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1483/)|Visit link for details|Oct. 27, 2022|
+ |[Delta Industrial Automation InfraSuite Device Master CtrlLayerNWCmd_FileOperation Directory Traversal Arbitrary File Deletion Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1482/)|Visit link for details|Oct. 27, 2022|
  
  ---
 
@@ -85,20 +90,20 @@
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
+## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[ThemeFusion Avada Premium Theme Plugin Installation cross-site request forgery](https://vuldb.com/?id.212382)|Visit link for details|2022-10-27 at 20:36|
- |[Bosch VIDEOJET multi 4000 URL cross site scripting](https://vuldb.com/?id.212381)|Visit link for details|2022-10-27 at 20:35|
- |[ForgeRock Access Managemen LDAP Query access control](https://vuldb.com/?id.212380)|Visit link for details|2022-10-27 at 20:35|
- |[ForgeRock Access Managemen Deployment authorization](https://vuldb.com/?id.212379)|Visit link for details|2022-10-27 at 20:33|
- |[Bosch VIDEOJET multi 4000 Configuration cross site scripting](https://vuldb.com/?id.212378)|Visit link for details|2022-10-27 at 20:29|
- |[Wireshark OPUS Protocol Dissector denial of service](https://vuldb.com/?id.212377)|Visit link for details|2022-10-27 at 20:26|
- |[Dart SDK WhatWG URL authorization](https://vuldb.com/?id.212376)|Visit link for details|2022-10-27 at 20:25|
- |[Octopus Server Session Token session fixiation](https://vuldb.com/?id.212375)|Visit link for details|2022-10-27 at 20:04|
- |[Octopus Server information disclosure](https://vuldb.com/?id.212374)|Visit link for details|2022-10-27 at 20:03|
- |[Train Scheduler App cross site scripting](https://vuldb.com/?id.212373)|Visit link for details|2022-10-27 at 20:02|
+ |[Multiples vulnérabilités dans Nextcloud Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-961/)|De multiples vulnérabilités ont été découvertes dans Nextcloud Server. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 27 octobre 2022|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-960/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 27 octobre 2022|
+ |[Multiples vulnérabilités dans Tenable Nessus](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-959/)|De multiples vulnérabilités ont été découvertes dans Tenable Nessus. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 27 octobre 2022|
+ |[Multiples vulnérabilités dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-958/)|De multiples vulnérabilités ont été découvertes dans Wireshark. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 27 octobre 2022|
+ |[Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-957/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service et une atteinte à la confidentialité des données.|Publié le 26 octobre 2022|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-956/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 26 octobre 2022|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-955/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 26 octobre 2022|
+ |[Multiples vulnérabilités dans Joomla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-954/)|De multiples vulnérabilités ont été découvertes dans Joomla. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 26 octobre 2022|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-953/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 26 octobre 2022|
+ |[Multiples vulnérabilités dans IBM QRadar](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-952/)|De multiples vulnérabilités ont été découvertes dans IBM QRadar. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 26 octobre 2022|
  
  ---
 
@@ -117,19 +122,4 @@
  |[38812110/22 - Vulnérabilités dans les produits SolarWinds](https://www.dgssi.gov.ma//fr/content/3881211022-vulnerabilites-dans-les-produits-solarwinds.html)|Plusieurs vulnérabilités ont été corrigées dans les produits SolarWinds susmentionnés. L'exploitation de ces failles pourrait permettre à un attaquant d’exécuter du code arbitraire à distance.|21 octobre 2022|
  |[38802110/22 - Vulnérabilités dans les produits Cisco](https://www.dgssi.gov.ma//fr/content/3880211022-vulnerabilites-dans-les-produits-cisco.html)|Plusieurs vulnérabilités ont été corrigées dans les produits Cisco susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service et de porter atteinte à la confidentialité des données.|21 octobre 2022|
  |[38792010/22 - Vulnérabilités dans les produits F5](https://www.dgssi.gov.ma//fr/content/3879201022-vulnerabilites-dans-les-produits-f5.html)|Deux vulnérabilités ont été corrigées dans les produits F5 susmentionnés. L’exploitation de ces failles permet à un attaquant distant de causer un déni de service et de porter atteinte à la confidentialité des données.|20 octobre 2022|
- 
- ---
-
-## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Delta Industrial Automation InfraSuite Device Master WriteConfiguration Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1489/)|Visit link for details|Oct. 27, 2022|
- |[Delta Industrial Automation InfraSuite Device Master APRunning Missing Authentication Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1488/)|Visit link for details|Oct. 27, 2022|
- |[Delta Industrial Automation InfraSuite Device Master DeSerializeBinary Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1487/)|Visit link for details|Oct. 27, 2022|
- |[Delta Industrial Automation InfraSuite Device Master ModifyPrivByID Missing Authentication Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1486/)|Visit link for details|Oct. 27, 2022|
- |[Delta Industrial Automation InfraSuite Device Master AddNewUser Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1485/)|Visit link for details|Oct. 27, 2022|
- |[Delta Industrial Automation InfraSuite Device Master ExeCommandInCommandLineMode Missing Authentication Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1484/)|Visit link for details|Oct. 27, 2022|
- |[Delta Industrial Automation InfraSuite Device Master CheckLoadingStartupConfig Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1483/)|Visit link for details|Oct. 27, 2022|
- |[Delta Industrial Automation InfraSuite Device Master CtrlLayerNWCmd_FileOperation Directory Traversal Arbitrary File Deletion Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1482/)|Visit link for details|Oct. 27, 2022|
  
