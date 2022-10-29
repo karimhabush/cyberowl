@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 29/10/2022 09:11:19 UTC
+ > Last Updated 29/10/2022 21:12:08 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -93,14 +93,14 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Web Stories Plugin REST API Endpoint proxy server-side request forgery](https://vuldb.com/?id.212469)|Visit link for details|2022-10-29 at 09:24|
- |[Log HTTP Requests Plugin cross site scripting](https://vuldb.com/?id.212468)|Visit link for details|2022-10-29 at 09:23|
- |[QTIWorks ZIP path traversal](https://vuldb.com/?id.212467)|Visit link for details|2022-10-29 at 09:23|
- |[Ansible Collections amazon.aws ec2_instance parameters](https://vuldb.com/?id.212466)|Visit link for details|2022-10-29 at 09:22|
- |[WebAssembly wabt stl_vector.h size heap-based overflow](https://vuldb.com/?id.212465)|Visit link for details|2022-10-29 at 09:21|
- |[Simple Cold Storage Management System sql injection](https://vuldb.com/?id.212464)|Visit link for details|2022-10-29 at 09:20|
- |[Haas Controller Ethernet Q Commands Service cleartext transmission](https://vuldb.com/?id.212463)|Visit link for details|2022-10-29 at 09:19|
- |[GitLab unknown vulnerability](https://vuldb.com/?id.212462)|Visit link for details|2022-10-29 at 09:19|
- |[Haas Controller Ethernet Q Commands Service insufficient granularity of access control](https://vuldb.com/?id.212461)|Visit link for details|2022-10-29 at 09:18|
- |[Haas Controller Ethernet Q Commands Service missing authentication](https://vuldb.com/?id.212460)|Visit link for details|2022-10-29 at 09:17|
+ |[Samba Wide Link symlink](https://vuldb.com/?id.212499)|Visit link for details|2022-10-29 at 17:31|
+ |[Samba Heimdal GSSAPI Library malloc buffer overflow](https://vuldb.com/?id.212498)|Visit link for details|2022-10-29 at 17:30|
+ |[Exiv2 QuickTime Video quicktimevideo.cpp decodeBlock buffer overflow](https://vuldb.com/?id.212497)|Visit link for details|2022-10-29 at 17:23|
+ |[Exiv2 QuickTime Video quicktimevideo.cpp userDataDecoder integer overflow](https://vuldb.com/?id.212496)|Visit link for details|2022-10-29 at 17:21|
+ |[Exiv2 QuickTime Video quicktimevideo.cpp userDataDecoder null pointer dereference](https://vuldb.com/?id.212495)|Visit link for details|2022-10-29 at 17:19|
+ |[Simple Cold Storage Management System update_status.php sql injection](https://vuldb.com/?id.212494)|Visit link for details|2022-10-29 at 17:14|
+ |[ExpressTech Quiz and Survey Master Plugin cross site scripting](https://vuldb.com/?id.212493)|Visit link for details|2022-10-29 at 12:24|
+ |[ExpressTech Quiz and Survey Master Plugin cross site scripting](https://vuldb.com/?id.212492)|Visit link for details|2022-10-29 at 12:23|
+ |[Themepoints Testimonials Plugin cross site scripting](https://vuldb.com/?id.212491)|Visit link for details|2022-10-29 at 12:23|
+ |[SEMCMS Shop Ant_M_Coup.php cross site scripting](https://vuldb.com/?id.212490)|Visit link for details|2022-10-29 at 12:22|
  
