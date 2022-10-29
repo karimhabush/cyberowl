@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 28/10/2022 21:10:55 UTC
+ > Last Updated 29/10/2022 09:11:19 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -36,17 +36,38 @@
  
  ---
 
-## IBMCLOUD [:arrow_heading_up:](#cyberowl)
+## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[Google Chrome V8 code execution (CVE-2022-3723)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 27, 2022|
- |[Apple iOS and iPadOS code execution (CVE-2022-32932)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 27, 2022|
- |[Qualcomm Snapdragon products code execution (CVE-2022-33214)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 27, 2022|
- |[cURL libcurl information disclosure (CVE-2022-42916)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 26, 2022|
- |[cURL libcurl denial of service (CVE-2022-42915)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 26, 2022|
- |[cURL libcurl denial of service (CVE-2022-35260)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 26, 2022|
- |[cURL libcurl security bypass (CVE-2022-32221)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Oct 26, 2022|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-968/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 28 octobre 2022|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-967/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 28 octobre 2022|
+ |[Multiples vulnérabilités dans les produits Synology](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-966/)|De multiples vulnérabilités ont été découvertes dans les produits Synology. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 28 octobre 2022|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-965/)|De multiples vulnérabilités ont été corrigées dans |Publié le 28 octobre 2022|
+ |[Vulnérabilité dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-964/)|Une vulnérabilité a été découverte dans Google Chrome. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 28 octobre 2022|
+ |[Multiples vulnérabilités dans Apple iOS et iPadOS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-963/)|De multiples vulnérabilités ont été découvertes dans Apple iOS et iPadOS. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 28 octobre 2022|
+ |[Multiples vulnérabilités dans Tenable Nessus](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-962/)|De multiples vulnérabilités ont été découvertes dans Tenable Nessus. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 28 octobre 2022|
+ |[Multiples vulnérabilités dans Nextcloud Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-961/)|De multiples vulnérabilités ont été découvertes dans Nextcloud Server. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 27 octobre 2022|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-960/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 27 octobre 2022|
+ |[Multiples vulnérabilités dans Tenable Nessus](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-959/)|De multiples vulnérabilités ont été découvertes dans Tenable Nessus. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 27 octobre 2022|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Google-Chrome-memory-corruption-via-V8-Type-Confusion-39750" class="noirorange"><b>Google Chrome</b>: memory corruption via V8 Type Confusion</a>](https://vigilance.fr/vulnerability/Google-Chrome-memory-corruption-via-V8-Type-Confusion-39750)|An attacker can trigger a memory corruption of Google Chrome, via V8 Type Confusion, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Python-Core-privilege-escalation-via-Multiprocessing-Forkserver-Start-39749" class="noirorange"><b>Python Core</b>: privilege escalation via Multiprocessing Forkserver Start</a>](https://vigilance.fr/vulnerability/Python-Core-privilege-escalation-via-Multiprocessing-Forkserver-Start-39749)|An attacker can bypass restrictions of Python Core, via Multiprocessing Forkserver Start, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PHP-out-of-bounds-memory-reading-via-imageloadfont-39748" class="noirorange"><b>PHP</b>: out-of-bounds memory reading via imageloadfont</a>](https://vigilance.fr/vulnerability/PHP-out-of-bounds-memory-reading-via-imageloadfont-39748)|An attacker can force a read at an invalid memory address of PHP, via imageloadfont, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Glances-overload-via-Regular-Expression-39747" class="noirorange"><b>Glances</b>: overload via Regular Expression</a>](https://vigilance.fr/vulnerability/Glances-overload-via-Regular-Expression-39747)|An attacker can trigger an overload of Glances, via Regular Expression, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Tenable-Nessus-two-vulnerabilities-39746" class="noirorange"><b>Tenable Nessus</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Tenable-Nessus-two-vulnerabilities-39746)|An attacker can use several vulnerabilities of Tenable Nessus...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Select2-Cross-Site-Scripting-via-Listbox-Data-HTML-Templates-39745" class="noirorange"><b>Select2</b>: Cross Site Scripting via Listbox Data HTML Templates</a>](https://vigilance.fr/vulnerability/Select2-Cross-Site-Scripting-via-Listbox-Data-HTML-Templates-39745)|An attacker can trigger a Cross Site Scripting of Select2, via Listbox Data HTML Templates, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GNU-Networking-Utilities-inetutils-multiple-vulnerabilities-39744" class="noirorange"><b>GNU Networking Utilities  inetutils</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GNU-Networking-Utilities-inetutils-multiple-vulnerabilities-39744)|An attacker can use several vulnerabilities of GNU Networking Utilities  inetutils...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-multiple-vulnerabilities-39743" class="noirorange"><b>Apple iOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-iOS-multiple-vulnerabilities-39743)|An attacker can use several vulnerabilities of Apple iOS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-mon-bin-mmap-39742" class="noirorange"><b>Linux kernel</b>: memory corruption via mon_bin_mmap()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-mon-bin-mmap-39742)|An attacker can trigger a memory corruption of the Linux kernel, via mon_bin_mmap(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Google-Chrome-multiple-vulnerabilities-39741" class="noirorange"><b>Google Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Google-Chrome-multiple-vulnerabilities-39741)|An attacker can use several vulnerabilities of Google Chrome...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-USB-HID-39740" class="noirorange"><b>Wireshark</b>: denial of service via USB-HID</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-USB-HID-39740)|An attacker can cause a fatal error of Wireshark, via USB-HID, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
@@ -72,64 +93,14 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Employee Record Management System editempprofile.php cross site scripting](https://vuldb.com/?id.212445)|Visit link for details|2022-10-28 at 20:00|
- |[Hospital Management System patient-search.php cross site scripting](https://vuldb.com/?id.212444)|Visit link for details|2022-10-28 at 20:00|
- |[SEMCMS Shop Ant_Pro.php sql injection](https://vuldb.com/?id.212443)|Visit link for details|2022-10-28 at 19:58|
- |[SEMCMS Shop Ant_Global.php sql injection](https://vuldb.com/?id.212442)|Visit link for details|2022-10-28 at 19:58|
- |[SEMCMS Shop Ant_Menu.php sql injection](https://vuldb.com/?id.212441)|Visit link for details|2022-10-28 at 19:57|
- |[GitLab Community Edition/Enterprise Edition DataDog information disclosure](https://vuldb.com/?id.212440)|Visit link for details|2022-10-28 at 19:57|
- |[GitLab Community Edition/Enterprise Edition Access Token Privilege Escalation](https://vuldb.com/?id.212439)|Visit link for details|2022-10-28 at 19:55|
- |[Employee Record Management System editempprofile.php sql injection](https://vuldb.com/?id.212438)|Visit link for details|2022-10-28 at 19:54|
- |[Hospital Management System view-patient.php sql injection](https://vuldb.com/?id.212437)|Visit link for details|2022-10-28 at 19:54|
- |[Canteen Management System fetchSelectedfood.php sql injection](https://vuldb.com/?id.212436)|Visit link for details|2022-10-28 at 19:53|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Google-Chrome-memory-corruption-via-V8-Type-Confusion-39750" class="noirorange"><b>Google Chrome</b>: memory corruption via V8 Type Confusion</a>](https://vigilance.fr/vulnerability/Google-Chrome-memory-corruption-via-V8-Type-Confusion-39750)|An attacker can trigger a memory corruption of Google Chrome, via V8 Type Confusion, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Python-Core-privilege-escalation-via-Multiprocessing-Forkserver-Start-39749" class="noirorange"><b>Python Core</b>: privilege escalation via Multiprocessing Forkserver Start</a>](https://vigilance.fr/vulnerability/Python-Core-privilege-escalation-via-Multiprocessing-Forkserver-Start-39749)|An attacker can bypass restrictions of Python Core, via Multiprocessing Forkserver Start, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PHP-out-of-bounds-memory-reading-via-imageloadfont-39748" class="noirorange"><b>PHP</b>: out-of-bounds memory reading via imageloadfont</a>](https://vigilance.fr/vulnerability/PHP-out-of-bounds-memory-reading-via-imageloadfont-39748)|An attacker can force a read at an invalid memory address of PHP, via imageloadfont, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Glances-overload-via-Regular-Expression-39747" class="noirorange"><b>Glances</b>: overload via Regular Expression</a>](https://vigilance.fr/vulnerability/Glances-overload-via-Regular-Expression-39747)|An attacker can trigger an overload of Glances, via Regular Expression, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Tenable-Nessus-two-vulnerabilities-39746" class="noirorange"><b>Tenable Nessus</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Tenable-Nessus-two-vulnerabilities-39746)|An attacker can use several vulnerabilities of Tenable Nessus...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Select2-Cross-Site-Scripting-via-Listbox-Data-HTML-Templates-39745" class="noirorange"><b>Select2</b>: Cross Site Scripting via Listbox Data HTML Templates</a>](https://vigilance.fr/vulnerability/Select2-Cross-Site-Scripting-via-Listbox-Data-HTML-Templates-39745)|An attacker can trigger a Cross Site Scripting of Select2, via Listbox Data HTML Templates, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GNU-Networking-Utilities-inetutils-multiple-vulnerabilities-39744" class="noirorange"><b>GNU Networking Utilities  inetutils</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GNU-Networking-Utilities-inetutils-multiple-vulnerabilities-39744)|An attacker can use several vulnerabilities of GNU Networking Utilities  inetutils...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-multiple-vulnerabilities-39743" class="noirorange"><b>Apple iOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-iOS-multiple-vulnerabilities-39743)|An attacker can use several vulnerabilities of Apple iOS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-mon-bin-mmap-39742" class="noirorange"><b>Linux kernel</b>: memory corruption via mon_bin_mmap()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-mon-bin-mmap-39742)|An attacker can trigger a memory corruption of the Linux kernel, via mon_bin_mmap(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Google-Chrome-multiple-vulnerabilities-39741" class="noirorange"><b>Google Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Google-Chrome-multiple-vulnerabilities-39741)|An attacker can use several vulnerabilities of Google Chrome...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-USB-HID-39740" class="noirorange"><b>Wireshark</b>: denial of service via USB-HID</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-USB-HID-39740)|An attacker can cause a fatal error of Wireshark, via USB-HID, in order to trigger a denial of service...|Visit link for details|
- 
- ---
-
-## CERT-FR [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-968/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 28 octobre 2022|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-967/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 28 octobre 2022|
- |[Multiples vulnérabilités dans les produits Synology](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-966/)|De multiples vulnérabilités ont été découvertes dans les produits Synology. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 28 octobre 2022|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-965/)|De multiples vulnérabilités ont été corrigées dans |Publié le 28 octobre 2022|
- |[Vulnérabilité dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-964/)|Une vulnérabilité a été découverte dans Google Chrome. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 28 octobre 2022|
- |[Multiples vulnérabilités dans Apple iOS et iPadOS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-963/)|De multiples vulnérabilités ont été découvertes dans Apple iOS et iPadOS. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 28 octobre 2022|
- |[Multiples vulnérabilités dans Tenable Nessus](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-962/)|De multiples vulnérabilités ont été découvertes dans Tenable Nessus. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 28 octobre 2022|
- |[Multiples vulnérabilités dans Nextcloud Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-961/)|De multiples vulnérabilités ont été découvertes dans Nextcloud Server. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 27 octobre 2022|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-960/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 27 octobre 2022|
- |[Multiples vulnérabilités dans Tenable Nessus](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-959/)|De multiples vulnérabilités ont été découvertes dans Tenable Nessus. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 27 octobre 2022|
- 
- ---
-
-## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Delta Industrial Automation InfraSuite Device Master WriteConfiguration Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1489/)|Visit link for details|Oct. 27, 2022|
- |[Delta Industrial Automation InfraSuite Device Master APRunning Missing Authentication Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1488/)|Visit link for details|Oct. 27, 2022|
- |[Delta Industrial Automation InfraSuite Device Master DeSerializeBinary Deserialization of Untrusted Data Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1487/)|Visit link for details|Oct. 27, 2022|
- |[Delta Industrial Automation InfraSuite Device Master ModifyPrivByID Missing Authentication Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1486/)|Visit link for details|Oct. 27, 2022|
- |[Delta Industrial Automation InfraSuite Device Master AddNewUser Authentication Bypass Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1485/)|Visit link for details|Oct. 27, 2022|
- |[Delta Industrial Automation InfraSuite Device Master ExeCommandInCommandLineMode Missing Authentication Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1484/)|Visit link for details|Oct. 27, 2022|
- |[Delta Industrial Automation InfraSuite Device Master CheckLoadingStartupConfig Directory Traversal Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1483/)|Visit link for details|Oct. 27, 2022|
- |[Delta Industrial Automation InfraSuite Device Master CtrlLayerNWCmd_FileOperation Directory Traversal Arbitrary File Deletion Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1482/)|Visit link for details|Oct. 27, 2022|
+ |[Web Stories Plugin REST API Endpoint proxy server-side request forgery](https://vuldb.com/?id.212469)|Visit link for details|2022-10-29 at 09:24|
+ |[Log HTTP Requests Plugin cross site scripting](https://vuldb.com/?id.212468)|Visit link for details|2022-10-29 at 09:23|
+ |[QTIWorks ZIP path traversal](https://vuldb.com/?id.212467)|Visit link for details|2022-10-29 at 09:23|
+ |[Ansible Collections amazon.aws ec2_instance parameters](https://vuldb.com/?id.212466)|Visit link for details|2022-10-29 at 09:22|
+ |[WebAssembly wabt stl_vector.h size heap-based overflow](https://vuldb.com/?id.212465)|Visit link for details|2022-10-29 at 09:21|
+ |[Simple Cold Storage Management System sql injection](https://vuldb.com/?id.212464)|Visit link for details|2022-10-29 at 09:20|
+ |[Haas Controller Ethernet Q Commands Service cleartext transmission](https://vuldb.com/?id.212463)|Visit link for details|2022-10-29 at 09:19|
+ |[GitLab unknown vulnerability](https://vuldb.com/?id.212462)|Visit link for details|2022-10-29 at 09:19|
+ |[Haas Controller Ethernet Q Commands Service insufficient granularity of access control](https://vuldb.com/?id.212461)|Visit link for details|2022-10-29 at 09:18|
+ |[Haas Controller Ethernet Q Commands Service missing authentication](https://vuldb.com/?id.212460)|Visit link for details|2022-10-29 at 09:17|
  
