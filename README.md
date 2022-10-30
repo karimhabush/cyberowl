@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 29/10/2022 21:12:08 UTC
+ > Last Updated 30/10/2022 09:11:25 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -53,24 +53,6 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Google-Chrome-memory-corruption-via-V8-Type-Confusion-39750" class="noirorange"><b>Google Chrome</b>: memory corruption via V8 Type Confusion</a>](https://vigilance.fr/vulnerability/Google-Chrome-memory-corruption-via-V8-Type-Confusion-39750)|An attacker can trigger a memory corruption of Google Chrome, via V8 Type Confusion, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Python-Core-privilege-escalation-via-Multiprocessing-Forkserver-Start-39749" class="noirorange"><b>Python Core</b>: privilege escalation via Multiprocessing Forkserver Start</a>](https://vigilance.fr/vulnerability/Python-Core-privilege-escalation-via-Multiprocessing-Forkserver-Start-39749)|An attacker can bypass restrictions of Python Core, via Multiprocessing Forkserver Start, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PHP-out-of-bounds-memory-reading-via-imageloadfont-39748" class="noirorange"><b>PHP</b>: out-of-bounds memory reading via imageloadfont</a>](https://vigilance.fr/vulnerability/PHP-out-of-bounds-memory-reading-via-imageloadfont-39748)|An attacker can force a read at an invalid memory address of PHP, via imageloadfont, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Glances-overload-via-Regular-Expression-39747" class="noirorange"><b>Glances</b>: overload via Regular Expression</a>](https://vigilance.fr/vulnerability/Glances-overload-via-Regular-Expression-39747)|An attacker can trigger an overload of Glances, via Regular Expression, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Tenable-Nessus-two-vulnerabilities-39746" class="noirorange"><b>Tenable Nessus</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Tenable-Nessus-two-vulnerabilities-39746)|An attacker can use several vulnerabilities of Tenable Nessus...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Select2-Cross-Site-Scripting-via-Listbox-Data-HTML-Templates-39745" class="noirorange"><b>Select2</b>: Cross Site Scripting via Listbox Data HTML Templates</a>](https://vigilance.fr/vulnerability/Select2-Cross-Site-Scripting-via-Listbox-Data-HTML-Templates-39745)|An attacker can trigger a Cross Site Scripting of Select2, via Listbox Data HTML Templates, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GNU-Networking-Utilities-inetutils-multiple-vulnerabilities-39744" class="noirorange"><b>GNU Networking Utilities  inetutils</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GNU-Networking-Utilities-inetutils-multiple-vulnerabilities-39744)|An attacker can use several vulnerabilities of GNU Networking Utilities  inetutils...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-multiple-vulnerabilities-39743" class="noirorange"><b>Apple iOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-iOS-multiple-vulnerabilities-39743)|An attacker can use several vulnerabilities of Apple iOS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-mon-bin-mmap-39742" class="noirorange"><b>Linux kernel</b>: memory corruption via mon_bin_mmap()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-mon-bin-mmap-39742)|An attacker can trigger a memory corruption of the Linux kernel, via mon_bin_mmap(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Google-Chrome-multiple-vulnerabilities-39741" class="noirorange"><b>Google Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Google-Chrome-multiple-vulnerabilities-39741)|An attacker can use several vulnerabilities of Google Chrome...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-USB-HID-39740" class="noirorange"><b>Wireshark</b>: denial of service via USB-HID</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-USB-HID-39740)|An attacker can cause a fatal error of Wireshark, via USB-HID, in order to trigger a denial of service...|Visit link for details|
- 
- ---
-
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -89,18 +71,36 @@
  
  ---
 
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Google-Chrome-memory-corruption-via-V8-Type-Confusion-39750" class="noirorange"><b>Google Chrome</b>: memory corruption via V8 Type Confusion</a>](https://vigilance.fr/vulnerability/Google-Chrome-memory-corruption-via-V8-Type-Confusion-39750)|An attacker can trigger a memory corruption of Google Chrome, via V8 Type Confusion, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Python-Core-privilege-escalation-via-Multiprocessing-Forkserver-Start-39749" class="noirorange"><b>Python Core</b>: privilege escalation via Multiprocessing Forkserver Start</a>](https://vigilance.fr/vulnerability/Python-Core-privilege-escalation-via-Multiprocessing-Forkserver-Start-39749)|An attacker can bypass restrictions of Python Core, via Multiprocessing Forkserver Start, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PHP-out-of-bounds-memory-reading-via-imageloadfont-39748" class="noirorange"><b>PHP</b>: out-of-bounds memory reading via imageloadfont</a>](https://vigilance.fr/vulnerability/PHP-out-of-bounds-memory-reading-via-imageloadfont-39748)|An attacker can force a read at an invalid memory address of PHP, via imageloadfont, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Glances-overload-via-Regular-Expression-39747" class="noirorange"><b>Glances</b>: overload via Regular Expression</a>](https://vigilance.fr/vulnerability/Glances-overload-via-Regular-Expression-39747)|An attacker can trigger an overload of Glances, via Regular Expression, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Tenable-Nessus-two-vulnerabilities-39746" class="noirorange"><b>Tenable Nessus</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Tenable-Nessus-two-vulnerabilities-39746)|An attacker can use several vulnerabilities of Tenable Nessus...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Select2-Cross-Site-Scripting-via-Listbox-Data-HTML-Templates-39745" class="noirorange"><b>Select2</b>: Cross Site Scripting via Listbox Data HTML Templates</a>](https://vigilance.fr/vulnerability/Select2-Cross-Site-Scripting-via-Listbox-Data-HTML-Templates-39745)|An attacker can trigger a Cross Site Scripting of Select2, via Listbox Data HTML Templates, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GNU-Networking-Utilities-inetutils-multiple-vulnerabilities-39744" class="noirorange"><b>GNU Networking Utilities  inetutils</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GNU-Networking-Utilities-inetutils-multiple-vulnerabilities-39744)|An attacker can use several vulnerabilities of GNU Networking Utilities  inetutils...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-multiple-vulnerabilities-39743" class="noirorange"><b>Apple iOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-iOS-multiple-vulnerabilities-39743)|An attacker can use several vulnerabilities of Apple iOS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-mon-bin-mmap-39742" class="noirorange"><b>Linux kernel</b>: memory corruption via mon_bin_mmap()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-mon-bin-mmap-39742)|An attacker can trigger a memory corruption of the Linux kernel, via mon_bin_mmap(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Google-Chrome-multiple-vulnerabilities-39741" class="noirorange"><b>Google Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Google-Chrome-multiple-vulnerabilities-39741)|An attacker can use several vulnerabilities of Google Chrome...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-USB-HID-39740" class="noirorange"><b>Wireshark</b>: denial of service via USB-HID</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-USB-HID-39740)|An attacker can cause a fatal error of Wireshark, via USB-HID, in order to trigger a denial of service...|Visit link for details|
+ 
+ ---
+
 ## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[Samba Wide Link symlink](https://vuldb.com/?id.212499)|Visit link for details|2022-10-29 at 17:31|
- |[Samba Heimdal GSSAPI Library malloc buffer overflow](https://vuldb.com/?id.212498)|Visit link for details|2022-10-29 at 17:30|
- |[Exiv2 QuickTime Video quicktimevideo.cpp decodeBlock buffer overflow](https://vuldb.com/?id.212497)|Visit link for details|2022-10-29 at 17:23|
- |[Exiv2 QuickTime Video quicktimevideo.cpp userDataDecoder integer overflow](https://vuldb.com/?id.212496)|Visit link for details|2022-10-29 at 17:21|
- |[Exiv2 QuickTime Video quicktimevideo.cpp userDataDecoder null pointer dereference](https://vuldb.com/?id.212495)|Visit link for details|2022-10-29 at 17:19|
- |[Simple Cold Storage Management System update_status.php sql injection](https://vuldb.com/?id.212494)|Visit link for details|2022-10-29 at 17:14|
- |[ExpressTech Quiz and Survey Master Plugin cross site scripting](https://vuldb.com/?id.212493)|Visit link for details|2022-10-29 at 12:24|
- |[ExpressTech Quiz and Survey Master Plugin cross site scripting](https://vuldb.com/?id.212492)|Visit link for details|2022-10-29 at 12:23|
- |[Themepoints Testimonials Plugin cross site scripting](https://vuldb.com/?id.212491)|Visit link for details|2022-10-29 at 12:23|
- |[SEMCMS Shop Ant_M_Coup.php cross site scripting](https://vuldb.com/?id.212490)|Visit link for details|2022-10-29 at 12:22|
+ |[Samba Wide Link symlink](https://vuldb.com/?id.212499)|Visit link for details|2022-10-30 at 17:31|
+ |[Samba Heimdal GSSAPI Library malloc buffer overflow](https://vuldb.com/?id.212498)|Visit link for details|2022-10-30 at 17:30|
+ |[Exiv2 QuickTime Video quicktimevideo.cpp decodeBlock buffer overflow](https://vuldb.com/?id.212497)|Visit link for details|2022-10-30 at 17:23|
+ |[Exiv2 QuickTime Video quicktimevideo.cpp userDataDecoder integer overflow](https://vuldb.com/?id.212496)|Visit link for details|2022-10-30 at 17:21|
+ |[Exiv2 QuickTime Video quicktimevideo.cpp userDataDecoder null pointer dereference](https://vuldb.com/?id.212495)|Visit link for details|2022-10-30 at 17:19|
+ |[Simple Cold Storage Management System update_status.php sql injection](https://vuldb.com/?id.212494)|Visit link for details|2022-10-30 at 17:14|
+ |[ExpressTech Quiz and Survey Master Plugin cross site scripting](https://vuldb.com/?id.212493)|Visit link for details|2022-10-30 at 12:24|
+ |[ExpressTech Quiz and Survey Master Plugin cross site scripting](https://vuldb.com/?id.212492)|Visit link for details|2022-10-30 at 12:23|
+ |[Themepoints Testimonials Plugin cross site scripting](https://vuldb.com/?id.212491)|Visit link for details|2022-10-30 at 12:23|
+ |[SEMCMS Shop Ant_M_Coup.php cross site scripting](https://vuldb.com/?id.212490)|Visit link for details|2022-10-30 at 12:22|
  
