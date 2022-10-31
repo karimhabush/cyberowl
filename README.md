@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 30/10/2022 21:12:05 UTC
+ > Last Updated 31/10/2022 09:15:25 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -36,24 +36,6 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[38912810/22 - Vulnérabilités dans les produits IBM](https://www.dgssi.gov.ma//fr/content/3891281022-vulnerabilites-dans-les-produits-ibm.html)|Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance et de causer undéni de service.|28 octobre 2022|
- |[38902710/22 - Plusieurs vulnérabilités dans les produits Apple](https://www.dgssi.gov.ma//fr/content/3890271022-plusieurs-vulnerabilites-dans-les-produits-apple.html)|Apple a publié des mises à jour de sécurité qui corrigent plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance (RCE), de porter...|27 octobre 2022|
- |[38892710/22 - Vulnérabilités affectantdes produits Aruba ](https://www.dgssi.gov.ma//fr/content/3889271022-vulnerabilites-affectant-des-produits-aruba.html)|Aruba Networks annonce la correction deplusieurs vulnérabilités affectant les versions susmentionnées de certains de ses produits. L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’exécuter du code...|27 octobre 2022|
- |[38882710/22 - Vulnérabilités dans le CMS Joomla](https://www.dgssi.gov.ma//fr/content/3888271022-vulnerabilites-dans-le-cms-joomla.html)|Deux vulnérabilités ont été corrigées dans le CMS Joomla. L’exploitation de ces failles permet à un attaquant de porter atteinte à la confidentialité de données et de réussir une injection de code indirecte à distance (XSS).|27 octobre 2022|
- |[38862610/22 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/3886261022-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant son client de messagerie Mozilla Thunderbird. L’exploitation de ces vulnérabilités peut permettre à un...|26 octobre 2022|
- |[38872610/22 - 38872610/22](https://www.dgssi.gov.ma//fr/content/3887261022-3887261022.html)|Google a corrigé plusieurs vulnérabilités dans son navigateur Google Chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du système affecté.|26 octobre 2022|
- |[38852610/22 - Vulnérabilités critiques dans VMware Cloud Foundation](https://www.dgssi.gov.ma//fr/content/3885261022-vulnerabilites-critiques-dans-vmware-cloud-foundation.html)|Deux vulnérabilités critiques ont été corrigées dans VMware Cloud Foundation. L’exploitation de ces failles permet à un attaquant d’exécuter des commandes arbitraires à distance avec des privilèges « root ».|26 octobre 2022|
- |[38842510/22 - Vulnérabilités dans Samba](https://www.dgssi.gov.ma//fr/content/3884251022-vulnerabilites-dans-samba.html)|Deux vulnérabilités ont été corrigées dans les versions des serveurs de fichiers Samba susmentionnées. L’exploitation de ces vulnérabilités permet à un attaquant de porter atteinte à la confidentialité des données.|25 octobre 2022|
- |[38832510/22 - Vulnérabilité dans Siemens Siveillance Video Mobile Server](https://www.dgssi.gov.ma//fr/content/3883251022-vulnerabilite-dans-siemens-siveillance-video-mobile-server.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées de Siemens Siveillance Video Mobile Server. L’exploitation de cette faille de contournement d'authentification, pourrait permettre à un attaquant distant non...|25 octobre 2022|
- |[38822510/22- Vulnérabilités critiques affectant Apple iOS et iPadOS](https://www.dgssi.gov.ma//fr/content/3882251022-vulnerabilites-critiques-affectant-apple-ios-et-ipados.html)|Apple annonce lacorrectionde plusieurs vulnérabilités affectant ses produits iOS et iPadOS. Une de ces failles est un « zero-day » identifié par « CVE-2022-42827 » activementexploité.L'exploitation deces...|25 octobre 2022|
- |[38812110/22 - Vulnérabilités dans les produits SolarWinds](https://www.dgssi.gov.ma//fr/content/3881211022-vulnerabilites-dans-les-produits-solarwinds.html)|Plusieurs vulnérabilités ont été corrigées dans les produits SolarWinds susmentionnés. L'exploitation de ces failles pourrait permettre à un attaquant d’exécuter du code arbitraire à distance.|21 octobre 2022|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -75,17 +57,35 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-scr24x-fops-39760" class="noirorange"><b>Linux kernel</b>: reuse after free via scr24x_fops()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-scr24x-fops-39760)|An attacker can force the reuse of a freed memory area of the Linux kernel, via scr24x_fops(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-reader-fops-39759" class="noirorange"><b>Linux kernel</b>: reuse after free via reader_fops()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-reader-fops-39759)|An attacker can force the reuse of a freed memory area of the Linux kernel, via reader_fops(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-cm4000-fops-39758" class="noirorange"><b>Linux kernel</b>: reuse after free via cm4000_fops()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-cm4000-fops-39758)|An attacker can force the reuse of a freed memory area of the Linux kernel, via cm4000_fops(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-brcmf-fweh-event-worker-39756" class="noirorange"><b>Linux kernel</b>: buffer overflow via <wbr>brcmf_fweh_event_wor<wbr>ker()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-brcmf-fweh-event-worker-39756)|An attacker can trigger a buffer overflow of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Batik-information-disclosure-via-Java-Classes-39755" class="noirorange"><b>Apache Batik</b>: information disclosure via Java Classes</a>](https://vigilance.fr/vulnerability/Apache-Batik-information-disclosure-via-Java-Classes-39755)|An attacker can bypass access restrictions to data of Apache Batik, via Java Classes, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Batik-information-disclosure-via-Jars-39754" class="noirorange"><b>Apache Batik</b>: information disclosure via Jars</a>](https://vigilance.fr/vulnerability/Apache-Batik-information-disclosure-via-Jars-39754)|An attacker can bypass access restrictions to data of Apache Batik, via Jars, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mbed-TLS-weak-encryption-via-psa-aead-generate-nonce-39753" class="noirorange"><b>Mbed TLS</b>: weak encryption via <wbr>psa_aead_generate_no<wbr>nce()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Mbed-TLS-weak-encryption-via-psa-aead-generate-nonce-39753)|An attacker can access data on Mbed TLS, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mbed-TLS-weak-encryption-via-psa-cipher-generate-iv-39752" class="noirorange"><b>Mbed TLS</b>: weak encryption via <wbr>psa_cipher_generate_<wbr>iv()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Mbed-TLS-weak-encryption-via-psa-cipher-generate-iv-39752)|An attacker can access data on Mbed TLS, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Google-Chrome-memory-corruption-via-V8-Type-Confusion-39750" class="noirorange"><b>Google Chrome</b>: memory corruption via V8 Type Confusion</a>](https://vigilance.fr/vulnerability/Google-Chrome-memory-corruption-via-V8-Type-Confusion-39750)|An attacker can trigger a memory corruption of Google Chrome, via V8 Type Confusion, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Python-Core-privilege-escalation-via-Multiprocessing-Forkserver-Start-39749" class="noirorange"><b>Python Core</b>: privilege escalation via Multiprocessing Forkserver Start</a>](https://vigilance.fr/vulnerability/Python-Core-privilege-escalation-via-Multiprocessing-Forkserver-Start-39749)|An attacker can bypass restrictions of Python Core, via Multiprocessing Forkserver Start, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/PHP-out-of-bounds-memory-reading-via-imageloadfont-39748" class="noirorange"><b>PHP</b>: out-of-bounds memory reading via imageloadfont</a>](https://vigilance.fr/vulnerability/PHP-out-of-bounds-memory-reading-via-imageloadfont-39748)|An attacker can force a read at an invalid memory address of PHP, via imageloadfont, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Glances-overload-via-Regular-Expression-39747" class="noirorange"><b>Glances</b>: overload via Regular Expression</a>](https://vigilance.fr/vulnerability/Glances-overload-via-Regular-Expression-39747)|An attacker can trigger an overload of Glances, via Regular Expression, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Tenable-Nessus-two-vulnerabilities-39746" class="noirorange"><b>Tenable Nessus</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Tenable-Nessus-two-vulnerabilities-39746)|An attacker can use several vulnerabilities of Tenable Nessus...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Select2-Cross-Site-Scripting-via-Listbox-Data-HTML-Templates-39745" class="noirorange"><b>Select2</b>: Cross Site Scripting via Listbox Data HTML Templates</a>](https://vigilance.fr/vulnerability/Select2-Cross-Site-Scripting-via-Listbox-Data-HTML-Templates-39745)|An attacker can trigger a Cross Site Scripting of Select2, via Listbox Data HTML Templates, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GNU-Networking-Utilities-inetutils-multiple-vulnerabilities-39744" class="noirorange"><b>GNU Networking Utilities  inetutils</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GNU-Networking-Utilities-inetutils-multiple-vulnerabilities-39744)|An attacker can use several vulnerabilities of GNU Networking Utilities  inetutils...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-multiple-vulnerabilities-39743" class="noirorange"><b>Apple iOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-iOS-multiple-vulnerabilities-39743)|An attacker can use several vulnerabilities of Apple iOS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-mon-bin-mmap-39742" class="noirorange"><b>Linux kernel</b>: memory corruption via mon_bin_mmap()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-mon-bin-mmap-39742)|An attacker can trigger a memory corruption of the Linux kernel, via mon_bin_mmap(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Google-Chrome-multiple-vulnerabilities-39741" class="noirorange"><b>Google Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Google-Chrome-multiple-vulnerabilities-39741)|An attacker can use several vulnerabilities of Google Chrome...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-USB-HID-39740" class="noirorange"><b>Wireshark</b>: denial of service via USB-HID</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-USB-HID-39740)|An attacker can cause a fatal error of Wireshark, via USB-HID, in order to trigger a denial of service...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[38912810/22 - Vulnérabilités dans les produits IBM](https://www.dgssi.gov.ma//fr/content/3891281022-vulnerabilites-dans-les-produits-ibm.html)|Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance et de causer undéni de service.|28 octobre 2022|
+ |[38902710/22 - Plusieurs vulnérabilités dans les produits Apple](https://www.dgssi.gov.ma//fr/content/3890271022-plusieurs-vulnerabilites-dans-les-produits-apple.html)|Apple a publié des mises à jour de sécurité qui corrigent plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance (RCE), de porter...|27 octobre 2022|
+ |[38892710/22 - Vulnérabilités affectantdes produits Aruba ](https://www.dgssi.gov.ma//fr/content/3889271022-vulnerabilites-affectant-des-produits-aruba.html)|Aruba Networks annonce la correction deplusieurs vulnérabilités affectant les versions susmentionnées de certains de ses produits. L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’exécuter du code...|27 octobre 2022|
+ |[38882710/22 - Vulnérabilités dans le CMS Joomla](https://www.dgssi.gov.ma//fr/content/3888271022-vulnerabilites-dans-le-cms-joomla.html)|Deux vulnérabilités ont été corrigées dans le CMS Joomla. L’exploitation de ces failles permet à un attaquant de porter atteinte à la confidentialité de données et de réussir une injection de code indirecte à distance (XSS).|27 octobre 2022|
+ |[38862610/22 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/3886261022-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant son client de messagerie Mozilla Thunderbird. L’exploitation de ces vulnérabilités peut permettre à un...|26 octobre 2022|
+ |[38872610/22 - Vulnérabilités dansGoogle Chrome](https://www.dgssi.gov.ma//fr/content/3887261022-vulnerabilites-dans-google-chrome.html)|Google a corrigé plusieurs vulnérabilités dans son navigateur Google Chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du système affecté.|26 octobre 2022|
+ |[38852610/22 - Vulnérabilités critiques dans VMware Cloud Foundation](https://www.dgssi.gov.ma//fr/content/3885261022-vulnerabilites-critiques-dans-vmware-cloud-foundation.html)|Deux vulnérabilités critiques ont été corrigées dans VMware Cloud Foundation. L’exploitation de ces failles permet à un attaquant d’exécuter des commandes arbitraires à distance avec des privilèges « root ».|26 octobre 2022|
+ |[38842510/22 - Vulnérabilités dans Samba](https://www.dgssi.gov.ma//fr/content/3884251022-vulnerabilites-dans-samba.html)|Deux vulnérabilités ont été corrigées dans les versions des serveurs de fichiers Samba susmentionnées. L’exploitation de ces vulnérabilités permet à un attaquant de porter atteinte à la confidentialité des données.|25 octobre 2022|
+ |[38832510/22 - Vulnérabilité dans Siemens Siveillance Video Mobile Server](https://www.dgssi.gov.ma//fr/content/3883251022-vulnerabilite-dans-siemens-siveillance-video-mobile-server.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées de Siemens Siveillance Video Mobile Server. L’exploitation de cette faille de contournement d'authentification, pourrait permettre à un attaquant distant non...|25 octobre 2022|
+ |[38822510/22- Vulnérabilités critiques affectant Apple iOS et iPadOS](https://www.dgssi.gov.ma//fr/content/3882251022-vulnerabilites-critiques-affectant-apple-ios-et-ipados.html)|Apple annonce lacorrectionde plusieurs vulnérabilités affectant ses produits iOS et iPadOS. Une de ces failles est un « zero-day » identifié par « CVE-2022-42827 » activementexploité.L'exploitation deces...|25 octobre 2022|
+ |[38812110/22 - Vulnérabilités dans les produits SolarWinds](https://www.dgssi.gov.ma//fr/content/3881211022-vulnerabilites-dans-les-produits-solarwinds.html)|Plusieurs vulnérabilités ont été corrigées dans les produits SolarWinds susmentionnés. L'exploitation de ces failles pourrait permettre à un attaquant d’exécuter du code arbitraire à distance.|21 octobre 2022|
  
  ---
 
@@ -93,14 +93,14 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Samba Wide Link symlink](https://vuldb.com/?id.212499)|Visit link for details|2022-10-30 at 17:31|
- |[Samba Heimdal GSSAPI Library malloc buffer overflow](https://vuldb.com/?id.212498)|Visit link for details|2022-10-30 at 17:30|
- |[Exiv2 QuickTime Video quicktimevideo.cpp decodeBlock buffer overflow](https://vuldb.com/?id.212497)|Visit link for details|2022-10-30 at 17:23|
- |[Exiv2 QuickTime Video quicktimevideo.cpp userDataDecoder integer overflow](https://vuldb.com/?id.212496)|Visit link for details|2022-10-30 at 17:21|
- |[Exiv2 QuickTime Video quicktimevideo.cpp userDataDecoder null pointer dereference](https://vuldb.com/?id.212495)|Visit link for details|2022-10-30 at 17:19|
- |[Simple Cold Storage Management System update_status.php sql injection](https://vuldb.com/?id.212494)|Visit link for details|2022-10-30 at 17:14|
- |[ExpressTech Quiz and Survey Master Plugin cross site scripting](https://vuldb.com/?id.212493)|Visit link for details|2022-10-30 at 12:24|
- |[ExpressTech Quiz and Survey Master Plugin cross site scripting](https://vuldb.com/?id.212492)|Visit link for details|2022-10-30 at 12:23|
- |[Themepoints Testimonials Plugin cross site scripting](https://vuldb.com/?id.212491)|Visit link for details|2022-10-30 at 12:23|
- |[SEMCMS Shop Ant_M_Coup.php cross site scripting](https://vuldb.com/?id.212490)|Visit link for details|2022-10-30 at 12:22|
+ |[Samba Wide Link symlink](https://vuldb.com/?id.212499)|Visit link for details|2022-10-31 at 17:31|
+ |[Samba Heimdal GSSAPI Library malloc buffer overflow](https://vuldb.com/?id.212498)|Visit link for details|2022-10-31 at 17:30|
+ |[Exiv2 QuickTime Video quicktimevideo.cpp decodeBlock buffer overflow](https://vuldb.com/?id.212497)|Visit link for details|2022-10-31 at 17:23|
+ |[Exiv2 QuickTime Video quicktimevideo.cpp userDataDecoder integer overflow](https://vuldb.com/?id.212496)|Visit link for details|2022-10-31 at 17:21|
+ |[Exiv2 QuickTime Video quicktimevideo.cpp userDataDecoder null pointer dereference](https://vuldb.com/?id.212495)|Visit link for details|2022-10-31 at 17:19|
+ |[Simple Cold Storage Management System update_status.php sql injection](https://vuldb.com/?id.212494)|Visit link for details|2022-10-31 at 17:14|
+ |[ExpressTech Quiz and Survey Master Plugin cross site scripting](https://vuldb.com/?id.212493)|Visit link for details|2022-10-31 at 12:24|
+ |[ExpressTech Quiz and Survey Master Plugin cross site scripting](https://vuldb.com/?id.212492)|Visit link for details|2022-10-31 at 12:23|
+ |[Themepoints Testimonials Plugin cross site scripting](https://vuldb.com/?id.212491)|Visit link for details|2022-10-31 at 12:23|
+ |[SEMCMS Shop Ant_M_Coup.php cross site scripting](https://vuldb.com/?id.212490)|Visit link for details|2022-10-31 at 12:22|
  
