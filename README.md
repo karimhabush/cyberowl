@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 02/11/2022 21:12:06 UTC
+ > Last Updated 03/11/2022 09:12:18 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -75,9 +75,10 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[38970311/22 - Vulnérabilité affectantle navigateur Microsoft Edge ](https://www.dgssi.gov.ma//fr/content/3897031122-vulnerabilite-affectant-le-navigateur-microsoft-edge.html)|Microsoft vient de publier une mise à jour de sécurité qui permet de corriger unevulnérabilité affectant le navigateur Microsoft Edge. L’exploitation de cette vulnérabilité peut permettre à un attaquant d’exécuter du code arbitraire.|03 novembre 2022|
  |[38960211/22 - Vulnérabilités dans Citrix Hypervisor](https://www.dgssi.gov.ma//fr/content/3896021122-vulnerabilites-dans-citrix-hypervisor.html)|Citrixannonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités affectant les versions de Citrix Hypervisor susmentionnées. L’exploitation de ces failles peut permettre à un attaquant de...|02 novembre 2022|
- |[38950211/22 - Vulnérabilités dans OpenSSL](https://www.dgssi.gov.ma//fr/content/3895021122-vulnerabilites-dans-openssl.html)|OpenSSL a publié un avis de sécurité pour corriger deux vulnérabilités critiques « CVE-2022-3602 et CVE-2022-3786 », affectant les versions OpenSSL 3.0.0 à 3.0.6. Les deux vulnérabilités peuvent provoquer un déni de service lors de la...|02 novembre 2022|
  |[38950311/22 - Vulnérabilité critique dans ConnectWise Recover et R1Soft Server Backup Manager](https://www.dgssi.gov.ma//fr/content/3895031122-vulnerabilite-critique-dans-connectwise-recover-et-r1soft-server-backup-manager.html)|ConnectWise a publié des mises à jour de sécurité pour corriger une vulnérabilité critique d'exécution de code à distance (RCE) (CVE-2022-36537) affectant le framework ZK utilisé dans les solutions de sauvegarde sécurisée ConnectWise...|02 novembre 2022|
+ |[38950211/22 - Vulnérabilités dans OpenSSL](https://www.dgssi.gov.ma//fr/content/3895021122-vulnerabilites-dans-openssl.html)|OpenSSL a publié un avis de sécurité pour corriger deux vulnérabilités critiques « CVE-2022-3602 et CVE-2022-3786 », affectant les versions OpenSSL 3.0.0 à 3.0.6. Les deux vulnérabilités peuvent provoquer un déni de service lors de la...|02 novembre 2022|
  |[38940111/22 - Vulnérabilités dans PHP](https://www.dgssi.gov.ma//fr/content/3894011122-vulnerabilites-dans-php.html)|Deux vulnérabilités ont été corrigées dans les versions de PHP susmentionnées. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la confidentialité des données.|01 novembre 2022|
  |[38933110/22 - Publication d'un exploit pour la vulnérabilité critique affectant VMware Cloud Fo](https://www.dgssi.gov.ma//fr/content/3893311022-publication-d-un-exploit-pour-la-vulnerabilite-critique-affectant-vmware-cloud-foundation.html)|VMware confirme la disponibilité d’un exploit de la vulnérabilité critique « CVE-2021-39144 » permettant aux attaquants d'exécuter du code arbitraire à distance avec les privilèges « root » sur les appliances Cloud Foundation et NSX...|31 octobre 2022|
  |[38923110/22 - Vulnérabilité « Zero-Day »affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/3892311022-vulnerabilite-zero-day-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger unevulnérabilité « Zero-Day » activement exploitéeaffectant le navigateur Google Chrome. L’exploitation de cette vulnérabilité peut permettre àun attaquant d’...|31 octobre 2022|
@@ -85,7 +86,6 @@
  |[38902710/22 - Plusieurs vulnérabilités dans les produits Apple](https://www.dgssi.gov.ma//fr/content/3890271022-plusieurs-vulnerabilites-dans-les-produits-apple.html)|Apple a publié des mises à jour de sécurité qui corrigent plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance (RCE), de porter...|27 octobre 2022|
  |[38892710/22 - Vulnérabilités affectantdes produits Aruba ](https://www.dgssi.gov.ma//fr/content/3889271022-vulnerabilites-affectant-des-produits-aruba.html)|Aruba Networks annonce la correction deplusieurs vulnérabilités affectant les versions susmentionnées de certains de ses produits. L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’exécuter du code...|27 octobre 2022|
  |[38882710/22 - Vulnérabilités dans le CMS Joomla](https://www.dgssi.gov.ma//fr/content/3888271022-vulnerabilites-dans-le-cms-joomla.html)|Deux vulnérabilités ont été corrigées dans le CMS Joomla. L’exploitation de ces failles permet à un attaquant de porter atteinte à la confidentialité de données et de réussir une injection de code indirecte à distance (XSS).|27 octobre 2022|
- |[38862610/22 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/3886261022-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant son client de messagerie Mozilla Thunderbird. L’exploitation de ces vulnérabilités peut permettre à un...|26 octobre 2022|
  
  ---
 
@@ -93,14 +93,14 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Silicon Labs Bootloader GBL Parser memory corruption](https://vuldb.com/?id.212867)|Visit link for details|2022-11-02 at 21:51|
- |[Apache ShardingSphere ElasticJob-UI JDBC Privilege Escalation](https://vuldb.com/?id.212866)|Visit link for details|2022-11-02 at 21:28|
- |[glob-parent Regular Expression resource consumption](https://vuldb.com/?id.212865)|Visit link for details|2022-11-02 at 21:13|
- |[Apache Sling App CMS Taxonomy Management cross site scripting](https://vuldb.com/?id.212864)|Visit link for details|2022-11-02 at 21:11|
- |[phpipam Import Preview import-load-data.php cross site scripting](https://vuldb.com/?id.212863)|Visit link for details|2022-11-02 at 21:06|
- |[Webmin index.cgi cross site scripting](https://vuldb.com/?id.212862)|Visit link for details|2022-11-02 at 21:01|
- |[Sudo passwd.c crypt heap-based overflow](https://vuldb.com/?id.212861)|Visit link for details|2022-11-02 at 20:54|
- |[oretnom23 Online Diagnostic Lab Management System sql injection](https://vuldb.com/?id.212860)|Visit link for details|2022-11-02 at 20:53|
- |[oretnom23 Online Diagnostic Lab Management System sql injection](https://vuldb.com/?id.212859)|Visit link for details|2022-11-02 at 20:53|
- |[GPAC odf_code.c gf_odf_new_iod memory leak](https://vuldb.com/?id.212858)|Visit link for details|2022-11-02 at 20:52|
+ |[Ayoub Media AM-HiLi Plugin cross site scripting](https://vuldb.com/?id.212873)|Visit link for details|2022-11-03 at 07:28|
+ |[AgentEasy Properties Plugin cross site scripting](https://vuldb.com/?id.212872)|Visit link for details|2022-11-03 at 07:27|
+ |[GitLab Community Edition/Enterprise Edition External Status Check cross site scripting](https://vuldb.com/?id.212871)|Visit link for details|2022-11-03 at 07:25|
+ |[Trihedral VTScada HTTP Request denial of service](https://vuldb.com/?id.212870)|Visit link for details|2022-11-03 at 07:23|
+ |[oretnom23 Online Diagnostic Lab Management System sql injection](https://vuldb.com/?id.212869)|Visit link for details|2022-11-03 at 07:22|
+ |[oretnom23 Online Diagnostic Lab Management System sql injection](https://vuldb.com/?id.212868)|Visit link for details|2022-11-03 at 07:22|
+ |[Silicon Labs Bootloader GBL Parser memory corruption](https://vuldb.com/?id.212867)|Visit link for details|2022-11-03 at 21:51|
+ |[Apache ShardingSphere ElasticJob-UI JDBC Privilege Escalation](https://vuldb.com/?id.212866)|Visit link for details|2022-11-03 at 21:28|
+ |[glob-parent Regular Expression resource consumption](https://vuldb.com/?id.212865)|Visit link for details|2022-11-03 at 21:13|
+ |[Apache Sling App CMS Taxonomy Management cross site scripting](https://vuldb.com/?id.212864)|Visit link for details|2022-11-03 at 21:11|
  
