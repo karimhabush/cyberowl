@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 04/11/2022 09:11:46 UTC
+ > Last Updated 04/11/2022 21:11:52 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -40,16 +40,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-995/)|De multiples vulnérabilités ont été corrigées dans |Publié le 4 novembre 2022|
+ |[Multiples vulnérabilités dans VMware Spring](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-994/)|De multiples vulnérabilités ont été découvertes dans VMware Spring. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 4 novembre 2022|
+ |[Multiples vulnérabilités dans Tenable Nessus](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-993/)|De multiples vulnérabilités ont été découvertes dans Tenable Nessus. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 4 novembre 2022|
+ |[Multiples vulnérabilités dans PHP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-992/)|De multiples vulnérabilités ont été découvertes dans PHP. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 4 novembre 2022|
  |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-991/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de RedHat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 3 novembre 2022|
  |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-990/)|De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 3 novembre 2022|
  |[Multiples vulnérabilités dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-989/)|De multiples vulnérabilités ont été découvertes dans les produits Tenable. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 3 novembre 2022|
  |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-988/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 3 novembre 2022|
  |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-987/)|De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 3 novembre 2022|
  |[Multiples vulnérabilités dans Splunk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-986/)|De multiples vulnérabilités ont été découvertes dans Splunk. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 3 novembre 2022|
- |[Multiples vulnérabilités dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-985/)|De multiples vulnérabilités ont été découvertes dans OpenSSL. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 2 novembre 2022|
- |[Multiples vulnérabilités dans le noyau Linux de Debian LTS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-984/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service et un contournement de la politique de sécurité.|Publié le 2 novembre 2022|
- |[Multiples vulnérabilités dans Apple Xcode](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-983/)|De multiples vulnérabilités ont été découvertes dans Apple Xcode. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 2 novembre 2022|
- |[Multiples vulnérabilités dans les produits Kaspersky](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-982/)|De multiples vulnérabilités ont été découvertes dans les produits Kaspersky. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et un contournement de la politique de sécurité.|Publié le 2 novembre 2022|
  
  ---
 
@@ -57,6 +57,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Mozilla-NSS-NULL-pointer-dereference-via-NSS-GetClientAuthData-39839" class="noirorange"><b>Mozilla NSS</b>: NULL pointer dereference via <wbr>NSS_GetClientAuthDat<wbr>a()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Mozilla-NSS-NULL-pointer-dereference-via-NSS-GetClientAuthData-39839)|An attacker can force a NULL pointer to be dereferenced on Mozilla NSS, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Clickhouse-buffer-overflow-via-wildCopy2-LZ4-decompressImpl-39838" class="noirorange"><b>Clickhouse</b>: buffer overflow via wildCopy2 <wbr>LZ4::decompressImpl(<wbr>)</wbr></wbr></a>](https://vigilance.fr/vulnerability/Clickhouse-buffer-overflow-via-wildCopy2-LZ4-decompressImpl-39838)|An attacker can trigger a buffer overflow of Clickhouse, via wildCopy2 |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Clickhouse-buffer-overflow-via-wildCopy1-LZ4-decompressImpl-39837" class="noirorange"><b>Clickhouse</b>: buffer overflow via wildCopy1 <wbr>LZ4::decompressImpl(<wbr>)</wbr></wbr></a>](https://vigilance.fr/vulnerability/Clickhouse-buffer-overflow-via-wildCopy1-LZ4-decompressImpl-39837)|An attacker can trigger a buffer overflow of Clickhouse, via wildCopy1 |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Clickhouse-out-of-bounds-memory-reading-via-LZ4-Compression-Codec-Lower-39836" class="noirorange"><b>Clickhouse</b>: out-of-bounds memory reading via LZ4 Compression Codec Lower</a>](https://vigilance.fr/vulnerability/Clickhouse-out-of-bounds-memory-reading-via-LZ4-Compression-Codec-Lower-39836)|An attacker can force a read at an invalid memory address of Clickhouse, via LZ4 Compression Codec Lower, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
@@ -67,7 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Dogtag-PKI-external-XML-entity-injection-39831" class="noirorange"><b>Dogtag PKI</b>: external XML entity injection</a>](https://vigilance.fr/vulnerability/Dogtag-PKI-external-XML-entity-injection-39831)|An attacker can transmit malicious XML data to Dogtag PKI, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-denial-of-service-via-Indexing-Blockage-39830" class="noirorange"><b>Splunk Enterprise</b>: denial of service via Indexing Blockage</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-denial-of-service-via-Indexing-Blockage-39830)|An attacker can cause a fatal error of Splunk Enterprise, via Indexing Blockage, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-code-execution-via-Dashboard-PDF-Generation-39829" class="noirorange"><b>Splunk Enterprise</b>: code execution via Dashboard PDF Generation</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-code-execution-via-Dashboard-PDF-Generation-39829)|An attacker can use a vulnerability of Splunk Enterprise, via Dashboard PDF Generation, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-external-XML-entity-injection-via-Custom-View-39828" class="noirorange"><b>Splunk Enterprise</b>: external XML entity injection via Custom View</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-external-XML-entity-injection-via-Custom-View-39828)|An attacker can transmit malicious XML data to Splunk Enterprise, via Custom View, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
  
  ---
 
@@ -75,6 +75,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[39040411/22 - Vulnérabilités dans Apple Xcode](https://www.dgssi.gov.ma//fr/content/3904041122-vulnerabilites-dans-apple-xcode.html)|Apple annonce la correction de plusieurs vulnérabilités dans son IDE Xcode. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire, de réussir une élévation de privilèges ou de porter atteinte à la...|04 novembre 2022|
+ |[39020411/22 - Vulnérabilités affectant plusieursproduits deCisco](https://www.dgssi.gov.ma//fr/content/3902041122-vulnerabilites-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’exécuter du code arbitraire, d’accéder...|04 novembre 2022|
+ |[39030311/22 - Vulnérabilités critiques dans les produits Splunk](https://www.dgssi.gov.ma//fr/content/3903031122-vulnerabilites-critiques-dans-les-produits-splunk.html)|Splunk a publié une mise à jour de sécurité corrigeant plusieurs vulnérabilités critiques dans les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire, de contourner la...|04 novembre 2022|
  |[39010311/22 - Vulnérabilités dans l'hyperviseur Xen ](https://www.dgssi.gov.ma//fr/content/3901031122-vulnerabilites-dans-l-hyperviseur-xen.html)|Plusieurs vulnérabilités ont été corrigées dans les versions d’hyperviseur Xen susmentionnées. L'exploitation de ces failles peut permettre à un attaquant de causer un déni de service, de porter atteinte à la confidentialité de...|03 novembre 2022|
  |[38990311/22 - Vulnérabilités dans les produits Fortinet](https://www.dgssi.gov.ma//fr/content/3899031122-vulnerabilites-dans-les-produits-fortinet.html)|Fortinet a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L'exploitation réussie de ces failles pourrait permettre à un attaquant d’exécuter du code arbitraire, de porter...|03 novembre 2022|
  |[38980311/22 - Vulnérabilités affectant certains produits de Kaspersky ](https://www.dgssi.gov.ma//fr/content/3898031122-vulnerabilites-affectant-certains-produits-de-kaspersky.html)|Kaspersky annonce la correction de trois vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire ou de contourner la politique de sécurité.|03 novembre 2022|
@@ -83,9 +86,6 @@
  |[38950211/22 - Vulnérabilités dans OpenSSL](https://www.dgssi.gov.ma//fr/content/3895021122-vulnerabilites-dans-openssl.html)|OpenSSL a publié un avis de sécurité pour corriger deux vulnérabilités critiques « CVE-2022-3602 et CVE-2022-3786 », affectant les versions OpenSSL 3.0.0 à 3.0.6. Les deux vulnérabilités peuvent provoquer un déni de service lors de la...|02 novembre 2022|
  |[38950311/22 - Vulnérabilité critique dans ConnectWise Recover et R1Soft Server Backup Manager](https://www.dgssi.gov.ma//fr/content/3895031122-vulnerabilite-critique-dans-connectwise-recover-et-r1soft-server-backup-manager.html)|ConnectWise a publié des mises à jour de sécurité pour corriger une vulnérabilité critique d'exécution de code à distance (RCE) (CVE-2022-36537) affectant le framework ZK utilisé dans les solutions de sauvegarde sécurisée ConnectWise...|02 novembre 2022|
  |[38940111/22 - Vulnérabilités dans PHP](https://www.dgssi.gov.ma//fr/content/3894011122-vulnerabilites-dans-php.html)|Deux vulnérabilités ont été corrigées dans les versions de PHP susmentionnées. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la confidentialité des données.|01 novembre 2022|
- |[38933110/22 - Publication d'un exploit pour la vulnérabilité critique affectant VMware Cloud Fo](https://www.dgssi.gov.ma//fr/content/3893311022-publication-d-un-exploit-pour-la-vulnerabilite-critique-affectant-vmware-cloud-foundation.html)|VMware confirme la disponibilité d’un exploit de la vulnérabilité critique « CVE-2021-39144 » permettant aux attaquants d'exécuter du code arbitraire à distance avec les privilèges « root » sur les appliances Cloud Foundation et NSX...|31 octobre 2022|
- |[38923110/22 - Vulnérabilité « Zero-Day »affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/3892311022-vulnerabilite-zero-day-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger unevulnérabilité « Zero-Day » activement exploitéeaffectant le navigateur Google Chrome. L’exploitation de cette vulnérabilité peut permettre àun attaquant d’...|31 octobre 2022|
- |[38912810/22 - Vulnérabilités dans les produits IBM](https://www.dgssi.gov.ma//fr/content/3891281022-vulnerabilites-dans-les-produits-ibm.html)|Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance et de causer undéni de service.|28 octobre 2022|
  
  ---
 
@@ -93,14 +93,14 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Emlog Pro store.php cross site scripting](https://vuldb.com/?id.212942)|Visit link for details|2022-11-04 at 07:32|
- |[OpenHarmony appspawn/nwebspawn path traversal](https://vuldb.com/?id.212941)|Visit link for details|2022-11-04 at 07:29|
- |[Markdownify Markdown File unknown vulnerability](https://vuldb.com/?id.212940)|Visit link for details|2022-11-04 at 07:27|
- |[Zettlr Markdown File unknown vulnerability](https://vuldb.com/?id.212939)|Visit link for details|2022-11-04 at 07:26|
- |[Avaya Scopia Pathfinder 10/Scopia Pathfinder 20 PTS Login Page access control](https://vuldb.com/?id.212938)|Visit link for details|2022-11-04 at 07:25|
- |[MKCMS repass.php sql injection](https://vuldb.com/?id.212937)|Visit link for details|2022-11-04 at 07:24|
- |[MKCMS active.php sql injection](https://vuldb.com/?id.212936)|Visit link for details|2022-11-04 at 07:23|
- |[MKCMS reg.php sql injection](https://vuldb.com/?id.212935)|Visit link for details|2022-11-04 at 07:23|
- |[OpenHarmony distributedhardware_device_manager null pointer dereference](https://vuldb.com/?id.212934)|Visit link for details|2022-11-04 at 07:21|
- |[deep-parse-json Object Privilege Escalation](https://vuldb.com/?id.212933)|Visit link for details|2022-11-04 at 07:21|
+ |[D-Link DIR-1935 SetWebFilterSetting command injection](https://vuldb.com/?id.212989)|Visit link for details|2022-11-04 at 19:21|
+ |[D-Link DIR-1935 ConfigFileUpload format string](https://vuldb.com/?id.212988)|Visit link for details|2022-11-04 at 19:21|
+ |[Zoho ManageEngine ServiceDesk Plus exportMickeyList input validation](https://vuldb.com/?id.212987)|Visit link for details|2022-11-04 at 19:17|
+ |[D-Link DIR-1935 HNAP improper authentication](https://vuldb.com/?id.212986)|Visit link for details|2022-11-04 at 19:16|
+ |[D-Link DIR-1935 HNAP improper authentication](https://vuldb.com/?id.212985)|Visit link for details|2022-11-04 at 19:15|
+ |[D-Link DIR-1935 stack-based overflow](https://vuldb.com/?id.212984)|Visit link for details|2022-11-04 at 19:14|
+ |[Apache Commons BCEL API out-of-bounds](https://vuldb.com/?id.212983)|Visit link for details|2022-11-04 at 19:13|
+ |[D-Link DIR-1935 SetStaticRouteIPv4Settings stack-based overflow](https://vuldb.com/?id.212982)|Visit link for details|2022-11-04 at 18:13|
+ |[D-Link DIR-1935 SetStaticRouteIPv6Settings command injection](https://vuldb.com/?id.212981)|Visit link for details|2022-11-04 at 18:12|
+ |[D-Link DIR-1935 SetStaticRouteIPv4Settings command injection](https://vuldb.com/?id.212980)|Visit link for details|2022-11-04 at 18:12|
  
