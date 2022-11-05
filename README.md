@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 04/11/2022 21:11:52 UTC
+ > Last Updated 05/11/2022 09:12:44 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -93,14 +93,14 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[D-Link DIR-1935 SetWebFilterSetting command injection](https://vuldb.com/?id.212989)|Visit link for details|2022-11-04 at 19:21|
- |[D-Link DIR-1935 ConfigFileUpload format string](https://vuldb.com/?id.212988)|Visit link for details|2022-11-04 at 19:21|
- |[Zoho ManageEngine ServiceDesk Plus exportMickeyList input validation](https://vuldb.com/?id.212987)|Visit link for details|2022-11-04 at 19:17|
- |[D-Link DIR-1935 HNAP improper authentication](https://vuldb.com/?id.212986)|Visit link for details|2022-11-04 at 19:16|
- |[D-Link DIR-1935 HNAP improper authentication](https://vuldb.com/?id.212985)|Visit link for details|2022-11-04 at 19:15|
- |[D-Link DIR-1935 stack-based overflow](https://vuldb.com/?id.212984)|Visit link for details|2022-11-04 at 19:14|
- |[Apache Commons BCEL API out-of-bounds](https://vuldb.com/?id.212983)|Visit link for details|2022-11-04 at 19:13|
- |[D-Link DIR-1935 SetStaticRouteIPv4Settings stack-based overflow](https://vuldb.com/?id.212982)|Visit link for details|2022-11-04 at 18:13|
- |[D-Link DIR-1935 SetStaticRouteIPv6Settings command injection](https://vuldb.com/?id.212981)|Visit link for details|2022-11-04 at 18:12|
- |[D-Link DIR-1935 SetStaticRouteIPv4Settings command injection](https://vuldb.com/?id.212980)|Visit link for details|2022-11-04 at 18:12|
+ |[SourceCodester Sanitization Management System sql injection](https://vuldb.com/?id.213012)|Visit link for details|2022-11-05 at 09:51|
+ |[jhead exif.c Put16u buffer overflow](https://vuldb.com/?id.213011)|Visit link for details|2022-11-05 at 09:47|
+ |[Saibamen HotelManager Contact Field Kernel.php cross site scripting](https://vuldb.com/?id.213010)|Visit link for details|2022-11-05 at 09:45|
+ |[Splunk Enterprise Data Model cross site scripting](https://vuldb.com/?id.213009)|Visit link for details|2022-11-05 at 09:43|
+ |[HCL XPages cross-site request forgery](https://vuldb.com/?id.213008)|Visit link for details|2022-11-05 at 09:43|
+ |[Blobster Foundry Blobster Service cross site scripting](https://vuldb.com/?id.213007)|Visit link for details|2022-11-05 at 09:41|
+ |[diplib double free](https://vuldb.com/?id.213006)|Visit link for details|2022-11-05 at 09:40|
+ |[Splunk Splunk Enterprise XML xml external entity reference](https://vuldb.com/?id.213005)|Visit link for details|2022-11-05 at 09:33|
+ |[Splunk Enterprise JSON cross site scripting](https://vuldb.com/?id.213004)|Visit link for details|2022-11-05 at 09:32|
+ |[OSIsoft Foundry Magritte Plugin Authentication Request log file](https://vuldb.com/?id.213003)|Visit link for details|2022-11-05 at 09:32|
  
