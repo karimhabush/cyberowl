@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 05/11/2022 21:11:32 UTC
+ > Last Updated 06/11/2022 09:13:38 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -71,23 +71,6 @@
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[froxlor code injection](https://vuldb.com/?id.213013)|Visit link for details|2022-11-05 at 17:50|
- |[SourceCodester Sanitization Management System sql injection](https://vuldb.com/?id.213012)|Visit link for details|2022-11-05 at 09:51|
- |[jhead exif.c Put16u buffer overflow](https://vuldb.com/?id.213011)|Visit link for details|2022-11-05 at 09:47|
- |[Saibamen HotelManager Contact Field Kernel.php cross site scripting](https://vuldb.com/?id.213010)|Visit link for details|2022-11-05 at 09:45|
- |[Splunk Enterprise Data Model cross site scripting](https://vuldb.com/?id.213009)|Visit link for details|2022-11-05 at 09:43|
- |[HCL XPages cross-site request forgery](https://vuldb.com/?id.213008)|Visit link for details|2022-11-05 at 09:43|
- |[Blobster Foundry Blobster Service cross site scripting](https://vuldb.com/?id.213007)|Visit link for details|2022-11-05 at 09:41|
- |[diplib double free](https://vuldb.com/?id.213006)|Visit link for details|2022-11-05 at 09:40|
- |[Splunk Splunk Enterprise XML xml external entity reference](https://vuldb.com/?id.213005)|Visit link for details|2022-11-05 at 09:33|
- |[Splunk Enterprise JSON cross site scripting](https://vuldb.com/?id.213004)|Visit link for details|2022-11-05 at 09:32|
- 
- ---
-
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -103,4 +86,21 @@
  |[38950211/22 - Vulnérabilités dans OpenSSL](https://www.dgssi.gov.ma//fr/content/3895021122-vulnerabilites-dans-openssl.html)|OpenSSL a publié un avis de sécurité pour corriger deux vulnérabilités critiques « CVE-2022-3602 et CVE-2022-3786 », affectant les versions OpenSSL 3.0.0 à 3.0.6. Les deux vulnérabilités peuvent provoquer un déni de service lors de la...|02 novembre 2022|
  |[38950311/22 - Vulnérabilité critique dans ConnectWise Recover et R1Soft Server Backup Manager](https://www.dgssi.gov.ma//fr/content/3895031122-vulnerabilite-critique-dans-connectwise-recover-et-r1soft-server-backup-manager.html)|ConnectWise a publié des mises à jour de sécurité pour corriger une vulnérabilité critique d'exécution de code à distance (RCE) (CVE-2022-36537) affectant le framework ZK utilisé dans les solutions de sauvegarde sécurisée ConnectWise...|02 novembre 2022|
  |[38940111/22 - Vulnérabilités dans PHP](https://www.dgssi.gov.ma//fr/content/3894011122-vulnerabilites-dans-php.html)|Deux vulnérabilités ont été corrigées dans les versions de PHP susmentionnées. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la confidentialité des données.|01 novembre 2022|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[froxlor code injection](https://vuldb.com/?id.213013)|Visit link for details|2022-11-06 at 17:50|
+ |[SourceCodester Sanitization Management System sql injection](https://vuldb.com/?id.213012)|Visit link for details|2022-11-06 at 09:51|
+ |[jhead exif.c Put16u buffer overflow](https://vuldb.com/?id.213011)|Visit link for details|2022-11-06 at 09:47|
+ |[Saibamen HotelManager Contact Field Kernel.php cross site scripting](https://vuldb.com/?id.213010)|Visit link for details|2022-11-06 at 09:45|
+ |[Splunk Enterprise Data Model cross site scripting](https://vuldb.com/?id.213009)|Visit link for details|2022-11-06 at 09:43|
+ |[HCL XPages cross-site request forgery](https://vuldb.com/?id.213008)|Visit link for details|2022-11-06 at 09:43|
+ |[Blobster Foundry Blobster Service cross site scripting](https://vuldb.com/?id.213007)|Visit link for details|2022-11-06 at 09:41|
+ |[diplib double free](https://vuldb.com/?id.213006)|Visit link for details|2022-11-06 at 09:40|
+ |[Splunk Splunk Enterprise XML xml external entity reference](https://vuldb.com/?id.213005)|Visit link for details|2022-11-06 at 09:33|
+ |[Splunk Enterprise JSON cross site scripting](https://vuldb.com/?id.213004)|Visit link for details|2022-11-06 at 09:32|
  
