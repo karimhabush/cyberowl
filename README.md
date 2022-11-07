@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 06/11/2022 21:10:57 UTC
+ > Last Updated 07/11/2022 09:13:20 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,6 +57,10 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-NFSD-39845" class="noirorange"><b>Linux kernel</b>: buffer overflow via NFSD</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-NFSD-39845)|An attacker can trigger a buffer overflow of the Linux kernel, via NFSD, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HCL-Domino-file-reading-via-Ignored-XACL-39844" class="noirorange"><b>HCL Domino</b>: file reading via Ignored XACL</a>](https://vigilance.fr/vulnerability/HCL-Domino-file-reading-via-Ignored-XACL-39844)|An attacker can read a file of HCL Domino, via Ignored XACL, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MIT-krb5-vulnerabity-unveiled-on-15-11-2022-39841" class="noirorange"><b>MIT krb5</b>: vulnerabity unveiled on 15/11/2022</a>](https://vigilance.fr/vulnerability/MIT-krb5-vulnerabity-unveiled-on-15-11-2022-39841)|A vulnerability of MIT krb5 will be unveiled on 15/11/2022...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/cmark-gfm-overload-via-Autolink-Extension-39840" class="noirorange"><b>cmark-gfm</b>: overload via Autolink Extension</a>](https://vigilance.fr/vulnerability/cmark-gfm-overload-via-Autolink-Extension-39840)|An attacker can trigger an overload of cmark-gfm, via Autolink Extension, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Mozilla-NSS-NULL-pointer-dereference-via-NSS-GetClientAuthData-39839" class="noirorange"><b>Mozilla NSS</b>: NULL pointer dereference via <wbr>NSS_GetClientAuthDat<wbr>a()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Mozilla-NSS-NULL-pointer-dereference-via-NSS-GetClientAuthData-39839)|An attacker can force a NULL pointer to be dereferenced on Mozilla NSS, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Clickhouse-buffer-overflow-via-wildCopy2-LZ4-decompressImpl-39838" class="noirorange"><b>Clickhouse</b>: buffer overflow via wildCopy2 <wbr>LZ4::decompressImpl(<wbr>)</wbr></wbr></a>](https://vigilance.fr/vulnerability/Clickhouse-buffer-overflow-via-wildCopy2-LZ4-decompressImpl-39838)|An attacker can trigger a buffer overflow of Clickhouse, via wildCopy2 |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Clickhouse-buffer-overflow-via-wildCopy1-LZ4-decompressImpl-39837" class="noirorange"><b>Clickhouse</b>: buffer overflow via wildCopy1 <wbr>LZ4::decompressImpl(<wbr>)</wbr></wbr></a>](https://vigilance.fr/vulnerability/Clickhouse-buffer-overflow-via-wildCopy1-LZ4-decompressImpl-39837)|An attacker can trigger a buffer overflow of Clickhouse, via wildCopy1 |Visit link for details|
@@ -64,10 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Clickhouse-out-of-bounds-memory-reading-via-LZ4-Compression-Codec-39835" class="noirorange"><b>Clickhouse</b>: out-of-bounds memory reading via LZ4 Compression Codec</a>](https://vigilance.fr/vulnerability/Clickhouse-out-of-bounds-memory-reading-via-LZ4-Compression-Codec-39835)|An attacker can force a read at an invalid memory address of Clickhouse, via LZ4 Compression Codec, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Sudo-buffer-overflow-via-LZ4-Compression-Codec-Upper-39834" class="noirorange"><b>Sudo</b>: buffer overflow via LZ4 Compression Codec Upper</a>](https://vigilance.fr/vulnerability/Sudo-buffer-overflow-via-LZ4-Compression-Codec-Upper-39834)|An attacker can trigger a buffer overflow of Sudo, via LZ4 Compression Codec Upper, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Webmin-Cross-Site-Scripting-via-xterm-index-cgi-39833" class="noirorange"><b>Webmin</b>: Cross Site Scripting via xterm/index.cgi</a>](https://vigilance.fr/vulnerability/Webmin-Cross-Site-Scripting-via-xterm-index-cgi-39833)|An attacker can trigger a Cross Site Scripting of Webmin, via xterm/index.cgi, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiOS-FortiClient-ingress-filtrering-bypass-via-AV-Engine-39832" class="noirorange"><b>Fortinet FortiOS  FortiClient</b>: ingress filtrering bypass via AV Engine</a>](https://vigilance.fr/vulnerability/Fortinet-FortiOS-FortiClient-ingress-filtrering-bypass-via-AV-Engine-39832)|An attacker can bypass filtering rules of Fortinet FortiOS  FortiClient, via AV Engine, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Dogtag-PKI-external-XML-entity-injection-39831" class="noirorange"><b>Dogtag PKI</b>: external XML entity injection</a>](https://vigilance.fr/vulnerability/Dogtag-PKI-external-XML-entity-injection-39831)|An attacker can transmit malicious XML data to Dogtag PKI, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-denial-of-service-via-Indexing-Blockage-39830" class="noirorange"><b>Splunk Enterprise</b>: denial of service via Indexing Blockage</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-denial-of-service-via-Indexing-Blockage-39830)|An attacker can cause a fatal error of Splunk Enterprise, via Indexing Blockage, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-code-execution-via-Dashboard-PDF-Generation-39829" class="noirorange"><b>Splunk Enterprise</b>: code execution via Dashboard PDF Generation</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-code-execution-via-Dashboard-PDF-Generation-39829)|An attacker can use a vulnerability of Splunk Enterprise, via Dashboard PDF Generation, in order to run code...|Visit link for details|
  
  ---
 
@@ -93,14 +93,4 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[froxlor code injection](https://vuldb.com/?id.213013)|Visit link for details|2022-11-06 at 17:50|
- |[SourceCodester Sanitization Management System sql injection](https://vuldb.com/?id.213012)|Visit link for details|2022-11-06 at 09:51|
- |[jhead exif.c Put16u buffer overflow](https://vuldb.com/?id.213011)|Visit link for details|2022-11-06 at 09:47|
- |[Saibamen HotelManager Contact Field Kernel.php cross site scripting](https://vuldb.com/?id.213010)|Visit link for details|2022-11-06 at 09:45|
- |[Splunk Enterprise Data Model cross site scripting](https://vuldb.com/?id.213009)|Visit link for details|2022-11-06 at 09:43|
- |[HCL XPages cross-site request forgery](https://vuldb.com/?id.213008)|Visit link for details|2022-11-06 at 09:43|
- |[Blobster Foundry Blobster Service cross site scripting](https://vuldb.com/?id.213007)|Visit link for details|2022-11-06 at 09:41|
- |[diplib double free](https://vuldb.com/?id.213006)|Visit link for details|2022-11-06 at 09:40|
- |[Splunk Splunk Enterprise XML xml external entity reference](https://vuldb.com/?id.213005)|Visit link for details|2022-11-06 at 09:33|
- |[Splunk Enterprise JSON cross site scripting](https://vuldb.com/?id.213004)|Visit link for details|2022-11-06 at 09:32|
  
