@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 07/11/2022 09:13:20 UTC
+ > Last Updated 08/11/2022 09:13:00 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -23,6 +23,23 @@
  > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
  ---
 
+## CERT-FR [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Vulnérabilité dans Python 3](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-996/)|Une vulnérabilité a été découverte dans Python 3. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 7 novembre 2022|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-995/)|De multiples vulnérabilités ont été corrigées dans |Publié le 4 novembre 2022|
+ |[Multiples vulnérabilités dans VMware Spring](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-994/)|De multiples vulnérabilités ont été découvertes dans VMware Spring. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 4 novembre 2022|
+ |[Multiples vulnérabilités dans Tenable Nessus](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-993/)|De multiples vulnérabilités ont été découvertes dans Tenable Nessus. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 4 novembre 2022|
+ |[Multiples vulnérabilités dans PHP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-992/)|De multiples vulnérabilités ont été découvertes dans PHP. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 4 novembre 2022|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-991/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de RedHat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 3 novembre 2022|
+ |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-990/)|De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 3 novembre 2022|
+ |[Multiples vulnérabilités dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-989/)|De multiples vulnérabilités ont été découvertes dans les produits Tenable. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 3 novembre 2022|
+ |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-988/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 3 novembre 2022|
+ |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-987/)|De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 3 novembre 2022|
+ 
+ ---
+
 ## US-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -36,38 +53,38 @@
  
  ---
 
-## CERT-FR [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-995/)|De multiples vulnérabilités ont été corrigées dans |Publié le 4 novembre 2022|
- |[Multiples vulnérabilités dans VMware Spring](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-994/)|De multiples vulnérabilités ont été découvertes dans VMware Spring. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 4 novembre 2022|
- |[Multiples vulnérabilités dans Tenable Nessus](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-993/)|De multiples vulnérabilités ont été découvertes dans Tenable Nessus. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 4 novembre 2022|
- |[Multiples vulnérabilités dans PHP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-992/)|De multiples vulnérabilités ont été découvertes dans PHP. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 4 novembre 2022|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-991/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de RedHat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 3 novembre 2022|
- |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-990/)|De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 3 novembre 2022|
- |[Multiples vulnérabilités dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-989/)|De multiples vulnérabilités ont été découvertes dans les produits Tenable. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 3 novembre 2022|
- |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-988/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 3 novembre 2022|
- |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-987/)|De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 3 novembre 2022|
- |[Multiples vulnérabilités dans Splunk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-986/)|De multiples vulnérabilités ont été découvertes dans Splunk. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 3 novembre 2022|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/GNU-Binutils-buffer-overflow-via-strip-bfd-getl32-39853" class="noirorange"><b>GNU Binutils</b>: buffer overflow via strip bfd_getl32()</a>](https://vigilance.fr/vulnerability/GNU-Binutils-buffer-overflow-via-strip-bfd-getl32-39853)|An attacker can trigger a buffer overflow of GNU Binutils, via strip bfd_getl32(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Exiv2-buffer-overflow-via-Databuf-39852" class="noirorange"><b>Exiv2</b>: buffer overflow via Databuf()</a>](https://vigilance.fr/vulnerability/Exiv2-buffer-overflow-via-Databuf-39852)|An attacker can trigger a buffer overflow of Exiv2, via Databuf(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Exiv2-out-of-bounds-memory-reading-via-JPEG2000-39851" class="noirorange"><b>Exiv2</b>: out-of-bounds memory reading via JPEG2000</a>](https://vigilance.fr/vulnerability/Exiv2-out-of-bounds-memory-reading-via-JPEG2000-39851)|An attacker can force a read at an invalid memory address of Exiv2, via JPEG2000, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-November-2022-39850" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of November 2022</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-November-2022-39850)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Pixman-buffer-overflow-via-rasterize-edges-8-39849" class="noirorange"><b>Pixman</b>: buffer overflow via rasterize_edges_8()</a>](https://vigilance.fr/vulnerability/Pixman-buffer-overflow-via-rasterize-edges-8-39849)|An attacker can trigger a buffer overflow of Pixman, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/python-scciclient-Man-in-the-Middle-39848" class="noirorange"><b>python-scciclient</b>: Man-in-the-Middle</a>](https://vigilance.fr/vulnerability/python-scciclient-Man-in-the-Middle-39848)|An attacker can act as a Man-in-the-Middle on python-scciclient, in order to read or write data in the session...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Net-SNMP-NULL-pointer-dereference-via-handle-ipv6IpForwarding-39847" class="noirorange"><b>Net-SNMP</b>: NULL pointer dereference via <wbr>handle_ipv6IpForward<wbr>ing()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Net-SNMP-NULL-pointer-dereference-via-handle-ipv6IpForwarding-39847)|An attacker can force a NULL pointer to be dereferenced on Net-SNMP, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Net-SNMP-NULL-pointer-dereference-via-handle-ipDefaultTTL-39846" class="noirorange"><b>Net-SNMP</b>: NULL pointer dereference via <wbr>handle_ipDefaultTTL(<wbr>)</wbr></wbr></a>](https://vigilance.fr/vulnerability/Net-SNMP-NULL-pointer-dereference-via-handle-ipDefaultTTL-39846)|An attacker can force a NULL pointer to be dereferenced on Net-SNMP, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-NFSD-39845" class="noirorange"><b>Linux kernel</b>: buffer overflow via NFSD</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-NFSD-39845)|An attacker can trigger a buffer overflow of the Linux kernel, via NFSD, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/HCL-Domino-file-reading-via-Ignored-XACL-39844" class="noirorange"><b>HCL Domino</b>: file reading via Ignored XACL</a>](https://vigilance.fr/vulnerability/HCL-Domino-file-reading-via-Ignored-XACL-39844)|An attacker can read a file of HCL Domino, via Ignored XACL, in order to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/MIT-krb5-vulnerabity-unveiled-on-15-11-2022-39841" class="noirorange"><b>MIT krb5</b>: vulnerabity unveiled on 15/11/2022</a>](https://vigilance.fr/vulnerability/MIT-krb5-vulnerabity-unveiled-on-15-11-2022-39841)|A vulnerability of MIT krb5 will be unveiled on 15/11/2022...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/cmark-gfm-overload-via-Autolink-Extension-39840" class="noirorange"><b>cmark-gfm</b>: overload via Autolink Extension</a>](https://vigilance.fr/vulnerability/cmark-gfm-overload-via-Autolink-Extension-39840)|An attacker can trigger an overload of cmark-gfm, via Autolink Extension, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mozilla-NSS-NULL-pointer-dereference-via-NSS-GetClientAuthData-39839" class="noirorange"><b>Mozilla NSS</b>: NULL pointer dereference via <wbr>NSS_GetClientAuthDat<wbr>a()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Mozilla-NSS-NULL-pointer-dereference-via-NSS-GetClientAuthData-39839)|An attacker can force a NULL pointer to be dereferenced on Mozilla NSS, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Clickhouse-buffer-overflow-via-wildCopy2-LZ4-decompressImpl-39838" class="noirorange"><b>Clickhouse</b>: buffer overflow via wildCopy2 <wbr>LZ4::decompressImpl(<wbr>)</wbr></wbr></a>](https://vigilance.fr/vulnerability/Clickhouse-buffer-overflow-via-wildCopy2-LZ4-decompressImpl-39838)|An attacker can trigger a buffer overflow of Clickhouse, via wildCopy2 |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Clickhouse-buffer-overflow-via-wildCopy1-LZ4-decompressImpl-39837" class="noirorange"><b>Clickhouse</b>: buffer overflow via wildCopy1 <wbr>LZ4::decompressImpl(<wbr>)</wbr></wbr></a>](https://vigilance.fr/vulnerability/Clickhouse-buffer-overflow-via-wildCopy1-LZ4-decompressImpl-39837)|An attacker can trigger a buffer overflow of Clickhouse, via wildCopy1 |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Clickhouse-out-of-bounds-memory-reading-via-LZ4-Compression-Codec-Lower-39836" class="noirorange"><b>Clickhouse</b>: out-of-bounds memory reading via LZ4 Compression Codec Lower</a>](https://vigilance.fr/vulnerability/Clickhouse-out-of-bounds-memory-reading-via-LZ4-Compression-Codec-Lower-39836)|An attacker can force a read at an invalid memory address of Clickhouse, via LZ4 Compression Codec Lower, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Clickhouse-out-of-bounds-memory-reading-via-LZ4-Compression-Codec-39835" class="noirorange"><b>Clickhouse</b>: out-of-bounds memory reading via LZ4 Compression Codec</a>](https://vigilance.fr/vulnerability/Clickhouse-out-of-bounds-memory-reading-via-LZ4-Compression-Codec-39835)|An attacker can force a read at an invalid memory address of Clickhouse, via LZ4 Compression Codec, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Sudo-buffer-overflow-via-LZ4-Compression-Codec-Upper-39834" class="noirorange"><b>Sudo</b>: buffer overflow via LZ4 Compression Codec Upper</a>](https://vigilance.fr/vulnerability/Sudo-buffer-overflow-via-LZ4-Compression-Codec-Upper-39834)|An attacker can trigger a buffer overflow of Sudo, via LZ4 Compression Codec Upper, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Webmin-Cross-Site-Scripting-via-xterm-index-cgi-39833" class="noirorange"><b>Webmin</b>: Cross Site Scripting via xterm/index.cgi</a>](https://vigilance.fr/vulnerability/Webmin-Cross-Site-Scripting-via-xterm-index-cgi-39833)|An attacker can trigger a Cross Site Scripting of Webmin, via xterm/index.cgi, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[EyesOfNetwork Web Interface main.php cross site scripting](https://vuldb.com/?id.213082)|Visit link for details|2022-11-08 at 10:06|
+ |[EyesOfNetwork Web Interface add_application.php cross site scripting](https://vuldb.com/?id.213081)|Visit link for details|2022-11-08 at 10:05|
+ |[EyesOfNetwork Web Interface index.php cross site scripting](https://vuldb.com/?id.213080)|Visit link for details|2022-11-08 at 10:04|
+ |[Netwrix Auditor User Activity Video Recording Remote Code Execution](https://vuldb.com/?id.213079)|Visit link for details|2022-11-08 at 09:59|
+ |[Acronis Cyber Protect Home Office Soft Link external reference](https://vuldb.com/?id.213078)|Visit link for details|2022-11-08 at 07:06|
+ |[Acronis Cyber Protect Home Office DLL uncontrolled search path](https://vuldb.com/?id.213077)|Visit link for details|2022-11-08 at 07:06|
+ |[Acronis Cyber Protect Home Office Permissions privileges management](https://vuldb.com/?id.213076)|Visit link for details|2022-11-08 at 07:05|
+ |[Acronis Cyber Protect Home Office Permissions privileges management](https://vuldb.com/?id.213075)|Visit link for details|2022-11-08 at 07:05|
+ |[fastify websocket Packet uncaught exception](https://vuldb.com/?id.213074)|Visit link for details|2022-11-08 at 06:47|
+ |[Acronis Cyber Protect Home Office log file](https://vuldb.com/?id.213073)|Visit link for details|2022-11-08 at 06:46|
  
  ---
 
@@ -75,6 +92,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[39050711/22 - Vulnérabilités dans PHP](https://www.dgssi.gov.ma//fr/content/3905071122-vulnerabilites-dans-php.html)|Deux vulnérabilités ont été corrigées dans les versions de PHP susmentionnées. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité et de porter atteinte à la confidentialité des données.|07 novembre 2022|
  |[39040411/22 - Vulnérabilités dans Apple Xcode](https://www.dgssi.gov.ma//fr/content/3904041122-vulnerabilites-dans-apple-xcode.html)|Apple annonce la correction de plusieurs vulnérabilités dans son IDE Xcode. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire, de réussir une élévation de privilèges ou de porter atteinte à la...|04 novembre 2022|
  |[39020411/22 - Vulnérabilités affectant plusieursproduits deCisco](https://www.dgssi.gov.ma//fr/content/3902041122-vulnerabilites-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’exécuter du code arbitraire, d’accéder...|04 novembre 2022|
  |[39030311/22 - Vulnérabilités critiques dans les produits Splunk](https://www.dgssi.gov.ma//fr/content/3903031122-vulnerabilites-critiques-dans-les-produits-splunk.html)|Splunk a publié une mise à jour de sécurité corrigeant plusieurs vulnérabilités critiques dans les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire, de contourner la...|04 novembre 2022|
@@ -85,12 +103,4 @@
  |[38960211/22 - Vulnérabilités dans Citrix Hypervisor](https://www.dgssi.gov.ma//fr/content/3896021122-vulnerabilites-dans-citrix-hypervisor.html)|Citrixannonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités affectant les versions de Citrix Hypervisor susmentionnées. L’exploitation de ces failles peut permettre à un attaquant de...|02 novembre 2022|
  |[38950211/22 - Vulnérabilités dans OpenSSL](https://www.dgssi.gov.ma//fr/content/3895021122-vulnerabilites-dans-openssl.html)|OpenSSL a publié un avis de sécurité pour corriger deux vulnérabilités critiques « CVE-2022-3602 et CVE-2022-3786 », affectant les versions OpenSSL 3.0.0 à 3.0.6. Les deux vulnérabilités peuvent provoquer un déni de service lors de la...|02 novembre 2022|
  |[38950311/22 - Vulnérabilité critique dans ConnectWise Recover et R1Soft Server Backup Manager](https://www.dgssi.gov.ma//fr/content/3895031122-vulnerabilite-critique-dans-connectwise-recover-et-r1soft-server-backup-manager.html)|ConnectWise a publié des mises à jour de sécurité pour corriger une vulnérabilité critique d'exécution de code à distance (RCE) (CVE-2022-36537) affectant le framework ZK utilisé dans les solutions de sauvegarde sécurisée ConnectWise...|02 novembre 2022|
- |[38940111/22 - Vulnérabilités dans PHP](https://www.dgssi.gov.ma//fr/content/3894011122-vulnerabilites-dans-php.html)|Deux vulnérabilités ont été corrigées dans les versions de PHP susmentionnées. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la confidentialité des données.|01 novembre 2022|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
