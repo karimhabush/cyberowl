@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 08/11/2022 21:11:46 UTC
+ > Last Updated 09/11/2022 09:12:41 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -27,47 +27,12 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA Adds Seven Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2022/11/08/cisa-adds-seven-known-exploited-vulnerabilities-catalog)|<p>CISA has added seven vulnerabilities to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: to view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.</p>|Tuesday, November 8, 2022|
  |[Cisco Releases Security Updates for Multiple Products](https://www.cisa.gov/uscert/ncas/current-activity/2022/11/03/cisco-releases-security-updates-multiple-products)|<p>Cisco has released security updates for vulnerabilities affecting multiple products. A remote attacker could exploit some of these vulnerabilities to take control of an affected system. For updates addressing lower severity vulnerabilities, see the <a href="https://tools.cisco.com/security/center/publicationListing.x">Cisco Security Advisories page</a>.</p>|Thursday, November 3, 2022|
  |[Apple Releases Security Update for Xcode](https://www.cisa.gov/uscert/ncas/current-activity/2022/11/03/apple-releases-security-update-xcode)|<p>Apple has released a security update to address vulnerabilities in Xcode. A remote attacker could exploit one of these vulnerabilities to take control of an affected system.</p>|Thursday, November 3, 2022|
  |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/uscert/ncas/current-activity/2022/11/03/cisa-releases-three-industrial-control-systems-advisories)|<p>CISA has released three (3) Industrial Control Systems (ICS) advisories on November 3, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p>|Thursday, November 3, 2022|
  |[OpenSSL Releases Security Update](https://www.cisa.gov/uscert/ncas/current-activity/2022/11/01/openssl-releases-security-update)|<p>OpenSSL has released a security advisory to address two vulnerabilities, CVE-2022-3602 and CVE-2022-3786, affecting OpenSSL versions 3.0.0 through 3.0.6.</p>|Tuesday, November 1, 2022|
  |[CISA Upgrades to TLP 2.0](https://www.cisa.gov/uscert/ncas/current-activity/2022/11/01/cisa-upgrades-tlp-20)|<p>Today, CISA officially upgraded to <a href="https://www.cisa.gov/tlp">Traffic Light Protocol (TLP) 2.0</a>, which facilitates greater information sharing and collaboration. CISA made this upgrade in accordance with <a href="https://www.first.org/newsroom/releases/20220805">the recommendation from the Forum of Incident Response and Security Teams to upgrade to TLP 2.0 by January 2023</a>.</p>|Tuesday, November 1, 2022|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/uscert/ncas/current-activity/2022/11/01/cisa-releases-one-industrial-control-systems-advisory)|<p>CISA released one Industrial Control Systems (ICS) advisory on November 1, 2022. This advisory provides timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p>|Tuesday, November 1, 2022|
- 
- ---
-
-## CERT-FR [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans Foxit PDF](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-999/)|De multiples vulnérabilités ont été découvertes dans Foxit PDF. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service et une atteinte à la confidentialité des données.|Publié le 8 novembre 2022|
- |[Multiples vulnérabilités dans Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-998/)|De multiples vulnérabilités ont été découvertes dans Android. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 8 novembre 2022|
- |[Multiples vulnérabilités dans IBM Tivoli](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-997/)|De multiples vulnérabilités ont été découvertes dans IBM Tivoli. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 8 novembre 2022|
- |[Vulnérabilité dans Python 3](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-996/)|Une vulnérabilité a été découverte dans Python 3. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 7 novembre 2022|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-995/)|De multiples vulnérabilités ont été corrigées dans |Publié le 4 novembre 2022|
- |[Multiples vulnérabilités dans VMware Spring](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-994/)|De multiples vulnérabilités ont été découvertes dans VMware Spring. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 4 novembre 2022|
- |[Multiples vulnérabilités dans Tenable Nessus](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-993/)|De multiples vulnérabilités ont été découvertes dans Tenable Nessus. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 4 novembre 2022|
- |[Multiples vulnérabilités dans PHP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-992/)|De multiples vulnérabilités ont été découvertes dans PHP. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 4 novembre 2022|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-991/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de RedHat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 3 novembre 2022|
- |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-990/)|De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 3 novembre 2022|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Grafana-privilege-escalation-via-Invitation-Link-39876" class="noirorange"><b>Grafana</b>: privilege escalation via Invitation Link</a>](https://vigilance.fr/vulnerability/Grafana-privilege-escalation-via-Invitation-Link-39876)|An attacker can bypass restrictions of Grafana, via Invitation Link, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Grafana-information-disclosure-via-Forget-Password-User-Enumeration-39875" class="noirorange"><b>Grafana</b>: information disclosure via Forget Password User Enumeration</a>](https://vigilance.fr/vulnerability/Grafana-information-disclosure-via-Forget-Password-User-Enumeration-39875)|An attacker can bypass access restrictions to data of Grafana, via Forget Password User Enumeration, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Grafana-information-disclosure-via-Query-Protected-Endpoints-39874" class="noirorange"><b>Grafana</b>: information disclosure via Query Protected Endpoints</a>](https://vigilance.fr/vulnerability/Grafana-information-disclosure-via-Query-Protected-Endpoints-39874)|An attacker can bypass access restrictions to data of Grafana, via Query Protected Endpoints, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-November-2022-39873" class="noirorange"><b>Windows</b>: vulnerabilities of November 2022</a>](https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-November-2022-39873)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Visual-Studio-code-execution-39872" class="noirorange"><b>Microsoft Visual Studio</b>: code execution</a>](https://vigilance.fr/vulnerability/Microsoft-Visual-Studio-code-execution-39872)|An attacker can use a vulnerability of Microsoft Visual Studio, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-November-2022-39871" class="noirorange"><b>Microsoft SharePoint</b>: vulnerabilities of November 2022</a>](https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-November-2022-39871)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-November-2022-39870" class="noirorange"><b>Microsoft Exchange Server</b>: vulnerabilities of November 2022</a>](https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-November-2022-39870)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-November-2022-39869" class="noirorange"><b>Microsoft 365 Apps  Office</b>: vulnerabilities of November 2022</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-November-2022-39869)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-NET-Framework-information-disclosure-39868" class="noirorange"><b>Microsoft .NET Framework</b>: information disclosure</a>](https://vigilance.fr/vulnerability/Microsoft-NET-Framework-information-disclosure-39868)|An attacker can bypass access restrictions to data of Microsoft .NET Framework, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/AMD-Processors-information-disclosure-via-IBPB-RET-Predictions-39867" class="noirorange"><b>AMD Processors</b>: information disclosure via IBPB RET Predictions</a>](https://vigilance.fr/vulnerability/AMD-Processors-information-disclosure-via-IBPB-RET-Predictions-39867)|An attacker can bypass access restrictions to data of AMD Processors, via IBPB RET Predictions, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-five-vulnerabilities-39866" class="noirorange"><b>WebKitGTK WPE WebKit</b>: five vulnerabilities</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-five-vulnerabilities-39866)|An attacker can use several vulnerabilities of WebKitGTK WPE WebKit...|Visit link for details|
  
  ---
 
@@ -89,18 +54,53 @@
  
  ---
 
+## CERT-FR [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans Foxit PDF](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-999/)|De multiples vulnérabilités ont été découvertes dans Foxit PDF. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service et une atteinte à la confidentialité des données.|Publié le 8 novembre 2022|
+ |[Multiples vulnérabilités dans Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-998/)|De multiples vulnérabilités ont été découvertes dans Android. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 8 novembre 2022|
+ |[Multiples vulnérabilités dans IBM Tivoli](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-997/)|De multiples vulnérabilités ont été découvertes dans IBM Tivoli. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 8 novembre 2022|
+ |[Vulnérabilité dans Python 3](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-996/)|Une vulnérabilité a été découverte dans Python 3. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 7 novembre 2022|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-995/)|De multiples vulnérabilités ont été corrigées dans |Publié le 4 novembre 2022|
+ |[Multiples vulnérabilités dans VMware Spring](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-994/)|De multiples vulnérabilités ont été découvertes dans VMware Spring. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 4 novembre 2022|
+ |[Multiples vulnérabilités dans Tenable Nessus](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-993/)|De multiples vulnérabilités ont été découvertes dans Tenable Nessus. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 4 novembre 2022|
+ |[Multiples vulnérabilités dans PHP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-992/)|De multiples vulnérabilités ont été découvertes dans PHP. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 4 novembre 2022|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-991/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de RedHat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 3 novembre 2022|
+ |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-990/)|De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 3 novembre 2022|
+ 
+ ---
+
 ## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[Perfex CRM profile cross site scripting](https://vuldb.com/?id.213182)|Visit link for details|2022-11-08 at 21:31|
- |[Huawei EMUI/Magic UI DRM denial of service](https://vuldb.com/?id.213181)|Visit link for details|2022-11-08 at 21:29|
- |[ZTE ZAIP-AIE Request sql injection](https://vuldb.com/?id.213180)|Visit link for details|2022-11-08 at 21:29|
- |[Microsoft Windows CNG Key Isolation Service Privilege Escalation](https://vuldb.com/?id.213179)|Visit link for details|2022-11-08 at 21:09|
- |[Microsoft SharePoint Server information disclosure](https://vuldb.com/?id.213178)|Visit link for details|2022-11-08 at 21:08|
- |[Microsoft Windows Sysmon Privilege Escalation](https://vuldb.com/?id.213177)|Visit link for details|2022-11-08 at 21:07|
- |[Microsoft Visual Studio Remote Code Execution](https://vuldb.com/?id.213176)|Visit link for details|2022-11-08 at 21:06|
- |[Microsoft Windows Scripting Language Remote Code Execution](https://vuldb.com/?id.213175)|Visit link for details|2022-11-08 at 21:06|
- |[Microsoft Windows GDI+ information disclosure](https://vuldb.com/?id.213174)|Visit link for details|2022-11-08 at 21:05|
- |[Microsoft Windows Advanced Local Procedure Call Privilege Escalation](https://vuldb.com/?id.213173)|Visit link for details|2022-11-08 at 21:04|
+ |[SAP GUI os command injection](https://vuldb.com/?id.213217)|Visit link for details|2022-11-09 at 09:07|
+ |[Google Android BaseBundle.java initializeFromParcelLocked initialization](https://vuldb.com/?id.213216)|Visit link for details|2022-11-09 at 09:06|
+ |[Activity Log Plugin csv injection](https://vuldb.com/?id.213215)|Visit link for details|2022-11-09 at 09:06|
+ |[Mitsubishi Electric Air Conditioning cross site scripting](https://vuldb.com/?id.213214)|Visit link for details|2022-11-09 at 08:34|
+ |[Octocat.js URL cross site scripting](https://vuldb.com/?id.213213)|Visit link for details|2022-11-09 at 08:19|
+ |[Grafana race condition](https://vuldb.com/?id.213212)|Visit link for details|2022-11-09 at 08:13|
+ |[SAP SQL Anywhere ARRAY Constructor denial of service](https://vuldb.com/?id.213211)|Visit link for details|2022-11-09 at 08:12|
+ |[Systemd time-util.c format_timespan denial of service](https://vuldb.com/?id.213210)|Visit link for details|2022-11-09 at 08:10|
+ |[NEC CLUSTERPRO X/EXPRESSCLUSTER X uncontrolled search path](https://vuldb.com/?id.213209)|Visit link for details|2022-11-09 at 08:09|
+ |[NEC CLUSTERPRO X/EXPRESSCLUSTER X permission](https://vuldb.com/?id.213208)|Visit link for details|2022-11-09 at 08:09|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Brocade-Fabric-OS-code-execution-via-EZServer-Module-39879" class="noirorange"><b>Brocade Fabric OS</b>: code execution via EZServer Module</a>](https://vigilance.fr/vulnerability/Brocade-Fabric-OS-code-execution-via-EZServer-Module-39879)|An attacker can use a vulnerability of Brocade Fabric OS, via EZServer Module, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Intel-Processors-two-vulnerabilities-via-BIOS-Firmware-39878" class="noirorange"><b>Intel Processors</b>: two vulnerabilities via BIOS Firmware</a>](https://vigilance.fr/vulnerability/Intel-Processors-two-vulnerabilities-via-BIOS-Firmware-39878)|An attacker can use several vulnerabilities of Intel Processors, via BIOS Firmware...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Intel-AMT-CSME-SPS-multiple-vulnerabilities-39877" class="noirorange"><b>Intel AMT  CSME  SPS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Intel-AMT-CSME-SPS-multiple-vulnerabilities-39877)|An attacker can use several vulnerabilities of Intel AMT  CSME  SPS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Grafana-privilege-escalation-via-Invitation-Link-39876" class="noirorange"><b>Grafana</b>: privilege escalation via Invitation Link</a>](https://vigilance.fr/vulnerability/Grafana-privilege-escalation-via-Invitation-Link-39876)|An attacker can bypass restrictions of Grafana, via Invitation Link, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Grafana-information-disclosure-via-Forget-Password-User-Enumeration-39875" class="noirorange"><b>Grafana</b>: information disclosure via Forget Password User Enumeration</a>](https://vigilance.fr/vulnerability/Grafana-information-disclosure-via-Forget-Password-User-Enumeration-39875)|An attacker can bypass access restrictions to data of Grafana, via Forget Password User Enumeration, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Grafana-information-disclosure-via-Query-Protected-Endpoints-39874" class="noirorange"><b>Grafana</b>: information disclosure via Query Protected Endpoints</a>](https://vigilance.fr/vulnerability/Grafana-information-disclosure-via-Query-Protected-Endpoints-39874)|An attacker can bypass access restrictions to data of Grafana, via Query Protected Endpoints, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-November-2022-39873" class="noirorange"><b>Windows</b>: vulnerabilities of November 2022</a>](https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-November-2022-39873)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Visual-Studio-code-execution-39872" class="noirorange"><b>Microsoft Visual Studio</b>: code execution</a>](https://vigilance.fr/vulnerability/Microsoft-Visual-Studio-code-execution-39872)|An attacker can use a vulnerability of Microsoft Visual Studio, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-November-2022-39871" class="noirorange"><b>Microsoft SharePoint</b>: vulnerabilities of November 2022</a>](https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-November-2022-39871)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-November-2022-39870" class="noirorange"><b>Microsoft Exchange Server</b>: vulnerabilities of November 2022</a>](https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-November-2022-39870)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-November-2022-39869" class="noirorange"><b>Microsoft 365 Apps  Office</b>: vulnerabilities of November 2022</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-November-2022-39869)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
  
