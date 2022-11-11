@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 10/11/2022 21:12:20 UTC
+ > Last Updated 11/11/2022 09:12:57 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -71,23 +71,6 @@
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[xterm OSC 50 Response Privilege Escalation](https://vuldb.com/?id.213405)|Visit link for details|2022-11-10 at 19:11|
- |[Wiesemann & Theis AT-Modem-Emulator/Com-Server small space of random values](https://vuldb.com/?id.213404)|Visit link for details|2022-11-10 at 19:10|
- |[NVIDIA GPU Display Driver Kernel Mode Layer null pointer dereference](https://vuldb.com/?id.213403)|Visit link for details|2022-11-10 at 19:09|
- |[SUSE Linux Enterprise Module for SUSE Manager Server cross site scripting](https://vuldb.com/?id.213402)|Visit link for details|2022-11-10 at 19:07|
- |[SUSE Linux Enterprise Module for SUSE Manager Server path traversal](https://vuldb.com/?id.213401)|Visit link for details|2022-11-10 at 19:06|
- |[SUSE Linux Enterprise Module for SUSE Manager Server path traversal](https://vuldb.com/?id.213400)|Visit link for details|2022-11-10 at 19:05|
- |[DedeCMS cross-site request forgery](https://vuldb.com/?id.213399)|Visit link for details|2022-11-10 at 10:14|
- |[tasklists Task Content cross site scripting](https://vuldb.com/?id.213398)|Visit link for details|2022-11-10 at 10:13|
- |[James Lao Simple Video Embedder Plugin cross site scripting](https://vuldb.com/?id.213397)|Visit link for details|2022-11-10 at 10:12|
- |[Lin-CMS improper authentication](https://vuldb.com/?id.213396)|Visit link for details|2022-11-10 at 10:10|
- 
- ---
-
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -103,4 +86,21 @@
  |[39060911/22 - Vulnérabilités dans Microsoft Office (Patch Tuesday Novembre 2022)](https://www.dgssi.gov.ma//fr/content/3906091122-vulnerabilites-dans-microsoft-office-patch-tuesday-novembre-2022.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées des produits Microsoft Office. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire à distance,...|09 novembre 2022|
  |[39080911/22 - Vulnérabilités critiques dans les produits Microsoft Azure (Patch Tuesday Novembre 202](https://www.dgssi.gov.ma//fr/content/3908091122-vulnerabilites-critiques-dans-les-produits-microsoft-azure-patch-tuesday-novembre-2022.html)|Plusieurs vulnérabilités critiques ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges et d’exécuter du code arbitraire à distance.|09 novembre 2022|
  |[39120911/22 - Vulnérabilités affectant Citrix Gateway et Citrix ADC Security](https://www.dgssi.gov.ma//fr/content/3912091122-vulnerabilites-affectant-citrix-gateway-et-citrix-adc-security.html)|Citrix annonce la correction de trois vulnérabilités affectant ses produits Citrix Gateway et Citrix ADC Security. L’exploitation de ces vulnérabilités peut permettre à un attaquant de contourner l’authentification ou de contrôler l’...|09 novembre 2022|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[AMI/Dell/HPE/Insyde/Intel UEFI toctou](https://vuldb.com/?id.213452)|Visit link for details|2022-11-11 at 08:58|
+ |[jerryhanjj ERP Commodity Management inventory.php uploadImages unrestricted upload](https://vuldb.com/?id.213451)|Visit link for details|2022-11-11 at 08:39|
+ |[ForU CMS cms_chip.php cross site scripting](https://vuldb.com/?id.213450)|Visit link for details|2022-11-11 at 08:34|
+ |[SourceCodester Sanitization Management System cross site scripting](https://vuldb.com/?id.213449)|Visit link for details|2022-11-11 at 08:23|
+ |[Activity Log Plugin HTTP Header neutralization for logs](https://vuldb.com/?id.213448)|Visit link for details|2022-11-11 at 08:11|
+ |[lanyulei ferry task.go path traversal](https://vuldb.com/?id.213447)|Visit link for details|2022-11-11 at 08:01|
+ |[lanyulei ferry API file.go path traversal](https://vuldb.com/?id.213446)|Visit link for details|2022-11-11 at 07:55|
+ |[mm-wki cross site scripting](https://vuldb.com/?id.213445)|Visit link for details|2022-11-11 at 07:51|
+ |[Traffic Manager Plugin cross site scripting](https://vuldb.com/?id.213444)|Visit link for details|2022-11-11 at 07:51|
+ |[shamaton msgpack denial of service](https://vuldb.com/?id.213443)|Visit link for details|2022-11-11 at 07:46|
  
