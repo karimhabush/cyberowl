@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 11/11/2022 21:11:55 UTC
+ > Last Updated 12/11/2022 09:11:35 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -36,24 +36,6 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[39201111/22 - Vulnérabilités affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma//fr/content/3920111122-vulnerabilites-affectant-plusieurs-produits-d-apple.html)|Apple annonce lacorrectionde deuxvulnérabilitésaffectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peutpermettre à un attaquant distant d’exécuter du code arbitraire ou de causer un déni de service.|11 novembre 2022|
- |[39191011/22 - Vulnérabilités affectant des produitsAMD ](https://www.dgssi.gov.ma//fr/content/3919101122-vulnerabilites-affectant-des-produits-amd.html)|AMD annonce la correction de plusieurs vulnérabilités affectant ses produits susmentionnés. En exploitant ces vulnérabilités, un attaquant peut exécuter du code arbitraire, accéder à des informations confidentielles, élever ses privilèges...|10 novembre 2022|
- |[39181011/22 - Vulnérabilités critiques dans les produits Lenovo](https://www.dgssi.gov.ma//fr/content/3918101122-vulnerabilites-critiques-dans-les-produits-lenovo.html)|Trois vulnérabilités critiques ont été corrigées dans plusieurs produits Lenovo permettant à un attaquant de désactiver UEFI Secure Boot qui garantit qu'aucun code malveillant ne peut être chargé et exécuté pendant le processus de...|10 novembre 2022|
- |[39151011/22 - Vulnérabilités critiques affectant des produits d’Intel](https://www.dgssi.gov.ma//fr/content/3915101122-vulnerabilites-critiques-affectant-des-produits-d-intel.html)|Intel annonce la disponibilité de mises à jour de sécurité qui corrigent des vulnérabilités critiquesaffectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peut permettre à un attaquant d’accéder à des données...|10 novembre 2022|
- |[39141011/22 - Vulnérabilités affectant plusieursproduits deCisco](https://www.dgssi.gov.ma//fr/content/3914101122-vulnerabilites-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’accéder à des informations...|10 novembre 2022|
- |[39171011/22 - Vulnérabilité critique dans Veeam Backup](https://www.dgssi.gov.ma//fr/content/3917101122-vulnerabilite-critique-dans-veeam-backup.html)|Veeam annonce la correction d’une vulnérabilité critique affectant les solutions de backup « Veeam Backup » susmentionnées.L’exploitation de cette faille peut permettre à un attaquant de contourner les mécanismes d'authentification.|10 novembre 2022|
- |[39161011/22 - Vulnérabilités dans les produits SAP](https://www.dgssi.gov.ma//fr/content/3916101122-vulnerabilites-dans-les-produits-sap.html)|SAP annonce la disponibilité d’une mise à jour de sécurité corrigeant plusieurs vulnérabilités critiques affectant les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la...|10 novembre 2022|
- |[39130911/22 - Vulnérabilités critiques affectant le système d’exploitation Android](https://www.dgssi.gov.ma//fr/content/3913091122-vulnerabilites-critiques-affectant-le-systeme-d-exploitation-android.html)|Google annonce la correction de plusieurs vulnérabilités affectantson système d’exploitation Android.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’accéder à des données confidentielles, d’...|09 novembre 2022|
- |[39100911/22 - Vulnérabilités dans plusieurs produits Microsoft(Patch Tuesday Novembre 2022)](https://www.dgssi.gov.ma//fr/content/3910091122-vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-novembre-2022.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, d’exécuter du code...|09 novembre 2022|
- |[39060911/22 - Vulnérabilités dans Microsoft Office (Patch Tuesday Novembre 2022)](https://www.dgssi.gov.ma//fr/content/3906091122-vulnerabilites-dans-microsoft-office-patch-tuesday-novembre-2022.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées des produits Microsoft Office. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire à distance,...|09 novembre 2022|
- |[39080911/22 - Vulnérabilités critiques dans les produits Microsoft Azure (Patch Tuesday Novembre 202](https://www.dgssi.gov.ma//fr/content/3908091122-vulnerabilites-critiques-dans-les-produits-microsoft-azure-patch-tuesday-novembre-2022.html)|Plusieurs vulnérabilités critiques ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges et d’exécuter du code arbitraire à distance.|09 novembre 2022|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -75,6 +57,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Rust-tokio-memory-corruption-via-Closed-Oneshot-Channel-39902" class="noirorange"><b>Rust tokio</b>: memory corruption via Closed Oneshot Channel</a>](https://vigilance.fr/vulnerability/Rust-tokio-memory-corruption-via-Closed-Oneshot-Channel-39902)|An attacker can trigger a memory corruption of Rust tokio, via Closed Oneshot Channel, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Numpy-overload-via-numpy-pad-39901" class="noirorange"><b>Numpy</b>: overload via numpy.pad()</a>](https://vigilance.fr/vulnerability/Numpy-overload-via-numpy-pad-39901)|An attacker can trigger an overload of Numpy, via numpy.pad(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/phpCAS-privilege-escalation-via-Host-Header-39900" class="noirorange"><b>phpCAS</b>: privilege escalation via Host Header</a>](https://vigilance.fr/vulnerability/phpCAS-privilege-escalation-via-Host-Header-39900)|An attacker can bypass restrictions of phpCAS, via Host Header, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-ingress-filtrering-bypass-via-Bluetooth-L2CAP-invalid-SPSM-39899" class="noirorange"><b>Linux kernel</b>: ingress filtrering bypass via Bluetooth L2CAP invalid SPSM</a>](https://vigilance.fr/vulnerability/Linux-kernel-ingress-filtrering-bypass-via-Bluetooth-L2CAP-invalid-SPSM-39899)|An attacker can bypass filtering rules of the Linux kernel, via Bluetooth L2CAP invalid SPSM, in order to send malicious data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Ibexa-DXP-eZ-Platform-multiple-vulnerabilities-39898" class="noirorange"><b>Ibexa DXP  eZ Platform</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Ibexa-DXP-eZ-Platform-multiple-vulnerabilities-39898)|An attacker can use several vulnerabilities of Ibexa DXP  eZ Platform...|Visit link for details|
@@ -84,8 +68,24 @@
  |[<a href="https://vigilance.fr/vulnerability/MediaWiki-information-disclosure-via-Action-Rollback-39894" class="noirorange"><b>MediaWiki</b>: information disclosure via Action Rollback</a>](https://vigilance.fr/vulnerability/MediaWiki-information-disclosure-via-Action-Rollback-39894)|An attacker can bypass access restrictions to data of MediaWiki, via Action Rollback, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Exiv2-integer-overflow-via-QuickTimeVideo-userDataDecoder-39893" class="noirorange"><b>Exiv2</b>: integer overflow via <wbr>QuickTimeVideo::user<wbr>DataDecoder()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Exiv2-integer-overflow-via-QuickTimeVideo-userDataDecoder-39893)|An attacker can trigger an integer overflow of Exiv2, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Jettison-denial-of-service-39892" class="noirorange"><b>Jettison</b>: denial of service</a>](https://vigilance.fr/vulnerability/Jettison-denial-of-service-39892)|An attacker can cause a fatal error of Jettison, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/sysstat-integer-overflow-via-allocate-structures-39891" class="noirorange"><b>sysstat</b>: integer overflow via <wbr>allocate_structures(<wbr>)</wbr></wbr></a>](https://vigilance.fr/vulnerability/sysstat-integer-overflow-via-allocate-structures-39891)|An attacker can trigger an integer overflow of sysstat, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xfce-xfce4-settings-code-execution-via-xfce4-mime-helper-39890" class="noirorange"><b>Xfce xfce4-settings</b>: code execution via xfce4-mime-helper</a>](https://vigilance.fr/vulnerability/Xfce-xfce4-settings-code-execution-via-xfce4-mime-helper-39890)|An attacker can use a vulnerability of Xfce xfce4-settings, via xfce4-mime-helper, in order to run code...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[39201111/22 - Vulnérabilités affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma//fr/content/3920111122-vulnerabilites-affectant-plusieurs-produits-d-apple.html)|Apple annonce lacorrectionde deuxvulnérabilitésaffectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peutpermettre à un attaquant distant d’exécuter du code arbitraire ou de causer un déni de service.|11 novembre 2022|
+ |[39191011/22 - Vulnérabilités affectant des produitsAMD ](https://www.dgssi.gov.ma//fr/content/3919101122-vulnerabilites-affectant-des-produits-amd.html)|AMD annonce la correction de plusieurs vulnérabilités affectant ses produits susmentionnés. En exploitant ces vulnérabilités, un attaquant peut exécuter du code arbitraire, accéder à des informations confidentielles, élever ses privilèges...|10 novembre 2022|
+ |[39181011/22 - Vulnérabilités critiques dans les produits Lenovo](https://www.dgssi.gov.ma//fr/content/3918101122-vulnerabilites-critiques-dans-les-produits-lenovo.html)|Trois vulnérabilités critiques ont été corrigées dans plusieurs produits Lenovo permettant à un attaquant de désactiver UEFI Secure Boot qui garantit qu'aucun code malveillant ne peut être chargé et exécuté pendant le processus de...|10 novembre 2022|
+ |[39151011/22 - Vulnérabilités critiques affectant des produits d’Intel](https://www.dgssi.gov.ma//fr/content/3915101122-vulnerabilites-critiques-affectant-des-produits-d-intel.html)|Intel annonce la disponibilité de mises à jour de sécurité qui corrigent des vulnérabilités critiquesaffectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peut permettre à un attaquant d’accéder à des données...|10 novembre 2022|
+ |[39141011/22 - Vulnérabilités affectant plusieursproduits deCisco](https://www.dgssi.gov.ma//fr/content/3914101122-vulnerabilites-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’accéder à des informations...|10 novembre 2022|
+ |[39171011/22 - Vulnérabilité critique dans Veeam Backup](https://www.dgssi.gov.ma//fr/content/3917101122-vulnerabilite-critique-dans-veeam-backup.html)|Veeam annonce la correction d’une vulnérabilité critique affectant les solutions de backup « Veeam Backup » susmentionnées.L’exploitation de cette faille peut permettre à un attaquant de contourner les mécanismes d'authentification.|10 novembre 2022|
+ |[39161011/22 - Vulnérabilités dans les produits SAP](https://www.dgssi.gov.ma//fr/content/3916101122-vulnerabilites-dans-les-produits-sap.html)|SAP annonce la disponibilité d’une mise à jour de sécurité corrigeant plusieurs vulnérabilités critiques affectant les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la...|10 novembre 2022|
+ |[39130911/22 - Vulnérabilités critiques affectant le système d’exploitation Android](https://www.dgssi.gov.ma//fr/content/3913091122-vulnerabilites-critiques-affectant-le-systeme-d-exploitation-android.html)|Google annonce la correction de plusieurs vulnérabilités affectantson système d’exploitation Android.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’accéder à des données confidentielles, d’...|09 novembre 2022|
+ |[39100911/22 - Vulnérabilités dans plusieurs produits Microsoft(Patch Tuesday Novembre 2022)](https://www.dgssi.gov.ma//fr/content/3910091122-vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-novembre-2022.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, d’exécuter du code...|09 novembre 2022|
+ |[39060911/22 - Vulnérabilités dans Microsoft Office (Patch Tuesday Novembre 2022)](https://www.dgssi.gov.ma//fr/content/3906091122-vulnerabilites-dans-microsoft-office-patch-tuesday-novembre-2022.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées des produits Microsoft Office. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire à distance,...|09 novembre 2022|
+ |[39120911/22 - Vulnérabilités affectant Citrix Gateway et Citrix ADC Security](https://www.dgssi.gov.ma//fr/content/3912091122-vulnerabilites-affectant-citrix-gateway-et-citrix-adc-security.html)|Citrix annonce la correction de trois vulnérabilités affectant ses produits Citrix Gateway et Citrix ADC Security. L’exploitation de ces vulnérabilités peut permettre à un attaquant de contourner l’authentification ou de contrôler l’...|09 novembre 2022|
  
  ---
 
@@ -93,14 +93,14 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[drogon Session Hash small space of random values](https://vuldb.com/?id.213464)|Visit link for details|2022-11-11 at 17:04|
- |[GPAC SVG Parser svg_attributes.c svg_parse_preserveaspectratio memory leak](https://vuldb.com/?id.213463)|Visit link for details|2022-11-11 at 16:55|
- |[tsruban HHIMS Patient Portrait sql injection](https://vuldb.com/?id.213462)|Visit link for details|2022-11-11 at 16:50|
- |[tholum crm42 Login class.user.php sql injection](https://vuldb.com/?id.213461)|Visit link for details|2022-11-11 at 16:47|
- |[SnakeYAML YAML File stack-based overflow](https://vuldb.com/?id.213460)|Visit link for details|2022-11-11 at 16:43|
- |[Exiv2 QuickTime Video quicktimevideo.cpp multipleEntriesDecoder infinite loop](https://vuldb.com/?id.213459)|Visit link for details|2022-11-11 at 14:54|
- |[kareadita kavita excessive authentication](https://vuldb.com/?id.213458)|Visit link for details|2022-11-11 at 14:51|
- |[ManyDesigns Portofino WarFileLauncher.java createTempDir temp file](https://vuldb.com/?id.213457)|Visit link for details|2022-11-11 at 14:46|
- |[sanluan PublicCMS Tab dwz.min.js initLink cross site scripting](https://vuldb.com/?id.213456)|Visit link for details|2022-11-11 at 14:32|
- |[Sourcecodester Simple Cashiering System User Account cross site scripting](https://vuldb.com/?id.213455)|Visit link for details|2022-11-11 at 13:22|
+ |[IBM Cloud Pak for Security Web UI cross site scripting](https://vuldb.com/?id.213469)|Visit link for details|2022-11-12 at 04:58|
+ |[IBM Cloud Pak for Security Request os command injection](https://vuldb.com/?id.213468)|Visit link for details|2022-11-12 at 04:56|
+ |[IBM Power FW950/Power FW1010 SRIOV Network Adapter improper authentication](https://vuldb.com/?id.213467)|Visit link for details|2022-11-12 at 04:55|
+ |[IBM WebSphere Application Server Web UI cross site scripting](https://vuldb.com/?id.213466)|Visit link for details|2022-11-12 at 04:53|
+ |[Backdoor.Win32.RemServ.d Service Port 26103 backdoor](https://vuldb.com/?id.213465)|Visit link for details|2022-11-12 at 04:52|
+ |[drogon Session Hash small space of random values](https://vuldb.com/?id.213464)|Visit link for details|2022-11-12 at 17:04|
+ |[GPAC SVG Parser svg_attributes.c svg_parse_preserveaspectratio memory leak](https://vuldb.com/?id.213463)|Visit link for details|2022-11-12 at 16:55|
+ |[tsruban HHIMS Patient Portrait sql injection](https://vuldb.com/?id.213462)|Visit link for details|2022-11-12 at 16:50|
+ |[tholum crm42 Login class.user.php sql injection](https://vuldb.com/?id.213461)|Visit link for details|2022-11-12 at 16:47|
+ |[SnakeYAML YAML File stack-based overflow](https://vuldb.com/?id.213460)|Visit link for details|2022-11-12 at 16:43|
  
