@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 12/11/2022 09:11:35 UTC
+ > Last Updated 12/11/2022 21:11:08 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -85,7 +85,7 @@
  |[39130911/22 - Vulnérabilités critiques affectant le système d’exploitation Android](https://www.dgssi.gov.ma//fr/content/3913091122-vulnerabilites-critiques-affectant-le-systeme-d-exploitation-android.html)|Google annonce la correction de plusieurs vulnérabilités affectantson système d’exploitation Android.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’accéder à des données confidentielles, d’...|09 novembre 2022|
  |[39100911/22 - Vulnérabilités dans plusieurs produits Microsoft(Patch Tuesday Novembre 2022)](https://www.dgssi.gov.ma//fr/content/3910091122-vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-novembre-2022.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, d’exécuter du code...|09 novembre 2022|
  |[39060911/22 - Vulnérabilités dans Microsoft Office (Patch Tuesday Novembre 2022)](https://www.dgssi.gov.ma//fr/content/3906091122-vulnerabilites-dans-microsoft-office-patch-tuesday-novembre-2022.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées des produits Microsoft Office. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire à distance,...|09 novembre 2022|
- |[39120911/22 - Vulnérabilités affectant Citrix Gateway et Citrix ADC Security](https://www.dgssi.gov.ma//fr/content/3912091122-vulnerabilites-affectant-citrix-gateway-et-citrix-adc-security.html)|Citrix annonce la correction de trois vulnérabilités affectant ses produits Citrix Gateway et Citrix ADC Security. L’exploitation de ces vulnérabilités peut permettre à un attaquant de contourner l’authentification ou de contrôler l’...|09 novembre 2022|
+ |[39080911/22 - Vulnérabilités critiques dans les produits Microsoft Azure (Patch Tuesday Novembre 202](https://www.dgssi.gov.ma//fr/content/3908091122-vulnerabilites-critiques-dans-les-produits-microsoft-azure-patch-tuesday-novembre-2022.html)|Plusieurs vulnérabilités critiques ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges et d’exécuter du code arbitraire à distance.|09 novembre 2022|
  
  ---
 
@@ -93,14 +93,14 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[IBM Cloud Pak for Security Web UI cross site scripting](https://vuldb.com/?id.213469)|Visit link for details|2022-11-12 at 04:58|
- |[IBM Cloud Pak for Security Request os command injection](https://vuldb.com/?id.213468)|Visit link for details|2022-11-12 at 04:56|
- |[IBM Power FW950/Power FW1010 SRIOV Network Adapter improper authentication](https://vuldb.com/?id.213467)|Visit link for details|2022-11-12 at 04:55|
- |[IBM WebSphere Application Server Web UI cross site scripting](https://vuldb.com/?id.213466)|Visit link for details|2022-11-12 at 04:53|
- |[Backdoor.Win32.RemServ.d Service Port 26103 backdoor](https://vuldb.com/?id.213465)|Visit link for details|2022-11-12 at 04:52|
- |[drogon Session Hash small space of random values](https://vuldb.com/?id.213464)|Visit link for details|2022-11-12 at 17:04|
- |[GPAC SVG Parser svg_attributes.c svg_parse_preserveaspectratio memory leak](https://vuldb.com/?id.213463)|Visit link for details|2022-11-12 at 16:55|
- |[tsruban HHIMS Patient Portrait sql injection](https://vuldb.com/?id.213462)|Visit link for details|2022-11-12 at 16:50|
- |[tholum crm42 Login class.user.php sql injection](https://vuldb.com/?id.213461)|Visit link for details|2022-11-12 at 16:47|
- |[SnakeYAML YAML File stack-based overflow](https://vuldb.com/?id.213460)|Visit link for details|2022-11-12 at 16:43|
+ |[gnuboard5 FAQ Key ID faq.php cross site scripting](https://vuldb.com/?id.213540)|Visit link for details|2022-11-12 at 17:20|
+ |[Intel EMA cross site scripting](https://vuldb.com/?id.213539)|Visit link for details|2022-11-12 at 15:38|
+ |[Intel Glorp uncontrolled search path](https://vuldb.com/?id.213538)|Visit link for details|2022-11-12 at 15:37|
+ |[Intel SPS Firmware denial of service](https://vuldb.com/?id.213537)|Visit link for details|2022-11-12 at 15:37|
+ |[Intel CPU BIOS Firmware input validation](https://vuldb.com/?id.213536)|Visit link for details|2022-11-12 at 15:36|
+ |[Intel CPU BIOS Firmware toctou](https://vuldb.com/?id.213535)|Visit link for details|2022-11-12 at 15:35|
+ |[CBRN-Analysis mws XML Document xml external entity reference](https://vuldb.com/?id.213534)|Visit link for details|2022-11-12 at 15:35|
+ |[Intel SGX SDK information disclosure](https://vuldb.com/?id.213533)|Visit link for details|2022-11-12 at 15:33|
+ |[Zoho ManageEngine Password Manager Pro/PAM360/Access Manager Plus sql injection](https://vuldb.com/?id.213532)|Visit link for details|2022-11-12 at 15:33|
+ |[Zoho ManageEngine Mobile Device Manager Plus User Administration Module Privilege Escalation](https://vuldb.com/?id.213531)|Visit link for details|2022-11-12 at 15:32|
  
