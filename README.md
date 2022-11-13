@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 13/11/2022 09:12:00 UTC
+ > Last Updated 13/11/2022 21:12:23 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -71,6 +71,23 @@
  
  ---
 
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[NagVis CoreLogonMultisite.php checkAuthCookie type conversion](https://vuldb.com/?id.213557)|Visit link for details|2022-11-13 at 21:19|
+ |[MZ Automation libiec61850 MMS File Services mms_client_files.c path traversal](https://vuldb.com/?id.213556)|Visit link for details|2022-11-13 at 15:10|
+ |[NodeBB abort cross-site request forgery](https://vuldb.com/?id.213555)|Visit link for details|2022-11-13 at 14:59|
+ |[NukeViet CMS Data URL Request.php filterAttr cross site scripting](https://vuldb.com/?id.213554)|Visit link for details|2022-11-13 at 09:40|
+ |[Axiomatic Bento4 mp4info Ap4StdCFileByteStream.cpp ReadPartial heap-based overflow](https://vuldb.com/?id.213553)|Visit link for details|2022-11-13 at 09:36|
+ |[Pingkon HMS-PHP Data Pump Metadata admin.php sql injection](https://vuldb.com/?id.213552)|Visit link for details|2022-11-13 at 09:32|
+ |[Pingkon HMS-PHP adminlogin.php sql injection](https://vuldb.com/?id.213551)|Visit link for details|2022-11-13 at 09:31|
+ |[matrix-appservice-irc PgDataStore.ts sql injection](https://vuldb.com/?id.213550)|Visit link for details|2022-11-13 at 09:28|
+ |[LibTIFF tif_getimage.c TIFFReadRGBATileExt integer overflow](https://vuldb.com/?id.213549)|Visit link for details|2022-11-13 at 09:06|
+ |[OpenKM FileUtils.java getFileExtension temp file](https://vuldb.com/?id.213548)|Visit link for details|2022-11-13 at 09:02|
+ 
+ ---
+
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -86,21 +103,4 @@
  |[39100911/22 - Vulnérabilités dans plusieurs produits Microsoft(Patch Tuesday Novembre 2022)](https://www.dgssi.gov.ma//fr/content/3910091122-vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-novembre-2022.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, d’exécuter du code...|09 novembre 2022|
  |[39060911/22 - Vulnérabilités dans Microsoft Office (Patch Tuesday Novembre 2022)](https://www.dgssi.gov.ma//fr/content/3906091122-vulnerabilites-dans-microsoft-office-patch-tuesday-novembre-2022.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées des produits Microsoft Office. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire à distance,...|09 novembre 2022|
  |[39080911/22 - Vulnérabilités critiques dans les produits Microsoft Azure (Patch Tuesday Novembre 202](https://www.dgssi.gov.ma//fr/content/3908091122-vulnerabilites-critiques-dans-les-produits-microsoft-azure-patch-tuesday-novembre-2022.html)|Plusieurs vulnérabilités critiques ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges et d’exécuter du code arbitraire à distance.|09 novembre 2022|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[NukeView CMS Data URL Request.php filterAttr cross site scripting](https://vuldb.com/?id.213554)|Visit link for details|2022-11-13 at 09:40|
- |[Axiomatic Bento4 mp4info Ap4StdCFileByteStream.cpp ReadPartial heap-based overflow](https://vuldb.com/?id.213553)|Visit link for details|2022-11-13 at 09:36|
- |[Pingkon HMS-PHP Data Pump Metadata admin.php sql injection](https://vuldb.com/?id.213552)|Visit link for details|2022-11-13 at 09:32|
- |[Pingkon HMS-PHP adminlogin.php sql injection](https://vuldb.com/?id.213551)|Visit link for details|2022-11-13 at 09:31|
- |[matrix-appservice-irc PgDataStore.ts sql injection](https://vuldb.com/?id.213550)|Visit link for details|2022-11-13 at 09:28|
- |[LibTIFF tif_getimage.c TIFFReadRGBATileExt integer overflow](https://vuldb.com/?id.213549)|Visit link for details|2022-11-13 at 09:06|
- |[OpenKM FileUtils.java getFileExtension temp file](https://vuldb.com/?id.213548)|Visit link for details|2022-11-13 at 09:02|
- |[emlog article_save.php cross site scripting](https://vuldb.com/?id.213547)|Visit link for details|2022-11-13 at 08:57|
- |[Vesta Control Panel sed main.sh argument injection](https://vuldb.com/?id.213546)|Visit link for details|2022-11-13 at 08:54|
- |[Ultimate Member Plugin Template class-shortcodes.php load_template pathname traversal](https://vuldb.com/?id.213545)|Visit link for details|2022-11-13 at 08:46|
  
