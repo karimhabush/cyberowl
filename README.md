@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 12/11/2022 21:11:08 UTC
+ > Last Updated 13/11/2022 09:12:00 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -93,14 +93,14 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[gnuboard5 FAQ Key ID faq.php cross site scripting](https://vuldb.com/?id.213540)|Visit link for details|2022-11-12 at 17:20|
- |[Intel EMA cross site scripting](https://vuldb.com/?id.213539)|Visit link for details|2022-11-12 at 15:38|
- |[Intel Glorp uncontrolled search path](https://vuldb.com/?id.213538)|Visit link for details|2022-11-12 at 15:37|
- |[Intel SPS Firmware denial of service](https://vuldb.com/?id.213537)|Visit link for details|2022-11-12 at 15:37|
- |[Intel CPU BIOS Firmware input validation](https://vuldb.com/?id.213536)|Visit link for details|2022-11-12 at 15:36|
- |[Intel CPU BIOS Firmware toctou](https://vuldb.com/?id.213535)|Visit link for details|2022-11-12 at 15:35|
- |[CBRN-Analysis mws XML Document xml external entity reference](https://vuldb.com/?id.213534)|Visit link for details|2022-11-12 at 15:35|
- |[Intel SGX SDK information disclosure](https://vuldb.com/?id.213533)|Visit link for details|2022-11-12 at 15:33|
- |[Zoho ManageEngine Password Manager Pro/PAM360/Access Manager Plus sql injection](https://vuldb.com/?id.213532)|Visit link for details|2022-11-12 at 15:33|
- |[Zoho ManageEngine Mobile Device Manager Plus User Administration Module Privilege Escalation](https://vuldb.com/?id.213531)|Visit link for details|2022-11-12 at 15:32|
+ |[NukeView CMS Data URL Request.php filterAttr cross site scripting](https://vuldb.com/?id.213554)|Visit link for details|2022-11-13 at 09:40|
+ |[Axiomatic Bento4 mp4info Ap4StdCFileByteStream.cpp ReadPartial heap-based overflow](https://vuldb.com/?id.213553)|Visit link for details|2022-11-13 at 09:36|
+ |[Pingkon HMS-PHP Data Pump Metadata admin.php sql injection](https://vuldb.com/?id.213552)|Visit link for details|2022-11-13 at 09:32|
+ |[Pingkon HMS-PHP adminlogin.php sql injection](https://vuldb.com/?id.213551)|Visit link for details|2022-11-13 at 09:31|
+ |[matrix-appservice-irc PgDataStore.ts sql injection](https://vuldb.com/?id.213550)|Visit link for details|2022-11-13 at 09:28|
+ |[LibTIFF tif_getimage.c TIFFReadRGBATileExt integer overflow](https://vuldb.com/?id.213549)|Visit link for details|2022-11-13 at 09:06|
+ |[OpenKM FileUtils.java getFileExtension temp file](https://vuldb.com/?id.213548)|Visit link for details|2022-11-13 at 09:02|
+ |[emlog article_save.php cross site scripting](https://vuldb.com/?id.213547)|Visit link for details|2022-11-13 at 08:57|
+ |[Vesta Control Panel sed main.sh argument injection](https://vuldb.com/?id.213546)|Visit link for details|2022-11-13 at 08:54|
+ |[Ultimate Member Plugin Template class-shortcodes.php load_template pathname traversal](https://vuldb.com/?id.213545)|Visit link for details|2022-11-13 at 08:46|
  
