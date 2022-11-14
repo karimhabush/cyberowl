@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 14/11/2022 09:14:42 UTC
+ > Last Updated 14/11/2022 21:11:42 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -40,16 +40,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1031/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 14 novembre 2022|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1030/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 novembre 2022|
+ |[[SCADA] Multiples vulnérabilités dans Moxa VPort](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1029/)|De multiples vulnérabilités ont été découvertes dans Moxa VPort. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 14 novembre 2022|
+ |[[SCADA] Multiples vulnérabilités dans les produits Belden](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1028/)|De multiples vulnérabilités ont été découvertes dans les produits Belden. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 14 novembre 2022|
+ |[Multiples vulnérabilités dans IBM Db2](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1027/)|De multiples vulnérabilités ont été découvertes dans IBM Db2. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 14 novembre 2022|
+ |[Vulnérabilité dans Nextcloud Desktop](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1026/)|Une vulnérabilité a été découverte dans Nextcloud Desktop. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 14 novembre 2022|
  |[Multiples vulnérabilités dans IBM QRadar](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1025/)|De multiples vulnérabilités ont été découvertes dans IBM QRadar. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 10 novembre 2022|
  |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1024/)|De multiples vulnérabilités ont été découvertes dans les produits Apple. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 10 novembre 2022|
  |[Vulnérabilité dans Palo Alto Networks Cortex XSOAR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1023/)|Une vulnérabilité a été découverte dans Palo Alto Networks Cortex XSOAR. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 10 novembre 2022|
  |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1022/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 10 novembre 2022|
- |[Multiples vulnérabilités dans TrendMicro Apex One](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1021/)|De multiples vulnérabilités ont été découvertes dans TrendMicro Apex One. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 10 novembre 2022|
- |[Multiples vulnérabilités dans les produits SAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1020/)|De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 10 novembre 2022|
- |[Multiples vulnérabilités dans Tenable Nessus](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1019/)|De multiples vulnérabilités ont été découvertes dans Nessus. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 10 novembre 2022|
- |[Vulnérabilité dans Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1018/)|Une vulnérabilité a été découverte dans Xen. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 10 novembre 2022|
- |[Vulnérabilité dans Python 3](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1017/)|Une vulnérabilité a été découverte dans Python 3. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 10 novembre 2022|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1016/)|De multiples vulnérabilités ont été corrigées dans |Publié le 10 novembre 2022|
  
  ---
 
@@ -57,6 +57,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/RHEL-privilege-escalation-via-device-mapper-multipath-39905" class="noirorange"><b>RHEL</b>: privilege escalation via <wbr>device-mapper-multip<wbr>ath</wbr></wbr></a>](https://vigilance.fr/vulnerability/RHEL-privilege-escalation-via-device-mapper-multipath-39905)|An attacker can bypass restrictions of RHEL, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/LibTIFF-integer-overflow-via-TIFFReadRGBATileExt-39904" class="noirorange"><b>LibTIFF</b>: integer overflow via <wbr>TIFFReadRGBATileExt(<wbr>)</wbr></wbr></a>](https://vigilance.fr/vulnerability/LibTIFF-integer-overflow-via-TIFFReadRGBATileExt-39904)|An attacker can trigger an integer overflow of LibTIFF, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Dropbear-Man-in-the-Middle-via-Login-Process-39903" class="noirorange"><b>Dropbear</b>: Man-in-the-Middle via Login Process</a>](https://vigilance.fr/vulnerability/Dropbear-Man-in-the-Middle-via-Login-Process-39903)|An attacker can act as a Man-in-the-Middle on Dropbear, via Login Process, in order to read or write data in the session...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Rust-tokio-memory-corruption-via-Closed-Oneshot-Channel-39902" class="noirorange"><b>Rust tokio</b>: memory corruption via Closed Oneshot Channel</a>](https://vigilance.fr/vulnerability/Rust-tokio-memory-corruption-via-Closed-Oneshot-Channel-39902)|An attacker can trigger a memory corruption of Rust tokio, via Closed Oneshot Channel, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
@@ -67,7 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Kubernetes-kube-apiserver-information-disclosure-via-Node-Address-39897" class="noirorange"><b>Kubernetes kube-apiserver</b>: information disclosure via Node Address</a>](https://vigilance.fr/vulnerability/Kubernetes-kube-apiserver-information-disclosure-via-Node-Address-39897)|An attacker can bypass access restrictions to data of Kubernetes kube-apiserver, via Node Address, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Kubernetes-kube-apiserver-information-disclosure-via-Custom-Resources-39896" class="noirorange"><b>Kubernetes kube-apiserver</b>: information disclosure via Custom Resources</a>](https://vigilance.fr/vulnerability/Kubernetes-kube-apiserver-information-disclosure-via-Custom-Resources-39896)|An attacker can bypass access restrictions to data of Kubernetes kube-apiserver, via Custom Resources, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-l2cap-parse-conf-req-39895" class="noirorange"><b>Linux kernel</b>: denial of service via <wbr>l2cap_parse_conf_req<wbr>()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-l2cap-parse-conf-req-39895)|An attacker can cause a fatal error of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/MediaWiki-information-disclosure-via-Action-Rollback-39894" class="noirorange"><b>MediaWiki</b>: information disclosure via Action Rollback</a>](https://vigilance.fr/vulnerability/MediaWiki-information-disclosure-via-Action-Rollback-39894)|An attacker can bypass access restrictions to data of MediaWiki, via Action Rollback, in order to read sensitive information...|Visit link for details|
  
  ---
 
@@ -75,6 +75,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[39211411/22 - Vulnérabilité dans PaloAlto Cortex XSOAR ](https://www.dgssi.gov.ma//fr/content/3921141122-vulnerabilite-dans-paloalto-cortex-xsoar.html)|Une vulnérabilité a été corrigée dans PaloAlto Cortex XSOAR. L’exploitation de cette faille peut permettre à un attaquant d’exécuter des commandes avec des privilèges élevés.|14 novembre 2022|
  |[39201111/22 - Vulnérabilités affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma//fr/content/3920111122-vulnerabilites-affectant-plusieurs-produits-d-apple.html)|Apple annonce lacorrectionde deuxvulnérabilitésaffectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peutpermettre à un attaquant distant d’exécuter du code arbitraire ou de causer un déni de service.|11 novembre 2022|
  |[39191011/22 - Vulnérabilités affectant des produitsAMD ](https://www.dgssi.gov.ma//fr/content/3919101122-vulnerabilites-affectant-des-produits-amd.html)|AMD annonce la correction de plusieurs vulnérabilités affectant ses produits susmentionnés. En exploitant ces vulnérabilités, un attaquant peut exécuter du code arbitraire, accéder à des informations confidentielles, élever ses privilèges...|10 novembre 2022|
  |[39181011/22 - Vulnérabilités critiques dans les produits Lenovo](https://www.dgssi.gov.ma//fr/content/3918101122-vulnerabilites-critiques-dans-les-produits-lenovo.html)|Trois vulnérabilités critiques ont été corrigées dans plusieurs produits Lenovo permettant à un attaquant de désactiver UEFI Secure Boot qui garantit qu'aucun code malveillant ne peut être chargé et exécuté pendant le processus de...|10 novembre 2022|
@@ -85,7 +86,6 @@
  |[39130911/22 - Vulnérabilités critiques affectant le système d’exploitation Android](https://www.dgssi.gov.ma//fr/content/3913091122-vulnerabilites-critiques-affectant-le-systeme-d-exploitation-android.html)|Google annonce la correction de plusieurs vulnérabilités affectantson système d’exploitation Android.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’accéder à des données confidentielles, d’...|09 novembre 2022|
  |[39100911/22 - Vulnérabilités dans plusieurs produits Microsoft(Patch Tuesday Novembre 2022)](https://www.dgssi.gov.ma//fr/content/3910091122-vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-novembre-2022.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, d’exécuter du code...|09 novembre 2022|
  |[39060911/22 - Vulnérabilités dans Microsoft Office (Patch Tuesday Novembre 2022)](https://www.dgssi.gov.ma//fr/content/3906091122-vulnerabilites-dans-microsoft-office-patch-tuesday-novembre-2022.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées des produits Microsoft Office. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire à distance,...|09 novembre 2022|
- |[39080911/22 - Vulnérabilités critiques dans les produits Microsoft Azure (Patch Tuesday Novembre 202](https://www.dgssi.gov.ma//fr/content/3908091122-vulnerabilites-critiques-dans-les-produits-microsoft-azure-patch-tuesday-novembre-2022.html)|Plusieurs vulnérabilités critiques ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges et d’exécuter du code arbitraire à distance.|09 novembre 2022|
  
  ---
 
@@ -93,14 +93,14 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Xiongmai Camera XM-JPR2-LX cleartext transmission](https://vuldb.com/?id.213559)|Visit link for details|2022-11-14 at 07:44|
- |[Xiongmai Camera XM-JPR2-LX Privilege Escalation](https://vuldb.com/?id.213558)|Visit link for details|2022-11-14 at 07:43|
- |[NagVis CoreLogonMultisite.php checkAuthCookie type conversion](https://vuldb.com/?id.213557)|Visit link for details|2022-11-14 at 21:19|
- |[MZ Automation libiec61850 MMS File Services mms_client_files.c path traversal](https://vuldb.com/?id.213556)|Visit link for details|2022-11-14 at 15:10|
- |[NodeBB abort cross-site request forgery](https://vuldb.com/?id.213555)|Visit link for details|2022-11-14 at 14:59|
- |[NukeViet CMS Data URL Request.php filterAttr cross site scripting](https://vuldb.com/?id.213554)|Visit link for details|2022-11-14 at 09:40|
- |[Axiomatic Bento4 mp4info Ap4StdCFileByteStream.cpp ReadPartial heap-based overflow](https://vuldb.com/?id.213553)|Visit link for details|2022-11-14 at 09:36|
- |[Pingkon HMS-PHP Data Pump Metadata admin.php sql injection](https://vuldb.com/?id.213552)|Visit link for details|2022-11-14 at 09:32|
- |[Pingkon HMS-PHP adminlogin.php sql injection](https://vuldb.com/?id.213551)|Visit link for details|2022-11-14 at 09:31|
- |[matrix-appservice-irc PgDataStore.ts sql injection](https://vuldb.com/?id.213550)|Visit link for details|2022-11-14 at 09:28|
+ |[Webmaster Tools Verification Plugin cross-site request forgery](https://vuldb.com/?id.213598)|Visit link for details|2022-11-14 at 21:38|
+ |[ITRS OP5 Monitor cross site scripting](https://vuldb.com/?id.213597)|Visit link for details|2022-11-14 at 21:37|
+ |[Concrete CMS External Concrete Authentication Service cross-site request forgery](https://vuldb.com/?id.213596)|Visit link for details|2022-11-14 at 21:35|
+ |[kareadita kavita authentication bypass](https://vuldb.com/?id.213595)|Visit link for details|2022-11-14 at 21:34|
+ |[Silicon Labs Ember ZNet Packet memory corruption](https://vuldb.com/?id.213594)|Visit link for details|2022-11-14 at 21:34|
+ |[HTMLDOC image_set_mask heap-based overflow](https://vuldb.com/?id.213593)|Visit link for details|2022-11-14 at 21:33|
+ |[Eramba GRC KPI Title Add cross site scripting](https://vuldb.com/?id.213592)|Visit link for details|2022-11-14 at 21:33|
+ |[DigitialPixies OAuth Client Plugin cross-site request forgery](https://vuldb.com/?id.213591)|Visit link for details|2022-11-14 at 21:32|
+ |[ProfileGrid Plugin cross site scripting](https://vuldb.com/?id.213590)|Visit link for details|2022-11-14 at 21:31|
+ |[WPB Show Core Plugin cross site scripting](https://vuldb.com/?id.213589)|Visit link for details|2022-11-14 at 21:30|
  
