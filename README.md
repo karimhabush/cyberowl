@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 13/11/2022 21:12:23 UTC
+ > Last Updated 14/11/2022 09:14:42 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,6 +57,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-integer-overflow-via-TIFFReadRGBATileExt-39904" class="noirorange"><b>LibTIFF</b>: integer overflow via <wbr>TIFFReadRGBATileExt(<wbr>)</wbr></wbr></a>](https://vigilance.fr/vulnerability/LibTIFF-integer-overflow-via-TIFFReadRGBATileExt-39904)|An attacker can trigger an integer overflow of LibTIFF, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Dropbear-Man-in-the-Middle-via-Login-Process-39903" class="noirorange"><b>Dropbear</b>: Man-in-the-Middle via Login Process</a>](https://vigilance.fr/vulnerability/Dropbear-Man-in-the-Middle-via-Login-Process-39903)|An attacker can act as a Man-in-the-Middle on Dropbear, via Login Process, in order to read or write data in the session...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Rust-tokio-memory-corruption-via-Closed-Oneshot-Channel-39902" class="noirorange"><b>Rust tokio</b>: memory corruption via Closed Oneshot Channel</a>](https://vigilance.fr/vulnerability/Rust-tokio-memory-corruption-via-Closed-Oneshot-Channel-39902)|An attacker can trigger a memory corruption of Rust tokio, via Closed Oneshot Channel, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Numpy-overload-via-numpy-pad-39901" class="noirorange"><b>Numpy</b>: overload via numpy.pad()</a>](https://vigilance.fr/vulnerability/Numpy-overload-via-numpy-pad-39901)|An attacker can trigger an overload of Numpy, via numpy.pad(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/phpCAS-privilege-escalation-via-Host-Header-39900" class="noirorange"><b>phpCAS</b>: privilege escalation via Host Header</a>](https://vigilance.fr/vulnerability/phpCAS-privilege-escalation-via-Host-Header-39900)|An attacker can bypass restrictions of phpCAS, via Host Header, in order to escalate his privileges...|Visit link for details|
@@ -66,25 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Kubernetes-kube-apiserver-information-disclosure-via-Custom-Resources-39896" class="noirorange"><b>Kubernetes kube-apiserver</b>: information disclosure via Custom Resources</a>](https://vigilance.fr/vulnerability/Kubernetes-kube-apiserver-information-disclosure-via-Custom-Resources-39896)|An attacker can bypass access restrictions to data of Kubernetes kube-apiserver, via Custom Resources, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-l2cap-parse-conf-req-39895" class="noirorange"><b>Linux kernel</b>: denial of service via <wbr>l2cap_parse_conf_req<wbr>()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-l2cap-parse-conf-req-39895)|An attacker can cause a fatal error of the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/MediaWiki-information-disclosure-via-Action-Rollback-39894" class="noirorange"><b>MediaWiki</b>: information disclosure via Action Rollback</a>](https://vigilance.fr/vulnerability/MediaWiki-information-disclosure-via-Action-Rollback-39894)|An attacker can bypass access restrictions to data of MediaWiki, via Action Rollback, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Exiv2-integer-overflow-via-QuickTimeVideo-userDataDecoder-39893" class="noirorange"><b>Exiv2</b>: integer overflow via <wbr>QuickTimeVideo::user<wbr>DataDecoder()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Exiv2-integer-overflow-via-QuickTimeVideo-userDataDecoder-39893)|An attacker can trigger an integer overflow of Exiv2, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jettison-denial-of-service-39892" class="noirorange"><b>Jettison</b>: denial of service</a>](https://vigilance.fr/vulnerability/Jettison-denial-of-service-39892)|An attacker can cause a fatal error of Jettison, in order to trigger a denial of service...|Visit link for details|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[NagVis CoreLogonMultisite.php checkAuthCookie type conversion](https://vuldb.com/?id.213557)|Visit link for details|2022-11-13 at 21:19|
- |[MZ Automation libiec61850 MMS File Services mms_client_files.c path traversal](https://vuldb.com/?id.213556)|Visit link for details|2022-11-13 at 15:10|
- |[NodeBB abort cross-site request forgery](https://vuldb.com/?id.213555)|Visit link for details|2022-11-13 at 14:59|
- |[NukeViet CMS Data URL Request.php filterAttr cross site scripting](https://vuldb.com/?id.213554)|Visit link for details|2022-11-13 at 09:40|
- |[Axiomatic Bento4 mp4info Ap4StdCFileByteStream.cpp ReadPartial heap-based overflow](https://vuldb.com/?id.213553)|Visit link for details|2022-11-13 at 09:36|
- |[Pingkon HMS-PHP Data Pump Metadata admin.php sql injection](https://vuldb.com/?id.213552)|Visit link for details|2022-11-13 at 09:32|
- |[Pingkon HMS-PHP adminlogin.php sql injection](https://vuldb.com/?id.213551)|Visit link for details|2022-11-13 at 09:31|
- |[matrix-appservice-irc PgDataStore.ts sql injection](https://vuldb.com/?id.213550)|Visit link for details|2022-11-13 at 09:28|
- |[LibTIFF tif_getimage.c TIFFReadRGBATileExt integer overflow](https://vuldb.com/?id.213549)|Visit link for details|2022-11-13 at 09:06|
- |[OpenKM FileUtils.java getFileExtension temp file](https://vuldb.com/?id.213548)|Visit link for details|2022-11-13 at 09:02|
  
  ---
 
@@ -103,4 +86,21 @@
  |[39100911/22 - Vulnérabilités dans plusieurs produits Microsoft(Patch Tuesday Novembre 2022)](https://www.dgssi.gov.ma//fr/content/3910091122-vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-novembre-2022.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, d’exécuter du code...|09 novembre 2022|
  |[39060911/22 - Vulnérabilités dans Microsoft Office (Patch Tuesday Novembre 2022)](https://www.dgssi.gov.ma//fr/content/3906091122-vulnerabilites-dans-microsoft-office-patch-tuesday-novembre-2022.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées des produits Microsoft Office. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire à distance,...|09 novembre 2022|
  |[39080911/22 - Vulnérabilités critiques dans les produits Microsoft Azure (Patch Tuesday Novembre 202](https://www.dgssi.gov.ma//fr/content/3908091122-vulnerabilites-critiques-dans-les-produits-microsoft-azure-patch-tuesday-novembre-2022.html)|Plusieurs vulnérabilités critiques ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges et d’exécuter du code arbitraire à distance.|09 novembre 2022|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Xiongmai Camera XM-JPR2-LX cleartext transmission](https://vuldb.com/?id.213559)|Visit link for details|2022-11-14 at 07:44|
+ |[Xiongmai Camera XM-JPR2-LX Privilege Escalation](https://vuldb.com/?id.213558)|Visit link for details|2022-11-14 at 07:43|
+ |[NagVis CoreLogonMultisite.php checkAuthCookie type conversion](https://vuldb.com/?id.213557)|Visit link for details|2022-11-14 at 21:19|
+ |[MZ Automation libiec61850 MMS File Services mms_client_files.c path traversal](https://vuldb.com/?id.213556)|Visit link for details|2022-11-14 at 15:10|
+ |[NodeBB abort cross-site request forgery](https://vuldb.com/?id.213555)|Visit link for details|2022-11-14 at 14:59|
+ |[NukeViet CMS Data URL Request.php filterAttr cross site scripting](https://vuldb.com/?id.213554)|Visit link for details|2022-11-14 at 09:40|
+ |[Axiomatic Bento4 mp4info Ap4StdCFileByteStream.cpp ReadPartial heap-based overflow](https://vuldb.com/?id.213553)|Visit link for details|2022-11-14 at 09:36|
+ |[Pingkon HMS-PHP Data Pump Metadata admin.php sql injection](https://vuldb.com/?id.213552)|Visit link for details|2022-11-14 at 09:32|
+ |[Pingkon HMS-PHP adminlogin.php sql injection](https://vuldb.com/?id.213551)|Visit link for details|2022-11-14 at 09:31|
+ |[matrix-appservice-irc PgDataStore.ts sql injection](https://vuldb.com/?id.213550)|Visit link for details|2022-11-14 at 09:28|
  
