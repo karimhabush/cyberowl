@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 14/11/2022 21:11:42 UTC
+ > Last Updated 15/11/2022 09:12:40 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -27,12 +27,12 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA Has Added One Known Exploited Vulnerability to Catalog    ](https://www.cisa.gov/uscert/ncas/current-activity/2022/11/14/cisa-has-added-one-known-exploited-vulnerability-catalog)|<p>CISA has added one new vulnerability to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. This type of vulnerability is a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: To view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.</p>|Monday, November 14, 2022|
  |[CISA Releases SSVC Methodology to Prioritize Vulnerabilities](https://www.cisa.gov/uscert/ncas/current-activity/2022/11/10/cisa-releases-ssvc-methodology-prioritize-vulnerabilities)|<p>Today CISA published its <a href="https://www.cisa.gov/ssvc">guide on Stakeholder-Specific Vulnerability Categorization (SSVC)</a>, a vulnerability management methodology that assesses vulnerabilities and prioritizes remediation efforts based on exploitation status, impacts to safety, and prevalence of the affected product in a singular system.</p>|Thursday, November 10, 2022|
  |[Cisco Releases Security Updates for Multiple Products](https://www.cisa.gov/uscert/ncas/current-activity/2022/11/10/cisco-releases-security-updates-multiple-products)|<p>Cisco has released security updates to address vulnerabilities in multiple Cisco products. A remote attacker could exploit some of these vulnerabilities to take control of an affected system. For updates addressing lower severity vulnerabilities, see the <a href="https://tools.cisco.com/security/center/publicationListing.x">Cisco Security Advisories</a> page. </p>|Thursday, November 10, 2022|
  |[CISA Releases Twenty Industrial Control Systems Advisories](https://www.cisa.gov/uscert/ncas/current-activity/2022/11/10/cisa-releases-twenty-industrial-control-systems-advisories)|<p>CISA has released twenty (20) Industrial Control Systems (ICS) advisories on November 10, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p>|Thursday, November 10, 2022|
  |[CISA Updates Advisory on Threat Actors Exploiting Multiple CVEs Against Zimbra Collaboration Suite](https://www.cisa.gov/uscert/ncas/current-activity/2022/11/10/cisa-updates-advisory-threat-actors-exploiting-multiple-cves)|<p>CISA and the Multi-State Information Sharing &amp; Analysis Center (MS-ISAC) have updated joint Cybersecurity Advisory <a href="https://www.cisa.gov/uscert/ncas/alerts/aa22-228a">AA22-228A: Threat Actors Exploiting Multiple CVEs Against Zimbra Collaboration Suite</a>, originally released August 16, 2022. The advisory has been updated to include an additional Malware Analysis Report containing new indicators of compromise.</p>|Thursday, November 10, 2022|
  |[Microsoft Releases November 2022 Security Updates](https://www.cisa.gov/uscert/ncas/current-activity/2022/11/09/microsoft-releases-november-2022-security-updates)|<p>Microsoft has released updates to address multiple vulnerabilities in Microsoft software. An attacker can exploit some of these vulnerabilities to take control of an affected system.</p>|Wednesday, November 9, 2022|
- |[VMware Releases Security Updates](https://www.cisa.gov/uscert/ncas/current-activity/2022/11/09/vmware-releases-security-updates)|<p>VMware has released security updates to address multiple vulnerabilities in VMware Workspace ONE Assist. A remote attacker could exploit one of these vulnerabilities to take control of an affected system.</p>|Wednesday, November 9, 2022|
  
  ---
 
@@ -57,6 +57,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/jhead-buffer-overflow-via-Put16u-39906" class="noirorange"><b>jhead</b>: buffer overflow via Put16u()</a>](https://vigilance.fr/vulnerability/jhead-buffer-overflow-via-Put16u-39906)|An attacker can trigger a buffer overflow of jhead, via Put16u(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/RHEL-privilege-escalation-via-device-mapper-multipath-39905" class="noirorange"><b>RHEL</b>: privilege escalation via <wbr>device-mapper-multip<wbr>ath</wbr></wbr></a>](https://vigilance.fr/vulnerability/RHEL-privilege-escalation-via-device-mapper-multipath-39905)|An attacker can bypass restrictions of RHEL, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/LibTIFF-integer-overflow-via-TIFFReadRGBATileExt-39904" class="noirorange"><b>LibTIFF</b>: integer overflow via <wbr>TIFFReadRGBATileExt(<wbr>)</wbr></wbr></a>](https://vigilance.fr/vulnerability/LibTIFF-integer-overflow-via-TIFFReadRGBATileExt-39904)|An attacker can trigger an integer overflow of LibTIFF, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Dropbear-Man-in-the-Middle-via-Login-Process-39903" class="noirorange"><b>Dropbear</b>: Man-in-the-Middle via Login Process</a>](https://vigilance.fr/vulnerability/Dropbear-Man-in-the-Middle-via-Login-Process-39903)|An attacker can act as a Man-in-the-Middle on Dropbear, via Login Process, in order to read or write data in the session...|Visit link for details|
@@ -67,7 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Ibexa-DXP-eZ-Platform-multiple-vulnerabilities-39898" class="noirorange"><b>Ibexa DXP  eZ Platform</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Ibexa-DXP-eZ-Platform-multiple-vulnerabilities-39898)|An attacker can use several vulnerabilities of Ibexa DXP  eZ Platform...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Kubernetes-kube-apiserver-information-disclosure-via-Node-Address-39897" class="noirorange"><b>Kubernetes kube-apiserver</b>: information disclosure via Node Address</a>](https://vigilance.fr/vulnerability/Kubernetes-kube-apiserver-information-disclosure-via-Node-Address-39897)|An attacker can bypass access restrictions to data of Kubernetes kube-apiserver, via Node Address, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Kubernetes-kube-apiserver-information-disclosure-via-Custom-Resources-39896" class="noirorange"><b>Kubernetes kube-apiserver</b>: information disclosure via Custom Resources</a>](https://vigilance.fr/vulnerability/Kubernetes-kube-apiserver-information-disclosure-via-Custom-Resources-39896)|An attacker can bypass access restrictions to data of Kubernetes kube-apiserver, via Custom Resources, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-l2cap-parse-conf-req-39895" class="noirorange"><b>Linux kernel</b>: denial of service via <wbr>l2cap_parse_conf_req<wbr>()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-l2cap-parse-conf-req-39895)|An attacker can cause a fatal error of the Linux kernel, via |Visit link for details|
  
  ---
 
@@ -93,14 +93,14 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Webmaster Tools Verification Plugin cross-site request forgery](https://vuldb.com/?id.213598)|Visit link for details|2022-11-14 at 21:38|
- |[ITRS OP5 Monitor cross site scripting](https://vuldb.com/?id.213597)|Visit link for details|2022-11-14 at 21:37|
- |[Concrete CMS External Concrete Authentication Service cross-site request forgery](https://vuldb.com/?id.213596)|Visit link for details|2022-11-14 at 21:35|
- |[kareadita kavita authentication bypass](https://vuldb.com/?id.213595)|Visit link for details|2022-11-14 at 21:34|
- |[Silicon Labs Ember ZNet Packet memory corruption](https://vuldb.com/?id.213594)|Visit link for details|2022-11-14 at 21:34|
- |[HTMLDOC image_set_mask heap-based overflow](https://vuldb.com/?id.213593)|Visit link for details|2022-11-14 at 21:33|
- |[Eramba GRC KPI Title Add cross site scripting](https://vuldb.com/?id.213592)|Visit link for details|2022-11-14 at 21:33|
- |[DigitialPixies OAuth Client Plugin cross-site request forgery](https://vuldb.com/?id.213591)|Visit link for details|2022-11-14 at 21:32|
- |[ProfileGrid Plugin cross site scripting](https://vuldb.com/?id.213590)|Visit link for details|2022-11-14 at 21:31|
- |[WPB Show Core Plugin cross site scripting](https://vuldb.com/?id.213589)|Visit link for details|2022-11-14 at 21:30|
+ |[Diffie-Hellman Key Agreement Protocol Long Exponent resource consumption](https://vuldb.com/?id.213626)|Visit link for details|2022-11-15 at 09:04|
+ |[insyde Kernel VariableRuntimeDxe toctou](https://vuldb.com/?id.213625)|Visit link for details|2022-11-15 at 09:02|
+ |[insyde Kernel NvmExpressDxe buffer overflow](https://vuldb.com/?id.213624)|Visit link for details|2022-11-15 at 09:02|
+ |[insyde Kernel SdMmcDevice buffer overflow](https://vuldb.com/?id.213623)|Visit link for details|2022-11-15 at 09:01|
+ |[insyde Kernel NvmExpressLegacy buffer overflow](https://vuldb.com/?id.213622)|Visit link for details|2022-11-15 at 09:01|
+ |[insyde Kernel Int15ServiceSmm toctou](https://vuldb.com/?id.213621)|Visit link for details|2022-11-15 at 09:00|
+ |[insyde Kernel HddPassword buffer overflow](https://vuldb.com/?id.213620)|Visit link for details|2022-11-15 at 08:56|
+ |[insyde Kernel SdHostDriver buffer overflow](https://vuldb.com/?id.213619)|Visit link for details|2022-11-15 at 08:52|
+ |[insyde Kernel IdeBusDxe Driver buffer overflow](https://vuldb.com/?id.213618)|Visit link for details|2022-11-15 at 08:52|
+ |[insyde Kernel FwBlockServiceSmm buffer overflow](https://vuldb.com/?id.213617)|Visit link for details|2022-11-15 at 08:51|
  
