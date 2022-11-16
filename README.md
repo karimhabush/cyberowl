@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 15/11/2022 21:11:26 UTC
+ > Last Updated 16/11/2022 09:13:16 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -53,28 +53,11 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Twisted-Cross-Site-Scripting-via-Host-Header-39921" class="noirorange"><b>Twisted</b>: Cross Site Scripting via Host Header</a>](https://vigilance.fr/vulnerability/Twisted-Cross-Site-Scripting-via-Host-Header-39921)|An attacker can trigger a Cross Site Scripting of Twisted, via Host Header, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Systemd-buffer-overflow-via-format-timespan-39920" class="noirorange"><b>Systemd</b>: buffer overflow via format_timespan()</a>](https://vigilance.fr/vulnerability/Systemd-buffer-overflow-via-format-timespan-39920)|An attacker can trigger a buffer overflow of Systemd, via format_timespan(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GRUB2-buffer-overflow-via-Unicode-Sequences-39919" class="noirorange"><b>GRUB2</b>: buffer overflow via Unicode Sequences</a>](https://vigilance.fr/vulnerability/GRUB2-buffer-overflow-via-Unicode-Sequences-39919)|An attacker can trigger a buffer overflow of GRUB2, via Unicode Sequences, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GRUB2-buffer-overflow-via-grub-font-construct-glyph-39918" class="noirorange"><b>GRUB2</b>: buffer overflow via <wbr>grub_font_construct_<wbr>glyph()</wbr></wbr></a>](https://vigilance.fr/vulnerability/GRUB2-buffer-overflow-via-grub-font-construct-glyph-39918)|An attacker can trigger a buffer overflow of GRUB2, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Keylime-denial-of-service-via-tornado-requests-39917" class="noirorange"><b>Keylime</b>: denial of service via tornado_requests</a>](https://vigilance.fr/vulnerability/Keylime-denial-of-service-via-tornado-requests-39917)|An attacker can cause a fatal error of Keylime, via tornado_requests, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-39916" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-39916)|An attacker can use several vulnerabilities of Jenkins Plugins...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-ESA-ingress-filtrering-bypass-via-MIME-Message-39915" class="noirorange"><b>Cisco ESA</b>: ingress filtrering bypass via MIME Message</a>](https://vigilance.fr/vulnerability/Cisco-ESA-ingress-filtrering-bypass-via-MIME-Message-39915)|An attacker can bypass filtering rules of Cisco ESA, via MIME Message, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-39914" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-39914)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeRDP-out-of-bounds-memory-reading-via-Video-Command-Line-39913" class="noirorange"><b>FreeRDP</b>: out-of-bounds memory reading via Video Command Line</a>](https://vigilance.fr/vulnerability/FreeRDP-out-of-bounds-memory-reading-via-Video-Command-Line-39913)|An attacker can force a read at an invalid memory address of FreeRDP, via Video Command Line, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeRDP-out-of-bounds-memory-reading-via-Parallel-Command-Line-39912" class="noirorange"><b>FreeRDP</b>: out-of-bounds memory reading via Parallel Command Line</a>](https://vigilance.fr/vulnerability/FreeRDP-out-of-bounds-memory-reading-via-Parallel-Command-Line-39912)|An attacker can force a read at an invalid memory address of FreeRDP, via Parallel Command Line, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Veritas-NetBackup-privilege-escalation-via-Java-Admin-Console-39911" class="noirorange"><b>Veritas NetBackup</b>: privilege escalation via Java Admin Console</a>](https://vigilance.fr/vulnerability/Veritas-NetBackup-privilege-escalation-via-Java-Admin-Console-39911)|An attacker can bypass restrictions of Veritas NetBackup, via Java Admin Console, in order to escalate his privileges...|Visit link for details|
- 
- ---
-
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[39251611/22 - Vulnérabilités dans Mozilla Firefox et Thunderbird ](https://www.dgssi.gov.ma//fr/content/3925161122-vulnerabilites-dans-mozilla-firefox-et-thunderbird.html)|Mozilla a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant lesproduits susmentionnés. Un attaquant pourrait exploiter certaines de ces vulnérabilités afin d’exécuter du code arbitraire à distance et de...|16 novembre 2022|
  |[39241511/22 - Vulnérabilité dans Sophos UTM](https://www.dgssi.gov.ma//fr/content/3924151122-vulnerabilite-dans-sophos-utm.html)|Une vulnérabilité a été corrigée dans Sophos UTM. L’exploitation de cette faille peut permettre à un attaquant de causer un problème de sécurité non spécifié.|15 novembre 2022|
  |[39221511/22- Vulnérabilités affectantle navigateur Microsoft Edge ](https://www.dgssi.gov.ma//fr/content/3922151122-vulnerabilites-affectant-le-navigateur-microsoft-edge.html)|Microsoft vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilités affectant le navigateur Microsoft Edge. L’exploitation de ces vulnérabilités peut permettre à un attaquant de provoquer des problèmes...|15 novembre 2022|
  |[39211411/22 - Vulnérabilité dans PaloAlto Cortex XSOAR ](https://www.dgssi.gov.ma//fr/content/3921141122-vulnerabilite-dans-paloalto-cortex-xsoar.html)|Une vulnérabilité a été corrigée dans PaloAlto Cortex XSOAR. L’exploitation de cette faille peut permettre à un attaquant d’exécuter des commandes avec des privilèges élevés.|14 novembre 2022|
@@ -85,7 +68,24 @@
  |[39141011/22 - Vulnérabilités affectant plusieursproduits deCisco](https://www.dgssi.gov.ma//fr/content/3914101122-vulnerabilites-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’accéder à des informations...|10 novembre 2022|
  |[39171011/22 - Vulnérabilité critique dans Veeam Backup](https://www.dgssi.gov.ma//fr/content/3917101122-vulnerabilite-critique-dans-veeam-backup.html)|Veeam annonce la correction d’une vulnérabilité critique affectant les solutions de backup « Veeam Backup » susmentionnées.L’exploitation de cette faille peut permettre à un attaquant de contourner les mécanismes d'authentification.|10 novembre 2022|
  |[39161011/22 - Vulnérabilités dans les produits SAP](https://www.dgssi.gov.ma//fr/content/3916101122-vulnerabilites-dans-les-produits-sap.html)|SAP annonce la disponibilité d’une mise à jour de sécurité corrigeant plusieurs vulnérabilités critiques affectant les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la...|10 novembre 2022|
- |[39130911/22 - Vulnérabilités critiques affectant le système d’exploitation Android](https://www.dgssi.gov.ma//fr/content/3913091122-vulnerabilites-critiques-affectant-le-systeme-d-exploitation-android.html)|Google annonce la correction de plusieurs vulnérabilités affectantson système d’exploitation Android.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’accéder à des données confidentielles, d’...|09 novembre 2022|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Heimdal-three-vulnerabilities-39922" class="noirorange"><b>Heimdal</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Heimdal-three-vulnerabilities-39922)|An attacker can use several vulnerabilities of Heimdal...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Twisted-Cross-Site-Scripting-via-Host-Header-39921" class="noirorange"><b>Twisted</b>: Cross Site Scripting via Host Header</a>](https://vigilance.fr/vulnerability/Twisted-Cross-Site-Scripting-via-Host-Header-39921)|An attacker can trigger a Cross Site Scripting of Twisted, via Host Header, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Systemd-buffer-overflow-via-format-timespan-39920" class="noirorange"><b>Systemd</b>: buffer overflow via format_timespan()</a>](https://vigilance.fr/vulnerability/Systemd-buffer-overflow-via-format-timespan-39920)|An attacker can trigger a buffer overflow of Systemd, via format_timespan(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GRUB2-buffer-overflow-via-Unicode-Sequences-39919" class="noirorange"><b>GRUB2</b>: buffer overflow via Unicode Sequences</a>](https://vigilance.fr/vulnerability/GRUB2-buffer-overflow-via-Unicode-Sequences-39919)|An attacker can trigger a buffer overflow of GRUB2, via Unicode Sequences, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GRUB2-buffer-overflow-via-grub-font-construct-glyph-39918" class="noirorange"><b>GRUB2</b>: buffer overflow via <wbr>grub_font_construct_<wbr>glyph()</wbr></wbr></a>](https://vigilance.fr/vulnerability/GRUB2-buffer-overflow-via-grub-font-construct-glyph-39918)|An attacker can trigger a buffer overflow of GRUB2, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Keylime-denial-of-service-via-tornado-requests-39917" class="noirorange"><b>Keylime</b>: denial of service via tornado_requests</a>](https://vigilance.fr/vulnerability/Keylime-denial-of-service-via-tornado-requests-39917)|An attacker can cause a fatal error of Keylime, via tornado_requests, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-39916" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-39916)|An attacker can use several vulnerabilities of Jenkins Plugins...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-ESA-ingress-filtrering-bypass-via-MIME-Message-39915" class="noirorange"><b>Cisco ESA</b>: ingress filtrering bypass via MIME Message</a>](https://vigilance.fr/vulnerability/Cisco-ESA-ingress-filtrering-bypass-via-MIME-Message-39915)|An attacker can bypass filtering rules of Cisco ESA, via MIME Message, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-39914" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-39914)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FreeRDP-out-of-bounds-memory-reading-via-Video-Command-Line-39913" class="noirorange"><b>FreeRDP</b>: out-of-bounds memory reading via Video Command Line</a>](https://vigilance.fr/vulnerability/FreeRDP-out-of-bounds-memory-reading-via-Video-Command-Line-39913)|An attacker can force a read at an invalid memory address of FreeRDP, via Video Command Line, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FreeRDP-out-of-bounds-memory-reading-via-Parallel-Command-Line-39912" class="noirorange"><b>FreeRDP</b>: out-of-bounds memory reading via Parallel Command Line</a>](https://vigilance.fr/vulnerability/FreeRDP-out-of-bounds-memory-reading-via-Parallel-Command-Line-39912)|An attacker can force a read at an invalid memory address of FreeRDP, via Parallel Command Line, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  
  ---
 
@@ -93,14 +93,4 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[WBCE CMS Header class.login.php increase_attempts excessive authentication](https://vuldb.com/?id.213716)|Visit link for details|2022-11-15 at 21:39|
- |[ceph Crash Service Local Privilege Escalation](https://vuldb.com/?id.213715)|Visit link for details|2022-11-15 at 21:36|
- |[XPDF PDF File readPageLabelTree2(Object* stack-based overflow](https://vuldb.com/?id.213714)|Visit link for details|2022-11-15 at 21:34|
- |[BlueSpice BlueSpiceDiscovery Skin cross site scripting](https://vuldb.com/?id.213713)|Visit link for details|2022-11-15 at 18:58|
- |[BlueSpice UI cross site scripting](https://vuldb.com/?id.213712)|Visit link for details|2022-11-15 at 18:58|
- |[BlueSpice BlueSpiceBookshelf Extension cross site scripting](https://vuldb.com/?id.213711)|Visit link for details|2022-11-15 at 18:58|
- |[BlueSpice BlueSpiceSocialProfile Extension cross site scripting](https://vuldb.com/?id.213710)|Visit link for details|2022-11-15 at 18:57|
- |[BlueSpice BlueSpiceFoundation Extension cross site scripting](https://vuldb.com/?id.213709)|Visit link for details|2022-11-15 at 18:56|
- |[BlueSpice BlueSpiceUserSidebar Extension cross site scripting](https://vuldb.com/?id.213708)|Visit link for details|2022-11-15 at 18:55|
- |[BlueSpice BlueSpiceCustomMenu Extension cross site scripting](https://vuldb.com/?id.213707)|Visit link for details|2022-11-15 at 18:55|
  
