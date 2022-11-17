@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 16/11/2022 21:11:04 UTC
+ > Last Updated 17/11/2022 09:11:56 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,6 +57,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-InfoSphere-DataStage-code-execution-via-Special-Elements-39930" class="noirorange"><b>IBM InfoSphere DataStage</b>: code execution via Special Elements</a>](https://vigilance.fr/vulnerability/IBM-InfoSphere-DataStage-code-execution-via-Special-Elements-39930)|An attacker can use a vulnerability of IBM InfoSphere DataStage, via Special Elements, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-code-execution-via-Advanced-Shell-39929" class="noirorange"><b>F5 BIG-IP</b>: code execution via Advanced Shell</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-code-execution-via-Advanced-Shell-39929)|An attacker can use a vulnerability of F5 BIG-IP, via Advanced Shell, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-privilege-escalation-via-iControl-REST-39928" class="noirorange"><b>F5 BIG-IP</b>: privilege escalation via iControl REST</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-privilege-escalation-via-iControl-REST-39928)|An attacker can bypass restrictions of F5 BIG-IP, via iControl REST, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-Cross-Site-Request-Forgery-via-iControl-SOAP-39927" class="noirorange"><b>F5 BIG-IP</b>: Cross Site Request Forgery via iControl SOAP</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-Cross-Site-Request-Forgery-via-iControl-SOAP-39927)|An attacker can trigger a Cross Site Request Forgery of F5 BIG-IP, via iControl SOAP, in order to force the victim to perform operations...|Visit link for details|
@@ -67,24 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Twisted-Cross-Site-Scripting-via-Host-Header-39921" class="noirorange"><b>Twisted</b>: Cross Site Scripting via Host Header</a>](https://vigilance.fr/vulnerability/Twisted-Cross-Site-Scripting-via-Host-Header-39921)|An attacker can trigger a Cross Site Scripting of Twisted, via Host Header, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Systemd-buffer-overflow-via-format-timespan-39920" class="noirorange"><b>Systemd</b>: buffer overflow via format_timespan()</a>](https://vigilance.fr/vulnerability/Systemd-buffer-overflow-via-format-timespan-39920)|An attacker can trigger a buffer overflow of Systemd, via format_timespan(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GRUB2-buffer-overflow-via-Unicode-Sequences-39919" class="noirorange"><b>GRUB2</b>: buffer overflow via Unicode Sequences</a>](https://vigilance.fr/vulnerability/GRUB2-buffer-overflow-via-Unicode-Sequences-39919)|An attacker can trigger a buffer overflow of GRUB2, via Unicode Sequences, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GRUB2-buffer-overflow-via-grub-font-construct-glyph-39918" class="noirorange"><b>GRUB2</b>: buffer overflow via <wbr>grub_font_construct_<wbr>glyph()</wbr></wbr></a>](https://vigilance.fr/vulnerability/GRUB2-buffer-overflow-via-grub-font-construct-glyph-39918)|An attacker can trigger a buffer overflow of GRUB2, via |Visit link for details|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[IBM Sterling Partner Engagement Manager insecure storage of sensitive information](https://vuldb.com/?id.213808)|Visit link for details|2022-11-16 at 20:28|
- |[Zenario CMS User cross site scripting](https://vuldb.com/?id.213807)|Visit link for details|2022-11-16 at 19:16|
- |[Zenario CMS Profile cross site scripting](https://vuldb.com/?id.213806)|Visit link for details|2022-11-16 at 19:16|
- |[Zenario CMS News Article cross site scripting](https://vuldb.com/?id.213805)|Visit link for details|2022-11-16 at 19:13|
- |[Zenario CMS Nest Library Module cross site scripting](https://vuldb.com/?id.213804)|Visit link for details|2022-11-16 at 19:13|
- |[Arobas Music Guitar Pro Web Request pathname traversal](https://vuldb.com/?id.213803)|Visit link for details|2022-11-16 at 19:12|
- |[Arobas Music Guitar Pro cross site scripting](https://vuldb.com/?id.213802)|Visit link for details|2022-11-16 at 19:11|
- |[SeaCms index.php sql injection](https://vuldb.com/?id.213801)|Visit link for details|2022-11-16 at 19:09|
- |[Hoosk PHP File attachments unrestricted upload](https://vuldb.com/?id.213800)|Visit link for details|2022-11-16 at 19:09|
- |[Human Resource Management System login.php sql injection](https://vuldb.com/?id.213799)|Visit link for details|2022-11-16 at 19:08|
  
  ---
 
@@ -103,4 +86,11 @@
  |[39141011/22 - Vulnérabilités affectant plusieursproduits deCisco](https://www.dgssi.gov.ma//fr/content/3914101122-vulnerabilites-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’accéder à des informations...|10 novembre 2022|
  |[39171011/22 - Vulnérabilité critique dans Veeam Backup](https://www.dgssi.gov.ma//fr/content/3917101122-vulnerabilite-critique-dans-veeam-backup.html)|Veeam annonce la correction d’une vulnérabilité critique affectant les solutions de backup « Veeam Backup » susmentionnées.L’exploitation de cette faille peut permettre à un attaquant de contourner les mécanismes d'authentification.|10 novembre 2022|
  |[39161011/22 - Vulnérabilités dans les produits SAP](https://www.dgssi.gov.ma//fr/content/3916101122-vulnerabilites-dans-les-produits-sap.html)|SAP annonce la disponibilité d’une mise à jour de sécurité corrigeant plusieurs vulnérabilités critiques affectant les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la...|10 novembre 2022|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
