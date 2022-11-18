@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 18/11/2022 09:11:47 UTC
+ > Last Updated 18/11/2022 21:10:38 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,6 +57,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-read-bbreg-hdl-39940" class="noirorange"><b>Linux kernel</b>: reuse after free via read_bbreg_hdl()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-read-bbreg-hdl-39940)|An attacker can force the reuse of a freed memory area of the Linux kernel, via read_bbreg_hdl(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FreeRDP-directory-traversal-via-Drive-Channel-39939" class="noirorange"><b>FreeRDP</b>: directory traversal via Drive Channel</a>](https://vigilance.fr/vulnerability/FreeRDP-directory-traversal-via-Drive-Channel-39939)|An attacker can traverse directories of FreeRDP, via Drive Channel, in order to read a file outside the service root path...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FreeRDP-out-of-bounds-memory-reading-via-Drive-Channel-39938" class="noirorange"><b>FreeRDP</b>: out-of-bounds memory reading via Drive Channel</a>](https://vigilance.fr/vulnerability/FreeRDP-out-of-bounds-memory-reading-via-Drive-Channel-39938)|An attacker can force a read at an invalid memory address of FreeRDP, via Drive Channel, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FreeRDP-five-vulnerabilities-39937" class="noirorange"><b>FreeRDP</b>: five vulnerabilities</a>](https://vigilance.fr/vulnerability/FreeRDP-five-vulnerabilities-39937)|An attacker can use several vulnerabilities of FreeRDP...|Visit link for details|
@@ -67,7 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/IBM-InfoSphere-DataStage-code-execution-via-Special-Elements-39930" class="noirorange"><b>IBM InfoSphere DataStage</b>: code execution via Special Elements</a>](https://vigilance.fr/vulnerability/IBM-InfoSphere-DataStage-code-execution-via-Special-Elements-39930)|An attacker can use a vulnerability of IBM InfoSphere DataStage, via Special Elements, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-code-execution-via-Advanced-Shell-39929" class="noirorange"><b>F5 BIG-IP</b>: code execution via Advanced Shell</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-code-execution-via-Advanced-Shell-39929)|An attacker can use a vulnerability of F5 BIG-IP, via Advanced Shell, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-privilege-escalation-via-iControl-REST-39928" class="noirorange"><b>F5 BIG-IP</b>: privilege escalation via iControl REST</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-privilege-escalation-via-iControl-REST-39928)|An attacker can bypass restrictions of F5 BIG-IP, via iControl REST, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-Cross-Site-Request-Forgery-via-iControl-SOAP-39927" class="noirorange"><b>F5 BIG-IP</b>: Cross Site Request Forgery via iControl SOAP</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-Cross-Site-Request-Forgery-via-iControl-SOAP-39927)|An attacker can trigger a Cross Site Request Forgery of F5 BIG-IP, via iControl SOAP, in order to force the victim to perform operations...|Visit link for details|
  
  ---
 
@@ -93,4 +93,14 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[drachtio server request-handler.cpp event_cb use after free](https://vuldb.com/?id.213930)|Visit link for details|2022-11-18 at 20:42|
+ |[drachtio server permission](https://vuldb.com/?id.213929)|Visit link for details|2022-11-18 at 20:41|
+ |[D-Link DIR3060 buffer overflow](https://vuldb.com/?id.213928)|Visit link for details|2022-11-18 at 20:40|
+ |[Automotive Shop Management System sql injection](https://vuldb.com/?id.213927)|Visit link for details|2022-11-18 at 20:39|
+ |[Automotive Shop Management System sql injection](https://vuldb.com/?id.213926)|Visit link for details|2022-11-18 at 20:39|
+ |[JetBrains Hub Email allocation of resources](https://vuldb.com/?id.213925)|Visit link for details|2022-11-18 at 19:00|
+ |[Karmasis Infraskope Security Event Manager information disclosure](https://vuldb.com/?id.213924)|Visit link for details|2022-11-18 at 12:26|
+ |[Karmasis Infraskope Security Event Manager access control](https://vuldb.com/?id.213923)|Visit link for details|2022-11-18 at 12:25|
+ |[Webvendome GET Request information disclosure](https://vuldb.com/?id.213922)|Visit link for details|2022-11-18 at 09:10|
+ |[WPML Multilingual CMS Premium Plugin cross-site request forgery](https://vuldb.com/?id.213921)|Visit link for details|2022-11-18 at 09:09|
  
