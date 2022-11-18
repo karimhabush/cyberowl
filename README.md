@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 17/11/2022 21:10:58 UTC
+ > Last Updated 18/11/2022 09:11:47 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -27,47 +27,12 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA, NSA, and ODNI Release Guidance for Customers on Securing the Software Supply Chain ](https://www.cisa.gov/uscert/ncas/current-activity/2022/11/17/cisa-nsa-and-odni-release-guidance-customers-securing-software)|<p>Today, CISA, the National Security Agency (NSA), and the Office of the Director of National Intelligence (ODNI), published the third of a three-part series on securing the software supply chain: <a href="https://media.defense.gov/2022/Nov/17/2003116445/-1/-1/0/ESF_SECURING_THE_SOFTWARE_SUPPLY_CHAIN_CUSTOMER.PDF">Securing Software Supply Chain Series - Recommended Practices Guide for Customers</a>.</p>|Thursday, November 17, 2022|
  |[#StopRansomware: Hive](https://www.cisa.gov/uscert/ncas/current-activity/2022/11/17/stopransomware-hive)|<p>Today, CISA, the Federal Bureau of Investigation (FBI), and the Department of Health and Human Services (HHS) released joint Cybersecurity Advisory (CSA) <a href="https://www.cisa.gov/uscert/ncas/alerts/aa22-321a">#StopRansomware: Hive Ransomware</a> to provide network defenders tactics, techniques, and procedures (TTPs) and indicators of compromise (IOCs) associated with Hive ransomware variants. FBI investigations identified these TTPs and IOCs as recently as November 2022. </p>|Thursday, November 17, 2022|
  |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/uscert/ncas/current-activity/2022/11/17/cisa-releases-two-industrial-control-systems-advisories)|<p>CISA has released two (2) Industrial Control Systems (ICS) advisories on November 17, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p>|Thursday, November 17, 2022|
  |[Cisco Releases Security Updates for Identity Services Engine](https://www.cisa.gov/uscert/ncas/current-activity/2022/11/16/cisco-releases-security-updates-identity-services-engine)|<p>Cisco has released security updates for vulnerabilities affecting Cisco Identity Services Engine (ISE). A remote attacker could exploit some of these vulnerabilities to bypass authorization and access system files. For updates addressing vulnerabilities, see the <a href="https://tools.cisco.com/security/center/publicationListing.x">Cisco Security Advisories page</a>.   </p>|Wednesday, November 16, 2022|
  |[Samba Releases Security Updates](https://www.cisa.gov/uscert/ncas/current-activity/2022/11/16/samba-releases-security-updates)|<p>The Samba Team has released <a href="https://www.samba.org/samba/history/security.html">security updates</a> to address vulnerabilities in multiple versions of Samba. An attacker could exploit some of these vulnerabilities to take control of an affected system.</p>|Wednesday, November 16, 2022|
  |[Mozilla Releases Security Updates for Multiple Products](https://www.cisa.gov/uscert/ncas/current-activity/2022/11/16/mozilla-releases-security-updates-multiple-products)|<p>Mozilla has released security updates to address vulnerabilities in Thunderbird, Firefox ESR, and Firefox. An attacker could exploit these vulnerabilities to cause user confusion or conduct spoofing attacks.</p>|Wednesday, November 16, 2022|
- |[CISA and FBI Release Advisory on Iranian Government-Sponsored APT Actors Compromising Federal Network](https://www.cisa.gov/uscert/ncas/current-activity/2022/11/16/cisa-and-fbi-release-advisory-iranian-government-sponsored-apt)|<p>Today, CISA and the Federal Bureau of Investigation (FBI) published a joint Cybersecurity Advisory (CSA), <a href="https://www.cisa.gov/uscert/ncas/alerts/aa22-320a">Iranian Government-Sponsored APT Actors Compromise Federal Network, Deploy Crypto Miner, Credential Harvester</a>. The CSA provides information on an incident at a Federal Civilian Executive Branch (FCEB) organization in which Iranian government-sponsored APT actors exploited a Log4Shell vulnerability in unpatched VMware Horizon server.</p>|Wednesday, November 16, 2022|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/phpseclib-weak-signature-39935" class="noirorange"><b>phpseclib</b>: weak signature</a>](https://vigilance.fr/vulnerability/phpseclib-weak-signature-39935)|An attacker can use malicious data on phpseclib, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jupyter-Core-code-execution-via-Current-Working-Directory-39934" class="noirorange"><b>Jupyter Core</b>: code execution via Current Working Directory</a>](https://vigilance.fr/vulnerability/Jupyter-Core-code-execution-via-Current-Working-Directory-39934)|An attacker can use a vulnerability of Jupyter Core, via Current Working Directory, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PJSIP-buffer-overflow-via-pjmedia-rtcp-fb-parse-rpsi-39933" class="noirorange"><b>PJSIP</b>: buffer overflow via <wbr>pjmedia_rtcp_fb_pars<wbr>e_rpsi()</wbr></wbr></a>](https://vigilance.fr/vulnerability/PJSIP-buffer-overflow-via-pjmedia-rtcp-fb-parse-rpsi-39933)|An attacker can trigger a buffer overflow of PJSIP, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-InfoSphere-DataStage-code-execution-via-Special-Elements-39930" class="noirorange"><b>IBM InfoSphere DataStage</b>: code execution via Special Elements</a>](https://vigilance.fr/vulnerability/IBM-InfoSphere-DataStage-code-execution-via-Special-Elements-39930)|An attacker can use a vulnerability of IBM InfoSphere DataStage, via Special Elements, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-code-execution-via-Advanced-Shell-39929" class="noirorange"><b>F5 BIG-IP</b>: code execution via Advanced Shell</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-code-execution-via-Advanced-Shell-39929)|An attacker can use a vulnerability of F5 BIG-IP, via Advanced Shell, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-privilege-escalation-via-iControl-REST-39928" class="noirorange"><b>F5 BIG-IP</b>: privilege escalation via iControl REST</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-privilege-escalation-via-iControl-REST-39928)|An attacker can bypass restrictions of F5 BIG-IP, via iControl REST, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-Cross-Site-Request-Forgery-via-iControl-SOAP-39927" class="noirorange"><b>F5 BIG-IP</b>: Cross Site Request Forgery via iControl SOAP</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-Cross-Site-Request-Forgery-via-iControl-SOAP-39927)|An attacker can trigger a Cross Site Request Forgery of F5 BIG-IP, via iControl SOAP, in order to force the victim to perform operations...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/jsoup-Cross-Site-Scripting-via-Unsanitized-SafeList-preserveRelativeLinks-39926" class="noirorange"><b>jsoup</b>: Cross Site Scripting via Unsanitized <wbr>SafeList.preserveRel<wbr>ativeLinks</wbr></wbr></a>](https://vigilance.fr/vulnerability/jsoup-Cross-Site-Scripting-via-Unsanitized-SafeList-preserveRelativeLinks-39926)|An attacker can trigger a Cross Site Scripting of jsoup, via Unsanitized |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Python-Core-information-disclosure-via-Gc-Module-Per-interpreter-Audit-Hooks-39925" class="noirorange"><b>Python Core</b>: information disclosure via Gc Module Per-interpreter Audit Hooks</a>](https://vigilance.fr/vulnerability/Python-Core-information-disclosure-via-Gc-Module-Per-interpreter-Audit-Hooks-39925)|An attacker can bypass access restrictions to data of Python Core, via Gc Module Per-interpreter Audit Hooks, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Spring-Framework-logged-sensitive-information-via-DefaultWebClient-39924" class="noirorange"><b>Spring Framework</b>: logged sensitive information via DefaultWebClient</a>](https://vigilance.fr/vulnerability/Spring-Framework-logged-sensitive-information-via-DefaultWebClient-39924)|An attacker can read logs of Spring Framework, via DefaultWebClient, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Heimdal-three-vulnerabilities-39922" class="noirorange"><b>Heimdal</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Heimdal-three-vulnerabilities-39922)|An attacker can use several vulnerabilities of Heimdal...|Visit link for details|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Cradlepoint IBR600 command injection](https://vuldb.com/?id.213864)|Visit link for details|2022-11-17 at 20:59|
- |[Red Lion Controls Crimson path traversal](https://vuldb.com/?id.213863)|Visit link for details|2022-11-17 at 20:58|
- |[Automotive Shop Management System sql injection](https://vuldb.com/?id.213862)|Visit link for details|2022-11-17 at 20:53|
- |[Siemens Syngo Dynamics Web Service server-side request forgery](https://vuldb.com/?id.213861)|Visit link for details|2022-11-17 at 20:52|
- |[Dolibarr API Privilege Escalation](https://vuldb.com/?id.213860)|Visit link for details|2022-11-17 at 20:51|
- |[kkFileView server-side request forgery](https://vuldb.com/?id.213859)|Visit link for details|2022-11-17 at 20:50|
- |[Lancet ZIP File path traversal](https://vuldb.com/?id.213858)|Visit link for details|2022-11-17 at 20:46|
- |[oretnom23 Automotive Shop Management System sql injection](https://vuldb.com/?id.213857)|Visit link for details|2022-11-17 at 20:45|
- |[rConfig PHP File unrestricted upload](https://vuldb.com/?id.213856)|Visit link for details|2022-11-17 at 20:45|
- |[IBM Business Automation Workflow Web UI cross site scripting](https://vuldb.com/?id.213855)|Visit link for details|2022-11-17 at 20:44|
  
  ---
 
@@ -85,6 +50,24 @@
  |[[SCADA] Vulnérabilité dans Moxa NE-4100T](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1032/)|Une vulnérabilité a été découverte dans Moxa NE-4100T. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 15 novembre 2022|
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1031/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 14 novembre 2022|
  |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1030/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 novembre 2022|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/FreeRDP-directory-traversal-via-Drive-Channel-39939" class="noirorange"><b>FreeRDP</b>: directory traversal via Drive Channel</a>](https://vigilance.fr/vulnerability/FreeRDP-directory-traversal-via-Drive-Channel-39939)|An attacker can traverse directories of FreeRDP, via Drive Channel, in order to read a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FreeRDP-out-of-bounds-memory-reading-via-Drive-Channel-39938" class="noirorange"><b>FreeRDP</b>: out-of-bounds memory reading via Drive Channel</a>](https://vigilance.fr/vulnerability/FreeRDP-out-of-bounds-memory-reading-via-Drive-Channel-39938)|An attacker can force a read at an invalid memory address of FreeRDP, via Drive Channel, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FreeRDP-five-vulnerabilities-39937" class="noirorange"><b>FreeRDP</b>: five vulnerabilities</a>](https://vigilance.fr/vulnerability/FreeRDP-five-vulnerabilities-39937)|An attacker can use several vulnerabilities of FreeRDP...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Go-ingress-filtrering-bypass-via-Nul-Set-Environment-Variables-39936" class="noirorange"><b>Go</b>: ingress filtrering bypass via Nul Set Environment Variables</a>](https://vigilance.fr/vulnerability/Go-ingress-filtrering-bypass-via-Nul-Set-Environment-Variables-39936)|An attacker can bypass filtering rules of Go, via Nul Set Environment Variables, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/phpseclib-weak-signature-39935" class="noirorange"><b>phpseclib</b>: weak signature</a>](https://vigilance.fr/vulnerability/phpseclib-weak-signature-39935)|An attacker can use malicious data on phpseclib, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Jupyter-Core-code-execution-via-Current-Working-Directory-39934" class="noirorange"><b>Jupyter Core</b>: code execution via Current Working Directory</a>](https://vigilance.fr/vulnerability/Jupyter-Core-code-execution-via-Current-Working-Directory-39934)|An attacker can use a vulnerability of Jupyter Core, via Current Working Directory, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PJSIP-buffer-overflow-via-pjmedia-rtcp-fb-parse-rpsi-39933" class="noirorange"><b>PJSIP</b>: buffer overflow via <wbr>pjmedia_rtcp_fb_pars<wbr>e_rpsi()</wbr></wbr></a>](https://vigilance.fr/vulnerability/PJSIP-buffer-overflow-via-pjmedia-rtcp-fb-parse-rpsi-39933)|An attacker can trigger a buffer overflow of PJSIP, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-InfoSphere-DataStage-code-execution-via-Special-Elements-39930" class="noirorange"><b>IBM InfoSphere DataStage</b>: code execution via Special Elements</a>](https://vigilance.fr/vulnerability/IBM-InfoSphere-DataStage-code-execution-via-Special-Elements-39930)|An attacker can use a vulnerability of IBM InfoSphere DataStage, via Special Elements, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-code-execution-via-Advanced-Shell-39929" class="noirorange"><b>F5 BIG-IP</b>: code execution via Advanced Shell</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-code-execution-via-Advanced-Shell-39929)|An attacker can use a vulnerability of F5 BIG-IP, via Advanced Shell, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-privilege-escalation-via-iControl-REST-39928" class="noirorange"><b>F5 BIG-IP</b>: privilege escalation via iControl REST</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-privilege-escalation-via-iControl-REST-39928)|An attacker can bypass restrictions of F5 BIG-IP, via iControl REST, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-Cross-Site-Request-Forgery-via-iControl-SOAP-39927" class="noirorange"><b>F5 BIG-IP</b>: Cross Site Request Forgery via iControl SOAP</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-Cross-Site-Request-Forgery-via-iControl-SOAP-39927)|An attacker can trigger a Cross Site Request Forgery of F5 BIG-IP, via iControl SOAP, in order to force the victim to perform operations...|Visit link for details|
  
  ---
 
@@ -106,30 +89,8 @@
  
  ---
 
-## IBMCLOUD [:arrow_heading_up:](#cyberowl)
+## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[F5 BIG-IP and BIG-IQ cross-site request forgery (CVE-2022-41622)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 16, 2022|
- |[Cisco Identity Services Engine cross-site scripting (CVE-2022-20967)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 16, 2022|
- |[Cisco Identity Services Engine cross-site scripting (CVE-2022-20966)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 16, 2022|
- |[Cisco Identity Services Engine command execution (CVE-2022-20964)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 16, 2022|
- |[Cisco Identity Services Engine security bypass (CVE-2022-20965)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 16, 2022|
- |[IBM UrbanCode Deploy information disclosure (CVE-2022-40751)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 16, 2022|
- |[Apache MINA SSHD code execution (CVE-2022-45047)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Nov 15, 2022|
- 
- ---
-
-## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Siemens Simcenter Femap X_T File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1594/)|Visit link for details|Nov. 17, 2022|
- |[Siemens Simcenter Femap X_T File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1593/)|Visit link for details|Nov. 17, 2022|
- |[Parse Server _expandResultOnKeyPath Prototype Pollution Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1592/)|Visit link for details|Nov. 15, 2022|
- |[Parse Server buildUpdatedObject Prototype Pollution Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1591/)|Visit link for details|Nov. 15, 2022|
- |[Parse Server transformUpdate Prototype Pollution Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1590/)|Visit link for details|Nov. 15, 2022|
- |[Microsoft Windows Output Protection Manager Integer Overflow Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1589/)|Visit link for details|Nov. 15, 2022|
- |[SAP 3D Visual Enterprise Author SLDPRT File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1588/)|Visit link for details|Nov. 3, 2022|
- |[SAP 3D Visual Enterprise Author EMF File Parsing Out-Of-Bounds Read Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1587/)|Visit link for details|Nov. 3, 2022|
  
