@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 19/11/2022 09:12:39 UTC
+ > Last Updated 19/11/2022 21:11:21 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,6 +33,24 @@
  |[Cisco Releases Security Updates for Identity Services Engine](https://www.cisa.gov/uscert/ncas/current-activity/2022/11/16/cisco-releases-security-updates-identity-services-engine)|<p>Cisco has released security updates for vulnerabilities affecting Cisco Identity Services Engine (ISE). A remote attacker could exploit some of these vulnerabilities to bypass authorization and access system files. For updates addressing vulnerabilities, see the <a href="https://tools.cisco.com/security/center/publicationListing.x">Cisco Security Advisories page</a>.   </p>|Wednesday, November 16, 2022|
  |[Samba Releases Security Updates](https://www.cisa.gov/uscert/ncas/current-activity/2022/11/16/samba-releases-security-updates)|<p>The Samba Team has released <a href="https://www.samba.org/samba/history/security.html">security updates</a> to address vulnerabilities in multiple versions of Samba. An attacker could exploit some of these vulnerabilities to take control of an affected system.</p>|Wednesday, November 16, 2022|
  |[Mozilla Releases Security Updates for Multiple Products](https://www.cisa.gov/uscert/ncas/current-activity/2022/11/16/mozilla-releases-security-updates-multiple-products)|<p>Mozilla has released security updates to address vulnerabilities in Thunderbird, Firefox ESR, and Firefox. An attacker could exploit these vulnerabilities to cause user confusion or conduct spoofing attacks.</p>|Wednesday, November 16, 2022|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[39281711/22 - Vulnérabilités dans les produits F5](https://www.dgssi.gov.ma//fr/content/3928171122-vulnerabilites-dans-les-produits-f5.html)|Deux vulnérabilités ont été corrigées dans les produits F5 susmentionnés. L'exploitation de ces failles permet à un attaquant d’exécuter du code arbitraire à distance, de porter atteinte aux informations confidentielles et de...|17 novembre 2022|
+ |[39271711/22 - Vulnérabilité dans Samba](https://www.dgssi.gov.ma//fr/content/3927171122-vulnerabilite-dans-samba.html)|Une vulnérabilité a été corrigée dans Samba, permet à un attaquant d’exécuter des commandes arbitraires à distance, de contourner la politique de sécurité et de causer un déni de service.|17 novembre 2022|
+ |[39261711/22 - Vulnérabilités affectant Cisco Identity Services Engine](https://www.dgssi.gov.ma//fr/content/3926171122-vulnerabilites-affectant-cisco-identity-services-engine.html)|Cisco annonce la correction de quatre vulnérabilités affectant certaines versions de son produit Identity Services Engine.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’injecter du contenu dans une...|17 novembre 2022|
+ |[39251611/22 - Vulnérabilités dans Mozilla Firefox et Thunderbird ](https://www.dgssi.gov.ma//fr/content/3925161122-vulnerabilites-dans-mozilla-firefox-et-thunderbird.html)|Mozilla a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant lesproduits susmentionnés. Un attaquant pourrait exploiter certaines de ces vulnérabilités afin d’exécuter du code arbitraire à distance et de...|16 novembre 2022|
+ |[39241511/22 - Vulnérabilité dans Sophos UTM](https://www.dgssi.gov.ma//fr/content/3924151122-vulnerabilite-dans-sophos-utm.html)|Une vulnérabilité a été corrigée dans Sophos UTM. L’exploitation de cette faille peut permettre à un attaquant de causer un problème de sécurité non spécifié.|15 novembre 2022|
+ |[39221511/22- Vulnérabilités affectantle navigateur Microsoft Edge ](https://www.dgssi.gov.ma//fr/content/3922151122-vulnerabilites-affectant-le-navigateur-microsoft-edge.html)|Microsoft vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilités affectant le navigateur Microsoft Edge. L’exploitation de ces vulnérabilités peut permettre à un attaquant de provoquer des problèmes...|15 novembre 2022|
+ |[39211411/22 - Vulnérabilité dans PaloAlto Cortex XSOAR ](https://www.dgssi.gov.ma//fr/content/3921141122-vulnerabilite-dans-paloalto-cortex-xsoar.html)|Une vulnérabilité a été corrigée dans PaloAlto Cortex XSOAR. L’exploitation de cette faille peut permettre à un attaquant d’exécuter des commandes avec des privilèges élevés.|14 novembre 2022|
+ |[39201111/22 - Vulnérabilités affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma//fr/content/3920111122-vulnerabilites-affectant-plusieurs-produits-d-apple.html)|Apple annonce lacorrectionde deuxvulnérabilitésaffectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peutpermettre à un attaquant distant d’exécuter du code arbitraire ou de causer un déni de service.|11 novembre 2022|
+ |[39191011/22 - Vulnérabilités affectant des produitsAMD ](https://www.dgssi.gov.ma//fr/content/3919101122-vulnerabilites-affectant-des-produits-amd.html)|AMD annonce la correction de plusieurs vulnérabilités affectant ses produits susmentionnés. En exploitant ces vulnérabilités, un attaquant peut exécuter du code arbitraire, accéder à des informations confidentielles, élever ses privilèges...|10 novembre 2022|
+ |[39181011/22 - Vulnérabilités critiques dans les produits Lenovo](https://www.dgssi.gov.ma//fr/content/3918101122-vulnerabilites-critiques-dans-les-produits-lenovo.html)|Trois vulnérabilités critiques ont été corrigées dans plusieurs produits Lenovo permettant à un attaquant de désactiver UEFI Secure Boot qui garantit qu'aucun code malveillant ne peut être chargé et exécuté pendant le processus de...|10 novembre 2022|
+ |[39151011/22 - Vulnérabilités critiques affectant des produits d’Intel](https://www.dgssi.gov.ma//fr/content/3915101122-vulnerabilites-critiques-affectant-des-produits-d-intel.html)|Intel annonce la disponibilité de mises à jour de sécurité qui corrigent des vulnérabilités critiquesaffectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peut permettre à un attaquant d’accéder à des données...|10 novembre 2022|
  
  ---
 
@@ -71,36 +89,18 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[39281711/22 - Vulnérabilités dans les produits F5](https://www.dgssi.gov.ma//fr/content/3928171122-vulnerabilites-dans-les-produits-f5.html)|Deux vulnérabilités ont été corrigées dans les produits F5 susmentionnés. L'exploitation de ces failles permet à un attaquant d’exécuter du code arbitraire à distance, de porter atteinte aux informations confidentielles et de...|17 novembre 2022|
- |[39271711/22 - Vulnérabilité dans Samba](https://www.dgssi.gov.ma//fr/content/3927171122-vulnerabilite-dans-samba.html)|Une vulnérabilité a été corrigée dans Samba, permet à un attaquant d’exécuter des commandes arbitraires à distance, de contourner la politique de sécurité et de causer un déni de service.|17 novembre 2022|
- |[39261711/22 - Vulnérabilités affectant Cisco Identity Services Engine](https://www.dgssi.gov.ma//fr/content/3926171122-vulnerabilites-affectant-cisco-identity-services-engine.html)|Cisco annonce la correction de quatre vulnérabilités affectant certaines versions de son produit Identity Services Engine.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’injecter du contenu dans une...|17 novembre 2022|
- |[39251611/22 - Vulnérabilités dans Mozilla Firefox et Thunderbird ](https://www.dgssi.gov.ma//fr/content/3925161122-vulnerabilites-dans-mozilla-firefox-et-thunderbird.html)|Mozilla a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant lesproduits susmentionnés. Un attaquant pourrait exploiter certaines de ces vulnérabilités afin d’exécuter du code arbitraire à distance et de...|16 novembre 2022|
- |[39241511/22 - Vulnérabilité dans Sophos UTM](https://www.dgssi.gov.ma//fr/content/3924151122-vulnerabilite-dans-sophos-utm.html)|Une vulnérabilité a été corrigée dans Sophos UTM. L’exploitation de cette faille peut permettre à un attaquant de causer un problème de sécurité non spécifié.|15 novembre 2022|
- |[39221511/22- Vulnérabilités affectantle navigateur Microsoft Edge ](https://www.dgssi.gov.ma//fr/content/3922151122-vulnerabilites-affectant-le-navigateur-microsoft-edge.html)|Microsoft vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilités affectant le navigateur Microsoft Edge. L’exploitation de ces vulnérabilités peut permettre à un attaquant de provoquer des problèmes...|15 novembre 2022|
- |[39211411/22 - Vulnérabilité dans PaloAlto Cortex XSOAR ](https://www.dgssi.gov.ma//fr/content/3921141122-vulnerabilite-dans-paloalto-cortex-xsoar.html)|Une vulnérabilité a été corrigée dans PaloAlto Cortex XSOAR. L’exploitation de cette faille peut permettre à un attaquant d’exécuter des commandes avec des privilèges élevés.|14 novembre 2022|
- |[39201111/22 - Vulnérabilités affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma//fr/content/3920111122-vulnerabilites-affectant-plusieurs-produits-d-apple.html)|Apple annonce lacorrectionde deuxvulnérabilitésaffectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peutpermettre à un attaquant distant d’exécuter du code arbitraire ou de causer un déni de service.|11 novembre 2022|
- |[39191011/22 - Vulnérabilités affectant des produitsAMD ](https://www.dgssi.gov.ma//fr/content/3919101122-vulnerabilites-affectant-des-produits-amd.html)|AMD annonce la correction de plusieurs vulnérabilités affectant ses produits susmentionnés. En exploitant ces vulnérabilités, un attaquant peut exécuter du code arbitraire, accéder à des informations confidentielles, élever ses privilèges...|10 novembre 2022|
- |[39181011/22 - Vulnérabilités critiques dans les produits Lenovo](https://www.dgssi.gov.ma//fr/content/3918101122-vulnerabilites-critiques-dans-les-produits-lenovo.html)|Trois vulnérabilités critiques ont été corrigées dans plusieurs produits Lenovo permettant à un attaquant de désactiver UEFI Secure Boot qui garantit qu'aucun code malveillant ne peut être chargé et exécuté pendant le processus de...|10 novembre 2022|
- |[39151011/22 - Vulnérabilités critiques affectant des produits d’Intel](https://www.dgssi.gov.ma//fr/content/3915101122-vulnerabilites-critiques-affectant-des-produits-d-intel.html)|Intel annonce la disponibilité de mises à jour de sécurité qui corrigent des vulnérabilités critiquesaffectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peut permettre à un attaquant d’accéder à des données...|10 novembre 2022|
- 
- ---
-
 ## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[Appointment Hour Booking Plugin authorization](https://vuldb.com/?id.213990)|Visit link for details|2022-11-19 at 10:10|
- |[Quiz and Survey Master Plugin unknown vulnerability](https://vuldb.com/?id.213989)|Visit link for details|2022-11-19 at 10:03|
- |[knative func information disclosure](https://vuldb.com/?id.213988)|Visit link for details|2022-11-19 at 09:42|
- |[Import Shopify to WooCommerce Plugin path traversal](https://vuldb.com/?id.213987)|Visit link for details|2022-11-19 at 09:41|
- |[wpDiscuz Plugin resource injection](https://vuldb.com/?id.213986)|Visit link for details|2022-11-19 at 09:40|
- |[Quiz and Survey Master Plugin information disclosure](https://vuldb.com/?id.213985)|Visit link for details|2022-11-19 at 09:40|
- |[Api2Cart Bridge Connector Plugin Privilege Escalation](https://vuldb.com/?id.213984)|Visit link for details|2022-11-19 at 09:39|
- |[Viszt Péter Integration for Szamlazz.hu & WooCommerce Plugin cross-site request forgery](https://vuldb.com/?id.213983)|Visit link for details|2022-11-19 at 09:38|
- |[Phone Orders for WooCommerce Plugin information disclosure](https://vuldb.com/?id.213982)|Visit link for details|2022-11-19 at 09:37|
- |[Media Library Assistant Plugin information disclosure](https://vuldb.com/?id.213981)|Visit link for details|2022-11-19 at 09:33|
+ |[Trojan.Win32.Platinum.gen WTSAPI32.dll untrusted search path](https://vuldb.com/?id.214029)|Visit link for details|2022-11-19 at 19:41|
+ |[davidmoreno onion Log response.c onion_response_flush allocation of resources](https://vuldb.com/?id.214028)|Visit link for details|2022-11-19 at 19:38|
+ |[cbeust testng XML File Parser JarFileUtils.java testngXmlExistsInJar path traversal](https://vuldb.com/?id.214027)|Visit link for details|2022-11-19 at 19:33|
+ |[Dalli Meta Protocol request_formatter.rb self.meta_set injection](https://vuldb.com/?id.214026)|Visit link for details|2022-11-19 at 18:35|
+ |[Backdoor.Win32.Oblivion.01.a Service Port 7826 WWPMsg.dll cleartext transmission](https://vuldb.com/?id.214025)|Visit link for details|2022-11-19 at 18:30|
+ |[Store Locator Plugin cross-site request forgery](https://vuldb.com/?id.214024)|Visit link for details|2022-11-19 at 11:06|
+ |[Mantenimiento Web Plugin cross-site request forgery](https://vuldb.com/?id.214023)|Visit link for details|2022-11-19 at 11:05|
+ |[REST API Authentication Plugin cross-site request forgery](https://vuldb.com/?id.214022)|Visit link for details|2022-11-19 at 11:05|
+ |[Creative Mail Plugin cross-site request forgery](https://vuldb.com/?id.214021)|Visit link for details|2022-11-19 at 11:04|
+ |[Accessibility Plugin cross site scripting](https://vuldb.com/?id.214020)|Visit link for details|2022-11-19 at 11:04|
  
