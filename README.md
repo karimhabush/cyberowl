@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 18/11/2022 21:10:38 UTC
+ > Last Updated 19/11/2022 09:12:39 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -93,14 +93,14 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[drachtio server request-handler.cpp event_cb use after free](https://vuldb.com/?id.213930)|Visit link for details|2022-11-18 at 20:42|
- |[drachtio server permission](https://vuldb.com/?id.213929)|Visit link for details|2022-11-18 at 20:41|
- |[D-Link DIR3060 buffer overflow](https://vuldb.com/?id.213928)|Visit link for details|2022-11-18 at 20:40|
- |[Automotive Shop Management System sql injection](https://vuldb.com/?id.213927)|Visit link for details|2022-11-18 at 20:39|
- |[Automotive Shop Management System sql injection](https://vuldb.com/?id.213926)|Visit link for details|2022-11-18 at 20:39|
- |[JetBrains Hub Email allocation of resources](https://vuldb.com/?id.213925)|Visit link for details|2022-11-18 at 19:00|
- |[Karmasis Infraskope Security Event Manager information disclosure](https://vuldb.com/?id.213924)|Visit link for details|2022-11-18 at 12:26|
- |[Karmasis Infraskope Security Event Manager access control](https://vuldb.com/?id.213923)|Visit link for details|2022-11-18 at 12:25|
- |[Webvendome GET Request information disclosure](https://vuldb.com/?id.213922)|Visit link for details|2022-11-18 at 09:10|
- |[WPML Multilingual CMS Premium Plugin cross-site request forgery](https://vuldb.com/?id.213921)|Visit link for details|2022-11-18 at 09:09|
+ |[Appointment Hour Booking Plugin authorization](https://vuldb.com/?id.213990)|Visit link for details|2022-11-19 at 10:10|
+ |[Quiz and Survey Master Plugin unknown vulnerability](https://vuldb.com/?id.213989)|Visit link for details|2022-11-19 at 10:03|
+ |[knative func information disclosure](https://vuldb.com/?id.213988)|Visit link for details|2022-11-19 at 09:42|
+ |[Import Shopify to WooCommerce Plugin path traversal](https://vuldb.com/?id.213987)|Visit link for details|2022-11-19 at 09:41|
+ |[wpDiscuz Plugin resource injection](https://vuldb.com/?id.213986)|Visit link for details|2022-11-19 at 09:40|
+ |[Quiz and Survey Master Plugin information disclosure](https://vuldb.com/?id.213985)|Visit link for details|2022-11-19 at 09:40|
+ |[Api2Cart Bridge Connector Plugin Privilege Escalation](https://vuldb.com/?id.213984)|Visit link for details|2022-11-19 at 09:39|
+ |[Viszt Péter Integration for Szamlazz.hu & WooCommerce Plugin cross-site request forgery](https://vuldb.com/?id.213983)|Visit link for details|2022-11-19 at 09:38|
+ |[Phone Orders for WooCommerce Plugin information disclosure](https://vuldb.com/?id.213982)|Visit link for details|2022-11-19 at 09:37|
+ |[Media Library Assistant Plugin information disclosure](https://vuldb.com/?id.213981)|Visit link for details|2022-11-19 at 09:33|
  
