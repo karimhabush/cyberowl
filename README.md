@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 19/11/2022 21:11:21 UTC
+ > Last Updated 20/11/2022 09:11:22 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -93,14 +93,14 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Trojan.Win32.Platinum.gen WTSAPI32.dll untrusted search path](https://vuldb.com/?id.214029)|Visit link for details|2022-11-19 at 19:41|
- |[davidmoreno onion Log response.c onion_response_flush allocation of resources](https://vuldb.com/?id.214028)|Visit link for details|2022-11-19 at 19:38|
- |[cbeust testng XML File Parser JarFileUtils.java testngXmlExistsInJar path traversal](https://vuldb.com/?id.214027)|Visit link for details|2022-11-19 at 19:33|
- |[Dalli Meta Protocol request_formatter.rb self.meta_set injection](https://vuldb.com/?id.214026)|Visit link for details|2022-11-19 at 18:35|
- |[Backdoor.Win32.Oblivion.01.a Service Port 7826 WWPMsg.dll cleartext transmission](https://vuldb.com/?id.214025)|Visit link for details|2022-11-19 at 18:30|
- |[Store Locator Plugin cross-site request forgery](https://vuldb.com/?id.214024)|Visit link for details|2022-11-19 at 11:06|
- |[Mantenimiento Web Plugin cross-site request forgery](https://vuldb.com/?id.214023)|Visit link for details|2022-11-19 at 11:05|
- |[REST API Authentication Plugin cross-site request forgery](https://vuldb.com/?id.214022)|Visit link for details|2022-11-19 at 11:05|
- |[Creative Mail Plugin cross-site request forgery](https://vuldb.com/?id.214021)|Visit link for details|2022-11-19 at 11:04|
- |[Accessibility Plugin cross site scripting](https://vuldb.com/?id.214020)|Visit link for details|2022-11-19 at 11:04|
+ |[librenms cross site scripting](https://vuldb.com/?id.214037)|Visit link for details|2022-11-20 at 08:59|
+ |[librenms cross site scripting](https://vuldb.com/?id.214036)|Visit link for details|2022-11-20 at 08:58|
+ |[librenms cross site scripting](https://vuldb.com/?id.214035)|Visit link for details|2022-11-20 at 08:57|
+ |[librenms cross site scripting](https://vuldb.com/?id.214034)|Visit link for details|2022-11-20 at 08:56|
+ |[librenms cross site scripting](https://vuldb.com/?id.214033)|Visit link for details|2022-11-20 at 08:55|
+ |[librenms session expiration](https://vuldb.com/?id.214032)|Visit link for details|2022-11-20 at 08:52|
+ |[librenms deserialization](https://vuldb.com/?id.214031)|Visit link for details|2022-11-20 at 08:44|
+ |[LibreNMS Admin User View cross site scripting](https://vuldb.com/?id.214030)|Visit link for details|2022-11-20 at 08:43|
+ |[Trojan.Win32.Platinum.gen WTSAPI32.dll untrusted search path](https://vuldb.com/?id.214029)|Visit link for details|2022-11-20 at 19:41|
+ |[davidmoreno onion Log response.c onion_response_flush allocation of resources](https://vuldb.com/?id.214028)|Visit link for details|2022-11-20 at 19:38|
  
