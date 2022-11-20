@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 20/11/2022 09:11:22 UTC
+ > Last Updated 20/11/2022 21:10:29 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -93,14 +93,14 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[librenms cross site scripting](https://vuldb.com/?id.214037)|Visit link for details|2022-11-20 at 08:59|
- |[librenms cross site scripting](https://vuldb.com/?id.214036)|Visit link for details|2022-11-20 at 08:58|
- |[librenms cross site scripting](https://vuldb.com/?id.214035)|Visit link for details|2022-11-20 at 08:57|
- |[librenms cross site scripting](https://vuldb.com/?id.214034)|Visit link for details|2022-11-20 at 08:56|
- |[librenms cross site scripting](https://vuldb.com/?id.214033)|Visit link for details|2022-11-20 at 08:55|
- |[librenms session expiration](https://vuldb.com/?id.214032)|Visit link for details|2022-11-20 at 08:52|
- |[librenms deserialization](https://vuldb.com/?id.214031)|Visit link for details|2022-11-20 at 08:44|
- |[LibreNMS Admin User View cross site scripting](https://vuldb.com/?id.214030)|Visit link for details|2022-11-20 at 08:43|
- |[Trojan.Win32.Platinum.gen WTSAPI32.dll untrusted search path](https://vuldb.com/?id.214029)|Visit link for details|2022-11-20 at 19:41|
- |[davidmoreno onion Log response.c onion_response_flush allocation of resources](https://vuldb.com/?id.214028)|Visit link for details|2022-11-20 at 19:38|
+ |[WP White Security WP Activity Log Plugin HTTP Header neutralization for logs [False-Positive]](https://vuldb.com/?id.214053)|Visit link for details|2022-11-20 at 14:57|
+ |[Top Infosoft Visitor Details Plugin HTTP Header neutralization for logs [False-Positive]](https://vuldb.com/?id.214052)|Visit link for details|2022-11-20 at 14:50|
+ |[Activity Log Plugin HTTP Header neutralization for logs [False-Positive]](https://vuldb.com/?id.214051)|Visit link for details|2022-11-20 at 14:47|
+ |[MyTechTalky User Location and IP Plugin HTTP Header neutralization for logs [False-Positive]](https://vuldb.com/?id.214050)|Visit link for details|2022-11-20 at 14:44|
+ |[Solwin Infotech User Activity Log Plugin HTTP Header neutralization for logs [False-Positive]](https://vuldb.com/?id.214049)|Visit link for details|2022-11-20 at 14:24|
+ |[getseofix Show Visitor IP Address Widget and Shortcode Plugin HTTP Header neutralization for logs [False-Positive]](https://vuldb.com/?id.214048)|Visit link for details|2022-11-20 at 14:21|
+ |[Opal Login History Plugin HTTP Header neutralization for logs [False-Positive]](https://vuldb.com/?id.214047)|Visit link for details|2022-11-20 at 14:18|
+ |[Show Visitor IP Plugin HTTP Header neutralization for logs [False-Positive]](https://vuldb.com/?id.214046)|Visit link for details|2022-11-20 at 14:06|
+ |[IP Location Block Plugin HTTP Header neutralization for logs [False-Positive]](https://vuldb.com/?id.214045)|Visit link for details|2022-11-20 at 14:04|
+ |[Yellow Tree Geolocation IP Detection Plugin HTTP Header neutralization for logs [False-Positive]](https://vuldb.com/?id.214044)|Visit link for details|2022-11-20 at 14:01|
  
