@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 21/11/2022 09:12:23 UTC
+ > Last Updated 21/11/2022 21:10:48 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -40,16 +40,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1044/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 21 novembre 2022|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1043/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une atteinte à la confidentialité des données.|Publié le 21 novembre 2022|
+ |[Multiples vulnérabilités dans Zimbra Collaboration](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1042/)|De multiples vulnérabilités ont été découvertes dans Zimbra Collaboration. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.|Publié le 21 novembre 2022|
+ |[Multiples vulnérabilités dans les produits Stormshield](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1041/)|De multiples vulnérabilités ont été découvertes dans les produits Stormshield. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 21 novembre 2022|
+ |[Multiples vulnérabilités dans IBM Spectrum Protect](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1040/)|De multiples vulnérabilités ont été découvertes dans IBM Spectrum Protect. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 21 novembre 2022|
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1039/)|De multiples vulnérabilités ont été corrigées dans |Publié le 17 novembre 2022|
  |[Multiples vulnérabilités dans Cisco Identity Services Engine](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1038/)|De multiples vulnérabilités ont été découvertes dans Cisco Identity Services Engine. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une injection de code indirecte à distance (XSS).|Publié le 17 novembre 2022|
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1037/)|De multiples vulnérabilités ont été corrigées dans |Publié le 17 novembre 2022|
  |[Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1036/)|De multiples vulnérabilités ont été corrigées dans |Publié le 16 novembre 2022|
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1035/)|De multiples vulnérabilités ont été corrigées dans |Publié le 16 novembre 2022|
- |[Vulnérabilité dans Samba](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1034/)|Une vulnérabilité a été découverte dans Samba. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 16 novembre 2022|
- |[Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1033/)|De multiples vulnérabilités ont été corrigées dans |Publié le 16 novembre 2022|
- |[[SCADA] Vulnérabilité dans Moxa NE-4100T](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1032/)|Une vulnérabilité a été découverte dans Moxa NE-4100T. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 15 novembre 2022|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1031/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 14 novembre 2022|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1030/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 novembre 2022|
  
  ---
 
@@ -57,6 +57,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/GNU-libiberty-memory-leak-via-demangle-path-39947" class="noirorange"><b>GNU libiberty</b>: memory leak via demangle_path()</a>](https://vigilance.fr/vulnerability/GNU-libiberty-memory-leak-via-demangle-path-39947)|An attacker can create a memory leak of GNU libiberty, via demangle_path(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Dell-PowerPath-Management-Appliance-seven-vulnerabilities-39945" class="noirorange"><b>Dell PowerPath Management Appliance</b>: seven vulnerabilities</a>](https://vigilance.fr/vulnerability/Dell-PowerPath-Management-Appliance-seven-vulnerabilities-39945)|An attacker can use several vulnerabilities of Dell PowerPath Management Appliance...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/xterm-code-execution-via-Font-Ops-OSC-50-Sequence-39944" class="noirorange"><b>xterm</b>: code execution via Font Ops OSC 50 Sequence</a>](https://vigilance.fr/vulnerability/xterm-code-execution-via-Font-Ops-OSC-50-Sequence-39944)|An attacker can use a vulnerability of xterm, via Font Ops OSC 50 Sequence, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FRRouting-privilege-escalation-via-Config-Creation-39943" class="noirorange"><b>FRRouting</b>: privilege escalation via Config Creation</a>](https://vigilance.fr/vulnerability/FRRouting-privilege-escalation-via-Config-Creation-39943)|An attacker can bypass restrictions of FRRouting, via Config Creation, in order to escalate his privileges...|Visit link for details|
@@ -67,7 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/FreeRDP-out-of-bounds-memory-reading-via-Drive-Channel-39938" class="noirorange"><b>FreeRDP</b>: out-of-bounds memory reading via Drive Channel</a>](https://vigilance.fr/vulnerability/FreeRDP-out-of-bounds-memory-reading-via-Drive-Channel-39938)|An attacker can force a read at an invalid memory address of FreeRDP, via Drive Channel, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FreeRDP-five-vulnerabilities-39937" class="noirorange"><b>FreeRDP</b>: five vulnerabilities</a>](https://vigilance.fr/vulnerability/FreeRDP-five-vulnerabilities-39937)|An attacker can use several vulnerabilities of FreeRDP...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Go-ingress-filtrering-bypass-via-Nul-Set-Environment-Variables-39936" class="noirorange"><b>Go</b>: ingress filtrering bypass via Nul Set Environment Variables</a>](https://vigilance.fr/vulnerability/Go-ingress-filtrering-bypass-via-Nul-Set-Environment-Variables-39936)|An attacker can bypass filtering rules of Go, via Nul Set Environment Variables, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/phpseclib-weak-signature-39935" class="noirorange"><b>phpseclib</b>: weak signature</a>](https://vigilance.fr/vulnerability/phpseclib-weak-signature-39935)|An attacker can use malicious data on phpseclib, in order to deceive the victim...|Visit link for details|
  
  ---
 
@@ -75,6 +75,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[39302111/22 - Vulnérabilité critique affectant Atlassian Crowd](https://www.dgssi.gov.ma//fr/content/3930211122-vulnerabilite-critique-affectant-atlassian-crowd.html)|Atlassian a publié des mises à jour de sécurité pour corriger une vulnérabilité critique (CVE-2022-43782) dans les versions susmentionnées de Crowd.Atlassian explique que l'exploitation de cette faille est possible sous certaines...|21 novembre 2022|
+ |[39292111/22 - Microsoft annonce la date de fin de support pourson Framework de développement .NET](https://www.dgssi.gov.ma//fr/content/3929211122-microsoft-annonce-la-date-de-fin-de-support-pour-son-framework-de-developpement-net-core-31.html)|Microsoft annonce que son Framework de développement « .NET Core 3.1 » atteindra la fin du support le 13 décembre 2022. Après cette date, Microsoft ne fournira plus de mises à jour ni de support technique pour .NET Core 3.1. A cet effet,...|21 novembre 2022|
  |[39281711/22 - Vulnérabilités dans les produits F5](https://www.dgssi.gov.ma//fr/content/3928171122-vulnerabilites-dans-les-produits-f5.html)|Deux vulnérabilités ont été corrigées dans les produits F5 susmentionnés. L'exploitation de ces failles permet à un attaquant d’exécuter du code arbitraire à distance, de porter atteinte aux informations confidentielles et de...|17 novembre 2022|
  |[39271711/22 - Vulnérabilité dans Samba](https://www.dgssi.gov.ma//fr/content/3927171122-vulnerabilite-dans-samba.html)|Une vulnérabilité a été corrigée dans Samba, permet à un attaquant d’exécuter des commandes arbitraires à distance, de contourner la politique de sécurité et de causer un déni de service.|17 novembre 2022|
  |[39261711/22 - Vulnérabilités affectant Cisco Identity Services Engine](https://www.dgssi.gov.ma//fr/content/3926171122-vulnerabilites-affectant-cisco-identity-services-engine.html)|Cisco annonce la correction de quatre vulnérabilités affectant certaines versions de son produit Identity Services Engine.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’injecter du contenu dans une...|17 novembre 2022|
@@ -84,8 +86,6 @@
  |[39211411/22 - Vulnérabilité dans PaloAlto Cortex XSOAR ](https://www.dgssi.gov.ma//fr/content/3921141122-vulnerabilite-dans-paloalto-cortex-xsoar.html)|Une vulnérabilité a été corrigée dans PaloAlto Cortex XSOAR. L’exploitation de cette faille peut permettre à un attaquant d’exécuter des commandes avec des privilèges élevés.|14 novembre 2022|
  |[39201111/22 - Vulnérabilités affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma//fr/content/3920111122-vulnerabilites-affectant-plusieurs-produits-d-apple.html)|Apple annonce lacorrectionde deuxvulnérabilitésaffectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peutpermettre à un attaquant distant d’exécuter du code arbitraire ou de causer un déni de service.|11 novembre 2022|
  |[39191011/22 - Vulnérabilités affectant des produitsAMD ](https://www.dgssi.gov.ma//fr/content/3919101122-vulnerabilites-affectant-des-produits-amd.html)|AMD annonce la correction de plusieurs vulnérabilités affectant ses produits susmentionnés. En exploitant ces vulnérabilités, un attaquant peut exécuter du code arbitraire, accéder à des informations confidentielles, élever ses privilèges...|10 novembre 2022|
- |[39181011/22 - Vulnérabilités critiques dans les produits Lenovo](https://www.dgssi.gov.ma//fr/content/3918101122-vulnerabilites-critiques-dans-les-produits-lenovo.html)|Trois vulnérabilités critiques ont été corrigées dans plusieurs produits Lenovo permettant à un attaquant de désactiver UEFI Secure Boot qui garantit qu'aucun code malveillant ne peut être chargé et exécuté pendant le processus de...|10 novembre 2022|
- |[39151011/22 - Vulnérabilités critiques affectant des produits d’Intel](https://www.dgssi.gov.ma//fr/content/3915101122-vulnerabilites-critiques-affectant-des-produits-d-intel.html)|Intel annonce la disponibilité de mises à jour de sécurité qui corrigent des vulnérabilités critiquesaffectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peut permettre à un attaquant d’accéder à des données...|10 novembre 2022|
  
  ---
 
@@ -93,14 +93,4 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Dolibarr sql injection](https://vuldb.com/?id.214055)|Visit link for details|2022-11-21 at 07:41|
- |[iPXE TLS tls.c tls_new_ciphertext information exposure](https://vuldb.com/?id.214054)|Visit link for details|2022-11-21 at 07:37|
- |[WP White Security WP Activity Log Plugin HTTP Header neutralization for logs [False-Positive]](https://vuldb.com/?id.214053)|Visit link for details|2022-11-21 at 14:57|
- |[Top Infosoft Visitor Details Plugin HTTP Header neutralization for logs [False-Positive]](https://vuldb.com/?id.214052)|Visit link for details|2022-11-21 at 14:50|
- |[Activity Log Plugin HTTP Header neutralization for logs [False-Positive]](https://vuldb.com/?id.214051)|Visit link for details|2022-11-21 at 14:47|
- |[MyTechTalky User Location and IP Plugin HTTP Header neutralization for logs [False-Positive]](https://vuldb.com/?id.214050)|Visit link for details|2022-11-21 at 14:44|
- |[Solwin Infotech User Activity Log Plugin HTTP Header neutralization for logs [False-Positive]](https://vuldb.com/?id.214049)|Visit link for details|2022-11-21 at 14:24|
- |[getseofix Show Visitor IP Address Widget and Shortcode Plugin HTTP Header neutralization for logs [False-Positive]](https://vuldb.com/?id.214048)|Visit link for details|2022-11-21 at 14:21|
- |[Opal Login History Plugin HTTP Header neutralization for logs [False-Positive]](https://vuldb.com/?id.214047)|Visit link for details|2022-11-21 at 14:18|
- |[Show Visitor IP Plugin HTTP Header neutralization for logs [False-Positive]](https://vuldb.com/?id.214046)|Visit link for details|2022-11-21 at 14:06|
  
