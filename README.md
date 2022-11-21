@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 20/11/2022 21:10:29 UTC
+ > Last Updated 21/11/2022 09:12:23 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -36,24 +36,6 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[39281711/22 - Vulnérabilités dans les produits F5](https://www.dgssi.gov.ma//fr/content/3928171122-vulnerabilites-dans-les-produits-f5.html)|Deux vulnérabilités ont été corrigées dans les produits F5 susmentionnés. L'exploitation de ces failles permet à un attaquant d’exécuter du code arbitraire à distance, de porter atteinte aux informations confidentielles et de...|17 novembre 2022|
- |[39271711/22 - Vulnérabilité dans Samba](https://www.dgssi.gov.ma//fr/content/3927171122-vulnerabilite-dans-samba.html)|Une vulnérabilité a été corrigée dans Samba, permet à un attaquant d’exécuter des commandes arbitraires à distance, de contourner la politique de sécurité et de causer un déni de service.|17 novembre 2022|
- |[39261711/22 - Vulnérabilités affectant Cisco Identity Services Engine](https://www.dgssi.gov.ma//fr/content/3926171122-vulnerabilites-affectant-cisco-identity-services-engine.html)|Cisco annonce la correction de quatre vulnérabilités affectant certaines versions de son produit Identity Services Engine.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’injecter du contenu dans une...|17 novembre 2022|
- |[39251611/22 - Vulnérabilités dans Mozilla Firefox et Thunderbird ](https://www.dgssi.gov.ma//fr/content/3925161122-vulnerabilites-dans-mozilla-firefox-et-thunderbird.html)|Mozilla a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant lesproduits susmentionnés. Un attaquant pourrait exploiter certaines de ces vulnérabilités afin d’exécuter du code arbitraire à distance et de...|16 novembre 2022|
- |[39241511/22 - Vulnérabilité dans Sophos UTM](https://www.dgssi.gov.ma//fr/content/3924151122-vulnerabilite-dans-sophos-utm.html)|Une vulnérabilité a été corrigée dans Sophos UTM. L’exploitation de cette faille peut permettre à un attaquant de causer un problème de sécurité non spécifié.|15 novembre 2022|
- |[39221511/22- Vulnérabilités affectantle navigateur Microsoft Edge ](https://www.dgssi.gov.ma//fr/content/3922151122-vulnerabilites-affectant-le-navigateur-microsoft-edge.html)|Microsoft vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilités affectant le navigateur Microsoft Edge. L’exploitation de ces vulnérabilités peut permettre à un attaquant de provoquer des problèmes...|15 novembre 2022|
- |[39211411/22 - Vulnérabilité dans PaloAlto Cortex XSOAR ](https://www.dgssi.gov.ma//fr/content/3921141122-vulnerabilite-dans-paloalto-cortex-xsoar.html)|Une vulnérabilité a été corrigée dans PaloAlto Cortex XSOAR. L’exploitation de cette faille peut permettre à un attaquant d’exécuter des commandes avec des privilèges élevés.|14 novembre 2022|
- |[39201111/22 - Vulnérabilités affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma//fr/content/3920111122-vulnerabilites-affectant-plusieurs-produits-d-apple.html)|Apple annonce lacorrectionde deuxvulnérabilitésaffectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peutpermettre à un attaquant distant d’exécuter du code arbitraire ou de causer un déni de service.|11 novembre 2022|
- |[39191011/22 - Vulnérabilités affectant des produitsAMD ](https://www.dgssi.gov.ma//fr/content/3919101122-vulnerabilites-affectant-des-produits-amd.html)|AMD annonce la correction de plusieurs vulnérabilités affectant ses produits susmentionnés. En exploitant ces vulnérabilités, un attaquant peut exécuter du code arbitraire, accéder à des informations confidentielles, élever ses privilèges...|10 novembre 2022|
- |[39181011/22 - Vulnérabilités critiques dans les produits Lenovo](https://www.dgssi.gov.ma//fr/content/3918101122-vulnerabilites-critiques-dans-les-produits-lenovo.html)|Trois vulnérabilités critiques ont été corrigées dans plusieurs produits Lenovo permettant à un attaquant de désactiver UEFI Secure Boot qui garantit qu'aucun code malveillant ne peut être chargé et exécuté pendant le processus de...|10 novembre 2022|
- |[39151011/22 - Vulnérabilités critiques affectant des produits d’Intel](https://www.dgssi.gov.ma//fr/content/3915101122-vulnerabilites-critiques-affectant-des-produits-d-intel.html)|Intel annonce la disponibilité de mises à jour de sécurité qui corrigent des vulnérabilités critiquesaffectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peut permettre à un attaquant d’accéder à des données...|10 novembre 2022|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -75,17 +57,35 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Dell-PowerPath-Management-Appliance-seven-vulnerabilities-39945" class="noirorange"><b>Dell PowerPath Management Appliance</b>: seven vulnerabilities</a>](https://vigilance.fr/vulnerability/Dell-PowerPath-Management-Appliance-seven-vulnerabilities-39945)|An attacker can use several vulnerabilities of Dell PowerPath Management Appliance...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/xterm-code-execution-via-Font-Ops-OSC-50-Sequence-39944" class="noirorange"><b>xterm</b>: code execution via Font Ops OSC 50 Sequence</a>](https://vigilance.fr/vulnerability/xterm-code-execution-via-Font-Ops-OSC-50-Sequence-39944)|An attacker can use a vulnerability of xterm, via Font Ops OSC 50 Sequence, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FRRouting-privilege-escalation-via-Config-Creation-39943" class="noirorange"><b>FRRouting</b>: privilege escalation via Config Creation</a>](https://vigilance.fr/vulnerability/FRRouting-privilege-escalation-via-Config-Creation-39943)|An attacker can bypass restrictions of FRRouting, via Config Creation, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Tor-denial-of-service-via-Network-39942" class="noirorange"><b>Tor</b>: denial of service via Network</a>](https://vigilance.fr/vulnerability/Tor-denial-of-service-via-Network-39942)|An attacker can cause a fatal error of Tor, via Network, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Tumbler-Server-Side-Request-Forgery-via-MP4-File-39941" class="noirorange"><b>Tumbler</b>: Server-Side Request Forgery via MP4 File</a>](https://vigilance.fr/vulnerability/Tumbler-Server-Side-Request-Forgery-via-MP4-File-39941)|An attacker can trigger a Server-Side Request Forgery of Tumbler, via MP4 File, in order to force the server to send queries...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-read-bbreg-hdl-39940" class="noirorange"><b>Linux kernel</b>: reuse after free via read_bbreg_hdl()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-read-bbreg-hdl-39940)|An attacker can force the reuse of a freed memory area of the Linux kernel, via read_bbreg_hdl(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FreeRDP-directory-traversal-via-Drive-Channel-39939" class="noirorange"><b>FreeRDP</b>: directory traversal via Drive Channel</a>](https://vigilance.fr/vulnerability/FreeRDP-directory-traversal-via-Drive-Channel-39939)|An attacker can traverse directories of FreeRDP, via Drive Channel, in order to read a file outside the service root path...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FreeRDP-out-of-bounds-memory-reading-via-Drive-Channel-39938" class="noirorange"><b>FreeRDP</b>: out-of-bounds memory reading via Drive Channel</a>](https://vigilance.fr/vulnerability/FreeRDP-out-of-bounds-memory-reading-via-Drive-Channel-39938)|An attacker can force a read at an invalid memory address of FreeRDP, via Drive Channel, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FreeRDP-five-vulnerabilities-39937" class="noirorange"><b>FreeRDP</b>: five vulnerabilities</a>](https://vigilance.fr/vulnerability/FreeRDP-five-vulnerabilities-39937)|An attacker can use several vulnerabilities of FreeRDP...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Go-ingress-filtrering-bypass-via-Nul-Set-Environment-Variables-39936" class="noirorange"><b>Go</b>: ingress filtrering bypass via Nul Set Environment Variables</a>](https://vigilance.fr/vulnerability/Go-ingress-filtrering-bypass-via-Nul-Set-Environment-Variables-39936)|An attacker can bypass filtering rules of Go, via Nul Set Environment Variables, in order to send malicious data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/phpseclib-weak-signature-39935" class="noirorange"><b>phpseclib</b>: weak signature</a>](https://vigilance.fr/vulnerability/phpseclib-weak-signature-39935)|An attacker can use malicious data on phpseclib, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jupyter-Core-code-execution-via-Current-Working-Directory-39934" class="noirorange"><b>Jupyter Core</b>: code execution via Current Working Directory</a>](https://vigilance.fr/vulnerability/Jupyter-Core-code-execution-via-Current-Working-Directory-39934)|An attacker can use a vulnerability of Jupyter Core, via Current Working Directory, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PJSIP-buffer-overflow-via-pjmedia-rtcp-fb-parse-rpsi-39933" class="noirorange"><b>PJSIP</b>: buffer overflow via <wbr>pjmedia_rtcp_fb_pars<wbr>e_rpsi()</wbr></wbr></a>](https://vigilance.fr/vulnerability/PJSIP-buffer-overflow-via-pjmedia-rtcp-fb-parse-rpsi-39933)|An attacker can trigger a buffer overflow of PJSIP, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-InfoSphere-DataStage-code-execution-via-Special-Elements-39930" class="noirorange"><b>IBM InfoSphere DataStage</b>: code execution via Special Elements</a>](https://vigilance.fr/vulnerability/IBM-InfoSphere-DataStage-code-execution-via-Special-Elements-39930)|An attacker can use a vulnerability of IBM InfoSphere DataStage, via Special Elements, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-code-execution-via-Advanced-Shell-39929" class="noirorange"><b>F5 BIG-IP</b>: code execution via Advanced Shell</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-code-execution-via-Advanced-Shell-39929)|An attacker can use a vulnerability of F5 BIG-IP, via Advanced Shell, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-privilege-escalation-via-iControl-REST-39928" class="noirorange"><b>F5 BIG-IP</b>: privilege escalation via iControl REST</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-privilege-escalation-via-iControl-REST-39928)|An attacker can bypass restrictions of F5 BIG-IP, via iControl REST, in order to escalate his privileges...|Visit link for details|
+ 
+ ---
+
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[39281711/22 - Vulnérabilités dans les produits F5](https://www.dgssi.gov.ma//fr/content/3928171122-vulnerabilites-dans-les-produits-f5.html)|Deux vulnérabilités ont été corrigées dans les produits F5 susmentionnés. L'exploitation de ces failles permet à un attaquant d’exécuter du code arbitraire à distance, de porter atteinte aux informations confidentielles et de...|17 novembre 2022|
+ |[39271711/22 - Vulnérabilité dans Samba](https://www.dgssi.gov.ma//fr/content/3927171122-vulnerabilite-dans-samba.html)|Une vulnérabilité a été corrigée dans Samba, permet à un attaquant d’exécuter des commandes arbitraires à distance, de contourner la politique de sécurité et de causer un déni de service.|17 novembre 2022|
+ |[39261711/22 - Vulnérabilités affectant Cisco Identity Services Engine](https://www.dgssi.gov.ma//fr/content/3926171122-vulnerabilites-affectant-cisco-identity-services-engine.html)|Cisco annonce la correction de quatre vulnérabilités affectant certaines versions de son produit Identity Services Engine.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’injecter du contenu dans une...|17 novembre 2022|
+ |[39251611/22 - Vulnérabilités dans Mozilla Firefox et Thunderbird ](https://www.dgssi.gov.ma//fr/content/3925161122-vulnerabilites-dans-mozilla-firefox-et-thunderbird.html)|Mozilla a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant lesproduits susmentionnés. Un attaquant pourrait exploiter certaines de ces vulnérabilités afin d’exécuter du code arbitraire à distance et de...|16 novembre 2022|
+ |[39241511/22 - Vulnérabilité dans Sophos UTM](https://www.dgssi.gov.ma//fr/content/3924151122-vulnerabilite-dans-sophos-utm.html)|Une vulnérabilité a été corrigée dans Sophos UTM. L’exploitation de cette faille peut permettre à un attaquant de causer un problème de sécurité non spécifié.|15 novembre 2022|
+ |[39221511/22- Vulnérabilités affectantle navigateur Microsoft Edge ](https://www.dgssi.gov.ma//fr/content/3922151122-vulnerabilites-affectant-le-navigateur-microsoft-edge.html)|Microsoft vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilités affectant le navigateur Microsoft Edge. L’exploitation de ces vulnérabilités peut permettre à un attaquant de provoquer des problèmes...|15 novembre 2022|
+ |[39211411/22 - Vulnérabilité dans PaloAlto Cortex XSOAR ](https://www.dgssi.gov.ma//fr/content/3921141122-vulnerabilite-dans-paloalto-cortex-xsoar.html)|Une vulnérabilité a été corrigée dans PaloAlto Cortex XSOAR. L’exploitation de cette faille peut permettre à un attaquant d’exécuter des commandes avec des privilèges élevés.|14 novembre 2022|
+ |[39201111/22 - Vulnérabilités affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma//fr/content/3920111122-vulnerabilites-affectant-plusieurs-produits-d-apple.html)|Apple annonce lacorrectionde deuxvulnérabilitésaffectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peutpermettre à un attaquant distant d’exécuter du code arbitraire ou de causer un déni de service.|11 novembre 2022|
+ |[39191011/22 - Vulnérabilités affectant des produitsAMD ](https://www.dgssi.gov.ma//fr/content/3919101122-vulnerabilites-affectant-des-produits-amd.html)|AMD annonce la correction de plusieurs vulnérabilités affectant ses produits susmentionnés. En exploitant ces vulnérabilités, un attaquant peut exécuter du code arbitraire, accéder à des informations confidentielles, élever ses privilèges...|10 novembre 2022|
+ |[39181011/22 - Vulnérabilités critiques dans les produits Lenovo](https://www.dgssi.gov.ma//fr/content/3918101122-vulnerabilites-critiques-dans-les-produits-lenovo.html)|Trois vulnérabilités critiques ont été corrigées dans plusieurs produits Lenovo permettant à un attaquant de désactiver UEFI Secure Boot qui garantit qu'aucun code malveillant ne peut être chargé et exécuté pendant le processus de...|10 novembre 2022|
+ |[39151011/22 - Vulnérabilités critiques affectant des produits d’Intel](https://www.dgssi.gov.ma//fr/content/3915101122-vulnerabilites-critiques-affectant-des-produits-d-intel.html)|Intel annonce la disponibilité de mises à jour de sécurité qui corrigent des vulnérabilités critiquesaffectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peut permettre à un attaquant d’accéder à des données...|10 novembre 2022|
  
  ---
 
@@ -93,14 +93,14 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[WP White Security WP Activity Log Plugin HTTP Header neutralization for logs [False-Positive]](https://vuldb.com/?id.214053)|Visit link for details|2022-11-20 at 14:57|
- |[Top Infosoft Visitor Details Plugin HTTP Header neutralization for logs [False-Positive]](https://vuldb.com/?id.214052)|Visit link for details|2022-11-20 at 14:50|
- |[Activity Log Plugin HTTP Header neutralization for logs [False-Positive]](https://vuldb.com/?id.214051)|Visit link for details|2022-11-20 at 14:47|
- |[MyTechTalky User Location and IP Plugin HTTP Header neutralization for logs [False-Positive]](https://vuldb.com/?id.214050)|Visit link for details|2022-11-20 at 14:44|
- |[Solwin Infotech User Activity Log Plugin HTTP Header neutralization for logs [False-Positive]](https://vuldb.com/?id.214049)|Visit link for details|2022-11-20 at 14:24|
- |[getseofix Show Visitor IP Address Widget and Shortcode Plugin HTTP Header neutralization for logs [False-Positive]](https://vuldb.com/?id.214048)|Visit link for details|2022-11-20 at 14:21|
- |[Opal Login History Plugin HTTP Header neutralization for logs [False-Positive]](https://vuldb.com/?id.214047)|Visit link for details|2022-11-20 at 14:18|
- |[Show Visitor IP Plugin HTTP Header neutralization for logs [False-Positive]](https://vuldb.com/?id.214046)|Visit link for details|2022-11-20 at 14:06|
- |[IP Location Block Plugin HTTP Header neutralization for logs [False-Positive]](https://vuldb.com/?id.214045)|Visit link for details|2022-11-20 at 14:04|
- |[Yellow Tree Geolocation IP Detection Plugin HTTP Header neutralization for logs [False-Positive]](https://vuldb.com/?id.214044)|Visit link for details|2022-11-20 at 14:01|
+ |[Dolibarr sql injection](https://vuldb.com/?id.214055)|Visit link for details|2022-11-21 at 07:41|
+ |[iPXE TLS tls.c tls_new_ciphertext information exposure](https://vuldb.com/?id.214054)|Visit link for details|2022-11-21 at 07:37|
+ |[WP White Security WP Activity Log Plugin HTTP Header neutralization for logs [False-Positive]](https://vuldb.com/?id.214053)|Visit link for details|2022-11-21 at 14:57|
+ |[Top Infosoft Visitor Details Plugin HTTP Header neutralization for logs [False-Positive]](https://vuldb.com/?id.214052)|Visit link for details|2022-11-21 at 14:50|
+ |[Activity Log Plugin HTTP Header neutralization for logs [False-Positive]](https://vuldb.com/?id.214051)|Visit link for details|2022-11-21 at 14:47|
+ |[MyTechTalky User Location and IP Plugin HTTP Header neutralization for logs [False-Positive]](https://vuldb.com/?id.214050)|Visit link for details|2022-11-21 at 14:44|
+ |[Solwin Infotech User Activity Log Plugin HTTP Header neutralization for logs [False-Positive]](https://vuldb.com/?id.214049)|Visit link for details|2022-11-21 at 14:24|
+ |[getseofix Show Visitor IP Address Widget and Shortcode Plugin HTTP Header neutralization for logs [False-Positive]](https://vuldb.com/?id.214048)|Visit link for details|2022-11-21 at 14:21|
+ |[Opal Login History Plugin HTTP Header neutralization for logs [False-Positive]](https://vuldb.com/?id.214047)|Visit link for details|2022-11-21 at 14:18|
+ |[Show Visitor IP Plugin HTTP Header neutralization for logs [False-Positive]](https://vuldb.com/?id.214046)|Visit link for details|2022-11-21 at 14:06|
  
