@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 22/11/2022 09:11:23 UTC
+ > Last Updated 22/11/2022 21:10:53 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -27,12 +27,12 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA Releases Eight Industrial Control Systems Advisories](https://www.cisa.gov/uscert/ncas/current-activity/2022/11/22/cisa-releases-eight-industrial-control-systems-advisories)|<p>CISA has released eight (8) Industrial Control Systems (ICS) advisories on 22 November 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p>|Tuesday, November 22, 2022|
  |[CISA, NSA, and ODNI Release Guidance for Customers on Securing the Software Supply Chain ](https://www.cisa.gov/uscert/ncas/current-activity/2022/11/17/cisa-nsa-and-odni-release-guidance-customers-securing-software)|<p>Today, CISA, the National Security Agency (NSA), and the Office of the Director of National Intelligence (ODNI), published the third of a three-part series on securing the software supply chain: <a href="https://media.defense.gov/2022/Nov/17/2003116445/-1/-1/0/ESF_SECURING_THE_SOFTWARE_SUPPLY_CHAIN_CUSTOMER.PDF">Securing Software Supply Chain Series - Recommended Practices Guide for Customers</a>.</p>|Thursday, November 17, 2022|
  |[#StopRansomware: Hive](https://www.cisa.gov/uscert/ncas/current-activity/2022/11/17/stopransomware-hive)|<p>Today, CISA, the Federal Bureau of Investigation (FBI), and the Department of Health and Human Services (HHS) released joint Cybersecurity Advisory (CSA) <a href="https://www.cisa.gov/uscert/ncas/alerts/aa22-321a">#StopRansomware: Hive Ransomware</a> to provide network defenders tactics, techniques, and procedures (TTPs) and indicators of compromise (IOCs) associated with Hive ransomware variants. FBI investigations identified these TTPs and IOCs as recently as November 2022. </p>|Thursday, November 17, 2022|
  |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/uscert/ncas/current-activity/2022/11/17/cisa-releases-two-industrial-control-systems-advisories)|<p>CISA has released two (2) Industrial Control Systems (ICS) advisories on November 17, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p>|Thursday, November 17, 2022|
  |[Cisco Releases Security Updates for Identity Services Engine](https://www.cisa.gov/uscert/ncas/current-activity/2022/11/16/cisco-releases-security-updates-identity-services-engine)|<p>Cisco has released security updates for vulnerabilities affecting Cisco Identity Services Engine (ISE). A remote attacker could exploit some of these vulnerabilities to bypass authorization and access system files. For updates addressing vulnerabilities, see the <a href="https://tools.cisco.com/security/center/publicationListing.x">Cisco Security Advisories page</a>.   </p>|Wednesday, November 16, 2022|
  |[Samba Releases Security Updates](https://www.cisa.gov/uscert/ncas/current-activity/2022/11/16/samba-releases-security-updates)|<p>The Samba Team has released <a href="https://www.samba.org/samba/history/security.html">security updates</a> to address vulnerabilities in multiple versions of Samba. An attacker could exploit some of these vulnerabilities to take control of an affected system.</p>|Wednesday, November 16, 2022|
- |[Mozilla Releases Security Updates for Multiple Products](https://www.cisa.gov/uscert/ncas/current-activity/2022/11/16/mozilla-releases-security-updates-multiple-products)|<p>Mozilla has released security updates to address vulnerabilities in Thunderbird, Firefox ESR, and Firefox. An attacker could exploit these vulnerabilities to cause user confusion or conduct spoofing attacks.</p>|Wednesday, November 16, 2022|
  
  ---
 
@@ -40,6 +40,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Vulnérabilité dans Sophos Mobile](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1047/)|Une vulnérabilité a été découverte dans Sophos Mobile. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 22 novembre 2022|
+ |[Multiples vulnérabilités dans Moodle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1046/)|De multiples vulnérabilités ont été découvertes dans Moodle. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une injection de code indirecte à distance (XSS).|Publié le 22 novembre 2022|
+ |[[SCADA] Vulnérabilité dans les produits Moxa](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1045/)|Une vulnérabilité a été découverte dans les produits Moxa. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 22 novembre 2022|
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1044/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 21 novembre 2022|
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1043/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une atteinte à la confidentialité des données.|Publié le 21 novembre 2022|
  |[Multiples vulnérabilités dans Zimbra Collaboration](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1042/)|De multiples vulnérabilités ont été découvertes dans Zimbra Collaboration. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.|Publié le 21 novembre 2022|
@@ -47,9 +50,6 @@
  |[Multiples vulnérabilités dans IBM Spectrum Protect](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1040/)|De multiples vulnérabilités ont été découvertes dans IBM Spectrum Protect. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 21 novembre 2022|
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1039/)|De multiples vulnérabilités ont été corrigées dans |Publié le 17 novembre 2022|
  |[Multiples vulnérabilités dans Cisco Identity Services Engine](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1038/)|De multiples vulnérabilités ont été découvertes dans Cisco Identity Services Engine. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une injection de code indirecte à distance (XSS).|Publié le 17 novembre 2022|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1037/)|De multiples vulnérabilités ont été corrigées dans |Publié le 17 novembre 2022|
- |[Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1036/)|De multiples vulnérabilités ont été corrigées dans |Publié le 16 novembre 2022|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1035/)|De multiples vulnérabilités ont été corrigées dans |Publié le 16 novembre 2022|
  
  ---
 
@@ -71,10 +71,28 @@
  
  ---
 
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ZTE MF286R Wifi Interface buffer overflow](https://vuldb.com/?id.214218)|Visit link for details|2022-11-22 at 20:45|
+ |[ZTE MF286R Phonebook Interface sql injection](https://vuldb.com/?id.214217)|Visit link for details|2022-11-22 at 20:44|
+ |[super-xray unnecessary privileges](https://vuldb.com/?id.214216)|Visit link for details|2022-11-22 at 20:44|
+ |[ZTE PON OLT access control](https://vuldb.com/?id.214215)|Visit link for details|2022-11-22 at 20:43|
+ |[Billing System Project fetchOrderData.php sql injection](https://vuldb.com/?id.214214)|Visit link for details|2022-11-22 at 20:42|
+ |[Backdrop CMS Comment cross site scripting](https://vuldb.com/?id.214213)|Visit link for details|2022-11-22 at 19:08|
+ |[Backdrop CMS Content cross site scripting](https://vuldb.com/?id.214212)|Visit link for details|2022-11-22 at 19:07|
+ |[Sankhya ERP Caixa de Entrada cross site scripting](https://vuldb.com/?id.214211)|Visit link for details|2022-11-22 at 19:07|
+ |[D-Link DIR-882 webGetVarString buffer overflow](https://vuldb.com/?id.214210)|Visit link for details|2022-11-22 at 19:06|
+ |[D-Link DIR-882 buffer overflow](https://vuldb.com/?id.214209)|Visit link for details|2022-11-22 at 19:06|
+ 
+ ---
+
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[39312211/22 - Vulnérabilités affectant Zimbra Collaboration ](https://www.dgssi.gov.ma//fr/content/3931221122-vulnerabilites-affectant-zimbra-collaboration.html)|Zimbra annonce la disponibilité d’une mise à jour de sécurité permettant la correctionde trois vulnérabilités affectant sa plateforme de messagerie Zimbra. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’...|22 novembre 2022|
  |[39302111/22 - Vulnérabilité critique affectant Atlassian Crowd](https://www.dgssi.gov.ma//fr/content/3930211122-vulnerabilite-critique-affectant-atlassian-crowd.html)|Atlassian a publié des mises à jour de sécurité pour corriger une vulnérabilité critique (CVE-2022-43782) dans les versions susmentionnées de Crowd.Atlassian explique que l'exploitation de cette faille est possible sous certaines...|21 novembre 2022|
  |[39292111/22 - Microsoft annonce la date de fin de support pourson Framework de développement .NET](https://www.dgssi.gov.ma//fr/content/3929211122-microsoft-annonce-la-date-de-fin-de-support-pour-son-framework-de-developpement-net-core-31.html)|Microsoft annonce que son Framework de développement « .NET Core 3.1 » atteindra la fin du support le 13 décembre 2022. Après cette date, Microsoft ne fournira plus de mises à jour ni de support technique pour .NET Core 3.1. A cet effet,...|21 novembre 2022|
  |[39281711/22 - Vulnérabilités dans les produits F5](https://www.dgssi.gov.ma//fr/content/3928171122-vulnerabilites-dans-les-produits-f5.html)|Deux vulnérabilités ont été corrigées dans les produits F5 susmentionnés. L'exploitation de ces failles permet à un attaquant d’exécuter du code arbitraire à distance, de porter atteinte aux informations confidentielles et de...|17 novembre 2022|
@@ -85,12 +103,4 @@
  |[39221511/22- Vulnérabilités affectantle navigateur Microsoft Edge ](https://www.dgssi.gov.ma//fr/content/3922151122-vulnerabilites-affectant-le-navigateur-microsoft-edge.html)|Microsoft vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilités affectant le navigateur Microsoft Edge. L’exploitation de ces vulnérabilités peut permettre à un attaquant de provoquer des problèmes...|15 novembre 2022|
  |[39211411/22 - Vulnérabilité dans PaloAlto Cortex XSOAR ](https://www.dgssi.gov.ma//fr/content/3921141122-vulnerabilite-dans-paloalto-cortex-xsoar.html)|Une vulnérabilité a été corrigée dans PaloAlto Cortex XSOAR. L’exploitation de cette faille peut permettre à un attaquant d’exécuter des commandes avec des privilèges élevés.|14 novembre 2022|
  |[39201111/22 - Vulnérabilités affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma//fr/content/3920111122-vulnerabilites-affectant-plusieurs-produits-d-apple.html)|Apple annonce lacorrectionde deuxvulnérabilitésaffectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peutpermettre à un attaquant distant d’exécuter du code arbitraire ou de causer un déni de service.|11 novembre 2022|
- |[39191011/22 - Vulnérabilités affectant des produitsAMD ](https://www.dgssi.gov.ma//fr/content/3919101122-vulnerabilites-affectant-des-produits-amd.html)|AMD annonce la correction de plusieurs vulnérabilités affectant ses produits susmentionnés. En exploitant ces vulnérabilités, un attaquant peut exécuter du code arbitraire, accéder à des informations confidentielles, élever ses privilèges...|10 novembre 2022|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
