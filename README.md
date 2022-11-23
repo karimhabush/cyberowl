@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 23/11/2022 09:10:38 UTC
+ > Last Updated 23/11/2022 21:10:59 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -40,16 +40,34 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiples vulnérabilités dans les produits SolarWinds](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1051/)|De multiples vulnérabilités ont été découvertes dans les produits SolarWinds. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 23 novembre 2022|
+ |[Vulnérabilité dans IBM QRadar](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1050/)|Une vulnérabilité a été découverte dans IBM QRadar. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 23 novembre 2022|
+ |[Multiples vulnérabilités dans Aruba EdgeConnect Enterprise](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1049/)|De multiples vulnérabilités ont été découvertes dans Aruba EdgeConnect Enterprise. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 23 novembre 2022|
+ |[Multiples vulnérabilités dans F5 BIG-IP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1048/)|De multiples vulnérabilités ont été découvertes dans F5 BIG-IP. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 23 novembre 2022|
  |[Vulnérabilité dans Sophos Mobile](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1047/)|Une vulnérabilité a été découverte dans Sophos Mobile. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 22 novembre 2022|
  |[Multiples vulnérabilités dans Moodle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1046/)|De multiples vulnérabilités ont été découvertes dans Moodle. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une injection de code indirecte à distance (XSS).|Publié le 22 novembre 2022|
  |[[SCADA] Vulnérabilité dans les produits Moxa](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1045/)|Une vulnérabilité a été découverte dans les produits Moxa. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 22 novembre 2022|
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1044/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 21 novembre 2022|
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1043/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une atteinte à la confidentialité des données.|Publié le 21 novembre 2022|
  |[Multiples vulnérabilités dans Zimbra Collaboration](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1042/)|De multiples vulnérabilités ont été découvertes dans Zimbra Collaboration. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.|Publié le 21 novembre 2022|
- |[Multiples vulnérabilités dans les produits Stormshield](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1041/)|De multiples vulnérabilités ont été découvertes dans les produits Stormshield. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 21 novembre 2022|
- |[Multiples vulnérabilités dans IBM Spectrum Protect](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1040/)|De multiples vulnérabilités ont été découvertes dans IBM Spectrum Protect. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 21 novembre 2022|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1039/)|De multiples vulnérabilités ont été corrigées dans |Publié le 17 novembre 2022|
- |[Multiples vulnérabilités dans Cisco Identity Services Engine](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1038/)|De multiples vulnérabilités ont été découvertes dans Cisco Identity Services Engine. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une injection de code indirecte à distance (XSS).|Publié le 17 novembre 2022|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/FFmpeg-out-of-bounds-memory-reading-via-QuickTime-RPZA-Video-Encoder-39953" class="noirorange"><b>FFmpeg</b>: out-of-bounds memory reading via QuickTime RPZA Video Encoder</a>](https://vigilance.fr/vulnerability/FFmpeg-out-of-bounds-memory-reading-via-QuickTime-RPZA-Video-Encoder-39953)|An attacker can force a read at an invalid memory address of FFmpeg, via QuickTime RPZA Video Encoder, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Botan-Man-in-the-Middle-via-Embedded-Certificates-39952" class="noirorange"><b>Botan</b>: Man-in-the-Middle via Embedded Certificates</a>](https://vigilance.fr/vulnerability/Botan-Man-in-the-Middle-via-Embedded-Certificates-39952)|An attacker can act as a Man-in-the-Middle on Botan, via Embedded Certificates, in order to read or write data in the session...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SNMP4J-denial-of-service-via-Outbound-Message-Sizes-39951" class="noirorange"><b>SNMP4J</b>: denial of service via Outbound Message Sizes</a>](https://vigilance.fr/vulnerability/SNMP4J-denial-of-service-via-Outbound-Message-Sizes-39951)|An attacker can cause a fatal error of SNMP4J, via Outbound Message Sizes, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-io-msg-ring-39950" class="noirorange"><b>Linux kernel</b>: reuse after free via io_msg_ring()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-io-msg-ring-39950)|An attacker can force the reuse of a freed memory area of the Linux kernel, via io_msg_ring(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GNU-libiberty-memory-leak-via-demangle-path-39947" class="noirorange"><b>GNU libiberty</b>: memory leak via demangle_path()</a>](https://vigilance.fr/vulnerability/GNU-libiberty-memory-leak-via-demangle-path-39947)|An attacker can create a memory leak of GNU libiberty, via demangle_path(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Dell-PowerPath-Management-Appliance-seven-vulnerabilities-39945" class="noirorange"><b>Dell PowerPath Management Appliance</b>: seven vulnerabilities</a>](https://vigilance.fr/vulnerability/Dell-PowerPath-Management-Appliance-seven-vulnerabilities-39945)|An attacker can use several vulnerabilities of Dell PowerPath Management Appliance...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/xterm-code-execution-via-Font-Ops-OSC-50-Sequence-39944" class="noirorange"><b>xterm</b>: code execution via Font Ops OSC 50 Sequence</a>](https://vigilance.fr/vulnerability/xterm-code-execution-via-Font-Ops-OSC-50-Sequence-39944)|An attacker can use a vulnerability of xterm, via Font Ops OSC 50 Sequence, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FRRouting-privilege-escalation-via-Config-Creation-39943" class="noirorange"><b>FRRouting</b>: privilege escalation via Config Creation</a>](https://vigilance.fr/vulnerability/FRRouting-privilege-escalation-via-Config-Creation-39943)|An attacker can bypass restrictions of FRRouting, via Config Creation, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Tor-denial-of-service-via-Network-39942" class="noirorange"><b>Tor</b>: denial of service via Network</a>](https://vigilance.fr/vulnerability/Tor-denial-of-service-via-Network-39942)|An attacker can cause a fatal error of Tor, via Network, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Tumbler-Server-Side-Request-Forgery-via-MP4-File-39941" class="noirorange"><b>Tumbler</b>: Server-Side Request Forgery via MP4 File</a>](https://vigilance.fr/vulnerability/Tumbler-Server-Side-Request-Forgery-via-MP4-File-39941)|An attacker can trigger a Server-Side Request Forgery of Tumbler, via MP4 File, in order to force the server to send queries...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-read-bbreg-hdl-39940" class="noirorange"><b>Linux kernel</b>: reuse after free via read_bbreg_hdl()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-read-bbreg-hdl-39940)|An attacker can force the reuse of a freed memory area of the Linux kernel, via read_bbreg_hdl(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
  ---
 
@@ -71,36 +89,18 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/GNU-libiberty-memory-leak-via-demangle-path-39947" class="noirorange"><b>GNU libiberty</b>: memory leak via demangle_path()</a>](https://vigilance.fr/vulnerability/GNU-libiberty-memory-leak-via-demangle-path-39947)|An attacker can create a memory leak of GNU libiberty, via demangle_path(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Dell-PowerPath-Management-Appliance-seven-vulnerabilities-39945" class="noirorange"><b>Dell PowerPath Management Appliance</b>: seven vulnerabilities</a>](https://vigilance.fr/vulnerability/Dell-PowerPath-Management-Appliance-seven-vulnerabilities-39945)|An attacker can use several vulnerabilities of Dell PowerPath Management Appliance...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/xterm-code-execution-via-Font-Ops-OSC-50-Sequence-39944" class="noirorange"><b>xterm</b>: code execution via Font Ops OSC 50 Sequence</a>](https://vigilance.fr/vulnerability/xterm-code-execution-via-Font-Ops-OSC-50-Sequence-39944)|An attacker can use a vulnerability of xterm, via Font Ops OSC 50 Sequence, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FRRouting-privilege-escalation-via-Config-Creation-39943" class="noirorange"><b>FRRouting</b>: privilege escalation via Config Creation</a>](https://vigilance.fr/vulnerability/FRRouting-privilege-escalation-via-Config-Creation-39943)|An attacker can bypass restrictions of FRRouting, via Config Creation, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Tor-denial-of-service-via-Network-39942" class="noirorange"><b>Tor</b>: denial of service via Network</a>](https://vigilance.fr/vulnerability/Tor-denial-of-service-via-Network-39942)|An attacker can cause a fatal error of Tor, via Network, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Tumbler-Server-Side-Request-Forgery-via-MP4-File-39941" class="noirorange"><b>Tumbler</b>: Server-Side Request Forgery via MP4 File</a>](https://vigilance.fr/vulnerability/Tumbler-Server-Side-Request-Forgery-via-MP4-File-39941)|An attacker can trigger a Server-Side Request Forgery of Tumbler, via MP4 File, in order to force the server to send queries...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-read-bbreg-hdl-39940" class="noirorange"><b>Linux kernel</b>: reuse after free via read_bbreg_hdl()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-read-bbreg-hdl-39940)|An attacker can force the reuse of a freed memory area of the Linux kernel, via read_bbreg_hdl(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeRDP-directory-traversal-via-Drive-Channel-39939" class="noirorange"><b>FreeRDP</b>: directory traversal via Drive Channel</a>](https://vigilance.fr/vulnerability/FreeRDP-directory-traversal-via-Drive-Channel-39939)|An attacker can traverse directories of FreeRDP, via Drive Channel, in order to read a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeRDP-out-of-bounds-memory-reading-via-Drive-Channel-39938" class="noirorange"><b>FreeRDP</b>: out-of-bounds memory reading via Drive Channel</a>](https://vigilance.fr/vulnerability/FreeRDP-out-of-bounds-memory-reading-via-Drive-Channel-39938)|An attacker can force a read at an invalid memory address of FreeRDP, via Drive Channel, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeRDP-five-vulnerabilities-39937" class="noirorange"><b>FreeRDP</b>: five vulnerabilities</a>](https://vigilance.fr/vulnerability/FreeRDP-five-vulnerabilities-39937)|An attacker can use several vulnerabilities of FreeRDP...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Go-ingress-filtrering-bypass-via-Nul-Set-Environment-Variables-39936" class="noirorange"><b>Go</b>: ingress filtrering bypass via Nul Set Environment Variables</a>](https://vigilance.fr/vulnerability/Go-ingress-filtrering-bypass-via-Nul-Set-Environment-Variables-39936)|An attacker can bypass filtering rules of Go, via Nul Set Environment Variables, in order to send malicious data...|Visit link for details|
- 
- ---
-
 ## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[AeroCMS edit_post.php sql injection](https://vuldb.com/?id.214220)|Visit link for details|2022-11-23 at 08:37|
- |[IBM DataPower Gateway Password Change session expiration](https://vuldb.com/?id.214219)|Visit link for details|2022-11-23 at 08:37|
- |[ZTE MF286R Wifi Interface buffer overflow](https://vuldb.com/?id.214218)|Visit link for details|2022-11-23 at 20:45|
- |[ZTE MF286R Phonebook Interface sql injection](https://vuldb.com/?id.214217)|Visit link for details|2022-11-23 at 20:44|
- |[super-xray unnecessary privileges](https://vuldb.com/?id.214216)|Visit link for details|2022-11-23 at 20:44|
- |[ZTE PON OLT access control](https://vuldb.com/?id.214215)|Visit link for details|2022-11-23 at 20:43|
- |[Billing System Project fetchOrderData.php sql injection](https://vuldb.com/?id.214214)|Visit link for details|2022-11-23 at 20:42|
- |[Backdrop CMS Comment cross site scripting](https://vuldb.com/?id.214213)|Visit link for details|2022-11-23 at 19:08|
- |[Backdrop CMS Content cross site scripting](https://vuldb.com/?id.214212)|Visit link for details|2022-11-23 at 19:07|
- |[Sankhya ERP Caixa de Entrada cross site scripting](https://vuldb.com/?id.214211)|Visit link for details|2022-11-23 at 19:07|
+ |[SolarWinds SEM HTTP Request cross site scripting](https://vuldb.com/?id.214292)|Visit link for details|2022-11-23 at 20:59|
+ |[Amasty Blog Pro cross site scripting](https://vuldb.com/?id.214291)|Visit link for details|2022-11-23 at 20:58|
+ |[TOTOLINK LR350 setIpPortFilterRules buffer overflow](https://vuldb.com/?id.214290)|Visit link for details|2022-11-23 at 20:57|
+ |[TOTOLINK LR350 setParentalRules buffer overflow](https://vuldb.com/?id.214289)|Visit link for details|2022-11-23 at 20:56|
+ |[TOTOLINK LR350 setTracerouteCfg buffer overflow](https://vuldb.com/?id.214288)|Visit link for details|2022-11-23 at 20:56|
+ |[TOTOLINK LR350 setOpModeCfg buffer overflow](https://vuldb.com/?id.214287)|Visit link for details|2022-11-23 at 20:56|
+ |[TOTOLINK LR350 setLanguageCfg buffer overflow](https://vuldb.com/?id.214286)|Visit link for details|2022-11-23 at 20:55|
+ |[TOTOLINK LR350 buffer overflow](https://vuldb.com/?id.214285)|Visit link for details|2022-11-23 at 20:55|
+ |[TOTOLINK LR350 setSmsCfg buffer overflow](https://vuldb.com/?id.214284)|Visit link for details|2022-11-23 at 20:54|
+ |[TOTOLINK NR1800X setUploadSetting command injection](https://vuldb.com/?id.214283)|Visit link for details|2022-11-23 at 20:54|
  
