@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 23/11/2022 21:10:59 UTC
+ > Last Updated 24/11/2022 09:12:07 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,6 +57,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/libarchive-NULL-pointer-dereference-via-archive-write-allocate-filter-39954" class="noirorange"><b>libarchive</b>: NULL pointer dereference via <wbr>__archive_write_allo<wbr>cate_filter()</wbr></wbr></a>](https://vigilance.fr/vulnerability/libarchive-NULL-pointer-dereference-via-archive-write-allocate-filter-39954)|An attacker can force a NULL pointer to be dereferenced on libarchive, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FFmpeg-out-of-bounds-memory-reading-via-QuickTime-RPZA-Video-Encoder-39953" class="noirorange"><b>FFmpeg</b>: out-of-bounds memory reading via QuickTime RPZA Video Encoder</a>](https://vigilance.fr/vulnerability/FFmpeg-out-of-bounds-memory-reading-via-QuickTime-RPZA-Video-Encoder-39953)|An attacker can force a read at an invalid memory address of FFmpeg, via QuickTime RPZA Video Encoder, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Botan-Man-in-the-Middle-via-Embedded-Certificates-39952" class="noirorange"><b>Botan</b>: Man-in-the-Middle via Embedded Certificates</a>](https://vigilance.fr/vulnerability/Botan-Man-in-the-Middle-via-Embedded-Certificates-39952)|An attacker can act as a Man-in-the-Middle on Botan, via Embedded Certificates, in order to read or write data in the session...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/SNMP4J-denial-of-service-via-Outbound-Message-Sizes-39951" class="noirorange"><b>SNMP4J</b>: denial of service via Outbound Message Sizes</a>](https://vigilance.fr/vulnerability/SNMP4J-denial-of-service-via-Outbound-Message-Sizes-39951)|An attacker can cause a fatal error of SNMP4J, via Outbound Message Sizes, in order to trigger a denial of service...|Visit link for details|
@@ -67,7 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/FRRouting-privilege-escalation-via-Config-Creation-39943" class="noirorange"><b>FRRouting</b>: privilege escalation via Config Creation</a>](https://vigilance.fr/vulnerability/FRRouting-privilege-escalation-via-Config-Creation-39943)|An attacker can bypass restrictions of FRRouting, via Config Creation, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Tor-denial-of-service-via-Network-39942" class="noirorange"><b>Tor</b>: denial of service via Network</a>](https://vigilance.fr/vulnerability/Tor-denial-of-service-via-Network-39942)|An attacker can cause a fatal error of Tor, via Network, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Tumbler-Server-Side-Request-Forgery-via-MP4-File-39941" class="noirorange"><b>Tumbler</b>: Server-Side Request Forgery via MP4 File</a>](https://vigilance.fr/vulnerability/Tumbler-Server-Side-Request-Forgery-via-MP4-File-39941)|An attacker can trigger a Server-Side Request Forgery of Tumbler, via MP4 File, in order to force the server to send queries...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-read-bbreg-hdl-39940" class="noirorange"><b>Linux kernel</b>: reuse after free via read_bbreg_hdl()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-read-bbreg-hdl-39940)|An attacker can force the reuse of a freed memory area of the Linux kernel, via read_bbreg_hdl(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
  ---
 
@@ -93,14 +93,4 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[SolarWinds SEM HTTP Request cross site scripting](https://vuldb.com/?id.214292)|Visit link for details|2022-11-23 at 20:59|
- |[Amasty Blog Pro cross site scripting](https://vuldb.com/?id.214291)|Visit link for details|2022-11-23 at 20:58|
- |[TOTOLINK LR350 setIpPortFilterRules buffer overflow](https://vuldb.com/?id.214290)|Visit link for details|2022-11-23 at 20:57|
- |[TOTOLINK LR350 setParentalRules buffer overflow](https://vuldb.com/?id.214289)|Visit link for details|2022-11-23 at 20:56|
- |[TOTOLINK LR350 setTracerouteCfg buffer overflow](https://vuldb.com/?id.214288)|Visit link for details|2022-11-23 at 20:56|
- |[TOTOLINK LR350 setOpModeCfg buffer overflow](https://vuldb.com/?id.214287)|Visit link for details|2022-11-23 at 20:56|
- |[TOTOLINK LR350 setLanguageCfg buffer overflow](https://vuldb.com/?id.214286)|Visit link for details|2022-11-23 at 20:55|
- |[TOTOLINK LR350 buffer overflow](https://vuldb.com/?id.214285)|Visit link for details|2022-11-23 at 20:55|
- |[TOTOLINK LR350 setSmsCfg buffer overflow](https://vuldb.com/?id.214284)|Visit link for details|2022-11-23 at 20:54|
- |[TOTOLINK NR1800X setUploadSetting command injection](https://vuldb.com/?id.214283)|Visit link for details|2022-11-23 at 20:54|
  
