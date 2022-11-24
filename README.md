@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 24/11/2022 09:12:07 UTC
+ > Last Updated 24/11/2022 21:09:25 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -40,6 +40,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Vulnérabilité dans PostgreSQL JDBC](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1054/)|Une vulnérabilité a été découverte dans PostgreSQL JDBC. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 24 novembre 2022|
+ |[[SCADA] Multiples vulnérabilités dans les produits Belden](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1053/)|De multiples vulnérabilités ont été découvertes dans les produits Belden. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 24 novembre 2022|
+ |[[SCADA] Multiples vulnérabilités dans les routeurs Moxa](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1052/)|De multiples vulnérabilités ont été découvertes dans les routeurs Moxa. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 24 novembre 2022|
  |[Multiples vulnérabilités dans les produits SolarWinds](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1051/)|De multiples vulnérabilités ont été découvertes dans les produits SolarWinds. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 23 novembre 2022|
  |[Vulnérabilité dans IBM QRadar](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1050/)|Une vulnérabilité a été découverte dans IBM QRadar. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 23 novembre 2022|
  |[Multiples vulnérabilités dans Aruba EdgeConnect Enterprise](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1049/)|De multiples vulnérabilités ont été découvertes dans Aruba EdgeConnect Enterprise. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 23 novembre 2022|
@@ -47,9 +50,6 @@
  |[Vulnérabilité dans Sophos Mobile](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1047/)|Une vulnérabilité a été découverte dans Sophos Mobile. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 22 novembre 2022|
  |[Multiples vulnérabilités dans Moodle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1046/)|De multiples vulnérabilités ont été découvertes dans Moodle. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une injection de code indirecte à distance (XSS).|Publié le 22 novembre 2022|
  |[[SCADA] Vulnérabilité dans les produits Moxa](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1045/)|Une vulnérabilité a été découverte dans les produits Moxa. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 22 novembre 2022|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1044/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 21 novembre 2022|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1043/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une atteinte à la confidentialité des données.|Publié le 21 novembre 2022|
- |[Multiples vulnérabilités dans Zimbra Collaboration](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1042/)|De multiples vulnérabilités ont été découvertes dans Zimbra Collaboration. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.|Publié le 21 novembre 2022|
  
  ---
 
@@ -57,6 +57,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/JBIG-KIT-denial-of-service-39956" class="noirorange"><b>JBIG-KIT</b>: denial of service</a>](https://vigilance.fr/vulnerability/JBIG-KIT-denial-of-service-39956)|An attacker can cause a fatal error of JBIG-KIT, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libarchive-NULL-pointer-dereference-via-archive-write-allocate-filter-39954" class="noirorange"><b>libarchive</b>: NULL pointer dereference via <wbr>__archive_write_allo<wbr>cate_filter()</wbr></wbr></a>](https://vigilance.fr/vulnerability/libarchive-NULL-pointer-dereference-via-archive-write-allocate-filter-39954)|An attacker can force a NULL pointer to be dereferenced on libarchive, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FFmpeg-out-of-bounds-memory-reading-via-QuickTime-RPZA-Video-Encoder-39953" class="noirorange"><b>FFmpeg</b>: out-of-bounds memory reading via QuickTime RPZA Video Encoder</a>](https://vigilance.fr/vulnerability/FFmpeg-out-of-bounds-memory-reading-via-QuickTime-RPZA-Video-Encoder-39953)|An attacker can force a read at an invalid memory address of FFmpeg, via QuickTime RPZA Video Encoder, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Botan-Man-in-the-Middle-via-Embedded-Certificates-39952" class="noirorange"><b>Botan</b>: Man-in-the-Middle via Embedded Certificates</a>](https://vigilance.fr/vulnerability/Botan-Man-in-the-Middle-via-Embedded-Certificates-39952)|An attacker can act as a Man-in-the-Middle on Botan, via Embedded Certificates, in order to read or write data in the session...|Visit link for details|
@@ -67,7 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/xterm-code-execution-via-Font-Ops-OSC-50-Sequence-39944" class="noirorange"><b>xterm</b>: code execution via Font Ops OSC 50 Sequence</a>](https://vigilance.fr/vulnerability/xterm-code-execution-via-Font-Ops-OSC-50-Sequence-39944)|An attacker can use a vulnerability of xterm, via Font Ops OSC 50 Sequence, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FRRouting-privilege-escalation-via-Config-Creation-39943" class="noirorange"><b>FRRouting</b>: privilege escalation via Config Creation</a>](https://vigilance.fr/vulnerability/FRRouting-privilege-escalation-via-Config-Creation-39943)|An attacker can bypass restrictions of FRRouting, via Config Creation, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Tor-denial-of-service-via-Network-39942" class="noirorange"><b>Tor</b>: denial of service via Network</a>](https://vigilance.fr/vulnerability/Tor-denial-of-service-via-Network-39942)|An attacker can cause a fatal error of Tor, via Network, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Tumbler-Server-Side-Request-Forgery-via-MP4-File-39941" class="noirorange"><b>Tumbler</b>: Server-Side Request Forgery via MP4 File</a>](https://vigilance.fr/vulnerability/Tumbler-Server-Side-Request-Forgery-via-MP4-File-39941)|An attacker can trigger a Server-Side Request Forgery of Tumbler, via MP4 File, in order to force the server to send queries...|Visit link for details|
  
  ---
 
@@ -75,6 +75,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[39322411/22 - Mise à jour de sécurité exceptionnelle pour corriger des problèmes d'authentifica](https://www.dgssi.gov.ma//fr/content/3932241122-mise-jour-de-securite-exceptionnelle-pour-corriger-des-problemes-d-authentification-kerberos.html)|Microsoft a publié une mise à jour exceptionnellepour résoudre les problèmes causés par un récent correctif de sécurité de Windows qui entraîne des problèmes d'authentification Kerberos. L’exploitation de cette faille peut permettre...|24 novembre 2022|
  |[39312211/22 - Vulnérabilités affectant Zimbra Collaboration ](https://www.dgssi.gov.ma//fr/content/3931221122-vulnerabilites-affectant-zimbra-collaboration.html)|Zimbra annonce la disponibilité d’une mise à jour de sécurité permettant la correctionde trois vulnérabilités affectant sa plateforme de messagerie Zimbra. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’...|22 novembre 2022|
  |[39302111/22 - Vulnérabilité critique affectant Atlassian Crowd](https://www.dgssi.gov.ma//fr/content/3930211122-vulnerabilite-critique-affectant-atlassian-crowd.html)|Atlassian a publié des mises à jour de sécurité pour corriger une vulnérabilité critique (CVE-2022-43782) dans les versions susmentionnées de Crowd.Atlassian explique que l'exploitation de cette faille est possible sous certaines...|21 novembre 2022|
  |[39292111/22 - Microsoft annonce la date de fin de support pourson Framework de développement .NET](https://www.dgssi.gov.ma//fr/content/3929211122-microsoft-annonce-la-date-de-fin-de-support-pour-son-framework-de-developpement-net-core-31.html)|Microsoft annonce que son Framework de développement « .NET Core 3.1 » atteindra la fin du support le 13 décembre 2022. Après cette date, Microsoft ne fournira plus de mises à jour ni de support technique pour .NET Core 3.1. A cet effet,...|21 novembre 2022|
@@ -85,7 +86,6 @@
  |[39241511/22 - Vulnérabilité dans Sophos UTM](https://www.dgssi.gov.ma//fr/content/3924151122-vulnerabilite-dans-sophos-utm.html)|Une vulnérabilité a été corrigée dans Sophos UTM. L’exploitation de cette faille peut permettre à un attaquant de causer un problème de sécurité non spécifié.|15 novembre 2022|
  |[39221511/22- Vulnérabilités affectantle navigateur Microsoft Edge ](https://www.dgssi.gov.ma//fr/content/3922151122-vulnerabilites-affectant-le-navigateur-microsoft-edge.html)|Microsoft vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilités affectant le navigateur Microsoft Edge. L’exploitation de ces vulnérabilités peut permettre à un attaquant de provoquer des problèmes...|15 novembre 2022|
  |[39211411/22 - Vulnérabilité dans PaloAlto Cortex XSOAR ](https://www.dgssi.gov.ma//fr/content/3921141122-vulnerabilite-dans-paloalto-cortex-xsoar.html)|Une vulnérabilité a été corrigée dans PaloAlto Cortex XSOAR. L’exploitation de cette faille peut permettre à un attaquant d’exécuter des commandes avec des privilèges élevés.|14 novembre 2022|
- |[39201111/22 - Vulnérabilités affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma//fr/content/3920111122-vulnerabilites-affectant-plusieurs-produits-d-apple.html)|Apple annonce lacorrectionde deuxvulnérabilitésaffectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peutpermettre à un attaquant distant d’exécuter du code arbitraire ou de causer un déni de service.|11 novembre 2022|
  
  ---
 
