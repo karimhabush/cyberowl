@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 24/11/2022 21:09:25 UTC
+ > Last Updated 25/11/2022 09:12:49 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,6 +57,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-buffer-overflow-via-GPU-39958" class="noirorange"><b>Chrome</b>: buffer overflow via GPU</a>](https://vigilance.fr/vulnerability/Chrome-buffer-overflow-via-GPU-39958)|An attacker can trigger a buffer overflow of Chrome, via GPU, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ruby-cgi-header-injection-39957" class="noirorange"><b>Ruby cgi</b>: header injection</a>](https://vigilance.fr/vulnerability/Ruby-cgi-header-injection-39957)|An attacker can add new headers on Ruby cgi, in order to alter the service behavior...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/JBIG-KIT-denial-of-service-39956" class="noirorange"><b>JBIG-KIT</b>: denial of service</a>](https://vigilance.fr/vulnerability/JBIG-KIT-denial-of-service-39956)|An attacker can cause a fatal error of JBIG-KIT, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libarchive-NULL-pointer-dereference-via-archive-write-allocate-filter-39954" class="noirorange"><b>libarchive</b>: NULL pointer dereference via <wbr>__archive_write_allo<wbr>cate_filter()</wbr></wbr></a>](https://vigilance.fr/vulnerability/libarchive-NULL-pointer-dereference-via-archive-write-allocate-filter-39954)|An attacker can force a NULL pointer to be dereferenced on libarchive, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FFmpeg-out-of-bounds-memory-reading-via-QuickTime-RPZA-Video-Encoder-39953" class="noirorange"><b>FFmpeg</b>: out-of-bounds memory reading via QuickTime RPZA Video Encoder</a>](https://vigilance.fr/vulnerability/FFmpeg-out-of-bounds-memory-reading-via-QuickTime-RPZA-Video-Encoder-39953)|An attacker can force a read at an invalid memory address of FFmpeg, via QuickTime RPZA Video Encoder, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
@@ -66,8 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/GNU-libiberty-memory-leak-via-demangle-path-39947" class="noirorange"><b>GNU libiberty</b>: memory leak via demangle_path()</a>](https://vigilance.fr/vulnerability/GNU-libiberty-memory-leak-via-demangle-path-39947)|An attacker can create a memory leak of GNU libiberty, via demangle_path(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Dell-PowerPath-Management-Appliance-seven-vulnerabilities-39945" class="noirorange"><b>Dell PowerPath Management Appliance</b>: seven vulnerabilities</a>](https://vigilance.fr/vulnerability/Dell-PowerPath-Management-Appliance-seven-vulnerabilities-39945)|An attacker can use several vulnerabilities of Dell PowerPath Management Appliance...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/xterm-code-execution-via-Font-Ops-OSC-50-Sequence-39944" class="noirorange"><b>xterm</b>: code execution via Font Ops OSC 50 Sequence</a>](https://vigilance.fr/vulnerability/xterm-code-execution-via-Font-Ops-OSC-50-Sequence-39944)|An attacker can use a vulnerability of xterm, via Font Ops OSC 50 Sequence, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FRRouting-privilege-escalation-via-Config-Creation-39943" class="noirorange"><b>FRRouting</b>: privilege escalation via Config Creation</a>](https://vigilance.fr/vulnerability/FRRouting-privilege-escalation-via-Config-Creation-39943)|An attacker can bypass restrictions of FRRouting, via Config Creation, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Tor-denial-of-service-via-Network-39942" class="noirorange"><b>Tor</b>: denial of service via Network</a>](https://vigilance.fr/vulnerability/Tor-denial-of-service-via-Network-39942)|An attacker can cause a fatal error of Tor, via Network, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
@@ -93,4 +93,14 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[activerecord Gem YAML deserialization](https://vuldb.com/?id.214368)|Visit link for details|2022-11-25 at 08:37|
+ |[Octopus Server log file](https://vuldb.com/?id.214367)|Visit link for details|2022-11-25 at 08:36|
+ |[Hirschmann BAT-C2 Web Server FsCreateDir command injection](https://vuldb.com/?id.214366)|Visit link for details|2022-11-25 at 08:35|
+ |[Linux Kernel USB Device Remove xillyusb.c use after free](https://vuldb.com/?id.214365)|Visit link for details|2022-11-25 at 08:34|
+ |[Mitsubishi Electric GX Works3 Project File hard-coded password](https://vuldb.com/?id.214364)|Visit link for details|2022-11-25 at 08:32|
+ |[Mitsubishi Electric GX Works3 hard-coded password](https://vuldb.com/?id.214363)|Visit link for details|2022-11-25 at 08:31|
+ |[Linux Kernel ttusb_dec.c dvb_frontend_detach memory leak](https://vuldb.com/?id.214362)|Visit link for details|2022-11-25 at 08:30|
+ |[Linux Kernel dvb_net.c dvb_device_open use after free](https://vuldb.com/?id.214361)|Visit link for details|2022-11-25 at 08:29|
+ |[Linux Kernel Device Disconnect dvb_frontend.c use after free](https://vuldb.com/?id.214360)|Visit link for details|2022-11-25 at 08:29|
+ |[SourceCodester Canteen Management System food.php query cross site scripting](https://vuldb.com/?id.214359)|Visit link for details|2022-11-25 at 08:25|
  
