@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 25/11/2022 09:12:49 UTC
+ > Last Updated 25/11/2022 21:09:53 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -40,6 +40,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1057/)|De multiples vulnérabilités ont été découvertes dans les produits Nextcloud. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 25 novembre 2022|
+ |[Vulnérabilité dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1056/)|Une vulnérabilité a été découverte dans Google Chrome. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 25 novembre 2022|
+ |[Vulnérabilité dans Moxa TN-5916](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1055/)|Une vulnérabilité a été découverte dans Moxa TN-5916. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 25 novembre 2022|
  |[Vulnérabilité dans PostgreSQL JDBC](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1054/)|Une vulnérabilité a été découverte dans PostgreSQL JDBC. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 24 novembre 2022|
  |[[SCADA] Multiples vulnérabilités dans les produits Belden](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1053/)|De multiples vulnérabilités ont été découvertes dans les produits Belden. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 24 novembre 2022|
  |[[SCADA] Multiples vulnérabilités dans les routeurs Moxa](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1052/)|De multiples vulnérabilités ont été découvertes dans les routeurs Moxa. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 24 novembre 2022|
@@ -47,9 +50,6 @@
  |[Vulnérabilité dans IBM QRadar](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1050/)|Une vulnérabilité a été découverte dans IBM QRadar. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 23 novembre 2022|
  |[Multiples vulnérabilités dans Aruba EdgeConnect Enterprise](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1049/)|De multiples vulnérabilités ont été découvertes dans Aruba EdgeConnect Enterprise. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 23 novembre 2022|
  |[Multiples vulnérabilités dans F5 BIG-IP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1048/)|De multiples vulnérabilités ont été découvertes dans F5 BIG-IP. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 23 novembre 2022|
- |[Vulnérabilité dans Sophos Mobile](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1047/)|Une vulnérabilité a été découverte dans Sophos Mobile. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 22 novembre 2022|
- |[Multiples vulnérabilités dans Moodle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1046/)|De multiples vulnérabilités ont été découvertes dans Moodle. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une injection de code indirecte à distance (XSS).|Publié le 22 novembre 2022|
- |[[SCADA] Vulnérabilité dans les produits Moxa](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1045/)|Une vulnérabilité a été découverte dans les produits Moxa. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 22 novembre 2022|
  
  ---
 
@@ -57,6 +57,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-aerdl-dll-39959" class="noirorange"><b>WithSecure Endpoint Protection</b>: denial of service via aerdl.dll</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-aerdl-dll-39959)|An attacker can cause a fatal error of WithSecure Endpoint Protection, via aerdl.dll, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-buffer-overflow-via-GPU-39958" class="noirorange"><b>Chrome</b>: buffer overflow via GPU</a>](https://vigilance.fr/vulnerability/Chrome-buffer-overflow-via-GPU-39958)|An attacker can trigger a buffer overflow of Chrome, via GPU, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Ruby-cgi-header-injection-39957" class="noirorange"><b>Ruby cgi</b>: header injection</a>](https://vigilance.fr/vulnerability/Ruby-cgi-header-injection-39957)|An attacker can add new headers on Ruby cgi, in order to alter the service behavior...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/JBIG-KIT-denial-of-service-39956" class="noirorange"><b>JBIG-KIT</b>: denial of service</a>](https://vigilance.fr/vulnerability/JBIG-KIT-denial-of-service-39956)|An attacker can cause a fatal error of JBIG-KIT, in order to trigger a denial of service...|Visit link for details|
@@ -67,7 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-io-msg-ring-39950" class="noirorange"><b>Linux kernel</b>: reuse after free via io_msg_ring()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-io-msg-ring-39950)|An attacker can force the reuse of a freed memory area of the Linux kernel, via io_msg_ring(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GNU-libiberty-memory-leak-via-demangle-path-39947" class="noirorange"><b>GNU libiberty</b>: memory leak via demangle_path()</a>](https://vigilance.fr/vulnerability/GNU-libiberty-memory-leak-via-demangle-path-39947)|An attacker can create a memory leak of GNU libiberty, via demangle_path(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Dell-PowerPath-Management-Appliance-seven-vulnerabilities-39945" class="noirorange"><b>Dell PowerPath Management Appliance</b>: seven vulnerabilities</a>](https://vigilance.fr/vulnerability/Dell-PowerPath-Management-Appliance-seven-vulnerabilities-39945)|An attacker can use several vulnerabilities of Dell PowerPath Management Appliance...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/xterm-code-execution-via-Font-Ops-OSC-50-Sequence-39944" class="noirorange"><b>xterm</b>: code execution via Font Ops OSC 50 Sequence</a>](https://vigilance.fr/vulnerability/xterm-code-execution-via-Font-Ops-OSC-50-Sequence-39944)|An attacker can use a vulnerability of xterm, via Font Ops OSC 50 Sequence, in order to run code...|Visit link for details|
  
  ---
 
@@ -93,14 +93,14 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[activerecord Gem YAML deserialization](https://vuldb.com/?id.214368)|Visit link for details|2022-11-25 at 08:37|
- |[Octopus Server log file](https://vuldb.com/?id.214367)|Visit link for details|2022-11-25 at 08:36|
- |[Hirschmann BAT-C2 Web Server FsCreateDir command injection](https://vuldb.com/?id.214366)|Visit link for details|2022-11-25 at 08:35|
- |[Linux Kernel USB Device Remove xillyusb.c use after free](https://vuldb.com/?id.214365)|Visit link for details|2022-11-25 at 08:34|
- |[Mitsubishi Electric GX Works3 Project File hard-coded password](https://vuldb.com/?id.214364)|Visit link for details|2022-11-25 at 08:32|
- |[Mitsubishi Electric GX Works3 hard-coded password](https://vuldb.com/?id.214363)|Visit link for details|2022-11-25 at 08:31|
- |[Linux Kernel ttusb_dec.c dvb_frontend_detach memory leak](https://vuldb.com/?id.214362)|Visit link for details|2022-11-25 at 08:30|
- |[Linux Kernel dvb_net.c dvb_device_open use after free](https://vuldb.com/?id.214361)|Visit link for details|2022-11-25 at 08:29|
- |[Linux Kernel Device Disconnect dvb_frontend.c use after free](https://vuldb.com/?id.214360)|Visit link for details|2022-11-25 at 08:29|
- |[SourceCodester Canteen Management System food.php query cross site scripting](https://vuldb.com/?id.214359)|Visit link for details|2022-11-25 at 08:25|
+ |[Browsershot file Protocol html information disclosure](https://vuldb.com/?id.214391)|Visit link for details|2022-11-25 at 22:04|
+ |[super-xray YAML File deserialization](https://vuldb.com/?id.214390)|Visit link for details|2022-11-25 at 22:03|
+ |[Frappe information disclosure](https://vuldb.com/?id.214389)|Visit link for details|2022-11-25 at 22:03|
+ |[Browsershot URL Protocol url information disclosure](https://vuldb.com/?id.214388)|Visit link for details|2022-11-25 at 22:02|
+ |[Tiny File Manager cross-site request forgery](https://vuldb.com/?id.214387)|Visit link for details|2022-11-25 at 22:01|
+ |[browsershot file Protocol html information disclosure](https://vuldb.com/?id.214386)|Visit link for details|2022-11-25 at 22:00|
+ |[Badaso unrestricted upload](https://vuldb.com/?id.214385)|Visit link for details|2022-11-25 at 21:58|
+ |[Automotive Shop Management System update_status.php sql injection](https://vuldb.com/?id.214384)|Visit link for details|2022-11-25 at 21:58|
+ |[Automotive Shop Management System manage_product.php sql injection](https://vuldb.com/?id.214383)|Visit link for details|2022-11-25 at 21:57|
+ |[Automotive Shop Management System view_product.php sql injection](https://vuldb.com/?id.214382)|Visit link for details|2022-11-25 at 21:56|
  
