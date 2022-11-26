@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 25/11/2022 21:09:53 UTC
+ > Last Updated 26/11/2022 09:10:55 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -93,14 +93,14 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Browsershot file Protocol html information disclosure](https://vuldb.com/?id.214391)|Visit link for details|2022-11-25 at 22:04|
- |[super-xray YAML File deserialization](https://vuldb.com/?id.214390)|Visit link for details|2022-11-25 at 22:03|
- |[Frappe information disclosure](https://vuldb.com/?id.214389)|Visit link for details|2022-11-25 at 22:03|
- |[Browsershot URL Protocol url information disclosure](https://vuldb.com/?id.214388)|Visit link for details|2022-11-25 at 22:02|
- |[Tiny File Manager cross-site request forgery](https://vuldb.com/?id.214387)|Visit link for details|2022-11-25 at 22:01|
- |[browsershot file Protocol html information disclosure](https://vuldb.com/?id.214386)|Visit link for details|2022-11-25 at 22:00|
- |[Badaso unrestricted upload](https://vuldb.com/?id.214385)|Visit link for details|2022-11-25 at 21:58|
- |[Automotive Shop Management System update_status.php sql injection](https://vuldb.com/?id.214384)|Visit link for details|2022-11-25 at 21:58|
- |[Automotive Shop Management System manage_product.php sql injection](https://vuldb.com/?id.214383)|Visit link for details|2022-11-25 at 21:57|
- |[Automotive Shop Management System view_product.php sql injection](https://vuldb.com/?id.214382)|Visit link for details|2022-11-25 at 21:56|
+ |[PyroCMS cross site scripting](https://vuldb.com/?id.214421)|Visit link for details|2022-11-26 at 08:34|
+ |[Microweber cross site scripting](https://vuldb.com/?id.214420)|Visit link for details|2022-11-26 at 08:34|
+ |[drachtio-server Invite Request heap-based overflow](https://vuldb.com/?id.214419)|Visit link for details|2022-11-26 at 08:28|
+ |[BaserCMS cross site scripting](https://vuldb.com/?id.214418)|Visit link for details|2022-11-26 at 08:28|
+ |[PyTorch torch.jit.annotations.parse_type_line Privilege Escalation](https://vuldb.com/?id.214417)|Visit link for details|2022-11-26 at 08:27|
+ |[TOTOLINK A7100RU setOpenVpnCfg command injection](https://vuldb.com/?id.214416)|Visit link for details|2022-11-26 at 08:26|
+ |[TOTOLINK A7100RU setOpenVpnClientCfg the command injection](https://vuldb.com/?id.214415)|Visit link for details|2022-11-26 at 08:25|
+ |[Jeecg-boot deleteRecycleBin sql injection](https://vuldb.com/?id.214414)|Visit link for details|2022-11-26 at 08:24|
+ |[Jeecg-boot putRecycleBin sql injection](https://vuldb.com/?id.214413)|Visit link for details|2022-11-26 at 08:24|
+ |[Jeecg-boot updateNullByEmptyString sql injection](https://vuldb.com/?id.214412)|Visit link for details|2022-11-26 at 08:24|
  
