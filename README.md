@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 27/11/2022 09:09:41 UTC
+ > Last Updated 27/11/2022 21:09:55 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -93,6 +93,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Botan OCSP Response certificate validation](https://vuldb.com/?id.214430)|Visit link for details|2022-11-27 at 11:13|
  |[KubeView kube-system improper authentication](https://vuldb.com/?id.214429)|Visit link for details|2022-11-27 at 08:49|
  |[ESL Protocol Label improper authentication](https://vuldb.com/?id.214428)|Visit link for details|2022-11-27 at 08:48|
  |[OpenDaylight RoleStore.java deleteRole sql injection](https://vuldb.com/?id.214427)|Visit link for details|2022-11-27 at 08:47|
@@ -102,5 +103,4 @@
  |[Linux Kernel l2cap_config_req Packet l2cap_core.c integer overflow](https://vuldb.com/?id.214423)|Visit link for details|2022-11-27 at 08:37|
  |[Linux Kernel dvb_ca_en50221.c dvb_ca_en50221_io_release use after free](https://vuldb.com/?id.214422)|Visit link for details|2022-11-27 at 08:36|
  |[PyroCMS cross site scripting](https://vuldb.com/?id.214421)|Visit link for details|2022-11-27 at 08:34|
- |[Microweber cross site scripting](https://vuldb.com/?id.214420)|Visit link for details|2022-11-27 at 08:34|
  
