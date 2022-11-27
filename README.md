@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 26/11/2022 21:09:46 UTC
+ > Last Updated 27/11/2022 09:09:41 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -93,14 +93,14 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[PyroCMS cross site scripting](https://vuldb.com/?id.214421)|Visit link for details|2022-11-26 at 08:34|
- |[Microweber cross site scripting](https://vuldb.com/?id.214420)|Visit link for details|2022-11-26 at 08:34|
- |[drachtio-server Invite Request heap-based overflow](https://vuldb.com/?id.214419)|Visit link for details|2022-11-26 at 08:28|
- |[BaserCMS cross site scripting](https://vuldb.com/?id.214418)|Visit link for details|2022-11-26 at 08:28|
- |[PyTorch torch.jit.annotations.parse_type_line Privilege Escalation](https://vuldb.com/?id.214417)|Visit link for details|2022-11-26 at 08:27|
- |[TOTOLINK A7100RU setOpenVpnCfg command injection](https://vuldb.com/?id.214416)|Visit link for details|2022-11-26 at 08:26|
- |[TOTOLINK A7100RU setOpenVpnClientCfg the command injection](https://vuldb.com/?id.214415)|Visit link for details|2022-11-26 at 08:25|
- |[Jeecg-boot deleteRecycleBin sql injection](https://vuldb.com/?id.214414)|Visit link for details|2022-11-26 at 08:24|
- |[Jeecg-boot putRecycleBin sql injection](https://vuldb.com/?id.214413)|Visit link for details|2022-11-26 at 08:24|
- |[Jeecg-boot updateNullByEmptyString sql injection](https://vuldb.com/?id.214412)|Visit link for details|2022-11-26 at 08:24|
+ |[KubeView kube-system improper authentication](https://vuldb.com/?id.214429)|Visit link for details|2022-11-27 at 08:49|
+ |[ESL Protocol Label improper authentication](https://vuldb.com/?id.214428)|Visit link for details|2022-11-27 at 08:48|
+ |[OpenDaylight RoleStore.java deleteRole sql injection](https://vuldb.com/?id.214427)|Visit link for details|2022-11-27 at 08:47|
+ |[OpenDaylight AAA UserStore.java deleteUser sql injection](https://vuldb.com/?id.214426)|Visit link for details|2022-11-27 at 08:46|
+ |[OpenDaylight AAA DomainStore.java deleteDomain sql injection](https://vuldb.com/?id.214425)|Visit link for details|2022-11-27 at 08:39|
+ |[qs denial of service](https://vuldb.com/?id.214424)|Visit link for details|2022-11-27 at 08:39|
+ |[Linux Kernel l2cap_config_req Packet l2cap_core.c integer overflow](https://vuldb.com/?id.214423)|Visit link for details|2022-11-27 at 08:37|
+ |[Linux Kernel dvb_ca_en50221.c dvb_ca_en50221_io_release use after free](https://vuldb.com/?id.214422)|Visit link for details|2022-11-27 at 08:36|
+ |[PyroCMS cross site scripting](https://vuldb.com/?id.214421)|Visit link for details|2022-11-27 at 08:34|
+ |[Microweber cross site scripting](https://vuldb.com/?id.214420)|Visit link for details|2022-11-27 at 08:34|
  
