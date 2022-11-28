@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 27/11/2022 21:09:55 UTC
+ > Last Updated 28/11/2022 09:11:42 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,6 +57,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/GNU-Inetutils-information-disclosure-via-Ftp-Client-PASV-LSPV-Responses-39961" class="noirorange"><b>GNU Inetutils</b>: information disclosure via Ftp Client PASV/LSPV Responses</a>](https://vigilance.fr/vulnerability/GNU-Inetutils-information-disclosure-via-Ftp-Client-PASV-LSPV-Responses-39961)|An attacker can bypass access restrictions to data of GNU Inetutils, via Ftp Client PASV/LSPV Responses, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Slixmpp-Man-in-the-Middle-39960" class="noirorange"><b>Slixmpp</b>: Man-in-the-Middle</a>](https://vigilance.fr/vulnerability/Slixmpp-Man-in-the-Middle-39960)|An attacker can act as a Man-in-the-Middle on Slixmpp, in order to read or write data in the session...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-aerdl-dll-39959" class="noirorange"><b>WithSecure Endpoint Protection</b>: denial of service via aerdl.dll</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-aerdl-dll-39959)|An attacker can cause a fatal error of WithSecure Endpoint Protection, via aerdl.dll, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-buffer-overflow-via-GPU-39958" class="noirorange"><b>Chrome</b>: buffer overflow via GPU</a>](https://vigilance.fr/vulnerability/Chrome-buffer-overflow-via-GPU-39958)|An attacker can trigger a buffer overflow of Chrome, via GPU, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Ruby-cgi-header-injection-39957" class="noirorange"><b>Ruby cgi</b>: header injection</a>](https://vigilance.fr/vulnerability/Ruby-cgi-header-injection-39957)|An attacker can add new headers on Ruby cgi, in order to alter the service behavior...|Visit link for details|
@@ -66,8 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Botan-Man-in-the-Middle-via-Embedded-Certificates-39952" class="noirorange"><b>Botan</b>: Man-in-the-Middle via Embedded Certificates</a>](https://vigilance.fr/vulnerability/Botan-Man-in-the-Middle-via-Embedded-Certificates-39952)|An attacker can act as a Man-in-the-Middle on Botan, via Embedded Certificates, in order to read or write data in the session...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/SNMP4J-denial-of-service-via-Outbound-Message-Sizes-39951" class="noirorange"><b>SNMP4J</b>: denial of service via Outbound Message Sizes</a>](https://vigilance.fr/vulnerability/SNMP4J-denial-of-service-via-Outbound-Message-Sizes-39951)|An attacker can cause a fatal error of SNMP4J, via Outbound Message Sizes, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-io-msg-ring-39950" class="noirorange"><b>Linux kernel</b>: reuse after free via io_msg_ring()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-io-msg-ring-39950)|An attacker can force the reuse of a freed memory area of the Linux kernel, via io_msg_ring(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GNU-libiberty-memory-leak-via-demangle-path-39947" class="noirorange"><b>GNU libiberty</b>: memory leak via demangle_path()</a>](https://vigilance.fr/vulnerability/GNU-libiberty-memory-leak-via-demangle-path-39947)|An attacker can create a memory leak of GNU libiberty, via demangle_path(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Dell-PowerPath-Management-Appliance-seven-vulnerabilities-39945" class="noirorange"><b>Dell PowerPath Management Appliance</b>: seven vulnerabilities</a>](https://vigilance.fr/vulnerability/Dell-PowerPath-Management-Appliance-seven-vulnerabilities-39945)|An attacker can use several vulnerabilities of Dell PowerPath Management Appliance...|Visit link for details|
  
  ---
 
@@ -93,14 +93,14 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Botan OCSP Response certificate validation](https://vuldb.com/?id.214430)|Visit link for details|2022-11-27 at 11:13|
- |[KubeView kube-system improper authentication](https://vuldb.com/?id.214429)|Visit link for details|2022-11-27 at 08:49|
- |[ESL Protocol Label improper authentication](https://vuldb.com/?id.214428)|Visit link for details|2022-11-27 at 08:48|
- |[OpenDaylight RoleStore.java deleteRole sql injection](https://vuldb.com/?id.214427)|Visit link for details|2022-11-27 at 08:47|
- |[OpenDaylight AAA UserStore.java deleteUser sql injection](https://vuldb.com/?id.214426)|Visit link for details|2022-11-27 at 08:46|
- |[OpenDaylight AAA DomainStore.java deleteDomain sql injection](https://vuldb.com/?id.214425)|Visit link for details|2022-11-27 at 08:39|
- |[qs denial of service](https://vuldb.com/?id.214424)|Visit link for details|2022-11-27 at 08:39|
- |[Linux Kernel l2cap_config_req Packet l2cap_core.c integer overflow](https://vuldb.com/?id.214423)|Visit link for details|2022-11-27 at 08:37|
- |[Linux Kernel dvb_ca_en50221.c dvb_ca_en50221_io_release use after free](https://vuldb.com/?id.214422)|Visit link for details|2022-11-27 at 08:36|
- |[PyroCMS cross site scripting](https://vuldb.com/?id.214421)|Visit link for details|2022-11-27 at 08:34|
+ |[Botan OCSP Response certificate validation](https://vuldb.com/?id.214430)|Visit link for details|2022-11-28 at 11:13|
+ |[KubeView kube-system improper authentication](https://vuldb.com/?id.214429)|Visit link for details|2022-11-28 at 08:49|
+ |[ESL Protocol Label improper authentication](https://vuldb.com/?id.214428)|Visit link for details|2022-11-28 at 08:48|
+ |[OpenDaylight RoleStore.java deleteRole sql injection](https://vuldb.com/?id.214427)|Visit link for details|2022-11-28 at 08:47|
+ |[OpenDaylight AAA UserStore.java deleteUser sql injection](https://vuldb.com/?id.214426)|Visit link for details|2022-11-28 at 08:46|
+ |[OpenDaylight AAA DomainStore.java deleteDomain sql injection](https://vuldb.com/?id.214425)|Visit link for details|2022-11-28 at 08:39|
+ |[qs denial of service](https://vuldb.com/?id.214424)|Visit link for details|2022-11-28 at 08:39|
+ |[Linux Kernel l2cap_config_req Packet l2cap_core.c integer overflow](https://vuldb.com/?id.214423)|Visit link for details|2022-11-28 at 08:37|
+ |[Linux Kernel dvb_ca_en50221.c dvb_ca_en50221_io_release use after free](https://vuldb.com/?id.214422)|Visit link for details|2022-11-28 at 08:36|
+ |[PyroCMS cross site scripting](https://vuldb.com/?id.214421)|Visit link for details|2022-11-28 at 08:34|
  
