@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 28/11/2022 09:11:42 UTC
+ > Last Updated 28/11/2022 21:10:07 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -40,16 +40,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[[SCADA] Vulnérabilité dans les produits Moxa](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1058/)|Une vulnérabilité a été découverte dans les produits Moxa. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 28 novembre 2022|
  |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1057/)|De multiples vulnérabilités ont été découvertes dans les produits Nextcloud. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 25 novembre 2022|
  |[Vulnérabilité dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1056/)|Une vulnérabilité a été découverte dans Google Chrome. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 25 novembre 2022|
- |[Vulnérabilité dans Moxa TN-5916](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1055/)|Une vulnérabilité a été découverte dans Moxa TN-5916. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 25 novembre 2022|
+ |[[SCADA] Vulnérabilité dans Moxa TN-5916](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1055/)|Une vulnérabilité a été découverte dans Moxa TN-5916. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 25 novembre 2022|
  |[Vulnérabilité dans PostgreSQL JDBC](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1054/)|Une vulnérabilité a été découverte dans PostgreSQL JDBC. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 24 novembre 2022|
  |[[SCADA] Multiples vulnérabilités dans les produits Belden](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1053/)|De multiples vulnérabilités ont été découvertes dans les produits Belden. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 24 novembre 2022|
  |[[SCADA] Multiples vulnérabilités dans les routeurs Moxa](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1052/)|De multiples vulnérabilités ont été découvertes dans les routeurs Moxa. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 24 novembre 2022|
  |[Multiples vulnérabilités dans les produits SolarWinds](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1051/)|De multiples vulnérabilités ont été découvertes dans les produits SolarWinds. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 23 novembre 2022|
  |[Vulnérabilité dans IBM QRadar](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1050/)|Une vulnérabilité a été découverte dans IBM QRadar. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 23 novembre 2022|
  |[Multiples vulnérabilités dans Aruba EdgeConnect Enterprise](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1049/)|De multiples vulnérabilités ont été découvertes dans Aruba EdgeConnect Enterprise. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 23 novembre 2022|
- |[Multiples vulnérabilités dans F5 BIG-IP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1048/)|De multiples vulnérabilités ont été découvertes dans F5 BIG-IP. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 23 novembre 2022|
  
  ---
 
@@ -57,17 +57,17 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Gerbv-memory-reading-via-Pick-and-place-Rotation-Parsing-39967" class="noirorange"><b>Gerbv</b>: memory reading via Pick-and-place Rotation Parsing</a>](https://vigilance.fr/vulnerability/Gerbv-memory-reading-via-Pick-and-place-Rotation-Parsing-39967)|An attacker can read a memory fragment of Gerbv, via Pick-and-place Rotation Parsing, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/shadow-read-write-access-via-TOCTOU-39966" class="noirorange"><b>shadow</b>: read-write access via TOCTOU</a>](https://vigilance.fr/vulnerability/shadow-read-write-access-via-TOCTOU-39966)|An attacker can bypass access restrictions of shadow, via TOCTOU, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/org-ini4j-denial-of-service-via-fetch-39965" class="noirorange"><b>org.ini4j</b>: denial of service via fetch()</a>](https://vigilance.fr/vulnerability/org-ini4j-denial-of-service-via-fetch-39965)|An attacker can cause a fatal error of org.ini4j, via fetch(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wind-River-VxWorks-denial-of-service-via-IP-Radius-Access-39963" class="noirorange"><b>Wind River VxWorks</b>: denial of service via IP Radius Access</a>](https://vigilance.fr/vulnerability/Wind-River-VxWorks-denial-of-service-via-IP-Radius-Access-39963)|An attacker can cause a fatal error of Wind River VxWorks, via IP Radius Access, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-unwind-39962" class="noirorange"><b>OpenBSD</b>: denial of service via unwind</a>](https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-unwind-39962)|An attacker can cause a fatal error of OpenBSD, via unwind, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GNU-Inetutils-information-disclosure-via-Ftp-Client-PASV-LSPV-Responses-39961" class="noirorange"><b>GNU Inetutils</b>: information disclosure via Ftp Client PASV/LSPV Responses</a>](https://vigilance.fr/vulnerability/GNU-Inetutils-information-disclosure-via-Ftp-Client-PASV-LSPV-Responses-39961)|An attacker can bypass access restrictions to data of GNU Inetutils, via Ftp Client PASV/LSPV Responses, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Slixmpp-Man-in-the-Middle-39960" class="noirorange"><b>Slixmpp</b>: Man-in-the-Middle</a>](https://vigilance.fr/vulnerability/Slixmpp-Man-in-the-Middle-39960)|An attacker can act as a Man-in-the-Middle on Slixmpp, in order to read or write data in the session...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-aerdl-dll-39959" class="noirorange"><b>WithSecure Endpoint Protection</b>: denial of service via aerdl.dll</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-aerdl-dll-39959)|An attacker can cause a fatal error of WithSecure Endpoint Protection, via aerdl.dll, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-buffer-overflow-via-GPU-39958" class="noirorange"><b>Chrome</b>: buffer overflow via GPU</a>](https://vigilance.fr/vulnerability/Chrome-buffer-overflow-via-GPU-39958)|An attacker can trigger a buffer overflow of Chrome, via GPU, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Ruby-cgi-header-injection-39957" class="noirorange"><b>Ruby cgi</b>: header injection</a>](https://vigilance.fr/vulnerability/Ruby-cgi-header-injection-39957)|An attacker can add new headers on Ruby cgi, in order to alter the service behavior...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/JBIG-KIT-denial-of-service-39956" class="noirorange"><b>JBIG-KIT</b>: denial of service</a>](https://vigilance.fr/vulnerability/JBIG-KIT-denial-of-service-39956)|An attacker can cause a fatal error of JBIG-KIT, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libarchive-NULL-pointer-dereference-via-archive-write-allocate-filter-39954" class="noirorange"><b>libarchive</b>: NULL pointer dereference via <wbr>__archive_write_allo<wbr>cate_filter()</wbr></wbr></a>](https://vigilance.fr/vulnerability/libarchive-NULL-pointer-dereference-via-archive-write-allocate-filter-39954)|An attacker can force a NULL pointer to be dereferenced on libarchive, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FFmpeg-out-of-bounds-memory-reading-via-QuickTime-RPZA-Video-Encoder-39953" class="noirorange"><b>FFmpeg</b>: out-of-bounds memory reading via QuickTime RPZA Video Encoder</a>](https://vigilance.fr/vulnerability/FFmpeg-out-of-bounds-memory-reading-via-QuickTime-RPZA-Video-Encoder-39953)|An attacker can force a read at an invalid memory address of FFmpeg, via QuickTime RPZA Video Encoder, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Botan-Man-in-the-Middle-via-Embedded-Certificates-39952" class="noirorange"><b>Botan</b>: Man-in-the-Middle via Embedded Certificates</a>](https://vigilance.fr/vulnerability/Botan-Man-in-the-Middle-via-Embedded-Certificates-39952)|An attacker can act as a Man-in-the-Middle on Botan, via Embedded Certificates, in order to read or write data in the session...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SNMP4J-denial-of-service-via-Outbound-Message-Sizes-39951" class="noirorange"><b>SNMP4J</b>: denial of service via Outbound Message Sizes</a>](https://vigilance.fr/vulnerability/SNMP4J-denial-of-service-via-Outbound-Message-Sizes-39951)|An attacker can cause a fatal error of SNMP4J, via Outbound Message Sizes, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-io-msg-ring-39950" class="noirorange"><b>Linux kernel</b>: reuse after free via io_msg_ring()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-io-msg-ring-39950)|An attacker can force the reuse of a freed memory area of the Linux kernel, via io_msg_ring(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
  ---
 
@@ -93,14 +93,14 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Botan OCSP Response certificate validation](https://vuldb.com/?id.214430)|Visit link for details|2022-11-28 at 11:13|
- |[KubeView kube-system improper authentication](https://vuldb.com/?id.214429)|Visit link for details|2022-11-28 at 08:49|
- |[ESL Protocol Label improper authentication](https://vuldb.com/?id.214428)|Visit link for details|2022-11-28 at 08:48|
- |[OpenDaylight RoleStore.java deleteRole sql injection](https://vuldb.com/?id.214427)|Visit link for details|2022-11-28 at 08:47|
- |[OpenDaylight AAA UserStore.java deleteUser sql injection](https://vuldb.com/?id.214426)|Visit link for details|2022-11-28 at 08:46|
- |[OpenDaylight AAA DomainStore.java deleteDomain sql injection](https://vuldb.com/?id.214425)|Visit link for details|2022-11-28 at 08:39|
- |[qs denial of service](https://vuldb.com/?id.214424)|Visit link for details|2022-11-28 at 08:39|
- |[Linux Kernel l2cap_config_req Packet l2cap_core.c integer overflow](https://vuldb.com/?id.214423)|Visit link for details|2022-11-28 at 08:37|
- |[Linux Kernel dvb_ca_en50221.c dvb_ca_en50221_io_release use after free](https://vuldb.com/?id.214422)|Visit link for details|2022-11-28 at 08:36|
- |[PyroCMS cross site scripting](https://vuldb.com/?id.214421)|Visit link for details|2022-11-28 at 08:34|
+ |[Dinstar FXO Analog VoIP Gateway DAG2000-16O cross site scripting](https://vuldb.com/?id.214474)|Visit link for details|2022-11-28 at 21:03|
+ |[oretnom23 Purchase Order Management System unrestricted upload](https://vuldb.com/?id.214473)|Visit link for details|2022-11-28 at 20:56|
+ |[AVS Audio Converter buffer overflow](https://vuldb.com/?id.214472)|Visit link for details|2022-11-28 at 20:56|
+ |[MSI Center TCP Packet MSI.TerminalServer.exe Privilege Escalation](https://vuldb.com/?id.214471)|Visit link for details|2022-11-28 at 20:55|
+ |[Velneo vClient unknown vulnerability](https://vuldb.com/?id.214470)|Visit link for details|2022-11-28 at 20:55|
+ |[Theme and Plugin Translation for Polylang process_polylang_theme_translation_wp_loaded authorization](https://vuldb.com/?id.214469)|Visit link for details|2022-11-28 at 20:54|
+ |[IBM Maximo Mobile credentials storage](https://vuldb.com/?id.214468)|Visit link for details|2022-11-28 at 20:50|
+ |[crewjam saml Assertion Element improper authentication](https://vuldb.com/?id.214467)|Visit link for details|2022-11-28 at 20:49|
+ |[Muhammara PDF unknown vulnerability](https://vuldb.com/?id.214466)|Visit link for details|2022-11-28 at 20:48|
+ |[Online Tours & Travels Management System file.php unrestricted upload](https://vuldb.com/?id.214465)|Visit link for details|2022-11-28 at 20:47|
  
