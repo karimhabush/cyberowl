@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 28/11/2022 21:10:07 UTC
+ > Last Updated 29/11/2022 09:11:42 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -27,12 +27,12 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2022/11/28/cisa-adds-two-known-exploited-vulnerabilities-catalog)|<p>CISA has added two new vulnerabilities to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Note: To view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.</p>|Monday, November 28, 2022|
  |[CISA Releases Eight Industrial Control Systems Advisories](https://www.cisa.gov/uscert/ncas/current-activity/2022/11/22/cisa-releases-eight-industrial-control-systems-advisories)|<p>CISA has released eight (8) Industrial Control Systems (ICS) advisories on 22 November 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p>|Tuesday, November 22, 2022|
  |[CISA, NSA, and ODNI Release Guidance for Customers on Securing the Software Supply Chain ](https://www.cisa.gov/uscert/ncas/current-activity/2022/11/17/cisa-nsa-and-odni-release-guidance-customers-securing-software)|<p>Today, CISA, the National Security Agency (NSA), and the Office of the Director of National Intelligence (ODNI), published the third of a three-part series on securing the software supply chain: <a href="https://media.defense.gov/2022/Nov/17/2003116445/-1/-1/0/ESF_SECURING_THE_SOFTWARE_SUPPLY_CHAIN_CUSTOMER.PDF">Securing Software Supply Chain Series - Recommended Practices Guide for Customers</a>.</p>|Thursday, November 17, 2022|
  |[#StopRansomware: Hive](https://www.cisa.gov/uscert/ncas/current-activity/2022/11/17/stopransomware-hive)|<p>Today, CISA, the Federal Bureau of Investigation (FBI), and the Department of Health and Human Services (HHS) released joint Cybersecurity Advisory (CSA) <a href="https://www.cisa.gov/uscert/ncas/alerts/aa22-321a">#StopRansomware: Hive Ransomware</a> to provide network defenders tactics, techniques, and procedures (TTPs) and indicators of compromise (IOCs) associated with Hive ransomware variants. FBI investigations identified these TTPs and IOCs as recently as November 2022. </p>|Thursday, November 17, 2022|
  |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/uscert/ncas/current-activity/2022/11/17/cisa-releases-two-industrial-control-systems-advisories)|<p>CISA has released two (2) Industrial Control Systems (ICS) advisories on November 17, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p>|Thursday, November 17, 2022|
  |[Cisco Releases Security Updates for Identity Services Engine](https://www.cisa.gov/uscert/ncas/current-activity/2022/11/16/cisco-releases-security-updates-identity-services-engine)|<p>Cisco has released security updates for vulnerabilities affecting Cisco Identity Services Engine (ISE). A remote attacker could exploit some of these vulnerabilities to bypass authorization and access system files. For updates addressing vulnerabilities, see the <a href="https://tools.cisco.com/security/center/publicationListing.x">Cisco Security Advisories page</a>.   </p>|Wednesday, November 16, 2022|
- |[Samba Releases Security Updates](https://www.cisa.gov/uscert/ncas/current-activity/2022/11/16/samba-releases-security-updates)|<p>The Samba Team has released <a href="https://www.samba.org/samba/history/security.html">security updates</a> to address vulnerabilities in multiple versions of Samba. An attacker could exploit some of these vulnerabilities to take control of an affected system.</p>|Wednesday, November 16, 2022|
  
  ---
 
@@ -57,6 +57,10 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/HarfBuzz-out-of-bounds-memory-reading-via-GPOS-GSUB-Table-39971" class="noirorange"><b>HarfBuzz</b>: out-of-bounds memory reading via GPOS/GSUB Table</a>](https://vigilance.fr/vulnerability/HarfBuzz-out-of-bounds-memory-reading-via-GPOS-GSUB-Table-39971)|An attacker can force a read at an invalid memory address of HarfBuzz, via GPOS/GSUB Table, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Artifex-MuJS-memory-corruption-via-O-getOwnPropertyDescriptor-39970" class="noirorange"><b>Artifex MuJS</b>: memory corruption via <wbr>O_getOwnPropertyDesc<wbr>riptor()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Artifex-MuJS-memory-corruption-via-O-getOwnPropertyDescriptor-39970)|An attacker can trigger a memory corruption of Artifex MuJS, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Artifex-MuJS-NULL-pointer-dereference-via-jsP-dumpsyntax-39969" class="noirorange"><b>Artifex MuJS</b>: NULL pointer dereference via jsP_dumpsyntax()</a>](https://vigilance.fr/vulnerability/Artifex-MuJS-NULL-pointer-dereference-via-jsP-dumpsyntax-39969)|An attacker can force a NULL pointer to be dereferenced on Artifex MuJS, via jsP_dumpsyntax(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Artifex-MuJS-overload-via-Regexp-Compile-39968" class="noirorange"><b>Artifex MuJS</b>: overload via Regexp Compile</a>](https://vigilance.fr/vulnerability/Artifex-MuJS-overload-via-Regexp-Compile-39968)|An attacker can trigger an overload of Artifex MuJS, via Regexp Compile, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Gerbv-memory-reading-via-Pick-and-place-Rotation-Parsing-39967" class="noirorange"><b>Gerbv</b>: memory reading via Pick-and-place Rotation Parsing</a>](https://vigilance.fr/vulnerability/Gerbv-memory-reading-via-Pick-and-place-Rotation-Parsing-39967)|An attacker can read a memory fragment of Gerbv, via Pick-and-place Rotation Parsing, in order to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/shadow-read-write-access-via-TOCTOU-39966" class="noirorange"><b>shadow</b>: read-write access via TOCTOU</a>](https://vigilance.fr/vulnerability/shadow-read-write-access-via-TOCTOU-39966)|An attacker can bypass access restrictions of shadow, via TOCTOU, in order to read or alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/org-ini4j-denial-of-service-via-fetch-39965" class="noirorange"><b>org.ini4j</b>: denial of service via fetch()</a>](https://vigilance.fr/vulnerability/org-ini4j-denial-of-service-via-fetch-39965)|An attacker can cause a fatal error of org.ini4j, via fetch(), in order to trigger a denial of service...|Visit link for details|
@@ -64,10 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-unwind-39962" class="noirorange"><b>OpenBSD</b>: denial of service via unwind</a>](https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-unwind-39962)|An attacker can cause a fatal error of OpenBSD, via unwind, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GNU-Inetutils-information-disclosure-via-Ftp-Client-PASV-LSPV-Responses-39961" class="noirorange"><b>GNU Inetutils</b>: information disclosure via Ftp Client PASV/LSPV Responses</a>](https://vigilance.fr/vulnerability/GNU-Inetutils-information-disclosure-via-Ftp-Client-PASV-LSPV-Responses-39961)|An attacker can bypass access restrictions to data of GNU Inetutils, via Ftp Client PASV/LSPV Responses, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Slixmpp-Man-in-the-Middle-39960" class="noirorange"><b>Slixmpp</b>: Man-in-the-Middle</a>](https://vigilance.fr/vulnerability/Slixmpp-Man-in-the-Middle-39960)|An attacker can act as a Man-in-the-Middle on Slixmpp, in order to read or write data in the session...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-aerdl-dll-39959" class="noirorange"><b>WithSecure Endpoint Protection</b>: denial of service via aerdl.dll</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-aerdl-dll-39959)|An attacker can cause a fatal error of WithSecure Endpoint Protection, via aerdl.dll, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-buffer-overflow-via-GPU-39958" class="noirorange"><b>Chrome</b>: buffer overflow via GPU</a>](https://vigilance.fr/vulnerability/Chrome-buffer-overflow-via-GPU-39958)|An attacker can trigger a buffer overflow of Chrome, via GPU, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ruby-cgi-header-injection-39957" class="noirorange"><b>Ruby cgi</b>: header injection</a>](https://vigilance.fr/vulnerability/Ruby-cgi-header-injection-39957)|An attacker can add new headers on Ruby cgi, in order to alter the service behavior...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/JBIG-KIT-denial-of-service-39956" class="noirorange"><b>JBIG-KIT</b>: denial of service</a>](https://vigilance.fr/vulnerability/JBIG-KIT-denial-of-service-39956)|An attacker can cause a fatal error of JBIG-KIT, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
@@ -93,14 +93,14 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Dinstar FXO Analog VoIP Gateway DAG2000-16O cross site scripting](https://vuldb.com/?id.214474)|Visit link for details|2022-11-28 at 21:03|
- |[oretnom23 Purchase Order Management System unrestricted upload](https://vuldb.com/?id.214473)|Visit link for details|2022-11-28 at 20:56|
- |[AVS Audio Converter buffer overflow](https://vuldb.com/?id.214472)|Visit link for details|2022-11-28 at 20:56|
- |[MSI Center TCP Packet MSI.TerminalServer.exe Privilege Escalation](https://vuldb.com/?id.214471)|Visit link for details|2022-11-28 at 20:55|
- |[Velneo vClient unknown vulnerability](https://vuldb.com/?id.214470)|Visit link for details|2022-11-28 at 20:55|
- |[Theme and Plugin Translation for Polylang process_polylang_theme_translation_wp_loaded authorization](https://vuldb.com/?id.214469)|Visit link for details|2022-11-28 at 20:54|
- |[IBM Maximo Mobile credentials storage](https://vuldb.com/?id.214468)|Visit link for details|2022-11-28 at 20:50|
- |[crewjam saml Assertion Element improper authentication](https://vuldb.com/?id.214467)|Visit link for details|2022-11-28 at 20:49|
- |[Muhammara PDF unknown vulnerability](https://vuldb.com/?id.214466)|Visit link for details|2022-11-28 at 20:48|
- |[Online Tours & Travels Management System file.php unrestricted upload](https://vuldb.com/?id.214465)|Visit link for details|2022-11-28 at 20:47|
+ |[GPAC lsr_dec.c lsr_translate_coords integer overflow](https://vuldb.com/?id.214518)|Visit link for details|2022-11-29 at 08:36|
+ |[Wenzhou Huoyin BossCMS Administrator List Module Add cross-site request forgery](https://vuldb.com/?id.214517)|Visit link for details|2022-11-29 at 08:32|
+ |[KLiK SocialMediaWebsite cross site scripting](https://vuldb.com/?id.214516)|Visit link for details|2022-11-29 at 08:31|
+ |[KLiK SocialMediaWebsite cross site scripting](https://vuldb.com/?id.214515)|Visit link for details|2022-11-29 at 08:31|
+ |[LINE Group Chat denial of service](https://vuldb.com/?id.214514)|Visit link for details|2022-11-29 at 08:30|
+ |[ChurchCRM cross site scripting](https://vuldb.com/?id.214513)|Visit link for details|2022-11-29 at 08:29|
+ |[ChurchCRM cross site scripting](https://vuldb.com/?id.214512)|Visit link for details|2022-11-29 at 08:29|
+ |[Virgial Berveling Notification E-mails Plugin cross-site request forgery](https://vuldb.com/?id.214511)|Visit link for details|2022-11-29 at 08:29|
+ |[AeroCMS sql injection](https://vuldb.com/?id.214510)|Visit link for details|2022-11-29 at 08:28|
+ |[D-Link DNR-322L Backup Config Privilege Escalation](https://vuldb.com/?id.214509)|Visit link for details|2022-11-29 at 08:27|
  
