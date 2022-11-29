@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 29/11/2022 09:11:42 UTC
+ > Last Updated 29/11/2022 21:11:45 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -27,12 +27,12 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/uscert/ncas/current-activity/2022/11/29/cisa-releases-seven-industrial-control-systems-advisories)|<p>CISA released seven (7) Industrial Control Systems (ICS) advisories on November 29, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p>|Tuesday, November 29, 2022|
  |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2022/11/28/cisa-adds-two-known-exploited-vulnerabilities-catalog)|<p>CISA has added two new vulnerabilities to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Note: To view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.</p>|Monday, November 28, 2022|
  |[CISA Releases Eight Industrial Control Systems Advisories](https://www.cisa.gov/uscert/ncas/current-activity/2022/11/22/cisa-releases-eight-industrial-control-systems-advisories)|<p>CISA has released eight (8) Industrial Control Systems (ICS) advisories on 22 November 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p>|Tuesday, November 22, 2022|
  |[CISA, NSA, and ODNI Release Guidance for Customers on Securing the Software Supply Chain ](https://www.cisa.gov/uscert/ncas/current-activity/2022/11/17/cisa-nsa-and-odni-release-guidance-customers-securing-software)|<p>Today, CISA, the National Security Agency (NSA), and the Office of the Director of National Intelligence (ODNI), published the third of a three-part series on securing the software supply chain: <a href="https://media.defense.gov/2022/Nov/17/2003116445/-1/-1/0/ESF_SECURING_THE_SOFTWARE_SUPPLY_CHAIN_CUSTOMER.PDF">Securing Software Supply Chain Series - Recommended Practices Guide for Customers</a>.</p>|Thursday, November 17, 2022|
  |[#StopRansomware: Hive](https://www.cisa.gov/uscert/ncas/current-activity/2022/11/17/stopransomware-hive)|<p>Today, CISA, the Federal Bureau of Investigation (FBI), and the Department of Health and Human Services (HHS) released joint Cybersecurity Advisory (CSA) <a href="https://www.cisa.gov/uscert/ncas/alerts/aa22-321a">#StopRansomware: Hive Ransomware</a> to provide network defenders tactics, techniques, and procedures (TTPs) and indicators of compromise (IOCs) associated with Hive ransomware variants. FBI investigations identified these TTPs and IOCs as recently as November 2022. </p>|Thursday, November 17, 2022|
  |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/uscert/ncas/current-activity/2022/11/17/cisa-releases-two-industrial-control-systems-advisories)|<p>CISA has released two (2) Industrial Control Systems (ICS) advisories on November 17, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p>|Thursday, November 17, 2022|
- |[Cisco Releases Security Updates for Identity Services Engine](https://www.cisa.gov/uscert/ncas/current-activity/2022/11/16/cisco-releases-security-updates-identity-services-engine)|<p>Cisco has released security updates for vulnerabilities affecting Cisco Identity Services Engine (ISE). A remote attacker could exploit some of these vulnerabilities to bypass authorization and access system files. For updates addressing vulnerabilities, see the <a href="https://tools.cisco.com/security/center/publicationListing.x">Cisco Security Advisories page</a>.   </p>|Wednesday, November 16, 2022|
  
  ---
 
@@ -40,6 +40,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[[SCADA] Multiples vulnérabilités dans Moxa Gamme UC](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1061/)|De multiples vulnérabilités ont été découvertes dans Moxa Gamme UC. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 29 novembre 2022|
+ |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1060/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 29 novembre 2022|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1059/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 29 novembre 2022|
  |[[SCADA] Vulnérabilité dans les produits Moxa](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1058/)|Une vulnérabilité a été découverte dans les produits Moxa. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 28 novembre 2022|
  |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1057/)|De multiples vulnérabilités ont été découvertes dans les produits Nextcloud. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 25 novembre 2022|
  |[Vulnérabilité dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1056/)|Une vulnérabilité a été découverte dans Google Chrome. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 25 novembre 2022|
@@ -47,9 +50,6 @@
  |[Vulnérabilité dans PostgreSQL JDBC](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1054/)|Une vulnérabilité a été découverte dans PostgreSQL JDBC. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 24 novembre 2022|
  |[[SCADA] Multiples vulnérabilités dans les produits Belden](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1053/)|De multiples vulnérabilités ont été découvertes dans les produits Belden. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 24 novembre 2022|
  |[[SCADA] Multiples vulnérabilités dans les routeurs Moxa](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1052/)|De multiples vulnérabilités ont été découvertes dans les routeurs Moxa. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 24 novembre 2022|
- |[Multiples vulnérabilités dans les produits SolarWinds](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1051/)|De multiples vulnérabilités ont été découvertes dans les produits SolarWinds. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 23 novembre 2022|
- |[Vulnérabilité dans IBM QRadar](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1050/)|Une vulnérabilité a été découverte dans IBM QRadar. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 23 novembre 2022|
- |[Multiples vulnérabilités dans Aruba EdgeConnect Enterprise](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1049/)|De multiples vulnérabilités ont été découvertes dans Aruba EdgeConnect Enterprise. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 23 novembre 2022|
  
  ---
 
@@ -57,6 +57,10 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-l2tp-tunnel-register-39975" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via <wbr>l2tp_tunnel_register<wbr>()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-l2tp-tunnel-register-39975)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-mptcp-copy-inaddrs-39974" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via <wbr>mptcp_copy_inaddrs()</wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-mptcp-copy-inaddrs-39974)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-io-files-update-with-index-alloc-39973" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via <wbr>io_files_update_with<wbr>_index_alloc()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-io-files-update-with-index-alloc-39973)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenStack-Sushy-Tools-VirtualBMC-privilege-escalation-via-Boot-Device-Configuration-Removed-Password-Protection-39972" class="noirorange"><b>OpenStack Sushy-Tools  VirtualBMC</b>: privilege escalation via Boot Device Configuration Removed Password Protection</a>](https://vigilance.fr/vulnerability/OpenStack-Sushy-Tools-VirtualBMC-privilege-escalation-via-Boot-Device-Configuration-Removed-Password-Protection-39972)|An attacker can bypass restrictions of OpenStack Sushy-Tools  VirtualBMC, via Boot Device Configuration Removed Password Protection, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/HarfBuzz-out-of-bounds-memory-reading-via-GPOS-GSUB-Table-39971" class="noirorange"><b>HarfBuzz</b>: out-of-bounds memory reading via GPOS/GSUB Table</a>](https://vigilance.fr/vulnerability/HarfBuzz-out-of-bounds-memory-reading-via-GPOS-GSUB-Table-39971)|An attacker can force a read at an invalid memory address of HarfBuzz, via GPOS/GSUB Table, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Artifex-MuJS-memory-corruption-via-O-getOwnPropertyDescriptor-39970" class="noirorange"><b>Artifex MuJS</b>: memory corruption via <wbr>O_getOwnPropertyDesc<wbr>riptor()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Artifex-MuJS-memory-corruption-via-O-getOwnPropertyDescriptor-39970)|An attacker can trigger a memory corruption of Artifex MuJS, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Artifex-MuJS-NULL-pointer-dereference-via-jsP-dumpsyntax-39969" class="noirorange"><b>Artifex MuJS</b>: NULL pointer dereference via jsP_dumpsyntax()</a>](https://vigilance.fr/vulnerability/Artifex-MuJS-NULL-pointer-dereference-via-jsP-dumpsyntax-39969)|An attacker can force a NULL pointer to be dereferenced on Artifex MuJS, via jsP_dumpsyntax(), in order to trigger a denial of service...|Visit link for details|
@@ -64,10 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Gerbv-memory-reading-via-Pick-and-place-Rotation-Parsing-39967" class="noirorange"><b>Gerbv</b>: memory reading via Pick-and-place Rotation Parsing</a>](https://vigilance.fr/vulnerability/Gerbv-memory-reading-via-Pick-and-place-Rotation-Parsing-39967)|An attacker can read a memory fragment of Gerbv, via Pick-and-place Rotation Parsing, in order to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/shadow-read-write-access-via-TOCTOU-39966" class="noirorange"><b>shadow</b>: read-write access via TOCTOU</a>](https://vigilance.fr/vulnerability/shadow-read-write-access-via-TOCTOU-39966)|An attacker can bypass access restrictions of shadow, via TOCTOU, in order to read or alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/org-ini4j-denial-of-service-via-fetch-39965" class="noirorange"><b>org.ini4j</b>: denial of service via fetch()</a>](https://vigilance.fr/vulnerability/org-ini4j-denial-of-service-via-fetch-39965)|An attacker can cause a fatal error of org.ini4j, via fetch(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wind-River-VxWorks-denial-of-service-via-IP-Radius-Access-39963" class="noirorange"><b>Wind River VxWorks</b>: denial of service via IP Radius Access</a>](https://vigilance.fr/vulnerability/Wind-River-VxWorks-denial-of-service-via-IP-Radius-Access-39963)|An attacker can cause a fatal error of Wind River VxWorks, via IP Radius Access, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-unwind-39962" class="noirorange"><b>OpenBSD</b>: denial of service via unwind</a>](https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-unwind-39962)|An attacker can cause a fatal error of OpenBSD, via unwind, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GNU-Inetutils-information-disclosure-via-Ftp-Client-PASV-LSPV-Responses-39961" class="noirorange"><b>GNU Inetutils</b>: information disclosure via Ftp Client PASV/LSPV Responses</a>](https://vigilance.fr/vulnerability/GNU-Inetutils-information-disclosure-via-Ftp-Client-PASV-LSPV-Responses-39961)|An attacker can bypass access restrictions to data of GNU Inetutils, via Ftp Client PASV/LSPV Responses, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Slixmpp-Man-in-the-Middle-39960" class="noirorange"><b>Slixmpp</b>: Man-in-the-Middle</a>](https://vigilance.fr/vulnerability/Slixmpp-Man-in-the-Middle-39960)|An attacker can act as a Man-in-the-Middle on Slixmpp, in order to read or write data in the session...|Visit link for details|
  
  ---
 
@@ -93,14 +93,14 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Amasty Blog Pro Plugin Admin Panel cross site scripting](https://vuldb.com/?id.214522)|Visit link for details|2022-11-29 at 18:56|
+ |[GPAC unquantize.c Q_IsTypeOn use after free](https://vuldb.com/?id.214521)|Visit link for details|2022-11-29 at 18:56|
+ |[Prometheus Exporter Toolkit web.yml unknown vulnerability](https://vuldb.com/?id.214520)|Visit link for details|2022-11-29 at 18:55|
+ |[Apache Fineract File Upload path traversal](https://vuldb.com/?id.214519)|Visit link for details|2022-11-29 at 18:54|
  |[GPAC lsr_dec.c lsr_translate_coords integer overflow](https://vuldb.com/?id.214518)|Visit link for details|2022-11-29 at 08:36|
  |[Wenzhou Huoyin BossCMS Administrator List Module Add cross-site request forgery](https://vuldb.com/?id.214517)|Visit link for details|2022-11-29 at 08:32|
  |[KLiK SocialMediaWebsite cross site scripting](https://vuldb.com/?id.214516)|Visit link for details|2022-11-29 at 08:31|
  |[KLiK SocialMediaWebsite cross site scripting](https://vuldb.com/?id.214515)|Visit link for details|2022-11-29 at 08:31|
  |[LINE Group Chat denial of service](https://vuldb.com/?id.214514)|Visit link for details|2022-11-29 at 08:30|
  |[ChurchCRM cross site scripting](https://vuldb.com/?id.214513)|Visit link for details|2022-11-29 at 08:29|
- |[ChurchCRM cross site scripting](https://vuldb.com/?id.214512)|Visit link for details|2022-11-29 at 08:29|
- |[Virgial Berveling Notification E-mails Plugin cross-site request forgery](https://vuldb.com/?id.214511)|Visit link for details|2022-11-29 at 08:29|
- |[AeroCMS sql injection](https://vuldb.com/?id.214510)|Visit link for details|2022-11-29 at 08:28|
- |[D-Link DNR-322L Backup Config Privilege Escalation](https://vuldb.com/?id.214509)|Visit link for details|2022-11-29 at 08:27|
  
