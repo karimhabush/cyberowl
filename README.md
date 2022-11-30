@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 29/11/2022 21:11:45 UTC
+ > Last Updated 30/11/2022 09:11:09 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,6 +57,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-call-qftf-func-39979" class="noirorange"><b>Vim</b>: reuse after free via call_qftf_func()</a>](https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-call-qftf-func-39979)|An attacker can force the reuse of a freed memory area of Vim, via call_qftf_func(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-NULL-pointer-dereference-via-do-mouse-39978" class="noirorange"><b>Vim</b>: NULL pointer dereference via do_mouse()</a>](https://vigilance.fr/vulnerability/Vim-NULL-pointer-dereference-via-do-mouse-39978)|An attacker can force a NULL pointer to be dereferenced on Vim, via do_mouse(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/openSUSE-Leap-SUSE-LE-information-disclosure-via-Passwords-In-Text-Files-39977" class="noirorange"><b>openSUSE Leap  SUSE LE</b>: information disclosure via Passwords In Text Files</a>](https://vigilance.fr/vulnerability/openSUSE-Leap-SUSE-LE-information-disclosure-via-Passwords-In-Text-Files-39977)|An attacker can bypass access restrictions to data of openSUSE Leap  SUSE LE, via Passwords In Text Files, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-l2tp-tunnel-register-39975" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via <wbr>l2tp_tunnel_register<wbr>()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-l2tp-tunnel-register-39975)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-mptcp-copy-inaddrs-39974" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via <wbr>mptcp_copy_inaddrs()</wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-mptcp-copy-inaddrs-39974)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-io-files-update-with-index-alloc-39973" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via <wbr>io_files_update_with<wbr>_index_alloc()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-io-files-update-with-index-alloc-39973)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
@@ -65,9 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Artifex-MuJS-memory-corruption-via-O-getOwnPropertyDescriptor-39970" class="noirorange"><b>Artifex MuJS</b>: memory corruption via <wbr>O_getOwnPropertyDesc<wbr>riptor()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Artifex-MuJS-memory-corruption-via-O-getOwnPropertyDescriptor-39970)|An attacker can trigger a memory corruption of Artifex MuJS, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Artifex-MuJS-NULL-pointer-dereference-via-jsP-dumpsyntax-39969" class="noirorange"><b>Artifex MuJS</b>: NULL pointer dereference via jsP_dumpsyntax()</a>](https://vigilance.fr/vulnerability/Artifex-MuJS-NULL-pointer-dereference-via-jsP-dumpsyntax-39969)|An attacker can force a NULL pointer to be dereferenced on Artifex MuJS, via jsP_dumpsyntax(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Artifex-MuJS-overload-via-Regexp-Compile-39968" class="noirorange"><b>Artifex MuJS</b>: overload via Regexp Compile</a>](https://vigilance.fr/vulnerability/Artifex-MuJS-overload-via-Regexp-Compile-39968)|An attacker can trigger an overload of Artifex MuJS, via Regexp Compile, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Gerbv-memory-reading-via-Pick-and-place-Rotation-Parsing-39967" class="noirorange"><b>Gerbv</b>: memory reading via Pick-and-place Rotation Parsing</a>](https://vigilance.fr/vulnerability/Gerbv-memory-reading-via-Pick-and-place-Rotation-Parsing-39967)|An attacker can read a memory fragment of Gerbv, via Pick-and-place Rotation Parsing, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/shadow-read-write-access-via-TOCTOU-39966" class="noirorange"><b>shadow</b>: read-write access via TOCTOU</a>](https://vigilance.fr/vulnerability/shadow-read-write-access-via-TOCTOU-39966)|An attacker can bypass access restrictions of shadow, via TOCTOU, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/org-ini4j-denial-of-service-via-fetch-39965" class="noirorange"><b>org.ini4j</b>: denial of service via fetch()</a>](https://vigilance.fr/vulnerability/org-ini4j-denial-of-service-via-fetch-39965)|An attacker can cause a fatal error of org.ini4j, via fetch(), in order to trigger a denial of service...|Visit link for details|
  
  ---
 
@@ -93,14 +93,14 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Amasty Blog Pro Plugin Admin Panel cross site scripting](https://vuldb.com/?id.214522)|Visit link for details|2022-11-29 at 18:56|
- |[GPAC unquantize.c Q_IsTypeOn use after free](https://vuldb.com/?id.214521)|Visit link for details|2022-11-29 at 18:56|
- |[Prometheus Exporter Toolkit web.yml unknown vulnerability](https://vuldb.com/?id.214520)|Visit link for details|2022-11-29 at 18:55|
- |[Apache Fineract File Upload path traversal](https://vuldb.com/?id.214519)|Visit link for details|2022-11-29 at 18:54|
- |[GPAC lsr_dec.c lsr_translate_coords integer overflow](https://vuldb.com/?id.214518)|Visit link for details|2022-11-29 at 08:36|
- |[Wenzhou Huoyin BossCMS Administrator List Module Add cross-site request forgery](https://vuldb.com/?id.214517)|Visit link for details|2022-11-29 at 08:32|
- |[KLiK SocialMediaWebsite cross site scripting](https://vuldb.com/?id.214516)|Visit link for details|2022-11-29 at 08:31|
- |[KLiK SocialMediaWebsite cross site scripting](https://vuldb.com/?id.214515)|Visit link for details|2022-11-29 at 08:31|
- |[LINE Group Chat denial of service](https://vuldb.com/?id.214514)|Visit link for details|2022-11-29 at 08:30|
- |[ChurchCRM cross site scripting](https://vuldb.com/?id.214513)|Visit link for details|2022-11-29 at 08:29|
+ |[perfSONAR Search cross-site request forgery](https://vuldb.com/?id.214586)|Visit link for details|2022-11-30 at 08:10|
+ |[perfSONAR graphData.cgi server-side request forgery](https://vuldb.com/?id.214585)|Visit link for details|2022-11-30 at 08:09|
+ |[owncast sql injection](https://vuldb.com/?id.214584)|Visit link for details|2022-11-30 at 08:06|
+ |[LibreDWG decode_r11.c decode_preR13_section_hdr heap-based overflow](https://vuldb.com/?id.214583)|Visit link for details|2022-11-30 at 08:06|
+ |[Book Store Management System Admin Panel hard-coded credentials](https://vuldb.com/?id.214582)|Visit link for details|2022-11-30 at 08:06|
+ |[Sanitization Management System Admin Panel hard-coded credentials](https://vuldb.com/?id.214581)|Visit link for details|2022-11-30 at 08:05|
+ |[Garage Management System createBrand.php cross site scripting](https://vuldb.com/?id.214580)|Visit link for details|2022-11-30 at 08:05|
+ |[SolarView Compact network_test.php cross site scripting](https://vuldb.com/?id.214579)|Visit link for details|2022-11-30 at 08:04|
+ |[QEMU QXL Display Device Emulation qxl_phys2virt out-of-bounds](https://vuldb.com/?id.214578)|Visit link for details|2022-11-30 at 08:04|
+ |[OP-TEE Trusted OS cleanup_shm_refs array index](https://vuldb.com/?id.214577)|Visit link for details|2022-11-30 at 08:00|
  
