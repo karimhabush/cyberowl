@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 30/11/2022 21:11:15 UTC
+ > Last Updated 01/12/2022 09:11:36 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,6 +57,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/snap-confine-file-read-write-via-must-mkdir-and-open-with-perms-39990" class="noirorange"><b>snap-confine</b>: file read/write via <wbr>must_mkdir_and_open_<wbr>with_perms()</wbr></wbr></a>](https://vigilance.fr/vulnerability/snap-confine-file-read-write-via-must-mkdir-and-open-with-perms-39990)|An attacker can bypass access restrictions of snap-confine, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Thunderbird-information-disclosure-via-HTML-Email-Quoting-39989" class="noirorange"><b>Thunderbird</b>: information disclosure via HTML Email Quoting</a>](https://vigilance.fr/vulnerability/Thunderbird-information-disclosure-via-HTML-Email-Quoting-39989)|An attacker can bypass access restrictions to data of Thunderbird, via HTML Email Quoting, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Open-Social-privilege-escalation-via-Send-Messages-39988" class="noirorange"><b>Drupal Open Social</b>: privilege escalation via Send Messages</a>](https://vigilance.fr/vulnerability/Drupal-Open-Social-privilege-escalation-via-Send-Messages-39988)|An attacker can bypass restrictions of Drupal Open Social, via Send Messages, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Open-Social-information-disclosure-via-Community-Groups-39987" class="noirorange"><b>Drupal Open Social</b>: information disclosure via Community Groups</a>](https://vigilance.fr/vulnerability/Drupal-Open-Social-information-disclosure-via-Community-Groups-39987)|An attacker can bypass access restrictions to data of Drupal Open Social, via Community Groups, in order to read sensitive information...|Visit link for details|
@@ -67,24 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/QEMU-buffer-overflow-via-qxl-phys-39982" class="noirorange"><b>QEMU</b>: buffer overflow via qxl_phys</a>](https://vigilance.fr/vulnerability/QEMU-buffer-overflow-via-qxl-phys-39982)|An attacker, in a guest system, can trigger a buffer overflow of QEMU, via qxl_phys, in order to trigger a denial of service, and possibly to run code on the host system...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-39981" class="noirorange"><b>Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-39981)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FreeBSD-buffer-overflow-via-ping-39980" class="noirorange"><b>FreeBSD</b>: buffer overflow via ping</a>](https://vigilance.fr/vulnerability/FreeBSD-buffer-overflow-via-ping-39980)|An attacker can trigger a buffer overflow of FreeBSD, via ping, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-call-qftf-func-39979" class="noirorange"><b>Vim</b>: reuse after free via call_qftf_func()</a>](https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-call-qftf-func-39979)|An attacker can force the reuse of a freed memory area of Vim, via call_qftf_func(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[SEPPMail Web Frontend cross site scripting](https://vuldb.com/?id.214611)|Visit link for details|2022-11-30 at 20:39|
- |[Microsoft Edge GPU heap-based overflow](https://vuldb.com/?id.214612)|Visit link for details|2022-11-30 at 20:38|
- |[Tribal Systems Zenario CMS Privilege Escalation](https://vuldb.com/?id.214610)|Visit link for details|2022-11-30 at 20:37|
- |[M-Files Server privileges management](https://vuldb.com/?id.214609)|Visit link for details|2022-11-30 at 20:36|
- |[M-Files Server parser information disclosure](https://vuldb.com/?id.214608)|Visit link for details|2022-11-30 at 20:35|
- |[Cap'n Proto out-of-bounds](https://vuldb.com/?id.214607)|Visit link for details|2022-11-30 at 20:35|
- |[oretnom23 Sanitization Management System manage_remark.php sql injection](https://vuldb.com/?id.214606)|Visit link for details|2022-11-30 at 20:34|
- |[oretnom23 Sanitization Management System assign_team.php sql injection](https://vuldb.com/?id.214605)|Visit link for details|2022-11-30 at 20:33|
- |[oretnom23 Sanitization Management System sql injection](https://vuldb.com/?id.214604)|Visit link for details|2022-11-30 at 20:33|
- |[oretnom23 Simple Inventory Management System login.php sql injection](https://vuldb.com/?id.214603)|Visit link for details|2022-11-30 at 20:32|
  
  ---
 
@@ -103,4 +86,21 @@
  |[39241511/22 - Vulnérabilité dans Sophos UTM](https://www.dgssi.gov.ma//fr/content/3924151122-vulnerabilite-dans-sophos-utm.html)|Une vulnérabilité a été corrigée dans Sophos UTM. L’exploitation de cette faille peut permettre à un attaquant de causer un problème de sécurité non spécifié.|15 novembre 2022|
  |[39221511/22- Vulnérabilités affectantle navigateur Microsoft Edge ](https://www.dgssi.gov.ma//fr/content/3922151122-vulnerabilites-affectant-le-navigateur-microsoft-edge.html)|Microsoft vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilités affectant le navigateur Microsoft Edge. L’exploitation de ces vulnérabilités peut permettre à un attaquant de provoquer des problèmes...|15 novembre 2022|
  |[39211411/22 - Vulnérabilité dans PaloAlto Cortex XSOAR ](https://www.dgssi.gov.ma//fr/content/3921141122-vulnerabilite-dans-paloalto-cortex-xsoar.html)|Une vulnérabilité a été corrigée dans PaloAlto Cortex XSOAR. L’exploitation de cette faille peut permettre à un attaquant d’exécuter des commandes avec des privilèges élevés.|14 novembre 2022|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[SourceCodester Canteen Management System customer.php builtin_echo cross site scripting](https://vuldb.com/?id.214630)|Visit link for details|2022-12-01 at 08:33|
+ |[SourceCodester Canteen Management System categories.php builtin_echo cross site scripting](https://vuldb.com/?id.214629)|Visit link for details|2022-12-01 at 08:31|
+ |[Movie Ticket Booking System editBooking.php cross site scripting](https://vuldb.com/?id.214628)|Visit link for details|2022-12-01 at 08:28|
+ |[Movie Ticket Booking System booking.php cross site scripting](https://vuldb.com/?id.214627)|Visit link for details|2022-12-01 at 08:26|
+ |[Movie Ticket Booking System POST Request cross site scripting](https://vuldb.com/?id.214626)|Visit link for details|2022-12-01 at 08:24|
+ |[Movie Ticket Booking System editBooking.php sql injection](https://vuldb.com/?id.214625)|Visit link for details|2022-12-01 at 08:23|
+ |[Movie Ticket Booking System booking.php sql injection](https://vuldb.com/?id.214624)|Visit link for details|2022-12-01 at 08:21|
+ |[Kakao PotPlayer MID File denial of service](https://vuldb.com/?id.214623)|Visit link for details|2022-12-01 at 08:14|
+ |[ThinkCMF cross-site request forgery](https://vuldb.com/?id.214622)|Visit link for details|2022-12-01 at 08:07|
+ |[Tenda AC6 denial of service](https://vuldb.com/?id.214621)|Visit link for details|2022-12-01 at 08:06|
  
