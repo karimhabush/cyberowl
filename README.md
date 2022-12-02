@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 02/12/2022 09:10:50 UTC
+ > Last Updated 02/12/2022 21:10:01 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -40,16 +40,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiples vulnérabilités dans les produits NextCloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1073/)|De multiples vulnérabilités ont été découvertes dans les produits NextCloud. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 2 décembre 2022|
+ |[Multiples vulnérabilités dans TrendMicro Apex One](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1072/)|De multiples vulnérabilités ont été découvertes dans TrendMicro Apex One. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données et une élévation de privilèges.|Publié le 2 décembre 2022|
+ |[Multiples vulnérabilités dans les produits Asterisk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1071/)|De multiples vulnérabilités ont été découvertes dans les produits Asterisk. Elles permettent à un attaquant de provoquer un déni de service à distance et une élévation de privilèges.|Publié le 2 décembre 2022|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1070/)|De multiples vulnérabilités ont été corrigées dans |Publié le 2 décembre 2022|
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1069/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 1 décembre 2022|
  |[Vulnérabilité dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1068/)|Une vulnérabilité a été découverte dans Mozilla Thunderbird. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 1 décembre 2022|
  |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1067/)|De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 1 décembre 2022|
  |[Multiples vulnérabilités dans Aruba AirWave](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1066/)|De multiples vulnérabilités ont été découvertes dans Aruba AirWave. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 30 novembre 2022|
  |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1065/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 30 novembre 2022|
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1064/)|De multiples vulnérabilités ont été corrigées dans |Publié le 30 novembre 2022|
- |[Vulnérabilité dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1063/)|Une vulnérabilité a été corrigée dans |Publié le 30 novembre 2022|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1062/)|De multiples vulnérabilités ont été corrigées dans |Publié le 30 novembre 2022|
- |[[SCADA] Multiples vulnérabilités dans Moxa Gamme UC](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1061/)|De multiples vulnérabilités ont été découvertes dans Moxa Gamme UC. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 29 novembre 2022|
- |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1060/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 29 novembre 2022|
  
  ---
 
@@ -57,17 +57,17 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-AMD-Nested-Virtualization-40008" class="noirorange"><b>Linux kernel</b>: denial of service via AMD Nested Virtualization</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-AMD-Nested-Virtualization-40008)|An attacker, in a guest system, can cause a fatal error of the Linux kernel, via AMD Nested Virtualization, in order to trigger a denial of service on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-i915-mmio-invalidate-full-40007" class="noirorange"><b>Linux kernel</b>: privilege escalation via i915 <wbr>mmio_invalidate_full<wbr>()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-i915-mmio-invalidate-full-40007)|An attacker can bypass restrictions of the Linux kernel, via i915 |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libetpan-NULL-pointer-dereference-via-mailimap-mailbox-data-status-free-40005" class="noirorange"><b>libetpan</b>: NULL pointer dereference via <wbr>mailimap_mailbox_dat<wbr>a_status_free()</wbr></wbr></a>](https://vigilance.fr/vulnerability/libetpan-NULL-pointer-dereference-via-mailimap-mailbox-data-status-free-40005)|An attacker can force a NULL pointer to be dereferenced on libetpan, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PJSIP-buffer-overflow-via-STUN-Client-40004" class="noirorange"><b>PJSIP</b>: buffer overflow via STUN Client</a>](https://vigilance.fr/vulnerability/PJSIP-buffer-overflow-via-STUN-Client-40004)|An attacker can trigger a buffer overflow of PJSIP, via STUN Client, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PJSIP-buffer-overflow-via-Parser-40003" class="noirorange"><b>PJSIP</b>: buffer overflow via Parser</a>](https://vigilance.fr/vulnerability/PJSIP-buffer-overflow-via-Parser-40003)|An attacker can trigger a buffer overflow of PJSIP, via Parser, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Asterisk-Open-Source-directory-traversal-via-GetConfig-AMI-Actio-40002" class="noirorange"><b>Asterisk Open Source</b>: directory traversal via GetConfig AMI Actio</a>](https://vigilance.fr/vulnerability/Asterisk-Open-Source-directory-traversal-via-GetConfig-AMI-Actio-40002)|An attacker can traverse directories of Asterisk Open Source, via GetConfig AMI Actio, in order to read a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Asterisk-Open-Source-reuse-after-free-via-res-pjsip-pubsub-c-40001" class="noirorange"><b>Asterisk Open Source</b>: reuse after free via res_pjsip_pubsub.c</a>](https://vigilance.fr/vulnerability/Asterisk-Open-Source-reuse-after-free-via-res-pjsip-pubsub-c-40001)|An attacker can force the reuse of a freed memory area of Asterisk Open Source, via res_pjsip_pubsub.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Asterisk-Open-Source-denial-of-service-via-H323-Channel-Add-On-40000" class="noirorange"><b>Asterisk Open Source</b>: denial of service via H323 Channel Add On</a>](https://vigilance.fr/vulnerability/Asterisk-Open-Source-denial-of-service-via-H323-Channel-Add-On-40000)|An attacker can cause a fatal error of Asterisk Open Source, via H323 Channel Add On, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/BusyBox-reuse-after-free-via-Awk-Applet-39999" class="noirorange"><b>BusyBox</b>: reuse after free via Awk Applet</a>](https://vigilance.fr/vulnerability/BusyBox-reuse-after-free-via-Awk-Applet-39999)|An attacker can force the reuse of a freed memory area of BusyBox, via Awk Applet, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Sophos-Firewall-multiple-vulnerabilities-39997" class="noirorange"><b>Sophos Firewall</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Sophos-Firewall-multiple-vulnerabilities-39997)|An attacker can use several vulnerabilities of Sophos Firewall...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-Commons-BCEL-code-execution-via-Arbitrary-Bytecode-Production-39996" class="noirorange"><b>Apache Commons BCEL</b>: code execution via Arbitrary Bytecode Production</a>](https://vigilance.fr/vulnerability/Apache-Commons-BCEL-code-execution-via-Arbitrary-Bytecode-Production-39996)|An attacker can use a vulnerability of Apache Commons BCEL, via Arbitrary Bytecode Production, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GNU-Emacs-code-execution-via-Shell-Metacharacters-39995" class="noirorange"><b>GNU Emacs</b>: code execution via Shell Metacharacters</a>](https://vigilance.fr/vulnerability/GNU-Emacs-code-execution-via-Shell-Metacharacters-39995)|An attacker can use a vulnerability of GNU Emacs, via Shell Metacharacters, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/NetBackup-Flex-Scale-four-vulnerabilities-39994" class="noirorange"><b>NetBackup Flex Scale</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/NetBackup-Flex-Scale-four-vulnerabilities-39994)|An attacker can use several vulnerabilities of NetBackup Flex Scale...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-direct-page-fault-39993" class="noirorange"><b>Linux kernel</b>: denial of service via direct_page_fault()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-direct-page-fault-39993)|An attacker, in a guest system, can cause a fatal error of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-API-Connect-header-injection-via-Host-39992" class="noirorange"><b>IBM API Connect</b>: header injection via Host</a>](https://vigilance.fr/vulnerability/IBM-API-Connect-header-injection-via-Host-39992)|An attacker can add new headers on IBM API Connect, via Host, in order to alter the service behavior...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/snap-confine-file-read-write-via-must-mkdir-and-open-with-perms-39990" class="noirorange"><b>snap-confine</b>: file read/write via <wbr>must_mkdir_and_open_<wbr>with_perms()</wbr></wbr></a>](https://vigilance.fr/vulnerability/snap-confine-file-read-write-via-must-mkdir-and-open-with-perms-39990)|An attacker can bypass access restrictions of snap-confine, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Thunderbird-information-disclosure-via-HTML-Email-Quoting-39989" class="noirorange"><b>Thunderbird</b>: information disclosure via HTML Email Quoting</a>](https://vigilance.fr/vulnerability/Thunderbird-information-disclosure-via-HTML-Email-Quoting-39989)|An attacker can bypass access restrictions to data of Thunderbird, via HTML Email Quoting, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Open-Social-privilege-escalation-via-Send-Messages-39988" class="noirorange"><b>Drupal Open Social</b>: privilege escalation via Send Messages</a>](https://vigilance.fr/vulnerability/Drupal-Open-Social-privilege-escalation-via-Send-Messages-39988)|An attacker can bypass restrictions of Drupal Open Social, via Send Messages, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Open-Social-information-disclosure-via-Community-Groups-39987" class="noirorange"><b>Drupal Open Social</b>: information disclosure via Community Groups</a>](https://vigilance.fr/vulnerability/Drupal-Open-Social-information-disclosure-via-Community-Groups-39987)|An attacker can bypass access restrictions to data of Drupal Open Social, via Community Groups, in order to read sensitive information...|Visit link for details|
  
  ---
 
@@ -93,14 +93,14 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Symantec Endpoint Protection Privilege Escalation](https://vuldb.com/?id.214640)|Visit link for details|2022-12-02 at 17:45|
- |[Symantec Endpoint Protection Privilege Escalation](https://vuldb.com/?id.214639)|Visit link for details|2022-12-02 at 17:44|
- |[asith-eranga ISIC Tour Booking controller.php sql injection](https://vuldb.com/?id.214638)|Visit link for details|2022-12-02 at 17:43|
- |[asith-eranga ISIC Tour Booking controller.php information disclosure](https://vuldb.com/?id.214637)|Visit link for details|2022-12-02 at 17:43|
- |[Asus NAS-M25 Cookie os command injection](https://vuldb.com/?id.214636)|Visit link for details|2022-12-02 at 14:47|
- |[Rocket TRUfusion Enterprise JSP File unrestricted upload](https://vuldb.com/?id.214635)|Visit link for details|2022-12-02 at 14:46|
- |[Festo VTEM-S1 insufficient technical documentation](https://vuldb.com/?id.214634)|Visit link for details|2022-12-02 at 14:45|
- |[SnakeYAML Constructor deserialization](https://vuldb.com/?id.214633)|Visit link for details|2022-12-02 at 14:41|
- |[Axiell Iguana CMS twitter.php cross site scripting](https://vuldb.com/?id.214632)|Visit link for details|2022-12-02 at 14:37|
- |[C-DATA Web Management System GET Parameter jumpto.php argument injection](https://vuldb.com/?id.214631)|Visit link for details|2022-12-02 at 14:35|
+ |[Tenda AC6 setSmartPowerManagement buffer overflow](https://vuldb.com/?id.214702)|Visit link for details|2022-12-02 at 21:11|
+ |[Tenda AC6 setSchedWifi buffer overflow](https://vuldb.com/?id.214701)|Visit link for details|2022-12-02 at 21:11|
+ |[Tenda AC6 fromSetWirelessRepeat buffer overflow](https://vuldb.com/?id.214700)|Visit link for details|2022-12-02 at 21:11|
+ |[Tenda AC6 setSchedWifi buffer overflow](https://vuldb.com/?id.214699)|Visit link for details|2022-12-02 at 21:11|
+ |[Tenda AC6 fromSetSysTime buffer overflow](https://vuldb.com/?id.214698)|Visit link for details|2022-12-02 at 21:10|
+ |[Tenda AC6 form_fast_setting_wifi_set buffer overflow](https://vuldb.com/?id.214697)|Visit link for details|2022-12-02 at 21:10|
+ |[Tenda AC6 form_fast_setting_wifi_set buffer overflow](https://vuldb.com/?id.214696)|Visit link for details|2022-12-02 at 21:10|
+ |[Tenda AC6 fromNatStaticSetting buffer overflow](https://vuldb.com/?id.214695)|Visit link for details|2022-12-02 at 21:09|
+ |[Tenda AC6 formSetPPTPServer buffer overflow](https://vuldb.com/?id.214694)|Visit link for details|2022-12-02 at 21:09|
+ |[Tenda AC6 formSetVirtualSer buffer overflow](https://vuldb.com/?id.214693)|Visit link for details|2022-12-02 at 21:09|
  
