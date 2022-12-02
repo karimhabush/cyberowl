@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 01/12/2022 21:10:10 UTC
+ > Last Updated 02/12/2022 09:10:50 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,6 +57,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/BusyBox-reuse-after-free-via-Awk-Applet-39999" class="noirorange"><b>BusyBox</b>: reuse after free via Awk Applet</a>](https://vigilance.fr/vulnerability/BusyBox-reuse-after-free-via-Awk-Applet-39999)|An attacker can force the reuse of a freed memory area of BusyBox, via Awk Applet, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Sophos-Firewall-multiple-vulnerabilities-39997" class="noirorange"><b>Sophos Firewall</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Sophos-Firewall-multiple-vulnerabilities-39997)|An attacker can use several vulnerabilities of Sophos Firewall...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-Commons-BCEL-code-execution-via-Arbitrary-Bytecode-Production-39996" class="noirorange"><b>Apache Commons BCEL</b>: code execution via Arbitrary Bytecode Production</a>](https://vigilance.fr/vulnerability/Apache-Commons-BCEL-code-execution-via-Arbitrary-Bytecode-Production-39996)|An attacker can use a vulnerability of Apache Commons BCEL, via Arbitrary Bytecode Production, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GNU-Emacs-code-execution-via-Shell-Metacharacters-39995" class="noirorange"><b>GNU Emacs</b>: code execution via Shell Metacharacters</a>](https://vigilance.fr/vulnerability/GNU-Emacs-code-execution-via-Shell-Metacharacters-39995)|An attacker can use a vulnerability of GNU Emacs, via Shell Metacharacters, in order to run code...|Visit link for details|
@@ -67,7 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Thunderbird-information-disclosure-via-HTML-Email-Quoting-39989" class="noirorange"><b>Thunderbird</b>: information disclosure via HTML Email Quoting</a>](https://vigilance.fr/vulnerability/Thunderbird-information-disclosure-via-HTML-Email-Quoting-39989)|An attacker can bypass access restrictions to data of Thunderbird, via HTML Email Quoting, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Open-Social-privilege-escalation-via-Send-Messages-39988" class="noirorange"><b>Drupal Open Social</b>: privilege escalation via Send Messages</a>](https://vigilance.fr/vulnerability/Drupal-Open-Social-privilege-escalation-via-Send-Messages-39988)|An attacker can bypass restrictions of Drupal Open Social, via Send Messages, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Open-Social-information-disclosure-via-Community-Groups-39987" class="noirorange"><b>Drupal Open Social</b>: information disclosure via Community Groups</a>](https://vigilance.fr/vulnerability/Drupal-Open-Social-information-disclosure-via-Community-Groups-39987)|An attacker can bypass access restrictions to data of Drupal Open Social, via Community Groups, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Social-Base-information-disclosure-via-Group-Title-39986" class="noirorange"><b>Drupal Social Base</b>: information disclosure via Group Title</a>](https://vigilance.fr/vulnerability/Drupal-Social-Base-information-disclosure-via-Group-Title-39986)|An attacker can bypass access restrictions to data of Drupal Social Base, via Group Title, in order to read sensitive information...|Visit link for details|
  
  ---
 
@@ -93,14 +93,14 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Symantec Endpoint Protection Privilege Escalation](https://vuldb.com/?id.214640)|Visit link for details|2022-12-01 at 17:45|
- |[Symantec Endpoint Protection Privilege Escalation](https://vuldb.com/?id.214639)|Visit link for details|2022-12-01 at 17:44|
- |[asith-eranga ISIC Tour Booking controller.php sql injection](https://vuldb.com/?id.214638)|Visit link for details|2022-12-01 at 17:43|
- |[asith-eranga ISIC Tour Booking controller.php information disclosure](https://vuldb.com/?id.214637)|Visit link for details|2022-12-01 at 17:43|
- |[Asus NAS-M25 Cookie os command injection](https://vuldb.com/?id.214636)|Visit link for details|2022-12-01 at 14:47|
- |[Rocket TRUfusion Enterprise JSP File unrestricted upload](https://vuldb.com/?id.214635)|Visit link for details|2022-12-01 at 14:46|
- |[Festo VTEM-S1 insufficient technical documentation](https://vuldb.com/?id.214634)|Visit link for details|2022-12-01 at 14:45|
- |[SnakeYAML Constructor deserialization](https://vuldb.com/?id.214633)|Visit link for details|2022-12-01 at 14:41|
- |[Axiell Iguana CMS twitter.php cross site scripting](https://vuldb.com/?id.214632)|Visit link for details|2022-12-01 at 14:37|
- |[C-DATA Web Management System GET Parameter jumpto.php argument injection](https://vuldb.com/?id.214631)|Visit link for details|2022-12-01 at 14:35|
+ |[Symantec Endpoint Protection Privilege Escalation](https://vuldb.com/?id.214640)|Visit link for details|2022-12-02 at 17:45|
+ |[Symantec Endpoint Protection Privilege Escalation](https://vuldb.com/?id.214639)|Visit link for details|2022-12-02 at 17:44|
+ |[asith-eranga ISIC Tour Booking controller.php sql injection](https://vuldb.com/?id.214638)|Visit link for details|2022-12-02 at 17:43|
+ |[asith-eranga ISIC Tour Booking controller.php information disclosure](https://vuldb.com/?id.214637)|Visit link for details|2022-12-02 at 17:43|
+ |[Asus NAS-M25 Cookie os command injection](https://vuldb.com/?id.214636)|Visit link for details|2022-12-02 at 14:47|
+ |[Rocket TRUfusion Enterprise JSP File unrestricted upload](https://vuldb.com/?id.214635)|Visit link for details|2022-12-02 at 14:46|
+ |[Festo VTEM-S1 insufficient technical documentation](https://vuldb.com/?id.214634)|Visit link for details|2022-12-02 at 14:45|
+ |[SnakeYAML Constructor deserialization](https://vuldb.com/?id.214633)|Visit link for details|2022-12-02 at 14:41|
+ |[Axiell Iguana CMS twitter.php cross site scripting](https://vuldb.com/?id.214632)|Visit link for details|2022-12-02 at 14:37|
+ |[C-DATA Web Management System GET Parameter jumpto.php argument injection](https://vuldb.com/?id.214631)|Visit link for details|2022-12-02 at 14:35|
  
