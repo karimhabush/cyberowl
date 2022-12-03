@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 02/12/2022 21:10:01 UTC
+ > Last Updated 03/12/2022 09:10:50 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -93,14 +93,14 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Tenda AC6 setSmartPowerManagement buffer overflow](https://vuldb.com/?id.214702)|Visit link for details|2022-12-02 at 21:11|
- |[Tenda AC6 setSchedWifi buffer overflow](https://vuldb.com/?id.214701)|Visit link for details|2022-12-02 at 21:11|
- |[Tenda AC6 fromSetWirelessRepeat buffer overflow](https://vuldb.com/?id.214700)|Visit link for details|2022-12-02 at 21:11|
- |[Tenda AC6 setSchedWifi buffer overflow](https://vuldb.com/?id.214699)|Visit link for details|2022-12-02 at 21:11|
- |[Tenda AC6 fromSetSysTime buffer overflow](https://vuldb.com/?id.214698)|Visit link for details|2022-12-02 at 21:10|
- |[Tenda AC6 form_fast_setting_wifi_set buffer overflow](https://vuldb.com/?id.214697)|Visit link for details|2022-12-02 at 21:10|
- |[Tenda AC6 form_fast_setting_wifi_set buffer overflow](https://vuldb.com/?id.214696)|Visit link for details|2022-12-02 at 21:10|
- |[Tenda AC6 fromNatStaticSetting buffer overflow](https://vuldb.com/?id.214695)|Visit link for details|2022-12-02 at 21:09|
- |[Tenda AC6 formSetPPTPServer buffer overflow](https://vuldb.com/?id.214694)|Visit link for details|2022-12-02 at 21:09|
- |[Tenda AC6 formSetVirtualSer buffer overflow](https://vuldb.com/?id.214693)|Visit link for details|2022-12-02 at 21:09|
+ |[SourceCodester Human Resource Management System Content-Type employee.php unrestricted upload](https://vuldb.com/?id.214769)|Visit link for details|2022-12-03 at 09:00|
+ |[OX Software OX App Suite resource consumption](https://vuldb.com/?id.214768)|Visit link for details|2022-12-03 at 08:55|
+ |[OX Software OX App Suite resource consumption](https://vuldb.com/?id.214767)|Visit link for details|2022-12-03 at 08:55|
+ |[OX Software OX App Suite server-side request forgery](https://vuldb.com/?id.214766)|Visit link for details|2022-12-03 at 08:54|
+ |[OX Software OX App Suite cross site scripting](https://vuldb.com/?id.214765)|Visit link for details|2022-12-03 at 08:53|
+ |[OX Software OX App Suite cross site scripting](https://vuldb.com/?id.214764)|Visit link for details|2022-12-03 at 08:53|
+ |[OX Software OX App Suite cross site scripting](https://vuldb.com/?id.214763)|Visit link for details|2022-12-03 at 08:47|
+ |[OX Software OX App Suite cross site scripting](https://vuldb.com/?id.214762)|Visit link for details|2022-12-03 at 08:46|
+ |[OX Software OX App Suite Deep Link cross site scripting](https://vuldb.com/?id.214761)|Visit link for details|2022-12-03 at 08:44|
+ |[FeMiner wms unrestricted upload](https://vuldb.com/?id.214760)|Visit link for details|2022-12-03 at 08:42|
  
