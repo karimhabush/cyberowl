@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 03/12/2022 21:08:29 UTC
+ > Last Updated 04/12/2022 09:11:07 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -71,6 +71,23 @@
  
  ---
 
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[AWStats Hostinfo Plugin XWhois cross site scripting](https://vuldb.com/?id.214788)|Visit link for details|2022-12-04 at 08:28|
+ |[Veritas NetBackup Flex Scale sandbox](https://vuldb.com/?id.214787)|Visit link for details|2022-12-04 at 08:26|
+ |[Veritas NetBackup Flex Scale/Access Appliance Management Portal Remote Code Execution](https://vuldb.com/?id.214786)|Visit link for details|2022-12-04 at 08:25|
+ |[Veritas NetBackup Flex Scale/Access Appliance Management Portal Privilege Escalation](https://vuldb.com/?id.214785)|Visit link for details|2022-12-04 at 08:25|
+ |[Veritas NetBackup Flex Scale Privilege Escalation](https://vuldb.com/?id.214784)|Visit link for details|2022-12-04 at 08:24|
+ |[Veritas NetBackup Flex Scale/Access Appliance Installation hard-coded password](https://vuldb.com/?id.214783)|Visit link for details|2022-12-04 at 08:23|
+ |[Mastodon Sidekiq Pull Queue denial of service](https://vuldb.com/?id.214782)|Visit link for details|2022-12-04 at 08:22|
+ |[CrowdStrike Falcon Uninstallation protection mechanism](https://vuldb.com/?id.214781)|Visit link for details|2022-12-04 at 08:21|
+ |[BD CME BodyGuard RS-232 Port Interface unknown vulnerability](https://vuldb.com/?id.214780)|Visit link for details|2022-12-04 at 19:05|
+ |[Apache Commons Net PASV Response input validation](https://vuldb.com/?id.214779)|Visit link for details|2022-12-04 at 19:01|
+ 
+ ---
+
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -86,21 +103,4 @@
  |[39241511/22 - Vulnérabilité dans Sophos UTM](https://www.dgssi.gov.ma//fr/content/3924151122-vulnerabilite-dans-sophos-utm.html)|Une vulnérabilité a été corrigée dans Sophos UTM. L’exploitation de cette faille peut permettre à un attaquant de causer un problème de sécurité non spécifié.|15 novembre 2022|
  |[39221511/22- Vulnérabilités affectantle navigateur Microsoft Edge ](https://www.dgssi.gov.ma//fr/content/3922151122-vulnerabilites-affectant-le-navigateur-microsoft-edge.html)|Microsoft vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilités affectant le navigateur Microsoft Edge. L’exploitation de ces vulnérabilités peut permettre à un attaquant de provoquer des problèmes...|15 novembre 2022|
  |[39211411/22 - Vulnérabilité dans PaloAlto Cortex XSOAR ](https://www.dgssi.gov.ma//fr/content/3921141122-vulnerabilite-dans-paloalto-cortex-xsoar.html)|Une vulnérabilité a été corrigée dans PaloAlto Cortex XSOAR. L’exploitation de cette faille peut permettre à un attaquant d’exécuter des commandes avec des privilèges élevés.|14 novembre 2022|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[BD CME BodyGuard RS-232 Port Interface unknown vulnerability](https://vuldb.com/?id.214780)|Visit link for details|2022-12-03 at 19:05|
- |[Apache Commons Net PASV Response input validation](https://vuldb.com/?id.214779)|Visit link for details|2022-12-03 at 19:01|
- |[Dot Tech Smart Campus System findUser information disclosure](https://vuldb.com/?id.214778)|Visit link for details|2022-12-03 at 17:27|
- |[Backdoor.Win32.Delf.gj Service Port 80 information disclosure](https://vuldb.com/?id.214777)|Visit link for details|2022-12-03 at 17:25|
- |[SourceCodester Human Resource Management System employeeview.php cross site scripting](https://vuldb.com/?id.214776)|Visit link for details|2022-12-03 at 17:24|
- |[SourceCodester Book Store Management System employeeadd.php sql injection](https://vuldb.com/?id.214775)|Visit link for details|2022-12-03 at 17:21|
- |[Shaoxing Background Management System Bd sql injection](https://vuldb.com/?id.214774)|Visit link for details|2022-12-03 at 17:18|
- |[vim heap-based overflow](https://vuldb.com/?id.214773)|Visit link for details|2022-12-03 at 17:14|
- |[House Rental System POST Request tenant-engine.php unrestricted upload](https://vuldb.com/?id.214772)|Visit link for details|2022-12-03 at 11:27|
- |[House Rental System POST Request search-property.php sql injection](https://vuldb.com/?id.214771)|Visit link for details|2022-12-03 at 11:26|
  
