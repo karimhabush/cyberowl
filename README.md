@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 04/12/2022 21:10:39 UTC
+ > Last Updated 05/12/2022 09:11:13 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,17 +57,34 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/CherryTree-Cross-Site-Scripting-via-Name-Text-Field-40013" class="noirorange"><b>CherryTree</b>: Cross Site Scripting via Name Text Field</a>](https://vigilance.fr/vulnerability/CherryTree-Cross-Site-Scripting-via-Name-Text-Field-40013)|An attacker can trigger a Cross Site Scripting of CherryTree, via Name Text Field, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-cached-path-relative-prototype-pollution-via-Cache-Variable-40012" class="noirorange"><b>Node.js <wbr>cached-path-relative</wbr></b>: prototype pollution via Cache Variable</a>](https://vigilance.fr/vulnerability/Node-js-cached-path-relative-prototype-pollution-via-Cache-Variable-40012)|An attacker can alter the JavaScript code of Node.js |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ClamAV-ingress-filtrering-bypass-via-Zip-2-byte-Overlap-40011" class="noirorange"><b>ClamAV</b>: ingress filtrering bypass via Zip 2-byte Overlap</a>](https://vigilance.fr/vulnerability/ClamAV-ingress-filtrering-bypass-via-Zip-2-byte-Overlap-40011)|An attacker can bypass filtering rules of ClamAV, via Zip 2-byte Overlap, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/pgjdbc-file-reading-via-PreparedStatement-40010" class="noirorange"><b>pgjdbc</b>: file reading via PreparedStatement</a>](https://vigilance.fr/vulnerability/pgjdbc-file-reading-via-PreparedStatement-40010)|An attacker can read a file of pgjdbc, via PreparedStatement, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/g810-led-file-read-write-via-Udev-Rule-40009" class="noirorange"><b>g810-led</b>: file read/write via Udev Rule</a>](https://vigilance.fr/vulnerability/g810-led-file-read-write-via-Udev-Rule-40009)|An attacker can bypass access restrictions of g810-led, via Udev Rule, in order to read or alter files...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-AMD-Nested-Virtualization-40008" class="noirorange"><b>Linux kernel</b>: denial of service via AMD Nested Virtualization</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-AMD-Nested-Virtualization-40008)|An attacker, in a guest system, can cause a fatal error of the Linux kernel, via AMD Nested Virtualization, in order to trigger a denial of service on the host system...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-i915-mmio-invalidate-full-40007" class="noirorange"><b>Linux kernel</b>: privilege escalation via i915 <wbr>mmio_invalidate_full<wbr>()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-i915-mmio-invalidate-full-40007)|An attacker can bypass restrictions of the Linux kernel, via i915 |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libetpan-NULL-pointer-dereference-via-mailimap-mailbox-data-status-free-40005" class="noirorange"><b>libetpan</b>: NULL pointer dereference via <wbr>mailimap_mailbox_dat<wbr>a_status_free()</wbr></wbr></a>](https://vigilance.fr/vulnerability/libetpan-NULL-pointer-dereference-via-mailimap-mailbox-data-status-free-40005)|An attacker can force a NULL pointer to be dereferenced on libetpan, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/PJSIP-buffer-overflow-via-STUN-Client-40004" class="noirorange"><b>PJSIP</b>: buffer overflow via STUN Client</a>](https://vigilance.fr/vulnerability/PJSIP-buffer-overflow-via-STUN-Client-40004)|An attacker can trigger a buffer overflow of PJSIP, via STUN Client, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/PJSIP-buffer-overflow-via-Parser-40003" class="noirorange"><b>PJSIP</b>: buffer overflow via Parser</a>](https://vigilance.fr/vulnerability/PJSIP-buffer-overflow-via-Parser-40003)|An attacker can trigger a buffer overflow of PJSIP, via Parser, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Asterisk-Open-Source-directory-traversal-via-GetConfig-AMI-Actio-40002" class="noirorange"><b>Asterisk Open Source</b>: directory traversal via GetConfig AMI Actio</a>](https://vigilance.fr/vulnerability/Asterisk-Open-Source-directory-traversal-via-GetConfig-AMI-Actio-40002)|An attacker can traverse directories of Asterisk Open Source, via GetConfig AMI Actio, in order to read a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Asterisk-Open-Source-reuse-after-free-via-res-pjsip-pubsub-c-40001" class="noirorange"><b>Asterisk Open Source</b>: reuse after free via res_pjsip_pubsub.c</a>](https://vigilance.fr/vulnerability/Asterisk-Open-Source-reuse-after-free-via-res-pjsip-pubsub-c-40001)|An attacker can force the reuse of a freed memory area of Asterisk Open Source, via res_pjsip_pubsub.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Asterisk-Open-Source-denial-of-service-via-H323-Channel-Add-On-40000" class="noirorange"><b>Asterisk Open Source</b>: denial of service via H323 Channel Add On</a>](https://vigilance.fr/vulnerability/Asterisk-Open-Source-denial-of-service-via-H323-Channel-Add-On-40000)|An attacker can cause a fatal error of Asterisk Open Source, via H323 Channel Add On, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/BusyBox-reuse-after-free-via-Awk-Applet-39999" class="noirorange"><b>BusyBox</b>: reuse after free via Awk Applet</a>](https://vigilance.fr/vulnerability/BusyBox-reuse-after-free-via-Awk-Applet-39999)|An attacker can force the reuse of a freed memory area of BusyBox, via Awk Applet, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Sophos-Firewall-multiple-vulnerabilities-39997" class="noirorange"><b>Sophos Firewall</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Sophos-Firewall-multiple-vulnerabilities-39997)|An attacker can use several vulnerabilities of Sophos Firewall...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Commons-BCEL-code-execution-via-Arbitrary-Bytecode-Production-39996" class="noirorange"><b>Apache Commons BCEL</b>: code execution via Arbitrary Bytecode Production</a>](https://vigilance.fr/vulnerability/Apache-Commons-BCEL-code-execution-via-Arbitrary-Bytecode-Production-39996)|An attacker can use a vulnerability of Apache Commons BCEL, via Arbitrary Bytecode Production, in order to run code...|Visit link for details|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2kb Amazon Affiliates Store Plugin cross site scripting](https://vuldb.com/?id.214809)|Visit link for details|2022-12-05 at 08:54|
+ |[Oceanwp Sticky Header Plugin cross-site request forgery](https://vuldb.com/?id.214808)|Visit link for details|2022-12-05 at 08:54|
+ |[SHIRASAGI cross site scripting](https://vuldb.com/?id.214807)|Visit link for details|2022-12-05 at 08:53|
+ |[Salon booking system cross site scripting](https://vuldb.com/?id.214806)|Visit link for details|2022-12-05 at 08:49|
+ |[SHIRASAGI redirect](https://vuldb.com/?id.214805)|Visit link for details|2022-12-05 at 08:46|
+ |[plusF FS040U/FS020W/FS030W/FS040W cross-site request forgery](https://vuldb.com/?id.214804)|Visit link for details|2022-12-05 at 08:45|
+ |[WordPress cross site scripting](https://vuldb.com/?id.214803)|Visit link for details|2022-12-05 at 08:44|
+ |[WordPress cross site scripting](https://vuldb.com/?id.214802)|Visit link for details|2022-12-05 at 08:43|
+ |[Kyocera TASKalfa/LS cross site scripting](https://vuldb.com/?id.214801)|Visit link for details|2022-12-05 at 08:43|
+ |[TERASOLUNA Global Framework/Server Framework Spring Framework input validation](https://vuldb.com/?id.214800)|Visit link for details|2022-12-05 at 08:39|
  
  ---
 
@@ -86,21 +103,4 @@
  |[39241511/22 - Vulnérabilité dans Sophos UTM](https://www.dgssi.gov.ma//fr/content/3924151122-vulnerabilite-dans-sophos-utm.html)|Une vulnérabilité a été corrigée dans Sophos UTM. L’exploitation de cette faille peut permettre à un attaquant de causer un problème de sécurité non spécifié.|15 novembre 2022|
  |[39221511/22- Vulnérabilités affectantle navigateur Microsoft Edge ](https://www.dgssi.gov.ma//fr/content/3922151122-vulnerabilites-affectant-le-navigateur-microsoft-edge.html)|Microsoft vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilités affectant le navigateur Microsoft Edge. L’exploitation de ces vulnérabilités peut permettre à un attaquant de provoquer des problèmes...|15 novembre 2022|
  |[39211411/22 - Vulnérabilité dans PaloAlto Cortex XSOAR ](https://www.dgssi.gov.ma//fr/content/3921141122-vulnerabilite-dans-paloalto-cortex-xsoar.html)|Une vulnérabilité a été corrigée dans PaloAlto Cortex XSOAR. L’exploitation de cette faille peut permettre à un attaquant d’exécuter des commandes avec des privilèges élevés.|14 novembre 2022|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[AWStats Hostinfo Plugin XWhois cross site scripting](https://vuldb.com/?id.214788)|Visit link for details|2022-12-04 at 08:28|
- |[Veritas NetBackup Flex Scale sandbox](https://vuldb.com/?id.214787)|Visit link for details|2022-12-04 at 08:26|
- |[Veritas NetBackup Flex Scale/Access Appliance Management Portal Remote Code Execution](https://vuldb.com/?id.214786)|Visit link for details|2022-12-04 at 08:25|
- |[Veritas NetBackup Flex Scale/Access Appliance Management Portal Privilege Escalation](https://vuldb.com/?id.214785)|Visit link for details|2022-12-04 at 08:25|
- |[Veritas NetBackup Flex Scale Privilege Escalation](https://vuldb.com/?id.214784)|Visit link for details|2022-12-04 at 08:24|
- |[Veritas NetBackup Flex Scale/Access Appliance Installation hard-coded password](https://vuldb.com/?id.214783)|Visit link for details|2022-12-04 at 08:23|
- |[Mastodon Sidekiq Pull Queue denial of service](https://vuldb.com/?id.214782)|Visit link for details|2022-12-04 at 08:22|
- |[CrowdStrike Falcon Uninstallation protection mechanism](https://vuldb.com/?id.214781)|Visit link for details|2022-12-04 at 08:21|
- |[BD CME BodyGuard RS-232 Port Interface unknown vulnerability](https://vuldb.com/?id.214780)|Visit link for details|2022-12-04 at 19:05|
- |[Apache Commons Net PASV Response input validation](https://vuldb.com/?id.214779)|Visit link for details|2022-12-04 at 19:01|
  
