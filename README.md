@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 05/12/2022 21:12:07 UTC
+ > Last Updated 06/12/2022 09:10:39 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,6 +57,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Undertow-overload-via-For-EJB-Invocations-LAST-CHUNK-40026" class="noirorange"><b>Undertow</b>: overload via For EJB Invocations LAST_CHUNK</a>](https://vigilance.fr/vulnerability/Undertow-overload-via-For-EJB-Invocations-LAST-CHUNK-40026)|An attacker can trigger an overload of Undertow, via For EJB Invocations LAST_CHUNK, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-40025" class="noirorange"><b>Microsoft Edge Chromium</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-40025)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Clearswift-Secure-Email-Gateway-Cross-Site-Scripting-via-Message-Tracking-URL-40024" class="noirorange"><b>Clearswift Secure Email Gateway</b>: Cross Site Scripting via Message Tracking URL</a>](https://vigilance.fr/vulnerability/Clearswift-Secure-Email-Gateway-Cross-Site-Scripting-via-Message-Tracking-URL-40024)|An attacker can trigger a Cross Site Scripting of Clearswift Secure Email Gateway, via Message Tracking URL, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-December-2022-40023" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of December 2022</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-December-2022-40023)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
@@ -67,7 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Drupal-H5P-directory-traversal-via-Zip-Archive-40018" class="noirorange"><b>Drupal H5P</b>: directory traversal via Zip Archive</a>](https://vigilance.fr/vulnerability/Drupal-H5P-directory-traversal-via-Zip-Archive-40018)|An attacker can traverse directories of Drupal H5P, via Zip Archive, in order to write a file outside the service root path...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-vulnerability-40017" class="noirorange"><b>Apple iOS</b>: vulnerability</a>](https://vigilance.fr/vulnerability/Apple-iOS-vulnerability-40017)|A vulnerability of Apple iOS was announced...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/qpress-directory-traversal-via-QP-File-40016" class="noirorange"><b>qpress</b>: directory traversal via QP File</a>](https://vigilance.fr/vulnerability/qpress-directory-traversal-via-QP-File-40016)|An attacker can traverse directories of qpress, via QP File, in order to read or write a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cap-n-Proto-out-of-bounds-memory-reading-via-Error-Handling-List-of-list-40015" class="noirorange"><b>Cap n Proto</b>: out-of-bounds memory reading via Error Handling List-of-list</a>](https://vigilance.fr/vulnerability/Cap-n-Proto-out-of-bounds-memory-reading-via-Error-Handling-List-of-list-40015)|An attacker can force a read at an invalid memory address of Cap n Proto, via Error Handling List-of-list, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  
  ---
 
@@ -75,6 +75,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[39370612/22 - Vulnérabilitésaffectant les Firewall Sophos](https://www.dgssi.gov.ma//fr/content/3937061222-vulnerabilites-affectant-les-firewall-sophos.html)|Sophosannonce la correction de plusieursvulnérabilités affectant les versions susmentionnées de ses Firewall. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuter du code arbitraire, d’injecter du...|06 décembre 2022|
  |[39360512/22 - Vulnérabilité « Zero-Day »affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/3936051222-vulnerabilite-zero-day-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger unevulnérabilité « Zero-Day » activement exploitéeaffectant le navigateur Google Chrome. L’exploitation de cette vulnérabilité peut permettre àun attaquant...|05 décembre 2022|
  |[39350512/22 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/3935051222-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger une vulnérabilité affectant son client de messagerie Mozilla Thunderbird. L’exploitation de cette vulnérabilité peut permettre à un...|05 décembre 2022|
  |[39322411/22 - Mise à jour de sécurité exceptionnelle pour corriger des problèmes d'authentifica](https://www.dgssi.gov.ma//fr/content/3932241122-mise-jour-de-securite-exceptionnelle-pour-corriger-des-problemes-d-authentification-kerberos.html)|Microsoft a publié une mise à jour exceptionnellepour résoudre les problèmes causés par un récent correctif de sécurité de Windows qui entraîne des problèmes d'authentification Kerberos. L’exploitation de cette faille peut permettre...|24 novembre 2022|
@@ -85,7 +86,6 @@
  |[39271711/22 - Vulnérabilité dans Samba](https://www.dgssi.gov.ma//fr/content/3927171122-vulnerabilite-dans-samba.html)|Une vulnérabilité a été corrigée dans Samba, permet à un attaquant d’exécuter des commandes arbitraires à distance, de contourner la politique de sécurité et de causer un déni de service.|17 novembre 2022|
  |[39261711/22 - Vulnérabilités affectant Cisco Identity Services Engine](https://www.dgssi.gov.ma//fr/content/3926171122-vulnerabilites-affectant-cisco-identity-services-engine.html)|Cisco annonce la correction de quatre vulnérabilités affectant certaines versions de son produit Identity Services Engine.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’injecter du contenu dans une...|17 novembre 2022|
  |[39251611/22 - Vulnérabilités dans Mozilla Firefox et Thunderbird ](https://www.dgssi.gov.ma//fr/content/3925161122-vulnerabilites-dans-mozilla-firefox-et-thunderbird.html)|Mozilla a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant lesproduits susmentionnés. Un attaquant pourrait exploiter certaines de ces vulnérabilités afin d’exécuter du code arbitraire à distance et de...|16 novembre 2022|
- |[39241511/22 - Vulnérabilité dans Sophos UTM](https://www.dgssi.gov.ma//fr/content/3924151122-vulnerabilite-dans-sophos-utm.html)|Une vulnérabilité a été corrigée dans Sophos UTM. L’exploitation de cette faille peut permettre à un attaquant de causer un problème de sécurité non spécifié.|15 novembre 2022|
  
  ---
 
@@ -93,14 +93,14 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Telepad missing authentication](https://vuldb.com/?id.214811)|Visit link for details|2022-12-05 at 20:16|
- |[Linux Kernel Traffic Control Subsystem denial of service](https://vuldb.com/?id.214810)|Visit link for details|2022-12-05 at 20:15|
- |[2kb Amazon Affiliates Store Plugin cross site scripting](https://vuldb.com/?id.214809)|Visit link for details|2022-12-05 at 08:54|
- |[Oceanwp Sticky Header Plugin cross-site request forgery](https://vuldb.com/?id.214808)|Visit link for details|2022-12-05 at 08:54|
- |[SHIRASAGI cross site scripting](https://vuldb.com/?id.214807)|Visit link for details|2022-12-05 at 08:53|
- |[Salon booking system cross site scripting](https://vuldb.com/?id.214806)|Visit link for details|2022-12-05 at 08:49|
- |[SHIRASAGI redirect](https://vuldb.com/?id.214805)|Visit link for details|2022-12-05 at 08:46|
- |[plusF FS040U/FS020W/FS030W/FS040W cross-site request forgery](https://vuldb.com/?id.214804)|Visit link for details|2022-12-05 at 08:45|
- |[WordPress cross site scripting](https://vuldb.com/?id.214803)|Visit link for details|2022-12-05 at 08:44|
- |[WordPress cross site scripting](https://vuldb.com/?id.214802)|Visit link for details|2022-12-05 at 08:43|
+ |[Rack Multipart Parser resource consumption](https://vuldb.com/?id.214894)|Visit link for details|2022-12-06 at 10:05|
+ |[AMI MegaRAC information disclosure](https://vuldb.com/?id.214893)|Visit link for details|2022-12-06 at 10:03|
+ |[Ivanti EPM Privilege Escalation](https://vuldb.com/?id.214892)|Visit link for details|2022-12-06 at 10:02|
+ |[Pwndoc Audit File audits unrestricted upload](https://vuldb.com/?id.214891)|Visit link for details|2022-12-06 at 10:02|
+ |[vim use after free](https://vuldb.com/?id.214890)|Visit link for details|2022-12-06 at 10:01|
+ |[Querybook oauth_auth.py cross site scripting](https://vuldb.com/?id.214889)|Visit link for details|2022-12-06 at 10:00|
+ |[GPAC MP4box svg_attributes.c stack-based overflow](https://vuldb.com/?id.214888)|Visit link for details|2022-12-06 at 09:58|
+ |[SLiMS Bulian sql injection](https://vuldb.com/?id.214887)|Visit link for details|2022-12-06 at 09:57|
+ |[AMI MegaRAC Redfish unnecessary privileges](https://vuldb.com/?id.214886)|Visit link for details|2022-12-06 at 09:56|
+ |[Zabbix TCP Connection config](https://vuldb.com/?id.214885)|Visit link for details|2022-12-06 at 09:56|
  
