@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 06/12/2022 09:10:39 UTC
+ > Last Updated 06/12/2022 21:11:22 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -40,6 +40,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1079/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et un contournement de la politique de sécurité.|Publié le 6 décembre 2022|
+ |[Multiples vulnérabilités dans les produits Intel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1078/)|De multiples vulnérabilités ont été découvertes dans les micrologiciels Baseboard Management Controller (BMC) Intel. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 6 décembre 2022|
  |[Multiples vulnérabilités dans Sophos Firewall](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1077/)|De multiples vulnérabilités ont été découvertes dans Sophos Firewall. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 5 décembre 2022|
  |[Vulnérabilité dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1076/)|Vulnérabilité a été découverte dans le noyau Linux de RedHat. Elle permet à un attaquant de provoquer un déni de service, une atteinte à l'intégrité des données et une élévation de privilèges.|Publié le 5 décembre 2022|
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1075/)|De multiples vulnérabilités ont été corrigées dans |Publié le 5 décembre 2022|
@@ -48,8 +50,6 @@
  |[Multiples vulnérabilités dans TrendMicro Apex One](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1072/)|De multiples vulnérabilités ont été découvertes dans TrendMicro Apex One. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données et une élévation de privilèges.|Publié le 2 décembre 2022|
  |[Multiples vulnérabilités dans les produits Asterisk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1071/)|De multiples vulnérabilités ont été découvertes dans les produits Asterisk. Elles permettent à un attaquant de provoquer un déni de service à distance et une élévation de privilèges.|Publié le 2 décembre 2022|
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1070/)|De multiples vulnérabilités ont été corrigées dans |Publié le 2 décembre 2022|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1069/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 1 décembre 2022|
- |[Vulnérabilité dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1068/)|Une vulnérabilité a été découverte dans Mozilla Thunderbird. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 1 décembre 2022|
  
  ---
 
@@ -57,17 +57,17 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-minimatch-overload-via-Regular-Expression-40038" class="noirorange"><b>Node.js minimatch</b>: overload via Regular Expression</a>](https://vigilance.fr/vulnerability/Node-js-minimatch-overload-via-Regular-Expression-40038)|An attacker can trigger an overload of Node.js minimatch, via Regular Expression, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-log4js-file-reading-40037" class="noirorange"><b>Node.js log4js</b>: file reading</a>](https://vigilance.fr/vulnerability/Node-js-log4js-file-reading-40037)|An attacker can read a file of Node.js log4js, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiOS-user-access-via-RADIUS-SSH-Authentication-40036" class="noirorange"><b>Fortinet FortiOS</b>: user access via RADIUS SSH Authentication</a>](https://vigilance.fr/vulnerability/Fortinet-FortiOS-user-access-via-RADIUS-SSH-Authentication-40036)|An attacker can bypass restrictions of Fortinet FortiOS, via RADIUS SSH Authentication, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiOS-Cross-Site-Scripting-via-Replacement-Messages-40035" class="noirorange"><b>Fortinet FortiOS</b>: Cross Site Scripting via Replacement Messages</a>](https://vigilance.fr/vulnerability/Fortinet-FortiOS-Cross-Site-Scripting-via-Replacement-Messages-40035)|An attacker can trigger a Cross Site Scripting of Fortinet FortiOS, via Replacement Messages, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-Xen-denial-of-service-via-Netback-Deadlock-40034" class="noirorange"><b>Linux kernel  Xen</b>: denial of service via Netback Deadlock</a>](https://vigilance.fr/vulnerability/Linux-kernel-Xen-denial-of-service-via-Netback-Deadlock-40034)|An attacker, in a guest system, can cause a fatal error of the Linux kernel, via Netback Deadlock, in order to trigger a denial of service on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-Xen-denial-of-service-via-Netback-NIC-Interface-40033" class="noirorange"><b>Linux kernel  Xen</b>: denial of service via Netback NIC Interface</a>](https://vigilance.fr/vulnerability/Linux-kernel-Xen-denial-of-service-via-Netback-NIC-Interface-40033)|An attacker, in a guest system, can cause a fatal error of the Linux kernel  Xen, via Netback NIC Interface, in order to trigger a denial of service on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/UBoot-buffer-overflow-via-USB-DFU-Download-Setup-Packets-40032" class="noirorange"><b>UBoot</b>: buffer overflow via USB DFU Download Setup Packets</a>](https://vigilance.fr/vulnerability/UBoot-buffer-overflow-via-USB-DFU-Download-Setup-Packets-40032)|An attacker can trigger a buffer overflow of UBoot, via USB DFU Download Setup Packets, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Python-http-server-ingress-filtrering-bypass-via-Stderr-Log-Messages-40031" class="noirorange"><b>Python http.server</b>: ingress filtrering bypass via Stderr Log Messages</a>](https://vigilance.fr/vulnerability/Python-http-server-ingress-filtrering-bypass-via-Stderr-Log-Messages-40031)|An attacker can bypass filtering rules of Python http.server, via Stderr Log Messages, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-TC-Mirred-40028" class="noirorange"><b>Linux kernel</b>: denial of service via TC Mirred</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-TC-Mirred-40028)|An attacker can cause a fatal error of the Linux kernel, via TC Mirred, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Undertow-overload-via-For-EJB-Invocations-LAST-CHUNK-40026" class="noirorange"><b>Undertow</b>: overload via For EJB Invocations LAST_CHUNK</a>](https://vigilance.fr/vulnerability/Undertow-overload-via-For-EJB-Invocations-LAST-CHUNK-40026)|An attacker can trigger an overload of Undertow, via For EJB Invocations LAST_CHUNK, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-40025" class="noirorange"><b>Microsoft Edge Chromium</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-40025)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Clearswift-Secure-Email-Gateway-Cross-Site-Scripting-via-Message-Tracking-URL-40024" class="noirorange"><b>Clearswift Secure Email Gateway</b>: Cross Site Scripting via Message Tracking URL</a>](https://vigilance.fr/vulnerability/Clearswift-Secure-Email-Gateway-Cross-Site-Scripting-via-Message-Tracking-URL-40024)|An attacker can trigger a Cross Site Scripting of Clearswift Secure Email Gateway, via Message Tracking URL, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-December-2022-40023" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of December 2022</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-December-2022-40023)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libbpf-buffer-overflow-via-bpf-object-open-8-Bytes-40022" class="noirorange"><b>libbpf</b>: buffer overflow via <wbr>__bpf_object__open()<wbr> 8 Bytes</wbr></wbr></a>](https://vigilance.fr/vulnerability/libbpf-buffer-overflow-via-bpf-object-open-8-Bytes-40022)|An attacker can trigger a buffer overflow of libbpf, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libbpf-buffer-overflow-via-bpf-object-open-4-Bytes-40021" class="noirorange"><b>libbpf</b>: buffer overflow via <wbr>__bpf_object__open()<wbr> 4 Bytes</wbr></wbr></a>](https://vigilance.fr/vulnerability/libbpf-buffer-overflow-via-bpf-object-open-4-Bytes-40021)|An attacker can trigger a buffer overflow of libbpf, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/AWStats-Cross-Site-Scripting-via-Hostinfo-Plugin-40020" class="noirorange"><b>AWStats</b>: Cross Site Scripting via Hostinfo Plugin</a>](https://vigilance.fr/vulnerability/AWStats-Cross-Site-Scripting-via-Hostinfo-Plugin-40020)|An attacker can trigger a Cross Site Scripting of AWStats, via Hostinfo Plugin, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cacti-code-execution-via-remote-agent-php-40019" class="noirorange"><b>Cacti</b>: code execution via remote_agent.php</a>](https://vigilance.fr/vulnerability/Cacti-code-execution-via-remote-agent-php-40019)|An attacker can use a vulnerability of Cacti, via remote_agent.php, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-H5P-directory-traversal-via-Zip-Archive-40018" class="noirorange"><b>Drupal H5P</b>: directory traversal via Zip Archive</a>](https://vigilance.fr/vulnerability/Drupal-H5P-directory-traversal-via-Zip-Archive-40018)|An attacker can traverse directories of Drupal H5P, via Zip Archive, in order to write a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-vulnerability-40017" class="noirorange"><b>Apple iOS</b>: vulnerability</a>](https://vigilance.fr/vulnerability/Apple-iOS-vulnerability-40017)|A vulnerability of Apple iOS was announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/qpress-directory-traversal-via-QP-File-40016" class="noirorange"><b>qpress</b>: directory traversal via QP File</a>](https://vigilance.fr/vulnerability/qpress-directory-traversal-via-QP-File-40016)|An attacker can traverse directories of qpress, via QP File, in order to read or write a file outside the service root path...|Visit link for details|
  
  ---
 
@@ -93,14 +93,14 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Rack Multipart Parser resource consumption](https://vuldb.com/?id.214894)|Visit link for details|2022-12-06 at 10:05|
- |[AMI MegaRAC information disclosure](https://vuldb.com/?id.214893)|Visit link for details|2022-12-06 at 10:03|
- |[Ivanti EPM Privilege Escalation](https://vuldb.com/?id.214892)|Visit link for details|2022-12-06 at 10:02|
- |[Pwndoc Audit File audits unrestricted upload](https://vuldb.com/?id.214891)|Visit link for details|2022-12-06 at 10:02|
- |[vim use after free](https://vuldb.com/?id.214890)|Visit link for details|2022-12-06 at 10:01|
- |[Querybook oauth_auth.py cross site scripting](https://vuldb.com/?id.214889)|Visit link for details|2022-12-06 at 10:00|
- |[GPAC MP4box svg_attributes.c stack-based overflow](https://vuldb.com/?id.214888)|Visit link for details|2022-12-06 at 09:58|
- |[SLiMS Bulian sql injection](https://vuldb.com/?id.214887)|Visit link for details|2022-12-06 at 09:57|
- |[AMI MegaRAC Redfish unnecessary privileges](https://vuldb.com/?id.214886)|Visit link for details|2022-12-06 at 09:56|
- |[Zabbix TCP Connection config](https://vuldb.com/?id.214885)|Visit link for details|2022-12-06 at 09:56|
+ |[Seagate Central NAS STCG4000300 Web-Management Application mv_backend_helper.php mv_backend_launch os command injection](https://vuldb.com/?id.215012)|Visit link for details|2022-12-06 at 19:29|
+ |[teler Dashboard cross site scripting](https://vuldb.com/?id.215011)|Visit link for details|2022-12-06 at 19:28|
+ |[Xylus WP Smart Import Plugin cross site scripting](https://vuldb.com/?id.215010)|Visit link for details|2022-12-06 at 19:27|
+ |[Telegram Web cross site scripting](https://vuldb.com/?id.215009)|Visit link for details|2022-12-06 at 19:27|
+ |[Secomea GateManager Administrator Interface injection](https://vuldb.com/?id.215008)|Visit link for details|2022-12-06 at 19:26|
+ |[RackN Digital Rebar Public API Endpoint access control](https://vuldb.com/?id.215007)|Visit link for details|2022-12-06 at 19:25|
+ |[RackN Digital Rebar permission](https://vuldb.com/?id.215006)|Visit link for details|2022-12-06 at 19:24|
+ |[ThinkPHP unrestricted upload](https://vuldb.com/?id.215005)|Visit link for details|2022-12-06 at 19:23|
+ |[Google Android Privilege Escalation](https://vuldb.com/?id.215004)|Visit link for details|2022-12-06 at 19:19|
+ |[Google Android Privilege Escalation](https://vuldb.com/?id.215003)|Visit link for details|2022-12-06 at 19:19|
  
