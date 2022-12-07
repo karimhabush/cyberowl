@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 06/12/2022 21:11:22 UTC
+ > Last Updated 07/12/2022 09:10:52 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,6 +57,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/NumPy-write-access-via-Incorrect-Copying-40041" class="noirorange"><b>NumPy</b>: write access via Incorrect Copying</a>](https://vigilance.fr/vulnerability/NumPy-write-access-via-Incorrect-Copying-40041)|An attacker can bypass access restrictions of NumPy, via Incorrect Copying, in order to alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-check-text-locked-40040" class="noirorange"><b>Vim</b>: buffer overflow via check_text_locked()</a>](https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-check-text-locked-40040)|An attacker can trigger a buffer overflow of Vim, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Moodle-four-vulnerabilities-40039" class="noirorange"><b>Moodle</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Moodle-four-vulnerabilities-40039)|An attacker can use several vulnerabilities of Moodle...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Node-js-minimatch-overload-via-Regular-Expression-40038" class="noirorange"><b>Node.js minimatch</b>: overload via Regular Expression</a>](https://vigilance.fr/vulnerability/Node-js-minimatch-overload-via-Regular-Expression-40038)|An attacker can trigger an overload of Node.js minimatch, via Regular Expression, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Node-js-log4js-file-reading-40037" class="noirorange"><b>Node.js log4js</b>: file reading</a>](https://vigilance.fr/vulnerability/Node-js-log4js-file-reading-40037)|An attacker can read a file of Node.js log4js, in order to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiOS-user-access-via-RADIUS-SSH-Authentication-40036" class="noirorange"><b>Fortinet FortiOS</b>: user access via RADIUS SSH Authentication</a>](https://vigilance.fr/vulnerability/Fortinet-FortiOS-user-access-via-RADIUS-SSH-Authentication-40036)|An attacker can bypass restrictions of Fortinet FortiOS, via RADIUS SSH Authentication, in order to gain user privileges...|Visit link for details|
@@ -65,9 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-Xen-denial-of-service-via-Netback-NIC-Interface-40033" class="noirorange"><b>Linux kernel  Xen</b>: denial of service via Netback NIC Interface</a>](https://vigilance.fr/vulnerability/Linux-kernel-Xen-denial-of-service-via-Netback-NIC-Interface-40033)|An attacker, in a guest system, can cause a fatal error of the Linux kernel  Xen, via Netback NIC Interface, in order to trigger a denial of service on the host system...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/UBoot-buffer-overflow-via-USB-DFU-Download-Setup-Packets-40032" class="noirorange"><b>UBoot</b>: buffer overflow via USB DFU Download Setup Packets</a>](https://vigilance.fr/vulnerability/UBoot-buffer-overflow-via-USB-DFU-Download-Setup-Packets-40032)|An attacker can trigger a buffer overflow of UBoot, via USB DFU Download Setup Packets, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Python-http-server-ingress-filtrering-bypass-via-Stderr-Log-Messages-40031" class="noirorange"><b>Python http.server</b>: ingress filtrering bypass via Stderr Log Messages</a>](https://vigilance.fr/vulnerability/Python-http-server-ingress-filtrering-bypass-via-Stderr-Log-Messages-40031)|An attacker can bypass filtering rules of Python http.server, via Stderr Log Messages, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-TC-Mirred-40028" class="noirorange"><b>Linux kernel</b>: denial of service via TC Mirred</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-TC-Mirred-40028)|An attacker can cause a fatal error of the Linux kernel, via TC Mirred, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Undertow-overload-via-For-EJB-Invocations-LAST-CHUNK-40026" class="noirorange"><b>Undertow</b>: overload via For EJB Invocations LAST_CHUNK</a>](https://vigilance.fr/vulnerability/Undertow-overload-via-For-EJB-Invocations-LAST-CHUNK-40026)|An attacker can trigger an overload of Undertow, via For EJB Invocations LAST_CHUNK, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-40025" class="noirorange"><b>Microsoft Edge Chromium</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-three-vulnerabilities-40025)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
  
  ---
 
@@ -93,14 +93,14 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Seagate Central NAS STCG4000300 Web-Management Application mv_backend_helper.php mv_backend_launch os command injection](https://vuldb.com/?id.215012)|Visit link for details|2022-12-06 at 19:29|
- |[teler Dashboard cross site scripting](https://vuldb.com/?id.215011)|Visit link for details|2022-12-06 at 19:28|
- |[Xylus WP Smart Import Plugin cross site scripting](https://vuldb.com/?id.215010)|Visit link for details|2022-12-06 at 19:27|
- |[Telegram Web cross site scripting](https://vuldb.com/?id.215009)|Visit link for details|2022-12-06 at 19:27|
- |[Secomea GateManager Administrator Interface injection](https://vuldb.com/?id.215008)|Visit link for details|2022-12-06 at 19:26|
- |[RackN Digital Rebar Public API Endpoint access control](https://vuldb.com/?id.215007)|Visit link for details|2022-12-06 at 19:25|
- |[RackN Digital Rebar permission](https://vuldb.com/?id.215006)|Visit link for details|2022-12-06 at 19:24|
- |[ThinkPHP unrestricted upload](https://vuldb.com/?id.215005)|Visit link for details|2022-12-06 at 19:23|
- |[Google Android Privilege Escalation](https://vuldb.com/?id.215004)|Visit link for details|2022-12-06 at 19:19|
- |[Google Android Privilege Escalation](https://vuldb.com/?id.215003)|Visit link for details|2022-12-06 at 19:19|
+ |[MetInfo Administrator List cross-site request forgery](https://vuldb.com/?id.215079)|Visit link for details|2022-12-07 at 09:23|
+ |[Rapid Software Rapid SCADA cross site scripting](https://vuldb.com/?id.215078)|Visit link for details|2022-12-07 at 09:22|
+ |[ILIAS cross site scripting](https://vuldb.com/?id.215077)|Visit link for details|2022-12-07 at 09:22|
+ |[Contest Gallery Plugin cross site scripting](https://vuldb.com/?id.215076)|Visit link for details|2022-12-07 at 09:22|
+ |[GD bbPress Attachments Plugin cross site scripting](https://vuldb.com/?id.215075)|Visit link for details|2022-12-07 at 09:21|
+ |[AyaCMS unrestricted upload](https://vuldb.com/?id.215074)|Visit link for details|2022-12-07 at 09:21|
+ |[ILIAS Privilege Escalation](https://vuldb.com/?id.215073)|Visit link for details|2022-12-07 at 09:20|
+ |[ILIAS redirect](https://vuldb.com/?id.215072)|Visit link for details|2022-12-07 at 09:20|
+ |[ILIAS os command injection](https://vuldb.com/?id.215071)|Visit link for details|2022-12-07 at 09:19|
+ |[Markdown Preview Enhanced GFM Export Privilege Escalation](https://vuldb.com/?id.215070)|Visit link for details|2022-12-07 at 09:19|
  
