@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 07/12/2022 09:10:52 UTC
+ > Last Updated 07/12/2022 21:10:32 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -40,6 +40,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1081/)|De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 7 décembre 2022|
+ |[Multiples vulnérabilités dans Aruba ClearPass Policy Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1080/)|De multiples vulnérabilités ont été découvertes dans Aruba ClearPass Policy Manager. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 7 décembre 2022|
  |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1079/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et un contournement de la politique de sécurité.|Publié le 6 décembre 2022|
  |[Multiples vulnérabilités dans les produits Intel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1078/)|De multiples vulnérabilités ont été découvertes dans les micrologiciels Baseboard Management Controller (BMC) Intel. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 6 décembre 2022|
  |[Multiples vulnérabilités dans Sophos Firewall](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1077/)|De multiples vulnérabilités ont été découvertes dans Sophos Firewall. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 5 décembre 2022|
@@ -48,8 +50,6 @@
  |[Vulnérabilité dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1074/)|Une vulnérabilité a été corrigée dans |Publié le 5 décembre 2022|
  |[Multiples vulnérabilités dans les produits NextCloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1073/)|De multiples vulnérabilités ont été découvertes dans les produits NextCloud. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 2 décembre 2022|
  |[Multiples vulnérabilités dans TrendMicro Apex One](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1072/)|De multiples vulnérabilités ont été découvertes dans TrendMicro Apex One. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données et une élévation de privilèges.|Publié le 2 décembre 2022|
- |[Multiples vulnérabilités dans les produits Asterisk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1071/)|De multiples vulnérabilités ont été découvertes dans les produits Asterisk. Elles permettent à un attaquant de provoquer un déni de service à distance et une élévation de privilèges.|Publié le 2 décembre 2022|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1070/)|De multiples vulnérabilités ont été corrigées dans |Publié le 2 décembre 2022|
  
  ---
 
@@ -57,17 +57,17 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Kafka-Dissector-40050" class="noirorange"><b>Wireshark</b>: denial of service via Kafka Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Kafka-Dissector-40050)|An attacker can cause a fatal error of Wireshark, via Kafka Dissector, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-overload-40049" class="noirorange"><b>Wireshark</b>: overload</a>](https://vigilance.fr/vulnerability/Wireshark-overload-40049)|An attacker can trigger an overload of Wireshark, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Entity-Registration-write-access-40048" class="noirorange"><b>Drupal Entity Registration</b>: write access</a>](https://vigilance.fr/vulnerability/Drupal-Entity-Registration-write-access-40048)|An attacker can bypass access restrictions of Drupal Entity Registration, in order to alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/virglrenderer-double-free-via-vrend-renderer-resource-allocated-texture-40047" class="noirorange"><b>virglrenderer</b>: double free via <wbr>vrend_renderer_resou<wbr>rce_allocated_textur<wbr>e()</wbr></wbr></wbr></a>](https://vigilance.fr/vulnerability/virglrenderer-double-free-via-vrend-renderer-resource-allocated-texture-40047)|An attacker can force a double memory free of virglrenderer, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/virglrenderer-NULL-pointer-dereference-via-Missing-Compute-Shader-40046" class="noirorange"><b>virglrenderer</b>: NULL pointer dereference via Missing Compute Shader</a>](https://vigilance.fr/vulnerability/virglrenderer-NULL-pointer-dereference-via-Missing-Compute-Shader-40046)|An attacker can force a NULL pointer to be dereferenced on virglrenderer, via Missing Compute Shader, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-40045" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-40045)|An attacker can use several vulnerabilities of Jenkins Plugins...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/dlt-daemon-double-free-via-dlt-config-file-parser-c-40044" class="noirorange"><b>dlt-daemon</b>: double free via <wbr>dlt_config_file_pars<wbr>er.c</wbr></wbr></a>](https://vigilance.fr/vulnerability/dlt-daemon-double-free-via-dlt-config-file-parser-c-40044)|An attacker can force a double memory free of dlt-daemon, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/dlt-daemon-buffer-overflow-via-GENIVI-Diagnostic-Log-40043" class="noirorange"><b>dlt-daemon</b>: buffer overflow via GENIVI Diagnostic Log</a>](https://vigilance.fr/vulnerability/dlt-daemon-buffer-overflow-via-GENIVI-Diagnostic-Log-40043)|An attacker can trigger a buffer overflow of dlt-daemon, via GENIVI Diagnostic Log, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/dlt-daemon-buffer-overflow-via-dlt-filter-load-40042" class="noirorange"><b>dlt-daemon</b>: buffer overflow via dlt_filter_load()</a>](https://vigilance.fr/vulnerability/dlt-daemon-buffer-overflow-via-dlt-filter-load-40042)|An attacker can trigger a buffer overflow of dlt-daemon, via dlt_filter_load(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/NumPy-write-access-via-Incorrect-Copying-40041" class="noirorange"><b>NumPy</b>: write access via Incorrect Copying</a>](https://vigilance.fr/vulnerability/NumPy-write-access-via-Incorrect-Copying-40041)|An attacker can bypass access restrictions of NumPy, via Incorrect Copying, in order to alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-check-text-locked-40040" class="noirorange"><b>Vim</b>: buffer overflow via check_text_locked()</a>](https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-check-text-locked-40040)|An attacker can trigger a buffer overflow of Vim, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Moodle-four-vulnerabilities-40039" class="noirorange"><b>Moodle</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Moodle-four-vulnerabilities-40039)|An attacker can use several vulnerabilities of Moodle...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Node-js-minimatch-overload-via-Regular-Expression-40038" class="noirorange"><b>Node.js minimatch</b>: overload via Regular Expression</a>](https://vigilance.fr/vulnerability/Node-js-minimatch-overload-via-Regular-Expression-40038)|An attacker can trigger an overload of Node.js minimatch, via Regular Expression, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Node-js-log4js-file-reading-40037" class="noirorange"><b>Node.js log4js</b>: file reading</a>](https://vigilance.fr/vulnerability/Node-js-log4js-file-reading-40037)|An attacker can read a file of Node.js log4js, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiOS-user-access-via-RADIUS-SSH-Authentication-40036" class="noirorange"><b>Fortinet FortiOS</b>: user access via RADIUS SSH Authentication</a>](https://vigilance.fr/vulnerability/Fortinet-FortiOS-user-access-via-RADIUS-SSH-Authentication-40036)|An attacker can bypass restrictions of Fortinet FortiOS, via RADIUS SSH Authentication, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiOS-Cross-Site-Scripting-via-Replacement-Messages-40035" class="noirorange"><b>Fortinet FortiOS</b>: Cross Site Scripting via Replacement Messages</a>](https://vigilance.fr/vulnerability/Fortinet-FortiOS-Cross-Site-Scripting-via-Replacement-Messages-40035)|An attacker can trigger a Cross Site Scripting of Fortinet FortiOS, via Replacement Messages, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-Xen-denial-of-service-via-Netback-Deadlock-40034" class="noirorange"><b>Linux kernel  Xen</b>: denial of service via Netback Deadlock</a>](https://vigilance.fr/vulnerability/Linux-kernel-Xen-denial-of-service-via-Netback-Deadlock-40034)|An attacker, in a guest system, can cause a fatal error of the Linux kernel, via Netback Deadlock, in order to trigger a denial of service on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-Xen-denial-of-service-via-Netback-NIC-Interface-40033" class="noirorange"><b>Linux kernel  Xen</b>: denial of service via Netback NIC Interface</a>](https://vigilance.fr/vulnerability/Linux-kernel-Xen-denial-of-service-via-Netback-NIC-Interface-40033)|An attacker, in a guest system, can cause a fatal error of the Linux kernel  Xen, via Netback NIC Interface, in order to trigger a denial of service on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/UBoot-buffer-overflow-via-USB-DFU-Download-Setup-Packets-40032" class="noirorange"><b>UBoot</b>: buffer overflow via USB DFU Download Setup Packets</a>](https://vigilance.fr/vulnerability/UBoot-buffer-overflow-via-USB-DFU-Download-Setup-Packets-40032)|An attacker can trigger a buffer overflow of UBoot, via USB DFU Download Setup Packets, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Python-http-server-ingress-filtrering-bypass-via-Stderr-Log-Messages-40031" class="noirorange"><b>Python http.server</b>: ingress filtrering bypass via Stderr Log Messages</a>](https://vigilance.fr/vulnerability/Python-http-server-ingress-filtrering-bypass-via-Stderr-Log-Messages-40031)|An attacker can bypass filtering rules of Python http.server, via Stderr Log Messages, in order to send malicious data...|Visit link for details|
  
  ---
 
@@ -75,6 +75,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[39380712/22 - Vulnérabilités affectantle navigateur Microsoft Edge ](https://www.dgssi.gov.ma//fr/content/3938071222-vulnerabilites-affectant-le-navigateur-microsoft-edge.html)|Microsoft vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilités affectant le navigateur Microsoft Edge. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code...|07 décembre 2022|
  |[39370612/22 - Vulnérabilitésaffectant les Firewall Sophos](https://www.dgssi.gov.ma//fr/content/3937061222-vulnerabilites-affectant-les-firewall-sophos.html)|Sophosannonce la correction de plusieursvulnérabilités affectant les versions susmentionnées de ses Firewall. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuter du code arbitraire, d’injecter du...|06 décembre 2022|
  |[39360512/22 - Vulnérabilité « Zero-Day »affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/3936051222-vulnerabilite-zero-day-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger unevulnérabilité « Zero-Day » activement exploitéeaffectant le navigateur Google Chrome. L’exploitation de cette vulnérabilité peut permettre àun attaquant...|05 décembre 2022|
  |[39350512/22 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/3935051222-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger une vulnérabilité affectant son client de messagerie Mozilla Thunderbird. L’exploitation de cette vulnérabilité peut permettre à un...|05 décembre 2022|
@@ -85,7 +86,6 @@
  |[39281711/22 - Vulnérabilités dans les produits F5](https://www.dgssi.gov.ma//fr/content/3928171122-vulnerabilites-dans-les-produits-f5.html)|Deux vulnérabilités ont été corrigées dans les produits F5 susmentionnés. L'exploitation de ces failles permet à un attaquant d’exécuter du code arbitraire à distance, de porter atteinte aux informations confidentielles et de...|17 novembre 2022|
  |[39271711/22 - Vulnérabilité dans Samba](https://www.dgssi.gov.ma//fr/content/3927171122-vulnerabilite-dans-samba.html)|Une vulnérabilité a été corrigée dans Samba, permet à un attaquant d’exécuter des commandes arbitraires à distance, de contourner la politique de sécurité et de causer un déni de service.|17 novembre 2022|
  |[39261711/22 - Vulnérabilités affectant Cisco Identity Services Engine](https://www.dgssi.gov.ma//fr/content/3926171122-vulnerabilites-affectant-cisco-identity-services-engine.html)|Cisco annonce la correction de quatre vulnérabilités affectant certaines versions de son produit Identity Services Engine.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’injecter du contenu dans une...|17 novembre 2022|
- |[39251611/22 - Vulnérabilités dans Mozilla Firefox et Thunderbird ](https://www.dgssi.gov.ma//fr/content/3925161122-vulnerabilites-dans-mozilla-firefox-et-thunderbird.html)|Mozilla a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités affectant lesproduits susmentionnés. Un attaquant pourrait exploiter certaines de ces vulnérabilités afin d’exécuter du code arbitraire à distance et de...|16 novembre 2022|
  
  ---
 
@@ -93,14 +93,14 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[MetInfo Administrator List cross-site request forgery](https://vuldb.com/?id.215079)|Visit link for details|2022-12-07 at 09:23|
- |[Rapid Software Rapid SCADA cross site scripting](https://vuldb.com/?id.215078)|Visit link for details|2022-12-07 at 09:22|
- |[ILIAS cross site scripting](https://vuldb.com/?id.215077)|Visit link for details|2022-12-07 at 09:22|
- |[Contest Gallery Plugin cross site scripting](https://vuldb.com/?id.215076)|Visit link for details|2022-12-07 at 09:22|
- |[GD bbPress Attachments Plugin cross site scripting](https://vuldb.com/?id.215075)|Visit link for details|2022-12-07 at 09:21|
- |[AyaCMS unrestricted upload](https://vuldb.com/?id.215074)|Visit link for details|2022-12-07 at 09:21|
- |[ILIAS Privilege Escalation](https://vuldb.com/?id.215073)|Visit link for details|2022-12-07 at 09:20|
- |[ILIAS redirect](https://vuldb.com/?id.215072)|Visit link for details|2022-12-07 at 09:20|
- |[ILIAS os command injection](https://vuldb.com/?id.215071)|Visit link for details|2022-12-07 at 09:19|
- |[Markdown Preview Enhanced GFM Export Privilege Escalation](https://vuldb.com/?id.215070)|Visit link for details|2022-12-07 at 09:19|
+ |[Red Hat OpenStack Dashboard cross site scripting](https://vuldb.com/?id.215096)|Visit link for details|2022-12-07 at 21:35|
+ |[csliuwy coder-chain_gdut cross site scripting](https://vuldb.com/?id.215095)|Visit link for details|2022-12-07 at 21:30|
+ |[Mozilla Bleach bleach.clean cross site scripting](https://vuldb.com/?id.215094)|Visit link for details|2022-12-07 at 21:23|
+ |[ZZCMS ad_list.php cross site scripting](https://vuldb.com/?id.215093)|Visit link for details|2022-12-07 at 20:29|
+ |[hope-boot deserialization](https://vuldb.com/?id.215092)|Visit link for details|2022-12-07 at 20:29|
+ |[labstack echo Static File pathname traversal](https://vuldb.com/?id.215091)|Visit link for details|2022-12-07 at 20:28|
+ |[oretnom23 Sanitization Management System sql injection](https://vuldb.com/?id.215090)|Visit link for details|2022-12-07 at 20:27|
+ |[Google Go http.Dir pathname traversal](https://vuldb.com/?id.215089)|Visit link for details|2022-12-07 at 20:26|
+ |[IBM Content Navigator External Plugin authorization](https://vuldb.com/?id.215088)|Visit link for details|2022-12-07 at 20:25|
+ |[IBM Business Process Manager Web UI cross site scripting](https://vuldb.com/?id.215087)|Visit link for details|2022-12-07 at 20:23|
  
