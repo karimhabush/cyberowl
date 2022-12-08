@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 07/12/2022 21:10:32 UTC
+ > Last Updated 08/12/2022 09:10:07 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,6 +57,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/woff-double-free-via-woffEncode-40053" class="noirorange"><b>woff</b>: double free via woffEncode()</a>](https://vigilance.fr/vulnerability/woff-double-free-via-woffEncode-40053)|An attacker can force a double memory free of woff, via woffEncode(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MAT-File-I-O-Library-buffer-overflow-via-H5MM-memcpy-40052" class="noirorange"><b>MAT File I/O Library</b>: buffer overflow via H5MM_memcpy()</a>](https://vigilance.fr/vulnerability/MAT-File-I-O-Library-buffer-overflow-via-H5MM-memcpy-40052)|An attacker can trigger a buffer overflow of MAT File I/O Library, via H5MM_memcpy(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MAT-File-I-O-Library-buffer-overflow-via-ReadInt32DataDouble-40051" class="noirorange"><b>MAT File I/O Library</b>: buffer overflow via <wbr>ReadInt32DataDouble(<wbr>)</wbr></wbr></a>](https://vigilance.fr/vulnerability/MAT-File-I-O-Library-buffer-overflow-via-ReadInt32DataDouble-40051)|An attacker can trigger a buffer overflow of MAT File I/O Library, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Kafka-Dissector-40050" class="noirorange"><b>Wireshark</b>: denial of service via Kafka Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Kafka-Dissector-40050)|An attacker can cause a fatal error of Wireshark, via Kafka Dissector, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Wireshark-overload-40049" class="noirorange"><b>Wireshark</b>: overload</a>](https://vigilance.fr/vulnerability/Wireshark-overload-40049)|An attacker can trigger an overload of Wireshark, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Entity-Registration-write-access-40048" class="noirorange"><b>Drupal Entity Registration</b>: write access</a>](https://vigilance.fr/vulnerability/Drupal-Entity-Registration-write-access-40048)|An attacker can bypass access restrictions of Drupal Entity Registration, in order to alter data...|Visit link for details|
@@ -65,9 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-40045" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-40045)|An attacker can use several vulnerabilities of Jenkins Plugins...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/dlt-daemon-double-free-via-dlt-config-file-parser-c-40044" class="noirorange"><b>dlt-daemon</b>: double free via <wbr>dlt_config_file_pars<wbr>er.c</wbr></wbr></a>](https://vigilance.fr/vulnerability/dlt-daemon-double-free-via-dlt-config-file-parser-c-40044)|An attacker can force a double memory free of dlt-daemon, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/dlt-daemon-buffer-overflow-via-GENIVI-Diagnostic-Log-40043" class="noirorange"><b>dlt-daemon</b>: buffer overflow via GENIVI Diagnostic Log</a>](https://vigilance.fr/vulnerability/dlt-daemon-buffer-overflow-via-GENIVI-Diagnostic-Log-40043)|An attacker can trigger a buffer overflow of dlt-daemon, via GENIVI Diagnostic Log, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/dlt-daemon-buffer-overflow-via-dlt-filter-load-40042" class="noirorange"><b>dlt-daemon</b>: buffer overflow via dlt_filter_load()</a>](https://vigilance.fr/vulnerability/dlt-daemon-buffer-overflow-via-dlt-filter-load-40042)|An attacker can trigger a buffer overflow of dlt-daemon, via dlt_filter_load(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/NumPy-write-access-via-Incorrect-Copying-40041" class="noirorange"><b>NumPy</b>: write access via Incorrect Copying</a>](https://vigilance.fr/vulnerability/NumPy-write-access-via-Incorrect-Copying-40041)|An attacker can bypass access restrictions of NumPy, via Incorrect Copying, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-check-text-locked-40040" class="noirorange"><b>Vim</b>: buffer overflow via check_text_locked()</a>](https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-check-text-locked-40040)|An attacker can trigger a buffer overflow of Vim, via |Visit link for details|
  
  ---
 
@@ -93,14 +93,14 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Red Hat OpenStack Dashboard cross site scripting](https://vuldb.com/?id.215096)|Visit link for details|2022-12-07 at 21:35|
- |[csliuwy coder-chain_gdut cross site scripting](https://vuldb.com/?id.215095)|Visit link for details|2022-12-07 at 21:30|
- |[Mozilla Bleach bleach.clean cross site scripting](https://vuldb.com/?id.215094)|Visit link for details|2022-12-07 at 21:23|
- |[ZZCMS ad_list.php cross site scripting](https://vuldb.com/?id.215093)|Visit link for details|2022-12-07 at 20:29|
- |[hope-boot deserialization](https://vuldb.com/?id.215092)|Visit link for details|2022-12-07 at 20:29|
- |[labstack echo Static File pathname traversal](https://vuldb.com/?id.215091)|Visit link for details|2022-12-07 at 20:28|
- |[oretnom23 Sanitization Management System sql injection](https://vuldb.com/?id.215090)|Visit link for details|2022-12-07 at 20:27|
- |[Google Go http.Dir pathname traversal](https://vuldb.com/?id.215089)|Visit link for details|2022-12-07 at 20:26|
- |[IBM Content Navigator External Plugin authorization](https://vuldb.com/?id.215088)|Visit link for details|2022-12-07 at 20:25|
- |[IBM Business Process Manager Web UI cross site scripting](https://vuldb.com/?id.215087)|Visit link for details|2022-12-07 at 20:23|
+ |[annyshow DuxCMS cross-site request forgery](https://vuldb.com/?id.215116)|Visit link for details|2022-12-08 at 09:31|
+ |[annyshow DuxCMS Article edit cross site scripting](https://vuldb.com/?id.215115)|Visit link for details|2022-12-08 at 09:30|
+ |[LinZhaoguan pb-cms Message Board comment cross site scripting](https://vuldb.com/?id.215114)|Visit link for details|2022-12-08 at 09:22|
+ |[LinZhaoguan pb-cms IpUtil.getIpAddr cross site scripting](https://vuldb.com/?id.215113)|Visit link for details|2022-12-08 at 09:14|
+ |[Mingsoft MCMS search.do cross site scripting](https://vuldb.com/?id.215112)|Visit link for details|2022-12-08 at 09:06|
+ |[AyaCMS Privilege Escalation](https://vuldb.com/?id.215111)|Visit link for details|2022-12-08 at 09:01|
+ |[libp2p resource consumption](https://vuldb.com/?id.215110)|Visit link for details|2022-12-08 at 09:01|
+ |[CTF-hacker pwn delete.html cross-site request forgery](https://vuldb.com/?id.215109)|Visit link for details|2022-12-08 at 08:55|
+ |[y_project RuoYi-Cloud JSON cross site scripting](https://vuldb.com/?id.215108)|Visit link for details|2022-12-08 at 08:47|
+ |[xiandafu beetl-bbs WebUtils.java cross site scripting](https://vuldb.com/?id.215107)|Visit link for details|2022-12-08 at 08:43|
  
