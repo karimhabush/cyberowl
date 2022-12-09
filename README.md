@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 08/12/2022 21:11:05 UTC
+ > Last Updated 09/12/2022 09:12:30 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,6 +57,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/VMware-ESXi-vCenter-Server-multiple-vulnerabilities-40061" class="noirorange"><b>VMware ESXi  vCenter Server</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/VMware-ESXi-vCenter-Server-multiple-vulnerabilities-40061)|An attacker can use several vulnerabilities of VMware ESXi  vCenter Server...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Netatalk-buffer-overflow-via-afp-getappl-40060" class="noirorange"><b>Netatalk</b>: buffer overflow via afp_getappl()</a>](https://vigilance.fr/vulnerability/Netatalk-buffer-overflow-via-afp-getappl-40060)|An attacker can trigger a buffer overflow of Netatalk, via afp_getappl(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Go-net-http-overload-via-Canonical-Header-Cache-40059" class="noirorange"><b>Go net/http</b>: overload via Canonical Header Cache</a>](https://vigilance.fr/vulnerability/Go-net-http-overload-via-Canonical-Header-Cache-40059)|An attacker can trigger an overload of Go net/http, via Canonical Header Cache, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-IP-Phone-7800-8800-buffer-overflow-via-CDP-40058" class="noirorange"><b>Cisco IP Phone 7800/8800</b>: buffer overflow via CDP</a>](https://vigilance.fr/vulnerability/Cisco-IP-Phone-7800-8800-buffer-overflow-via-CDP-40058)|An attacker can trigger a buffer overflow of Cisco IP Phone 7800/8800, via CDP, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Leptonica-Linked-Library-denial-of-service-via-JPEG-File-40057" class="noirorange"><b>Leptonica Linked Library</b>: denial of service via JPEG File</a>](https://vigilance.fr/vulnerability/Leptonica-Linked-Library-denial-of-service-via-JPEG-File-40057)|An attacker can cause a fatal error of Leptonica Linked Library, via JPEG File, in order to trigger a denial of service...|Visit link for details|
@@ -66,8 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/MAT-File-I-O-Library-buffer-overflow-via-H5MM-memcpy-40052" class="noirorange"><b>MAT File I/O Library</b>: buffer overflow via H5MM_memcpy()</a>](https://vigilance.fr/vulnerability/MAT-File-I-O-Library-buffer-overflow-via-H5MM-memcpy-40052)|An attacker can trigger a buffer overflow of MAT File I/O Library, via H5MM_memcpy(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/MAT-File-I-O-Library-buffer-overflow-via-ReadInt32DataDouble-40051" class="noirorange"><b>MAT File I/O Library</b>: buffer overflow via <wbr>ReadInt32DataDouble(<wbr>)</wbr></wbr></a>](https://vigilance.fr/vulnerability/MAT-File-I-O-Library-buffer-overflow-via-ReadInt32DataDouble-40051)|An attacker can trigger a buffer overflow of MAT File I/O Library, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Kafka-Dissector-40050" class="noirorange"><b>Wireshark</b>: denial of service via Kafka Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Kafka-Dissector-40050)|An attacker can cause a fatal error of Wireshark, via Kafka Dissector, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-overload-40049" class="noirorange"><b>Wireshark</b>: overload</a>](https://vigilance.fr/vulnerability/Wireshark-overload-40049)|An attacker can trigger an overload of Wireshark, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Entity-Registration-write-access-40048" class="noirorange"><b>Drupal Entity Registration</b>: write access</a>](https://vigilance.fr/vulnerability/Drupal-Entity-Registration-write-access-40048)|An attacker can bypass access restrictions of Drupal Entity Registration, in order to alter data...|Visit link for details|
  
  ---
 
@@ -75,6 +75,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[39400912/22 - Vulnérabilités affectant Citrix Xen](https://www.dgssi.gov.ma//fr/content/3940091222-vulnerabilites-affectant-citrix-xen.html)|Citrix annonce la correction de trois vulnérabilités affectant ses produits susmentionnés.L’exploitation de ces vulnérabilités peut permettre à un attaquant de contourner les mesuresdesécurité ou de causer un déni de service.|09 décembre 2022|
  |[39390812/22 - Mises à jour de sécurité pour des produits de Fortinet ](https://www.dgssi.gov.ma//fr/content/3939081222-mises-jour-de-securite-pour-des-produits-de-fortinet.html)|Fortinet annonce la disponibilité de mises à jour de sécurité permettant la correction de vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuter...|08 décembre 2022|
  |[39380712/22 - Vulnérabilités affectantle navigateur Microsoft Edge ](https://www.dgssi.gov.ma//fr/content/3938071222-vulnerabilites-affectant-le-navigateur-microsoft-edge.html)|Microsoft vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilités affectant le navigateur Microsoft Edge. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code...|07 décembre 2022|
  |[39370612/22 - Vulnérabilitésaffectant les Firewall Sophos](https://www.dgssi.gov.ma//fr/content/3937061222-vulnerabilites-affectant-les-firewall-sophos.html)|Sophosannonce la correction de plusieursvulnérabilités affectant les versions susmentionnées de ses Firewall. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuter du code arbitraire, d’injecter du...|06 décembre 2022|
@@ -85,7 +86,6 @@
  |[39302111/22 - Vulnérabilité critique affectant Atlassian Crowd](https://www.dgssi.gov.ma//fr/content/3930211122-vulnerabilite-critique-affectant-atlassian-crowd.html)|Atlassian a publié des mises à jour de sécurité pour corriger une vulnérabilité critique (CVE-2022-43782) dans les versions susmentionnées de Crowd.Atlassian explique que l'exploitation de cette faille est possible sous certaines...|21 novembre 2022|
  |[39292111/22 - Microsoft annonce la date de fin de support pourson Framework de développement .NET](https://www.dgssi.gov.ma//fr/content/3929211122-microsoft-annonce-la-date-de-fin-de-support-pour-son-framework-de-developpement-net-core-31.html)|Microsoft annonce que son Framework de développement « .NET Core 3.1 » atteindra la fin du support le 13 décembre 2022. Après cette date, Microsoft ne fournira plus de mises à jour ni de support technique pour .NET Core 3.1. A cet effet,...|21 novembre 2022|
  |[39281711/22 - Vulnérabilités dans les produits F5](https://www.dgssi.gov.ma//fr/content/3928171122-vulnerabilites-dans-les-produits-f5.html)|Deux vulnérabilités ont été corrigées dans les produits F5 susmentionnés. L'exploitation de ces failles permet à un attaquant d’exécuter du code arbitraire à distance, de porter atteinte aux informations confidentielles et de...|17 novembre 2022|
- |[39271711/22 - Vulnérabilité dans Samba](https://www.dgssi.gov.ma//fr/content/3927171122-vulnerabilite-dans-samba.html)|Une vulnérabilité a été corrigée dans Samba, permet à un attaquant d’exécuter des commandes arbitraires à distance, de contourner la politique de sécurité et de causer un déni de service.|17 novembre 2022|
  
  ---
 
@@ -93,14 +93,14 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Android Persona Manager User Profile information disclosure](https://vuldb.com/?id.215186)|Visit link for details|2022-12-08 at 20:18|
- |[Samsung Smart Phone Video Thumbnail toctou](https://vuldb.com/?id.215185)|Visit link for details|2022-12-08 at 20:18|
- |[Samsung Smart Phone Video Thumbnail out-of-bounds write](https://vuldb.com/?id.215184)|Visit link for details|2022-12-08 at 20:18|
- |[Samsung Smart Phone Settings information disclosure](https://vuldb.com/?id.215183)|Visit link for details|2022-12-08 at 20:17|
- |[Samsung Smart Phone RCS Call information disclosure](https://vuldb.com/?id.215182)|Visit link for details|2022-12-08 at 20:17|
- |[podman path traversal](https://vuldb.com/?id.215181)|Visit link for details|2022-12-08 at 20:17|
- |[Tenda W6-S SysToolRestoreSet tpi_systool_handle denial of service](https://vuldb.com/?id.215180)|Visit link for details|2022-12-08 at 20:15|
- |[Tenda W6-S SysToolReboot tpi_systool_handle denial of service](https://vuldb.com/?id.215179)|Visit link for details|2022-12-08 at 20:15|
- |[Tenda A18 Telnet Service access control](https://vuldb.com/?id.215178)|Visit link for details|2022-12-08 at 20:14|
- |[Samsung Samsung Pass unknown vulnerability](https://vuldb.com/?id.215177)|Visit link for details|2022-12-08 at 20:14|
+ |[JetBrains IntelliJ IDEA Custom Plugin xml external entity reference](https://vuldb.com/?id.215210)|Visit link for details|2022-12-09 at 08:52|
+ |[TinyMCE cross site scripting](https://vuldb.com/?id.215209)|Visit link for details|2022-12-09 at 08:48|
+ |[Brocade SANnav debug log file](https://vuldb.com/?id.215208)|Visit link for details|2022-12-09 at 08:47|
+ |[lirantal daloradius unknown vulnerability](https://vuldb.com/?id.215207)|Visit link for details|2022-12-09 at 08:46|
+ |[JetBrains TeamCity STS Endpoint server-side request forgery](https://vuldb.com/?id.215206)|Visit link for details|2022-12-09 at 08:45|
+ |[JetBrains Gateway improper authentication](https://vuldb.com/?id.215205)|Visit link for details|2022-12-09 at 08:45|
+ |[JetBrains IntelliJ IDEA DYLIB injection](https://vuldb.com/?id.215204)|Visit link for details|2022-12-09 at 08:44|
+ |[JetBrains IntelliJ IDEA Built-In Web Server path traversal](https://vuldb.com/?id.215203)|Visit link for details|2022-12-09 at 08:43|
+ |[JetBrains IntelliJ IDEA Built-In Web Server information disclosure](https://vuldb.com/?id.215202)|Visit link for details|2022-12-09 at 08:43|
+ |[JetBrains IntelliJ IDEA fsnotifier Daemon buffer overflow](https://vuldb.com/?id.215201)|Visit link for details|2022-12-09 at 08:42|
  
