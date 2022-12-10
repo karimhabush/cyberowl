@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 10/12/2022 09:09:30 UTC
+ > Last Updated 10/12/2022 21:07:39 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -93,14 +93,14 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[cube-js sql-runner sql injection](https://vuldb.com/?id.215236)|Visit link for details|2022-12-10 at 09:36|
- |[Wireshark USB HID protocol dissector denial of service](https://vuldb.com/?id.215235)|Visit link for details|2022-12-10 at 09:35|
- |[Broadcom Symantec Messaging Gateway Content Tab cross site scripting](https://vuldb.com/?id.215234)|Visit link for details|2022-12-10 at 09:34|
- |[Spring Boot Admins Notifier env code injection](https://vuldb.com/?id.215233)|Visit link for details|2022-12-10 at 09:33|
- |[Funkwhale User Invite access control](https://vuldb.com/?id.215232)|Visit link for details|2022-12-10 at 09:33|
- |[Western Digital My Cloud Encrypted Pages improper authentication](https://vuldb.com/?id.215231)|Visit link for details|2022-12-10 at 09:24|
- |[Marc Lehmann rxvt-unicode Perl Background Extension injection](https://vuldb.com/?id.215230)|Visit link for details|2022-12-10 at 09:23|
- |[Western Digital My Cloud insufficiently protected credentials](https://vuldb.com/?id.215229)|Visit link for details|2022-12-10 at 09:19|
- |[Automotive Shop Management System view_service.php sql injection](https://vuldb.com/?id.215228)|Visit link for details|2022-12-10 at 09:19|
- |[Sentry Invite Link access control](https://vuldb.com/?id.215227)|Visit link for details|2022-12-10 at 09:18|
+ |[TicklishHoneyBee nodau db.c sql injection](https://vuldb.com/?id.215252)|Visit link for details|2022-12-10 at 20:09|
+ |[CHICKEN EGG File egg-compile.scm os command injection](https://vuldb.com/?id.215251)|Visit link for details|2022-12-10 at 20:04|
+ |[morontt zend-blog-number-2 Comment Comment.php cross-site request forgery](https://vuldb.com/?id.215250)|Visit link for details|2022-12-10 at 16:36|
+ |[RDFlib pyrdfa3 __init__.py _get_option cross site scripting](https://vuldb.com/?id.215249)|Visit link for details|2022-12-10 at 12:41|
+ |[Yii Yii2 Gii cross site scripting](https://vuldb.com/?id.215248)|Visit link for details|2022-12-10 at 12:34|
+ |[Broadcom Symantec Messaging Gateway Admin Group Policy Page cross site scripting](https://vuldb.com/?id.215247)|Visit link for details|2022-12-10 at 12:34|
+ |[BAOTA Linux Panel Log Analysis cross site scripting](https://vuldb.com/?id.215246)|Visit link for details|2022-12-10 at 12:33|
+ |[Zephyr IF Statement smp_check_keys state issue](https://vuldb.com/?id.215245)|Visit link for details|2022-12-10 at 12:32|
+ |[Kbase Doc IndexController.java denial of service](https://vuldb.com/?id.215244)|Visit link for details|2022-12-10 at 12:31|
+ |[OpenShift HSTS initialization](https://vuldb.com/?id.215243)|Visit link for details|2022-12-10 at 12:30|
  
