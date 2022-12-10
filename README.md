@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 09/12/2022 21:09:31 UTC
+ > Last Updated 10/12/2022 09:09:30 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -71,23 +71,6 @@
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[ZKTeco ZKBio ECO ADMS cross site scripting](https://vuldb.com/?id.215213)|Visit link for details|2022-12-09 at 19:00|
- |[M-Files Configuration privileges management](https://vuldb.com/?id.215212)|Visit link for details|2022-12-09 at 19:00|
- |[Secomea GateManager Failed Login access control](https://vuldb.com/?id.215211)|Visit link for details|2022-12-09 at 16:29|
- |[JetBrains IntelliJ IDEA Custom Plugin xml external entity reference](https://vuldb.com/?id.215210)|Visit link for details|2022-12-09 at 08:52|
- |[TinyMCE cross site scripting](https://vuldb.com/?id.215209)|Visit link for details|2022-12-09 at 08:48|
- |[Brocade SANnav debug log file](https://vuldb.com/?id.215208)|Visit link for details|2022-12-09 at 08:47|
- |[lirantal daloradius unknown vulnerability](https://vuldb.com/?id.215207)|Visit link for details|2022-12-09 at 08:46|
- |[JetBrains TeamCity STS Endpoint server-side request forgery](https://vuldb.com/?id.215206)|Visit link for details|2022-12-09 at 08:45|
- |[JetBrains Gateway improper authentication](https://vuldb.com/?id.215205)|Visit link for details|2022-12-09 at 08:45|
- |[JetBrains IntelliJ IDEA DYLIB injection](https://vuldb.com/?id.215204)|Visit link for details|2022-12-09 at 08:44|
- 
- ---
-
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -103,4 +86,21 @@
  |[39312211/22 - Vulnérabilités affectant Zimbra Collaboration ](https://www.dgssi.gov.ma//fr/content/3931221122-vulnerabilites-affectant-zimbra-collaboration.html)|Zimbra annonce la disponibilité d’une mise à jour de sécurité permettant la correctionde trois vulnérabilités affectant sa plateforme de messagerie Zimbra. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’...|22 novembre 2022|
  |[39302111/22 - Vulnérabilité critique affectant Atlassian Crowd](https://www.dgssi.gov.ma//fr/content/3930211122-vulnerabilite-critique-affectant-atlassian-crowd.html)|Atlassian a publié des mises à jour de sécurité pour corriger une vulnérabilité critique (CVE-2022-43782) dans les versions susmentionnées de Crowd.Atlassian explique que l'exploitation de cette faille est possible sous certaines...|21 novembre 2022|
  |[39292111/22 - Microsoft annonce la date de fin de support pourson Framework de développement .NET](https://www.dgssi.gov.ma//fr/content/3929211122-microsoft-annonce-la-date-de-fin-de-support-pour-son-framework-de-developpement-net-core-31.html)|Microsoft annonce que son Framework de développement « .NET Core 3.1 » atteindra la fin du support le 13 décembre 2022. Après cette date, Microsoft ne fournira plus de mises à jour ni de support technique pour .NET Core 3.1. A cet effet,...|21 novembre 2022|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[cube-js sql-runner sql injection](https://vuldb.com/?id.215236)|Visit link for details|2022-12-10 at 09:36|
+ |[Wireshark USB HID protocol dissector denial of service](https://vuldb.com/?id.215235)|Visit link for details|2022-12-10 at 09:35|
+ |[Broadcom Symantec Messaging Gateway Content Tab cross site scripting](https://vuldb.com/?id.215234)|Visit link for details|2022-12-10 at 09:34|
+ |[Spring Boot Admins Notifier env code injection](https://vuldb.com/?id.215233)|Visit link for details|2022-12-10 at 09:33|
+ |[Funkwhale User Invite access control](https://vuldb.com/?id.215232)|Visit link for details|2022-12-10 at 09:33|
+ |[Western Digital My Cloud Encrypted Pages improper authentication](https://vuldb.com/?id.215231)|Visit link for details|2022-12-10 at 09:24|
+ |[Marc Lehmann rxvt-unicode Perl Background Extension injection](https://vuldb.com/?id.215230)|Visit link for details|2022-12-10 at 09:23|
+ |[Western Digital My Cloud insufficiently protected credentials](https://vuldb.com/?id.215229)|Visit link for details|2022-12-10 at 09:19|
+ |[Automotive Shop Management System view_service.php sql injection](https://vuldb.com/?id.215228)|Visit link for details|2022-12-10 at 09:19|
+ |[Sentry Invite Link access control](https://vuldb.com/?id.215227)|Visit link for details|2022-12-10 at 09:18|
  
