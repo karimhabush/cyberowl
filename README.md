@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 10/12/2022 21:07:39 UTC
+ > Last Updated 11/12/2022 09:10:25 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -93,14 +93,14 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[TicklishHoneyBee nodau db.c sql injection](https://vuldb.com/?id.215252)|Visit link for details|2022-12-10 at 20:09|
- |[CHICKEN EGG File egg-compile.scm os command injection](https://vuldb.com/?id.215251)|Visit link for details|2022-12-10 at 20:04|
- |[morontt zend-blog-number-2 Comment Comment.php cross-site request forgery](https://vuldb.com/?id.215250)|Visit link for details|2022-12-10 at 16:36|
- |[RDFlib pyrdfa3 __init__.py _get_option cross site scripting](https://vuldb.com/?id.215249)|Visit link for details|2022-12-10 at 12:41|
- |[Yii Yii2 Gii cross site scripting](https://vuldb.com/?id.215248)|Visit link for details|2022-12-10 at 12:34|
- |[Broadcom Symantec Messaging Gateway Admin Group Policy Page cross site scripting](https://vuldb.com/?id.215247)|Visit link for details|2022-12-10 at 12:34|
- |[BAOTA Linux Panel Log Analysis cross site scripting](https://vuldb.com/?id.215246)|Visit link for details|2022-12-10 at 12:33|
- |[Zephyr IF Statement smp_check_keys state issue](https://vuldb.com/?id.215245)|Visit link for details|2022-12-10 at 12:32|
- |[Kbase Doc IndexController.java denial of service](https://vuldb.com/?id.215244)|Visit link for details|2022-12-10 at 12:31|
- |[OpenShift HSTS initialization](https://vuldb.com/?id.215243)|Visit link for details|2022-12-10 at 12:30|
+ |[RainyGao DocSys ZIP File Decompression path traversal](https://vuldb.com/?id.215271)|Visit link for details|2022-12-11 at 08:52|
+ |[grub2 Font Code out-of-bounds write](https://vuldb.com/?id.215270)|Visit link for details|2022-12-11 at 08:46|
+ |[Mozilla Bleach bleach.clean resource consumption](https://vuldb.com/?id.215269)|Visit link for details|2022-12-11 at 08:35|
+ |[pallidlight online-course-selection-system cross site scripting](https://vuldb.com/?id.215268)|Visit link for details|2022-12-11 at 23:11|
+ |[zbl1996 FS-Blog Title cross site scripting](https://vuldb.com/?id.215267)|Visit link for details|2022-12-11 at 23:09|
+ |[Apache Struts cross site scripting](https://vuldb.com/?id.215266)|Visit link for details|2022-12-11 at 23:06|
+ |[Spring Framework Spring MVC JavaScriptUtils.java JavaScriptUtils.javaScriptEscape cross site scripting](https://vuldb.com/?id.215265)|Visit link for details|2022-12-11 at 23:05|
+ |[libtpms out-of-bounds write](https://vuldb.com/?id.215264)|Visit link for details|2022-12-11 at 23:03|
+ |[libtpms out-of-bounds write](https://vuldb.com/?id.215263)|Visit link for details|2022-12-11 at 23:02|
+ |[Planet eStream information disclosure](https://vuldb.com/?id.215262)|Visit link for details|2022-12-11 at 22:45|
  
