@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 11/12/2022 09:10:25 UTC
+ > Last Updated 11/12/2022 21:08:42 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -93,14 +93,14 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Rockwell Automation CompactLogix Network Message denial of service](https://vuldb.com/?id.215277)|Visit link for details|2022-12-11 at 21:38|
+ |[AVEVA InTouch Access Anywhere path traversal](https://vuldb.com/?id.215276)|Visit link for details|2022-12-11 at 21:36|
+ |[thorsten phpmyfaq cross site scripting](https://vuldb.com/?id.215275)|Visit link for details|2022-12-11 at 19:11|
+ |[thorsten phpmyfaq cross site scripting](https://vuldb.com/?id.215274)|Visit link for details|2022-12-11 at 19:11|
+ |[thorsten phpmyfaq missing secure attribute](https://vuldb.com/?id.215273)|Visit link for details|2022-12-11 at 19:10|
+ |[SourceCodester Canteen Management System ajax_represent.php sql injection](https://vuldb.com/?id.215272)|Visit link for details|2022-12-11 at 12:35|
  |[RainyGao DocSys ZIP File Decompression path traversal](https://vuldb.com/?id.215271)|Visit link for details|2022-12-11 at 08:52|
  |[grub2 Font Code out-of-bounds write](https://vuldb.com/?id.215270)|Visit link for details|2022-12-11 at 08:46|
  |[Mozilla Bleach bleach.clean resource consumption](https://vuldb.com/?id.215269)|Visit link for details|2022-12-11 at 08:35|
  |[pallidlight online-course-selection-system cross site scripting](https://vuldb.com/?id.215268)|Visit link for details|2022-12-11 at 23:11|
- |[zbl1996 FS-Blog Title cross site scripting](https://vuldb.com/?id.215267)|Visit link for details|2022-12-11 at 23:09|
- |[Apache Struts cross site scripting](https://vuldb.com/?id.215266)|Visit link for details|2022-12-11 at 23:06|
- |[Spring Framework Spring MVC JavaScriptUtils.java JavaScriptUtils.javaScriptEscape cross site scripting](https://vuldb.com/?id.215265)|Visit link for details|2022-12-11 at 23:05|
- |[libtpms out-of-bounds write](https://vuldb.com/?id.215264)|Visit link for details|2022-12-11 at 23:03|
- |[libtpms out-of-bounds write](https://vuldb.com/?id.215263)|Visit link for details|2022-12-11 at 23:02|
- |[Planet eStream information disclosure](https://vuldb.com/?id.215262)|Visit link for details|2022-12-11 at 22:45|
  
