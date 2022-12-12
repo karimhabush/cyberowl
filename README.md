@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 11/12/2022 21:08:42 UTC
+ > Last Updated 12/12/2022 09:10:37 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,6 +57,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/libarchive-vulnerability-via-CodeQL-40071" class="noirorange"><b>libarchive</b>: vulnerability via CodeQL</a>](https://vigilance.fr/vulnerability/libarchive-vulnerability-via-CodeQL-40071)|A vulnerability of libarchive, via CodeQL, was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-EventSource-information-disclosure-via-Redirect-Headers-40070" class="noirorange"><b>Node.js EventSource</b>: information disclosure via Redirect Headers</a>](https://vigilance.fr/vulnerability/Node-js-EventSource-information-disclosure-via-Redirect-Headers-40070)|An attacker can bypass access restrictions to data of Node.js EventSource, via Redirect Headers, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Go-file-reading-via-os-DirFS-http-Dir-40069" class="noirorange"><b>Go</b>: file reading via os.DirFS / http.Dir</a>](https://vigilance.fr/vulnerability/Go-file-reading-via-os-DirFS-http-Dir-40069)|An attacker can read a file of Go, via os.DirFS / http.Dir, in order to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Bluetooth-Man-in-the-Middle-via-BR-ED-Pairing-Mode-Confusion-40068" class="noirorange"><b>Bluetooth</b>: Man-in-the-Middle via BR/ED Pairing Mode Confusion</a>](https://vigilance.fr/vulnerability/Bluetooth-Man-in-the-Middle-via-BR-ED-Pairing-Mode-Confusion-40068)|An attacker can act as a Man-in-the-Middle on Bluetooth, via BR/ED Pairing Mode Confusion, in order to read or write data in the session...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Bluetooth-Man-in-the-Middle-via-BLE-Passkey-Pairing-Mode-Confusion-40067" class="noirorange"><b>Bluetooth</b>: Man-in-the-Middle via BLE Passkey Pairing Mode Confusion</a>](https://vigilance.fr/vulnerability/Bluetooth-Man-in-the-Middle-via-BLE-Passkey-Pairing-Mode-Confusion-40067)|An attacker can act as a Man-in-the-Middle on Bluetooth, via BLE Passkey Pairing Mode Confusion, in order to read or write data in the session...|Visit link for details|
@@ -66,8 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/VMware-ESXi-vCenter-Server-multiple-vulnerabilities-40061" class="noirorange"><b>VMware ESXi  vCenter Server</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/VMware-ESXi-vCenter-Server-multiple-vulnerabilities-40061)|An attacker can use several vulnerabilities of VMware ESXi  vCenter Server...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Netatalk-buffer-overflow-via-afp-getappl-40060" class="noirorange"><b>Netatalk</b>: buffer overflow via afp_getappl()</a>](https://vigilance.fr/vulnerability/Netatalk-buffer-overflow-via-afp-getappl-40060)|An attacker can trigger a buffer overflow of Netatalk, via afp_getappl(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Go-net-http-overload-via-Canonical-Header-Cache-40059" class="noirorange"><b>Go net/http</b>: overload via Canonical Header Cache</a>](https://vigilance.fr/vulnerability/Go-net-http-overload-via-Canonical-Header-Cache-40059)|An attacker can trigger an overload of Go net/http, via Canonical Header Cache, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IP-Phone-7800-8800-buffer-overflow-via-CDP-40058" class="noirorange"><b>Cisco IP Phone 7800/8800</b>: buffer overflow via CDP</a>](https://vigilance.fr/vulnerability/Cisco-IP-Phone-7800-8800-buffer-overflow-via-CDP-40058)|An attacker can trigger a buffer overflow of Cisco IP Phone 7800/8800, via CDP, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Leptonica-Linked-Library-denial-of-service-via-JPEG-File-40057" class="noirorange"><b>Leptonica Linked Library</b>: denial of service via JPEG File</a>](https://vigilance.fr/vulnerability/Leptonica-Linked-Library-denial-of-service-via-JPEG-File-40057)|An attacker can cause a fatal error of Leptonica Linked Library, via JPEG File, in order to trigger a denial of service...|Visit link for details|
  
  ---
 
@@ -93,14 +93,14 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Rockwell Automation CompactLogix Network Message denial of service](https://vuldb.com/?id.215277)|Visit link for details|2022-12-11 at 21:38|
- |[AVEVA InTouch Access Anywhere path traversal](https://vuldb.com/?id.215276)|Visit link for details|2022-12-11 at 21:36|
- |[thorsten phpmyfaq cross site scripting](https://vuldb.com/?id.215275)|Visit link for details|2022-12-11 at 19:11|
- |[thorsten phpmyfaq cross site scripting](https://vuldb.com/?id.215274)|Visit link for details|2022-12-11 at 19:11|
- |[thorsten phpmyfaq missing secure attribute](https://vuldb.com/?id.215273)|Visit link for details|2022-12-11 at 19:10|
- |[SourceCodester Canteen Management System ajax_represent.php sql injection](https://vuldb.com/?id.215272)|Visit link for details|2022-12-11 at 12:35|
- |[RainyGao DocSys ZIP File Decompression path traversal](https://vuldb.com/?id.215271)|Visit link for details|2022-12-11 at 08:52|
- |[grub2 Font Code out-of-bounds write](https://vuldb.com/?id.215270)|Visit link for details|2022-12-11 at 08:46|
- |[Mozilla Bleach bleach.clean resource consumption](https://vuldb.com/?id.215269)|Visit link for details|2022-12-11 at 08:35|
- |[pallidlight online-course-selection-system cross site scripting](https://vuldb.com/?id.215268)|Visit link for details|2022-12-11 at 23:11|
+ |[SENS getRegister cross site scripting](https://vuldb.com/?id.215292)|Visit link for details|2022-12-12 at 08:25|
+ |[SENS cross site scripting](https://vuldb.com/?id.215291)|Visit link for details|2022-12-12 at 08:25|
+ |[nuxt framework cross site scripting](https://vuldb.com/?id.215290)|Visit link for details|2022-12-12 at 08:24|
+ |[nuxt framework cross site scripting](https://vuldb.com/?id.215289)|Visit link for details|2022-12-12 at 08:23|
+ |[Redmine Textile Formatter cross site scripting](https://vuldb.com/?id.215288)|Visit link for details|2022-12-12 at 08:22|
+ |[Dragino Lora LG01 18ed40 IoT Logout Page cross-site request forgery](https://vuldb.com/?id.215287)|Visit link for details|2022-12-12 at 08:22|
+ |[SENS access control](https://vuldb.com/?id.215286)|Visit link for details|2022-12-12 at 08:19|
+ |[SENS unrestricted upload](https://vuldb.com/?id.215285)|Visit link for details|2022-12-12 at 08:18|
+ |[Redmine Textile Formatter cross site scripting](https://vuldb.com/?id.215284)|Visit link for details|2022-12-12 at 08:16|
+ |[SAP BusinessObjects Business Intelligence Platform Monitoring DB exposure of resource](https://vuldb.com/?id.215283)|Visit link for details|2022-12-12 at 08:15|
  
