@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 12/12/2022 21:08:57 UTC
+ > Last Updated 13/12/2022 09:10:00 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,6 +57,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-do-buffer-ext-40076" class="noirorange"><b>Vim</b>: reuse after free via do_buffer_ext()</a>](https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-do-buffer-ext-40076)|An attacker can force the reuse of a freed memory area of Vim, via do_buffer_ext(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Fortinet-FortiOS-buffer-overflow-via-sslvpnd-40074" class="noirorange"><b>Fortinet FortiOS</b>: buffer overflow via sslvpnd</a>](https://vigilance.fr/vulnerability/Fortinet-FortiOS-buffer-overflow-via-sslvpnd-40074)|An attacker can trigger a buffer overflow of Fortinet FortiOS, via sslvpnd, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/containerd-overload-via-CRI-Stream-Server-40073" class="noirorange"><b>containerd</b>: overload via CRI Stream Server</a>](https://vigilance.fr/vulnerability/containerd-overload-via-CRI-Stream-Server-40073)|An attacker can trigger an overload of containerd, via CRI Stream Server, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libarchive-vulnerability-via-CodeQL-40071" class="noirorange"><b>libarchive</b>: vulnerability via CodeQL</a>](https://vigilance.fr/vulnerability/libarchive-vulnerability-via-CodeQL-40071)|A vulnerability of libarchive, via CodeQL, was announced...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Node-js-EventSource-information-disclosure-via-Redirect-Headers-40070" class="noirorange"><b>Node.js EventSource</b>: information disclosure via Redirect Headers</a>](https://vigilance.fr/vulnerability/Node-js-EventSource-information-disclosure-via-Redirect-Headers-40070)|An attacker can bypass access restrictions to data of Node.js EventSource, via Redirect Headers, in order to read sensitive information...|Visit link for details|
@@ -66,8 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/GNOME-Nautilus-NULL-pointer-dereference-via-get-basename-40066" class="noirorange"><b>GNOME Nautilus</b>: NULL pointer dereference via get_basename</a>](https://vigilance.fr/vulnerability/GNOME-Nautilus-NULL-pointer-dereference-via-get-basename-40066)|An attacker can force a NULL pointer to be dereferenced on GNOME Nautilus, via get_basename, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-do-proc-dointvec-40065" class="noirorange"><b>Linux kernel</b>: buffer overflow via __do_proc_dointvec</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-do-proc-dointvec-40065)|An attacker can trigger a buffer overflow of the Linux kernel, via __do_proc_dointvec, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Newtonsoft-Json-denial-of-service-40064" class="noirorange"><b>Newtonsoft.Json</b>: denial of service</a>](https://vigilance.fr/vulnerability/Newtonsoft-Json-denial-of-service-40064)|An attacker can cause a fatal error of Newtonsoft.Json, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/VMware-ESXi-vCenter-Server-multiple-vulnerabilities-40061" class="noirorange"><b>VMware ESXi  vCenter Server</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/VMware-ESXi-vCenter-Server-multiple-vulnerabilities-40061)|An attacker can use several vulnerabilities of VMware ESXi  vCenter Server...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Netatalk-buffer-overflow-via-afp-getappl-40060" class="noirorange"><b>Netatalk</b>: buffer overflow via afp_getappl()</a>](https://vigilance.fr/vulnerability/Netatalk-buffer-overflow-via-afp-getappl-40060)|An attacker can trigger a buffer overflow of Netatalk, via afp_getappl(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
  ---
 
@@ -75,6 +75,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[39441312/22 - Mise à jour de sécurité pour Fortinet FortiOS](https://www.dgssi.gov.ma//fr/content/3944131222-mise-jour-de-securite-pour-fortinet-fortios.html)|Fortinet annonce la disponibilité d’une mise à jour de sécurité permettant la correction d’une vulnérabilité au niveau de son produit Fortinet FortiOS. L'exploitation de cette vulnérabilité peut permettre à un attaquant distant non...|13 décembre 2022|
  |[39431212/22 - Vulnérabilités affectant plusieurs produits VMware ](https://www.dgssi.gov.ma//fr/content/3943121222-vulnerabilites-affectant-plusieurs-produits-vmware.html)|VMware annonce la correction de deux vulnérabilités affectant ses produits susmentionnés.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’accéder à des données confidentielles, de causer un déni de...|12 décembre 2022|
  |[39421212/22 - Vulnérabilité corrigée dans Cisco IP Phone](https://www.dgssi.gov.ma//fr/content/3942121222-vulnerabilite-corrigee-dans-cisco-ip-phone.html)|Cisco annonce la correction d’une vulnérabilitéaffectantson produit Cisco IP phone.L'exploitation de cette vulnérabilité peutpermettreà un attaquant d’exécuter du code arbitraire ou de causer un déni de service.|12 décembre 2022|
  |[39410912/22 - Vulnérabilités affectant le système d’exploitation Android](https://www.dgssi.gov.ma//fr/content/3941091222-vulnerabilites-affectant-le-systeme-d-exploitation-android.html)|Google annonce la correction de plusieurs vulnérabilités affectantson système d’exploitation Android.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’accéder à des données confidentielles, d’...|09 décembre 2022|
@@ -85,7 +86,6 @@
  |[39360512/22 - Vulnérabilité « Zero-Day »affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/3936051222-vulnerabilite-zero-day-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger unevulnérabilité « Zero-Day » activement exploitéeaffectant le navigateur Google Chrome. L’exploitation de cette vulnérabilité peut permettre àun attaquant...|05 décembre 2022|
  |[39350512/22 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/3935051222-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger une vulnérabilité affectant son client de messagerie Mozilla Thunderbird. L’exploitation de cette vulnérabilité peut permettre à un...|05 décembre 2022|
  |[39322411/22 - Mise à jour de sécurité exceptionnelle pour corriger des problèmes d'authentifica](https://www.dgssi.gov.ma//fr/content/3932241122-mise-jour-de-securite-exceptionnelle-pour-corriger-des-problemes-d-authentification-kerberos.html)|Microsoft a publié une mise à jour exceptionnellepour résoudre les problèmes causés par un récent correctif de sécurité de Windows qui entraîne des problèmes d'authentification Kerberos. L’exploitation de cette faille peut permettre...|24 novembre 2022|
- |[39312211/22 - Vulnérabilités affectant Zimbra Collaboration ](https://www.dgssi.gov.ma//fr/content/3931221122-vulnerabilites-affectant-zimbra-collaboration.html)|Zimbra annonce la disponibilité d’une mise à jour de sécurité permettant la correctionde trois vulnérabilités affectant sa plateforme de messagerie Zimbra. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’...|22 novembre 2022|
  
  ---
 
@@ -93,14 +93,14 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Motors Plugin AJAX Action unrestricted upload](https://vuldb.com/?id.215310)|Visit link for details|2022-12-12 at 22:05|
- |[Amazon CloudWatch Agent insufficient privileges](https://vuldb.com/?id.215309)|Visit link for details|2022-12-12 at 15:57|
- |[IFM Moneo Appliance password recovery](https://vuldb.com/?id.215308)|Visit link for details|2022-12-12 at 14:39|
- |[yikes-inc-easy-mailchimp-extender Plugin add_field_to_form.php cross site scripting](https://vuldb.com/?id.215307)|Visit link for details|2022-12-12 at 13:24|
- |[claviska jquery-minicolors jquery.minicolors.js cross site scripting](https://vuldb.com/?id.215306)|Visit link for details|2022-12-12 at 13:21|
- |[Plot Plugin XML Parser xml external entity reference](https://vuldb.com/?id.215305)|Visit link for details|2022-12-12 at 13:11|
- |[rAthena FluxCP Service Desk Image URL view.php cross site scripting](https://vuldb.com/?id.215304)|Visit link for details|2022-12-12 at 13:10|
- |[Sonar Gerrit Plugin cross-site request forgery](https://vuldb.com/?id.215303)|Visit link for details|2022-12-12 at 13:07|
- |[Spring Config Plugin Build Display Name cross site scripting](https://vuldb.com/?id.215302)|Visit link for details|2022-12-12 at 13:05|
- |[Build Properties Plugin Custom Build Property Handler/Build Summary Page cross site scripting](https://vuldb.com/?id.215301)|Visit link for details|2022-12-12 at 13:04|
+ |[Tenda AX12 SysToolRestoreSet cross-site request forgery](https://vuldb.com/?id.215432)|Visit link for details|2022-12-13 at 09:04|
+ |[ipti br.tag cross site scripting](https://vuldb.com/?id.215431)|Visit link for details|2022-12-13 at 09:02|
+ |[Alist Bulletin Board cross site scripting](https://vuldb.com/?id.215430)|Visit link for details|2022-12-13 at 08:59|
+ |[HCL Workload Automation Key System Files denial of service](https://vuldb.com/?id.215429)|Visit link for details|2022-12-13 at 08:58|
+ |[HPE Integrated Lights-Out 5 cross site scripting](https://vuldb.com/?id.215428)|Visit link for details|2022-12-13 at 08:58|
+ |[Gmao Linx Sphere SCS.Web.Server.SPI pathname traversal](https://vuldb.com/?id.215427)|Visit link for details|2022-12-13 at 08:57|
+ |[Logrhythm Web Console Contextualize Action cross site scripting](https://vuldb.com/?id.215426)|Visit link for details|2022-12-13 at 08:56|
+ |[Netty response splitting](https://vuldb.com/?id.215425)|Visit link for details|2022-12-13 at 08:52|
+ |[ikus060 rdiffweb privileges management](https://vuldb.com/?id.215424)|Visit link for details|2022-12-13 at 08:51|
+ |[Flat PM Plugin cross site scripting](https://vuldb.com/?id.215423)|Visit link for details|2022-12-13 at 08:51|
  
