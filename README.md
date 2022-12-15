@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 14/12/2022 21:09:20 UTC
+ > Last Updated 15/12/2022 09:10:41 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -27,12 +27,12 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2022/12/14/cisa-adds-one-known-exploited-vulnerability-catalog)|<p>CISA has added one new vulnerability to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. This type of vulnerability is a frequent attack vector for malicious cyber actors and poses a significant risk to the federal enterprise. Note: To view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.</p>|Wednesday, December 14, 2022|
  |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/uscert/ncas/current-activity/2022/12/13/apple-releases-security-updates-multiple-products)|<p>Apple has released security updates to address vulnerabilities in multiple products. An attacker could exploit some of these vulnerabilities to take control of an affected device.</p>|Tuesday, December 13, 2022|
  |[Microsoft Releases December 2022 Security Updates](https://www.cisa.gov/uscert/ncas/current-activity/2022/12/13/microsoft-releases-december-2022-security-updates)|<p>Microsoft has released updates to address multiple vulnerabilities in Microsoft software. An attacker can exploit some of these vulnerabilities to take control of an affected system.</p>|Tuesday, December 13, 2022|
  |[CISA Updates Advisory on #StopRansomware: Cuba Ransomware](https://www.cisa.gov/uscert/ncas/current-activity/2022/12/13/cisa-updates-advisory-stopransomware-cuba-ransomware)|<p>The Federal Bureau of Investigation (FBI) and CISA have updated joint Cybersecurity Advisory <a href="https://www.cisa.gov/uscert/ncas/alerts/aa22-335a">AA22-335A: #StopRansomware: Cuba Ransomware</a>, originally released on December 01, 2022. The advisory has been updated to include additional indicators of compromise (IOCs).</p>|Tuesday, December 13, 2022|
  |[Citrix Releases Security Updates for Citrix ADC, Citrix Gateway](https://www.cisa.gov/uscert/ncas/current-activity/2022/12/13/citrix-releases-security-updates-citrix-adc-citrix-gateway)|<p>Citrix has released security updates to address a critical vulnerability (CVE-2022-27518) in Citrix ADC and Citrix Gateway. An attacker could exploit this vulnerability to take control of an affected system. This vulnerability has been exploited in the wild.</p>|Tuesday, December 13, 2022|
  |[Mozilla Releases Security Updates for Thunderbird and Firefox](https://www.cisa.gov/uscert/ncas/current-activity/2022/12/13/mozilla-releases-security-updates-thunderbird-and-firefox)|<p>Mozilla has released security updates to address vulnerabilities in Thunderbird, Firefox ESR, and Firefox. An attacker could exploit these vulnerabilities to take control of an affected system. </p>|Tuesday, December 13, 2022|
- |[VMware Releases Security Updates for Multiple products](https://www.cisa.gov/uscert/ncas/current-activity/2022/12/13/vmware-releases-security-updates-multiple-products)|<p>VVMware has released security updates to address multiple vulnerabilities in multiple products. A remote attacker could exploit some of these vulnerabilities to take control of an affected system.</p>|Tuesday, December 13, 2022|
  
  ---
 
@@ -93,14 +93,14 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[collective.dms.basecontent column.py renderCell cross site scripting](https://vuldb.com/?id.215813)|Visit link for details|2022-12-14 at 13:15|
- |[Apache Atlas path traversal](https://vuldb.com/?id.215812)|Visit link for details|2022-12-14 at 13:10|
- |[Weidmueller Interface 19 IOT MD01 LAN H4 S0011/FP IOT MD01/FP IOT MD02 Example Web Template cross site scripting](https://vuldb.com/?id.215811)|Visit link for details|2022-12-14 at 13:09|
- |[WordPress Pingback server-side request forgery](https://vuldb.com/?id.215810)|Visit link for details|2022-12-14 at 13:08|
- |[Google Chrome Profiles use after free](https://vuldb.com/?id.215809)|Visit link for details|2022-12-14 at 12:25|
- |[Google Chrome Aura use after free](https://vuldb.com/?id.215808)|Visit link for details|2022-12-14 at 12:24|
- |[Google Chrome Blink Frames use after free](https://vuldb.com/?id.215807)|Visit link for details|2022-12-14 at 12:23|
- |[Google Chrome Mojo IPC use after free](https://vuldb.com/?id.215806)|Visit link for details|2022-12-14 at 12:23|
- |[Google Chrome Blink Media use after free](https://vuldb.com/?id.215805)|Visit link for details|2022-12-14 at 12:22|
- |[bspkrs MCPMappingViewer ZIP File RemoteZipHandler.java extractZip path traversal](https://vuldb.com/?id.215804)|Visit link for details|2022-12-14 at 12:18|
+ |[VMware vRealize Network Insight vRNI REST API pathname traversal](https://vuldb.com/?id.215874)|Visit link for details|2022-12-15 at 10:09|
+ |[mesinkasir Bangresto sql injection](https://vuldb.com/?id.215873)|Visit link for details|2022-12-15 at 10:08|
+ |[oretnom23 Helmet Store Showroom Site sql injection](https://vuldb.com/?id.215872)|Visit link for details|2022-12-15 at 10:07|
+ |[oretnom23 Helmet Store Showroom Site sql injection](https://vuldb.com/?id.215871)|Visit link for details|2022-12-15 at 10:07|
+ |[oretnom23 Helmet Store Showroom Site sql injection](https://vuldb.com/?id.215870)|Visit link for details|2022-12-15 at 10:06|
+ |[oretnom23 Helmet Store Showroom Site sql injection](https://vuldb.com/?id.215869)|Visit link for details|2022-12-15 at 10:05|
+ |[oretnom23 Helmet Store Showroom Site sql injection](https://vuldb.com/?id.215868)|Visit link for details|2022-12-15 at 10:05|
+ |[oretnom23 Helmet Store Showroom Site sql injection](https://vuldb.com/?id.215867)|Visit link for details|2022-12-15 at 10:04|
+ |[oretnom23 Helmet Store Showroom Site sql injection](https://vuldb.com/?id.215866)|Visit link for details|2022-12-15 at 10:04|
+ |[oretnom23 Helmet Store Showroom sql injection](https://vuldb.com/?id.215865)|Visit link for details|2022-12-15 at 10:03|
  
