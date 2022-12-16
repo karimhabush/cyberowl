@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 15/12/2022 21:09:01 UTC
+ > Last Updated 16/12/2022 09:11:05 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,17 +57,24 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/AIX-denial-of-service-via-lpd-40133" class="noirorange"><b>AIX</b>: denial of service via lpd</a>](https://vigilance.fr/vulnerability/AIX-denial-of-service-via-lpd-40133)|An attacker can cause a fatal error of AIX, via lpd, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libde265-four-vulnerabilities-40132" class="noirorange"><b>libde265</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/libde265-four-vulnerabilities-40132)|An attacker can use several vulnerabilities of libde265...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libde265-denial-of-service-via-slice-cc-40131" class="noirorange"><b>libde265</b>: denial of service via slice.cc</a>](https://vigilance.fr/vulnerability/libde265-denial-of-service-via-slice-cc-40131)|An attacker can cause a fatal error of libde265, via slice.cc, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libde265-buffer-overflow-via-de265-image-available-zscan-40130" class="noirorange"><b>libde265</b>: buffer overflow via <wbr>de265_image::availab<wbr>le_zscan()</wbr></wbr></a>](https://vigilance.fr/vulnerability/libde265-buffer-overflow-via-de265-image-available-zscan-40130)|An attacker can trigger a buffer overflow of libde265, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SnakeYaml-code-execution-via-Deserializing-40129" class="noirorange"><b>SnakeYaml</b>: code execution via Deserializing</a>](https://vigilance.fr/vulnerability/SnakeYaml-code-execution-via-Deserializing-40129)|An attacker can use a vulnerability of SnakeYaml, via Deserializing, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-malidp-crtc-reset-40127" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via malidp_crtc_reset()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-malidp-crtc-reset-40127)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-imx-register-uart-clocks-40126" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via <wbr>imx_register_uart_cl<wbr>ocks()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-imx-register-uart-clocks-40126)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-mtk-vcodec-fw-vpu-init-40125" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via <wbr>mtk_vcodec_fw_vpu_in<wbr>it()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-mtk-vcodec-fw-vpu-init-40125)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-amvdec-set-canvases-40124" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via <wbr>amvdec_set_canvases(<wbr>)</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-amvdec-set-canvases-40124)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-wm8350-init-charger-40123" class="noirorange"><b>Linux kernel</b>: memory leak via <wbr>wm8350_init_charger(<wbr>)</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-wm8350-init-charger-40123)|An attacker can create a memory leak of the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-rtw-alloc-hwxmits-40122" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via rtw_alloc_hwxmits()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-rtw-alloc-hwxmits-40122)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-kfd-parse-subtype-iolink-40121" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via <wbr>kfd_parse_subtype_io<wbr>link()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-kfd-parse-subtype-iolink-40121)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-netvsc-get-ethtool-stats-40120" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via <wbr>netvsc_get_ethtool_s<wbr>tats()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-netvsc-get-ethtool-stats-40120)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-ef100-update-stats-40119" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via <wbr>ef100_update_stats()</wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-ef100-update-stats-40119)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-uapi-finalize-40118" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via uapi_finalize()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-uapi-finalize-40118)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via uapi_finalize(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-lkdtm-ARRAY-BOUNDS-40117" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via <wbr>lkdtm_ARRAY_BOUNDS()</wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-lkdtm-ARRAY-BOUNDS-40117)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
@@ -75,6 +82,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[39541612/22 - Vulnérabilités affectant le CMS Drupal](https://www.dgssi.gov.ma//fr/content/3954161222-vulnerabilites-affectant-le-cms-drupal.html)|Drupal annonce la disponibilité de mises à jour de sécurité qui corrigent deux vulnérabilités auniveaudes deux modules susmentionnées de son CMS. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’accéder à des...|16 décembre 2022|
  |[39531512/22 - Vulnérabilités affectant plusieursproduits SAP](https://www.dgssi.gov.ma//fr/content/3953151222-vulnerabilites-affectant-plusieurs-produits-sap.html)|SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuterdu code arbitraire ou...|15 décembre 2022|
  |[39521512/22 - Vulnérabilités affectantdes produits Mozilla ](https://www.dgssi.gov.ma//fr/content/3952151222-vulnerabilites-affectant-des-produits-mozilla.html)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités au niveau de trois produits de Mozilla. L’exploitation de cesvulnérabilités peut permettre à un...|15 décembre 2022|
  |[39511512/22 - Vulnérabilités affectant plusieurs produits VMware ](https://www.dgssi.gov.ma//fr/content/3951151222-vulnerabilites-affectant-plusieurs-produits-vmware.html)|VMware annonce la correction de cinq vulnérabilités affectant ses produits susmentionnés.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’exécuter du code arbitraire ou d’accéder à des données...|15 décembre 2022|
@@ -85,22 +93,4 @@
  |[39461412/22 - Vulnérabilité critique affectant Citrix Gateway et Citrix ADC ](https://www.dgssi.gov.ma//fr/content/3946141222-vulnerabilite-critique-affectant-citrix-gateway-et-citrix-adc.html)|Citrix annonce la correction d’une vulnérabilité critique affectant ses produits Citrix Gateway et Citrix ADC. Cette vulnérabilité est activement exploitée et ellepeut permettre à un attaquantdistant d’exécuter du code arbitraire.|14 décembre 2022|
  |[39451312/22 - Nouvelle technique d’attaque permettant le contournement des mesures de sécurité des W](https://www.dgssi.gov.ma//fr/content/3945131222-nouvelle-technique-d-attaque-permettant-le-contournement-des-mesures-de-securite-des-wafs-web-application-firewalls.html)|Des chercheurs en sécurité informatique annoncent l’élaboration d’une nouvelle technique d’attaque permettant de contourner la capacité des WAFs « Web Application Firewalls » à détecter des attaques du type injection SQL.|13 décembre 2022|
  |[39441312/22 - Mise à jour de sécurité pour Fortinet FortiOS](https://www.dgssi.gov.ma//fr/content/3944131222-mise-jour-de-securite-pour-fortinet-fortios.html)|Fortinet annonce la disponibilité d’une mise à jour de sécurité permettant la correction d’une vulnérabilité au niveau de son produit Fortinet FortiOS. L'exploitation de cette vulnérabilité peut permettre à un attaquant distant non...|13 décembre 2022|
- |[39431212/22 - Vulnérabilités affectant plusieurs produits VMware ](https://www.dgssi.gov.ma//fr/content/3943121222-vulnerabilites-affectant-plusieurs-produits-vmware.html)|VMware annonce la correction de quatre vulnérabilités affectant ses produits susmentionnés.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’accéder à des données confidentielles, de causer un déni de...|12 décembre 2022|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[collective.task table.py AssignedGroupColumn cross site scripting](https://vuldb.com/?id.215907)|Visit link for details|2022-12-15 at 21:52|
- |[django-photologue Default Template photo_detail.html cross site scripting](https://vuldb.com/?id.215906)|Visit link for details|2022-12-15 at 21:46|
- |[National Sleep Research Resource sleepdata.org cross site scripting](https://vuldb.com/?id.215905)|Visit link for details|2022-12-15 at 21:42|
- |[Roots soil Plugin CleanUpModule.php language_attributes cross site scripting](https://vuldb.com/?id.215904)|Visit link for details|2022-12-15 at 21:40|
- |[vexim2 cross site scripting](https://vuldb.com/?id.215903)|Visit link for details|2022-12-15 at 21:36|
- |[CalendarXP cross site scripting](https://vuldb.com/?id.215902)|Visit link for details|2022-12-15 at 21:32|
- |[WSO2 carbon-registry Request Parameter cross site scripting](https://vuldb.com/?id.215901)|Visit link for details|2022-12-15 at 21:14|
- |[WSO2 carbon-registry Advanced Search advancedSearchForm-ajaxprocessor.jsp cross site scripting](https://vuldb.com/?id.215900)|Visit link for details|2022-12-15 at 21:11|
- |[Prosys OPC UA Simulation Server insufficiently protected credentials](https://vuldb.com/?id.215899)|Visit link for details|2022-12-15 at 21:07|
- |[Apache BookKeeper certificate validation](https://vuldb.com/?id.215898)|Visit link for details|2022-12-15 at 21:03|
  
