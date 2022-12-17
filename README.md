@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 17/12/2022 09:09:39 UTC
+ > Last Updated 17/12/2022 21:06:44 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -53,24 +53,6 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Apache-CXF-Server-Side-Request-Forgery-via-MTOM-XOP-Include-Href-Attribute-40147" class="noirorange"><b>Apache CXF</b>: Server-Side Request Forgery via MTOM XOP:Include Href Attribute</a>](https://vigilance.fr/vulnerability/Apache-CXF-Server-Side-Request-Forgery-via-MTOM-XOP-Include-Href-Attribute-40147)|An attacker can trigger a Server-Side Request Forgery of Apache CXF, via MTOM XOP:Include Href Attribute, in order to force the server to send queries...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Woodstox-denial-of-service-via-DTD-Support-40146" class="noirorange"><b>Woodstox</b>: denial of service via DTD Support</a>](https://vigilance.fr/vulnerability/Woodstox-denial-of-service-via-DTD-Support-40146)|An attacker can cause a fatal error of Woodstox, via DTD Support, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-xillyusb-open-40145" class="noirorange"><b>Linux kernel</b>: reuse after free via xillyusb_open()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-xillyusb-open-40145)|An attacker can force the reuse of a freed memory area of the Linux kernel, via xillyusb_open(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-split-2MB-gtt-entry-40144" class="noirorange"><b>Linux kernel</b>: double free via <wbr>split_2MB_gtt_entry(<wbr>)</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-split-2MB-gtt-entry-40144)|An attacker can force a double memory free of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-sl-tx-timeout-40143" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via sl_tx_timeout()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-sl-tx-timeout-40143)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via sl_tx_timeout(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-L2CAP-CONF-REQ-40142" class="noirorange"><b>Linux kernel</b>: integer overflow via L2CAP_CONF_REQ</a>](https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-L2CAP-CONF-REQ-40142)|An attacker can trigger an integer overflow of the Linux kernel, via L2CAP_CONF_REQ, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-mceusb-gen1-init-40141" class="noirorange"><b>Linux kernel</b>: denial of service via mceusb_gen1_init()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-mceusb-gen1-init-40141)|An attacker can cause a fatal error of the Linux kernel, via mceusb_gen1_init(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSAML-Java-multiple-vulnerabilities-40140" class="noirorange"><b>OpenSAML Java</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/OpenSAML-Java-multiple-vulnerabilities-40140)|An attacker can use several vulnerabilities of OpenSAML Java...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Zope-Cross-Site-Scripting-via-Content-Type-40138" class="noirorange"><b>Zope</b>: Cross Site Scripting via Content-Type</a>](https://vigilance.fr/vulnerability/Zope-Cross-Site-Scripting-via-Content-Type-40138)|An attacker can trigger a Cross Site Scripting of Zope, via Content-Type, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Samba-weak-encryption-via-AD-DC-Heimdal-RC4-HMAC-Tickets-Reissuing-40137" class="noirorange"><b>Samba</b>: weak encryption via AD DC Heimdal RC4-HMAC Tickets Reissuing</a>](https://vigilance.fr/vulnerability/Samba-weak-encryption-via-AD-DC-Heimdal-RC4-HMAC-Tickets-Reissuing-40137)|An attacker can access data on Samba, via AD DC Heimdal RC4-HMAC Tickets Reissuing, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Samba-Windows-weak-encryption-via-RC4-HMAC-MD5-NetLogon-Secure-Channel-40136" class="noirorange"><b>Samba  Windows</b>: weak encryption via RC4/HMAC-MD5 NetLogon Secure Channel</a>](https://vigilance.fr/vulnerability/Samba-Windows-weak-encryption-via-RC4-HMAC-MD5-NetLogon-Secure-Channel-40136)|An attacker can access data on Samba  Windows, via RC4/HMAC-MD5 NetLogon Secure Channel, in order to read sensitive information...|Visit link for details|
- 
- ---
-
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -89,18 +71,36 @@
  
  ---
 
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-CXF-Server-Side-Request-Forgery-via-MTOM-XOP-Include-Href-Attribute-40147" class="noirorange"><b>Apache CXF</b>: Server-Side Request Forgery via MTOM XOP:Include Href Attribute</a>](https://vigilance.fr/vulnerability/Apache-CXF-Server-Side-Request-Forgery-via-MTOM-XOP-Include-Href-Attribute-40147)|An attacker can trigger a Server-Side Request Forgery of Apache CXF, via MTOM XOP:Include Href Attribute, in order to force the server to send queries...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Woodstox-denial-of-service-via-DTD-Support-40146" class="noirorange"><b>Woodstox</b>: denial of service via DTD Support</a>](https://vigilance.fr/vulnerability/Woodstox-denial-of-service-via-DTD-Support-40146)|An attacker can cause a fatal error of Woodstox, via DTD Support, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-xillyusb-open-40145" class="noirorange"><b>Linux kernel</b>: reuse after free via xillyusb_open()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-xillyusb-open-40145)|An attacker can force the reuse of a freed memory area of the Linux kernel, via xillyusb_open(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-split-2MB-gtt-entry-40144" class="noirorange"><b>Linux kernel</b>: double free via <wbr>split_2MB_gtt_entry(<wbr>)</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-split-2MB-gtt-entry-40144)|An attacker can force a double memory free of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-sl-tx-timeout-40143" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via sl_tx_timeout()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-sl-tx-timeout-40143)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via sl_tx_timeout(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-L2CAP-CONF-REQ-40142" class="noirorange"><b>Linux kernel</b>: integer overflow via L2CAP_CONF_REQ</a>](https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-L2CAP-CONF-REQ-40142)|An attacker can trigger an integer overflow of the Linux kernel, via L2CAP_CONF_REQ, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-mceusb-gen1-init-40141" class="noirorange"><b>Linux kernel</b>: denial of service via mceusb_gen1_init()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-mceusb-gen1-init-40141)|An attacker can cause a fatal error of the Linux kernel, via mceusb_gen1_init(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSAML-Java-multiple-vulnerabilities-40140" class="noirorange"><b>OpenSAML Java</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/OpenSAML-Java-multiple-vulnerabilities-40140)|An attacker can use several vulnerabilities of OpenSAML Java...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Zope-Cross-Site-Scripting-via-Content-Type-40138" class="noirorange"><b>Zope</b>: Cross Site Scripting via Content-Type</a>](https://vigilance.fr/vulnerability/Zope-Cross-Site-Scripting-via-Content-Type-40138)|An attacker can trigger a Cross Site Scripting of Zope, via Content-Type, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Samba-weak-encryption-via-AD-DC-Heimdal-RC4-HMAC-Tickets-Reissuing-40137" class="noirorange"><b>Samba</b>: weak encryption via AD DC Heimdal RC4-HMAC Tickets Reissuing</a>](https://vigilance.fr/vulnerability/Samba-weak-encryption-via-AD-DC-Heimdal-RC4-HMAC-Tickets-Reissuing-40137)|An attacker can access data on Samba, via AD DC Heimdal RC4-HMAC Tickets Reissuing, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Samba-Windows-weak-encryption-via-RC4-HMAC-MD5-NetLogon-Secure-Channel-40136" class="noirorange"><b>Samba  Windows</b>: weak encryption via RC4/HMAC-MD5 NetLogon Secure Channel</a>](https://vigilance.fr/vulnerability/Samba-Windows-weak-encryption-via-RC4-HMAC-MD5-NetLogon-Secure-Channel-40136)|An attacker can access data on Samba  Windows, via RC4/HMAC-MD5 NetLogon Secure Channel, in order to read sensitive information...|Visit link for details|
+ 
+ ---
+
 ## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[Rockwell Automation GuardLogix/ControlLogix CIP Request denial of service](https://vuldb.com/?id.216165)|Visit link for details|2022-12-17 at 08:52|
- |[Mutiny hard-coded password](https://vuldb.com/?id.216164)|Visit link for details|2022-12-17 at 08:51|
- |[PAX Technology A930 PayDroid command injection](https://vuldb.com/?id.216163)|Visit link for details|2022-12-17 at 08:50|
- |[y_project Ruoyi Shiro Framework deserialization](https://vuldb.com/?id.216162)|Visit link for details|2022-12-17 at 08:50|
- |[SourceCodester Online Grading System sql injection](https://vuldb.com/?id.216161)|Visit link for details|2022-12-17 at 08:48|
- |[GuardDog Scan path traversal](https://vuldb.com/?id.216160)|Visit link for details|2022-12-17 at 08:46|
- |[BigBlueButton Webcams Lock Setting insertion of sensitive information into sent data](https://vuldb.com/?id.216159)|Visit link for details|2022-12-17 at 08:46|
- |[Rockwell Automation MicroLogix 1100/MicroLogix 1400 Embedded Webserver cross site scripting](https://vuldb.com/?id.216158)|Visit link for details|2022-12-17 at 08:45|
- |[Micro Focus GroupWise Web GW Web log file](https://vuldb.com/?id.216157)|Visit link for details|2022-12-17 at 02:32|
- |[PAX Technology A930 PayDroid ADB Daemon Remote Code Execution](https://vuldb.com/?id.216156)|Visit link for details|2022-12-17 at 02:31|
+ |[Apache Helix UI redirect](https://vuldb.com/?id.216179)|Visit link for details|2022-12-17 at 21:42|
+ |[mschaef toto Email Parameter cross site scripting](https://vuldb.com/?id.216178)|Visit link for details|2022-12-17 at 20:01|
+ |[mschaef toto Todo List cross site scripting](https://vuldb.com/?id.216177)|Visit link for details|2022-12-17 at 19:59|
+ |[roxlukas LMeve Login Page sql injection](https://vuldb.com/?id.216176)|Visit link for details|2022-12-17 at 19:56|
+ |[cyface Terms and Conditions Module views.py returnTo redirect](https://vuldb.com/?id.216175)|Visit link for details|2022-12-17 at 14:03|
+ |[Boston Sleep slice Layout cross site scripting](https://vuldb.com/?id.216174)|Visit link for details|2022-12-17 at 13:44|
+ |[Opencaching Deutschland oc-server3 Login Page login.tpl cross site scripting](https://vuldb.com/?id.216173)|Visit link for details|2022-12-17 at 13:40|
+ |[Opencaching Deutschland oc-server3 Cachelist cachelists.tpl cross site scripting](https://vuldb.com/?id.216172)|Visit link for details|2022-12-17 at 13:39|
+ |[Opencaching Deutschland oc-server3 Cookie start.tpl cross site scripting](https://vuldb.com/?id.216171)|Visit link for details|2022-12-17 at 13:37|
+ |[Axiomatic Bento4 mp42aac heap-based overflow](https://vuldb.com/?id.216170)|Visit link for details|2022-12-17 at 13:33|
  
