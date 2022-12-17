@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 16/12/2022 21:09:09 UTC
+ > Last Updated 17/12/2022 09:09:39 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -93,4 +93,14 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Rockwell Automation GuardLogix/ControlLogix CIP Request denial of service](https://vuldb.com/?id.216165)|Visit link for details|2022-12-17 at 08:52|
+ |[Mutiny hard-coded password](https://vuldb.com/?id.216164)|Visit link for details|2022-12-17 at 08:51|
+ |[PAX Technology A930 PayDroid command injection](https://vuldb.com/?id.216163)|Visit link for details|2022-12-17 at 08:50|
+ |[y_project Ruoyi Shiro Framework deserialization](https://vuldb.com/?id.216162)|Visit link for details|2022-12-17 at 08:50|
+ |[SourceCodester Online Grading System sql injection](https://vuldb.com/?id.216161)|Visit link for details|2022-12-17 at 08:48|
+ |[GuardDog Scan path traversal](https://vuldb.com/?id.216160)|Visit link for details|2022-12-17 at 08:46|
+ |[BigBlueButton Webcams Lock Setting insertion of sensitive information into sent data](https://vuldb.com/?id.216159)|Visit link for details|2022-12-17 at 08:46|
+ |[Rockwell Automation MicroLogix 1100/MicroLogix 1400 Embedded Webserver cross site scripting](https://vuldb.com/?id.216158)|Visit link for details|2022-12-17 at 08:45|
+ |[Micro Focus GroupWise Web GW Web log file](https://vuldb.com/?id.216157)|Visit link for details|2022-12-17 at 02:32|
+ |[PAX Technology A930 PayDroid ADB Daemon Remote Code Execution](https://vuldb.com/?id.216156)|Visit link for details|2022-12-17 at 02:31|
  
