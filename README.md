@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 17/12/2022 21:06:44 UTC
+ > Last Updated 18/12/2022 09:10:11 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -53,24 +53,6 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[39551612/22 - Vulnérabilités affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/3955161222-vulnerabilites-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger cinqvulnérabilitésaffectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre àun attaquant d’exécuter du code arbitraire.|16 décembre 2022|
- |[39541612/22 - Vulnérabilités affectant le CMS Drupal](https://www.dgssi.gov.ma//fr/content/3954161222-vulnerabilites-affectant-le-cms-drupal.html)|Drupal annonce la disponibilité de mises à jour de sécurité qui corrigent deux vulnérabilités auniveaudes deux modules susmentionnées de son CMS. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’accéder à des...|16 décembre 2022|
- |[39531512/22 - Vulnérabilités affectant plusieursproduits SAP](https://www.dgssi.gov.ma//fr/content/3953151222-vulnerabilites-affectant-plusieurs-produits-sap.html)|SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuterdu code arbitraire ou...|15 décembre 2022|
- |[39521512/22 - Vulnérabilités affectantdes produits Mozilla ](https://www.dgssi.gov.ma//fr/content/3952151222-vulnerabilites-affectant-des-produits-mozilla.html)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités au niveau de trois produits de Mozilla. L’exploitation de cesvulnérabilités peut permettre à un...|15 décembre 2022|
- |[39511512/22 - Vulnérabilités affectant plusieurs produits VMware ](https://www.dgssi.gov.ma//fr/content/3951151222-vulnerabilites-affectant-plusieurs-produits-vmware.html)|VMware annonce la correction de cinq vulnérabilités affectant ses produits susmentionnés.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’exécuter du code arbitraire ou d’accéder à des données...|15 décembre 2022|
- |[39501412/22 - Vulnérabilités affectant plusieurs produits d’Adobe](https://www.dgssi.gov.ma//fr/content/3950141222-vulnerabilites-affectant-plusieurs-produits-d-adobe.html)|Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuterdu code arbitraire, d’...|14 décembre 2022|
- |[39491412/22 - « Zero-Day » affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma//fr/content/3949141222-zero-day-affectant-plusieurs-produits-d-apple.html)|Apple annonce la correction de plusieurs vulnérabilitésaffectant les versions susmentionnées de certains de ses produits. Selon Apple une de ces vulnérabilités identifiée par « CVE-2022-42856 » est un « zero-day » activement exploité et...|14 décembre 2022|
- |[39481412/22 - Vulnérabilités affectant Microsoft Windows (Patch Tuesday Décembre 2022)](https://www.dgssi.gov.ma//fr/content/3948141222-vulnerabilites-affectant-microsoft-windows-patch-tuesday-decembre-2022.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnéesde son système d’exploitation Microsoft Windows. Parmi les vulnérabilités corrigées on retrouve deux vulnérabilités « zero-day » identifiées...|14 décembre 2022|
- |[39471412/22 - Vulnérabilités affectant Microsoft office (Patch Tuesday Décembre 2022)](https://www.dgssi.gov.ma//fr/content/3947141222-vulnerabilites-affectant-microsoft-office-patch-tuesday-decembre-2022.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits susmentionnés de la suite de bureautique Microsoft office. L’exploitation de ces vulnérabilités peut permettre à un attaquantdistant d’exécuter du code...|14 décembre 2022|
- |[39461412/22 - Vulnérabilité critique affectant Citrix Gateway et Citrix ADC ](https://www.dgssi.gov.ma//fr/content/3946141222-vulnerabilite-critique-affectant-citrix-gateway-et-citrix-adc.html)|Citrix annonce la correction d’une vulnérabilité critique affectant ses produits Citrix Gateway et Citrix ADC. Cette vulnérabilité est activement exploitée et ellepeut permettre à un attaquantdistant d’exécuter du code arbitraire.|14 décembre 2022|
- |[39451312/22 - Nouvelle technique d’attaque permettant le contournement des mesures de sécurité des W](https://www.dgssi.gov.ma//fr/content/3945131222-nouvelle-technique-d-attaque-permettant-le-contournement-des-mesures-de-securite-des-wafs-web-application-firewalls.html)|Des chercheurs en sécurité informatique annoncent l’élaboration d’une nouvelle technique d’attaque permettant de contourner la capacité des WAFs « Web Application Firewalls » à détecter des attaques du type injection SQL.|13 décembre 2022|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -89,18 +71,36 @@
  
  ---
 
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[39551612/22 - Vulnérabilités affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/3955161222-vulnerabilites-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger cinqvulnérabilitésaffectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre àun attaquant d’exécuter du code arbitraire.|16 décembre 2022|
+ |[39541612/22 - Vulnérabilités affectant le CMS Drupal](https://www.dgssi.gov.ma//fr/content/3954161222-vulnerabilites-affectant-le-cms-drupal.html)|Drupal annonce la disponibilité de mises à jour de sécurité qui corrigent deux vulnérabilités auniveaudes deux modules susmentionnées de son CMS. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’accéder à des...|16 décembre 2022|
+ |[39531512/22 - Vulnérabilités affectant plusieursproduits SAP](https://www.dgssi.gov.ma//fr/content/3953151222-vulnerabilites-affectant-plusieurs-produits-sap.html)|SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuterdu code arbitraire ou...|15 décembre 2022|
+ |[39521512/22 - Vulnérabilités affectantdes produits Mozilla ](https://www.dgssi.gov.ma//fr/content/3952151222-vulnerabilites-affectant-des-produits-mozilla.html)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités au niveau de trois produits de Mozilla. L’exploitation de cesvulnérabilités peut permettre à un...|15 décembre 2022|
+ |[39511512/22 - Vulnérabilités affectant plusieurs produits VMware ](https://www.dgssi.gov.ma//fr/content/3951151222-vulnerabilites-affectant-plusieurs-produits-vmware.html)|VMware annonce la correction de cinq vulnérabilités affectant ses produits susmentionnés.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’exécuter du code arbitraire ou d’accéder à des données...|15 décembre 2022|
+ |[39501412/22 - Vulnérabilités affectant plusieurs produits d’Adobe](https://www.dgssi.gov.ma//fr/content/3950141222-vulnerabilites-affectant-plusieurs-produits-d-adobe.html)|Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuterdu code arbitraire, d’...|14 décembre 2022|
+ |[39491412/22 - « Zero-Day » affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma//fr/content/3949141222-zero-day-affectant-plusieurs-produits-d-apple.html)|Apple annonce la correction de plusieurs vulnérabilitésaffectant les versions susmentionnées de certains de ses produits. Selon Apple une de ces vulnérabilités identifiée par « CVE-2022-42856 » est un « zero-day » activement exploité et...|14 décembre 2022|
+ |[39481412/22 - Vulnérabilités affectant Microsoft Windows (Patch Tuesday Décembre 2022)](https://www.dgssi.gov.ma//fr/content/3948141222-vulnerabilites-affectant-microsoft-windows-patch-tuesday-decembre-2022.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnéesde son système d’exploitation Microsoft Windows. Parmi les vulnérabilités corrigées on retrouve deux vulnérabilités « zero-day » identifiées...|14 décembre 2022|
+ |[39471412/22 - Vulnérabilités affectant Microsoft office (Patch Tuesday Décembre 2022)](https://www.dgssi.gov.ma//fr/content/3947141222-vulnerabilites-affectant-microsoft-office-patch-tuesday-decembre-2022.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits susmentionnés de la suite de bureautique Microsoft office. L’exploitation de ces vulnérabilités peut permettre à un attaquantdistant d’exécuter du code...|14 décembre 2022|
+ |[39461412/22 - Vulnérabilité critique affectant Citrix Gateway et Citrix ADC ](https://www.dgssi.gov.ma//fr/content/3946141222-vulnerabilite-critique-affectant-citrix-gateway-et-citrix-adc.html)|Citrix annonce la correction d’une vulnérabilité critique affectant ses produits Citrix Gateway et Citrix ADC. Cette vulnérabilité est activement exploitée et ellepeut permettre à un attaquantdistant d’exécuter du code arbitraire.|14 décembre 2022|
+ |[39451312/22 - Nouvelle technique d’attaque permettant le contournement des mesures de sécurité des W](https://www.dgssi.gov.ma//fr/content/3945131222-nouvelle-technique-d-attaque-permettant-le-contournement-des-mesures-de-securite-des-wafs-web-application-firewalls.html)|Des chercheurs en sécurité informatique annoncent l’élaboration d’une nouvelle technique d’attaque permettant de contourner la capacité des WAFs « Web Application Firewalls » à détecter des attaques du type injection SQL.|13 décembre 2022|
+ 
+ ---
+
 ## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[Apache Helix UI redirect](https://vuldb.com/?id.216179)|Visit link for details|2022-12-17 at 21:42|
- |[mschaef toto Email Parameter cross site scripting](https://vuldb.com/?id.216178)|Visit link for details|2022-12-17 at 20:01|
- |[mschaef toto Todo List cross site scripting](https://vuldb.com/?id.216177)|Visit link for details|2022-12-17 at 19:59|
- |[roxlukas LMeve Login Page sql injection](https://vuldb.com/?id.216176)|Visit link for details|2022-12-17 at 19:56|
- |[cyface Terms and Conditions Module views.py returnTo redirect](https://vuldb.com/?id.216175)|Visit link for details|2022-12-17 at 14:03|
- |[Boston Sleep slice Layout cross site scripting](https://vuldb.com/?id.216174)|Visit link for details|2022-12-17 at 13:44|
- |[Opencaching Deutschland oc-server3 Login Page login.tpl cross site scripting](https://vuldb.com/?id.216173)|Visit link for details|2022-12-17 at 13:40|
- |[Opencaching Deutschland oc-server3 Cachelist cachelists.tpl cross site scripting](https://vuldb.com/?id.216172)|Visit link for details|2022-12-17 at 13:39|
- |[Opencaching Deutschland oc-server3 Cookie start.tpl cross site scripting](https://vuldb.com/?id.216171)|Visit link for details|2022-12-17 at 13:37|
- |[Axiomatic Bento4 mp42aac heap-based overflow](https://vuldb.com/?id.216170)|Visit link for details|2022-12-17 at 13:33|
+ |[drogatkin TJWS2 WarRoller.java deployWar path traversal](https://vuldb.com/?id.216187)|Visit link for details|2022-12-18 at 09:09|
+ |[retra-system cross site scripting](https://vuldb.com/?id.216186)|Visit link for details|2022-12-18 at 09:01|
+ |[luckyshot CRMx index.php commentdelete sql injection](https://vuldb.com/?id.216185)|Visit link for details|2022-12-18 at 08:57|
+ |[OWASP NodeGoat Query Parameter research.js denial of service](https://vuldb.com/?id.216184)|Visit link for details|2022-12-18 at 08:38|
+ |[XML-RPC.NET POST Request pingback.aspx server-side request forgery](https://vuldb.com/?id.216183)|Visit link for details|2022-12-18 at 08:33|
+ |[drachtio-server UDP Message url_canonize2 heap-based overflow](https://vuldb.com/?id.216182)|Visit link for details|2022-12-18 at 08:31|
+ |[drachtio-server UDP Message tport.c denial of service](https://vuldb.com/?id.216181)|Visit link for details|2022-12-18 at 08:30|
+ |[drachtio-server TCP Request length_error denial of service](https://vuldb.com/?id.216180)|Visit link for details|2022-12-18 at 08:28|
+ |[Apache Helix UI redirect](https://vuldb.com/?id.216179)|Visit link for details|2022-12-18 at 21:42|
+ |[mschaef toto Email Parameter cross site scripting](https://vuldb.com/?id.216178)|Visit link for details|2022-12-18 at 20:01|
  
