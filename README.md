@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 18/12/2022 09:10:11 UTC
+ > Last Updated 18/12/2022 21:08:11 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -93,14 +93,4 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[drogatkin TJWS2 WarRoller.java deployWar path traversal](https://vuldb.com/?id.216187)|Visit link for details|2022-12-18 at 09:09|
- |[retra-system cross site scripting](https://vuldb.com/?id.216186)|Visit link for details|2022-12-18 at 09:01|
- |[luckyshot CRMx index.php commentdelete sql injection](https://vuldb.com/?id.216185)|Visit link for details|2022-12-18 at 08:57|
- |[OWASP NodeGoat Query Parameter research.js denial of service](https://vuldb.com/?id.216184)|Visit link for details|2022-12-18 at 08:38|
- |[XML-RPC.NET POST Request pingback.aspx server-side request forgery](https://vuldb.com/?id.216183)|Visit link for details|2022-12-18 at 08:33|
- |[drachtio-server UDP Message url_canonize2 heap-based overflow](https://vuldb.com/?id.216182)|Visit link for details|2022-12-18 at 08:31|
- |[drachtio-server UDP Message tport.c denial of service](https://vuldb.com/?id.216181)|Visit link for details|2022-12-18 at 08:30|
- |[drachtio-server TCP Request length_error denial of service](https://vuldb.com/?id.216180)|Visit link for details|2022-12-18 at 08:28|
- |[Apache Helix UI redirect](https://vuldb.com/?id.216179)|Visit link for details|2022-12-18 at 21:42|
- |[mschaef toto Email Parameter cross site scripting](https://vuldb.com/?id.216178)|Visit link for details|2022-12-18 at 20:01|
  
