@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 18/12/2022 21:08:11 UTC
+ > Last Updated 19/12/2022 09:09:26 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,6 +57,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-KASLR-KPTI-Prefetch-Side-Channel-40150" class="noirorange"><b>Linux kernel</b>: memory reading via KASLR KPTI Prefetch Side-Channel</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-KASLR-KPTI-Prefetch-Side-Channel-40150)|An attacker can read a memory fragment of the Linux kernel, via KASLR KPTI Prefetch Side-Channel, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/pgAdmin-code-execution-via-API-Windows-UNC-Path-40149" class="noirorange"><b>pgAdmin</b>: code execution via API Windows UNC Path</a>](https://vigilance.fr/vulnerability/pgAdmin-code-execution-via-API-Windows-UNC-Path-40149)|An attacker can use a vulnerability of pgAdmin, via API Windows UNC Path, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Nokogiri-NULL-pointer-dereference-via-xmlTextReaderExpand-40148" class="noirorange"><b>Nokogiri</b>: NULL pointer dereference via <wbr>xmlTextReaderExpand(<wbr>)</wbr></wbr></a>](https://vigilance.fr/vulnerability/Nokogiri-NULL-pointer-dereference-via-xmlTextReaderExpand-40148)|An attacker can force a NULL pointer to be dereferenced on Nokogiri, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-CXF-Server-Side-Request-Forgery-via-MTOM-XOP-Include-Href-Attribute-40147" class="noirorange"><b>Apache CXF</b>: Server-Side Request Forgery via MTOM XOP:Include Href Attribute</a>](https://vigilance.fr/vulnerability/Apache-CXF-Server-Side-Request-Forgery-via-MTOM-XOP-Include-Href-Attribute-40147)|An attacker can trigger a Server-Side Request Forgery of Apache CXF, via MTOM XOP:Include Href Attribute, in order to force the server to send queries...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Woodstox-denial-of-service-via-DTD-Support-40146" class="noirorange"><b>Woodstox</b>: denial of service via DTD Support</a>](https://vigilance.fr/vulnerability/Woodstox-denial-of-service-via-DTD-Support-40146)|An attacker can cause a fatal error of Woodstox, via DTD Support, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-xillyusb-open-40145" class="noirorange"><b>Linux kernel</b>: reuse after free via xillyusb_open()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-xillyusb-open-40145)|An attacker can force the reuse of a freed memory area of the Linux kernel, via xillyusb_open(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
@@ -65,9 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-L2CAP-CONF-REQ-40142" class="noirorange"><b>Linux kernel</b>: integer overflow via L2CAP_CONF_REQ</a>](https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-L2CAP-CONF-REQ-40142)|An attacker can trigger an integer overflow of the Linux kernel, via L2CAP_CONF_REQ, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-mceusb-gen1-init-40141" class="noirorange"><b>Linux kernel</b>: denial of service via mceusb_gen1_init()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-mceusb-gen1-init-40141)|An attacker can cause a fatal error of the Linux kernel, via mceusb_gen1_init(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/OpenSAML-Java-multiple-vulnerabilities-40140" class="noirorange"><b>OpenSAML Java</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/OpenSAML-Java-multiple-vulnerabilities-40140)|An attacker can use several vulnerabilities of OpenSAML Java...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Zope-Cross-Site-Scripting-via-Content-Type-40138" class="noirorange"><b>Zope</b>: Cross Site Scripting via Content-Type</a>](https://vigilance.fr/vulnerability/Zope-Cross-Site-Scripting-via-Content-Type-40138)|An attacker can trigger a Cross Site Scripting of Zope, via Content-Type, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Samba-weak-encryption-via-AD-DC-Heimdal-RC4-HMAC-Tickets-Reissuing-40137" class="noirorange"><b>Samba</b>: weak encryption via AD DC Heimdal RC4-HMAC Tickets Reissuing</a>](https://vigilance.fr/vulnerability/Samba-weak-encryption-via-AD-DC-Heimdal-RC4-HMAC-Tickets-Reissuing-40137)|An attacker can access data on Samba, via AD DC Heimdal RC4-HMAC Tickets Reissuing, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Samba-Windows-weak-encryption-via-RC4-HMAC-MD5-NetLogon-Secure-Channel-40136" class="noirorange"><b>Samba  Windows</b>: weak encryption via RC4/HMAC-MD5 NetLogon Secure Channel</a>](https://vigilance.fr/vulnerability/Samba-Windows-weak-encryption-via-RC4-HMAC-MD5-NetLogon-Secure-Channel-40136)|An attacker can access data on Samba  Windows, via RC4/HMAC-MD5 NetLogon Secure Channel, in order to read sensitive information...|Visit link for details|
  
  ---
 
@@ -93,4 +93,14 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Mozilla Thunderbird memory corruption](https://vuldb.com/?id.216243)|Visit link for details|2022-12-19 at 09:40|
+ |[Mozilla Thunderbird WebGL use after free](https://vuldb.com/?id.216242)|Visit link for details|2022-12-19 at 09:40|
+ |[Mozilla Thunderbird Remote Code Execution](https://vuldb.com/?id.216241)|Visit link for details|2022-12-19 at 09:40|
+ |[Mozilla Thunderbird Remote Code Execution](https://vuldb.com/?id.216240)|Visit link for details|2022-12-19 at 09:39|
+ |[Mozilla Thunderbird WebGL memory corruption](https://vuldb.com/?id.216239)|Visit link for details|2022-12-19 at 09:39|
+ |[Mozilla Thunderbird access control](https://vuldb.com/?id.216238)|Visit link for details|2022-12-19 at 09:39|
+ |[Mozilla Thunderbird WebGL use after free](https://vuldb.com/?id.216237)|Visit link for details|2022-12-19 at 09:38|
+ |[Mozilla Firefox memory corruption](https://vuldb.com/?id.216236)|Visit link for details|2022-12-19 at 09:37|
+ |[Mozilla Firefox memory corruption](https://vuldb.com/?id.216235)|Visit link for details|2022-12-19 at 09:36|
+ |[Mozilla Firefox Remote Code Execution](https://vuldb.com/?id.216234)|Visit link for details|2022-12-19 at 09:36|
  
