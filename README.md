@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 19/12/2022 21:09:20 UTC
+ > Last Updated 20/12/2022 09:10:26 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -93,14 +93,14 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[SilverStripe subsites permission](https://vuldb.com/?id.216307)|Visit link for details|2022-12-19 at 20:35|
- |[Deark atari-img.c do_prism_read_palette stack-based overflow](https://vuldb.com/?id.216306)|Visit link for details|2022-12-19 at 20:34|
- |[Employee Performance Evaluation System Departments/Designations Module cross site scripting](https://vuldb.com/?id.216305)|Visit link for details|2022-12-19 at 20:33|
- |[Autodesk Maya X_B File buffer overflow](https://vuldb.com/?id.216304)|Visit link for details|2022-12-19 at 20:32|
- |[Autodesk DWG TrueViewTM uncontrolled search path](https://vuldb.com/?id.216303)|Visit link for details|2022-12-19 at 20:31|
- |[SolarWinds Platform cleartext storage](https://vuldb.com/?id.216302)|Visit link for details|2022-12-19 at 20:31|
- |[Hikvision Wwireless Bridge Web Server access control](https://vuldb.com/?id.216301)|Visit link for details|2022-12-19 at 20:30|
- |[libtar libtar.c tar_close use after free](https://vuldb.com/?id.216300)|Visit link for details|2022-12-19 at 20:29|
- |[Concourse authorization](https://vuldb.com/?id.216299)|Visit link for details|2022-12-19 at 20:28|
- |[Autodesk Maya X_B File buffer overflow](https://vuldb.com/?id.216298)|Visit link for details|2022-12-19 at 20:27|
+ |[bradleyfalzon ghinstallation JWT Error Response information exposure](https://vuldb.com/?id.216361)|Visit link for details|2022-12-20 at 09:22|
+ |[p4 run command injection](https://vuldb.com/?id.216360)|Visit link for details|2022-12-20 at 09:20|
+ |[Netatalk libatalk adouble.h ad_entry out-of-bounds](https://vuldb.com/?id.216359)|Visit link for details|2022-12-20 at 09:19|
+ |[Netatalk appl.c copyapplfile stack-based overflow](https://vuldb.com/?id.216358)|Visit link for details|2022-12-20 at 09:18|
+ |[Microchip RN4870 Message Reject Privilege Escalation](https://vuldb.com/?id.216357)|Visit link for details|2022-12-20 at 09:17|
+ |[Microchip RN4870 PairCon_rmSend Privilege Escalation](https://vuldb.com/?id.216356)|Visit link for details|2022-12-20 at 09:16|
+ |[Microchip RN4870 missing encryption](https://vuldb.com/?id.216355)|Visit link for details|2022-12-20 at 09:14|
+ |[Microchip RN4870 Legacy Pairing improper authentication](https://vuldb.com/?id.216354)|Visit link for details|2022-12-20 at 09:14|
+ |[Microchip RN4870 ConReqTimeoutZero denial of service](https://vuldb.com/?id.216353)|Visit link for details|2022-12-20 at 09:13|
+ |[Rainrocka Xinhu sql injection](https://vuldb.com/?id.216352)|Visit link for details|2022-12-20 at 09:13|
  
