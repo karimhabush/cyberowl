@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 20/12/2022 21:09:43 UTC
+ > Last Updated 21/12/2022 09:10:09 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,6 +57,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/cURL-reuse-after-free-via-HTTP-Proxy-Deny-40162" class="noirorange"><b>cURL</b>: reuse after free via HTTP Proxy Deny</a>](https://vigilance.fr/vulnerability/cURL-reuse-after-free-via-HTTP-Proxy-Deny-40162)|An attacker can force the reuse of a freed memory area of cURL, via HTTP Proxy Deny, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/cURL-weak-encryption-via-IDN-HSTS-Bypass-40161" class="noirorange"><b>cURL</b>: weak encryption via IDN HSTS Bypass</a>](https://vigilance.fr/vulnerability/cURL-weak-encryption-via-IDN-HSTS-Bypass-40161)|An attacker can access data on cURL, via IDN HSTS Bypass, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/LibKSBA-integer-overflow-via-ASN-1-Structures-40160" class="noirorange"><b>LibKSBA</b>: integer overflow via ASN.1 Structures</a>](https://vigilance.fr/vulnerability/LibKSBA-integer-overflow-via-ASN-1-Structures-40160)|An attacker can trigger an integer overflow of LibKSBA, via ASN.1 Structures, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Dell-OpenManage-Server-Administrator-executing-DLL-code-40159" class="noirorange"><b>Dell OpenManage Server Administrator</b>: executing DLL code</a>](https://vigilance.fr/vulnerability/Dell-OpenManage-Server-Administrator-executing-DLL-code-40159)|An attacker can create a malicious DLL for Dell OpenManage Server Administrator, and then put it in the current directory, in order to execute code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-SQL-injection-via-Search-API-40158" class="noirorange"><b>OTRS Help Desk</b>: SQL injection via Search API</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-SQL-injection-via-Search-API-40158)|An attacker can use a SQL injection of OTRS Help Desk, via Search API, in order to read or alter data...|Visit link for details|
@@ -66,25 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-IEEE80211-P2P-ATTR-OPER-CHANNEL-40154" class="noirorange"><b>Linux kernel</b>: buffer overflow via <wbr>IEEE80211_P2P_ATTR_O<wbr>PER_CHANNEL</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-IEEE80211-P2P-ATTR-OPER-CHANNEL-40154)|An attacker can trigger a buffer overflow of the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-wilc-wfi-cfg-parse-ch-attr-40153" class="noirorange"><b>Linux kernel</b>: buffer overflow via <wbr>wilc_wfi_cfg_parse_c<wbr>h_attr()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-wilc-wfi-cfg-parse-ch-attr-40153)|An attacker can trigger a buffer overflow of the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Domino-multiple-vulnerabilities-via-Micro-Focus-KeyView-40152" class="noirorange"><b>IBM Domino</b>: multiple vulnerabilities via Micro Focus KeyView</a>](https://vigilance.fr/vulnerability/IBM-Domino-multiple-vulnerabilities-via-Micro-Focus-KeyView-40152)|An attacker can use several vulnerabilities of IBM Domino, via Micro Focus KeyView...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Notes-multiple-vulnerabilities-via-Micro-Focus-KeyView-40151" class="noirorange"><b>IBM Notes</b>: multiple vulnerabilities via Micro Focus KeyView</a>](https://vigilance.fr/vulnerability/IBM-Notes-multiple-vulnerabilities-via-Micro-Focus-KeyView-40151)|An attacker can use several vulnerabilities of IBM Notes, via Micro Focus KeyView...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-KASLR-KPTI-Prefetch-Side-Channel-40150" class="noirorange"><b>Linux kernel</b>: memory reading via KASLR KPTI Prefetch Side-Channel</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-KASLR-KPTI-Prefetch-Side-Channel-40150)|An attacker can read a memory fragment of the Linux kernel, via KASLR KPTI Prefetch Side-Channel, in order to obtain sensitive information...|Visit link for details|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Baijiacms common.inc.php Privilege Escalation](https://vuldb.com/?id.216363)|Visit link for details|2022-12-20 at 16:23|
- |[Apache Airflow Hive Provider. command injection](https://vuldb.com/?id.216362)|Visit link for details|2022-12-20 at 16:00|
- |[bradleyfalzon ghinstallation JWT Error Response information exposure](https://vuldb.com/?id.216361)|Visit link for details|2022-12-20 at 09:22|
- |[p4 run command injection](https://vuldb.com/?id.216360)|Visit link for details|2022-12-20 at 09:20|
- |[Netatalk libatalk adouble.h ad_entry out-of-bounds](https://vuldb.com/?id.216359)|Visit link for details|2022-12-20 at 09:19|
- |[Netatalk appl.c copyapplfile stack-based overflow](https://vuldb.com/?id.216358)|Visit link for details|2022-12-20 at 09:18|
- |[Microchip RN4870 Message Reject Privilege Escalation](https://vuldb.com/?id.216357)|Visit link for details|2022-12-20 at 09:17|
- |[Microchip RN4870 PairCon_rmSend Privilege Escalation](https://vuldb.com/?id.216356)|Visit link for details|2022-12-20 at 09:16|
- |[Microchip RN4870 missing encryption](https://vuldb.com/?id.216355)|Visit link for details|2022-12-20 at 09:14|
- |[Microchip RN4870 Legacy Pairing improper authentication](https://vuldb.com/?id.216354)|Visit link for details|2022-12-20 at 09:14|
  
  ---
 
@@ -103,4 +86,21 @@
  |[39511512/22 - Vulnérabilités affectant plusieurs produits VMware ](https://www.dgssi.gov.ma//fr/content/3951151222-vulnerabilites-affectant-plusieurs-produits-vmware.html)|VMware annonce la correction de cinq vulnérabilités affectant ses produits susmentionnés.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’exécuter du code arbitraire ou d’accéder à des données...|15 décembre 2022|
  |[39501412/22 - Vulnérabilités affectant plusieurs produits d’Adobe](https://www.dgssi.gov.ma//fr/content/3950141222-vulnerabilites-affectant-plusieurs-produits-d-adobe.html)|Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuterdu code arbitraire, d’...|14 décembre 2022|
  |[39491412/22 - « Zero-Day » affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma//fr/content/3949141222-zero-day-affectant-plusieurs-produits-d-apple.html)|Apple annonce la correction de plusieurs vulnérabilitésaffectant les versions susmentionnées de certains de ses produits. Selon Apple une de ces vulnérabilités identifiée par « CVE-2022-42856 » est un « zero-day » activement exploité et...|14 décembre 2022|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Fuji Electric Tellus Lite V-Simulator stack-based overflow](https://vuldb.com/?id.216448)|Visit link for details|2022-12-21 at 09:45|
+ |[Fuji Electric Tellus Lite V-Simulator out-of-bounds write](https://vuldb.com/?id.216447)|Visit link for details|2022-12-21 at 09:44|
+ |[smoothie cross site scripting](https://vuldb.com/?id.216446)|Visit link for details|2022-12-21 at 09:43|
+ |[abacus-ext-cmdline execute command injection](https://vuldb.com/?id.216445)|Visit link for details|2022-12-21 at 09:42|
+ |[Libksba CRL Signature Parser integer overflow](https://vuldb.com/?id.216444)|Visit link for details|2022-12-21 at 09:36|
+ |[Wp Social Plugin information disclosure](https://vuldb.com/?id.216443)|Visit link for details|2022-12-21 at 09:35|
+ |[ActiveCampaign for WooCommerce Plugin Error Log authorization](https://vuldb.com/?id.216442)|Visit link for details|2022-12-21 at 09:35|
+ |[Huawei HarmonyOS information disclosure](https://vuldb.com/?id.216441)|Visit link for details|2022-12-21 at 09:34|
+ |[Huawei HarmonyOS Configuration Privilege Escalation](https://vuldb.com/?id.216440)|Visit link for details|2022-12-21 at 09:33|
+ |[Huawei HarmonyOS out-of-bounds write](https://vuldb.com/?id.216439)|Visit link for details|2022-12-21 at 09:31|
  
