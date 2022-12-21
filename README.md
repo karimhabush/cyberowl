@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 21/12/2022 09:10:09 UTC
+ > Last Updated 21/12/2022 21:11:07 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -40,6 +40,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1122/)|De multiples vulnérabilités ont été corrigées dans |Publié le 21 décembre 2022|
+ |[Vulnérabilité dans Elastic Kibana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1121/)|Une vulnérabilité a été découvertes dans Elastic Kibana. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 21 décembre 2022|
+ |[Vulnérabilité dans NetApp OnCommand Insight](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1120/)|Une vulnérabilité a été découverte dans NetApp OnCommand Insight. Elle permet à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 21 décembre 2022|
  |[Multiples vulnérabilités dans Tenable Nessus Network Monitor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1119/)|De multiples vulnérabilités ont été découvertes dans Tenable Nessus Network Monitor. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 20 décembre 2022|
  |[Multiples vulnérabilités dans Citrix Hypervisor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1118/)|De multiples vulnérabilités ont été découvertes dans Citrix Hypervisor. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 20 décembre 2022|
  |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1117/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 19 décembre 2022|
@@ -47,9 +50,6 @@
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1115/)|De multiples vulnérabilités ont été corrigées dans |Publié le 19 décembre 2022|
  |[Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1114/)|De multiples vulnérabilités ont été corrigées dans |Publié le 16 décembre 2022|
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1113/)|De multiples vulnérabilités ont été corrigées dans |Publié le 16 décembre 2022|
- |[Multiples vulnérabilités dans Samba](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1112/)|De multiples vulnérabilités ont été découvertes dans Samba. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une élévation de privilèges.|Publié le 16 décembre 2022|
- |[Vulnérabilité dans Tenable.ad](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1111/)|Une vulnérabilité a été découverte dans Tenable.ad. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 16 décembre 2022|
- |[Multiples vulnérabilités dans VMware vRealize Operations](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1110/)|De multiples vulnérabilités ont été découvertes dans VMware vRealize Operations. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 16 décembre 2022|
  
  ---
 
@@ -57,6 +57,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-i-four-vulnerabilities-via-IBM-Navigator-40164" class="noirorange"><b>IBM i</b>: four vulnerabilities via IBM Navigator</a>](https://vigilance.fr/vulnerability/IBM-i-four-vulnerabilities-via-IBM-Navigator-40164)|An attacker can use several vulnerabilities of IBM i, via IBM Navigator...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/xrdp-multiple-vulnerabilities-40163" class="noirorange"><b>xrdp</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/xrdp-multiple-vulnerabilities-40163)|An attacker can use several vulnerabilities of xrdp...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/cURL-reuse-after-free-via-HTTP-Proxy-Deny-40162" class="noirorange"><b>cURL</b>: reuse after free via HTTP Proxy Deny</a>](https://vigilance.fr/vulnerability/cURL-reuse-after-free-via-HTTP-Proxy-Deny-40162)|An attacker can force the reuse of a freed memory area of cURL, via HTTP Proxy Deny, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/cURL-weak-encryption-via-IDN-HSTS-Bypass-40161" class="noirorange"><b>cURL</b>: weak encryption via IDN HSTS Bypass</a>](https://vigilance.fr/vulnerability/cURL-weak-encryption-via-IDN-HSTS-Bypass-40161)|An attacker can access data on cURL, via IDN HSTS Bypass, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/LibKSBA-integer-overflow-via-ASN-1-Structures-40160" class="noirorange"><b>LibKSBA</b>: integer overflow via ASN.1 Structures</a>](https://vigilance.fr/vulnerability/LibKSBA-integer-overflow-via-ASN-1-Structures-40160)|An attacker can trigger an integer overflow of LibKSBA, via ASN.1 Structures, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
@@ -66,8 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-IEEE80211-P2P-ATTR-CHANNEL-LIST-40156" class="noirorange"><b>Linux kernel</b>: buffer overflow via <wbr>IEEE80211_P2P_ATTR_C<wbr>HANNEL_LIST</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-IEEE80211-P2P-ATTR-CHANNEL-LIST-40156)|An attacker can trigger a buffer overflow of the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-wilc-parse-join-bss-param-40155" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via <wbr>wilc_parse_join_bss_<wbr>param()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-wilc-parse-join-bss-param-40155)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-IEEE80211-P2P-ATTR-OPER-CHANNEL-40154" class="noirorange"><b>Linux kernel</b>: buffer overflow via <wbr>IEEE80211_P2P_ATTR_O<wbr>PER_CHANNEL</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-IEEE80211-P2P-ATTR-OPER-CHANNEL-40154)|An attacker can trigger a buffer overflow of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-wilc-wfi-cfg-parse-ch-attr-40153" class="noirorange"><b>Linux kernel</b>: buffer overflow via <wbr>wilc_wfi_cfg_parse_c<wbr>h_attr()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-wilc-wfi-cfg-parse-ch-attr-40153)|An attacker can trigger a buffer overflow of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Domino-multiple-vulnerabilities-via-Micro-Focus-KeyView-40152" class="noirorange"><b>IBM Domino</b>: multiple vulnerabilities via Micro Focus KeyView</a>](https://vigilance.fr/vulnerability/IBM-Domino-multiple-vulnerabilities-via-Micro-Focus-KeyView-40152)|An attacker can use several vulnerabilities of IBM Domino, via Micro Focus KeyView...|Visit link for details|
  
  ---
 
@@ -75,6 +75,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[39602112/22 - Anciennes vulnérabilités des produits Cisco activement exploitées](https://www.dgssi.gov.ma//fr/content/3960211222-anciennes-vulnerabilites-des-produits-cisco-activement-exploitees.html)|Cisco a mis à jour plusieurs avis de sécurité pour signaler l'exploitation active de plusieurs anciennes vulnérabilités affectant ses produits. Les failles, dont certaines sont classées comme critiques, ont un impact sur les systèmes...|21 décembre 2022|
  |[39592012/22 - Vulnérabilités dans Microsoft Edge](https://www.dgssi.gov.ma//fr/content/3959201222-vulnerabilites-dans-microsoft-edge.html)|Microsoft annonce la correction de plusieurs vulnérabilités dans Microsoft Edge. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la confidentialité des données.|20 décembre 2022|
  |[39582012/22 - Vulnérabilités dans Foxit Reader et Foxit PDF Editor](https://www.dgssi.gov.ma//fr/content/3958201222-vulnerabilites-dans-foxit-reader-et-foxit-pdf-editor.html)|Foxit annonce la correction de plusieurs vulnérabilités affectant Foxit Reader et Foxit PDF Editor. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance ou de porter atteinte à la...|20 décembre 2022|
  |[39572012/22 - Vulnérabilités dans Citrix Hypervisor](https://www.dgssi.gov.ma//fr/content/3957201222-vulnerabilites-dans-citrix-hypervisor.html)|Citrixannonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités affectant les versions de Citrix Hypervisor susmentionnées. L’exploitation de ces failles peut permettre à un attaquant de...|20 décembre 2022|
@@ -85,7 +86,6 @@
  |[39521512/22 - Vulnérabilités affectantdes produits Mozilla ](https://www.dgssi.gov.ma//fr/content/3952151222-vulnerabilites-affectant-des-produits-mozilla.html)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités au niveau de trois produits de Mozilla. L’exploitation de cesvulnérabilités peut permettre à un...|15 décembre 2022|
  |[39511512/22 - Vulnérabilités affectant plusieurs produits VMware ](https://www.dgssi.gov.ma//fr/content/3951151222-vulnerabilites-affectant-plusieurs-produits-vmware.html)|VMware annonce la correction de cinq vulnérabilités affectant ses produits susmentionnés.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’exécuter du code arbitraire ou d’accéder à des données...|15 décembre 2022|
  |[39501412/22 - Vulnérabilités affectant plusieurs produits d’Adobe](https://www.dgssi.gov.ma//fr/content/3950141222-vulnerabilites-affectant-plusieurs-produits-d-adobe.html)|Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuterdu code arbitraire, d’...|14 décembre 2022|
- |[39491412/22 - « Zero-Day » affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma//fr/content/3949141222-zero-day-affectant-plusieurs-produits-d-apple.html)|Apple annonce la correction de plusieurs vulnérabilitésaffectant les versions susmentionnées de certains de ses produits. Selon Apple une de ces vulnérabilités identifiée par « CVE-2022-42856 » est un « zero-day » activement exploité et...|14 décembre 2022|
  
  ---
 
@@ -93,14 +93,14 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Fuji Electric Tellus Lite V-Simulator stack-based overflow](https://vuldb.com/?id.216448)|Visit link for details|2022-12-21 at 09:45|
- |[Fuji Electric Tellus Lite V-Simulator out-of-bounds write](https://vuldb.com/?id.216447)|Visit link for details|2022-12-21 at 09:44|
- |[smoothie cross site scripting](https://vuldb.com/?id.216446)|Visit link for details|2022-12-21 at 09:43|
- |[abacus-ext-cmdline execute command injection](https://vuldb.com/?id.216445)|Visit link for details|2022-12-21 at 09:42|
- |[Libksba CRL Signature Parser integer overflow](https://vuldb.com/?id.216444)|Visit link for details|2022-12-21 at 09:36|
- |[Wp Social Plugin information disclosure](https://vuldb.com/?id.216443)|Visit link for details|2022-12-21 at 09:35|
- |[ActiveCampaign for WooCommerce Plugin Error Log authorization](https://vuldb.com/?id.216442)|Visit link for details|2022-12-21 at 09:35|
- |[Huawei HarmonyOS information disclosure](https://vuldb.com/?id.216441)|Visit link for details|2022-12-21 at 09:34|
- |[Huawei HarmonyOS Configuration Privilege Escalation](https://vuldb.com/?id.216440)|Visit link for details|2022-12-21 at 09:33|
- |[Huawei HarmonyOS out-of-bounds write](https://vuldb.com/?id.216439)|Visit link for details|2022-12-21 at 09:31|
+ |[Auto Upload Images Settings setting-page.php cross-site request forgery](https://vuldb.com/?id.216482)|Visit link for details|2022-12-21 at 20:06|
+ |[Auto Upload Images cross site scripting](https://vuldb.com/?id.216481)|Visit link for details|2022-12-21 at 20:04|
+ |[WP-Ban ban-options.php cross site scripting](https://vuldb.com/?id.216480)|Visit link for details|2022-12-21 at 20:00|
+ |[sileht bird-lg layout.html cross site scripting](https://vuldb.com/?id.216479)|Visit link for details|2022-12-21 at 19:55|
+ |[studygolang search.go Search cross site scripting](https://vuldb.com/?id.216478)|Visit link for details|2022-12-21 at 19:51|
+ |[studygolang topics.js cross site scripting](https://vuldb.com/?id.216477)|Visit link for details|2022-12-21 at 19:49|
+ |[panicsteve w2wiki Markdown index.php toHTML cross site scripting](https://vuldb.com/?id.216476)|Visit link for details|2022-12-21 at 19:47|
+ |[Pengu index.js runApp cross-site request forgery](https://vuldb.com/?id.216475)|Visit link for details|2022-12-21 at 19:44|
+ |[Imprint CMS ViewHelpers.cs SearchForm cross site scripting](https://vuldb.com/?id.216474)|Visit link for details|2022-12-21 at 19:41|
+ |[sah-comp bienlein cross-site request forgery](https://vuldb.com/?id.216473)|Visit link for details|2022-12-21 at 19:38|
  
