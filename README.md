@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 21/12/2022 21:11:07 UTC
+ > Last Updated 22/12/2022 09:09:07 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -93,14 +93,14 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Auto Upload Images Settings setting-page.php cross-site request forgery](https://vuldb.com/?id.216482)|Visit link for details|2022-12-21 at 20:06|
- |[Auto Upload Images cross site scripting](https://vuldb.com/?id.216481)|Visit link for details|2022-12-21 at 20:04|
- |[WP-Ban ban-options.php cross site scripting](https://vuldb.com/?id.216480)|Visit link for details|2022-12-21 at 20:00|
- |[sileht bird-lg layout.html cross site scripting](https://vuldb.com/?id.216479)|Visit link for details|2022-12-21 at 19:55|
- |[studygolang search.go Search cross site scripting](https://vuldb.com/?id.216478)|Visit link for details|2022-12-21 at 19:51|
- |[studygolang topics.js cross site scripting](https://vuldb.com/?id.216477)|Visit link for details|2022-12-21 at 19:49|
- |[panicsteve w2wiki Markdown index.php toHTML cross site scripting](https://vuldb.com/?id.216476)|Visit link for details|2022-12-21 at 19:47|
- |[Pengu index.js runApp cross-site request forgery](https://vuldb.com/?id.216475)|Visit link for details|2022-12-21 at 19:44|
- |[Imprint CMS ViewHelpers.cs SearchForm cross site scripting](https://vuldb.com/?id.216474)|Visit link for details|2022-12-21 at 19:41|
- |[sah-comp bienlein cross-site request forgery](https://vuldb.com/?id.216473)|Visit link for details|2022-12-21 at 19:38|
+ |[destiny.gg chat main.go websocket.Upgrader cross-site request forgery](https://vuldb.com/?id.216521)|Visit link for details|2022-12-22 at 09:26|
+ |[ahorner text-helpers translation.rb reverse tabnabbing](https://vuldb.com/?id.216520)|Visit link for details|2022-12-22 at 09:19|
+ |[ikus060 rdiffweb redirect](https://vuldb.com/?id.216519)|Visit link for details|2022-12-22 at 09:11|
+ |[Baidunetdisk untrusted search path](https://vuldb.com/?id.216518)|Visit link for details|2022-12-22 at 09:10|
+ |[jsonwebtoken risky encryption](https://vuldb.com/?id.216517)|Visit link for details|2022-12-22 at 09:08|
+ |[jsonwebtoken jwt.verify improper authentication](https://vuldb.com/?id.216516)|Visit link for details|2022-12-22 at 09:07|
+ |[jsonwebtoken Private improper authentication](https://vuldb.com/?id.216515)|Visit link for details|2022-12-22 at 09:07|
+ |[Dataprobe iBoot-PDU information disclosure](https://vuldb.com/?id.216514)|Visit link for details|2022-12-22 at 09:06|
+ |[liquidjs information disclosure](https://vuldb.com/?id.216513)|Visit link for details|2022-12-22 at 09:02|
+ |[Dataprobe iBoot-PDU os command injection](https://vuldb.com/?id.216512)|Visit link for details|2022-12-22 at 09:02|
  
