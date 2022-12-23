@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 22/12/2022 21:08:22 UTC
+ > Last Updated 23/12/2022 09:10:06 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -53,24 +53,6 @@
  
  ---
 
-## MA-CERT [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[39592012/22 - Vulnérabilité dans Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/3959201222-vulnerabilite-dans-mozilla-thunderbird.html)|Mozilla a publié une mise à jour de sécurité pour corriger une vulnérabilité affectant Mozilla Thunderbird. Un attaquant pourrait exploiter cette faille afin d’exécuter du code arbitraire à distance.|22 décembre 2022|
- |[39602112/22 - Anciennes vulnérabilités des produits Cisco activement exploitées](https://www.dgssi.gov.ma//fr/content/3960211222-anciennes-vulnerabilites-des-produits-cisco-activement-exploitees.html)|Cisco a mis à jour plusieurs avis de sécurité pour signaler l'exploitation active de plusieurs anciennes vulnérabilités affectant ses produits. Les failles, dont certaines sont classées comme critiques, ont un impact sur les systèmes...|21 décembre 2022|
- |[39592012/22 - Vulnérabilités dans Microsoft Edge](https://www.dgssi.gov.ma//fr/content/3959201222-vulnerabilites-dans-microsoft-edge.html)|Microsoft annonce la correction de plusieurs vulnérabilités dans Microsoft Edge. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la confidentialité des données.|20 décembre 2022|
- |[39582012/22 - Vulnérabilités dans Foxit Reader et Foxit PDF Editor](https://www.dgssi.gov.ma//fr/content/3958201222-vulnerabilites-dans-foxit-reader-et-foxit-pdf-editor.html)|Foxit annonce la correction de plusieurs vulnérabilités affectant Foxit Reader et Foxit PDF Editor. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance ou de porter atteinte à la...|20 décembre 2022|
- |[39572012/22 - Vulnérabilités dans Citrix Hypervisor](https://www.dgssi.gov.ma//fr/content/3957201222-vulnerabilites-dans-citrix-hypervisor.html)|Citrixannonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités affectant les versions de Citrix Hypervisor susmentionnées. L’exploitation de ces failles peut permettre à un attaquant de...|20 décembre 2022|
- |[39561912/22 - Vulnérabilités corrigées dans SAMBA](https://www.dgssi.gov.ma//fr/content/3956191222-vulnerabilites-corrigees-dans-samba.html)|Plusieurs vulnérabilités affectant Samba ontété corrigées. L'exploitation de ces vulnérabilités peut permettre à un attaquantdistant de contourner la politique de sécurité ou d’élever ses privilèges.|19 décembre 2022|
- |[39551612/22 - Vulnérabilités affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/3955161222-vulnerabilites-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger cinqvulnérabilitésaffectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre àun attaquant d’exécuter du code arbitraire.|16 décembre 2022|
- |[39541612/22 - Vulnérabilités affectant le CMS Drupal](https://www.dgssi.gov.ma//fr/content/3954161222-vulnerabilites-affectant-le-cms-drupal.html)|Drupal annonce la disponibilité de mises à jour de sécurité qui corrigent deux vulnérabilités auniveaudes deux modules susmentionnées de son CMS. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’accéder à des...|16 décembre 2022|
- |[39531512/22 - Vulnérabilités affectant plusieursproduits SAP](https://www.dgssi.gov.ma//fr/content/3953151222-vulnerabilites-affectant-plusieurs-produits-sap.html)|SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuterdu code arbitraire ou...|15 décembre 2022|
- |[39521512/22 - Vulnérabilités affectantdes produits Mozilla ](https://www.dgssi.gov.ma//fr/content/3952151222-vulnerabilites-affectant-des-produits-mozilla.html)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités au niveau de trois produits de Mozilla. L’exploitation de cesvulnérabilités peut permettre à un...|15 décembre 2022|
- |[39511512/22 - Vulnérabilités affectant plusieurs produits VMware ](https://www.dgssi.gov.ma//fr/content/3951151222-vulnerabilites-affectant-plusieurs-produits-vmware.html)|VMware annonce la correction de cinq vulnérabilités affectant ses produits susmentionnés.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’exécuter du code arbitraire ou d’accéder à des données...|15 décembre 2022|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -89,18 +71,26 @@
  
  ---
 
+## MA-CERT [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[39592012/22 - Vulnérabilité dans Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/3959201222-vulnerabilite-dans-mozilla-thunderbird.html)|Mozilla a publié une mise à jour de sécurité pour corriger une vulnérabilité affectant Mozilla Thunderbird. Un attaquant pourrait exploiter cette faille afin d’exécuter du code arbitraire à distance.|22 décembre 2022|
+ |[39602112/22 - Anciennes vulnérabilités des produits Cisco activement exploitées](https://www.dgssi.gov.ma//fr/content/3960211222-anciennes-vulnerabilites-des-produits-cisco-activement-exploitees.html)|Cisco a mis à jour plusieurs avis de sécurité pour signaler l'exploitation active de plusieurs anciennes vulnérabilités affectant ses produits. Les failles, dont certaines sont classées comme critiques, ont un impact sur les systèmes...|21 décembre 2022|
+ |[39592012/22 - Vulnérabilités dans Microsoft Edge](https://www.dgssi.gov.ma//fr/content/3959201222-vulnerabilites-dans-microsoft-edge.html)|Microsoft annonce la correction de plusieurs vulnérabilités dans Microsoft Edge. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la confidentialité des données.|20 décembre 2022|
+ |[39582012/22 - Vulnérabilités dans Foxit Reader et Foxit PDF Editor](https://www.dgssi.gov.ma//fr/content/3958201222-vulnerabilites-dans-foxit-reader-et-foxit-pdf-editor.html)|Foxit annonce la correction de plusieurs vulnérabilités affectant Foxit Reader et Foxit PDF Editor. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance ou de porter atteinte à la...|20 décembre 2022|
+ |[39572012/22 - Vulnérabilités dans Citrix Hypervisor](https://www.dgssi.gov.ma//fr/content/3957201222-vulnerabilites-dans-citrix-hypervisor.html)|Citrixannonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités affectant les versions de Citrix Hypervisor susmentionnées. L’exploitation de ces failles peut permettre à un attaquant de...|20 décembre 2022|
+ |[39561912/22 - Vulnérabilités corrigées dans SAMBA](https://www.dgssi.gov.ma//fr/content/3956191222-vulnerabilites-corrigees-dans-samba.html)|Plusieurs vulnérabilités affectant Samba ontété corrigées. L'exploitation de ces vulnérabilités peut permettre à un attaquantdistant de contourner la politique de sécurité ou d’élever ses privilèges.|19 décembre 2022|
+ |[39551612/22 - Vulnérabilités affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/3955161222-vulnerabilites-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger cinqvulnérabilitésaffectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre àun attaquant d’exécuter du code arbitraire.|16 décembre 2022|
+ |[39541612/22 - Vulnérabilités affectant le CMS Drupal](https://www.dgssi.gov.ma//fr/content/3954161222-vulnerabilites-affectant-le-cms-drupal.html)|Drupal annonce la disponibilité de mises à jour de sécurité qui corrigent deux vulnérabilités auniveaudes deux modules susmentionnées de son CMS. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’accéder à des...|16 décembre 2022|
+ |[39531512/22 - Vulnérabilités affectant plusieursproduits SAP](https://www.dgssi.gov.ma//fr/content/3953151222-vulnerabilites-affectant-plusieurs-produits-sap.html)|SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuterdu code arbitraire ou...|15 décembre 2022|
+ |[39521512/22 - Vulnérabilités affectantdes produits Mozilla ](https://www.dgssi.gov.ma//fr/content/3952151222-vulnerabilites-affectant-des-produits-mozilla.html)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités au niveau de trois produits de Mozilla. L’exploitation de cesvulnérabilités peut permettre à un...|15 décembre 2022|
+ |[39511512/22 - Vulnérabilités affectant plusieurs produits VMware ](https://www.dgssi.gov.ma//fr/content/3951151222-vulnerabilites-affectant-plusieurs-produits-vmware.html)|VMware annonce la correction de cinq vulnérabilités affectant ses produits susmentionnés.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’exécuter du code arbitraire ou d’accéder à des données...|15 décembre 2022|
+ 
+ ---
+
 ## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[cURL HSTS cleartext transmission](https://vuldb.com/?id.216535)|Visit link for details|2022-12-22 at 21:16|
- |[cURL Proxy Error use after free](https://vuldb.com/?id.216534)|Visit link for details|2022-12-22 at 21:15|
- |[kyverno verifyImages Rule Privilege Escalation](https://vuldb.com/?id.216533)|Visit link for details|2022-12-22 at 21:12|
- |[Adobe Experience Manager URL cross site scripting](https://vuldb.com/?id.216532)|Visit link for details|2022-12-22 at 21:11|
- |[AyaCMS fst_del.inc.php denial of service](https://vuldb.com/?id.216531)|Visit link for details|2022-12-22 at 21:11|
- |[AyaCMS fst_down.inc.php unrestricted upload](https://vuldb.com/?id.216530)|Visit link for details|2022-12-22 at 21:09|
- |[AyaCMS ust_sql.inc.php Privilege Escalation](https://vuldb.com/?id.216529)|Visit link for details|2022-12-22 at 21:08|
- |[JetBrains IntelliJ IDEA special elements used in a template engine](https://vuldb.com/?id.216528)|Visit link for details|2022-12-22 at 16:08|
- |[JetBrains IntelliJ IDEA Validate JSP File cleartext transmission](https://vuldb.com/?id.216527)|Visit link for details|2022-12-22 at 16:08|
- |[Apache ShardingSphere-Proxy Client Authentication cleanup](https://vuldb.com/?id.216526)|Visit link for details|2022-12-22 at 16:07|
  
