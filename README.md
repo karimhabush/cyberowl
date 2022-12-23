@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 23/12/2022 09:10:06 UTC
+ > Last Updated 23/12/2022 21:08:26 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -93,4 +93,14 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[F-Secure SAFE Browser IDN Homograph unknown vulnerability](https://vuldb.com/?id.216689)|Visit link for details|2022-12-23 at 21:03|
+ |[D-Link DIR-846 SetAutoUpgradeInfo command injection](https://vuldb.com/?id.216688)|Visit link for details|2022-12-23 at 20:59|
+ |[Rocket.Chat-Desktop URL internalVideoChatWindow.ts shell.openExternal os command injection](https://vuldb.com/?id.216687)|Visit link for details|2022-12-23 at 20:58|
+ |[ProfilePress Plugin cross site scripting](https://vuldb.com/?id.216686)|Visit link for details|2022-12-23 at 20:56|
+ |[ProfilePress Plugin cross site scripting](https://vuldb.com/?id.216685)|Visit link for details|2022-12-23 at 20:55|
+ |[Ubiquiti airMAX AC access control](https://vuldb.com/?id.216684)|Visit link for details|2022-12-23 at 20:54|
+ |[Micro Focus ZENworks Managed Device privileges management](https://vuldb.com/?id.216683)|Visit link for details|2022-12-23 at 20:53|
+ |[D-Link DIR-846 SetIpMacBindSettings command injection](https://vuldb.com/?id.216682)|Visit link for details|2022-12-23 at 20:51|
+ |[PJSIP STUN Message Parser heap-based overflow](https://vuldb.com/?id.216681)|Visit link for details|2022-12-23 at 20:49|
+ |[Linux Kernel ksmbd smb2misc.c smb2_get_data_area_len out-of-bounds](https://vuldb.com/?id.216680)|Visit link for details|2022-12-23 at 20:48|
  
