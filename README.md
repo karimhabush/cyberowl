@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 23/12/2022 21:08:26 UTC
+ > Last Updated 24/12/2022 09:07:54 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -93,14 +93,14 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[F-Secure SAFE Browser IDN Homograph unknown vulnerability](https://vuldb.com/?id.216689)|Visit link for details|2022-12-23 at 21:03|
- |[D-Link DIR-846 SetAutoUpgradeInfo command injection](https://vuldb.com/?id.216688)|Visit link for details|2022-12-23 at 20:59|
- |[Rocket.Chat-Desktop URL internalVideoChatWindow.ts shell.openExternal os command injection](https://vuldb.com/?id.216687)|Visit link for details|2022-12-23 at 20:58|
- |[ProfilePress Plugin cross site scripting](https://vuldb.com/?id.216686)|Visit link for details|2022-12-23 at 20:56|
- |[ProfilePress Plugin cross site scripting](https://vuldb.com/?id.216685)|Visit link for details|2022-12-23 at 20:55|
- |[Ubiquiti airMAX AC access control](https://vuldb.com/?id.216684)|Visit link for details|2022-12-23 at 20:54|
- |[Micro Focus ZENworks Managed Device privileges management](https://vuldb.com/?id.216683)|Visit link for details|2022-12-23 at 20:53|
- |[D-Link DIR-846 SetIpMacBindSettings command injection](https://vuldb.com/?id.216682)|Visit link for details|2022-12-23 at 20:51|
- |[PJSIP STUN Message Parser heap-based overflow](https://vuldb.com/?id.216681)|Visit link for details|2022-12-23 at 20:49|
- |[Linux Kernel ksmbd smb2misc.c smb2_get_data_area_len out-of-bounds](https://vuldb.com/?id.216680)|Visit link for details|2022-12-23 at 20:48|
+ |[Graphite Web Absolute Time Range cross site scripting](https://vuldb.com/?id.216744)|Visit link for details|2022-12-24 at 09:01|
+ |[Graphite Web Template Name cross site scripting](https://vuldb.com/?id.216743)|Visit link for details|2022-12-24 at 09:00|
+ |[Graphite Web Cookie cross site scripting](https://vuldb.com/?id.216742)|Visit link for details|2022-12-24 at 08:58|
+ |[OpenMRS Appointment Scheduling Module Notes AppointmentRequest.java getNotes cross site scripting](https://vuldb.com/?id.216741)|Visit link for details|2022-12-24 at 08:51|
+ |[typora Export from Editor cross site scripting](https://vuldb.com/?id.216740)|Visit link for details|2022-12-24 at 08:47|
+ |[SourceCodester Sanitization Management System Admin Login sql injection](https://vuldb.com/?id.216739)|Visit link for details|2022-12-24 at 08:46|
+ |[Modern Tribe Panel Builder Plugin SearchFilter.php add_post_content_filtered_to_search_sql sql injection](https://vuldb.com/?id.216738)|Visit link for details|2022-12-24 at 08:42|
+ |[AWS SDK XML Parser XpathUtils.java XpathUtils server-side request forgery](https://vuldb.com/?id.216737)|Visit link for details|2022-12-24 at 08:35|
+ |[userver HTTP Request denial of service](https://vuldb.com/?id.216736)|Visit link for details|2022-12-24 at 08:24|
+ |[YDB Server Insert Statement out-of-bounds](https://vuldb.com/?id.216735)|Visit link for details|2022-12-24 at 08:23|
  
