@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 24/12/2022 21:08:07 UTC
+ > Last Updated 25/12/2022 09:09:11 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -93,14 +93,14 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[myapnea Title cross site scripting](https://vuldb.com/?id.216750)|Visit link for details|2022-12-24 at 14:46|
- |[fredsmith utils Filename screenshot_sync predictable state](https://vuldb.com/?id.216749)|Visit link for details|2022-12-24 at 11:55|
- |[SimbCo httpster server.coffee fs.realpathSync path traversal](https://vuldb.com/?id.216748)|Visit link for details|2022-12-24 at 11:49|
- |[Calsign APDE ZIP File CopyBuildTask.java handleExtract path traversal](https://vuldb.com/?id.216747)|Visit link for details|2022-12-24 at 11:46|
- |[dns-stats hedgehog DSCIOManager.cpp dsc_import_input_from_source sql injection](https://vuldb.com/?id.216746)|Visit link for details|2022-12-24 at 11:43|
- |[Macaron i18n i18n.go redirect](https://vuldb.com/?id.216745)|Visit link for details|2022-12-24 at 11:39|
- |[Graphite Web Absolute Time Range cross site scripting](https://vuldb.com/?id.216744)|Visit link for details|2022-12-24 at 09:01|
- |[Graphite Web Template Name cross site scripting](https://vuldb.com/?id.216743)|Visit link for details|2022-12-24 at 09:00|
- |[Graphite Web Cookie cross site scripting](https://vuldb.com/?id.216742)|Visit link for details|2022-12-24 at 08:58|
- |[OpenMRS Appointment Scheduling Module Notes AppointmentRequest.java getNotes cross site scripting](https://vuldb.com/?id.216741)|Visit link for details|2022-12-24 at 08:51|
+ |[myapnea Title cross site scripting](https://vuldb.com/?id.216750)|Visit link for details|2022-12-25 at 14:46|
+ |[fredsmith utils Filename screenshot_sync predictable state](https://vuldb.com/?id.216749)|Visit link for details|2022-12-25 at 11:55|
+ |[SimbCo httpster server.coffee fs.realpathSync path traversal](https://vuldb.com/?id.216748)|Visit link for details|2022-12-25 at 11:49|
+ |[Calsign APDE ZIP File CopyBuildTask.java handleExtract path traversal](https://vuldb.com/?id.216747)|Visit link for details|2022-12-25 at 11:46|
+ |[dns-stats hedgehog DSCIOManager.cpp dsc_import_input_from_source sql injection](https://vuldb.com/?id.216746)|Visit link for details|2022-12-25 at 11:43|
+ |[Macaron i18n i18n.go redirect](https://vuldb.com/?id.216745)|Visit link for details|2022-12-25 at 11:39|
+ |[Graphite Web Absolute Time Range cross site scripting](https://vuldb.com/?id.216744)|Visit link for details|2022-12-25 at 09:01|
+ |[Graphite Web Template Name cross site scripting](https://vuldb.com/?id.216743)|Visit link for details|2022-12-25 at 09:00|
+ |[Graphite Web Cookie cross site scripting](https://vuldb.com/?id.216742)|Visit link for details|2022-12-25 at 08:58|
+ |[OpenMRS Appointment Scheduling Module Notes AppointmentRequest.java getNotes cross site scripting](https://vuldb.com/?id.216741)|Visit link for details|2022-12-25 at 08:51|
  
