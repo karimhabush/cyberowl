@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 25/12/2022 09:09:11 UTC
+ > Last Updated 25/12/2022 21:08:44 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -71,6 +71,23 @@
  
  ---
 
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[styler_praat_scripts Slash file_segmenter.praat denial of service](https://vuldb.com/?id.216780)|Visit link for details|2022-12-25 at 20:56|
+ |[docconv XMLToText memory allocation](https://vuldb.com/?id.216779)|Visit link for details|2022-12-25 at 20:52|
+ |[Starcounter-Jack JSON-Patch prototype pollution](https://vuldb.com/?id.216778)|Visit link for details|2022-12-25 at 20:46|
+ |[hughsk flat index.js unflatten prototype pollution](https://vuldb.com/?id.216777)|Visit link for details|2022-12-25 at 20:42|
+ |[kkFileView picturesPreview setWatermarkAttribute cross site scripting](https://vuldb.com/?id.216776)|Visit link for details|2022-12-25 at 20:38|
+ |[SourceCodester School Dormitory Management System Admin Login sql injection](https://vuldb.com/?id.216775)|Visit link for details|2022-12-25 at 20:35|
+ |[SourceCodester Blood Bank Management System User Registration cross site scripting](https://vuldb.com/?id.216774)|Visit link for details|2022-12-25 at 20:33|
+ |[SourceCodester Blood Bank Management System login.php sql injection](https://vuldb.com/?id.216773)|Visit link for details|2022-12-25 at 20:31|
+ |[barronwaffles dwc_network_server_emulator gs_database.py update_profile sql injection](https://vuldb.com/?id.216772)|Visit link for details|2022-12-25 at 20:29|
+ |[FreePBX cdr Cdr.class.php ajaxHandler sql injection](https://vuldb.com/?id.216771)|Visit link for details|2022-12-25 at 20:25|
+ 
+ ---
+
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -86,21 +103,4 @@
  |[39531512/22 - Vulnérabilités affectant plusieursproduits SAP](https://www.dgssi.gov.ma//fr/content/3953151222-vulnerabilites-affectant-plusieurs-produits-sap.html)|SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuterdu code arbitraire ou...|15 décembre 2022|
  |[39521512/22 - Vulnérabilités affectantdes produits Mozilla ](https://www.dgssi.gov.ma//fr/content/3952151222-vulnerabilites-affectant-des-produits-mozilla.html)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités au niveau de trois produits de Mozilla. L’exploitation de cesvulnérabilités peut permettre à un...|15 décembre 2022|
  |[39511512/22 - Vulnérabilités affectant plusieurs produits VMware ](https://www.dgssi.gov.ma//fr/content/3951151222-vulnerabilites-affectant-plusieurs-produits-vmware.html)|VMware annonce la correction de cinq vulnérabilités affectant ses produits susmentionnés.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’exécuter du code arbitraire ou d’accéder à des données...|15 décembre 2022|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[myapnea Title cross site scripting](https://vuldb.com/?id.216750)|Visit link for details|2022-12-25 at 14:46|
- |[fredsmith utils Filename screenshot_sync predictable state](https://vuldb.com/?id.216749)|Visit link for details|2022-12-25 at 11:55|
- |[SimbCo httpster server.coffee fs.realpathSync path traversal](https://vuldb.com/?id.216748)|Visit link for details|2022-12-25 at 11:49|
- |[Calsign APDE ZIP File CopyBuildTask.java handleExtract path traversal](https://vuldb.com/?id.216747)|Visit link for details|2022-12-25 at 11:46|
- |[dns-stats hedgehog DSCIOManager.cpp dsc_import_input_from_source sql injection](https://vuldb.com/?id.216746)|Visit link for details|2022-12-25 at 11:43|
- |[Macaron i18n i18n.go redirect](https://vuldb.com/?id.216745)|Visit link for details|2022-12-25 at 11:39|
- |[Graphite Web Absolute Time Range cross site scripting](https://vuldb.com/?id.216744)|Visit link for details|2022-12-25 at 09:01|
- |[Graphite Web Template Name cross site scripting](https://vuldb.com/?id.216743)|Visit link for details|2022-12-25 at 09:00|
- |[Graphite Web Cookie cross site scripting](https://vuldb.com/?id.216742)|Visit link for details|2022-12-25 at 08:58|
- |[OpenMRS Appointment Scheduling Module Notes AppointmentRequest.java getNotes cross site scripting](https://vuldb.com/?id.216741)|Visit link for details|2022-12-25 at 08:51|
  
