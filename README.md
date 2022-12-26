@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 26/12/2022 09:09:14 UTC
+ > Last Updated 26/12/2022 21:09:46 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -23,6 +23,23 @@
  > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
  ---
 
+## CERT-FR [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1125/)|De multiples vulnérabilités ont été corrigées dans |Publié le 26 décembre 2022|
+ |[Vulnérabilité dans Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1124/)|Une vulnérabilité a été découverte dans Thunderbird. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 22 décembre 2022|
+ |[Multiples vulnérabilités dans les produits SolarWinds](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1123/)|De multiples vulnérabilités ont été découvertes dans les produits SolarWinds. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 22 décembre 2022|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1122/)|De multiples vulnérabilités ont été corrigées dans |Publié le 21 décembre 2022|
+ |[Vulnérabilité dans Elastic Kibana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1121/)|Une vulnérabilité a été découverte dans Elastic Kibana. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 21 décembre 2022|
+ |[Vulnérabilité dans NetApp OnCommand Insight](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1120/)|Une vulnérabilité a été découverte dans NetApp OnCommand Insight. Elle permet à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 21 décembre 2022|
+ |[Multiples vulnérabilités dans Tenable Nessus Network Monitor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1119/)|De multiples vulnérabilités ont été découvertes dans Tenable Nessus Network Monitor. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 20 décembre 2022|
+ |[Multiples vulnérabilités dans Citrix Hypervisor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1118/)|De multiples vulnérabilités ont été découvertes dans Citrix Hypervisor. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 20 décembre 2022|
+ |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1117/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 19 décembre 2022|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1116/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données.|Publié le 19 décembre 2022|
+ 
+ ---
+
 ## US-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -33,23 +50,6 @@
  |[FBI, FDA OCI, and USDA Release Joint Cybersecurity Advisory Regarding Business Email Compromise Schemes Used to Steal Food](https://www.cisa.gov/uscert/ncas/current-activity/2022/12/16/fbi-fda-oci-and-usda-release-joint-cybersecurity-advisory)|<p>The Federal Bureau of Investigation (FBI), the Food and Drug Administration Office of Criminal Investigations (FDA OCI), and the U.S. Department of Agriculture (USDA) have released a joint Cybersecurity Advisory (CSA) detailing recently observed incidents of criminal actors using business email compromise (BEC) to steal shipments of food products and ingredients valued at hundreds of thousands of dollars.</p>|Friday, December 16, 2022|
  |[CISA Releases Forty-One Industrial Control Systems Advisories](https://www.cisa.gov/uscert/ncas/current-activity/2022/12/15/cisa-releases-forty-one-industrial-control-systems-advisories)|<p>CISA has released forty-one (41) Industrial Control Systems (ICS) advisories on 15 December 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p>|Thursday, December 15, 2022|
  |[Drupal Releases Security Updates to Address Vulnerabilities in H5P and File (Field) Paths](https://www.cisa.gov/uscert/ncas/current-activity/2022/12/15/drupal-releases-security-updates-address-vulnerabilities-h5p-and)|<p>Drupal has released security updates to address vulnerabilities affecting H5P and the File (Field) Paths modules for Drupal 7.x. An attacker could exploit these vulnerabilities to access sensitive information and remotely execute code.</p>|Thursday, December 15, 2022|
- 
- ---
-
-## CERT-FR [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Vulnérabilité dans Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1124/)|Une vulnérabilité a été découverte dans Thunderbird. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 22 décembre 2022|
- |[Multiples vulnérabilités dans les produits SolarWinds](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1123/)|De multiples vulnérabilités ont été découvertes dans les produits SolarWinds. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 22 décembre 2022|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1122/)|De multiples vulnérabilités ont été corrigées dans |Publié le 21 décembre 2022|
- |[Vulnérabilité dans Elastic Kibana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1121/)|Une vulnérabilité a été découverte dans Elastic Kibana. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 21 décembre 2022|
- |[Vulnérabilité dans NetApp OnCommand Insight](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1120/)|Une vulnérabilité a été découverte dans NetApp OnCommand Insight. Elle permet à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 21 décembre 2022|
- |[Multiples vulnérabilités dans Tenable Nessus Network Monitor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1119/)|De multiples vulnérabilités ont été découvertes dans Tenable Nessus Network Monitor. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 20 décembre 2022|
- |[Multiples vulnérabilités dans Citrix Hypervisor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1118/)|De multiples vulnérabilités ont été découvertes dans Citrix Hypervisor. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 20 décembre 2022|
- |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1117/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 19 décembre 2022|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1116/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données.|Publié le 19 décembre 2022|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1115/)|De multiples vulnérabilités ont été corrigées dans |Publié le 19 décembre 2022|
  
  ---
 
@@ -75,6 +75,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[39602612/22 - Vulnérabilité critique dans le CMS Ghost ](https://www.dgssi.gov.ma//fr/content/3960261222-vulnerabilite-critique-dans-le-cms-ghost.html)|Une vulnérabilité critique a été corrigée dans le système d'abonnement aux newsletters du CMS Ghost. L'exploitation de cette faille pourrait permettre à des attaquants de créer ou de modifier des newsletters en insérant du code...|26 décembre 2022|
  |[39592012/22 - Vulnérabilité dans Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/3959201222-vulnerabilite-dans-mozilla-thunderbird.html)|Mozilla a publié une mise à jour de sécurité pour corriger une vulnérabilité affectant Mozilla Thunderbird. Un attaquant pourrait exploiter cette faille afin d’exécuter du code arbitraire à distance.|22 décembre 2022|
  |[39602112/22 - Anciennes vulnérabilités des produits Cisco activement exploitées](https://www.dgssi.gov.ma//fr/content/3960211222-anciennes-vulnerabilites-des-produits-cisco-activement-exploitees.html)|Cisco a mis à jour plusieurs avis de sécurité pour signaler l'exploitation active de plusieurs anciennes vulnérabilités affectant ses produits. Les failles, dont certaines sont classées comme critiques, ont un impact sur les systèmes...|21 décembre 2022|
  |[39592012/22 - Vulnérabilités dans Microsoft Edge](https://www.dgssi.gov.ma//fr/content/3959201222-vulnerabilites-dans-microsoft-edge.html)|Microsoft annonce la correction de plusieurs vulnérabilités dans Microsoft Edge. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la confidentialité des données.|20 décembre 2022|
@@ -85,7 +86,6 @@
  |[39541612/22 - Vulnérabilités affectant le CMS Drupal](https://www.dgssi.gov.ma//fr/content/3954161222-vulnerabilites-affectant-le-cms-drupal.html)|Drupal annonce la disponibilité de mises à jour de sécurité qui corrigent deux vulnérabilités auniveaudes deux modules susmentionnées de son CMS. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’accéder à des...|16 décembre 2022|
  |[39531512/22 - Vulnérabilités affectant plusieursproduits SAP](https://www.dgssi.gov.ma//fr/content/3953151222-vulnerabilites-affectant-plusieurs-produits-sap.html)|SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuterdu code arbitraire ou...|15 décembre 2022|
  |[39521512/22 - Vulnérabilités affectantdes produits Mozilla ](https://www.dgssi.gov.ma//fr/content/3952151222-vulnerabilites-affectant-des-produits-mozilla.html)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités au niveau de trois produits de Mozilla. L’exploitation de cesvulnérabilités peut permettre à un...|15 décembre 2022|
- |[39511512/22 - Vulnérabilités affectant plusieurs produits VMware ](https://www.dgssi.gov.ma//fr/content/3951151222-vulnerabilites-affectant-plusieurs-produits-vmware.html)|VMware annonce la correction de cinq vulnérabilités affectant ses produits susmentionnés.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’exécuter du code arbitraire ou d’accéder à des données...|15 décembre 2022|
  
  ---
 
@@ -93,14 +93,14 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[json-pointer index.js set prototype pollution](https://vuldb.com/?id.216794)|Visit link for details|2022-12-26 at 08:14|
- |[General Electric iNET/iNET II credentials storage](https://vuldb.com/?id.216793)|Visit link for details|2022-12-26 at 08:08|
- |[General Electric iNET/iNET II inadequate encryption](https://vuldb.com/?id.216792)|Visit link for details|2022-12-26 at 08:07|
- |[MediaWiki REST API information disclosure](https://vuldb.com/?id.216791)|Visit link for details|2022-12-26 at 08:06|
- |[Enlightenment enlightenment_sys path traversal](https://vuldb.com/?id.216790)|Visit link for details|2022-12-26 at 08:05|
- |[GNOME gvdb gvdb-builder.c gvdb_table_write_contents_async use after free](https://vuldb.com/?id.216789)|Visit link for details|2022-12-26 at 08:03|
- |[General Electric iNET/iNET II/SD/TD220X/TD220MAX resource consumption](https://vuldb.com/?id.216788)|Visit link for details|2022-12-26 at 08:00|
- |[General Electric MDS iNET/iNET II/SD/TD220/TD220MAX Firmware code download](https://vuldb.com/?id.216787)|Visit link for details|2022-12-26 at 07:59|
- |[Heimdal SPNEGO Acceptor null pointer dereference](https://vuldb.com/?id.216786)|Visit link for details|2022-12-26 at 07:58|
- |[General Electric iNET/iNET II Device Configuration Shell backdoor](https://vuldb.com/?id.216785)|Visit link for details|2022-12-26 at 07:57|
+ |[Brave UX for-the-badge combine-prs.yml os command injection](https://vuldb.com/?id.216842)|Visit link for details|2022-12-26 at 20:43|
+ |[Bulk Delete Users by Email Plugin cross site scripting](https://vuldb.com/?id.216841)|Visit link for details|2022-12-26 at 20:37|
+ |[Directus unknown vulnerability](https://vuldb.com/?id.216840)|Visit link for details|2022-12-26 at 20:36|
+ |[MediaWiki information disclosure](https://vuldb.com/?id.216839)|Visit link for details|2022-12-26 at 20:34|
+ |[Philips Vue PACS VideoStream path traversal](https://vuldb.com/?id.216838)|Visit link for details|2022-12-26 at 20:34|
+ |[fastrack Reflex Bluetooth LE access control](https://vuldb.com/?id.216837)|Visit link for details|2022-12-26 at 20:33|
+ |[fastrack Reflex Firmware Update data authenticity](https://vuldb.com/?id.216836)|Visit link for details|2022-12-26 at 20:32|
+ |[fastrack Reflex Serial Wire Debug Local Privilege Escalation](https://vuldb.com/?id.216835)|Visit link for details|2022-12-26 at 20:32|
+ |[php-mod curl post_file_path_upload.php cross site scripting](https://vuldb.com/?id.216834)|Visit link for details|2022-12-26 at 20:30|
+ |[Bulk Delete Users by Email Plugin cross-site request forgery](https://vuldb.com/?id.216833)|Visit link for details|2022-12-26 at 20:29|
  
