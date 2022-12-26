@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 25/12/2022 21:08:44 UTC
+ > Last Updated 26/12/2022 09:09:14 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -71,23 +71,6 @@
  
  ---
 
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[styler_praat_scripts Slash file_segmenter.praat denial of service](https://vuldb.com/?id.216780)|Visit link for details|2022-12-25 at 20:56|
- |[docconv XMLToText memory allocation](https://vuldb.com/?id.216779)|Visit link for details|2022-12-25 at 20:52|
- |[Starcounter-Jack JSON-Patch prototype pollution](https://vuldb.com/?id.216778)|Visit link for details|2022-12-25 at 20:46|
- |[hughsk flat index.js unflatten prototype pollution](https://vuldb.com/?id.216777)|Visit link for details|2022-12-25 at 20:42|
- |[kkFileView picturesPreview setWatermarkAttribute cross site scripting](https://vuldb.com/?id.216776)|Visit link for details|2022-12-25 at 20:38|
- |[SourceCodester School Dormitory Management System Admin Login sql injection](https://vuldb.com/?id.216775)|Visit link for details|2022-12-25 at 20:35|
- |[SourceCodester Blood Bank Management System User Registration cross site scripting](https://vuldb.com/?id.216774)|Visit link for details|2022-12-25 at 20:33|
- |[SourceCodester Blood Bank Management System login.php sql injection](https://vuldb.com/?id.216773)|Visit link for details|2022-12-25 at 20:31|
- |[barronwaffles dwc_network_server_emulator gs_database.py update_profile sql injection](https://vuldb.com/?id.216772)|Visit link for details|2022-12-25 at 20:29|
- |[FreePBX cdr Cdr.class.php ajaxHandler sql injection](https://vuldb.com/?id.216771)|Visit link for details|2022-12-25 at 20:25|
- 
- ---
-
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -103,4 +86,21 @@
  |[39531512/22 - Vulnérabilités affectant plusieursproduits SAP](https://www.dgssi.gov.ma//fr/content/3953151222-vulnerabilites-affectant-plusieurs-produits-sap.html)|SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuterdu code arbitraire ou...|15 décembre 2022|
  |[39521512/22 - Vulnérabilités affectantdes produits Mozilla ](https://www.dgssi.gov.ma//fr/content/3952151222-vulnerabilites-affectant-des-produits-mozilla.html)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités au niveau de trois produits de Mozilla. L’exploitation de cesvulnérabilités peut permettre à un...|15 décembre 2022|
  |[39511512/22 - Vulnérabilités affectant plusieurs produits VMware ](https://www.dgssi.gov.ma//fr/content/3951151222-vulnerabilites-affectant-plusieurs-produits-vmware.html)|VMware annonce la correction de cinq vulnérabilités affectant ses produits susmentionnés.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’exécuter du code arbitraire ou d’accéder à des données...|15 décembre 2022|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[json-pointer index.js set prototype pollution](https://vuldb.com/?id.216794)|Visit link for details|2022-12-26 at 08:14|
+ |[General Electric iNET/iNET II credentials storage](https://vuldb.com/?id.216793)|Visit link for details|2022-12-26 at 08:08|
+ |[General Electric iNET/iNET II inadequate encryption](https://vuldb.com/?id.216792)|Visit link for details|2022-12-26 at 08:07|
+ |[MediaWiki REST API information disclosure](https://vuldb.com/?id.216791)|Visit link for details|2022-12-26 at 08:06|
+ |[Enlightenment enlightenment_sys path traversal](https://vuldb.com/?id.216790)|Visit link for details|2022-12-26 at 08:05|
+ |[GNOME gvdb gvdb-builder.c gvdb_table_write_contents_async use after free](https://vuldb.com/?id.216789)|Visit link for details|2022-12-26 at 08:03|
+ |[General Electric iNET/iNET II/SD/TD220X/TD220MAX resource consumption](https://vuldb.com/?id.216788)|Visit link for details|2022-12-26 at 08:00|
+ |[General Electric MDS iNET/iNET II/SD/TD220/TD220MAX Firmware code download](https://vuldb.com/?id.216787)|Visit link for details|2022-12-26 at 07:59|
+ |[Heimdal SPNEGO Acceptor null pointer dereference](https://vuldb.com/?id.216786)|Visit link for details|2022-12-26 at 07:58|
+ |[General Electric iNET/iNET II Device Configuration Shell backdoor](https://vuldb.com/?id.216785)|Visit link for details|2022-12-26 at 07:57|
  
