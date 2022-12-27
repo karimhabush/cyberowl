@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 27/12/2022 09:09:05 UTC
+ > Last Updated 27/12/2022 21:08:19 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -40,6 +40,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1127/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 27 décembre 2022|
+ |[Vulnérabilité dans Synology SRM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1126/)|Une vulnérabilité a été découverte dans Synology SRM. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 27 décembre 2022|
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1125/)|De multiples vulnérabilités ont été corrigées dans |Publié le 26 décembre 2022|
  |[Vulnérabilité dans Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1124/)|Une vulnérabilité a été découverte dans Thunderbird. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 22 décembre 2022|
  |[Multiples vulnérabilités dans les produits SolarWinds](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1123/)|De multiples vulnérabilités ont été découvertes dans les produits SolarWinds. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 22 décembre 2022|
@@ -48,8 +50,6 @@
  |[Vulnérabilité dans NetApp OnCommand Insight](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1120/)|Une vulnérabilité a été découverte dans NetApp OnCommand Insight. Elle permet à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 21 décembre 2022|
  |[Multiples vulnérabilités dans Tenable Nessus Network Monitor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1119/)|De multiples vulnérabilités ont été découvertes dans Tenable Nessus Network Monitor. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 20 décembre 2022|
  |[Multiples vulnérabilités dans Citrix Hypervisor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1118/)|De multiples vulnérabilités ont été découvertes dans Citrix Hypervisor. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 20 décembre 2022|
- |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1117/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 19 décembre 2022|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1116/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données.|Publié le 19 décembre 2022|
  
  ---
 
@@ -57,24 +57,17 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Junos-OS-denial-of-service-via-BGP-Optional-Transitive-Attribute-40169" class="noirorange"><b>Junos OS</b>: denial of service via BGP Optional Transitive Attribute</a>](https://vigilance.fr/vulnerability/Junos-OS-denial-of-service-via-BGP-Optional-Transitive-Attribute-40169)|An attacker can cause a fatal error of Junos OS, via BGP Optional Transitive Attribute, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Helm-three-vulnerabilities-40168" class="noirorange"><b>Helm</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Helm-three-vulnerabilities-40168)|An attacker can use several vulnerabilities of Helm...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ORAS-file-write-via-Zip-Slip-40167" class="noirorange"><b>ORAS</b>: file write via Zip Slip</a>](https://vigilance.fr/vulnerability/ORAS-file-write-via-Zip-Slip-40167)|An attacker can bypass access restrictions of ORAS, via Zip Slip, in order to alter files...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mbed-TLS-out-of-bounds-memory-reading-via-ClientHello-Message-40166" class="noirorange"><b>Mbed TLS</b>: out-of-bounds memory reading via ClientHello Message</a>](https://vigilance.fr/vulnerability/Mbed-TLS-out-of-bounds-memory-reading-via-ClientHello-Message-40166)|An attacker can force a read at an invalid memory address of Mbed TLS, via ClientHello Message, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-io-sqpoll-wait-sq-40165" class="noirorange"><b>Linux kernel</b>: reuse after free via io_sqpoll_wait_sq()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-io-sqpoll-wait-sq-40165)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-i-four-vulnerabilities-via-IBM-Navigator-40164" class="noirorange"><b>IBM i</b>: four vulnerabilities via IBM Navigator</a>](https://vigilance.fr/vulnerability/IBM-i-four-vulnerabilities-via-IBM-Navigator-40164)|An attacker can use several vulnerabilities of IBM i, via IBM Navigator...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/xrdp-multiple-vulnerabilities-40163" class="noirorange"><b>xrdp</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/xrdp-multiple-vulnerabilities-40163)|An attacker can use several vulnerabilities of xrdp...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/cURL-reuse-after-free-via-HTTP-Proxy-Deny-40162" class="noirorange"><b>cURL</b>: reuse after free via HTTP Proxy Deny</a>](https://vigilance.fr/vulnerability/cURL-reuse-after-free-via-HTTP-Proxy-Deny-40162)|An attacker can force the reuse of a freed memory area of cURL, via HTTP Proxy Deny, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/cURL-weak-encryption-via-IDN-HSTS-Bypass-40161" class="noirorange"><b>cURL</b>: weak encryption via IDN HSTS Bypass</a>](https://vigilance.fr/vulnerability/cURL-weak-encryption-via-IDN-HSTS-Bypass-40161)|An attacker can access data on cURL, via IDN HSTS Bypass, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibKSBA-integer-overflow-via-ASN-1-Structures-40160" class="noirorange"><b>LibKSBA</b>: integer overflow via ASN.1 Structures</a>](https://vigilance.fr/vulnerability/LibKSBA-integer-overflow-via-ASN-1-Structures-40160)|An attacker can trigger an integer overflow of LibKSBA, via ASN.1 Structures, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Dell-OpenManage-Server-Administrator-executing-DLL-code-40159" class="noirorange"><b>Dell OpenManage Server Administrator</b>: executing DLL code</a>](https://vigilance.fr/vulnerability/Dell-OpenManage-Server-Administrator-executing-DLL-code-40159)|An attacker can create a malicious DLL for Dell OpenManage Server Administrator, and then put it in the current directory, in order to execute code...|Visit link for details|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Gerbv-integer-overflow-via-RS-274X-Aperture-Macro-Variables-40189" class="noirorange"><b>Gerbv</b>: integer overflow via RS-274X Aperture Macro Variables</a>](https://vigilance.fr/vulnerability/Gerbv-integer-overflow-via-RS-274X-Aperture-Macro-Variables-40189)|An attacker can trigger an integer overflow of Gerbv, via RS-274X Aperture Macro Variables, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Gerbv-buffer-overflow-via-RS-274X-Aperture-Macro-Variables-40188" class="noirorange"><b>Gerbv</b>: buffer overflow via RS-274X Aperture Macro Variables</a>](https://vigilance.fr/vulnerability/Gerbv-buffer-overflow-via-RS-274X-Aperture-Macro-Variables-40188)|An attacker can trigger a buffer overflow of Gerbv, via RS-274X Aperture Macro Variables, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/multimon-ng-memory-corruption-via-add-ch-40187" class="noirorange"><b>multimon-ng</b>: memory corruption via add_ch()</a>](https://vigilance.fr/vulnerability/multimon-ng-memory-corruption-via-add-ch-40187)|An attacker can trigger a memory corruption of multimon-ng, via add_ch(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Eclipse-Openj9-information-disclosure-via-jdk-internal-reflect-ConstantPool-40184" class="noirorange"><b>Eclipse Openj9</b>: information disclosure via <wbr>jdk.internal.reflect<wbr>.ConstantPool</wbr></wbr></a>](https://vigilance.fr/vulnerability/Eclipse-Openj9-information-disclosure-via-jdk-internal-reflect-ConstantPool-40184)|An attacker can bypass access restrictions to data of Eclipse Openj9, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/AIX-denial-of-service-via-SMB-Client-Daemon-40183" class="noirorange"><b>AIX</b>: denial of service via SMB Client Daemon</a>](https://vigilance.fr/vulnerability/AIX-denial-of-service-via-SMB-Client-Daemon-40183)|An attacker can cause a fatal error of AIX, via SMB Client Daemon, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mbed-TLS-six-vulnerabilities-40182" class="noirorange"><b>Mbed TLS</b>: six vulnerabilities</a>](https://vigilance.fr/vulnerability/Mbed-TLS-six-vulnerabilities-40182)|An attacker can use several vulnerabilities of Mbed TLS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mbed-TLS-denial-of-service-via-mbedtls-pkcs12-derivation-40181" class="noirorange"><b>Mbed TLS</b>: denial of service via <wbr>mbedtls_pkcs12_deriv<wbr>ation()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Mbed-TLS-denial-of-service-via-mbedtls-pkcs12-derivation-40181)|An attacker can cause a fatal error of Mbed TLS, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-Hawk-overload-via-Regular-Expression-40180" class="noirorange"><b>Node.js Hawk</b>: overload via Regular Expression</a>](https://vigilance.fr/vulnerability/Node-js-Hawk-overload-via-Regular-Expression-40180)|An attacker can trigger an overload of Node.js Hawk, via Regular Expression, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-multiple-vulnerabilities-40179" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-multiple-vulnerabilities-40179)|An attacker can use several vulnerabilities of WebKitGTK  WPE WebKit...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/mod-auth-openidc-open-redirect-via-Logout-Parameter-40178" class="noirorange"><b>mod_auth_openidc</b>: open redirect via Logout Parameter</a>](https://vigilance.fr/vulnerability/mod-auth-openidc-open-redirect-via-Logout-Parameter-40178)|An attacker can deceive the user of mod_auth_openidc, via Logout Parameter, in order to redirect him to a malicious site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Insight-NULL-pointer-dereference-via-bfd-elf-get-symbol-version-string-40177" class="noirorange"><b>Insight</b>: NULL pointer dereference via <wbr>_bfd_elf_get_symbol_<wbr>version_string()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Insight-NULL-pointer-dereference-via-bfd-elf-get-symbol-version-string-40177)|An attacker can force a NULL pointer to be dereferenced on Insight, via |Visit link for details|
  
  ---
 
@@ -93,4 +86,21 @@
  |[39541612/22 - Vulnérabilités affectant le CMS Drupal](https://www.dgssi.gov.ma//fr/content/3954161222-vulnerabilites-affectant-le-cms-drupal.html)|Drupal annonce la disponibilité de mises à jour de sécurité qui corrigent deux vulnérabilités auniveaudes deux modules susmentionnées de son CMS. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’accéder à des...|16 décembre 2022|
  |[39531512/22 - Vulnérabilités affectant plusieursproduits SAP](https://www.dgssi.gov.ma//fr/content/3953151222-vulnerabilites-affectant-plusieurs-produits-sap.html)|SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuterdu code arbitraire ou...|15 décembre 2022|
  |[39521512/22 - Vulnérabilités affectantdes produits Mozilla ](https://www.dgssi.gov.ma//fr/content/3952151222-vulnerabilites-affectant-des-produits-mozilla.html)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités au niveau de trois produits de Mozilla. L’exploitation de cesvulnérabilités peut permettre à un...|15 décembre 2022|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[OpenMRS openmrs-module-referenceapplication User App Page UserAppPageController.java post cross site scripting](https://vuldb.com/?id.216883)|Visit link for details|2022-12-27 at 13:28|
+ |[Indeed Engineering util ViewExportedVariablesServlet.java appendTo cross site scripting](https://vuldb.com/?id.216882)|Visit link for details|2022-12-27 at 13:26|
+ |[OpenMRS openmrs-module-referenceapplication userApp.gsp cross site scripting](https://vuldb.com/?id.216881)|Visit link for details|2022-12-27 at 13:21|
+ |[dolibarr_project_timesheet Form cross-site request forgery](https://vuldb.com/?id.216880)|Visit link for details|2022-12-27 at 13:19|
+ |[moodle-block_sitenews block_sitenews.php get_content cross-site request forgery](https://vuldb.com/?id.216879)|Visit link for details|2022-12-27 at 13:16|
+ |[FreePBX arimanager Views cross site scripting](https://vuldb.com/?id.216878)|Visit link for details|2022-12-27 at 13:09|
+ |[Morgawr Muon handler.clj random values](https://vuldb.com/?id.216877)|Visit link for details|2022-12-27 at 13:03|
+ |[ReFirm Labs binwalk Archive Extraction extractor.py symlink](https://vuldb.com/?id.216876)|Visit link for details|2022-12-27 at 11:37|
+ |[cocagne pysrp _ctsrp.py calculate_x information exposure](https://vuldb.com/?id.216875)|Visit link for details|2022-12-27 at 11:26|
+ |[Nagios NCPA tail.html cross site scripting](https://vuldb.com/?id.216874)|Visit link for details|2022-12-27 at 11:23|
  
