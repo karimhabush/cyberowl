@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 28/12/2022 09:09:33 UTC
+ > Last Updated 28/12/2022 21:07:55 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,6 +57,10 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-denial-of-service-via-num-divide-40194" class="noirorange"><b>Vim</b>: denial of service via num_divide()</a>](https://vigilance.fr/vulnerability/Vim-denial-of-service-via-num-divide-40194)|An attacker can cause a fatal error of Vim, via num_divide(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-did-set-spelllang-40193" class="noirorange"><b>Vim</b>: reuse after free via did_set_spelllang()</a>](https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-did-set-spelllang-40193)|An attacker can force the reuse of a freed memory area of Vim, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-do-put-40192" class="noirorange"><b>Vim</b>: buffer overflow via do_put()</a>](https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-do-put-40192)|An attacker can trigger a buffer overflow of Vim, via do_put(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-compile-redir-40191" class="noirorange"><b>Vim</b>: buffer overflow via compile_redir()</a>](https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-compile-redir-40191)|An attacker can trigger a buffer overflow of Vim, via compile_redir(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/systemd-information-disclosure-via-fs-suid-dumpable-Bypass-40190" class="noirorange"><b>systemd</b>: information disclosure via fs.suid_dumpable Bypass</a>](https://vigilance.fr/vulnerability/systemd-information-disclosure-via-fs-suid-dumpable-Bypass-40190)|An attacker can bypass access restrictions to data of systemd, via fs.suid_dumpable Bypass, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Gerbv-integer-overflow-via-RS-274X-Aperture-Macro-Variables-40189" class="noirorange"><b>Gerbv</b>: integer overflow via RS-274X Aperture Macro Variables</a>](https://vigilance.fr/vulnerability/Gerbv-integer-overflow-via-RS-274X-Aperture-Macro-Variables-40189)|An attacker can trigger an integer overflow of Gerbv, via RS-274X Aperture Macro Variables, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Gerbv-buffer-overflow-via-RS-274X-Aperture-Macro-Variables-40188" class="noirorange"><b>Gerbv</b>: buffer overflow via RS-274X Aperture Macro Variables</a>](https://vigilance.fr/vulnerability/Gerbv-buffer-overflow-via-RS-274X-Aperture-Macro-Variables-40188)|An attacker can trigger a buffer overflow of Gerbv, via RS-274X Aperture Macro Variables, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
@@ -64,10 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Eclipse-Openj9-information-disclosure-via-jdk-internal-reflect-ConstantPool-40184" class="noirorange"><b>Eclipse Openj9</b>: information disclosure via <wbr>jdk.internal.reflect<wbr>.ConstantPool</wbr></wbr></a>](https://vigilance.fr/vulnerability/Eclipse-Openj9-information-disclosure-via-jdk-internal-reflect-ConstantPool-40184)|An attacker can bypass access restrictions to data of Eclipse Openj9, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/AIX-denial-of-service-via-SMB-Client-Daemon-40183" class="noirorange"><b>AIX</b>: denial of service via SMB Client Daemon</a>](https://vigilance.fr/vulnerability/AIX-denial-of-service-via-SMB-Client-Daemon-40183)|An attacker can cause a fatal error of AIX, via SMB Client Daemon, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Mbed-TLS-six-vulnerabilities-40182" class="noirorange"><b>Mbed TLS</b>: six vulnerabilities</a>](https://vigilance.fr/vulnerability/Mbed-TLS-six-vulnerabilities-40182)|An attacker can use several vulnerabilities of Mbed TLS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mbed-TLS-denial-of-service-via-mbedtls-pkcs12-derivation-40181" class="noirorange"><b>Mbed TLS</b>: denial of service via <wbr>mbedtls_pkcs12_deriv<wbr>ation()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Mbed-TLS-denial-of-service-via-mbedtls-pkcs12-derivation-40181)|An attacker can cause a fatal error of Mbed TLS, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Node-js-Hawk-overload-via-Regular-Expression-40180" class="noirorange"><b>Node.js Hawk</b>: overload via Regular Expression</a>](https://vigilance.fr/vulnerability/Node-js-Hawk-overload-via-Regular-Expression-40180)|An attacker can trigger an overload of Node.js Hawk, via Regular Expression, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-multiple-vulnerabilities-40179" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-multiple-vulnerabilities-40179)|An attacker can use several vulnerabilities of WebKitGTK  WPE WebKit...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/mod-auth-openidc-open-redirect-via-Logout-Parameter-40178" class="noirorange"><b>mod_auth_openidc</b>: open redirect via Logout Parameter</a>](https://vigilance.fr/vulnerability/mod-auth-openidc-open-redirect-via-Logout-Parameter-40178)|An attacker can deceive the user of mod_auth_openidc, via Logout Parameter, in order to redirect him to a malicious site...|Visit link for details|
  
  ---
 
@@ -93,14 +93,14 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Harvest Chosen abstract-chosen.coffee AbstractChosen cross site scripting](https://vuldb.com/?id.216956)|Visit link for details|2022-12-28 at 10:09|
- |[Nakiami Mellivora Admin Panel user.inc.php print_user_ip_log cross site scripting](https://vuldb.com/?id.216955)|Visit link for details|2022-12-28 at 10:00|
- |[gnuboard youngcart5 menu_list_update.php cross site scripting](https://vuldb.com/?id.216954)|Visit link for details|2022-12-28 at 09:58|
- |[MeterSphere getMdImageByUrl cross site scripting](https://vuldb.com/?id.216953)|Visit link for details|2022-12-28 at 09:54|
- |[btcsuite go-socks LocalAddr stack-based overflow](https://vuldb.com/?id.216952)|Visit link for details|2022-12-28 at 09:53|
- |[shiyanhui dht Messages resource consumption](https://vuldb.com/?id.216951)|Visit link for details|2022-12-28 at 09:48|
- |[H3C Firewall access control](https://vuldb.com/?id.216950)|Visit link for details|2022-12-28 at 09:47|
- |[go-yaml YAML Document resource consumption](https://vuldb.com/?id.216949)|Visit link for details|2022-12-28 at 09:42|
- |[ipld go-codec-dagpb Invalid Block memory corruption](https://vuldb.com/?id.216948)|Visit link for details|2022-12-28 at 09:41|
- |[ntbosscher gobase HTTP Request race condition](https://vuldb.com/?id.216947)|Visit link for details|2022-12-28 at 09:40|
+ |[InSTEDD Nuntium geopoll_controller.rb timing discrepancy](https://vuldb.com/?id.217002)|Visit link for details|2022-12-28 at 21:56|
+ |[FlatPress Setup main.lib.php cross site scripting](https://vuldb.com/?id.217001)|Visit link for details|2022-12-28 at 21:52|
+ |[FlatPress XML File Handler/MD File admin.uploader.php onupload cross site scripting](https://vuldb.com/?id.217000)|Visit link for details|2022-12-28 at 21:50|
+ |[FlatPress Admin Area admin.entry.list.php cross site scripting](https://vuldb.com/?id.216999)|Visit link for details|2022-12-28 at 21:47|
+ |[HotCRP cross site scripting](https://vuldb.com/?id.216998)|Visit link for details|2022-12-28 at 21:45|
+ |[Talend Open Studio for MDM SystemStorageWrapper.java xml external entity reference](https://vuldb.com/?id.216997)|Visit link for details|2022-12-28 at 21:39|
+ |[simple_php_link_shortener index.php sql injection](https://vuldb.com/?id.216996)|Visit link for details|2022-12-28 at 21:35|
+ |[Huawei WS7100-20 Wi-Fi Module denial of service](https://vuldb.com/?id.216995)|Visit link for details|2022-12-28 at 21:34|
+ |[Huawei Aslan Children Watch improper authorization](https://vuldb.com/?id.216994)|Visit link for details|2022-12-28 at 21:34|
+ |[Huawei HOTA-Fara-B19 improper authentication](https://vuldb.com/?id.216993)|Visit link for details|2022-12-28 at 21:33|
  
