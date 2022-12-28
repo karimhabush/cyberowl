@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 27/12/2022 21:08:19 UTC
+ > Last Updated 28/12/2022 09:09:33 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,6 +57,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/systemd-information-disclosure-via-fs-suid-dumpable-Bypass-40190" class="noirorange"><b>systemd</b>: information disclosure via fs.suid_dumpable Bypass</a>](https://vigilance.fr/vulnerability/systemd-information-disclosure-via-fs-suid-dumpable-Bypass-40190)|An attacker can bypass access restrictions to data of systemd, via fs.suid_dumpable Bypass, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Gerbv-integer-overflow-via-RS-274X-Aperture-Macro-Variables-40189" class="noirorange"><b>Gerbv</b>: integer overflow via RS-274X Aperture Macro Variables</a>](https://vigilance.fr/vulnerability/Gerbv-integer-overflow-via-RS-274X-Aperture-Macro-Variables-40189)|An attacker can trigger an integer overflow of Gerbv, via RS-274X Aperture Macro Variables, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Gerbv-buffer-overflow-via-RS-274X-Aperture-Macro-Variables-40188" class="noirorange"><b>Gerbv</b>: buffer overflow via RS-274X Aperture Macro Variables</a>](https://vigilance.fr/vulnerability/Gerbv-buffer-overflow-via-RS-274X-Aperture-Macro-Variables-40188)|An attacker can trigger a buffer overflow of Gerbv, via RS-274X Aperture Macro Variables, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/multimon-ng-memory-corruption-via-add-ch-40187" class="noirorange"><b>multimon-ng</b>: memory corruption via add_ch()</a>](https://vigilance.fr/vulnerability/multimon-ng-memory-corruption-via-add-ch-40187)|An attacker can trigger a memory corruption of multimon-ng, via add_ch(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
@@ -67,7 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Node-js-Hawk-overload-via-Regular-Expression-40180" class="noirorange"><b>Node.js Hawk</b>: overload via Regular Expression</a>](https://vigilance.fr/vulnerability/Node-js-Hawk-overload-via-Regular-Expression-40180)|An attacker can trigger an overload of Node.js Hawk, via Regular Expression, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-multiple-vulnerabilities-40179" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-multiple-vulnerabilities-40179)|An attacker can use several vulnerabilities of WebKitGTK  WPE WebKit...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/mod-auth-openidc-open-redirect-via-Logout-Parameter-40178" class="noirorange"><b>mod_auth_openidc</b>: open redirect via Logout Parameter</a>](https://vigilance.fr/vulnerability/mod-auth-openidc-open-redirect-via-Logout-Parameter-40178)|An attacker can deceive the user of mod_auth_openidc, via Logout Parameter, in order to redirect him to a malicious site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Insight-NULL-pointer-dereference-via-bfd-elf-get-symbol-version-string-40177" class="noirorange"><b>Insight</b>: NULL pointer dereference via <wbr>_bfd_elf_get_symbol_<wbr>version_string()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Insight-NULL-pointer-dereference-via-bfd-elf-get-symbol-version-string-40177)|An attacker can force a NULL pointer to be dereferenced on Insight, via |Visit link for details|
  
  ---
 
@@ -93,14 +93,14 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[OpenMRS openmrs-module-referenceapplication User App Page UserAppPageController.java post cross site scripting](https://vuldb.com/?id.216883)|Visit link for details|2022-12-27 at 13:28|
- |[Indeed Engineering util ViewExportedVariablesServlet.java appendTo cross site scripting](https://vuldb.com/?id.216882)|Visit link for details|2022-12-27 at 13:26|
- |[OpenMRS openmrs-module-referenceapplication userApp.gsp cross site scripting](https://vuldb.com/?id.216881)|Visit link for details|2022-12-27 at 13:21|
- |[dolibarr_project_timesheet Form cross-site request forgery](https://vuldb.com/?id.216880)|Visit link for details|2022-12-27 at 13:19|
- |[moodle-block_sitenews block_sitenews.php get_content cross-site request forgery](https://vuldb.com/?id.216879)|Visit link for details|2022-12-27 at 13:16|
- |[FreePBX arimanager Views cross site scripting](https://vuldb.com/?id.216878)|Visit link for details|2022-12-27 at 13:09|
- |[Morgawr Muon handler.clj random values](https://vuldb.com/?id.216877)|Visit link for details|2022-12-27 at 13:03|
- |[ReFirm Labs binwalk Archive Extraction extractor.py symlink](https://vuldb.com/?id.216876)|Visit link for details|2022-12-27 at 11:37|
- |[cocagne pysrp _ctsrp.py calculate_x information exposure](https://vuldb.com/?id.216875)|Visit link for details|2022-12-27 at 11:26|
- |[Nagios NCPA tail.html cross site scripting](https://vuldb.com/?id.216874)|Visit link for details|2022-12-27 at 11:23|
+ |[Harvest Chosen abstract-chosen.coffee AbstractChosen cross site scripting](https://vuldb.com/?id.216956)|Visit link for details|2022-12-28 at 10:09|
+ |[Nakiami Mellivora Admin Panel user.inc.php print_user_ip_log cross site scripting](https://vuldb.com/?id.216955)|Visit link for details|2022-12-28 at 10:00|
+ |[gnuboard youngcart5 menu_list_update.php cross site scripting](https://vuldb.com/?id.216954)|Visit link for details|2022-12-28 at 09:58|
+ |[MeterSphere getMdImageByUrl cross site scripting](https://vuldb.com/?id.216953)|Visit link for details|2022-12-28 at 09:54|
+ |[btcsuite go-socks LocalAddr stack-based overflow](https://vuldb.com/?id.216952)|Visit link for details|2022-12-28 at 09:53|
+ |[shiyanhui dht Messages resource consumption](https://vuldb.com/?id.216951)|Visit link for details|2022-12-28 at 09:48|
+ |[H3C Firewall access control](https://vuldb.com/?id.216950)|Visit link for details|2022-12-28 at 09:47|
+ |[go-yaml YAML Document resource consumption](https://vuldb.com/?id.216949)|Visit link for details|2022-12-28 at 09:42|
+ |[ipld go-codec-dagpb Invalid Block memory corruption](https://vuldb.com/?id.216948)|Visit link for details|2022-12-28 at 09:41|
+ |[ntbosscher gobase HTTP Request race condition](https://vuldb.com/?id.216947)|Visit link for details|2022-12-28 at 09:40|
  
