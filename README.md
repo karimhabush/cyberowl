@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 28/12/2022 21:07:55 UTC
+ > Last Updated 29/12/2022 09:11:00 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,6 +57,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Traffic-Server-Cross-Site-Scripting-via-Xdebug-Plugin-40198" class="noirorange"><b>Apache Traffic Server</b>: Cross Site Scripting via Xdebug Plugin</a>](https://vigilance.fr/vulnerability/Apache-Traffic-Server-Cross-Site-Scripting-via-Xdebug-Plugin-40198)|An attacker can trigger a Cross Site Scripting of Apache Traffic Server, via Xdebug Plugin, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Traffic-Server-denial-of-service-via-Client-Request-Body-40197" class="noirorange"><b>Apache Traffic Server</b>: denial of service via Client Request Body</a>](https://vigilance.fr/vulnerability/Apache-Traffic-Server-denial-of-service-via-Client-Request-Body-40197)|An attacker can cause a fatal error of Apache Traffic Server, via Client Request Body, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Traffic-Server-denial-of-service-via-Requests-40196" class="noirorange"><b>Apache Traffic Server</b>: denial of service via Requests</a>](https://vigilance.fr/vulnerability/Apache-Traffic-Server-denial-of-service-via-Requests-40196)|An attacker can cause a fatal error of Apache Traffic Server, via Requests, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Vim-denial-of-service-via-num-divide-40194" class="noirorange"><b>Vim</b>: denial of service via num_divide()</a>](https://vigilance.fr/vulnerability/Vim-denial-of-service-via-num-divide-40194)|An attacker can cause a fatal error of Vim, via num_divide(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-did-set-spelllang-40193" class="noirorange"><b>Vim</b>: reuse after free via did_set_spelllang()</a>](https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-did-set-spelllang-40193)|An attacker can force the reuse of a freed memory area of Vim, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-do-put-40192" class="noirorange"><b>Vim</b>: buffer overflow via do_put()</a>](https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-do-put-40192)|An attacker can trigger a buffer overflow of Vim, via do_put(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
@@ -65,9 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Gerbv-integer-overflow-via-RS-274X-Aperture-Macro-Variables-40189" class="noirorange"><b>Gerbv</b>: integer overflow via RS-274X Aperture Macro Variables</a>](https://vigilance.fr/vulnerability/Gerbv-integer-overflow-via-RS-274X-Aperture-Macro-Variables-40189)|An attacker can trigger an integer overflow of Gerbv, via RS-274X Aperture Macro Variables, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Gerbv-buffer-overflow-via-RS-274X-Aperture-Macro-Variables-40188" class="noirorange"><b>Gerbv</b>: buffer overflow via RS-274X Aperture Macro Variables</a>](https://vigilance.fr/vulnerability/Gerbv-buffer-overflow-via-RS-274X-Aperture-Macro-Variables-40188)|An attacker can trigger a buffer overflow of Gerbv, via RS-274X Aperture Macro Variables, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/multimon-ng-memory-corruption-via-add-ch-40187" class="noirorange"><b>multimon-ng</b>: memory corruption via add_ch()</a>](https://vigilance.fr/vulnerability/multimon-ng-memory-corruption-via-add-ch-40187)|An attacker can trigger a memory corruption of multimon-ng, via add_ch(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Eclipse-Openj9-information-disclosure-via-jdk-internal-reflect-ConstantPool-40184" class="noirorange"><b>Eclipse Openj9</b>: information disclosure via <wbr>jdk.internal.reflect<wbr>.ConstantPool</wbr></wbr></a>](https://vigilance.fr/vulnerability/Eclipse-Openj9-information-disclosure-via-jdk-internal-reflect-ConstantPool-40184)|An attacker can bypass access restrictions to data of Eclipse Openj9, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/AIX-denial-of-service-via-SMB-Client-Daemon-40183" class="noirorange"><b>AIX</b>: denial of service via SMB Client Daemon</a>](https://vigilance.fr/vulnerability/AIX-denial-of-service-via-SMB-Client-Daemon-40183)|An attacker can cause a fatal error of AIX, via SMB Client Daemon, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mbed-TLS-six-vulnerabilities-40182" class="noirorange"><b>Mbed TLS</b>: six vulnerabilities</a>](https://vigilance.fr/vulnerability/Mbed-TLS-six-vulnerabilities-40182)|An attacker can use several vulnerabilities of Mbed TLS...|Visit link for details|
  
  ---
 
@@ -93,14 +93,14 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[InSTEDD Nuntium geopoll_controller.rb timing discrepancy](https://vuldb.com/?id.217002)|Visit link for details|2022-12-28 at 21:56|
- |[FlatPress Setup main.lib.php cross site scripting](https://vuldb.com/?id.217001)|Visit link for details|2022-12-28 at 21:52|
- |[FlatPress XML File Handler/MD File admin.uploader.php onupload cross site scripting](https://vuldb.com/?id.217000)|Visit link for details|2022-12-28 at 21:50|
- |[FlatPress Admin Area admin.entry.list.php cross site scripting](https://vuldb.com/?id.216999)|Visit link for details|2022-12-28 at 21:47|
- |[HotCRP cross site scripting](https://vuldb.com/?id.216998)|Visit link for details|2022-12-28 at 21:45|
- |[Talend Open Studio for MDM SystemStorageWrapper.java xml external entity reference](https://vuldb.com/?id.216997)|Visit link for details|2022-12-28 at 21:39|
- |[simple_php_link_shortener index.php sql injection](https://vuldb.com/?id.216996)|Visit link for details|2022-12-28 at 21:35|
- |[Huawei WS7100-20 Wi-Fi Module denial of service](https://vuldb.com/?id.216995)|Visit link for details|2022-12-28 at 21:34|
- |[Huawei Aslan Children Watch improper authorization](https://vuldb.com/?id.216994)|Visit link for details|2022-12-28 at 21:34|
- |[Huawei HOTA-Fara-B19 improper authentication](https://vuldb.com/?id.216993)|Visit link for details|2022-12-28 at 21:33|
+ |[w3c Unicorn ValidatorNuMessage.java ValidatorNuMessage cross site scripting](https://vuldb.com/?id.217019)|Visit link for details|2022-12-29 at 09:57|
+ |[ONC code-validator-api XML CodeValidatorApiConfiguration.java vocabularyValidationConfigurations xml external entity reference](https://vuldb.com/?id.217018)|Visit link for details|2022-12-29 at 09:13|
+ |[Twitter-Post-Fetcher Link Target twitterFetcher.js reverse tabnabbing](https://vuldb.com/?id.217017)|Visit link for details|2022-12-29 at 09:01|
+ |[cri-o passwd Privilege Escalation](https://vuldb.com/?id.217016)|Visit link for details|2022-12-29 at 08:55|
+ |[Google Android information disclosure](https://vuldb.com/?id.217015)|Visit link for details|2022-12-29 at 08:54|
+ |[Elvexys ISOS StreamX Installer hard-coded credentials](https://vuldb.com/?id.217014)|Visit link for details|2022-12-29 at 08:52|
+ |[Elvexys StreamX HTML Component improper authentication](https://vuldb.com/?id.217013)|Visit link for details|2022-12-29 at 08:50|
+ |[Elvexys StreamX HTML Component path traversal](https://vuldb.com/?id.217012)|Visit link for details|2022-12-29 at 08:49|
+ |[X.org X11 Server XkbCopyNames double free](https://vuldb.com/?id.217011)|Visit link for details|2022-12-29 at 00:02|
+ |[D-Link DIR-825 xupnpd command injection](https://vuldb.com/?id.217010)|Visit link for details|2022-12-29 at 23:59|
  
