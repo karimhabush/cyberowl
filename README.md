@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 29/12/2022 09:11:00 UTC
+ > Last Updated 29/12/2022 21:09:41 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -27,12 +27,12 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2022/12/29/cisa-adds-two-known-exploited-vulnerabilities-catalog)|<p>CISA has added two new vulnerabilities to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. <strong>Note</strong>: To view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.</p>|Thursday, December 29, 2022|
  |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/uscert/ncas/current-activity/2022/12/22/cisa-releases-four-industrial-control-systems-advisories)|<p>CISA released four Industrial Control Systems (ICS) advisories on December 22, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p>|Thursday, December 22, 2022|
  |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/uscert/ncas/current-activity/2022/12/20/cisa-releases-six-industrial-control-systems-advisories)|<p>CISA released six Industrial Control Systems (ICS) advisories on December 20, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p>|Tuesday, December 20, 2022|
  |[Samba Releases Security Updates](https://www.cisa.gov/uscert/ncas/current-activity/2022/12/16/samba-releases-security-updates)|<p>The Samba Team has released security updates to address vulnerabilities in multiple versions of Samba. An attacker could exploit some of these vulnerabilities to take control of an affected system. </p>|Friday, December 16, 2022|
  |[FBI, FDA OCI, and USDA Release Joint Cybersecurity Advisory Regarding Business Email Compromise Schemes Used to Steal Food](https://www.cisa.gov/uscert/ncas/current-activity/2022/12/16/fbi-fda-oci-and-usda-release-joint-cybersecurity-advisory)|<p>The Federal Bureau of Investigation (FBI), the Food and Drug Administration Office of Criminal Investigations (FDA OCI), and the U.S. Department of Agriculture (USDA) have released a joint Cybersecurity Advisory (CSA) detailing recently observed incidents of criminal actors using business email compromise (BEC) to steal shipments of food products and ingredients valued at hundreds of thousands of dollars.</p>|Friday, December 16, 2022|
  |[CISA Releases Forty-One Industrial Control Systems Advisories](https://www.cisa.gov/uscert/ncas/current-activity/2022/12/15/cisa-releases-forty-one-industrial-control-systems-advisories)|<p>CISA has released forty-one (41) Industrial Control Systems (ICS) advisories on 15 December 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p>|Thursday, December 15, 2022|
- |[Drupal Releases Security Updates to Address Vulnerabilities in H5P and File (Field) Paths](https://www.cisa.gov/uscert/ncas/current-activity/2022/12/15/drupal-releases-security-updates-address-vulnerabilities-h5p-and)|<p>Drupal has released security updates to address vulnerabilities affecting H5P and the File (Field) Paths modules for Drupal 7.x. An attacker could exploit these vulnerabilities to access sensitive information and remotely execute code.</p>|Thursday, December 15, 2022|
  
  ---
 
@@ -57,6 +57,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/ArcGIS-Server-directory-traversal-40199" class="noirorange"><b>ArcGIS Server</b>: directory traversal</a>](https://vigilance.fr/vulnerability/ArcGIS-Server-directory-traversal-40199)|An attacker can traverse directories of ArcGIS Server, in order to read or write a file outside the service root path...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-Traffic-Server-Cross-Site-Scripting-via-Xdebug-Plugin-40198" class="noirorange"><b>Apache Traffic Server</b>: Cross Site Scripting via Xdebug Plugin</a>](https://vigilance.fr/vulnerability/Apache-Traffic-Server-Cross-Site-Scripting-via-Xdebug-Plugin-40198)|An attacker can trigger a Cross Site Scripting of Apache Traffic Server, via Xdebug Plugin, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-Traffic-Server-denial-of-service-via-Client-Request-Body-40197" class="noirorange"><b>Apache Traffic Server</b>: denial of service via Client Request Body</a>](https://vigilance.fr/vulnerability/Apache-Traffic-Server-denial-of-service-via-Client-Request-Body-40197)|An attacker can cause a fatal error of Apache Traffic Server, via Client Request Body, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-Traffic-Server-denial-of-service-via-Requests-40196" class="noirorange"><b>Apache Traffic Server</b>: denial of service via Requests</a>](https://vigilance.fr/vulnerability/Apache-Traffic-Server-denial-of-service-via-Requests-40196)|An attacker can cause a fatal error of Apache Traffic Server, via Requests, in order to trigger a denial of service...|Visit link for details|
@@ -67,7 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/systemd-information-disclosure-via-fs-suid-dumpable-Bypass-40190" class="noirorange"><b>systemd</b>: information disclosure via fs.suid_dumpable Bypass</a>](https://vigilance.fr/vulnerability/systemd-information-disclosure-via-fs-suid-dumpable-Bypass-40190)|An attacker can bypass access restrictions to data of systemd, via fs.suid_dumpable Bypass, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Gerbv-integer-overflow-via-RS-274X-Aperture-Macro-Variables-40189" class="noirorange"><b>Gerbv</b>: integer overflow via RS-274X Aperture Macro Variables</a>](https://vigilance.fr/vulnerability/Gerbv-integer-overflow-via-RS-274X-Aperture-Macro-Variables-40189)|An attacker can trigger an integer overflow of Gerbv, via RS-274X Aperture Macro Variables, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Gerbv-buffer-overflow-via-RS-274X-Aperture-Macro-Variables-40188" class="noirorange"><b>Gerbv</b>: buffer overflow via RS-274X Aperture Macro Variables</a>](https://vigilance.fr/vulnerability/Gerbv-buffer-overflow-via-RS-274X-Aperture-Macro-Variables-40188)|An attacker can trigger a buffer overflow of Gerbv, via RS-274X Aperture Macro Variables, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/multimon-ng-memory-corruption-via-add-ch-40187" class="noirorange"><b>multimon-ng</b>: memory corruption via add_ch()</a>](https://vigilance.fr/vulnerability/multimon-ng-memory-corruption-via-add-ch-40187)|An attacker can trigger a memory corruption of multimon-ng, via add_ch(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
  ---
 
