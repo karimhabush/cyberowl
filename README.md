@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 29/12/2022 21:09:41 UTC
+ > Last Updated 30/12/2022 09:09:37 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,6 +57,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Commons-Net-information-disclosure-via-FTP-Client-PASV-Host-40200" class="noirorange"><b>Apache Commons Net</b>: information disclosure via FTP Client PASV Host</a>](https://vigilance.fr/vulnerability/Apache-Commons-Net-information-disclosure-via-FTP-Client-PASV-Host-40200)|An attacker can bypass access restrictions to data of Apache Commons Net, via FTP Client PASV Host, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ArcGIS-Server-directory-traversal-40199" class="noirorange"><b>ArcGIS Server</b>: directory traversal</a>](https://vigilance.fr/vulnerability/ArcGIS-Server-directory-traversal-40199)|An attacker can traverse directories of ArcGIS Server, in order to read or write a file outside the service root path...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-Traffic-Server-Cross-Site-Scripting-via-Xdebug-Plugin-40198" class="noirorange"><b>Apache Traffic Server</b>: Cross Site Scripting via Xdebug Plugin</a>](https://vigilance.fr/vulnerability/Apache-Traffic-Server-Cross-Site-Scripting-via-Xdebug-Plugin-40198)|An attacker can trigger a Cross Site Scripting of Apache Traffic Server, via Xdebug Plugin, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-Traffic-Server-denial-of-service-via-Client-Request-Body-40197" class="noirorange"><b>Apache Traffic Server</b>: denial of service via Client Request Body</a>](https://vigilance.fr/vulnerability/Apache-Traffic-Server-denial-of-service-via-Client-Request-Body-40197)|An attacker can cause a fatal error of Apache Traffic Server, via Client Request Body, in order to trigger a denial of service...|Visit link for details|
@@ -67,7 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-compile-redir-40191" class="noirorange"><b>Vim</b>: buffer overflow via compile_redir()</a>](https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-compile-redir-40191)|An attacker can trigger a buffer overflow of Vim, via compile_redir(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/systemd-information-disclosure-via-fs-suid-dumpable-Bypass-40190" class="noirorange"><b>systemd</b>: information disclosure via fs.suid_dumpable Bypass</a>](https://vigilance.fr/vulnerability/systemd-information-disclosure-via-fs-suid-dumpable-Bypass-40190)|An attacker can bypass access restrictions to data of systemd, via fs.suid_dumpable Bypass, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Gerbv-integer-overflow-via-RS-274X-Aperture-Macro-Variables-40189" class="noirorange"><b>Gerbv</b>: integer overflow via RS-274X Aperture Macro Variables</a>](https://vigilance.fr/vulnerability/Gerbv-integer-overflow-via-RS-274X-Aperture-Macro-Variables-40189)|An attacker can trigger an integer overflow of Gerbv, via RS-274X Aperture Macro Variables, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Gerbv-buffer-overflow-via-RS-274X-Aperture-Macro-Variables-40188" class="noirorange"><b>Gerbv</b>: buffer overflow via RS-274X Aperture Macro Variables</a>](https://vigilance.fr/vulnerability/Gerbv-buffer-overflow-via-RS-274X-Aperture-Macro-Variables-40188)|An attacker can trigger a buffer overflow of Gerbv, via RS-274X Aperture Macro Variables, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
  ---
 
@@ -93,14 +93,4 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[w3c Unicorn ValidatorNuMessage.java ValidatorNuMessage cross site scripting](https://vuldb.com/?id.217019)|Visit link for details|2022-12-29 at 09:57|
- |[ONC code-validator-api XML CodeValidatorApiConfiguration.java vocabularyValidationConfigurations xml external entity reference](https://vuldb.com/?id.217018)|Visit link for details|2022-12-29 at 09:13|
- |[Twitter-Post-Fetcher Link Target twitterFetcher.js reverse tabnabbing](https://vuldb.com/?id.217017)|Visit link for details|2022-12-29 at 09:01|
- |[cri-o passwd Privilege Escalation](https://vuldb.com/?id.217016)|Visit link for details|2022-12-29 at 08:55|
- |[Google Android information disclosure](https://vuldb.com/?id.217015)|Visit link for details|2022-12-29 at 08:54|
- |[Elvexys ISOS StreamX Installer hard-coded credentials](https://vuldb.com/?id.217014)|Visit link for details|2022-12-29 at 08:52|
- |[Elvexys StreamX HTML Component improper authentication](https://vuldb.com/?id.217013)|Visit link for details|2022-12-29 at 08:50|
- |[Elvexys StreamX HTML Component path traversal](https://vuldb.com/?id.217012)|Visit link for details|2022-12-29 at 08:49|
- |[X.org X11 Server XkbCopyNames double free](https://vuldb.com/?id.217011)|Visit link for details|2022-12-29 at 00:02|
- |[D-Link DIR-825 xupnpd command injection](https://vuldb.com/?id.217010)|Visit link for details|2022-12-29 at 23:59|
  
