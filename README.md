@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 30/12/2022 09:09:37 UTC
+ > Last Updated 30/12/2022 21:09:32 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -75,6 +75,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[39613012/22 - Vulnérabilité critique dans plusieurs modèles de routeur Wi-Fi NETGEAR](https://www.dgssi.gov.ma//fr/content/3961301222-vulnerabilite-critique-dans-plusieurs-modeles-de-routeur-wi-fi-netgear.html)|Une vulnérabilité critique a été corrigée dans plusieurs modèles de routeur Wi-Fi NET-GEAR. L’exploitation de cette faille peut permettre à un attaquant d’exécuter du code arbitraire à distance et de causer un déni de service.|30 décembre 2022|
  |[39602612/22 - Vulnérabilité critique dans le CMS Ghost ](https://www.dgssi.gov.ma//fr/content/3960261222-vulnerabilite-critique-dans-le-cms-ghost.html)|Une vulnérabilité critique a été corrigée dans le système d'abonnement aux newsletters du CMS Ghost. L'exploitation de cette faille pourrait permettre à des attaquants de créer ou de modifier des newsletters en insérant du code...|26 décembre 2022|
  |[39592012/22 - Vulnérabilité dans Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/3959201222-vulnerabilite-dans-mozilla-thunderbird.html)|Mozilla a publié une mise à jour de sécurité pour corriger une vulnérabilité affectant Mozilla Thunderbird. Un attaquant pourrait exploiter cette faille afin d’exécuter du code arbitraire à distance.|22 décembre 2022|
  |[39602112/22 - Anciennes vulnérabilités des produits Cisco activement exploitées](https://www.dgssi.gov.ma//fr/content/3960211222-anciennes-vulnerabilites-des-produits-cisco-activement-exploitees.html)|Cisco a mis à jour plusieurs avis de sécurité pour signaler l'exploitation active de plusieurs anciennes vulnérabilités affectant ses produits. Les failles, dont certaines sont classées comme critiques, ont un impact sur les systèmes...|21 décembre 2022|
@@ -85,7 +86,6 @@
  |[39551612/22 - Vulnérabilités affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/3955161222-vulnerabilites-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger cinqvulnérabilitésaffectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre àun attaquant d’exécuter du code arbitraire.|16 décembre 2022|
  |[39541612/22 - Vulnérabilités affectant le CMS Drupal](https://www.dgssi.gov.ma//fr/content/3954161222-vulnerabilites-affectant-le-cms-drupal.html)|Drupal annonce la disponibilité de mises à jour de sécurité qui corrigent deux vulnérabilités auniveaudes deux modules susmentionnées de son CMS. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’accéder à des...|16 décembre 2022|
  |[39531512/22 - Vulnérabilités affectant plusieursproduits SAP](https://www.dgssi.gov.ma//fr/content/3953151222-vulnerabilites-affectant-plusieurs-produits-sap.html)|SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuterdu code arbitraire ou...|15 décembre 2022|
- |[39521512/22 - Vulnérabilités affectantdes produits Mozilla ](https://www.dgssi.gov.ma//fr/content/3952151222-vulnerabilites-affectant-des-produits-mozilla.html)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités au niveau de trois produits de Mozilla. L’exploitation de cesvulnérabilités peut permettre à un...|15 décembre 2022|
  
  ---
 
@@ -93,4 +93,14 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[ghostlander Phoenixcoin main.cpp accept denial of service](https://vuldb.com/?id.217068)|Visit link for details|2022-12-30 at 21:45|
+ |[usememos insufficient permissions or privileges](https://vuldb.com/?id.217067)|Visit link for details|2022-12-30 at 18:55|
+ |[M-Files Server Token unknown vulnerability](https://vuldb.com/?id.217066)|Visit link for details|2022-12-30 at 17:22|
+ |[M-Files Server Token log file](https://vuldb.com/?id.217065)|Visit link for details|2022-12-30 at 15:17|
+ |[FreeRADIUS Server SIM Option eapsimlib.c null pointer dereference](https://vuldb.com/?id.217064)|Visit link for details|2022-12-30 at 15:16|
+ |[FreeRADIUS Server filters.c denial of service](https://vuldb.com/?id.217063)|Visit link for details|2022-12-30 at 15:15|
+ |[Linux Kernel SYSCTL Subsystem stack-based overflow](https://vuldb.com/?id.217062)|Visit link for details|2022-12-30 at 15:13|
+ |[Apache Kylin Diagnosis Controller command injection](https://vuldb.com/?id.217061)|Visit link for details|2022-12-30 at 14:12|
+ |[Apache Kylin Configuration command injection](https://vuldb.com/?id.217060)|Visit link for details|2022-12-30 at 14:11|
+ |[KBase Metrics methods_upload_user_stats.py upload_user_data sql injection](https://vuldb.com/?id.217059)|Visit link for details|2022-12-30 at 12:54|
  
