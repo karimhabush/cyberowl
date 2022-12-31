@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 30/12/2022 21:09:32 UTC
+ > Last Updated 31/12/2022 09:08:43 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -93,14 +93,4 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[ghostlander Phoenixcoin main.cpp accept denial of service](https://vuldb.com/?id.217068)|Visit link for details|2022-12-30 at 21:45|
- |[usememos insufficient permissions or privileges](https://vuldb.com/?id.217067)|Visit link for details|2022-12-30 at 18:55|
- |[M-Files Server Token unknown vulnerability](https://vuldb.com/?id.217066)|Visit link for details|2022-12-30 at 17:22|
- |[M-Files Server Token log file](https://vuldb.com/?id.217065)|Visit link for details|2022-12-30 at 15:17|
- |[FreeRADIUS Server SIM Option eapsimlib.c null pointer dereference](https://vuldb.com/?id.217064)|Visit link for details|2022-12-30 at 15:16|
- |[FreeRADIUS Server filters.c denial of service](https://vuldb.com/?id.217063)|Visit link for details|2022-12-30 at 15:15|
- |[Linux Kernel SYSCTL Subsystem stack-based overflow](https://vuldb.com/?id.217062)|Visit link for details|2022-12-30 at 15:13|
- |[Apache Kylin Diagnosis Controller command injection](https://vuldb.com/?id.217061)|Visit link for details|2022-12-30 at 14:12|
- |[Apache Kylin Configuration command injection](https://vuldb.com/?id.217060)|Visit link for details|2022-12-30 at 14:11|
- |[KBase Metrics methods_upload_user_stats.py upload_user_data sql injection](https://vuldb.com/?id.217059)|Visit link for details|2022-12-30 at 12:54|
  
