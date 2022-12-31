@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 31/12/2022 09:08:43 UTC
+ > Last Updated 31/12/2022 21:08:50 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -93,4 +93,14 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[rgb2hex redos](https://vuldb.com/?id.217151)|Visit link for details|2022-12-31 at 20:38|
+ |[ttskch PaginationServiceProvider Demo index.php sql injection](https://vuldb.com/?id.217150)|Visit link for details|2022-12-31 at 20:32|
+ |[flitto express-param fetchParams.js parameter pollution](https://vuldb.com/?id.217149)|Visit link for details|2022-12-31 at 20:20|
+ |[valtech IDP Test Client main.py cross-site request forgery](https://vuldb.com/?id.217148)|Visit link for details|2022-12-31 at 20:16|
+ |[Yuna Scatari TBDev usersearch.php get_user_icons cross site scripting](https://vuldb.com/?id.217147)|Visit link for details|2022-12-31 at 16:17|
+ |[froxlor cross-site request forgery](https://vuldb.com/?id.217146)|Visit link for details|2022-12-31 at 12:42|
+ |[usememos cross site scripting](https://vuldb.com/?id.217145)|Visit link for details|2022-12-31 at 12:42|
+ |[usememos cross site scripting](https://vuldb.com/?id.217144)|Visit link for details|2022-12-31 at 12:41|
+ |[froxlor improper authorization](https://vuldb.com/?id.217143)|Visit link for details|2022-12-31 at 12:40|
+ |[rf Keynote rumble.rb cross site scripting](https://vuldb.com/?id.217142)|Visit link for details|2022-12-31 at 11:09|
  
