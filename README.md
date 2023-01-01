@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 31/12/2022 21:08:50 UTC
+ > Last Updated 01/01/2023 09:09:10 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -71,6 +71,23 @@
  
  ---
 
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[taoeffect Empress hard-coded password](https://vuldb.com/?id.217154)|Visit link for details|2023-01-01 at 09:40|
+ |[Zenoss Dashboard defaultportlets.js cross site scripting](https://vuldb.com/?id.217153)|Visit link for details|2023-01-01 at 09:37|
+ |[flar2 ElementalX ipsec xfrm_user.c xfrm_dump_policy_done denial of service](https://vuldb.com/?id.217152)|Visit link for details|2023-01-01 at 09:19|
+ |[rgb2hex redos](https://vuldb.com/?id.217151)|Visit link for details|2023-01-01 at 20:38|
+ |[ttskch PaginationServiceProvider Demo index.php sql injection](https://vuldb.com/?id.217150)|Visit link for details|2023-01-01 at 20:32|
+ |[flitto express-param fetchParams.js parameter pollution](https://vuldb.com/?id.217149)|Visit link for details|2023-01-01 at 20:20|
+ |[valtech IDP Test Client main.py cross-site request forgery](https://vuldb.com/?id.217148)|Visit link for details|2023-01-01 at 20:16|
+ |[Yuna Scatari TBDev usersearch.php get_user_icons cross site scripting](https://vuldb.com/?id.217147)|Visit link for details|2023-01-01 at 16:17|
+ |[froxlor cross-site request forgery](https://vuldb.com/?id.217146)|Visit link for details|2023-01-01 at 12:42|
+ |[usememos cross site scripting](https://vuldb.com/?id.217145)|Visit link for details|2023-01-01 at 12:42|
+ 
+ ---
+
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -86,21 +103,4 @@
  |[39551612/22 - Vulnérabilités affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/3955161222-vulnerabilites-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger cinqvulnérabilitésaffectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre àun attaquant d’exécuter du code arbitraire.|16 décembre 2022|
  |[39541612/22 - Vulnérabilités affectant le CMS Drupal](https://www.dgssi.gov.ma//fr/content/3954161222-vulnerabilites-affectant-le-cms-drupal.html)|Drupal annonce la disponibilité de mises à jour de sécurité qui corrigent deux vulnérabilités auniveaudes deux modules susmentionnées de son CMS. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’accéder à des...|16 décembre 2022|
  |[39531512/22 - Vulnérabilités affectant plusieursproduits SAP](https://www.dgssi.gov.ma//fr/content/3953151222-vulnerabilites-affectant-plusieurs-produits-sap.html)|SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuterdu code arbitraire ou...|15 décembre 2022|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[rgb2hex redos](https://vuldb.com/?id.217151)|Visit link for details|2022-12-31 at 20:38|
- |[ttskch PaginationServiceProvider Demo index.php sql injection](https://vuldb.com/?id.217150)|Visit link for details|2022-12-31 at 20:32|
- |[flitto express-param fetchParams.js parameter pollution](https://vuldb.com/?id.217149)|Visit link for details|2022-12-31 at 20:20|
- |[valtech IDP Test Client main.py cross-site request forgery](https://vuldb.com/?id.217148)|Visit link for details|2022-12-31 at 20:16|
- |[Yuna Scatari TBDev usersearch.php get_user_icons cross site scripting](https://vuldb.com/?id.217147)|Visit link for details|2022-12-31 at 16:17|
- |[froxlor cross-site request forgery](https://vuldb.com/?id.217146)|Visit link for details|2022-12-31 at 12:42|
- |[usememos cross site scripting](https://vuldb.com/?id.217145)|Visit link for details|2022-12-31 at 12:42|
- |[usememos cross site scripting](https://vuldb.com/?id.217144)|Visit link for details|2022-12-31 at 12:41|
- |[froxlor improper authorization](https://vuldb.com/?id.217143)|Visit link for details|2022-12-31 at 12:40|
- |[rf Keynote rumble.rb cross site scripting](https://vuldb.com/?id.217142)|Visit link for details|2022-12-31 at 11:09|
  
