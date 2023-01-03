@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 03/01/2023 11:46:42 UTC
+ > Last Updated 03/01/2023 21:09:53 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,6 +57,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Minetest-code-execution-via-Mod-Lua-Script-40216" class="noirorange"><b>Minetest</b>: code execution via Mod Lua Script</a>](https://vigilance.fr/vulnerability/Minetest-code-execution-via-Mod-Lua-Script-40216)|An attacker can use a vulnerability of Minetest, via Mod Lua Script, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/saphanabootstrap-formula-privilege-escalation-via-ha-cluster-sls-40215" class="noirorange"><b>saphanabootstrap-for<wbr>mula</wbr></b>: privilege escalation via ha_cluster.sls</a>](https://vigilance.fr/vulnerability/saphanabootstrap-formula-privilege-escalation-via-ha-cluster-sls-40215)|An attacker can bypass restrictions of |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FFmpeg-NULL-pointer-dereference-via-vp3-decode-frame-40214" class="noirorange"><b>FFmpeg</b>: NULL pointer dereference via vp3_decode_frame()</a>](https://vigilance.fr/vulnerability/FFmpeg-NULL-pointer-dereference-via-vp3-decode-frame-40214)|An attacker can force a NULL pointer to be dereferenced on FFmpeg, via vp3_decode_frame(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/sdb-denial-of-service-40213" class="noirorange"><b>sdb</b>: denial of service</a>](https://vigilance.fr/vulnerability/sdb-denial-of-service-40213)|An attacker can cause a fatal error of sdb, in order to trigger a denial of service...|Visit link for details|
@@ -67,7 +68,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Node-js-xmldom-ingress-filtrering-bypass-via-Multiple-Roots-40208" class="noirorange"><b>Node.js xmldom</b>: ingress filtrering bypass via Multiple Roots</a>](https://vigilance.fr/vulnerability/Node-js-xmldom-ingress-filtrering-bypass-via-Multiple-Roots-40208)|An attacker can bypass filtering rules of Node.js xmldom, via Multiple Roots, in order to send malicious data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Jettison-denial-of-service-via-Map-Parameter-40207" class="noirorange"><b>Jettison</b>: denial of service via Map Parameter</a>](https://vigilance.fr/vulnerability/Jettison-denial-of-service-via-Map-Parameter-40207)|An attacker can cause a fatal error of Jettison, via Map Parameter, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Jettison-denial-of-service-via-JSON-Braces-40206" class="noirorange"><b>Jettison</b>: denial of service via JSON Braces</a>](https://vigilance.fr/vulnerability/Jettison-denial-of-service-via-JSON-Braces-40206)|An attacker can cause a fatal error of Jettison, via JSON Braces, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jettison-out-of-bounds-memory-reading-via-java-util-Arrays-copyOf-40205" class="noirorange"><b>Jettison</b>: out-of-bounds memory reading via <wbr>java.util.Arrays.cop<wbr>yOf()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Jettison-out-of-bounds-memory-reading-via-java-util-Arrays-copyOf-40205)|An attacker can force a read at an invalid memory address of Jettison, via |Visit link for details|
  
  ---
 
@@ -93,14 +93,14 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Linux Kernel nfs4file.c __nfs42_ssc_open use after free](https://vuldb.com/?id.217272)|Visit link for details|2023-01-03 at 12:15|
- |[ahmyi RivetTracker cross site scripting](https://vuldb.com/?id.217271)|Visit link for details|2023-01-03 at 12:08|
- |[ummmmm nflpick-em.com LoadUsers.php _Load_Users sql injection](https://vuldb.com/?id.217270)|Visit link for details|2023-01-03 at 12:05|
- |[ethitter WP-Print-Friendly wp-print-friendly.php information disclosure](https://vuldb.com/?id.217269)|Visit link for details|2023-01-03 at 12:01|
- |[sumocoders FrameworkUserBundle login.html.twig information exposure](https://vuldb.com/?id.217268)|Visit link for details|2023-01-03 at 09:32|
- |[ahmyi RivetTracker css.php changeColor cross site scripting](https://vuldb.com/?id.217267)|Visit link for details|2023-01-03 at 09:27|
- |[WP RSS by Publishers Plugin sql injection](https://vuldb.com/?id.217266)|Visit link for details|2023-01-03 at 09:24|
- |[WP RSS by Publishers Plugin sql injection](https://vuldb.com/?id.217265)|Visit link for details|2023-01-03 at 09:23|
- |[Web Invoice Plugin Configuration sql injection](https://vuldb.com/?id.217264)|Visit link for details|2023-01-03 at 09:22|
- |[WP RSS by Publishers Plugin sql injection](https://vuldb.com/?id.217263)|Visit link for details|2023-01-03 at 09:21|
+ |[Fortinet FortiPortal cross site scripting](https://vuldb.com/?id.217309)|Visit link for details|2023-01-03 at 21:08|
+ |[Fortinet FortiTester os command injection](https://vuldb.com/?id.217308)|Visit link for details|2023-01-03 at 21:07|
+ |[Fortinet FortiWeb HTTP Response response splitting](https://vuldb.com/?id.217307)|Visit link for details|2023-01-03 at 20:46|
+ |[Fortinet FortiADC HTTP Request os command injection](https://vuldb.com/?id.217306)|Visit link for details|2023-01-03 at 20:45|
+ |[Apache Dubbo Telnet deserialization](https://vuldb.com/?id.217305)|Visit link for details|2023-01-03 at 20:44|
+ |[OneClick Chat to Order Shortcode cross site scripting](https://vuldb.com/?id.217304)|Visit link for details|2023-01-03 at 20:08|
+ |[Landing Page Builder Plugin Shortcode cross site scripting](https://vuldb.com/?id.217303)|Visit link for details|2023-01-03 at 20:08|
+ |[ShiftNav Plugin Shortcode cross site scripting](https://vuldb.com/?id.217302)|Visit link for details|2023-01-03 at 20:07|
+ |[GeoDirectory Plugin Shortcode cross site scripting](https://vuldb.com/?id.217301)|Visit link for details|2023-01-03 at 20:07|
+ |[Structured Content Plugin Shortcode cross site scripting](https://vuldb.com/?id.217300)|Visit link for details|2023-01-03 at 20:06|
  
