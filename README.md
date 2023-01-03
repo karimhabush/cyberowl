@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 01/01/2023 21:07:45 UTC
+ > Last Updated 03/01/2023 11:46:42 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,17 +57,17 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Commons-Net-information-disclosure-via-FTP-Client-PASV-Host-40200" class="noirorange"><b>Apache Commons Net</b>: information disclosure via FTP Client PASV Host</a>](https://vigilance.fr/vulnerability/Apache-Commons-Net-information-disclosure-via-FTP-Client-PASV-Host-40200)|An attacker can bypass access restrictions to data of Apache Commons Net, via FTP Client PASV Host, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ArcGIS-Server-directory-traversal-40199" class="noirorange"><b>ArcGIS Server</b>: directory traversal</a>](https://vigilance.fr/vulnerability/ArcGIS-Server-directory-traversal-40199)|An attacker can traverse directories of ArcGIS Server, in order to read or write a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Traffic-Server-Cross-Site-Scripting-via-Xdebug-Plugin-40198" class="noirorange"><b>Apache Traffic Server</b>: Cross Site Scripting via Xdebug Plugin</a>](https://vigilance.fr/vulnerability/Apache-Traffic-Server-Cross-Site-Scripting-via-Xdebug-Plugin-40198)|An attacker can trigger a Cross Site Scripting of Apache Traffic Server, via Xdebug Plugin, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Traffic-Server-denial-of-service-via-Client-Request-Body-40197" class="noirorange"><b>Apache Traffic Server</b>: denial of service via Client Request Body</a>](https://vigilance.fr/vulnerability/Apache-Traffic-Server-denial-of-service-via-Client-Request-Body-40197)|An attacker can cause a fatal error of Apache Traffic Server, via Client Request Body, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Traffic-Server-denial-of-service-via-Requests-40196" class="noirorange"><b>Apache Traffic Server</b>: denial of service via Requests</a>](https://vigilance.fr/vulnerability/Apache-Traffic-Server-denial-of-service-via-Requests-40196)|An attacker can cause a fatal error of Apache Traffic Server, via Requests, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-denial-of-service-via-num-divide-40194" class="noirorange"><b>Vim</b>: denial of service via num_divide()</a>](https://vigilance.fr/vulnerability/Vim-denial-of-service-via-num-divide-40194)|An attacker can cause a fatal error of Vim, via num_divide(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-did-set-spelllang-40193" class="noirorange"><b>Vim</b>: reuse after free via did_set_spelllang()</a>](https://vigilance.fr/vulnerability/Vim-reuse-after-free-via-did-set-spelllang-40193)|An attacker can force the reuse of a freed memory area of Vim, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-do-put-40192" class="noirorange"><b>Vim</b>: buffer overflow via do_put()</a>](https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-do-put-40192)|An attacker can trigger a buffer overflow of Vim, via do_put(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-compile-redir-40191" class="noirorange"><b>Vim</b>: buffer overflow via compile_redir()</a>](https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-compile-redir-40191)|An attacker can trigger a buffer overflow of Vim, via compile_redir(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/systemd-information-disclosure-via-fs-suid-dumpable-Bypass-40190" class="noirorange"><b>systemd</b>: information disclosure via fs.suid_dumpable Bypass</a>](https://vigilance.fr/vulnerability/systemd-information-disclosure-via-fs-suid-dumpable-Bypass-40190)|An attacker can bypass access restrictions to data of systemd, via fs.suid_dumpable Bypass, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Gerbv-integer-overflow-via-RS-274X-Aperture-Macro-Variables-40189" class="noirorange"><b>Gerbv</b>: integer overflow via RS-274X Aperture Macro Variables</a>](https://vigilance.fr/vulnerability/Gerbv-integer-overflow-via-RS-274X-Aperture-Macro-Variables-40189)|An attacker can trigger an integer overflow of Gerbv, via RS-274X Aperture Macro Variables, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/saphanabootstrap-formula-privilege-escalation-via-ha-cluster-sls-40215" class="noirorange"><b>saphanabootstrap-for<wbr>mula</wbr></b>: privilege escalation via ha_cluster.sls</a>](https://vigilance.fr/vulnerability/saphanabootstrap-formula-privilege-escalation-via-ha-cluster-sls-40215)|An attacker can bypass restrictions of |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FFmpeg-NULL-pointer-dereference-via-vp3-decode-frame-40214" class="noirorange"><b>FFmpeg</b>: NULL pointer dereference via vp3_decode_frame()</a>](https://vigilance.fr/vulnerability/FFmpeg-NULL-pointer-dereference-via-vp3-decode-frame-40214)|An attacker can force a NULL pointer to be dereferenced on FFmpeg, via vp3_decode_frame(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/sdb-denial-of-service-40213" class="noirorange"><b>sdb</b>: denial of service</a>](https://vigilance.fr/vulnerability/sdb-denial-of-service-40213)|An attacker can cause a fatal error of sdb, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/w3m-buffer-overflow-via-checkType-40212" class="noirorange"><b>w3m</b>: buffer overflow via checkType()</a>](https://vigilance.fr/vulnerability/w3m-buffer-overflow-via-checkType-40212)|An attacker can trigger a buffer overflow of w3m, via checkType(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenImageIO-multiple-vulnerabilities-40211" class="noirorange"><b>OpenImageIO</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/OpenImageIO-multiple-vulnerabilities-40211)|An attacker can use several vulnerabilities of OpenImageIO...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/systemd-denial-of-service-via-parse-elf-object-40210" class="noirorange"><b>systemd</b>: denial of service via parse_elf_object()</a>](https://vigilance.fr/vulnerability/systemd-denial-of-service-via-parse-elf-object-40210)|An attacker can cause a fatal error of systemd, via parse_elf_object(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ImageProcessing-code-execution-via-Vips-apply-40209" class="noirorange"><b>ImageProcessing</b>: code execution via Vips.apply()</a>](https://vigilance.fr/vulnerability/ImageProcessing-code-execution-via-Vips-apply-40209)|An attacker can use a vulnerability of ImageProcessing, via Vips.apply(), in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-xmldom-ingress-filtrering-bypass-via-Multiple-Roots-40208" class="noirorange"><b>Node.js xmldom</b>: ingress filtrering bypass via Multiple Roots</a>](https://vigilance.fr/vulnerability/Node-js-xmldom-ingress-filtrering-bypass-via-Multiple-Roots-40208)|An attacker can bypass filtering rules of Node.js xmldom, via Multiple Roots, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Jettison-denial-of-service-via-Map-Parameter-40207" class="noirorange"><b>Jettison</b>: denial of service via Map Parameter</a>](https://vigilance.fr/vulnerability/Jettison-denial-of-service-via-Map-Parameter-40207)|An attacker can cause a fatal error of Jettison, via Map Parameter, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Jettison-denial-of-service-via-JSON-Braces-40206" class="noirorange"><b>Jettison</b>: denial of service via JSON Braces</a>](https://vigilance.fr/vulnerability/Jettison-denial-of-service-via-JSON-Braces-40206)|An attacker can cause a fatal error of Jettison, via JSON Braces, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Jettison-out-of-bounds-memory-reading-via-java-util-Arrays-copyOf-40205" class="noirorange"><b>Jettison</b>: out-of-bounds memory reading via <wbr>java.util.Arrays.cop<wbr>yOf()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Jettison-out-of-bounds-memory-reading-via-java-util-Arrays-copyOf-40205)|An attacker can force a read at an invalid memory address of Jettison, via |Visit link for details|
  
  ---
 
@@ -93,14 +93,14 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[trampgeek jobe Restapi.php runs_post Privilege Escalation](https://vuldb.com/?id.217174)|Visit link for details|2023-01-01 at 19:20|
- |[OpenStack Nova log file](https://vuldb.com/?id.217173)|Visit link for details|2023-01-01 at 19:17|
- |[admont28 Ingnovarq insertarSliderAjax.php cross site scripting](https://vuldb.com/?id.217172)|Visit link for details|2023-01-01 at 17:41|
- |[Ziftr primecoin bitcoinrpc.cpp HTTPAuthorized timing discrepancy](https://vuldb.com/?id.217171)|Visit link for details|2023-01-01 at 17:34|
- |[SimpleSAMLphp simplesamlphp-module-openid OpenID consumer.php cross site scripting](https://vuldb.com/?id.217170)|Visit link for details|2023-01-01 at 17:21|
- |[Multilaser RE708 Telnet Service denial of service](https://vuldb.com/?id.217169)|Visit link for details|2023-01-01 at 14:50|
- |[linagora twake cross site scripting](https://vuldb.com/?id.217168)|Visit link for details|2023-01-01 at 14:12|
- |[WeBankPartners WeCube Plugin Database Execution Page cross site scripting](https://vuldb.com/?id.217167)|Visit link for details|2023-01-01 at 14:10|
- |[PrimeKey EJBCA End Entity Section cross site scripting](https://vuldb.com/?id.217166)|Visit link for details|2023-01-01 at 14:08|
- |[Kemp LoadMaster Web Application Firewall protection mechanism](https://vuldb.com/?id.217165)|Visit link for details|2023-01-01 at 14:07|
+ |[Linux Kernel nfs4file.c __nfs42_ssc_open use after free](https://vuldb.com/?id.217272)|Visit link for details|2023-01-03 at 12:15|
+ |[ahmyi RivetTracker cross site scripting](https://vuldb.com/?id.217271)|Visit link for details|2023-01-03 at 12:08|
+ |[ummmmm nflpick-em.com LoadUsers.php _Load_Users sql injection](https://vuldb.com/?id.217270)|Visit link for details|2023-01-03 at 12:05|
+ |[ethitter WP-Print-Friendly wp-print-friendly.php information disclosure](https://vuldb.com/?id.217269)|Visit link for details|2023-01-03 at 12:01|
+ |[sumocoders FrameworkUserBundle login.html.twig information exposure](https://vuldb.com/?id.217268)|Visit link for details|2023-01-03 at 09:32|
+ |[ahmyi RivetTracker css.php changeColor cross site scripting](https://vuldb.com/?id.217267)|Visit link for details|2023-01-03 at 09:27|
+ |[WP RSS by Publishers Plugin sql injection](https://vuldb.com/?id.217266)|Visit link for details|2023-01-03 at 09:24|
+ |[WP RSS by Publishers Plugin sql injection](https://vuldb.com/?id.217265)|Visit link for details|2023-01-03 at 09:23|
+ |[Web Invoice Plugin Configuration sql injection](https://vuldb.com/?id.217264)|Visit link for details|2023-01-03 at 09:22|
+ |[WP RSS by Publishers Plugin sql injection](https://vuldb.com/?id.217263)|Visit link for details|2023-01-03 at 09:21|
  
