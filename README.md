@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 03/01/2023 21:09:53 UTC
+ > Last Updated 04/01/2023 09:11:30 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -53,24 +53,6 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Minetest-code-execution-via-Mod-Lua-Script-40216" class="noirorange"><b>Minetest</b>: code execution via Mod Lua Script</a>](https://vigilance.fr/vulnerability/Minetest-code-execution-via-Mod-Lua-Script-40216)|An attacker can use a vulnerability of Minetest, via Mod Lua Script, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/saphanabootstrap-formula-privilege-escalation-via-ha-cluster-sls-40215" class="noirorange"><b>saphanabootstrap-for<wbr>mula</wbr></b>: privilege escalation via ha_cluster.sls</a>](https://vigilance.fr/vulnerability/saphanabootstrap-formula-privilege-escalation-via-ha-cluster-sls-40215)|An attacker can bypass restrictions of |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FFmpeg-NULL-pointer-dereference-via-vp3-decode-frame-40214" class="noirorange"><b>FFmpeg</b>: NULL pointer dereference via vp3_decode_frame()</a>](https://vigilance.fr/vulnerability/FFmpeg-NULL-pointer-dereference-via-vp3-decode-frame-40214)|An attacker can force a NULL pointer to be dereferenced on FFmpeg, via vp3_decode_frame(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/sdb-denial-of-service-40213" class="noirorange"><b>sdb</b>: denial of service</a>](https://vigilance.fr/vulnerability/sdb-denial-of-service-40213)|An attacker can cause a fatal error of sdb, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/w3m-buffer-overflow-via-checkType-40212" class="noirorange"><b>w3m</b>: buffer overflow via checkType()</a>](https://vigilance.fr/vulnerability/w3m-buffer-overflow-via-checkType-40212)|An attacker can trigger a buffer overflow of w3m, via checkType(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenImageIO-multiple-vulnerabilities-40211" class="noirorange"><b>OpenImageIO</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/OpenImageIO-multiple-vulnerabilities-40211)|An attacker can use several vulnerabilities of OpenImageIO...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/systemd-denial-of-service-via-parse-elf-object-40210" class="noirorange"><b>systemd</b>: denial of service via parse_elf_object()</a>](https://vigilance.fr/vulnerability/systemd-denial-of-service-via-parse-elf-object-40210)|An attacker can cause a fatal error of systemd, via parse_elf_object(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ImageProcessing-code-execution-via-Vips-apply-40209" class="noirorange"><b>ImageProcessing</b>: code execution via Vips.apply()</a>](https://vigilance.fr/vulnerability/ImageProcessing-code-execution-via-Vips-apply-40209)|An attacker can use a vulnerability of ImageProcessing, via Vips.apply(), in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Node-js-xmldom-ingress-filtrering-bypass-via-Multiple-Roots-40208" class="noirorange"><b>Node.js xmldom</b>: ingress filtrering bypass via Multiple Roots</a>](https://vigilance.fr/vulnerability/Node-js-xmldom-ingress-filtrering-bypass-via-Multiple-Roots-40208)|An attacker can bypass filtering rules of Node.js xmldom, via Multiple Roots, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jettison-denial-of-service-via-Map-Parameter-40207" class="noirorange"><b>Jettison</b>: denial of service via Map Parameter</a>](https://vigilance.fr/vulnerability/Jettison-denial-of-service-via-Map-Parameter-40207)|An attacker can cause a fatal error of Jettison, via Map Parameter, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jettison-denial-of-service-via-JSON-Braces-40206" class="noirorange"><b>Jettison</b>: denial of service via JSON Braces</a>](https://vigilance.fr/vulnerability/Jettison-denial-of-service-via-JSON-Braces-40206)|An attacker can cause a fatal error of Jettison, via JSON Braces, in order to trigger a denial of service...|Visit link for details|
- 
- ---
-
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -89,18 +71,36 @@
  
  ---
 
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/rmt-server-privilege-escalation-via-pubcloud-40218" class="noirorange"><b>rmt-server</b>: privilege escalation via pubcloud</a>](https://vigilance.fr/vulnerability/rmt-server-privilege-escalation-via-pubcloud-40218)|An attacker can bypass restrictions of rmt-server, via pubcloud, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-write-access-via-JsonErrorReportValve-40217" class="noirorange"><b>Apache Tomcat</b>: write access via <wbr>JsonErrorReportValve</wbr></a>](https://vigilance.fr/vulnerability/Apache-Tomcat-write-access-via-JsonErrorReportValve-40217)|An attacker can bypass access restrictions of Apache Tomcat, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Minetest-code-execution-via-Mod-Lua-Script-40216" class="noirorange"><b>Minetest</b>: code execution via Mod Lua Script</a>](https://vigilance.fr/vulnerability/Minetest-code-execution-via-Mod-Lua-Script-40216)|An attacker can use a vulnerability of Minetest, via Mod Lua Script, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/saphanabootstrap-formula-privilege-escalation-via-ha-cluster-sls-40215" class="noirorange"><b>saphanabootstrap-for<wbr>mula</wbr></b>: privilege escalation via ha_cluster.sls</a>](https://vigilance.fr/vulnerability/saphanabootstrap-formula-privilege-escalation-via-ha-cluster-sls-40215)|An attacker can bypass restrictions of |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FFmpeg-NULL-pointer-dereference-via-vp3-decode-frame-40214" class="noirorange"><b>FFmpeg</b>: NULL pointer dereference via vp3_decode_frame()</a>](https://vigilance.fr/vulnerability/FFmpeg-NULL-pointer-dereference-via-vp3-decode-frame-40214)|An attacker can force a NULL pointer to be dereferenced on FFmpeg, via vp3_decode_frame(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/sdb-denial-of-service-40213" class="noirorange"><b>sdb</b>: denial of service</a>](https://vigilance.fr/vulnerability/sdb-denial-of-service-40213)|An attacker can cause a fatal error of sdb, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/w3m-buffer-overflow-via-checkType-40212" class="noirorange"><b>w3m</b>: buffer overflow via checkType()</a>](https://vigilance.fr/vulnerability/w3m-buffer-overflow-via-checkType-40212)|An attacker can trigger a buffer overflow of w3m, via checkType(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenImageIO-multiple-vulnerabilities-40211" class="noirorange"><b>OpenImageIO</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/OpenImageIO-multiple-vulnerabilities-40211)|An attacker can use several vulnerabilities of OpenImageIO...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/systemd-denial-of-service-via-parse-elf-object-40210" class="noirorange"><b>systemd</b>: denial of service via parse_elf_object()</a>](https://vigilance.fr/vulnerability/systemd-denial-of-service-via-parse-elf-object-40210)|An attacker can cause a fatal error of systemd, via parse_elf_object(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ImageProcessing-code-execution-via-Vips-apply-40209" class="noirorange"><b>ImageProcessing</b>: code execution via Vips.apply()</a>](https://vigilance.fr/vulnerability/ImageProcessing-code-execution-via-Vips-apply-40209)|An attacker can use a vulnerability of ImageProcessing, via Vips.apply(), in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-xmldom-ingress-filtrering-bypass-via-Multiple-Roots-40208" class="noirorange"><b>Node.js xmldom</b>: ingress filtrering bypass via Multiple Roots</a>](https://vigilance.fr/vulnerability/Node-js-xmldom-ingress-filtrering-bypass-via-Multiple-Roots-40208)|An attacker can bypass filtering rules of Node.js xmldom, via Multiple Roots, in order to send malicious data...|Visit link for details|
+ 
+ ---
+
 ## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[Fortinet FortiPortal cross site scripting](https://vuldb.com/?id.217309)|Visit link for details|2023-01-03 at 21:08|
- |[Fortinet FortiTester os command injection](https://vuldb.com/?id.217308)|Visit link for details|2023-01-03 at 21:07|
- |[Fortinet FortiWeb HTTP Response response splitting](https://vuldb.com/?id.217307)|Visit link for details|2023-01-03 at 20:46|
- |[Fortinet FortiADC HTTP Request os command injection](https://vuldb.com/?id.217306)|Visit link for details|2023-01-03 at 20:45|
- |[Apache Dubbo Telnet deserialization](https://vuldb.com/?id.217305)|Visit link for details|2023-01-03 at 20:44|
- |[OneClick Chat to Order Shortcode cross site scripting](https://vuldb.com/?id.217304)|Visit link for details|2023-01-03 at 20:08|
- |[Landing Page Builder Plugin Shortcode cross site scripting](https://vuldb.com/?id.217303)|Visit link for details|2023-01-03 at 20:08|
- |[ShiftNav Plugin Shortcode cross site scripting](https://vuldb.com/?id.217302)|Visit link for details|2023-01-03 at 20:07|
- |[GeoDirectory Plugin Shortcode cross site scripting](https://vuldb.com/?id.217301)|Visit link for details|2023-01-03 at 20:07|
- |[Structured Content Plugin Shortcode cross site scripting](https://vuldb.com/?id.217300)|Visit link for details|2023-01-03 at 20:06|
+ |[gesellix titlelink plugin_content_title.php sql injection](https://vuldb.com/?id.217351)|Visit link for details|2023-01-04 at 10:10|
+ |[Popular Posts Plugin Blocks cross site scripting](https://vuldb.com/?id.217350)|Visit link for details|2023-01-04 at 10:06|
+ |[Content Control Plugin cross site scripting](https://vuldb.com/?id.217349)|Visit link for details|2023-01-04 at 10:06|
+ |[Genesis Columns Advanced Plugin Shortcode cross site scripting](https://vuldb.com/?id.217348)|Visit link for details|2023-01-04 at 10:05|
+ |[10WebMapBuilder Plugin Shortcode cross site scripting](https://vuldb.com/?id.217347)|Visit link for details|2023-01-04 at 10:05|
+ |[Video Conferencing with Zoom Plugin Shortcode cross site scripting](https://vuldb.com/?id.217346)|Visit link for details|2023-01-04 at 10:05|
+ |[Password Protection Plugin Shortcode cross site scripting](https://vuldb.com/?id.217345)|Visit link for details|2023-01-04 at 10:03|
+ |[PixCodes Plugin Shortcode cross site scripting](https://vuldb.com/?id.217344)|Visit link for details|2023-01-04 at 10:02|
+ |[PDF Viewer Plugin Shortcode cross site scripting](https://vuldb.com/?id.217343)|Visit link for details|2023-01-04 at 10:02|
+ |[WP Google My Business Auto Publish Plugin Shortcode cross site scripting](https://vuldb.com/?id.217342)|Visit link for details|2023-01-04 at 09:54|
  
