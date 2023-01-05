@@ -37,6 +37,8 @@ class AlertPipeline:
             .replace("\t", "")
             .replace("  ", "")
             .replace("|", "")
+            .replace("<wbr>", "")
+            .replace("</wbr>", "")
         )
 
     def open_spider(self, *args, **kwargs):

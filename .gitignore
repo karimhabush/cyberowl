@@ -133,3 +133,7 @@ poetry.lock
 
 # Vscode
 .vscode/
+
+node_modules
+.temp
+.cache
