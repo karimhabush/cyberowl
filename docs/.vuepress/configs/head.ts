@@ -7,7 +7,7 @@ export const head: HeadConfig[] = [
       rel: 'icon',
       type: 'image/png',
       sizes: '16x16',
-      href: `/images/logo.png`,
+      href: `/images/logo1.png`,
     },
   ],
   [
@@ -16,7 +16,7 @@ export const head: HeadConfig[] = [
       rel: 'icon',
       type: 'image/png',
       sizes: '32x32',
-      href: `/images/logo.png`,
+      href: `/images/logo1.png`,
     },
   ],
   ['link', { rel: 'manifest', href: '/manifest.webmanifest' }],

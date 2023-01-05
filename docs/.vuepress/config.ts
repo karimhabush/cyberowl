@@ -26,11 +26,10 @@ export default defineUserConfig({
 
   // site-level locales config
   locales: {
-    
     '/': {
       lang: 'en-US',
-      title: 'cyberowl',
-      description: 'A daily updated summary of the most frequent types of security incidents currently being reported from different sources.',
+      title: 'CyberOwl',
+      description: 'Stay informed on the latest cyber threats - a one-stop destination for all the latest alerts and updates from multiple sources.',
     },
     '/fr/': {
       lang: 'fr-FR',
@@ -45,7 +44,8 @@ export default defineUserConfig({
 
   // configure default theme
   theme: defaultTheme({
-    logo: '/images/logo.png',
+    logo: '/images/logo1.png',
+    logoDark: '/images/logoDark.png',
     repo: 'karimhabush/cyberowl',
     docsDir: 'docs',
 
