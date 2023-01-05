@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 04/01/2023 21:10:46 UTC
+ > Last Updated 05/01/2023 09:10:16 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -53,24 +53,6 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-January-2023-40220" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of January 2023</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-January-2023-40220)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiManager-privilege-escalation-via-Passwordless-Admin-40219" class="noirorange"><b>FortiManager</b>: privilege escalation via Passwordless Admin</a>](https://vigilance.fr/vulnerability/FortiManager-privilege-escalation-via-Passwordless-Admin-40219)|An attacker can bypass restrictions of FortiManager, via Passwordless Admin, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/rmt-server-privilege-escalation-via-pubcloud-40218" class="noirorange"><b>rmt-server</b>: privilege escalation via pubcloud</a>](https://vigilance.fr/vulnerability/rmt-server-privilege-escalation-via-pubcloud-40218)|An attacker can bypass restrictions of rmt-server, via pubcloud, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-write-access-via-JsonErrorReportValve-40217" class="noirorange"><b>Apache Tomcat</b>: write access via <wbr>JsonErrorReportValve</wbr></a>](https://vigilance.fr/vulnerability/Apache-Tomcat-write-access-via-JsonErrorReportValve-40217)|An attacker can bypass access restrictions of Apache Tomcat, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Minetest-code-execution-via-Mod-Lua-Script-40216" class="noirorange"><b>Minetest</b>: code execution via Mod Lua Script</a>](https://vigilance.fr/vulnerability/Minetest-code-execution-via-Mod-Lua-Script-40216)|An attacker can use a vulnerability of Minetest, via Mod Lua Script, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/saphanabootstrap-formula-privilege-escalation-via-ha-cluster-sls-40215" class="noirorange"><b>saphanabootstrap-for<wbr>mula</wbr></b>: privilege escalation via ha_cluster.sls</a>](https://vigilance.fr/vulnerability/saphanabootstrap-formula-privilege-escalation-via-ha-cluster-sls-40215)|An attacker can bypass restrictions of |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FFmpeg-NULL-pointer-dereference-via-vp3-decode-frame-40214" class="noirorange"><b>FFmpeg</b>: NULL pointer dereference via vp3_decode_frame()</a>](https://vigilance.fr/vulnerability/FFmpeg-NULL-pointer-dereference-via-vp3-decode-frame-40214)|An attacker can force a NULL pointer to be dereferenced on FFmpeg, via vp3_decode_frame(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/sdb-denial-of-service-40213" class="noirorange"><b>sdb</b>: denial of service</a>](https://vigilance.fr/vulnerability/sdb-denial-of-service-40213)|An attacker can cause a fatal error of sdb, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/w3m-buffer-overflow-via-checkType-40212" class="noirorange"><b>w3m</b>: buffer overflow via checkType()</a>](https://vigilance.fr/vulnerability/w3m-buffer-overflow-via-checkType-40212)|An attacker can trigger a buffer overflow of w3m, via checkType(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenImageIO-multiple-vulnerabilities-40211" class="noirorange"><b>OpenImageIO</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/OpenImageIO-multiple-vulnerabilities-40211)|An attacker can use several vulnerabilities of OpenImageIO...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/systemd-denial-of-service-via-parse-elf-object-40210" class="noirorange"><b>systemd</b>: denial of service via parse_elf_object()</a>](https://vigilance.fr/vulnerability/systemd-denial-of-service-via-parse-elf-object-40210)|An attacker can cause a fatal error of systemd, via parse_elf_object(), in order to trigger a denial of service...|Visit link for details|
- 
- ---
-
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -89,18 +71,26 @@
  
  ---
 
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/ReFirm-Labs-binwalk-file-corruption-via-extractor-py-40221" class="noirorange"><b>ReFirm Labs binwalk</b>: file corruption via extractor.py</a>](https://vigilance.fr/vulnerability/ReFirm-Labs-binwalk-file-corruption-via-extractor-py-40221)|An attacker can create a symbolic link, in order to alter the pointed file, with privileges of ReFirm Labs binwalk, via extractor.py...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-January-2023-40220" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of January 2023</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-January-2023-40220)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiManager-privilege-escalation-via-Passwordless-Admin-40219" class="noirorange"><b>FortiManager</b>: privilege escalation via Passwordless Admin</a>](https://vigilance.fr/vulnerability/FortiManager-privilege-escalation-via-Passwordless-Admin-40219)|An attacker can bypass restrictions of FortiManager, via Passwordless Admin, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/rmt-server-privilege-escalation-via-pubcloud-40218" class="noirorange"><b>rmt-server</b>: privilege escalation via pubcloud</a>](https://vigilance.fr/vulnerability/rmt-server-privilege-escalation-via-pubcloud-40218)|An attacker can bypass restrictions of rmt-server, via pubcloud, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-write-access-via-JsonErrorReportValve-40217" class="noirorange"><b>Apache Tomcat</b>: write access via <wbr>JsonErrorReportValve</wbr></a>](https://vigilance.fr/vulnerability/Apache-Tomcat-write-access-via-JsonErrorReportValve-40217)|An attacker can bypass access restrictions of Apache Tomcat, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Minetest-code-execution-via-Mod-Lua-Script-40216" class="noirorange"><b>Minetest</b>: code execution via Mod Lua Script</a>](https://vigilance.fr/vulnerability/Minetest-code-execution-via-Mod-Lua-Script-40216)|An attacker can use a vulnerability of Minetest, via Mod Lua Script, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/saphanabootstrap-formula-privilege-escalation-via-ha-cluster-sls-40215" class="noirorange"><b>saphanabootstrap-for<wbr>mula</wbr></b>: privilege escalation via ha_cluster.sls</a>](https://vigilance.fr/vulnerability/saphanabootstrap-formula-privilege-escalation-via-ha-cluster-sls-40215)|An attacker can bypass restrictions of |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FFmpeg-NULL-pointer-dereference-via-vp3-decode-frame-40214" class="noirorange"><b>FFmpeg</b>: NULL pointer dereference via vp3_decode_frame()</a>](https://vigilance.fr/vulnerability/FFmpeg-NULL-pointer-dereference-via-vp3-decode-frame-40214)|An attacker can force a NULL pointer to be dereferenced on FFmpeg, via vp3_decode_frame(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/sdb-denial-of-service-40213" class="noirorange"><b>sdb</b>: denial of service</a>](https://vigilance.fr/vulnerability/sdb-denial-of-service-40213)|An attacker can cause a fatal error of sdb, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/w3m-buffer-overflow-via-checkType-40212" class="noirorange"><b>w3m</b>: buffer overflow via checkType()</a>](https://vigilance.fr/vulnerability/w3m-buffer-overflow-via-checkType-40212)|An attacker can trigger a buffer overflow of w3m, via checkType(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenImageIO-multiple-vulnerabilities-40211" class="noirorange"><b>OpenImageIO</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/OpenImageIO-multiple-vulnerabilities-40211)|An attacker can use several vulnerabilities of OpenImageIO...|Visit link for details|
+ 
+ ---
+
 ## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[CPT Bootstrap Carousel Shortcode cross site scripting](https://vuldb.com/?id.217416)|Visit link for details|2023-01-04 at 22:05|
- |[window-control sendKeys command injection](https://vuldb.com/?id.217415)|Visit link for details|2023-01-04 at 22:04|
- |[NASM outieee.c ieee_write_file memory corruption](https://vuldb.com/?id.217414)|Visit link for details|2023-01-04 at 22:04|
- |[NASM outdbg.c dbgdbg_typevalue buffer overflow](https://vuldb.com/?id.217413)|Visit link for details|2023-01-04 at 22:03|
- |[Discourse Mermaid cross site scripting](https://vuldb.com/?id.217412)|Visit link for details|2023-01-04 at 22:03|
- |[IBM Sterling B2B Integrator Standard Edition information disclosure](https://vuldb.com/?id.217411)|Visit link for details|2023-01-04 at 22:02|
- |[IBM Sterling B2B Integrator Standard Edition Web UI cross site scripting](https://vuldb.com/?id.217410)|Visit link for details|2023-01-04 at 22:02|
- |[IBM Sterling B2B Integrator Standard Edition access control](https://vuldb.com/?id.217409)|Visit link for details|2023-01-04 at 22:00|
- |[IBM Sterling B2B Integrator Standard Edition sql injection](https://vuldb.com/?id.217408)|Visit link for details|2023-01-04 at 21:59|
- |[vim heap-based overflow](https://vuldb.com/?id.217407)|Visit link for details|2023-01-04 at 21:59|
  
