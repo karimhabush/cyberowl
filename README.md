@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 05/01/2023 14:48:47 UTC
+ > Last Updated 05/01/2023 21:10:12 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -27,12 +27,12 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA Releases Three Industrial Systems Control Advisories](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/05/cisa-releases-three-industrial-systems-control-advisories)|<p>CISA released three Industrial Control Systems (ICS) advisories on January 5 2023. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p>|Thursday, January 5, 2023|
  |[Fortinet Releases Security Updates for FortiADC](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/04/fortinet-releases-security-updates-fortiadc)|<p>Fortinet has released a security advisory to address a vulnerability in multiple versions of FortiADC. This vulnerability may allow a remote attacker “to execute unauthorized code or commands via specifically crafted HTTP requests.”</p>|Wednesday, January 4, 2023|
  |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2022/12/29/cisa-adds-two-known-exploited-vulnerabilities-catalog)|<p>CISA has added two new vulnerabilities to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. <strong>Note</strong>: To view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.</p>|Thursday, December 29, 2022|
  |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/uscert/ncas/current-activity/2022/12/22/cisa-releases-four-industrial-control-systems-advisories)|<p>CISA released four Industrial Control Systems (ICS) advisories on December 22, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p>|Thursday, December 22, 2022|
  |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/uscert/ncas/current-activity/2022/12/20/cisa-releases-six-industrial-control-systems-advisories)|<p>CISA released six Industrial Control Systems (ICS) advisories on December 20, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p>|Tuesday, December 20, 2022|
  |[Samba Releases Security Updates](https://www.cisa.gov/uscert/ncas/current-activity/2022/12/16/samba-releases-security-updates)|<p>The Samba Team has released security updates to address vulnerabilities in multiple versions of Samba. An attacker could exploit some of these vulnerabilities to take control of an affected system. </p>|Friday, December 16, 2022|
- |[FBI, FDA OCI, and USDA Release Joint Cybersecurity Advisory Regarding Business Email Compromise Schemes Used to Steal Food](https://www.cisa.gov/uscert/ncas/current-activity/2022/12/16/fbi-fda-oci-and-usda-release-joint-cybersecurity-advisory)|<p>The Federal Bureau of Investigation (FBI), the Food and Drug Administration Office of Criminal Investigations (FDA OCI), and the U.S. Department of Agriculture (USDA) have released a joint Cybersecurity Advisory (CSA) detailing recently observed incidents of criminal actors using business email compromise (BEC) to steal shipments of food products and ingredients valued at hundreds of thousands of dollars.</p>|Friday, December 16, 2022|
  
  ---
 
@@ -40,13 +40,13 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Moment.js Luxon denial of service (CVE-2023-22467)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2023|
+ |[daloRADIUS code execution (CVE-2023-0048)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 4, 2023|
  |[Linux Kernel denial of service](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 4, 2023|
- |[Fortinet FortiManager security bypass (CVE-2022-45857)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 3, 2023|
- |[Fortinet FortiPortal cross-site scripting (CVE-2022-41336)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 3, 2023|
- |[MyBB directory file include (CVE-2022-45867)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 3, 2023|
- |[Fortinet FortiTester command execution (CVE-2022-35845)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 3, 2023|
- |[ViewVC cross-site scripting (CVE-2023-22456)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 3, 2023|
- |[ODude UPG plugin for WordPress command execution (CVE-2023-0039)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 3, 2023|
+ |[IBM Robotic Process Automation for Cloud Pak session fixation (CVE-2022-43844)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 4, 2023|
+ |[IBM Robotic Process Automation information disclosure (CVE-2022-43573)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 4, 2023|
+ |[IBM Robotic Process Automation information disclosure (CVE-2022-41740)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 4, 2023|
+ |[IBM AIX denial of service (CVE-2022-39164)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 4, 2023|
  
  ---
 
@@ -54,6 +54,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiples vulnérabilités dans IBM AIX et VIOS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0007/)|De multiples vulnérabilités ont été découvertes dans IBM AIX et VIOS. Elles permettent à un attaquant de provoquer un déni de service et une élévation de privilèges.|Publié le 5 janvier 2023|
  |[Multiples vulnérabilités dans les produits Symantec](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0006/)|De multiples vulnérabilités ont été découvertes dans les produits Symantec. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une injection de code indirecte à distance (XSS).|Publié le 4 janvier 2023|
  |[Vulnérabilité dans Synology VPN Plus Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0005/)|Une vulnérabilité a été découverte dans Synology VPN Plus Server. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 4 janvier 2023|
  |[Multiples vulnérabilités dans IBM Sterling Global Mailbox](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0004/)|De multiples vulnérabilités ont été découvertes dans IBM Sterling. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 4 janvier 2023|
@@ -63,7 +64,23 @@
  |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1127/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 27 décembre 2022|
  |[Vulnérabilité dans Synology SRM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1126/)|Une vulnérabilité a été découverte dans Synology SRM. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 27 décembre 2022|
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1125/)|De multiples vulnérabilités ont été corrigées dans |Publié le 26 décembre 2022|
- |[Vulnérabilité dans Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1124/)|Une vulnérabilité a été découverte dans Thunderbird. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 22 décembre 2022|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[meol1 index.php GetAnimal sql injection](https://vuldb.com/?id.217525)|Visit link for details|2023-01-05 at 22:10|
+ |[Lenovo ThinkPadX13s BIOS buffer over-read](https://vuldb.com/?id.217524)|Visit link for details|2023-01-05 at 22:08|
+ |[Lenovo ThinkPadX13s BIOS buffer over-read](https://vuldb.com/?id.217523)|Visit link for details|2023-01-05 at 22:08|
+ |[Lenovo ThinkPadX13s BIOS buffer over-read](https://vuldb.com/?id.217522)|Visit link for details|2023-01-05 at 22:07|
+ |[Lenovo ThinkPadX13s BIOS buffer over-read](https://vuldb.com/?id.217521)|Visit link for details|2023-01-05 at 22:07|
+ |[Discourse Email Address unknown vulnerability](https://vuldb.com/?id.217520)|Visit link for details|2023-01-05 at 22:06|
+ |[IBM Robotic Process Automation information disclosure](https://vuldb.com/?id.217519)|Visit link for details|2023-01-05 at 22:06|
+ |[IBM Robotic Process Automation information disclosure](https://vuldb.com/?id.217518)|Visit link for details|2023-01-05 at 21:48|
+ |[IBM Robotic Process Automation for Cloud Pak Logout Screen session expiration](https://vuldb.com/?id.217517)|Visit link for details|2023-01-05 at 21:48|
+ |[Red Snapper NView Session.php mutate sql injection](https://vuldb.com/?id.217516)|Visit link for details|2023-01-05 at 20:23|
  
  ---
 
@@ -85,6 +102,13 @@
  
  ---
 
+## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -100,28 +124,4 @@
  |[39582012/22 - Vulnérabilités dans Foxit Reader et Foxit PDF Editor](https://www.dgssi.gov.ma//fr/content/3958201222-vulnerabilites-dans-foxit-reader-et-foxit-pdf-editor.html)|Foxit annonce la correction de plusieurs vulnérabilités affectant Foxit Reader et Foxit PDF Editor. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance ou de porter atteinte à la...|20 décembre 2022|
  |[39572012/22 - Vulnérabilités dans Citrix Hypervisor](https://www.dgssi.gov.ma//fr/content/3957201222-vulnerabilites-dans-citrix-hypervisor.html)|Citrixannonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités affectant les versions de Citrix Hypervisor susmentionnées. L’exploitation de ces failles peut permettre à un attaquant de...|20 décembre 2022|
  |[39561912/22 - Vulnérabilités corrigées dans SAMBA](https://www.dgssi.gov.ma//fr/content/3956191222-vulnerabilites-corrigees-dans-samba.html)|Plusieurs vulnérabilités affectant Samba ontété corrigées. L'exploitation de ces vulnérabilités peut permettre à un attaquantdistant de contourner la politique de sécurité ou d’élever ses privilèges.|19 décembre 2022|
- 
- ---
-
-## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[glidernet ogn-live sql injection](https://vuldb.com/?id.217487)|Visit link for details|2023-01-05 at 15:48|
- |[Miccighel PR-CWT sql injection](https://vuldb.com/?id.217486)|Visit link for details|2023-01-05 at 15:35|
- |[arekk uke finder.rb sql injection](https://vuldb.com/?id.217485)|Visit link for details|2023-01-05 at 14:11|
- |[stevejagodzinski DevNewsAggregator RemoteHtmlContentDataAccess.php getByName sql injection](https://vuldb.com/?id.217484)|Visit link for details|2023-01-05 at 14:07|
- |[Aruba ClearPass Policy Manager Web-based Management Interface cross site scripting](https://vuldb.com/?id.217483)|Visit link for details|2023-01-05 at 13:50|
- |[Aruba EdgeConnect Enterprise Orchestration Web-based Management Interface cross site scripting](https://vuldb.com/?id.217482)|Visit link for details|2023-01-05 at 13:50|
- |[Aruba EdgeConnect Enterprise Orchestration Web-based Management Interface cross site scripting](https://vuldb.com/?id.217481)|Visit link for details|2023-01-05 at 13:50|
- |[Aruba EdgeConnect Enterprise Orchestration Web-based Management Interface cross site scripting](https://vuldb.com/?id.217480)|Visit link for details|2023-01-05 at 13:50|
- |[Aruba ClearConnect Enterprise Orchestration Web-based Management Interface cross site scripting](https://vuldb.com/?id.217479)|Visit link for details|2023-01-05 at 13:49|
- |[Zoho ManageEngine Access Manager Plus/Password Manager Pro/PAM360 sql injection](https://vuldb.com/?id.217478)|Visit link for details|2023-01-05 at 13:45|
  
