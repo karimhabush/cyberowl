@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 05/01/2023 09:10:16 UTC
+ > Last Updated 05/01/2023 14:48:47 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -36,6 +36,20 @@
  
  ---
 
+## IBMCLOUD [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Linux Kernel denial of service](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 4, 2023|
+ |[Fortinet FortiManager security bypass (CVE-2022-45857)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 3, 2023|
+ |[Fortinet FortiPortal cross-site scripting (CVE-2022-41336)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 3, 2023|
+ |[MyBB directory file include (CVE-2022-45867)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 3, 2023|
+ |[Fortinet FortiTester command execution (CVE-2022-35845)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 3, 2023|
+ |[ViewVC cross-site scripting (CVE-2023-22456)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 3, 2023|
+ |[ODude UPG plugin for WordPress command execution (CVE-2023-0039)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 3, 2023|
+ 
+ ---
+
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -53,10 +67,30 @@
  
  ---
 
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Dell-Unisphere-for-PowerMax-three-vulnerabilities-40225" class="noirorange"><b>Dell Unisphere for PowerMax</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Dell-Unisphere-for-PowerMax-three-vulnerabilities-40225)|An attacker can use several vulnerabilities of Dell Unisphere for PowerMax...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-msg-puts-printf-40224" class="noirorange"><b>Vim</b>: buffer overflow via msg_puts_printf()</a>](https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-msg-puts-printf-40224)|An attacker can trigger a buffer overflow of Vim, via msg_puts_printf(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-out-of-bounds-memory-reading-via-Status-Line-Percent-Zero-40223" class="noirorange"><b>Vim</b>: out-of-bounds memory reading via Status Line Percent Zero</a>](https://vigilance.fr/vulnerability/Vim-out-of-bounds-memory-reading-via-Status-Line-Percent-Zero-40223)|An attacker can force a read at an invalid memory address of Vim, via Status Line Percent Zero, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-ksmbd-CIFS-ENCPWD-SIZE-40222" class="noirorange"><b>Linux kernel</b>: buffer overflow via ksmbd CIFS_ENCPWD_SIZE</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-ksmbd-CIFS-ENCPWD-SIZE-40222)|An attacker can trigger a buffer overflow of the Linux kernel, via ksmbd CIFS_ENCPWD_SIZE, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ReFirm-Labs-binwalk-file-corruption-via-extractor-py-40221" class="noirorange"><b>ReFirm Labs binwalk</b>: file corruption via extractor.py</a>](https://vigilance.fr/vulnerability/ReFirm-Labs-binwalk-file-corruption-via-extractor-py-40221)|An attacker can create a symbolic link, in order to alter the pointed file, with privileges of ReFirm Labs binwalk, via extractor.py...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-January-2023-40220" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of January 2023</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-January-2023-40220)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiManager-privilege-escalation-via-Passwordless-Admin-40219" class="noirorange"><b>FortiManager</b>: privilege escalation via Passwordless Admin</a>](https://vigilance.fr/vulnerability/FortiManager-privilege-escalation-via-Passwordless-Admin-40219)|An attacker can bypass restrictions of FortiManager, via Passwordless Admin, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/rmt-server-privilege-escalation-via-pubcloud-40218" class="noirorange"><b>rmt-server</b>: privilege escalation via pubcloud</a>](https://vigilance.fr/vulnerability/rmt-server-privilege-escalation-via-pubcloud-40218)|An attacker can bypass restrictions of rmt-server, via pubcloud, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-write-access-via-JsonErrorReportValve-40217" class="noirorange"><b>Apache Tomcat</b>: write access via <wbr>JsonErrorReportValve</wbr></a>](https://vigilance.fr/vulnerability/Apache-Tomcat-write-access-via-JsonErrorReportValve-40217)|An attacker can bypass access restrictions of Apache Tomcat, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Minetest-code-execution-via-Mod-Lua-Script-40216" class="noirorange"><b>Minetest</b>: code execution via Mod Lua Script</a>](https://vigilance.fr/vulnerability/Minetest-code-execution-via-Mod-Lua-Script-40216)|An attacker can use a vulnerability of Minetest, via Mod Lua Script, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/saphanabootstrap-formula-privilege-escalation-via-ha-cluster-sls-40215" class="noirorange"><b>saphanabootstrap-for<wbr>mula</wbr></b>: privilege escalation via ha_cluster.sls</a>](https://vigilance.fr/vulnerability/saphanabootstrap-formula-privilege-escalation-via-ha-cluster-sls-40215)|An attacker can bypass restrictions of |Visit link for details|
+ 
+ ---
+
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[39640501/23 - Vulnérabilité critique affectant Zoho Password Manager Pro](https://www.dgssi.gov.ma//fr/content/3964050123-vulnerabilite-critique-affectant-zoho-password-manager-pro.html)|Zoho a publié un avis de sécurité pour corriger une vulnérabilité critique dans Password Manager Pro. Un attaquant pourrait exploiter cette vulnérabilité afin d’injecter des requêtes SQL personnalisées et d'accéder aux informations...|05 janvier 2023|
+ |[39630501/23 - Vulnérabilités dans les produitsFortinet](https://www.dgssi.gov.ma//fr/content/3963050123-vulnerabilites-dans-les-produits-fortinet.html)|Fortinet a publié un avis de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant distant d'exécuter du code ou des commandes arbitraires non...|05 janvier 2023|
  |[39620401/23 - Vulnérabilité critique dans Synolgy VPN serveur](https://www.dgssi.gov.ma//fr/content/3962040123-vulnerabilite-critique-dans-synolgy-vpn-serveur.html)|Synology a corrigé une vulnérabilité critique affectant les routeurs configurés pour fonctionner comme des serveurs VPN. L’exploitation de cette faille peut permettre à un attaquant distant d'exécuter du code arbitraire.|04 janvier 2023|
  |[39613012/22 - Vulnérabilité critique dans plusieurs modèles de routeur Wi-Fi NETGEAR](https://www.dgssi.gov.ma//fr/content/3961301222-vulnerabilite-critique-dans-plusieurs-modeles-de-routeur-wi-fi-netgear.html)|Une vulnérabilité critique a été corrigée dans plusieurs modèles de routeur Wi-Fi NET-GEAR. L’exploitation de cette faille peut permettre à un attaquant d’exécuter du code arbitraire à distance et de causer un déni de service.|30 décembre 2022|
  |[39602612/22 - Vulnérabilité critique dans le CMS Ghost ](https://www.dgssi.gov.ma//fr/content/3960261222-vulnerabilite-critique-dans-le-cms-ghost.html)|Une vulnérabilité critique a été corrigée dans le système d'abonnement aux newsletters du CMS Ghost. L'exploitation de cette faille pourrait permettre à des attaquants de créer ou de modifier des newsletters en insérant du code...|26 décembre 2022|
@@ -66,26 +100,13 @@
  |[39582012/22 - Vulnérabilités dans Foxit Reader et Foxit PDF Editor](https://www.dgssi.gov.ma//fr/content/3958201222-vulnerabilites-dans-foxit-reader-et-foxit-pdf-editor.html)|Foxit annonce la correction de plusieurs vulnérabilités affectant Foxit Reader et Foxit PDF Editor. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance ou de porter atteinte à la...|20 décembre 2022|
  |[39572012/22 - Vulnérabilités dans Citrix Hypervisor](https://www.dgssi.gov.ma//fr/content/3957201222-vulnerabilites-dans-citrix-hypervisor.html)|Citrixannonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités affectant les versions de Citrix Hypervisor susmentionnées. L’exploitation de ces failles peut permettre à un attaquant de...|20 décembre 2022|
  |[39561912/22 - Vulnérabilités corrigées dans SAMBA](https://www.dgssi.gov.ma//fr/content/3956191222-vulnerabilites-corrigees-dans-samba.html)|Plusieurs vulnérabilités affectant Samba ontété corrigées. L'exploitation de ces vulnérabilités peut permettre à un attaquantdistant de contourner la politique de sécurité ou d’élever ses privilèges.|19 décembre 2022|
- |[39551612/22 - Vulnérabilités affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/3955161222-vulnerabilites-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger cinqvulnérabilitésaffectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre àun attaquant d’exécuter du code arbitraire.|16 décembre 2022|
- |[39541612/22 - Vulnérabilités affectant le CMS Drupal](https://www.dgssi.gov.ma//fr/content/3954161222-vulnerabilites-affectant-le-cms-drupal.html)|Drupal annonce la disponibilité de mises à jour de sécurité qui corrigent deux vulnérabilités auniveaudes deux modules susmentionnées de son CMS. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’accéder à des...|16 décembre 2022|
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/ReFirm-Labs-binwalk-file-corruption-via-extractor-py-40221" class="noirorange"><b>ReFirm Labs binwalk</b>: file corruption via extractor.py</a>](https://vigilance.fr/vulnerability/ReFirm-Labs-binwalk-file-corruption-via-extractor-py-40221)|An attacker can create a symbolic link, in order to alter the pointed file, with privileges of ReFirm Labs binwalk, via extractor.py...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-January-2023-40220" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of January 2023</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-January-2023-40220)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiManager-privilege-escalation-via-Passwordless-Admin-40219" class="noirorange"><b>FortiManager</b>: privilege escalation via Passwordless Admin</a>](https://vigilance.fr/vulnerability/FortiManager-privilege-escalation-via-Passwordless-Admin-40219)|An attacker can bypass restrictions of FortiManager, via Passwordless Admin, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/rmt-server-privilege-escalation-via-pubcloud-40218" class="noirorange"><b>rmt-server</b>: privilege escalation via pubcloud</a>](https://vigilance.fr/vulnerability/rmt-server-privilege-escalation-via-pubcloud-40218)|An attacker can bypass restrictions of rmt-server, via pubcloud, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-write-access-via-JsonErrorReportValve-40217" class="noirorange"><b>Apache Tomcat</b>: write access via <wbr>JsonErrorReportValve</wbr></a>](https://vigilance.fr/vulnerability/Apache-Tomcat-write-access-via-JsonErrorReportValve-40217)|An attacker can bypass access restrictions of Apache Tomcat, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Minetest-code-execution-via-Mod-Lua-Script-40216" class="noirorange"><b>Minetest</b>: code execution via Mod Lua Script</a>](https://vigilance.fr/vulnerability/Minetest-code-execution-via-Mod-Lua-Script-40216)|An attacker can use a vulnerability of Minetest, via Mod Lua Script, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/saphanabootstrap-formula-privilege-escalation-via-ha-cluster-sls-40215" class="noirorange"><b>saphanabootstrap-for<wbr>mula</wbr></b>: privilege escalation via ha_cluster.sls</a>](https://vigilance.fr/vulnerability/saphanabootstrap-formula-privilege-escalation-via-ha-cluster-sls-40215)|An attacker can bypass restrictions of |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FFmpeg-NULL-pointer-dereference-via-vp3-decode-frame-40214" class="noirorange"><b>FFmpeg</b>: NULL pointer dereference via vp3_decode_frame()</a>](https://vigilance.fr/vulnerability/FFmpeg-NULL-pointer-dereference-via-vp3-decode-frame-40214)|An attacker can force a NULL pointer to be dereferenced on FFmpeg, via vp3_decode_frame(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/sdb-denial-of-service-40213" class="noirorange"><b>sdb</b>: denial of service</a>](https://vigilance.fr/vulnerability/sdb-denial-of-service-40213)|An attacker can cause a fatal error of sdb, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/w3m-buffer-overflow-via-checkType-40212" class="noirorange"><b>w3m</b>: buffer overflow via checkType()</a>](https://vigilance.fr/vulnerability/w3m-buffer-overflow-via-checkType-40212)|An attacker can trigger a buffer overflow of w3m, via checkType(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenImageIO-multiple-vulnerabilities-40211" class="noirorange"><b>OpenImageIO</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/OpenImageIO-multiple-vulnerabilities-40211)|An attacker can use several vulnerabilities of OpenImageIO...|Visit link for details|
  
  ---
 
@@ -93,4 +114,14 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[glidernet ogn-live sql injection](https://vuldb.com/?id.217487)|Visit link for details|2023-01-05 at 15:48|
+ |[Miccighel PR-CWT sql injection](https://vuldb.com/?id.217486)|Visit link for details|2023-01-05 at 15:35|
+ |[arekk uke finder.rb sql injection](https://vuldb.com/?id.217485)|Visit link for details|2023-01-05 at 14:11|
+ |[stevejagodzinski DevNewsAggregator RemoteHtmlContentDataAccess.php getByName sql injection](https://vuldb.com/?id.217484)|Visit link for details|2023-01-05 at 14:07|
+ |[Aruba ClearPass Policy Manager Web-based Management Interface cross site scripting](https://vuldb.com/?id.217483)|Visit link for details|2023-01-05 at 13:50|
+ |[Aruba EdgeConnect Enterprise Orchestration Web-based Management Interface cross site scripting](https://vuldb.com/?id.217482)|Visit link for details|2023-01-05 at 13:50|
+ |[Aruba EdgeConnect Enterprise Orchestration Web-based Management Interface cross site scripting](https://vuldb.com/?id.217481)|Visit link for details|2023-01-05 at 13:50|
+ |[Aruba EdgeConnect Enterprise Orchestration Web-based Management Interface cross site scripting](https://vuldb.com/?id.217480)|Visit link for details|2023-01-05 at 13:50|
+ |[Aruba ClearConnect Enterprise Orchestration Web-based Management Interface cross site scripting](https://vuldb.com/?id.217479)|Visit link for details|2023-01-05 at 13:49|
+ |[Zoho ManageEngine Access Manager Plus/Password Manager Pro/PAM360 sql injection](https://vuldb.com/?id.217478)|Visit link for details|2023-01-05 at 13:45|
  
