@@ -5,18 +5,18 @@ export const head: HeadConfig[] = [
     'link',
     {
       rel: 'icon',
-      type: 'image/png',
+      type: 'image/webp',
       sizes: '16x16',
-      href: `/images/logo1.png`,
+      href: `/images/logo1.webp`,
     },
   ],
   [
     'link',
     {
       rel: 'icon',
-      type: 'image/png',
+      type: 'image/webp',
       sizes: '32x32',
-      href: `/images/logo1.png`,
+      href: `/images/logo1.webp`,
     },
   ],
   ['link', { rel: 'manifest', href: '/manifest.webmanifest' }],

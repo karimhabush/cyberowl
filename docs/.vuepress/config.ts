@@ -3,9 +3,6 @@ import { viteBundler } from '@vuepress/bundler-vite'
 import { webpackBundler } from '@vuepress/bundler-webpack'
 import { defineUserConfig } from '@vuepress/cli'
 import { docsearchPlugin } from '@vuepress/plugin-docsearch'
-import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics'
-import { registerComponentsPlugin } from '@vuepress/plugin-register-components'
-import { shikiPlugin } from '@vuepress/plugin-shiki'
 import { defaultTheme } from '@vuepress/theme-default'
 import { getDirname, path } from '@vuepress/utils'
 import {
@@ -31,11 +28,11 @@ export default defineUserConfig({
       title: 'CyberOwl',
       description: 'Stay informed on the latest cyber threats - a one-stop destination for all the latest alerts and updates from multiple sources.',
     },
-    '/fr/': {
-      lang: 'fr-FR',
-      title: 'cyberowl',
-      description: 'Résumé quotidien des incidents de sécurité les plus fréquemment signalés provenant de diverses sources',
-    },
+    // '/fr/': {
+    //   lang: 'fr-FR',
+    //   title: 'cyberowl',
+    //   description: 'Résumé quotidien des incidents de sécurité les plus fréquemment signalés provenant de diverses sources',
+    // },
   },
 
   // specify bundler via environment variable
@@ -44,8 +41,8 @@ export default defineUserConfig({
 
   // configure default theme
   theme: defaultTheme({
-    logo: '/images/logo1.png',
-    logoDark: '/images/logoDark.png',
+    logo: '/images/logo1.webp',
+    logoDark: '/images/logoDark.webp',
     repo: 'karimhabush/cyberowl',
     docsDir: 'docs',
 
@@ -87,21 +84,12 @@ export default defineUserConfig({
   // use plugins
   plugins: [
     docsearchPlugin({
-      appId: '34YFD9IUQ2',
-      apiKey: '9a9058b8655746634e01071411c366b8',
-      indexName: 'vuepress',
+      appId: '04OOCN3VYF',
+      apiKey: '4187f5ca40c43b3f5d2e307379f06db0',
+      indexName: 'cyberowl.org',
       searchParameters: {
         facetFilters: ['tags:v2'],
       },
-    }),
-    googleAnalyticsPlugin({
-      // we have multiple deployments, which would use different id
-      id: process.env.DOCS_GA_ID ?? '',
-    }),
-    registerComponentsPlugin({
-      componentsDir: path.resolve(__dirname, './components'),
-    }),
-    // only enable shiki plugin in production mode
-    isProd ? shikiPlugin({ theme: 'dark-plus' }) : [],
+    })
   ],
 })

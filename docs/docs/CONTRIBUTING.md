@@ -8,7 +8,7 @@ When contributing to Cyberowl, please first discuss the change you wish to make 
 
 Please also make sure you are following our [Code of Conduct](./CODE_OF_CONDUCT.md).
 
-## Getting Started 🚀
+## Getting Started 
 
 After cloning cyberowl into your local machine, you can start by first setting up the environment.
 
@@ -58,7 +58,7 @@ Or with `poetry` :
 poetry run python src/cyberowl/main.py
 ```
 
-## API Docs 📚
+## API Docs 
 
 Cyberowl uses [mkdocs](https://www.mkdocs.org/) to generate the documentation.
 
@@ -76,6 +76,6 @@ mkdocs build
 ```
 
 
-## Testing 🧪
+## Testing 
 
 Testing is a work in progress. It will be implemented very soon.
