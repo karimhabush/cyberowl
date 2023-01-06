@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 06/01/2023 09:10:00 UTC
+ > Last Updated 06/01/2023 21:08:47 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -36,17 +36,58 @@
  
  ---
 
+## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
 ## IBMCLOUD [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[Centos Web Panel command execution (CVE-2022-44877)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2023|
- |[Hitachi Energy FOXMAN-UN and UNEM information disclosure (CVE-2022-3929)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2023|
- |[Hitachi Energy FOXMAN-UN and UNEM weak security (CVE-2022-3927)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2023|
- |[Hitachi Energy FOXMAN-UN and UNEM information disclosure (CVE-2021-40342)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2023|
- |[Hitachi Energy FOXMAN-UN and UNEM information disclosure (CVE-2021-40341)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2023|
- |[Node.js window-control module command execution (CVE-2022-25926)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2023|
- |[ruby-git code execution (CVE-2022-47318)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2023|
+ |[Discourse security bypass (CVE-2022-46177)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2023|
+ |[Discourse information disclosure (CVE-2023-22453)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2023|
+ |[Discourse cross-site scripting (CVE-2023-22454)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2023|
+ |[Discourse cross-site scripting (CVE-2023-22455)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2023|
+ |[Qualcomm Snapdragon products code execution (CVE-2022-33218)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2023|
+ |[Qualcomm Snapdragon products code execution (CVE-2022-33219)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2023|
+ |[Qualcomm Snapdragon products code execution (CVE-2022-33265)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2023|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[JervenBolleman sparql-identifiers RegistryDao.java sql injection](https://vuldb.com/?id.217571)|Visit link for details|2023-01-06 at 21:45|
+ |[devent globalpom-utils FileResourceManagerProvider.java createTmpDir temp file](https://vuldb.com/?id.217570)|Visit link for details|2023-01-06 at 21:42|
+ |[JoomGallery Image Sort default.php sql injection](https://vuldb.com/?id.217569)|Visit link for details|2023-01-06 at 21:38|
+ |[Nexxt Amp300 ARN02304U8 Web Service sysTools os command injection](https://vuldb.com/?id.217568)|Visit link for details|2023-01-06 at 21:28|
+ |[Canarytokens History Page cross site scripting](https://vuldb.com/?id.217567)|Visit link for details|2023-01-06 at 18:45|
+ |[Apache James Server Temporary Files information disclosure](https://vuldb.com/?id.217566)|Visit link for details|2023-01-06 at 18:15|
+ |[Apache James MIME4J TempFileStorageProvider information disclosure](https://vuldb.com/?id.217565)|Visit link for details|2023-01-06 at 18:14|
+ |[himiklab yii2-jqgrid-widget JqGridAction.php addSearchOptionsRecursively sql injection](https://vuldb.com/?id.217564)|Visit link for details|2023-01-06 at 17:25|
+ |[intgr uqm-wasm msgbox_macosx.m log_displayBox format string](https://vuldb.com/?id.217563)|Visit link for details|2023-01-06 at 17:22|
+ |[ScottTZhang voter-js main.js sql injection](https://vuldb.com/?id.217562)|Visit link for details|2023-01-06 at 17:20|
+ 
+ ---
+
+## CERT-FR [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0010/)|De multiples vulnérabilités ont été corrigées dans |Publié le 6 janvier 2023|
+ |[Multiples vulnérabilités dans PHP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0009/)|De multiples vulnérabilités ont été découvertes dans PHP. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 6 janvier 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0008/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 6 janvier 2023|
+ |[Multiples vulnérabilités dans IBM AIX et VIOS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0007/)|De multiples vulnérabilités ont été découvertes dans IBM AIX et VIOS. Elles permettent à un attaquant de provoquer un déni de service et une élévation de privilèges.|Publié le 5 janvier 2023|
+ |[Multiples vulnérabilités dans les produits Symantec](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0006/)|De multiples vulnérabilités ont été découvertes dans les produits Symantec. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une injection de code indirecte à distance (XSS).|Publié le 4 janvier 2023|
+ |[Vulnérabilité dans Synology VPN Plus Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0005/)|Une vulnérabilité a été découverte dans Synology VPN Plus Server. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 4 janvier 2023|
+ |[Multiples vulnérabilités dans IBM Sterling Global Mailbox](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0004/)|De multiples vulnérabilités ont été découvertes dans IBM Sterling. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 4 janvier 2023|
+ |[Multiples vulnérabilités dans les produits Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0003/)|De multiples vulnérabilités ont été découvertes dans les produits Android. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 4 janvier 2023|
+ |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0002/)|De multiples vulnérabilités ont été corrigées dans |Publié le 4 janvier 2023|
+ |[Vulnérabilité dans Apache Tomcat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0001/)|Une vulnérabilité a été découverte dans Apache Tomcat. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 4 janvier 2023|
  
  ---
 
@@ -68,34 +109,11 @@
  
  ---
 
-## CERT-FR [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans IBM AIX et VIOS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0007/)|De multiples vulnérabilités ont été découvertes dans IBM AIX et VIOS. Elles permettent à un attaquant de provoquer un déni de service et une élévation de privilèges.|Publié le 5 janvier 2023|
- |[Multiples vulnérabilités dans les produits Symantec](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0006/)|De multiples vulnérabilités ont été découvertes dans les produits Symantec. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une injection de code indirecte à distance (XSS).|Publié le 4 janvier 2023|
- |[Vulnérabilité dans Synology VPN Plus Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0005/)|Une vulnérabilité a été découverte dans Synology VPN Plus Server. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 4 janvier 2023|
- |[Multiples vulnérabilités dans IBM Sterling Global Mailbox](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0004/)|De multiples vulnérabilités ont été découvertes dans IBM Sterling. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 4 janvier 2023|
- |[Multiples vulnérabilités dans les produits Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0003/)|De multiples vulnérabilités ont été découvertes dans les produits Android. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 4 janvier 2023|
- |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0002/)|De multiples vulnérabilités ont été corrigées dans |Publié le 4 janvier 2023|
- |[Vulnérabilité dans Apache Tomcat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0001/)|Une vulnérabilité a été découverte dans Apache Tomcat. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 4 janvier 2023|
- |[Multiples vulnérabilités dans le noyau Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1127/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 27 décembre 2022|
- |[Vulnérabilité dans Synology SRM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1126/)|Une vulnérabilité a été découverte dans Synology SRM. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 27 décembre 2022|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-1125/)|De multiples vulnérabilités ont été corrigées dans |Publié le 26 décembre 2022|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## MA-CERT [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
+ |[39650601/23 - Vulnérabilités dans Android](https://www.dgssi.gov.ma//fr/content/3965060123-vulnerabilites-dans-android.html)|Plusieurs vulnérabilités critiques ont été corrigées dans le système d’exploitation Android. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, de causer un déni de service, d’...|06 janvier 2023|
  |[39640501/23 - Vulnérabilité critique affectant Zoho Password Manager Pro](https://www.dgssi.gov.ma//fr/content/3964050123-vulnerabilite-critique-affectant-zoho-password-manager-pro.html)|Zoho a publié un avis de sécurité pour corriger une vulnérabilité critique dans Password Manager Pro. Un attaquant pourrait exploiter cette vulnérabilité afin d’injecter des requêtes SQL personnalisées et d'accéder aux informations...|05 janvier 2023|
  |[39630501/23 - Vulnérabilités dans les produitsFortinet](https://www.dgssi.gov.ma//fr/content/3963050123-vulnerabilites-dans-les-produits-fortinet.html)|Fortinet a publié un avis de sécurité pour corriger plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant distant d'exécuter du code ou des commandes arbitraires non...|05 janvier 2023|
  |[39620401/23 - Vulnérabilité critique dans Synolgy VPN serveur](https://www.dgssi.gov.ma//fr/content/3962040123-vulnerabilite-critique-dans-synolgy-vpn-serveur.html)|Synology a corrigé une vulnérabilité critique affectant les routeurs configurés pour fonctionner comme des serveurs VPN. L’exploitation de cette faille peut permettre à un attaquant distant d'exécuter du code arbitraire.|04 janvier 2023|
@@ -106,12 +124,4 @@
  |[39592012/22 - Vulnérabilités dans Microsoft Edge](https://www.dgssi.gov.ma//fr/content/3959201222-vulnerabilites-dans-microsoft-edge.html)|Microsoft annonce la correction de plusieurs vulnérabilités dans Microsoft Edge. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la confidentialité des données.|20 décembre 2022|
  |[39582012/22 - Vulnérabilités dans Foxit Reader et Foxit PDF Editor](https://www.dgssi.gov.ma//fr/content/3958201222-vulnerabilites-dans-foxit-reader-et-foxit-pdf-editor.html)|Foxit annonce la correction de plusieurs vulnérabilités affectant Foxit Reader et Foxit PDF Editor. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance ou de porter atteinte à la...|20 décembre 2022|
  |[39572012/22 - Vulnérabilités dans Citrix Hypervisor](https://www.dgssi.gov.ma//fr/content/3957201222-vulnerabilites-dans-citrix-hypervisor.html)|Citrixannonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités affectant les versions de Citrix Hypervisor susmentionnées. L’exploitation de ces failles peut permettre à un attaquant de...|20 décembre 2022|
- |[39561912/22 - Vulnérabilités corrigées dans SAMBA](https://www.dgssi.gov.ma//fr/content/3956191222-vulnerabilites-corrigees-dans-samba.html)|Plusieurs vulnérabilités affectant Samba ontété corrigées. L'exploitation de ces vulnérabilités peut permettre à un attaquantdistant de contourner la politique de sécurité ou d’élever ses privilèges.|19 décembre 2022|
- 
- ---
-
-## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
