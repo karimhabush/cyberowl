@@ -45,6 +45,7 @@ export default defineUserConfig({
     logoDark: '/images/logoDark.webp',
     repo: 'karimhabush/cyberowl',
     docsDir: 'docs',
+    contributors: false,
 
     // theme-level locales config
     locales: {
