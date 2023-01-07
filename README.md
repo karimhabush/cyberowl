@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 07/01/2023 09:10:39 UTC
+ > Last Updated 07/01/2023 21:09:07 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -36,23 +36,6 @@
  
  ---
 
-## CERT-FR [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0010/)|De multiples vulnérabilités ont été corrigées dans |Publié le 6 janvier 2023|
- |[Multiples vulnérabilités dans PHP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0009/)|De multiples vulnérabilités ont été découvertes dans PHP. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 6 janvier 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0008/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 6 janvier 2023|
- |[Multiples vulnérabilités dans IBM AIX et VIOS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0007/)|De multiples vulnérabilités ont été découvertes dans IBM AIX et VIOS. Elles permettent à un attaquant de provoquer un déni de service et une élévation de privilèges.|Publié le 5 janvier 2023|
- |[Multiples vulnérabilités dans les produits Symantec](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0006/)|De multiples vulnérabilités ont été découvertes dans les produits Symantec. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une injection de code indirecte à distance (XSS).|Publié le 4 janvier 2023|
- |[Vulnérabilité dans Synology VPN Plus Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0005/)|Une vulnérabilité a été découverte dans Synology VPN Plus Server. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 4 janvier 2023|
- |[Multiples vulnérabilités dans IBM Sterling Global Mailbox](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0004/)|De multiples vulnérabilités ont été découvertes dans IBM Sterling. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 4 janvier 2023|
- |[Multiples vulnérabilités dans les produits Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0003/)|De multiples vulnérabilités ont été découvertes dans les produits Android. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 4 janvier 2023|
- |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0002/)|De multiples vulnérabilités ont été corrigées dans |Publié le 4 janvier 2023|
- |[Vulnérabilité dans Apache Tomcat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0001/)|Une vulnérabilité a été découverte dans Apache Tomcat. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 4 janvier 2023|
- 
- ---
-
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -71,41 +54,44 @@
  
  ---
 
-## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
 ## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[Pylons horus services.py timing discrepancy](https://vuldb.com/?id.217598)|Visit link for details|2023-01-07 at 10:11|
- |[jamesmartin Inline SVG URL Parameter helpers.rb cross site scripting](https://vuldb.com/?id.217597)|Visit link for details|2023-01-07 at 10:07|
- |[agnivade easy-scrypt scrypt.go VerifyPassphrase timing discrepancy](https://vuldb.com/?id.217596)|Visit link for details|2023-01-07 at 10:04|
- |[foxoverflow MySimplifiedSQL MySimplifiedSQL_Examples.php cross site scripting](https://vuldb.com/?id.217595)|Visit link for details|2023-01-07 at 09:53|
- |[koroket RedditOnRails Vote access control](https://vuldb.com/?id.217594)|Visit link for details|2023-01-07 at 09:50|
- |[Netis Netcore Router hard-coded password](https://vuldb.com/?id.217593)|Visit link for details|2023-01-07 at 09:45|
- |[Netis Netcore Router Backup param.file.tgz cleartext storage in a file or on disk](https://vuldb.com/?id.217592)|Visit link for details|2023-01-07 at 09:29|
- |[Netis Netcore Router Backup param.file.tgz information disclosure](https://vuldb.com/?id.217591)|Visit link for details|2023-01-07 at 09:27|
- |[Synacor Zimbra Collaboration Suite Webmail URL cross site scripting](https://vuldb.com/?id.217590)|Visit link for details|2023-01-07 at 09:19|
- |[Synacor Zimbra Collaboration Suite Classic UI Login Page cross site scripting](https://vuldb.com/?id.217589)|Visit link for details|2023-01-07 at 09:18|
+ |[XWiki CKEditor.HTMLConverter cross-site request forgery](https://vuldb.com/?id.217635)|Visit link for details|2023-01-07 at 20:55|
+ |[DrAzraelTod pyChao __init__.py lesen sql injection](https://vuldb.com/?id.217634)|Visit link for details|2023-01-07 at 20:49|
+ |[CESNET theme-cesnet resetpassword.php insufficiently protected credentials](https://vuldb.com/?id.217633)|Visit link for details|2023-01-07 at 20:47|
+ |[john5223 bottle-auth sql injection](https://vuldb.com/?id.217632)|Visit link for details|2023-01-07 at 20:44|
+ |[elgs gosqljson gosqljson.go ExecDb sql injection](https://vuldb.com/?id.217631)|Visit link for details|2023-01-07 at 20:43|
+ |[kelvinmo simplexrd simplexrd.class.php xml external entity reference](https://vuldb.com/?id.217630)|Visit link for details|2023-01-07 at 20:41|
+ |[MediaArea ZenLib Ztring.cpp Date_From_Seconds_1970_Local unknown vulnerability](https://vuldb.com/?id.217629)|Visit link for details|2023-01-07 at 20:39|
+ |[ForumHulp searchresults listener.php list_keywords sql injection](https://vuldb.com/?id.217628)|Visit link for details|2023-01-07 at 20:36|
+ |[Yomguithereal Baobab prototype pollution](https://vuldb.com/?id.217627)|Visit link for details|2023-01-07 at 20:33|
+ |[Symbiote Seed Login SecurityLoginExtension.php onBeforeSecurityLogin redirect](https://vuldb.com/?id.217626)|Visit link for details|2023-01-07 at 20:30|
  
  ---
 
-## IBMCLOUD [:arrow_heading_up:](#cyberowl)
+## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[Discourse information disclosure (CVE-2022-46168)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2023|
- |[Discourse security bypass (CVE-2022-46177)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2023|
- |[Discourse information disclosure (CVE-2023-22453)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2023|
- |[Discourse cross-site scripting (CVE-2023-22454)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2023|
- |[Discourse cross-site scripting (CVE-2023-22455)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2023|
- |[Qualcomm Snapdragon products code execution (CVE-2022-33218)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2023|
- |[Qualcomm Snapdragon products code execution (CVE-2022-33219)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0010/)|De multiples vulnérabilités ont été corrigées dans |Publié le 6 janvier 2023|
+ |[Multiples vulnérabilités dans PHP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0009/)|De multiples vulnérabilités ont été découvertes dans PHP. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 6 janvier 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0008/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 6 janvier 2023|
+ |[Multiples vulnérabilités dans IBM AIX et VIOS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0007/)|De multiples vulnérabilités ont été découvertes dans IBM AIX et VIOS. Elles permettent à un attaquant de provoquer un déni de service et une élévation de privilèges.|Publié le 5 janvier 2023|
+ |[Multiples vulnérabilités dans les produits Symantec](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0006/)|De multiples vulnérabilités ont été découvertes dans les produits Symantec. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une injection de code indirecte à distance (XSS).|Publié le 4 janvier 2023|
+ |[Vulnérabilité dans Synology VPN Plus Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0005/)|Une vulnérabilité a été découverte dans Synology VPN Plus Server. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 4 janvier 2023|
+ |[Multiples vulnérabilités dans IBM Sterling Global Mailbox](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0004/)|De multiples vulnérabilités ont été découvertes dans IBM Sterling. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 4 janvier 2023|
+ |[Multiples vulnérabilités dans les produits Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0003/)|De multiples vulnérabilités ont été découvertes dans les produits Android. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 4 janvier 2023|
+ |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0002/)|De multiples vulnérabilités ont été corrigées dans |Publié le 4 janvier 2023|
+ |[Vulnérabilité dans Apache Tomcat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0001/)|Une vulnérabilité a été découverte dans Apache Tomcat. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 4 janvier 2023|
+ 
+ ---
+
+## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
  ---
 
@@ -124,4 +110,18 @@
  |[39592012/22 - Vulnérabilités dans Microsoft Edge](https://www.dgssi.gov.ma//fr/content/3959201222-vulnerabilites-dans-microsoft-edge.html)|Microsoft annonce la correction de plusieurs vulnérabilités dans Microsoft Edge. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la confidentialité des données.|20 décembre 2022|
  |[39582012/22 - Vulnérabilités dans Foxit Reader et Foxit PDF Editor](https://www.dgssi.gov.ma//fr/content/3958201222-vulnerabilites-dans-foxit-reader-et-foxit-pdf-editor.html)|Foxit annonce la correction de plusieurs vulnérabilités affectant Foxit Reader et Foxit PDF Editor. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance ou de porter atteinte à la...|20 décembre 2022|
  |[39572012/22 - Vulnérabilités dans Citrix Hypervisor](https://www.dgssi.gov.ma//fr/content/3957201222-vulnerabilites-dans-citrix-hypervisor.html)|Citrixannonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités affectant les versions de Citrix Hypervisor susmentionnées. L’exploitation de ces failles peut permettre à un attaquant de...|20 décembre 2022|
+ 
+ ---
+
+## IBMCLOUD [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Discourse information disclosure (CVE-2022-46168)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2023|
+ |[Discourse security bypass (CVE-2022-46177)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2023|
+ |[Discourse information disclosure (CVE-2023-22453)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2023|
+ |[Discourse cross-site scripting (CVE-2023-22454)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2023|
+ |[Discourse cross-site scripting (CVE-2023-22455)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2023|
+ |[Qualcomm Snapdragon products code execution (CVE-2022-33218)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2023|
+ |[Qualcomm Snapdragon products code execution (CVE-2022-33219)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2023|
  
