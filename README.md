@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 06/01/2023 21:08:47 UTC
+ > Last Updated 07/01/2023 09:10:39 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -33,44 +33,6 @@
  |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/uscert/ncas/current-activity/2022/12/22/cisa-releases-four-industrial-control-systems-advisories)|<p>CISA released four Industrial Control Systems (ICS) advisories on December 22, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p>|Thursday, December 22, 2022|
  |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/uscert/ncas/current-activity/2022/12/20/cisa-releases-six-industrial-control-systems-advisories)|<p>CISA released six Industrial Control Systems (ICS) advisories on December 20, 2022. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p>|Tuesday, December 20, 2022|
  |[Samba Releases Security Updates](https://www.cisa.gov/uscert/ncas/current-activity/2022/12/16/samba-releases-security-updates)|<p>The Samba Team has released security updates to address vulnerabilities in multiple versions of Samba. An attacker could exploit some of these vulnerabilities to take control of an affected system. </p>|Friday, December 16, 2022|
- 
- ---
-
-## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- 
- ---
-
-## IBMCLOUD [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Discourse security bypass (CVE-2022-46177)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2023|
- |[Discourse information disclosure (CVE-2023-22453)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2023|
- |[Discourse cross-site scripting (CVE-2023-22454)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2023|
- |[Discourse cross-site scripting (CVE-2023-22455)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2023|
- |[Qualcomm Snapdragon products code execution (CVE-2022-33218)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2023|
- |[Qualcomm Snapdragon products code execution (CVE-2022-33219)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2023|
- |[Qualcomm Snapdragon products code execution (CVE-2022-33265)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2023|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[JervenBolleman sparql-identifiers RegistryDao.java sql injection](https://vuldb.com/?id.217571)|Visit link for details|2023-01-06 at 21:45|
- |[devent globalpom-utils FileResourceManagerProvider.java createTmpDir temp file](https://vuldb.com/?id.217570)|Visit link for details|2023-01-06 at 21:42|
- |[JoomGallery Image Sort default.php sql injection](https://vuldb.com/?id.217569)|Visit link for details|2023-01-06 at 21:38|
- |[Nexxt Amp300 ARN02304U8 Web Service sysTools os command injection](https://vuldb.com/?id.217568)|Visit link for details|2023-01-06 at 21:28|
- |[Canarytokens History Page cross site scripting](https://vuldb.com/?id.217567)|Visit link for details|2023-01-06 at 18:45|
- |[Apache James Server Temporary Files information disclosure](https://vuldb.com/?id.217566)|Visit link for details|2023-01-06 at 18:15|
- |[Apache James MIME4J TempFileStorageProvider information disclosure](https://vuldb.com/?id.217565)|Visit link for details|2023-01-06 at 18:14|
- |[himiklab yii2-jqgrid-widget JqGridAction.php addSearchOptionsRecursively sql injection](https://vuldb.com/?id.217564)|Visit link for details|2023-01-06 at 17:25|
- |[intgr uqm-wasm msgbox_macosx.m log_displayBox format string](https://vuldb.com/?id.217563)|Visit link for details|2023-01-06 at 17:22|
- |[ScottTZhang voter-js main.js sql injection](https://vuldb.com/?id.217562)|Visit link for details|2023-01-06 at 17:20|
  
  ---
 
@@ -106,6 +68,44 @@
  |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-January-2023-40220" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of January 2023</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-January-2023-40220)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FortiManager-privilege-escalation-via-Passwordless-Admin-40219" class="noirorange"><b>FortiManager</b>: privilege escalation via Passwordless Admin</a>](https://vigilance.fr/vulnerability/FortiManager-privilege-escalation-via-Passwordless-Admin-40219)|An attacker can bypass restrictions of FortiManager, via Passwordless Admin, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/rmt-server-privilege-escalation-via-pubcloud-40218" class="noirorange"><b>rmt-server</b>: privilege escalation via pubcloud</a>](https://vigilance.fr/vulnerability/rmt-server-privilege-escalation-via-pubcloud-40218)|An attacker can bypass restrictions of rmt-server, via pubcloud, in order to escalate his privileges...|Visit link for details|
+ 
+ ---
+
+## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+ ---
+
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Pylons horus services.py timing discrepancy](https://vuldb.com/?id.217598)|Visit link for details|2023-01-07 at 10:11|
+ |[jamesmartin Inline SVG URL Parameter helpers.rb cross site scripting](https://vuldb.com/?id.217597)|Visit link for details|2023-01-07 at 10:07|
+ |[agnivade easy-scrypt scrypt.go VerifyPassphrase timing discrepancy](https://vuldb.com/?id.217596)|Visit link for details|2023-01-07 at 10:04|
+ |[foxoverflow MySimplifiedSQL MySimplifiedSQL_Examples.php cross site scripting](https://vuldb.com/?id.217595)|Visit link for details|2023-01-07 at 09:53|
+ |[koroket RedditOnRails Vote access control](https://vuldb.com/?id.217594)|Visit link for details|2023-01-07 at 09:50|
+ |[Netis Netcore Router hard-coded password](https://vuldb.com/?id.217593)|Visit link for details|2023-01-07 at 09:45|
+ |[Netis Netcore Router Backup param.file.tgz cleartext storage in a file or on disk](https://vuldb.com/?id.217592)|Visit link for details|2023-01-07 at 09:29|
+ |[Netis Netcore Router Backup param.file.tgz information disclosure](https://vuldb.com/?id.217591)|Visit link for details|2023-01-07 at 09:27|
+ |[Synacor Zimbra Collaboration Suite Webmail URL cross site scripting](https://vuldb.com/?id.217590)|Visit link for details|2023-01-07 at 09:19|
+ |[Synacor Zimbra Collaboration Suite Classic UI Login Page cross site scripting](https://vuldb.com/?id.217589)|Visit link for details|2023-01-07 at 09:18|
+ 
+ ---
+
+## IBMCLOUD [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Discourse information disclosure (CVE-2022-46168)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2023|
+ |[Discourse security bypass (CVE-2022-46177)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2023|
+ |[Discourse information disclosure (CVE-2023-22453)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2023|
+ |[Discourse cross-site scripting (CVE-2023-22454)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2023|
+ |[Discourse cross-site scripting (CVE-2023-22455)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2023|
+ |[Qualcomm Snapdragon products code execution (CVE-2022-33218)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2023|
+ |[Qualcomm Snapdragon products code execution (CVE-2022-33219)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2023|
  
  ---
 
