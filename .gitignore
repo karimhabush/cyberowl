@@ -128,7 +128,7 @@ dmypy.json
 cython_debug/
 
 # Poetry lock file
-poetry.lock
+# poetry.lock
 
 
 # Vscode

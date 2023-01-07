@@ -20,18 +20,18 @@ export const head: HeadConfig[] = [
     },
   ],
   ['link', { rel: 'manifest', href: '/manifest.webmanifest' }],
-  ['meta', { name: 'application-name', content: 'VuePress' }],
-  ['meta', { name: 'apple-mobile-web-app-title', content: 'VuePress' }],
+  ['meta', { name: 'application-name', content: 'Cyberowl' }],
+  ['meta', { name: 'apple-mobile-web-app-title', content: 'Cyberowl' }],
   ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
   [
     'link',
-    { rel: 'apple-touch-icon', href: `/images/icons/apple-touch-icon.png` },
+    { rel: 'apple-touch-icon', href: `/images/logo1.webp` },
   ],
   [
     'link',
     {
       rel: 'mask-icon',
-      href: '/images/icons/safari-pinned-tab.svg',
+      href: '/images/logo1.webp',
       color: '#3eaf7c',
     },
   ],
