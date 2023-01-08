@@ -12,6 +12,8 @@ export const sidebarEn: SidebarConfig = {
         '/activity/zerodayinitiative.md',
         '/activity/obs-vigilance.md',
         '/activity/vuldb.md',
+        '/activity/hk-cert.md',
+
       ],
     },
   ],
