@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 07/01/2023 21:09:07 UTC
+ > Last Updated 08/01/2023 09:08:32 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -58,16 +58,6 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[XWiki CKEditor.HTMLConverter cross-site request forgery](https://vuldb.com/?id.217635)|Visit link for details|2023-01-07 at 20:55|
- |[DrAzraelTod pyChao __init__.py lesen sql injection](https://vuldb.com/?id.217634)|Visit link for details|2023-01-07 at 20:49|
- |[CESNET theme-cesnet resetpassword.php insufficiently protected credentials](https://vuldb.com/?id.217633)|Visit link for details|2023-01-07 at 20:47|
- |[john5223 bottle-auth sql injection](https://vuldb.com/?id.217632)|Visit link for details|2023-01-07 at 20:44|
- |[elgs gosqljson gosqljson.go ExecDb sql injection](https://vuldb.com/?id.217631)|Visit link for details|2023-01-07 at 20:43|
- |[kelvinmo simplexrd simplexrd.class.php xml external entity reference](https://vuldb.com/?id.217630)|Visit link for details|2023-01-07 at 20:41|
- |[MediaArea ZenLib Ztring.cpp Date_From_Seconds_1970_Local unknown vulnerability](https://vuldb.com/?id.217629)|Visit link for details|2023-01-07 at 20:39|
- |[ForumHulp searchresults listener.php list_keywords sql injection](https://vuldb.com/?id.217628)|Visit link for details|2023-01-07 at 20:36|
- |[Yomguithereal Baobab prototype pollution](https://vuldb.com/?id.217627)|Visit link for details|2023-01-07 at 20:33|
- |[Symbiote Seed Login SecurityLoginExtension.php onBeforeSecurityLogin redirect](https://vuldb.com/?id.217626)|Visit link for details|2023-01-07 at 20:30|
  
  ---
 
@@ -85,13 +75,6 @@
  |[Multiples vulnérabilités dans les produits Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0003/)|De multiples vulnérabilités ont été découvertes dans les produits Android. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 4 janvier 2023|
  |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0002/)|De multiples vulnérabilités ont été corrigées dans |Publié le 4 janvier 2023|
  |[Vulnérabilité dans Apache Tomcat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0001/)|Une vulnérabilité a été découverte dans Apache Tomcat. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 4 janvier 2023|
- 
- ---
-
-## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
  
  ---
 
@@ -117,11 +100,18 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Discourse information disclosure (CVE-2022-46168)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2023|
- |[Discourse security bypass (CVE-2022-46177)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2023|
- |[Discourse information disclosure (CVE-2023-22453)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2023|
- |[Discourse cross-site scripting (CVE-2023-22454)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2023|
- |[Discourse cross-site scripting (CVE-2023-22455)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2023|
- |[Qualcomm Snapdragon products code execution (CVE-2022-33218)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2023|
- |[Qualcomm Snapdragon products code execution (CVE-2022-33219)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 5, 2023|
+ |[Apache James server information disclosure (CVE-2022-45935)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 6, 2023|
+ |[Zoom Rooms for Windows installers privilege escalation (CVE-2022-36930)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 6, 2023|
+ |[Zoom Rooms for Windows clients privilege escalation (CVE-2022-36929)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 6, 2023|
+ |[Zoom for Android clients directory traversal (CVE-2022-36928)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 6, 2023|
+ |[Zoom Rooms for macOS privilege escalation (CVE-2022-36927)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 6, 2023|
+ |[Zoom Rooms for macOS privilege escalation (CVE-2022-36926)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 6, 2023|
+ |[Zoom Rooms for macOS security bypass (CVE-2022-36925)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 6, 2023|
+ 
+ ---
+
+## ZeroDayInitiative [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
  
