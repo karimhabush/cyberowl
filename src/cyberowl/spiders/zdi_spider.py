@@ -28,9 +28,9 @@ class ZDISpider(scrapy.Spider):
         description_selector : The CSS/XPATH selector of the description of the alert.
     """
 
-    name = "ZeroDayInitiative"
+    name = "ZERODAYINITIATIVE"
     max_bulletins = 7
-    start_urls = ["https://www.zerodayinitiative.com/advisories/published/"]
+    start_urls = ["https://www.zerodayinitiative.com/advisories/published/2022/"]
     block_selector = "descendant-or-self::table[contains(@class,'table')]/tbody/tr"
     link_selector = ".//a"
     title_selector = ".//a"

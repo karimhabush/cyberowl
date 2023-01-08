@@ -1,8 +1,8 @@
 name: auto_update_cron_job
 
 on:
-  schedule:
-    - cron: '0 9,21 * * *'
+  schedule: # Runs every hour at 0 minutes
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -28,3 +28,32 @@ jobs:
           git add README.md
           git commit -m "Automatic update with GitHub Actions"
           git push origin ${GITHUB_REF##*/}
+
+  deploy: # This job will only run if the previous job was successful, it will deploy the changes to the /docs folder to s3 bucket
+    needs: run-and-commit
+    runs-on: ubuntu-latest
+    permissions:
+      id-token: write
+      contents: write
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+    - name: Setup Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18'
+    - name: Install dependencies
+      run: |
+        npm install
+    - name: Build
+      run: |
+        npm run docs:build
+    - name: Configure AWS credentials
+      uses: aws-actions/configure-aws-credentials@v1
+      with:
+        role-to-assume: ${{ secrets.AWS_ROLE_TO_ASSUME }}
+        aws-region: ${{ secrets.AWS_REGION }}
+
+    - name: Copy the files from /docs/.vuepress/dist to s3 bucket
+      run: |
+        aws s3 sync ./docs/.vuepress/dist s3://${{ secrets.AWS_S3_BUCKET_NAME }} --delete

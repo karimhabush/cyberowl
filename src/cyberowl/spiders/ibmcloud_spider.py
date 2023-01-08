@@ -28,7 +28,7 @@ class IBMCloudSpider(scrapy.Spider):
         description_selector : The CSS/XPATH selector of the description of the alert.
     """
 
-    name = "IBMCLOUD"
+    name = "IBM-X-FORCE-EXCHANGE"
     max_bulletins = 6
     start_urls = [
         "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities"
