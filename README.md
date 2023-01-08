@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 08/01/2023 09:08:32 UTC
+ > Last Updated 08/01/2023 21:07:41 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -36,6 +36,20 @@
  
  ---
 
+## IBMCLOUD [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apache James MIME4J information disclosure (CVE-2022-45787)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 6, 2023|
+ |[Apache James server information disclosure (CVE-2022-45935)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 6, 2023|
+ |[Zoom Rooms for Windows installers privilege escalation (CVE-2022-36930)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 6, 2023|
+ |[Zoom Rooms for Windows clients privilege escalation (CVE-2022-36929)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 6, 2023|
+ |[Zoom for Android clients directory traversal (CVE-2022-36928)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 6, 2023|
+ |[Zoom Rooms for macOS privilege escalation (CVE-2022-36927)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 6, 2023|
+ |[Zoom Rooms for macOS privilege escalation (CVE-2022-36926)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 6, 2023|
+ 
+ ---
+
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -58,6 +72,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[mrtnmtth joomla_mod_einsatz_stats helper.php getStatsByType sql injection](https://vuldb.com/?id.217653)|Visit link for details|2023-01-08 at 18:27|
+ |[FastCGI Connection resource consumption](https://vuldb.com/?id.217652)|Visit link for details|2023-01-08 at 18:24|
+ |[yanheven console tables.py AvailabilityZonesTable cross site scripting](https://vuldb.com/?id.217651)|Visit link for details|2023-01-08 at 18:22|
+ |[viafintech Barzahlen Payment Module PHP SDK Webhook.php verify timing discrepancy](https://vuldb.com/?id.217650)|Visit link for details|2023-01-08 at 18:20|
+ |[01-Scripts 01ACP cross site scripting](https://vuldb.com/?id.217649)|Visit link for details|2023-01-08 at 18:04|
+ |[purpleparrots 491-Project Highscore update.php sql injection](https://vuldb.com/?id.217648)|Visit link for details|2023-01-08 at 17:20|
+ |[lojban jbovlaste listing.html sql injection](https://vuldb.com/?id.217647)|Visit link for details|2023-01-08 at 13:29|
+ |[CapsAdmin PAC3 http.lua cross site scripting](https://vuldb.com/?id.217646)|Visit link for details|2023-01-08 at 13:28|
+ |[happyman twmap pointdata2.php sql injection](https://vuldb.com/?id.217645)|Visit link for details|2023-01-08 at 11:39|
+ |[saxman maps-js-icoads exposure of information through directory listing](https://vuldb.com/?id.217644)|Visit link for details|2023-01-08 at 11:34|
  
  ---
 
@@ -93,20 +117,6 @@
  |[39592012/22 - Vulnérabilités dans Microsoft Edge](https://www.dgssi.gov.ma//fr/content/3959201222-vulnerabilites-dans-microsoft-edge.html)|Microsoft annonce la correction de plusieurs vulnérabilités dans Microsoft Edge. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la confidentialité des données.|20 décembre 2022|
  |[39582012/22 - Vulnérabilités dans Foxit Reader et Foxit PDF Editor](https://www.dgssi.gov.ma//fr/content/3958201222-vulnerabilites-dans-foxit-reader-et-foxit-pdf-editor.html)|Foxit annonce la correction de plusieurs vulnérabilités affectant Foxit Reader et Foxit PDF Editor. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance ou de porter atteinte à la...|20 décembre 2022|
  |[39572012/22 - Vulnérabilités dans Citrix Hypervisor](https://www.dgssi.gov.ma//fr/content/3957201222-vulnerabilites-dans-citrix-hypervisor.html)|Citrixannonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités affectant les versions de Citrix Hypervisor susmentionnées. L’exploitation de ces failles peut permettre à un attaquant de...|20 décembre 2022|
- 
- ---
-
-## IBMCLOUD [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Apache James server information disclosure (CVE-2022-45935)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 6, 2023|
- |[Zoom Rooms for Windows installers privilege escalation (CVE-2022-36930)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 6, 2023|
- |[Zoom Rooms for Windows clients privilege escalation (CVE-2022-36929)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 6, 2023|
- |[Zoom for Android clients directory traversal (CVE-2022-36928)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 6, 2023|
- |[Zoom Rooms for macOS privilege escalation (CVE-2022-36927)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 6, 2023|
- |[Zoom Rooms for macOS privilege escalation (CVE-2022-36926)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 6, 2023|
- |[Zoom Rooms for macOS security bypass (CVE-2022-36925)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 6, 2023|
  
  ---
 
