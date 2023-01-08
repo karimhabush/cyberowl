@@ -8,6 +8,7 @@ from spiders.ma_cert_spider import MACertSpider
 from spiders.vigilance_spider import VigilanceSpider
 from spiders.vuldb_spider import VulDBSpider
 from spiders.zdi_spider import ZDISpider
+from spiders.hk_cert_spider import HKCERTSpider
 from utils import generate_heading, generate_table_of_content, write_to_readme
 
 
@@ -31,6 +32,7 @@ def main():
         ZDISpider,
         VigilanceSpider,
         VulDBSpider,
+        HKCERTSpider
     ]
 
     for spider in spiders_cls:
