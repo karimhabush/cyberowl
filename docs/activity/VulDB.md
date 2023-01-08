@@ -4,14 +4,14 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Woorank robots-txt-guard patterns.js makePathPattern redos](https://vuldb.com/?id.217448)|Visit link for details|2023-01-05 at 11:08|
- |[eprintsug ulcc-core toolbox command injection](https://vuldb.com/?id.217447)|Visit link for details|2023-01-05 at 11:04|
- |[WebDevStudios taxonomy-switcher Plugin taxonomy-switcher.php taxonomy_switcher_init cross site scripting](https://vuldb.com/?id.217446)|Visit link for details|2023-01-05 at 10:57|
- |[Wikimedia mediawiki-extensions-I18nTags Unlike Parser I18nTags_body.php cross site scripting](https://vuldb.com/?id.217445)|Visit link for details|2023-01-05 at 10:22|
- |[snoyberg keter Proxy.hs cross site scripting](https://vuldb.com/?id.217444)|Visit link for details|2023-01-05 at 10:18|
- |[bonitasoft bonita-connector-webservice SecureWSConnector.java TransformerConfigurationException xml external entity reference](https://vuldb.com/?id.217443)|Visit link for details|2023-01-05 at 10:14|
- |[shannah Xataface Installer install_form.js.php testftp cross site scripting](https://vuldb.com/?id.217442)|Visit link for details|2023-01-05 at 09:49|
- |[University of Cambridge django-ucamlookup Lookup cross site scripting](https://vuldb.com/?id.217441)|Visit link for details|2023-01-05 at 09:47|
- |[OpenACS bug-tracker Search nav-bar.adp cross-site request forgery](https://vuldb.com/?id.217440)|Visit link for details|2023-01-05 at 09:14|
- |[OSM Lab show-me-the-way site.js cross site scripting](https://vuldb.com/?id.217439)|Visit link for details|2023-01-05 at 09:11|
+ |[lojban jbovlaste listing.html sql injection](https://vuldb.com/?id.217647)|Visit link for details|2023-01-08 at 13:29|
+ |[CapsAdmin PAC3 http.lua cross site scripting](https://vuldb.com/?id.217646)|Visit link for details|2023-01-08 at 13:28|
+ |[happyman twmap pointdata2.php sql injection](https://vuldb.com/?id.217645)|Visit link for details|2023-01-08 at 11:39|
+ |[saxman maps-js-icoads exposure of information through directory listing](https://vuldb.com/?id.217644)|Visit link for details|2023-01-08 at 11:34|
+ |[saxman maps-js-icoads http-server.js path traversal](https://vuldb.com/?id.217643)|Visit link for details|2023-01-08 at 11:33|
+ |[SUKOHI Surpass Surpass.php pathname traversal](https://vuldb.com/?id.217642)|Visit link for details|2023-01-08 at 10:32|
+ |[pouetnet pouet sql injection](https://vuldb.com/?id.217641)|Visit link for details|2023-01-08 at 10:26|
+ |[web-cyradm auth.inc.php sql injection](https://vuldb.com/?id.217640)|Visit link for details|2023-01-08 at 10:23|
+ |[corincerami curiosity image_controller.rb sql injection](https://vuldb.com/?id.217639)|Visit link for details|2023-01-08 at 10:14|
+ |[YunoHost-Apps transmission_ynh nginx.conf path traversal](https://vuldb.com/?id.217638)|Visit link for details|2023-01-08 at 10:11|
  

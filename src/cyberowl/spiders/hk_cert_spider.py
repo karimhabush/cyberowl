@@ -29,7 +29,7 @@ class HKCERTSpider(scrapy.Spider):
     block_selector = "a.listingcard__item"
     link_selector = "./@href"
     title_selector = ".//p[contains(@class, 'listingcard__title')]//text()"
-    date_selector = ""
+    date_selector = ".//div[contains(@class, 'listingcard__info')]/text()[substring-after(.,'Release Date:')]"
     description_selector = ".//div[contains(@class, 'listingcard__desc')]//text()"
 
     def parse(self, response):
@@ -44,7 +44,7 @@ class HKCERTSpider(scrapy.Spider):
 
             item["title"] = bulletin.xpath(self.title_selector).get()
             item["link"] = bulletin.xpath(self.link_selector).get()
-            item["date"] = "Visit websie for more details"
+            item["date"] = bulletin.xpath(self.date_selector).get()
             item["description"] = bulletin.xpath(self.description_selector).get()
 
             yield item
