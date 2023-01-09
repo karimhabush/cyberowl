@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 08/01/2023 21:07:41 UTC
+ > Last Updated 09/01/2023 09:10:36 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -50,6 +50,23 @@
  
  ---
 
+## CERT-FR [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0010/)|De multiples vulnérabilités ont été corrigées dans |Publié le 6 janvier 2023|
+ |[Multiples vulnérabilités dans PHP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0009/)|De multiples vulnérabilités ont été découvertes dans PHP. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 6 janvier 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0008/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 6 janvier 2023|
+ |[Multiples vulnérabilités dans IBM AIX et VIOS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0007/)|De multiples vulnérabilités ont été découvertes dans IBM AIX et VIOS. Elles permettent à un attaquant de provoquer un déni de service et une élévation de privilèges.|Publié le 5 janvier 2023|
+ |[Multiples vulnérabilités dans les produits Symantec](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0006/)|De multiples vulnérabilités ont été découvertes dans les produits Symantec. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une injection de code indirecte à distance (XSS).|Publié le 4 janvier 2023|
+ |[Vulnérabilité dans Synology VPN Plus Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0005/)|Une vulnérabilité a été découverte dans Synology VPN Plus Server. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 4 janvier 2023|
+ |[Multiples vulnérabilités dans IBM Sterling Global Mailbox](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0004/)|De multiples vulnérabilités ont été découvertes dans IBM Sterling. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 4 janvier 2023|
+ |[Multiples vulnérabilités dans les produits Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0003/)|De multiples vulnérabilités ont été découvertes dans les produits Android. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 4 janvier 2023|
+ |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0002/)|De multiples vulnérabilités ont été corrigées dans |Publié le 4 janvier 2023|
+ |[Vulnérabilité dans Apache Tomcat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0001/)|Une vulnérabilité a été découverte dans Apache Tomcat. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 4 janvier 2023|
+ 
+ ---
+
 ## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -72,33 +89,16 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[mrtnmtth joomla_mod_einsatz_stats helper.php getStatsByType sql injection](https://vuldb.com/?id.217653)|Visit link for details|2023-01-08 at 18:27|
- |[FastCGI Connection resource consumption](https://vuldb.com/?id.217652)|Visit link for details|2023-01-08 at 18:24|
- |[yanheven console tables.py AvailabilityZonesTable cross site scripting](https://vuldb.com/?id.217651)|Visit link for details|2023-01-08 at 18:22|
- |[viafintech Barzahlen Payment Module PHP SDK Webhook.php verify timing discrepancy](https://vuldb.com/?id.217650)|Visit link for details|2023-01-08 at 18:20|
- |[01-Scripts 01ACP cross site scripting](https://vuldb.com/?id.217649)|Visit link for details|2023-01-08 at 18:04|
- |[purpleparrots 491-Project Highscore update.php sql injection](https://vuldb.com/?id.217648)|Visit link for details|2023-01-08 at 17:20|
- |[lojban jbovlaste listing.html sql injection](https://vuldb.com/?id.217647)|Visit link for details|2023-01-08 at 13:29|
- |[CapsAdmin PAC3 http.lua cross site scripting](https://vuldb.com/?id.217646)|Visit link for details|2023-01-08 at 13:28|
- |[happyman twmap pointdata2.php sql injection](https://vuldb.com/?id.217645)|Visit link for details|2023-01-08 at 11:39|
- |[saxman maps-js-icoads exposure of information through directory listing](https://vuldb.com/?id.217644)|Visit link for details|2023-01-08 at 11:34|
- 
- ---
-
-## CERT-FR [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0010/)|De multiples vulnérabilités ont été corrigées dans |Publié le 6 janvier 2023|
- |[Multiples vulnérabilités dans PHP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0009/)|De multiples vulnérabilités ont été découvertes dans PHP. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 6 janvier 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0008/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 6 janvier 2023|
- |[Multiples vulnérabilités dans IBM AIX et VIOS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0007/)|De multiples vulnérabilités ont été découvertes dans IBM AIX et VIOS. Elles permettent à un attaquant de provoquer un déni de service et une élévation de privilèges.|Publié le 5 janvier 2023|
- |[Multiples vulnérabilités dans les produits Symantec](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0006/)|De multiples vulnérabilités ont été découvertes dans les produits Symantec. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une injection de code indirecte à distance (XSS).|Publié le 4 janvier 2023|
- |[Vulnérabilité dans Synology VPN Plus Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0005/)|Une vulnérabilité a été découverte dans Synology VPN Plus Server. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 4 janvier 2023|
- |[Multiples vulnérabilités dans IBM Sterling Global Mailbox](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0004/)|De multiples vulnérabilités ont été découvertes dans IBM Sterling. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.|Publié le 4 janvier 2023|
- |[Multiples vulnérabilités dans les produits Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0003/)|De multiples vulnérabilités ont été découvertes dans les produits Android. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 4 janvier 2023|
- |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0002/)|De multiples vulnérabilités ont été corrigées dans |Publié le 4 janvier 2023|
- |[Vulnérabilité dans Apache Tomcat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0001/)|Une vulnérabilité a été découverte dans Apache Tomcat. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 4 janvier 2023|
+ |[kaltura mwEmbed Share Plugin share.js cross site scripting](https://vuldb.com/?id.217664)|Visit link for details|2023-01-09 at 09:55|
+ |[HealthMateWeb createaccount.php cross site scripting](https://vuldb.com/?id.217663)|Visit link for details|2023-01-09 at 09:50|
+ |[01-Scripts 01-Artikelsystem 01article.php cross site scripting](https://vuldb.com/?id.217662)|Visit link for details|2023-01-09 at 09:45|
+ |[Information Cards Module cross site scripting](https://vuldb.com/?id.217661)|Visit link for details|2023-01-09 at 08:20|
+ |[Apache Sling CMS Group Details cross site scripting](https://vuldb.com/?id.217660)|Visit link for details|2023-01-09 at 08:17|
+ |[JFrog Artifactory Request insufficient privileges](https://vuldb.com/?id.217659)|Visit link for details|2023-01-09 at 08:17|
+ |[wifey connect command injection](https://vuldb.com/?id.217658)|Visit link for details|2023-01-09 at 08:16|
+ |[OpenHarmony Communication Subsystem softbus_client_stub improper authentication](https://vuldb.com/?id.217657)|Visit link for details|2023-01-09 at 08:16|
+ |[OpenHarmony misc Subsystem platform_callback_stub improper authentication](https://vuldb.com/?id.217656)|Visit link for details|2023-01-09 at 08:16|
+ |[OpenHarmony Kernel Subsystem kernel_liteos_a stack-based overflow](https://vuldb.com/?id.217655)|Visit link for details|2023-01-09 at 08:15|
  
  ---
 
