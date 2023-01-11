@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 11/01/2023 09:13:26 UTC
+ > Last Updated 11/01/2023 21:10:27 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -27,12 +27,12 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[NCSC-UK Releases Guidance on Using MSP for Administering Cloud Services](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/11/ncsc-uk-releases-guidance-using-msp-administering-cloud-services)|<p>The United Kingdom’s National Cyber Security Centre (NCSC-UK) has released a blog post, <a href="https://www.ncsc.gov.uk/blog-post/using-msps-to-administer-your-cloud-services">Using MSPs to administer your cloud services</a>, that provides organizations security considerations for using a third party, such as a managed service provider (MSP), to administer cloud services. Contracting with an MSP for cloud service management has become an increasingly appealing option for organizations.</p>|Wednesday, January 11, 2023|
  |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/10/adobe-releases-security-updates-multiple-products)|<p>Adobe has released security updates to address multiple vulnerabilities in Adobe software. An attacker could exploit some of these vulnerabilities to take control of an affected system.</p>|Tuesday, January 10, 2023|
  |[Microsoft Releases January 2023 Security Updates](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/10/microsoft-releases-january-2023-security-updates)|<p>Microsoft has released updates to address multiple vulnerabilities in Microsoft software. An attacker could exploit some of these vulnerabilities to take control of an affected system.</p>|Tuesday, January 10, 2023|
  |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/10/cisa-adds-two-known-exploited-vulnerabilities-catalog)|<p>CISA has added two new vulnerabilities to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. <strong>Note</strong>: To view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.</p>|Tuesday, January 10, 2023|
  |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/10/cisa-releases-two-industrial-control-systems-advisories)|<p>CISA released two Industrial Control Systems (ICS) advisories on January 10, 2023. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p>|Tuesday, January 10, 2023|
  |[CISA Releases Three Industrial Systems Control Advisories](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/05/cisa-releases-three-industrial-systems-control-advisories)|<p>CISA released three Industrial Control Systems (ICS) advisories on January 5, 2023. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p>|Thursday, January 5, 2023|
- |[Fortinet Releases Security Updates for FortiADC](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/04/fortinet-releases-security-updates-fortiadc)|<p>Fortinet has released a security advisory to address a vulnerability in multiple versions of FortiADC. This vulnerability may allow a remote attacker “to execute unauthorized code or commands via specifically crafted HTTP requests.”</p>|Wednesday, January 4, 2023|
  
  ---
 
@@ -50,38 +50,20 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Shibboleth-Service-Provider-privilege-escalation-via-opt-shibboleth-sp-40253" class="noirorange"><b>Shibboleth Service Provider</b>: privilege escalation via /opt/shibboleth-sp</a>](https://vigilance.fr/vulnerability/Shibboleth-Service-Provider-privilege-escalation-via-opt-shibboleth-sp-40253)|An attacker can bypass restrictions of Shibboleth Service Provider, via /opt/shibboleth-sp, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mbed-TLS-information-disclosure-via-MBEDTLS-MPI-WINDOW-SIZE-Less-Than-Three-40252" class="noirorange"><b>Mbed TLS</b>: information disclosure via <wbr>MBEDTLS_MPI_WINDOW_S<wbr>IZE Less Than Three</wbr></wbr></a>](https://vigilance.fr/vulnerability/Mbed-TLS-information-disclosure-via-MBEDTLS-MPI-WINDOW-SIZE-Less-Than-Three-40252)|An attacker can bypass access restrictions to data of Mbed TLS, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Fluentd-code-execution-via-FLUENT-OJ-OPTION-MODE-40251" class="noirorange"><b>Fluentd</b>: code execution via <wbr>FLUENT_OJ_OPTION_MOD<wbr>E</wbr></wbr></a>](https://vigilance.fr/vulnerability/Fluentd-code-execution-via-FLUENT-OJ-OPTION-MODE-40251)|An attacker can use a vulnerability of Fluentd, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Adobe-Acrobat-Reader-multiple-vulnerabilities-40250" class="noirorange"><b>Adobe Acrobat  Reader</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Adobe-Acrobat-Reader-multiple-vulnerabilities-40250)|An attacker can use several vulnerabilities of Adobe Acrobat  Reader...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-40249" class="noirorange"><b>Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-40249)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-January-2023-40248" class="noirorange"><b>Windows</b>: vulnerabilities of January 2023</a>](https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-January-2023-40248)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-January-2023-40247" class="noirorange"><b>Microsoft SharePoint</b>: vulnerabilities of January 2023</a>](https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-January-2023-40247)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-January-2023-40246" class="noirorange"><b>Microsoft Exchange Server</b>: vulnerabilities of January 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-January-2023-40246)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-January-2023-40245" class="noirorange"><b>Microsoft 365 Apps  Office</b>: vulnerabilities of January 2023</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-January-2023-40245)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-NET-6-0-denial-of-service-40244" class="noirorange"><b>Microsoft .NET 6.0</b>: denial of service</a>](https://vigilance.fr/vulnerability/Microsoft-NET-6-0-denial-of-service-40244)|An attacker can cause a fatal error of Microsoft .NET 6.0, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Sinatra-file-reading-via-Content-Disposition-Header-40243" class="noirorange"><b>Sinatra</b>: file reading via Content-Disposition Header</a>](https://vigilance.fr/vulnerability/Sinatra-file-reading-via-Content-Disposition-Header-40243)|An attacker can read a file of Sinatra, via Content-Disposition Header, in order to obtain sensitive information...|Visit link for details|
- 
- ---
-
 ## VulDB [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
  |---|---|---|
- |[Flarum Post Mention access control](https://vuldb.com/?id.217968)|Visit link for details|2023-01-11 at 09:05|
- |[Flarum Notification information disclosure](https://vuldb.com/?id.217967)|Visit link for details|2023-01-11 at 09:04|
- |[flarum Reply access control](https://vuldb.com/?id.217966)|Visit link for details|2023-01-11 at 09:04|
- |[ACI_Escola sql injection](https://vuldb.com/?id.217965)|Visit link for details|2023-01-11 at 07:40|
- |[Syracom Secure Login Plugin pinvalidation improper authentication](https://vuldb.com/?id.217964)|Visit link for details|2023-01-11 at 07:39|
- |[Shibboleth-sp Installation uncontrolled search path](https://vuldb.com/?id.217963)|Visit link for details|2023-01-11 at 07:38|
- |[zephyrproject-rtos Zephyr Slot 0 information disclosure](https://vuldb.com/?id.217962)|Visit link for details|2023-01-11 at 07:37|
- |[zephyrproject-rtos Zephyr USB Device Bluetooth net_buf_add_mem buffer overflow](https://vuldb.com/?id.217961)|Visit link for details|2023-01-11 at 07:37|
- |[GrowthExperiments Extension growthmanagementorlist API access control](https://vuldb.com/?id.217960)|Visit link for details|2023-01-11 at 07:36|
- |[ZyXEL GS1920-24v2 HTTP Request unusual condition](https://vuldb.com/?id.217959)|Visit link for details|2023-01-11 at 07:36|
+ |[gatsby-transformer-remark code injection](https://vuldb.com/?id.218046)|Visit link for details|2023-01-11 at 21:57|
+ |[Zitadel session expiration](https://vuldb.com/?id.218045)|Visit link for details|2023-01-11 at 21:57|
+ |[Cloudflare WARP Client XML File mdm.xml input validation](https://vuldb.com/?id.218044)|Visit link for details|2023-01-11 at 21:57|
+ |[IBM Sterling Partner Engagement Manager resource consumption](https://vuldb.com/?id.218043)|Visit link for details|2023-01-11 at 21:56|
+ |[Cloudflare WARP Mobile Client Manifest File Local Privilege Escalation](https://vuldb.com/?id.218042)|Visit link for details|2023-01-11 at 21:53|
+ |[IBM Sterling Partner Engagement Manager sql injection](https://vuldb.com/?id.218041)|Visit link for details|2023-01-11 at 21:52|
+ |[Cisco BroadWorks Application Delivery Platform cross site scripting](https://vuldb.com/?id.218040)|Visit link for details|2023-01-11 at 19:43|
+ |[Cisco CX Cloud Agent permission](https://vuldb.com/?id.218039)|Visit link for details|2023-01-11 at 19:42|
+ |[Cisco CX Cloud Agent sudo insecure inherited permissions](https://vuldb.com/?id.218038)|Visit link for details|2023-01-11 at 19:42|
+ |[Cisco Webex Room Phone/Webex Share Link Layer Discovery Protocol memory leak](https://vuldb.com/?id.218037)|Visit link for details|2023-01-11 at 19:40|
  
  ---
 
@@ -89,16 +71,34 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[[SCADA] Multiples vulnérabilités dans les produits Siemens](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0015/)|De multiples vulnérabilités ont été découvertes dans les produits Siemens. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 10 janvier 2023|
- |[[SCADA] Multiples vulnérabilités dans les produits Schneider Electric](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0014/)|De multiples vulnérabilités ont été découvertes dans les produits Schneider Electric. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 10 janvier 2023|
- |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0013/)|De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 10 janvier 2023|
- |[Multiples vulnérabilités dans IBM Sterling](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0012/)|De multiples vulnérabilités ont été découvertes dans IBM Sterling. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 10 janvier 2023|
- |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0011/)|De multiples vulnérabilités ont été découvertes dans les produits Nextcloud. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 9 janvier 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0010/)|De multiples vulnérabilités ont été corrigées dans |Publié le 6 janvier 2023|
- |[Multiples vulnérabilités dans PHP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0009/)|De multiples vulnérabilités ont été découvertes dans PHP. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 6 janvier 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0008/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 6 janvier 2023|
- |[Multiples vulnérabilités dans IBM AIX et VIOS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0007/)|De multiples vulnérabilités ont été découvertes dans IBM AIX et VIOS. Elles permettent à un attaquant de provoquer un déni de service et une élévation de privilèges.|Publié le 5 janvier 2023|
- |[Multiples vulnérabilités dans les produits Symantec](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0006/)|De multiples vulnérabilités ont été découvertes dans les produits Symantec. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une injection de code indirecte à distance (XSS).|Publié le 4 janvier 2023|
+ |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0025/)|De multiples vulnérabilités ont été corrigées dans |Publié le 11 janvier 2023|
+ |[Vulnérabilité dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0024/)|Une vulnérabilité a été corrigée dans |Publié le 11 janvier 2023|
+ |[Vulnérabilité dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0023/)|Une vulnérabilité a été corrigée dans |Publié le 11 janvier 2023|
+ |[Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0022/)|De multiples vulnérabilités ont été corrigées dans |Publié le 11 janvier 2023|
+ |[Multiples vulnérabilités dans Microsoft Office](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0021/)|De multiples vulnérabilités ont été corrigées dans |Publié le 11 janvier 2023|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0020/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 11 janvier 2023|
+ |[Multiples vulnérabilités dans les produits SAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0019/)|De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 11 janvier 2023|
+ |[[SCADA] Vulnérabilité dans Moxa TN-4900](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0018/)|Une vulnérabilité a été découverte dans Moxa TN-4900. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 11 janvier 2023|
+ |[Multiples vulnérabilités dans Intel oneAPI Toolkit](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0017/)|De multiples vulnérabilités ont été découvertes dans Intel oneAPI Toolkit. Elles permettent à un attaquant de provoquer une élévation de privilèges.|Publié le 11 janvier 2023|
+ |[Multiples vulnérabilités dans Adobe Reader et Acrobat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0016/)|De multiples vulnérabilités ont été découvertes dans Adobe Reader et Acrobat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service et une atteinte à l'intégrité des données.|Publié le 11 janvier 2023|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Junos-OS-multiple-vulnerabilities-40266" class="noirorange"><b>Junos OS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Junos-OS-multiple-vulnerabilities-40266)|An attacker can use several vulnerabilities of Junos OS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-IP-Phone-7800-8800-privilege-escalation-via-Web-based-Management-Interface-40265" class="noirorange"><b>Cisco IP Phone 7800/8800</b>: privilege escalation via Web-based Management Interface</a>](https://vigilance.fr/vulnerability/Cisco-IP-Phone-7800-8800-privilege-escalation-via-Web-based-Management-Interface-40265)|An attacker can bypass restrictions of Cisco IP Phone 7800/8800, via Web-based Management Interface, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SDL2-memory-leak-via-OpenGL-ES-Image-Texture-40264" class="noirorange"><b>SDL2</b>: memory leak via OpenGL ES Image Texture</a>](https://vigilance.fr/vulnerability/SDL2-memory-leak-via-OpenGL-ES-Image-Texture-40264)|An attacker can create a memory leak of SDL2, via OpenGL ES Image Texture, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-Network-Scheduler-40263" class="noirorange"><b>Linux kernel</b>: memory corruption via Network Scheduler</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-Network-Scheduler-40263)|An attacker can trigger a memory corruption of the Linux kernel, via Network Scheduler, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ViewVC-Cross-Site-Scripting-via-Copyfrom-40262" class="noirorange"><b>ViewVC</b>: Cross Site Scripting via Copyfrom</a>](https://vigilance.fr/vulnerability/ViewVC-Cross-Site-Scripting-via-Copyfrom-40262)|An attacker can trigger a Cross Site Scripting of ViewVC, via Copyfrom, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ViewVC-Cross-Site-Scripting-via-Unsafe-File-Names-40261" class="noirorange"><b>ViewVC</b>: Cross Site Scripting via Unsafe File Names</a>](https://vigilance.fr/vulnerability/ViewVC-Cross-Site-Scripting-via-Unsafe-File-Names-40261)|An attacker can trigger a Cross Site Scripting of ViewVC, via Unsafe File Names, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-khugepaged-40260" class="noirorange"><b>Linux kernel</b>: denial of service via khugepaged</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-khugepaged-40260)|An attacker can cause a fatal error of the Linux kernel, via khugepaged, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Avast-Antivirus-privilege-escalation-40257" class="noirorange"><b>Avast Antivirus</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Avast-Antivirus-privilege-escalation-40257)|An attacker can bypass restrictions of Avast Antivirus, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Avast-Antivirus-privilege-escalation-via-Malware-Removal-40256" class="noirorange"><b>Avast Antivirus</b>: privilege escalation via Malware Removal</a>](https://vigilance.fr/vulnerability/Avast-Antivirus-privilege-escalation-via-Malware-Removal-40256)|An attacker can bypass restrictions of Avast Antivirus, via Malware Removal, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Avast-Antivirus-privilege-escalation-40255" class="noirorange"><b>Avast Antivirus</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Avast-Antivirus-privilege-escalation-40255)|An attacker can bypass restrictions of Avast Antivirus, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Avast-Antivirus-privilege-escalation-via-Malware-Removal-40254" class="noirorange"><b>Avast Antivirus</b>: privilege escalation via Malware Removal</a>](https://vigilance.fr/vulnerability/Avast-Antivirus-privilege-escalation-via-Malware-Removal-40254)|An attacker can bypass restrictions of Avast Antivirus, via Malware Removal, in order to escalate his privileges...|Visit link for details|
  
  ---
 
