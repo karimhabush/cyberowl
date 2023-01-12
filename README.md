@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 11/01/2023 21:10:27 UTC
+ > Last Updated 12/01/2023 09:12:09 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -40,13 +40,31 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Intel C++ Compiler Classic privilege escalation (CVE-2022-41342)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 10, 2023|
- |[Intel oneAPI DPC++/C++ Compiler privilege escalation (CVE-2022-38136)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 10, 2023|
- |[Intel oneAPI DPC++/C++ Compiler privilege escalation (CVE-2022-40196)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 10, 2023|
- |[Siemens JT Open Toolkit, Siemens JT Utilities, and Siemens Solid Edge code execution (CVE-2022-47935)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 10, 2023|
- |[Siemens Solid Edge code execution (CVE-2022-47967)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 10, 2023|
- |[Asus RT-AX82U security bypass (CVE-2022-35401)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 10, 2023|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 10, 2023|
+ |[MAHO-PBX OS cross-site request forgery (CVE-2023-22286)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 12, 2023|
+ |[Cisco Small Business RV016, RV042, RV042G, and RV082 Routers command execution (CVE-2023-20026)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 11, 2023|
+ |[Cisco Small Business RV016, RV042, RV042G, and RV082 Routers security bypass (CVE-2023-20025)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 11, 2023|
+ |[Zyxel NR7101 command execution (CVE-2022-43389)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 11, 2023|
+ |[Zyxel NR7101 command execution (CVE-2022-43390)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 11, 2023|
+ |[Zyxel NR7101 denial of service (CVE-2022-43391)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 11, 2023|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 11, 2023|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/phoronix-test-suite-Cross-Site-Scripting-via-phoromatic-r-add-test-details-php-40271" class="noirorange"><b>phoronix-test-suite</b>: Cross Site Scripting via <wbr>phoromatic_r_add_tes<wbr>t_details.php</wbr></wbr></a>](https://vigilance.fr/vulnerability/phoronix-test-suite-Cross-Site-Scripting-via-phoromatic-r-add-test-details-php-40271)|An attacker can trigger a Cross Site Scripting of |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Private-Taxonomy-Terms-information-disclosure-via-Overview-Page-Form-40270" class="noirorange"><b>Drupal Private Taxonomy Terms</b>: information disclosure via Overview Page / Form</a>](https://vigilance.fr/vulnerability/Drupal-Private-Taxonomy-Terms-information-disclosure-via-Overview-Page-Form-40270)|An attacker can bypass access restrictions to data of Drupal Private Taxonomy Terms, via Overview Page / Form, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Netty-header-injection-via-DefaultHttpHeaders-set-40269" class="noirorange"><b>Netty</b>: header injection via <wbr>DefaultHttpHeaders.s<wbr>et()</wbr></wbr></a>](https://vigilance.fr/vulnerability/Netty-header-injection-via-DefaultHttpHeaders-set-40269)|An attacker can add new headers on Netty, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Netty-denial-of-service-via-HAProxyMessageDecoder-40268" class="noirorange"><b>Netty</b>: denial of service via <wbr>HAProxyMessageDecode<wbr>r</wbr></wbr></a>](https://vigilance.fr/vulnerability/Netty-denial-of-service-via-HAProxyMessageDecoder-40268)|An attacker can cause a fatal error of Netty, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/XStream-denial-of-service-via-Recursive-Map-Collections-40267" class="noirorange"><b>XStream</b>: denial of service via Recursive Map Collections</a>](https://vigilance.fr/vulnerability/XStream-denial-of-service-via-Recursive-Map-Collections-40267)|An attacker can cause a fatal error of XStream, via Recursive Map Collections, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Junos-OS-multiple-vulnerabilities-40266" class="noirorange"><b>Junos OS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Junos-OS-multiple-vulnerabilities-40266)|An attacker can use several vulnerabilities of Junos OS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-IP-Phone-7800-8800-privilege-escalation-via-Web-based-Management-Interface-40265" class="noirorange"><b>Cisco IP Phone 7800/8800</b>: privilege escalation via Web-based Management Interface</a>](https://vigilance.fr/vulnerability/Cisco-IP-Phone-7800-8800-privilege-escalation-via-Web-based-Management-Interface-40265)|An attacker can bypass restrictions of Cisco IP Phone 7800/8800, via Web-based Management Interface, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SDL2-memory-leak-via-OpenGL-ES-Image-Texture-40264" class="noirorange"><b>SDL2</b>: memory leak via OpenGL ES Image Texture</a>](https://vigilance.fr/vulnerability/SDL2-memory-leak-via-OpenGL-ES-Image-Texture-40264)|An attacker can create a memory leak of SDL2, via OpenGL ES Image Texture, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-Network-Scheduler-40263" class="noirorange"><b>Linux kernel</b>: memory corruption via Network Scheduler</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-Network-Scheduler-40263)|An attacker can trigger a memory corruption of the Linux kernel, via Network Scheduler, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ViewVC-Cross-Site-Scripting-via-Copyfrom-40262" class="noirorange"><b>ViewVC</b>: Cross Site Scripting via Copyfrom</a>](https://vigilance.fr/vulnerability/ViewVC-Cross-Site-Scripting-via-Copyfrom-40262)|An attacker can trigger a Cross Site Scripting of ViewVC, via Copyfrom, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ViewVC-Cross-Site-Scripting-via-Unsafe-File-Names-40261" class="noirorange"><b>ViewVC</b>: Cross Site Scripting via Unsafe File Names</a>](https://vigilance.fr/vulnerability/ViewVC-Cross-Site-Scripting-via-Unsafe-File-Names-40261)|An attacker can trigger a Cross Site Scripting of ViewVC, via Unsafe File Names, in order to run JavaScript code in the context of the web site...|Visit link for details|
  
  ---
 
@@ -54,16 +72,6 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[gatsby-transformer-remark code injection](https://vuldb.com/?id.218046)|Visit link for details|2023-01-11 at 21:57|
- |[Zitadel session expiration](https://vuldb.com/?id.218045)|Visit link for details|2023-01-11 at 21:57|
- |[Cloudflare WARP Client XML File mdm.xml input validation](https://vuldb.com/?id.218044)|Visit link for details|2023-01-11 at 21:57|
- |[IBM Sterling Partner Engagement Manager resource consumption](https://vuldb.com/?id.218043)|Visit link for details|2023-01-11 at 21:56|
- |[Cloudflare WARP Mobile Client Manifest File Local Privilege Escalation](https://vuldb.com/?id.218042)|Visit link for details|2023-01-11 at 21:53|
- |[IBM Sterling Partner Engagement Manager sql injection](https://vuldb.com/?id.218041)|Visit link for details|2023-01-11 at 21:52|
- |[Cisco BroadWorks Application Delivery Platform cross site scripting](https://vuldb.com/?id.218040)|Visit link for details|2023-01-11 at 19:43|
- |[Cisco CX Cloud Agent permission](https://vuldb.com/?id.218039)|Visit link for details|2023-01-11 at 19:42|
- |[Cisco CX Cloud Agent sudo insecure inherited permissions](https://vuldb.com/?id.218038)|Visit link for details|2023-01-11 at 19:42|
- |[Cisco Webex Room Phone/Webex Share Link Layer Discovery Protocol memory leak](https://vuldb.com/?id.218037)|Visit link for details|2023-01-11 at 19:40|
  
  ---
 
@@ -81,24 +89,6 @@
  |[[SCADA] Vulnérabilité dans Moxa TN-4900](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0018/)|Une vulnérabilité a été découverte dans Moxa TN-4900. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 11 janvier 2023|
  |[Multiples vulnérabilités dans Intel oneAPI Toolkit](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0017/)|De multiples vulnérabilités ont été découvertes dans Intel oneAPI Toolkit. Elles permettent à un attaquant de provoquer une élévation de privilèges.|Publié le 11 janvier 2023|
  |[Multiples vulnérabilités dans Adobe Reader et Acrobat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0016/)|De multiples vulnérabilités ont été découvertes dans Adobe Reader et Acrobat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service et une atteinte à l'intégrité des données.|Publié le 11 janvier 2023|
- 
- ---
-
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Junos-OS-multiple-vulnerabilities-40266" class="noirorange"><b>Junos OS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Junos-OS-multiple-vulnerabilities-40266)|An attacker can use several vulnerabilities of Junos OS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IP-Phone-7800-8800-privilege-escalation-via-Web-based-Management-Interface-40265" class="noirorange"><b>Cisco IP Phone 7800/8800</b>: privilege escalation via Web-based Management Interface</a>](https://vigilance.fr/vulnerability/Cisco-IP-Phone-7800-8800-privilege-escalation-via-Web-based-Management-Interface-40265)|An attacker can bypass restrictions of Cisco IP Phone 7800/8800, via Web-based Management Interface, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SDL2-memory-leak-via-OpenGL-ES-Image-Texture-40264" class="noirorange"><b>SDL2</b>: memory leak via OpenGL ES Image Texture</a>](https://vigilance.fr/vulnerability/SDL2-memory-leak-via-OpenGL-ES-Image-Texture-40264)|An attacker can create a memory leak of SDL2, via OpenGL ES Image Texture, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-Network-Scheduler-40263" class="noirorange"><b>Linux kernel</b>: memory corruption via Network Scheduler</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-Network-Scheduler-40263)|An attacker can trigger a memory corruption of the Linux kernel, via Network Scheduler, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ViewVC-Cross-Site-Scripting-via-Copyfrom-40262" class="noirorange"><b>ViewVC</b>: Cross Site Scripting via Copyfrom</a>](https://vigilance.fr/vulnerability/ViewVC-Cross-Site-Scripting-via-Copyfrom-40262)|An attacker can trigger a Cross Site Scripting of ViewVC, via Copyfrom, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ViewVC-Cross-Site-Scripting-via-Unsafe-File-Names-40261" class="noirorange"><b>ViewVC</b>: Cross Site Scripting via Unsafe File Names</a>](https://vigilance.fr/vulnerability/ViewVC-Cross-Site-Scripting-via-Unsafe-File-Names-40261)|An attacker can trigger a Cross Site Scripting of ViewVC, via Unsafe File Names, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-khugepaged-40260" class="noirorange"><b>Linux kernel</b>: denial of service via khugepaged</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-khugepaged-40260)|An attacker can cause a fatal error of the Linux kernel, via khugepaged, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Avast-Antivirus-privilege-escalation-40257" class="noirorange"><b>Avast Antivirus</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Avast-Antivirus-privilege-escalation-40257)|An attacker can bypass restrictions of Avast Antivirus, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Avast-Antivirus-privilege-escalation-via-Malware-Removal-40256" class="noirorange"><b>Avast Antivirus</b>: privilege escalation via Malware Removal</a>](https://vigilance.fr/vulnerability/Avast-Antivirus-privilege-escalation-via-Malware-Removal-40256)|An attacker can bypass restrictions of Avast Antivirus, via Malware Removal, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Avast-Antivirus-privilege-escalation-40255" class="noirorange"><b>Avast Antivirus</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Avast-Antivirus-privilege-escalation-40255)|An attacker can bypass restrictions of Avast Antivirus, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Avast-Antivirus-privilege-escalation-via-Malware-Removal-40254" class="noirorange"><b>Avast Antivirus</b>: privilege escalation via Malware Removal</a>](https://vigilance.fr/vulnerability/Avast-Antivirus-privilege-escalation-via-Malware-Removal-40254)|An attacker can bypass restrictions of Avast Antivirus, via Malware Removal, in order to escalate his privileges...|Visit link for details|
  
  ---
 
