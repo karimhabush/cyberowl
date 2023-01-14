@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 14/01/2023 09:09:44 UTC
+ > Last Updated 14/01/2023 21:07:57 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -36,41 +36,6 @@
  
  ---
 
-## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-Netfilter-Subsystem-40281" class="noirorange"><b>Linux kernel</b>: buffer overflow via Netfilter Subsystem</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-Netfilter-Subsystem-40281)|An attacker can trigger a buffer overflow of the Linux kernel, via Netfilter Subsystem, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-rndis-query-oid-40280" class="noirorange"><b>Linux kernel</b>: buffer overflow via rndis_query_oid()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-rndis-query-oid-40280)|An attacker can trigger a buffer overflow of the Linux kernel, via rndis_query_oid(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-attr-punch-hole-40279" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via attr_punch_hole()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-attr-punch-hole-40279)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via attr_punch_hole(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cargo-Man-in-the-Middle-via-SSH-Host-Key-Verification-40278" class="noirorange"><b>Cargo</b>: Man-in-the-Middle via SSH Host Key Verification</a>](https://vigilance.fr/vulnerability/Cargo-Man-in-the-Middle-via-SSH-Host-Key-Verification-40278)|An attacker can act as a Man-in-the-Middle on Cargo, via SSH Host Key Verification, in order to read or write data in the session...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-40277" class="noirorange"><b>Microsoft Edge Chromium</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-40277)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-nvmet-setup-auth-40276" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via nvmet_setup_auth()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-nvmet-setup-auth-40276)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via nvmet_setup_auth(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Python-Charmers-Future-denial-of-service-via-Set-Cookie-Header-40275" class="noirorange"><b>Python Charmers Future</b>: denial of service via Set-Cookie Header</a>](https://vigilance.fr/vulnerability/Python-Charmers-Future-denial-of-service-via-Set-Cookie-Header-40275)|An attacker can cause a fatal error of Python Charmers Future, via Set-Cookie Header, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-TCP-Port-0-Pf-Divert-to-Rule-40274" class="noirorange"><b>OpenBSD</b>: denial of service via TCP Port 0 Pf Divert-to Rule</a>](https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-TCP-Port-0-Pf-Divert-to-Rule-40274)|An attacker can cause a fatal error of OpenBSD, via TCP Port 0 Pf Divert-to Rule, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-IORING-OP-SPLICE-IO-WQ-WORK-FILES-40272" class="noirorange"><b>Linux kernel</b>: reuse after free via IORING_OP_SPLICE IO_WQ_WORK_FILES</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-IORING-OP-SPLICE-IO-WQ-WORK-FILES-40272)|An attacker can force the reuse of a freed memory area of the Linux kernel, via IORING_OP_SPLICE IO_WQ_WORK_FILES, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/phoronix-test-suite-Cross-Site-Scripting-via-phoromatic-r-add-test-details-php-40271" class="noirorange"><b>phoronix-test-suite</b>: Cross Site Scripting via <wbr>phoromatic_r_add_tes<wbr>t_details.php</wbr></wbr></a>](https://vigilance.fr/vulnerability/phoronix-test-suite-Cross-Site-Scripting-via-phoromatic-r-add-test-details-php-40271)|An attacker can trigger a Cross Site Scripting of |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Private-Taxonomy-Terms-information-disclosure-via-Overview-Page-Form-40270" class="noirorange"><b>Drupal Private Taxonomy Terms</b>: information disclosure via Overview Page / Form</a>](https://vigilance.fr/vulnerability/Drupal-Private-Taxonomy-Terms-information-disclosure-via-Overview-Page-Form-40270)|An attacker can bypass access restrictions to data of Drupal Private Taxonomy Terms, via Overview Page / Form, in order to read sensitive information...|Visit link for details|
- 
- ---
-
-## VulDB [:arrow_heading_up:](#cyberowl)
-
- |Title|Description|Date|
- |---|---|---|
- |[bmattoso desafio_buzz_woody sql injection](https://vuldb.com/?id.218357)|Visit link for details|2023-01-14 at 09:27|
- |[agy pontifex.http Http.coffee sql injection](https://vuldb.com/?id.218356)|Visit link for details|2023-01-14 at 09:25|
- |[KYUUBl school-register DBManager.java sql injection](https://vuldb.com/?id.218355)|Visit link for details|2023-01-14 at 09:24|
- |[yanheven console horizon.instances.js cross site scripting](https://vuldb.com/?id.218354)|Visit link for details|2023-01-14 at 09:22|
- |[lolfeedback sql injection](https://vuldb.com/?id.218353)|Visit link for details|2023-01-14 at 09:19|
- |[tutrantta project_todolist Database.php update sql injection](https://vuldb.com/?id.218352)|Visit link for details|2023-01-14 at 09:17|
- |[pointhi searx_stats cron.php sql injection](https://vuldb.com/?id.218351)|Visit link for details|2023-01-14 at 09:15|
- |[gophergala sqldump sql injection](https://vuldb.com/?id.218350)|Visit link for details|2023-01-14 at 09:12|
- |[APOC path traversal](https://vuldb.com/?id.218349)|Visit link for details|2023-01-14 at 09:07|
- |[Cloak Front End Email Plugin Shortcode cross site scripting](https://vuldb.com/?id.218348)|Visit link for details|2023-01-14 at 09:06|
- 
- ---
-
 ## CERT-FR [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -95,6 +60,23 @@
  
  ---
 
+## VulDB [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ssn2013 cis450Project AddAppUser.java addUser sql injection](https://vuldb.com/?id.218380)|Visit link for details|2023-01-14 at 21:15|
+ |[calesanz gibb-modul-151 login redirect](https://vuldb.com/?id.218379)|Visit link for details|2023-01-14 at 18:27|
+ |[bony2023 Discussion-Board main.php display_all_replies sql injection](https://vuldb.com/?id.218378)|Visit link for details|2023-01-14 at 18:24|
+ |[visegripped Stracker api.php getHistory sql injection](https://vuldb.com/?id.218377)|Visit link for details|2023-01-14 at 18:21|
+ |[karsany OBridge ProcedureDao.java getAllStandaloneProcedureAndFunction sql injection](https://vuldb.com/?id.218376)|Visit link for details|2023-01-14 at 18:19|
+ |[tombh jekbox server.rb exposure of information through directory listing](https://vuldb.com/?id.218375)|Visit link for details|2023-01-14 at 18:16|
+ |[brandonfire miRNA_Database_by_PHP_MySql model.php count_rna sql injection](https://vuldb.com/?id.218374)|Visit link for details|2023-01-14 at 18:12|
+ |[krail-jpa sql injection](https://vuldb.com/?id.218373)|Visit link for details|2023-01-14 at 18:10|
+ |[Overdrive Eletrônica course-builder oeditor.html cross site scripting](https://vuldb.com/?id.218372)|Visit link for details|2023-01-14 at 18:08|
+ |[firefly-iii improper authorization](https://vuldb.com/?id.218371)|Visit link for details|2023-01-14 at 17:10|
+ 
+ ---
+
 ## IBMCLOUD [:arrow_heading_up:](#cyberowl)
 
  |Title|Description|Date|
@@ -106,6 +88,24 @@
  |[InHand Networks InRouter302 and InHand Networks InRouter615 information disclosure (CVE-2023-22599)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 13, 2023|
  |[InHand Networks InRouter302 and InHand Networks InRouter615 security bypass (CVE-2023-22600)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 13, 2023|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 13, 2023|
+ 
+ ---
+
+## OBS-Vigilance [:arrow_heading_up:](#cyberowl)
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-Netfilter-Subsystem-40281" class="noirorange"><b>Linux kernel</b>: buffer overflow via Netfilter Subsystem</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-Netfilter-Subsystem-40281)|An attacker can trigger a buffer overflow of the Linux kernel, via Netfilter Subsystem, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-rndis-query-oid-40280" class="noirorange"><b>Linux kernel</b>: buffer overflow via rndis_query_oid()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-rndis-query-oid-40280)|An attacker can trigger a buffer overflow of the Linux kernel, via rndis_query_oid(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-attr-punch-hole-40279" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via attr_punch_hole()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-attr-punch-hole-40279)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via attr_punch_hole(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cargo-Man-in-the-Middle-via-SSH-Host-Key-Verification-40278" class="noirorange"><b>Cargo</b>: Man-in-the-Middle via SSH Host Key Verification</a>](https://vigilance.fr/vulnerability/Cargo-Man-in-the-Middle-via-SSH-Host-Key-Verification-40278)|An attacker can act as a Man-in-the-Middle on Cargo, via SSH Host Key Verification, in order to read or write data in the session...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-40277" class="noirorange"><b>Microsoft Edge Chromium</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-40277)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-nvmet-setup-auth-40276" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via nvmet_setup_auth()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-nvmet-setup-auth-40276)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via nvmet_setup_auth(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Python-Charmers-Future-denial-of-service-via-Set-Cookie-Header-40275" class="noirorange"><b>Python Charmers Future</b>: denial of service via Set-Cookie Header</a>](https://vigilance.fr/vulnerability/Python-Charmers-Future-denial-of-service-via-Set-Cookie-Header-40275)|An attacker can cause a fatal error of Python Charmers Future, via Set-Cookie Header, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-TCP-Port-0-Pf-Divert-to-Rule-40274" class="noirorange"><b>OpenBSD</b>: denial of service via TCP Port 0 Pf Divert-to Rule</a>](https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-TCP-Port-0-Pf-Divert-to-Rule-40274)|An attacker can cause a fatal error of OpenBSD, via TCP Port 0 Pf Divert-to Rule, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-IORING-OP-SPLICE-IO-WQ-WORK-FILES-40272" class="noirorange"><b>Linux kernel</b>: reuse after free via IORING_OP_SPLICE IO_WQ_WORK_FILES</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-IORING-OP-SPLICE-IO-WQ-WORK-FILES-40272)|An attacker can force the reuse of a freed memory area of the Linux kernel, via IORING_OP_SPLICE IO_WQ_WORK_FILES, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/phoronix-test-suite-Cross-Site-Scripting-via-phoromatic-r-add-test-details-php-40271" class="noirorange"><b>phoronix-test-suite</b>: Cross Site Scripting via <wbr>phoromatic_r_add_tes<wbr>t_details.php</wbr></wbr></a>](https://vigilance.fr/vulnerability/phoronix-test-suite-Cross-Site-Scripting-via-phoromatic-r-add-test-details-php-40271)|An attacker can trigger a Cross Site Scripting of |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Private-Taxonomy-Terms-information-disclosure-via-Overview-Page-Form-40270" class="noirorange"><b>Drupal Private Taxonomy Terms</b>: information disclosure via Overview Page / Form</a>](https://vigilance.fr/vulnerability/Drupal-Private-Taxonomy-Terms-information-disclosure-via-Overview-Page-Form-40270)|An attacker can bypass access restrictions to data of Drupal Private Taxonomy Terms, via Overview Page / Form, in order to read sensitive information...|Visit link for details|
  
  ---
 
