@@ -13,7 +13,8 @@ export const sidebarEn: SidebarConfig = {
         '/activity/obs-vigilance.md',
         '/activity/vuldb.md',
         '/activity/hk-cert.md',
-
+        '/activity/ca-ccs.md',
+        '/activity/eu-cert.md',
       ],
     },
   ],
