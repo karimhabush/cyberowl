@@ -1,7 +1,7 @@
 """
     Pipelines for cyberowl scraper.
 """
-from cyberowl.utils import generate_alerts_table
+from cyberowl.utils import generate_alerts_for_readme, generate_alerts_table
 
 
 class AlertPipeline:
@@ -65,3 +65,4 @@ class AlertPipeline:
         Method to be called when spider is closed.
         """
         generate_alerts_table(spider.name, self.__items)
+        generate_alerts_for_readme(spider.name, self.__items)

@@ -1,7 +1,6 @@
 import settings as cyberowl_settings
 from scrapy.crawler import CrawlerProcess
 from scrapy.settings import Settings
-from spiders.a_csc_spider import ACSCSpider
 from spiders.ca_ccs_spider import CaCCSSpider
 from spiders.cert_eu_spider import EUCERTSpider
 from spiders.cert_fr_spider import CertFRSpider
@@ -45,7 +44,7 @@ def main():
 
     process.start()
 
-    # write_to_readme()
+    write_to_readme()
 
 
 if __name__ == "__main__":

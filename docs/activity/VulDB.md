@@ -4,14 +4,13 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[lojban jbovlaste listing.html sql injection](https://vuldb.com/?id.217647)|Visit link for details|2023-01-08 at 13:29|
- |[CapsAdmin PAC3 http.lua cross site scripting](https://vuldb.com/?id.217646)|Visit link for details|2023-01-08 at 13:28|
- |[happyman twmap pointdata2.php sql injection](https://vuldb.com/?id.217645)|Visit link for details|2023-01-08 at 11:39|
- |[saxman maps-js-icoads exposure of information through directory listing](https://vuldb.com/?id.217644)|Visit link for details|2023-01-08 at 11:34|
- |[saxman maps-js-icoads http-server.js path traversal](https://vuldb.com/?id.217643)|Visit link for details|2023-01-08 at 11:33|
- |[SUKOHI Surpass Surpass.php pathname traversal](https://vuldb.com/?id.217642)|Visit link for details|2023-01-08 at 10:32|
- |[pouetnet pouet sql injection](https://vuldb.com/?id.217641)|Visit link for details|2023-01-08 at 10:26|
- |[web-cyradm auth.inc.php sql injection](https://vuldb.com/?id.217640)|Visit link for details|2023-01-08 at 10:23|
- |[corincerami curiosity image_controller.rb sql injection](https://vuldb.com/?id.217639)|Visit link for details|2023-01-08 at 10:14|
- |[YunoHost-Apps transmission_ynh nginx.conf path traversal](https://vuldb.com/?id.217638)|Visit link for details|2023-01-08 at 10:11|
- 
+ |[Events Extension events.php searchResults sql injection](https://vuldb.com/?id.218395)|Visit link for details|2023-01-15 at 12:57|
+ |[prodigasistemas curupira passwords_controller.rb sql injection](https://vuldb.com/?id.218394)|Visit link for details|2023-01-15 at 12:53|
+ |[NethServer phonenehome index.php get_country_coor sql injection](https://vuldb.com/?id.218393)|Visit link for details|2023-01-15 at 12:52|
+ |[msmania poodim Command Line Argument stack-based overflow](https://vuldb.com/?id.218392)|Visit link for details|2023-01-15 at 11:29|
+ |[liftkit database Query.php processOrderBy sql injection](https://vuldb.com/?id.218391)|Visit link for details|2023-01-15 at 11:24|
+ |[radare2 unknown vulnerability](https://vuldb.com/?id.218390)|Visit link for details|2023-01-15 at 11:16|
+ |[Daimler Mercedes XENTRY Retail Data Storage API Request reboot denial of service](https://vuldb.com/?id.218389)|Visit link for details|2023-01-15 at 11:16|
+ |[antonbolling clan7ups Login/Session sql injection](https://vuldb.com/?id.218388)|Visit link for details|2023-01-15 at 11:07|
+ |[abhilash1985 PredictApp Cookie new_framework_defaults_7_0.rb deserialization](https://vuldb.com/?id.218387)|Visit link for details|2023-01-15 at 11:05|
+ |[SourceCodester Online Food Ordering System Login Module admin_class.php sql injection](https://vuldb.com/?id.218386)|Visit link for details|2023-01-15 at 10:06|
