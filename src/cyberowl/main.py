@@ -1,6 +1,7 @@
 import settings as cyberowl_settings
 from scrapy.crawler import CrawlerProcess
 from scrapy.settings import Settings
+from spiders.a_csc_spider import ACSCSpider
 from spiders.ca_ccs_spider import CaCCSSpider
 from spiders.cert_fr_spider import CertFRSpider
 from spiders.cisa_spider import CisaSpider
@@ -34,7 +35,8 @@ def main():
         # VigilanceSpider,
         # VulDBSpider,
         # HKCERTSpider,
-        CaCCSSpider,
+        # CaCCSSpider,
+        ACSCSpider,
     ]
 
     for spider in spiders_cls:
