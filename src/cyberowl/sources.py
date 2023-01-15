@@ -37,4 +37,16 @@ CYBEROWL_SOURCES = [
         "Number one vulnerability database documenting and explaining security"
         " vulnerabilities, threats, and exploits since 1970.",
     ],
+    [
+        "[HK-CERT](#hk-cert-arrow_heading_up)",
+        "Hong Kong Computer Emergency Response Team Coordination Centre.",
+    ],
+    [
+        "[CA-CCS](#ca-ccs-arrow_heading_up)",
+        "Canadian Centre for Cyber Security.",
+    ],
+    [
+        "[EU-CERT](#eu-cert-arrow_heading_up)",
+        "European Union Agency for Cybersecurity.",
+    ],
 ]

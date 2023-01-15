@@ -4,14 +4,13 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Woorank robots-txt-guard patterns.js makePathPattern redos](https://vuldb.com/?id.217448)|Visit link for details|2023-01-05 at 11:08|
- |[eprintsug ulcc-core toolbox command injection](https://vuldb.com/?id.217447)|Visit link for details|2023-01-05 at 11:04|
- |[WebDevStudios taxonomy-switcher Plugin taxonomy-switcher.php taxonomy_switcher_init cross site scripting](https://vuldb.com/?id.217446)|Visit link for details|2023-01-05 at 10:57|
- |[Wikimedia mediawiki-extensions-I18nTags Unlike Parser I18nTags_body.php cross site scripting](https://vuldb.com/?id.217445)|Visit link for details|2023-01-05 at 10:22|
- |[snoyberg keter Proxy.hs cross site scripting](https://vuldb.com/?id.217444)|Visit link for details|2023-01-05 at 10:18|
- |[bonitasoft bonita-connector-webservice SecureWSConnector.java TransformerConfigurationException xml external entity reference](https://vuldb.com/?id.217443)|Visit link for details|2023-01-05 at 10:14|
- |[shannah Xataface Installer install_form.js.php testftp cross site scripting](https://vuldb.com/?id.217442)|Visit link for details|2023-01-05 at 09:49|
- |[University of Cambridge django-ucamlookup Lookup cross site scripting](https://vuldb.com/?id.217441)|Visit link for details|2023-01-05 at 09:47|
- |[OpenACS bug-tracker Search nav-bar.adp cross-site request forgery](https://vuldb.com/?id.217440)|Visit link for details|2023-01-05 at 09:14|
- |[OSM Lab show-me-the-way site.js cross site scripting](https://vuldb.com/?id.217439)|Visit link for details|2023-01-05 at 09:11|
- 
+ |[Events Extension events.php searchResults sql injection](https://vuldb.com/?id.218395)|Visit link for details|2023-01-15 at 12:57|
+ |[prodigasistemas curupira passwords_controller.rb sql injection](https://vuldb.com/?id.218394)|Visit link for details|2023-01-15 at 12:53|
+ |[NethServer phonenehome index.php get_country_coor sql injection](https://vuldb.com/?id.218393)|Visit link for details|2023-01-15 at 12:52|
+ |[msmania poodim Command Line Argument stack-based overflow](https://vuldb.com/?id.218392)|Visit link for details|2023-01-15 at 11:29|
+ |[liftkit database Query.php processOrderBy sql injection](https://vuldb.com/?id.218391)|Visit link for details|2023-01-15 at 11:24|
+ |[radare2 unknown vulnerability](https://vuldb.com/?id.218390)|Visit link for details|2023-01-15 at 11:16|
+ |[Daimler Mercedes XENTRY Retail Data Storage API Request reboot denial of service](https://vuldb.com/?id.218389)|Visit link for details|2023-01-15 at 11:16|
+ |[antonbolling clan7ups Login/Session sql injection](https://vuldb.com/?id.218388)|Visit link for details|2023-01-15 at 11:07|
+ |[abhilash1985 PredictApp Cookie new_framework_defaults_7_0.rb deserialization](https://vuldb.com/?id.218387)|Visit link for details|2023-01-15 at 11:05|
+ |[SourceCodester Online Food Ordering System Login Module admin_class.php sql injection](https://vuldb.com/?id.218386)|Visit link for details|2023-01-15 at 10:06|
