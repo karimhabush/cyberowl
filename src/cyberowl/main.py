@@ -44,7 +44,7 @@ def main():
 
     process.start()
 
-    # write_to_readme()
+    write_to_readme()
 
 
 if __name__ == "__main__":

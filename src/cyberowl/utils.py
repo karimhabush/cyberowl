@@ -4,9 +4,7 @@ from datetime import datetime, timezone
 from mdtemplate import MDTemplate
 from settings import README_GENERATOR
 from sources import CYBEROWL_SOURCES
-from mdtemplate import MDTemplate
 
-import os
 
 def generate_heading() -> None:
     """
@@ -47,13 +45,7 @@ def generate_alerts_for_readme(source, alerts: list) -> None:
     Generates the table of alerts.
     """
     # Write to the file located in ./../../docs/activity/f{source}.md
-
-    OUTPUT_FILE = f"./../../docs/activity/{source}.md"
-    OUTPUT_FILE = os.path.join(os.path.dirname(__file__), OUTPUT_FILE)
-    README_GENERATOR = MDTemplate(OUTPUT_FILE)
-    README_GENERATOR.new_header(
-        level=1, text=f"{source}"
-    )
+    README_GENERATOR.new_header(level=1, text=f"{source}")
     README_GENERATOR.generate_table(alerts)
     README_GENERATOR.new_line()
 
