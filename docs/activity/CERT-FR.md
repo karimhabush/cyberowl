@@ -14,3 +14,4 @@
  |[Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0022/)|De multiples vulnérabilités ont été corrigées dans |Publié le 11 janvier 2023|
  |[Multiples vulnérabilités dans Microsoft Office](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0021/)|De multiples vulnérabilités ont été corrigées dans |Publié le 11 janvier 2023|
  |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0020/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 11 janvier 2023|
+ 

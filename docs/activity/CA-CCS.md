@@ -15,3 +15,4 @@
  |[F5 security advisory (AV23-020)](https://cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av23-020)|Visit link for details|2023-01-12|
  |[Juniper Networks security advisory (AV23-019)](https://cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av23-019)|Visit link for details|2023-01-11|
  |[Cisco security advisory (AV23-018)](https://cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av23-018)|Visit link for details|2023-01-11|
+ 
