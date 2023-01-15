@@ -3,6 +3,7 @@ from scrapy.crawler import CrawlerProcess
 from scrapy.settings import Settings
 from spiders.a_csc_spider import ACSCSpider
 from spiders.ca_ccs_spider import CaCCSSpider
+from spiders.cert_eu_spider import EUCERTSpider
 from spiders.cert_fr_spider import CertFRSpider
 from spiders.cisa_spider import CisaSpider
 from spiders.hk_cert_spider import HKCERTSpider
@@ -27,16 +28,16 @@ def main():
     process = CrawlerProcess(settings=crawler_settings)
 
     spiders_cls = [
-        # CisaSpider,
-        # MACertSpider,
-        # CertFRSpider,
-        # IBMCloudSpider,
-        # ZDISpider,
-        # VigilanceSpider,
-        # VulDBSpider,
-        # HKCERTSpider,
-        # CaCCSSpider,
-        ACSCSpider,
+        CisaSpider,
+        MACertSpider,
+        CertFRSpider,
+        IBMCloudSpider,
+        ZDISpider,
+        VigilanceSpider,
+        VulDBSpider,
+        HKCERTSpider,
+        CaCCSSpider,
+        EUCERTSpider,
     ]
 
     for spider in spiders_cls:

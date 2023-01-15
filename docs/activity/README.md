@@ -11,5 +11,5 @@ Cyberowl is currently collecting data from the following sources:
 |[![Preview](/images/us-cert.png)](/activity/US-CERT.html)|[![Preview](/images/ma-cert.png)](/activity/MA-CERT.html)|[![Preview](/images/cert-fr.png)](/activity/CERT-FR.html)|[![Preview](/images/hk-cert.png)](/activity/HK-CERT.html)|
 |**CA-CCS**|**OBS-Vigilance**|**VulDB**|**IBM-X-Force-Exchange**|
 |[![Preview](/images/ca-ccs.png)](/activity/CA-CCS.html)|[![Preview](/images/vigilance.png)](/activity/OBS-Vigilance.html)|[![Preview](/images/vuldb.png)](/activity/VulDB.html)|[![Preview](/images/ibm-x-force-exchange.png)](/activity/IBM-X-Force-Exchange.html)|
-|**ZeroDayInitiative**| | | |
-|[![Preview](/images/zdi.png)](/activity/ZeroDayInitiative.html)| | | |
+|**ZeroDayInitiative**|**EU-CERT** | | |
+|[![Preview](/images/zdi.png)](/activity/ZeroDayInitiative.html)|[![Preview](/images/eu-cert.png)](/activity/EU-CERT.html) | | |
