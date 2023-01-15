@@ -2,9 +2,11 @@ import process from 'node:process'
 import { viteBundler } from '@vuepress/bundler-vite'
 import { webpackBundler } from '@vuepress/bundler-webpack'
 import { defineUserConfig } from '@vuepress/cli'
-import { docsearchPlugin } from '@vuepress/plugin-docsearch'
 import { defaultTheme } from '@vuepress/theme-default'
 import { getDirname, path } from '@vuepress/utils'
+import { searchPlugin } from '@vuepress/plugin-search'
+import googleAnalyticsPlugin from '@vuepress/plugin-google-analytics'
+
 import {
   head,
   navbarEn,
@@ -84,13 +86,9 @@ export default defineUserConfig({
 
   // use plugins
   plugins: [
-    docsearchPlugin({
-      appId: '04OOCN3VYF',
-      apiKey: '4187f5ca40c43b3f5d2e307379f06db0',
-      indexName: 'cyberowl.org',
-      searchParameters: {
-        facetFilters: ['tags:v2'],
-      },
-    })
+    searchPlugin({}),
+    googleAnalyticsPlugin({
+      id: process.env.GA_ID ?? '',
+    }),
   ],
 })
