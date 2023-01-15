@@ -11,6 +11,7 @@ from spiders.vigilance_spider import VigilanceSpider
 from spiders.vuldb_spider import VulDBSpider
 from spiders.zdi_spider import ZDISpider
 from utils import generate_heading, generate_table_of_content, write_to_readme
+from spiders.cert_eu_spider import EUCERTSpider
 
 
 def main():
@@ -26,15 +27,17 @@ def main():
     process = CrawlerProcess(settings=crawler_settings)
 
     spiders_cls = [
-        # CisaSpider,
-        # MACertSpider,
-        # CertFRSpider,
-        # IBMCloudSpider,
-        # ZDISpider,
-        # VigilanceSpider,
-        # VulDBSpider,
-        # HKCERTSpider,
+        CisaSpider,
+        MACertSpider,
+        CertFRSpider,
+        IBMCloudSpider,
+        ZDISpider,
+        VigilanceSpider,
+        VulDBSpider,
+        HKCERTSpider,
         CaCCSSpider,
+        EUCERTSpider
+        
     ]
 
     for spider in spiders_cls:
