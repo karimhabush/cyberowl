@@ -4,6 +4,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[[Control systems] Hitachi Energy security advisory (AV23-029)](https://cyber.gc.ca/en/alerts-advisories/control-systems-hitachi-energy-security-advisory-av23-029)|Visit link for details|2023-01-16|
  |[Red Hat security advisory (AV23-028)](https://cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av23-028)|Visit link for details|2023-01-13|
  |[Microsoft Edge security advisory (AV23-027)](https://cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-027)|Visit link for details|2023-01-13|
  |[[Control systems] RONDS security advisory (AV23-026)](https://cyber.gc.ca/en/alerts-advisories/control-systems-ronds-security-advisory-av23-026)|Visit link for details|2023-01-12|
@@ -14,5 +15,4 @@
  |[[Control systems] InHand Networks security advisory (AV23-021)](https://cyber.gc.ca/en/alerts-advisories/control-systems-inhand-networks-security-advisory-av23-021)|Visit link for details|2023-01-12|
  |[F5 security advisory (AV23-020)](https://cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av23-020)|Visit link for details|2023-01-12|
  |[Juniper Networks security advisory (AV23-019)](https://cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av23-019)|Visit link for details|2023-01-11|
- |[Cisco security advisory (AV23-018)](https://cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av23-018)|Visit link for details|2023-01-11|
  
