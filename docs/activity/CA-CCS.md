@@ -4,6 +4,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Ubuntu security advisory (AV23-032)](https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-032)|Visit link for details|2023-01-16|
+ |[IBM security advisory (AV23-031)](https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-031)|Visit link for details|2023-01-16|
+ |[Dell security advisory (AV23-030)](https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-030)|Visit link for details|2023-01-16|
  |[[Control systems] Hitachi Energy security advisory (AV23-029)](https://cyber.gc.ca/en/alerts-advisories/control-systems-hitachi-energy-security-advisory-av23-029)|Visit link for details|2023-01-16|
  |[Red Hat security advisory (AV23-028)](https://cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av23-028)|Visit link for details|2023-01-13|
  |[Microsoft Edge security advisory (AV23-027)](https://cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-027)|Visit link for details|2023-01-13|
@@ -12,7 +15,4 @@
  |[[Control systems] Sewio security advisory (AV23-024)](https://cyber.gc.ca/en/alerts-advisories/control-systems-sewio-security-advisory-av23-024)|Visit link for details|2023-01-12|
  |[[Control systems] Panasonic security advisory (AV23-023)](https://cyber.gc.ca/en/alerts-advisories/control-systems-panasonic-security-advisory-av23-023)|Visit link for details|2023-01-12|
  |[[Control systems] Johnson Controls security advisory (AV23-022)](https://cyber.gc.ca/en/alerts-advisories/control-systems-johnson-controls-security-advisory-av23-022)|Visit link for details|2023-01-12|
- |[[Control systems] InHand Networks security advisory (AV23-021)](https://cyber.gc.ca/en/alerts-advisories/control-systems-inhand-networks-security-advisory-av23-021)|Visit link for details|2023-01-12|
- |[F5 security advisory (AV23-020)](https://cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av23-020)|Visit link for details|2023-01-12|
- |[Juniper Networks security advisory (AV23-019)](https://cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av23-019)|Visit link for details|2023-01-11|
  
