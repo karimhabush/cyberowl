@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 16/01/2023 01:39:11 UTC
+ > Last Updated 16/01/2023 02:48:26 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -74,6 +74,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Little Apps Little Software Stats Password Reset class.securelogin.php access control](https://vuldb.com/?id.218401)|Visit link for details|2023-01-16 at 18:55|
+ |[2071174A vinylmap views.py contact sql injection](https://vuldb.com/?id.218400)|Visit link for details|2023-01-16 at 18:53|
+ |[PictureThisWebServer user.js router.post sql injection](https://vuldb.com/?id.218399)|Visit link for details|2023-01-16 at 18:51|
+ |[frontaccounting faplanet path traversal](https://vuldb.com/?id.218398)|Visit link for details|2023-01-16 at 18:50|
+ |[githuis P2Manage Database.cs Execute sql injection](https://vuldb.com/?id.218397)|Visit link for details|2023-01-16 at 18:47|
+ |[BlueCat Device Registration Portal xml external entity reference](https://vuldb.com/?id.218396)|Visit link for details|2023-01-16 at 18:43|
+ |[Events Extension events.php searchResults sql injection](https://vuldb.com/?id.218395)|Visit link for details|2023-01-16 at 12:57|
+ |[prodigasistemas curupira passwords_controller.rb sql injection](https://vuldb.com/?id.218394)|Visit link for details|2023-01-16 at 12:53|
+ |[NethServer phonenehome index.php get_country_coor sql injection](https://vuldb.com/?id.218393)|Visit link for details|2023-01-16 at 12:52|
+ |[msmania poodim Command Line Argument stack-based overflow](https://vuldb.com/?id.218392)|Visit link for details|2023-01-16 at 11:29|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -93,16 +103,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[ChromeOS Multiple Vulnerabilities](/security-bulletin/chromeos-multiple-vulnerabilities_20230116)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 16 Jan 2023|
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230110)|Multiple vulnerabilities have been identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. [Updated on 2023-01-11] ...| Release Date: 10 Jan 2023 |
  |[Cisco Products Multiple Vulnerabilities](/security-bulletin/cisco-products-multiple-vulnerabilities_20230113)|Multiple vulnerabilities were identified in Cisco Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, data manipulation, cross-site scripting and security restriction bypass on the targeted system.|Release Date: 13 Jan 2023|
  |[Microsoft Edge Multiple Vulnerabilities](/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230113)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, remote code execution, information disclosure and security restriction bypass on the targeted system. Note:Proof of Concept exploit code...|Release Date: 13 Jan 2023|
  |[Cisco End-of-Life Small Business Routers Multiple Vulnerabilities](/security-bulletin/cisco-end-of-life-small-business-routers-multiple-vulnerabilities_20230112)|Multiple vulnerabilities were identified in Cisco's End-of-Life Small Business Routers. A remote attacker could exploit some of these vulnerabilities to remote code execution and security restriction bypass on the targeted system. Note:Proof of Concept exploit code Is publicly available...|Release Date: 12 Jan 2023|
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230110)|Multiple vulnerabilities have been identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. [Updated on 2023-01-11] ...| Release Date: 10 Jan 2023 |
  |[Adobe Monthly Security Update (January 2023)](/security-bulletin/adobe-monthly-security-update-january-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Acrobat and Reader Medium RiskRemote Code ExecutionInformation DisclosureDenial of ServiceElevation of Privilege APSB23-...|Release Date: 11 Jan 2023|
  |[Google Chrome Multiple Vulnerabilities](/security-bulletin/google-chrome-multiple-vulnerabilities_20230111)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, information disclosure and security restriction bypass on the targeted system.|Release Date: 11 Jan 2023|
  |[Microsoft Monthly Security Update (January 2023)](/security-bulletin/microsoft-monthly-security-update-january-2023)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesWindows High RiskElevation of PrivilegeRemote Code ExecutionDenial of ServiceInformation DisclosureSecurity Restriction BypassCVE-2023-21674 is...|Release Date: 11 Jan 2023|
  |[Android Multiple Vulnerabilities](/security-bulletin/android-multiple-vulnerabilities_20230105)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, elevation of privilege and remote code execution on the targeted system.|Release Date: 5 Jan 2023|
  |[Debian Linux Kernel Multiple Vulnerabilities](/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20230103)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 3 Jan 2023|
- |[Juniper Junos OS Denial of Service Vulnerability](/security-bulletin/juniper-junos-os-denial-of-service-vulnerability_20221228)|A vulnerability was identified in Juniper Junos OS. A remote attacker could exploit the vulnerability to trigger denial of service condition on the targeted system.| Release Date: 28 Dec 2022 |
  
 
 # OBS-Vigilance
@@ -120,20 +130,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-IORING-OP-SPLICE-IO-WQ-WORK-FILES-40272" class="noirorange"><b>Linux kernel</b>: reuse after free via IORING_OP_SPLICE IO_WQ_WORK_FILES</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-IORING-OP-SPLICE-IO-WQ-WORK-FILES-40272)|An attacker can force the reuse of a freed memory area of the Linux kernel, via IORING_OP_SPLICE IO_WQ_WORK_FILES, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/phoronix-test-suite-Cross-Site-Scripting-via-phoromatic-r-add-test-details-php-40271" class="noirorange"><b>phoronix-test-suite</b>: Cross Site Scripting via phoromatic_r_add_test_details.php</a>](https://vigilance.fr/vulnerability/phoronix-test-suite-Cross-Site-Scripting-via-phoromatic-r-add-test-details-php-40271)|An attacker can trigger a Cross Site Scripting of |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Private-Taxonomy-Terms-information-disclosure-via-Overview-Page-Form-40270" class="noirorange"><b>Drupal Private Taxonomy Terms</b>: information disclosure via Overview Page / Form</a>](https://vigilance.fr/vulnerability/Drupal-Private-Taxonomy-Terms-information-disclosure-via-Overview-Page-Form-40270)|An attacker can bypass access restrictions to data of Drupal Private Taxonomy Terms, via Overview Page / Form, in order to read sensitive information...|Visit link for details|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
 
 # CA-CCS
@@ -158,4 +154,10 @@
  |Title|Description|Date|
  |---|---|---|
  |[2023-001: Zero-day and Critical Vulnerabilities in Microsoft Windows](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On January 10, 2023, on their first Patch Tuesday of 2023, Microsoft fixed an actively exploited zero-day Windows Advanced Local Procedure Call (ALPC) Elevation of Privilege Vulnerability and a total of 98 flaws. Eleven of them were classified as critical by Microsoft as they allow remote code execution, bypass security features, or elevate privileges. It is highly recommended applying the fixes as soon as possible.|Wednesday, January 11, 2023 05:50:00 PM CEST|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
  
