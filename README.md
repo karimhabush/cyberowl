@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 16/01/2023 02:48:26 UTC
+ > Last Updated 16/01/2023 03:21:51 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -70,22 +70,6 @@
  |[39701201/23 - Vulnérabilités critiques dans Microsoft Windows (Patch Tuesday Janvier 2023)](https://www.dgssi.gov.ma//fr/content/3970120123-vulnerabilites-critiques-dans-microsoft-windows-patch-tuesday-janvier-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques dans lessystèmes d’exploitation Windows susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de divulguer des informations confidentielles,...|12 janvier 2023|
  
 
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- |[Little Apps Little Software Stats Password Reset class.securelogin.php access control](https://vuldb.com/?id.218401)|Visit link for details|2023-01-16 at 18:55|
- |[2071174A vinylmap views.py contact sql injection](https://vuldb.com/?id.218400)|Visit link for details|2023-01-16 at 18:53|
- |[PictureThisWebServer user.js router.post sql injection](https://vuldb.com/?id.218399)|Visit link for details|2023-01-16 at 18:51|
- |[frontaccounting faplanet path traversal](https://vuldb.com/?id.218398)|Visit link for details|2023-01-16 at 18:50|
- |[githuis P2Manage Database.cs Execute sql injection](https://vuldb.com/?id.218397)|Visit link for details|2023-01-16 at 18:47|
- |[BlueCat Device Registration Portal xml external entity reference](https://vuldb.com/?id.218396)|Visit link for details|2023-01-16 at 18:43|
- |[Events Extension events.php searchResults sql injection](https://vuldb.com/?id.218395)|Visit link for details|2023-01-16 at 12:57|
- |[prodigasistemas curupira passwords_controller.rb sql injection](https://vuldb.com/?id.218394)|Visit link for details|2023-01-16 at 12:53|
- |[NethServer phonenehome index.php get_country_coor sql injection](https://vuldb.com/?id.218393)|Visit link for details|2023-01-16 at 12:52|
- |[msmania poodim Command Line Argument stack-based overflow](https://vuldb.com/?id.218392)|Visit link for details|2023-01-16 at 11:29|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -113,6 +97,22 @@
  |[Microsoft Monthly Security Update (January 2023)](/security-bulletin/microsoft-monthly-security-update-january-2023)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesWindows High RiskElevation of PrivilegeRemote Code ExecutionDenial of ServiceInformation DisclosureSecurity Restriction BypassCVE-2023-21674 is...|Release Date: 11 Jan 2023|
  |[Android Multiple Vulnerabilities](/security-bulletin/android-multiple-vulnerabilities_20230105)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, elevation of privilege and remote code execution on the targeted system.|Release Date: 5 Jan 2023|
  |[Debian Linux Kernel Multiple Vulnerabilities](/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20230103)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 3 Jan 2023|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Little Apps Little Software Stats Password Reset class.securelogin.php access control](https://vuldb.com/?id.218401)|Visit link for details|2023-01-16 at 18:55|
+ |[2071174A vinylmap views.py contact sql injection](https://vuldb.com/?id.218400)|Visit link for details|2023-01-16 at 18:53|
+ |[PictureThisWebServer user.js router.post sql injection](https://vuldb.com/?id.218399)|Visit link for details|2023-01-16 at 18:51|
+ |[frontaccounting faplanet path traversal](https://vuldb.com/?id.218398)|Visit link for details|2023-01-16 at 18:50|
+ |[githuis P2Manage Database.cs Execute sql injection](https://vuldb.com/?id.218397)|Visit link for details|2023-01-16 at 18:47|
+ |[BlueCat Device Registration Portal xml external entity reference](https://vuldb.com/?id.218396)|Visit link for details|2023-01-16 at 18:43|
+ |[Events Extension events.php searchResults sql injection](https://vuldb.com/?id.218395)|Visit link for details|2023-01-16 at 12:57|
+ |[prodigasistemas curupira passwords_controller.rb sql injection](https://vuldb.com/?id.218394)|Visit link for details|2023-01-16 at 12:53|
+ |[NethServer phonenehome index.php get_country_coor sql injection](https://vuldb.com/?id.218393)|Visit link for details|2023-01-16 at 12:52|
+ |[msmania poodim Command Line Argument stack-based overflow](https://vuldb.com/?id.218392)|Visit link for details|2023-01-16 at 11:29|
  
 
 # OBS-Vigilance
@@ -160,4 +160,12 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
