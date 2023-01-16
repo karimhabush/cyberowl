@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 16/01/2023 14:20:03 UTC
+ > Last Updated 16/01/2023 15:21:36 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -103,20 +103,16 @@
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
+ |[nickzren alsdb sql injection](https://vuldb.com/?id.218429)|Visit link for details|2023-01-16 at 15:58|
+ |[Bricco Authenticator Plugin DBAuthenticator.java compare sql injection](https://vuldb.com/?id.218428)|Visit link for details|2023-01-16 at 15:53|
+ |[evandro-machado Trabalho-Web2 ClienteDAO.java sql injection](https://vuldb.com/?id.218427)|Visit link for details|2023-01-16 at 15:51|
+ |[SourceCodester Online Tours & Travels Management System page-login.php sql injection](https://vuldb.com/?id.218426)|Visit link for details|2023-01-16 at 15:39|
+ |[Apache Superset REST API Get Endpoint access control](https://vuldb.com/?id.218425)|Visit link for details|2023-01-16 at 15:31|
+ |[Apache Superset Legacy REST API Endpoint cross-site request forgery](https://vuldb.com/?id.218424)|Visit link for details|2023-01-16 at 15:30|
+ |[Apache Superset Update Data Form cross site scripting](https://vuldb.com/?id.218423)|Visit link for details|2023-01-16 at 15:29|
+ |[Apache Superset Markdown cross site scripting](https://vuldb.com/?id.218422)|Visit link for details|2023-01-16 at 15:29|
+ |[Apache Superset Dataset Link redirect](https://vuldb.com/?id.218421)|Visit link for details|2023-01-16 at 15:28|
+ |[Apache Superset Toast Message cross site scripting](https://vuldb.com/?id.218420)|Visit link for details|2023-01-16 at 15:28|
  
 
 # OBS-Vigilance
@@ -134,6 +130,20 @@
  |[<a href="https://vigilance.fr/vulnerability/Cargo-Man-in-the-Middle-via-SSH-Host-Key-Verification-40278" class="noirorange"><b>Cargo</b>: Man-in-the-Middle via SSH Host Key Verification</a>](https://vigilance.fr/vulnerability/Cargo-Man-in-the-Middle-via-SSH-Host-Key-Verification-40278)|An attacker can act as a Man-in-the-Middle on Cargo, via SSH Host Key Verification, in order to read or write data in the session...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-40277" class="noirorange"><b>Microsoft Edge Chromium</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-40277)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-nvmet-setup-auth-40276" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via nvmet_setup_auth()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-nvmet-setup-auth-40276)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via nvmet_setup_auth(), in order to trigger a denial of service...|Visit link for details|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
 
 # CA-CCS
