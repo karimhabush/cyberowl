@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 17/01/2023 11:17:48 UTC
+ > Last Updated 17/01/2023 12:40:42 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -83,22 +83,6 @@
  |[Apache Superset cross-site request forgery (CVE-2022-43719)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2023|
  
 
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- |[danynab movify-j ReviewServiceImpl.java getByMovieId sql injection](https://vuldb.com/?id.218476)|Visit link for details|2023-01-17 at 08:50|
- |[GENI Portal sliceresource.php no_invocation_id_error cross site scripting](https://vuldb.com/?id.218475)|Visit link for details|2023-01-17 at 08:47|
- |[GENI Portal error-text.php cross site scripting](https://vuldb.com/?id.218474)|Visit link for details|2023-01-17 at 08:44|
- |[simplesamlphp simplesamlphp-module-openidprovider trust.tpl.php cross site scripting](https://vuldb.com/?id.218473)|Visit link for details|2023-01-17 at 08:38|
- |[SourceCodester Online Food Ordering System manage_user.php sql injection](https://vuldb.com/?id.218472)|Visit link for details|2023-01-17 at 08:34|
- |[Adeel Ahmed IP Blacklist Cloud Plugin sql injection](https://vuldb.com/?id.218471)|Visit link for details|2023-01-17 at 08:03|
- |[Adeel Ahmed IP Blacklist Cloud Plugin cross site scripting](https://vuldb.com/?id.218470)|Visit link for details|2023-01-17 at 08:03|
- |[MiKa OpenStreetMap Plugin cross-site request forgery](https://vuldb.com/?id.218469)|Visit link for details|2023-01-17 at 08:03|
- |[Zyxel AX7501-B0 FTP Server file access](https://vuldb.com/?id.218468)|Visit link for details|2023-01-17 at 08:02|
- |[Hitachi Tuning Manager default permission](https://vuldb.com/?id.218467)|Visit link for details|2023-01-17 at 08:02|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -127,6 +111,19 @@
  |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
  |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
  |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-001: Zero-day and Critical Vulnerabilities in Microsoft Windows](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On January 10, 2023, on their first Patch Tuesday of 2023, Microsoft fixed an actively exploited zero-day Windows Advanced Local Procedure Call (ALPC) Elevation of Privilege Vulnerability and a total of 98 flaws. Eleven of them were classified as critical by Microsoft as they allow remote code execution, bypass security features, or elevate privileges. It is highly recommended applying the fixes as soon as possible.|Wednesday, January 11, 2023 05:50:00 PM CEST|
  
 
 # OBS-Vigilance
@@ -161,11 +158,4 @@
  |[[Control systems] Sewio security advisory (AV23-024)](https://cyber.gc.ca/en/alerts-advisories/control-systems-sewio-security-advisory-av23-024)|Visit link for details|2023-01-12|
  |[[Control systems] Panasonic security advisory (AV23-023)](https://cyber.gc.ca/en/alerts-advisories/control-systems-panasonic-security-advisory-av23-023)|Visit link for details|2023-01-12|
  |[[Control systems] Johnson Controls security advisory (AV23-022)](https://cyber.gc.ca/en/alerts-advisories/control-systems-johnson-controls-security-advisory-av23-022)|Visit link for details|2023-01-12|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-001: Zero-day and Critical Vulnerabilities in Microsoft Windows](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On January 10, 2023, on their first Patch Tuesday of 2023, Microsoft fixed an actively exploited zero-day Windows Advanced Local Procedure Call (ALPC) Elevation of Privilege Vulnerability and a total of 98 flaws. Eleven of them were classified as critical by Microsoft as they allow remote code execution, bypass security features, or elevate privileges. It is highly recommended applying the fixes as soon as possible.|Wednesday, January 11, 2023 05:50:00 PM CEST|
  
