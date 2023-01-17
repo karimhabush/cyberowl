@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 17/01/2023 22:20:26 UTC
+ > Last Updated 17/01/2023 23:22:25 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -53,23 +53,6 @@
  |[Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0022/)|De multiples vulnérabilités ont été corrigées dans |Publié le 11 janvier 2023|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[39811701/23 - Vulnérabilité affectant Zoho ManageEngine Desktop Central](https://www.dgssi.gov.ma//fr/content/3981170123-vulnerabilite-affectant-zoho-manageengine-desktop-central.html)|Zoho annonce la correction d’une vulnérabilité critique affectant plusieurs produits de sa solution de centralisation degestion de parc «ManageEngine Desktop Central ».Un POC « Proof Of Concept » concernant...|17 janvier 2023|
- |[39801601/23 - Vulnérabilités affectantdes produits Juniper](https://www.dgssi.gov.ma//fr/content/3980160123-vulnerabilites-affectant-des-produits-juniper.html)|Juniper annonce la correction de plusieursvulnérabilités qui affectent certains de ses produits.Un attaquant distantpourrait exploiter ces failles afin d’exécuter du code arbitraire, injecter du contenu dans une page,...|17 janvier 2023|
- |[39791601/23 - Vulnérabilités critiques affectant trois plugins pour WordPress](https://www.dgssi.gov.ma//fr/content/3979160123-vulnerabilites-critiques-affectant-trois-plugins-pour-wordpress.html)|WordPressannonce la correction de troisvulnérabilités critique affectant ses Plugins susmentionnés. Ces vulnérabilités sont activement exploitées et peuvent permettre à un attaquant deprovoquer une injection SQL.|16 janvier 2023|
- |[39781601/23 - Vulnérabilités affectantle navigateur Microsoft Edge ](https://www.dgssi.gov.ma//fr/content/3978160123-vulnerabilites-affectant-le-navigateur-microsoft-edge.html)|Microsoft vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilités affectant le navigateur Microsoft Edge. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuter du code...|16 janvier 2023|
- |[39771301/23 - Tentatives d’exploitation d’une vulnérabilité critique affectantControl Web Panel (C](https://www.dgssi.gov.ma//fr/content/3977130123-tentatives-d-exploitation-d-une-vulnerabilite-critique-affectant-control-web-panel-cwp.html)|Une vulnérabilité critique a été corrigée au niveau du logiciel d’administration des serveurs Linux CentOS Control Web Panel (CWP). Cette vulnérabilité est activement exploitée et peut permettre à un attaquantd’élever ses privilèges ou d...|13 janvier 2023|
- |[39761301/23 - Vulnérabilités dans les produits Cisco](https://www.dgssi.gov.ma//fr/content/3976130123-vulnerabilites-dans-les-produits-cisco.html)|Plusieurs vulnérabilités ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir une élévation de privilèges, causer un déni de service,...|13 janvier 2023|
- |[39751301/23 - Vulnérabilité dans le CMS Drupal](https://www.dgssi.gov.ma//fr/content/3975130123-vulnerabilite-dans-le-cms-drupal.html)|Drupal a publié une mise à jour de sécurité pour corriger une vulnérabilité affectant les modules de vocabulaire privé pour Drupal 8.x. Un utilisateur non autorisé pourrait exploiter cette faille pour contourner les autorisations d'...|13 janvier 2023|
- |[39741301/23 - Vulnérabilités dans les produits Siemens](https://www.dgssi.gov.ma//fr/content/3974130123-vulnerabilites-dans-les-produits-siemens.html)|Plusieurs vulnérabilités ont été corrigées dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir une élévation de privilèges, causer un...|13 janvier 2023|
- |[39751201/23 - Vulnérabilité critique affectant le logiciel desurveillance réseau Cacti](https://www.dgssi.gov.ma//fr/content/3975120123-vulnerabilite-critique-affectant-le-logiciel-de-surveillance-reseau-cacti.html)|Des chercheurs en sécurité informatique annoncent la découverte d’une vulnérabilité critique affectant le logiciel de surveillance réseau Cacti.L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du...|12 janvier 2023|
- |[39741201/23 - Vulnérabilités dans Microsoft Exchange Server (Patch Tuesday Janvier 2023)](https://www.dgssi.gov.ma//fr/content/3974120123-vulnerabilites-dans-microsoft-exchange-server-patch-tuesday-janvier-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées de Microsoft Exchange Server. L’exploitation de ces failles peut permettre à un attaquant d’accéder à des informations confidentielles, d’...|12 janvier 2023|
- |[39731201/23 - Vulnérabilités dans plusieurs produits Microsoft(Patch Tuesday Janvier 2023)](https://www.dgssi.gov.ma//fr/content/3973120123-vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-janvier-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, d’exécuter du code...|12 janvier 2023|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -81,23 +64,6 @@
  |[Mozilla Firefox security bypass (CVE-2023-23602)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
  |[Mozilla Firefox spoofing (CVE-2023-23601)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
  |[Mozilla Firefox information disclosure (CVE-2023-23600)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-multiple-vulnerabilities-40292" class="noirorange"><b>Mozilla Firefox</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-multiple-vulnerabilities-40292)|An attacker can use several vulnerabilities of Mozilla Firefox...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Tor-information-disclosure-via-SafeSocks-DNS-Leaks-40291" class="noirorange"><b>Tor</b>: information disclosure via SafeSocks DNS Leaks</a>](https://vigilance.fr/vulnerability/Tor-information-disclosure-via-SafeSocks-DNS-Leaks-40291)|An attacker can bypass access restrictions to data of Tor, via SafeSocks DNS Leaks, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PyPA-setuptools-overload-via-package-index-py-40288" class="noirorange"><b>PyPA setuptools</b>: overload via package_index.py</a>](https://vigilance.fr/vulnerability/PyPA-setuptools-overload-via-package-index-py-40288)|An attacker can trigger an overload of PyPA setuptools, via package_index.py, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-privilege-escalation-via-Key-Files-40287" class="noirorange"><b>IBM QRadar SIEM</b>: privilege escalation via Key Files</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-privilege-escalation-via-Key-Files-40287)|An attacker can bypass restrictions of IBM QRadar SIEM, via Key Files, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SPIP-two-vulnerabilities-40286" class="noirorange"><b>SPIP</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/SPIP-two-vulnerabilities-40286)|An attacker can use several vulnerabilities of SPIP...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Joomla-LDAP-Integration-with-Active-Directory-vulnerability-40285" class="noirorange"><b>Joomla LDAP Integration with Active Directory</b>: vulnerability</a>](https://vigilance.fr/vulnerability/Joomla-LDAP-Integration-with-Active-Directory-vulnerability-40285)|A vulnerability of Joomla LDAP Integration with Active Directory was announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-snd-ctl-elem-read-40284" class="noirorange"><b>Linux kernel</b>: reuse after free via snd_ctl_elem_read()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-snd-ctl-elem-read-40284)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/JPEGOPTIM-out-of-bounds-memory-reading-via-jpegoptim-c-40283" class="noirorange"><b>JPEGOPTIM</b>: out-of-bounds memory reading via jpegoptim.c</a>](https://vigilance.fr/vulnerability/JPEGOPTIM-out-of-bounds-memory-reading-via-jpegoptim-c-40283)|An attacker can force a read at an invalid memory address of JPEGOPTIM, via jpegoptim.c, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linaro-Automated-Validation-Architectu-overload-via-XMLRPC-Requests-XML-entity-expansion-40282" class="noirorange"><b>Linaro Automated Validation Architectu</b>: overload via XMLRPC Requests XML entity expansion</a>](https://vigilance.fr/vulnerability/Linaro-Automated-Validation-Architectu-overload-via-XMLRPC-Requests-XML-entity-expansion-40282)|An attacker can trigger an overload of Linaro Automated Validation Architectu, via XMLRPC Requests XML entity expansion, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-Netfilter-Subsystem-40281" class="noirorange"><b>Linux kernel</b>: buffer overflow via Netfilter Subsystem</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-Netfilter-Subsystem-40281)|An attacker can trigger a buffer overflow of the Linux kernel, via Netfilter Subsystem, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-rndis-query-oid-40280" class="noirorange"><b>Linux kernel</b>: buffer overflow via rndis_query_oid()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-rndis-query-oid-40280)|An attacker can trigger a buffer overflow of the Linux kernel, via rndis_query_oid(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
 
 # HK-CERT
@@ -132,6 +98,40 @@
  |[Leaflet Maps Marker Plugin Shortcode cross site scripting](https://vuldb.com/?id.218510)|Visit link for details|2023-01-17 at 20:49|
  
 
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[39811701/23 - Vulnérabilité affectant Zoho ManageEngine Desktop Central](https://www.dgssi.gov.ma//fr/content/3981170123-vulnerabilite-affectant-zoho-manageengine-desktop-central.html)|Zoho annonce la correction d’une vulnérabilité critique affectant plusieurs produits de sa solution de centralisation degestion de parc «ManageEngine Desktop Central ».Un POC « Proof Of Concept » concernant...|17 janvier 2023|
+ |[39801601/23 - Vulnérabilités affectantdes produits Juniper](https://www.dgssi.gov.ma//fr/content/3980160123-vulnerabilites-affectant-des-produits-juniper.html)|Juniper annonce la correction de plusieursvulnérabilités qui affectent certains de ses produits.Un attaquant distantpourrait exploiter ces failles afin d’exécuter du code arbitraire, injecter du contenu dans une page,...|17 janvier 2023|
+ |[39791601/23 - Vulnérabilités critiques affectant trois plugins pour WordPress](https://www.dgssi.gov.ma//fr/content/3979160123-vulnerabilites-critiques-affectant-trois-plugins-pour-wordpress.html)|WordPressannonce la correction de troisvulnérabilités critique affectant ses Plugins susmentionnés. Ces vulnérabilités sont activement exploitées et peuvent permettre à un attaquant deprovoquer une injection SQL.|16 janvier 2023|
+ |[39781601/23 - Vulnérabilités affectantle navigateur Microsoft Edge ](https://www.dgssi.gov.ma//fr/content/3978160123-vulnerabilites-affectant-le-navigateur-microsoft-edge.html)|Microsoft vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilités affectant le navigateur Microsoft Edge. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuter du code...|16 janvier 2023|
+ |[39771301/23 - Tentatives d’exploitation d’une vulnérabilité critique affectantControl Web Panel (C](https://www.dgssi.gov.ma//fr/content/3977130123-tentatives-d-exploitation-d-une-vulnerabilite-critique-affectant-control-web-panel-cwp.html)|Une vulnérabilité critique a été corrigée au niveau du logiciel d’administration des serveurs Linux CentOS Control Web Panel (CWP). Cette vulnérabilité est activement exploitée et peut permettre à un attaquantd’élever ses privilèges ou d...|13 janvier 2023|
+ |[39761301/23 - Vulnérabilités dans les produits Cisco](https://www.dgssi.gov.ma//fr/content/3976130123-vulnerabilites-dans-les-produits-cisco.html)|Plusieurs vulnérabilités ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir une élévation de privilèges, causer un déni de service,...|13 janvier 2023|
+ |[39751301/23 - Vulnérabilité dans le CMS Drupal](https://www.dgssi.gov.ma//fr/content/3975130123-vulnerabilite-dans-le-cms-drupal.html)|Drupal a publié une mise à jour de sécurité pour corriger une vulnérabilité affectant les modules de vocabulaire privé pour Drupal 8.x. Un utilisateur non autorisé pourrait exploiter cette faille pour contourner les autorisations d'...|13 janvier 2023|
+ |[39741301/23 - Vulnérabilités dans les produits Siemens](https://www.dgssi.gov.ma//fr/content/3974130123-vulnerabilites-dans-les-produits-siemens.html)|Plusieurs vulnérabilités ont été corrigées dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir une élévation de privilèges, causer un...|13 janvier 2023|
+ |[39751201/23 - Vulnérabilité critique affectant le logiciel desurveillance réseau Cacti](https://www.dgssi.gov.ma//fr/content/3975120123-vulnerabilite-critique-affectant-le-logiciel-de-surveillance-reseau-cacti.html)|Des chercheurs en sécurité informatique annoncent la découverte d’une vulnérabilité critique affectant le logiciel de surveillance réseau Cacti.L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du...|12 janvier 2023|
+ |[39741201/23 - Vulnérabilités dans Microsoft Exchange Server (Patch Tuesday Janvier 2023)](https://www.dgssi.gov.ma//fr/content/3974120123-vulnerabilites-dans-microsoft-exchange-server-patch-tuesday-janvier-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées de Microsoft Exchange Server. L’exploitation de ces failles peut permettre à un attaquant d’accéder à des informations confidentielles, d’...|12 janvier 2023|
+ |[39731201/23 - Vulnérabilités dans plusieurs produits Microsoft(Patch Tuesday Janvier 2023)](https://www.dgssi.gov.ma//fr/content/3973120123-vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-janvier-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, d’exécuter du code...|12 janvier 2023|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-multiple-vulnerabilities-40292" class="noirorange"><b>Mozilla Firefox</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-multiple-vulnerabilities-40292)|An attacker can use several vulnerabilities of Mozilla Firefox...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Tor-information-disclosure-via-SafeSocks-DNS-Leaks-40291" class="noirorange"><b>Tor</b>: information disclosure via SafeSocks DNS Leaks</a>](https://vigilance.fr/vulnerability/Tor-information-disclosure-via-SafeSocks-DNS-Leaks-40291)|An attacker can bypass access restrictions to data of Tor, via SafeSocks DNS Leaks, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PyPA-setuptools-overload-via-package-index-py-40288" class="noirorange"><b>PyPA setuptools</b>: overload via package_index.py</a>](https://vigilance.fr/vulnerability/PyPA-setuptools-overload-via-package-index-py-40288)|An attacker can trigger an overload of PyPA setuptools, via package_index.py, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-privilege-escalation-via-Key-Files-40287" class="noirorange"><b>IBM QRadar SIEM</b>: privilege escalation via Key Files</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-privilege-escalation-via-Key-Files-40287)|An attacker can bypass restrictions of IBM QRadar SIEM, via Key Files, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SPIP-two-vulnerabilities-40286" class="noirorange"><b>SPIP</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/SPIP-two-vulnerabilities-40286)|An attacker can use several vulnerabilities of SPIP...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Joomla-LDAP-Integration-with-Active-Directory-vulnerability-40285" class="noirorange"><b>Joomla LDAP Integration with Active Directory</b>: vulnerability</a>](https://vigilance.fr/vulnerability/Joomla-LDAP-Integration-with-Active-Directory-vulnerability-40285)|A vulnerability of Joomla LDAP Integration with Active Directory was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-snd-ctl-elem-read-40284" class="noirorange"><b>Linux kernel</b>: reuse after free via snd_ctl_elem_read()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-snd-ctl-elem-read-40284)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/JPEGOPTIM-out-of-bounds-memory-reading-via-jpegoptim-c-40283" class="noirorange"><b>JPEGOPTIM</b>: out-of-bounds memory reading via jpegoptim.c</a>](https://vigilance.fr/vulnerability/JPEGOPTIM-out-of-bounds-memory-reading-via-jpegoptim-c-40283)|An attacker can force a read at an invalid memory address of JPEGOPTIM, via jpegoptim.c, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linaro-Automated-Validation-Architectu-overload-via-XMLRPC-Requests-XML-entity-expansion-40282" class="noirorange"><b>Linaro Automated Validation Architectu</b>: overload via XMLRPC Requests XML entity expansion</a>](https://vigilance.fr/vulnerability/Linaro-Automated-Validation-Architectu-overload-via-XMLRPC-Requests-XML-entity-expansion-40282)|An attacker can trigger an overload of Linaro Automated Validation Architectu, via XMLRPC Requests XML entity expansion, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-Netfilter-Subsystem-40281" class="noirorange"><b>Linux kernel</b>: buffer overflow via Netfilter Subsystem</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-Netfilter-Subsystem-40281)|An attacker can trigger a buffer overflow of the Linux kernel, via Netfilter Subsystem, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-rndis-query-oid-40280" class="noirorange"><b>Linux kernel</b>: buffer overflow via rndis_query_oid()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-rndis-query-oid-40280)|An attacker can trigger a buffer overflow of the Linux kernel, via rndis_query_oid(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
@@ -160,4 +160,12 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
