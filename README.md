@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 17/01/2023 21:33:38 UTC
+ > Last Updated 17/01/2023 22:20:26 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -70,27 +70,17 @@
  |[39731201/23 - Vulnérabilités dans plusieurs produits Microsoft(Patch Tuesday Janvier 2023)](https://www.dgssi.gov.ma//fr/content/3973120123-vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-janvier-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, d’exécuter du code...|12 janvier 2023|
  
 
-# EU-CERT
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[2023-001: Zero-day and Critical Vulnerabilities in Microsoft Windows](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On January 10, 2023, on their first Patch Tuesday of 2023, Microsoft fixed an actively exploited zero-day Windows Advanced Local Procedure Call (ALPC) Elevation of Privilege Vulnerability and a total of 98 flaws. Eleven of them were classified as critical by Microsoft as they allow remote code execution, bypass security features, or elevate privileges. It is highly recommended applying the fixes as soon as possible.|Wednesday, January 11, 2023 05:50:00 PM CEST|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- |[frioux ptome sql injection](https://vuldb.com/?id.218519)|Visit link for details|2023-01-17 at 21:03|
- |[GE Digital Proficy Historian weak encoding for password](https://vuldb.com/?id.218518)|Visit link for details|2023-01-17 at 20:59|
- |[GE Digital Proficy Historian access control](https://vuldb.com/?id.218517)|Visit link for details|2023-01-17 at 20:58|
- |[GE Digital Proficy Historian access control](https://vuldb.com/?id.218516)|Visit link for details|2023-01-17 at 20:57|
- |[GE Digital Proficy Historian unrestricted upload](https://vuldb.com/?id.218515)|Visit link for details|2023-01-17 at 20:57|
- |[GE Digital Proficy Historian authentication bypass](https://vuldb.com/?id.218514)|Visit link for details|2023-01-17 at 20:56|
- |[Mitsubishi Electric MELSEC iQ-F/MELSEC iQ-R Web Server prng seed](https://vuldb.com/?id.218513)|Visit link for details|2023-01-17 at 20:55|
- |[WP VR Plugin Shortcode cross site scripting](https://vuldb.com/?id.218512)|Visit link for details|2023-01-17 at 20:49|
- |[Html5 Audio Player Plugin Shortcode cross site scripting](https://vuldb.com/?id.218511)|Visit link for details|2023-01-17 at 20:49|
- |[Leaflet Maps Marker Plugin Shortcode cross site scripting](https://vuldb.com/?id.218510)|Visit link for details|2023-01-17 at 20:49|
+ |[Food Ordering Management System SQL injection (CVE-2023-0332)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
+ |[Mozilla Firefox safety bugs code execution (CVE-2023-23606)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
+ |[Mozilla Firefox security bypass (CVE-2023-23604)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
+ |[Mozilla Firefox security bypass (CVE-2023-23603)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
+ |[Mozilla Firefox security bypass (CVE-2023-23602)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
+ |[Mozilla Firefox spoofing (CVE-2023-23601)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
+ |[Mozilla Firefox information disclosure (CVE-2023-23600)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
  
 
 # OBS-Vigilance
@@ -126,6 +116,22 @@
  |[Debian Linux Kernel Multiple Vulnerabilities](/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20230103)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 3 Jan 2023|
  
 
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[frioux ptome sql injection](https://vuldb.com/?id.218519)|Visit link for details|2023-01-17 at 21:03|
+ |[GE Digital Proficy Historian weak encoding for password](https://vuldb.com/?id.218518)|Visit link for details|2023-01-17 at 20:59|
+ |[GE Digital Proficy Historian access control](https://vuldb.com/?id.218517)|Visit link for details|2023-01-17 at 20:58|
+ |[GE Digital Proficy Historian access control](https://vuldb.com/?id.218516)|Visit link for details|2023-01-17 at 20:57|
+ |[GE Digital Proficy Historian unrestricted upload](https://vuldb.com/?id.218515)|Visit link for details|2023-01-17 at 20:57|
+ |[GE Digital Proficy Historian authentication bypass](https://vuldb.com/?id.218514)|Visit link for details|2023-01-17 at 20:56|
+ |[Mitsubishi Electric MELSEC iQ-F/MELSEC iQ-R Web Server prng seed](https://vuldb.com/?id.218513)|Visit link for details|2023-01-17 at 20:55|
+ |[WP VR Plugin Shortcode cross site scripting](https://vuldb.com/?id.218512)|Visit link for details|2023-01-17 at 20:49|
+ |[Html5 Audio Player Plugin Shortcode cross site scripting](https://vuldb.com/?id.218511)|Visit link for details|2023-01-17 at 20:49|
+ |[Leaflet Maps Marker Plugin Shortcode cross site scripting](https://vuldb.com/?id.218510)|Visit link for details|2023-01-17 at 20:49|
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
@@ -143,17 +149,11 @@
  |[[Control systems] Johnson Controls security advisory (AV23-022)](https://cyber.gc.ca/en/alerts-advisories/control-systems-johnson-controls-security-advisory-av23-022)|Visit link for details|2023-01-12|
  
 
-# IBM-X-FORCE-EXCHANGE
+# EU-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Mozilla Firefox safety bugs code execution (CVE-2023-23606)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
- |[Mozilla Firefox security bypass (CVE-2023-23604)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
- |[Mozilla Firefox security bypass (CVE-2023-23603)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
- |[Mozilla Firefox security bypass (CVE-2023-23602)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
- |[Mozilla Firefox spoofing (CVE-2023-23601)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
- |[Mozilla Firefox information disclosure (CVE-2023-23600)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
- |[Mozilla Firefox security bypass (CVE-2023-23599)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
+ |[2023-001: Zero-day and Critical Vulnerabilities in Microsoft Windows](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On January 10, 2023, on their first Patch Tuesday of 2023, Microsoft fixed an actively exploited zero-day Windows Advanced Local Procedure Call (ALPC) Elevation of Privilege Vulnerability and a total of 98 flaws. Eleven of them were classified as critical by Microsoft as they allow remote code execution, bypass security features, or elevate privileges. It is highly recommended applying the fixes as soon as possible.|Wednesday, January 11, 2023 05:50:00 PM CEST|
  
 
 # ZERODAYINITIATIVE
