@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 17/01/2023 15:21:20 UTC
+ > Last Updated 17/01/2023 16:28:29 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -37,19 +37,6 @@
  |[Microsoft Releases January 2023 Security Updates](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/10/microsoft-releases-january-2023-security-updates)|<p>Microsoft has released updates to address multiple vulnerabilities in Microsoft software. An attacker could exploit some of these vulnerabilities to take control of an affected system.</p>|Tuesday, January 10, 2023|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiple ManageEngine products code execution (CVE-2022-47966)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2023|
- |[Linaro Trusted Firmware-A information disclosure (CVE-2022-47630)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2023|
- |[Apache Superset SQL injection (CVE-2022-41703)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2023|
- |[Apache Superset information disclosure (CVE-2022-45438)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2023|
- |[Apache Superset open redirect (CVE-2022-43721)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2023|
- |[Apache Superset security bypass (CVE-2022-43720)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2023|
- |[Apache Superset cross-site request forgery (CVE-2022-43719)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2023|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -65,6 +52,19 @@
  |[39751201/23 - Vulnérabilité critique affectant le logiciel desurveillance réseau Cacti](https://www.dgssi.gov.ma//fr/content/3975120123-vulnerabilite-critique-affectant-le-logiciel-de-surveillance-reseau-cacti.html)|Des chercheurs en sécurité informatique annoncent la découverte d’une vulnérabilité critique affectant le logiciel de surveillance réseau Cacti.L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du...|12 janvier 2023|
  |[39741201/23 - Vulnérabilités dans Microsoft Exchange Server (Patch Tuesday Janvier 2023)](https://www.dgssi.gov.ma//fr/content/3974120123-vulnerabilites-dans-microsoft-exchange-server-patch-tuesday-janvier-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées de Microsoft Exchange Server. L’exploitation de ces failles peut permettre à un attaquant d’accéder à des informations confidentielles, d’...|12 janvier 2023|
  |[39731201/23 - Vulnérabilités dans plusieurs produits Microsoft(Patch Tuesday Janvier 2023)](https://www.dgssi.gov.ma//fr/content/3973120123-vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-janvier-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, d’exécuter du code...|12 janvier 2023|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiple ManageEngine products code execution (CVE-2022-47966)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2023|
+ |[Linaro Trusted Firmware-A information disclosure (CVE-2022-47630)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2023|
+ |[Apache Superset SQL injection (CVE-2022-41703)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2023|
+ |[Apache Superset information disclosure (CVE-2022-45438)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2023|
+ |[Apache Superset open redirect (CVE-2022-43721)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2023|
+ |[Apache Superset security bypass (CVE-2022-43720)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2023|
+ |[Apache Superset cross-site request forgery (CVE-2022-43719)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2023|
  
 
 # HK-CERT
@@ -87,6 +87,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[ale7714 sigeprosi sql injection](https://vuldb.com/?id.218493)|Visit link for details|2023-01-17 at 16:30|
  |[AlexRed contentmap contentmap.php Load sql injection](https://vuldb.com/?id.218492)|Visit link for details|2023-01-17 at 16:19|
  |[iamdroppy phoenixcf articles.cfm sql injection](https://vuldb.com/?id.218491)|Visit link for details|2023-01-17 at 16:17|
  |[ridhoq soundslike songs.py get_song_relations sql injection](https://vuldb.com/?id.218490)|Visit link for details|2023-01-17 at 16:03|
@@ -96,21 +97,6 @@
  |[Pixela PIX-RT100 Setting os command injection](https://vuldb.com/?id.218486)|Visit link for details|2023-01-17 at 14:12|
  |[Mahoroba MAHO-PBX NetDevancer os command injection](https://vuldb.com/?id.218485)|Visit link for details|2023-01-17 at 14:11|
  |[TP-Link SG105PE improper authentication](https://vuldb.com/?id.218484)|Visit link for details|2023-01-17 at 14:09|
- |[pgAdmin URL redirect](https://vuldb.com/?id.218483)|Visit link for details|2023-01-17 at 14:09|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
 
 # CERT-FR
@@ -129,6 +115,37 @@
  |[Multiples vulnérabilités dans Microsoft Office](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0021/)|De multiples vulnérabilités ont été corrigées dans |Publié le 11 janvier 2023|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-multiple-vulnerabilities-40292" class="noirorange"><b>Mozilla Firefox</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-multiple-vulnerabilities-40292)|An attacker can use several vulnerabilities of Mozilla Firefox...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Tor-information-disclosure-via-SafeSocks-DNS-Leaks-40291" class="noirorange"><b>Tor</b>: information disclosure via SafeSocks DNS Leaks</a>](https://vigilance.fr/vulnerability/Tor-information-disclosure-via-SafeSocks-DNS-Leaks-40291)|An attacker can bypass access restrictions to data of Tor, via SafeSocks DNS Leaks, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PyPA-setuptools-overload-via-package-index-py-40288" class="noirorange"><b>PyPA setuptools</b>: overload via package_index.py</a>](https://vigilance.fr/vulnerability/PyPA-setuptools-overload-via-package-index-py-40288)|An attacker can trigger an overload of PyPA setuptools, via package_index.py, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-privilege-escalation-via-Key-Files-40287" class="noirorange"><b>IBM QRadar SIEM</b>: privilege escalation via Key Files</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-privilege-escalation-via-Key-Files-40287)|An attacker can bypass restrictions of IBM QRadar SIEM, via Key Files, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SPIP-two-vulnerabilities-40286" class="noirorange"><b>SPIP</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/SPIP-two-vulnerabilities-40286)|An attacker can use several vulnerabilities of SPIP...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Joomla-LDAP-Integration-with-Active-Directory-vulnerability-40285" class="noirorange"><b>Joomla LDAP Integration with Active Directory</b>: vulnerability</a>](https://vigilance.fr/vulnerability/Joomla-LDAP-Integration-with-Active-Directory-vulnerability-40285)|A vulnerability of Joomla LDAP Integration with Active Directory was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-snd-ctl-elem-read-40284" class="noirorange"><b>Linux kernel</b>: reuse after free via snd_ctl_elem_read()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-snd-ctl-elem-read-40284)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/JPEGOPTIM-out-of-bounds-memory-reading-via-jpegoptim-c-40283" class="noirorange"><b>JPEGOPTIM</b>: out-of-bounds memory reading via jpegoptim.c</a>](https://vigilance.fr/vulnerability/JPEGOPTIM-out-of-bounds-memory-reading-via-jpegoptim-c-40283)|An attacker can force a read at an invalid memory address of JPEGOPTIM, via jpegoptim.c, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linaro-Automated-Validation-Architectu-overload-via-XMLRPC-Requests-XML-entity-expansion-40282" class="noirorange"><b>Linaro Automated Validation Architectu</b>: overload via XMLRPC Requests XML entity expansion</a>](https://vigilance.fr/vulnerability/Linaro-Automated-Validation-Architectu-overload-via-XMLRPC-Requests-XML-entity-expansion-40282)|An attacker can trigger an overload of Linaro Automated Validation Architectu, via XMLRPC Requests XML entity expansion, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-Netfilter-Subsystem-40281" class="noirorange"><b>Linux kernel</b>: buffer overflow via Netfilter Subsystem</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-Netfilter-Subsystem-40281)|An attacker can trigger a buffer overflow of the Linux kernel, via Netfilter Subsystem, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-rndis-query-oid-40280" class="noirorange"><b>Linux kernel</b>: buffer overflow via rndis_query_oid()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-rndis-query-oid-40280)|An attacker can trigger a buffer overflow of the Linux kernel, via rndis_query_oid(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
@@ -144,23 +161,6 @@
  |[[Control systems] Sewio security advisory (AV23-024)](https://cyber.gc.ca/en/alerts-advisories/control-systems-sewio-security-advisory-av23-024)|Visit link for details|2023-01-12|
  |[[Control systems] Panasonic security advisory (AV23-023)](https://cyber.gc.ca/en/alerts-advisories/control-systems-panasonic-security-advisory-av23-023)|Visit link for details|2023-01-12|
  |[[Control systems] Johnson Controls security advisory (AV23-022)](https://cyber.gc.ca/en/alerts-advisories/control-systems-johnson-controls-security-advisory-av23-022)|Visit link for details|2023-01-12|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Tor-information-disclosure-via-SafeSocks-DNS-Leaks-40291" class="noirorange"><b>Tor</b>: information disclosure via SafeSocks DNS Leaks</a>](https://vigilance.fr/vulnerability/Tor-information-disclosure-via-SafeSocks-DNS-Leaks-40291)|An attacker can bypass access restrictions to data of Tor, via SafeSocks DNS Leaks, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PyPA-setuptools-overload-via-package-index-py-40288" class="noirorange"><b>PyPA setuptools</b>: overload via package_index.py</a>](https://vigilance.fr/vulnerability/PyPA-setuptools-overload-via-package-index-py-40288)|An attacker can trigger an overload of PyPA setuptools, via package_index.py, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-privilege-escalation-via-Key-Files-40287" class="noirorange"><b>IBM QRadar SIEM</b>: privilege escalation via Key Files</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-privilege-escalation-via-Key-Files-40287)|An attacker can bypass restrictions of IBM QRadar SIEM, via Key Files, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SPIP-two-vulnerabilities-40286" class="noirorange"><b>SPIP</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/SPIP-two-vulnerabilities-40286)|An attacker can use several vulnerabilities of SPIP...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Joomla-LDAP-Integration-with-Active-Directory-vulnerability-40285" class="noirorange"><b>Joomla LDAP Integration with Active Directory</b>: vulnerability</a>](https://vigilance.fr/vulnerability/Joomla-LDAP-Integration-with-Active-Directory-vulnerability-40285)|A vulnerability of Joomla LDAP Integration with Active Directory was announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-snd-ctl-elem-read-40284" class="noirorange"><b>Linux kernel</b>: reuse after free via snd_ctl_elem_read()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-snd-ctl-elem-read-40284)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/JPEGOPTIM-out-of-bounds-memory-reading-via-jpegoptim-c-40283" class="noirorange"><b>JPEGOPTIM</b>: out-of-bounds memory reading via jpegoptim.c</a>](https://vigilance.fr/vulnerability/JPEGOPTIM-out-of-bounds-memory-reading-via-jpegoptim-c-40283)|An attacker can force a read at an invalid memory address of JPEGOPTIM, via jpegoptim.c, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linaro-Automated-Validation-Architectu-overload-via-XMLRPC-Requests-XML-entity-expansion-40282" class="noirorange"><b>Linaro Automated Validation Architectu</b>: overload via XMLRPC Requests XML entity expansion</a>](https://vigilance.fr/vulnerability/Linaro-Automated-Validation-Architectu-overload-via-XMLRPC-Requests-XML-entity-expansion-40282)|An attacker can trigger an overload of Linaro Automated Validation Architectu, via XMLRPC Requests XML entity expansion, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-Netfilter-Subsystem-40281" class="noirorange"><b>Linux kernel</b>: buffer overflow via Netfilter Subsystem</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-Netfilter-Subsystem-40281)|An attacker can trigger a buffer overflow of the Linux kernel, via Netfilter Subsystem, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-rndis-query-oid-40280" class="noirorange"><b>Linux kernel</b>: buffer overflow via rndis_query_oid()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-rndis-query-oid-40280)|An attacker can trigger a buffer overflow of the Linux kernel, via rndis_query_oid(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-attr-punch-hole-40279" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via attr_punch_hole()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-attr-punch-hole-40279)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via attr_punch_hole(), in order to trigger a denial of service...|Visit link for details|
  
 
 # EU-CERT
