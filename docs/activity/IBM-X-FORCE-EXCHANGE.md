@@ -4,11 +4,11 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiple ManageEngine products code execution (CVE-2022-47966)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2023|
- |[Linaro Trusted Firmware-A information disclosure (CVE-2022-47630)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2023|
- |[Apache Superset SQL injection (CVE-2022-41703)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2023|
- |[Apache Superset information disclosure (CVE-2022-45438)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2023|
- |[Apache Superset open redirect (CVE-2022-43721)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2023|
- |[Apache Superset security bypass (CVE-2022-43720)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2023|
- |[Apache Superset cross-site request forgery (CVE-2022-43719)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2023|
+ |[Mozilla Firefox safety bugs code execution (CVE-2023-23606)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
+ |[Mozilla Firefox security bypass (CVE-2023-23604)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
+ |[Mozilla Firefox security bypass (CVE-2023-23603)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
+ |[Mozilla Firefox security bypass (CVE-2023-23602)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
+ |[Mozilla Firefox spoofing (CVE-2023-23601)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
+ |[Mozilla Firefox information disclosure (CVE-2023-23600)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
+ |[Mozilla Firefox security bypass (CVE-2023-23599)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
  
