@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 17/01/2023 04:25:45 UTC
+ > Last Updated 17/01/2023 05:20:22 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -83,22 +83,6 @@
  |[Apache Superset cross-site scripting (CVE-2022-43718)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2023|
  
 
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- |[lierdakil click-reminder BaseAction.php db_query sql injection](https://vuldb.com/?id.218465)|Visit link for details|2023-01-17 at 00:22|
- |[nivit redports model.py sql injection](https://vuldb.com/?id.218464)|Visit link for details|2023-01-17 at 00:15|
- |[oznetmaster SSharpSmartThreadPool SmartThreadPool.cs race condition](https://vuldb.com/?id.218463)|Visit link for details|2023-01-17 at 00:14|
- |[tynx wuersch Store.class.php getByCustomQuery sql injection](https://vuldb.com/?id.218462)|Visit link for details|2023-01-17 at 00:12|
- |[youngerheart nodeserver nodeserver.js path traversal](https://vuldb.com/?id.218461)|Visit link for details|2023-01-17 at 00:10|
- |[michaelliao jopenid OpenIdManager.java getAuthentication timing discrepancy](https://vuldb.com/?id.218460)|Visit link for details|2023-01-17 at 00:05|
- |[risheesh debutsav sql injection](https://vuldb.com/?id.218459)|Visit link for details|2023-01-17 at 00:00|
- |[AenBleidd FiND my_validator.cpp init_result buffer overflow](https://vuldb.com/?id.218458)|Visit link for details|2023-01-17 at 23:58|
- |[PrivateSky apersistence mysqlUtils.js sql injection](https://vuldb.com/?id.218457)|Visit link for details|2023-01-17 at 23:54|
- |[melnaron mel-spintax spintax.js redos](https://vuldb.com/?id.218456)|Visit link for details|2023-01-17 at 23:52|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -113,6 +97,22 @@
  |[Microsoft Monthly Security Update (January 2023)](/security-bulletin/microsoft-monthly-security-update-january-2023)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesWindows High RiskElevation of PrivilegeRemote Code ExecutionDenial of ServiceInformation DisclosureSecurity Restriction BypassCVE-2023-21674 is...|Release Date: 11 Jan 2023|
  |[Android Multiple Vulnerabilities](/security-bulletin/android-multiple-vulnerabilities_20230105)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, elevation of privilege and remote code execution on the targeted system.|Release Date: 5 Jan 2023|
  |[Debian Linux Kernel Multiple Vulnerabilities](/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20230103)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 3 Jan 2023|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[lierdakil click-reminder BaseAction.php db_query sql injection](https://vuldb.com/?id.218465)|Visit link for details|2023-01-17 at 00:22|
+ |[nivit redports model.py sql injection](https://vuldb.com/?id.218464)|Visit link for details|2023-01-17 at 00:15|
+ |[oznetmaster SSharpSmartThreadPool SmartThreadPool.cs race condition](https://vuldb.com/?id.218463)|Visit link for details|2023-01-17 at 00:14|
+ |[tynx wuersch Store.class.php getByCustomQuery sql injection](https://vuldb.com/?id.218462)|Visit link for details|2023-01-17 at 00:12|
+ |[youngerheart nodeserver nodeserver.js path traversal](https://vuldb.com/?id.218461)|Visit link for details|2023-01-17 at 00:10|
+ |[michaelliao jopenid OpenIdManager.java getAuthentication timing discrepancy](https://vuldb.com/?id.218460)|Visit link for details|2023-01-17 at 00:05|
+ |[risheesh debutsav sql injection](https://vuldb.com/?id.218459)|Visit link for details|2023-01-17 at 00:00|
+ |[AenBleidd FiND my_validator.cpp init_result buffer overflow](https://vuldb.com/?id.218458)|Visit link for details|2023-01-17 at 23:58|
+ |[PrivateSky apersistence mysqlUtils.js sql injection](https://vuldb.com/?id.218457)|Visit link for details|2023-01-17 at 23:54|
+ |[melnaron mel-spintax spintax.js redos](https://vuldb.com/?id.218456)|Visit link for details|2023-01-17 at 23:52|
  
 
 # OBS-Vigilance
@@ -149,13 +149,6 @@
  |[[Control systems] Johnson Controls security advisory (AV23-022)](https://cyber.gc.ca/en/alerts-advisories/control-systems-johnson-controls-security-advisory-av23-022)|Visit link for details|2023-01-12|
  
 
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-001: Zero-day and Critical Vulnerabilities in Microsoft Windows](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On January 10, 2023, on their first Patch Tuesday of 2023, Microsoft fixed an actively exploited zero-day Windows Advanced Local Procedure Call (ALPC) Elevation of Privilege Vulnerability and a total of 98 flaws. Eleven of them were classified as critical by Microsoft as they allow remote code execution, bypass security features, or elevate privileges. It is highly recommended applying the fixes as soon as possible.|Wednesday, January 11, 2023 05:50:00 PM CEST|
- 
-
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -168,4 +161,11 @@
  |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
  |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
  |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-001: Zero-day and Critical Vulnerabilities in Microsoft Windows](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On January 10, 2023, on their first Patch Tuesday of 2023, Microsoft fixed an actively exploited zero-day Windows Advanced Local Procedure Call (ALPC) Elevation of Privilege Vulnerability and a total of 98 flaws. Eleven of them were classified as critical by Microsoft as they allow remote code execution, bypass security features, or elevate privileges. It is highly recommended applying the fixes as soon as possible.|Wednesday, January 11, 2023 05:50:00 PM CEST|
  
