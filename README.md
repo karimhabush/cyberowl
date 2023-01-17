@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 17/01/2023 03:23:00 UTC
+ > Last Updated 17/01/2023 04:25:45 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -70,6 +70,19 @@
  |[39711201/23 - Vulnérabilités dans Microsoft Office (Patch Tuesday Janvier 2023)](https://www.dgssi.gov.ma//fr/content/3971120123-vulnerabilites-dans-microsoft-office-patch-tuesday-janvier-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées des produits Microsoft Office. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire à distance,...|12 janvier 2023|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Linaro Trusted Firmware-A information disclosure (CVE-2022-47630)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2023|
+ |[Apache Superset SQL injection (CVE-2022-41703)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2023|
+ |[Apache Superset information disclosure (CVE-2022-45438)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2023|
+ |[Apache Superset open redirect (CVE-2022-43721)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2023|
+ |[Apache Superset security bypass (CVE-2022-43720)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2023|
+ |[Apache Superset cross-site request forgery (CVE-2022-43719)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2023|
+ |[Apache Superset cross-site scripting (CVE-2022-43718)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2023|
+ 
+
 # VulDB
 
  |Title|Description|Date|
@@ -84,19 +97,6 @@
  |[AenBleidd FiND my_validator.cpp init_result buffer overflow](https://vuldb.com/?id.218458)|Visit link for details|2023-01-17 at 23:58|
  |[PrivateSky apersistence mysqlUtils.js sql injection](https://vuldb.com/?id.218457)|Visit link for details|2023-01-17 at 23:54|
  |[melnaron mel-spintax spintax.js redos](https://vuldb.com/?id.218456)|Visit link for details|2023-01-17 at 23:52|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Linaro Trusted Firmware-A information disclosure (CVE-2022-47630)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2023|
- |[Apache Superset SQL injection (CVE-2022-41703)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2023|
- |[Apache Superset information disclosure (CVE-2022-45438)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2023|
- |[Apache Superset open redirect (CVE-2022-43721)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2023|
- |[Apache Superset security bypass (CVE-2022-43720)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2023|
- |[Apache Superset cross-site request forgery (CVE-2022-43719)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2023|
- |[Apache Superset cross-site scripting (CVE-2022-43718)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2023|
  
 
 # HK-CERT
