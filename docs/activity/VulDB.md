@@ -4,14 +4,14 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Adeel Ahmed IP Blacklist Cloud Plugin sql injection](https://vuldb.com/?id.218471)|Visit link for details|2023-01-17 at 08:03|
+ |[Adeel Ahmed IP Blacklist Cloud Plugin cross site scripting](https://vuldb.com/?id.218470)|Visit link for details|2023-01-17 at 08:03|
+ |[MiKa OpenStreetMap Plugin cross-site request forgery](https://vuldb.com/?id.218469)|Visit link for details|2023-01-17 at 08:03|
+ |[Zyxel AX7501-B0 FTP Server file access](https://vuldb.com/?id.218468)|Visit link for details|2023-01-17 at 08:02|
+ |[Hitachi Tuning Manager default permission](https://vuldb.com/?id.218467)|Visit link for details|2023-01-17 at 08:02|
+ |[Zyxel AX7501-B0 Configuration File cleartext storage](https://vuldb.com/?id.218466)|Visit link for details|2023-01-17 at 08:01|
  |[lierdakil click-reminder BaseAction.php db_query sql injection](https://vuldb.com/?id.218465)|Visit link for details|2023-01-17 at 00:22|
  |[nivit redports model.py sql injection](https://vuldb.com/?id.218464)|Visit link for details|2023-01-17 at 00:15|
  |[oznetmaster SSharpSmartThreadPool SmartThreadPool.cs race condition](https://vuldb.com/?id.218463)|Visit link for details|2023-01-17 at 00:14|
  |[tynx wuersch Store.class.php getByCustomQuery sql injection](https://vuldb.com/?id.218462)|Visit link for details|2023-01-17 at 00:12|
- |[youngerheart nodeserver nodeserver.js path traversal](https://vuldb.com/?id.218461)|Visit link for details|2023-01-17 at 00:10|
- |[michaelliao jopenid OpenIdManager.java getAuthentication timing discrepancy](https://vuldb.com/?id.218460)|Visit link for details|2023-01-17 at 00:05|
- |[risheesh debutsav sql injection](https://vuldb.com/?id.218459)|Visit link for details|2023-01-17 at 00:00|
- |[AenBleidd FiND my_validator.cpp init_result buffer overflow](https://vuldb.com/?id.218458)|Visit link for details|2023-01-17 at 23:58|
- |[PrivateSky apersistence mysqlUtils.js sql injection](https://vuldb.com/?id.218457)|Visit link for details|2023-01-17 at 23:54|
- |[melnaron mel-spintax spintax.js redos](https://vuldb.com/?id.218456)|Visit link for details|2023-01-17 at 23:52|
  
