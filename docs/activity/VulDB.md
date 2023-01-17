@@ -4,14 +4,14 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[ale7714 sigeprosi sql injection](https://vuldb.com/?id.218493)|Visit link for details|2023-01-17 at 16:30|
- |[AlexRed contentmap contentmap.php Load sql injection](https://vuldb.com/?id.218492)|Visit link for details|2023-01-17 at 16:19|
- |[iamdroppy phoenixcf articles.cfm sql injection](https://vuldb.com/?id.218491)|Visit link for details|2023-01-17 at 16:17|
- |[ridhoq soundslike songs.py get_song_relations sql injection](https://vuldb.com/?id.218490)|Visit link for details|2023-01-17 at 16:03|
- |[Mahoroba MAHO-PBX NetDevancer cross-site request forgery](https://vuldb.com/?id.218489)|Visit link for details|2023-01-17 at 14:13|
- |[Mahoroba MAHO-PBX NetDevancer cross site scripting](https://vuldb.com/?id.218488)|Visit link for details|2023-01-17 at 14:13|
- |[Pixela PIX-RT100 Telnet/SSH backdoor](https://vuldb.com/?id.218487)|Visit link for details|2023-01-17 at 14:12|
- |[Pixela PIX-RT100 Setting os command injection](https://vuldb.com/?id.218486)|Visit link for details|2023-01-17 at 14:12|
- |[Mahoroba MAHO-PBX NetDevancer os command injection](https://vuldb.com/?id.218485)|Visit link for details|2023-01-17 at 14:11|
- |[TP-Link SG105PE improper authentication](https://vuldb.com/?id.218484)|Visit link for details|2023-01-17 at 14:09|
+ |[frioux ptome sql injection](https://vuldb.com/?id.218519)|Visit link for details|2023-01-17 at 21:03|
+ |[GE Digital Proficy Historian weak encoding for password](https://vuldb.com/?id.218518)|Visit link for details|2023-01-17 at 20:59|
+ |[GE Digital Proficy Historian access control](https://vuldb.com/?id.218517)|Visit link for details|2023-01-17 at 20:58|
+ |[GE Digital Proficy Historian access control](https://vuldb.com/?id.218516)|Visit link for details|2023-01-17 at 20:57|
+ |[GE Digital Proficy Historian unrestricted upload](https://vuldb.com/?id.218515)|Visit link for details|2023-01-17 at 20:57|
+ |[GE Digital Proficy Historian authentication bypass](https://vuldb.com/?id.218514)|Visit link for details|2023-01-17 at 20:56|
+ |[Mitsubishi Electric MELSEC iQ-F/MELSEC iQ-R Web Server prng seed](https://vuldb.com/?id.218513)|Visit link for details|2023-01-17 at 20:55|
+ |[WP VR Plugin Shortcode cross site scripting](https://vuldb.com/?id.218512)|Visit link for details|2023-01-17 at 20:49|
+ |[Html5 Audio Player Plugin Shortcode cross site scripting](https://vuldb.com/?id.218511)|Visit link for details|2023-01-17 at 20:49|
+ |[Leaflet Maps Marker Plugin Shortcode cross site scripting](https://vuldb.com/?id.218510)|Visit link for details|2023-01-17 at 20:49|
  
