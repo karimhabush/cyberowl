@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 17/01/2023 12:40:42 UTC
+ > Last Updated 17/01/2023 13:26:27 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -53,23 +53,6 @@
  |[Multiples vulnérabilités dans Microsoft Office](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0021/)|De multiples vulnérabilités ont été corrigées dans |Publié le 11 janvier 2023|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[39811701/23 - Vulnérabilité affectant Zoho ManageEngine Desktop Central](https://www.dgssi.gov.ma//fr/content/3981170123-vulnerabilite-affectant-zoho-manageengine-desktop-central.html)|Zoho annonce la correction d’une vulnérabilité critique affectant plusieurs produits de sa solution de centralisation degestion de parc «ManageEngine Desktop Central ».Un POC « Proof Of Concept » concernant...|17 janvier 2023|
- |[39801601/23 - Vulnérabilités affectantdes produits Juniper](https://www.dgssi.gov.ma//fr/content/3980160123-vulnerabilites-affectant-des-produits-juniper.html)|Juniper annonce la correction de plusieursvulnérabilités qui affectent certains de ses produits.Un attaquant distantpourrait exploiter ces failles afin d’exécuter du code arbitraire, injecter du contenu dans une page,...|17 janvier 2023|
- |[39791601/23 - Vulnérabilités critiques affectant trois plugins pour WordPress](https://www.dgssi.gov.ma//fr/content/3979160123-vulnerabilites-critiques-affectant-trois-plugins-pour-wordpress.html)|WordPressannonce la correction de troisvulnérabilités critique affectant ses Plugins susmentionnés. Ces vulnérabilités sont activement exploitées et peuvent permettre à un attaquant deprovoquer une injection SQL.|16 janvier 2023|
- |[39781601/23 - Vulnérabilités affectantle navigateur Microsoft Edge ](https://www.dgssi.gov.ma//fr/content/3978160123-vulnerabilites-affectant-le-navigateur-microsoft-edge.html)|Microsoft vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilités affectant le navigateur Microsoft Edge. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuter du code...|16 janvier 2023|
- |[39771301/23 - Tentatives d’exploitation d’une vulnérabilité critique affectantControl Web Panel (C](https://www.dgssi.gov.ma//fr/content/3977130123-tentatives-d-exploitation-d-une-vulnerabilite-critique-affectant-control-web-panel-cwp.html)|Une vulnérabilité critique a été corrigée au niveau du logiciel d’administration des serveurs Linux CentOS Control Web Panel (CWP). Cette vulnérabilité est activement exploitée et peut permettre à un attaquantd’élever ses privilèges ou d...|13 janvier 2023|
- |[39761301/23 - Vulnérabilités dans les produits Cisco](https://www.dgssi.gov.ma//fr/content/3976130123-vulnerabilites-dans-les-produits-cisco.html)|Plusieurs vulnérabilités ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir une élévation de privilèges, causer un déni de service,...|13 janvier 2023|
- |[39751301/23 - Vulnérabilité dans le CMS Drupal](https://www.dgssi.gov.ma//fr/content/3975130123-vulnerabilite-dans-le-cms-drupal.html)|Drupal a publié une mise à jour de sécurité pour corriger une vulnérabilité affectant les modules de vocabulaire privé pour Drupal 8.x. Un utilisateur non autorisé pourrait exploiter cette faille pour contourner les autorisations d'...|13 janvier 2023|
- |[39741301/23 - Vulnérabilités dans les produits Siemens](https://www.dgssi.gov.ma//fr/content/3974130123-vulnerabilites-dans-les-produits-siemens.html)|Plusieurs vulnérabilités ont été corrigées dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir une élévation de privilèges, causer un...|13 janvier 2023|
- |[39751201/23 - Vulnérabilité critique affectant le logiciel desurveillance réseau Cacti](https://www.dgssi.gov.ma//fr/content/3975120123-vulnerabilite-critique-affectant-le-logiciel-de-surveillance-reseau-cacti.html)|Des chercheurs en sécurité informatique annoncent la découverte d’une vulnérabilité critique affectant le logiciel de surveillance réseau Cacti.L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du...|12 janvier 2023|
- |[39741201/23 - Vulnérabilités dans Microsoft Exchange Server (Patch Tuesday Janvier 2023)](https://www.dgssi.gov.ma//fr/content/3974120123-vulnerabilites-dans-microsoft-exchange-server-patch-tuesday-janvier-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées de Microsoft Exchange Server. L’exploitation de ces failles peut permettre à un attaquant d’accéder à des informations confidentielles, d’...|12 janvier 2023|
- |[39731201/23 - Vulnérabilités dans plusieurs produits Microsoft(Patch Tuesday Janvier 2023)](https://www.dgssi.gov.ma//fr/content/3973120123-vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-janvier-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, d’exécuter du code...|12 janvier 2023|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -81,49 +64,6 @@
  |[Apache Superset open redirect (CVE-2022-43721)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2023|
  |[Apache Superset security bypass (CVE-2022-43720)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2023|
  |[Apache Superset cross-site request forgery (CVE-2022-43719)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2023|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ChromeOS Multiple Vulnerabilities](/security-bulletin/chromeos-multiple-vulnerabilities_20230116)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 16 Jan 2023|
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230110)|Multiple vulnerabilities have been identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. [Updated on 2023-01-11] ...| Release Date: 10 Jan 2023 |
- |[Cisco Products Multiple Vulnerabilities](/security-bulletin/cisco-products-multiple-vulnerabilities_20230113)|Multiple vulnerabilities were identified in Cisco Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, data manipulation, cross-site scripting and security restriction bypass on the targeted system.|Release Date: 13 Jan 2023|
- |[Microsoft Edge Multiple Vulnerabilities](/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230113)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, remote code execution, information disclosure and security restriction bypass on the targeted system. Note:Proof of Concept exploit code...|Release Date: 13 Jan 2023|
- |[Cisco End-of-Life Small Business Routers Multiple Vulnerabilities](/security-bulletin/cisco-end-of-life-small-business-routers-multiple-vulnerabilities_20230112)|Multiple vulnerabilities were identified in Cisco's End-of-Life Small Business Routers. A remote attacker could exploit some of these vulnerabilities to remote code execution and security restriction bypass on the targeted system. Note:Proof of Concept exploit code Is publicly available...|Release Date: 12 Jan 2023|
- |[Adobe Monthly Security Update (January 2023)](/security-bulletin/adobe-monthly-security-update-january-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Acrobat and Reader Medium RiskRemote Code ExecutionInformation DisclosureDenial of ServiceElevation of Privilege APSB23-...|Release Date: 11 Jan 2023|
- |[Google Chrome Multiple Vulnerabilities](/security-bulletin/google-chrome-multiple-vulnerabilities_20230111)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, information disclosure and security restriction bypass on the targeted system.|Release Date: 11 Jan 2023|
- |[Microsoft Monthly Security Update (January 2023)](/security-bulletin/microsoft-monthly-security-update-january-2023)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesWindows High RiskElevation of PrivilegeRemote Code ExecutionDenial of ServiceInformation DisclosureSecurity Restriction BypassCVE-2023-21674 is...|Release Date: 11 Jan 2023|
- |[Android Multiple Vulnerabilities](/security-bulletin/android-multiple-vulnerabilities_20230105)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, elevation of privilege and remote code execution on the targeted system.|Release Date: 5 Jan 2023|
- |[Debian Linux Kernel Multiple Vulnerabilities](/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20230103)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 3 Jan 2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-001: Zero-day and Critical Vulnerabilities in Microsoft Windows](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On January 10, 2023, on their first Patch Tuesday of 2023, Microsoft fixed an actively exploited zero-day Windows Advanced Local Procedure Call (ALPC) Elevation of Privilege Vulnerability and a total of 98 flaws. Eleven of them were classified as critical by Microsoft as they allow remote code execution, bypass security features, or elevate privileges. It is highly recommended applying the fixes as soon as possible.|Wednesday, January 11, 2023 05:50:00 PM CEST|
  
 
 # OBS-Vigilance
@@ -143,6 +83,55 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-attr-punch-hole-40279" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via attr_punch_hole()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-attr-punch-hole-40279)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via attr_punch_hole(), in order to trigger a denial of service...|Visit link for details|
  
 
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[39811701/23 - Vulnérabilité affectant Zoho ManageEngine Desktop Central](https://www.dgssi.gov.ma//fr/content/3981170123-vulnerabilite-affectant-zoho-manageengine-desktop-central.html)|Zoho annonce la correction d’une vulnérabilité critique affectant plusieurs produits de sa solution de centralisation degestion de parc «ManageEngine Desktop Central ».Un POC « Proof Of Concept » concernant...|17 janvier 2023|
+ |[39801601/23 - Vulnérabilités affectantdes produits Juniper](https://www.dgssi.gov.ma//fr/content/3980160123-vulnerabilites-affectant-des-produits-juniper.html)|Juniper annonce la correction de plusieursvulnérabilités qui affectent certains de ses produits.Un attaquant distantpourrait exploiter ces failles afin d’exécuter du code arbitraire, injecter du contenu dans une page,...|17 janvier 2023|
+ |[39791601/23 - Vulnérabilités critiques affectant trois plugins pour WordPress](https://www.dgssi.gov.ma//fr/content/3979160123-vulnerabilites-critiques-affectant-trois-plugins-pour-wordpress.html)|WordPressannonce la correction de troisvulnérabilités critique affectant ses Plugins susmentionnés. Ces vulnérabilités sont activement exploitées et peuvent permettre à un attaquant deprovoquer une injection SQL.|16 janvier 2023|
+ |[39781601/23 - Vulnérabilités affectantle navigateur Microsoft Edge ](https://www.dgssi.gov.ma//fr/content/3978160123-vulnerabilites-affectant-le-navigateur-microsoft-edge.html)|Microsoft vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilités affectant le navigateur Microsoft Edge. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuter du code...|16 janvier 2023|
+ |[39771301/23 - Tentatives d’exploitation d’une vulnérabilité critique affectantControl Web Panel (C](https://www.dgssi.gov.ma//fr/content/3977130123-tentatives-d-exploitation-d-une-vulnerabilite-critique-affectant-control-web-panel-cwp.html)|Une vulnérabilité critique a été corrigée au niveau du logiciel d’administration des serveurs Linux CentOS Control Web Panel (CWP). Cette vulnérabilité est activement exploitée et peut permettre à un attaquantd’élever ses privilèges ou d...|13 janvier 2023|
+ |[39761301/23 - Vulnérabilités dans les produits Cisco](https://www.dgssi.gov.ma//fr/content/3976130123-vulnerabilites-dans-les-produits-cisco.html)|Plusieurs vulnérabilités ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir une élévation de privilèges, causer un déni de service,...|13 janvier 2023|
+ |[39751301/23 - Vulnérabilité dans le CMS Drupal](https://www.dgssi.gov.ma//fr/content/3975130123-vulnerabilite-dans-le-cms-drupal.html)|Drupal a publié une mise à jour de sécurité pour corriger une vulnérabilité affectant les modules de vocabulaire privé pour Drupal 8.x. Un utilisateur non autorisé pourrait exploiter cette faille pour contourner les autorisations d'...|13 janvier 2023|
+ |[39741301/23 - Vulnérabilités dans les produits Siemens](https://www.dgssi.gov.ma//fr/content/3974130123-vulnerabilites-dans-les-produits-siemens.html)|Plusieurs vulnérabilités ont été corrigées dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir une élévation de privilèges, causer un...|13 janvier 2023|
+ |[39751201/23 - Vulnérabilité critique affectant le logiciel desurveillance réseau Cacti](https://www.dgssi.gov.ma//fr/content/3975120123-vulnerabilite-critique-affectant-le-logiciel-de-surveillance-reseau-cacti.html)|Des chercheurs en sécurité informatique annoncent la découverte d’une vulnérabilité critique affectant le logiciel de surveillance réseau Cacti.L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du...|12 janvier 2023|
+ |[39741201/23 - Vulnérabilités dans Microsoft Exchange Server (Patch Tuesday Janvier 2023)](https://www.dgssi.gov.ma//fr/content/3974120123-vulnerabilites-dans-microsoft-exchange-server-patch-tuesday-janvier-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées de Microsoft Exchange Server. L’exploitation de ces failles peut permettre à un attaquant d’accéder à des informations confidentielles, d’...|12 janvier 2023|
+ |[39731201/23 - Vulnérabilités dans plusieurs produits Microsoft(Patch Tuesday Janvier 2023)](https://www.dgssi.gov.ma//fr/content/3973120123-vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-janvier-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, d’exécuter du code...|12 janvier 2023|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Mahoroba MAHO-PBX NetDevancer cross-site request forgery](https://vuldb.com/?id.218489)|Visit link for details|2023-01-17 at 14:13|
+ |[Mahoroba MAHO-PBX NetDevancer cross site scripting](https://vuldb.com/?id.218488)|Visit link for details|2023-01-17 at 14:13|
+ |[Pixela PIX-RT100 Telnet/SSH backdoor](https://vuldb.com/?id.218487)|Visit link for details|2023-01-17 at 14:12|
+ |[Pixela PIX-RT100 Setting os command injection](https://vuldb.com/?id.218486)|Visit link for details|2023-01-17 at 14:12|
+ |[Mahoroba MAHO-PBX NetDevancer os command injection](https://vuldb.com/?id.218485)|Visit link for details|2023-01-17 at 14:11|
+ |[TP-Link SG105PE improper authentication](https://vuldb.com/?id.218484)|Visit link for details|2023-01-17 at 14:09|
+ |[pgAdmin URL redirect](https://vuldb.com/?id.218483)|Visit link for details|2023-01-17 at 14:09|
+ |[Mahoroba MAHO-PBX NetDevancer os command injection](https://vuldb.com/?id.218482)|Visit link for details|2023-01-17 at 14:08|
+ |[Digital Arts m-FILTER improper authentication](https://vuldb.com/?id.218481)|Visit link for details|2023-01-17 at 13:51|
+ |[Omron CX-Motion-MCH Project File uninitialized pointer](https://vuldb.com/?id.218480)|Visit link for details|2023-01-17 at 13:50|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ChromeOS Multiple Vulnerabilities](/security-bulletin/chromeos-multiple-vulnerabilities_20230116)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 16 Jan 2023|
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230110)|Multiple vulnerabilities have been identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. [Updated on 2023-01-11] ...| Release Date: 10 Jan 2023 |
+ |[Cisco Products Multiple Vulnerabilities](/security-bulletin/cisco-products-multiple-vulnerabilities_20230113)|Multiple vulnerabilities were identified in Cisco Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, data manipulation, cross-site scripting and security restriction bypass on the targeted system.|Release Date: 13 Jan 2023|
+ |[Microsoft Edge Multiple Vulnerabilities](/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230113)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, remote code execution, information disclosure and security restriction bypass on the targeted system. Note:Proof of Concept exploit code...|Release Date: 13 Jan 2023|
+ |[Cisco End-of-Life Small Business Routers Multiple Vulnerabilities](/security-bulletin/cisco-end-of-life-small-business-routers-multiple-vulnerabilities_20230112)|Multiple vulnerabilities were identified in Cisco's End-of-Life Small Business Routers. A remote attacker could exploit some of these vulnerabilities to remote code execution and security restriction bypass on the targeted system. Note:Proof of Concept exploit code Is publicly available...|Release Date: 12 Jan 2023|
+ |[Adobe Monthly Security Update (January 2023)](/security-bulletin/adobe-monthly-security-update-january-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Acrobat and Reader Medium RiskRemote Code ExecutionInformation DisclosureDenial of ServiceElevation of Privilege APSB23-...|Release Date: 11 Jan 2023|
+ |[Google Chrome Multiple Vulnerabilities](/security-bulletin/google-chrome-multiple-vulnerabilities_20230111)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, information disclosure and security restriction bypass on the targeted system.|Release Date: 11 Jan 2023|
+ |[Microsoft Monthly Security Update (January 2023)](/security-bulletin/microsoft-monthly-security-update-january-2023)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesWindows High RiskElevation of PrivilegeRemote Code ExecutionDenial of ServiceInformation DisclosureSecurity Restriction BypassCVE-2023-21674 is...|Release Date: 11 Jan 2023|
+ |[Android Multiple Vulnerabilities](/security-bulletin/android-multiple-vulnerabilities_20230105)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, elevation of privilege and remote code execution on the targeted system.|Release Date: 5 Jan 2023|
+ |[Debian Linux Kernel Multiple Vulnerabilities](/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20230103)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 3 Jan 2023|
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
@@ -158,4 +147,25 @@
  |[[Control systems] Sewio security advisory (AV23-024)](https://cyber.gc.ca/en/alerts-advisories/control-systems-sewio-security-advisory-av23-024)|Visit link for details|2023-01-12|
  |[[Control systems] Panasonic security advisory (AV23-023)](https://cyber.gc.ca/en/alerts-advisories/control-systems-panasonic-security-advisory-av23-023)|Visit link for details|2023-01-12|
  |[[Control systems] Johnson Controls security advisory (AV23-022)](https://cyber.gc.ca/en/alerts-advisories/control-systems-johnson-controls-security-advisory-av23-022)|Visit link for details|2023-01-12|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-001: Zero-day and Critical Vulnerabilities in Microsoft Windows](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On January 10, 2023, on their first Patch Tuesday of 2023, Microsoft fixed an actively exploited zero-day Windows Advanced Local Procedure Call (ALPC) Elevation of Privilege Vulnerability and a total of 98 flaws. Eleven of them were classified as critical by Microsoft as they allow remote code execution, bypass security features, or elevate privileges. It is highly recommended applying the fixes as soon as possible.|Wednesday, January 11, 2023 05:50:00 PM CEST|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
