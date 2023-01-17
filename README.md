@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 17/01/2023 17:18:35 UTC
+ > Last Updated 17/01/2023 18:24:38 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,12 +29,12 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/17/cisa-releases-four-industrial-control-systems-advisories)|<p>CISA released four Industrial Control Systems (ICS) advisories on January 17, 2023. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. </p>|Tuesday, January 17, 2023|
  |[Juniper Networks Releases Security Updates for Multiple Products](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/12/juniper-networks-releases-security-updates-multiple-products)|<p>Juniper Networks has released security updates to address vulnerabilities affecting multiple products. An attacker could exploit some of these vulnerabilities to take control of an affected system. </p>|Thursday, January 12, 2023|
  |[Drupal Releases Security Update to Address Vulnerability in Private Taxonomy Terms](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/12/drupal-releases-security-update-address-vulnerability-private)|<p>Drupal has released a security update to address a vulnerability affecting private vocabulary modules for Drupal 8.x. An unauthorized user could exploit this vulnerability to bypass access permissions to create, modify, and delete private vocabulary terms.</p>|Thursday, January 12, 2023|
  |[CISA Releases Twelve Industrial Control Systems Advisories](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/12/cisa-releases-twelve-industrial-control-systems-advisories)|<p>CISA released twelve Industrial Control Systems (ICS) advisories on January 12, 2023. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. </p>|Thursday, January 12, 2023|
  |[NCSC-UK Releases Guidance on Using MSP for Administering Cloud Services](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/11/ncsc-uk-releases-guidance-using-msp-administering-cloud-services)|<p>The United Kingdom’s National Cyber Security Centre (NCSC-UK) has released a blog post, <a href="https://www.ncsc.gov.uk/blog-post/using-msps-to-administer-your-cloud-services">Using MSPs to administer your cloud services</a>, that provides organizations security considerations for using a third party, such as a managed service provider (MSP), to administer cloud services. Contracting with an MSP for cloud service management has become an increasingly appealing option for organizations.</p>|Wednesday, January 11, 2023|
  |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/10/adobe-releases-security-updates-multiple-products)|<p>Adobe has released security updates to address multiple vulnerabilities in Adobe software. An attacker could exploit some of these vulnerabilities to take control of an affected system.</p>|Tuesday, January 10, 2023|
- |[Microsoft Releases January 2023 Security Updates](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/10/microsoft-releases-january-2023-security-updates)|<p>Microsoft has released updates to address multiple vulnerabilities in Microsoft software. An attacker could exploit some of these vulnerabilities to take control of an affected system.</p>|Tuesday, January 10, 2023|
  
 
 # CERT-FR
@@ -51,6 +51,35 @@
  |[Vulnérabilité dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0024/)|Une vulnérabilité a été corrigée dans |Publié le 11 janvier 2023|
  |[Vulnérabilité dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0023/)|Une vulnérabilité a été corrigée dans |Publié le 11 janvier 2023|
  |[Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0022/)|De multiples vulnérabilités ont été corrigées dans |Publié le 11 janvier 2023|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiple ManageEngine products code execution (CVE-2022-47966)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2023|
+ |[Linaro Trusted Firmware-A information disclosure (CVE-2022-47630)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2023|
+ |[Apache Superset SQL injection (CVE-2022-41703)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2023|
+ |[Apache Superset information disclosure (CVE-2022-45438)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2023|
+ |[Apache Superset open redirect (CVE-2022-43721)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2023|
+ |[Apache Superset security bypass (CVE-2022-43720)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2023|
+ |[Apache Superset cross-site request forgery (CVE-2022-43719)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2023|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ChromeOS Multiple Vulnerabilities](/security-bulletin/chromeos-multiple-vulnerabilities_20230116)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 16 Jan 2023|
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230110)|Multiple vulnerabilities have been identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. [Updated on 2023-01-11] ...| Release Date: 10 Jan 2023 |
+ |[Cisco Products Multiple Vulnerabilities](/security-bulletin/cisco-products-multiple-vulnerabilities_20230113)|Multiple vulnerabilities were identified in Cisco Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, data manipulation, cross-site scripting and security restriction bypass on the targeted system.|Release Date: 13 Jan 2023|
+ |[Microsoft Edge Multiple Vulnerabilities](/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230113)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, remote code execution, information disclosure and security restriction bypass on the targeted system. Note:Proof of Concept exploit code...|Release Date: 13 Jan 2023|
+ |[Cisco End-of-Life Small Business Routers Multiple Vulnerabilities](/security-bulletin/cisco-end-of-life-small-business-routers-multiple-vulnerabilities_20230112)|Multiple vulnerabilities were identified in Cisco's End-of-Life Small Business Routers. A remote attacker could exploit some of these vulnerabilities to remote code execution and security restriction bypass on the targeted system. Note:Proof of Concept exploit code Is publicly available...|Release Date: 12 Jan 2023|
+ |[Adobe Monthly Security Update (January 2023)](/security-bulletin/adobe-monthly-security-update-january-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Acrobat and Reader Medium RiskRemote Code ExecutionInformation DisclosureDenial of ServiceElevation of Privilege APSB23-...|Release Date: 11 Jan 2023|
+ |[Google Chrome Multiple Vulnerabilities](/security-bulletin/google-chrome-multiple-vulnerabilities_20230111)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, information disclosure and security restriction bypass on the targeted system.|Release Date: 11 Jan 2023|
+ |[Microsoft Monthly Security Update (January 2023)](/security-bulletin/microsoft-monthly-security-update-january-2023)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesWindows High RiskElevation of PrivilegeRemote Code ExecutionDenial of ServiceInformation DisclosureSecurity Restriction BypassCVE-2023-21674 is...|Release Date: 11 Jan 2023|
+ |[Android Multiple Vulnerabilities](/security-bulletin/android-multiple-vulnerabilities_20230105)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, elevation of privilege and remote code execution on the targeted system.|Release Date: 5 Jan 2023|
+ |[Debian Linux Kernel Multiple Vulnerabilities](/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20230103)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 3 Jan 2023|
  
 
 # MA-CERT
@@ -70,19 +99,6 @@
  |[39731201/23 - Vulnérabilités dans plusieurs produits Microsoft(Patch Tuesday Janvier 2023)](https://www.dgssi.gov.ma//fr/content/3973120123-vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-janvier-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, d’exécuter du code...|12 janvier 2023|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiple ManageEngine products code execution (CVE-2022-47966)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2023|
- |[Linaro Trusted Firmware-A information disclosure (CVE-2022-47630)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2023|
- |[Apache Superset SQL injection (CVE-2022-41703)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2023|
- |[Apache Superset information disclosure (CVE-2022-45438)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2023|
- |[Apache Superset open redirect (CVE-2022-43721)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2023|
- |[Apache Superset security bypass (CVE-2022-43720)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2023|
- |[Apache Superset cross-site request forgery (CVE-2022-43719)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 16, 2023|
- 
-
 # VulDB
 
  |Title|Description|Date|
@@ -97,39 +113,6 @@
  |[Pixela PIX-RT100 Setting os command injection](https://vuldb.com/?id.218486)|Visit link for details|2023-01-17 at 14:12|
  |[Mahoroba MAHO-PBX NetDevancer os command injection](https://vuldb.com/?id.218485)|Visit link for details|2023-01-17 at 14:11|
  |[TP-Link SG105PE improper authentication](https://vuldb.com/?id.218484)|Visit link for details|2023-01-17 at 14:09|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ChromeOS Multiple Vulnerabilities](/security-bulletin/chromeos-multiple-vulnerabilities_20230116)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 16 Jan 2023|
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230110)|Multiple vulnerabilities have been identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. [Updated on 2023-01-11] ...| Release Date: 10 Jan 2023 |
- |[Cisco Products Multiple Vulnerabilities](/security-bulletin/cisco-products-multiple-vulnerabilities_20230113)|Multiple vulnerabilities were identified in Cisco Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, data manipulation, cross-site scripting and security restriction bypass on the targeted system.|Release Date: 13 Jan 2023|
- |[Microsoft Edge Multiple Vulnerabilities](/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230113)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, remote code execution, information disclosure and security restriction bypass on the targeted system. Note:Proof of Concept exploit code...|Release Date: 13 Jan 2023|
- |[Cisco End-of-Life Small Business Routers Multiple Vulnerabilities](/security-bulletin/cisco-end-of-life-small-business-routers-multiple-vulnerabilities_20230112)|Multiple vulnerabilities were identified in Cisco's End-of-Life Small Business Routers. A remote attacker could exploit some of these vulnerabilities to remote code execution and security restriction bypass on the targeted system. Note:Proof of Concept exploit code Is publicly available...|Release Date: 12 Jan 2023|
- |[Adobe Monthly Security Update (January 2023)](/security-bulletin/adobe-monthly-security-update-january-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Acrobat and Reader Medium RiskRemote Code ExecutionInformation DisclosureDenial of ServiceElevation of Privilege APSB23-...|Release Date: 11 Jan 2023|
- |[Google Chrome Multiple Vulnerabilities](/security-bulletin/google-chrome-multiple-vulnerabilities_20230111)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, information disclosure and security restriction bypass on the targeted system.|Release Date: 11 Jan 2023|
- |[Microsoft Monthly Security Update (January 2023)](/security-bulletin/microsoft-monthly-security-update-january-2023)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesWindows High RiskElevation of PrivilegeRemote Code ExecutionDenial of ServiceInformation DisclosureSecurity Restriction BypassCVE-2023-21674 is...|Release Date: 11 Jan 2023|
- |[Android Multiple Vulnerabilities](/security-bulletin/android-multiple-vulnerabilities_20230105)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, elevation of privilege and remote code execution on the targeted system.|Release Date: 5 Jan 2023|
- |[Debian Linux Kernel Multiple Vulnerabilities](/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20230103)|Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 3 Jan 2023|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Ubuntu security advisory (AV23-032)](https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-032)|Visit link for details|2023-01-16|
- |[IBM security advisory (AV23-031)](https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-031)|Visit link for details|2023-01-16|
- |[Dell security advisory (AV23-030)](https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-030)|Visit link for details|2023-01-16|
- |[[Control systems] Hitachi Energy security advisory (AV23-029)](https://cyber.gc.ca/en/alerts-advisories/control-systems-hitachi-energy-security-advisory-av23-029)|Visit link for details|2023-01-16|
- |[Red Hat security advisory (AV23-028)](https://cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av23-028)|Visit link for details|2023-01-13|
- |[Microsoft Edge security advisory (AV23-027)](https://cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-027)|Visit link for details|2023-01-13|
- |[[Control systems] RONDS security advisory (AV23-026)](https://cyber.gc.ca/en/alerts-advisories/control-systems-ronds-security-advisory-av23-026)|Visit link for details|2023-01-12|
- |[[Control systems] SAUTER Controls security advisory (AV23-025)](https://cyber.gc.ca/en/alerts-advisories/control-systems-sauter-controls-security-advisory-av23-025)|Visit link for details|2023-01-12|
- |[[Control systems] Sewio security advisory (AV23-024)](https://cyber.gc.ca/en/alerts-advisories/control-systems-sewio-security-advisory-av23-024)|Visit link for details|2023-01-12|
- |[[Control systems] Panasonic security advisory (AV23-023)](https://cyber.gc.ca/en/alerts-advisories/control-systems-panasonic-security-advisory-av23-023)|Visit link for details|2023-01-12|
- |[[Control systems] Johnson Controls security advisory (AV23-022)](https://cyber.gc.ca/en/alerts-advisories/control-systems-johnson-controls-security-advisory-av23-022)|Visit link for details|2023-01-12|
  
 
 # OBS-Vigilance
@@ -149,11 +132,21 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-rndis-query-oid-40280" class="noirorange"><b>Linux kernel</b>: buffer overflow via rndis_query_oid()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-rndis-query-oid-40280)|An attacker can trigger a buffer overflow of the Linux kernel, via rndis_query_oid(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
 
-# EU-CERT
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[2023-001: Zero-day and Critical Vulnerabilities in Microsoft Windows](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On January 10, 2023, on their first Patch Tuesday of 2023, Microsoft fixed an actively exploited zero-day Windows Advanced Local Procedure Call (ALPC) Elevation of Privilege Vulnerability and a total of 98 flaws. Eleven of them were classified as critical by Microsoft as they allow remote code execution, bypass security features, or elevate privileges. It is highly recommended applying the fixes as soon as possible.|Wednesday, January 11, 2023 05:50:00 PM CEST|
+ |[Ubuntu security advisory (AV23-032)](https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-032)|Visit link for details|2023-01-16|
+ |[IBM security advisory (AV23-031)](https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-031)|Visit link for details|2023-01-16|
+ |[Dell security advisory (AV23-030)](https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-030)|Visit link for details|2023-01-16|
+ |[[Control systems] Hitachi Energy security advisory (AV23-029)](https://cyber.gc.ca/en/alerts-advisories/control-systems-hitachi-energy-security-advisory-av23-029)|Visit link for details|2023-01-16|
+ |[Red Hat security advisory (AV23-028)](https://cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av23-028)|Visit link for details|2023-01-13|
+ |[Microsoft Edge security advisory (AV23-027)](https://cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-027)|Visit link for details|2023-01-13|
+ |[[Control systems] RONDS security advisory (AV23-026)](https://cyber.gc.ca/en/alerts-advisories/control-systems-ronds-security-advisory-av23-026)|Visit link for details|2023-01-12|
+ |[[Control systems] SAUTER Controls security advisory (AV23-025)](https://cyber.gc.ca/en/alerts-advisories/control-systems-sauter-controls-security-advisory-av23-025)|Visit link for details|2023-01-12|
+ |[[Control systems] Sewio security advisory (AV23-024)](https://cyber.gc.ca/en/alerts-advisories/control-systems-sewio-security-advisory-av23-024)|Visit link for details|2023-01-12|
+ |[[Control systems] Panasonic security advisory (AV23-023)](https://cyber.gc.ca/en/alerts-advisories/control-systems-panasonic-security-advisory-av23-023)|Visit link for details|2023-01-12|
+ |[[Control systems] Johnson Controls security advisory (AV23-022)](https://cyber.gc.ca/en/alerts-advisories/control-systems-johnson-controls-security-advisory-av23-022)|Visit link for details|2023-01-12|
  
 
 # ZERODAYINITIATIVE
@@ -168,4 +161,11 @@
  |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
  |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
  |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-001: Zero-day and Critical Vulnerabilities in Microsoft Windows](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On January 10, 2023, on their first Patch Tuesday of 2023, Microsoft fixed an actively exploited zero-day Windows Advanced Local Procedure Call (ALPC) Elevation of Privilege Vulnerability and a total of 98 flaws. Eleven of them were classified as critical by Microsoft as they allow remote code execution, bypass security features, or elevate privileges. It is highly recommended applying the fixes as soon as possible.|Wednesday, January 11, 2023 05:50:00 PM CEST|
  
