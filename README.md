@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 18/01/2023 15:22:30 UTC
+ > Last Updated 18/01/2023 16:28:24 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,12 +29,12 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Mozilla Releases Security Updates for Firefox](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/18/mozilla-releases-security-updates-firefox)|<p>Mozilla has released security updates to address vulnerabilities in Firefox ESR and Firefox. An attacker could exploit some of these vulnerabilities to take control of an affected system.</p>|Wednesday, January 18, 2023|
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/17/cisa-adds-one-known-exploited-vulnerability-catalog)|<p>CISA has added one new vulnerability to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. This type of vulnerability is a frequent attack vector for malicious cyber actors and poses a significant risk to the federal enterprise. Note: To view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.</p>|Tuesday, January 17, 2023|
  |[CISA Updates Best Practices for Mapping to MITRE ATT&CK®](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/17/cisa-updates-best-practices-mapping-mitre-attckr)|<p>Today, CISA updated <a href="https://www.cisa.gov/uscert/best-practices-mitre-attckr-mapping">Best Practices for MITRE ATT&amp;CK® Mapping</a>.</p>|Tuesday, January 17, 2023|
  |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/17/cisa-releases-four-industrial-control-systems-advisories)|<p>CISA released four Industrial Control Systems (ICS) advisories on January 17, 2023. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. </p>|Tuesday, January 17, 2023|
  |[Juniper Networks Releases Security Updates for Multiple Products](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/12/juniper-networks-releases-security-updates-multiple-products)|<p>Juniper Networks has released security updates to address vulnerabilities affecting multiple products. An attacker could exploit some of these vulnerabilities to take control of an affected system. </p>|Thursday, January 12, 2023|
  |[Drupal Releases Security Update to Address Vulnerability in Private Taxonomy Terms](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/12/drupal-releases-security-update-address-vulnerability-private)|<p>Drupal has released a security update to address a vulnerability affecting private vocabulary modules for Drupal 8.x. An unauthorized user could exploit this vulnerability to bypass access permissions to create, modify, and delete private vocabulary terms.</p>|Thursday, January 12, 2023|
- |[CISA Releases Twelve Industrial Control Systems Advisories](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/12/cisa-releases-twelve-industrial-control-systems-advisories)|<p>CISA released twelve Industrial Control Systems (ICS) advisories on January 12, 2023. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. </p>|Thursday, January 12, 2023|
  
 
 # CERT-FR
@@ -70,23 +70,27 @@
  |[39741201/23 - Vulnérabilités dans Microsoft Exchange Server (Patch Tuesday Janvier 2023)](https://www.dgssi.gov.ma//fr/content/3974120123-vulnerabilites-dans-microsoft-exchange-server-patch-tuesday-janvier-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées de Microsoft Exchange Server. L’exploitation de ces failles peut permettre à un attaquant d’accéder à des informations confidentielles, d’...|12 janvier 2023|
  
 
-# IBM-X-FORCE-EXCHANGE
+# VulDB
 
  |Title|Description|Date|
  |---|---|---|
- |[Food Ordering Management System SQL injection (CVE-2023-0332)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
- |[libXpm code execution (CVE-2022-4883)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
- |[libXpm denial of service (CVE-2022-44617)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
- |[libXpm denial of service (CVE-2022-46285)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
- |[Mitsubishi Electric MELSEC iQ-F, iQ-R Series security bypass (CVE-2022-40267)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
- |[Git integer overflow (CVE-2022-23521)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
- |[Git integer overflow (CVE-2022-41903)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
+ |[OKER G955V1 Boot Sequence os command injection](https://vuldb.com/?id.218915)|Visit link for details|2023-01-18 at 16:36|
+ |[BlogEngine.NET unknown vulnerability](https://vuldb.com/?id.218914)|Visit link for details|2023-01-18 at 16:35|
+ |[Plex Media server Plex Service denial of service](https://vuldb.com/?id.218913)|Visit link for details|2023-01-18 at 16:34|
+ |[Ruckus Wireless SmartZone Controller eAut Module denial of service](https://vuldb.com/?id.218912)|Visit link for details|2023-01-18 at 16:34|
+ |[Anant Labs google-enterprise-connector-dctm sql injection](https://vuldb.com/?id.218911)|Visit link for details|2023-01-18 at 15:44|
+ |[Trellix Skyhigh SWG URL cross site scripting](https://vuldb.com/?id.218910)|Visit link for details|2023-01-18 at 15:21|
+ |[Dell Command Configure permission](https://vuldb.com/?id.218909)|Visit link for details|2023-01-18 at 15:12|
+ |[Dell Alienware m17 R5 BIOS SMRAM buffer overflow](https://vuldb.com/?id.218908)|Visit link for details|2023-01-18 at 15:11|
+ |[Dell iDRAC8 Racadm input validation](https://vuldb.com/?id.218907)|Visit link for details|2023-01-18 at 15:10|
+ |[Dell iDRAC9 Racadm input validation](https://vuldb.com/?id.218906)|Visit link for details|2023-01-18 at 15:10|
  
 
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Sudo-file-read-write-via-Sudoedit-Double-Dash-40310" class="noirorange"><b>Sudo</b>: file read/write via Sudoedit Double Dash</a>](https://vigilance.fr/vulnerability/Sudo-file-read-write-via-Sudoedit-Double-Dash-40310)|An attacker can bypass access restrictions of Sudo, via Sudoedit Double Dash, in order to read or alter files...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/AIX-buffer-overflow-via-X11-40309" class="noirorange"><b>AIX</b>: buffer overflow via X11</a>](https://vigilance.fr/vulnerability/AIX-buffer-overflow-via-X11-40309)|An attacker can trigger a buffer overflow of AIX, via X11, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Skyhigh-Secure-Web-Gateway-Cross-Site-Scripting-40308" class="noirorange"><b>Skyhigh Secure Web Gateway</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Skyhigh-Secure-Web-Gateway-Cross-Site-Scripting-40308)|An attacker can trigger a Cross Site Scripting of Skyhigh Secure Web Gateway, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-net-sched-sch-api-c-40307" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via net/sched/sch_api.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-net-sched-sch-api-c-40307)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
@@ -97,7 +101,19 @@
  |[<a href="https://vigilance.fr/vulnerability/Zypper-Appdata-code-execution-40301" class="noirorange"><b>Zypper Appdata</b>: code execution</a>](https://vigilance.fr/vulnerability/Zypper-Appdata-code-execution-40301)|An attacker can use a vulnerability of Zypper Appdata, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Oracle-Java-OpenJDK-vulnerabilities-of-January-2023-40300" class="noirorange"><b>Oracle Java  OpenJDK</b>: vulnerabilities of January 2023</a>](https://vigilance.fr/vulnerability/Oracle-Java-OpenJDK-vulnerabilities-of-January-2023-40300)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Oracle-MySQL-vulnerabilities-of-January-2023-40299" class="noirorange"><b>Oracle MySQL</b>: vulnerabilities of January 2023</a>](https://vigilance.fr/vulnerability/Oracle-MySQL-vulnerabilities-of-January-2023-40299)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Oracle-VM-VirtualBox-vulnerabilities-of-January-2023-40298" class="noirorange"><b>Oracle VM VirtualBox</b>: vulnerabilities of January 2023</a>](https://vigilance.fr/vulnerability/Oracle-VM-VirtualBox-vulnerabilities-of-January-2023-40298)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Food Ordering Management System SQL injection (CVE-2023-0332)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
+ |[Oracle Database Server Oracle Data Provider for .NET privilege escalation (CVE-2023-21893)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
+ |[libXpm code execution (CVE-2022-4883)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
+ |[libXpm denial of service (CVE-2022-44617)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
+ |[libXpm denial of service (CVE-2022-46285)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
+ |[Mitsubishi Electric MELSEC iQ-F, iQ-R Series security bypass (CVE-2022-40267)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
+ |[Git integer overflow (CVE-2022-23521)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
  
 
 # HK-CERT
@@ -114,22 +130,6 @@
  |[Google Chrome Multiple Vulnerabilities](/security-bulletin/google-chrome-multiple-vulnerabilities_20230111)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, information disclosure and security restriction bypass on the targeted system.|Release Date: 11 Jan 2023|
  |[Microsoft Monthly Security Update (January 2023)](/security-bulletin/microsoft-monthly-security-update-january-2023)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesWindows High RiskElevation of PrivilegeRemote Code ExecutionDenial of ServiceInformation DisclosureSecurity Restriction BypassCVE-2023-21674 is...|Release Date: 11 Jan 2023|
  |[Android Multiple Vulnerabilities](/security-bulletin/android-multiple-vulnerabilities_20230105)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, elevation of privilege and remote code execution on the targeted system.|Release Date: 5 Jan 2023|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- |[Anant Labs google-enterprise-connector-dctm sql injection](https://vuldb.com/?id.218911)|Visit link for details|2023-01-18 at 15:44|
- |[Trellix Skyhigh SWG URL cross site scripting](https://vuldb.com/?id.218910)|Visit link for details|2023-01-18 at 15:21|
- |[Dell Command Configure permission](https://vuldb.com/?id.218909)|Visit link for details|2023-01-18 at 15:12|
- |[Dell Alienware m17 R5 BIOS SMRAM buffer overflow](https://vuldb.com/?id.218908)|Visit link for details|2023-01-18 at 15:11|
- |[Dell iDRAC8 Racadm input validation](https://vuldb.com/?id.218907)|Visit link for details|2023-01-18 at 15:10|
- |[Dell iDRAC9 Racadm input validation](https://vuldb.com/?id.218906)|Visit link for details|2023-01-18 at 15:10|
- |[Dell BIOS SMRAM input validation](https://vuldb.com/?id.218905)|Visit link for details|2023-01-18 at 12:33|
- |[Dell BIOS SMRAM stack-based overflow](https://vuldb.com/?id.218904)|Visit link for details|2023-01-18 at 12:32|
- |[Dell BIOS SMRAM input validation](https://vuldb.com/?id.218903)|Visit link for details|2023-01-18 at 12:32|
- |[Dell BIOS SMRAM input validation](https://vuldb.com/?id.218902)|Visit link for details|2023-01-18 at 12:32|
  
 
 # ZERODAYINITIATIVE
