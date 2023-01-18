@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 18/01/2023 20:22:44 UTC
+ > Last Updated 18/01/2023 21:20:17 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -70,23 +70,50 @@
  |[39741201/23 - Vulnérabilités dans Microsoft Exchange Server (Patch Tuesday Janvier 2023)](https://www.dgssi.gov.ma//fr/content/3974120123-vulnerabilites-dans-microsoft-exchange-server-patch-tuesday-janvier-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées de Microsoft Exchange Server. L’exploitation de ces failles peut permettre à un attaquant d’accéder à des informations confidentielles, d’...|12 janvier 2023|
  
 
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[gitter-badger ezpublish-modern-legacy forgotpassword.php password recovery](https://vuldb.com/?id.218951)|Visit link for details|2023-01-18 at 21:51|
+ |[GlobalID Gem redos](https://vuldb.com/?id.218950)|Visit link for details|2023-01-18 at 21:49|
+ |[Rack Gem Multipart Parser denial of service](https://vuldb.com/?id.218949)|Visit link for details|2023-01-18 at 21:48|
+ |[Rack Gem Header Parser denial of service](https://vuldb.com/?id.218948)|Visit link for details|2023-01-18 at 21:48|
+ |[activerecord Gem ActiveRecord Comment sql injection](https://vuldb.com/?id.218947)|Visit link for details|2023-01-18 at 21:48|
+ |[actionpack Gem Action Dispatch redos](https://vuldb.com/?id.218946)|Visit link for details|2023-01-18 at 21:47|
+ |[actionpack Gem redirect](https://vuldb.com/?id.218945)|Visit link for details|2023-01-18 at 21:47|
+ |[activesupport Gem underscore redos](https://vuldb.com/?id.218944)|Visit link for details|2023-01-18 at 21:47|
+ |[actionpack Gem Action Dispatch redos](https://vuldb.com/?id.218943)|Visit link for details|2023-01-18 at 21:46|
+ |[activerecord Gem PostgreSQL Adapter denial of service](https://vuldb.com/?id.218942)|Visit link for details|2023-01-18 at 21:46|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
  |[Food Ordering Management System SQL injection (CVE-2023-0332)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
- |[Oracle VM VirtualBox privilege escalation (CVE-2023-21886)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
- |[Oracle Fusion Middleware Oracle Global Lifecycle Management NextGen OUI Framework privilege escalation](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
- |[Oracle VM VirtualBox information disclosure (CVE-2023-21889)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
- |[Oracle VM VirtualBox information disclosure (CVE-2023-21898)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
- |[Oracle VM VirtualBox denial of service (CVE-2023-21884)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
+ |[Oracle E-Business Suite security bypass (CVE-2023-21852)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
+ |[Oracle E-Business Suite security bypass (CVE-2023-21853)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
+ |[Oracle E-Business Suite security bypass (CVE-2023-21854)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
+ |[Oracle E-Business Suite security bypass (CVE-2023-21855)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
+ |[Oracle E-Business Suite security bypass (CVE-2023-21856)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
+ |[Oracle E-Business Suite security bypass (CVE-2023-21857)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
  
 
-# VulDB
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Tenable-Nessus-privilege-escalation-40318" class="noirorange"><b>Tenable Nessus</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Tenable-Nessus-privilege-escalation-40318)|An attacker can bypass restrictions of Tenable Nessus, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ISC-BIND-vulnerabity-unveiled-on-25-01-2023-40317" class="noirorange"><b>ISC BIND</b>: vulnerabity unveiled on 25/01/2023</a>](https://vigilance.fr/vulnerability/ISC-BIND-vulnerabity-unveiled-on-25-01-2023-40317)|A vulnerability of ISC BIND will be unveiled on 25/01/2023...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Media-Library-Form-API-Element-information-disclosure-40316" class="noirorange"><b>Drupal Media Library Form API Element</b>: information disclosure</a>](https://vigilance.fr/vulnerability/Drupal-Media-Library-Form-API-Element-information-disclosure-40316)|An attacker can bypass access restrictions to data of Drupal Media Library Form API Element, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Media-Library-Block-information-disclosure-40315" class="noirorange"><b>Drupal Media Library Block</b>: information disclosure</a>](https://vigilance.fr/vulnerability/Drupal-Media-Library-Block-information-disclosure-40315)|An attacker can bypass access restrictions to data of Drupal Media Library Block, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Entity-Browser-information-disclosure-via-Entity-Browser-40314" class="noirorange"><b>Drupal Entity Browser</b>: information disclosure via Entity Browser</a>](https://vigilance.fr/vulnerability/Drupal-Entity-Browser-information-disclosure-via-Entity-Browser-40314)|An attacker can bypass access restrictions to data of Drupal Entity Browser, via Entity Browser, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Core-write-access-via-Media-Library-Module-40313" class="noirorange"><b>Drupal Core</b>: write access via Media Library Module</a>](https://vigilance.fr/vulnerability/Drupal-Core-write-access-via-Media-Library-Module-40313)|An attacker can bypass access restrictions of Drupal Core, via Media Library Module, in order to alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-Unified-Communications-Manager-SQL-injection-40312" class="noirorange"><b>Cisco Unified Communications Manager</b>: SQL injection</a>](https://vigilance.fr/vulnerability/Cisco-Unified-Communications-Manager-SQL-injection-40312)|An attacker can use a SQL injection of Cisco Unified Communications Manager, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-Email-Security-Appliance-ingress-filtrering-bypass-via-URL-Filtering-40311" class="noirorange"><b>Cisco Email Security Appliance</b>: ingress filtrering bypass via URL Filtering</a>](https://vigilance.fr/vulnerability/Cisco-Email-Security-Appliance-ingress-filtrering-bypass-via-URL-Filtering-40311)|An attacker can bypass filtering rules of Cisco Email Security Appliance, via URL Filtering, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Sudo-file-read-write-via-Sudoedit-Double-Dash-40310" class="noirorange"><b>Sudo</b>: file read/write via Sudoedit Double Dash</a>](https://vigilance.fr/vulnerability/Sudo-file-read-write-via-Sudoedit-Double-Dash-40310)|An attacker can bypass access restrictions of Sudo, via Sudoedit Double Dash, in order to read or alter files...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/AIX-buffer-overflow-via-X11-40309" class="noirorange"><b>AIX</b>: buffer overflow via X11</a>](https://vigilance.fr/vulnerability/AIX-buffer-overflow-via-X11-40309)|An attacker can trigger a buffer overflow of AIX, via X11, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Skyhigh-Secure-Web-Gateway-Cross-Site-Scripting-40308" class="noirorange"><b>Skyhigh Secure Web Gateway</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Skyhigh-Secure-Web-Gateway-Cross-Site-Scripting-40308)|An attacker can trigger a Cross Site Scripting of Skyhigh Secure Web Gateway, in order to run JavaScript code in the context of the web site...|Visit link for details|
  
 
 # HK-CERT
@@ -105,41 +132,11 @@
  |[Android Multiple Vulnerabilities](/security-bulletin/android-multiple-vulnerabilities_20230105)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, elevation of privilege and remote code execution on the targeted system.|Release Date: 5 Jan 2023|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Unified-Communications-Manager-SQL-injection-40312" class="noirorange"><b>Cisco Unified Communications Manager</b>: SQL injection</a>](https://vigilance.fr/vulnerability/Cisco-Unified-Communications-Manager-SQL-injection-40312)|An attacker can use a SQL injection of Cisco Unified Communications Manager, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Email-Security-Appliance-ingress-filtrering-bypass-via-URL-Filtering-40311" class="noirorange"><b>Cisco Email Security Appliance</b>: ingress filtrering bypass via URL Filtering</a>](https://vigilance.fr/vulnerability/Cisco-Email-Security-Appliance-ingress-filtrering-bypass-via-URL-Filtering-40311)|An attacker can bypass filtering rules of Cisco Email Security Appliance, via URL Filtering, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Sudo-file-read-write-via-Sudoedit-Double-Dash-40310" class="noirorange"><b>Sudo</b>: file read/write via Sudoedit Double Dash</a>](https://vigilance.fr/vulnerability/Sudo-file-read-write-via-Sudoedit-Double-Dash-40310)|An attacker can bypass access restrictions of Sudo, via Sudoedit Double Dash, in order to read or alter files...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/AIX-buffer-overflow-via-X11-40309" class="noirorange"><b>AIX</b>: buffer overflow via X11</a>](https://vigilance.fr/vulnerability/AIX-buffer-overflow-via-X11-40309)|An attacker can trigger a buffer overflow of AIX, via X11, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Skyhigh-Secure-Web-Gateway-Cross-Site-Scripting-40308" class="noirorange"><b>Skyhigh Secure Web Gateway</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Skyhigh-Secure-Web-Gateway-Cross-Site-Scripting-40308)|An attacker can trigger a Cross Site Scripting of Skyhigh Secure Web Gateway, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-net-sched-sch-api-c-40307" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via net/sched/sch_api.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-net-sched-sch-api-c-40307)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-rawv6-push-pending-frames-40306" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via rawv6_push_pending_frames()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-rawv6-push-pending-frames-40306)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-HID-report-list-40305" class="noirorange"><b>Linux kernel</b>: memory corruption via HID report_list</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-HID-report-list-40305)|An attacker can trigger a memory corruption of the Linux kernel, via HID report_list, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Git-GitLab-two-vulnerabilities-40303" class="noirorange"><b>Git  GitLab</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Git-GitLab-two-vulnerabilities-40303)|An attacker can use several vulnerabilities of Git  GitLab...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libXpm-three-vulnerabilities-40302" class="noirorange"><b>libXpm</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/libXpm-three-vulnerabilities-40302)|An attacker can use several vulnerabilities of libXpm...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Zypper-Appdata-code-execution-40301" class="noirorange"><b>Zypper Appdata</b>: code execution</a>](https://vigilance.fr/vulnerability/Zypper-Appdata-code-execution-40301)|An attacker can use a vulnerability of Zypper Appdata, in order to run code...|Visit link for details|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
+ |[[Control systems] Mitsubishi Electric security advisory (AV23-034)](https://cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av23-034)|Visit link for details|2023-01-18|
  |[Mozilla security advisory (AV23-033)](https://cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av23-033)|Visit link for details|2023-01-18|
  |[Ubuntu security advisory (AV23-032)](https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-032)|Visit link for details|2023-01-16|
  |[IBM security advisory (AV23-031)](https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-031)|Visit link for details|2023-01-16|
@@ -150,7 +147,6 @@
  |[[Control systems] RONDS security advisory (AV23-026)](https://cyber.gc.ca/en/alerts-advisories/control-systems-ronds-security-advisory-av23-026)|Visit link for details|2023-01-12|
  |[[Control systems] SAUTER Controls security advisory (AV23-025)](https://cyber.gc.ca/en/alerts-advisories/control-systems-sauter-controls-security-advisory-av23-025)|Visit link for details|2023-01-12|
  |[[Control systems] Sewio security advisory (AV23-024)](https://cyber.gc.ca/en/alerts-advisories/control-systems-sewio-security-advisory-av23-024)|Visit link for details|2023-01-12|
- |[[Control systems] Panasonic security advisory (AV23-023)](https://cyber.gc.ca/en/alerts-advisories/control-systems-panasonic-security-advisory-av23-023)|Visit link for details|2023-01-12|
  
 
 # EU-CERT
@@ -158,4 +154,10 @@
  |Title|Description|Date|
  |---|---|---|
  |[2023-001: Zero-day and Critical Vulnerabilities in Microsoft Windows](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On January 10, 2023, on their first Patch Tuesday of 2023, Microsoft fixed an actively exploited zero-day Windows Advanced Local Procedure Call (ALPC) Elevation of Privilege Vulnerability and a total of 98 flaws. Eleven of them were classified as critical by Microsoft as they allow remote code execution, bypass security features, or elevate privileges. It is highly recommended applying the fixes as soon as possible.|Wednesday, January 11, 2023 05:50:00 PM CEST|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
  
