@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 18/01/2023 09:20:39 UTC
+ > Last Updated 18/01/2023 10:22:58 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -70,23 +70,6 @@
  |[39741201/23 - Vulnérabilités dans Microsoft Exchange Server (Patch Tuesday Janvier 2023)](https://www.dgssi.gov.ma//fr/content/3974120123-vulnerabilites-dans-microsoft-exchange-server-patch-tuesday-janvier-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées de Microsoft Exchange Server. L’exploitation de ces failles peut permettre à un attaquant d’accéder à des informations confidentielles, d’...|12 janvier 2023|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Apache-httpd-three-vulnerabilities-40293" class="noirorange"><b>Apache httpd</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Apache-httpd-three-vulnerabilities-40293)|An attacker can use several vulnerabilities of Apache httpd...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-multiple-vulnerabilities-40292" class="noirorange"><b>Mozilla Firefox</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-multiple-vulnerabilities-40292)|An attacker can use several vulnerabilities of Mozilla Firefox...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Tor-information-disclosure-via-SafeSocks-DNS-Leaks-40291" class="noirorange"><b>Tor</b>: information disclosure via SafeSocks DNS Leaks</a>](https://vigilance.fr/vulnerability/Tor-information-disclosure-via-SafeSocks-DNS-Leaks-40291)|An attacker can bypass access restrictions to data of Tor, via SafeSocks DNS Leaks, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PyPA-setuptools-overload-via-package-index-py-40288" class="noirorange"><b>PyPA setuptools</b>: overload via package_index.py</a>](https://vigilance.fr/vulnerability/PyPA-setuptools-overload-via-package-index-py-40288)|An attacker can trigger an overload of PyPA setuptools, via package_index.py, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-privilege-escalation-via-Key-Files-40287" class="noirorange"><b>IBM QRadar SIEM</b>: privilege escalation via Key Files</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-privilege-escalation-via-Key-Files-40287)|An attacker can bypass restrictions of IBM QRadar SIEM, via Key Files, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SPIP-two-vulnerabilities-40286" class="noirorange"><b>SPIP</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/SPIP-two-vulnerabilities-40286)|An attacker can use several vulnerabilities of SPIP...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Joomla-LDAP-Integration-with-Active-Directory-vulnerability-40285" class="noirorange"><b>Joomla LDAP Integration with Active Directory</b>: vulnerability</a>](https://vigilance.fr/vulnerability/Joomla-LDAP-Integration-with-Active-Directory-vulnerability-40285)|A vulnerability of Joomla LDAP Integration with Active Directory was announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-snd-ctl-elem-read-40284" class="noirorange"><b>Linux kernel</b>: reuse after free via snd_ctl_elem_read()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-snd-ctl-elem-read-40284)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/JPEGOPTIM-out-of-bounds-memory-reading-via-jpegoptim-c-40283" class="noirorange"><b>JPEGOPTIM</b>: out-of-bounds memory reading via jpegoptim.c</a>](https://vigilance.fr/vulnerability/JPEGOPTIM-out-of-bounds-memory-reading-via-jpegoptim-c-40283)|An attacker can force a read at an invalid memory address of JPEGOPTIM, via jpegoptim.c, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linaro-Automated-Validation-Architectu-overload-via-XMLRPC-Requests-XML-entity-expansion-40282" class="noirorange"><b>Linaro Automated Validation Architectu</b>: overload via XMLRPC Requests XML entity expansion</a>](https://vigilance.fr/vulnerability/Linaro-Automated-Validation-Architectu-overload-via-XMLRPC-Requests-XML-entity-expansion-40282)|An attacker can trigger an overload of Linaro Automated Validation Architectu, via XMLRPC Requests XML entity expansion, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-Netfilter-Subsystem-40281" class="noirorange"><b>Linux kernel</b>: buffer overflow via Netfilter Subsystem</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-Netfilter-Subsystem-40281)|An attacker can trigger a buffer overflow of the Linux kernel, via Netfilter Subsystem, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -116,6 +99,39 @@
  |[Android Multiple Vulnerabilities](/security-bulletin/android-multiple-vulnerabilities_20230105)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, elevation of privilege and remote code execution on the targeted system.|Release Date: 5 Jan 2023|
  
 
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[oktora24 2moons sql injection](https://vuldb.com/?id.218898)|Visit link for details|2023-01-18 at 11:17|
+ |[copperwall Twiddit index.php sql injection](https://vuldb.com/?id.218897)|Visit link for details|2023-01-18 at 11:09|
+ |[viakondratiuk cash-machine machine.py update_failed_attempts sql injection](https://vuldb.com/?id.218896)|Visit link for details|2023-01-18 at 08:48|
+ |[MyCMS Visitors Module view.php build_view cross site scripting](https://vuldb.com/?id.218895)|Visit link for details|2023-01-18 at 08:40|
+ |[bastianallgeier Kirby Webmentions Plugin injection](https://vuldb.com/?id.218894)|Visit link for details|2023-01-18 at 08:38|
+ |[Apache HTTP Server Header out-of-bounds write](https://vuldb.com/?id.218893)|Visit link for details|2023-01-18 at 08:36|
+ |[Lsoft LISTSERV Web Interface cross site scripting](https://vuldb.com/?id.218892)|Visit link for details|2023-01-18 at 08:35|
+ |[GE Digital Proficy Historian improper authentication](https://vuldb.com/?id.218891)|Visit link for details|2023-01-18 at 08:35|
+ |[Zoho ManageEngine Exchange Reporter Plus xml external entity reference](https://vuldb.com/?id.218890)|Visit link for details|2023-01-18 at 08:35|
+ |[GPAC use after free](https://vuldb.com/?id.218889)|Visit link for details|2023-01-18 at 08:34|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-Java-OpenJDK-vulnerabilities-of-January-2023-40300" class="noirorange"><b>Oracle Java  OpenJDK</b>: vulnerabilities of January 2023</a>](https://vigilance.fr/vulnerability/Oracle-Java-OpenJDK-vulnerabilities-of-January-2023-40300)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-MySQL-vulnerabilities-of-January-2023-40299" class="noirorange"><b>Oracle MySQL</b>: vulnerabilities of January 2023</a>](https://vigilance.fr/vulnerability/Oracle-MySQL-vulnerabilities-of-January-2023-40299)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-VM-VirtualBox-vulnerabilities-of-January-2023-40298" class="noirorange"><b>Oracle VM VirtualBox</b>: vulnerabilities of January 2023</a>](https://vigilance.fr/vulnerability/Oracle-VM-VirtualBox-vulnerabilities-of-January-2023-40298)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-Solaris-denial-of-service-via-NSSwitch-40297" class="noirorange"><b>Oracle Solaris</b>: denial of service via NSSwitch</a>](https://vigilance.fr/vulnerability/Oracle-Solaris-denial-of-service-via-NSSwitch-40297)|An attacker can cause a fatal error of Oracle Solaris, via NSSwitch, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-Fusion-Middleware-vulnerabilities-of-January-2023-40296" class="noirorange"><b>Oracle Fusion Middleware</b>: vulnerabilities of January 2023</a>](https://vigilance.fr/vulnerability/Oracle-Fusion-Middleware-vulnerabilities-of-January-2023-40296)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-Communications-vulnerabilities-of-January-2023-40295" class="noirorange"><b>Oracle Communications</b>: vulnerabilities of January 2023</a>](https://vigilance.fr/vulnerability/Oracle-Communications-vulnerabilities-of-January-2023-40295)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-Database-vulnerabilities-of-January-2023-40294" class="noirorange"><b>Oracle Database</b>: vulnerabilities of January 2023</a>](https://vigilance.fr/vulnerability/Oracle-Database-vulnerabilities-of-January-2023-40294)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-httpd-three-vulnerabilities-40293" class="noirorange"><b>Apache httpd</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Apache-httpd-three-vulnerabilities-40293)|An attacker can use several vulnerabilities of Apache httpd...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-multiple-vulnerabilities-40292" class="noirorange"><b>Mozilla Firefox</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-multiple-vulnerabilities-40292)|An attacker can use several vulnerabilities of Mozilla Firefox...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Tor-information-disclosure-via-SafeSocks-DNS-Leaks-40291" class="noirorange"><b>Tor</b>: information disclosure via SafeSocks DNS Leaks</a>](https://vigilance.fr/vulnerability/Tor-information-disclosure-via-SafeSocks-DNS-Leaks-40291)|An attacker can bypass access restrictions to data of Tor, via SafeSocks DNS Leaks, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PyPA-setuptools-overload-via-package-index-py-40288" class="noirorange"><b>PyPA setuptools</b>: overload via package_index.py</a>](https://vigilance.fr/vulnerability/PyPA-setuptools-overload-via-package-index-py-40288)|An attacker can trigger an overload of PyPA setuptools, via package_index.py, in order to trigger a denial of service...|Visit link for details|
+ 
+
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -128,6 +144,13 @@
  |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
  |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
  |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-001: Zero-day and Critical Vulnerabilities in Microsoft Windows](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On January 10, 2023, on their first Patch Tuesday of 2023, Microsoft fixed an actively exploited zero-day Windows Advanced Local Procedure Call (ALPC) Elevation of Privilege Vulnerability and a total of 98 flaws. Eleven of them were classified as critical by Microsoft as they allow remote code execution, bypass security features, or elevate privileges. It is highly recommended applying the fixes as soon as possible.|Wednesday, January 11, 2023 05:50:00 PM CEST|
  
 
 # CA-CCS
@@ -145,27 +168,4 @@
  |[[Control systems] Sewio security advisory (AV23-024)](https://cyber.gc.ca/en/alerts-advisories/control-systems-sewio-security-advisory-av23-024)|Visit link for details|2023-01-12|
  |[[Control systems] Panasonic security advisory (AV23-023)](https://cyber.gc.ca/en/alerts-advisories/control-systems-panasonic-security-advisory-av23-023)|Visit link for details|2023-01-12|
  |[[Control systems] Johnson Controls security advisory (AV23-022)](https://cyber.gc.ca/en/alerts-advisories/control-systems-johnson-controls-security-advisory-av23-022)|Visit link for details|2023-01-12|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-001: Zero-day and Critical Vulnerabilities in Microsoft Windows](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On January 10, 2023, on their first Patch Tuesday of 2023, Microsoft fixed an actively exploited zero-day Windows Advanced Local Procedure Call (ALPC) Elevation of Privilege Vulnerability and a total of 98 flaws. Eleven of them were classified as critical by Microsoft as they allow remote code execution, bypass security features, or elevate privileges. It is highly recommended applying the fixes as soon as possible.|Wednesday, January 11, 2023 05:50:00 PM CEST|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- |[viakondratiuk cash-machine machine.py update_failed_attempts sql injection](https://vuldb.com/?id.218896)|Visit link for details|2023-01-18 at 08:48|
- |[MyCMS Visitors Module view.php build_view cross site scripting](https://vuldb.com/?id.218895)|Visit link for details|2023-01-18 at 08:40|
- |[bastianallgeier Kirby Webmentions Plugin injection](https://vuldb.com/?id.218894)|Visit link for details|2023-01-18 at 08:38|
- |[Apache HTTP Server Header out-of-bounds write](https://vuldb.com/?id.218893)|Visit link for details|2023-01-18 at 08:36|
- |[Lsoft LISTSERV Web Interface cross site scripting](https://vuldb.com/?id.218892)|Visit link for details|2023-01-18 at 08:35|
- |[GE Digital Proficy Historian improper authentication](https://vuldb.com/?id.218891)|Visit link for details|2023-01-18 at 08:35|
- |[Zoho ManageEngine Exchange Reporter Plus xml external entity reference](https://vuldb.com/?id.218890)|Visit link for details|2023-01-18 at 08:35|
- |[GPAC use after free](https://vuldb.com/?id.218889)|Visit link for details|2023-01-18 at 08:34|
- |[cookiejar incorrect regex](https://vuldb.com/?id.218888)|Visit link for details|2023-01-18 at 08:34|
- |[GE Digital Proficy Historian unrestricted upload](https://vuldb.com/?id.218887)|Visit link for details|2023-01-18 at 08:34|
  
