@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 18/01/2023 07:20:12 UTC
+ > Last Updated 18/01/2023 08:26:54 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -68,12 +68,6 @@
  |[39751201/23 - Vulnérabilité critique affectant le logiciel desurveillance réseau Cacti](https://www.dgssi.gov.ma//fr/content/3975120123-vulnerabilite-critique-affectant-le-logiciel-de-surveillance-reseau-cacti.html)|Des chercheurs en sécurité informatique annoncent la découverte d’une vulnérabilité critique affectant le logiciel de surveillance réseau Cacti.L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du...|12 janvier 2023|
  |[39741201/23 - Vulnérabilités dans Microsoft Exchange Server (Patch Tuesday Janvier 2023)](https://www.dgssi.gov.ma//fr/content/3974120123-vulnerabilites-dans-microsoft-exchange-server-patch-tuesday-janvier-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées de Microsoft Exchange Server. L’exploitation de ces failles peut permettre à un attaquant d’accéder à des informations confidentielles, d’...|12 janvier 2023|
  |[39731201/23 - Vulnérabilités dans plusieurs produits Microsoft(Patch Tuesday Janvier 2023)](https://www.dgssi.gov.ma//fr/content/3973120123-vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-janvier-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, d’exécuter du code...|12 janvier 2023|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -158,4 +152,20 @@
  |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
  |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
  |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[viakondratiuk cash-machine machine.py update_failed_attempts sql injection](https://vuldb.com/?id.218896)|Visit link for details|2023-01-18 at 08:48|
+ |[MyCMS Visitors Module view.php build_view cross site scripting](https://vuldb.com/?id.218895)|Visit link for details|2023-01-18 at 08:40|
+ |[bastianallgeier Kirby Webmentions Plugin injection](https://vuldb.com/?id.218894)|Visit link for details|2023-01-18 at 08:38|
+ |[Apache HTTP Server Header out-of-bounds write](https://vuldb.com/?id.218893)|Visit link for details|2023-01-18 at 08:36|
+ |[Lsoft LISTSERV Web Interface cross site scripting](https://vuldb.com/?id.218892)|Visit link for details|2023-01-18 at 08:35|
+ |[GE Digital Proficy Historian improper authentication](https://vuldb.com/?id.218891)|Visit link for details|2023-01-18 at 08:35|
+ |[Zoho ManageEngine Exchange Reporter Plus xml external entity reference](https://vuldb.com/?id.218890)|Visit link for details|2023-01-18 at 08:35|
+ |[GPAC use after free](https://vuldb.com/?id.218889)|Visit link for details|2023-01-18 at 08:34|
+ |[cookiejar incorrect regex](https://vuldb.com/?id.218888)|Visit link for details|2023-01-18 at 08:34|
+ |[GE Digital Proficy Historian unrestricted upload](https://vuldb.com/?id.218887)|Visit link for details|2023-01-18 at 08:34|
  
