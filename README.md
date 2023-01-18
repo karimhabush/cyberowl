@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 18/01/2023 05:19:53 UTC
+ > Last Updated 18/01/2023 06:29:04 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -41,22 +41,29 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Food Ordering Management System SQL injection (CVE-2023-0332)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
+ |[Git integer overflow (CVE-2022-23521)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
+ |[Git integer overflow (CVE-2022-41903)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
+ |[Apache HTTP Server mod_proxy response splitting (CVE-2022-37436)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
+ |[Apache HTTP Server mod_proxy_ajp HTTP request smuggling (CVE-2022-36760)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
+ |[Apache HTTP Server mod_dav denial of service (CVE-2006-20001)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
+ |[OpenStack Swift information disclosure (CVE-2022-47950)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
  
 
-# CERT-FR
+# VulDB
 
  |Title|Description|Date|
  |---|---|---|
- |[Vulnérabilité dans IBM QRadar](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0031/)|Une vulnérabilité a été découverte dans IBM QRadar. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 17 janvier 2023|
- |[Multiples vulnérabilités les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0030/)|De multiples vulnérabilités ont été découvertes les produits NetApp. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 16 janvier 2023|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0029/)|De multiples vulnérabilités ont été corrigées dans |Publié le 13 janvier 2023|
- |[Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0028/)|De multiples vulnérabilités ont été corrigées dans |Publié le 13 janvier 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0027/)|De multiples vulnérabilités ont été corrigées dans |Publié le 13 janvier 2023|
- |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0026/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 12 janvier 2023|
- |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0025/)|De multiples vulnérabilités ont été corrigées dans |Publié le 11 janvier 2023|
- |[Vulnérabilité dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0024/)|Une vulnérabilité a été corrigée dans |Publié le 11 janvier 2023|
- |[Vulnérabilité dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0023/)|Une vulnérabilité a été corrigée dans |Publié le 11 janvier 2023|
- |[Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0022/)|De multiples vulnérabilités ont été corrigées dans |Publié le 11 janvier 2023|
+ |[Oracle VM VirtualBox information disclosure](https://vuldb.com/?id.218846)|Visit link for details|2023-01-18 at 07:29|
+ |[Oracle VM VirtualBox information disclosure](https://vuldb.com/?id.218845)|Visit link for details|2023-01-18 at 07:29|
+ |[Oracle VM VirtualBox denial of service](https://vuldb.com/?id.218844)|Visit link for details|2023-01-18 at 07:29|
+ |[Oracle VM VirtualBox denial of service](https://vuldb.com/?id.218843)|Visit link for details|2023-01-18 at 07:29|
+ |[Oracle VM VirtualBox denial of service](https://vuldb.com/?id.218842)|Visit link for details|2023-01-18 at 07:29|
+ |[Oracle VM VirtualBox Remote Code Execution](https://vuldb.com/?id.218841)|Visit link for details|2023-01-18 at 07:29|
+ |[Oracle Utilities Network Management System System Wide unknown vulnerability](https://vuldb.com/?id.218840)|Visit link for details|2023-01-18 at 07:29|
+ |[Oracle Utilities Network Management System System Wide denial of service](https://vuldb.com/?id.218839)|Visit link for details|2023-01-18 at 07:29|
+ |[Oracle Utilities Network Management System System Wide unknown vulnerability](https://vuldb.com/?id.218838)|Visit link for details|2023-01-18 at 07:29|
+ |[Oracle Utilities Network Management System Installation unknown vulnerability](https://vuldb.com/?id.218837)|Visit link for details|2023-01-18 at 07:28|
  
 
 # HK-CERT
@@ -92,20 +99,6 @@
  |[39731201/23 - Vulnérabilités dans plusieurs produits Microsoft(Patch Tuesday Janvier 2023)](https://www.dgssi.gov.ma//fr/content/3973120123-vulnerabilites-dans-plusieurs-produits-microsoft-patch-tuesday-janvier-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, d’exécuter du code...|12 janvier 2023|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -123,20 +116,20 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-rndis-query-oid-40280" class="noirorange"><b>Linux kernel</b>: buffer overflow via rndis_query_oid()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-rndis-query-oid-40280)|An attacker can trigger a buffer overflow of the Linux kernel, via rndis_query_oid(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
 
-# VulDB
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[frioux ptome sql injection](https://vuldb.com/?id.218519)|Visit link for details|2023-01-18 at 21:03|
- |[GE Digital Proficy Historian weak encoding for password](https://vuldb.com/?id.218518)|Visit link for details|2023-01-18 at 20:59|
- |[GE Digital Proficy Historian access control](https://vuldb.com/?id.218517)|Visit link for details|2023-01-18 at 20:58|
- |[GE Digital Proficy Historian access control](https://vuldb.com/?id.218516)|Visit link for details|2023-01-18 at 20:57|
- |[GE Digital Proficy Historian unrestricted upload](https://vuldb.com/?id.218515)|Visit link for details|2023-01-18 at 20:57|
- |[GE Digital Proficy Historian authentication bypass](https://vuldb.com/?id.218514)|Visit link for details|2023-01-18 at 20:56|
- |[Mitsubishi Electric MELSEC iQ-F/MELSEC iQ-R Web Server prng seed](https://vuldb.com/?id.218513)|Visit link for details|2023-01-18 at 20:55|
- |[WP VR Plugin Shortcode cross site scripting](https://vuldb.com/?id.218512)|Visit link for details|2023-01-18 at 20:49|
- |[Html5 Audio Player Plugin Shortcode cross site scripting](https://vuldb.com/?id.218511)|Visit link for details|2023-01-18 at 20:49|
- |[Leaflet Maps Marker Plugin Shortcode cross site scripting](https://vuldb.com/?id.218510)|Visit link for details|2023-01-18 at 20:49|
+ |[Vulnérabilité dans IBM QRadar](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0031/)|Une vulnérabilité a été découverte dans IBM QRadar. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 17 janvier 2023|
+ |[Multiples vulnérabilités les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0030/)|De multiples vulnérabilités ont été découvertes les produits NetApp. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 16 janvier 2023|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0029/)|De multiples vulnérabilités ont été corrigées dans |Publié le 13 janvier 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0028/)|De multiples vulnérabilités ont été corrigées dans |Publié le 13 janvier 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0027/)|De multiples vulnérabilités ont été corrigées dans |Publié le 13 janvier 2023|
+ |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0026/)|De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 12 janvier 2023|
+ |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0025/)|De multiples vulnérabilités ont été corrigées dans |Publié le 11 janvier 2023|
+ |[Vulnérabilité dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0024/)|Une vulnérabilité a été corrigée dans |Publié le 11 janvier 2023|
+ |[Vulnérabilité dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0023/)|Une vulnérabilité a été corrigée dans |Publié le 11 janvier 2023|
+ |[Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0022/)|De multiples vulnérabilités ont été corrigées dans |Publié le 11 janvier 2023|
  
 
 # CA-CCS
@@ -161,4 +154,18 @@
  |Title|Description|Date|
  |---|---|---|
  |[2023-001: Zero-day and Critical Vulnerabilities in Microsoft Windows](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On January 10, 2023, on their first Patch Tuesday of 2023, Microsoft fixed an actively exploited zero-day Windows Advanced Local Procedure Call (ALPC) Elevation of Privilege Vulnerability and a total of 98 flaws. Eleven of them were classified as critical by Microsoft as they allow remote code execution, bypass security features, or elevate privileges. It is highly recommended applying the fixes as soon as possible.|Wednesday, January 11, 2023 05:50:00 PM CEST|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  

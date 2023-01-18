@@ -4,14 +4,14 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[frioux ptome sql injection](https://vuldb.com/?id.218519)|Visit link for details|2023-01-18 at 21:03|
- |[GE Digital Proficy Historian weak encoding for password](https://vuldb.com/?id.218518)|Visit link for details|2023-01-18 at 20:59|
- |[GE Digital Proficy Historian access control](https://vuldb.com/?id.218517)|Visit link for details|2023-01-18 at 20:58|
- |[GE Digital Proficy Historian access control](https://vuldb.com/?id.218516)|Visit link for details|2023-01-18 at 20:57|
- |[GE Digital Proficy Historian unrestricted upload](https://vuldb.com/?id.218515)|Visit link for details|2023-01-18 at 20:57|
- |[GE Digital Proficy Historian authentication bypass](https://vuldb.com/?id.218514)|Visit link for details|2023-01-18 at 20:56|
- |[Mitsubishi Electric MELSEC iQ-F/MELSEC iQ-R Web Server prng seed](https://vuldb.com/?id.218513)|Visit link for details|2023-01-18 at 20:55|
- |[WP VR Plugin Shortcode cross site scripting](https://vuldb.com/?id.218512)|Visit link for details|2023-01-18 at 20:49|
- |[Html5 Audio Player Plugin Shortcode cross site scripting](https://vuldb.com/?id.218511)|Visit link for details|2023-01-18 at 20:49|
- |[Leaflet Maps Marker Plugin Shortcode cross site scripting](https://vuldb.com/?id.218510)|Visit link for details|2023-01-18 at 20:49|
+ |[Oracle VM VirtualBox information disclosure](https://vuldb.com/?id.218846)|Visit link for details|2023-01-18 at 07:29|
+ |[Oracle VM VirtualBox information disclosure](https://vuldb.com/?id.218845)|Visit link for details|2023-01-18 at 07:29|
+ |[Oracle VM VirtualBox denial of service](https://vuldb.com/?id.218844)|Visit link for details|2023-01-18 at 07:29|
+ |[Oracle VM VirtualBox denial of service](https://vuldb.com/?id.218843)|Visit link for details|2023-01-18 at 07:29|
+ |[Oracle VM VirtualBox denial of service](https://vuldb.com/?id.218842)|Visit link for details|2023-01-18 at 07:29|
+ |[Oracle VM VirtualBox Remote Code Execution](https://vuldb.com/?id.218841)|Visit link for details|2023-01-18 at 07:29|
+ |[Oracle Utilities Network Management System System Wide unknown vulnerability](https://vuldb.com/?id.218840)|Visit link for details|2023-01-18 at 07:29|
+ |[Oracle Utilities Network Management System System Wide denial of service](https://vuldb.com/?id.218839)|Visit link for details|2023-01-18 at 07:29|
+ |[Oracle Utilities Network Management System System Wide unknown vulnerability](https://vuldb.com/?id.218838)|Visit link for details|2023-01-18 at 07:29|
+ |[Oracle Utilities Network Management System Installation unknown vulnerability](https://vuldb.com/?id.218837)|Visit link for details|2023-01-18 at 07:28|
  
