@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 18/01/2023 17:20:19 UTC
+ > Last Updated 18/01/2023 18:26:20 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -70,33 +70,23 @@
  |[39741201/23 - Vulnérabilités dans Microsoft Exchange Server (Patch Tuesday Janvier 2023)](https://www.dgssi.gov.ma//fr/content/3974120123-vulnerabilites-dans-microsoft-exchange-server-patch-tuesday-janvier-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées de Microsoft Exchange Server. L’exploitation de ces failles peut permettre à un attaquant d’accéder à des informations confidentielles, d’...|12 janvier 2023|
  
 
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- |[OKER G955V1 Boot Sequence os command injection](https://vuldb.com/?id.218915)|Visit link for details|2023-01-18 at 16:36|
- |[BlogEngine.NET unknown vulnerability](https://vuldb.com/?id.218914)|Visit link for details|2023-01-18 at 16:35|
- |[Plex Media server Plex Service denial of service](https://vuldb.com/?id.218913)|Visit link for details|2023-01-18 at 16:34|
- |[Ruckus Wireless SmartZone Controller eAut Module denial of service](https://vuldb.com/?id.218912)|Visit link for details|2023-01-18 at 16:34|
- |[Anant Labs google-enterprise-connector-dctm sql injection](https://vuldb.com/?id.218911)|Visit link for details|2023-01-18 at 15:44|
- |[Trellix Skyhigh SWG URL cross site scripting](https://vuldb.com/?id.218910)|Visit link for details|2023-01-18 at 15:21|
- |[Dell Command Configure permission](https://vuldb.com/?id.218909)|Visit link for details|2023-01-18 at 15:12|
- |[Dell Alienware m17 R5 BIOS SMRAM buffer overflow](https://vuldb.com/?id.218908)|Visit link for details|2023-01-18 at 15:11|
- |[Dell iDRAC8 Racadm input validation](https://vuldb.com/?id.218907)|Visit link for details|2023-01-18 at 15:10|
- |[Dell iDRAC9 Racadm input validation](https://vuldb.com/?id.218906)|Visit link for details|2023-01-18 at 15:10|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
  |[Food Ordering Management System SQL injection (CVE-2023-0332)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
+ |[Oracle VM VirtualBox information disclosure (CVE-2023-21898)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
  |[Oracle VM VirtualBox denial of service (CVE-2023-21884)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
  |[Oracle VM VirtualBox denial of service (CVE-2023-21898)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
  |[Oracle Solaris denial of service (CVE-2023-21900)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
  |[Oracle VM VirtualBox denial of service](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
  |[Oracle Database Server Oracle Data Provider for .NET privilege escalation (CVE-2023-21893)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
- |[libXpm code execution (CVE-2022-4883)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # HK-CERT
@@ -113,20 +103,6 @@
  |[Google Chrome Multiple Vulnerabilities](/security-bulletin/google-chrome-multiple-vulnerabilities_20230111)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, information disclosure and security restriction bypass on the targeted system.|Release Date: 11 Jan 2023|
  |[Microsoft Monthly Security Update (January 2023)](/security-bulletin/microsoft-monthly-security-update-january-2023)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesWindows High RiskElevation of PrivilegeRemote Code ExecutionDenial of ServiceInformation DisclosureSecurity Restriction BypassCVE-2023-21674 is...|Release Date: 11 Jan 2023|
  |[Android Multiple Vulnerabilities](/security-bulletin/android-multiple-vulnerabilities_20230105)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, elevation of privilege and remote code execution on the targeted system.|Release Date: 5 Jan 2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
 
 # OBS-Vigilance
@@ -146,13 +122,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Zypper-Appdata-code-execution-40301" class="noirorange"><b>Zypper Appdata</b>: code execution</a>](https://vigilance.fr/vulnerability/Zypper-Appdata-code-execution-40301)|An attacker can use a vulnerability of Zypper Appdata, in order to run code...|Visit link for details|
  
 
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-001: Zero-day and Critical Vulnerabilities in Microsoft Windows](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On January 10, 2023, on their first Patch Tuesday of 2023, Microsoft fixed an actively exploited zero-day Windows Advanced Local Procedure Call (ALPC) Elevation of Privilege Vulnerability and a total of 98 flaws. Eleven of them were classified as critical by Microsoft as they allow remote code execution, bypass security features, or elevate privileges. It is highly recommended applying the fixes as soon as possible.|Wednesday, January 11, 2023 05:50:00 PM CEST|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
@@ -168,4 +137,25 @@
  |[[Control systems] SAUTER Controls security advisory (AV23-025)](https://cyber.gc.ca/en/alerts-advisories/control-systems-sauter-controls-security-advisory-av23-025)|Visit link for details|2023-01-12|
  |[[Control systems] Sewio security advisory (AV23-024)](https://cyber.gc.ca/en/alerts-advisories/control-systems-sewio-security-advisory-av23-024)|Visit link for details|2023-01-12|
  |[[Control systems] Panasonic security advisory (AV23-023)](https://cyber.gc.ca/en/alerts-advisories/control-systems-panasonic-security-advisory-av23-023)|Visit link for details|2023-01-12|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-001: Zero-day and Critical Vulnerabilities in Microsoft Windows](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On January 10, 2023, on their first Patch Tuesday of 2023, Microsoft fixed an actively exploited zero-day Windows Advanced Local Procedure Call (ALPC) Elevation of Privilege Vulnerability and a total of 98 flaws. Eleven of them were classified as critical by Microsoft as they allow remote code execution, bypass security features, or elevate privileges. It is highly recommended applying the fixes as soon as possible.|Wednesday, January 11, 2023 05:50:00 PM CEST|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
