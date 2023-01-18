@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 18/01/2023 14:19:54 UTC
+ > Last Updated 18/01/2023 15:22:30 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -83,6 +83,23 @@
  |[Git integer overflow (CVE-2022-41903)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/AIX-buffer-overflow-via-X11-40309" class="noirorange"><b>AIX</b>: buffer overflow via X11</a>](https://vigilance.fr/vulnerability/AIX-buffer-overflow-via-X11-40309)|An attacker can trigger a buffer overflow of AIX, via X11, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Skyhigh-Secure-Web-Gateway-Cross-Site-Scripting-40308" class="noirorange"><b>Skyhigh Secure Web Gateway</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Skyhigh-Secure-Web-Gateway-Cross-Site-Scripting-40308)|An attacker can trigger a Cross Site Scripting of Skyhigh Secure Web Gateway, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-net-sched-sch-api-c-40307" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via net/sched/sch_api.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-net-sched-sch-api-c-40307)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-rawv6-push-pending-frames-40306" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via rawv6_push_pending_frames()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-rawv6-push-pending-frames-40306)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-HID-report-list-40305" class="noirorange"><b>Linux kernel</b>: memory corruption via HID report_list</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-HID-report-list-40305)|An attacker can trigger a memory corruption of the Linux kernel, via HID report_list, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Git-GitLab-two-vulnerabilities-40303" class="noirorange"><b>Git  GitLab</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Git-GitLab-two-vulnerabilities-40303)|An attacker can use several vulnerabilities of Git  GitLab...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libXpm-three-vulnerabilities-40302" class="noirorange"><b>libXpm</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/libXpm-three-vulnerabilities-40302)|An attacker can use several vulnerabilities of libXpm...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Zypper-Appdata-code-execution-40301" class="noirorange"><b>Zypper Appdata</b>: code execution</a>](https://vigilance.fr/vulnerability/Zypper-Appdata-code-execution-40301)|An attacker can use a vulnerability of Zypper Appdata, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-Java-OpenJDK-vulnerabilities-of-January-2023-40300" class="noirorange"><b>Oracle Java  OpenJDK</b>: vulnerabilities of January 2023</a>](https://vigilance.fr/vulnerability/Oracle-Java-OpenJDK-vulnerabilities-of-January-2023-40300)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-MySQL-vulnerabilities-of-January-2023-40299" class="noirorange"><b>Oracle MySQL</b>: vulnerabilities of January 2023</a>](https://vigilance.fr/vulnerability/Oracle-MySQL-vulnerabilities-of-January-2023-40299)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Oracle-VM-VirtualBox-vulnerabilities-of-January-2023-40298" class="noirorange"><b>Oracle VM VirtualBox</b>: vulnerabilities of January 2023</a>](https://vigilance.fr/vulnerability/Oracle-VM-VirtualBox-vulnerabilities-of-January-2023-40298)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -99,33 +116,41 @@
  |[Android Multiple Vulnerabilities](/security-bulletin/android-multiple-vulnerabilities_20230105)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, elevation of privilege and remote code execution on the targeted system.|Release Date: 5 Jan 2023|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-net-sched-sch-api-c-40307" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via net/sched/sch_api.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-net-sched-sch-api-c-40307)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-rawv6-push-pending-frames-40306" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via rawv6_push_pending_frames()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-rawv6-push-pending-frames-40306)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-HID-report-list-40305" class="noirorange"><b>Linux kernel</b>: memory corruption via HID report_list</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-HID-report-list-40305)|An attacker can trigger a memory corruption of the Linux kernel, via HID report_list, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Git-GitLab-two-vulnerabilities-40303" class="noirorange"><b>Git  GitLab</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Git-GitLab-two-vulnerabilities-40303)|An attacker can use several vulnerabilities of Git  GitLab...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libXpm-three-vulnerabilities-40302" class="noirorange"><b>libXpm</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/libXpm-three-vulnerabilities-40302)|An attacker can use several vulnerabilities of libXpm...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Zypper-Appdata-code-execution-40301" class="noirorange"><b>Zypper Appdata</b>: code execution</a>](https://vigilance.fr/vulnerability/Zypper-Appdata-code-execution-40301)|An attacker can use a vulnerability of Zypper Appdata, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Oracle-Java-OpenJDK-vulnerabilities-of-January-2023-40300" class="noirorange"><b>Oracle Java  OpenJDK</b>: vulnerabilities of January 2023</a>](https://vigilance.fr/vulnerability/Oracle-Java-OpenJDK-vulnerabilities-of-January-2023-40300)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Oracle-MySQL-vulnerabilities-of-January-2023-40299" class="noirorange"><b>Oracle MySQL</b>: vulnerabilities of January 2023</a>](https://vigilance.fr/vulnerability/Oracle-MySQL-vulnerabilities-of-January-2023-40299)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Oracle-VM-VirtualBox-vulnerabilities-of-January-2023-40298" class="noirorange"><b>Oracle VM VirtualBox</b>: vulnerabilities of January 2023</a>](https://vigilance.fr/vulnerability/Oracle-VM-VirtualBox-vulnerabilities-of-January-2023-40298)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Oracle-Solaris-denial-of-service-via-NSSwitch-40297" class="noirorange"><b>Oracle Solaris</b>: denial of service via NSSwitch</a>](https://vigilance.fr/vulnerability/Oracle-Solaris-denial-of-service-via-NSSwitch-40297)|An attacker can cause a fatal error of Oracle Solaris, via NSSwitch, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Oracle-Fusion-Middleware-vulnerabilities-of-January-2023-40296" class="noirorange"><b>Oracle Fusion Middleware</b>: vulnerabilities of January 2023</a>](https://vigilance.fr/vulnerability/Oracle-Fusion-Middleware-vulnerabilities-of-January-2023-40296)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
- 
-
 # VulDB
 
  |Title|Description|Date|
  |---|---|---|
+ |[Anant Labs google-enterprise-connector-dctm sql injection](https://vuldb.com/?id.218911)|Visit link for details|2023-01-18 at 15:44|
+ |[Trellix Skyhigh SWG URL cross site scripting](https://vuldb.com/?id.218910)|Visit link for details|2023-01-18 at 15:21|
+ |[Dell Command Configure permission](https://vuldb.com/?id.218909)|Visit link for details|2023-01-18 at 15:12|
+ |[Dell Alienware m17 R5 BIOS SMRAM buffer overflow](https://vuldb.com/?id.218908)|Visit link for details|2023-01-18 at 15:11|
+ |[Dell iDRAC8 Racadm input validation](https://vuldb.com/?id.218907)|Visit link for details|2023-01-18 at 15:10|
+ |[Dell iDRAC9 Racadm input validation](https://vuldb.com/?id.218906)|Visit link for details|2023-01-18 at 15:10|
+ |[Dell BIOS SMRAM input validation](https://vuldb.com/?id.218905)|Visit link for details|2023-01-18 at 12:33|
+ |[Dell BIOS SMRAM stack-based overflow](https://vuldb.com/?id.218904)|Visit link for details|2023-01-18 at 12:32|
+ |[Dell BIOS SMRAM input validation](https://vuldb.com/?id.218903)|Visit link for details|2023-01-18 at 12:32|
+ |[Dell BIOS SMRAM input validation](https://vuldb.com/?id.218902)|Visit link for details|2023-01-18 at 12:32|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
 
 # CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
+ |[Mozilla security advisory (AV23-033)](https://cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av23-033)|Visit link for details|2023-01-18|
  |[Ubuntu security advisory (AV23-032)](https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-032)|Visit link for details|2023-01-16|
  |[IBM security advisory (AV23-031)](https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-031)|Visit link for details|2023-01-16|
  |[Dell security advisory (AV23-030)](https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-030)|Visit link for details|2023-01-16|
@@ -136,7 +161,6 @@
  |[[Control systems] SAUTER Controls security advisory (AV23-025)](https://cyber.gc.ca/en/alerts-advisories/control-systems-sauter-controls-security-advisory-av23-025)|Visit link for details|2023-01-12|
  |[[Control systems] Sewio security advisory (AV23-024)](https://cyber.gc.ca/en/alerts-advisories/control-systems-sewio-security-advisory-av23-024)|Visit link for details|2023-01-12|
  |[[Control systems] Panasonic security advisory (AV23-023)](https://cyber.gc.ca/en/alerts-advisories/control-systems-panasonic-security-advisory-av23-023)|Visit link for details|2023-01-12|
- |[[Control systems] Johnson Controls security advisory (AV23-022)](https://cyber.gc.ca/en/alerts-advisories/control-systems-johnson-controls-security-advisory-av23-022)|Visit link for details|2023-01-12|
  
 
 # EU-CERT
@@ -144,10 +168,4 @@
  |Title|Description|Date|
  |---|---|---|
  |[2023-001: Zero-day and Critical Vulnerabilities in Microsoft Windows](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On January 10, 2023, on their first Patch Tuesday of 2023, Microsoft fixed an actively exploited zero-day Windows Advanced Local Procedure Call (ALPC) Elevation of Privilege Vulnerability and a total of 98 flaws. Eleven of them were classified as critical by Microsoft as they allow remote code execution, bypass security features, or elevate privileges. It is highly recommended applying the fixes as soon as possible.|Wednesday, January 11, 2023 05:50:00 PM CEST|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
  
