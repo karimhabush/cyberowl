@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 19/01/2023 16:29:40 UTC
+ > Last Updated 19/01/2023 17:21:00 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,12 +29,12 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/19/cisa-releases-one-industrial-control-systems-advisory)|<p>CISA released one Industrial Control Systems (ICS) advisory on January 19, 2023. This advisory provides timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p>|Thursday, January 19, 2023|
  |[Mozilla Releases Security Updates for Firefox](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/18/mozilla-releases-security-updates-firefox)|<p>Mozilla has released security updates to address vulnerabilities in Firefox ESR and Firefox. An attacker could exploit some of these vulnerabilities to take control of an affected system.</p>|Wednesday, January 18, 2023|
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/17/cisa-adds-one-known-exploited-vulnerability-catalog)|<p>CISA has added one new vulnerability to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. This type of vulnerability is a frequent attack vector for malicious cyber actors and poses a significant risk to the federal enterprise. Note: To view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.</p>|Tuesday, January 17, 2023|
  |[CISA Updates Best Practices for Mapping to MITRE ATT&CK®](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/17/cisa-updates-best-practices-mapping-mitre-attckr)|<p>Today, CISA updated <a href="https://www.cisa.gov/uscert/best-practices-mitre-attckr-mapping">Best Practices for MITRE ATT&amp;CK® Mapping</a>.</p>|Tuesday, January 17, 2023|
  |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/17/cisa-releases-four-industrial-control-systems-advisories)|<p>CISA released four Industrial Control Systems (ICS) advisories on January 17, 2023. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. </p>|Tuesday, January 17, 2023|
  |[Juniper Networks Releases Security Updates for Multiple Products](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/12/juniper-networks-releases-security-updates-multiple-products)|<p>Juniper Networks has released security updates to address vulnerabilities affecting multiple products. An attacker could exploit some of these vulnerabilities to take control of an affected system. </p>|Thursday, January 12, 2023|
- |[Drupal Releases Security Update to Address Vulnerability in Private Taxonomy Terms](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/12/drupal-releases-security-update-address-vulnerability-private)|<p>Drupal has released a security update to address a vulnerability affecting private vocabulary modules for Drupal 8.x. An unauthorized user could exploit this vulnerability to bypass access permissions to create, modify, and delete private vocabulary terms.</p>|Thursday, January 12, 2023|
  
 
 # CERT-FR
@@ -77,10 +77,26 @@
  |[Wireshark GNW dissector denial of service](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2023|
  |[Wireshark NFS dissector denial of service](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2023|
  |[Cisco Email Security Appliance security bypass (CVE-2023-20057)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 18, 2023|
+ |[Huawei Band security bypass (CVE-2022-48254)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 18, 2023|
+ |[Huawei printer product denial of service (CVE-2022-48230)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 18, 2023|
+ |[Huawei printer product code execution (CVE-2022-48255)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 18, 2023|
  |[Wireshark TIPC dissector denial of service](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 18, 2023|
- |[Wireshark BPv6, NCP, and RTPS dissector denial of service](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 18, 2023|
- |[Wireshark iSCSI dissector denial of service](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 18, 2023|
- |[Wireshark EAP dissector denial of service](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 18, 2023|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[TP-LINK TL-WDR7660 httpProcDataSrv Privilege Escalation](https://vuldb.com/?id.218998)|Visit link for details|2023-01-19 at 17:18|
+ |[Dell EMC Cloud Mobility for Dell Storage improper check for certificate revocation](https://vuldb.com/?id.218997)|Visit link for details|2023-01-19 at 14:31|
+ |[WAGO PFC100 Backup File missing authentication](https://vuldb.com/?id.218996)|Visit link for details|2023-01-19 at 14:30|
+ |[Mozilla Firefox memory corruption](https://vuldb.com/?id.218995)|Visit link for details|2023-01-19 at 14:25|
+ |[Mozilla Firefox memory corruption](https://vuldb.com/?id.218994)|Visit link for details|2023-01-19 at 14:23|
+ |[Mozilla Firefox ParseFromSafeString Remote Code Execution](https://vuldb.com/?id.218993)|Visit link for details|2023-01-19 at 14:22|
+ |[Mozilla Firefox URL incorrect regex](https://vuldb.com/?id.218992)|Visit link for details|2023-01-19 at 14:21|
+ |[Mozilla Firefox WebSocket unknown vulnerability](https://vuldb.com/?id.218991)|Visit link for details|2023-01-19 at 14:20|
+ |[Mozilla Firefox URL unknown vulnerability](https://vuldb.com/?id.218990)|Visit link for details|2023-01-19 at 14:20|
+ |[Mozilla Firefox Notification permission](https://vuldb.com/?id.218989)|Visit link for details|2023-01-19 at 14:19|
  
 
 # HK-CERT
@@ -99,20 +115,11 @@
  |[Google Chrome Multiple Vulnerabilities](/security-bulletin/google-chrome-multiple-vulnerabilities_20230111)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, information disclosure and security restriction bypass on the targeted system.|Release Date: 11 Jan 2023|
  
 
-# VulDB
+# EU-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[TP-LINK TL-WDR7660 httpProcDataSrv Privilege Escalation](https://vuldb.com/?id.218998)|Visit link for details|2023-01-19 at 17:18|
- |[Dell EMC Cloud Mobility for Dell Storage improper check for certificate revocation](https://vuldb.com/?id.218997)|Visit link for details|2023-01-19 at 14:31|
- |[WAGO PFC100 Backup File missing authentication](https://vuldb.com/?id.218996)|Visit link for details|2023-01-19 at 14:30|
- |[Mozilla Firefox memory corruption](https://vuldb.com/?id.218995)|Visit link for details|2023-01-19 at 14:25|
- |[Mozilla Firefox memory corruption](https://vuldb.com/?id.218994)|Visit link for details|2023-01-19 at 14:23|
- |[Mozilla Firefox ParseFromSafeString Remote Code Execution](https://vuldb.com/?id.218993)|Visit link for details|2023-01-19 at 14:22|
- |[Mozilla Firefox URL incorrect regex](https://vuldb.com/?id.218992)|Visit link for details|2023-01-19 at 14:21|
- |[Mozilla Firefox WebSocket unknown vulnerability](https://vuldb.com/?id.218991)|Visit link for details|2023-01-19 at 14:20|
- |[Mozilla Firefox URL unknown vulnerability](https://vuldb.com/?id.218990)|Visit link for details|2023-01-19 at 14:20|
- |[Mozilla Firefox Notification permission](https://vuldb.com/?id.218989)|Visit link for details|2023-01-19 at 14:19|
+ |[2023-002: Multiple critical Vulnerabilities in Git](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|During a code audit, X41 discovered several vulnerabilities in the version control system git. On January 17, the git project resolved the two most critical security vulnerabilities (CVE-2022-23521 and CVE-2022-41903) that could allow the remote execution of arbitrary code. GitHub and GitLab have also issued updates for their products, including the latest version of git. A third vulnerability (CVE-2022-41953) affects the Windows version of the Git GUI software and could also lead to the execution of arbitrary code. CERT-EU highly recommend upgrading to the latest version of git. In addition, if you are running on-premise GitHub or GitLab servers, we recommend updating them.|Thursday, January 19, 2023 10:50:00 PM CEST|
  
 
 # OBS-Vigilance
@@ -161,11 +168,4 @@
  |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
  |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
  |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-002: Multiple critical Vulnerabilities in Git](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|During a code audit, X41 discovered several vulnerabilities in the version control system git. On January 17, the git project resolved the two most critical security vulnerabilities (CVE-2022-23521 and CVE-2022-41903) that could allow the remote execution of arbitrary code. GitHub and GitLab have also issued updates for their products, including the latest version of git. A third vulnerability (CVE-2022-41953) affects the Windows version of the Git GUI software and could also lead to the execution of arbitrary code. CERT-EU highly recommend upgrading to the latest version of git. In addition, if you are running on-premise GitHub or GitLab servers, we recommend updating them.|Thursday, January 19, 2023 10:50:00 PM CEST|
  
