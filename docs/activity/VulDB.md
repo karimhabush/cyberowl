@@ -4,14 +4,14 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[TP-LINK TL-WDR7660 httpProcDataSrv Privilege Escalation](https://vuldb.com/?id.218998)|Visit link for details|2023-01-19 at 17:18|
- |[Dell EMC Cloud Mobility for Dell Storage improper check for certificate revocation](https://vuldb.com/?id.218997)|Visit link for details|2023-01-19 at 14:31|
- |[WAGO PFC100 Backup File missing authentication](https://vuldb.com/?id.218996)|Visit link for details|2023-01-19 at 14:30|
- |[Mozilla Firefox memory corruption](https://vuldb.com/?id.218995)|Visit link for details|2023-01-19 at 14:25|
- |[Mozilla Firefox memory corruption](https://vuldb.com/?id.218994)|Visit link for details|2023-01-19 at 14:23|
- |[Mozilla Firefox ParseFromSafeString Remote Code Execution](https://vuldb.com/?id.218993)|Visit link for details|2023-01-19 at 14:22|
- |[Mozilla Firefox URL incorrect regex](https://vuldb.com/?id.218992)|Visit link for details|2023-01-19 at 14:21|
- |[Mozilla Firefox WebSocket unknown vulnerability](https://vuldb.com/?id.218991)|Visit link for details|2023-01-19 at 14:20|
- |[Mozilla Firefox URL unknown vulnerability](https://vuldb.com/?id.218990)|Visit link for details|2023-01-19 at 14:20|
- |[Mozilla Firefox Notification permission](https://vuldb.com/?id.218989)|Visit link for details|2023-01-19 at 14:19|
+ |[Freesoul Deactivate Plugin information disclosure](https://vuldb.com/?id.219021)|Visit link for details|2023-01-19 at 22:58|
+ |[Custom 404 Pro Plugin sql injection](https://vuldb.com/?id.219020)|Visit link for details|2023-01-19 at 22:58|
+ |[jruby-openssl Gem certificate validation](https://vuldb.com/?id.219019)|Visit link for details|2023-01-19 at 22:57|
+ |[PopojiCMS Backend Plugin unrestricted upload](https://vuldb.com/?id.219018)|Visit link for details|2023-01-19 at 22:56|
+ |[modoboa cross-site request forgery](https://vuldb.com/?id.219017)|Visit link for details|2023-01-19 at 22:56|
+ |[3com Asesor de Cookies para normativa española plugin cross site scripting](https://vuldb.com/?id.219016)|Visit link for details|2023-01-19 at 22:56|
+ |[Jeecg-boot queryTableData sql injection](https://vuldb.com/?id.219015)|Visit link for details|2023-01-19 at 22:55|
+ |[Ghost Post Creation cross site scripting](https://vuldb.com/?id.219014)|Visit link for details|2023-01-19 at 22:55|
+ |[Ghost Post Creation cross site scripting](https://vuldb.com/?id.219013)|Visit link for details|2023-01-19 at 22:54|
+ |[Ghost cross site scripting](https://vuldb.com/?id.219012)|Visit link for details|2023-01-19 at 22:54|
  
