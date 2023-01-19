@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 19/01/2023 20:23:03 UTC
+ > Last Updated 19/01/2023 21:18:54 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -53,37 +53,33 @@
  |[Vulnérabilité dans IBM AIX](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0033/)|Une vulnérabilité a été découverte dans IBM AIX. Elle permet à un attaquant de provoquer une exécution de code arbitraire et un déni de service.|Publié le 18 janvier 2023|
  
 
-# OBS-Vigilance
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Symantec-Endpoint-Protection-privilege-escalation-40329" class="noirorange"><b>Symantec Endpoint Protection</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Symantec-Endpoint-Protection-privilege-escalation-40329)|An attacker can bypass restrictions of Symantec Endpoint Protection, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-privilege-escalation-40328" class="noirorange"><b>WithSecure Endpoint Protection</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-privilege-escalation-40328)|An attacker can bypass restrictions of WithSecure Endpoint Protection, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-aerdl-dll-40327" class="noirorange"><b>WithSecure Endpoint Protection</b>: denial of service via aerdl.dll</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-aerdl-dll-40327)|An attacker can cause a fatal error of WithSecure Endpoint Protection, via aerdl.dll, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-TIPC-Dissector-40326" class="noirorange"><b>Wireshark</b>: denial of service via TIPC Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-TIPC-Dissector-40326)|An attacker can cause a fatal error of Wireshark, via TIPC Dissector, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-overload-via-BPv6-NCP-RTPS-Dissector-40325" class="noirorange"><b>Wireshark</b>: overload via BPv6 / NCP / RTPS Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-overload-via-BPv6-NCP-RTPS-Dissector-40325)|An attacker can trigger an overload of Wireshark, via BPv6 / NCP / RTPS Dissector, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-iSCSI-Dissector-40324" class="noirorange"><b>Wireshark</b>: denial of service via iSCSI Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-iSCSI-Dissector-40324)|An attacker can cause a fatal error of Wireshark, via iSCSI Dissector, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-GNW-Dissector-40323" class="noirorange"><b>Wireshark</b>: denial of service via GNW Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-GNW-Dissector-40323)|An attacker can cause a fatal error of Wireshark, via GNW Dissector, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Conversation-Tracking-Module-40322" class="noirorange"><b>Wireshark</b>: denial of service via Conversation Tracking Module</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Conversation-Tracking-Module-40322)|An attacker can cause a fatal error of Wireshark, via Conversation Tracking Module, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-memory-leak-via-NFS-Dissector-40321" class="noirorange"><b>Wireshark</b>: memory leak via NFS Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-memory-leak-via-NFS-Dissector-40321)|An attacker can create a memory leak of Wireshark, via NFS Dissector, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-EAP-Dissector-40320" class="noirorange"><b>Wireshark</b>: denial of service via EAP Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-EAP-Dissector-40320)|An attacker can cause a fatal error of Wireshark, via EAP Dissector, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/iText-7-code-execution-via-ITextPDF-CompareTool-Filename-40319" class="noirorange"><b>iText 7</b>: code execution via ITextPDF CompareTool Filename</a>](https://vigilance.fr/vulnerability/iText-7-code-execution-via-ITextPDF-CompareTool-Filename-40319)|An attacker can use a vulnerability of iText 7, via ITextPDF CompareTool Filename, in order to run code...|Visit link for details|
+ |[Wireshark GNW dissector denial of service](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2023|
+ |[Wireshark NFS dissector denial of service](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2023|
+ |[Cisco Email Security Appliance security bypass (CVE-2023-20057)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 18, 2023|
+ |[Media Library Form API Element module for Drupal information disclosure](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 18, 2023|
+ |[Drupal core information disclosure](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 18, 2023|
+ |[Entity Browser module for Drupal information disclosure](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 18, 2023|
+ |[Huawei printer product denial of service (CVE-2022-48261)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 18, 2023|
  
 
-# VulDB
+# HK-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[TP-LINK TL-WDR7660 httpProcDataSrv Privilege Escalation](https://vuldb.com/?id.218998)|Visit link for details|2023-01-19 at 17:18|
- |[Dell EMC Cloud Mobility for Dell Storage improper check for certificate revocation](https://vuldb.com/?id.218997)|Visit link for details|2023-01-19 at 14:31|
- |[WAGO PFC100 Backup File missing authentication](https://vuldb.com/?id.218996)|Visit link for details|2023-01-19 at 14:30|
- |[Mozilla Firefox memory corruption](https://vuldb.com/?id.218995)|Visit link for details|2023-01-19 at 14:25|
- |[Mozilla Firefox memory corruption](https://vuldb.com/?id.218994)|Visit link for details|2023-01-19 at 14:23|
- |[Mozilla Firefox ParseFromSafeString Remote Code Execution](https://vuldb.com/?id.218993)|Visit link for details|2023-01-19 at 14:22|
- |[Mozilla Firefox URL incorrect regex](https://vuldb.com/?id.218992)|Visit link for details|2023-01-19 at 14:21|
- |[Mozilla Firefox WebSocket unknown vulnerability](https://vuldb.com/?id.218991)|Visit link for details|2023-01-19 at 14:20|
- |[Mozilla Firefox URL unknown vulnerability](https://vuldb.com/?id.218990)|Visit link for details|2023-01-19 at 14:20|
- |[Mozilla Firefox Notification permission](https://vuldb.com/?id.218989)|Visit link for details|2023-01-19 at 14:19|
+ |[GitLab Remote Code Execution Vulnerabilities](/security-bulletin/gitlab-remote-code-execution-vulnerabilities_20230119)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 19 Jan 2023|
+ |[Mozilla Firefox Multiple Vulnerabilities](/security-bulletin/mozilla-firefox-multiple-vulnerabilities_20230119)|Multiple vulnerabilities were identified in Mozilla Firefox. A remote attacker could exploit some of these vulnerabilities to trigger spoofing, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 19 Jan 2023|
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230110)|Multiple vulnerabilities have been identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. [Updated on 2023-01-11] ...| Release Date: 10 Jan 2023 |
+ |[Oracle Products Multiple Vulnerabilities](/security-bulletin/oracle-products-multiple-vulnerabilities_20230118)|Multiple vulnerabilities were identified in Oracle Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 18 Jan 2023|
+ |[ChromeOS Multiple Vulnerabilities](/security-bulletin/chromeos-multiple-vulnerabilities_20230116)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 16 Jan 2023|
+ |[Cisco Products Multiple Vulnerabilities](/security-bulletin/cisco-products-multiple-vulnerabilities_20230113)|Multiple vulnerabilities were identified in Cisco Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, data manipulation, cross-site scripting and security restriction bypass on the targeted system.|Release Date: 13 Jan 2023|
+ |[Microsoft Edge Multiple Vulnerabilities](/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230113)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, remote code execution, information disclosure and security restriction bypass on the targeted system. Note:Proof of Concept exploit code...|Release Date: 13 Jan 2023|
+ |[Cisco End-of-Life Small Business Routers Multiple Vulnerabilities](/security-bulletin/cisco-end-of-life-small-business-routers-multiple-vulnerabilities_20230112)|Multiple vulnerabilities were identified in Cisco's End-of-Life Small Business Routers. A remote attacker could exploit some of these vulnerabilities to remote code execution and security restriction bypass on the targeted system. Note:Proof of Concept exploit code Is publicly available...|Release Date: 12 Jan 2023|
+ |[Adobe Monthly Security Update (January 2023)](/security-bulletin/adobe-monthly-security-update-january-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Acrobat and Reader Medium RiskRemote Code ExecutionInformation DisclosureDenial of ServiceElevation of Privilege APSB23-...|Release Date: 11 Jan 2023|
+ |[Google Chrome Multiple Vulnerabilities](/security-bulletin/google-chrome-multiple-vulnerabilities_20230111)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, information disclosure and security restriction bypass on the targeted system.|Release Date: 11 Jan 2023|
  
 
 # MA-CERT
@@ -103,40 +99,54 @@
  |[39771301/23 - Tentatives d’exploitation d’une vulnérabilité critique affectantControl Web Panel (C](https://www.dgssi.gov.ma//fr/content/3977130123-tentatives-d-exploitation-d-une-vulnerabilite-critique-affectant-control-web-panel-cwp.html)|Une vulnérabilité critique a été corrigée au niveau du logiciel d’administration des serveurs Linux CentOS Control Web Panel (CWP). Cette vulnérabilité est activement exploitée et peut permettre à un attaquantd’élever ses privilèges ou d...|13 janvier 2023|
  
 
-# EU-CERT
+# VulDB
 
  |Title|Description|Date|
  |---|---|---|
- |[2023-002: Multiple critical Vulnerabilities in Git](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|During a code audit, X41 discovered several vulnerabilities in the version control system git. On January 17, the git project resolved the two most critical security vulnerabilities (CVE-2022-23521 and CVE-2022-41903) that could allow the remote execution of arbitrary code. GitHub and GitLab have also issued updates for their products, including the latest version of git. A third vulnerability (CVE-2022-41953) affects the Windows version of the Git GUI software and could also lead to the execution of arbitrary code. CERT-EU highly recommend upgrading to the latest version of git. In addition, if you are running on-premise GitHub or GitLab servers, we recommend updating them.|Thursday, January 19, 2023 10:50:00 PM CEST|
+ |[TP-LINK TL-WDR7660 httpProcDataSrv Privilege Escalation](https://vuldb.com/?id.218998)|Visit link for details|2023-01-19 at 17:18|
+ |[Dell EMC Cloud Mobility for Dell Storage improper check for certificate revocation](https://vuldb.com/?id.218997)|Visit link for details|2023-01-19 at 14:31|
+ |[WAGO PFC100 Backup File missing authentication](https://vuldb.com/?id.218996)|Visit link for details|2023-01-19 at 14:30|
+ |[Mozilla Firefox memory corruption](https://vuldb.com/?id.218995)|Visit link for details|2023-01-19 at 14:25|
+ |[Mozilla Firefox memory corruption](https://vuldb.com/?id.218994)|Visit link for details|2023-01-19 at 14:23|
+ |[Mozilla Firefox ParseFromSafeString Remote Code Execution](https://vuldb.com/?id.218993)|Visit link for details|2023-01-19 at 14:22|
+ |[Mozilla Firefox URL incorrect regex](https://vuldb.com/?id.218992)|Visit link for details|2023-01-19 at 14:21|
+ |[Mozilla Firefox WebSocket unknown vulnerability](https://vuldb.com/?id.218991)|Visit link for details|2023-01-19 at 14:20|
+ |[Mozilla Firefox URL unknown vulnerability](https://vuldb.com/?id.218990)|Visit link for details|2023-01-19 at 14:20|
+ |[Mozilla Firefox Notification permission](https://vuldb.com/?id.218989)|Visit link for details|2023-01-19 at 14:19|
  
 
-# IBM-X-FORCE-EXCHANGE
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[Wireshark GNW dissector denial of service](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2023|
- |[Wireshark NFS dissector denial of service](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2023|
- |[Cisco Email Security Appliance security bypass (CVE-2023-20057)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 18, 2023|
- |[Huawei printer product denial of service (CVE-2022-48261)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 18, 2023|
- |[Huawei printer product privilege escalation (CVE-2022-48259)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 18, 2023|
- |[Huawei printer product denial of service (CVE-2022-48260)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 18, 2023|
- |[Huawei Band security bypass (CVE-2022-48254)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 18, 2023|
+ |[<a href="https://vigilance.fr/vulnerability/Symantec-Endpoint-Protection-privilege-escalation-40329" class="noirorange"><b>Symantec Endpoint Protection</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Symantec-Endpoint-Protection-privilege-escalation-40329)|An attacker can bypass restrictions of Symantec Endpoint Protection, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-privilege-escalation-40328" class="noirorange"><b>WithSecure Endpoint Protection</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-privilege-escalation-40328)|An attacker can bypass restrictions of WithSecure Endpoint Protection, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-aerdl-dll-40327" class="noirorange"><b>WithSecure Endpoint Protection</b>: denial of service via aerdl.dll</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-aerdl-dll-40327)|An attacker can cause a fatal error of WithSecure Endpoint Protection, via aerdl.dll, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-TIPC-Dissector-40326" class="noirorange"><b>Wireshark</b>: denial of service via TIPC Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-TIPC-Dissector-40326)|An attacker can cause a fatal error of Wireshark, via TIPC Dissector, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-overload-via-BPv6-NCP-RTPS-Dissector-40325" class="noirorange"><b>Wireshark</b>: overload via BPv6 / NCP / RTPS Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-overload-via-BPv6-NCP-RTPS-Dissector-40325)|An attacker can trigger an overload of Wireshark, via BPv6 / NCP / RTPS Dissector, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-iSCSI-Dissector-40324" class="noirorange"><b>Wireshark</b>: denial of service via iSCSI Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-iSCSI-Dissector-40324)|An attacker can cause a fatal error of Wireshark, via iSCSI Dissector, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-GNW-Dissector-40323" class="noirorange"><b>Wireshark</b>: denial of service via GNW Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-GNW-Dissector-40323)|An attacker can cause a fatal error of Wireshark, via GNW Dissector, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Conversation-Tracking-Module-40322" class="noirorange"><b>Wireshark</b>: denial of service via Conversation Tracking Module</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Conversation-Tracking-Module-40322)|An attacker can cause a fatal error of Wireshark, via Conversation Tracking Module, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-memory-leak-via-NFS-Dissector-40321" class="noirorange"><b>Wireshark</b>: memory leak via NFS Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-memory-leak-via-NFS-Dissector-40321)|An attacker can create a memory leak of Wireshark, via NFS Dissector, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-EAP-Dissector-40320" class="noirorange"><b>Wireshark</b>: denial of service via EAP Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-EAP-Dissector-40320)|An attacker can cause a fatal error of Wireshark, via EAP Dissector, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/iText-7-code-execution-via-ITextPDF-CompareTool-Filename-40319" class="noirorange"><b>iText 7</b>: code execution via ITextPDF CompareTool Filename</a>](https://vigilance.fr/vulnerability/iText-7-code-execution-via-ITextPDF-CompareTool-Filename-40319)|An attacker can use a vulnerability of iText 7, via ITextPDF CompareTool Filename, in order to run code...|Visit link for details|
  
 
-# HK-CERT
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[GitLab Remote Code Execution Vulnerabilities](/security-bulletin/gitlab-remote-code-execution-vulnerabilities_20230119)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 19 Jan 2023|
- |[Mozilla Firefox Multiple Vulnerabilities](/security-bulletin/mozilla-firefox-multiple-vulnerabilities_20230119)|Multiple vulnerabilities were identified in Mozilla Firefox. A remote attacker could exploit some of these vulnerabilities to trigger spoofing, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 19 Jan 2023|
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230110)|Multiple vulnerabilities have been identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. [Updated on 2023-01-11] ...| Release Date: 10 Jan 2023 |
- |[Oracle Products Multiple Vulnerabilities](/security-bulletin/oracle-products-multiple-vulnerabilities_20230118)|Multiple vulnerabilities were identified in Oracle Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 18 Jan 2023|
- |[ChromeOS Multiple Vulnerabilities](/security-bulletin/chromeos-multiple-vulnerabilities_20230116)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 16 Jan 2023|
- |[Cisco Products Multiple Vulnerabilities](/security-bulletin/cisco-products-multiple-vulnerabilities_20230113)|Multiple vulnerabilities were identified in Cisco Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, data manipulation, cross-site scripting and security restriction bypass on the targeted system.|Release Date: 13 Jan 2023|
- |[Microsoft Edge Multiple Vulnerabilities](/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230113)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, remote code execution, information disclosure and security restriction bypass on the targeted system. Note:Proof of Concept exploit code...|Release Date: 13 Jan 2023|
- |[Cisco End-of-Life Small Business Routers Multiple Vulnerabilities](/security-bulletin/cisco-end-of-life-small-business-routers-multiple-vulnerabilities_20230112)|Multiple vulnerabilities were identified in Cisco's End-of-Life Small Business Routers. A remote attacker could exploit some of these vulnerabilities to remote code execution and security restriction bypass on the targeted system. Note:Proof of Concept exploit code Is publicly available...|Release Date: 12 Jan 2023|
- |[Adobe Monthly Security Update (January 2023)](/security-bulletin/adobe-monthly-security-update-january-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Acrobat and Reader Medium RiskRemote Code ExecutionInformation DisclosureDenial of ServiceElevation of Privilege APSB23-...|Release Date: 11 Jan 2023|
- |[Google Chrome Multiple Vulnerabilities](/security-bulletin/google-chrome-multiple-vulnerabilities_20230111)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, information disclosure and security restriction bypass on the targeted system.|Release Date: 11 Jan 2023|
+ |[Cisco security advisory (AV23-040)](https://cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av23-040)|Visit link for details|2023-01-19|
+ |[[Control systems] Hitachi Energy security advisory (AV23-039)](https://cyber.gc.ca/en/alerts-advisories/control-systems-hitachi-energy-security-advisory-av23-039)|Visit link for details|2023-01-19|
+ |[Sudo security advisory (AV23-038)](https://cyber.gc.ca/en/alerts-advisories/sudo-security-advisory-av23-038)|Visit link for details|2023-01-18|
+ |[GitLab security advisory (AV23-037)](https://cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av23-037)|Visit link for details|2023-01-18|
+ |[Oracle security advisory – January 2023 quarterly rollup (AV23-036)](https://cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-january-2023-quarterly-rollup-av23-036)|Visit link for details|2023-01-18|
+ |[[Control systems] GE Digital security advisory (AV23-035)](https://cyber.gc.ca/en/alerts-advisories/control-systems-ge-digital-security-advisory-av23-035)|Visit link for details|2023-01-18|
+ |[[Control systems] Mitsubishi Electric security advisory (AV23-034)](https://cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av23-034)|Visit link for details|2023-01-18|
+ |[Mozilla security advisory (AV23-033)](https://cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av23-033)|Visit link for details|2023-01-18|
+ |[Ubuntu security advisory (AV23-032)](https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-032)|Visit link for details|2023-01-16|
+ |[IBM security advisory (AV23-031)](https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-031)|Visit link for details|2023-01-16|
+ |[Dell security advisory (AV23-030)](https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-030)|Visit link for details|2023-01-16|
  
 
 # ZERODAYINITIATIVE
@@ -153,19 +163,9 @@
  |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
 
-# CA-CCS
+# EU-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Sudo security advisory (AV23-038)](https://cyber.gc.ca/en/alerts-advisories/sudo-security-advisory-av23-038)|Visit link for details|2023-01-18|
- |[GitLab security advisory (AV23-037)](https://cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av23-037)|Visit link for details|2023-01-18|
- |[Oracle security advisory – January 2023 quarterly rollup (AV23-036)](https://cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-january-2023-quarterly-rollup-av23-036)|Visit link for details|2023-01-18|
- |[[Control systems] GE Digital security advisory (AV23-035)](https://cyber.gc.ca/en/alerts-advisories/control-systems-ge-digital-security-advisory-av23-035)|Visit link for details|2023-01-18|
- |[[Control systems] Mitsubishi Electric security advisory (AV23-034)](https://cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av23-034)|Visit link for details|2023-01-18|
- |[Mozilla security advisory (AV23-033)](https://cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av23-033)|Visit link for details|2023-01-18|
- |[Ubuntu security advisory (AV23-032)](https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-032)|Visit link for details|2023-01-16|
- |[IBM security advisory (AV23-031)](https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-031)|Visit link for details|2023-01-16|
- |[Dell security advisory (AV23-030)](https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-030)|Visit link for details|2023-01-16|
- |[[Control systems] Hitachi Energy security advisory (AV23-029)](https://cyber.gc.ca/en/alerts-advisories/control-systems-hitachi-energy-security-advisory-av23-029)|Visit link for details|2023-01-16|
- |[Red Hat security advisory (AV23-028)](https://cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av23-028)|Visit link for details|2023-01-13|
+ |[2023-002: Multiple critical Vulnerabilities in Git](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|During a code audit, X41 discovered several vulnerabilities in the version control system git. On January 17, the git project resolved the two most critical security vulnerabilities (CVE-2022-23521 and CVE-2022-41903) that could allow the remote execution of arbitrary code. GitHub and GitLab have also issued updates for their products, including the latest version of git. A third vulnerability (CVE-2022-41953) affects the Windows version of the Git GUI software and could also lead to the execution of arbitrary code. CERT-EU highly recommend upgrading to the latest version of git. In addition, if you are running on-premise GitHub or GitLab servers, we recommend updating them.|Thursday, January 19, 2023 10:50:00 PM CEST|
  
