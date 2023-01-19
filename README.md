@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 19/01/2023 18:26:28 UTC
+ > Last Updated 19/01/2023 19:18:40 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -87,6 +87,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[TP-LINK TL-WDR7660 httpProcDataSrv Privilege Escalation](https://vuldb.com/?id.218998)|Visit link for details|2023-01-19 at 17:18|
+ |[Dell EMC Cloud Mobility for Dell Storage improper check for certificate revocation](https://vuldb.com/?id.218997)|Visit link for details|2023-01-19 at 14:31|
+ |[WAGO PFC100 Backup File missing authentication](https://vuldb.com/?id.218996)|Visit link for details|2023-01-19 at 14:30|
+ |[Mozilla Firefox memory corruption](https://vuldb.com/?id.218995)|Visit link for details|2023-01-19 at 14:25|
+ |[Mozilla Firefox memory corruption](https://vuldb.com/?id.218994)|Visit link for details|2023-01-19 at 14:23|
+ |[Mozilla Firefox ParseFromSafeString Remote Code Execution](https://vuldb.com/?id.218993)|Visit link for details|2023-01-19 at 14:22|
+ |[Mozilla Firefox URL incorrect regex](https://vuldb.com/?id.218992)|Visit link for details|2023-01-19 at 14:21|
+ |[Mozilla Firefox WebSocket unknown vulnerability](https://vuldb.com/?id.218991)|Visit link for details|2023-01-19 at 14:20|
+ |[Mozilla Firefox URL unknown vulnerability](https://vuldb.com/?id.218990)|Visit link for details|2023-01-19 at 14:20|
+ |[Mozilla Firefox Notification permission](https://vuldb.com/?id.218989)|Visit link for details|2023-01-19 at 14:19|
  
 
 # HK-CERT
@@ -150,12 +160,4 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
