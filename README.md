@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 19/01/2023 14:21:12 UTC
+ > Last Updated 19/01/2023 15:24:08 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -70,6 +70,19 @@
  |[39771301/23 - Tentatives d’exploitation d’une vulnérabilité critique affectantControl Web Panel (C](https://www.dgssi.gov.ma//fr/content/3977130123-tentatives-d-exploitation-d-une-vulnerabilite-critique-affectant-control-web-panel-cwp.html)|Une vulnérabilité critique a été corrigée au niveau du logiciel d’administration des serveurs Linux CentOS Control Web Panel (CWP). Cette vulnérabilité est activement exploitée et peut permettre à un attaquantd’élever ses privilèges ou d...|13 janvier 2023|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Wireshark GNW dissector denial of service](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2023|
+ |[Wireshark NFS dissector denial of service](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2023|
+ |[Cisco Email Security Appliance security bypass (CVE-2023-20057)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 18, 2023|
+ |[Cisco Unified Communications Manager SQL injection (CVE-2023-20010)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 18, 2023|
+ |[Wireshark TIPC dissector denial of service](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 18, 2023|
+ |[Wireshark BPv6, NCP, and RTPS dissector denial of service](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 18, 2023|
+ |[Wireshark iSCSI dissector denial of service](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 18, 2023|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -84,22 +97,6 @@
  |[Cisco End-of-Life Small Business Routers Multiple Vulnerabilities](/security-bulletin/cisco-end-of-life-small-business-routers-multiple-vulnerabilities_20230112)|Multiple vulnerabilities were identified in Cisco's End-of-Life Small Business Routers. A remote attacker could exploit some of these vulnerabilities to remote code execution and security restriction bypass on the targeted system. Note:Proof of Concept exploit code Is publicly available...|Release Date: 12 Jan 2023|
  |[Adobe Monthly Security Update (January 2023)](/security-bulletin/adobe-monthly-security-update-january-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Acrobat and Reader Medium RiskRemote Code ExecutionInformation DisclosureDenial of ServiceElevation of Privilege APSB23-...|Release Date: 11 Jan 2023|
  |[Google Chrome Multiple Vulnerabilities](/security-bulletin/google-chrome-multiple-vulnerabilities_20230111)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, information disclosure and security restriction bypass on the targeted system.|Release Date: 11 Jan 2023|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- |[Dell EMC Cloud Mobility for Dell Storage improper check for certificate revocation](https://vuldb.com/?id.218997)|Visit link for details|2023-01-19 at 14:31|
- |[WAGO PFC100 Backup File missing authentication](https://vuldb.com/?id.218996)|Visit link for details|2023-01-19 at 14:30|
- |[Mozilla Firefox memory corruption](https://vuldb.com/?id.218995)|Visit link for details|2023-01-19 at 14:25|
- |[Mozilla Firefox memory corruption](https://vuldb.com/?id.218994)|Visit link for details|2023-01-19 at 14:23|
- |[Mozilla Firefox ParseFromSafeString Remote Code Execution](https://vuldb.com/?id.218993)|Visit link for details|2023-01-19 at 14:22|
- |[Mozilla Firefox URL incorrect regex](https://vuldb.com/?id.218992)|Visit link for details|2023-01-19 at 14:21|
- |[Mozilla Firefox WebSocket unknown vulnerability](https://vuldb.com/?id.218991)|Visit link for details|2023-01-19 at 14:20|
- |[Mozilla Firefox URL unknown vulnerability](https://vuldb.com/?id.218990)|Visit link for details|2023-01-19 at 14:20|
- |[Mozilla Firefox Notification permission](https://vuldb.com/?id.218989)|Visit link for details|2023-01-19 at 14:19|
- |[Mozilla Firefox Developer Tools Panel command injection](https://vuldb.com/?id.218988)|Visit link for details|2023-01-19 at 14:18|
  
 
 # OBS-Vigilance
@@ -119,31 +116,20 @@
  |[<a href="https://vigilance.fr/vulnerability/Tenable-Nessus-privilege-escalation-40318" class="noirorange"><b>Tenable Nessus</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Tenable-Nessus-privilege-escalation-40318)|An attacker can bypass restrictions of Tenable Nessus, in order to escalate his privileges...|Visit link for details|
  
 
-# IBM-X-FORCE-EXCHANGE
+# VulDB
 
  |Title|Description|Date|
  |---|---|---|
- |[Wireshark GNW dissector denial of service](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2023|
- |[Wireshark NFS dissector denial of service](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2023|
- |[Cisco Email Security Appliance security bypass (CVE-2023-20057)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 18, 2023|
- |[Cisco Unified Communications Manager SQL injection (CVE-2023-20010)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 18, 2023|
- |[Wireshark TIPC dissector denial of service](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 18, 2023|
- |[Wireshark BPv6, NCP, and RTPS dissector denial of service](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 18, 2023|
- |[Wireshark iSCSI dissector denial of service](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 18, 2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
+ |[Dell EMC Cloud Mobility for Dell Storage improper check for certificate revocation](https://vuldb.com/?id.218997)|Visit link for details|2023-01-19 at 14:31|
+ |[WAGO PFC100 Backup File missing authentication](https://vuldb.com/?id.218996)|Visit link for details|2023-01-19 at 14:30|
+ |[Mozilla Firefox memory corruption](https://vuldb.com/?id.218995)|Visit link for details|2023-01-19 at 14:25|
+ |[Mozilla Firefox memory corruption](https://vuldb.com/?id.218994)|Visit link for details|2023-01-19 at 14:23|
+ |[Mozilla Firefox ParseFromSafeString Remote Code Execution](https://vuldb.com/?id.218993)|Visit link for details|2023-01-19 at 14:22|
+ |[Mozilla Firefox URL incorrect regex](https://vuldb.com/?id.218992)|Visit link for details|2023-01-19 at 14:21|
+ |[Mozilla Firefox WebSocket unknown vulnerability](https://vuldb.com/?id.218991)|Visit link for details|2023-01-19 at 14:20|
+ |[Mozilla Firefox URL unknown vulnerability](https://vuldb.com/?id.218990)|Visit link for details|2023-01-19 at 14:20|
+ |[Mozilla Firefox Notification permission](https://vuldb.com/?id.218989)|Visit link for details|2023-01-19 at 14:19|
+ |[Mozilla Firefox Developer Tools Panel command injection](https://vuldb.com/?id.218988)|Visit link for details|2023-01-19 at 14:18|
  
 
 # CA-CCS
@@ -168,4 +154,18 @@
  |Title|Description|Date|
  |---|---|---|
  |[2023-002: Multiple critical Vulnerabilities in Git](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|During a code audit, X41 discovered several vulnerabilities in the version control system git. On January 17, the git project resolved the two most critical security vulnerabilities (CVE-2022-23521 and CVE-2022-41903) that could allow the remote execution of arbitrary code. GitHub and GitLab have also issued updates for their products, including the latest version of git. A third vulnerability (CVE-2022-41953) affects the Windows version of the Git GUI software and could also lead to the execution of arbitrary code. CERT-EU highly recommend upgrading to the latest version of git. In addition, if you are running on-premise GitHub or GitLab servers, we recommend updating them.|Thursday, January 19, 2023 10:50:00 PM CEST|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
