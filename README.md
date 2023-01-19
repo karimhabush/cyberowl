@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 19/01/2023 10:25:00 UTC
+ > Last Updated 19/01/2023 11:21:47 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,13 +57,30 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Wireshark GNW dissector denial of service](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2023|
+ |[Wireshark NFS dissector denial of service](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2023|
  |[Cisco Email Security Appliance security bypass (CVE-2023-20057)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 18, 2023|
  |[Cisco Unified Communications Manager SQL injection (CVE-2023-20010)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 18, 2023|
- |[Wireshark EAP dissector denial of service](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 18, 2023|
- |[Zyxel AX7501-B0 security bypass (CVE-2022-45440)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
- |[Food Ordering Management System SQL injection (CVE-2023-0332)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
- |[Oracle MySQL Server denial of service (CVE-2023-21887)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
- |[Oracle Fusion Middleware security bypass (CVE-2023-21891)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
+ |[Wireshark TIPC dissector denial of service](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 18, 2023|
+ |[Wireshark BPv6, NCP, and RTPS dissector denial of service](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 18, 2023|
+ |[Wireshark iSCSI dissector denial of service](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 18, 2023|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-TIPC-Dissector-40326" class="noirorange"><b>Wireshark</b>: denial of service via TIPC Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-TIPC-Dissector-40326)|An attacker can cause a fatal error of Wireshark, via TIPC Dissector, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-overload-via-BPv6-NCP-RTPS-Dissector-40325" class="noirorange"><b>Wireshark</b>: overload via BPv6 / NCP / RTPS Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-overload-via-BPv6-NCP-RTPS-Dissector-40325)|An attacker can trigger an overload of Wireshark, via BPv6 / NCP / RTPS Dissector, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-iSCSI-Dissector-40324" class="noirorange"><b>Wireshark</b>: denial of service via iSCSI Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-iSCSI-Dissector-40324)|An attacker can cause a fatal error of Wireshark, via iSCSI Dissector, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-GNW-Dissector-40323" class="noirorange"><b>Wireshark</b>: denial of service via GNW Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-GNW-Dissector-40323)|An attacker can cause a fatal error of Wireshark, via GNW Dissector, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Conversation-Tracking-Module-40322" class="noirorange"><b>Wireshark</b>: denial of service via Conversation Tracking Module</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Conversation-Tracking-Module-40322)|An attacker can cause a fatal error of Wireshark, via Conversation Tracking Module, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-memory-leak-via-NFS-Dissector-40321" class="noirorange"><b>Wireshark</b>: memory leak via NFS Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-memory-leak-via-NFS-Dissector-40321)|An attacker can create a memory leak of Wireshark, via NFS Dissector, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-EAP-Dissector-40320" class="noirorange"><b>Wireshark</b>: denial of service via EAP Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-EAP-Dissector-40320)|An attacker can cause a fatal error of Wireshark, via EAP Dissector, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/iText-7-code-execution-via-ITextPDF-CompareTool-Filename-40319" class="noirorange"><b>iText 7</b>: code execution via ITextPDF CompareTool Filename</a>](https://vigilance.fr/vulnerability/iText-7-code-execution-via-ITextPDF-CompareTool-Filename-40319)|An attacker can use a vulnerability of iText 7, via ITextPDF CompareTool Filename, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Tenable-Nessus-privilege-escalation-40318" class="noirorange"><b>Tenable Nessus</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Tenable-Nessus-privilege-escalation-40318)|An attacker can bypass restrictions of Tenable Nessus, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ISC-BIND-vulnerabity-unveiled-on-25-01-2023-40317" class="noirorange"><b>ISC BIND</b>: vulnerabity unveiled on 25/01/2023</a>](https://vigilance.fr/vulnerability/ISC-BIND-vulnerabity-unveiled-on-25-01-2023-40317)|A vulnerability of ISC BIND will be unveiled on 25/01/2023...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Media-Library-Form-API-Element-information-disclosure-40316" class="noirorange"><b>Drupal Media Library Form API Element</b>: information disclosure</a>](https://vigilance.fr/vulnerability/Drupal-Media-Library-Form-API-Element-information-disclosure-40316)|An attacker can bypass access restrictions to data of Drupal Media Library Form API Element, in order to read sensitive information...|Visit link for details|
  
 
 # MA-CERT
@@ -99,37 +116,6 @@
  |[Google Chrome Multiple Vulnerabilities](/security-bulletin/google-chrome-multiple-vulnerabilities_20230111)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, information disclosure and security restriction bypass on the targeted system.|Release Date: 11 Jan 2023|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-TIPC-Dissector-40326" class="noirorange"><b>Wireshark</b>: denial of service via TIPC Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-TIPC-Dissector-40326)|An attacker can cause a fatal error of Wireshark, via TIPC Dissector, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-overload-via-BPv6-NCP-RTPS-Dissector-40325" class="noirorange"><b>Wireshark</b>: overload via BPv6 / NCP / RTPS Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-overload-via-BPv6-NCP-RTPS-Dissector-40325)|An attacker can trigger an overload of Wireshark, via BPv6 / NCP / RTPS Dissector, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-iSCSI-Dissector-40324" class="noirorange"><b>Wireshark</b>: denial of service via iSCSI Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-iSCSI-Dissector-40324)|An attacker can cause a fatal error of Wireshark, via iSCSI Dissector, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-GNW-Dissector-40323" class="noirorange"><b>Wireshark</b>: denial of service via GNW Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-GNW-Dissector-40323)|An attacker can cause a fatal error of Wireshark, via GNW Dissector, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Conversation-Tracking-Module-40322" class="noirorange"><b>Wireshark</b>: denial of service via Conversation Tracking Module</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Conversation-Tracking-Module-40322)|An attacker can cause a fatal error of Wireshark, via Conversation Tracking Module, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-memory-leak-via-NFS-Dissector-40321" class="noirorange"><b>Wireshark</b>: memory leak via NFS Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-memory-leak-via-NFS-Dissector-40321)|An attacker can create a memory leak of Wireshark, via NFS Dissector, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-EAP-Dissector-40320" class="noirorange"><b>Wireshark</b>: denial of service via EAP Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-EAP-Dissector-40320)|An attacker can cause a fatal error of Wireshark, via EAP Dissector, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/iText-7-code-execution-via-ITextPDF-CompareTool-Filename-40319" class="noirorange"><b>iText 7</b>: code execution via ITextPDF CompareTool Filename</a>](https://vigilance.fr/vulnerability/iText-7-code-execution-via-ITextPDF-CompareTool-Filename-40319)|An attacker can use a vulnerability of iText 7, via ITextPDF CompareTool Filename, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Tenable-Nessus-privilege-escalation-40318" class="noirorange"><b>Tenable Nessus</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Tenable-Nessus-privilege-escalation-40318)|An attacker can bypass restrictions of Tenable Nessus, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ISC-BIND-vulnerabity-unveiled-on-25-01-2023-40317" class="noirorange"><b>ISC BIND</b>: vulnerabity unveiled on 25/01/2023</a>](https://vigilance.fr/vulnerability/ISC-BIND-vulnerabity-unveiled-on-25-01-2023-40317)|A vulnerability of ISC BIND will be unveiled on 25/01/2023...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Media-Library-Form-API-Element-information-disclosure-40316" class="noirorange"><b>Drupal Media Library Form API Element</b>: information disclosure</a>](https://vigilance.fr/vulnerability/Drupal-Media-Library-Form-API-Element-information-disclosure-40316)|An attacker can bypass access restrictions to data of Drupal Media Library Form API Element, in order to read sensitive information...|Visit link for details|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
- 
-
 # VulDB
 
  |Title|Description|Date|
@@ -144,6 +130,13 @@
  |[Rapid7 Velociraptor VQL copy privileges management](https://vuldb.com/?id.218976)|Visit link for details|2023-01-19 at 09:12|
  |[OpenText Content Suite Platform Java Application Server improper authentication](https://vuldb.com/?id.218975)|Visit link for details|2023-01-19 at 09:11|
  |[OpenText Content Suite Platform Common Gateway Interface cs.exe memory corruption](https://vuldb.com/?id.218974)|Visit link for details|2023-01-19 at 09:10|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-002: Multiple critical Vulnerabilities in Git](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|During a code audit, X41 discovered several vulnerabilities in the version control system git. On January 17, the git project resolved the two most critical security vulnerabilities (CVE-2022-23521 and CVE-2022-41903) that could allow the remote execution of arbitrary code. GitHub and GitLab have also issued updates for their products, including the latest version of git. A third vulnerability (CVE-2022-41953) affects the Windows version of the Git GUI software and could also lead to the execution of arbitrary code. CERT-EU highly recommend upgrading to the latest version of git. In addition, if you are running on-premise GitHub or GitLab servers, we recommend updating them.|Thursday, January 19, 2023 10:50:00 PM CEST|
  
 
 # CA-CCS
@@ -163,9 +156,16 @@
  |[[Control systems] Sewio security advisory (AV23-024)](https://cyber.gc.ca/en/alerts-advisories/control-systems-sewio-security-advisory-av23-024)|Visit link for details|2023-01-12|
  
 
-# EU-CERT
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[2023-002: Multiple critical Vulnerabilities in Git](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|During a code audit, X41 discovered several vulnerabilities in the version control system git. On January 17, the git project resolved the two most critical security vulnerabilities (CVE-2022-23521 and CVE-2022-41903) that could allow the remote execution of arbitrary code. GitHub and GitLab have also issued updates for their products, including the latest version of git. A third vulnerability (CVE-2022-41953) affects the Windows version of the Git GUI software and could also lead to the execution of arbitrary code. CERT-EU highly recommend upgrading to the latest version of git. In addition, if you are running on-premise GitHub or GitLab servers, we recommend updating them.|Thursday, January 19, 2023 10:50:00 PM CEST|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
