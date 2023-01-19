@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 19/01/2023 05:20:01 UTC
+ > Last Updated 19/01/2023 06:26:31 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -83,6 +83,22 @@
  |[Oracle Fusion Middleware security bypass (CVE-2023-21892)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 17, 2023|
  
 
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Adobe Acrobat Reader out-of-bounds](https://vuldb.com/?id.218953)|Visit link for details|2023-01-19 at 07:12|
+ |[IBM AIX/VIOS X11 buffer overflow](https://vuldb.com/?id.218952)|Visit link for details|2023-01-19 at 07:12|
+ |[gitter-badger ezpublish-modern-legacy forgotpassword.php password recovery](https://vuldb.com/?id.218951)|Visit link for details|2023-01-19 at 21:51|
+ |[GlobalID Gem redos](https://vuldb.com/?id.218950)|Visit link for details|2023-01-19 at 21:49|
+ |[Rack Gem Multipart Parser denial of service](https://vuldb.com/?id.218949)|Visit link for details|2023-01-19 at 21:48|
+ |[Rack Gem Header Parser denial of service](https://vuldb.com/?id.218948)|Visit link for details|2023-01-19 at 21:48|
+ |[activerecord Gem ActiveRecord Comment sql injection](https://vuldb.com/?id.218947)|Visit link for details|2023-01-19 at 21:48|
+ |[actionpack Gem Action Dispatch redos](https://vuldb.com/?id.218946)|Visit link for details|2023-01-19 at 21:47|
+ |[actionpack Gem redirect](https://vuldb.com/?id.218945)|Visit link for details|2023-01-19 at 21:47|
+ |[activesupport Gem underscore redos](https://vuldb.com/?id.218944)|Visit link for details|2023-01-19 at 21:47|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -97,53 +113,6 @@
  |[Cisco End-of-Life Small Business Routers Multiple Vulnerabilities](/security-bulletin/cisco-end-of-life-small-business-routers-multiple-vulnerabilities_20230112)|Multiple vulnerabilities were identified in Cisco's End-of-Life Small Business Routers. A remote attacker could exploit some of these vulnerabilities to remote code execution and security restriction bypass on the targeted system. Note:Proof of Concept exploit code Is publicly available...|Release Date: 12 Jan 2023|
  |[Adobe Monthly Security Update (January 2023)](/security-bulletin/adobe-monthly-security-update-january-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Acrobat and Reader Medium RiskRemote Code ExecutionInformation DisclosureDenial of ServiceElevation of Privilege APSB23-...|Release Date: 11 Jan 2023|
  |[Google Chrome Multiple Vulnerabilities](/security-bulletin/google-chrome-multiple-vulnerabilities_20230111)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, information disclosure and security restriction bypass on the targeted system.|Release Date: 11 Jan 2023|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- |[gitter-badger ezpublish-modern-legacy forgotpassword.php password recovery](https://vuldb.com/?id.218951)|Visit link for details|2023-01-19 at 21:51|
- |[GlobalID Gem redos](https://vuldb.com/?id.218950)|Visit link for details|2023-01-19 at 21:49|
- |[Rack Gem Multipart Parser denial of service](https://vuldb.com/?id.218949)|Visit link for details|2023-01-19 at 21:48|
- |[Rack Gem Header Parser denial of service](https://vuldb.com/?id.218948)|Visit link for details|2023-01-19 at 21:48|
- |[activerecord Gem ActiveRecord Comment sql injection](https://vuldb.com/?id.218947)|Visit link for details|2023-01-19 at 21:48|
- |[actionpack Gem Action Dispatch redos](https://vuldb.com/?id.218946)|Visit link for details|2023-01-19 at 21:47|
- |[actionpack Gem redirect](https://vuldb.com/?id.218945)|Visit link for details|2023-01-19 at 21:47|
- |[activesupport Gem underscore redos](https://vuldb.com/?id.218944)|Visit link for details|2023-01-19 at 21:47|
- |[actionpack Gem Action Dispatch redos](https://vuldb.com/?id.218943)|Visit link for details|2023-01-19 at 21:46|
- |[activerecord Gem PostgreSQL Adapter denial of service](https://vuldb.com/?id.218942)|Visit link for details|2023-01-19 at 21:46|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[[Control systems] Mitsubishi Electric security advisory (AV23-034)](https://cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av23-034)|Visit link for details|2023-01-18|
- |[Mozilla security advisory (AV23-033)](https://cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av23-033)|Visit link for details|2023-01-18|
- |[Ubuntu security advisory (AV23-032)](https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-032)|Visit link for details|2023-01-16|
- |[IBM security advisory (AV23-031)](https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-031)|Visit link for details|2023-01-16|
- |[Dell security advisory (AV23-030)](https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-030)|Visit link for details|2023-01-16|
- |[[Control systems] Hitachi Energy security advisory (AV23-029)](https://cyber.gc.ca/en/alerts-advisories/control-systems-hitachi-energy-security-advisory-av23-029)|Visit link for details|2023-01-16|
- |[Red Hat security advisory (AV23-028)](https://cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av23-028)|Visit link for details|2023-01-13|
- |[Microsoft Edge security advisory (AV23-027)](https://cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-027)|Visit link for details|2023-01-13|
- |[[Control systems] RONDS security advisory (AV23-026)](https://cyber.gc.ca/en/alerts-advisories/control-systems-ronds-security-advisory-av23-026)|Visit link for details|2023-01-12|
- |[[Control systems] SAUTER Controls security advisory (AV23-025)](https://cyber.gc.ca/en/alerts-advisories/control-systems-sauter-controls-security-advisory-av23-025)|Visit link for details|2023-01-12|
- |[[Control systems] Sewio security advisory (AV23-024)](https://cyber.gc.ca/en/alerts-advisories/control-systems-sewio-security-advisory-av23-024)|Visit link for details|2023-01-12|
  
 
 # OBS-Vigilance
@@ -163,9 +132,32 @@
  |[<a href="https://vigilance.fr/vulnerability/Skyhigh-Secure-Web-Gateway-Cross-Site-Scripting-40308" class="noirorange"><b>Skyhigh Secure Web Gateway</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Skyhigh-Secure-Web-Gateway-Cross-Site-Scripting-40308)|An attacker can trigger a Cross Site Scripting of Skyhigh Secure Web Gateway, in order to run JavaScript code in the context of the web site...|Visit link for details|
  
 
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[[Control systems] Mitsubishi Electric security advisory (AV23-034)](https://cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av23-034)|Visit link for details|2023-01-18|
+ |[Mozilla security advisory (AV23-033)](https://cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av23-033)|Visit link for details|2023-01-18|
+ |[Ubuntu security advisory (AV23-032)](https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-032)|Visit link for details|2023-01-16|
+ |[IBM security advisory (AV23-031)](https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-031)|Visit link for details|2023-01-16|
+ |[Dell security advisory (AV23-030)](https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-030)|Visit link for details|2023-01-16|
+ |[[Control systems] Hitachi Energy security advisory (AV23-029)](https://cyber.gc.ca/en/alerts-advisories/control-systems-hitachi-energy-security-advisory-av23-029)|Visit link for details|2023-01-16|
+ |[Red Hat security advisory (AV23-028)](https://cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av23-028)|Visit link for details|2023-01-13|
+ |[Microsoft Edge security advisory (AV23-027)](https://cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-027)|Visit link for details|2023-01-13|
+ |[[Control systems] RONDS security advisory (AV23-026)](https://cyber.gc.ca/en/alerts-advisories/control-systems-ronds-security-advisory-av23-026)|Visit link for details|2023-01-12|
+ |[[Control systems] SAUTER Controls security advisory (AV23-025)](https://cyber.gc.ca/en/alerts-advisories/control-systems-sauter-controls-security-advisory-av23-025)|Visit link for details|2023-01-12|
+ |[[Control systems] Sewio security advisory (AV23-024)](https://cyber.gc.ca/en/alerts-advisories/control-systems-sewio-security-advisory-av23-024)|Visit link for details|2023-01-12|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
  |---|---|---|
  |[2023-001: Zero-day and Critical Vulnerabilities in Microsoft Windows](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On January 10, 2023, on their first Patch Tuesday of 2023, Microsoft fixed an actively exploited zero-day Windows Advanced Local Procedure Call (ALPC) Elevation of Privilege Vulnerability and a total of 98 flaws. Eleven of them were classified as critical by Microsoft as they allow remote code execution, bypass security features, or elevate privileges. It is highly recommended applying the fixes as soon as possible.|Wednesday, January 11, 2023 05:50:00 PM CEST|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
  
