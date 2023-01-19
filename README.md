@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 19/01/2023 13:28:10 UTC
+ > Last Updated 19/01/2023 14:21:12 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,6 +57,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[39861901/23 - Vulnérabilité dans le CMS Drupal](https://www.dgssi.gov.ma//fr/content/3986190123-vulnerabilite-dans-le-cms-drupal.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées du CMS Drupal. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité des données.|19 janvier 2023|
  |[39851901/23 - Vulnérabilités affectantle navigateur Mozilla Firefox](https://www.dgssi.gov.ma//fr/content/3985190123-vulnerabilites-affectant-le-navigateur-mozilla-firefox.html)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de cesvulnérabilités peut permettre à un...|19 janvier 2023|
  |[39841901/23 - Vulnérabilité dans SUDO](https://www.dgssi.gov.ma//fr/content/3984190123-vulnerabilite-dans-sudo.html)|Une vulnérabilité a été corrigée dans l'outil « sudo » utilisé par tous les systèmes Unix et Linux. L'exploitation de cette faille peutpermettre à un utilisateur malveillant ayant les privilèges « sudoedit » de réussir une...|19 janvier 2023|
  |[39841901/23 - Vulnérabilités dans Apache HTTP Server](https://www.dgssi.gov.ma//fr/content/3984190123-vulnerabilites-dans-apache-http-server.html)|Plusieurs vulnérabilités ont été corrigées dans Apache HTTP Server. L'exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité et de porter atteinte à la confidentialité de données.|19 janvier 2023|
@@ -67,20 +68,6 @@
  |[39791601/23 - Vulnérabilités critiques affectant trois plugins pour WordPress](https://www.dgssi.gov.ma//fr/content/3979160123-vulnerabilites-critiques-affectant-trois-plugins-pour-wordpress.html)|WordPressannonce la correction de troisvulnérabilités critique affectant ses Plugins susmentionnés. Ces vulnérabilités sont activement exploitées et peuvent permettre à un attaquant deprovoquer une injection SQL.|16 janvier 2023|
  |[39781601/23 - Vulnérabilités affectantle navigateur Microsoft Edge ](https://www.dgssi.gov.ma//fr/content/3978160123-vulnerabilites-affectant-le-navigateur-microsoft-edge.html)|Microsoft vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilités affectant le navigateur Microsoft Edge. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuter du code...|16 janvier 2023|
  |[39771301/23 - Tentatives d’exploitation d’une vulnérabilité critique affectantControl Web Panel (C](https://www.dgssi.gov.ma//fr/content/3977130123-tentatives-d-exploitation-d-une-vulnerabilite-critique-affectant-control-web-panel-cwp.html)|Une vulnérabilité critique a été corrigée au niveau du logiciel d’administration des serveurs Linux CentOS Control Web Panel (CWP). Cette vulnérabilité est activement exploitée et peut permettre à un attaquantd’élever ses privilèges ou d...|13 janvier 2023|
- |[39761301/23 - Vulnérabilités dans les produits Cisco](https://www.dgssi.gov.ma//fr/content/3976130123-vulnerabilites-dans-les-produits-cisco.html)|Plusieurs vulnérabilités ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir une élévation de privilèges, causer un déni de service,...|13 janvier 2023|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Wireshark GNW dissector denial of service](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2023|
- |[Wireshark NFS dissector denial of service](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2023|
- |[Cisco Email Security Appliance security bypass (CVE-2023-20057)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 18, 2023|
- |[Cisco Unified Communications Manager SQL injection (CVE-2023-20010)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 18, 2023|
- |[Wireshark TIPC dissector denial of service](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 18, 2023|
- |[Wireshark BPv6, NCP, and RTPS dissector denial of service](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 18, 2023|
- |[Wireshark iSCSI dissector denial of service](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 18, 2023|
  
 
 # HK-CERT
@@ -99,6 +86,52 @@
  |[Google Chrome Multiple Vulnerabilities](/security-bulletin/google-chrome-multiple-vulnerabilities_20230111)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, information disclosure and security restriction bypass on the targeted system.|Release Date: 11 Jan 2023|
  
 
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Dell EMC Cloud Mobility for Dell Storage improper check for certificate revocation](https://vuldb.com/?id.218997)|Visit link for details|2023-01-19 at 14:31|
+ |[WAGO PFC100 Backup File missing authentication](https://vuldb.com/?id.218996)|Visit link for details|2023-01-19 at 14:30|
+ |[Mozilla Firefox memory corruption](https://vuldb.com/?id.218995)|Visit link for details|2023-01-19 at 14:25|
+ |[Mozilla Firefox memory corruption](https://vuldb.com/?id.218994)|Visit link for details|2023-01-19 at 14:23|
+ |[Mozilla Firefox ParseFromSafeString Remote Code Execution](https://vuldb.com/?id.218993)|Visit link for details|2023-01-19 at 14:22|
+ |[Mozilla Firefox URL incorrect regex](https://vuldb.com/?id.218992)|Visit link for details|2023-01-19 at 14:21|
+ |[Mozilla Firefox WebSocket unknown vulnerability](https://vuldb.com/?id.218991)|Visit link for details|2023-01-19 at 14:20|
+ |[Mozilla Firefox URL unknown vulnerability](https://vuldb.com/?id.218990)|Visit link for details|2023-01-19 at 14:20|
+ |[Mozilla Firefox Notification permission](https://vuldb.com/?id.218989)|Visit link for details|2023-01-19 at 14:19|
+ |[Mozilla Firefox Developer Tools Panel command injection](https://vuldb.com/?id.218988)|Visit link for details|2023-01-19 at 14:18|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-privilege-escalation-40328" class="noirorange"><b>WithSecure Endpoint Protection</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-privilege-escalation-40328)|An attacker can bypass restrictions of WithSecure Endpoint Protection, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-aerdl-dll-40327" class="noirorange"><b>WithSecure Endpoint Protection</b>: denial of service via aerdl.dll</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-aerdl-dll-40327)|An attacker can cause a fatal error of WithSecure Endpoint Protection, via aerdl.dll, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-TIPC-Dissector-40326" class="noirorange"><b>Wireshark</b>: denial of service via TIPC Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-TIPC-Dissector-40326)|An attacker can cause a fatal error of Wireshark, via TIPC Dissector, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-overload-via-BPv6-NCP-RTPS-Dissector-40325" class="noirorange"><b>Wireshark</b>: overload via BPv6 / NCP / RTPS Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-overload-via-BPv6-NCP-RTPS-Dissector-40325)|An attacker can trigger an overload of Wireshark, via BPv6 / NCP / RTPS Dissector, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-iSCSI-Dissector-40324" class="noirorange"><b>Wireshark</b>: denial of service via iSCSI Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-iSCSI-Dissector-40324)|An attacker can cause a fatal error of Wireshark, via iSCSI Dissector, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-GNW-Dissector-40323" class="noirorange"><b>Wireshark</b>: denial of service via GNW Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-GNW-Dissector-40323)|An attacker can cause a fatal error of Wireshark, via GNW Dissector, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Conversation-Tracking-Module-40322" class="noirorange"><b>Wireshark</b>: denial of service via Conversation Tracking Module</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Conversation-Tracking-Module-40322)|An attacker can cause a fatal error of Wireshark, via Conversation Tracking Module, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-memory-leak-via-NFS-Dissector-40321" class="noirorange"><b>Wireshark</b>: memory leak via NFS Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-memory-leak-via-NFS-Dissector-40321)|An attacker can create a memory leak of Wireshark, via NFS Dissector, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-EAP-Dissector-40320" class="noirorange"><b>Wireshark</b>: denial of service via EAP Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-EAP-Dissector-40320)|An attacker can cause a fatal error of Wireshark, via EAP Dissector, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/iText-7-code-execution-via-ITextPDF-CompareTool-Filename-40319" class="noirorange"><b>iText 7</b>: code execution via ITextPDF CompareTool Filename</a>](https://vigilance.fr/vulnerability/iText-7-code-execution-via-ITextPDF-CompareTool-Filename-40319)|An attacker can use a vulnerability of iText 7, via ITextPDF CompareTool Filename, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Tenable-Nessus-privilege-escalation-40318" class="noirorange"><b>Tenable Nessus</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Tenable-Nessus-privilege-escalation-40318)|An attacker can bypass restrictions of Tenable Nessus, in order to escalate his privileges...|Visit link for details|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Wireshark GNW dissector denial of service](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2023|
+ |[Wireshark NFS dissector denial of service](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2023|
+ |[Cisco Email Security Appliance security bypass (CVE-2023-20057)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 18, 2023|
+ |[Cisco Unified Communications Manager SQL injection (CVE-2023-20010)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 18, 2023|
+ |[Wireshark TIPC dissector denial of service](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 18, 2023|
+ |[Wireshark BPv6, NCP, and RTPS dissector denial of service](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 18, 2023|
+ |[Wireshark iSCSI dissector denial of service](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 18, 2023|
+ 
+
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -113,33 +146,13 @@
  |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
 
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-TIPC-Dissector-40326" class="noirorange"><b>Wireshark</b>: denial of service via TIPC Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-TIPC-Dissector-40326)|An attacker can cause a fatal error of Wireshark, via TIPC Dissector, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-overload-via-BPv6-NCP-RTPS-Dissector-40325" class="noirorange"><b>Wireshark</b>: overload via BPv6 / NCP / RTPS Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-overload-via-BPv6-NCP-RTPS-Dissector-40325)|An attacker can trigger an overload of Wireshark, via BPv6 / NCP / RTPS Dissector, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-iSCSI-Dissector-40324" class="noirorange"><b>Wireshark</b>: denial of service via iSCSI Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-iSCSI-Dissector-40324)|An attacker can cause a fatal error of Wireshark, via iSCSI Dissector, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-GNW-Dissector-40323" class="noirorange"><b>Wireshark</b>: denial of service via GNW Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-GNW-Dissector-40323)|An attacker can cause a fatal error of Wireshark, via GNW Dissector, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Conversation-Tracking-Module-40322" class="noirorange"><b>Wireshark</b>: denial of service via Conversation Tracking Module</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Conversation-Tracking-Module-40322)|An attacker can cause a fatal error of Wireshark, via Conversation Tracking Module, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-memory-leak-via-NFS-Dissector-40321" class="noirorange"><b>Wireshark</b>: memory leak via NFS Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-memory-leak-via-NFS-Dissector-40321)|An attacker can create a memory leak of Wireshark, via NFS Dissector, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-EAP-Dissector-40320" class="noirorange"><b>Wireshark</b>: denial of service via EAP Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-EAP-Dissector-40320)|An attacker can cause a fatal error of Wireshark, via EAP Dissector, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/iText-7-code-execution-via-ITextPDF-CompareTool-Filename-40319" class="noirorange"><b>iText 7</b>: code execution via ITextPDF CompareTool Filename</a>](https://vigilance.fr/vulnerability/iText-7-code-execution-via-ITextPDF-CompareTool-Filename-40319)|An attacker can use a vulnerability of iText 7, via ITextPDF CompareTool Filename, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Tenable-Nessus-privilege-escalation-40318" class="noirorange"><b>Tenable Nessus</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Tenable-Nessus-privilege-escalation-40318)|An attacker can bypass restrictions of Tenable Nessus, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ISC-BIND-vulnerabity-unveiled-on-25-01-2023-40317" class="noirorange"><b>ISC BIND</b>: vulnerabity unveiled on 25/01/2023</a>](https://vigilance.fr/vulnerability/ISC-BIND-vulnerabity-unveiled-on-25-01-2023-40317)|A vulnerability of ISC BIND will be unveiled on 25/01/2023...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Media-Library-Form-API-Element-information-disclosure-40316" class="noirorange"><b>Drupal Media Library Form API Element</b>: information disclosure</a>](https://vigilance.fr/vulnerability/Drupal-Media-Library-Form-API-Element-information-disclosure-40316)|An attacker can bypass access restrictions to data of Drupal Media Library Form API Element, in order to read sensitive information...|Visit link for details|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
+ |[GitLab security advisory (AV23-037)](https://cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av23-037)|Visit link for details|2023-01-18|
+ |[Oracle security advisory – January 2023 quarterly rollup (AV23-036)](https://cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-january-2023-quarterly-rollup-av23-036)|Visit link for details|2023-01-18|
+ |[[Control systems] GE Digital security advisory (AV23-035)](https://cyber.gc.ca/en/alerts-advisories/control-systems-ge-digital-security-advisory-av23-035)|Visit link for details|2023-01-18|
  |[[Control systems] Mitsubishi Electric security advisory (AV23-034)](https://cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av23-034)|Visit link for details|2023-01-18|
  |[Mozilla security advisory (AV23-033)](https://cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av23-033)|Visit link for details|2023-01-18|
  |[Ubuntu security advisory (AV23-032)](https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-032)|Visit link for details|2023-01-16|
@@ -148,9 +161,6 @@
  |[[Control systems] Hitachi Energy security advisory (AV23-029)](https://cyber.gc.ca/en/alerts-advisories/control-systems-hitachi-energy-security-advisory-av23-029)|Visit link for details|2023-01-16|
  |[Red Hat security advisory (AV23-028)](https://cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av23-028)|Visit link for details|2023-01-13|
  |[Microsoft Edge security advisory (AV23-027)](https://cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-027)|Visit link for details|2023-01-13|
- |[[Control systems] RONDS security advisory (AV23-026)](https://cyber.gc.ca/en/alerts-advisories/control-systems-ronds-security-advisory-av23-026)|Visit link for details|2023-01-12|
- |[[Control systems] SAUTER Controls security advisory (AV23-025)](https://cyber.gc.ca/en/alerts-advisories/control-systems-sauter-controls-security-advisory-av23-025)|Visit link for details|2023-01-12|
- |[[Control systems] Sewio security advisory (AV23-024)](https://cyber.gc.ca/en/alerts-advisories/control-systems-sewio-security-advisory-av23-024)|Visit link for details|2023-01-12|
  
 
 # EU-CERT
