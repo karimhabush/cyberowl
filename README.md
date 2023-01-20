@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 20/01/2023 11:19:02 UTC
+ > Last Updated 20/01/2023 12:40:18 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -53,10 +53,17 @@
  |[Vulnérabilité dans IBM AIX](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0033/)|Une vulnérabilité a été découverte dans IBM AIX. Elle permet à un attaquant de provoquer une exécution de code arbitraire et un déni de service.|Publié le 18 janvier 2023|
  
 
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[39872001/23 - Vulnérabilités dans les produits Cisco](https://www.dgssi.gov.ma//fr/content/3987200123-vulnerabilites-dans-les-produits-cisco.html)|Plusieurs vulnérabilités ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir une élévation de privilèges, causer un déni de service,...|20 janvier 2023|
  |[39861901/23 - Vulnérabilité dans le CMS Drupal](https://www.dgssi.gov.ma//fr/content/3986190123-vulnerabilite-dans-le-cms-drupal.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées du CMS Drupal. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité des données.|19 janvier 2023|
  |[39851901/23 - Vulnérabilités affectantle navigateur Mozilla Firefox](https://www.dgssi.gov.ma//fr/content/3985190123-vulnerabilites-affectant-le-navigateur-mozilla-firefox.html)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de cesvulnérabilités peut permettre à un...|19 janvier 2023|
  |[39841901/23 - Vulnérabilité dans SUDO](https://www.dgssi.gov.ma//fr/content/3984190123-vulnerabilite-dans-sudo.html)|Une vulnérabilité a été corrigée dans l'outil « sudo » utilisé par tous les systèmes Unix et Linux. L'exploitation de cette faille peutpermettre à un utilisateur malveillant ayant les privilèges « sudoedit » de réussir une...|19 janvier 2023|
@@ -67,13 +74,13 @@
  |[39801601/23 - Vulnérabilités affectantdes produits Juniper](https://www.dgssi.gov.ma//fr/content/3980160123-vulnerabilites-affectant-des-produits-juniper.html)|Juniper annonce la correction de plusieursvulnérabilités qui affectent certains de ses produits.Un attaquant distantpourrait exploiter ces failles afin d’exécuter du code arbitraire, injecter du contenu dans une page,...|17 janvier 2023|
  |[39791601/23 - Vulnérabilités critiques affectant trois plugins pour WordPress](https://www.dgssi.gov.ma//fr/content/3979160123-vulnerabilites-critiques-affectant-trois-plugins-pour-wordpress.html)|WordPressannonce la correction de troisvulnérabilités critique affectant ses Plugins susmentionnés. Ces vulnérabilités sont activement exploitées et peuvent permettre à un attaquant deprovoquer une injection SQL.|16 janvier 2023|
  |[39781601/23 - Vulnérabilités affectantle navigateur Microsoft Edge ](https://www.dgssi.gov.ma//fr/content/3978160123-vulnerabilites-affectant-le-navigateur-microsoft-edge.html)|Microsoft vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilités affectant le navigateur Microsoft Edge. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuter du code...|16 janvier 2023|
- |[39771301/23 - Tentatives d’exploitation d’une vulnérabilité critique affectantControl Web Panel (C](https://www.dgssi.gov.ma//fr/content/3977130123-tentatives-d-exploitation-d-une-vulnerabilite-critique-affectant-control-web-panel-cwp.html)|Une vulnérabilité critique a été corrigée au niveau du logiciel d’administration des serveurs Linux CentOS Control Web Panel (CWP). Cette vulnérabilité est activement exploitée et peut permettre à un attaquantd’élever ses privilèges ou d...|13 janvier 2023|
  
 
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-40331" class="noirorange"><b>Microsoft Edge Chromium</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-40331)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Notepad-buffer-overflow-via-notepad-plus-addHotSpot-40330" class="noirorange"><b>Notepad++</b>: buffer overflow via notepad_plus::addHotSpot()</a>](https://vigilance.fr/vulnerability/Notepad-buffer-overflow-via-notepad-plus-addHotSpot-40330)|An attacker can trigger a buffer overflow of Notepad++, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Symantec-Endpoint-Protection-privilege-escalation-40329" class="noirorange"><b>Symantec Endpoint Protection</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Symantec-Endpoint-Protection-privilege-escalation-40329)|An attacker can bypass restrictions of Symantec Endpoint Protection, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-privilege-escalation-40328" class="noirorange"><b>WithSecure Endpoint Protection</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-privilege-escalation-40328)|An attacker can bypass restrictions of WithSecure Endpoint Protection, in order to escalate his privileges...|Visit link for details|
@@ -84,23 +91,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-GNW-Dissector-40323" class="noirorange"><b>Wireshark</b>: denial of service via GNW Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-GNW-Dissector-40323)|An attacker can cause a fatal error of Wireshark, via GNW Dissector, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Conversation-Tracking-Module-40322" class="noirorange"><b>Wireshark</b>: denial of service via Conversation Tracking Module</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-Conversation-Tracking-Module-40322)|An attacker can cause a fatal error of Wireshark, via Conversation Tracking Module, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Wireshark-memory-leak-via-NFS-Dissector-40321" class="noirorange"><b>Wireshark</b>: memory leak via NFS Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-memory-leak-via-NFS-Dissector-40321)|An attacker can create a memory leak of Wireshark, via NFS Dissector, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-EAP-Dissector-40320" class="noirorange"><b>Wireshark</b>: denial of service via EAP Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-EAP-Dissector-40320)|An attacker can cause a fatal error of Wireshark, via EAP Dissector, in order to trigger a denial of service...|Visit link for details|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- |[GiveWP Plugin Shortcode cross site scripting](https://vuldb.com/?id.219032)|Visit link for details|2023-01-20 at 08:49|
- |[TemplatesNext ToolKit Plugin Shortcode cross site scripting](https://vuldb.com/?id.219031)|Visit link for details|2023-01-20 at 08:49|
- |[builderio qwik cross site scripting](https://vuldb.com/?id.219030)|Visit link for details|2023-01-20 at 08:35|
- |[Notepad++ Files addHotSpot buffer overflow](https://vuldb.com/?id.219029)|Visit link for details|2023-01-20 at 08:34|
- |[Contec CONPROSYS HMI System hard-coded credentials](https://vuldb.com/?id.219028)|Visit link for details|2023-01-20 at 08:34|
- |[D-Link DIR-859 A1 soapcgi_main command injection](https://vuldb.com/?id.219027)|Visit link for details|2023-01-20 at 08:34|
- |[Contec CONPROSYS HMI System cross site scripting](https://vuldb.com/?id.219026)|Visit link for details|2023-01-20 at 08:34|
- |[Trusted Computing Group tpm2-tss Tss2_RC_Decode buffer overflow](https://vuldb.com/?id.219025)|Visit link for details|2023-01-20 at 08:34|
- |[Contec CONPROSYS HMI System access control](https://vuldb.com/?id.219024)|Visit link for details|2023-01-20 at 08:34|
- |[Contec CONPROSYS HMI System unknown vulnerability](https://vuldb.com/?id.219023)|Visit link for details|2023-01-20 at 08:34|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -132,20 +122,6 @@
  |[Cisco End-of-Life Small Business Routers Multiple Vulnerabilities](/security-bulletin/cisco-end-of-life-small-business-routers-multiple-vulnerabilities_20230112)|Multiple vulnerabilities were identified in Cisco's End-of-Life Small Business Routers. A remote attacker could exploit some of these vulnerabilities to remote code execution and security restriction bypass on the targeted system. Note:Proof of Concept exploit code Is publicly available...|Release Date: 12 Jan 2023|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -168,4 +144,10 @@
  |[Ubuntu security advisory (AV23-032)](https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-032)|Visit link for details|2023-01-16|
  |[IBM security advisory (AV23-031)](https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-031)|Visit link for details|2023-01-16|
  |[Dell security advisory (AV23-030)](https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-030)|Visit link for details|2023-01-16|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
  
