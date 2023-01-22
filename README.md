@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 22/01/2023 08:25:52 UTC
+ > Last Updated 22/01/2023 09:19:30 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -35,12 +35,6 @@
  |[Mozilla Releases Security Updates for Firefox](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/18/mozilla-releases-security-updates-firefox)|<p>Mozilla has released security updates to address vulnerabilities in Firefox ESR and Firefox. An attacker could exploit some of these vulnerabilities to take control of an affected system.</p>|Wednesday, January 18, 2023|
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/17/cisa-adds-one-known-exploited-vulnerability-catalog)|<p>CISA has added one new vulnerability to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. This type of vulnerability is a frequent attack vector for malicious cyber actors and poses a significant risk to the federal enterprise. Note: To view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.</p>|Tuesday, January 17, 2023|
  |[CISA Updates Best Practices for Mapping to MITRE ATT&CK®](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/17/cisa-updates-best-practices-mapping-mitre-attckr)|<p>Today, CISA updated <a href="https://www.cisa.gov/uscert/best-practices-mitre-attckr-mapping">Best Practices for MITRE ATT&amp;CK® Mapping</a>.</p>|Tuesday, January 17, 2023|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # CERT-FR
@@ -76,6 +70,25 @@
  |[39781601/23 - Vulnérabilités affectantle navigateur Microsoft Edge ](https://www.dgssi.gov.ma//fr/content/3978160123-vulnerabilites-affectant-le-navigateur-microsoft-edge.html)|Microsoft vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilités affectant le navigateur Microsoft Edge. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuter du code...|16 janvier 2023|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Qwik cross-site scripting (CVE-2023-0410)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 20, 2023|
+ |[etcd information disclosure (CVE-2023-0296)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2023|
+ |[Zephyr code execution (CVE-2022-3806)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2023|
+ |[Zephyr buffer overflow (CVE-2023-0396)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2023|
+ |[Zephyr denial of service (CVE-2023-0397)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2023|
+ |[Microsoft Edge (Chromium-based) security bypass (CVE-2023-21719)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2023|
+ |[Wireshark GNW dissector denial of service](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2023|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -93,19 +106,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Wireshark-overload-via-BPv6-NCP-RTPS-Dissector-40325" class="noirorange"><b>Wireshark</b>: overload via BPv6 / NCP / RTPS Dissector</a>](https://vigilance.fr/vulnerability/Wireshark-overload-via-BPv6-NCP-RTPS-Dissector-40325)|An attacker can trigger an overload of Wireshark, via BPv6 / NCP / RTPS Dissector, in order to trigger a denial of service...|Visit link for details|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Qwik cross-site scripting (CVE-2023-0410)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 20, 2023|
- |[etcd information disclosure (CVE-2023-0296)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2023|
- |[Zephyr code execution (CVE-2022-3806)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2023|
- |[Zephyr buffer overflow (CVE-2023-0396)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2023|
- |[Zephyr denial of service (CVE-2023-0397)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2023|
- |[Microsoft Edge (Chromium-based) security bypass (CVE-2023-21719)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2023|
- |[Wireshark GNW dissector denial of service](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2023|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -120,6 +120,23 @@
  |[Cisco Products Multiple Vulnerabilities](/security-bulletin/cisco-products-multiple-vulnerabilities_20230113)|Multiple vulnerabilities were identified in Cisco Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, data manipulation, cross-site scripting and security restriction bypass on the targeted system.|Release Date: 13 Jan 2023|
  |[Microsoft Edge Multiple Vulnerabilities](/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230113)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, remote code execution, information disclosure and security restriction bypass on the targeted system. Note:Proof of Concept exploit code...|Release Date: 13 Jan 2023|
  |[Cisco End-of-Life Small Business Routers Multiple Vulnerabilities](/security-bulletin/cisco-end-of-life-small-business-routers-multiple-vulnerabilities_20230112)|Multiple vulnerabilities were identified in Cisco's End-of-Life Small Business Routers. A remote attacker could exploit some of these vulnerabilities to remote code execution and security restriction bypass on the targeted system. Note:Proof of Concept exploit code Is publicly available...|Release Date: 12 Jan 2023|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Cisco security advisory (AV23-040)](https://cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av23-040)|Visit link for details|2023-01-19|
+ |[[Control systems] Hitachi Energy security advisory (AV23-039)](https://cyber.gc.ca/en/alerts-advisories/control-systems-hitachi-energy-security-advisory-av23-039)|Visit link for details|2023-01-19|
+ |[Sudo security advisory (AV23-038)](https://cyber.gc.ca/en/alerts-advisories/sudo-security-advisory-av23-038)|Visit link for details|2023-01-18|
+ |[GitLab security advisory (AV23-037)](https://cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av23-037)|Visit link for details|2023-01-18|
+ |[Oracle security advisory – January 2023 quarterly rollup (AV23-036)](https://cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-january-2023-quarterly-rollup-av23-036)|Visit link for details|2023-01-18|
+ |[[Control systems] GE Digital security advisory (AV23-035)](https://cyber.gc.ca/en/alerts-advisories/control-systems-ge-digital-security-advisory-av23-035)|Visit link for details|2023-01-18|
+ |[[Control systems] Mitsubishi Electric security advisory (AV23-034)](https://cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av23-034)|Visit link for details|2023-01-18|
+ |[Mozilla security advisory (AV23-033)](https://cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av23-033)|Visit link for details|2023-01-18|
+ |[Ubuntu security advisory (AV23-032)](https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-032)|Visit link for details|2023-01-16|
+ |[IBM security advisory (AV23-031)](https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-031)|Visit link for details|2023-01-16|
+ |[Dell security advisory (AV23-030)](https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-030)|Visit link for details|2023-01-16|
  
 
 # EU-CERT
@@ -141,21 +158,4 @@
  |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
  |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
  |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Cisco security advisory (AV23-040)](https://cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av23-040)|Visit link for details|2023-01-19|
- |[[Control systems] Hitachi Energy security advisory (AV23-039)](https://cyber.gc.ca/en/alerts-advisories/control-systems-hitachi-energy-security-advisory-av23-039)|Visit link for details|2023-01-19|
- |[Sudo security advisory (AV23-038)](https://cyber.gc.ca/en/alerts-advisories/sudo-security-advisory-av23-038)|Visit link for details|2023-01-18|
- |[GitLab security advisory (AV23-037)](https://cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av23-037)|Visit link for details|2023-01-18|
- |[Oracle security advisory – January 2023 quarterly rollup (AV23-036)](https://cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-january-2023-quarterly-rollup-av23-036)|Visit link for details|2023-01-18|
- |[[Control systems] GE Digital security advisory (AV23-035)](https://cyber.gc.ca/en/alerts-advisories/control-systems-ge-digital-security-advisory-av23-035)|Visit link for details|2023-01-18|
- |[[Control systems] Mitsubishi Electric security advisory (AV23-034)](https://cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av23-034)|Visit link for details|2023-01-18|
- |[Mozilla security advisory (AV23-033)](https://cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av23-033)|Visit link for details|2023-01-18|
- |[Ubuntu security advisory (AV23-032)](https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-032)|Visit link for details|2023-01-16|
- |[IBM security advisory (AV23-031)](https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-031)|Visit link for details|2023-01-16|
- |[Dell security advisory (AV23-030)](https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-030)|Visit link for details|2023-01-16|
  
