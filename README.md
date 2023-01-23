@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 23/01/2023 16:28:53 UTC
+ > Last Updated 23/01/2023 17:21:45 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -25,32 +25,46 @@
  
  > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0048/)|De multiples vulnérabilités ont été corrigées dans |Publié le 20 janvier 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0047/)|De multiples vulnérabilités ont été corrigées dans |Publié le 20 janvier 2023|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0046/)|De multiples vulnérabilités ont été corrigées dans |Publié le 20 janvier 2023|
- |[Vulnérabilité dans Sonicwall Secure Mobile Access](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0045/)|Une vulnérabilité a été découverte dans Sonicwall Secure Mobile Access. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 20 janvier 2023|
- |[Multiples vulnérabilités dans les produits WithSecure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0044/)|De multiples vulnérabilités ont été découvertes dans les produits WithSecure. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une élévation de privilèges.|Publié le 20 janvier 2023|
- |[Vulnérabilité dans Sudo](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0043/)|Une vulnérabilité a été découverte dans sudo. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité et une élévation de privilèges.|Publié le 20 janvier 2023|
- |[Multiples vulnérabilités dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0042/)|De multiples vulnérabilités ont été découvertes dans Wireshark. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 19 janvier 2023|
- |[Vulnérabilité dans Cisco Unified Communications Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0041/)|Une vulnérabilité a été découverte dans Cisco Unified Communications Manager. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 19 janvier 2023|
- |[Vulnérabilité dans Mitel MiContact Center Business](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0040/)|Une vulnérabilité a été découverte dans Mitel MiContact Center Business. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 19 janvier 2023|
- |[Vulnérabilité dans Drupal Core](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0039/)|Une vulnérabilité a été découverte dans Drupal Core. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 19 janvier 2023|
- 
-
 # US-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/23/cisa-adds-one-known-exploited-vulnerability-catalog)|<p>CISA has added one new vulnerability to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. This type of vulnerability is a frequent attack vector for malicious cyber actors and poses a significant risk to the federal enterprise. Note: To view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.</p>|Monday, January 23, 2023|
  |[Drupal Releases Security Advisories to Address Multiple Vulnerabilities](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/20/drupal-releases-security-advisories-address-multiple)|<p>Drupal has released security advisories to address vulnerabilities affecting multiple products. An attacker could exploit these vulnerabilities to access sensitive information.</p>|Friday, January 20, 2023|
  |[Cisco Releases Security Advisory for Unified CM and Unified CM SME](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/20/cisco-releases-security-advisory-unified-cm-and-unified-cm-sme)|<p>Cisco released a security advisory for a vulnerability affecting Cisco Unified Communications Manager (Unified CM) and Cisco Unified Communications Manager Session Management Edition (Unified CM SME). A remote attacker could exploit this vulnerability to cause a denial-of-service condition. For updates addressing lower severity vulnerabilities, see the <a href="https://tools.cisco.com/security/center/publicationListing.x">Cisco Security Advisories</a> page.</p>|Friday, January 20, 2023|
  |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/19/cisa-releases-one-industrial-control-systems-advisory)|<p>CISA released one Industrial Control Systems (ICS) advisory on January 19, 2023. This advisory provides timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p>|Thursday, January 19, 2023|
  |[Mozilla Releases Security Updates for Firefox](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/18/mozilla-releases-security-updates-firefox)|<p>Mozilla has released security updates to address vulnerabilities in Firefox ESR and Firefox. An attacker could exploit some of these vulnerabilities to take control of an affected system.</p>|Wednesday, January 18, 2023|
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/17/cisa-adds-one-known-exploited-vulnerability-catalog)|<p>CISA has added one new vulnerability to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. This type of vulnerability is a frequent attack vector for malicious cyber actors and poses a significant risk to the federal enterprise. Note: To view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.</p>|Tuesday, January 17, 2023|
- |[CISA Updates Best Practices for Mapping to MITRE ATT&CK®](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/17/cisa-updates-best-practices-mapping-mitre-attckr)|<p>Today, CISA updated <a href="https://www.cisa.gov/uscert/best-practices-mitre-attckr-mapping">Best Practices for MITRE ATT&amp;CK® Mapping</a>.</p>|Tuesday, January 17, 2023|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Oracle Systems Solaris Common Desktop Environment security bypass (CVE-2023-24040)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 21, 2023|
+ |[Oracle Systems Solaris Common Desktop Environment buffer overflow (CVE-2023-24039)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 21, 2023|
+ |[RubyGems ActiveRecord denial of service (CVE-2022-44566)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 21, 2023|
+ |[Qwik cross-site scripting (CVE-2023-0410)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 20, 2023|
+ |[Redis denial of service (CVE-2022-35977)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 20, 2023|
+ |[etcd information disclosure (CVE-2023-0296)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2023|
+ |[Zephyr code execution (CVE-2022-3806)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2023|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/MariaDB-Server-NULL-pointer-dereference-via-spider-db-mbase-print-warnings-40340" class="noirorange"><b>MariaDB Server</b>: NULL pointer dereference via spider_db_mbase::print_warnings()</a>](https://vigilance.fr/vulnerability/MariaDB-Server-NULL-pointer-dereference-via-spider-db-mbase-print-warnings-40340)|An attacker can force a NULL pointer to be dereferenced on MariaDB Server, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenBSD-information-disclosure-via-vmm-vmd-40339" class="noirorange"><b>OpenBSD</b>: information disclosure via vmm / vmd</a>](https://vigilance.fr/vulnerability/OpenBSD-information-disclosure-via-vmm-vmd-40339)|An attacker can bypass access restrictions to data of OpenBSD, via vmm / vmd, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/UPX-denial-of-service-via-PackLinuxElf64-invert-pt-dynamic-40338" class="noirorange"><b>UPX</b>: denial of service via PackLinuxElf64::invert_pt_dynamic()</a>](https://vigilance.fr/vulnerability/UPX-denial-of-service-via-PackLinuxElf64-invert-pt-dynamic-40338)|An attacker can cause a fatal error of UPX, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/UPX-buffer-overflow-via-PackTmt-pack-40337" class="noirorange"><b>UPX</b>: buffer overflow via PackTmt::pack()</a>](https://vigilance.fr/vulnerability/UPX-buffer-overflow-via-PackTmt-pack-40337)|An attacker can trigger a buffer overflow of UPX, via PackTmt::pack(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Async-privilege-escalation-via-mapValues-40336" class="noirorange"><b>Async</b>: privilege escalation via mapValues()</a>](https://vigilance.fr/vulnerability/Async-privilege-escalation-via-mapValues-40336)|An attacker can bypass restrictions of Async, via mapValues(), in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xstream-denial-of-service-via-Serialize-40335" class="noirorange"><b>Xstream</b>: denial of service via Serialize</a>](https://vigilance.fr/vulnerability/Xstream-denial-of-service-via-Serialize-40335)|An attacker can cause a fatal error of Xstream, via Serialize, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Powerline-Gitstatus-code-execution-40334" class="noirorange"><b>Powerline Gitstatus</b>: code execution</a>](https://vigilance.fr/vulnerability/Powerline-Gitstatus-code-execution-40334)|An attacker can use a vulnerability of Powerline Gitstatus, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-CXF-information-disclosure-via-CXFServlet-40333" class="noirorange"><b>Apache CXF</b>: information disclosure via CXFServlet</a>](https://vigilance.fr/vulnerability/Apache-CXF-information-disclosure-via-CXFServlet-40333)|An attacker can bypass access restrictions to data of Apache CXF, via CXFServlet, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Certifi-read-write-access-via-TrustCor-Root-Certificates-40332" class="noirorange"><b>Certifi</b>: read-write access via TrustCor Root Certificates</a>](https://vigilance.fr/vulnerability/Certifi-read-write-access-via-TrustCor-Root-Certificates-40332)|An attacker can bypass access restrictions of Certifi, via TrustCor Root Certificates, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-40331" class="noirorange"><b>Microsoft Edge Chromium</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-40331)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Notepad-buffer-overflow-via-notepad-plus-addHotSpot-40330" class="noirorange"><b>Notepad++</b>: buffer overflow via notepad_plus::addHotSpot()</a>](https://vigilance.fr/vulnerability/Notepad-buffer-overflow-via-notepad-plus-addHotSpot-40330)|An attacker can trigger a buffer overflow of Notepad++, via |Visit link for details|
  
 
 # MA-CERT
@@ -70,17 +84,10 @@
  |[39801601/23 - Vulnérabilités affectantdes produits Juniper](https://www.dgssi.gov.ma//fr/content/3980160123-vulnerabilites-affectant-des-produits-juniper.html)|Juniper annonce la correction de plusieursvulnérabilités qui affectent certains de ses produits.Un attaquant distantpourrait exploiter ces failles afin d’exécuter du code arbitraire, injecter du contenu dans une page,...|17 janvier 2023|
  
 
-# IBM-X-FORCE-EXCHANGE
+# VulDB
 
  |Title|Description|Date|
  |---|---|---|
- |[RubyGems ActiveRecord denial of service (CVE-2022-44566)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 21, 2023|
- |[Qwik cross-site scripting (CVE-2023-0410)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 20, 2023|
- |[Redis denial of service (CVE-2022-35977)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 20, 2023|
- |[etcd information disclosure (CVE-2023-0296)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2023|
- |[Zephyr code execution (CVE-2022-3806)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2023|
- |[Zephyr buffer overflow (CVE-2023-0396)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2023|
- |[Zephyr denial of service (CVE-2023-0397)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 19, 2023|
  
 
 # HK-CERT
@@ -99,41 +106,20 @@
  |[Cisco End-of-Life Small Business Routers Multiple Vulnerabilities](/security-bulletin/cisco-end-of-life-small-business-routers-multiple-vulnerabilities_20230112)|Multiple vulnerabilities were identified in Cisco's End-of-Life Small Business Routers. A remote attacker could exploit some of these vulnerabilities to remote code execution and security restriction bypass on the targeted system. Note:Proof of Concept exploit code Is publicly available...|Release Date: 12 Jan 2023|
  
 
-# VulDB
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/MariaDB-Server-NULL-pointer-dereference-via-spider-db-mbase-print-warnings-40340" class="noirorange"><b>MariaDB Server</b>: NULL pointer dereference via spider_db_mbase::print_warnings()</a>](https://vigilance.fr/vulnerability/MariaDB-Server-NULL-pointer-dereference-via-spider-db-mbase-print-warnings-40340)|An attacker can force a NULL pointer to be dereferenced on MariaDB Server, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenBSD-information-disclosure-via-vmm-vmd-40339" class="noirorange"><b>OpenBSD</b>: information disclosure via vmm / vmd</a>](https://vigilance.fr/vulnerability/OpenBSD-information-disclosure-via-vmm-vmd-40339)|An attacker can bypass access restrictions to data of OpenBSD, via vmm / vmd, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/UPX-denial-of-service-via-PackLinuxElf64-invert-pt-dynamic-40338" class="noirorange"><b>UPX</b>: denial of service via PackLinuxElf64::invert_pt_dynamic()</a>](https://vigilance.fr/vulnerability/UPX-denial-of-service-via-PackLinuxElf64-invert-pt-dynamic-40338)|An attacker can cause a fatal error of UPX, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/UPX-buffer-overflow-via-PackTmt-pack-40337" class="noirorange"><b>UPX</b>: buffer overflow via PackTmt::pack()</a>](https://vigilance.fr/vulnerability/UPX-buffer-overflow-via-PackTmt-pack-40337)|An attacker can trigger a buffer overflow of UPX, via PackTmt::pack(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Async-privilege-escalation-via-mapValues-40336" class="noirorange"><b>Async</b>: privilege escalation via mapValues()</a>](https://vigilance.fr/vulnerability/Async-privilege-escalation-via-mapValues-40336)|An attacker can bypass restrictions of Async, via mapValues(), in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xstream-denial-of-service-via-Serialize-40335" class="noirorange"><b>Xstream</b>: denial of service via Serialize</a>](https://vigilance.fr/vulnerability/Xstream-denial-of-service-via-Serialize-40335)|An attacker can cause a fatal error of Xstream, via Serialize, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Powerline-Gitstatus-code-execution-40334" class="noirorange"><b>Powerline Gitstatus</b>: code execution</a>](https://vigilance.fr/vulnerability/Powerline-Gitstatus-code-execution-40334)|An attacker can use a vulnerability of Powerline Gitstatus, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-CXF-information-disclosure-via-CXFServlet-40333" class="noirorange"><b>Apache CXF</b>: information disclosure via CXFServlet</a>](https://vigilance.fr/vulnerability/Apache-CXF-information-disclosure-via-CXFServlet-40333)|An attacker can bypass access restrictions to data of Apache CXF, via CXFServlet, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Certifi-read-write-access-via-TrustCor-Root-Certificates-40332" class="noirorange"><b>Certifi</b>: read-write access via TrustCor Root Certificates</a>](https://vigilance.fr/vulnerability/Certifi-read-write-access-via-TrustCor-Root-Certificates-40332)|An attacker can bypass access restrictions of Certifi, via TrustCor Root Certificates, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-40331" class="noirorange"><b>Microsoft Edge Chromium</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-40331)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Notepad-buffer-overflow-via-notepad-plus-addHotSpot-40330" class="noirorange"><b>Notepad++</b>: buffer overflow via notepad_plus::addHotSpot()</a>](https://vigilance.fr/vulnerability/Notepad-buffer-overflow-via-notepad-plus-addHotSpot-40330)|An attacker can trigger a buffer overflow of Notepad++, via |Visit link for details|
+ |[Multiples vulnérabilités dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0052/)|De multiples vulnérabilités ont été corrigées dans|Publié le 23 janvier 2023|
+ |[Multiples vulnérabilités dans les produits Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0051/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 23 janvier 2023|
+ |[Multiples vulnérabilités dans Broadcom Symantec Identity Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0050/)|De multiples vulnérabilités ont été découvertes dans Broadcom Symantec Identity Manager. Certaines d'entre elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 23 janvier 2023|
+ |[Vulnérabilité dans PostgreSQL Pgpool-II](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0049/)|Une vulnérabilité a été découverte dans PostgreSQL Pgpool-II. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 23 janvier 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0048/)|De multiples vulnérabilités ont été corrigées dans |Publié le 20 janvier 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0047/)|De multiples vulnérabilités ont été corrigées dans |Publié le 20 janvier 2023|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0046/)|De multiples vulnérabilités ont été corrigées dans |Publié le 20 janvier 2023|
+ |[Vulnérabilité dans Sonicwall Secure Mobile Access](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0045/)|Une vulnérabilité a été découverte dans Sonicwall Secure Mobile Access. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 20 janvier 2023|
+ |[Multiples vulnérabilités dans les produits WithSecure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0044/)|De multiples vulnérabilités ont été découvertes dans les produits WithSecure. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une élévation de privilèges.|Publié le 20 janvier 2023|
+ |[Vulnérabilité dans Sudo](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0043/)|Une vulnérabilité a été découverte dans sudo. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité et une élévation de privilèges.|Publié le 20 janvier 2023|
  
 
 # CA-CCS
@@ -158,4 +144,18 @@
  |Title|Description|Date|
  |---|---|---|
  |[2023-002: Multiple critical Vulnerabilities in Git](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|During a code audit, X41 discovered several vulnerabilities in the version control system git. On January 17, the git project resolved the two most critical security vulnerabilities (CVE-2022-23521 and CVE-2022-41903) that could allow the remote execution of arbitrary code. GitHub and GitLab have also issued updates for their products, including the latest version of git. A third vulnerability (CVE-2022-41953) affects the Windows version of the Git GUI software and could also lead to the execution of arbitrary code. CERT-EU highly recommend upgrading to the latest version of git. In addition, if you are running on-premise GitHub or GitLab servers, we recommend updating them.|Thursday, January 19, 2023 10:50:00 PM CEST|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
