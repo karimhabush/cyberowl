@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 23/01/2023 19:17:40 UTC
+ > Last Updated 23/01/2023 20:21:42 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -53,6 +53,25 @@
  |[Vulnérabilité dans Sudo](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0043/)|Une vulnérabilité a été découverte dans sudo. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité et une élévation de privilèges.|Publié le 20 janvier 2023|
  
 
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Oracle Systems Solaris Common Desktop Environment security bypass (CVE-2023-24040)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 21, 2023|
+ |[Oracle Systems Solaris Common Desktop Environment buffer overflow (CVE-2023-24039)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 21, 2023|
+ |[RubyGems ActiveRecord denial of service (CVE-2022-44566)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 21, 2023|
+ |[Qwik cross-site scripting (CVE-2023-0410)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 20, 2023|
+ |[PowerDNS Recursor denial of service (CVE-2023-22617)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 20, 2023|
+ |[libgit2 man-in-the-middle (CVE-2023-22742)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 20, 2023|
+ |[Apache Airflow command execution (CVE-2023-22884)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 20, 2023|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -70,23 +89,21 @@
  |[39801601/23 - Vulnérabilités affectantdes produits Juniper](https://www.dgssi.gov.ma//fr/content/3980160123-vulnerabilites-affectant-des-produits-juniper.html)|Juniper annonce la correction de plusieursvulnérabilités qui affectent certains de ses produits.Un attaquant distantpourrait exploiter ces failles afin d’exécuter du code arbitraire, injecter du contenu dans une page,...|17 janvier 2023|
  
 
-# IBM-X-FORCE-EXCHANGE
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[Oracle Systems Solaris Common Desktop Environment security bypass (CVE-2023-24040)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 21, 2023|
- |[Oracle Systems Solaris Common Desktop Environment buffer overflow (CVE-2023-24039)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 21, 2023|
- |[RubyGems ActiveRecord denial of service (CVE-2022-44566)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 21, 2023|
- |[Qwik cross-site scripting (CVE-2023-0410)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 20, 2023|
- |[PowerDNS Recursor denial of service (CVE-2023-22617)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 20, 2023|
- |[libgit2 man-in-the-middle (CVE-2023-22742)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 20, 2023|
- |[Apache Airflow command execution (CVE-2023-22884)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 20, 2023|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/HAProxy-denial-of-service-via-H2-Interim-Response-End-of-stream-Flag-40343" class="noirorange"><b>HAProxy</b>: denial of service via H2 Interim Response End-of-stream Flag</a>](https://vigilance.fr/vulnerability/HAProxy-denial-of-service-via-H2-Interim-Response-End-of-stream-Flag-40343)|An attacker can cause a fatal error of HAProxy, via H2 Interim Response End-of-stream Flag, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebSphere-AS-information-disclosure-via-Container-40342" class="noirorange"><b>WebSphere AS</b>: information disclosure via Container</a>](https://vigilance.fr/vulnerability/WebSphere-AS-information-disclosure-via-Container-40342)|An attacker can bypass access restrictions to data of WebSphere AS, via Container, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/bash-buffer-overflow-via-parameter-transform-40341" class="noirorange"><b>bash</b>: buffer overflow via parameter_transform()</a>](https://vigilance.fr/vulnerability/bash-buffer-overflow-via-parameter-transform-40341)|An attacker can trigger a buffer overflow of bash, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MariaDB-Server-NULL-pointer-dereference-via-spider-db-mbase-print-warnings-40340" class="noirorange"><b>MariaDB Server</b>: NULL pointer dereference via spider_db_mbase::print_warnings()</a>](https://vigilance.fr/vulnerability/MariaDB-Server-NULL-pointer-dereference-via-spider-db-mbase-print-warnings-40340)|An attacker can force a NULL pointer to be dereferenced on MariaDB Server, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenBSD-information-disclosure-via-vmm-vmd-40339" class="noirorange"><b>OpenBSD</b>: information disclosure via vmm / vmd</a>](https://vigilance.fr/vulnerability/OpenBSD-information-disclosure-via-vmm-vmd-40339)|An attacker can bypass access restrictions to data of OpenBSD, via vmm / vmd, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/UPX-denial-of-service-via-PackLinuxElf64-invert-pt-dynamic-40338" class="noirorange"><b>UPX</b>: denial of service via PackLinuxElf64::invert_pt_dynamic()</a>](https://vigilance.fr/vulnerability/UPX-denial-of-service-via-PackLinuxElf64-invert-pt-dynamic-40338)|An attacker can cause a fatal error of UPX, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/UPX-buffer-overflow-via-PackTmt-pack-40337" class="noirorange"><b>UPX</b>: buffer overflow via PackTmt::pack()</a>](https://vigilance.fr/vulnerability/UPX-buffer-overflow-via-PackTmt-pack-40337)|An attacker can trigger a buffer overflow of UPX, via PackTmt::pack(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Async-privilege-escalation-via-mapValues-40336" class="noirorange"><b>Async</b>: privilege escalation via mapValues()</a>](https://vigilance.fr/vulnerability/Async-privilege-escalation-via-mapValues-40336)|An attacker can bypass restrictions of Async, via mapValues(), in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xstream-denial-of-service-via-Serialize-40335" class="noirorange"><b>Xstream</b>: denial of service via Serialize</a>](https://vigilance.fr/vulnerability/Xstream-denial-of-service-via-Serialize-40335)|An attacker can cause a fatal error of Xstream, via Serialize, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Powerline-Gitstatus-code-execution-40334" class="noirorange"><b>Powerline Gitstatus</b>: code execution</a>](https://vigilance.fr/vulnerability/Powerline-Gitstatus-code-execution-40334)|An attacker can use a vulnerability of Powerline Gitstatus, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-CXF-information-disclosure-via-CXFServlet-40333" class="noirorange"><b>Apache CXF</b>: information disclosure via CXFServlet</a>](https://vigilance.fr/vulnerability/Apache-CXF-information-disclosure-via-CXFServlet-40333)|An attacker can bypass access restrictions to data of Apache CXF, via CXFServlet, in order to read sensitive information...|Visit link for details|
  
 
 # HK-CERT
@@ -119,27 +136,13 @@
  |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/HAProxy-denial-of-service-via-H2-Interim-Response-End-of-stream-Flag-40343" class="noirorange"><b>HAProxy</b>: denial of service via H2 Interim Response End-of-stream Flag</a>](https://vigilance.fr/vulnerability/HAProxy-denial-of-service-via-H2-Interim-Response-End-of-stream-Flag-40343)|An attacker can cause a fatal error of HAProxy, via H2 Interim Response End-of-stream Flag, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebSphere-AS-information-disclosure-via-Container-40342" class="noirorange"><b>WebSphere AS</b>: information disclosure via Container</a>](https://vigilance.fr/vulnerability/WebSphere-AS-information-disclosure-via-Container-40342)|An attacker can bypass access restrictions to data of WebSphere AS, via Container, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/bash-buffer-overflow-via-parameter-transform-40341" class="noirorange"><b>bash</b>: buffer overflow via parameter_transform()</a>](https://vigilance.fr/vulnerability/bash-buffer-overflow-via-parameter-transform-40341)|An attacker can trigger a buffer overflow of bash, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/MariaDB-Server-NULL-pointer-dereference-via-spider-db-mbase-print-warnings-40340" class="noirorange"><b>MariaDB Server</b>: NULL pointer dereference via spider_db_mbase::print_warnings()</a>](https://vigilance.fr/vulnerability/MariaDB-Server-NULL-pointer-dereference-via-spider-db-mbase-print-warnings-40340)|An attacker can force a NULL pointer to be dereferenced on MariaDB Server, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenBSD-information-disclosure-via-vmm-vmd-40339" class="noirorange"><b>OpenBSD</b>: information disclosure via vmm / vmd</a>](https://vigilance.fr/vulnerability/OpenBSD-information-disclosure-via-vmm-vmd-40339)|An attacker can bypass access restrictions to data of OpenBSD, via vmm / vmd, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/UPX-denial-of-service-via-PackLinuxElf64-invert-pt-dynamic-40338" class="noirorange"><b>UPX</b>: denial of service via PackLinuxElf64::invert_pt_dynamic()</a>](https://vigilance.fr/vulnerability/UPX-denial-of-service-via-PackLinuxElf64-invert-pt-dynamic-40338)|An attacker can cause a fatal error of UPX, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/UPX-buffer-overflow-via-PackTmt-pack-40337" class="noirorange"><b>UPX</b>: buffer overflow via PackTmt::pack()</a>](https://vigilance.fr/vulnerability/UPX-buffer-overflow-via-PackTmt-pack-40337)|An attacker can trigger a buffer overflow of UPX, via PackTmt::pack(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Async-privilege-escalation-via-mapValues-40336" class="noirorange"><b>Async</b>: privilege escalation via mapValues()</a>](https://vigilance.fr/vulnerability/Async-privilege-escalation-via-mapValues-40336)|An attacker can bypass restrictions of Async, via mapValues(), in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xstream-denial-of-service-via-Serialize-40335" class="noirorange"><b>Xstream</b>: denial of service via Serialize</a>](https://vigilance.fr/vulnerability/Xstream-denial-of-service-via-Serialize-40335)|An attacker can cause a fatal error of Xstream, via Serialize, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Powerline-Gitstatus-code-execution-40334" class="noirorange"><b>Powerline Gitstatus</b>: code execution</a>](https://vigilance.fr/vulnerability/Powerline-Gitstatus-code-execution-40334)|An attacker can use a vulnerability of Powerline Gitstatus, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-CXF-information-disclosure-via-CXFServlet-40333" class="noirorange"><b>Apache CXF</b>: information disclosure via CXFServlet</a>](https://vigilance.fr/vulnerability/Apache-CXF-information-disclosure-via-CXFServlet-40333)|An attacker can bypass access restrictions to data of Apache CXF, via CXFServlet, in order to read sensitive information...|Visit link for details|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
+ |[Ubuntu security advisory (AV23-042)](https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-042)|Visit link for details|2023-01-23|
+ |[IBM security advisory (AV23-041)](https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-041)|Visit link for details|2023-01-23|
+ |[Dell security advisory (AV23-043)](https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-043)|Visit link for details|2023-01-23|
  |[Cisco security advisory (AV23-040)](https://cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av23-040)|Visit link for details|2023-01-19|
  |[[Control systems] Hitachi Energy security advisory (AV23-039)](https://cyber.gc.ca/en/alerts-advisories/control-systems-hitachi-energy-security-advisory-av23-039)|Visit link for details|2023-01-19|
  |[Sudo security advisory (AV23-038)](https://cyber.gc.ca/en/alerts-advisories/sudo-security-advisory-av23-038)|Visit link for details|2023-01-18|
@@ -148,9 +151,6 @@
  |[[Control systems] GE Digital security advisory (AV23-035)](https://cyber.gc.ca/en/alerts-advisories/control-systems-ge-digital-security-advisory-av23-035)|Visit link for details|2023-01-18|
  |[[Control systems] Mitsubishi Electric security advisory (AV23-034)](https://cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av23-034)|Visit link for details|2023-01-18|
  |[Mozilla security advisory (AV23-033)](https://cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av23-033)|Visit link for details|2023-01-18|
- |[Ubuntu security advisory (AV23-032)](https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-032)|Visit link for details|2023-01-16|
- |[IBM security advisory (AV23-031)](https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-031)|Visit link for details|2023-01-16|
- |[Dell security advisory (AV23-030)](https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-030)|Visit link for details|2023-01-16|
  
 
 # EU-CERT
