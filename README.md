@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 23/01/2023 09:21:12 UTC
+ > Last Updated 23/01/2023 10:23:12 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,6 +57,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[39892301/22 - Vulnérabilités dans Microsoft Edge](https://www.dgssi.gov.ma//fr/content/3989230122-vulnerabilites-dans-microsoft-edge.html)|Microsoft annonce la correction de deux vulnérabilités dans Microsoft Edge. L’exploitation de ces failles peut permettre à un attaquant de réussir une élévation de privilèges et de porter atteinte à la confidentialité des données.|23 janvier 2023|
+ |[39882301/22 - Vulnérabilités dans SonicWall SMA](https://www.dgssi.gov.ma//fr/content/3988230122-vulnerabilites-dans-sonicwall-sma.html)|Une vulnérabilité a été corrigée dans SonicWall SMA. L'exploitation de cette faille peut permettre à un attaquant distant de porter atteinte à la confidentialité de données et de contourner la politique de sécurité.|23 janvier 2023|
  |[39872001/23 - Vulnérabilités dans les produits Cisco](https://www.dgssi.gov.ma//fr/content/3987200123-vulnerabilites-dans-les-produits-cisco.html)|Plusieurs vulnérabilités ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir une élévation de privilèges, causer un déni de service,...|20 janvier 2023|
  |[39861901/23 - Vulnérabilité dans le CMS Drupal](https://www.dgssi.gov.ma//fr/content/3986190123-vulnerabilite-dans-le-cms-drupal.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées du CMS Drupal. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité des données.|19 janvier 2023|
  |[39851901/23 - Vulnérabilités affectantle navigateur Mozilla Firefox](https://www.dgssi.gov.ma//fr/content/3985190123-vulnerabilites-affectant-le-navigateur-mozilla-firefox.html)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de cesvulnérabilités peut permettre à un...|19 janvier 2023|
@@ -66,14 +68,6 @@
  |[39821801/23 - Vulnérabilité critique dans GitLab ](https://www.dgssi.gov.ma//fr/content/3982180123-vulnerabilite-critique-dans-gitlab.html)|GitLab a publié une mise à jour de sécurité pour corriger une vulnérabilité critique dans ses éditions Community Edition (CE) et Enterprise Edition (EE). L'exploitation réussie de cette vulnérabilité pourrait permettre à un...|18 janvier 2023|
  |[39811701/23 - Vulnérabilité affectant Zoho ManageEngine Desktop Central](https://www.dgssi.gov.ma//fr/content/3981170123-vulnerabilite-affectant-zoho-manageengine-desktop-central.html)|Zoho annonce la correction d’une vulnérabilité critique affectant plusieurs produits de sa solution de centralisation degestion de parc «ManageEngine Desktop Central ».Un POC « Proof Of Concept » concernant...|17 janvier 2023|
  |[39801601/23 - Vulnérabilités affectantdes produits Juniper](https://www.dgssi.gov.ma//fr/content/3980160123-vulnerabilites-affectant-des-produits-juniper.html)|Juniper annonce la correction de plusieursvulnérabilités qui affectent certains de ses produits.Un attaquant distantpourrait exploiter ces failles afin d’exécuter du code arbitraire, injecter du contenu dans une page,...|17 janvier 2023|
- |[39791601/23 - Vulnérabilités critiques affectant trois plugins pour WordPress](https://www.dgssi.gov.ma//fr/content/3979160123-vulnerabilites-critiques-affectant-trois-plugins-pour-wordpress.html)|WordPressannonce la correction de troisvulnérabilités critique affectant ses Plugins susmentionnés. Ces vulnérabilités sont activement exploitées et peuvent permettre à un attaquant deprovoquer une injection SQL.|16 janvier 2023|
- |[39781601/23 - Vulnérabilités affectantle navigateur Microsoft Edge ](https://www.dgssi.gov.ma//fr/content/3978160123-vulnerabilites-affectant-le-navigateur-microsoft-edge.html)|Microsoft vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilités affectant le navigateur Microsoft Edge. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuter du code...|16 janvier 2023|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -103,6 +97,26 @@
  |[Cisco Products Multiple Vulnerabilities](/security-bulletin/cisco-products-multiple-vulnerabilities_20230113)|Multiple vulnerabilities were identified in Cisco Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, data manipulation, cross-site scripting and security restriction bypass on the targeted system.|Release Date: 13 Jan 2023|
  |[Microsoft Edge Multiple Vulnerabilities](/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230113)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, remote code execution, information disclosure and security restriction bypass on the targeted system. Note:Proof of Concept exploit code...|Release Date: 13 Jan 2023|
  |[Cisco End-of-Life Small Business Routers Multiple Vulnerabilities](/security-bulletin/cisco-end-of-life-small-business-routers-multiple-vulnerabilities_20230112)|Multiple vulnerabilities were identified in Cisco's End-of-Life Small Business Routers. A remote attacker could exploit some of these vulnerabilities to remote code execution and security restriction bypass on the targeted system. Note:Proof of Concept exploit code Is publicly available...|Release Date: 12 Jan 2023|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
 
 # OBS-Vigilance
@@ -144,18 +158,4 @@
  |Title|Description|Date|
  |---|---|---|
  |[2023-002: Multiple critical Vulnerabilities in Git](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|During a code audit, X41 discovered several vulnerabilities in the version control system git. On January 17, the git project resolved the two most critical security vulnerabilities (CVE-2022-23521 and CVE-2022-41903) that could allow the remote execution of arbitrary code. GitHub and GitLab have also issued updates for their products, including the latest version of git. A third vulnerability (CVE-2022-41953) affects the Windows version of the Git GUI software and could also lead to the execution of arbitrary code. CERT-EU highly recommend upgrading to the latest version of git. In addition, if you are running on-premise GitHub or GitLab servers, we recommend updating them.|Thursday, January 19, 2023 10:50:00 PM CEST|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
