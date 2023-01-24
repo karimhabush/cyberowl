@@ -13,5 +13,8 @@ export const navbarEn: NavbarConfig = [
     text: 'Docs',
     link: '/docs/',
   },
-
+  {
+    text: 'Discord',
+    link: 'https://discord.gg/YmB73DCdcc',
+  }
 ]
