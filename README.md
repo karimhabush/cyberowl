@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 24/01/2023 11:19:04 UTC
+ > Last Updated 24/01/2023 11:43:25 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -53,25 +53,6 @@
  |[Vulnérabilité dans Sudo](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0043/)|Une vulnérabilité a été découverte dans sudo. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité et une élévation de privilèges.|Publié le 20 janvier 2023|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Apple macOS Ventura security bypass (CVE-2023-23508)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 23, 2023|
- |[Apple macOS Ventura information disclosure (CVE-2023-23501)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 23, 2023|
- |[Apple macOS Ventura security bypass (CVE-2023-23511)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 23, 2023|
- |[Apple macOS Ventura information disclosure (CVE-2023-23505)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 23, 2023|
- |[Apple macOS Ventura denial of service (CVE-2023-23512)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 23, 2023|
- |[RubyGems actionpack gem denial of service (CVE-2023-22792)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 23, 2023|
- |[Apple macOS Ventura security bypass (CVE-2023-23510)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 23, 2023|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -105,10 +86,31 @@
  |[Cisco End-of-Life Small Business Routers Multiple Vulnerabilities](/security-bulletin/cisco-end-of-life-small-business-routers-multiple-vulnerabilities_20230112)|Multiple vulnerabilities were identified in Cisco's End-of-Life Small Business Routers. A remote attacker could exploit some of these vulnerabilities to remote code execution and security restriction bypass on the targeted system. Note:Proof of Concept exploit code Is publicly available...|Release Date: 12 Jan 2023|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apple macOS Ventura security bypass (CVE-2023-23508)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 23, 2023|
+ |[Apple macOS Ventura information disclosure (CVE-2023-23501)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 23, 2023|
+ |[Apple macOS Ventura security bypass (CVE-2023-23511)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 23, 2023|
+ |[Apple macOS Ventura information disclosure (CVE-2023-23505)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 23, 2023|
+ |[Apple macOS Ventura denial of service (CVE-2023-23512)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 23, 2023|
+ |[RubyGems actionpack gem denial of service (CVE-2023-22792)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 23, 2023|
+ |[Apple macOS Ventura security bypass (CVE-2023-23510)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 23, 2023|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-processCropSelections-40348" class="noirorange"><b>LibTIFF</b>: buffer overflow via processCropSelections()</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-processCropSelections-40348)|An attacker can trigger a buffer overflow of LibTIFF, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-inet-diag-msg-sctpasoc-fill-40347" class="noirorange"><b>Linux kernel</b>: information disclosure via inet_diag_msg_sctpasoc_fill()</a>](https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-inet-diag-msg-sctpasoc-fill-40347)|An attacker can bypass access restrictions to data of the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Mechanize-overload-via-Regular-Expression-40346" class="noirorange"><b>Mechanize</b>: overload via Regular Expression</a>](https://vigilance.fr/vulnerability/Mechanize-overload-via-Regular-Expression-40346)|An attacker can trigger an overload of Mechanize, via Regular Expression, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-vmw-kms-cursor-snoop-40345" class="noirorange"><b>Linux kernel</b>: buffer overflow via vmw_kms_cursor_snoop()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-vmw-kms-cursor-snoop-40345)|An attacker can trigger a buffer overflow of the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-40344" class="noirorange"><b>Apple iOS  macOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-40344)|An attacker can use several vulnerabilities of Apple iOS  macOS...|Visit link for details|
@@ -118,8 +120,20 @@
  |[<a href="https://vigilance.fr/vulnerability/MariaDB-Server-NULL-pointer-dereference-via-spider-db-mbase-print-warnings-40340" class="noirorange"><b>MariaDB Server</b>: NULL pointer dereference via spider_db_mbase::print_warnings()</a>](https://vigilance.fr/vulnerability/MariaDB-Server-NULL-pointer-dereference-via-spider-db-mbase-print-warnings-40340)|An attacker can force a NULL pointer to be dereferenced on MariaDB Server, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/OpenBSD-information-disclosure-via-vmm-vmd-40339" class="noirorange"><b>OpenBSD</b>: information disclosure via vmm / vmd</a>](https://vigilance.fr/vulnerability/OpenBSD-information-disclosure-via-vmm-vmd-40339)|An attacker can bypass access restrictions to data of OpenBSD, via vmm / vmd, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/UPX-denial-of-service-via-PackLinuxElf64-invert-pt-dynamic-40338" class="noirorange"><b>UPX</b>: denial of service via PackLinuxElf64::invert_pt_dynamic()</a>](https://vigilance.fr/vulnerability/UPX-denial-of-service-via-PackLinuxElf64-invert-pt-dynamic-40338)|An attacker can cause a fatal error of UPX, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/UPX-buffer-overflow-via-PackTmt-pack-40337" class="noirorange"><b>UPX</b>: buffer overflow via PackTmt::pack()</a>](https://vigilance.fr/vulnerability/UPX-buffer-overflow-via-PackTmt-pack-40337)|An attacker can trigger a buffer overflow of UPX, via PackTmt::pack(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Async-privilege-escalation-via-mapValues-40336" class="noirorange"><b>Async</b>: privilege escalation via mapValues()</a>](https://vigilance.fr/vulnerability/Async-privilege-escalation-via-mapValues-40336)|An attacker can bypass restrictions of Async, via mapValues(), in order to escalate his privileges...|Visit link for details|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
 
 # CA-CCS
@@ -144,18 +158,4 @@
  |Title|Description|Date|
  |---|---|---|
  |[2023-002: Multiple critical Vulnerabilities in Git](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|During a code audit, X41 discovered several vulnerabilities in the version control system git. On January 17, the git project resolved the two most critical security vulnerabilities (CVE-2022-23521 and CVE-2022-41903) that could allow the remote execution of arbitrary code. GitHub and GitLab have also issued updates for their products, including the latest version of git. A third vulnerability (CVE-2022-41953) affects the Windows version of the Git GUI software and could also lead to the execution of arbitrary code. CERT-EU highly recommend upgrading to the latest version of git. In addition, if you are running on-premise GitHub or GitLab servers, we recommend updating them.|Thursday, January 19, 2023 10:50:00 PM CEST|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
