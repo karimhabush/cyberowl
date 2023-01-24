@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 24/01/2023 17:19:06 UTC
+ > Last Updated 24/01/2023 18:25:22 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -105,21 +105,18 @@
  |[Cisco End-of-Life Small Business Routers Multiple Vulnerabilities](/security-bulletin/cisco-end-of-life-small-business-routers-multiple-vulnerabilities_20230112)|Multiple vulnerabilities were identified in Cisco's End-of-Life Small Business Routers. A remote attacker could exploit some of these vulnerabilities to remote code execution and security restriction bypass on the targeted system. Note:Proof of Concept exploit code Is publicly available...|Release Date: 12 Jan 2023|
  
 
-# OBS-Vigilance
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/SSSD-read-write-access-via-LDAP-Filter-Injection-40349" class="noirorange"><b>SSSD</b>: read-write access via LDAP Filter Injection</a>](https://vigilance.fr/vulnerability/SSSD-read-write-access-via-LDAP-Filter-Injection-40349)|An attacker can bypass access restrictions of SSSD, via LDAP Filter Injection, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-processCropSelections-40348" class="noirorange"><b>LibTIFF</b>: buffer overflow via processCropSelections()</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-processCropSelections-40348)|An attacker can trigger a buffer overflow of LibTIFF, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-inet-diag-msg-sctpasoc-fill-40347" class="noirorange"><b>Linux kernel</b>: information disclosure via inet_diag_msg_sctpasoc_fill()</a>](https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-inet-diag-msg-sctpasoc-fill-40347)|An attacker can bypass access restrictions to data of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mechanize-overload-via-Regular-Expression-40346" class="noirorange"><b>Mechanize</b>: overload via Regular Expression</a>](https://vigilance.fr/vulnerability/Mechanize-overload-via-Regular-Expression-40346)|An attacker can trigger an overload of Mechanize, via Regular Expression, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-vmw-kms-cursor-snoop-40345" class="noirorange"><b>Linux kernel</b>: buffer overflow via vmw_kms_cursor_snoop()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-vmw-kms-cursor-snoop-40345)|An attacker can trigger a buffer overflow of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-40344" class="noirorange"><b>Apple iOS  macOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-40344)|An attacker can use several vulnerabilities of Apple iOS  macOS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HAProxy-denial-of-service-via-H2-Interim-Response-End-of-stream-Flag-40343" class="noirorange"><b>HAProxy</b>: denial of service via H2 Interim Response End-of-stream Flag</a>](https://vigilance.fr/vulnerability/HAProxy-denial-of-service-via-H2-Interim-Response-End-of-stream-Flag-40343)|An attacker can cause a fatal error of HAProxy, via H2 Interim Response End-of-stream Flag, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebSphere-AS-information-disclosure-via-Container-40342" class="noirorange"><b>WebSphere AS</b>: information disclosure via Container</a>](https://vigilance.fr/vulnerability/WebSphere-AS-information-disclosure-via-Container-40342)|An attacker can bypass access restrictions to data of WebSphere AS, via Container, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/bash-buffer-overflow-via-parameter-transform-40341" class="noirorange"><b>bash</b>: buffer overflow via parameter_transform()</a>](https://vigilance.fr/vulnerability/bash-buffer-overflow-via-parameter-transform-40341)|An attacker can trigger a buffer overflow of bash, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/MariaDB-Server-NULL-pointer-dereference-via-spider-db-mbase-print-warnings-40340" class="noirorange"><b>MariaDB Server</b>: NULL pointer dereference via spider_db_mbase::print_warnings()</a>](https://vigilance.fr/vulnerability/MariaDB-Server-NULL-pointer-dereference-via-spider-db-mbase-print-warnings-40340)|An attacker can force a NULL pointer to be dereferenced on MariaDB Server, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenBSD-information-disclosure-via-vmm-vmd-40339" class="noirorange"><b>OpenBSD</b>: information disclosure via vmm / vmd</a>](https://vigilance.fr/vulnerability/OpenBSD-information-disclosure-via-vmm-vmd-40339)|An attacker can bypass access restrictions to data of OpenBSD, via vmm / vmd, in order to read sensitive information...|Visit link for details|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
 
 # CA-CCS
@@ -139,23 +136,26 @@
  |[Mozilla security advisory (AV23-033)](https://cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av23-033)|Visit link for details|2023-01-18|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
  |---|---|---|
  |[2023-002: Multiple critical Vulnerabilities in Git](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|During a code audit, X41 discovered several vulnerabilities in the version control system git. On January 17, the git project resolved the two most critical security vulnerabilities (CVE-2022-23521 and CVE-2022-41903) that could allow the remote execution of arbitrary code. GitHub and GitLab have also issued updates for their products, including the latest version of git. A third vulnerability (CVE-2022-41953) affects the Windows version of the Git GUI software and could also lead to the execution of arbitrary code. CERT-EU highly recommend upgrading to the latest version of git. In addition, if you are running on-premise GitHub or GitLab servers, we recommend updating them.|Thursday, January 19, 2023 10:50:00 PM CEST|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/SSSD-read-write-access-via-LDAP-Filter-Injection-40349" class="noirorange"><b>SSSD</b>: read-write access via LDAP Filter Injection</a>](https://vigilance.fr/vulnerability/SSSD-read-write-access-via-LDAP-Filter-Injection-40349)|An attacker can bypass access restrictions of SSSD, via LDAP Filter Injection, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-processCropSelections-40348" class="noirorange"><b>LibTIFF</b>: buffer overflow via processCropSelections()</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-processCropSelections-40348)|An attacker can trigger a buffer overflow of LibTIFF, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-inet-diag-msg-sctpasoc-fill-40347" class="noirorange"><b>Linux kernel</b>: information disclosure via inet_diag_msg_sctpasoc_fill()</a>](https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-inet-diag-msg-sctpasoc-fill-40347)|An attacker can bypass access restrictions to data of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mechanize-overload-via-Regular-Expression-40346" class="noirorange"><b>Mechanize</b>: overload via Regular Expression</a>](https://vigilance.fr/vulnerability/Mechanize-overload-via-Regular-Expression-40346)|An attacker can trigger an overload of Mechanize, via Regular Expression, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-vmw-kms-cursor-snoop-40345" class="noirorange"><b>Linux kernel</b>: buffer overflow via vmw_kms_cursor_snoop()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-vmw-kms-cursor-snoop-40345)|An attacker can trigger a buffer overflow of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-40344" class="noirorange"><b>Apple iOS  macOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-40344)|An attacker can use several vulnerabilities of Apple iOS  macOS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HAProxy-denial-of-service-via-H2-Interim-Response-End-of-stream-Flag-40343" class="noirorange"><b>HAProxy</b>: denial of service via H2 Interim Response End-of-stream Flag</a>](https://vigilance.fr/vulnerability/HAProxy-denial-of-service-via-H2-Interim-Response-End-of-stream-Flag-40343)|An attacker can cause a fatal error of HAProxy, via H2 Interim Response End-of-stream Flag, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebSphere-AS-information-disclosure-via-Container-40342" class="noirorange"><b>WebSphere AS</b>: information disclosure via Container</a>](https://vigilance.fr/vulnerability/WebSphere-AS-information-disclosure-via-Container-40342)|An attacker can bypass access restrictions to data of WebSphere AS, via Container, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/bash-buffer-overflow-via-parameter-transform-40341" class="noirorange"><b>bash</b>: buffer overflow via parameter_transform()</a>](https://vigilance.fr/vulnerability/bash-buffer-overflow-via-parameter-transform-40341)|An attacker can trigger a buffer overflow of bash, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MariaDB-Server-NULL-pointer-dereference-via-spider-db-mbase-print-warnings-40340" class="noirorange"><b>MariaDB Server</b>: NULL pointer dereference via spider_db_mbase::print_warnings()</a>](https://vigilance.fr/vulnerability/MariaDB-Server-NULL-pointer-dereference-via-spider-db-mbase-print-warnings-40340)|An attacker can force a NULL pointer to be dereferenced on MariaDB Server, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenBSD-information-disclosure-via-vmm-vmd-40339" class="noirorange"><b>OpenBSD</b>: information disclosure via vmm / vmd</a>](https://vigilance.fr/vulnerability/OpenBSD-information-disclosure-via-vmm-vmd-40339)|An attacker can bypass access restrictions to data of OpenBSD, via vmm / vmd, in order to read sensitive information...|Visit link for details|
  
