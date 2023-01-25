@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 25/01/2023 21:17:07 UTC
+ > Last Updated 25/01/2023 22:19:58 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -53,25 +53,6 @@
  |[Vulnérabilité dans PostgreSQL Pgpool-II](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0049/)|Une vulnérabilité a été découverte dans PostgreSQL Pgpool-II. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 23 janvier 2023|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[pgAdmin 4 directory traversal (CVE-2023-0241)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
- |[OMRON CX-Motion Pro XML external entity injection (CVE-2023-22322)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
- |[LearnPress plugin for WordPress file inclusion (CVE-2022-47615)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
- |[EasyMail cross-site scripting (CVE-2022-22333)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
- |[Jenkins Bitbucket OAuth Plugin cross-site request forgery (CVE-2023-24428)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
- |[Jenkins Bitbucket OAuth Plugin security bypass (CVE-2023-24427)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
- |[Jenkins Azure AD Plugin security bypass (CVE-2023-24426)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -87,6 +68,19 @@
  |[39892301/22 - Vulnérabilités dans Microsoft Edge](https://www.dgssi.gov.ma//fr/content/3989230122-vulnerabilites-dans-microsoft-edge.html)|Microsoft annonce la correction de deux vulnérabilités dans Microsoft Edge. L’exploitation de ces failles peut permettre à un attaquant de réussir une élévation de privilèges et de porter atteinte à la confidentialité des données.|23 janvier 2023|
  |[39882301/22 - Vulnérabilités dans SonicWall SMA](https://www.dgssi.gov.ma//fr/content/3988230122-vulnerabilites-dans-sonicwall-sma.html)|Une vulnérabilité a été corrigée dans SonicWall SMA. L'exploitation de cette faille peut permettre à un attaquant distant de porter atteinte à la confidentialité de données et de contourner la politique de sécurité.|23 janvier 2023|
  |[39872001/23 - Vulnérabilités dans les produits Cisco](https://www.dgssi.gov.ma//fr/content/3987200123-vulnerabilites-dans-les-produits-cisco.html)|Plusieurs vulnérabilités ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir une élévation de privilèges, causer un déni de service,...|20 janvier 2023|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[XenSource Xen Xenstore denial of service (CVE-2022-42330)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2023|
+ |[pgAdmin 4 directory traversal (CVE-2023-0241)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
+ |[OMRON CX-Motion Pro XML external entity injection (CVE-2023-22322)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
+ |[LearnPress plugin for WordPress file inclusion (CVE-2022-47615)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
+ |[EasyMail cross-site scripting (CVE-2022-22333)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
+ |[GLPI security bypass (CVE-2023-23610)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
+ |[Jenkins Bitbucket OAuth Plugin cross-site request forgery (CVE-2023-24428)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
  
 
 # HK-CERT
@@ -105,21 +99,10 @@
  |[Cisco End-of-Life Small Business Routers Multiple Vulnerabilities](/security-bulletin/cisco-end-of-life-small-business-routers-multiple-vulnerabilities_20230112)|Multiple vulnerabilities were identified in Cisco's End-of-Life Small Business Routers. A remote attacker could exploit some of these vulnerabilities to remote code execution and security restriction bypass on the targeted system. Note:Proof of Concept exploit code Is publicly available...|Release Date: 12 Jan 2023|
  
 
-# CA-CCS
+# VulDB
 
  |Title|Description|Date|
  |---|---|---|
- |[Google Chrome security advisory (AV23-048)](https://cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-048)|Visit link for details|2023-01-25|
- |[Apple security advisory (AV23-047)](https://cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-047)|Visit link for details|2023-01-25|
- |[VMware security advisory (AV23-046)](https://cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av23-046)|Visit link for details|2023-01-25|
- |[[Control systems] SOCOMEC security advisory (AV23-045)](https://cyber.gc.ca/en/alerts-advisories/control-systems-socomec-security-advisory-av23-045)|Visit link for details|2023-01-24|
- |[[Control systems] XINJE security advisory (AV23-044)](https://cyber.gc.ca/en/alerts-advisories/control-systems-xinje-security-advisory-av23-044)|Visit link for details|2023-01-24|
- |[Dell security advisory (AV23-043)](https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-043)|Visit link for details|2023-01-24|
- |[Ubuntu security advisory (AV23-042)](https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-042)|Visit link for details|2023-01-23|
- |[IBM security advisory (AV23-041)](https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-041)|Visit link for details|2023-01-23|
- |[Cisco security advisory (AV23-040)](https://cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av23-040)|Visit link for details|2023-01-19|
- |[[Control systems] Hitachi Energy security advisory (AV23-039)](https://cyber.gc.ca/en/alerts-advisories/control-systems-hitachi-energy-security-advisory-av23-039)|Visit link for details|2023-01-19|
- |[Sudo security advisory (AV23-038)](https://cyber.gc.ca/en/alerts-advisories/sudo-security-advisory-av23-038)|Visit link for details|2023-01-18|
  
 
 # OBS-Vigilance
@@ -139,13 +122,6 @@
  |[<a href="https://vigilance.fr/vulnerability/libde265-three-vulnerabilities-40353" class="noirorange"><b>libde265</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/libde265-three-vulnerabilities-40353)|An attacker can use several vulnerabilities of libde265...|Visit link for details|
  
 
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-002: Multiple critical Vulnerabilities in Git](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|During a code audit, X41 discovered several vulnerabilities in the version control system git. On January 17, the git project resolved the two most critical security vulnerabilities (CVE-2022-23521 and CVE-2022-41903) that could allow the remote execution of arbitrary code. GitHub and GitLab have also issued updates for their products, including the latest version of git. A third vulnerability (CVE-2022-41953) affects the Windows version of the Git GUI software and could also lead to the execution of arbitrary code. CERT-EU highly recommend upgrading to the latest version of git. In addition, if you are running on-premise GitHub or GitLab servers, we recommend updating them.|Thursday, January 19, 2023 10:50:00 PM CEST|
- 
-
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -158,4 +134,28 @@
  |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
  |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
  |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Google Chrome security advisory (AV23-048)](https://cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-048)|Visit link for details|2023-01-25|
+ |[Apple security advisory (AV23-047)](https://cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-047)|Visit link for details|2023-01-25|
+ |[VMware security advisory (AV23-046)](https://cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av23-046)|Visit link for details|2023-01-25|
+ |[[Control systems] SOCOMEC security advisory (AV23-045)](https://cyber.gc.ca/en/alerts-advisories/control-systems-socomec-security-advisory-av23-045)|Visit link for details|2023-01-24|
+ |[[Control systems] XINJE security advisory (AV23-044)](https://cyber.gc.ca/en/alerts-advisories/control-systems-xinje-security-advisory-av23-044)|Visit link for details|2023-01-24|
+ |[Dell security advisory (AV23-043)](https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-043)|Visit link for details|2023-01-24|
+ |[Ubuntu security advisory (AV23-042)](https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-042)|Visit link for details|2023-01-23|
+ |[IBM security advisory (AV23-041)](https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-041)|Visit link for details|2023-01-23|
+ |[Cisco security advisory (AV23-040)](https://cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av23-040)|Visit link for details|2023-01-19|
+ |[[Control systems] Hitachi Energy security advisory (AV23-039)](https://cyber.gc.ca/en/alerts-advisories/control-systems-hitachi-energy-security-advisory-av23-039)|Visit link for details|2023-01-19|
+ |[Sudo security advisory (AV23-038)](https://cyber.gc.ca/en/alerts-advisories/sudo-security-advisory-av23-038)|Visit link for details|2023-01-18|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-002: Multiple critical Vulnerabilities in Git](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|During a code audit, X41 discovered several vulnerabilities in the version control system git. On January 17, the git project resolved the two most critical security vulnerabilities (CVE-2022-23521 and CVE-2022-41903) that could allow the remote execution of arbitrary code. GitHub and GitLab have also issued updates for their products, including the latest version of git. A third vulnerability (CVE-2022-41953) affects the Windows version of the Git GUI software and could also lead to the execution of arbitrary code. CERT-EU highly recommend upgrading to the latest version of git. In addition, if you are running on-premise GitHub or GitLab servers, we recommend updating them.|Thursday, January 19, 2023 10:50:00 PM CEST|
  
