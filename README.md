@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 25/01/2023 22:19:58 UTC
+ > Last Updated 25/01/2023 23:21:09 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -53,6 +53,23 @@
  |[Vulnérabilité dans PostgreSQL Pgpool-II](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0049/)|Une vulnérabilité a été découverte dans PostgreSQL Pgpool-II. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 23 janvier 2023|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Grafana-three-vulnerabilities-40364" class="noirorange"><b>Grafana</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Grafana-three-vulnerabilities-40364)|An attacker can use several vulnerabilities of Grafana...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ISC-BIND-denial-of-service-via-Stale-Cache-Recursive-clients-Soft-Quota-40363" class="noirorange"><b>ISC BIND</b>: denial of service via Stale Cache Recursive-clients Soft Quota</a>](https://vigilance.fr/vulnerability/ISC-BIND-denial-of-service-via-Stale-Cache-Recursive-clients-Soft-Quota-40363)|An attacker can cause a fatal error of ISC BIND, via Stale Cache Recursive-clients Soft Quota, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ISC-BIND-denial-of-service-via-Stale-Cache-RRSIG-Queries-40362" class="noirorange"><b>ISC BIND</b>: denial of service via Stale Cache RRSIG Queries</a>](https://vigilance.fr/vulnerability/ISC-BIND-denial-of-service-via-Stale-Cache-RRSIG-Queries-40362)|An attacker can cause a fatal error of ISC BIND, via Stale Cache RRSIG Queries, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ISC-BIND-Supported-Preview-Edition-denial-of-service-via-ECS-Options-40361" class="noirorange"><b>ISC BIND Supported Preview Edition</b>: denial of service via ECS Options</a>](https://vigilance.fr/vulnerability/ISC-BIND-Supported-Preview-Edition-denial-of-service-via-ECS-Options-40361)|An attacker can cause a fatal error of ISC BIND Supported Preview Edition, via ECS Options, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xen-denial-of-service-via-Xenstore-Soft-Reset-40360" class="noirorange"><b>Xen</b>: denial of service via Xenstore Soft Reset</a>](https://vigilance.fr/vulnerability/Xen-denial-of-service-via-Xenstore-Soft-Reset-40360)|An attacker, in a guest system, can cause a fatal error of Xen, via Xenstore Soft Reset, in order to trigger a denial of service on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-usb-reset-device-40359" class="noirorange"><b>Linux kernel</b>: denial of service via usb_reset_device()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-usb-reset-device-40359)|An attacker can cause a fatal error of the Linux kernel, via usb_reset_device(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-PAM-user-access-via-Unresolvable-IP-Address-40358" class="noirorange"><b>Linux-PAM</b>: user access via Unresolvable IP Address</a>](https://vigilance.fr/vulnerability/Linux-PAM-user-access-via-Unresolvable-IP-Address-40358)|An attacker can bypass restrictions of Linux-PAM, via Unresolvable IP Address, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HAProxy-memory-reading-via-FCGI-Mux-40356" class="noirorange"><b>HAProxy</b>: memory reading via FCGI Mux</a>](https://vigilance.fr/vulnerability/HAProxy-memory-reading-via-FCGI-Mux-40356)|An attacker can read a memory fragment of HAProxy, via FCGI Mux, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libde265-buffer-overflow-via-put-qpel-fallback-40355" class="noirorange"><b>libde265</b>: buffer overflow via put_qpel_fallback()</a>](https://vigilance.fr/vulnerability/libde265-buffer-overflow-via-put-qpel-fallback-40355)|An attacker can trigger a buffer overflow of libde265, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libde265-multiple-vulnerabilities-40354" class="noirorange"><b>libde265</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/libde265-multiple-vulnerabilities-40354)|An attacker can use several vulnerabilities of libde265...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libde265-three-vulnerabilities-40353" class="noirorange"><b>libde265</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/libde265-three-vulnerabilities-40353)|An attacker can use several vulnerabilities of libde265...|Visit link for details|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -70,17 +87,23 @@
  |[39872001/23 - Vulnérabilités dans les produits Cisco](https://www.dgssi.gov.ma//fr/content/3987200123-vulnerabilites-dans-les-produits-cisco.html)|Plusieurs vulnérabilités ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir une élévation de privilèges, causer un déni de service,...|20 janvier 2023|
  
 
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
+ |[ISC BIND denial of service (CVE-2022-3094)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2023|
  |[XenSource Xen Xenstore denial of service (CVE-2022-42330)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2023|
  |[pgAdmin 4 directory traversal (CVE-2023-0241)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
  |[OMRON CX-Motion Pro XML external entity injection (CVE-2023-22322)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
  |[LearnPress plugin for WordPress file inclusion (CVE-2022-47615)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
  |[EasyMail cross-site scripting (CVE-2022-22333)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
  |[GLPI security bypass (CVE-2023-23610)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
- |[Jenkins Bitbucket OAuth Plugin cross-site request forgery (CVE-2023-24428)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
  
 
 # HK-CERT
@@ -97,29 +120,6 @@
  |[Cisco Products Multiple Vulnerabilities](/security-bulletin/cisco-products-multiple-vulnerabilities_20230113)|Multiple vulnerabilities were identified in Cisco Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, data manipulation, cross-site scripting and security restriction bypass on the targeted system.|Release Date: 13 Jan 2023|
  |[Microsoft Edge Multiple Vulnerabilities](/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230113)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, remote code execution, information disclosure and security restriction bypass on the targeted system. Note:Proof of Concept exploit code...|Release Date: 13 Jan 2023|
  |[Cisco End-of-Life Small Business Routers Multiple Vulnerabilities](/security-bulletin/cisco-end-of-life-small-business-routers-multiple-vulnerabilities_20230112)|Multiple vulnerabilities were identified in Cisco's End-of-Life Small Business Routers. A remote attacker could exploit some of these vulnerabilities to remote code execution and security restriction bypass on the targeted system. Note:Proof of Concept exploit code Is publicly available...|Release Date: 12 Jan 2023|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Grafana-three-vulnerabilities-40364" class="noirorange"><b>Grafana</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Grafana-three-vulnerabilities-40364)|An attacker can use several vulnerabilities of Grafana...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ISC-BIND-denial-of-service-via-Stale-Cache-Recursive-clients-Soft-Quota-40363" class="noirorange"><b>ISC BIND</b>: denial of service via Stale Cache Recursive-clients Soft Quota</a>](https://vigilance.fr/vulnerability/ISC-BIND-denial-of-service-via-Stale-Cache-Recursive-clients-Soft-Quota-40363)|An attacker can cause a fatal error of ISC BIND, via Stale Cache Recursive-clients Soft Quota, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ISC-BIND-denial-of-service-via-Stale-Cache-RRSIG-Queries-40362" class="noirorange"><b>ISC BIND</b>: denial of service via Stale Cache RRSIG Queries</a>](https://vigilance.fr/vulnerability/ISC-BIND-denial-of-service-via-Stale-Cache-RRSIG-Queries-40362)|An attacker can cause a fatal error of ISC BIND, via Stale Cache RRSIG Queries, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ISC-BIND-Supported-Preview-Edition-denial-of-service-via-ECS-Options-40361" class="noirorange"><b>ISC BIND Supported Preview Edition</b>: denial of service via ECS Options</a>](https://vigilance.fr/vulnerability/ISC-BIND-Supported-Preview-Edition-denial-of-service-via-ECS-Options-40361)|An attacker can cause a fatal error of ISC BIND Supported Preview Edition, via ECS Options, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xen-denial-of-service-via-Xenstore-Soft-Reset-40360" class="noirorange"><b>Xen</b>: denial of service via Xenstore Soft Reset</a>](https://vigilance.fr/vulnerability/Xen-denial-of-service-via-Xenstore-Soft-Reset-40360)|An attacker, in a guest system, can cause a fatal error of Xen, via Xenstore Soft Reset, in order to trigger a denial of service on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-usb-reset-device-40359" class="noirorange"><b>Linux kernel</b>: denial of service via usb_reset_device()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-usb-reset-device-40359)|An attacker can cause a fatal error of the Linux kernel, via usb_reset_device(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-PAM-user-access-via-Unresolvable-IP-Address-40358" class="noirorange"><b>Linux-PAM</b>: user access via Unresolvable IP Address</a>](https://vigilance.fr/vulnerability/Linux-PAM-user-access-via-Unresolvable-IP-Address-40358)|An attacker can bypass restrictions of Linux-PAM, via Unresolvable IP Address, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HAProxy-memory-reading-via-FCGI-Mux-40356" class="noirorange"><b>HAProxy</b>: memory reading via FCGI Mux</a>](https://vigilance.fr/vulnerability/HAProxy-memory-reading-via-FCGI-Mux-40356)|An attacker can read a memory fragment of HAProxy, via FCGI Mux, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libde265-buffer-overflow-via-put-qpel-fallback-40355" class="noirorange"><b>libde265</b>: buffer overflow via put_qpel_fallback()</a>](https://vigilance.fr/vulnerability/libde265-buffer-overflow-via-put-qpel-fallback-40355)|An attacker can trigger a buffer overflow of libde265, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libde265-multiple-vulnerabilities-40354" class="noirorange"><b>libde265</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/libde265-multiple-vulnerabilities-40354)|An attacker can use several vulnerabilities of libde265...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libde265-three-vulnerabilities-40353" class="noirorange"><b>libde265</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/libde265-three-vulnerabilities-40353)|An attacker can use several vulnerabilities of libde265...|Visit link for details|
  
 
 # ZERODAYINITIATIVE
