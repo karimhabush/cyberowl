@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 25/01/2023 16:28:44 UTC
+ > Last Updated 25/01/2023 17:19:03 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,12 +29,12 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[VMware Releases Security Updates for VMware vRealize Log Insight](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/25/vmware-releases-security-updates-vmware-vrealize-log-insight)|<p>VMware released security updates to address multiple vulnerabilities in VMware vRealize Log Insight. A remote attacker could exploit these vulnerabilities to take control of an affected system.</p>|Wednesday, January 25, 2023|
  |[Apple Releases Security Updates for Multiple Products ](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/24/apple-releases-security-updates-multiple-products)|<p>Apple has released security updates to address vulnerabilities in multiple products. An attacker could exploit some of these vulnerabilities to take control of an affected device.</p>|Tuesday, January 24, 2023|
  |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/24/cisa-releases-two-industrial-control-systems-advisories)|<p>CISA released two Industrial Control Systems (ICS) advisories on January 24, 2023.These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p>|Tuesday, January 24, 2023|
  |[CISA Releases Protecting Our Future: Partnering to Safeguard K–12 organizations from Cybersecurity Threats](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/24/cisa-releases-protecting-our-future-partnering-safeguard-k-12)|<p>Today, CISA released <a href="https://www.cisa.gov/protecting-our-future-partnering-safeguard-k-12-organizations-cybersecurity-threats">Protecting Our Future: Partnering to Safeguard K–12 organizations from Cybersecurity Threats</a>. The report provides recommendations and resources to help K-12 schools and school districts address systemic cybersecurity risk. It also provides insight into the current threat landscape specific to the K-12 community and offers simple steps school leaders can take to strengthen their cybersecurity efforts.</p>|Tuesday, January 24, 2023|
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/23/cisa-adds-one-known-exploited-vulnerability-catalog)|<p>CISA has added one new vulnerability to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. This type of vulnerability is a frequent attack vector for malicious cyber actors and poses a significant risk to the federal enterprise. Note: To view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.</p>|Monday, January 23, 2023|
  |[Drupal Releases Security Advisories to Address Multiple Vulnerabilities](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/20/drupal-releases-security-advisories-address-multiple)|<p>Drupal has released security advisories to address vulnerabilities affecting multiple products. An attacker could exploit these vulnerabilities to access sensitive information.</p>|Friday, January 20, 2023|
- |[Cisco Releases Security Advisory for Unified CM and Unified CM SME](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/20/cisco-releases-security-advisory-unified-cm-and-unified-cm-sme)|<p>Cisco released a security advisory for a vulnerability affecting Cisco Unified Communications Manager (Unified CM) and Cisco Unified Communications Manager Session Management Edition (Unified CM SME). A remote attacker could exploit this vulnerability to cause a denial-of-service condition. For updates addressing lower severity vulnerabilities, see the <a href="https://tools.cisco.com/security/center/publicationListing.x">Cisco Security Advisories</a> page.</p>|Friday, January 20, 2023|
  
 
 # CERT-FR
@@ -76,23 +76,6 @@
  |---|---|---|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Linux-PAM-user-access-via-Unresolvable-IP-Address-40358" class="noirorange"><b>Linux-PAM</b>: user access via Unresolvable IP Address</a>](https://vigilance.fr/vulnerability/Linux-PAM-user-access-via-Unresolvable-IP-Address-40358)|An attacker can bypass restrictions of Linux-PAM, via Unresolvable IP Address, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HAProxy-memory-reading-via-FCGI-Mux-40356" class="noirorange"><b>HAProxy</b>: memory reading via FCGI Mux</a>](https://vigilance.fr/vulnerability/HAProxy-memory-reading-via-FCGI-Mux-40356)|An attacker can read a memory fragment of HAProxy, via FCGI Mux, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libde265-buffer-overflow-via-put-qpel-fallback-40355" class="noirorange"><b>libde265</b>: buffer overflow via put_qpel_fallback()</a>](https://vigilance.fr/vulnerability/libde265-buffer-overflow-via-put-qpel-fallback-40355)|An attacker can trigger a buffer overflow of libde265, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libde265-multiple-vulnerabilities-40354" class="noirorange"><b>libde265</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/libde265-multiple-vulnerabilities-40354)|An attacker can use several vulnerabilities of libde265...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libde265-three-vulnerabilities-40353" class="noirorange"><b>libde265</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/libde265-three-vulnerabilities-40353)|An attacker can use several vulnerabilities of libde265...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-four-vulnerabilities-40352" class="noirorange"><b>Chrome</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-four-vulnerabilities-40352)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenStack-Cinder-Glance-Nova-file-reading-via-VMDK-Flat-Descriptor-40351" class="noirorange"><b>OpenStack Cinder  Glance  Nova</b>: file reading via VMDK Flat Descriptor</a>](https://vigilance.fr/vulnerability/OpenStack-Cinder-Glance-Nova-file-reading-via-VMDK-Flat-Descriptor-40351)|An attacker can read a file of OpenStack Cinder  Glance  Nova, via VMDK Flat Descriptor, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-40350" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-40350)|An attacker can use several vulnerabilities of Jenkins Plugins...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SSSD-read-write-access-via-LDAP-Filter-Injection-40349" class="noirorange"><b>SSSD</b>: read-write access via LDAP Filter Injection</a>](https://vigilance.fr/vulnerability/SSSD-read-write-access-via-LDAP-Filter-Injection-40349)|An attacker can bypass access restrictions of SSSD, via LDAP Filter Injection, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-processCropSelections-40348" class="noirorange"><b>LibTIFF</b>: buffer overflow via processCropSelections()</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-processCropSelections-40348)|An attacker can trigger a buffer overflow of LibTIFF, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-inet-diag-msg-sctpasoc-fill-40347" class="noirorange"><b>Linux kernel</b>: information disclosure via inet_diag_msg_sctpasoc_fill()</a>](https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-inet-diag-msg-sctpasoc-fill-40347)|An attacker can bypass access restrictions to data of the Linux kernel, via |Visit link for details|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -101,9 +84,9 @@
  |[OMRON CX-Motion Pro XML external entity injection (CVE-2023-22322)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
  |[LearnPress plugin for WordPress file inclusion (CVE-2022-47615)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
  |[EasyMail cross-site scripting (CVE-2022-22333)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
- |[Jenkins Gerrit Trigger Plugin cross-site request forgery (CVE-2023-24423)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
- |[SOCOMEC MODULYS GP information disclosure (CVE-2023-0356)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
- |[Jenkins Script Security Plugin code execution (CVE-2023-24422)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
+ |[Jenkins Bitbucket OAuth Plugin cross-site request forgery (CVE-2023-24428)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
+ |[Jenkins Bitbucket OAuth Plugin security bypass (CVE-2023-24427)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
+ |[Jenkins Azure AD Plugin security bypass (CVE-2023-24426)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
  
 
 # HK-CERT
@@ -122,11 +105,21 @@
  |[Cisco End-of-Life Small Business Routers Multiple Vulnerabilities](/security-bulletin/cisco-end-of-life-small-business-routers-multiple-vulnerabilities_20230112)|Multiple vulnerabilities were identified in Cisco's End-of-Life Small Business Routers. A remote attacker could exploit some of these vulnerabilities to remote code execution and security restriction bypass on the targeted system. Note:Proof of Concept exploit code Is publicly available...|Release Date: 12 Jan 2023|
  
 
-# EU-CERT
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[2023-002: Multiple critical Vulnerabilities in Git](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|During a code audit, X41 discovered several vulnerabilities in the version control system git. On January 17, the git project resolved the two most critical security vulnerabilities (CVE-2022-23521 and CVE-2022-41903) that could allow the remote execution of arbitrary code. GitHub and GitLab have also issued updates for their products, including the latest version of git. A third vulnerability (CVE-2022-41953) affects the Windows version of the Git GUI software and could also lead to the execution of arbitrary code. CERT-EU highly recommend upgrading to the latest version of git. In addition, if you are running on-premise GitHub or GitLab servers, we recommend updating them.|Thursday, January 19, 2023 10:50:00 PM CEST|
+ |[<a href="https://vigilance.fr/vulnerability/ISC-BIND-denial-of-service-via-Stale-Cache-Recursive-clients-Soft-Quota-40363" class="noirorange"><b>ISC BIND</b>: denial of service via Stale Cache Recursive-clients Soft Quota</a>](https://vigilance.fr/vulnerability/ISC-BIND-denial-of-service-via-Stale-Cache-Recursive-clients-Soft-Quota-40363)|An attacker can cause a fatal error of ISC BIND, via Stale Cache Recursive-clients Soft Quota, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ISC-BIND-denial-of-service-via-Stale-Cache-RRSIG-Queries-40362" class="noirorange"><b>ISC BIND</b>: denial of service via Stale Cache RRSIG Queries</a>](https://vigilance.fr/vulnerability/ISC-BIND-denial-of-service-via-Stale-Cache-RRSIG-Queries-40362)|An attacker can cause a fatal error of ISC BIND, via Stale Cache RRSIG Queries, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ISC-BIND-Supported-Preview-Edition-denial-of-service-via-ECS-Options-40361" class="noirorange"><b>ISC BIND Supported Preview Edition</b>: denial of service via ECS Options</a>](https://vigilance.fr/vulnerability/ISC-BIND-Supported-Preview-Edition-denial-of-service-via-ECS-Options-40361)|An attacker can cause a fatal error of ISC BIND Supported Preview Edition, via ECS Options, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xen-denial-of-service-via-Xenstore-Soft-Reset-40360" class="noirorange"><b>Xen</b>: denial of service via Xenstore Soft Reset</a>](https://vigilance.fr/vulnerability/Xen-denial-of-service-via-Xenstore-Soft-Reset-40360)|An attacker, in a guest system, can cause a fatal error of Xen, via Xenstore Soft Reset, in order to trigger a denial of service on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-usb-reset-device-40359" class="noirorange"><b>Linux kernel</b>: denial of service via usb_reset_device()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-usb-reset-device-40359)|An attacker can cause a fatal error of the Linux kernel, via usb_reset_device(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-PAM-user-access-via-Unresolvable-IP-Address-40358" class="noirorange"><b>Linux-PAM</b>: user access via Unresolvable IP Address</a>](https://vigilance.fr/vulnerability/Linux-PAM-user-access-via-Unresolvable-IP-Address-40358)|An attacker can bypass restrictions of Linux-PAM, via Unresolvable IP Address, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HAProxy-memory-reading-via-FCGI-Mux-40356" class="noirorange"><b>HAProxy</b>: memory reading via FCGI Mux</a>](https://vigilance.fr/vulnerability/HAProxy-memory-reading-via-FCGI-Mux-40356)|An attacker can read a memory fragment of HAProxy, via FCGI Mux, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libde265-buffer-overflow-via-put-qpel-fallback-40355" class="noirorange"><b>libde265</b>: buffer overflow via put_qpel_fallback()</a>](https://vigilance.fr/vulnerability/libde265-buffer-overflow-via-put-qpel-fallback-40355)|An attacker can trigger a buffer overflow of libde265, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libde265-multiple-vulnerabilities-40354" class="noirorange"><b>libde265</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/libde265-multiple-vulnerabilities-40354)|An attacker can use several vulnerabilities of libde265...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libde265-three-vulnerabilities-40353" class="noirorange"><b>libde265</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/libde265-three-vulnerabilities-40353)|An attacker can use several vulnerabilities of libde265...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-four-vulnerabilities-40352" class="noirorange"><b>Chrome</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-four-vulnerabilities-40352)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
  
 
 # ZERODAYINITIATIVE
@@ -158,4 +151,11 @@
  |[Cisco security advisory (AV23-040)](https://cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av23-040)|Visit link for details|2023-01-19|
  |[[Control systems] Hitachi Energy security advisory (AV23-039)](https://cyber.gc.ca/en/alerts-advisories/control-systems-hitachi-energy-security-advisory-av23-039)|Visit link for details|2023-01-19|
  |[Sudo security advisory (AV23-038)](https://cyber.gc.ca/en/alerts-advisories/sudo-security-advisory-av23-038)|Visit link for details|2023-01-18|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-002: Multiple critical Vulnerabilities in Git](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|During a code audit, X41 discovered several vulnerabilities in the version control system git. On January 17, the git project resolved the two most critical security vulnerabilities (CVE-2022-23521 and CVE-2022-41903) that could allow the remote execution of arbitrary code. GitHub and GitLab have also issued updates for their products, including the latest version of git. A third vulnerability (CVE-2022-41953) affects the Windows version of the Git GUI software and could also lead to the execution of arbitrary code. CERT-EU highly recommend upgrading to the latest version of git. In addition, if you are running on-premise GitHub or GitLab servers, we recommend updating them.|Thursday, January 19, 2023 10:50:00 PM CEST|
  
