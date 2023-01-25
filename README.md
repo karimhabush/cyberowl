@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 25/01/2023 09:19:58 UTC
+ > Last Updated 25/01/2023 10:23:07 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -37,19 +37,6 @@
  |[Cisco Releases Security Advisory for Unified CM and Unified CM SME](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/20/cisco-releases-security-advisory-unified-cm-and-unified-cm-sme)|<p>Cisco released a security advisory for a vulnerability affecting Cisco Unified Communications Manager (Unified CM) and Cisco Unified Communications Manager Session Management Edition (Unified CM SME). A remote attacker could exploit this vulnerability to cause a denial-of-service condition. For updates addressing lower severity vulnerabilities, see the <a href="https://tools.cisco.com/security/center/publicationListing.x">Cisco Security Advisories</a> page.</p>|Friday, January 20, 2023|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[pgAdmin 4 directory traversal (CVE-2023-0241)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
- |[OMRON CX-Motion Pro XML external entity injection (CVE-2023-22322)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
- |[EasyMail cross-site scripting (CVE-2022-22333)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
- |[Google Chrome code execution (CVE-2023-0474)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
- |[Google Chrome code execution (CVE-2023-0473)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
- |[Google Chrome code execution (CVE-2023-0472)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
- |[Google Chrome code execution (CVE-2023-0471)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -66,33 +53,13 @@
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0047/)|De multiples vulnérabilités ont été corrigées dans |Publié le 20 janvier 2023|
  
 
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/libde265-buffer-overflow-via-put-qpel-fallback-40355" class="noirorange"><b>libde265</b>: buffer overflow via put_qpel_fallback()</a>](https://vigilance.fr/vulnerability/libde265-buffer-overflow-via-put-qpel-fallback-40355)|An attacker can trigger a buffer overflow of libde265, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libde265-multiple-vulnerabilities-40354" class="noirorange"><b>libde265</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/libde265-multiple-vulnerabilities-40354)|An attacker can use several vulnerabilities of libde265...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libde265-three-vulnerabilities-40353" class="noirorange"><b>libde265</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/libde265-three-vulnerabilities-40353)|An attacker can use several vulnerabilities of libde265...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-four-vulnerabilities-40352" class="noirorange"><b>Chrome</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-four-vulnerabilities-40352)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenStack-Cinder-Glance-Nova-file-reading-via-VMDK-Flat-Descriptor-40351" class="noirorange"><b>OpenStack Cinder  Glance  Nova</b>: file reading via VMDK Flat Descriptor</a>](https://vigilance.fr/vulnerability/OpenStack-Cinder-Glance-Nova-file-reading-via-VMDK-Flat-Descriptor-40351)|An attacker can read a file of OpenStack Cinder  Glance  Nova, via VMDK Flat Descriptor, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-40350" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-40350)|An attacker can use several vulnerabilities of Jenkins Plugins...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SSSD-read-write-access-via-LDAP-Filter-Injection-40349" class="noirorange"><b>SSSD</b>: read-write access via LDAP Filter Injection</a>](https://vigilance.fr/vulnerability/SSSD-read-write-access-via-LDAP-Filter-Injection-40349)|An attacker can bypass access restrictions of SSSD, via LDAP Filter Injection, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-processCropSelections-40348" class="noirorange"><b>LibTIFF</b>: buffer overflow via processCropSelections()</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-processCropSelections-40348)|An attacker can trigger a buffer overflow of LibTIFF, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-inet-diag-msg-sctpasoc-fill-40347" class="noirorange"><b>Linux kernel</b>: information disclosure via inet_diag_msg_sctpasoc_fill()</a>](https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-inet-diag-msg-sctpasoc-fill-40347)|An attacker can bypass access restrictions to data of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mechanize-overload-via-Regular-Expression-40346" class="noirorange"><b>Mechanize</b>: overload via Regular Expression</a>](https://vigilance.fr/vulnerability/Mechanize-overload-via-Regular-Expression-40346)|An attacker can trigger an overload of Mechanize, via Regular Expression, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-vmw-kms-cursor-snoop-40345" class="noirorange"><b>Linux kernel</b>: buffer overflow via vmw_kms_cursor_snoop()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-vmw-kms-cursor-snoop-40345)|An attacker can trigger a buffer overflow of the Linux kernel, via |Visit link for details|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[39972501/22 - Vulnérabilités dans le plugin LearnPress du CMS WordPress ](https://www.dgssi.gov.ma//fr/content/3997250122-vulnerabilites-dans-le-plugin-learnpress-du-cms-wordpress.html)|Plusieurs vulnérabilités ont été corrigées dans le plugin LearnPress du CMS WordPress. L’exploitation de ces failles pourrait entraîner la divulgation d'informations sensibles, la modification de données et l'exécution de code...|25 janvier 2023|
+ |[39962501/23 - Vulnérabilités affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma//fr/content/3996250123-vulnerabilites-affectant-plusieurs-produits-d-apple.html)|Apple annonce lacorrectionde plusieursvulnérabilitésaffectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peutpermettre à un attaquant distant d’exécuter du code arbitraire, de contourner les mesures de...|25 janvier 2023|
+ |[39952501/23 - Vulnérabilités critiques affectant VMware vRealize Log Insight](https://www.dgssi.gov.ma//fr/content/3995250123-vulnerabilites-critiques-affectant-vmware-vrealize-log-insight.html)|VMware annonce la correction de vulnérabilités critiques affectant son produit VMware vRealize Log Insight. L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant de d’exécuter du code arbitraire, accéder à des...|25 janvier 2023|
  |[39922401/23 - « Zero-Day » corrigé dans les anciens iPhones et iPads d’Apple](https://www.dgssi.gov.ma//fr/content/3992240123-zero-day-corrige-dans-les-anciens-iphones-et-ipads-d-apple.html)|Apple annonce la correction d’une vulnérabilité « Zero-day » affectant ses produits susmentionnés. Selon Apple, cette vulnérabilité identifiée par « CVE-2022-42856 » est activement exploitée et peut permettre à un attaquant d’exécuter du...|24 janvier 2023|
  |[39912401/23 - Vulnérabilités affectantSymantec Identity Manager](https://www.dgssi.gov.ma//fr/content/3991240123-vulnerabilites-affectant-symantec-identity-manager.html)|Broadcom annonce la disponibilité d’une mise à jour de sécurité permettant la correction de trois vulnérabilités au niveau de son produit « Symantec Identity Manager ». L’exploitation de cesvulnérabilités peut permettre à un...|24 janvier 2023|
  |[39902410/23 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/3990241023-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant son client de messagerie Mozilla Thunderbird. L’exploitation de ces vulnérabilités peut permettre à un...|24 janvier 2023|
@@ -101,16 +68,25 @@
  |[39892301/22 - Vulnérabilités dans Microsoft Edge](https://www.dgssi.gov.ma//fr/content/3989230122-vulnerabilites-dans-microsoft-edge.html)|Microsoft annonce la correction de deux vulnérabilités dans Microsoft Edge. L’exploitation de ces failles peut permettre à un attaquant de réussir une élévation de privilèges et de porter atteinte à la confidentialité des données.|23 janvier 2023|
  |[39882301/22 - Vulnérabilités dans SonicWall SMA](https://www.dgssi.gov.ma//fr/content/3988230122-vulnerabilites-dans-sonicwall-sma.html)|Une vulnérabilité a été corrigée dans SonicWall SMA. L'exploitation de cette faille peut permettre à un attaquant distant de porter atteinte à la confidentialité de données et de contourner la politique de sécurité.|23 janvier 2023|
  |[39872001/23 - Vulnérabilités dans les produits Cisco](https://www.dgssi.gov.ma//fr/content/3987200123-vulnerabilites-dans-les-produits-cisco.html)|Plusieurs vulnérabilités ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir une élévation de privilèges, causer un déni de service,...|20 janvier 2023|
- |[39861901/23 - Vulnérabilité dans le CMS Drupal](https://www.dgssi.gov.ma//fr/content/3986190123-vulnerabilite-dans-le-cms-drupal.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées du CMS Drupal. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité des données.|19 janvier 2023|
- |[39851901/23 - Vulnérabilités affectantle navigateur Mozilla Firefox](https://www.dgssi.gov.ma//fr/content/3985190123-vulnerabilites-affectant-le-navigateur-mozilla-firefox.html)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de cesvulnérabilités peut permettre à un...|19 janvier 2023|
- |[39841901/23 - Vulnérabilité dans SUDO](https://www.dgssi.gov.ma//fr/content/3984190123-vulnerabilite-dans-sudo.html)|Une vulnérabilité a été corrigée dans l'outil « sudo » utilisé par tous les systèmes Unix et Linux. L'exploitation de cette faille peutpermettre à un utilisateur malveillant ayant les privilèges « sudoedit » de réussir une...|19 janvier 2023|
  
 
-# EU-CERT
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[2023-002: Multiple critical Vulnerabilities in Git](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|During a code audit, X41 discovered several vulnerabilities in the version control system git. On January 17, the git project resolved the two most critical security vulnerabilities (CVE-2022-23521 and CVE-2022-41903) that could allow the remote execution of arbitrary code. GitHub and GitLab have also issued updates for their products, including the latest version of git. A third vulnerability (CVE-2022-41953) affects the Windows version of the Git GUI software and could also lead to the execution of arbitrary code. CERT-EU highly recommend upgrading to the latest version of git. In addition, if you are running on-premise GitHub or GitLab servers, we recommend updating them.|Thursday, January 19, 2023 10:50:00 PM CEST|
+ |[pgAdmin 4 directory traversal (CVE-2023-0241)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
+ |[OMRON CX-Motion Pro XML external entity injection (CVE-2023-22322)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
+ |[EasyMail cross-site scripting (CVE-2022-22333)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
+ |[Google Chrome code execution (CVE-2023-0474)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
+ |[Google Chrome code execution (CVE-2023-0473)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
+ |[Google Chrome code execution (CVE-2023-0472)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
+ |[Google Chrome code execution (CVE-2023-0471)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # HK-CERT
@@ -144,6 +120,30 @@
  |[Oracle security advisory – January 2023 quarterly rollup (AV23-036)](https://cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-january-2023-quarterly-rollup-av23-036)|Visit link for details|2023-01-18|
  |[[Control systems] GE Digital security advisory (AV23-035)](https://cyber.gc.ca/en/alerts-advisories/control-systems-ge-digital-security-advisory-av23-035)|Visit link for details|2023-01-18|
  |[[Control systems] Mitsubishi Electric security advisory (AV23-034)](https://cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av23-034)|Visit link for details|2023-01-18|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/libde265-buffer-overflow-via-put-qpel-fallback-40355" class="noirorange"><b>libde265</b>: buffer overflow via put_qpel_fallback()</a>](https://vigilance.fr/vulnerability/libde265-buffer-overflow-via-put-qpel-fallback-40355)|An attacker can trigger a buffer overflow of libde265, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libde265-multiple-vulnerabilities-40354" class="noirorange"><b>libde265</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/libde265-multiple-vulnerabilities-40354)|An attacker can use several vulnerabilities of libde265...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libde265-three-vulnerabilities-40353" class="noirorange"><b>libde265</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/libde265-three-vulnerabilities-40353)|An attacker can use several vulnerabilities of libde265...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-four-vulnerabilities-40352" class="noirorange"><b>Chrome</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-four-vulnerabilities-40352)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenStack-Cinder-Glance-Nova-file-reading-via-VMDK-Flat-Descriptor-40351" class="noirorange"><b>OpenStack Cinder  Glance  Nova</b>: file reading via VMDK Flat Descriptor</a>](https://vigilance.fr/vulnerability/OpenStack-Cinder-Glance-Nova-file-reading-via-VMDK-Flat-Descriptor-40351)|An attacker can read a file of OpenStack Cinder  Glance  Nova, via VMDK Flat Descriptor, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-40350" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-40350)|An attacker can use several vulnerabilities of Jenkins Plugins...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SSSD-read-write-access-via-LDAP-Filter-Injection-40349" class="noirorange"><b>SSSD</b>: read-write access via LDAP Filter Injection</a>](https://vigilance.fr/vulnerability/SSSD-read-write-access-via-LDAP-Filter-Injection-40349)|An attacker can bypass access restrictions of SSSD, via LDAP Filter Injection, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-processCropSelections-40348" class="noirorange"><b>LibTIFF</b>: buffer overflow via processCropSelections()</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-processCropSelections-40348)|An attacker can trigger a buffer overflow of LibTIFF, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-inet-diag-msg-sctpasoc-fill-40347" class="noirorange"><b>Linux kernel</b>: information disclosure via inet_diag_msg_sctpasoc_fill()</a>](https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-inet-diag-msg-sctpasoc-fill-40347)|An attacker can bypass access restrictions to data of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mechanize-overload-via-Regular-Expression-40346" class="noirorange"><b>Mechanize</b>: overload via Regular Expression</a>](https://vigilance.fr/vulnerability/Mechanize-overload-via-Regular-Expression-40346)|An attacker can trigger an overload of Mechanize, via Regular Expression, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-vmw-kms-cursor-snoop-40345" class="noirorange"><b>Linux kernel</b>: buffer overflow via vmw_kms_cursor_snoop()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-vmw-kms-cursor-snoop-40345)|An attacker can trigger a buffer overflow of the Linux kernel, via |Visit link for details|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-002: Multiple critical Vulnerabilities in Git](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|During a code audit, X41 discovered several vulnerabilities in the version control system git. On January 17, the git project resolved the two most critical security vulnerabilities (CVE-2022-23521 and CVE-2022-41903) that could allow the remote execution of arbitrary code. GitHub and GitLab have also issued updates for their products, including the latest version of git. A third vulnerability (CVE-2022-41953) affects the Windows version of the Git GUI software and could also lead to the execution of arbitrary code. CERT-EU highly recommend upgrading to the latest version of git. In addition, if you are running on-premise GitHub or GitLab servers, we recommend updating them.|Thursday, January 19, 2023 10:50:00 PM CEST|
  
 
 # ZERODAYINITIATIVE
