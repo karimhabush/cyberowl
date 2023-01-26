@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 26/01/2023 13:32:35 UTC
+ > Last Updated 26/01/2023 14:20:16 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -53,27 +53,39 @@
  |[Vulnérabilité dans PostgreSQL Pgpool-II](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0049/)|Une vulnérabilité a été découverte dans PostgreSQL Pgpool-II. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 23 janvier 2023|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ISC BIND denial of service (CVE-2022-3924)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2023|
+ |[ISC BIND denial of service (CVE-2022-3736)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2023|
+ |[ISC BIND denial of service (CVE-2022-3094)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2023|
+ |[XenSource Xen Xenstore denial of service (CVE-2022-42330)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2023|
+ |[Open edX LTI Consumer XBlock security bypass (CVE-2023-23611)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
+ |[pgAdmin 4 directory traversal (CVE-2023-0241)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
+ |[OpenSearch security bypass (CVE-2023-23612)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
+ 
+
 # VulDB
 
  |Title|Description|Date|
  |---|---|---|
  
 
-# MA-CERT
+# HK-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[39982601/23 - Vulnérabilités affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/3998260123-vulnerabilites-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilitésaffectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre àun attaquant de provoquer des problèmes...|26 janvier 2023|
- |[39972501/22 - Vulnérabilités dans le plugin LearnPress du CMS WordPress ](https://www.dgssi.gov.ma//fr/content/3997250122-vulnerabilites-dans-le-plugin-learnpress-du-cms-wordpress.html)|Plusieurs vulnérabilités ont été corrigées dans le plugin LearnPress du CMS WordPress. L’exploitation de ces failles pourrait entraîner la divulgation d'informations sensibles, la modification de données et l'exécution de code...|25 janvier 2023|
- |[39962501/23 - Vulnérabilités affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma//fr/content/3996250123-vulnerabilites-affectant-plusieurs-produits-d-apple.html)|Apple annonce lacorrectionde plusieursvulnérabilitésaffectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peutpermettre à un attaquant distant d’exécuter du code arbitraire, de contourner les mesures de...|25 janvier 2023|
- |[39952501/23 - Vulnérabilités critiques affectant VMware vRealize Log Insight](https://www.dgssi.gov.ma//fr/content/3995250123-vulnerabilites-critiques-affectant-vmware-vrealize-log-insight.html)|VMware annonce la correction de vulnérabilités critiques affectant son produit VMware vRealize Log Insight. L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant de d’exécuter du code arbitraire, accéder à des...|25 janvier 2023|
- |[39922401/23 - « Zero-Day » corrigé dans les anciens iPhones et iPads d’Apple](https://www.dgssi.gov.ma//fr/content/3992240123-zero-day-corrige-dans-les-anciens-iphones-et-ipads-d-apple.html)|Apple annonce la correction d’une vulnérabilité « Zero-day » affectant ses produits susmentionnés. Selon Apple, cette vulnérabilité identifiée par « CVE-2022-42856 » est activement exploitée et peut permettre à un attaquant d’exécuter du...|24 janvier 2023|
- |[39912401/23 - Vulnérabilités affectantSymantec Identity Manager](https://www.dgssi.gov.ma//fr/content/3991240123-vulnerabilites-affectant-symantec-identity-manager.html)|Broadcom annonce la disponibilité d’une mise à jour de sécurité permettant la correction de trois vulnérabilités au niveau de son produit « Symantec Identity Manager ». L’exploitation de cesvulnérabilités peut permettre à un...|24 janvier 2023|
- |[39902410/23 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/3990241023-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant son client de messagerie Mozilla Thunderbird. L’exploitation de ces vulnérabilités peut permettre à un...|24 janvier 2023|
- |[39942401/22 - Vulnérabilité dans IBM WebSphere Application Server traditional container](https://www.dgssi.gov.ma//fr/content/3994240122-vulnerabilite-dans-ibm-websphere-application-server-traditional-container.html)|IBM annonce la correction d’une vulnérabilité affectant les versions susmentionnées du serveur d’application IBM WebSphere traditional container. Un attaquant pourrait exploiter cette vulnérabilité afin de porter atteinte à la...|24 janvier 2023|
- |[39932401/22 - Vulnérabilité dans PostgreSQL Pgpool-II](https://www.dgssi.gov.ma//fr/content/3993240122-vulnerabilite-dans-postgresql-pgpool-ii.html)|Une vulnérabilité a été corrigée dans les versions PostgreSQL Pgpool-II susmentionnées. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité des données.|24 janvier 2023|
- |[39892301/22 - Vulnérabilités dans Microsoft Edge](https://www.dgssi.gov.ma//fr/content/3989230122-vulnerabilites-dans-microsoft-edge.html)|Microsoft annonce la correction de deux vulnérabilités dans Microsoft Edge. L’exploitation de ces failles peut permettre à un attaquant de réussir une élévation de privilèges et de porter atteinte à la confidentialité des données.|23 janvier 2023|
- |[39882301/22 - Vulnérabilités dans SonicWall SMA](https://www.dgssi.gov.ma//fr/content/3988230122-vulnerabilites-dans-sonicwall-sma.html)|Une vulnérabilité a été corrigée dans SonicWall SMA. L'exploitation de cette faille peut permettre à un attaquant distant de porter atteinte à la confidentialité de données et de contourner la politique de sécurité.|23 janvier 2023|
+ |[Apple Products Multiple Vulnerabilities](/security-bulletin/apple-products-multiple-vulnerabilities_20230126)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. Note:CVE-2022-...|Release Date: 26 Jan 2023|
+ |[Google Chrome Multiple Vulnerabilities](/security-bulletin/google-chrome-multiple-vulnerabilities_20230126)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and sensitive information disclosure on the targeted system.|Release Date: 26 Jan 2023|
+ |[Mozilla Thunderbird Multiple Vulnerabilities](/security-bulletin/mozilla-thunderbird-multiple-vulnerabilities_20230126)|Multiple vulnerabilities were identified in Mozilla Thunderbird. A remote attacker could exploit some of these vulnerabilities to trigger spoofing, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 26 Jan 2023|
+ |[VMWare vRealize Log Insight Multiple Vulnerabilities](/security-bulletin/vmware-vrealize-log-insight-multiple-vulnerabilities_20230126)|Multiple vulnerabilities were identified in VMware vRealize Log Insight. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 26 Jan 2023|
+ |[Apple Products Multiple Vulnerabilities](/security-bulletin/apple-products-multiple-vulnerabilities_20221214)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. Note:CVE-2022-...| Release Date: 14 Dec 2022 |
+ |[Cisco Products Multiple Vulnerabilities](/security-bulletin/cisco-products-multiple-vulnerabilities_20230120)|Multiple vulnerabilities were identified in Cisco Systems Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 20 Jan 2023|
+ |[Microsoft Edge Security Restriction Bypass Vulnerability](/security-bulletin/microsoft-edge-security-restriction-bypass-vulnerability_20230120)|A vulnerability was identified in Microsoft Edge. A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system.|Release Date: 20 Jan 2023|
+ |[GitLab Remote Code Execution Vulnerabilities](/security-bulletin/gitlab-remote-code-execution-vulnerabilities_20230119)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 19 Jan 2023|
+ |[Mozilla Firefox Multiple Vulnerabilities](/security-bulletin/mozilla-firefox-multiple-vulnerabilities_20230119)|Multiple vulnerabilities were identified in Mozilla Firefox. A remote attacker could exploit some of these vulnerabilities to trigger spoofing, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 19 Jan 2023|
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230110)|Multiple vulnerabilities have been identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. [Updated on 2023-01-11] ...| Release Date: 10 Jan 2023 |
  
 
 # OBS-Vigilance
@@ -93,17 +105,21 @@
  |[<a href="https://vigilance.fr/vulnerability/libde265-buffer-overflow-via-put-qpel-fallback-40355" class="noirorange"><b>libde265</b>: buffer overflow via put_qpel_fallback()</a>](https://vigilance.fr/vulnerability/libde265-buffer-overflow-via-put-qpel-fallback-40355)|An attacker can trigger a buffer overflow of libde265, via |Visit link for details|
  
 
-# IBM-X-FORCE-EXCHANGE
+# MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[ISC BIND denial of service (CVE-2022-3924)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2023|
- |[ISC BIND denial of service (CVE-2022-3736)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2023|
- |[ISC BIND denial of service (CVE-2022-3094)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2023|
- |[XenSource Xen Xenstore denial of service (CVE-2022-42330)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 25, 2023|
- |[Open edX LTI Consumer XBlock security bypass (CVE-2023-23611)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
- |[pgAdmin 4 directory traversal (CVE-2023-0241)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
- |[OpenSearch security bypass (CVE-2023-23612)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
+ |[39982601/23 - Vulnérabilités affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/3998260123-vulnerabilites-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilitésaffectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre àun attaquant de provoquer des problèmes...|26 janvier 2023|
+ |[39972501/22 - Vulnérabilités dans le plugin LearnPress du CMS WordPress ](https://www.dgssi.gov.ma//fr/content/3997250122-vulnerabilites-dans-le-plugin-learnpress-du-cms-wordpress.html)|Plusieurs vulnérabilités ont été corrigées dans le plugin LearnPress du CMS WordPress. L’exploitation de ces failles pourrait entraîner la divulgation d'informations sensibles, la modification de données et l'exécution de code...|25 janvier 2023|
+ |[39962501/23 - Vulnérabilités affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma//fr/content/3996250123-vulnerabilites-affectant-plusieurs-produits-d-apple.html)|Apple annonce lacorrectionde plusieursvulnérabilitésaffectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peutpermettre à un attaquant distant d’exécuter du code arbitraire, de contourner les mesures de...|25 janvier 2023|
+ |[39952501/23 - Vulnérabilités critiques affectant VMware vRealize Log Insight](https://www.dgssi.gov.ma//fr/content/3995250123-vulnerabilites-critiques-affectant-vmware-vrealize-log-insight.html)|VMware annonce la correction de vulnérabilités critiques affectant son produit VMware vRealize Log Insight. L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant de d’exécuter du code arbitraire, accéder à des...|25 janvier 2023|
+ |[39922401/23 - « Zero-Day » corrigé dans les anciens iPhones et iPads d’Apple](https://www.dgssi.gov.ma//fr/content/3992240123-zero-day-corrige-dans-les-anciens-iphones-et-ipads-d-apple.html)|Apple annonce la correction d’une vulnérabilité « Zero-day » affectant ses produits susmentionnés. Selon Apple, cette vulnérabilité identifiée par « CVE-2022-42856 » est activement exploitée et peut permettre à un attaquant d’exécuter du...|24 janvier 2023|
+ |[39912401/23 - Vulnérabilités affectantSymantec Identity Manager](https://www.dgssi.gov.ma//fr/content/3991240123-vulnerabilites-affectant-symantec-identity-manager.html)|Broadcom annonce la disponibilité d’une mise à jour de sécurité permettant la correction de trois vulnérabilités au niveau de son produit « Symantec Identity Manager ». L’exploitation de cesvulnérabilités peut permettre à un...|24 janvier 2023|
+ |[39902410/23 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/3990241023-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant son client de messagerie Mozilla Thunderbird. L’exploitation de ces vulnérabilités peut permettre à un...|24 janvier 2023|
+ |[39942401/22 - Vulnérabilité dans IBM WebSphere Application Server traditional container](https://www.dgssi.gov.ma//fr/content/3994240122-vulnerabilite-dans-ibm-websphere-application-server-traditional-container.html)|IBM annonce la correction d’une vulnérabilité affectant les versions susmentionnées du serveur d’application IBM WebSphere traditional container. Un attaquant pourrait exploiter cette vulnérabilité afin de porter atteinte à la...|24 janvier 2023|
+ |[39932401/22 - Vulnérabilité dans PostgreSQL Pgpool-II](https://www.dgssi.gov.ma//fr/content/3993240122-vulnerabilite-dans-postgresql-pgpool-ii.html)|Une vulnérabilité a été corrigée dans les versions PostgreSQL Pgpool-II susmentionnées. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité des données.|24 janvier 2023|
+ |[39892301/22 - Vulnérabilités dans Microsoft Edge](https://www.dgssi.gov.ma//fr/content/3989230122-vulnerabilites-dans-microsoft-edge.html)|Microsoft annonce la correction de deux vulnérabilités dans Microsoft Edge. L’exploitation de ces failles peut permettre à un attaquant de réussir une élévation de privilèges et de porter atteinte à la confidentialité des données.|23 janvier 2023|
+ |[39882301/22 - Vulnérabilités dans SonicWall SMA](https://www.dgssi.gov.ma//fr/content/3988230122-vulnerabilites-dans-sonicwall-sma.html)|Une vulnérabilité a été corrigée dans SonicWall SMA. L'exploitation de cette faille peut permettre à un attaquant distant de porter atteinte à la confidentialité de données et de contourner la politique de sécurité.|23 janvier 2023|
  
 
 # EU-CERT
@@ -111,36 +127,6 @@
  |Title|Description|Date|
  |---|---|---|
  |[2023-003: Critical Vulnerability in VMware vRealize Log Insight](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On January 24, 2022, VMWare released a new security advisory revealing multiple vulnerabilities in VMware vRealize Log Insight. There are two critical vulnerabilities including a directory traversal vulnerability (CVE-2022-31706) and a broken access control vulnerability (CVE-2022-31704). Both of them have the CVSS score of 9.8 out of 10. |Thursday, January 26, 2023 11:55:00 AM CEST|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Apple Products Multiple Vulnerabilities](/security-bulletin/apple-products-multiple-vulnerabilities_20230126)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. Note:CVE-2022-...|Release Date: 26 Jan 2023|
- |[Google Chrome Multiple Vulnerabilities](/security-bulletin/google-chrome-multiple-vulnerabilities_20230126)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and sensitive information disclosure on the targeted system.|Release Date: 26 Jan 2023|
- |[Mozilla Thunderbird Multiple Vulnerabilities](/security-bulletin/mozilla-thunderbird-multiple-vulnerabilities_20230126)|Multiple vulnerabilities were identified in Mozilla Thunderbird. A remote attacker could exploit some of these vulnerabilities to trigger spoofing, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 26 Jan 2023|
- |[VMWare vRealize Log Insight Multiple Vulnerabilities](/security-bulletin/vmware-vrealize-log-insight-multiple-vulnerabilities_20230126)|Multiple vulnerabilities were identified in VMware vRealize Log Insight. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 26 Jan 2023|
- |[Apple Products Multiple Vulnerabilities](/security-bulletin/apple-products-multiple-vulnerabilities_20221214)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. Note:CVE-2022-...| Release Date: 14 Dec 2022 |
- |[Cisco Products Multiple Vulnerabilities](/security-bulletin/cisco-products-multiple-vulnerabilities_20230120)|Multiple vulnerabilities were identified in Cisco Systems Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 20 Jan 2023|
- |[Microsoft Edge Security Restriction Bypass Vulnerability](/security-bulletin/microsoft-edge-security-restriction-bypass-vulnerability_20230120)|A vulnerability was identified in Microsoft Edge. A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system.|Release Date: 20 Jan 2023|
- |[GitLab Remote Code Execution Vulnerabilities](/security-bulletin/gitlab-remote-code-execution-vulnerabilities_20230119)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 19 Jan 2023|
- |[Mozilla Firefox Multiple Vulnerabilities](/security-bulletin/mozilla-firefox-multiple-vulnerabilities_20230119)|Multiple vulnerabilities were identified in Mozilla Firefox. A remote attacker could exploit some of these vulnerabilities to trigger spoofing, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 19 Jan 2023|
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230110)|Multiple vulnerabilities have been identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. [Updated on 2023-01-11] ...| Release Date: 10 Jan 2023 |
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
 
 # CA-CCS
@@ -158,4 +144,10 @@
  |[Cisco security advisory (AV23-040)](https://cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av23-040)|Visit link for details|2023-01-19|
  |[[Control systems] Hitachi Energy security advisory (AV23-039)](https://cyber.gc.ca/en/alerts-advisories/control-systems-hitachi-energy-security-advisory-av23-039)|Visit link for details|2023-01-19|
  |[Sudo security advisory (AV23-038)](https://cyber.gc.ca/en/alerts-advisories/sudo-security-advisory-av23-038)|Visit link for details|2023-01-18|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
  
