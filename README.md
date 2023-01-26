@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 26/01/2023 16:27:05 UTC
+ > Last Updated 26/01/2023 17:20:03 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,28 +29,45 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA Has Added One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/26/cisa-has-added-one-known-exploited-vulnerability-catalog)|<p>CISA has added one new vulnerability to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog%E2%80%AF">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. This type of vulnerability is a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: To view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.</p>|Thursday, January 26, 2023|
  |[CISA, NSA, and MS-ISAC Release Advisory on the Malicious Use of RMM Software](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/25/cisa-nsa-and-ms-isac-release-advisory-malicious-use-rmm-software)|<p>Today, the Cybersecurity and Infrastructure Security Agency (CISA), the National Security Agency (NSA), and the Multi-State Information Sharing and Analysis Center (MS-ISAC) released joint Cybersecurity Advisory (CSA) <a href="https://www.cisa.gov/uscert/ncas/alerts/aa23-025a">Protecting Against Malicious Use of Remote Monitoring and Management Software</a>. The advisory describes a phishing scam in which cyber threat actors maliciously use legitimate remote monitoring and management (RMM) software to steal money from victim bank accounts.</p>|Wednesday, January 25, 2023|
  |[VMware Releases Security Updates for VMware vRealize Log Insight](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/25/vmware-releases-security-updates-vmware-vrealize-log-insight)|<p>VMware released security updates to address multiple vulnerabilities in VMware vRealize Log Insight. A remote attacker could exploit these vulnerabilities to take control of an affected system.</p>|Wednesday, January 25, 2023|
  |[Apple Releases Security Updates for Multiple Products ](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/24/apple-releases-security-updates-multiple-products)|<p>Apple has released security updates to address vulnerabilities in multiple products. An attacker could exploit some of these vulnerabilities to take control of an affected device.</p>|Tuesday, January 24, 2023|
  |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/24/cisa-releases-two-industrial-control-systems-advisories)|<p>CISA released two Industrial Control Systems (ICS) advisories on January 24, 2023.These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p>|Tuesday, January 24, 2023|
  |[CISA Releases Protecting Our Future: Partnering to Safeguard K–12 organizations from Cybersecurity Threats](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/24/cisa-releases-protecting-our-future-partnering-safeguard-k-12)|<p>Today, CISA released <a href="https://www.cisa.gov/protecting-our-future-partnering-safeguard-k-12-organizations-cybersecurity-threats">Protecting Our Future: Partnering to Safeguard K–12 organizations from Cybersecurity Threats</a>. The report provides recommendations and resources to help K-12 schools and school districts address systemic cybersecurity risk. It also provides insight into the current threat landscape specific to the K-12 community and offers simple steps school leaders can take to strengthen their cybersecurity efforts.</p>|Tuesday, January 24, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/23/cisa-adds-one-known-exploited-vulnerability-catalog)|<p>CISA has added one new vulnerability to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. This type of vulnerability is a frequent attack vector for malicious cyber actors and poses a significant risk to the federal enterprise. Note: To view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.</p>|Monday, January 23, 2023|
  
 
 # CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
+ |[Vulnérabilité dans Grafana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0063/)|Une vulnérabilité a été découverte dans Grafana. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 26 janvier 2023|
+ |[Vulnérabilité dans Xen libxl](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0062/)|Une vulnérabilité a été découverte dans Xen libxl. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 26 janvier 2023|
+ |[Multiples vulnérabilités dans Tenable.sc](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0061/)|De multiples vulnérabilités ont été découvertes dans Tenable.sc. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une injection de code indirecte à distance (XSS).|Publié le 26 janvier 2023|
+ |[Multiples vulnérabilités dans IBM QRadar WinCollect Agent](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0060/)|De multiples vulnérabilités ont été découvertes dans IBM QRadar WinCollect Agent. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 26 janvier 2023|
+ |[Multiples vulnérabilités dans ISC BIND](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0059/)|De multiples vulnérabilités ont été découvertes dans ISC Bind. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 26 janvier 2023|
  |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0057/)|De multiples vulnérabilités ont été corrigées dans |Publié le 25 janvier 2023|
  |[Multiples vulnérabilités dans VMware vRealize Log Insight](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0058/)|De multiples vulnérabilités ont été découvertes dans VMware vRealize Log Insight. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 25 janvier 2023|
  |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0056/)|De multiples vulnérabilités ont été découvertes dans les produits Apple. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 24 janvier 2023|
  |[Vulnérabilité dans IBM WebSphere Application Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0055/)|Une vulnérabilité a été découverte dans IBM WebSphere Application Server. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 24 janvier 2023|
  |[Multiples vulnérabilités dans Elastic Endpoint et Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0053/)|De multiples vulnérabilités ont été découvertes dans Elastic Endpoint et Security. Elles permettent à un attaquant de provoquer une élévation de privilèges.|Publié le 24 janvier 2023|
- |[Multiples vulnérabilités dans Moodle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0054/)|De multiples vulnérabilités ont été découvertes dans Moodle. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une atteinte à l'intégrité des données et une injection de code indirecte à distance (XSS).|Publié le 24 janvier 2023|
- |[Multiples vulnérabilités dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0052/)|De multiples vulnérabilités ont été corrigées dans|Publié le 23 janvier 2023|
- |[Multiples vulnérabilités dans les produits Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0051/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 23 janvier 2023|
- |[Multiples vulnérabilités dans Broadcom Symantec Identity Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0050/)|De multiples vulnérabilités ont été découvertes dans Broadcom Symantec Identity Manager. Certaines d'entre elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 23 janvier 2023|
- |[Vulnérabilité dans PostgreSQL Pgpool-II](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0049/)|Une vulnérabilité a été découverte dans PostgreSQL Pgpool-II. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 23 janvier 2023|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[39982601/23 - Vulnérabilités affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/3998260123-vulnerabilites-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilitésaffectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre àun attaquant de provoquer des problèmes...|26 janvier 2023|
+ |[39972501/22 - Vulnérabilités dans le plugin LearnPress du CMS WordPress ](https://www.dgssi.gov.ma//fr/content/3997250122-vulnerabilites-dans-le-plugin-learnpress-du-cms-wordpress.html)|Plusieurs vulnérabilités ont été corrigées dans le plugin LearnPress du CMS WordPress. L’exploitation de ces failles pourrait entraîner la divulgation d'informations sensibles, la modification de données et l'exécution de code...|25 janvier 2023|
+ |[39962501/23 - Vulnérabilités affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma//fr/content/3996250123-vulnerabilites-affectant-plusieurs-produits-d-apple.html)|Apple annonce lacorrectionde plusieursvulnérabilitésaffectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peutpermettre à un attaquant distant d’exécuter du code arbitraire, de contourner les mesures de...|25 janvier 2023|
+ |[39952501/23 - Vulnérabilités critiques affectant VMware vRealize Log Insight](https://www.dgssi.gov.ma//fr/content/3995250123-vulnerabilites-critiques-affectant-vmware-vrealize-log-insight.html)|VMware annonce la correction de vulnérabilités critiques affectant son produit VMware vRealize Log Insight. L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant de d’exécuter du code arbitraire, accéder à des...|25 janvier 2023|
+ |[39922401/23 - « Zero-Day » corrigé dans les anciens iPhones et iPads d’Apple](https://www.dgssi.gov.ma//fr/content/3992240123-zero-day-corrige-dans-les-anciens-iphones-et-ipads-d-apple.html)|Apple annonce la correction d’une vulnérabilité « Zero-day » affectant ses produits susmentionnés. Selon Apple, cette vulnérabilité identifiée par « CVE-2022-42856 » est activement exploitée et peut permettre à un attaquant d’exécuter du...|24 janvier 2023|
+ |[39912401/23 - Vulnérabilités affectantSymantec Identity Manager](https://www.dgssi.gov.ma//fr/content/3991240123-vulnerabilites-affectant-symantec-identity-manager.html)|Broadcom annonce la disponibilité d’une mise à jour de sécurité permettant la correction de trois vulnérabilités au niveau de son produit « Symantec Identity Manager ». L’exploitation de cesvulnérabilités peut permettre à un...|24 janvier 2023|
+ |[39902410/23 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/3990241023-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant son client de messagerie Mozilla Thunderbird. L’exploitation de ces vulnérabilités peut permettre à un...|24 janvier 2023|
+ |[39942401/22 - Vulnérabilité dans IBM WebSphere Application Server traditional container](https://www.dgssi.gov.ma//fr/content/3994240122-vulnerabilite-dans-ibm-websphere-application-server-traditional-container.html)|IBM annonce la correction d’une vulnérabilité affectant les versions susmentionnées du serveur d’application IBM WebSphere traditional container. Un attaquant pourrait exploiter cette vulnérabilité afin de porter atteinte à la...|24 janvier 2023|
+ |[39932401/22 - Vulnérabilité dans PostgreSQL Pgpool-II](https://www.dgssi.gov.ma//fr/content/3993240122-vulnerabilite-dans-postgresql-pgpool-ii.html)|Une vulnérabilité a été corrigée dans les versions PostgreSQL Pgpool-II susmentionnées. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité des données.|24 janvier 2023|
+ |[39892301/22 - Vulnérabilités dans Microsoft Edge](https://www.dgssi.gov.ma//fr/content/3989230122-vulnerabilites-dans-microsoft-edge.html)|Microsoft annonce la correction de deux vulnérabilités dans Microsoft Edge. L’exploitation de ces failles peut permettre à un attaquant de réussir une élévation de privilèges et de porter atteinte à la confidentialité des données.|23 janvier 2023|
+ |[39882301/22 - Vulnérabilités dans SonicWall SMA](https://www.dgssi.gov.ma//fr/content/3988230122-vulnerabilites-dans-sonicwall-sma.html)|Une vulnérabilité a été corrigée dans SonicWall SMA. L'exploitation de cette faille peut permettre à un attaquant distant de porter atteinte à la confidentialité de données et de contourner la politique de sécurité.|23 janvier 2023|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -88,20 +105,6 @@
  |---|---|---|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -119,6 +122,27 @@
  |[<a href="https://vigilance.fr/vulnerability/libde265-buffer-overflow-via-put-qpel-fallback-40355" class="noirorange"><b>libde265</b>: buffer overflow via put_qpel_fallback()</a>](https://vigilance.fr/vulnerability/libde265-buffer-overflow-via-put-qpel-fallback-40355)|An attacker can trigger a buffer overflow of libde265, via |Visit link for details|
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-003: Critical Vulnerability in VMware vRealize Log Insight](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On January 24, 2022, VMWare released a new security advisory revealing multiple vulnerabilities in VMware vRealize Log Insight. There are two critical vulnerabilities including a directory traversal vulnerability (CVE-2022-31706) and a broken access control vulnerability (CVE-2022-31704). Both of them have the CVSS score of 9.8 out of 10. |Thursday, January 26, 2023 11:55:00 AM CEST|
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
@@ -134,17 +158,4 @@
  |[IBM security advisory (AV23-041)](https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-041)|Visit link for details|2023-01-23|
  |[Cisco security advisory (AV23-040)](https://cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av23-040)|Visit link for details|2023-01-19|
  |[[Control systems] Hitachi Energy security advisory (AV23-039)](https://cyber.gc.ca/en/alerts-advisories/control-systems-hitachi-energy-security-advisory-av23-039)|Visit link for details|2023-01-19|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-003: Critical Vulnerability in VMware vRealize Log Insight](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On January 24, 2022, VMWare released a new security advisory revealing multiple vulnerabilities in VMware vRealize Log Insight. There are two critical vulnerabilities including a directory traversal vulnerability (CVE-2022-31706) and a broken access control vulnerability (CVE-2022-31704). Both of them have the CVSS score of 9.8 out of 10. |Thursday, January 26, 2023 11:55:00 AM CEST|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
  
