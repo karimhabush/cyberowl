@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 26/01/2023 18:25:00 UTC
+ > Last Updated 26/01/2023 19:16:58 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,12 +29,12 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[JCDC Announces 2023 Planning Agenda](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/26/jcdc-announces-2023-planning-agenda)|<p>Today, the Joint Cyber Defense Collaborative (JCDC) announced its <a href="https://www.cisa.gov/2023-jcdc-planning-agenda">2023 Planning Agenda</a>. This release marks a major milestone in the continued evolution and maturation of the collaborative’s planning efforts. JCDC’s Planning Agenda brings together government and private sector partners to develop and execute cyber defense plans that achieve specific risk reduction goals focused on systemic risk, collective cyber response, and high-risk communities.</p>|Thursday, January 26, 2023|
  |[CISA Releases Eight Industrial Control Systems Advisories ](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/26/cisa-releases-eight-industrial-control-systems-advisories)|<p>CISA released eight Industrial Control Systems (ICS) advisories on January 26, 2023.These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p>|Thursday, January 26, 2023|
- |[CISA Has Added One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/26/cisa-has-added-one-known-exploited-vulnerability-catalog)|<p>CISA has added one new vulnerability to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog%E2%80%AF">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. This type of vulnerability is a frequent attack vector for malicious cyber actors and pose significant risk to the federal enterprise. Note: To view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.</p>|Thursday, January 26, 2023|
+ |[CISA Has Added One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/26/cisa-has-added-one-known-exploited-vulnerability-catalog)|<p>CISA has added one new vulnerability to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. This type of vulnerability is a frequent attack vector for malicious cyber actors and poses a significant risk to the federal enterprise. Note: To view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.</p>|Thursday, January 26, 2023|
  |[CISA, NSA, and MS-ISAC Release Advisory on the Malicious Use of RMM Software](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/25/cisa-nsa-and-ms-isac-release-advisory-malicious-use-rmm-software)|<p>Today, the Cybersecurity and Infrastructure Security Agency (CISA), the National Security Agency (NSA), and the Multi-State Information Sharing and Analysis Center (MS-ISAC) released joint Cybersecurity Advisory (CSA) <a href="https://www.cisa.gov/uscert/ncas/alerts/aa23-025a">Protecting Against Malicious Use of Remote Monitoring and Management Software</a>. The advisory describes a phishing scam in which cyber threat actors maliciously use legitimate remote monitoring and management (RMM) software to steal money from victim bank accounts.</p>|Wednesday, January 25, 2023|
  |[VMware Releases Security Updates for VMware vRealize Log Insight](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/25/vmware-releases-security-updates-vmware-vrealize-log-insight)|<p>VMware released security updates to address multiple vulnerabilities in VMware vRealize Log Insight. A remote attacker could exploit these vulnerabilities to take control of an affected system.</p>|Wednesday, January 25, 2023|
  |[Apple Releases Security Updates for Multiple Products ](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/24/apple-releases-security-updates-multiple-products)|<p>Apple has released security updates to address vulnerabilities in multiple products. An attacker could exploit some of these vulnerabilities to take control of an affected device.</p>|Tuesday, January 24, 2023|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/24/cisa-releases-two-industrial-control-systems-advisories)|<p>CISA released two Industrial Control Systems (ICS) advisories on January 24, 2023.These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p>|Tuesday, January 24, 2023|
  
 
 # CERT-FR
@@ -66,20 +66,10 @@
  |[OpenSearch security bypass (CVE-2023-23612)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 24, 2023|
  
 
-# HK-CERT
+# VulDB
 
  |Title|Description|Date|
  |---|---|---|
- |[Apple Products Multiple Vulnerabilities](/security-bulletin/apple-products-multiple-vulnerabilities_20230126)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. Note:CVE-2022-...|Release Date: 26 Jan 2023|
- |[Google Chrome Multiple Vulnerabilities](/security-bulletin/google-chrome-multiple-vulnerabilities_20230126)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and sensitive information disclosure on the targeted system.|Release Date: 26 Jan 2023|
- |[Mozilla Thunderbird Multiple Vulnerabilities](/security-bulletin/mozilla-thunderbird-multiple-vulnerabilities_20230126)|Multiple vulnerabilities were identified in Mozilla Thunderbird. A remote attacker could exploit some of these vulnerabilities to trigger spoofing, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 26 Jan 2023|
- |[VMWare vRealize Log Insight Multiple Vulnerabilities](/security-bulletin/vmware-vrealize-log-insight-multiple-vulnerabilities_20230126)|Multiple vulnerabilities were identified in VMware vRealize Log Insight. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 26 Jan 2023|
- |[Apple Products Multiple Vulnerabilities](/security-bulletin/apple-products-multiple-vulnerabilities_20221214)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. Note:CVE-2022-...| Release Date: 14 Dec 2022 |
- |[Cisco Products Multiple Vulnerabilities](/security-bulletin/cisco-products-multiple-vulnerabilities_20230120)|Multiple vulnerabilities were identified in Cisco Systems Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 20 Jan 2023|
- |[Microsoft Edge Security Restriction Bypass Vulnerability](/security-bulletin/microsoft-edge-security-restriction-bypass-vulnerability_20230120)|A vulnerability was identified in Microsoft Edge. A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system.|Release Date: 20 Jan 2023|
- |[GitLab Remote Code Execution Vulnerabilities](/security-bulletin/gitlab-remote-code-execution-vulnerabilities_20230119)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 19 Jan 2023|
- |[Mozilla Firefox Multiple Vulnerabilities](/security-bulletin/mozilla-firefox-multiple-vulnerabilities_20230119)|Multiple vulnerabilities were identified in Mozilla Firefox. A remote attacker could exploit some of these vulnerabilities to trigger spoofing, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 19 Jan 2023|
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230110)|Multiple vulnerabilities have been identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. [Updated on 2023-01-11] ...| Release Date: 10 Jan 2023 |
  
 
 # MA-CERT
@@ -99,24 +89,20 @@
  |[39882301/22 - Vulnérabilités dans SonicWall SMA](https://www.dgssi.gov.ma//fr/content/3988230122-vulnerabilites-dans-sonicwall-sma.html)|Une vulnérabilité a été corrigée dans SonicWall SMA. L'exploitation de cette faille peut permettre à un attaquant distant de porter atteinte à la confidentialité de données et de contourner la politique de sécurité.|23 janvier 2023|
  
 
-# VulDB
+# HK-CERT
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
+ |[Apple Products Multiple Vulnerabilities](/security-bulletin/apple-products-multiple-vulnerabilities_20230126)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. Note:CVE-2022-...|Release Date: 26 Jan 2023|
+ |[Google Chrome Multiple Vulnerabilities](/security-bulletin/google-chrome-multiple-vulnerabilities_20230126)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and sensitive information disclosure on the targeted system.|Release Date: 26 Jan 2023|
+ |[Mozilla Thunderbird Multiple Vulnerabilities](/security-bulletin/mozilla-thunderbird-multiple-vulnerabilities_20230126)|Multiple vulnerabilities were identified in Mozilla Thunderbird. A remote attacker could exploit some of these vulnerabilities to trigger spoofing, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 26 Jan 2023|
+ |[VMWare vRealize Log Insight Multiple Vulnerabilities](/security-bulletin/vmware-vrealize-log-insight-multiple-vulnerabilities_20230126)|Multiple vulnerabilities were identified in VMware vRealize Log Insight. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 26 Jan 2023|
+ |[Apple Products Multiple Vulnerabilities](/security-bulletin/apple-products-multiple-vulnerabilities_20221214)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. Note:CVE-2022-...| Release Date: 14 Dec 2022 |
+ |[Cisco Products Multiple Vulnerabilities](/security-bulletin/cisco-products-multiple-vulnerabilities_20230120)|Multiple vulnerabilities were identified in Cisco Systems Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 20 Jan 2023|
+ |[Microsoft Edge Security Restriction Bypass Vulnerability](/security-bulletin/microsoft-edge-security-restriction-bypass-vulnerability_20230120)|A vulnerability was identified in Microsoft Edge. A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system.|Release Date: 20 Jan 2023|
+ |[GitLab Remote Code Execution Vulnerabilities](/security-bulletin/gitlab-remote-code-execution-vulnerabilities_20230119)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 19 Jan 2023|
+ |[Mozilla Firefox Multiple Vulnerabilities](/security-bulletin/mozilla-firefox-multiple-vulnerabilities_20230119)|Multiple vulnerabilities were identified in Mozilla Firefox. A remote attacker could exploit some of these vulnerabilities to trigger spoofing, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 19 Jan 2023|
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230110)|Multiple vulnerabilities have been identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. [Updated on 2023-01-11] ...| Release Date: 10 Jan 2023 |
  
 
 # OBS-Vigilance
@@ -158,4 +144,18 @@
  |[IBM security advisory (AV23-041)](https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-041)|Visit link for details|2023-01-23|
  |[Cisco security advisory (AV23-040)](https://cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av23-040)|Visit link for details|2023-01-19|
  |[[Control systems] Hitachi Energy security advisory (AV23-039)](https://cyber.gc.ca/en/alerts-advisories/control-systems-hitachi-energy-security-advisory-av23-039)|Visit link for details|2023-01-19|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
