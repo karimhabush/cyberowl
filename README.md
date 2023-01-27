@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 27/01/2023 20:20:50 UTC
+ > Last Updated 27/01/2023 21:18:26 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -70,17 +70,21 @@
  |[39942401/22 - Vulnérabilité dans IBM WebSphere Application Server traditional container](https://www.dgssi.gov.ma//fr/content/3994240122-vulnerabilite-dans-ibm-websphere-application-server-traditional-container.html)|IBM annonce la correction d’une vulnérabilité affectant les versions susmentionnées du serveur d’application IBM WebSphere traditional container. Un attaquant pourrait exploiter cette vulnérabilité afin de porter atteinte à la...|24 janvier 2023|
  
 
-# IBM-X-FORCE-EXCHANGE
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[Econolite EOS brute force (CVE-2023-0452)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2023|
- |[Econolite EOS security bypass (CVE-2023-0451)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2023|
- |[Sierra Wireless AirLink Router information disclosure (CVE-2022-46650)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2023|
- |[Sierra Wireless AirLink Router command execution (CVE-2022-46649)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2023|
- |[Landis+Gyr E850 denial of service (CVE-2022-3083)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2023|
- |[WattBox WB-300-IP-3 file upload (CVE-2023-22315)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2023|
- |[WattBox WB-300-IP-3 information disclosure (CVE-2023-22389)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2023|
+ |[<a href="https://vigilance.fr/vulnerability/phpMyAdmin-SQL-injection-via-tbl-storage-engine-40376" class="noirorange"><b>phpMyAdmin</b>: SQL injection via tbl_storage_engine</a>](https://vigilance.fr/vulnerability/phpMyAdmin-SQL-injection-via-tbl-storage-engine-40376)|An attacker can use a SQL injection of phpMyAdmin, via tbl_storage_engine, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MediaWiki-overload-via-SpecialMobileHistory-40375" class="noirorange"><b>MediaWiki</b>: overload via SpecialMobileHistory</a>](https://vigilance.fr/vulnerability/MediaWiki-overload-via-SpecialMobileHistory-40375)|An attacker can trigger an overload of MediaWiki, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MediaWiki-Cross-Site-Scripting-via-E-Widgets-40374" class="noirorange"><b>MediaWiki</b>: Cross Site Scripting via E-Widgets</a>](https://vigilance.fr/vulnerability/MediaWiki-Cross-Site-Scripting-via-E-Widgets-40374)|An attacker can trigger a Cross Site Scripting of MediaWiki, via E-Widgets, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MediaWiki-privilege-escalation-via-GrowthExperiments-API-40373" class="noirorange"><b>MediaWiki</b>: privilege escalation via GrowthExperiments API</a>](https://vigilance.fr/vulnerability/MediaWiki-privilege-escalation-via-GrowthExperiments-API-40373)|An attacker can bypass restrictions of MediaWiki, via GrowthExperiments API, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MediaWiki-information-disclosure-via-SQLite-Files-40372" class="noirorange"><b>MediaWiki</b>: information disclosure via SQLite Files</a>](https://vigilance.fr/vulnerability/MediaWiki-information-disclosure-via-SQLite-Files-40372)|An attacker can bypass access restrictions to data of MediaWiki, via SQLite Files, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FFmpeg-NULL-pointer-dereference-via-decode-main-header-40371" class="noirorange"><b>FFmpeg</b>: NULL pointer dereference via decode_main_header()</a>](https://vigilance.fr/vulnerability/FFmpeg-NULL-pointer-dereference-via-decode-main-header-40371)|An attacker can force a NULL pointer to be dereferenced on FFmpeg, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/BlueZ-NULL-pointer-dereference-via-read-50-controller-cap-complete-40370" class="noirorange"><b>BlueZ</b>: NULL pointer dereference via read_50_controller_cap_complete()</a>](https://vigilance.fr/vulnerability/BlueZ-NULL-pointer-dereference-via-read-50-controller-cap-complete-40370)|An attacker can force a NULL pointer to be dereferenced on BlueZ, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/py-overload-via-InfoSvnCommand-Regular-Expression-40369" class="noirorange"><b>py</b>: overload via InfoSvnCommand Regular Expression</a>](https://vigilance.fr/vulnerability/py-overload-via-InfoSvnCommand-Regular-Expression-40369)|An attacker can trigger an overload of py, via InfoSvnCommand Regular Expression, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ModSecurity-ingress-filtrering-bypass-via-FILES-TMP-CONTENT-40368" class="noirorange"><b>ModSecurity</b>: ingress filtrering bypass via FILES_TMP_CONTENT</a>](https://vigilance.fr/vulnerability/ModSecurity-ingress-filtrering-bypass-via-FILES-TMP-CONTENT-40368)|An attacker can bypass filtering rules of ModSecurity, via FILES_TMP_CONTENT, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ModSecurity-ingress-filtrering-bypass-via-HTTP-Multipart-Requests-40367" class="noirorange"><b>ModSecurity</b>: ingress filtrering bypass via HTTP Multipart Requests</a>](https://vigilance.fr/vulnerability/ModSecurity-ingress-filtrering-bypass-via-HTTP-Multipart-Requests-40367)|An attacker can bypass filtering rules of ModSecurity, via HTTP Multipart Requests, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-io-install-fixed-file-40366" class="noirorange"><b>Linux kernel</b>: reuse after free via io_install_fixed_file()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-io-install-fixed-file-40366)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
  
 
 # HK-CERT
@@ -105,6 +109,19 @@
  |---|---|---|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Econolite EOS brute force (CVE-2023-0452)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2023|
+ |[Econolite EOS security bypass (CVE-2023-0451)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2023|
+ |[Sierra Wireless AirLink Router information disclosure (CVE-2022-46650)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2023|
+ |[Sierra Wireless AirLink Router command execution (CVE-2022-46649)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2023|
+ |[Landis+Gyr E850 denial of service (CVE-2022-3083)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2023|
+ |[WattBox WB-300-IP-3 file upload (CVE-2023-22315)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2023|
+ |[WattBox WB-300-IP-3 information disclosure (CVE-2023-22389)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2023|
+ 
+
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -117,23 +134,6 @@
  |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
  |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
  |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/phpMyAdmin-SQL-injection-via-tbl-storage-engine-40376" class="noirorange"><b>phpMyAdmin</b>: SQL injection via tbl_storage_engine</a>](https://vigilance.fr/vulnerability/phpMyAdmin-SQL-injection-via-tbl-storage-engine-40376)|An attacker can use a SQL injection of phpMyAdmin, via tbl_storage_engine, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/MediaWiki-overload-via-SpecialMobileHistory-40375" class="noirorange"><b>MediaWiki</b>: overload via SpecialMobileHistory</a>](https://vigilance.fr/vulnerability/MediaWiki-overload-via-SpecialMobileHistory-40375)|An attacker can trigger an overload of MediaWiki, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/MediaWiki-Cross-Site-Scripting-via-E-Widgets-40374" class="noirorange"><b>MediaWiki</b>: Cross Site Scripting via E-Widgets</a>](https://vigilance.fr/vulnerability/MediaWiki-Cross-Site-Scripting-via-E-Widgets-40374)|An attacker can trigger a Cross Site Scripting of MediaWiki, via E-Widgets, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/MediaWiki-privilege-escalation-via-GrowthExperiments-API-40373" class="noirorange"><b>MediaWiki</b>: privilege escalation via GrowthExperiments API</a>](https://vigilance.fr/vulnerability/MediaWiki-privilege-escalation-via-GrowthExperiments-API-40373)|An attacker can bypass restrictions of MediaWiki, via GrowthExperiments API, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/MediaWiki-information-disclosure-via-SQLite-Files-40372" class="noirorange"><b>MediaWiki</b>: information disclosure via SQLite Files</a>](https://vigilance.fr/vulnerability/MediaWiki-information-disclosure-via-SQLite-Files-40372)|An attacker can bypass access restrictions to data of MediaWiki, via SQLite Files, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FFmpeg-NULL-pointer-dereference-via-decode-main-header-40371" class="noirorange"><b>FFmpeg</b>: NULL pointer dereference via decode_main_header()</a>](https://vigilance.fr/vulnerability/FFmpeg-NULL-pointer-dereference-via-decode-main-header-40371)|An attacker can force a NULL pointer to be dereferenced on FFmpeg, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/BlueZ-NULL-pointer-dereference-via-read-50-controller-cap-complete-40370" class="noirorange"><b>BlueZ</b>: NULL pointer dereference via read_50_controller_cap_complete()</a>](https://vigilance.fr/vulnerability/BlueZ-NULL-pointer-dereference-via-read-50-controller-cap-complete-40370)|An attacker can force a NULL pointer to be dereferenced on BlueZ, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/py-overload-via-InfoSvnCommand-Regular-Expression-40369" class="noirorange"><b>py</b>: overload via InfoSvnCommand Regular Expression</a>](https://vigilance.fr/vulnerability/py-overload-via-InfoSvnCommand-Regular-Expression-40369)|An attacker can trigger an overload of py, via InfoSvnCommand Regular Expression, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ModSecurity-ingress-filtrering-bypass-via-FILES-TMP-CONTENT-40368" class="noirorange"><b>ModSecurity</b>: ingress filtrering bypass via FILES_TMP_CONTENT</a>](https://vigilance.fr/vulnerability/ModSecurity-ingress-filtrering-bypass-via-FILES-TMP-CONTENT-40368)|An attacker can bypass filtering rules of ModSecurity, via FILES_TMP_CONTENT, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ModSecurity-ingress-filtrering-bypass-via-HTTP-Multipart-Requests-40367" class="noirorange"><b>ModSecurity</b>: ingress filtrering bypass via HTTP Multipart Requests</a>](https://vigilance.fr/vulnerability/ModSecurity-ingress-filtrering-bypass-via-HTTP-Multipart-Requests-40367)|An attacker can bypass filtering rules of ModSecurity, via HTTP Multipart Requests, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-io-install-fixed-file-40366" class="noirorange"><b>Linux kernel</b>: reuse after free via io_install_fixed_file()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-io-install-fixed-file-40366)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
  
 
 # CA-CCS
