@@ -4,6 +4,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[[Control systems] Mitsubishi Electric security advisory (AV23-052)](https://cyber.gc.ca/en/alerts-advisories/systemes-controle-bulletin-securite-mitsubishi-electric-av23-052)|Visit link for details|2023-01-27|
+ |[[Control systems] Sierra Wireless security advisory (AV23-051)](https://cyber.gc.ca/en/alerts-advisories/control-systems-sierra-wireless-security-advisory-av23-051)|Visit link for details|2023-01-26|
  |[[Control systems] Snap One security advisory (AV23-050)](https://cyber.gc.ca/en/alerts-advisories/control-systems-snap-one-security-advisory-av23-050)|Visit link for details|2023-01-26|
  |[ISC BIND security advisory (AV23-049)](https://cyber.gc.ca/en/alerts-advisories/isc-bind-security-advisory-av23-049)|Visit link for details|2023-01-26|
  |[Google Chrome security advisory (AV23-048)](https://cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-048)|Visit link for details|2023-01-25|
@@ -13,6 +15,4 @@
  |[[Control systems] XINJE security advisory (AV23-044)](https://cyber.gc.ca/en/alerts-advisories/control-systems-xinje-security-advisory-av23-044)|Visit link for details|2023-01-24|
  |[Dell security advisory (AV23-043)](https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-043)|Visit link for details|2023-01-24|
  |[Ubuntu security advisory (AV23-042)](https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-042)|Visit link for details|2023-01-23|
- |[IBM security advisory (AV23-041)](https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-041)|Visit link for details|2023-01-23|
- |[Cisco security advisory (AV23-040)](https://cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av23-040)|Visit link for details|2023-01-19|
  
