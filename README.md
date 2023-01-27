@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 26/01/2023 23:23:37 UTC
+ > Last Updated 27/01/2023 01:42:06 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -53,12 +53,6 @@
  |[Multiples vulnérabilités dans Elastic Endpoint et Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0053/)|De multiples vulnérabilités ont été découvertes dans Elastic Endpoint et Security. Elles permettent à un attaquant de provoquer une élévation de privilèges.|Publié le 24 janvier 2023|
  
 
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -97,13 +91,13 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Econolite EOS brute force (CVE-2023-0452)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2023|
+ |[Econolite EOS security bypass (CVE-2023-0451)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2023|
+ |[Sierra Wireless AirLink Router information disclosure (CVE-2022-46650)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2023|
+ |[Sierra Wireless AirLink Router command execution (CVE-2022-46649)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2023|
  |[Landis+Gyr E850 denial of service (CVE-2022-3083)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2023|
  |[WattBox WB-300-IP-3 file upload (CVE-2023-22315)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2023|
  |[WattBox WB-300-IP-3 information disclosure (CVE-2023-22389)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2023|
- |[WattBox WB-300-IP-3 denial of service (CVE-2023-23582)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2023|
- |[WattBox WB-300-IP-3 brute force (CVE-2023-24020)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2023|
- |[Mitsubishi Electric MELFA controllers security bypass (CVE-2022-33323)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2023|
- |[Delta Electronics CNCSoft buffer overflow (CVE-2022-4634)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2023|
  
 
 # HK-CERT
@@ -122,25 +116,10 @@
  |[Ubuntu Linux Kernel Multiple Vulnerabilities](/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230110)|Multiple vulnerabilities have been identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. [Updated on 2023-01-11] ...| Release Date: 10 Jan 2023 |
  
 
-# EU-CERT
+# VulDB
 
  |Title|Description|Date|
  |---|---|---|
- |[2023-003: Critical Vulnerability in VMware vRealize Log Insight](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On January 24, 2022, VMWare released a new security advisory revealing multiple vulnerabilities in VMware vRealize Log Insight. There are two critical vulnerabilities including a directory traversal vulnerability (CVE-2022-31706) and a broken access control vulnerability (CVE-2022-31704). Both of them have the CVSS score of 9.8 out of 10. |Thursday, January 26, 2023 11:55:00 AM CEST|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
 
 # CA-CCS
@@ -158,4 +137,17 @@
  |[IBM security advisory (AV23-041)](https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-041)|Visit link for details|2023-01-23|
  |[Cisco security advisory (AV23-040)](https://cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av23-040)|Visit link for details|2023-01-19|
  |[[Control systems] Hitachi Energy security advisory (AV23-039)](https://cyber.gc.ca/en/alerts-advisories/control-systems-hitachi-energy-security-advisory-av23-039)|Visit link for details|2023-01-19|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-003: Critical Vulnerability in VMware vRealize Log Insight](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On January 24, 2022, VMWare released a new security advisory revealing multiple vulnerabilities in VMware vRealize Log Insight. There are two critical vulnerabilities including a directory traversal vulnerability (CVE-2022-31706) and a broken access control vulnerability (CVE-2022-31704). Both of them have the CVSS score of 9.8 out of 10. |Thursday, January 26, 2023 11:55:00 AM CEST|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
  
