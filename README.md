@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 28/01/2023 03:22:11 UTC
+ > Last Updated 28/01/2023 04:26:49 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -53,19 +53,6 @@
  |[Multiples vulnérabilités dans IBM QRadar WinCollect Agent](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0060/)|De multiples vulnérabilités ont été découvertes dans IBM QRadar WinCollect Agent. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 26 janvier 2023|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Econolite EOS brute force (CVE-2023-0452)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2023|
- |[Econolite EOS security bypass (CVE-2023-0451)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2023|
- |[Sierra Wireless AirLink Router information disclosure (CVE-2022-46650)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2023|
- |[Sierra Wireless AirLink Router command execution (CVE-2022-46649)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2023|
- |[Landis+Gyr E850 denial of service (CVE-2022-3083)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2023|
- |[WattBox WB-300-IP-3 file upload (CVE-2023-22315)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2023|
- |[WattBox WB-300-IP-3 information disclosure (CVE-2023-22389)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2023|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -99,24 +86,23 @@
  |[Ubuntu Linux Kernel Multiple Vulnerabilities](/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230110)|Multiple vulnerabilities have been identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. [Updated on 2023-01-11] ...| Release Date: 10 Jan 2023 |
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Econolite EOS brute force (CVE-2023-0452)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2023|
+ |[Econolite EOS security bypass (CVE-2023-0451)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2023|
+ |[Sierra Wireless AirLink Router information disclosure (CVE-2022-46650)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2023|
+ |[Sierra Wireless AirLink Router command execution (CVE-2022-46649)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2023|
+ |[Landis+Gyr E850 denial of service (CVE-2022-3083)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2023|
+ |[WattBox WB-300-IP-3 file upload (CVE-2023-22315)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2023|
+ |[WattBox WB-300-IP-3 information disclosure (CVE-2023-22389)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2023|
+ 
+
 # VulDB
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
 
 # OBS-Vigilance
@@ -151,6 +137,20 @@
  |[Apple security advisory (AV23-047)](https://cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-047)|Visit link for details|2023-01-25|
  |[VMware security advisory (AV23-046)](https://cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av23-046)|Visit link for details|2023-01-25|
  |[[Control systems] SOCOMEC security advisory (AV23-045)](https://cyber.gc.ca/en/alerts-advisories/control-systems-socomec-security-advisory-av23-045)|Visit link for details|2023-01-24|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
 
 # EU-CERT
