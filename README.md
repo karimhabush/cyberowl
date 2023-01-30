@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 30/01/2023 07:20:13 UTC
+ > Last Updated 30/01/2023 08:26:24 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -37,22 +37,6 @@
  |[VMware Releases Security Updates for VMware vRealize Log Insight](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/25/vmware-releases-security-updates-vmware-vrealize-log-insight)|<p>VMware released security updates to address multiple vulnerabilities in VMware vRealize Log Insight. A remote attacker could exploit these vulnerabilities to take control of an affected system.</p>|Wednesday, January 25, 2023|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans le noyaux Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0069/)|De multiples vulnérabilités ont été découvertes dans le noyaux Linux de Debian. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 27 janvier 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0068/)|De multiples vulnérabilités ont été corrigées dans |Publié le 27 janvier 2023|
- |[Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0067/)|De multiples vulnérabilités ont été corrigées dans |Publié le 27 janvier 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0066/)|De multiples vulnérabilités ont été corrigées dans |Publié le 27 janvier 2023|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0065/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 27 janvier 2023|
- |[Multiples vulnérabilités dans Stormshield SSL VPN Client](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0064/)|De multiples vulnérabilités ont été découvertes dans Stormshield SSL VPN Client. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 27 janvier 2023|
- |[Vulnérabilité dans Grafana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0063/)|Une vulnérabilité a été découverte dans Grafana. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 26 janvier 2023|
- |[Vulnérabilité dans Xen libxl](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0062/)|Une vulnérabilité a été découverte dans Xen libxl. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 26 janvier 2023|
- |[Multiples vulnérabilités dans Tenable.sc](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0061/)|De multiples vulnérabilités ont été découvertes dans Tenable.sc. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une injection de code indirecte à distance (XSS).|Publié le 26 janvier 2023|
- |[Multiples vulnérabilités dans IBM QRadar WinCollect Agent](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0060/)|De multiples vulnérabilités ont été découvertes dans IBM QRadar WinCollect Agent. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 26 janvier 2023|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -68,6 +52,22 @@
  |[39912401/23 - Vulnérabilités affectantSymantec Identity Manager](https://www.dgssi.gov.ma//fr/content/3991240123-vulnerabilites-affectant-symantec-identity-manager.html)|Broadcom annonce la disponibilité d’une mise à jour de sécurité permettant la correction de trois vulnérabilités au niveau de son produit « Symantec Identity Manager ». L’exploitation de cesvulnérabilités peut permettre à un...|24 janvier 2023|
  |[39902410/23 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/3990241023-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant son client de messagerie Mozilla Thunderbird. L’exploitation de ces vulnérabilités peut permettre à un...|24 janvier 2023|
  |[39942401/22 - Vulnérabilité dans IBM WebSphere Application Server traditional container](https://www.dgssi.gov.ma//fr/content/3994240122-vulnerabilite-dans-ibm-websphere-application-server-traditional-container.html)|IBM annonce la correction d’une vulnérabilité affectant les versions susmentionnées du serveur d’application IBM WebSphere traditional container. Un attaquant pourrait exploiter cette vulnérabilité afin de porter atteinte à la...|24 janvier 2023|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans le noyaux Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0069/)|De multiples vulnérabilités ont été découvertes dans le noyaux Linux de Debian. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 27 janvier 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0068/)|De multiples vulnérabilités ont été corrigées dans |Publié le 27 janvier 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0067/)|De multiples vulnérabilités ont été corrigées dans |Publié le 27 janvier 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0066/)|De multiples vulnérabilités ont été corrigées dans |Publié le 27 janvier 2023|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0065/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 27 janvier 2023|
+ |[Multiples vulnérabilités dans Stormshield SSL VPN Client](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0064/)|De multiples vulnérabilités ont été découvertes dans Stormshield SSL VPN Client. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 27 janvier 2023|
+ |[Vulnérabilité dans Grafana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0063/)|Une vulnérabilité a été découverte dans Grafana. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 26 janvier 2023|
+ |[Vulnérabilité dans Xen libxl](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0062/)|Une vulnérabilité a été découverte dans Xen libxl. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 26 janvier 2023|
+ |[Multiples vulnérabilités dans Tenable.sc](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0061/)|De multiples vulnérabilités ont été découvertes dans Tenable.sc. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une injection de code indirecte à distance (XSS).|Publié le 26 janvier 2023|
+ |[Multiples vulnérabilités dans IBM QRadar WinCollect Agent](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0060/)|De multiples vulnérabilités ont été découvertes dans IBM QRadar WinCollect Agent. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 26 janvier 2023|
  
 
 # VulDB
@@ -105,21 +105,18 @@
  |[GitLab Remote Code Execution Vulnerabilities](/security-bulletin/gitlab-remote-code-execution-vulnerabilities_20230119)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 19 Jan 2023|
  
 
-# OBS-Vigilance
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/libgit2-Man-in-the-Middle-via-SSH-40384" class="noirorange"><b>libgit2</b>: Man-in-the-Middle via SSH</a>](https://vigilance.fr/vulnerability/libgit2-Man-in-the-Middle-via-SSH-40384)|An attacker can act as a Man-in-the-Middle on libgit2, via SSH, in order to read or write data in the session...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Node-js-object-path-three-vulnerabilities-40383" class="noirorange"><b>Node.js object-path</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Node-js-object-path-three-vulnerabilities-40383)|An attacker can use several vulnerabilities of Node.js object-path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Dijit-Cross-Site-Scripting-via-Editor-LinkDialog-Plugin-40382" class="noirorange"><b>Dijit</b>: Cross Site Scripting via Editor LinkDialog Plugin</a>](https://vigilance.fr/vulnerability/Dijit-Cross-Site-Scripting-via-Editor-LinkDialog-Plugin-40382)|An attacker can trigger a Cross Site Scripting of Dijit, via Editor LinkDialog Plugin, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/MediaArea-ZenLi-NULL-pointer-dereference-via-Ztring-Date-From-Seconds-1970-Local-40381" class="noirorange"><b>MediaArea ZenLi</b>: NULL pointer dereference via Ztring::Date_From_Seconds_1970_Local()</a>](https://vigilance.fr/vulnerability/MediaArea-ZenLi-NULL-pointer-dereference-via-Ztring-Date-From-Seconds-1970-Local-40381)|An attacker can force a NULL pointer to be dereferenced on MediaArea ZenLi, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LemonLDAP-NG-user-access-via-Handler-Persistent-Session-40380" class="noirorange"><b>LemonLDAP-NG</b>: user access via Handler Persistent Session</a>](https://vigilance.fr/vulnerability/LemonLDAP-NG-user-access-via-Handler-Persistent-Session-40380)|An attacker can bypass restrictions of LemonLDAP::NG, via Handler Persistent Session, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Session-Browseable-Man-in-the-Middle-via-LDAP-Backends-40379" class="noirorange"><b>Apache-Session-Browseable</b>: Man-in-the-Middle via LDAP Backends</a>](https://vigilance.fr/vulnerability/Apache-Session-Browseable-Man-in-the-Middle-via-LDAP-Backends-40379)|An attacker can act as a Man-in-the-Middle on |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LemonLDAP-NG-Man-in-the-Middle-via-LDAP-Backends-40378" class="noirorange"><b>LemonLDAP-NG</b>: Man-in-the-Middle via LDAP Backends</a>](https://vigilance.fr/vulnerability/LemonLDAP-NG-Man-in-the-Middle-via-LDAP-Backends-40378)|An attacker can act as a Man-in-the-Middle on LemonLDAP::NG, via LDAP Backends, in order to read or write data in the session...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Session-LDAP-Man-in-the-Middle-via-LDAP-Backends-40377" class="noirorange"><b>Apache-Session-LDAP</b>: Man-in-the-Middle via LDAP Backends</a>](https://vigilance.fr/vulnerability/Apache-Session-LDAP-Man-in-the-Middle-via-LDAP-Backends-40377)|An attacker can act as a Man-in-the-Middle on |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/phpMyAdmin-SQL-injection-via-tbl-storage-engine-40376" class="noirorange"><b>phpMyAdmin</b>: SQL injection via tbl_storage_engine</a>](https://vigilance.fr/vulnerability/phpMyAdmin-SQL-injection-via-tbl-storage-engine-40376)|An attacker can use a SQL injection of phpMyAdmin, via tbl_storage_engine, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/MediaWiki-overload-via-SpecialMobileHistory-40375" class="noirorange"><b>MediaWiki</b>: overload via SpecialMobileHistory</a>](https://vigilance.fr/vulnerability/MediaWiki-overload-via-SpecialMobileHistory-40375)|An attacker can trigger an overload of MediaWiki, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/MediaWiki-Cross-Site-Scripting-via-E-Widgets-40374" class="noirorange"><b>MediaWiki</b>: Cross Site Scripting via E-Widgets</a>](https://vigilance.fr/vulnerability/MediaWiki-Cross-Site-Scripting-via-E-Widgets-40374)|An attacker can trigger a Cross Site Scripting of MediaWiki, via E-Widgets, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
 
 # CA-CCS
@@ -146,16 +143,19 @@
  |[2023-003: Critical Vulnerability in VMware vRealize Log Insight](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On January 24, 2022, VMWare released a new security advisory revealing multiple vulnerabilities in VMware vRealize Log Insight. There are two critical vulnerabilities including a directory traversal vulnerability (CVE-2022-31706) and a broken access control vulnerability (CVE-2022-31704). Both of them have the CVSS score of 9.8 out of 10. |Thursday, January 26, 2023 11:55:00 AM CEST|
  
 
-# ZERODAYINITIATIVE
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
+ |[<a href="https://vigilance.fr/vulnerability/libgit2-Man-in-the-Middle-via-SSH-40384" class="noirorange"><b>libgit2</b>: Man-in-the-Middle via SSH</a>](https://vigilance.fr/vulnerability/libgit2-Man-in-the-Middle-via-SSH-40384)|An attacker can act as a Man-in-the-Middle on libgit2, via SSH, in order to read or write data in the session...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-object-path-three-vulnerabilities-40383" class="noirorange"><b>Node.js object-path</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Node-js-object-path-three-vulnerabilities-40383)|An attacker can use several vulnerabilities of Node.js object-path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Dijit-Cross-Site-Scripting-via-Editor-LinkDialog-Plugin-40382" class="noirorange"><b>Dijit</b>: Cross Site Scripting via Editor LinkDialog Plugin</a>](https://vigilance.fr/vulnerability/Dijit-Cross-Site-Scripting-via-Editor-LinkDialog-Plugin-40382)|An attacker can trigger a Cross Site Scripting of Dijit, via Editor LinkDialog Plugin, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MediaArea-ZenLi-NULL-pointer-dereference-via-Ztring-Date-From-Seconds-1970-Local-40381" class="noirorange"><b>MediaArea ZenLi</b>: NULL pointer dereference via Ztring::Date_From_Seconds_1970_Local()</a>](https://vigilance.fr/vulnerability/MediaArea-ZenLi-NULL-pointer-dereference-via-Ztring-Date-From-Seconds-1970-Local-40381)|An attacker can force a NULL pointer to be dereferenced on MediaArea ZenLi, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LemonLDAP-NG-user-access-via-Handler-Persistent-Session-40380" class="noirorange"><b>LemonLDAP-NG</b>: user access via Handler Persistent Session</a>](https://vigilance.fr/vulnerability/LemonLDAP-NG-user-access-via-Handler-Persistent-Session-40380)|An attacker can bypass restrictions of LemonLDAP::NG, via Handler Persistent Session, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Session-Browseable-Man-in-the-Middle-via-LDAP-Backends-40379" class="noirorange"><b>Apache-Session-Browseable</b>: Man-in-the-Middle via LDAP Backends</a>](https://vigilance.fr/vulnerability/Apache-Session-Browseable-Man-in-the-Middle-via-LDAP-Backends-40379)|An attacker can act as a Man-in-the-Middle on |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LemonLDAP-NG-Man-in-the-Middle-via-LDAP-Backends-40378" class="noirorange"><b>LemonLDAP-NG</b>: Man-in-the-Middle via LDAP Backends</a>](https://vigilance.fr/vulnerability/LemonLDAP-NG-Man-in-the-Middle-via-LDAP-Backends-40378)|An attacker can act as a Man-in-the-Middle on LemonLDAP::NG, via LDAP Backends, in order to read or write data in the session...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Session-LDAP-Man-in-the-Middle-via-LDAP-Backends-40377" class="noirorange"><b>Apache-Session-LDAP</b>: Man-in-the-Middle via LDAP Backends</a>](https://vigilance.fr/vulnerability/Apache-Session-LDAP-Man-in-the-Middle-via-LDAP-Backends-40377)|An attacker can act as a Man-in-the-Middle on |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/phpMyAdmin-SQL-injection-via-tbl-storage-engine-40376" class="noirorange"><b>phpMyAdmin</b>: SQL injection via tbl_storage_engine</a>](https://vigilance.fr/vulnerability/phpMyAdmin-SQL-injection-via-tbl-storage-engine-40376)|An attacker can use a SQL injection of phpMyAdmin, via tbl_storage_engine, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MediaWiki-overload-via-SpecialMobileHistory-40375" class="noirorange"><b>MediaWiki</b>: overload via SpecialMobileHistory</a>](https://vigilance.fr/vulnerability/MediaWiki-overload-via-SpecialMobileHistory-40375)|An attacker can trigger an overload of MediaWiki, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MediaWiki-Cross-Site-Scripting-via-E-Widgets-40374" class="noirorange"><b>MediaWiki</b>: Cross Site Scripting via E-Widgets</a>](https://vigilance.fr/vulnerability/MediaWiki-Cross-Site-Scripting-via-E-Widgets-40374)|An attacker can trigger a Cross Site Scripting of MediaWiki, via E-Widgets, in order to run JavaScript code in the context of the web site...|Visit link for details|
  
