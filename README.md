@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 30/01/2023 11:18:38 UTC
+ > Last Updated 30/01/2023 12:41:11 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -53,6 +53,25 @@
  |[Multiples vulnérabilités dans IBM QRadar WinCollect Agent](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0060/)|De multiples vulnérabilités ont été découvertes dans IBM QRadar WinCollect Agent. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 26 janvier 2023|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[AdGuard for Windows privilege escalation (CVE-2022-45770)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 27, 2023|
+ |[Econolite EOS brute force (CVE-2023-0452)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2023|
+ |[Econolite EOS security bypass (CVE-2023-0451)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2023|
+ |[Sierra Wireless AirLink Router information disclosure (CVE-2022-46650)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2023|
+ |[Sierra Wireless AirLink Router command execution (CVE-2022-46649)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2023|
+ |[Landis+Gyr E850 denial of service (CVE-2022-3083)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2023|
+ |[WattBox WB-300-IP-3 file upload (CVE-2023-22315)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2023|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -68,25 +87,6 @@
  |[39912401/23 - Vulnérabilités affectantSymantec Identity Manager](https://www.dgssi.gov.ma//fr/content/3991240123-vulnerabilites-affectant-symantec-identity-manager.html)|Broadcom annonce la disponibilité d’une mise à jour de sécurité permettant la correction de trois vulnérabilités au niveau de son produit « Symantec Identity Manager ». L’exploitation de cesvulnérabilités peut permettre à un...|24 janvier 2023|
  |[39902410/23 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/3990241023-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant son client de messagerie Mozilla Thunderbird. L’exploitation de ces vulnérabilités peut permettre à un...|24 janvier 2023|
  |[39942401/22 - Vulnérabilité dans IBM WebSphere Application Server traditional container](https://www.dgssi.gov.ma//fr/content/3994240122-vulnerabilite-dans-ibm-websphere-application-server-traditional-container.html)|IBM annonce la correction d’une vulnérabilité affectant les versions susmentionnées du serveur d’application IBM WebSphere traditional container. Un attaquant pourrait exploiter cette vulnérabilité afin de porter atteinte à la...|24 janvier 2023|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[AdGuard for Windows privilege escalation (CVE-2022-45770)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 27, 2023|
- |[Econolite EOS brute force (CVE-2023-0452)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2023|
- |[Econolite EOS security bypass (CVE-2023-0451)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2023|
- |[Sierra Wireless AirLink Router information disclosure (CVE-2022-46650)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2023|
- |[Sierra Wireless AirLink Router command execution (CVE-2022-46649)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2023|
- |[Landis+Gyr E850 denial of service (CVE-2022-3083)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2023|
- |[WattBox WB-300-IP-3 file upload (CVE-2023-22315)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2023|
  
 
 # HK-CERT
@@ -105,23 +105,6 @@
  |[GitLab Remote Code Execution Vulnerabilities](/security-bulletin/gitlab-remote-code-execution-vulnerabilities_20230119)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 19 Jan 2023|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[[Control systems] Delta Electronics security advisory (AV23-055)](https://cyber.gc.ca/en/alerts-advisories/control-systems-delta-electronics-security-advisory-av23-055)|Visit link for details|2023-01-27|
- |[[Control systems] Econolite security advisory (AV23-054)](https://cyber.gc.ca/en/alerts-advisories/control-systems-econolite-security-advisory-av23-054)|Visit link for details|2023-01-27|
- |[[Control systems] Landis+Gyr security advisory (AV23-053)](https://cyber.gc.ca/en/alerts-advisories/control-systems-landisgyr-security-advisory-av23-053)|Visit link for details|2023-01-27|
- |[[Control systems] Mitsubishi Electric security advisory (AV23-052)](https://cyber.gc.ca/en/alerts-advisories/systemes-controle-bulletin-securite-mitsubishi-electric-av23-052)|Visit link for details|2023-01-27|
- |[[Control systems] Sierra Wireless security advisory (AV23-051)](https://cyber.gc.ca/en/alerts-advisories/control-systems-sierra-wireless-security-advisory-av23-051)|Visit link for details|2023-01-26|
- |[[Control systems] Snap One security advisory (AV23-050)](https://cyber.gc.ca/en/alerts-advisories/control-systems-snap-one-security-advisory-av23-050)|Visit link for details|2023-01-26|
- |[ISC BIND security advisory (AV23-049)](https://cyber.gc.ca/en/alerts-advisories/isc-bind-security-advisory-av23-049)|Visit link for details|2023-01-26|
- |[Google Chrome security advisory (AV23-048)](https://cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-048)|Visit link for details|2023-01-25|
- |[Apple security advisory (AV23-047)](https://cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-047)|Visit link for details|2023-01-25|
- |[VMware security advisory (AV23-046)](https://cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av23-046)|Visit link for details|2023-01-25|
- |[[Control systems] SOCOMEC security advisory (AV23-045)](https://cyber.gc.ca/en/alerts-advisories/control-systems-socomec-security-advisory-av23-045)|Visit link for details|2023-01-24|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -137,6 +120,23 @@
  |[<a href="https://vigilance.fr/vulnerability/LemonLDAP-NG-user-access-via-Handler-Persistent-Session-40380" class="noirorange"><b>LemonLDAP-NG</b>: user access via Handler Persistent Session</a>](https://vigilance.fr/vulnerability/LemonLDAP-NG-user-access-via-Handler-Persistent-Session-40380)|An attacker can bypass restrictions of LemonLDAP::NG, via Handler Persistent Session, in order to gain user privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-Session-Browseable-Man-in-the-Middle-via-LDAP-Backends-40379" class="noirorange"><b>Apache-Session-Browseable</b>: Man-in-the-Middle via LDAP Backends</a>](https://vigilance.fr/vulnerability/Apache-Session-Browseable-Man-in-the-Middle-via-LDAP-Backends-40379)|An attacker can act as a Man-in-the-Middle on |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/LemonLDAP-NG-Man-in-the-Middle-via-LDAP-Backends-40378" class="noirorange"><b>LemonLDAP-NG</b>: Man-in-the-Middle via LDAP Backends</a>](https://vigilance.fr/vulnerability/LemonLDAP-NG-Man-in-the-Middle-via-LDAP-Backends-40378)|An attacker can act as a Man-in-the-Middle on LemonLDAP::NG, via LDAP Backends, in order to read or write data in the session...|Visit link for details|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[[Control systems] Delta Electronics security advisory (AV23-055)](https://cyber.gc.ca/en/alerts-advisories/control-systems-delta-electronics-security-advisory-av23-055)|Visit link for details|2023-01-27|
+ |[[Control systems] Econolite security advisory (AV23-054)](https://cyber.gc.ca/en/alerts-advisories/control-systems-econolite-security-advisory-av23-054)|Visit link for details|2023-01-27|
+ |[[Control systems] Landis+Gyr security advisory (AV23-053)](https://cyber.gc.ca/en/alerts-advisories/control-systems-landisgyr-security-advisory-av23-053)|Visit link for details|2023-01-27|
+ |[[Control systems] Mitsubishi Electric security advisory (AV23-052)](https://cyber.gc.ca/en/alerts-advisories/systemes-controle-bulletin-securite-mitsubishi-electric-av23-052)|Visit link for details|2023-01-27|
+ |[[Control systems] Sierra Wireless security advisory (AV23-051)](https://cyber.gc.ca/en/alerts-advisories/control-systems-sierra-wireless-security-advisory-av23-051)|Visit link for details|2023-01-26|
+ |[[Control systems] Snap One security advisory (AV23-050)](https://cyber.gc.ca/en/alerts-advisories/control-systems-snap-one-security-advisory-av23-050)|Visit link for details|2023-01-26|
+ |[ISC BIND security advisory (AV23-049)](https://cyber.gc.ca/en/alerts-advisories/isc-bind-security-advisory-av23-049)|Visit link for details|2023-01-26|
+ |[Google Chrome security advisory (AV23-048)](https://cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-048)|Visit link for details|2023-01-25|
+ |[Apple security advisory (AV23-047)](https://cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-047)|Visit link for details|2023-01-25|
+ |[VMware security advisory (AV23-046)](https://cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av23-046)|Visit link for details|2023-01-25|
+ |[[Control systems] SOCOMEC security advisory (AV23-045)](https://cyber.gc.ca/en/alerts-advisories/control-systems-socomec-security-advisory-av23-045)|Visit link for details|2023-01-24|
  
 
 # EU-CERT
