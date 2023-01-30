@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 30/01/2023 06:26:32 UTC
+ > Last Updated 30/01/2023 07:20:13 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -53,12 +53,6 @@
  |[Multiples vulnérabilités dans IBM QRadar WinCollect Agent](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0060/)|De multiples vulnérabilités ont été découvertes dans IBM QRadar WinCollect Agent. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 26 janvier 2023|
  
 
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -76,21 +70,10 @@
  |[39942401/22 - Vulnérabilité dans IBM WebSphere Application Server traditional container](https://www.dgssi.gov.ma//fr/content/3994240122-vulnerabilite-dans-ibm-websphere-application-server-traditional-container.html)|IBM annonce la correction d’une vulnérabilité affectant les versions susmentionnées du serveur d’application IBM WebSphere traditional container. Un attaquant pourrait exploiter cette vulnérabilité afin de porter atteinte à la...|24 janvier 2023|
  
 
-# OBS-Vigilance
+# VulDB
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/libgit2-Man-in-the-Middle-via-SSH-40384" class="noirorange"><b>libgit2</b>: Man-in-the-Middle via SSH</a>](https://vigilance.fr/vulnerability/libgit2-Man-in-the-Middle-via-SSH-40384)|An attacker can act as a Man-in-the-Middle on libgit2, via SSH, in order to read or write data in the session...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Node-js-object-path-three-vulnerabilities-40383" class="noirorange"><b>Node.js object-path</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Node-js-object-path-three-vulnerabilities-40383)|An attacker can use several vulnerabilities of Node.js object-path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Dijit-Cross-Site-Scripting-via-Editor-LinkDialog-Plugin-40382" class="noirorange"><b>Dijit</b>: Cross Site Scripting via Editor LinkDialog Plugin</a>](https://vigilance.fr/vulnerability/Dijit-Cross-Site-Scripting-via-Editor-LinkDialog-Plugin-40382)|An attacker can trigger a Cross Site Scripting of Dijit, via Editor LinkDialog Plugin, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/MediaArea-ZenLi-NULL-pointer-dereference-via-Ztring-Date-From-Seconds-1970-Local-40381" class="noirorange"><b>MediaArea ZenLi</b>: NULL pointer dereference via Ztring::Date_From_Seconds_1970_Local()</a>](https://vigilance.fr/vulnerability/MediaArea-ZenLi-NULL-pointer-dereference-via-Ztring-Date-From-Seconds-1970-Local-40381)|An attacker can force a NULL pointer to be dereferenced on MediaArea ZenLi, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LemonLDAP-NG-user-access-via-Handler-Persistent-Session-40380" class="noirorange"><b>LemonLDAP-NG</b>: user access via Handler Persistent Session</a>](https://vigilance.fr/vulnerability/LemonLDAP-NG-user-access-via-Handler-Persistent-Session-40380)|An attacker can bypass restrictions of LemonLDAP::NG, via Handler Persistent Session, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Session-Browseable-Man-in-the-Middle-via-LDAP-Backends-40379" class="noirorange"><b>Apache-Session-Browseable</b>: Man-in-the-Middle via LDAP Backends</a>](https://vigilance.fr/vulnerability/Apache-Session-Browseable-Man-in-the-Middle-via-LDAP-Backends-40379)|An attacker can act as a Man-in-the-Middle on |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LemonLDAP-NG-Man-in-the-Middle-via-LDAP-Backends-40378" class="noirorange"><b>LemonLDAP-NG</b>: Man-in-the-Middle via LDAP Backends</a>](https://vigilance.fr/vulnerability/LemonLDAP-NG-Man-in-the-Middle-via-LDAP-Backends-40378)|An attacker can act as a Man-in-the-Middle on LemonLDAP::NG, via LDAP Backends, in order to read or write data in the session...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Session-LDAP-Man-in-the-Middle-via-LDAP-Backends-40377" class="noirorange"><b>Apache-Session-LDAP</b>: Man-in-the-Middle via LDAP Backends</a>](https://vigilance.fr/vulnerability/Apache-Session-LDAP-Man-in-the-Middle-via-LDAP-Backends-40377)|An attacker can act as a Man-in-the-Middle on |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/phpMyAdmin-SQL-injection-via-tbl-storage-engine-40376" class="noirorange"><b>phpMyAdmin</b>: SQL injection via tbl_storage_engine</a>](https://vigilance.fr/vulnerability/phpMyAdmin-SQL-injection-via-tbl-storage-engine-40376)|An attacker can use a SQL injection of phpMyAdmin, via tbl_storage_engine, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/MediaWiki-overload-via-SpecialMobileHistory-40375" class="noirorange"><b>MediaWiki</b>: overload via SpecialMobileHistory</a>](https://vigilance.fr/vulnerability/MediaWiki-overload-via-SpecialMobileHistory-40375)|An attacker can trigger an overload of MediaWiki, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/MediaWiki-Cross-Site-Scripting-via-E-Widgets-40374" class="noirorange"><b>MediaWiki</b>: Cross Site Scripting via E-Widgets</a>](https://vigilance.fr/vulnerability/MediaWiki-Cross-Site-Scripting-via-E-Widgets-40374)|An attacker can trigger a Cross Site Scripting of MediaWiki, via E-Widgets, in order to run JavaScript code in the context of the web site...|Visit link for details|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -122,11 +105,21 @@
  |[GitLab Remote Code Execution Vulnerabilities](/security-bulletin/gitlab-remote-code-execution-vulnerabilities_20230119)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 19 Jan 2023|
  
 
-# EU-CERT
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[2023-003: Critical Vulnerability in VMware vRealize Log Insight](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On January 24, 2022, VMWare released a new security advisory revealing multiple vulnerabilities in VMware vRealize Log Insight. There are two critical vulnerabilities including a directory traversal vulnerability (CVE-2022-31706) and a broken access control vulnerability (CVE-2022-31704). Both of them have the CVSS score of 9.8 out of 10. |Thursday, January 26, 2023 11:55:00 AM CEST|
+ |[<a href="https://vigilance.fr/vulnerability/libgit2-Man-in-the-Middle-via-SSH-40384" class="noirorange"><b>libgit2</b>: Man-in-the-Middle via SSH</a>](https://vigilance.fr/vulnerability/libgit2-Man-in-the-Middle-via-SSH-40384)|An attacker can act as a Man-in-the-Middle on libgit2, via SSH, in order to read or write data in the session...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-object-path-three-vulnerabilities-40383" class="noirorange"><b>Node.js object-path</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Node-js-object-path-three-vulnerabilities-40383)|An attacker can use several vulnerabilities of Node.js object-path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Dijit-Cross-Site-Scripting-via-Editor-LinkDialog-Plugin-40382" class="noirorange"><b>Dijit</b>: Cross Site Scripting via Editor LinkDialog Plugin</a>](https://vigilance.fr/vulnerability/Dijit-Cross-Site-Scripting-via-Editor-LinkDialog-Plugin-40382)|An attacker can trigger a Cross Site Scripting of Dijit, via Editor LinkDialog Plugin, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MediaArea-ZenLi-NULL-pointer-dereference-via-Ztring-Date-From-Seconds-1970-Local-40381" class="noirorange"><b>MediaArea ZenLi</b>: NULL pointer dereference via Ztring::Date_From_Seconds_1970_Local()</a>](https://vigilance.fr/vulnerability/MediaArea-ZenLi-NULL-pointer-dereference-via-Ztring-Date-From-Seconds-1970-Local-40381)|An attacker can force a NULL pointer to be dereferenced on MediaArea ZenLi, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LemonLDAP-NG-user-access-via-Handler-Persistent-Session-40380" class="noirorange"><b>LemonLDAP-NG</b>: user access via Handler Persistent Session</a>](https://vigilance.fr/vulnerability/LemonLDAP-NG-user-access-via-Handler-Persistent-Session-40380)|An attacker can bypass restrictions of LemonLDAP::NG, via Handler Persistent Session, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Session-Browseable-Man-in-the-Middle-via-LDAP-Backends-40379" class="noirorange"><b>Apache-Session-Browseable</b>: Man-in-the-Middle via LDAP Backends</a>](https://vigilance.fr/vulnerability/Apache-Session-Browseable-Man-in-the-Middle-via-LDAP-Backends-40379)|An attacker can act as a Man-in-the-Middle on |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LemonLDAP-NG-Man-in-the-Middle-via-LDAP-Backends-40378" class="noirorange"><b>LemonLDAP-NG</b>: Man-in-the-Middle via LDAP Backends</a>](https://vigilance.fr/vulnerability/LemonLDAP-NG-Man-in-the-Middle-via-LDAP-Backends-40378)|An attacker can act as a Man-in-the-Middle on LemonLDAP::NG, via LDAP Backends, in order to read or write data in the session...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Session-LDAP-Man-in-the-Middle-via-LDAP-Backends-40377" class="noirorange"><b>Apache-Session-LDAP</b>: Man-in-the-Middle via LDAP Backends</a>](https://vigilance.fr/vulnerability/Apache-Session-LDAP-Man-in-the-Middle-via-LDAP-Backends-40377)|An attacker can act as a Man-in-the-Middle on |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/phpMyAdmin-SQL-injection-via-tbl-storage-engine-40376" class="noirorange"><b>phpMyAdmin</b>: SQL injection via tbl_storage_engine</a>](https://vigilance.fr/vulnerability/phpMyAdmin-SQL-injection-via-tbl-storage-engine-40376)|An attacker can use a SQL injection of phpMyAdmin, via tbl_storage_engine, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MediaWiki-overload-via-SpecialMobileHistory-40375" class="noirorange"><b>MediaWiki</b>: overload via SpecialMobileHistory</a>](https://vigilance.fr/vulnerability/MediaWiki-overload-via-SpecialMobileHistory-40375)|An attacker can trigger an overload of MediaWiki, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MediaWiki-Cross-Site-Scripting-via-E-Widgets-40374" class="noirorange"><b>MediaWiki</b>: Cross Site Scripting via E-Widgets</a>](https://vigilance.fr/vulnerability/MediaWiki-Cross-Site-Scripting-via-E-Widgets-40374)|An attacker can trigger a Cross Site Scripting of MediaWiki, via E-Widgets, in order to run JavaScript code in the context of the web site...|Visit link for details|
  
 
 # CA-CCS
@@ -144,6 +137,13 @@
  |[Apple security advisory (AV23-047)](https://cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-047)|Visit link for details|2023-01-25|
  |[VMware security advisory (AV23-046)](https://cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av23-046)|Visit link for details|2023-01-25|
  |[[Control systems] SOCOMEC security advisory (AV23-045)](https://cyber.gc.ca/en/alerts-advisories/control-systems-socomec-security-advisory-av23-045)|Visit link for details|2023-01-24|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-003: Critical Vulnerability in VMware vRealize Log Insight](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On January 24, 2022, VMWare released a new security advisory revealing multiple vulnerabilities in VMware vRealize Log Insight. There are two critical vulnerabilities including a directory traversal vulnerability (CVE-2022-31706) and a broken access control vulnerability (CVE-2022-31704). Both of them have the CVSS score of 9.8 out of 10. |Thursday, January 26, 2023 11:55:00 AM CEST|
  
 
 # ZERODAYINITIATIVE
