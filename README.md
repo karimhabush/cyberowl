@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 30/01/2023 15:22:33 UTC
+ > Last Updated 30/01/2023 16:29:51 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -53,23 +53,40 @@
  |[Vulnérabilité dans Xen libxl](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0062/)|Une vulnérabilité a été découverte dans Xen libxl. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 26 janvier 2023|
  
 
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
+ |[Eta code execution (CVE-2022-25967)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 29, 2023|
  |[AdGuard for Windows privilege escalation (CVE-2022-45770)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 27, 2023|
  |[Econolite EOS brute force (CVE-2023-0452)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2023|
  |[Econolite EOS security bypass (CVE-2023-0451)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2023|
  |[Sierra Wireless AirLink Router information disclosure (CVE-2022-46650)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2023|
  |[Sierra Wireless AirLink Router command execution (CVE-2022-46649)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2023|
  |[Landis+Gyr E850 denial of service (CVE-2022-3083)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2023|
- |[WattBox WB-300-IP-3 file upload (CVE-2023-22315)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 26, 2023|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/ruby-git-code-execution-via-Crafted-Filename-40388" class="noirorange"><b>ruby-git</b>: code execution via Crafted Filename</a>](https://vigilance.fr/vulnerability/ruby-git-code-execution-via-Crafted-Filename-40388)|An attacker can use a vulnerability of ruby-git, via Crafted Filename, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/open62541-overload-via-Received-Chunks-Numbers-40387" class="noirorange"><b>open62541</b>: overload via Received Chunks Numbers</a>](https://vigilance.fr/vulnerability/open62541-overload-via-Received-Chunks-Numbers-40387)|An attacker can trigger an overload of open62541, via Received Chunks Numbers, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-JSON5-prototype-pollution-via-Parse-Method-40386" class="noirorange"><b>Node.js JSON5</b>: prototype pollution via Parse Method</a>](https://vigilance.fr/vulnerability/Node-js-JSON5-prototype-pollution-via-Parse-Method-40386)|An attacker can alter the JavaScript code of Node.js JSON5, via Parse Method, in order to change the software behavior...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Sofia-SIP-buffer-overflow-via-STUN-Packets-40385" class="noirorange"><b>Sofia-SIP</b>: buffer overflow via STUN Packets</a>](https://vigilance.fr/vulnerability/Sofia-SIP-buffer-overflow-via-STUN-Packets-40385)|An attacker can trigger a buffer overflow of Sofia-SIP, via STUN Packets, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libgit2-Man-in-the-Middle-via-SSH-40384" class="noirorange"><b>libgit2</b>: Man-in-the-Middle via SSH</a>](https://vigilance.fr/vulnerability/libgit2-Man-in-the-Middle-via-SSH-40384)|An attacker can act as a Man-in-the-Middle on libgit2, via SSH, in order to read or write data in the session...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-object-path-three-vulnerabilities-40383" class="noirorange"><b>Node.js object-path</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Node-js-object-path-three-vulnerabilities-40383)|An attacker can use several vulnerabilities of Node.js object-path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Dijit-Cross-Site-Scripting-via-Editor-LinkDialog-Plugin-40382" class="noirorange"><b>Dijit</b>: Cross Site Scripting via Editor LinkDialog Plugin</a>](https://vigilance.fr/vulnerability/Dijit-Cross-Site-Scripting-via-Editor-LinkDialog-Plugin-40382)|An attacker can trigger a Cross Site Scripting of Dijit, via Editor LinkDialog Plugin, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MediaArea-ZenLi-NULL-pointer-dereference-via-Ztring-Date-From-Seconds-1970-Local-40381" class="noirorange"><b>MediaArea ZenLi</b>: NULL pointer dereference via Ztring::Date_From_Seconds_1970_Local()</a>](https://vigilance.fr/vulnerability/MediaArea-ZenLi-NULL-pointer-dereference-via-Ztring-Date-From-Seconds-1970-Local-40381)|An attacker can force a NULL pointer to be dereferenced on MediaArea ZenLi, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LemonLDAP-NG-user-access-via-Handler-Persistent-Session-40380" class="noirorange"><b>LemonLDAP-NG</b>: user access via Handler Persistent Session</a>](https://vigilance.fr/vulnerability/LemonLDAP-NG-user-access-via-Handler-Persistent-Session-40380)|An attacker can bypass restrictions of LemonLDAP::NG, via Handler Persistent Session, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Session-Browseable-Man-in-the-Middle-via-LDAP-Backends-40379" class="noirorange"><b>Apache-Session-Browseable</b>: Man-in-the-Middle via LDAP Backends</a>](https://vigilance.fr/vulnerability/Apache-Session-Browseable-Man-in-the-Middle-via-LDAP-Backends-40379)|An attacker can act as a Man-in-the-Middle on |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LemonLDAP-NG-Man-in-the-Middle-via-LDAP-Backends-40378" class="noirorange"><b>LemonLDAP-NG</b>: Man-in-the-Middle via LDAP Backends</a>](https://vigilance.fr/vulnerability/LemonLDAP-NG-Man-in-the-Middle-via-LDAP-Backends-40378)|An attacker can act as a Man-in-the-Middle on LemonLDAP::NG, via LDAP Backends, in order to read or write data in the session...|Visit link for details|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # MA-CERT
@@ -103,23 +120,6 @@
  |[Cisco Products Multiple Vulnerabilities](/security-bulletin/cisco-products-multiple-vulnerabilities_20230120)|Multiple vulnerabilities were identified in Cisco Systems Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 20 Jan 2023|
  |[Microsoft Edge Security Restriction Bypass Vulnerability](/security-bulletin/microsoft-edge-security-restriction-bypass-vulnerability_20230120)|A vulnerability was identified in Microsoft Edge. A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system.|Release Date: 20 Jan 2023|
  |[GitLab Remote Code Execution Vulnerabilities](/security-bulletin/gitlab-remote-code-execution-vulnerabilities_20230119)|Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 19 Jan 2023|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/ruby-git-code-execution-via-Crafted-Filename-40388" class="noirorange"><b>ruby-git</b>: code execution via Crafted Filename</a>](https://vigilance.fr/vulnerability/ruby-git-code-execution-via-Crafted-Filename-40388)|An attacker can use a vulnerability of ruby-git, via Crafted Filename, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/open62541-overload-via-Received-Chunks-Numbers-40387" class="noirorange"><b>open62541</b>: overload via Received Chunks Numbers</a>](https://vigilance.fr/vulnerability/open62541-overload-via-Received-Chunks-Numbers-40387)|An attacker can trigger an overload of open62541, via Received Chunks Numbers, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Node-js-JSON5-prototype-pollution-via-Parse-Method-40386" class="noirorange"><b>Node.js JSON5</b>: prototype pollution via Parse Method</a>](https://vigilance.fr/vulnerability/Node-js-JSON5-prototype-pollution-via-Parse-Method-40386)|An attacker can alter the JavaScript code of Node.js JSON5, via Parse Method, in order to change the software behavior...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Sofia-SIP-buffer-overflow-via-STUN-Packets-40385" class="noirorange"><b>Sofia-SIP</b>: buffer overflow via STUN Packets</a>](https://vigilance.fr/vulnerability/Sofia-SIP-buffer-overflow-via-STUN-Packets-40385)|An attacker can trigger a buffer overflow of Sofia-SIP, via STUN Packets, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libgit2-Man-in-the-Middle-via-SSH-40384" class="noirorange"><b>libgit2</b>: Man-in-the-Middle via SSH</a>](https://vigilance.fr/vulnerability/libgit2-Man-in-the-Middle-via-SSH-40384)|An attacker can act as a Man-in-the-Middle on libgit2, via SSH, in order to read or write data in the session...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Node-js-object-path-three-vulnerabilities-40383" class="noirorange"><b>Node.js object-path</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Node-js-object-path-three-vulnerabilities-40383)|An attacker can use several vulnerabilities of Node.js object-path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Dijit-Cross-Site-Scripting-via-Editor-LinkDialog-Plugin-40382" class="noirorange"><b>Dijit</b>: Cross Site Scripting via Editor LinkDialog Plugin</a>](https://vigilance.fr/vulnerability/Dijit-Cross-Site-Scripting-via-Editor-LinkDialog-Plugin-40382)|An attacker can trigger a Cross Site Scripting of Dijit, via Editor LinkDialog Plugin, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/MediaArea-ZenLi-NULL-pointer-dereference-via-Ztring-Date-From-Seconds-1970-Local-40381" class="noirorange"><b>MediaArea ZenLi</b>: NULL pointer dereference via Ztring::Date_From_Seconds_1970_Local()</a>](https://vigilance.fr/vulnerability/MediaArea-ZenLi-NULL-pointer-dereference-via-Ztring-Date-From-Seconds-1970-Local-40381)|An attacker can force a NULL pointer to be dereferenced on MediaArea ZenLi, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LemonLDAP-NG-user-access-via-Handler-Persistent-Session-40380" class="noirorange"><b>LemonLDAP-NG</b>: user access via Handler Persistent Session</a>](https://vigilance.fr/vulnerability/LemonLDAP-NG-user-access-via-Handler-Persistent-Session-40380)|An attacker can bypass restrictions of LemonLDAP::NG, via Handler Persistent Session, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Session-Browseable-Man-in-the-Middle-via-LDAP-Backends-40379" class="noirorange"><b>Apache-Session-Browseable</b>: Man-in-the-Middle via LDAP Backends</a>](https://vigilance.fr/vulnerability/Apache-Session-Browseable-Man-in-the-Middle-via-LDAP-Backends-40379)|An attacker can act as a Man-in-the-Middle on |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LemonLDAP-NG-Man-in-the-Middle-via-LDAP-Backends-40378" class="noirorange"><b>LemonLDAP-NG</b>: Man-in-the-Middle via LDAP Backends</a>](https://vigilance.fr/vulnerability/LemonLDAP-NG-Man-in-the-Middle-via-LDAP-Backends-40378)|An attacker can act as a Man-in-the-Middle on LemonLDAP::NG, via LDAP Backends, in order to read or write data in the session...|Visit link for details|
  
 
 # CA-CCS
