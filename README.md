@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 31/01/2023 17:20:29 UTC
+ > Last Updated 31/01/2023 18:24:55 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -35,6 +35,19 @@
  |[CISA Releases Eight Industrial Control Systems Advisories ](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/26/cisa-releases-eight-industrial-control-systems-advisories)|<p>CISA released eight Industrial Control Systems (ICS) advisories on January 26, 2023.These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p>|Thursday, January 26, 2023|
  |[CISA Has Added One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/26/cisa-has-added-one-known-exploited-vulnerability-catalog)|<p>CISA has added one new vulnerability to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. This type of vulnerability is a frequent attack vector for malicious cyber actors and poses a significant risk to the federal enterprise. Note: To view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.</p>|Thursday, January 26, 2023|
  |[CISA, NSA, and MS-ISAC Release Advisory on the Malicious Use of RMM Software](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/25/cisa-nsa-and-ms-isac-release-advisory-malicious-use-rmm-software)|<p>Today, the Cybersecurity and Infrastructure Security Agency (CISA), the National Security Agency (NSA), and the Multi-State Information Sharing and Analysis Center (MS-ISAC) released joint Cybersecurity Advisory (CSA) <a href="https://www.cisa.gov/uscert/ncas/alerts/aa23-025a">Protecting Against Malicious Use of Remote Monitoring and Management Software</a>. The advisory describes a phishing scam in which cyber threat actors maliciously use legitimate remote monitoring and management (RMM) software to steal money from victim bank accounts.</p>|Wednesday, January 25, 2023|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[EFence SQL injection (CVE-2023-22900)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 31, 2023|
+ |[Sourcecodester Online Tours & Travels Management System SQL injection (CVE-2023-0570)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 31, 2023|
+ |[Multiple Xerox WorkCentre products information disclosure (CVE-2022-45897)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 30, 2023|
+ |[Apache IoTDB security bypass (CVE-2023-24830)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 30, 2023|
+ |[Apache IoTDB security bypass (CVE-2023-24829)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 30, 2023|
+ |[QNAP running QTS and running QTS code execution (CVE-2022-27596)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 30, 2023|
+ |[PHPGurukul Bank Locker Management System SQL injection (CVE-2023-0562)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 29, 2023|
  
 
 # CERT-FR
@@ -70,17 +83,34 @@
  |[39902410/23 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/3990241023-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant son client de messagerie Mozilla Thunderbird. L’exploitation de ces vulnérabilités peut permettre à un...|24 janvier 2023|
  
 
-# IBM-X-FORCE-EXCHANGE
+# VulDB
 
  |Title|Description|Date|
  |---|---|---|
- |[EFence SQL injection (CVE-2023-22900)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 31, 2023|
- |[Sourcecodester Online Tours & Travels Management System SQL injection (CVE-2023-0570)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 31, 2023|
- |[Apache IoTDB security bypass (CVE-2023-24830)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 30, 2023|
- |[Apache IoTDB security bypass (CVE-2023-24829)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 30, 2023|
- |[QNAP running QTS and running QTS code execution (CVE-2022-27596)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 30, 2023|
- |[PHPGurukul Bank Locker Management System SQL injection (CVE-2023-0562)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 29, 2023|
- |[PHPGurukul Bank Locker Management System cross-site scripting (CVE-2023-0563)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 29, 2023|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-40412" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-40412)|An attacker can use several vulnerabilities of GitLab CE/EE...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-MINA-SSHD-code-execution-via-SimpleGeneratorHostKeyProvider-40411" class="noirorange"><b>Apache MINA SSHD</b>: code execution via SimpleGeneratorHostKeyProvider</a>](https://vigilance.fr/vulnerability/Apache-MINA-SSHD-code-execution-via-SimpleGeneratorHostKeyProvider-40411)|An attacker can use a vulnerability of Apache MINA SSHD, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Joomla-Core-information-disclosure-via-com-actionlogs-40410" class="noirorange"><b>Joomla Core</b>: information disclosure via com_actionlogs</a>](https://vigilance.fr/vulnerability/Joomla-Core-information-disclosure-via-com-actionlogs-40410)|An attacker can bypass access restrictions to data of Joomla Core, via com_actionlogs, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Joomla-Core-Cross-Site-Request-Forgery-via-Post-installation-Messages-40409" class="noirorange"><b>Joomla Core</b>: Cross Site Request Forgery via Post-installation Messages</a>](https://vigilance.fr/vulnerability/Joomla-Core-Cross-Site-Request-Forgery-via-Post-installation-Messages-40409)|An attacker can trigger a Cross Site Request Forgery of Joomla Core, via Post-installation Messages, in order to force the victim to perform operations...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Tenable-Nessus-privilege-escalation-via-Environment-Variables-40408" class="noirorange"><b>Tenable Nessus</b>: privilege escalation via Environment Variables</a>](https://vigilance.fr/vulnerability/Tenable-Nessus-privilege-escalation-via-Environment-Variables-40408)|An attacker can bypass restrictions of Tenable Nessus, via Environment Variables, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-NULL-pointer-dereference-via-gui-x11-create-blank-mouse-40407" class="noirorange"><b>Vim</b>: NULL pointer dereference via gui_x11_create_blank_mouse()</a>](https://vigilance.fr/vulnerability/Vim-NULL-pointer-dereference-via-gui-x11-create-blank-mouse-40407)|An attacker can force a NULL pointer to be dereferenced on Vim, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wildfly-Elytron-information-disclosure-via-Timing-Comparator-40406" class="noirorange"><b>Wildfly Elytron</b>: information disclosure via Timing Comparator</a>](https://vigilance.fr/vulnerability/Wildfly-Elytron-information-disclosure-via-Timing-Comparator-40406)|An attacker can bypass access restrictions to data of Wildfly Elytron, via Timing Comparator, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSL-vulnerabity-unveiled-on-07-02-2023-40405" class="noirorange"><b>OpenSSL</b>: vulnerabity unveiled on 07/02/2023</a>](https://vigilance.fr/vulnerability/OpenSSL-vulnerabity-unveiled-on-07-02-2023-40405)|A vulnerability of OpenSSL will be unveiled on 07/02/2023...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebSphere-AS-code-execution-via-Serialized-Objects-40404" class="noirorange"><b>WebSphere AS</b>: code execution via Serialized Objects</a>](https://vigilance.fr/vulnerability/WebSphere-AS-code-execution-via-Serialized-Objects-40404)|An attacker can use a vulnerability of WebSphere AS, via Serialized Objects, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-APR-core-integer-overflow-via-apr-socket-sendv-40403" class="noirorange"><b>Apache APR-core</b>: integer overflow via apr_socket_sendv()</a>](https://vigilance.fr/vulnerability/Apache-APR-core-integer-overflow-via-apr-socket-sendv-40403)|An attacker can trigger an integer overflow of Apache APR-core, via apr_socket_sendv(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-APR-util-integer-overflow-via-apr-base64-40402" class="noirorange"><b>Apache APR-util</b>: integer overflow via apr_base64()</a>](https://vigilance.fr/vulnerability/Apache-APR-util-integer-overflow-via-apr-base64-40402)|An attacker can trigger an integer overflow of Apache APR-util, via apr_base64(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-005: Critical Code Injection Vulnerability in QNAP Devices](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On January 30th, 2023, QNAP published an advisory related to a critical vulnerability, identified as CVE-2022-27596, allowing remote attackers to inject malicious code on QNAP NAS devices.|Tuesday, January 31, 2023 05:55:00 PM CEST|
  
 
 # HK-CERT
@@ -97,29 +127,6 @@
  |[Apple Products Multiple Vulnerabilities](/security-bulletin/apple-products-multiple-vulnerabilities_20221214)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. Note:CVE-2022-...| Release Date: 14 Dec 2022 |
  |[Cisco Products Multiple Vulnerabilities](/security-bulletin/cisco-products-multiple-vulnerabilities_20230120)|Multiple vulnerabilities were identified in Cisco Systems Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 20 Jan 2023|
  |[Microsoft Edge Security Restriction Bypass Vulnerability](/security-bulletin/microsoft-edge-security-restriction-bypass-vulnerability_20230120)|A vulnerability was identified in Microsoft Edge. A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system.|Release Date: 20 Jan 2023|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/TYPO3-femanager-user-access-via-InvitationController-40400" class="noirorange"><b>TYPO3 femanager</b>: user access via InvitationController</a>](https://vigilance.fr/vulnerability/TYPO3-femanager-user-access-via-InvitationController-40400)|An attacker can bypass restrictions of TYPO3 femanager, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-same-leader-40399" class="noirorange"><b>Vim</b>: buffer overflow via same_leader()</a>](https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-same-leader-40399)|An attacker can trigger a buffer overflow of Vim, via same_leader(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-nv-scroll-40398" class="noirorange"><b>Vim</b>: buffer overflow via nv_scroll()</a>](https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-nv-scroll-40398)|An attacker can trigger a buffer overflow of Vim, via nv_scroll(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-do-string-sub-40397" class="noirorange"><b>Vim</b>: buffer overflow via do_string_sub()</a>](https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-do-string-sub-40397)|An attacker can trigger a buffer overflow of Vim, via do_string_sub(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ruby-Git-code-execution-via-Crafted-Filename-40396" class="noirorange"><b>Ruby Git</b>: code execution via Crafted Filename</a>](https://vigilance.fr/vulnerability/Ruby-Git-code-execution-via-Crafted-Filename-40396)|An attacker can use a vulnerability of Ruby Git, via Crafted Filename, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ruby-Rack-three-vulnerabilities-40395" class="noirorange"><b>Ruby Rack</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Ruby-Rack-three-vulnerabilities-40395)|An attacker can use several vulnerabilities of Ruby Rack...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HTML-StripScripts-overload-via-hss-attval-style-40394" class="noirorange"><b>HTML-StripScripts</b>: overload via _hss_attval_style</a>](https://vigilance.fr/vulnerability/HTML-StripScripts-overload-via-hss-attval-style-40394)|An attacker can trigger an overload of HTML-StripScripts, via _hss_attval_style, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/RHEL-privilege-escalation-via-IBM-Power-Kernel-40393" class="noirorange"><b>RHEL</b>: privilege escalation via IBM Power Kernel</a>](https://vigilance.fr/vulnerability/RHEL-privilege-escalation-via-IBM-Power-Kernel-40393)|An attacker can bypass restrictions of RHEL, via IBM Power Kernel, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ModSecurity-Core-Rule-Set-four-vulnerabilities-40392" class="noirorange"><b>ModSecurity Core Rule Set</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/ModSecurity-Core-Rule-Set-four-vulnerabilities-40392)|An attacker can use several vulnerabilities of ModSecurity Core Rule Set...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ModSecurity-Core-Rule-Set-SQL-injection-via-Comment-Characters-40391" class="noirorange"><b>ModSecurity Core Rule Set</b>: SQL injection via Comment Characters</a>](https://vigilance.fr/vulnerability/ModSecurity-Core-Rule-Set-SQL-injection-via-Comment-Characters-40391)|An attacker can use a SQL injection of ModSecurity Core Rule Set, via Comment Characters, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ModSecurity-Core-Rule-Set-SQL-injection-via-If-Function-Name-40390" class="noirorange"><b>ModSecurity Core Rule Set</b>: SQL injection via If Function Name</a>](https://vigilance.fr/vulnerability/ModSecurity-Core-Rule-Set-SQL-injection-via-If-Function-Name-40390)|An attacker can use a SQL injection of ModSecurity Core Rule Set, via If Function Name, in order to read or alter data...|Visit link for details|
  
 
 # CA-CCS
@@ -139,15 +146,16 @@
  |[Google Chrome security advisory (AV23-048)](https://cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-048)|Visit link for details|2023-01-25|
  
 
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-005: Critical Code Injection Vulnerability in QNAP Devices](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On January 30th, 2023, QNAP published an advisory related to a critical vulnerability, identified as CVE-2022-27596, allowing remote attackers to inject malicious code on QNAP NAS devices.|Tuesday, January 31, 2023 05:55:00 PM CEST|
- 
-
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
