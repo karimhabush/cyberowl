@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 31/01/2023 11:17:09 UTC
+ > Last Updated 31/01/2023 12:39:32 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -59,6 +59,36 @@
  |---|---|---|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apache IoTDB security bypass (CVE-2023-24830)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 30, 2023|
+ |[Apache IoTDB security bypass (CVE-2023-24829)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 30, 2023|
+ |[QNAP running QTS and running QTS code execution (CVE-2022-27596)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 30, 2023|
+ |[PHPGurukul Bank Locker Management System SQL injection (CVE-2023-0562)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 29, 2023|
+ |[PHPGurukul Bank Locker Management System cross-site scripting (CVE-2023-0563)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 29, 2023|
+ |[Canteen Management System cross-site scripting (CVE-2023-0571)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 29, 2023|
+ |[Eta code execution (CVE-2022-25967)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 29, 2023|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/TYPO3-femanager-user-access-via-InvitationController-40400" class="noirorange"><b>TYPO3 femanager</b>: user access via InvitationController</a>](https://vigilance.fr/vulnerability/TYPO3-femanager-user-access-via-InvitationController-40400)|An attacker can bypass restrictions of TYPO3 femanager, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-same-leader-40399" class="noirorange"><b>Vim</b>: buffer overflow via same_leader()</a>](https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-same-leader-40399)|An attacker can trigger a buffer overflow of Vim, via same_leader(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-nv-scroll-40398" class="noirorange"><b>Vim</b>: buffer overflow via nv_scroll()</a>](https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-nv-scroll-40398)|An attacker can trigger a buffer overflow of Vim, via nv_scroll(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-do-string-sub-40397" class="noirorange"><b>Vim</b>: buffer overflow via do_string_sub()</a>](https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-do-string-sub-40397)|An attacker can trigger a buffer overflow of Vim, via do_string_sub(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ruby-Git-code-execution-via-Crafted-Filename-40396" class="noirorange"><b>Ruby Git</b>: code execution via Crafted Filename</a>](https://vigilance.fr/vulnerability/Ruby-Git-code-execution-via-Crafted-Filename-40396)|An attacker can use a vulnerability of Ruby Git, via Crafted Filename, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ruby-Rack-three-vulnerabilities-40395" class="noirorange"><b>Ruby Rack</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Ruby-Rack-three-vulnerabilities-40395)|An attacker can use several vulnerabilities of Ruby Rack...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HTML-StripScripts-overload-via-hss-attval-style-40394" class="noirorange"><b>HTML-StripScripts</b>: overload via _hss_attval_style</a>](https://vigilance.fr/vulnerability/HTML-StripScripts-overload-via-hss-attval-style-40394)|An attacker can trigger an overload of HTML-StripScripts, via _hss_attval_style, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/RHEL-privilege-escalation-via-IBM-Power-Kernel-40393" class="noirorange"><b>RHEL</b>: privilege escalation via IBM Power Kernel</a>](https://vigilance.fr/vulnerability/RHEL-privilege-escalation-via-IBM-Power-Kernel-40393)|An attacker can bypass restrictions of RHEL, via IBM Power Kernel, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ModSecurity-Core-Rule-Set-four-vulnerabilities-40392" class="noirorange"><b>ModSecurity Core Rule Set</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/ModSecurity-Core-Rule-Set-four-vulnerabilities-40392)|An attacker can use several vulnerabilities of ModSecurity Core Rule Set...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ModSecurity-Core-Rule-Set-SQL-injection-via-Comment-Characters-40391" class="noirorange"><b>ModSecurity Core Rule Set</b>: SQL injection via Comment Characters</a>](https://vigilance.fr/vulnerability/ModSecurity-Core-Rule-Set-SQL-injection-via-Comment-Characters-40391)|An attacker can use a SQL injection of ModSecurity Core Rule Set, via Comment Characters, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ModSecurity-Core-Rule-Set-SQL-injection-via-If-Function-Name-40390" class="noirorange"><b>ModSecurity Core Rule Set</b>: SQL injection via If Function Name</a>](https://vigilance.fr/vulnerability/ModSecurity-Core-Rule-Set-SQL-injection-via-If-Function-Name-40390)|An attacker can use a SQL injection of ModSecurity Core Rule Set, via If Function Name, in order to read or alter data...|Visit link for details|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -92,40 +122,6 @@
  |[Microsoft Edge Security Restriction Bypass Vulnerability](/security-bulletin/microsoft-edge-security-restriction-bypass-vulnerability_20230120)|A vulnerability was identified in Microsoft Edge. A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system.|Release Date: 20 Jan 2023|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Apache IoTDB security bypass (CVE-2023-24830)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 30, 2023|
- |[Apache IoTDB security bypass (CVE-2023-24829)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 30, 2023|
- |[QNAP running QTS and running QTS code execution (CVE-2022-27596)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 30, 2023|
- |[PHPGurukul Bank Locker Management System SQL injection (CVE-2023-0562)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 29, 2023|
- |[PHPGurukul Bank Locker Management System cross-site scripting (CVE-2023-0563)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 29, 2023|
- |[Canteen Management System cross-site scripting (CVE-2023-0571)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 29, 2023|
- |[Eta code execution (CVE-2022-25967)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 29, 2023|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-004: Critical Vulnerability in Several ManageEngine Products](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On January 18th, ManageEngine released updates to several ManageEngine OnPremise products. The potentially vulnerable products use outdated versions of the open-source library Apache Santuario (XML Security for Java). Products must have enabled Single-Sign-On (SSO) using the Security Assertion Markup Language (SAML) to be vulnerable. For some products, the SSO must be active, while for others, it is sufficient that SSO was active once. As a result, the vulnerability allows an unauthenticated adversary to execute arbitrary code. Additionally, a Proof-of-Concept exploit is available.|Monday, January 30, 2023 10:15:00 AM CEST|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
@@ -143,19 +139,15 @@
  |[VMware security advisory (AV23-046)](https://cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av23-046)|Visit link for details|2023-01-25|
  
 
-# OBS-Vigilance
+# EU-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/TYPO3-femanager-user-access-via-InvitationController-40400" class="noirorange"><b>TYPO3 femanager</b>: user access via InvitationController</a>](https://vigilance.fr/vulnerability/TYPO3-femanager-user-access-via-InvitationController-40400)|An attacker can bypass restrictions of TYPO3 femanager, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-same-leader-40399" class="noirorange"><b>Vim</b>: buffer overflow via same_leader()</a>](https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-same-leader-40399)|An attacker can trigger a buffer overflow of Vim, via same_leader(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-nv-scroll-40398" class="noirorange"><b>Vim</b>: buffer overflow via nv_scroll()</a>](https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-nv-scroll-40398)|An attacker can trigger a buffer overflow of Vim, via nv_scroll(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-do-string-sub-40397" class="noirorange"><b>Vim</b>: buffer overflow via do_string_sub()</a>](https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-do-string-sub-40397)|An attacker can trigger a buffer overflow of Vim, via do_string_sub(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ruby-Git-code-execution-via-Crafted-Filename-40396" class="noirorange"><b>Ruby Git</b>: code execution via Crafted Filename</a>](https://vigilance.fr/vulnerability/Ruby-Git-code-execution-via-Crafted-Filename-40396)|An attacker can use a vulnerability of Ruby Git, via Crafted Filename, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ruby-Rack-three-vulnerabilities-40395" class="noirorange"><b>Ruby Rack</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Ruby-Rack-three-vulnerabilities-40395)|An attacker can use several vulnerabilities of Ruby Rack...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HTML-StripScripts-overload-via-hss-attval-style-40394" class="noirorange"><b>HTML-StripScripts</b>: overload via _hss_attval_style</a>](https://vigilance.fr/vulnerability/HTML-StripScripts-overload-via-hss-attval-style-40394)|An attacker can trigger an overload of HTML-StripScripts, via _hss_attval_style, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/RHEL-privilege-escalation-via-IBM-Power-Kernel-40393" class="noirorange"><b>RHEL</b>: privilege escalation via IBM Power Kernel</a>](https://vigilance.fr/vulnerability/RHEL-privilege-escalation-via-IBM-Power-Kernel-40393)|An attacker can bypass restrictions of RHEL, via IBM Power Kernel, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ModSecurity-Core-Rule-Set-four-vulnerabilities-40392" class="noirorange"><b>ModSecurity Core Rule Set</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/ModSecurity-Core-Rule-Set-four-vulnerabilities-40392)|An attacker can use several vulnerabilities of ModSecurity Core Rule Set...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ModSecurity-Core-Rule-Set-SQL-injection-via-Comment-Characters-40391" class="noirorange"><b>ModSecurity Core Rule Set</b>: SQL injection via Comment Characters</a>](https://vigilance.fr/vulnerability/ModSecurity-Core-Rule-Set-SQL-injection-via-Comment-Characters-40391)|An attacker can use a SQL injection of ModSecurity Core Rule Set, via Comment Characters, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ModSecurity-Core-Rule-Set-SQL-injection-via-If-Function-Name-40390" class="noirorange"><b>ModSecurity Core Rule Set</b>: SQL injection via If Function Name</a>](https://vigilance.fr/vulnerability/ModSecurity-Core-Rule-Set-SQL-injection-via-If-Function-Name-40390)|An attacker can use a SQL injection of ModSecurity Core Rule Set, via If Function Name, in order to read or alter data...|Visit link for details|
+ |[2023-004: Critical Vulnerability in Several ManageEngine Products](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On January 18th, ManageEngine released updates to several ManageEngine OnPremise products. The potentially vulnerable products use outdated versions of the open-source library Apache Santuario (XML Security for Java). Products must have enabled Single-Sign-On (SSO) using the Security Assertion Markup Language (SAML) to be vulnerable. For some products, the SSO must be active, while for others, it is sufficient that SSO was active once. As a result, the vulnerability allows an unauthenticated adversary to execute arbitrary code. Additionally, a Proof-of-Concept exploit is available.|Monday, January 30, 2023 10:15:00 AM CEST|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
  
