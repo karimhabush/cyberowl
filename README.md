@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 31/01/2023 04:25:15 UTC
+ > Last Updated 31/01/2023 05:19:12 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -53,6 +53,23 @@
  |[Vulnérabilité dans Xen libxl](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0062/)|Une vulnérabilité a été découverte dans Xen libxl. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 26 janvier 2023|
  
 
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[40002701/22 - Microsoft exhorte les administrateurs à appliquer les correctifs relatifs aux serveurs](https://www.dgssi.gov.ma//fr/content/4000270122-microsoft-exhorte-les-administrateurs-appliquer-les-correctifs-relatifs-aux-serveurs-exchange.html)|Microsoft exhorte ses clients à maintenir leurs serveurs Exchange à jour en appliquant la dernière mise à jour cumulative (CU) prise en charge, afin qu'ils soient toujours prêts à déployer une mise à jour de sécurité d'urgence. A...|27 janvier 2023|
+ |[40012601/23 - Vulnérabilité critiqueaffectantles imprimantes Lexmark ](https://www.dgssi.gov.ma//fr/content/4001260123-vulnerabilite-critique-affectant-les-imprimantes-lexmark.html)|Lexmark vient de publier des mises à jour de sécurité qui permettent de corriger une vulnérabilité critique affectant plusieurs de ses imprimantes. L’exploitation de cette vulnérabilité peut permettre àun attaquant distant d’exécuter du...|27 janvier 2023|
+ |[39992701/22 - Vulnérabilités dans le DNSBIND](https://www.dgssi.gov.ma//fr/content/3999270122-vulnerabilites-dans-le-dns-bind.html)|Internet Systems Consortium (ISC) a publié un correctif de sécurité qui corrige plusieurs vulnérabilités dans les versions susmentionnées de DNS BIND. L’exploitation de ces failles peut permettre à un attaquant distant de causer un déni de...|27 janvier 2023|
+ |[39982601/23 - Vulnérabilités affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/3998260123-vulnerabilites-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilitésaffectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre àun attaquant de provoquer des problèmes...|26 janvier 2023|
+ |[39972501/22 - Vulnérabilités dans le plugin LearnPress du CMS WordPress ](https://www.dgssi.gov.ma//fr/content/3997250122-vulnerabilites-dans-le-plugin-learnpress-du-cms-wordpress.html)|Plusieurs vulnérabilités ont été corrigées dans le plugin LearnPress du CMS WordPress. L’exploitation de ces failles pourrait entraîner la divulgation d'informations sensibles, la modification de données et l'exécution de code...|25 janvier 2023|
+ |[39962501/23 - Vulnérabilités affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma//fr/content/3996250123-vulnerabilites-affectant-plusieurs-produits-d-apple.html)|Apple annonce lacorrectionde plusieursvulnérabilitésaffectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peutpermettre à un attaquant distant d’exécuter du code arbitraire, de contourner les mesures de...|25 janvier 2023|
+ |[39952501/23 - Vulnérabilités critiques affectant VMware vRealize Log Insight](https://www.dgssi.gov.ma//fr/content/3995250123-vulnerabilites-critiques-affectant-vmware-vrealize-log-insight.html)|VMware annonce la correction de vulnérabilités critiques affectant son produit VMware vRealize Log Insight. L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant de d’exécuter du code arbitraire, accéder à des...|25 janvier 2023|
+ |[39922401/23 - « Zero-Day » corrigé dans les anciens iPhones et iPads d’Apple](https://www.dgssi.gov.ma//fr/content/3992240123-zero-day-corrige-dans-les-anciens-iphones-et-ipads-d-apple.html)|Apple annonce la correction d’une vulnérabilité « Zero-day » affectant ses produits susmentionnés. Selon Apple, cette vulnérabilité identifiée par « CVE-2022-42856 » est activement exploitée et peut permettre à un attaquant d’exécuter du...|24 janvier 2023|
+ |[39912401/23 - Vulnérabilités affectantSymantec Identity Manager](https://www.dgssi.gov.ma//fr/content/3991240123-vulnerabilites-affectant-symantec-identity-manager.html)|Broadcom annonce la disponibilité d’une mise à jour de sécurité permettant la correction de trois vulnérabilités au niveau de son produit « Symantec Identity Manager ». L’exploitation de cesvulnérabilités peut permettre à un...|24 janvier 2023|
+ |[39902410/23 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/3990241023-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant son client de messagerie Mozilla Thunderbird. L’exploitation de ces vulnérabilités peut permettre à un...|24 janvier 2023|
+ |[39942401/22 - Vulnérabilité dans IBM WebSphere Application Server traditional container](https://www.dgssi.gov.ma//fr/content/3994240122-vulnerabilite-dans-ibm-websphere-application-server-traditional-container.html)|IBM annonce la correction d’une vulnérabilité affectant les versions susmentionnées du serveur d’application IBM WebSphere traditional container. Un attaquant pourrait exploiter cette vulnérabilité afin de porter atteinte à la...|24 janvier 2023|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -64,12 +81,6 @@
  |[All-In-One Security (AIOS)  Security and Firewall plugin for WordPress information disclosure (CVE-2022-4346)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 27, 2023|
  |[Discourse information disclosure (CVE-2023-23620)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 27, 2023|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 27, 2023|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # HK-CERT
@@ -88,21 +99,37 @@
  |[Microsoft Edge Security Restriction Bypass Vulnerability](/security-bulletin/microsoft-edge-security-restriction-bypass-vulnerability_20230120)|A vulnerability was identified in Microsoft Edge. A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system.|Release Date: 20 Jan 2023|
  
 
-# MA-CERT
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[40002701/22 - Microsoft exhorte les administrateurs à appliquer les correctifs relatifs aux serveurs](https://www.dgssi.gov.ma//fr/content/4000270122-microsoft-exhorte-les-administrateurs-appliquer-les-correctifs-relatifs-aux-serveurs-exchange.html)|Microsoft exhorte ses clients à maintenir leurs serveurs Exchange à jour en appliquant la dernière mise à jour cumulative (CU) prise en charge, afin qu'ils soient toujours prêts à déployer une mise à jour de sécurité d'urgence. A...|27 janvier 2023|
- |[40012601/23 - Vulnérabilité critiqueaffectantles imprimantes Lexmark ](https://www.dgssi.gov.ma//fr/content/4001260123-vulnerabilite-critique-affectant-les-imprimantes-lexmark.html)|Lexmark vient de publier des mises à jour de sécurité qui permettent de corriger une vulnérabilité critique affectant plusieurs de ses imprimantes. L’exploitation de cette vulnérabilité peut permettre àun attaquant distant d’exécuter du...|27 janvier 2023|
- |[39992701/22 - Vulnérabilités dans le DNSBIND](https://www.dgssi.gov.ma//fr/content/3999270122-vulnerabilites-dans-le-dns-bind.html)|Internet Systems Consortium (ISC) a publié un correctif de sécurité qui corrige plusieurs vulnérabilités dans les versions susmentionnées de DNS BIND. L’exploitation de ces failles peut permettre à un attaquant distant de causer un déni de...|27 janvier 2023|
- |[39982601/23 - Vulnérabilités affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/3998260123-vulnerabilites-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilitésaffectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre àun attaquant de provoquer des problèmes...|26 janvier 2023|
- |[39972501/22 - Vulnérabilités dans le plugin LearnPress du CMS WordPress ](https://www.dgssi.gov.ma//fr/content/3997250122-vulnerabilites-dans-le-plugin-learnpress-du-cms-wordpress.html)|Plusieurs vulnérabilités ont été corrigées dans le plugin LearnPress du CMS WordPress. L’exploitation de ces failles pourrait entraîner la divulgation d'informations sensibles, la modification de données et l'exécution de code...|25 janvier 2023|
- |[39962501/23 - Vulnérabilités affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma//fr/content/3996250123-vulnerabilites-affectant-plusieurs-produits-d-apple.html)|Apple annonce lacorrectionde plusieursvulnérabilitésaffectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peutpermettre à un attaquant distant d’exécuter du code arbitraire, de contourner les mesures de...|25 janvier 2023|
- |[39952501/23 - Vulnérabilités critiques affectant VMware vRealize Log Insight](https://www.dgssi.gov.ma//fr/content/3995250123-vulnerabilites-critiques-affectant-vmware-vrealize-log-insight.html)|VMware annonce la correction de vulnérabilités critiques affectant son produit VMware vRealize Log Insight. L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant de d’exécuter du code arbitraire, accéder à des...|25 janvier 2023|
- |[39922401/23 - « Zero-Day » corrigé dans les anciens iPhones et iPads d’Apple](https://www.dgssi.gov.ma//fr/content/3992240123-zero-day-corrige-dans-les-anciens-iphones-et-ipads-d-apple.html)|Apple annonce la correction d’une vulnérabilité « Zero-day » affectant ses produits susmentionnés. Selon Apple, cette vulnérabilité identifiée par « CVE-2022-42856 » est activement exploitée et peut permettre à un attaquant d’exécuter du...|24 janvier 2023|
- |[39912401/23 - Vulnérabilités affectantSymantec Identity Manager](https://www.dgssi.gov.ma//fr/content/3991240123-vulnerabilites-affectant-symantec-identity-manager.html)|Broadcom annonce la disponibilité d’une mise à jour de sécurité permettant la correction de trois vulnérabilités au niveau de son produit « Symantec Identity Manager ». L’exploitation de cesvulnérabilités peut permettre à un...|24 janvier 2023|
- |[39902410/23 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/3990241023-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant son client de messagerie Mozilla Thunderbird. L’exploitation de ces vulnérabilités peut permettre à un...|24 janvier 2023|
- |[39942401/22 - Vulnérabilité dans IBM WebSphere Application Server traditional container](https://www.dgssi.gov.ma//fr/content/3994240122-vulnerabilite-dans-ibm-websphere-application-server-traditional-container.html)|IBM annonce la correction d’une vulnérabilité affectant les versions susmentionnées du serveur d’application IBM WebSphere traditional container. Un attaquant pourrait exploiter cette vulnérabilité afin de porter atteinte à la...|24 janvier 2023|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-004: Critical Vulnerability in Several ManageEngine Products](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On January 18th, ManageEngine released updates to several ManageEngine OnPremise products. The potentially vulnerable products use outdated versions of the open-source library Apache Santuario (XML Security for Java). Products must have enabled Single-Sign-On (SSO) using the Security Assertion Markup Language (SAML) to be vulnerable. For some products, the SSO must be active, while for others, it is sufficient that SSO was active once. As a result, the vulnerability allows an unauthenticated adversary to execute arbitrary code. Additionally, a Proof-of-Concept exploit is available.|Monday, January 30, 2023 10:15:00 AM CEST|
  
 
 # OBS-Vigilance
@@ -120,42 +147,4 @@
  |[<a href="https://vigilance.fr/vulnerability/libgit2-Man-in-the-Middle-via-SSH-40384" class="noirorange"><b>libgit2</b>: Man-in-the-Middle via SSH</a>](https://vigilance.fr/vulnerability/libgit2-Man-in-the-Middle-via-SSH-40384)|An attacker can act as a Man-in-the-Middle on libgit2, via SSH, in order to read or write data in the session...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Node-js-object-path-three-vulnerabilities-40383" class="noirorange"><b>Node.js object-path</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Node-js-object-path-three-vulnerabilities-40383)|An attacker can use several vulnerabilities of Node.js object-path...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Dijit-Cross-Site-Scripting-via-Editor-LinkDialog-Plugin-40382" class="noirorange"><b>Dijit</b>: Cross Site Scripting via Editor LinkDialog Plugin</a>](https://vigilance.fr/vulnerability/Dijit-Cross-Site-Scripting-via-Editor-LinkDialog-Plugin-40382)|An attacker can trigger a Cross Site Scripting of Dijit, via Editor LinkDialog Plugin, in order to run JavaScript code in the context of the web site...|Visit link for details|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[[Control systems] Rockwell Automation security advisory (AV23-056)](https://cyber.gc.ca/en/alerts-advisories/control-systems-rockwell-automation-security-advisory-av23-056)|Visit link for details|2023-01-30|
- |[[Control systems] Delta Electronics security advisory (AV23-055)](https://cyber.gc.ca/en/alerts-advisories/control-systems-delta-electronics-security-advisory-av23-055)|Visit link for details|2023-01-30|
- |[[Control systems] Econolite security advisory (AV23-054)](https://cyber.gc.ca/en/alerts-advisories/control-systems-econolite-security-advisory-av23-054)|Visit link for details|2023-01-27|
- |[[Control systems] Landis+Gyr security advisory (AV23-053)](https://cyber.gc.ca/en/alerts-advisories/control-systems-landisgyr-security-advisory-av23-053)|Visit link for details|2023-01-27|
- |[[Control systems] Mitsubishi Electric security advisory (AV23-052)](https://cyber.gc.ca/en/alerts-advisories/systemes-controle-bulletin-securite-mitsubishi-electric-av23-052)|Visit link for details|2023-01-27|
- |[[Control systems] Sierra Wireless security advisory (AV23-051)](https://cyber.gc.ca/en/alerts-advisories/control-systems-sierra-wireless-security-advisory-av23-051)|Visit link for details|2023-01-26|
- |[[Control systems] Snap One security advisory (AV23-050)](https://cyber.gc.ca/en/alerts-advisories/control-systems-snap-one-security-advisory-av23-050)|Visit link for details|2023-01-26|
- |[ISC BIND security advisory (AV23-049)](https://cyber.gc.ca/en/alerts-advisories/isc-bind-security-advisory-av23-049)|Visit link for details|2023-01-26|
- |[Google Chrome security advisory (AV23-048)](https://cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-048)|Visit link for details|2023-01-25|
- |[Apple security advisory (AV23-047)](https://cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-047)|Visit link for details|2023-01-25|
- |[VMware security advisory (AV23-046)](https://cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av23-046)|Visit link for details|2023-01-25|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-004: Critical Vulnerability in Several ManageEngine Products](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On January 18th, ManageEngine released updates to several ManageEngine OnPremise products. The potentially vulnerable products use outdated versions of the open-source library Apache Santuario (XML Security for Java). Products must have enabled Single-Sign-On (SSO) using the Security Assertion Markup Language (SAML) to be vulnerable. For some products, the SSO must be active, while for others, it is sufficient that SSO was active once. As a result, the vulnerability allows an unauthenticated adversary to execute arbitrary code. Additionally, a Proof-of-Concept exploit is available.|Monday, January 30, 2023 10:15:00 AM CEST|
  
