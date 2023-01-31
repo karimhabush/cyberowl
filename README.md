@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 31/01/2023 19:17:56 UTC
+ > Last Updated 31/01/2023 20:21:34 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -59,17 +59,21 @@
  |---|---|---|
  
 
-# IBM-X-FORCE-EXCHANGE
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[EFence SQL injection (CVE-2023-22900)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 31, 2023|
- |[Sourcecodester Online Tours & Travels Management System SQL injection (CVE-2023-0570)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 31, 2023|
- |[Octopus Server cross-site scripting (CVE-2022-4898)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 30, 2023|
- |[Multiple Xerox WorkCentre products information disclosure (CVE-2022-45897)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 30, 2023|
- |[Apache IoTDB security bypass (CVE-2023-24830)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 30, 2023|
- |[Apache IoTDB security bypass (CVE-2023-24829)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 30, 2023|
- |[QNAP running QTS and running QTS code execution (CVE-2022-27596)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 30, 2023|
+ |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-40412" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-40412)|An attacker can use several vulnerabilities of GitLab CE/EE...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-MINA-SSHD-code-execution-via-SimpleGeneratorHostKeyProvider-40411" class="noirorange"><b>Apache MINA SSHD</b>: code execution via SimpleGeneratorHostKeyProvider</a>](https://vigilance.fr/vulnerability/Apache-MINA-SSHD-code-execution-via-SimpleGeneratorHostKeyProvider-40411)|An attacker can use a vulnerability of Apache MINA SSHD, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Joomla-Core-information-disclosure-via-com-actionlogs-40410" class="noirorange"><b>Joomla Core</b>: information disclosure via com_actionlogs</a>](https://vigilance.fr/vulnerability/Joomla-Core-information-disclosure-via-com-actionlogs-40410)|An attacker can bypass access restrictions to data of Joomla Core, via com_actionlogs, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Joomla-Core-Cross-Site-Request-Forgery-via-Post-installation-Messages-40409" class="noirorange"><b>Joomla Core</b>: Cross Site Request Forgery via Post-installation Messages</a>](https://vigilance.fr/vulnerability/Joomla-Core-Cross-Site-Request-Forgery-via-Post-installation-Messages-40409)|An attacker can trigger a Cross Site Request Forgery of Joomla Core, via Post-installation Messages, in order to force the victim to perform operations...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Tenable-Nessus-privilege-escalation-via-Environment-Variables-40408" class="noirorange"><b>Tenable Nessus</b>: privilege escalation via Environment Variables</a>](https://vigilance.fr/vulnerability/Tenable-Nessus-privilege-escalation-via-Environment-Variables-40408)|An attacker can bypass restrictions of Tenable Nessus, via Environment Variables, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-NULL-pointer-dereference-via-gui-x11-create-blank-mouse-40407" class="noirorange"><b>Vim</b>: NULL pointer dereference via gui_x11_create_blank_mouse()</a>](https://vigilance.fr/vulnerability/Vim-NULL-pointer-dereference-via-gui-x11-create-blank-mouse-40407)|An attacker can force a NULL pointer to be dereferenced on Vim, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wildfly-Elytron-information-disclosure-via-Timing-Comparator-40406" class="noirorange"><b>Wildfly Elytron</b>: information disclosure via Timing Comparator</a>](https://vigilance.fr/vulnerability/Wildfly-Elytron-information-disclosure-via-Timing-Comparator-40406)|An attacker can bypass access restrictions to data of Wildfly Elytron, via Timing Comparator, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSL-vulnerabity-unveiled-on-07-02-2023-40405" class="noirorange"><b>OpenSSL</b>: vulnerabity unveiled on 07/02/2023</a>](https://vigilance.fr/vulnerability/OpenSSL-vulnerabity-unveiled-on-07-02-2023-40405)|A vulnerability of OpenSSL will be unveiled on 07/02/2023...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebSphere-AS-code-execution-via-Serialized-Objects-40404" class="noirorange"><b>WebSphere AS</b>: code execution via Serialized Objects</a>](https://vigilance.fr/vulnerability/WebSphere-AS-code-execution-via-Serialized-Objects-40404)|An attacker can use a vulnerability of WebSphere AS, via Serialized Objects, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-APR-core-integer-overflow-via-apr-socket-sendv-40403" class="noirorange"><b>Apache APR-core</b>: integer overflow via apr_socket_sendv()</a>](https://vigilance.fr/vulnerability/Apache-APR-core-integer-overflow-via-apr-socket-sendv-40403)|An attacker can trigger an integer overflow of Apache APR-core, via apr_socket_sendv(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-APR-util-integer-overflow-via-apr-base64-40402" class="noirorange"><b>Apache APR-util</b>: integer overflow via apr_base64()</a>](https://vigilance.fr/vulnerability/Apache-APR-util-integer-overflow-via-apr-base64-40402)|An attacker can trigger an integer overflow of Apache APR-util, via apr_base64(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
 
 # MA-CERT
@@ -89,21 +93,17 @@
  |[39902410/23 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/3990241023-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant son client de messagerie Mozilla Thunderbird. L’exploitation de ces vulnérabilités peut permettre à un...|24 janvier 2023|
  
 
-# OBS-Vigilance
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-40412" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-40412)|An attacker can use several vulnerabilities of GitLab CE/EE...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-MINA-SSHD-code-execution-via-SimpleGeneratorHostKeyProvider-40411" class="noirorange"><b>Apache MINA SSHD</b>: code execution via SimpleGeneratorHostKeyProvider</a>](https://vigilance.fr/vulnerability/Apache-MINA-SSHD-code-execution-via-SimpleGeneratorHostKeyProvider-40411)|An attacker can use a vulnerability of Apache MINA SSHD, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Joomla-Core-information-disclosure-via-com-actionlogs-40410" class="noirorange"><b>Joomla Core</b>: information disclosure via com_actionlogs</a>](https://vigilance.fr/vulnerability/Joomla-Core-information-disclosure-via-com-actionlogs-40410)|An attacker can bypass access restrictions to data of Joomla Core, via com_actionlogs, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Joomla-Core-Cross-Site-Request-Forgery-via-Post-installation-Messages-40409" class="noirorange"><b>Joomla Core</b>: Cross Site Request Forgery via Post-installation Messages</a>](https://vigilance.fr/vulnerability/Joomla-Core-Cross-Site-Request-Forgery-via-Post-installation-Messages-40409)|An attacker can trigger a Cross Site Request Forgery of Joomla Core, via Post-installation Messages, in order to force the victim to perform operations...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Tenable-Nessus-privilege-escalation-via-Environment-Variables-40408" class="noirorange"><b>Tenable Nessus</b>: privilege escalation via Environment Variables</a>](https://vigilance.fr/vulnerability/Tenable-Nessus-privilege-escalation-via-Environment-Variables-40408)|An attacker can bypass restrictions of Tenable Nessus, via Environment Variables, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-NULL-pointer-dereference-via-gui-x11-create-blank-mouse-40407" class="noirorange"><b>Vim</b>: NULL pointer dereference via gui_x11_create_blank_mouse()</a>](https://vigilance.fr/vulnerability/Vim-NULL-pointer-dereference-via-gui-x11-create-blank-mouse-40407)|An attacker can force a NULL pointer to be dereferenced on Vim, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wildfly-Elytron-information-disclosure-via-Timing-Comparator-40406" class="noirorange"><b>Wildfly Elytron</b>: information disclosure via Timing Comparator</a>](https://vigilance.fr/vulnerability/Wildfly-Elytron-information-disclosure-via-Timing-Comparator-40406)|An attacker can bypass access restrictions to data of Wildfly Elytron, via Timing Comparator, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSSL-vulnerabity-unveiled-on-07-02-2023-40405" class="noirorange"><b>OpenSSL</b>: vulnerabity unveiled on 07/02/2023</a>](https://vigilance.fr/vulnerability/OpenSSL-vulnerabity-unveiled-on-07-02-2023-40405)|A vulnerability of OpenSSL will be unveiled on 07/02/2023...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebSphere-AS-code-execution-via-Serialized-Objects-40404" class="noirorange"><b>WebSphere AS</b>: code execution via Serialized Objects</a>](https://vigilance.fr/vulnerability/WebSphere-AS-code-execution-via-Serialized-Objects-40404)|An attacker can use a vulnerability of WebSphere AS, via Serialized Objects, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-APR-core-integer-overflow-via-apr-socket-sendv-40403" class="noirorange"><b>Apache APR-core</b>: integer overflow via apr_socket_sendv()</a>](https://vigilance.fr/vulnerability/Apache-APR-core-integer-overflow-via-apr-socket-sendv-40403)|An attacker can trigger an integer overflow of Apache APR-core, via apr_socket_sendv(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-APR-util-integer-overflow-via-apr-base64-40402" class="noirorange"><b>Apache APR-util</b>: integer overflow via apr_base64()</a>](https://vigilance.fr/vulnerability/Apache-APR-util-integer-overflow-via-apr-base64-40402)|An attacker can trigger an integer overflow of Apache APR-util, via apr_base64(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[EFence SQL injection (CVE-2023-22900)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 31, 2023|
+ |[Sourcecodester Online Tours & Travels Management System SQL injection (CVE-2023-0570)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 31, 2023|
+ |[Octopus Server cross-site scripting (CVE-2022-4898)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 30, 2023|
+ |[Multiple Xerox WorkCentre products information disclosure (CVE-2022-45897)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 30, 2023|
+ |[Apache IoTDB security bypass (CVE-2023-24830)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 30, 2023|
+ |[Apache IoTDB security bypass (CVE-2023-24829)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 30, 2023|
+ |[QNAP running QTS and running QTS code execution (CVE-2022-27596)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 30, 2023|
  
 
 # HK-CERT
@@ -122,6 +122,27 @@
  |[Microsoft Edge Security Restriction Bypass Vulnerability](/security-bulletin/microsoft-edge-security-restriction-bypass-vulnerability_20230120)|A vulnerability was identified in Microsoft Edge. A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system.|Release Date: 20 Jan 2023|
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-005: Critical Code Injection Vulnerability in QNAP Devices](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On January 30th, 2023, QNAP published an advisory related to a critical vulnerability, identified as CVE-2022-27596, allowing remote attackers to inject malicious code on QNAP NAS devices.|Tuesday, January 31, 2023 05:55:00 PM CEST|
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
@@ -137,25 +158,4 @@
  |[[Control systems] Snap One security advisory (AV23-050)](https://cyber.gc.ca/en/alerts-advisories/control-systems-snap-one-security-advisory-av23-050)|Visit link for details|2023-01-26|
  |[ISC BIND security advisory (AV23-049)](https://cyber.gc.ca/en/alerts-advisories/isc-bind-security-advisory-av23-049)|Visit link for details|2023-01-26|
  |[Google Chrome security advisory (AV23-048)](https://cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-048)|Visit link for details|2023-01-25|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-005: Critical Code Injection Vulnerability in QNAP Devices](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On January 30th, 2023, QNAP published an advisory related to a critical vulnerability, identified as CVE-2022-27596, allowing remote attackers to inject malicious code on QNAP NAS devices.|Tuesday, January 31, 2023 05:55:00 PM CEST|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
