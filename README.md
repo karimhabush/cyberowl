@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 31/01/2023 16:29:34 UTC
+ > Last Updated 31/01/2023 17:20:29 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,12 +29,12 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/31/cisa-releases-one-industrial-control-systems-advisory)|<p>CISA released one Industrial Control Systems (ICS) advisory on January 31, 2023. This advisory provides timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p>|Tuesday, January 31, 2023|
  |[ISC Releases Security Advisories for Multiple Versions of BIND 9](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/27/isc-releases-security-advisories-multiple-versions-bind-9)|<p>The Internet Systems Consortium (ISC) has released security advisories that address vulnerabilities affecting multiple versions of the ISC’s Berkeley Internet Name Domain (BIND) 9. A remote attacker could exploit these vulnerabilities to potentially cause denial-of-service conditions and system failures.</p>|Friday, January 27, 2023|
  |[JCDC Announces 2023 Planning Agenda](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/26/jcdc-announces-2023-planning-agenda)|<p>Today, the Joint Cyber Defense Collaborative (JCDC) announced its <a href="https://www.cisa.gov/2023-jcdc-planning-agenda">2023 Planning Agenda</a>. This release marks a major milestone in the continued evolution and maturation of the collaborative’s planning efforts. JCDC’s Planning Agenda brings together government and private sector partners to develop and execute cyber defense plans that achieve specific risk reduction goals focused on systemic risk, collective cyber response, and high-risk communities.</p>|Thursday, January 26, 2023|
  |[CISA Releases Eight Industrial Control Systems Advisories ](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/26/cisa-releases-eight-industrial-control-systems-advisories)|<p>CISA released eight Industrial Control Systems (ICS) advisories on January 26, 2023.These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p>|Thursday, January 26, 2023|
  |[CISA Has Added One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/26/cisa-has-added-one-known-exploited-vulnerability-catalog)|<p>CISA has added one new vulnerability to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. This type of vulnerability is a frequent attack vector for malicious cyber actors and poses a significant risk to the federal enterprise. Note: To view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.</p>|Thursday, January 26, 2023|
  |[CISA, NSA, and MS-ISAC Release Advisory on the Malicious Use of RMM Software](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/25/cisa-nsa-and-ms-isac-release-advisory-malicious-use-rmm-software)|<p>Today, the Cybersecurity and Infrastructure Security Agency (CISA), the National Security Agency (NSA), and the Multi-State Information Sharing and Analysis Center (MS-ISAC) released joint Cybersecurity Advisory (CSA) <a href="https://www.cisa.gov/uscert/ncas/alerts/aa23-025a">Protecting Against Malicious Use of Remote Monitoring and Management Software</a>. The advisory describes a phishing scam in which cyber threat actors maliciously use legitimate remote monitoring and management (RMM) software to steal money from victim bank accounts.</p>|Wednesday, January 25, 2023|
- |[VMware Releases Security Updates for VMware vRealize Log Insight](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/25/vmware-releases-security-updates-vmware-vrealize-log-insight)|<p>VMware released security updates to address multiple vulnerabilities in VMware vRealize Log Insight. A remote attacker could exploit these vulnerabilities to take control of an affected system.</p>|Wednesday, January 25, 2023|
  
 
 # CERT-FR
@@ -70,10 +70,17 @@
  |[39902410/23 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/3990241023-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant son client de messagerie Mozilla Thunderbird. L’exploitation de ces vulnérabilités peut permettre à un...|24 janvier 2023|
  
 
-# VulDB
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
+ |[EFence SQL injection (CVE-2023-22900)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 31, 2023|
+ |[Sourcecodester Online Tours & Travels Management System SQL injection (CVE-2023-0570)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 31, 2023|
+ |[Apache IoTDB security bypass (CVE-2023-24830)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 30, 2023|
+ |[Apache IoTDB security bypass (CVE-2023-24829)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 30, 2023|
+ |[QNAP running QTS and running QTS code execution (CVE-2022-27596)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 30, 2023|
+ |[PHPGurukul Bank Locker Management System SQL injection (CVE-2023-0562)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 29, 2023|
+ |[PHPGurukul Bank Locker Management System cross-site scripting (CVE-2023-0563)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 29, 2023|
  
 
 # HK-CERT
@@ -92,17 +99,10 @@
  |[Microsoft Edge Security Restriction Bypass Vulnerability](/security-bulletin/microsoft-edge-security-restriction-bypass-vulnerability_20230120)|A vulnerability was identified in Microsoft Edge. A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system.|Release Date: 20 Jan 2023|
  
 
-# IBM-X-FORCE-EXCHANGE
+# VulDB
 
  |Title|Description|Date|
  |---|---|---|
- |[EFence SQL injection (CVE-2023-22900)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 31, 2023|
- |[Sourcecodester Online Tours & Travels Management System SQL injection (CVE-2023-0570)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 31, 2023|
- |[Apache IoTDB security bypass (CVE-2023-24830)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 30, 2023|
- |[Apache IoTDB security bypass (CVE-2023-24829)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 30, 2023|
- |[QNAP running QTS and running QTS code execution (CVE-2022-27596)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 30, 2023|
- |[PHPGurukul Bank Locker Management System SQL injection (CVE-2023-0562)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 29, 2023|
- |[PHPGurukul Bank Locker Management System cross-site scripting (CVE-2023-0563)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 29, 2023|
  
 
 # OBS-Vigilance
@@ -120,20 +120,6 @@
  |[<a href="https://vigilance.fr/vulnerability/ModSecurity-Core-Rule-Set-four-vulnerabilities-40392" class="noirorange"><b>ModSecurity Core Rule Set</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/ModSecurity-Core-Rule-Set-four-vulnerabilities-40392)|An attacker can use several vulnerabilities of ModSecurity Core Rule Set...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ModSecurity-Core-Rule-Set-SQL-injection-via-Comment-Characters-40391" class="noirorange"><b>ModSecurity Core Rule Set</b>: SQL injection via Comment Characters</a>](https://vigilance.fr/vulnerability/ModSecurity-Core-Rule-Set-SQL-injection-via-Comment-Characters-40391)|An attacker can use a SQL injection of ModSecurity Core Rule Set, via Comment Characters, in order to read or alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ModSecurity-Core-Rule-Set-SQL-injection-via-If-Function-Name-40390" class="noirorange"><b>ModSecurity Core Rule Set</b>: SQL injection via If Function Name</a>](https://vigilance.fr/vulnerability/ModSecurity-Core-Rule-Set-SQL-injection-via-If-Function-Name-40390)|An attacker can use a SQL injection of ModSecurity Core Rule Set, via If Function Name, in order to read or alter data...|Visit link for details|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
 
 # CA-CCS
@@ -157,5 +143,11 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[2023-004: Critical Vulnerability in Several ManageEngine Products](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On January 18th, ManageEngine released updates to several ManageEngine OnPremise products. The potentially vulnerable products use outdated versions of the open-source library Apache Santuario (XML Security for Java). Products must have enabled Single-Sign-On (SSO) using the Security Assertion Markup Language (SAML) to be vulnerable. For some products, the SSO must be active, while for others, it is sufficient that SSO was active once. As a result, the vulnerability allows an unauthenticated adversary to execute arbitrary code. Additionally, a Proof-of-Concept exploit is available.|Monday, January 30, 2023 10:15:00 AM CEST|
+ |[2023-005: Critical Code Injection Vulnerability in QNAP Devices](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On January 30th, 2023, QNAP published an advisory related to a critical vulnerability, identified as CVE-2022-27596, allowing remote attackers to inject malicious code on QNAP NAS devices.|Tuesday, January 31, 2023 05:55:00 PM CEST|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
  
