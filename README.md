@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 31/01/2023 05:19:12 UTC
+ > Last Updated 31/01/2023 06:25:45 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -83,6 +83,29 @@
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 27, 2023|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/RHEL-privilege-escalation-via-IBM-Power-Kernel-40393" class="noirorange"><b>RHEL</b>: privilege escalation via IBM Power Kernel</a>](https://vigilance.fr/vulnerability/RHEL-privilege-escalation-via-IBM-Power-Kernel-40393)|An attacker can bypass restrictions of RHEL, via IBM Power Kernel, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ModSecurity-Core-Rule-Set-four-vulnerabilities-40392" class="noirorange"><b>ModSecurity Core Rule Set</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/ModSecurity-Core-Rule-Set-four-vulnerabilities-40392)|An attacker can use several vulnerabilities of ModSecurity Core Rule Set...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ModSecurity-Core-Rule-Set-SQL-injection-via-Comment-Characters-40391" class="noirorange"><b>ModSecurity Core Rule Set</b>: SQL injection via Comment Characters</a>](https://vigilance.fr/vulnerability/ModSecurity-Core-Rule-Set-SQL-injection-via-Comment-Characters-40391)|An attacker can use a SQL injection of ModSecurity Core Rule Set, via Comment Characters, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ModSecurity-Core-Rule-Set-SQL-injection-via-If-Function-Name-40390" class="noirorange"><b>ModSecurity Core Rule Set</b>: SQL injection via If Function Name</a>](https://vigilance.fr/vulnerability/ModSecurity-Core-Rule-Set-SQL-injection-via-If-Function-Name-40390)|An attacker can use a SQL injection of ModSecurity Core Rule Set, via If Function Name, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ruby-git-code-execution-via-Crafted-Filename-40388" class="noirorange"><b>ruby-git</b>: code execution via Crafted Filename</a>](https://vigilance.fr/vulnerability/ruby-git-code-execution-via-Crafted-Filename-40388)|An attacker can use a vulnerability of ruby-git, via Crafted Filename, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/open62541-overload-via-Received-Chunks-Numbers-40387" class="noirorange"><b>open62541</b>: overload via Received Chunks Numbers</a>](https://vigilance.fr/vulnerability/open62541-overload-via-Received-Chunks-Numbers-40387)|An attacker can trigger an overload of open62541, via Received Chunks Numbers, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-JSON5-prototype-pollution-via-Parse-Method-40386" class="noirorange"><b>Node.js JSON5</b>: prototype pollution via Parse Method</a>](https://vigilance.fr/vulnerability/Node-js-JSON5-prototype-pollution-via-Parse-Method-40386)|An attacker can alter the JavaScript code of Node.js JSON5, via Parse Method, in order to change the software behavior...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Sofia-SIP-buffer-overflow-via-STUN-Packets-40385" class="noirorange"><b>Sofia-SIP</b>: buffer overflow via STUN Packets</a>](https://vigilance.fr/vulnerability/Sofia-SIP-buffer-overflow-via-STUN-Packets-40385)|An attacker can trigger a buffer overflow of Sofia-SIP, via STUN Packets, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libgit2-Man-in-the-Middle-via-SSH-40384" class="noirorange"><b>libgit2</b>: Man-in-the-Middle via SSH</a>](https://vigilance.fr/vulnerability/libgit2-Man-in-the-Middle-via-SSH-40384)|An attacker can act as a Man-in-the-Middle on libgit2, via SSH, in order to read or write data in the session...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-object-path-three-vulnerabilities-40383" class="noirorange"><b>Node.js object-path</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Node-js-object-path-three-vulnerabilities-40383)|An attacker can use several vulnerabilities of Node.js object-path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Dijit-Cross-Site-Scripting-via-Editor-LinkDialog-Plugin-40382" class="noirorange"><b>Dijit</b>: Cross Site Scripting via Editor LinkDialog Plugin</a>](https://vigilance.fr/vulnerability/Dijit-Cross-Site-Scripting-via-Editor-LinkDialog-Plugin-40382)|An attacker can trigger a Cross Site Scripting of Dijit, via Editor LinkDialog Plugin, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -103,12 +126,24 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[[Control systems] Rockwell Automation security advisory (AV23-056)](https://cyber.gc.ca/en/alerts-advisories/control-systems-rockwell-automation-security-advisory-av23-056)|Visit link for details|2023-01-30|
+ |[[Control systems] Delta Electronics security advisory (AV23-055)](https://cyber.gc.ca/en/alerts-advisories/control-systems-delta-electronics-security-advisory-av23-055)|Visit link for details|2023-01-30|
+ |[[Control systems] Econolite security advisory (AV23-054)](https://cyber.gc.ca/en/alerts-advisories/control-systems-econolite-security-advisory-av23-054)|Visit link for details|2023-01-27|
+ |[[Control systems] Landis+Gyr security advisory (AV23-053)](https://cyber.gc.ca/en/alerts-advisories/control-systems-landisgyr-security-advisory-av23-053)|Visit link for details|2023-01-27|
+ |[[Control systems] Mitsubishi Electric security advisory (AV23-052)](https://cyber.gc.ca/en/alerts-advisories/systemes-controle-bulletin-securite-mitsubishi-electric-av23-052)|Visit link for details|2023-01-27|
+ |[[Control systems] Sierra Wireless security advisory (AV23-051)](https://cyber.gc.ca/en/alerts-advisories/control-systems-sierra-wireless-security-advisory-av23-051)|Visit link for details|2023-01-26|
+ |[[Control systems] Snap One security advisory (AV23-050)](https://cyber.gc.ca/en/alerts-advisories/control-systems-snap-one-security-advisory-av23-050)|Visit link for details|2023-01-26|
+ |[ISC BIND security advisory (AV23-049)](https://cyber.gc.ca/en/alerts-advisories/isc-bind-security-advisory-av23-049)|Visit link for details|2023-01-26|
+ |[Google Chrome security advisory (AV23-048)](https://cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-048)|Visit link for details|2023-01-25|
+ |[Apple security advisory (AV23-047)](https://cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-047)|Visit link for details|2023-01-25|
+ |[VMware security advisory (AV23-046)](https://cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av23-046)|Visit link for details|2023-01-25|
  
 
-# VulDB
+# EU-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[2023-004: Critical Vulnerability in Several ManageEngine Products](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On January 18th, ManageEngine released updates to several ManageEngine OnPremise products. The potentially vulnerable products use outdated versions of the open-source library Apache Santuario (XML Security for Java). Products must have enabled Single-Sign-On (SSO) using the Security Assertion Markup Language (SAML) to be vulnerable. For some products, the SSO must be active, while for others, it is sufficient that SSO was active once. As a result, the vulnerability allows an unauthenticated adversary to execute arbitrary code. Additionally, a Proof-of-Concept exploit is available.|Monday, January 30, 2023 10:15:00 AM CEST|
  
 
 # ZERODAYINITIATIVE
@@ -123,28 +158,4 @@
  |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
  |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
  |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-004: Critical Vulnerability in Several ManageEngine Products](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On January 18th, ManageEngine released updates to several ManageEngine OnPremise products. The potentially vulnerable products use outdated versions of the open-source library Apache Santuario (XML Security for Java). Products must have enabled Single-Sign-On (SSO) using the Security Assertion Markup Language (SAML) to be vulnerable. For some products, the SSO must be active, while for others, it is sufficient that SSO was active once. As a result, the vulnerability allows an unauthenticated adversary to execute arbitrary code. Additionally, a Proof-of-Concept exploit is available.|Monday, January 30, 2023 10:15:00 AM CEST|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/RHEL-privilege-escalation-via-IBM-Power-Kernel-40393" class="noirorange"><b>RHEL</b>: privilege escalation via IBM Power Kernel</a>](https://vigilance.fr/vulnerability/RHEL-privilege-escalation-via-IBM-Power-Kernel-40393)|An attacker can bypass restrictions of RHEL, via IBM Power Kernel, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ModSecurity-Core-Rule-Set-four-vulnerabilities-40392" class="noirorange"><b>ModSecurity Core Rule Set</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/ModSecurity-Core-Rule-Set-four-vulnerabilities-40392)|An attacker can use several vulnerabilities of ModSecurity Core Rule Set...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ModSecurity-Core-Rule-Set-SQL-injection-via-Comment-Characters-40391" class="noirorange"><b>ModSecurity Core Rule Set</b>: SQL injection via Comment Characters</a>](https://vigilance.fr/vulnerability/ModSecurity-Core-Rule-Set-SQL-injection-via-Comment-Characters-40391)|An attacker can use a SQL injection of ModSecurity Core Rule Set, via Comment Characters, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ModSecurity-Core-Rule-Set-SQL-injection-via-If-Function-Name-40390" class="noirorange"><b>ModSecurity Core Rule Set</b>: SQL injection via If Function Name</a>](https://vigilance.fr/vulnerability/ModSecurity-Core-Rule-Set-SQL-injection-via-If-Function-Name-40390)|An attacker can use a SQL injection of ModSecurity Core Rule Set, via If Function Name, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ruby-git-code-execution-via-Crafted-Filename-40388" class="noirorange"><b>ruby-git</b>: code execution via Crafted Filename</a>](https://vigilance.fr/vulnerability/ruby-git-code-execution-via-Crafted-Filename-40388)|An attacker can use a vulnerability of ruby-git, via Crafted Filename, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/open62541-overload-via-Received-Chunks-Numbers-40387" class="noirorange"><b>open62541</b>: overload via Received Chunks Numbers</a>](https://vigilance.fr/vulnerability/open62541-overload-via-Received-Chunks-Numbers-40387)|An attacker can trigger an overload of open62541, via Received Chunks Numbers, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Node-js-JSON5-prototype-pollution-via-Parse-Method-40386" class="noirorange"><b>Node.js JSON5</b>: prototype pollution via Parse Method</a>](https://vigilance.fr/vulnerability/Node-js-JSON5-prototype-pollution-via-Parse-Method-40386)|An attacker can alter the JavaScript code of Node.js JSON5, via Parse Method, in order to change the software behavior...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Sofia-SIP-buffer-overflow-via-STUN-Packets-40385" class="noirorange"><b>Sofia-SIP</b>: buffer overflow via STUN Packets</a>](https://vigilance.fr/vulnerability/Sofia-SIP-buffer-overflow-via-STUN-Packets-40385)|An attacker can trigger a buffer overflow of Sofia-SIP, via STUN Packets, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libgit2-Man-in-the-Middle-via-SSH-40384" class="noirorange"><b>libgit2</b>: Man-in-the-Middle via SSH</a>](https://vigilance.fr/vulnerability/libgit2-Man-in-the-Middle-via-SSH-40384)|An attacker can act as a Man-in-the-Middle on libgit2, via SSH, in order to read or write data in the session...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Node-js-object-path-three-vulnerabilities-40383" class="noirorange"><b>Node.js object-path</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Node-js-object-path-three-vulnerabilities-40383)|An attacker can use several vulnerabilities of Node.js object-path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Dijit-Cross-Site-Scripting-via-Editor-LinkDialog-Plugin-40382" class="noirorange"><b>Dijit</b>: Cross Site Scripting via Editor LinkDialog Plugin</a>](https://vigilance.fr/vulnerability/Dijit-Cross-Site-Scripting-via-Editor-LinkDialog-Plugin-40382)|An attacker can trigger a Cross Site Scripting of Dijit, via Editor LinkDialog Plugin, in order to run JavaScript code in the context of the web site...|Visit link for details|
  
