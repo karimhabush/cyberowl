@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 01/02/2023 14:19:50 UTC
+ > Last Updated 01/02/2023 15:23:04 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -41,16 +41,39 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiples vulnérabilités dans Symfony](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0080/)|De multiples vulnérabilités ont été découvertes dans Symfony. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une injection de requêtes illégitimes par rebond (CSRF).|Publié le 1 février 2023|
+ |[Vulnérabilité dans Pulse Secure Pulse Connect Secure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0079/)|Une vulnérabilité a été découverte dans Pulse Secure Pulse Connect Secure. Elle permet à un attaquant de provoquer une injection de requêtes illégitimes par rebond (CSRF).|Publié le 1 février 2023|
+ |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0078/)|De multiples vulnérabilités ont été découvertes dans GitLab. Elles permettent à un attaquant de provoquer un déni de service à distance et une injection de requêtes illégitimes par rebond (CSRF).|Publié le 1 février 2023|
+ |[Multiples vulnérabilités dans Joomla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0077/)|De multiples vulnérabilités ont été découvertes dans Joomla. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une injection de requêtes illégitimes par rebond (CSRF).|Publié le 1 février 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0076/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 1 février 2023|
+ |[Vulnérabilité dans VMware vRealize Operations](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0075/)|Une vulnérabilité a été découverte dans VMware vRealize Operations. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 1 février 2023|
+ |[Vulnérabilité dans Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0074/)|Une vulnérabilité a été corrigée dans |Publié le 1 février 2023|
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0073/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 31 janvier 2023|
  |[Vulnérabilité dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0072/)|Une vulnérabilité a été découverte dans les produits Tenable. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 31 janvier 2023|
  |[Vulnérabilité dans QNAP QTS et QuTS hero](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0071/)|Une vulnérabilité a été découverte dans QNAP QTS et QuTS hero. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 30 janvier 2023|
- |[Multiples vulnérabilités dans MISP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0070/)|De multiples vulnérabilités ont été découvertes dans MISP. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une injection de code indirecte à distance (XSS).|Publié le 30 janvier 2023|
- |[Multiples vulnérabilités dans le noyaux Linux de Debian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0069/)|De multiples vulnérabilités ont été découvertes dans le noyaux Linux de Debian. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 27 janvier 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0068/)|De multiples vulnérabilités ont été corrigées dans |Publié le 27 janvier 2023|
- |[Multiples vulnérabilités dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0067/)|De multiples vulnérabilités ont été corrigées dans |Publié le 27 janvier 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0066/)|De multiples vulnérabilités ont été corrigées dans |Publié le 27 janvier 2023|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0065/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 27 janvier 2023|
- |[Multiples vulnérabilités dans Stormshield SSL VPN Client](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0064/)|De multiples vulnérabilités ont été découvertes dans Stormshield SSL VPN Client. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 27 janvier 2023|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[40023101/23 - Vulnérabilité critique dans QNAP QTS et QuTS hero](https://www.dgssi.gov.ma//fr/content/4002310123-vulnerabilite-critique-dans-qnap-qts-et-quts-hero.html)|Une vulnérabilité a été corrigée dans QNAP QTS et QuTS hero. L’exploitation de cette faille pourrait permettre à un attaquant d'exécuter du code arbitraire à distance.|31 janvier 2023|
+ |[40002701/22 - Microsoft exhorte les administrateurs à appliquer les correctifs relatifs aux serveurs](https://www.dgssi.gov.ma//fr/content/4000270122-microsoft-exhorte-les-administrateurs-appliquer-les-correctifs-relatifs-aux-serveurs-exchange.html)|Microsoft exhorte ses clients à maintenir leurs serveurs Exchange à jour en appliquant la dernière mise à jour cumulative (CU) prise en charge, afin qu'ils soient toujours prêts à déployer une mise à jour de sécurité d'urgence. A...|27 janvier 2023|
+ |[40012601/23 - Vulnérabilité critiqueaffectantles imprimantes Lexmark ](https://www.dgssi.gov.ma//fr/content/4001260123-vulnerabilite-critique-affectant-les-imprimantes-lexmark.html)|Lexmark vient de publier des mises à jour de sécurité qui permettent de corriger une vulnérabilité critique affectant plusieurs de ses imprimantes. L’exploitation de cette vulnérabilité peut permettre àun attaquant distant d’exécuter du...|27 janvier 2023|
+ |[39992701/22 - Vulnérabilités dans le DNSBIND](https://www.dgssi.gov.ma//fr/content/3999270122-vulnerabilites-dans-le-dns-bind.html)|Internet Systems Consortium (ISC) a publié un correctif de sécurité qui corrige plusieurs vulnérabilités dans les versions susmentionnées de DNS BIND. L’exploitation de ces failles peut permettre à un attaquant distant de causer un déni de...|27 janvier 2023|
+ |[39982601/23 - Vulnérabilités affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/3998260123-vulnerabilites-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilitésaffectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre àun attaquant de provoquer des problèmes...|26 janvier 2023|
+ |[39972501/22 - Vulnérabilités dans le plugin LearnPress du CMS WordPress ](https://www.dgssi.gov.ma//fr/content/3997250122-vulnerabilites-dans-le-plugin-learnpress-du-cms-wordpress.html)|Plusieurs vulnérabilités ont été corrigées dans le plugin LearnPress du CMS WordPress. L’exploitation de ces failles pourrait entraîner la divulgation d'informations sensibles, la modification de données et l'exécution de code...|25 janvier 2023|
+ |[39962501/23 - Vulnérabilités affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma//fr/content/3996250123-vulnerabilites-affectant-plusieurs-produits-d-apple.html)|Apple annonce lacorrectionde plusieursvulnérabilitésaffectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peutpermettre à un attaquant distant d’exécuter du code arbitraire, de contourner les mesures de...|25 janvier 2023|
+ |[39952501/23 - Vulnérabilités critiques affectant VMware vRealize Log Insight](https://www.dgssi.gov.ma//fr/content/3995250123-vulnerabilites-critiques-affectant-vmware-vrealize-log-insight.html)|VMware annonce la correction de vulnérabilités critiques affectant son produit VMware vRealize Log Insight. L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant de d’exécuter du code arbitraire, accéder à des...|25 janvier 2023|
+ |[39922401/23 - « Zero-Day » corrigé dans les anciens iPhones et iPads d’Apple](https://www.dgssi.gov.ma//fr/content/3992240123-zero-day-corrige-dans-les-anciens-iphones-et-ipads-d-apple.html)|Apple annonce la correction d’une vulnérabilité « Zero-day » affectant ses produits susmentionnés. Selon Apple, cette vulnérabilité identifiée par « CVE-2022-42856 » est activement exploitée et peut permettre à un attaquant d’exécuter du...|24 janvier 2023|
+ |[39912401/23 - Vulnérabilités affectantSymantec Identity Manager](https://www.dgssi.gov.ma//fr/content/3991240123-vulnerabilites-affectant-symantec-identity-manager.html)|Broadcom annonce la disponibilité d’une mise à jour de sécurité permettant la correction de trois vulnérabilités au niveau de son produit « Symantec Identity Manager ». L’exploitation de cesvulnérabilités peut permettre à un...|24 janvier 2023|
+ |[39902410/23 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/3990241023-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant son client de messagerie Mozilla Thunderbird. L’exploitation de ces vulnérabilités peut permettre à un...|24 janvier 2023|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -82,60 +105,6 @@
  |[Cisco Products Multiple Vulnerabilities](/security-bulletin/cisco-products-multiple-vulnerabilities_20230120)|Multiple vulnerabilities were identified in Cisco Systems Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 20 Jan 2023|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[40023101/23 - Vulnérabilité critique dans QNAP QTS et QuTS hero](https://www.dgssi.gov.ma//fr/content/4002310123-vulnerabilite-critique-dans-qnap-qts-et-quts-hero.html)|Une vulnérabilité a été corrigée dans QNAP QTS et QuTS hero. L’exploitation de cette faille pourrait permettre à un attaquant d'exécuter du code arbitraire à distance.|31 janvier 2023|
- |[40002701/22 - Microsoft exhorte les administrateurs à appliquer les correctifs relatifs aux serveurs](https://www.dgssi.gov.ma//fr/content/4000270122-microsoft-exhorte-les-administrateurs-appliquer-les-correctifs-relatifs-aux-serveurs-exchange.html)|Microsoft exhorte ses clients à maintenir leurs serveurs Exchange à jour en appliquant la dernière mise à jour cumulative (CU) prise en charge, afin qu'ils soient toujours prêts à déployer une mise à jour de sécurité d'urgence. A...|27 janvier 2023|
- |[40012601/23 - Vulnérabilité critiqueaffectantles imprimantes Lexmark ](https://www.dgssi.gov.ma//fr/content/4001260123-vulnerabilite-critique-affectant-les-imprimantes-lexmark.html)|Lexmark vient de publier des mises à jour de sécurité qui permettent de corriger une vulnérabilité critique affectant plusieurs de ses imprimantes. L’exploitation de cette vulnérabilité peut permettre àun attaquant distant d’exécuter du...|27 janvier 2023|
- |[39992701/22 - Vulnérabilités dans le DNSBIND](https://www.dgssi.gov.ma//fr/content/3999270122-vulnerabilites-dans-le-dns-bind.html)|Internet Systems Consortium (ISC) a publié un correctif de sécurité qui corrige plusieurs vulnérabilités dans les versions susmentionnées de DNS BIND. L’exploitation de ces failles peut permettre à un attaquant distant de causer un déni de...|27 janvier 2023|
- |[39982601/23 - Vulnérabilités affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/3998260123-vulnerabilites-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilitésaffectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre àun attaquant de provoquer des problèmes...|26 janvier 2023|
- |[39972501/22 - Vulnérabilités dans le plugin LearnPress du CMS WordPress ](https://www.dgssi.gov.ma//fr/content/3997250122-vulnerabilites-dans-le-plugin-learnpress-du-cms-wordpress.html)|Plusieurs vulnérabilités ont été corrigées dans le plugin LearnPress du CMS WordPress. L’exploitation de ces failles pourrait entraîner la divulgation d'informations sensibles, la modification de données et l'exécution de code...|25 janvier 2023|
- |[39962501/23 - Vulnérabilités affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma//fr/content/3996250123-vulnerabilites-affectant-plusieurs-produits-d-apple.html)|Apple annonce lacorrectionde plusieursvulnérabilitésaffectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peutpermettre à un attaquant distant d’exécuter du code arbitraire, de contourner les mesures de...|25 janvier 2023|
- |[39952501/23 - Vulnérabilités critiques affectant VMware vRealize Log Insight](https://www.dgssi.gov.ma//fr/content/3995250123-vulnerabilites-critiques-affectant-vmware-vrealize-log-insight.html)|VMware annonce la correction de vulnérabilités critiques affectant son produit VMware vRealize Log Insight. L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant de d’exécuter du code arbitraire, accéder à des...|25 janvier 2023|
- |[39922401/23 - « Zero-Day » corrigé dans les anciens iPhones et iPads d’Apple](https://www.dgssi.gov.ma//fr/content/3992240123-zero-day-corrige-dans-les-anciens-iphones-et-ipads-d-apple.html)|Apple annonce la correction d’une vulnérabilité « Zero-day » affectant ses produits susmentionnés. Selon Apple, cette vulnérabilité identifiée par « CVE-2022-42856 » est activement exploitée et peut permettre à un attaquant d’exécuter du...|24 janvier 2023|
- |[39912401/23 - Vulnérabilités affectantSymantec Identity Manager](https://www.dgssi.gov.ma//fr/content/3991240123-vulnerabilites-affectant-symantec-identity-manager.html)|Broadcom annonce la disponibilité d’une mise à jour de sécurité permettant la correction de trois vulnérabilités au niveau de son produit « Symantec Identity Manager ». L’exploitation de cesvulnérabilités peut permettre à un...|24 janvier 2023|
- |[39902410/23 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/3990241023-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant son client de messagerie Mozilla Thunderbird. L’exploitation de ces vulnérabilités peut permettre à un...|24 janvier 2023|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[[Control systems] Delta Electronics security advisory (AV23-059)](https://cyber.gc.ca/en/alerts-advisories/control-systems-delta-electronics-security-advisory-av23-059)|Visit link for details|2023-01-31|
- |[Ubuntu security advisory (AV23-058)](https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-058)|Visit link for details|2023-01-31|
- |[IBM security advisory (AV23-057)](https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-057)|Visit link for details|2023-01-31|
- |[[Control systems] Rockwell Automation security advisory (AV23-056)](https://cyber.gc.ca/en/alerts-advisories/control-systems-rockwell-automation-security-advisory-av23-056)|Visit link for details|2023-01-30|
- |[[Control systems] Delta Electronics security advisory (AV23-055)](https://cyber.gc.ca/en/alerts-advisories/control-systems-delta-electronics-security-advisory-av23-055)|Visit link for details|2023-01-30|
- |[[Control systems] Econolite security advisory (AV23-054)](https://cyber.gc.ca/en/alerts-advisories/control-systems-econolite-security-advisory-av23-054)|Visit link for details|2023-01-27|
- |[[Control systems] Landis+Gyr security advisory (AV23-053)](https://cyber.gc.ca/en/alerts-advisories/control-systems-landisgyr-security-advisory-av23-053)|Visit link for details|2023-01-27|
- |[[Control systems] Mitsubishi Electric security advisory (AV23-052)](https://cyber.gc.ca/en/alerts-advisories/systemes-controle-bulletin-securite-mitsubishi-electric-av23-052)|Visit link for details|2023-01-27|
- |[[Control systems] Sierra Wireless security advisory (AV23-051)](https://cyber.gc.ca/en/alerts-advisories/control-systems-sierra-wireless-security-advisory-av23-051)|Visit link for details|2023-01-26|
- |[[Control systems] Snap One security advisory (AV23-050)](https://cyber.gc.ca/en/alerts-advisories/control-systems-snap-one-security-advisory-av23-050)|Visit link for details|2023-01-26|
- |[ISC BIND security advisory (AV23-049)](https://cyber.gc.ca/en/alerts-advisories/isc-bind-security-advisory-av23-049)|Visit link for details|2023-01-26|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -158,4 +127,35 @@
  |Title|Description|Date|
  |---|---|---|
  |[2023-005: Critical Code Injection Vulnerability in QNAP Devices](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On January 30th, 2023, QNAP published an advisory related to a critical vulnerability, identified as CVE-2022-27596, allowing remote attackers to inject malicious code on QNAP NAS devices.|Tuesday, January 31, 2023 05:55:00 PM CEST|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[[Control systems] Delta Electronics security advisory (AV23-059)](https://cyber.gc.ca/en/alerts-advisories/control-systems-delta-electronics-security-advisory-av23-059)|Visit link for details|2023-01-31|
+ |[Ubuntu security advisory (AV23-058)](https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-058)|Visit link for details|2023-01-31|
+ |[IBM security advisory (AV23-057)](https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-057)|Visit link for details|2023-01-31|
+ |[[Control systems] Rockwell Automation security advisory (AV23-056)](https://cyber.gc.ca/en/alerts-advisories/control-systems-rockwell-automation-security-advisory-av23-056)|Visit link for details|2023-01-30|
+ |[[Control systems] Delta Electronics security advisory (AV23-055)](https://cyber.gc.ca/en/alerts-advisories/control-systems-delta-electronics-security-advisory-av23-055)|Visit link for details|2023-01-30|
+ |[[Control systems] Econolite security advisory (AV23-054)](https://cyber.gc.ca/en/alerts-advisories/control-systems-econolite-security-advisory-av23-054)|Visit link for details|2023-01-27|
+ |[[Control systems] Landis+Gyr security advisory (AV23-053)](https://cyber.gc.ca/en/alerts-advisories/control-systems-landisgyr-security-advisory-av23-053)|Visit link for details|2023-01-27|
+ |[[Control systems] Mitsubishi Electric security advisory (AV23-052)](https://cyber.gc.ca/en/alerts-advisories/systemes-controle-bulletin-securite-mitsubishi-electric-av23-052)|Visit link for details|2023-01-27|
+ |[[Control systems] Sierra Wireless security advisory (AV23-051)](https://cyber.gc.ca/en/alerts-advisories/control-systems-sierra-wireless-security-advisory-av23-051)|Visit link for details|2023-01-26|
+ |[[Control systems] Snap One security advisory (AV23-050)](https://cyber.gc.ca/en/alerts-advisories/control-systems-snap-one-security-advisory-av23-050)|Visit link for details|2023-01-26|
+ |[ISC BIND security advisory (AV23-049)](https://cyber.gc.ca/en/alerts-advisories/isc-bind-security-advisory-av23-049)|Visit link for details|2023-01-26|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
