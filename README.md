@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 01/02/2023 09:21:55 UTC
+ > Last Updated 01/02/2023 10:23:26 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -80,6 +80,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Symfony-Cross-Site-Request-Forgery-via-Token-Fixation-40418" class="noirorange"><b>Symfony</b>: Cross Site Request Forgery via Token Fixation</a>](https://vigilance.fr/vulnerability/Symfony-Cross-Site-Request-Forgery-via-Token-Fixation-40418)|An attacker can trigger a Cross Site Request Forgery of Symfony, via Token Fixation, in order to force the victim to perform operations...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Symfony-information-disclosure-via-HttpCache-Cookie-Headers-40417" class="noirorange"><b>Symfony</b>: information disclosure via HttpCache Cookie Headers</a>](https://vigilance.fr/vulnerability/Symfony-information-disclosure-via-HttpCache-Cookie-Headers-40417)|An attacker can bypass access restrictions to data of Symfony, via HttpCache Cookie Headers, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Dell-UEFI-BIOS-Man-in-the-Middle-via-BIOSConnect-Https-Stack-40416" class="noirorange"><b>Dell UEFI BIOS</b>: Man-in-the-Middle via BIOSConnect Https Stack</a>](https://vigilance.fr/vulnerability/Dell-UEFI-BIOS-Man-in-the-Middle-via-BIOSConnect-Https-Stack-40416)|An attacker can act as a Man-in-the-Middle on Dell UEFI BIOS, via BIOSConnect Https Stack, in order to read or write data in the session...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/stb-buffer-overflow-via-stbi-jpeg-load-40415" class="noirorange"><b>stb</b>: buffer overflow via stbi__jpeg_load()</a>](https://vigilance.fr/vulnerability/stb-buffer-overflow-via-stbi-jpeg-load-40415)|An attacker can trigger a buffer overflow of stb, via stbi__jpeg_load(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/stb-seven-vulnerabilities-40414" class="noirorange"><b>stb</b>: seven vulnerabilities</a>](https://vigilance.fr/vulnerability/stb-seven-vulnerabilities-40414)|An attacker can use several vulnerabilities of stb...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/stb-buffer-overflow-via-stbi-out-gif-code-40413" class="noirorange"><b>stb</b>: buffer overflow via stbi__out_gif_code()</a>](https://vigilance.fr/vulnerability/stb-buffer-overflow-via-stbi-out-gif-code-40413)|An attacker can trigger a buffer overflow of stb, via |Visit link for details|
@@ -88,16 +91,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Joomla-Core-information-disclosure-via-com-actionlogs-40410" class="noirorange"><b>Joomla Core</b>: information disclosure via com_actionlogs</a>](https://vigilance.fr/vulnerability/Joomla-Core-information-disclosure-via-com-actionlogs-40410)|An attacker can bypass access restrictions to data of Joomla Core, via com_actionlogs, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Joomla-Core-Cross-Site-Request-Forgery-via-Post-installation-Messages-40409" class="noirorange"><b>Joomla Core</b>: Cross Site Request Forgery via Post-installation Messages</a>](https://vigilance.fr/vulnerability/Joomla-Core-Cross-Site-Request-Forgery-via-Post-installation-Messages-40409)|An attacker can trigger a Cross Site Request Forgery of Joomla Core, via Post-installation Messages, in order to force the victim to perform operations...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Tenable-Nessus-privilege-escalation-via-Environment-Variables-40408" class="noirorange"><b>Tenable Nessus</b>: privilege escalation via Environment Variables</a>](https://vigilance.fr/vulnerability/Tenable-Nessus-privilege-escalation-via-Environment-Variables-40408)|An attacker can bypass restrictions of Tenable Nessus, via Environment Variables, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-NULL-pointer-dereference-via-gui-x11-create-blank-mouse-40407" class="noirorange"><b>Vim</b>: NULL pointer dereference via gui_x11_create_blank_mouse()</a>](https://vigilance.fr/vulnerability/Vim-NULL-pointer-dereference-via-gui-x11-create-blank-mouse-40407)|An attacker can force a NULL pointer to be dereferenced on Vim, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wildfly-Elytron-information-disclosure-via-Timing-Comparator-40406" class="noirorange"><b>Wildfly Elytron</b>: information disclosure via Timing Comparator</a>](https://vigilance.fr/vulnerability/Wildfly-Elytron-information-disclosure-via-Timing-Comparator-40406)|An attacker can bypass access restrictions to data of Wildfly Elytron, via Timing Comparator, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSSL-vulnerabity-unveiled-on-07-02-2023-40405" class="noirorange"><b>OpenSSL</b>: vulnerabity unveiled on 07/02/2023</a>](https://vigilance.fr/vulnerability/OpenSSL-vulnerabity-unveiled-on-07-02-2023-40405)|A vulnerability of OpenSSL will be unveiled on 07/02/2023...|Visit link for details|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-005: Critical Code Injection Vulnerability in QNAP Devices](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On January 30th, 2023, QNAP published an advisory related to a critical vulnerability, identified as CVE-2022-27596, allowing remote attackers to inject malicious code on QNAP NAS devices.|Tuesday, January 31, 2023 05:55:00 PM CEST|
  
 
 # HK-CERT
@@ -121,12 +114,12 @@
  |Title|Description|Date|
  |---|---|---|
  |[EFence SQL injection (CVE-2023-22900)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 31, 2023|
+ |[Delta Electronics DOPSoft code execution (CVE-2023-0124)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 31, 2023|
  |[Delta Electronics DOPSoft buffer overflow (CVE-2023-0123)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 31, 2023|
  |[Apache Portable Runtime (APR) integer overflow (CVE-2022-28331)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 31, 2023|
  |[Apache Portable Runtime (APR) integer overflow (CVE-2022-25147)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 31, 2023|
  |[Apache Portable Runtime (APR) integer overflow (CVE-2022-24963)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 31, 2023|
  |[ChangingTech MegaServiSignAdapter information disclosure (CVE-2022-39061)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 31, 2023|
- |[ChangingTech MegaServiSignAdapter code execution (CVE-2022-39060)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 31, 2023|
  
 
 # ZERODAYINITIATIVE
@@ -141,6 +134,13 @@
  |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
  |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
  |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-005: Critical Code Injection Vulnerability in QNAP Devices](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On January 30th, 2023, QNAP published an advisory related to a critical vulnerability, identified as CVE-2022-27596, allowing remote attackers to inject malicious code on QNAP NAS devices.|Tuesday, January 31, 2023 05:55:00 PM CEST|
  
 
 # CA-CCS
