@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 01/02/2023 15:23:04 UTC
+ > Last Updated 01/02/2023 16:29:36 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -37,22 +37,6 @@
  |[CISA, NSA, and MS-ISAC Release Advisory on the Malicious Use of RMM Software](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/25/cisa-nsa-and-ms-isac-release-advisory-malicious-use-rmm-software)|<p>Today, the Cybersecurity and Infrastructure Security Agency (CISA), the National Security Agency (NSA), and the Multi-State Information Sharing and Analysis Center (MS-ISAC) released joint Cybersecurity Advisory (CSA) <a href="https://www.cisa.gov/uscert/ncas/alerts/aa23-025a">Protecting Against Malicious Use of Remote Monitoring and Management Software</a>. The advisory describes a phishing scam in which cyber threat actors maliciously use legitimate remote monitoring and management (RMM) software to steal money from victim bank accounts.</p>|Wednesday, January 25, 2023|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans Symfony](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0080/)|De multiples vulnérabilités ont été découvertes dans Symfony. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une injection de requêtes illégitimes par rebond (CSRF).|Publié le 1 février 2023|
- |[Vulnérabilité dans Pulse Secure Pulse Connect Secure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0079/)|Une vulnérabilité a été découverte dans Pulse Secure Pulse Connect Secure. Elle permet à un attaquant de provoquer une injection de requêtes illégitimes par rebond (CSRF).|Publié le 1 février 2023|
- |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0078/)|De multiples vulnérabilités ont été découvertes dans GitLab. Elles permettent à un attaquant de provoquer un déni de service à distance et une injection de requêtes illégitimes par rebond (CSRF).|Publié le 1 février 2023|
- |[Multiples vulnérabilités dans Joomla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0077/)|De multiples vulnérabilités ont été découvertes dans Joomla. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une injection de requêtes illégitimes par rebond (CSRF).|Publié le 1 février 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0076/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 1 février 2023|
- |[Vulnérabilité dans VMware vRealize Operations](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0075/)|Une vulnérabilité a été découverte dans VMware vRealize Operations. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 1 février 2023|
- |[Vulnérabilité dans Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0074/)|Une vulnérabilité a été corrigée dans |Publié le 1 février 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0073/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 31 janvier 2023|
- |[Vulnérabilité dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0072/)|Une vulnérabilité a été découverte dans les produits Tenable. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 31 janvier 2023|
- |[Vulnérabilité dans QNAP QTS et QuTS hero](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0071/)|Une vulnérabilité a été découverte dans QNAP QTS et QuTS hero. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 30 janvier 2023|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -70,10 +54,20 @@
  |[39902410/23 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/3990241023-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant son client de messagerie Mozilla Thunderbird. L’exploitation de ces vulnérabilités peut permettre à un...|24 janvier 2023|
  
 
-# VulDB
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiples vulnérabilités dans Symfony](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0080/)|De multiples vulnérabilités ont été découvertes dans Symfony. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une injection de requêtes illégitimes par rebond (CSRF).|Publié le 1 février 2023|
+ |[Vulnérabilité dans Pulse Secure Pulse Connect Secure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0079/)|Une vulnérabilité a été découverte dans Pulse Secure Pulse Connect Secure. Elle permet à un attaquant de provoquer une injection de requêtes illégitimes par rebond (CSRF).|Publié le 1 février 2023|
+ |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0078/)|De multiples vulnérabilités ont été découvertes dans GitLab. Elles permettent à un attaquant de provoquer un déni de service à distance et une injection de requêtes illégitimes par rebond (CSRF).|Publié le 1 février 2023|
+ |[Multiples vulnérabilités dans Joomla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0077/)|De multiples vulnérabilités ont été découvertes dans Joomla. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une injection de requêtes illégitimes par rebond (CSRF).|Publié le 1 février 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0076/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 1 février 2023|
+ |[Vulnérabilité dans VMware vRealize Operations](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0075/)|Une vulnérabilité a été découverte dans VMware vRealize Operations. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 1 février 2023|
+ |[Vulnérabilité dans Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0074/)|Une vulnérabilité a été corrigée dans |Publié le 1 février 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0073/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 31 janvier 2023|
+ |[Vulnérabilité dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0072/)|Une vulnérabilité a été découverte dans les produits Tenable. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 31 janvier 2023|
+ |[Vulnérabilité dans QNAP QTS et QuTS hero](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0071/)|Une vulnérabilité a été découverte dans QNAP QTS et QuTS hero. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 30 janvier 2023|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -105,10 +99,19 @@
  |[Cisco Products Multiple Vulnerabilities](/security-bulletin/cisco-products-multiple-vulnerabilities_20230120)|Multiple vulnerabilities were identified in Cisco Systems Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 20 Jan 2023|
  
 
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/AdvanceCOMP-seven-vulnerabilities-40424" class="noirorange"><b>AdvanceCOMP</b>: seven vulnerabilities</a>](https://vigilance.fr/vulnerability/AdvanceCOMP-seven-vulnerabilities-40424)|An attacker can use several vulnerabilities of AdvanceCOMP...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Django-denial-of-service-via-Accept-Language-Header-40423" class="noirorange"><b>Django</b>: denial of service via Accept-Language Header</a>](https://vigilance.fr/vulnerability/Django-denial-of-service-via-Accept-Language-Header-40423)|An attacker can cause a fatal error of Django, via Accept-Language Header, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/tmux-NULL-pointer-dereference-via-window-pane-set-event-40422" class="noirorange"><b>tmux</b>: NULL pointer dereference via window_pane_set_event()</a>](https://vigilance.fr/vulnerability/tmux-NULL-pointer-dereference-via-window-pane-set-event-40422)|An attacker can force a NULL pointer to be dereferenced on tmux, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Thunderbird-weak-signature-via-Unchecked-S-MIME-Revocation-Status-40421" class="noirorange"><b>Thunderbird</b>: weak signature via Unchecked S/MIME Revocation Status</a>](https://vigilance.fr/vulnerability/Thunderbird-weak-signature-via-Unchecked-S-MIME-Revocation-Status-40421)|An attacker can use malicious data on Thunderbird, via Unchecked S/MIME Revocation Status, in order to deceive the victim...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Docker-Engine-file-read-write-via-UID-GID-40420" class="noirorange"><b>Docker Engine</b>: file read/write via UID/GID</a>](https://vigilance.fr/vulnerability/Docker-Engine-file-read-write-via-UID-GID-40420)|An attacker can bypass access restrictions of Docker Engine, via UID/GID, in order to read or alter files...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Pulse-Connect-Secure-Cross-Site-Request-Forgery-via-Login-40419" class="noirorange"><b>Pulse Connect Secure</b>: Cross Site Request Forgery via Login</a>](https://vigilance.fr/vulnerability/Pulse-Connect-Secure-Cross-Site-Request-Forgery-via-Login-40419)|An attacker can trigger a Cross Site Request Forgery of Pulse Connect Secure, via Login, in order to force the victim to perform operations...|Visit link for details|
@@ -117,16 +120,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Dell-UEFI-BIOS-Man-in-the-Middle-via-BIOSConnect-Https-Stack-40416" class="noirorange"><b>Dell UEFI BIOS</b>: Man-in-the-Middle via BIOSConnect Https Stack</a>](https://vigilance.fr/vulnerability/Dell-UEFI-BIOS-Man-in-the-Middle-via-BIOSConnect-Https-Stack-40416)|An attacker can act as a Man-in-the-Middle on Dell UEFI BIOS, via BIOSConnect Https Stack, in order to read or write data in the session...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/stb-buffer-overflow-via-stbi-jpeg-load-40415" class="noirorange"><b>stb</b>: buffer overflow via stbi__jpeg_load()</a>](https://vigilance.fr/vulnerability/stb-buffer-overflow-via-stbi-jpeg-load-40415)|An attacker can trigger a buffer overflow of stb, via stbi__jpeg_load(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/stb-seven-vulnerabilities-40414" class="noirorange"><b>stb</b>: seven vulnerabilities</a>](https://vigilance.fr/vulnerability/stb-seven-vulnerabilities-40414)|An attacker can use several vulnerabilities of stb...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/stb-buffer-overflow-via-stbi-out-gif-code-40413" class="noirorange"><b>stb</b>: buffer overflow via stbi__out_gif_code()</a>](https://vigilance.fr/vulnerability/stb-buffer-overflow-via-stbi-out-gif-code-40413)|An attacker can trigger a buffer overflow of stb, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-40412" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-40412)|An attacker can use several vulnerabilities of GitLab CE/EE...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-MINA-SSHD-code-execution-via-SimpleGeneratorHostKeyProvider-40411" class="noirorange"><b>Apache MINA SSHD</b>: code execution via SimpleGeneratorHostKeyProvider</a>](https://vigilance.fr/vulnerability/Apache-MINA-SSHD-code-execution-via-SimpleGeneratorHostKeyProvider-40411)|An attacker can use a vulnerability of Apache MINA SSHD, via |Visit link for details|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-005: Critical Code Injection Vulnerability in QNAP Devices](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On January 30th, 2023, QNAP published an advisory related to a critical vulnerability, identified as CVE-2022-27596, allowing remote attackers to inject malicious code on QNAP NAS devices.|Tuesday, January 31, 2023 05:55:00 PM CEST|
  
 
 # CA-CCS
@@ -146,16 +139,15 @@
  |[ISC BIND security advisory (AV23-049)](https://cyber.gc.ca/en/alerts-advisories/isc-bind-security-advisory-av23-049)|Visit link for details|2023-01-26|
  
 
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-005: Critical Code Injection Vulnerability in QNAP Devices](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On January 30th, 2023, QNAP published an advisory related to a critical vulnerability, identified as CVE-2022-27596, allowing remote attackers to inject malicious code on QNAP NAS devices.|Tuesday, January 31, 2023 05:55:00 PM CEST|
+ 
+
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
