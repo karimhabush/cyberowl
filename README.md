@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 02/02/2023 02:49:06 UTC
+ > Last Updated 02/02/2023 03:22:53 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -53,6 +53,35 @@
  |[Vulnérabilité dans QNAP QTS et QuTS hero](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0071/)|Une vulnérabilité a été découverte dans QNAP QTS et QuTS hero. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 30 janvier 2023|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Notepad++ buffer overflow (CVE-2022-31902)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
+ |[Django <xxxx> denial of service (CVE-2023-23969)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
+ |[F5 BIG-IP (APM) denial of service (CVE-2023-22341)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
+ |[F5 BIG-IP denial of service (CVE-2023-22664)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
+ |[F5 BIG-IP denial of service (CVE-2023-22340)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
+ |[F5 BIG-IP (ASM) denial of service (CVE-2023-23552)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
+ |[F5 BIG-IP code execution (CVE-2023-22374)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[IBM WebSphere Application Server Remote Code Execution Vulnerability](/security-bulletin/ibm-websphere-application-server-remote-code-execution-vulnerability_20230202)|A vulnerability was identified in IBM WebSphere Application Server. A remote user can exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 2 Feb 2023|
+ |[Mozilla Thunderbird Security Restriction Bypass Vulnerability](/security-bulletin/mozilla-thunderbird-security-restriction-bypass-vulnerability_20230202)|A vulnerability was identified in Mozilla Thunderbird. A remote attacker can exploit this vulnerability to trigger security restriction bypass on the targeted system.|Release Date: 2 Feb 2023|
+ |[ISC BIND Multiple Vulnerabilities](/security-bulletin/isc-bind-multiple-vulnerabilities_20230202)|Multiple vulnerabilities were identified in BIND. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition on the targeted system.|Release Date: 2 Feb 2023|
+ |[ChromeOS Multiple Vulnerabilities](/security-bulletin/chromeos-multiple-vulnerabilities_20230201)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and sensitive information disclosure on the targeted system.|Release Date: 1 Feb 2023|
+ |[VMWare vRealize Log Insight Multiple Vulnerabilities](/security-bulletin/vmware-vrealize-log-insight-multiple-vulnerabilities_20230126)|Multiple vulnerabilities were identified in VMware vRealize Log Insight. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-02-01]Proof of Concept exploit code...| Release Date: 26 Jan 2023 |
+ |[QNAP NAS Remote Code Execution Vulnerability](/security-bulletin/qnap-nas-remote-code-execution-vulnerability_20230131)|A vulnerability was identified in QNAP NAS. A remote attacker can exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 31 Jan 2023|
+ |[Linux Kernel Multiple Vulnerabilities](/security-bulletin/linux-kernel-multiple-vulnerabilities_20230130)|Multiple vulnerabilities were identified in Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 30 Jan 2023|
+ |[Microsoft Edge Multiple Vulnerabilities](/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230130)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, remote code execution and data manipulation on the targeted system. |Release Date: 30 Jan 2023|
+ |[Apple Products Multiple Vulnerabilities](/security-bulletin/apple-products-multiple-vulnerabilities_20230126)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. Note:CVE-2022-...|Release Date: 26 Jan 2023|
+ |[Google Chrome Multiple Vulnerabilities](/security-bulletin/google-chrome-multiple-vulnerabilities_20230126)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and sensitive information disclosure on the targeted system.|Release Date: 26 Jan 2023|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -68,6 +97,12 @@
  |[39922401/23 - « Zero-Day » corrigé dans les anciens iPhones et iPads d’Apple](https://www.dgssi.gov.ma//fr/content/3992240123-zero-day-corrige-dans-les-anciens-iphones-et-ipads-d-apple.html)|Apple annonce la correction d’une vulnérabilité « Zero-day » affectant ses produits susmentionnés. Selon Apple, cette vulnérabilité identifiée par « CVE-2022-42856 » est activement exploitée et peut permettre à un attaquant d’exécuter du...|24 janvier 2023|
  |[39912401/23 - Vulnérabilités affectantSymantec Identity Manager](https://www.dgssi.gov.ma//fr/content/3991240123-vulnerabilites-affectant-symantec-identity-manager.html)|Broadcom annonce la disponibilité d’une mise à jour de sécurité permettant la correction de trois vulnérabilités au niveau de son produit « Symantec Identity Manager ». L’exploitation de cesvulnérabilités peut permettre à un...|24 janvier 2023|
  |[39902410/23 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/3990241023-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant son client de messagerie Mozilla Thunderbird. L’exploitation de ces vulnérabilités peut permettre à un...|24 janvier 2023|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # OBS-Vigilance
@@ -87,41 +122,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Docker-Engine-file-read-write-via-UID-GID-40420" class="noirorange"><b>Docker Engine</b>: file read/write via UID/GID</a>](https://vigilance.fr/vulnerability/Docker-Engine-file-read-write-via-UID-GID-40420)|An attacker can bypass access restrictions of Docker Engine, via UID/GID, in order to read or alter files...|Visit link for details|
  
 
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Notepad++ buffer overflow (CVE-2022-31902)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
- |[F5 BIG-IP (ASM) denial of service (CVE-2023-23552)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
- |[F5 BIG-IP code execution (CVE-2023-22374)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
- |[F5 BIG-IP (APM) privilege escalation (CVE-2023-22358)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
- |[F5 BIG-IP denial of service (CVE-2023-22842)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
- |[Huawei HarmonyOS AILife Solution security bypass (CVE-2022-48284)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
- |[Huawei HarmonyOS AILife Solution security bypass (CVE-2022-48283)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[IBM WebSphere Application Server Remote Code Execution Vulnerability](/security-bulletin/ibm-websphere-application-server-remote-code-execution-vulnerability_20230202)|A vulnerability was identified in IBM WebSphere Application Server. A remote user can exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 2 Feb 2023|
- |[Mozilla Thunderbird Security Restriction Bypass Vulnerability](/security-bulletin/mozilla-thunderbird-security-restriction-bypass-vulnerability_20230202)|A vulnerability was identified in Mozilla Thunderbird. A remote attacker can exploit this vulnerability to trigger security restriction bypass on the targeted system.|Release Date: 2 Feb 2023|
- |[ISC BIND Multiple Vulnerabilities](/security-bulletin/isc-bind-multiple-vulnerabilities_20230202)|Multiple vulnerabilities were identified in BIND. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition on the targeted system.|Release Date: 2 Feb 2023|
- |[ChromeOS Multiple Vulnerabilities](/security-bulletin/chromeos-multiple-vulnerabilities_20230201)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and sensitive information disclosure on the targeted system.|Release Date: 1 Feb 2023|
- |[VMWare vRealize Log Insight Multiple Vulnerabilities](/security-bulletin/vmware-vrealize-log-insight-multiple-vulnerabilities_20230126)|Multiple vulnerabilities were identified in VMware vRealize Log Insight. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-02-01]Proof of Concept exploit code...| Release Date: 26 Jan 2023 |
- |[QNAP NAS Remote Code Execution Vulnerability](/security-bulletin/qnap-nas-remote-code-execution-vulnerability_20230131)|A vulnerability was identified in QNAP NAS. A remote attacker can exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 31 Jan 2023|
- |[Linux Kernel Multiple Vulnerabilities](/security-bulletin/linux-kernel-multiple-vulnerabilities_20230130)|Multiple vulnerabilities were identified in Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 30 Jan 2023|
- |[Microsoft Edge Multiple Vulnerabilities](/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230130)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, remote code execution and data manipulation on the targeted system. |Release Date: 30 Jan 2023|
- |[Apple Products Multiple Vulnerabilities](/security-bulletin/apple-products-multiple-vulnerabilities_20230126)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. Note:CVE-2022-...|Release Date: 26 Jan 2023|
- |[Google Chrome Multiple Vulnerabilities](/security-bulletin/google-chrome-multiple-vulnerabilities_20230126)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and sensitive information disclosure on the targeted system.|Release Date: 26 Jan 2023|
- 
-
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -134,13 +134,6 @@
  |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
  |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
  |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-005: Critical Code Injection Vulnerability in QNAP Devices](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On January 30th, 2023, QNAP published an advisory related to a critical vulnerability, identified as CVE-2022-27596, allowing remote attackers to inject malicious code on QNAP NAS devices.|Tuesday, January 31, 2023 05:55:00 PM CEST|
  
 
 # CA-CCS
@@ -158,4 +151,11 @@
  |[[Control systems] Sierra Wireless security advisory (AV23-051)](https://cyber.gc.ca/en/alerts-advisories/control-systems-sierra-wireless-security-advisory-av23-051)|Visit link for details|2023-01-26|
  |[[Control systems] Snap One security advisory (AV23-050)](https://cyber.gc.ca/en/alerts-advisories/control-systems-snap-one-security-advisory-av23-050)|Visit link for details|2023-01-26|
  |[ISC BIND security advisory (AV23-049)](https://cyber.gc.ca/en/alerts-advisories/isc-bind-security-advisory-av23-049)|Visit link for details|2023-01-26|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-005: Critical Code Injection Vulnerability in QNAP Devices](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On January 30th, 2023, QNAP published an advisory related to a critical vulnerability, identified as CVE-2022-27596, allowing remote attackers to inject malicious code on QNAP NAS devices.|Tuesday, January 31, 2023 05:55:00 PM CEST|
  
