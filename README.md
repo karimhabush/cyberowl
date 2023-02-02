@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 02/02/2023 20:21:38 UTC
+ > Last Updated 02/02/2023 21:17:38 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -70,19 +70,6 @@
  |[39962501/23 - Vulnérabilités affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma//fr/content/3996250123-vulnerabilites-affectant-plusieurs-produits-d-apple.html)|Apple annonce lacorrectionde plusieursvulnérabilitésaffectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peutpermettre à un attaquant distant d’exécuter du code arbitraire, de contourner les mesures de...|25 janvier 2023|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[TRENDnet TEW-811DRU denial of service (CVE-2023-0637)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
- |[Linux Kernel denial of service (CVE-2023-25012)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
- |[Notepad++ buffer overflow (CVE-2022-31902)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
- |[Zoho ManageEngine Asset Explorer cross-site scripting (CVE-2023-23075)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
- |[Zoho ManageEngine ServiceDesk Plus cross-site scripting (CVE-2023-23073)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
- |[Zoho ManageEngine ServiceDesk Plus cross-site scripting (CVE-2023-23074)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
- |[Zoho ManageEngine ServiceDesk Plus cross-site scripting (CVE-2023-23077)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
- 
-
 # VulDB
 
  |Title|Description|Date|
@@ -103,6 +90,19 @@
  |[Microsoft Edge Multiple Vulnerabilities](/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230130)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, remote code execution and data manipulation on the targeted system. |Release Date: 30 Jan 2023|
  |[Apple Products Multiple Vulnerabilities](/security-bulletin/apple-products-multiple-vulnerabilities_20230126)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. Note:CVE-2022-...|Release Date: 26 Jan 2023|
  |[Google Chrome Multiple Vulnerabilities](/security-bulletin/google-chrome-multiple-vulnerabilities_20230126)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and sensitive information disclosure on the targeted system.|Release Date: 26 Jan 2023|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Delta Electronics DX-2100L1-CN cross-site scripting (CVE-2023-0432)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
+ |[TRENDnet TEW-811DRU denial of service (CVE-2023-0637)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
+ |[Linux Kernel denial of service (CVE-2023-25012)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
+ |[Notepad++ buffer overflow (CVE-2022-31902)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
+ |[Zoho ManageEngine Asset Explorer cross-site scripting (CVE-2023-23075)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
+ |[Zoho ManageEngine ServiceDesk Plus cross-site scripting (CVE-2023-23073)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
+ |[Zoho ManageEngine ServiceDesk Plus cross-site scripting (CVE-2023-23074)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
  
 
 # OBS-Vigilance
