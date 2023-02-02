@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 02/02/2023 06:25:33 UTC
+ > Last Updated 02/02/2023 07:21:40 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -53,19 +53,6 @@
  |[Vulnérabilité dans QNAP QTS et QuTS hero](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0071/)|Une vulnérabilité a été découverte dans QNAP QTS et QuTS hero. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 30 janvier 2023|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Notepad++ buffer overflow (CVE-2022-31902)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
- |[F5 BIG-IP denial of service (CVE-2023-23555)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
- |[F5 F5OS command execution (CVE-2023-22657)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
- |[F5 BIG-IP denial of service (CVE-2023-22422)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
- |[Cisco RV340, RV340W, RV345, and RV345P Dual WAN Gigabit VPN Routers file upload (CVE-2023-20073)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
- |[Cisco Identity Services Engine information disclosure (CVE-2023-20030)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -83,27 +70,23 @@
  |[39902410/23 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/3990241023-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant son client de messagerie Mozilla Thunderbird. L’exploitation de ces vulnérabilités peut permettre à un...|24 janvier 2023|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Notepad++ buffer overflow (CVE-2022-31902)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
+ |[F5 BIG-IP denial of service (CVE-2023-23555)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
+ |[F5 F5OS command execution (CVE-2023-22657)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
+ |[F5 BIG-IP denial of service (CVE-2023-22422)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
+ |[Cisco RV340, RV340W, RV345, and RV345P Dual WAN Gigabit VPN Routers file upload (CVE-2023-20073)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
+ |[Cisco Identity Services Engine information disclosure (CVE-2023-20030)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
+ 
+
 # VulDB
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Grafana-information-disclosure-via-Datasource-Query-Caching-40430" class="noirorange"><b>Grafana</b>: information disclosure via Datasource Query Caching</a>](https://vigilance.fr/vulnerability/Grafana-information-disclosure-via-Datasource-Query-Caching-40430)|An attacker can bypass access restrictions to data of Grafana, via Datasource Query Caching, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Apigee-Edge-information-disclosure-via-Entity-Query-40429" class="noirorange"><b>Drupal Apigee Edge</b>: information disclosure via Entity Query</a>](https://vigilance.fr/vulnerability/Drupal-Apigee-Edge-information-disclosure-via-Entity-Query-40429)|An attacker can bypass access restrictions to data of Drupal Apigee Edge, via Entity Query, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-multiple-vulnerabilities-40428" class="noirorange"><b>F5 BIG-IP</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-multiple-vulnerabilities-40428)|An attacker can use several vulnerabilities of F5 BIG-IP...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-code-execution-via-iControl-SOAP-40427" class="noirorange"><b>F5 BIG-IP</b>: code execution via iControl SOAP</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-code-execution-via-iControl-SOAP-40427)|An attacker can use a vulnerability of F5 BIG-IP, via iControl SOAP, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Prime-Infrastructure-Cross-Site-Scripting-40426" class="noirorange"><b>Cisco Prime Infrastructure</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Cisco-Prime-Infrastructure-Cross-Site-Scripting-40426)|An attacker can trigger a Cross Site Scripting of Cisco Prime Infrastructure, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XE-privilege-escalation-via-IOx-Application-Hosting-Environment-40425" class="noirorange"><b>Cisco IOS XE</b>: privilege escalation via IOx Application Hosting Environment</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XE-privilege-escalation-via-IOx-Application-Hosting-Environment-40425)|An attacker can bypass restrictions of Cisco IOS XE, via IOx Application Hosting Environment, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/AdvanceCOMP-seven-vulnerabilities-40424" class="noirorange"><b>AdvanceCOMP</b>: seven vulnerabilities</a>](https://vigilance.fr/vulnerability/AdvanceCOMP-seven-vulnerabilities-40424)|An attacker can use several vulnerabilities of AdvanceCOMP...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Django-denial-of-service-via-Accept-Language-Header-40423" class="noirorange"><b>Django</b>: denial of service via Accept-Language Header</a>](https://vigilance.fr/vulnerability/Django-denial-of-service-via-Accept-Language-Header-40423)|An attacker can cause a fatal error of Django, via Accept-Language Header, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/tmux-NULL-pointer-dereference-via-window-pane-set-event-40422" class="noirorange"><b>tmux</b>: NULL pointer dereference via window_pane_set_event()</a>](https://vigilance.fr/vulnerability/tmux-NULL-pointer-dereference-via-window-pane-set-event-40422)|An attacker can force a NULL pointer to be dereferenced on tmux, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Thunderbird-weak-signature-via-Unchecked-S-MIME-Revocation-Status-40421" class="noirorange"><b>Thunderbird</b>: weak signature via Unchecked S/MIME Revocation Status</a>](https://vigilance.fr/vulnerability/Thunderbird-weak-signature-via-Unchecked-S-MIME-Revocation-Status-40421)|An attacker can use malicious data on Thunderbird, via Unchecked S/MIME Revocation Status, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Docker-Engine-file-read-write-via-UID-GID-40420" class="noirorange"><b>Docker Engine</b>: file read/write via UID/GID</a>](https://vigilance.fr/vulnerability/Docker-Engine-file-read-write-via-UID-GID-40420)|An attacker can bypass access restrictions of Docker Engine, via UID/GID, in order to read or alter files...|Visit link for details|
  
 
 # HK-CERT
@@ -144,6 +127,23 @@
  |[[Control systems] Sierra Wireless security advisory (AV23-051)](https://cyber.gc.ca/en/alerts-advisories/control-systems-sierra-wireless-security-advisory-av23-051)|Visit link for details|2023-01-26|
  |[[Control systems] Snap One security advisory (AV23-050)](https://cyber.gc.ca/en/alerts-advisories/control-systems-snap-one-security-advisory-av23-050)|Visit link for details|2023-01-26|
  |[ISC BIND security advisory (AV23-049)](https://cyber.gc.ca/en/alerts-advisories/isc-bind-security-advisory-av23-049)|Visit link for details|2023-01-26|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Grafana-information-disclosure-via-Datasource-Query-Caching-40430" class="noirorange"><b>Grafana</b>: information disclosure via Datasource Query Caching</a>](https://vigilance.fr/vulnerability/Grafana-information-disclosure-via-Datasource-Query-Caching-40430)|An attacker can bypass access restrictions to data of Grafana, via Datasource Query Caching, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Apigee-Edge-information-disclosure-via-Entity-Query-40429" class="noirorange"><b>Drupal Apigee Edge</b>: information disclosure via Entity Query</a>](https://vigilance.fr/vulnerability/Drupal-Apigee-Edge-information-disclosure-via-Entity-Query-40429)|An attacker can bypass access restrictions to data of Drupal Apigee Edge, via Entity Query, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-multiple-vulnerabilities-40428" class="noirorange"><b>F5 BIG-IP</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-multiple-vulnerabilities-40428)|An attacker can use several vulnerabilities of F5 BIG-IP...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-code-execution-via-iControl-SOAP-40427" class="noirorange"><b>F5 BIG-IP</b>: code execution via iControl SOAP</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-code-execution-via-iControl-SOAP-40427)|An attacker can use a vulnerability of F5 BIG-IP, via iControl SOAP, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-Prime-Infrastructure-Cross-Site-Scripting-40426" class="noirorange"><b>Cisco Prime Infrastructure</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Cisco-Prime-Infrastructure-Cross-Site-Scripting-40426)|An attacker can trigger a Cross Site Scripting of Cisco Prime Infrastructure, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XE-privilege-escalation-via-IOx-Application-Hosting-Environment-40425" class="noirorange"><b>Cisco IOS XE</b>: privilege escalation via IOx Application Hosting Environment</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XE-privilege-escalation-via-IOx-Application-Hosting-Environment-40425)|An attacker can bypass restrictions of Cisco IOS XE, via IOx Application Hosting Environment, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/AdvanceCOMP-seven-vulnerabilities-40424" class="noirorange"><b>AdvanceCOMP</b>: seven vulnerabilities</a>](https://vigilance.fr/vulnerability/AdvanceCOMP-seven-vulnerabilities-40424)|An attacker can use several vulnerabilities of AdvanceCOMP...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Django-denial-of-service-via-Accept-Language-Header-40423" class="noirorange"><b>Django</b>: denial of service via Accept-Language Header</a>](https://vigilance.fr/vulnerability/Django-denial-of-service-via-Accept-Language-Header-40423)|An attacker can cause a fatal error of Django, via Accept-Language Header, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/tmux-NULL-pointer-dereference-via-window-pane-set-event-40422" class="noirorange"><b>tmux</b>: NULL pointer dereference via window_pane_set_event()</a>](https://vigilance.fr/vulnerability/tmux-NULL-pointer-dereference-via-window-pane-set-event-40422)|An attacker can force a NULL pointer to be dereferenced on tmux, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Thunderbird-weak-signature-via-Unchecked-S-MIME-Revocation-Status-40421" class="noirorange"><b>Thunderbird</b>: weak signature via Unchecked S/MIME Revocation Status</a>](https://vigilance.fr/vulnerability/Thunderbird-weak-signature-via-Unchecked-S-MIME-Revocation-Status-40421)|An attacker can use malicious data on Thunderbird, via Unchecked S/MIME Revocation Status, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Docker-Engine-file-read-write-via-UID-GID-40420" class="noirorange"><b>Docker Engine</b>: file read/write via UID/GID</a>](https://vigilance.fr/vulnerability/Docker-Engine-file-read-write-via-UID-GID-40420)|An attacker can bypass access restrictions of Docker Engine, via UID/GID, in order to read or alter files...|Visit link for details|
  
 
 # ZERODAYINITIATIVE
