@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 02/02/2023 15:22:21 UTC
+ > Last Updated 02/02/2023 16:29:55 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,36 +57,13 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[TRENDnet TEW-811DRU denial of service (CVE-2023-0637)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
  |[Notepad++ buffer overflow (CVE-2022-31902)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
  |[F5 BIG-IP code execution (CVE-2023-22283)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
  |[F5 BIG-IP open redirect (CVE-2023-22418)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
  |[F5 BIG-IP denial of service (CVE-2023-22302)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
  |[F5 BIG-IP information disclosure (CVE-2023-22326)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
  |[F5 BIG-IP denial of service (CVE-2023-23555)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
- |[F5 F5OS command execution (CVE-2023-22657)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/OpenSSH-9-1-double-free-via-compat-kex-proposal-40439" class="noirorange"><b>OpenSSH 9.1</b>: double free via compat_kex_proposal()</a>](https://vigilance.fr/vulnerability/OpenSSH-9-1-double-free-via-compat-kex-proposal-40439)|An attacker can force a double memory free of OpenSSH 9.1, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Notepad-denial-of-service-via-Finder-add-40438" class="noirorange"><b>Notepad++</b>: denial of service via Finder::add()</a>](https://vigilance.fr/vulnerability/Notepad-denial-of-service-via-Finder-add-40438)|An attacker can cause a fatal error of Notepad++, via Finder::add(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-bigben-remove-40436" class="noirorange"><b>Linux kernel</b>: reuse after free via bigben_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-bigben-remove-40436)|An attacker can force the reuse of a freed memory area of the Linux kernel, via bigben_remove(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Protocol-Buffers-protobuf-java-overload-via-Text-Format-Data-40435" class="noirorange"><b>Protocol Buffers protobuf-java</b>: overload via Text Format Data</a>](https://vigilance.fr/vulnerability/Protocol-Buffers-protobuf-java-overload-via-Text-Format-Data-40435)|An attacker can trigger an overload of Protocol Buffers protobuf-java, via Text Format Data, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-API-Connect-information-disclosure-via-External-Service-Interaction-40434" class="noirorange"><b>IBM API Connect</b>: information disclosure via External Service Interaction</a>](https://vigilance.fr/vulnerability/IBM-API-Connect-information-disclosure-via-External-Service-Interaction-40434)|An attacker can bypass access restrictions to data of IBM API Connect, via External Service Interaction, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/pgAdmin-directory-traversal-40433" class="noirorange"><b>pgAdmin</b>: directory traversal</a>](https://vigilance.fr/vulnerability/pgAdmin-directory-traversal-40433)|An attacker can traverse directories of pgAdmin, in order to write a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/pgAdmin-open-redirect-40432" class="noirorange"><b>pgAdmin</b>: open redirect</a>](https://vigilance.fr/vulnerability/pgAdmin-open-redirect-40432)|An attacker can deceive the user of pgAdmin, in order to redirect him to a malicious site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xiph-Opusfile-NULL-pointer-dereference-via-op-get-data-40431" class="noirorange"><b>Xiph Opusfile</b>: NULL pointer dereference via op_get_data()</a>](https://vigilance.fr/vulnerability/Xiph-Opusfile-NULL-pointer-dereference-via-op-get-data-40431)|An attacker can force a NULL pointer to be dereferenced on Xiph Opusfile, via op_get_data(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Grafana-information-disclosure-via-Datasource-Query-Caching-40430" class="noirorange"><b>Grafana</b>: information disclosure via Datasource Query Caching</a>](https://vigilance.fr/vulnerability/Grafana-information-disclosure-via-Datasource-Query-Caching-40430)|An attacker can bypass access restrictions to data of Grafana, via Datasource Query Caching, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Apigee-Edge-information-disclosure-via-Entity-Query-40429" class="noirorange"><b>Drupal Apigee Edge</b>: information disclosure via Entity Query</a>](https://vigilance.fr/vulnerability/Drupal-Apigee-Edge-information-disclosure-via-Entity-Query-40429)|An attacker can bypass access restrictions to data of Drupal Apigee Edge, via Entity Query, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-multiple-vulnerabilities-40428" class="noirorange"><b>F5 BIG-IP</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-multiple-vulnerabilities-40428)|An attacker can use several vulnerabilities of F5 BIG-IP...|Visit link for details|
  
 
 # HK-CERT
@@ -122,6 +99,43 @@
  |[39962501/23 - Vulnérabilités affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma//fr/content/3996250123-vulnerabilites-affectant-plusieurs-produits-d-apple.html)|Apple annonce lacorrectionde plusieursvulnérabilitésaffectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peutpermettre à un attaquant distant d’exécuter du code arbitraire, de contourner les mesures de...|25 janvier 2023|
  
 
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSH-write-access-via-CanonicalizeHostname-40441" class="noirorange"><b>OpenSSH</b>: write access via CanonicalizeHostname</a>](https://vigilance.fr/vulnerability/OpenSSH-write-access-via-CanonicalizeHostname-40441)|An attacker can bypass access restrictions of OpenSSH, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSH-egress-filtrering-bypass-via-Ignored-PermitRemoteOpen-40440" class="noirorange"><b>OpenSSH</b>: egress filtrering bypass via Ignored PermitRemoteOpen</a>](https://vigilance.fr/vulnerability/OpenSSH-egress-filtrering-bypass-via-Ignored-PermitRemoteOpen-40440)|An attacker can bypass filtering rules of OpenSSH, via Ignored PermitRemoteOpen, in order to exfilter sensitive data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSH-9-1-double-free-via-compat-kex-proposal-40439" class="noirorange"><b>OpenSSH 9.1</b>: double free via compat_kex_proposal()</a>](https://vigilance.fr/vulnerability/OpenSSH-9-1-double-free-via-compat-kex-proposal-40439)|An attacker can force a double memory free of OpenSSH 9.1, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Notepad-denial-of-service-via-Finder-add-40438" class="noirorange"><b>Notepad++</b>: denial of service via Finder::add()</a>](https://vigilance.fr/vulnerability/Notepad-denial-of-service-via-Finder-add-40438)|An attacker can cause a fatal error of Notepad++, via Finder::add(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-bigben-remove-40436" class="noirorange"><b>Linux kernel</b>: reuse after free via bigben_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-bigben-remove-40436)|An attacker can force the reuse of a freed memory area of the Linux kernel, via bigben_remove(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Protocol-Buffers-protobuf-java-overload-via-Text-Format-Data-40435" class="noirorange"><b>Protocol Buffers protobuf-java</b>: overload via Text Format Data</a>](https://vigilance.fr/vulnerability/Protocol-Buffers-protobuf-java-overload-via-Text-Format-Data-40435)|An attacker can trigger an overload of Protocol Buffers protobuf-java, via Text Format Data, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-API-Connect-information-disclosure-via-External-Service-Interaction-40434" class="noirorange"><b>IBM API Connect</b>: information disclosure via External Service Interaction</a>](https://vigilance.fr/vulnerability/IBM-API-Connect-information-disclosure-via-External-Service-Interaction-40434)|An attacker can bypass access restrictions to data of IBM API Connect, via External Service Interaction, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/pgAdmin-directory-traversal-40433" class="noirorange"><b>pgAdmin</b>: directory traversal</a>](https://vigilance.fr/vulnerability/pgAdmin-directory-traversal-40433)|An attacker can traverse directories of pgAdmin, in order to write a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/pgAdmin-open-redirect-40432" class="noirorange"><b>pgAdmin</b>: open redirect</a>](https://vigilance.fr/vulnerability/pgAdmin-open-redirect-40432)|An attacker can deceive the user of pgAdmin, in order to redirect him to a malicious site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xiph-Opusfile-NULL-pointer-dereference-via-op-get-data-40431" class="noirorange"><b>Xiph Opusfile</b>: NULL pointer dereference via op_get_data()</a>](https://vigilance.fr/vulnerability/Xiph-Opusfile-NULL-pointer-dereference-via-op-get-data-40431)|An attacker can force a NULL pointer to be dereferenced on Xiph Opusfile, via op_get_data(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Grafana-information-disclosure-via-Datasource-Query-Caching-40430" class="noirorange"><b>Grafana</b>: information disclosure via Datasource Query Caching</a>](https://vigilance.fr/vulnerability/Grafana-information-disclosure-via-Datasource-Query-Caching-40430)|An attacker can bypass access restrictions to data of Grafana, via Datasource Query Caching, in order to read sensitive information...|Visit link for details|
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
@@ -144,10 +158,4 @@
  |Title|Description|Date|
  |---|---|---|
  |[2023-005: Critical Code Injection Vulnerability in QNAP Devices](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On January 30th, 2023, QNAP published an advisory related to a critical vulnerability, identified as CVE-2022-27596, allowing remote attackers to inject malicious code on QNAP NAS devices.|Tuesday, January 31, 2023 05:55:00 PM CEST|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
  
