@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 02/02/2023 17:21:13 UTC
+ > Last Updated 02/02/2023 18:26:56 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,12 +29,12 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/02/cisa-releases-six-industrial-control-systems-advisories)|<p>CISA released six Industrial Control Systems (ICS) advisories on February 2, 2023.These advisories provides timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p>|Thursday, February 2, 2023|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/02/cisa-adds-two-known-exploited-vulnerabilities-catalog)|<p>CISA has added two new vulnerabilities to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. <strong>Note</strong>: To view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.</p>|Thursday, February 2, 2023|
  |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/02/cisco-releases-security-advisories-multiple-products)|<p>Cisco released security updates for vulnerabilities affecting multiple products. A remote attacker could exploit these vulnerabilities to take control of an affected system.</p>|Thursday, February 2, 2023|
  |[Drupal Releases Security Update to Address a Vulnerability in Apigee Edge](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/02/drupal-releases-security-update-address-vulnerability-apigee-edge)|<p>Drupal released a security update to address a vulnerability affecting the Apigee Edge module for Drupal 9.x. An attacker could exploit this vulnerability to bypass access authorization or disclose sensitive information.<br><br>CISA encourages users and administrators to review Drupal’s security advisory <a href="https://www.drupal.org/sa-contrib-2023-005">SA-CONTRIB- 2023-005</a> and apply the necessary update.</p>|Thursday, February 2, 2023|
  |[VMware Releases Security Update for VMware vRealize Operations](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/01/vmware-releases-security-update-vmware-vrealize-operations)|<p>VMware released a security update that addresses a cross-site request forgery bypass vulnerability affecting VMware vRealize Operations. A malicious user could exploit this vulnerability to take control of an affected system.</p>|Wednesday, February 1, 2023|
  |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/31/cisa-releases-one-industrial-control-systems-advisory)|<p>CISA released one Industrial Control Systems (ICS) advisory on January 31, 2023. This advisory provides timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p>|Tuesday, January 31, 2023|
- |[ISC Releases Security Advisories for Multiple Versions of BIND 9](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/27/isc-releases-security-advisories-multiple-versions-bind-9)|<p>The Internet Systems Consortium (ISC) has released security advisories that address vulnerabilities affecting multiple versions of the ISC’s Berkeley Internet Name Domain (BIND) 9. A remote attacker could exploit these vulnerabilities to potentially cause denial-of-service conditions and system failures.</p>|Friday, January 27, 2023|
- |[JCDC Announces 2023 Planning Agenda](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/26/jcdc-announces-2023-planning-agenda)|<p>Today, the Joint Cyber Defense Collaborative (JCDC) announced its <a href="https://www.cisa.gov/2023-jcdc-planning-agenda">2023 Planning Agenda</a>. This release marks a major milestone in the continued evolution and maturation of the collaborative’s planning efforts. JCDC’s Planning Agenda brings together government and private sector partners to develop and execute cyber defense plans that achieve specific risk reduction goals focused on systemic risk, collective cyber response, and high-risk communities.</p>|Thursday, January 26, 2023|
  
 
 # CERT-FR
@@ -53,33 +53,10 @@
  |[Vulnérabilité dans Pulse Secure Pulse Connect Secure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0079/)|Une vulnérabilité a été découverte dans Pulse Secure Pulse Connect Secure. Elle permet à un attaquant de provoquer une injection de requêtes illégitimes par rebond (CSRF).|Publié le 1 février 2023|
  
 
-# IBM-X-FORCE-EXCHANGE
+# VulDB
 
  |Title|Description|Date|
  |---|---|---|
- |[TRENDnet TEW-811DRU denial of service (CVE-2023-0637)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
- |[Notepad++ buffer overflow (CVE-2022-31902)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
- |[Zoho ManageEngine ServiceDesk Plus cross-site scripting (CVE-2023-23078)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
- |[TRENDnet TEW-811DRU denial of service (CVE-2023-0612)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
- |[TRENDnet TEW-811DRU denial of service (CVE-2023-0613)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
- |[TRENDnet TEW-811DRU denial of service (CVE-2023-0617)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
- |[TRENDnet TEW-652BRP denial of service (CVE-2023-0618)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[IBM WebSphere Application Server Remote Code Execution Vulnerability](/security-bulletin/ibm-websphere-application-server-remote-code-execution-vulnerability_20230202)|A vulnerability was identified in IBM WebSphere Application Server. A remote user can exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 2 Feb 2023|
- |[Mozilla Thunderbird Security Restriction Bypass Vulnerability](/security-bulletin/mozilla-thunderbird-security-restriction-bypass-vulnerability_20230202)|A vulnerability was identified in Mozilla Thunderbird. A remote attacker can exploit this vulnerability to trigger security restriction bypass on the targeted system.|Release Date: 2 Feb 2023|
- |[ISC BIND Multiple Vulnerabilities](/security-bulletin/isc-bind-multiple-vulnerabilities_20230202)|Multiple vulnerabilities were identified in BIND. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition on the targeted system.|Release Date: 2 Feb 2023|
- |[ChromeOS Multiple Vulnerabilities](/security-bulletin/chromeos-multiple-vulnerabilities_20230201)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and sensitive information disclosure on the targeted system.|Release Date: 1 Feb 2023|
- |[VMWare vRealize Log Insight Multiple Vulnerabilities](/security-bulletin/vmware-vrealize-log-insight-multiple-vulnerabilities_20230126)|Multiple vulnerabilities were identified in VMware vRealize Log Insight. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-02-01]Proof of Concept exploit code...| Release Date: 26 Jan 2023 |
- |[QNAP NAS Remote Code Execution Vulnerability](/security-bulletin/qnap-nas-remote-code-execution-vulnerability_20230131)|A vulnerability was identified in QNAP NAS. A remote attacker can exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 31 Jan 2023|
- |[Linux Kernel Multiple Vulnerabilities](/security-bulletin/linux-kernel-multiple-vulnerabilities_20230130)|Multiple vulnerabilities were identified in Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 30 Jan 2023|
- |[Microsoft Edge Multiple Vulnerabilities](/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230130)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, remote code execution and data manipulation on the targeted system. |Release Date: 30 Jan 2023|
- |[Apple Products Multiple Vulnerabilities](/security-bulletin/apple-products-multiple-vulnerabilities_20230126)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. Note:CVE-2022-...|Release Date: 26 Jan 2023|
- |[Google Chrome Multiple Vulnerabilities](/security-bulletin/google-chrome-multiple-vulnerabilities_20230126)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and sensitive information disclosure on the targeted system.|Release Date: 26 Jan 2023|
  
 
 # MA-CERT
@@ -99,10 +76,33 @@
  |[39962501/23 - Vulnérabilités affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma//fr/content/3996250123-vulnerabilites-affectant-plusieurs-produits-d-apple.html)|Apple annonce lacorrectionde plusieursvulnérabilitésaffectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peutpermettre à un attaquant distant d’exécuter du code arbitraire, de contourner les mesures de...|25 janvier 2023|
  
 
-# VulDB
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
+ |[TRENDnet TEW-811DRU denial of service (CVE-2023-0637)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
+ |[Linux Kernel denial of service (CVE-2023-25012)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
+ |[Notepad++ buffer overflow (CVE-2022-31902)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
+ |[Zoho ManageEngine ServiceDesk Plus cross-site scripting (CVE-2023-23078)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
+ |[TRENDnet TEW-652BRP command execution (CVE-2023-0611)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
+ |[TRENDnet TEW-811DRU denial of service (CVE-2023-0612)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
+ |[TRENDnet TEW-811DRU denial of service (CVE-2023-0613)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[IBM WebSphere Application Server Remote Code Execution Vulnerability](/security-bulletin/ibm-websphere-application-server-remote-code-execution-vulnerability_20230202)|A vulnerability was identified in IBM WebSphere Application Server. A remote user can exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 2 Feb 2023|
+ |[Mozilla Thunderbird Security Restriction Bypass Vulnerability](/security-bulletin/mozilla-thunderbird-security-restriction-bypass-vulnerability_20230202)|A vulnerability was identified in Mozilla Thunderbird. A remote attacker can exploit this vulnerability to trigger security restriction bypass on the targeted system.|Release Date: 2 Feb 2023|
+ |[ISC BIND Multiple Vulnerabilities](/security-bulletin/isc-bind-multiple-vulnerabilities_20230202)|Multiple vulnerabilities were identified in BIND. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition on the targeted system.|Release Date: 2 Feb 2023|
+ |[ChromeOS Multiple Vulnerabilities](/security-bulletin/chromeos-multiple-vulnerabilities_20230201)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and sensitive information disclosure on the targeted system.|Release Date: 1 Feb 2023|
+ |[VMWare vRealize Log Insight Multiple Vulnerabilities](/security-bulletin/vmware-vrealize-log-insight-multiple-vulnerabilities_20230126)|Multiple vulnerabilities were identified in VMware vRealize Log Insight. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-02-01]Proof of Concept exploit code...| Release Date: 26 Jan 2023 |
+ |[QNAP NAS Remote Code Execution Vulnerability](/security-bulletin/qnap-nas-remote-code-execution-vulnerability_20230131)|A vulnerability was identified in QNAP NAS. A remote attacker can exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 31 Jan 2023|
+ |[Linux Kernel Multiple Vulnerabilities](/security-bulletin/linux-kernel-multiple-vulnerabilities_20230130)|Multiple vulnerabilities were identified in Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 30 Jan 2023|
+ |[Microsoft Edge Multiple Vulnerabilities](/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230130)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, remote code execution and data manipulation on the targeted system. |Release Date: 30 Jan 2023|
+ |[Apple Products Multiple Vulnerabilities](/security-bulletin/apple-products-multiple-vulnerabilities_20230126)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. Note:CVE-2022-...|Release Date: 26 Jan 2023|
+ |[Google Chrome Multiple Vulnerabilities](/security-bulletin/google-chrome-multiple-vulnerabilities_20230126)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and sensitive information disclosure on the targeted system.|Release Date: 26 Jan 2023|
  
 
 # ZERODAYINITIATIVE
