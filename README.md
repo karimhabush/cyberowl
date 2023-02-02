@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 02/02/2023 13:32:50 UTC
+ > Last Updated 02/02/2023 14:20:09 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -53,6 +53,19 @@
  |[Vulnérabilité dans QNAP QTS et QuTS hero](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0071/)|Une vulnérabilité a été découverte dans QNAP QTS et QuTS hero. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 30 janvier 2023|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Notepad++ buffer overflow (CVE-2022-31902)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
+ |[F5 BIG-IP code execution (CVE-2023-22283)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
+ |[F5 BIG-IP open redirect (CVE-2023-22418)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
+ |[F5 BIG-IP denial of service (CVE-2023-22302)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
+ |[F5 BIG-IP information disclosure (CVE-2023-22326)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
+ |[F5 BIG-IP denial of service (CVE-2023-23555)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
+ |[F5 F5OS command execution (CVE-2023-22657)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -70,23 +83,43 @@
  |[39962501/23 - Vulnérabilités affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma//fr/content/3996250123-vulnerabilites-affectant-plusieurs-produits-d-apple.html)|Apple annonce lacorrectionde plusieursvulnérabilitésaffectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peutpermettre à un attaquant distant d’exécuter du code arbitraire, de contourner les mesures de...|25 janvier 2023|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Notepad++ buffer overflow (CVE-2022-31902)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
- |[F5 BIG-IP code execution (CVE-2023-22283)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
- |[F5 BIG-IP open redirect (CVE-2023-22418)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
- |[F5 BIG-IP denial of service (CVE-2023-22302)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
- |[F5 BIG-IP information disclosure (CVE-2023-22326)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
- |[F5 BIG-IP denial of service (CVE-2023-23555)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
- |[F5 F5OS command execution (CVE-2023-22657)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
- 
-
 # VulDB
 
  |Title|Description|Date|
  |---|---|---|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[IBM WebSphere Application Server Remote Code Execution Vulnerability](/security-bulletin/ibm-websphere-application-server-remote-code-execution-vulnerability_20230202)|A vulnerability was identified in IBM WebSphere Application Server. A remote user can exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 2 Feb 2023|
+ |[Mozilla Thunderbird Security Restriction Bypass Vulnerability](/security-bulletin/mozilla-thunderbird-security-restriction-bypass-vulnerability_20230202)|A vulnerability was identified in Mozilla Thunderbird. A remote attacker can exploit this vulnerability to trigger security restriction bypass on the targeted system.|Release Date: 2 Feb 2023|
+ |[ISC BIND Multiple Vulnerabilities](/security-bulletin/isc-bind-multiple-vulnerabilities_20230202)|Multiple vulnerabilities were identified in BIND. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition on the targeted system.|Release Date: 2 Feb 2023|
+ |[ChromeOS Multiple Vulnerabilities](/security-bulletin/chromeos-multiple-vulnerabilities_20230201)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and sensitive information disclosure on the targeted system.|Release Date: 1 Feb 2023|
+ |[VMWare vRealize Log Insight Multiple Vulnerabilities](/security-bulletin/vmware-vrealize-log-insight-multiple-vulnerabilities_20230126)|Multiple vulnerabilities were identified in VMware vRealize Log Insight. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-02-01]Proof of Concept exploit code...| Release Date: 26 Jan 2023 |
+ |[QNAP NAS Remote Code Execution Vulnerability](/security-bulletin/qnap-nas-remote-code-execution-vulnerability_20230131)|A vulnerability was identified in QNAP NAS. A remote attacker can exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 31 Jan 2023|
+ |[Linux Kernel Multiple Vulnerabilities](/security-bulletin/linux-kernel-multiple-vulnerabilities_20230130)|Multiple vulnerabilities were identified in Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 30 Jan 2023|
+ |[Microsoft Edge Multiple Vulnerabilities](/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230130)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, remote code execution and data manipulation on the targeted system. |Release Date: 30 Jan 2023|
+ |[Apple Products Multiple Vulnerabilities](/security-bulletin/apple-products-multiple-vulnerabilities_20230126)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. Note:CVE-2022-...|Release Date: 26 Jan 2023|
+ |[Google Chrome Multiple Vulnerabilities](/security-bulletin/google-chrome-multiple-vulnerabilities_20230126)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and sensitive information disclosure on the targeted system.|Release Date: 26 Jan 2023|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSH-9-1-double-free-via-compat-kex-proposal-40439" class="noirorange"><b>OpenSSH 9.1</b>: double free via compat_kex_proposal()</a>](https://vigilance.fr/vulnerability/OpenSSH-9-1-double-free-via-compat-kex-proposal-40439)|An attacker can force a double memory free of OpenSSH 9.1, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Notepad-denial-of-service-via-Finder-add-40438" class="noirorange"><b>Notepad++</b>: denial of service via Finder::add()</a>](https://vigilance.fr/vulnerability/Notepad-denial-of-service-via-Finder-add-40438)|An attacker can cause a fatal error of Notepad++, via Finder::add(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-bigben-remove-40436" class="noirorange"><b>Linux kernel</b>: reuse after free via bigben_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-bigben-remove-40436)|An attacker can force the reuse of a freed memory area of the Linux kernel, via bigben_remove(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Protocol-Buffers-protobuf-java-overload-via-Text-Format-Data-40435" class="noirorange"><b>Protocol Buffers protobuf-java</b>: overload via Text Format Data</a>](https://vigilance.fr/vulnerability/Protocol-Buffers-protobuf-java-overload-via-Text-Format-Data-40435)|An attacker can trigger an overload of Protocol Buffers protobuf-java, via Text Format Data, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-API-Connect-information-disclosure-via-External-Service-Interaction-40434" class="noirorange"><b>IBM API Connect</b>: information disclosure via External Service Interaction</a>](https://vigilance.fr/vulnerability/IBM-API-Connect-information-disclosure-via-External-Service-Interaction-40434)|An attacker can bypass access restrictions to data of IBM API Connect, via External Service Interaction, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/pgAdmin-directory-traversal-40433" class="noirorange"><b>pgAdmin</b>: directory traversal</a>](https://vigilance.fr/vulnerability/pgAdmin-directory-traversal-40433)|An attacker can traverse directories of pgAdmin, in order to write a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/pgAdmin-open-redirect-40432" class="noirorange"><b>pgAdmin</b>: open redirect</a>](https://vigilance.fr/vulnerability/pgAdmin-open-redirect-40432)|An attacker can deceive the user of pgAdmin, in order to redirect him to a malicious site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xiph-Opusfile-NULL-pointer-dereference-via-op-get-data-40431" class="noirorange"><b>Xiph Opusfile</b>: NULL pointer dereference via op_get_data()</a>](https://vigilance.fr/vulnerability/Xiph-Opusfile-NULL-pointer-dereference-via-op-get-data-40431)|An attacker can force a NULL pointer to be dereferenced on Xiph Opusfile, via op_get_data(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Grafana-information-disclosure-via-Datasource-Query-Caching-40430" class="noirorange"><b>Grafana</b>: information disclosure via Datasource Query Caching</a>](https://vigilance.fr/vulnerability/Grafana-information-disclosure-via-Datasource-Query-Caching-40430)|An attacker can bypass access restrictions to data of Grafana, via Datasource Query Caching, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Apigee-Edge-information-disclosure-via-Entity-Query-40429" class="noirorange"><b>Drupal Apigee Edge</b>: information disclosure via Entity Query</a>](https://vigilance.fr/vulnerability/Drupal-Apigee-Edge-information-disclosure-via-Entity-Query-40429)|An attacker can bypass access restrictions to data of Drupal Apigee Edge, via Entity Query, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-multiple-vulnerabilities-40428" class="noirorange"><b>F5 BIG-IP</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-multiple-vulnerabilities-40428)|An attacker can use several vulnerabilities of F5 BIG-IP...|Visit link for details|
  
 
 # CA-CCS
@@ -106,46 +139,6 @@
  |[ISC BIND security advisory (AV23-049)](https://cyber.gc.ca/en/alerts-advisories/isc-bind-security-advisory-av23-049)|Visit link for details|2023-01-26|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Notepad-denial-of-service-via-Finder-add-40438" class="noirorange"><b>Notepad++</b>: denial of service via Finder::add()</a>](https://vigilance.fr/vulnerability/Notepad-denial-of-service-via-Finder-add-40438)|An attacker can cause a fatal error of Notepad++, via Finder::add(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-bigben-remove-40436" class="noirorange"><b>Linux kernel</b>: reuse after free via bigben_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-bigben-remove-40436)|An attacker can force the reuse of a freed memory area of the Linux kernel, via bigben_remove(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Protocol-Buffers-protobuf-java-overload-via-Text-Format-Data-40435" class="noirorange"><b>Protocol Buffers protobuf-java</b>: overload via Text Format Data</a>](https://vigilance.fr/vulnerability/Protocol-Buffers-protobuf-java-overload-via-Text-Format-Data-40435)|An attacker can trigger an overload of Protocol Buffers protobuf-java, via Text Format Data, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-API-Connect-information-disclosure-via-External-Service-Interaction-40434" class="noirorange"><b>IBM API Connect</b>: information disclosure via External Service Interaction</a>](https://vigilance.fr/vulnerability/IBM-API-Connect-information-disclosure-via-External-Service-Interaction-40434)|An attacker can bypass access restrictions to data of IBM API Connect, via External Service Interaction, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/pgAdmin-directory-traversal-40433" class="noirorange"><b>pgAdmin</b>: directory traversal</a>](https://vigilance.fr/vulnerability/pgAdmin-directory-traversal-40433)|An attacker can traverse directories of pgAdmin, in order to write a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/pgAdmin-open-redirect-40432" class="noirorange"><b>pgAdmin</b>: open redirect</a>](https://vigilance.fr/vulnerability/pgAdmin-open-redirect-40432)|An attacker can deceive the user of pgAdmin, in order to redirect him to a malicious site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xiph-Opusfile-NULL-pointer-dereference-via-op-get-data-40431" class="noirorange"><b>Xiph Opusfile</b>: NULL pointer dereference via op_get_data()</a>](https://vigilance.fr/vulnerability/Xiph-Opusfile-NULL-pointer-dereference-via-op-get-data-40431)|An attacker can force a NULL pointer to be dereferenced on Xiph Opusfile, via op_get_data(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Grafana-information-disclosure-via-Datasource-Query-Caching-40430" class="noirorange"><b>Grafana</b>: information disclosure via Datasource Query Caching</a>](https://vigilance.fr/vulnerability/Grafana-information-disclosure-via-Datasource-Query-Caching-40430)|An attacker can bypass access restrictions to data of Grafana, via Datasource Query Caching, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Apigee-Edge-information-disclosure-via-Entity-Query-40429" class="noirorange"><b>Drupal Apigee Edge</b>: information disclosure via Entity Query</a>](https://vigilance.fr/vulnerability/Drupal-Apigee-Edge-information-disclosure-via-Entity-Query-40429)|An attacker can bypass access restrictions to data of Drupal Apigee Edge, via Entity Query, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-multiple-vulnerabilities-40428" class="noirorange"><b>F5 BIG-IP</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-multiple-vulnerabilities-40428)|An attacker can use several vulnerabilities of F5 BIG-IP...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-code-execution-via-iControl-SOAP-40427" class="noirorange"><b>F5 BIG-IP</b>: code execution via iControl SOAP</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-code-execution-via-iControl-SOAP-40427)|An attacker can use a vulnerability of F5 BIG-IP, via iControl SOAP, in order to run code...|Visit link for details|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-005: Critical Code Injection Vulnerability in QNAP Devices](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On January 30th, 2023, QNAP published an advisory related to a critical vulnerability, identified as CVE-2022-27596, allowing remote attackers to inject malicious code on QNAP NAS devices.|Tuesday, January 31, 2023 05:55:00 PM CEST|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[IBM WebSphere Application Server Remote Code Execution Vulnerability](/security-bulletin/ibm-websphere-application-server-remote-code-execution-vulnerability_20230202)|A vulnerability was identified in IBM WebSphere Application Server. A remote user can exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 2 Feb 2023|
- |[Mozilla Thunderbird Security Restriction Bypass Vulnerability](/security-bulletin/mozilla-thunderbird-security-restriction-bypass-vulnerability_20230202)|A vulnerability was identified in Mozilla Thunderbird. A remote attacker can exploit this vulnerability to trigger security restriction bypass on the targeted system.|Release Date: 2 Feb 2023|
- |[ISC BIND Multiple Vulnerabilities](/security-bulletin/isc-bind-multiple-vulnerabilities_20230202)|Multiple vulnerabilities were identified in BIND. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition on the targeted system.|Release Date: 2 Feb 2023|
- |[ChromeOS Multiple Vulnerabilities](/security-bulletin/chromeos-multiple-vulnerabilities_20230201)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and sensitive information disclosure on the targeted system.|Release Date: 1 Feb 2023|
- |[VMWare vRealize Log Insight Multiple Vulnerabilities](/security-bulletin/vmware-vrealize-log-insight-multiple-vulnerabilities_20230126)|Multiple vulnerabilities were identified in VMware vRealize Log Insight. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-02-01]Proof of Concept exploit code...| Release Date: 26 Jan 2023 |
- |[QNAP NAS Remote Code Execution Vulnerability](/security-bulletin/qnap-nas-remote-code-execution-vulnerability_20230131)|A vulnerability was identified in QNAP NAS. A remote attacker can exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 31 Jan 2023|
- |[Linux Kernel Multiple Vulnerabilities](/security-bulletin/linux-kernel-multiple-vulnerabilities_20230130)|Multiple vulnerabilities were identified in Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 30 Jan 2023|
- |[Microsoft Edge Multiple Vulnerabilities](/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230130)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, remote code execution and data manipulation on the targeted system. |Release Date: 30 Jan 2023|
- |[Apple Products Multiple Vulnerabilities](/security-bulletin/apple-products-multiple-vulnerabilities_20230126)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. Note:CVE-2022-...|Release Date: 26 Jan 2023|
- |[Google Chrome Multiple Vulnerabilities](/security-bulletin/google-chrome-multiple-vulnerabilities_20230126)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and sensitive information disclosure on the targeted system.|Release Date: 26 Jan 2023|
- 
-
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -158,4 +151,11 @@
  |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
  |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
  |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-005: Critical Code Injection Vulnerability in QNAP Devices](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On January 30th, 2023, QNAP published an advisory related to a critical vulnerability, identified as CVE-2022-27596, allowing remote attackers to inject malicious code on QNAP NAS devices.|Tuesday, January 31, 2023 05:55:00 PM CEST|
  
