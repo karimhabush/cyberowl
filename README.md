@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 01/02/2023 23:22:13 UTC
+ > Last Updated 02/02/2023 01:42:50 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -42,28 +42,28 @@
  |Title|Description|Date|
  |---|---|---|
  |[Notepad++ buffer overflow (CVE-2022-31902)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
+ |[Cisco IOS XE Software command execution (CVE-2023-20076)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
  |[Apache InLong security bypass (CVE-2023-24997)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
  |[Ampache cross-site scripting (CVE-2023-0606)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
  |[ProjectSend cross-site scripting (CVE-2023-0607)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
  |[Microweber cross-site scripting (CVE-2023-0608)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
- |[UBI Reader directory traversal (CVE-2023-0591)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 31, 2023|
- |[Jefferson directory traversal (CVE-2023-0592)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 31, 2023|
+ |[Serenissima Informatica FastCheckIn directory traversal (CVE-2022-47768)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jan 31, 2023|
  
 
-# CERT-FR
+# HK-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans Symfony](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0080/)|De multiples vulnérabilités ont été découvertes dans Symfony. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une injection de requêtes illégitimes par rebond (CSRF).|Publié le 1 février 2023|
- |[Vulnérabilité dans Pulse Secure Pulse Connect Secure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0079/)|Une vulnérabilité a été découverte dans Pulse Secure Pulse Connect Secure. Elle permet à un attaquant de provoquer une injection de requêtes illégitimes par rebond (CSRF).|Publié le 1 février 2023|
- |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0078/)|De multiples vulnérabilités ont été découvertes dans GitLab. Elles permettent à un attaquant de provoquer un déni de service à distance et une injection de requêtes illégitimes par rebond (CSRF).|Publié le 1 février 2023|
- |[Multiples vulnérabilités dans Joomla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0077/)|De multiples vulnérabilités ont été découvertes dans Joomla. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une injection de requêtes illégitimes par rebond (CSRF).|Publié le 1 février 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0076/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 1 février 2023|
- |[Vulnérabilité dans VMware vRealize Operations](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0075/)|Une vulnérabilité a été découverte dans VMware vRealize Operations. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 1 février 2023|
- |[Vulnérabilité dans Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0074/)|Une vulnérabilité a été corrigée dans |Publié le 1 février 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0073/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 31 janvier 2023|
- |[Vulnérabilité dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0072/)|Une vulnérabilité a été découverte dans les produits Tenable. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 31 janvier 2023|
- |[Vulnérabilité dans QNAP QTS et QuTS hero](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0071/)|Une vulnérabilité a été découverte dans QNAP QTS et QuTS hero. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 30 janvier 2023|
+ |[ChromeOS Multiple Vulnerabilities](/security-bulletin/chromeos-multiple-vulnerabilities_20230201)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and sensitive information disclosure on the targeted system.|Release Date: 1 Feb 2023|
+ |[VMWare vRealize Log Insight Multiple Vulnerabilities](/security-bulletin/vmware-vrealize-log-insight-multiple-vulnerabilities_20230126)|Multiple vulnerabilities were identified in VMware vRealize Log Insight. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-02-01]Proof of Concept exploit code...| Release Date: 26 Jan 2023 |
+ |[QNAP NAS Remote Code Execution Vulnerability](/security-bulletin/qnap-nas-remote-code-execution-vulnerability_20230131)|A vulnerability was identified in QNAP NAS. A remote attacker can exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 31 Jan 2023|
+ |[Linux Kernel Multiple Vulnerabilities](/security-bulletin/linux-kernel-multiple-vulnerabilities_20230130)|Multiple vulnerabilities were identified in Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 30 Jan 2023|
+ |[Microsoft Edge Multiple Vulnerabilities](/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230130)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, remote code execution and data manipulation on the targeted system. |Release Date: 30 Jan 2023|
+ |[Apple Products Multiple Vulnerabilities](/security-bulletin/apple-products-multiple-vulnerabilities_20230126)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. Note:CVE-2022-...|Release Date: 26 Jan 2023|
+ |[Google Chrome Multiple Vulnerabilities](/security-bulletin/google-chrome-multiple-vulnerabilities_20230126)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and sensitive information disclosure on the targeted system.|Release Date: 26 Jan 2023|
+ |[Mozilla Thunderbird Multiple Vulnerabilities](/security-bulletin/mozilla-thunderbird-multiple-vulnerabilities_20230126)|Multiple vulnerabilities were identified in Mozilla Thunderbird. A remote attacker could exploit some of these vulnerabilities to trigger spoofing, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 26 Jan 2023|
+ |[Apple Products Multiple Vulnerabilities](/security-bulletin/apple-products-multiple-vulnerabilities_20221214)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. Note:CVE-2022-...| Release Date: 14 Dec 2022 |
+ |[Cisco Products Multiple Vulnerabilities](/security-bulletin/cisco-products-multiple-vulnerabilities_20230120)|Multiple vulnerabilities were identified in Cisco Systems Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 20 Jan 2023|
  
 
 # VulDB
@@ -72,21 +72,18 @@
  |---|---|---|
  
 
-# OBS-Vigilance
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Grafana-information-disclosure-via-Datasource-Query-Caching-40430" class="noirorange"><b>Grafana</b>: information disclosure via Datasource Query Caching</a>](https://vigilance.fr/vulnerability/Grafana-information-disclosure-via-Datasource-Query-Caching-40430)|An attacker can bypass access restrictions to data of Grafana, via Datasource Query Caching, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Apigee-Edge-information-disclosure-via-Entity-Query-40429" class="noirorange"><b>Drupal Apigee Edge</b>: information disclosure via Entity Query</a>](https://vigilance.fr/vulnerability/Drupal-Apigee-Edge-information-disclosure-via-Entity-Query-40429)|An attacker can bypass access restrictions to data of Drupal Apigee Edge, via Entity Query, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-multiple-vulnerabilities-40428" class="noirorange"><b>F5 BIG-IP</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-multiple-vulnerabilities-40428)|An attacker can use several vulnerabilities of F5 BIG-IP...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-code-execution-via-iControl-SOAP-40427" class="noirorange"><b>F5 BIG-IP</b>: code execution via iControl SOAP</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-code-execution-via-iControl-SOAP-40427)|An attacker can use a vulnerability of F5 BIG-IP, via iControl SOAP, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Prime-Infrastructure-Cross-Site-Scripting-40426" class="noirorange"><b>Cisco Prime Infrastructure</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Cisco-Prime-Infrastructure-Cross-Site-Scripting-40426)|An attacker can trigger a Cross Site Scripting of Cisco Prime Infrastructure, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XE-privilege-escalation-via-IOx-Application-Hosting-Environment-40425" class="noirorange"><b>Cisco IOS XE</b>: privilege escalation via IOx Application Hosting Environment</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XE-privilege-escalation-via-IOx-Application-Hosting-Environment-40425)|An attacker can bypass restrictions of Cisco IOS XE, via IOx Application Hosting Environment, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/AdvanceCOMP-seven-vulnerabilities-40424" class="noirorange"><b>AdvanceCOMP</b>: seven vulnerabilities</a>](https://vigilance.fr/vulnerability/AdvanceCOMP-seven-vulnerabilities-40424)|An attacker can use several vulnerabilities of AdvanceCOMP...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Django-denial-of-service-via-Accept-Language-Header-40423" class="noirorange"><b>Django</b>: denial of service via Accept-Language Header</a>](https://vigilance.fr/vulnerability/Django-denial-of-service-via-Accept-Language-Header-40423)|An attacker can cause a fatal error of Django, via Accept-Language Header, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/tmux-NULL-pointer-dereference-via-window-pane-set-event-40422" class="noirorange"><b>tmux</b>: NULL pointer dereference via window_pane_set_event()</a>](https://vigilance.fr/vulnerability/tmux-NULL-pointer-dereference-via-window-pane-set-event-40422)|An attacker can force a NULL pointer to be dereferenced on tmux, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Thunderbird-weak-signature-via-Unchecked-S-MIME-Revocation-Status-40421" class="noirorange"><b>Thunderbird</b>: weak signature via Unchecked S/MIME Revocation Status</a>](https://vigilance.fr/vulnerability/Thunderbird-weak-signature-via-Unchecked-S-MIME-Revocation-Status-40421)|An attacker can use malicious data on Thunderbird, via Unchecked S/MIME Revocation Status, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Docker-Engine-file-read-write-via-UID-GID-40420" class="noirorange"><b>Docker Engine</b>: file read/write via UID/GID</a>](https://vigilance.fr/vulnerability/Docker-Engine-file-read-write-via-UID-GID-40420)|An attacker can bypass access restrictions of Docker Engine, via UID/GID, in order to read or alter files...|Visit link for details|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
 
 # MA-CERT
@@ -106,27 +103,44 @@
  |[39902410/23 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/3990241023-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant son client de messagerie Mozilla Thunderbird. L’exploitation de ces vulnérabilités peut permettre à un...|24 janvier 2023|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Grafana-information-disclosure-via-Datasource-Query-Caching-40430" class="noirorange"><b>Grafana</b>: information disclosure via Datasource Query Caching</a>](https://vigilance.fr/vulnerability/Grafana-information-disclosure-via-Datasource-Query-Caching-40430)|An attacker can bypass access restrictions to data of Grafana, via Datasource Query Caching, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Apigee-Edge-information-disclosure-via-Entity-Query-40429" class="noirorange"><b>Drupal Apigee Edge</b>: information disclosure via Entity Query</a>](https://vigilance.fr/vulnerability/Drupal-Apigee-Edge-information-disclosure-via-Entity-Query-40429)|An attacker can bypass access restrictions to data of Drupal Apigee Edge, via Entity Query, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-multiple-vulnerabilities-40428" class="noirorange"><b>F5 BIG-IP</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-multiple-vulnerabilities-40428)|An attacker can use several vulnerabilities of F5 BIG-IP...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-code-execution-via-iControl-SOAP-40427" class="noirorange"><b>F5 BIG-IP</b>: code execution via iControl SOAP</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-code-execution-via-iControl-SOAP-40427)|An attacker can use a vulnerability of F5 BIG-IP, via iControl SOAP, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-Prime-Infrastructure-Cross-Site-Scripting-40426" class="noirorange"><b>Cisco Prime Infrastructure</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Cisco-Prime-Infrastructure-Cross-Site-Scripting-40426)|An attacker can trigger a Cross Site Scripting of Cisco Prime Infrastructure, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XE-privilege-escalation-via-IOx-Application-Hosting-Environment-40425" class="noirorange"><b>Cisco IOS XE</b>: privilege escalation via IOx Application Hosting Environment</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XE-privilege-escalation-via-IOx-Application-Hosting-Environment-40425)|An attacker can bypass restrictions of Cisco IOS XE, via IOx Application Hosting Environment, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/AdvanceCOMP-seven-vulnerabilities-40424" class="noirorange"><b>AdvanceCOMP</b>: seven vulnerabilities</a>](https://vigilance.fr/vulnerability/AdvanceCOMP-seven-vulnerabilities-40424)|An attacker can use several vulnerabilities of AdvanceCOMP...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Django-denial-of-service-via-Accept-Language-Header-40423" class="noirorange"><b>Django</b>: denial of service via Accept-Language Header</a>](https://vigilance.fr/vulnerability/Django-denial-of-service-via-Accept-Language-Header-40423)|An attacker can cause a fatal error of Django, via Accept-Language Header, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/tmux-NULL-pointer-dereference-via-window-pane-set-event-40422" class="noirorange"><b>tmux</b>: NULL pointer dereference via window_pane_set_event()</a>](https://vigilance.fr/vulnerability/tmux-NULL-pointer-dereference-via-window-pane-set-event-40422)|An attacker can force a NULL pointer to be dereferenced on tmux, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Thunderbird-weak-signature-via-Unchecked-S-MIME-Revocation-Status-40421" class="noirorange"><b>Thunderbird</b>: weak signature via Unchecked S/MIME Revocation Status</a>](https://vigilance.fr/vulnerability/Thunderbird-weak-signature-via-Unchecked-S-MIME-Revocation-Status-40421)|An attacker can use malicious data on Thunderbird, via Unchecked S/MIME Revocation Status, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Docker-Engine-file-read-write-via-UID-GID-40420" class="noirorange"><b>Docker Engine</b>: file read/write via UID/GID</a>](https://vigilance.fr/vulnerability/Docker-Engine-file-read-write-via-UID-GID-40420)|An attacker can bypass access restrictions of Docker Engine, via UID/GID, in order to read or alter files...|Visit link for details|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans Symfony](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0080/)|De multiples vulnérabilités ont été découvertes dans Symfony. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une injection de requêtes illégitimes par rebond (CSRF).|Publié le 1 février 2023|
+ |[Vulnérabilité dans Pulse Secure Pulse Connect Secure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0079/)|Une vulnérabilité a été découverte dans Pulse Secure Pulse Connect Secure. Elle permet à un attaquant de provoquer une injection de requêtes illégitimes par rebond (CSRF).|Publié le 1 février 2023|
+ |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0078/)|De multiples vulnérabilités ont été découvertes dans GitLab. Elles permettent à un attaquant de provoquer un déni de service à distance et une injection de requêtes illégitimes par rebond (CSRF).|Publié le 1 février 2023|
+ |[Multiples vulnérabilités dans Joomla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0077/)|De multiples vulnérabilités ont été découvertes dans Joomla. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une injection de requêtes illégitimes par rebond (CSRF).|Publié le 1 février 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0076/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 1 février 2023|
+ |[Vulnérabilité dans VMware vRealize Operations](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0075/)|Une vulnérabilité a été découverte dans VMware vRealize Operations. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 1 février 2023|
+ |[Vulnérabilité dans Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0074/)|Une vulnérabilité a été corrigée dans |Publié le 1 février 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0073/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 31 janvier 2023|
+ |[Vulnérabilité dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0072/)|Une vulnérabilité a été découverte dans les produits Tenable. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 31 janvier 2023|
+ |[Vulnérabilité dans QNAP QTS et QuTS hero](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0071/)|Une vulnérabilité a été découverte dans QNAP QTS et QuTS hero. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 30 janvier 2023|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
  |---|---|---|
  |[2023-005: Critical Code Injection Vulnerability in QNAP Devices](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On January 30th, 2023, QNAP published an advisory related to a critical vulnerability, identified as CVE-2022-27596, allowing remote attackers to inject malicious code on QNAP NAS devices.|Tuesday, January 31, 2023 05:55:00 PM CEST|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ChromeOS Multiple Vulnerabilities](/security-bulletin/chromeos-multiple-vulnerabilities_20230201)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and sensitive information disclosure on the targeted system.|Release Date: 1 Feb 2023|
- |[VMWare vRealize Log Insight Multiple Vulnerabilities](/security-bulletin/vmware-vrealize-log-insight-multiple-vulnerabilities_20230126)|Multiple vulnerabilities were identified in VMware vRealize Log Insight. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-02-01]Proof of Concept exploit code...| Release Date: 26 Jan 2023 |
- |[QNAP NAS Remote Code Execution Vulnerability](/security-bulletin/qnap-nas-remote-code-execution-vulnerability_20230131)|A vulnerability was identified in QNAP NAS. A remote attacker can exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 31 Jan 2023|
- |[Linux Kernel Multiple Vulnerabilities](/security-bulletin/linux-kernel-multiple-vulnerabilities_20230130)|Multiple vulnerabilities were identified in Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 30 Jan 2023|
- |[Microsoft Edge Multiple Vulnerabilities](/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230130)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, remote code execution and data manipulation on the targeted system. |Release Date: 30 Jan 2023|
- |[Apple Products Multiple Vulnerabilities](/security-bulletin/apple-products-multiple-vulnerabilities_20230126)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. Note:CVE-2022-...|Release Date: 26 Jan 2023|
- |[Google Chrome Multiple Vulnerabilities](/security-bulletin/google-chrome-multiple-vulnerabilities_20230126)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and sensitive information disclosure on the targeted system.|Release Date: 26 Jan 2023|
- |[Mozilla Thunderbird Multiple Vulnerabilities](/security-bulletin/mozilla-thunderbird-multiple-vulnerabilities_20230126)|Multiple vulnerabilities were identified in Mozilla Thunderbird. A remote attacker could exploit some of these vulnerabilities to trigger spoofing, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 26 Jan 2023|
- |[Apple Products Multiple Vulnerabilities](/security-bulletin/apple-products-multiple-vulnerabilities_20221214)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. Note:CVE-2022-...| Release Date: 14 Dec 2022 |
- |[Cisco Products Multiple Vulnerabilities](/security-bulletin/cisco-products-multiple-vulnerabilities_20230120)|Multiple vulnerabilities were identified in Cisco Systems Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 20 Jan 2023|
  
 
 # CA-CCS
@@ -144,18 +158,4 @@
  |[[Control systems] Sierra Wireless security advisory (AV23-051)](https://cyber.gc.ca/en/alerts-advisories/control-systems-sierra-wireless-security-advisory-av23-051)|Visit link for details|2023-01-26|
  |[[Control systems] Snap One security advisory (AV23-050)](https://cyber.gc.ca/en/alerts-advisories/control-systems-snap-one-security-advisory-av23-050)|Visit link for details|2023-01-26|
  |[ISC BIND security advisory (AV23-049)](https://cyber.gc.ca/en/alerts-advisories/isc-bind-security-advisory-av23-049)|Visit link for details|2023-01-26|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
