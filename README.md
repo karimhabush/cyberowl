@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 03/02/2023 07:20:53 UTC
+ > Last Updated 03/02/2023 08:27:28 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -53,25 +53,6 @@
  |[Vulnérabilité dans Pulse Secure Pulse Connect Secure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0079/)|Une vulnérabilité a été découverte dans Pulse Secure Pulse Connect Secure. Elle permet à un attaquant de provoquer une injection de requêtes illégitimes par rebond (CSRF).|Publié le 1 février 2023|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Delta Electronics DX-2100L1-CN cross-site scripting (CVE-2023-0432)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
- |[TRENDnet TEW-811DRU denial of service (CVE-2023-0637)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
- |[Moxa SDS-3008 Series Industrial Ethernet Switch information disclosure (CVE-2022-40691)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
- |[ESTsecurity ALYac denial of service (CVE-2022-43665)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
- |[Moxa SDS-3008 Series Industrial Ethernet Switch cross-site scripting (CVE-2022-41313)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
- |[Moxa SDS-3008 Series Industrial Ethernet Switch cross-site scripting (CVE-2022-41312)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
- |[Moxa SDS-3008 Series Industrial Ethernet Switch cross-site scripting (CVE-2022-41311)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -87,6 +68,19 @@
  |[39982601/23 - Vulnérabilités affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/3998260123-vulnerabilites-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilitésaffectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre àun attaquant de provoquer des problèmes...|26 janvier 2023|
  |[39972501/22 - Vulnérabilités dans le plugin LearnPress du CMS WordPress ](https://www.dgssi.gov.ma//fr/content/3997250122-vulnerabilites-dans-le-plugin-learnpress-du-cms-wordpress.html)|Plusieurs vulnérabilités ont été corrigées dans le plugin LearnPress du CMS WordPress. L’exploitation de ces failles pourrait entraîner la divulgation d'informations sensibles, la modification de données et l'exécution de code...|25 janvier 2023|
  |[39962501/23 - Vulnérabilités affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma//fr/content/3996250123-vulnerabilites-affectant-plusieurs-produits-d-apple.html)|Apple annonce lacorrectionde plusieursvulnérabilitésaffectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peutpermettre à un attaquant distant d’exécuter du code arbitraire, de contourner les mesures de...|25 janvier 2023|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Delta Electronics DX-2100L1-CN cross-site scripting (CVE-2023-0432)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
+ |[TRENDnet TEW-811DRU denial of service (CVE-2023-0637)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
+ |[Moxa SDS-3008 Series Industrial Ethernet Switch information disclosure (CVE-2022-40691)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
+ |[ESTsecurity ALYac denial of service (CVE-2022-43665)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
+ |[Moxa SDS-3008 Series Industrial Ethernet Switch cross-site scripting (CVE-2022-41313)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
+ |[Moxa SDS-3008 Series Industrial Ethernet Switch cross-site scripting (CVE-2022-41312)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
+ |[Moxa SDS-3008 Series Industrial Ethernet Switch cross-site scripting (CVE-2022-41311)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
  
 
 # HK-CERT
@@ -105,10 +99,31 @@
  |[Microsoft Edge Multiple Vulnerabilities](/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230130)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, remote code execution and data manipulation on the targeted system. |Release Date: 30 Jan 2023|
  
 
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-vulnerability-40448" class="noirorange"><b>Microsoft Edge Chromium</b>: vulnerability</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-vulnerability-40448)|A vulnerability of Microsoft Edge Chromium was announced...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Workload-Scheduler-external-XML-entity-injection-via-Create-Job-On-Broker-40447" class="noirorange"><b>IBM Workload Scheduler</b>: external XML entity injection via Create Job On Broker</a>](https://vigilance.fr/vulnerability/IBM-Workload-Scheduler-external-XML-entity-injection-via-Create-Job-On-Broker-40447)|An attacker can transmit malicious XML data to IBM Workload Scheduler, via Create Job On Broker, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Workload-Scheduler-external-XML-entity-injection-via-Configuration-File-40446" class="noirorange"><b>IBM Workload Scheduler</b>: external XML entity injection via Configuration File</a>](https://vigilance.fr/vulnerability/IBM-Workload-Scheduler-external-XML-entity-injection-via-Configuration-File-40446)|An attacker can transmit malicious XML data to IBM Workload Scheduler, via Configuration File, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/VMware-Workstation-file-deletion-40445" class="noirorange"><b>VMware Workstation</b>: file deletion</a>](https://vigilance.fr/vulnerability/VMware-Workstation-file-deletion-40445)|An attacker, in a guest system, can bypass access restrictions of VMware Workstation, in order to delete a file on the host system...|Visit link for details|
@@ -119,7 +134,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-bigben-remove-40436" class="noirorange"><b>Linux kernel</b>: reuse after free via bigben_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-bigben-remove-40436)|An attacker can force the reuse of a freed memory area of the Linux kernel, via bigben_remove(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Protocol-Buffers-protobuf-java-overload-via-Text-Format-Data-40435" class="noirorange"><b>Protocol Buffers protobuf-java</b>: overload via Text Format Data</a>](https://vigilance.fr/vulnerability/Protocol-Buffers-protobuf-java-overload-via-Text-Format-Data-40435)|An attacker can trigger an overload of Protocol Buffers protobuf-java, via Text Format Data, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-API-Connect-information-disclosure-via-External-Service-Interaction-40434" class="noirorange"><b>IBM API Connect</b>: information disclosure via External Service Interaction</a>](https://vigilance.fr/vulnerability/IBM-API-Connect-information-disclosure-via-External-Service-Interaction-40434)|An attacker can bypass access restrictions to data of IBM API Connect, via External Service Interaction, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/pgAdmin-directory-traversal-40433" class="noirorange"><b>pgAdmin</b>: directory traversal</a>](https://vigilance.fr/vulnerability/pgAdmin-directory-traversal-40433)|An attacker can traverse directories of pgAdmin, in order to write a file outside the service root path...|Visit link for details|
  
 
 # CA-CCS
@@ -137,20 +151,6 @@
  |[[Control systems] Econolite security advisory (AV23-054)](https://cyber.gc.ca/en/alerts-advisories/control-systems-econolite-security-advisory-av23-054)|Visit link for details|2023-01-27|
  |[[Control systems] Landis+Gyr security advisory (AV23-053)](https://cyber.gc.ca/en/alerts-advisories/control-systems-landisgyr-security-advisory-av23-053)|Visit link for details|2023-01-27|
  |[[Control systems] Mitsubishi Electric security advisory (AV23-052)](https://cyber.gc.ca/en/alerts-advisories/systemes-controle-bulletin-securite-mitsubishi-electric-av23-052)|Visit link for details|2023-01-27|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
 
 # EU-CERT
