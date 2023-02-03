@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 03/02/2023 11:20:29 UTC
+ > Last Updated 03/02/2023 12:38:45 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -53,10 +53,21 @@
  |[Vulnérabilité dans Pulse Secure Pulse Connect Secure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0079/)|Une vulnérabilité a été découverte dans Pulse Secure Pulse Connect Secure. Elle permet à un attaquant de provoquer une injection de requêtes illégitimes par rebond (CSRF).|Publié le 1 février 2023|
  
 
-# VulDB
+# MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[40090302/23 - Vulnérabilitécritiqueaffectant la bibliothèque «Dompdf» pour PHP](https://www.dgssi.gov.ma//fr/content/4009030223-vulnerabilite-critique-affectant-la-bibliotheque-dompdf-pour-php.html)|Dompdf annonce la correction d’une vulnérabilité critique affectant la bibliothèque « Dompdf » pour PHP. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du code arbitraire ou de supprimer des fichiers...|03 février 2023|
+ |[40080302/23 - Vulnérabilités dans les produits F5](https://www.dgssi.gov.ma//fr/content/4008030223-vulnerabilites-dans-les-produits-f5.html)|Plusieurs vulnérabilités ont été corrigées dans les produits F5 susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, causer un déni de service, contourner la politique de sécurité ou...|03 février 2023|
+ |[40070302/23 - Vulnérabilités affectant le CMS Joomla](https://www.dgssi.gov.ma//fr/content/4007030223-vulnerabilites-affectant-le-cms-joomla.html)|Joomla annonce la disponibilité d’une mise à jour qui corrige deux vulnérabilités dans son CMS Joomla. L’exploitation de ces vulnérabilités peut permettre à un attaquant l’injection de codeindirecte à distance ou le contournement de la...|03 février 2023|
+ |[40050202/23 - Vulnérabilités dans les produits Cisco](https://www.dgssi.gov.ma//fr/content/4005020223-vulnerabilites-dans-les-produits-cisco.html)|Plusieurs vulnérabilités ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir une élévation de privilèges, causer un déni de service,...|02 février 2023|
+ |[40060202/23 - Vulnérabilité affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/4006020223-vulnerabilite-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger une vulnérabilité affectant son client de messagerie Mozilla Thunderbird. L’exploitation de cette vulnérabilité peut permettre à un...|02 février 2023|
+ |[40040202/23 - Vulnérabilité dans VMware vRealize Operations](https://www.dgssi.gov.ma//fr/content/4004020223-vulnerabilite-dans-vmware-vrealize-operations.html)|Une vulnérabilité a été corrigée dans VMware vRealize Operations. L’exploitation de cette faille peut permettre à un attaquant d’exécuter du code arbitraire à distance.|02 février 2023|
+ |[40030202/23 - Vulnérabilité dans IBM WebSphere Application Server](https://www.dgssi.gov.ma//fr/content/4003020223-vulnerabilite-dans-ibm-websphere-application-server.html)|IBM annonce la correction d’une vulnérabilité affectant les versions susmentionnées du serveur d’application IBM WebSphere. Un attaquant pourrait exploiter cette vulnérabilité afin d'exécuter du code arbitraire à distance.|02 février 2023|
+ |[40023101/23 - Vulnérabilité critique dans QNAP QTS et QuTS hero](https://www.dgssi.gov.ma//fr/content/4002310123-vulnerabilite-critique-dans-qnap-qts-et-quts-hero.html)|Une vulnérabilité a été corrigée dans QNAP QTS et QuTS hero. L’exploitation de cette faille pourrait permettre à un attaquant d'exécuter du code arbitraire à distance.|31 janvier 2023|
+ |[40002701/22 - Microsoft exhorte les administrateurs à appliquer les correctifs relatifs aux serveurs](https://www.dgssi.gov.ma//fr/content/4000270122-microsoft-exhorte-les-administrateurs-appliquer-les-correctifs-relatifs-aux-serveurs-exchange.html)|Microsoft exhorte ses clients à maintenir leurs serveurs Exchange à jour en appliquant la dernière mise à jour cumulative (CU) prise en charge, afin qu'ils soient toujours prêts à déployer une mise à jour de sécurité d'urgence. A...|27 janvier 2023|
+ |[40012601/23 - Vulnérabilité critiqueaffectantles imprimantes Lexmark ](https://www.dgssi.gov.ma//fr/content/4001260123-vulnerabilite-critique-affectant-les-imprimantes-lexmark.html)|Lexmark vient de publier des mises à jour de sécurité qui permettent de corriger une vulnérabilité critique affectant plusieurs de ses imprimantes. L’exploitation de cette vulnérabilité peut permettre àun attaquant distant d’exécuter du...|27 janvier 2023|
+ |[39992701/22 - Vulnérabilités dans le DNSBIND](https://www.dgssi.gov.ma//fr/content/3999270122-vulnerabilites-dans-le-dns-bind.html)|Internet Systems Consortium (ISC) a publié un correctif de sécurité qui corrige plusieurs vulnérabilités dans les versions susmentionnées de DNS BIND. L’exploitation de ces failles peut permettre à un attaquant distant de causer un déni de...|27 janvier 2023|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -70,6 +81,12 @@
  |[ESTsecurity ALYac denial of service (CVE-2022-43665)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
  |[Moxa SDS-3008 Series Industrial Ethernet Switch cross-site scripting (CVE-2022-41313)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
  |[Moxa SDS-3008 Series Industrial Ethernet Switch cross-site scripting (CVE-2022-41312)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # HK-CERT
@@ -105,21 +122,18 @@
  |[<a href="https://vigilance.fr/vulnerability/IBM-API-Connect-information-disclosure-via-External-Service-Interaction-40434" class="noirorange"><b>IBM API Connect</b>: information disclosure via External Service Interaction</a>](https://vigilance.fr/vulnerability/IBM-API-Connect-information-disclosure-via-External-Service-Interaction-40434)|An attacker can bypass access restrictions to data of IBM API Connect, via External Service Interaction, in order to read sensitive information...|Visit link for details|
  
 
-# MA-CERT
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[40090302/23 - Vulnérabilitécritiqueaffectant la bibliothèque «Dompdf» pour PHP](https://www.dgssi.gov.ma//fr/content/4009030223-vulnerabilite-critique-affectant-la-bibliotheque-dompdf-pour-php.html)|Dompdf annonce la correction d’une vulnérabilité critique affectant la bibliothèque « Dompdf » pour PHP. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du code arbitraire ou de supprimer des fichiers...|03 février 2023|
- |[40080302/23 - Vulnérabilités dans les produits F5](https://www.dgssi.gov.ma//fr/content/4008030223-vulnerabilites-dans-les-produits-f5.html)|Plusieurs vulnérabilités ont été corrigées dans les produits F5 susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, causer un déni de service, contourner la politique de sécurité ou...|03 février 2023|
- |[40070302/23 - Vulnérabilités affectant le CMS Joomla](https://www.dgssi.gov.ma//fr/content/4007030223-vulnerabilites-affectant-le-cms-joomla.html)|Joomla annonce la disponibilité d’une mise à jour qui corrige deux vulnérabilités dans son CMS Joomla. L’exploitation de ces vulnérabilités peut permettre à un attaquant l’injection de codeindirecte à distance ou le contournement de la...|03 février 2023|
- |[40050202/23 - Vulnérabilités dans les produits Cisco](https://www.dgssi.gov.ma//fr/content/4005020223-vulnerabilites-dans-les-produits-cisco.html)|Plusieurs vulnérabilités ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir une élévation de privilèges, causer un déni de service,...|02 février 2023|
- |[40060202/23 - Vulnérabilité affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/4006020223-vulnerabilite-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger une vulnérabilité affectant son client de messagerie Mozilla Thunderbird. L’exploitation de cette vulnérabilité peut permettre à un...|02 février 2023|
- |[40040202/23 - Vulnérabilité dans VMware vRealize Operations](https://www.dgssi.gov.ma//fr/content/4004020223-vulnerabilite-dans-vmware-vrealize-operations.html)|Une vulnérabilité a été corrigée dans VMware vRealize Operations. L’exploitation de cette faille peut permettre à un attaquant d’exécuter du code arbitraire à distance.|02 février 2023|
- |[40030202/23 - Vulnérabilité dans IBM WebSphere Application Server](https://www.dgssi.gov.ma//fr/content/4003020223-vulnerabilite-dans-ibm-websphere-application-server.html)|IBM annonce la correction d’une vulnérabilité affectant les versions susmentionnées du serveur d’application IBM WebSphere. Un attaquant pourrait exploiter cette vulnérabilité afin d'exécuter du code arbitraire à distance.|02 février 2023|
- |[40023101/23 - Vulnérabilité critique dans QNAP QTS et QuTS hero](https://www.dgssi.gov.ma//fr/content/4002310123-vulnerabilite-critique-dans-qnap-qts-et-quts-hero.html)|Une vulnérabilité a été corrigée dans QNAP QTS et QuTS hero. L’exploitation de cette faille pourrait permettre à un attaquant d'exécuter du code arbitraire à distance.|31 janvier 2023|
- |[40002701/22 - Microsoft exhorte les administrateurs à appliquer les correctifs relatifs aux serveurs](https://www.dgssi.gov.ma//fr/content/4000270122-microsoft-exhorte-les-administrateurs-appliquer-les-correctifs-relatifs-aux-serveurs-exchange.html)|Microsoft exhorte ses clients à maintenir leurs serveurs Exchange à jour en appliquant la dernière mise à jour cumulative (CU) prise en charge, afin qu'ils soient toujours prêts à déployer une mise à jour de sécurité d'urgence. A...|27 janvier 2023|
- |[40012601/23 - Vulnérabilité critiqueaffectantles imprimantes Lexmark ](https://www.dgssi.gov.ma//fr/content/4001260123-vulnerabilite-critique-affectant-les-imprimantes-lexmark.html)|Lexmark vient de publier des mises à jour de sécurité qui permettent de corriger une vulnérabilité critique affectant plusieurs de ses imprimantes. L’exploitation de cette vulnérabilité peut permettre àun attaquant distant d’exécuter du...|27 janvier 2023|
- |[39992701/22 - Vulnérabilités dans le DNSBIND](https://www.dgssi.gov.ma//fr/content/3999270122-vulnerabilites-dans-le-dns-bind.html)|Internet Systems Consortium (ISC) a publié un correctif de sécurité qui corrige plusieurs vulnérabilités dans les versions susmentionnées de DNS BIND. L’exploitation de ces failles peut permettre à un attaquant distant de causer un déni de...|27 janvier 2023|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
 
 # CA-CCS
@@ -137,20 +151,6 @@
  |[[Control systems] Econolite security advisory (AV23-054)](https://cyber.gc.ca/en/alerts-advisories/control-systems-econolite-security-advisory-av23-054)|Visit link for details|2023-01-27|
  |[[Control systems] Landis+Gyr security advisory (AV23-053)](https://cyber.gc.ca/en/alerts-advisories/control-systems-landisgyr-security-advisory-av23-053)|Visit link for details|2023-01-27|
  |[[Control systems] Mitsubishi Electric security advisory (AV23-052)](https://cyber.gc.ca/en/alerts-advisories/systemes-controle-bulletin-securite-mitsubishi-electric-av23-052)|Visit link for details|2023-01-27|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
 
 # EU-CERT
