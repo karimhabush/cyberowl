@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 03/02/2023 19:19:41 UTC
+ > Last Updated 03/02/2023 20:22:22 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -53,25 +53,6 @@
  |[Vulnérabilité dans Grafana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0084/)|Une vulnérabilité a été découverte dans Grafana. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 2 février 2023|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Delta Electronics DX-2100L1-CN cross-site scripting (CVE-2023-0432)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
- |[TRENDnet TEW-811DRU denial of service (CVE-2023-0637)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
- |[FastCMS file upload (CVE-2023-0651)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
- |[Multilaser RE057 and Multilaser RE170 information disclosure (CVE-2023-0658)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
- |[GNU C Library (glibc) buffer overflow (CVE-2023-25139)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
- |[Grafana information disclosure (CVE-2022-23498)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
- |[VMware Workstation security bypass (CVE-2023-20854)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -87,6 +68,12 @@
  |[40023101/23 - Vulnérabilité critique dans QNAP QTS et QuTS hero](https://www.dgssi.gov.ma//fr/content/4002310123-vulnerabilite-critique-dans-qnap-qts-et-quts-hero.html)|Une vulnérabilité a été corrigée dans QNAP QTS et QuTS hero. L’exploitation de cette faille pourrait permettre à un attaquant d'exécuter du code arbitraire à distance.|31 janvier 2023|
  |[40002701/22 - Microsoft exhorte les administrateurs à appliquer les correctifs relatifs aux serveurs](https://www.dgssi.gov.ma//fr/content/4000270122-microsoft-exhorte-les-administrateurs-appliquer-les-correctifs-relatifs-aux-serveurs-exchange.html)|Microsoft exhorte ses clients à maintenir leurs serveurs Exchange à jour en appliquant la dernière mise à jour cumulative (CU) prise en charge, afin qu'ils soient toujours prêts à déployer une mise à jour de sécurité d'urgence. A...|27 janvier 2023|
  |[40012601/23 - Vulnérabilité critiqueaffectantles imprimantes Lexmark ](https://www.dgssi.gov.ma//fr/content/4001260123-vulnerabilite-critique-affectant-les-imprimantes-lexmark.html)|Lexmark vient de publier des mises à jour de sécurité qui permettent de corriger une vulnérabilité critique affectant plusieurs de ses imprimantes. L’exploitation de cette vulnérabilité peut permettre àun attaquant distant d’exécuter du...|27 janvier 2023|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # HK-CERT
@@ -105,6 +92,19 @@
  |[Microsoft Edge Multiple Vulnerabilities](/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230130)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, remote code execution and data manipulation on the targeted system. |Release Date: 30 Jan 2023|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Delta Electronics DX-2100L1-CN cross-site scripting (CVE-2023-0432)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
+ |[TRENDnet TEW-811DRU denial of service (CVE-2023-0637)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
+ |[FastCMS file upload (CVE-2023-0651)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
+ |[Multilaser RE057 and Multilaser RE170 information disclosure (CVE-2023-0658)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
+ |[GNU C Library (glibc) buffer overflow (CVE-2023-25139)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
+ |[Grafana information disclosure (CVE-2022-23498)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
+ |[VMware Workstation security bypass (CVE-2023-20854)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
+ 
+
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -117,30 +117,6 @@
  |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
  |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
  |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[VMware security advisory (AV23-066)](https://cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av23-066)|Visit link for details|2023-02-03|
- |[[Control systems] Baicells security advisory (AV23-065)](https://cyber.gc.ca/en/alerts-advisories/control-systems-baicells-security-advisory-av23-065)|Visit link for details|2023-02-03|
- |[[Control systems] Mitsubishi security advisory (AV23-064)](https://cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-security-advisory-av23-064)|Visit link for details|2023-02-03|
- |[[Control systems] Delta Electronics security advisory (AV22-063)](https://cyber.gc.ca/en/alerts-advisories/control-systems-delta-electronics-security-advisory-av22-063)|Visit link for details|2023-02-03|
- |[Atlassian security advisory (AV23-062)](https://cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av23-062)|Visit link for details|2023-02-02|
- |[F5 security advisory (AV23-061)](https://cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av23-061)|Visit link for details|2023-02-02|
- |[HPE security advisory (AV23-060)](https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-060)|Visit link for details|2023-02-02|
- |[[Control systems] Delta Electronics security advisory (AV23-059)](https://cyber.gc.ca/en/alerts-advisories/control-systems-delta-electronics-security-advisory-av23-059)|Visit link for details|2023-01-31|
- |[Ubuntu security advisory (AV23-058)](https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-058)|Visit link for details|2023-01-31|
- |[IBM security advisory (AV23-057)](https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-057)|Visit link for details|2023-01-31|
- |[[Control systems] Rockwell Automation security advisory (AV23-056)](https://cyber.gc.ca/en/alerts-advisories/control-systems-rockwell-automation-security-advisory-av23-056)|Visit link for details|2023-01-30|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-005: Critical Code Injection Vulnerability in QNAP Devices](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On January 30th, 2023, QNAP published an advisory related to a critical vulnerability, identified as CVE-2022-27596, allowing remote attackers to inject malicious code on QNAP NAS devices.|Tuesday, January 31, 2023 05:55:00 PM CEST|
  
 
 # OBS-Vigilance
@@ -158,4 +134,28 @@
  |[<a href="https://vigilance.fr/vulnerability/Notepad-denial-of-service-via-Finder-add-40438" class="noirorange"><b>Notepad++</b>: denial of service via Finder::add()</a>](https://vigilance.fr/vulnerability/Notepad-denial-of-service-via-Finder-add-40438)|An attacker can cause a fatal error of Notepad++, via Finder::add(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-bigben-remove-40436" class="noirorange"><b>Linux kernel</b>: reuse after free via bigben_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-bigben-remove-40436)|An attacker can force the reuse of a freed memory area of the Linux kernel, via bigben_remove(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Protocol-Buffers-protobuf-java-overload-via-Text-Format-Data-40435" class="noirorange"><b>Protocol Buffers protobuf-java</b>: overload via Text Format Data</a>](https://vigilance.fr/vulnerability/Protocol-Buffers-protobuf-java-overload-via-Text-Format-Data-40435)|An attacker can trigger an overload of Protocol Buffers protobuf-java, via Text Format Data, in order to trigger a denial of service...|Visit link for details|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-005: Critical Code Injection Vulnerability in QNAP Devices](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On January 30th, 2023, QNAP published an advisory related to a critical vulnerability, identified as CVE-2022-27596, allowing remote attackers to inject malicious code on QNAP NAS devices.|Tuesday, January 31, 2023 05:55:00 PM CEST|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft Edge security advisory (AV23-067)](https://cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-067)|Visit link for details|2023-02-03|
+ |[VMware security advisory (AV23-066)](https://cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av23-066)|Visit link for details|2023-02-03|
+ |[[Control systems] Baicells security advisory (AV23-065)](https://cyber.gc.ca/en/alerts-advisories/control-systems-baicells-security-advisory-av23-065)|Visit link for details|2023-02-03|
+ |[[Control systems] Mitsubishi security advisory (AV23-064)](https://cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-security-advisory-av23-064)|Visit link for details|2023-02-03|
+ |[[Control systems] Delta Electronics security advisory (AV22-063)](https://cyber.gc.ca/en/alerts-advisories/control-systems-delta-electronics-security-advisory-av22-063)|Visit link for details|2023-02-03|
+ |[Atlassian security advisory (AV23-062)](https://cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av23-062)|Visit link for details|2023-02-02|
+ |[F5 security advisory (AV23-061)](https://cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av23-061)|Visit link for details|2023-02-02|
+ |[HPE security advisory (AV23-060)](https://cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-060)|Visit link for details|2023-02-02|
+ |[[Control systems] Delta Electronics security advisory (AV23-059)](https://cyber.gc.ca/en/alerts-advisories/control-systems-delta-electronics-security-advisory-av23-059)|Visit link for details|2023-01-31|
+ |[Ubuntu security advisory (AV23-058)](https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-058)|Visit link for details|2023-01-31|
+ |[IBM security advisory (AV23-057)](https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-057)|Visit link for details|2023-01-31|
  
