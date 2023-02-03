@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 02/02/2023 23:21:16 UTC
+ > Last Updated 03/02/2023 01:45:30 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -53,23 +53,6 @@
  |[Vulnérabilité dans Pulse Secure Pulse Connect Secure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0079/)|Une vulnérabilité a été découverte dans Pulse Secure Pulse Connect Secure. Elle permet à un attaquant de provoquer une injection de requêtes illégitimes par rebond (CSRF).|Publié le 1 février 2023|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/OpenSSH-write-access-via-CanonicalizeHostname-40441" class="noirorange"><b>OpenSSH</b>: write access via CanonicalizeHostname</a>](https://vigilance.fr/vulnerability/OpenSSH-write-access-via-CanonicalizeHostname-40441)|An attacker can bypass access restrictions of OpenSSH, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSSH-egress-filtrering-bypass-via-Ignored-PermitRemoteOpen-40440" class="noirorange"><b>OpenSSH</b>: egress filtrering bypass via Ignored PermitRemoteOpen</a>](https://vigilance.fr/vulnerability/OpenSSH-egress-filtrering-bypass-via-Ignored-PermitRemoteOpen-40440)|An attacker can bypass filtering rules of OpenSSH, via Ignored PermitRemoteOpen, in order to exfilter sensitive data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSSH-9-1-double-free-via-compat-kex-proposal-40439" class="noirorange"><b>OpenSSH 9.1</b>: double free via compat_kex_proposal()</a>](https://vigilance.fr/vulnerability/OpenSSH-9-1-double-free-via-compat-kex-proposal-40439)|An attacker can force a double memory free of OpenSSH 9.1, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Notepad-denial-of-service-via-Finder-add-40438" class="noirorange"><b>Notepad++</b>: denial of service via Finder::add()</a>](https://vigilance.fr/vulnerability/Notepad-denial-of-service-via-Finder-add-40438)|An attacker can cause a fatal error of Notepad++, via Finder::add(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-bigben-remove-40436" class="noirorange"><b>Linux kernel</b>: reuse after free via bigben_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-bigben-remove-40436)|An attacker can force the reuse of a freed memory area of the Linux kernel, via bigben_remove(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Protocol-Buffers-protobuf-java-overload-via-Text-Format-Data-40435" class="noirorange"><b>Protocol Buffers protobuf-java</b>: overload via Text Format Data</a>](https://vigilance.fr/vulnerability/Protocol-Buffers-protobuf-java-overload-via-Text-Format-Data-40435)|An attacker can trigger an overload of Protocol Buffers protobuf-java, via Text Format Data, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-API-Connect-information-disclosure-via-External-Service-Interaction-40434" class="noirorange"><b>IBM API Connect</b>: information disclosure via External Service Interaction</a>](https://vigilance.fr/vulnerability/IBM-API-Connect-information-disclosure-via-External-Service-Interaction-40434)|An attacker can bypass access restrictions to data of IBM API Connect, via External Service Interaction, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/pgAdmin-directory-traversal-40433" class="noirorange"><b>pgAdmin</b>: directory traversal</a>](https://vigilance.fr/vulnerability/pgAdmin-directory-traversal-40433)|An attacker can traverse directories of pgAdmin, in order to write a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/pgAdmin-open-redirect-40432" class="noirorange"><b>pgAdmin</b>: open redirect</a>](https://vigilance.fr/vulnerability/pgAdmin-open-redirect-40432)|An attacker can deceive the user of pgAdmin, in order to redirect him to a malicious site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xiph-Opusfile-NULL-pointer-dereference-via-op-get-data-40431" class="noirorange"><b>Xiph Opusfile</b>: NULL pointer dereference via op_get_data()</a>](https://vigilance.fr/vulnerability/Xiph-Opusfile-NULL-pointer-dereference-via-op-get-data-40431)|An attacker can force a NULL pointer to be dereferenced on Xiph Opusfile, via op_get_data(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Grafana-information-disclosure-via-Datasource-Query-Caching-40430" class="noirorange"><b>Grafana</b>: information disclosure via Datasource Query Caching</a>](https://vigilance.fr/vulnerability/Grafana-information-disclosure-via-Datasource-Query-Caching-40430)|An attacker can bypass access restrictions to data of Grafana, via Datasource Query Caching, in order to read sensitive information...|Visit link for details|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -85,25 +68,6 @@
  |[39982601/23 - Vulnérabilités affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/3998260123-vulnerabilites-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilitésaffectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre àun attaquant de provoquer des problèmes...|26 janvier 2023|
  |[39972501/22 - Vulnérabilités dans le plugin LearnPress du CMS WordPress ](https://www.dgssi.gov.ma//fr/content/3997250122-vulnerabilites-dans-le-plugin-learnpress-du-cms-wordpress.html)|Plusieurs vulnérabilités ont été corrigées dans le plugin LearnPress du CMS WordPress. L’exploitation de ces failles pourrait entraîner la divulgation d'informations sensibles, la modification de données et l'exécution de code...|25 janvier 2023|
  |[39962501/23 - Vulnérabilités affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma//fr/content/3996250123-vulnerabilites-affectant-plusieurs-produits-d-apple.html)|Apple annonce lacorrectionde plusieursvulnérabilitésaffectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peutpermettre à un attaquant distant d’exécuter du code arbitraire, de contourner les mesures de...|25 janvier 2023|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Delta Electronics DX-2100L1-CN cross-site scripting (CVE-2023-0432)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
- |[TRENDnet TEW-811DRU denial of service (CVE-2023-0637)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
- |[Linux Kernel denial of service (CVE-2023-25012)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
- |[Notepad++ buffer overflow (CVE-2022-31902)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
- |[Zoho ManageEngine Support Center Plus command execution (CVE-2023-23076)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
- |[Zoho ManageEngine Asset Explorer cross-site scripting (CVE-2023-23075)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
- |[Zoho ManageEngine ServiceDesk Plus cross-site scripting (CVE-2023-23073)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
  
 
 # HK-CERT
@@ -122,11 +86,40 @@
  |[Google Chrome Multiple Vulnerabilities](/security-bulletin/google-chrome-multiple-vulnerabilities_20230126)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and sensitive information disclosure on the targeted system.|Release Date: 26 Jan 2023|
  
 
-# EU-CERT
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[2023-005: Critical Code Injection Vulnerability in QNAP Devices](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On January 30th, 2023, QNAP published an advisory related to a critical vulnerability, identified as CVE-2022-27596, allowing remote attackers to inject malicious code on QNAP NAS devices.|Tuesday, January 31, 2023 05:55:00 PM CEST|
+ |[Delta Electronics DX-2100L1-CN cross-site scripting (CVE-2023-0432)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
+ |[TRENDnet TEW-811DRU denial of service (CVE-2023-0637)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
+ |[CrushFTP security bypass](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
+ |[Multiple Mitsubishi Electric GOT and GT products clickjacking (CVE-2022-40268)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
+ |[Multiple Mitsubishi Electric GOT and GT products spoofing (CVE-2022-40269)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
+ |[Linux Kernel denial of service (CVE-2023-25012)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
+ |[Notepad++ buffer overflow (CVE-2022-31902)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 1, 2023|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSH-write-access-via-CanonicalizeHostname-40441" class="noirorange"><b>OpenSSH</b>: write access via CanonicalizeHostname</a>](https://vigilance.fr/vulnerability/OpenSSH-write-access-via-CanonicalizeHostname-40441)|An attacker can bypass access restrictions of OpenSSH, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSH-egress-filtrering-bypass-via-Ignored-PermitRemoteOpen-40440" class="noirorange"><b>OpenSSH</b>: egress filtrering bypass via Ignored PermitRemoteOpen</a>](https://vigilance.fr/vulnerability/OpenSSH-egress-filtrering-bypass-via-Ignored-PermitRemoteOpen-40440)|An attacker can bypass filtering rules of OpenSSH, via Ignored PermitRemoteOpen, in order to exfilter sensitive data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSH-9-1-double-free-via-compat-kex-proposal-40439" class="noirorange"><b>OpenSSH 9.1</b>: double free via compat_kex_proposal()</a>](https://vigilance.fr/vulnerability/OpenSSH-9-1-double-free-via-compat-kex-proposal-40439)|An attacker can force a double memory free of OpenSSH 9.1, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Notepad-denial-of-service-via-Finder-add-40438" class="noirorange"><b>Notepad++</b>: denial of service via Finder::add()</a>](https://vigilance.fr/vulnerability/Notepad-denial-of-service-via-Finder-add-40438)|An attacker can cause a fatal error of Notepad++, via Finder::add(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-bigben-remove-40436" class="noirorange"><b>Linux kernel</b>: reuse after free via bigben_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-bigben-remove-40436)|An attacker can force the reuse of a freed memory area of the Linux kernel, via bigben_remove(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Protocol-Buffers-protobuf-java-overload-via-Text-Format-Data-40435" class="noirorange"><b>Protocol Buffers protobuf-java</b>: overload via Text Format Data</a>](https://vigilance.fr/vulnerability/Protocol-Buffers-protobuf-java-overload-via-Text-Format-Data-40435)|An attacker can trigger an overload of Protocol Buffers protobuf-java, via Text Format Data, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-API-Connect-information-disclosure-via-External-Service-Interaction-40434" class="noirorange"><b>IBM API Connect</b>: information disclosure via External Service Interaction</a>](https://vigilance.fr/vulnerability/IBM-API-Connect-information-disclosure-via-External-Service-Interaction-40434)|An attacker can bypass access restrictions to data of IBM API Connect, via External Service Interaction, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/pgAdmin-directory-traversal-40433" class="noirorange"><b>pgAdmin</b>: directory traversal</a>](https://vigilance.fr/vulnerability/pgAdmin-directory-traversal-40433)|An attacker can traverse directories of pgAdmin, in order to write a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/pgAdmin-open-redirect-40432" class="noirorange"><b>pgAdmin</b>: open redirect</a>](https://vigilance.fr/vulnerability/pgAdmin-open-redirect-40432)|An attacker can deceive the user of pgAdmin, in order to redirect him to a malicious site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xiph-Opusfile-NULL-pointer-dereference-via-op-get-data-40431" class="noirorange"><b>Xiph Opusfile</b>: NULL pointer dereference via op_get_data()</a>](https://vigilance.fr/vulnerability/Xiph-Opusfile-NULL-pointer-dereference-via-op-get-data-40431)|An attacker can force a NULL pointer to be dereferenced on Xiph Opusfile, via op_get_data(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Grafana-information-disclosure-via-Datasource-Query-Caching-40430" class="noirorange"><b>Grafana</b>: information disclosure via Datasource Query Caching</a>](https://vigilance.fr/vulnerability/Grafana-information-disclosure-via-Datasource-Query-Caching-40430)|An attacker can bypass access restrictions to data of Grafana, via Datasource Query Caching, in order to read sensitive information...|Visit link for details|
  
 
 # ZERODAYINITIATIVE
@@ -158,4 +151,11 @@
  |[[Control systems] Econolite security advisory (AV23-054)](https://cyber.gc.ca/en/alerts-advisories/control-systems-econolite-security-advisory-av23-054)|Visit link for details|2023-01-27|
  |[[Control systems] Landis+Gyr security advisory (AV23-053)](https://cyber.gc.ca/en/alerts-advisories/control-systems-landisgyr-security-advisory-av23-053)|Visit link for details|2023-01-27|
  |[[Control systems] Mitsubishi Electric security advisory (AV23-052)](https://cyber.gc.ca/en/alerts-advisories/systemes-controle-bulletin-securite-mitsubishi-electric-av23-052)|Visit link for details|2023-01-27|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-005: Critical Code Injection Vulnerability in QNAP Devices](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On January 30th, 2023, QNAP published an advisory related to a critical vulnerability, identified as CVE-2022-27596, allowing remote attackers to inject malicious code on QNAP NAS devices.|Tuesday, January 31, 2023 05:55:00 PM CEST|
  
