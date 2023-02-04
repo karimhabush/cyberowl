@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 04/02/2023 12:34:35 UTC
+ > Last Updated 04/02/2023 13:22:51 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -37,22 +37,6 @@
  |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/uscert/ncas/current-activity/2023/01/31/cisa-releases-one-industrial-control-systems-advisory)|<p>CISA released one Industrial Control Systems (ICS) advisory on January 31, 2023. This advisory provides timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p>|Tuesday, January 31, 2023|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0093/)|De multiples vulnérabilités ont été corrigées dans |Publié le 3 février 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0092/)|De multiples vulnérabilités ont été corrigées dans le noyau Linux de|Publié le 3 février 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0091/)|De multiples vulnérabilités ont été corrigées dans |Publié le 3 février 2023|
- |[Vulnérabilité dans VMware Workstation](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0090/)|Une vulnérabilité a été découverte dans VMware Workstation. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données et une élévation de privilèges.|Publié le 3 février 2023|
- |[Multiples vulnérabilités dans OpenSSH](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0089/)|De multiples vulnérabilités ont été découvertes dans OpenSSH. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et un contournement de la politique de sécurité.|Publié le 3 février 2023|
- |[Multiples vulnérabilités dans F5 BIG-IP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0088/)|De multiples vulnérabilités ont été découvertes dans F5 BIG-IP. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 2 février 2023|
- |[Vulnérabilité dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0087/)|Une vulnérabilité a été découverte dans les produits NetApp. Elle permet à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une atteinte à l'intégrité des données.|Publié le 2 février 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0086/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 2 février 2023|
- |[Multiples vulnérabilités dans Nagios XI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0085/)|De multiples vulnérabilités ont été découvertes dans Nagios XI. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 2 février 2023|
- |[Vulnérabilité dans Grafana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0084/)|Une vulnérabilité a été découverte dans Grafana. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 2 février 2023|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -82,27 +66,24 @@
  |[Microsoft Edge Multiple Vulnerabilities](/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230130)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, remote code execution and data manipulation on the targeted system. |Release Date: 30 Jan 2023|
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
+ 
+
 # VulDB
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Node-js-decode-uri-component-denial-of-service-40450" class="noirorange"><b>Node.js decode-uri-component</b>: denial of service</a>](https://vigilance.fr/vulnerability/Node-js-decode-uri-component-denial-of-service-40450)|An attacker can cause a fatal error of Node.js |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-vulnerability-40448" class="noirorange"><b>Microsoft Edge Chromium</b>: vulnerability</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-vulnerability-40448)|A vulnerability of Microsoft Edge Chromium was announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Workload-Scheduler-external-XML-entity-injection-via-Create-Job-On-Broker-40447" class="noirorange"><b>IBM Workload Scheduler</b>: external XML entity injection via Create Job On Broker</a>](https://vigilance.fr/vulnerability/IBM-Workload-Scheduler-external-XML-entity-injection-via-Create-Job-On-Broker-40447)|An attacker can transmit malicious XML data to IBM Workload Scheduler, via Create Job On Broker, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Workload-Scheduler-external-XML-entity-injection-via-Configuration-File-40446" class="noirorange"><b>IBM Workload Scheduler</b>: external XML entity injection via Configuration File</a>](https://vigilance.fr/vulnerability/IBM-Workload-Scheduler-external-XML-entity-injection-via-Configuration-File-40446)|An attacker can transmit malicious XML data to IBM Workload Scheduler, via Configuration File, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/VMware-Workstation-file-deletion-40445" class="noirorange"><b>VMware Workstation</b>: file deletion</a>](https://vigilance.fr/vulnerability/VMware-Workstation-file-deletion-40445)|An attacker, in a guest system, can bypass access restrictions of VMware Workstation, in order to delete a file on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSSH-write-access-via-CanonicalizeHostname-40441" class="noirorange"><b>OpenSSH</b>: write access via CanonicalizeHostname</a>](https://vigilance.fr/vulnerability/OpenSSH-write-access-via-CanonicalizeHostname-40441)|An attacker can bypass access restrictions of OpenSSH, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSSH-egress-filtrering-bypass-via-Ignored-PermitRemoteOpen-40440" class="noirorange"><b>OpenSSH</b>: egress filtrering bypass via Ignored PermitRemoteOpen</a>](https://vigilance.fr/vulnerability/OpenSSH-egress-filtrering-bypass-via-Ignored-PermitRemoteOpen-40440)|An attacker can bypass filtering rules of OpenSSH, via Ignored PermitRemoteOpen, in order to exfilter sensitive data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSSH-9-1-double-free-via-compat-kex-proposal-40439" class="noirorange"><b>OpenSSH 9.1</b>: double free via compat_kex_proposal()</a>](https://vigilance.fr/vulnerability/OpenSSH-9-1-double-free-via-compat-kex-proposal-40439)|An attacker can force a double memory free of OpenSSH 9.1, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Notepad-denial-of-service-via-Finder-add-40438" class="noirorange"><b>Notepad++</b>: denial of service via Finder::add()</a>](https://vigilance.fr/vulnerability/Notepad-denial-of-service-via-Finder-add-40438)|An attacker can cause a fatal error of Notepad++, via Finder::add(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-bigben-remove-40436" class="noirorange"><b>Linux kernel</b>: reuse after free via bigben_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-bigben-remove-40436)|An attacker can force the reuse of a freed memory area of the Linux kernel, via bigben_remove(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Protocol-Buffers-protobuf-java-overload-via-Text-Format-Data-40435" class="noirorange"><b>Protocol Buffers protobuf-java</b>: overload via Text Format Data</a>](https://vigilance.fr/vulnerability/Protocol-Buffers-protobuf-java-overload-via-Text-Format-Data-40435)|An attacker can trigger an overload of Protocol Buffers protobuf-java, via Text Format Data, in order to trigger a denial of service...|Visit link for details|
  
 
 # MA-CERT
@@ -122,18 +103,44 @@
  |[40012601/23 - Vulnérabilité critiqueaffectantles imprimantes Lexmark ](https://www.dgssi.gov.ma//fr/content/4001260123-vulnerabilite-critique-affectant-les-imprimantes-lexmark.html)|Lexmark vient de publier des mises à jour de sécurité qui permettent de corriger une vulnérabilité critique affectant plusieurs de ses imprimantes. L’exploitation de cette vulnérabilité peut permettre àun attaquant distant d’exécuter du...|27 janvier 2023|
  
 
-# ZERODAYINITIATIVE
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0093/)|De multiples vulnérabilités ont été corrigées dans |Publié le 3 février 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0092/)|De multiples vulnérabilités ont été corrigées dans le noyau Linux de|Publié le 3 février 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0091/)|De multiples vulnérabilités ont été corrigées dans |Publié le 3 février 2023|
+ |[Vulnérabilité dans VMware Workstation](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0090/)|Une vulnérabilité a été découverte dans VMware Workstation. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données et une élévation de privilèges.|Publié le 3 février 2023|
+ |[Multiples vulnérabilités dans OpenSSH](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0089/)|De multiples vulnérabilités ont été découvertes dans OpenSSH. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et un contournement de la politique de sécurité.|Publié le 3 février 2023|
+ |[Multiples vulnérabilités dans F5 BIG-IP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0088/)|De multiples vulnérabilités ont été découvertes dans F5 BIG-IP. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 2 février 2023|
+ |[Vulnérabilité dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0087/)|Une vulnérabilité a été découverte dans les produits NetApp. Elle permet à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une atteinte à l'intégrité des données.|Publié le 2 février 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0086/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 2 février 2023|
+ |[Multiples vulnérabilités dans Nagios XI](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0085/)|De multiples vulnérabilités ont été découvertes dans Nagios XI. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 2 février 2023|
+ |[Vulnérabilité dans Grafana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0084/)|Une vulnérabilité a été découverte dans Grafana. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 2 février 2023|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-decode-uri-component-denial-of-service-40450" class="noirorange"><b>Node.js decode-uri-component</b>: denial of service</a>](https://vigilance.fr/vulnerability/Node-js-decode-uri-component-denial-of-service-40450)|An attacker can cause a fatal error of Node.js |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-vulnerability-40448" class="noirorange"><b>Microsoft Edge Chromium</b>: vulnerability</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-vulnerability-40448)|A vulnerability of Microsoft Edge Chromium was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Workload-Scheduler-external-XML-entity-injection-via-Create-Job-On-Broker-40447" class="noirorange"><b>IBM Workload Scheduler</b>: external XML entity injection via Create Job On Broker</a>](https://vigilance.fr/vulnerability/IBM-Workload-Scheduler-external-XML-entity-injection-via-Create-Job-On-Broker-40447)|An attacker can transmit malicious XML data to IBM Workload Scheduler, via Create Job On Broker, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Workload-Scheduler-external-XML-entity-injection-via-Configuration-File-40446" class="noirorange"><b>IBM Workload Scheduler</b>: external XML entity injection via Configuration File</a>](https://vigilance.fr/vulnerability/IBM-Workload-Scheduler-external-XML-entity-injection-via-Configuration-File-40446)|An attacker can transmit malicious XML data to IBM Workload Scheduler, via Configuration File, in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/VMware-Workstation-file-deletion-40445" class="noirorange"><b>VMware Workstation</b>: file deletion</a>](https://vigilance.fr/vulnerability/VMware-Workstation-file-deletion-40445)|An attacker, in a guest system, can bypass access restrictions of VMware Workstation, in order to delete a file on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSH-write-access-via-CanonicalizeHostname-40441" class="noirorange"><b>OpenSSH</b>: write access via CanonicalizeHostname</a>](https://vigilance.fr/vulnerability/OpenSSH-write-access-via-CanonicalizeHostname-40441)|An attacker can bypass access restrictions of OpenSSH, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSH-egress-filtrering-bypass-via-Ignored-PermitRemoteOpen-40440" class="noirorange"><b>OpenSSH</b>: egress filtrering bypass via Ignored PermitRemoteOpen</a>](https://vigilance.fr/vulnerability/OpenSSH-egress-filtrering-bypass-via-Ignored-PermitRemoteOpen-40440)|An attacker can bypass filtering rules of OpenSSH, via Ignored PermitRemoteOpen, in order to exfilter sensitive data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSH-9-1-double-free-via-compat-kex-proposal-40439" class="noirorange"><b>OpenSSH 9.1</b>: double free via compat_kex_proposal()</a>](https://vigilance.fr/vulnerability/OpenSSH-9-1-double-free-via-compat-kex-proposal-40439)|An attacker can force a double memory free of OpenSSH 9.1, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Notepad-denial-of-service-via-Finder-add-40438" class="noirorange"><b>Notepad++</b>: denial of service via Finder::add()</a>](https://vigilance.fr/vulnerability/Notepad-denial-of-service-via-Finder-add-40438)|An attacker can cause a fatal error of Notepad++, via Finder::add(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-bigben-remove-40436" class="noirorange"><b>Linux kernel</b>: reuse after free via bigben_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-bigben-remove-40436)|An attacker can force the reuse of a freed memory area of the Linux kernel, via bigben_remove(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Protocol-Buffers-protobuf-java-overload-via-Text-Format-Data-40435" class="noirorange"><b>Protocol Buffers protobuf-java</b>: overload via Text Format Data</a>](https://vigilance.fr/vulnerability/Protocol-Buffers-protobuf-java-overload-via-Text-Format-Data-40435)|An attacker can trigger an overload of Protocol Buffers protobuf-java, via Text Format Data, in order to trigger a denial of service...|Visit link for details|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-006: Critical Security Flaw in Jira Service Management Server and Data Center](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|A critical security flaw has been discovered in Jira Service Management Server and Data Center that can be exploited by an attacker to impersonate another user and gain unauthorized access to instances. The vulnerability is tracked as CVE-2023-22501 with a CVSS score of 9.4.|Friday, February 03, 2023 07:20:00 PM CEST|
  
 
 # CA-CCS
@@ -151,11 +158,4 @@
  |[[Control systems] Delta Electronics security advisory (AV23-059)](https://cyber.gc.ca/en/alerts-advisories/control-systems-delta-electronics-security-advisory-av23-059)|Visit link for details|2023-01-31|
  |[Ubuntu security advisory (AV23-058)](https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-058)|Visit link for details|2023-01-31|
  |[IBM security advisory (AV23-057)](https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-057)|Visit link for details|2023-01-31|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-006: Critical Security Flaw in Jira Service Management Server and Data Center](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|A critical security flaw has been discovered in Jira Service Management Server and Data Center that can be exploited by an attacker to impersonate another user and gain unauthorized access to instances. The vulnerability is tracked as CVE-2023-22501 with a CVSS score of 9.4.|Friday, February 03, 2023 07:20:00 PM CEST|
  
