@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 05/02/2023 17:17:53 UTC
+ > Last Updated 05/02/2023 18:24:47 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -83,12 +83,6 @@
  |[Grafana information disclosure (CVE-2022-23498)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
  
 
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -103,6 +97,12 @@
  |[QNAP NAS Remote Code Execution Vulnerability](/security-bulletin/qnap-nas-remote-code-execution-vulnerability_20230131)|A vulnerability was identified in QNAP NAS. A remote attacker can exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 31 Jan 2023|
  |[Linux Kernel Multiple Vulnerabilities](/security-bulletin/linux-kernel-multiple-vulnerabilities_20230130)|Multiple vulnerabilities were identified in Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 30 Jan 2023|
  |[Microsoft Edge Multiple Vulnerabilities](/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230130)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, remote code execution and data manipulation on the targeted system. |Release Date: 30 Jan 2023|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # OBS-Vigilance
@@ -139,13 +139,6 @@
  |[IBM security advisory (AV23-057)](https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-057)|Visit link for details|2023-01-31|
  
 
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-006: Critical Security Flaw in Jira Service Management Server and Data Center](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|A critical security flaw has been discovered in Jira Service Management Server and Data Center that can be exploited by an attacker to impersonate another user and gain unauthorized access to instances. The vulnerability is tracked as CVE-2023-22501 with a CVSS score of 9.4.|Friday, February 03, 2023 07:20:00 PM CEST|
- 
-
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -158,4 +151,11 @@
  |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
  |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
  |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-006: Critical Security Flaw in Jira Service Management Server and Data Center](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|A critical security flaw has been discovered in Jira Service Management Server and Data Center that can be exploited by an attacker to impersonate another user and gain unauthorized access to instances. The vulnerability is tracked as CVE-2023-22501 with a CVSS score of 9.4.|Friday, February 03, 2023 07:20:00 PM CEST|
  
