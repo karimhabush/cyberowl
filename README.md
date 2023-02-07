@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 07/02/2023 12:38:38 UTC
+ > Last Updated 07/02/2023 13:28:50 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -53,6 +53,42 @@
  |[Vulnérabilité dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0087/)|Une vulnérabilité a été découverte dans les produits NetApp. Elle permet à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une atteinte à l'intégrité des données.|Publié le 2 février 2023|
  
 
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Calendar Event Management System SQL injection (CVE-2023-0675)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 6, 2023|
+ |[Ichiran App man-in-the-middle (CVE-2023-22367)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 6, 2023|
+ |[XXL-JOB cross-site request forgery (CVE-2023-0674)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 4, 2023|
+ |[TOTOLINK T8 default account (CVE-2023-24155)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 3, 2023|
+ |[gin-vue-admin directory traversal (CVE-2022-47762)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 3, 2023|
+ |[Wavlink cross-site scripting (CVE-2022-48165)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 3, 2023|
+ |[Linux Kernel code execution (CVE-2023-0045)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 3, 2023|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/X-Org-Server-reuse-after-free-via-DeepCopyPointerClasses-40463" class="noirorange"><b>X.Org Server</b>: reuse after free via DeepCopyPointerClasses()</a>](https://vigilance.fr/vulnerability/X-Org-Server-reuse-after-free-via-DeepCopyPointerClasses-40463)|An attacker can force the reuse of a freed memory area of X.Org Server, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/graphite-web-three-vulnerabilities-40462" class="noirorange"><b>graphite-web</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/graphite-web-three-vulnerabilities-40462)|An attacker can use several vulnerabilities of graphite-web...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-February-2023-40461" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of February 2023</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-February-2023-40461)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/RubyGem-Active-Support-overload-via-Regular-Expression-40460" class="noirorange"><b>RubyGem Active Support</b>: overload via Regular Expression</a>](https://vigilance.fr/vulnerability/RubyGem-Active-Support-overload-via-Regular-Expression-40460)|An attacker can trigger an overload of RubyGem Active Support, via Regular Expression, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-three-vulnerabilities-40459" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-three-vulnerabilities-40459)|An attacker can use several vulnerabilities of WebKitGTK  WPE WebKit...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/EditorConfig-Core-C-buffer-overflow-via-ec-glob-40458" class="noirorange"><b>EditorConfig Core C</b>: buffer overflow via ec_glob()</a>](https://vigilance.fr/vulnerability/EditorConfig-Core-C-buffer-overflow-via-ec-glob-40458)|An attacker can trigger a buffer overflow of EditorConfig Core C, via ec_glob(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ImageMagick-file-read-write-via-Profile-40457" class="noirorange"><b>ImageMagick</b>: file read/write via Profile</a>](https://vigilance.fr/vulnerability/ImageMagick-file-read-write-via-Profile-40457)|An attacker can bypass access restrictions of ImageMagick, via Profile, in order to read or alter files...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TYPO3-Core-Cross-Site-Scripting-via-Frontend-Rendering-40456" class="noirorange"><b>TYPO3 Core</b>: Cross Site Scripting via Frontend Rendering</a>](https://vigilance.fr/vulnerability/TYPO3-Core-Cross-Site-Scripting-via-Frontend-Rendering-40456)|An attacker can trigger a Cross Site Scripting of TYPO3 Core, via Frontend Rendering, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/RESTEasy-file-read-write-via-Temp-Files-40455" class="noirorange"><b>RESTEasy</b>: file read/write via Temp Files</a>](https://vigilance.fr/vulnerability/RESTEasy-file-read-write-via-Temp-Files-40455)|An attacker can bypass access restrictions of RESTEasy, via Temp Files, in order to read or alter files...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-Spectre-BTI-40454" class="noirorange"><b>Linux kernel</b>: memory reading via Spectre-BTI</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-Spectre-BTI-40454)|An attacker can read a memory fragment of the Linux kernel, via Spectre-BTI, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/binwalk-directory-traversal-40453" class="noirorange"><b>binwalk</b>: directory traversal</a>](https://vigilance.fr/vulnerability/binwalk-directory-traversal-40453)|An attacker can traverse directories of binwalk, in order to write a file outside the service root path...|Visit link for details|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -68,23 +104,6 @@
  |[40070302/23 - Vulnérabilités affectant le CMS Joomla](https://www.dgssi.gov.ma//fr/content/4007030223-vulnerabilites-affectant-le-cms-joomla.html)|Joomla annonce la disponibilité d’une mise à jour qui corrige deux vulnérabilités dans son CMS Joomla. L’exploitation de ces vulnérabilités peut permettre à un attaquant l’injection de codeindirecte à distance ou le contournement de la...|03 février 2023|
  |[40050202/23 - Vulnérabilités dans les produits Cisco](https://www.dgssi.gov.ma//fr/content/4005020223-vulnerabilites-dans-les-produits-cisco.html)|Plusieurs vulnérabilités ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir une élévation de privilèges, causer un déni de service,...|02 février 2023|
  |[40060202/23 - Vulnérabilité affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/4006020223-vulnerabilite-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger une vulnérabilité affectant son client de messagerie Mozilla Thunderbird. L’exploitation de cette vulnérabilité peut permettre à un...|02 février 2023|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/X-Org-Server-reuse-after-free-via-DeepCopyPointerClasses-40463" class="noirorange"><b>X.Org Server</b>: reuse after free via DeepCopyPointerClasses()</a>](https://vigilance.fr/vulnerability/X-Org-Server-reuse-after-free-via-DeepCopyPointerClasses-40463)|An attacker can force the reuse of a freed memory area of X.Org Server, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/graphite-web-three-vulnerabilities-40462" class="noirorange"><b>graphite-web</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/graphite-web-three-vulnerabilities-40462)|An attacker can use several vulnerabilities of graphite-web...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-February-2023-40461" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of February 2023</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-February-2023-40461)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/RubyGem-Active-Support-overload-via-Regular-Expression-40460" class="noirorange"><b>RubyGem Active Support</b>: overload via Regular Expression</a>](https://vigilance.fr/vulnerability/RubyGem-Active-Support-overload-via-Regular-Expression-40460)|An attacker can trigger an overload of RubyGem Active Support, via Regular Expression, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-three-vulnerabilities-40459" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-three-vulnerabilities-40459)|An attacker can use several vulnerabilities of WebKitGTK  WPE WebKit...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/EditorConfig-Core-C-buffer-overflow-via-ec-glob-40458" class="noirorange"><b>EditorConfig Core C</b>: buffer overflow via ec_glob()</a>](https://vigilance.fr/vulnerability/EditorConfig-Core-C-buffer-overflow-via-ec-glob-40458)|An attacker can trigger a buffer overflow of EditorConfig Core C, via ec_glob(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ImageMagick-file-read-write-via-Profile-40457" class="noirorange"><b>ImageMagick</b>: file read/write via Profile</a>](https://vigilance.fr/vulnerability/ImageMagick-file-read-write-via-Profile-40457)|An attacker can bypass access restrictions of ImageMagick, via Profile, in order to read or alter files...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TYPO3-vulnerabity-unveiled-on-07-02-2023-40456" class="noirorange"><b>TYPO3</b>: vulnerabity unveiled on 07/02/2023</a>](https://vigilance.fr/vulnerability/TYPO3-vulnerabity-unveiled-on-07-02-2023-40456)|A vulnerability of TYPO3 will be unveiled on 07/02/2023...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/RESTEasy-file-read-write-via-Temp-Files-40455" class="noirorange"><b>RESTEasy</b>: file read/write via Temp Files</a>](https://vigilance.fr/vulnerability/RESTEasy-file-read-write-via-Temp-Files-40455)|An attacker can bypass access restrictions of RESTEasy, via Temp Files, in order to read or alter files...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-Spectre-BTI-40454" class="noirorange"><b>Linux kernel</b>: memory reading via Spectre-BTI</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-Spectre-BTI-40454)|An attacker can read a memory fragment of the Linux kernel, via Spectre-BTI, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/binwalk-directory-traversal-40453" class="noirorange"><b>binwalk</b>: directory traversal</a>](https://vigilance.fr/vulnerability/binwalk-directory-traversal-40453)|An attacker can traverse directories of binwalk, in order to write a file outside the service root path...|Visit link for details|
  
 
 # HK-CERT
@@ -103,30 +122,21 @@
  |[Mozilla Thunderbird Security Restriction Bypass Vulnerability](/security-bulletin/mozilla-thunderbird-security-restriction-bypass-vulnerability_20230202)|A vulnerability was identified in Mozilla Thunderbird. A remote attacker can exploit this vulnerability to trigger security restriction bypass on the targeted system.|Release Date: 2 Feb 2023|
  
 
-# VulDB
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Calendar Event Management System SQL injection (CVE-2023-0675)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 6, 2023|
- |[Ichiran App man-in-the-middle (CVE-2023-22367)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 6, 2023|
- |[XXL-JOB cross-site request forgery (CVE-2023-0674)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 4, 2023|
- |[TOTOLINK T8 default account (CVE-2023-24155)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 3, 2023|
- |[Wavlink cross-site scripting (CVE-2022-48165)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 3, 2023|
- |[Linux Kernel code execution (CVE-2023-0045)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 3, 2023|
- |[Apache AGE SQL injection (CVE-2022-45786)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 3, 2023|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-006: Critical Security Flaw in Jira Service Management Server and Data Center](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|A critical security flaw has been discovered in Jira Service Management Server and Data Center that can be exploited by an attacker to impersonate another user and gain unauthorized access to instances. The vulnerability is tracked as CVE-2023-22501 with a CVSS score of 9.4.|Friday, February 03, 2023 07:20:00 PM CEST|
+ |[Dell security advisory (AV23-071)](https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-071)|Visit link for details|2023-02-06|
+ |[Ubuntu security advisory (AV23-070)](https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-070)|Visit link for details|2023-02-06|
+ |[IBM security advisory (AV23-069)](https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-069)|Visit link for details|2023-02-06|
+ |[ABB security advisory (AV23-068)](https://cyber.gc.ca/en/alerts-advisories/abb-security-advisory-av23-068)|Visit link for details|2023-02-06|
+ |[Microsoft Edge security advisory (AV23-067)](https://cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-067)|Visit link for details|2023-02-03|
+ |[VMware security advisory (AV23-066)](https://cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av23-066)|Visit link for details|2023-02-03|
+ |[[Control systems] Baicells security advisory (AV23-065)](https://cyber.gc.ca/en/alerts-advisories/control-systems-baicells-security-advisory-av23-065)|Visit link for details|2023-02-03|
+ |[[Control systems] Mitsubishi security advisory (AV23-064)](https://cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-security-advisory-av23-064)|Visit link for details|2023-02-03|
+ |[[Control systems] Delta Electronics security advisory (AV22-063)](https://cyber.gc.ca/en/alerts-advisories/control-systems-delta-electronics-security-advisory-av22-063)|Visit link for details|2023-02-03|
+ |[Atlassian security advisory (AV23-062)](https://cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av23-062)|Visit link for details|2023-02-02|
+ |[F5 security advisory (AV23-061)](https://cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av23-061)|Visit link for details|2023-02-02|
  
 
 # ZERODAYINITIATIVE
@@ -143,19 +153,9 @@
  |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
 
-# CA-CCS
+# EU-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Dell security advisory (AV23-071)](https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-071)|Visit link for details|2023-02-06|
- |[Ubuntu security advisory (AV23-070)](https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-070)|Visit link for details|2023-02-06|
- |[IBM security advisory (AV23-069)](https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-069)|Visit link for details|2023-02-06|
- |[ABB security advisory (AV23-068)](https://cyber.gc.ca/en/alerts-advisories/abb-security-advisory-av23-068)|Visit link for details|2023-02-06|
- |[Microsoft Edge security advisory (AV23-067)](https://cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-067)|Visit link for details|2023-02-03|
- |[VMware security advisory (AV23-066)](https://cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av23-066)|Visit link for details|2023-02-03|
- |[[Control systems] Baicells security advisory (AV23-065)](https://cyber.gc.ca/en/alerts-advisories/control-systems-baicells-security-advisory-av23-065)|Visit link for details|2023-02-03|
- |[[Control systems] Mitsubishi security advisory (AV23-064)](https://cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-security-advisory-av23-064)|Visit link for details|2023-02-03|
- |[[Control systems] Delta Electronics security advisory (AV22-063)](https://cyber.gc.ca/en/alerts-advisories/control-systems-delta-electronics-security-advisory-av22-063)|Visit link for details|2023-02-03|
- |[Atlassian security advisory (AV23-062)](https://cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av23-062)|Visit link for details|2023-02-02|
- |[F5 security advisory (AV23-061)](https://cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av23-061)|Visit link for details|2023-02-02|
+ |[2023-006: Critical Security Flaw in Jira Service Management Server and Data Center](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|A critical security flaw has been discovered in Jira Service Management Server and Data Center that can be exploited by an attacker to impersonate another user and gain unauthorized access to instances. The vulnerability is tracked as CVE-2023-22501 with a CVSS score of 9.4.|Friday, February 03, 2023 07:20:00 PM CEST|
  
