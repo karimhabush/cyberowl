@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 07/02/2023 10:22:45 UTC
+ > Last Updated 07/02/2023 11:19:03 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -53,6 +53,25 @@
  |[Vulnérabilité dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0087/)|Une vulnérabilité a été découverte dans les produits NetApp. Elle permet à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une atteinte à l'intégrité des données.|Publié le 2 février 2023|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[shadow-utils code execution (CVE-2023-0634)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
+ |[Delta Electronics DX-2100L1-CN cross-site scripting (CVE-2023-0432)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
+ |[TRENDnet TEW-811DRU denial of service (CVE-2023-0637)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
+ |[FastCMS file upload (CVE-2023-0651)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
+ |[Multilaser RE057 and Multilaser RE170 information disclosure (CVE-2023-0658)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
+ |[GNU C Library (glibc) buffer overflow (CVE-2023-25139)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
+ |[Grafana information disclosure (CVE-2022-23498)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -68,25 +87,6 @@
  |[40070302/23 - Vulnérabilités affectant le CMS Joomla](https://www.dgssi.gov.ma//fr/content/4007030223-vulnerabilites-affectant-le-cms-joomla.html)|Joomla annonce la disponibilité d’une mise à jour qui corrige deux vulnérabilités dans son CMS Joomla. L’exploitation de ces vulnérabilités peut permettre à un attaquant l’injection de codeindirecte à distance ou le contournement de la...|03 février 2023|
  |[40050202/23 - Vulnérabilités dans les produits Cisco](https://www.dgssi.gov.ma//fr/content/4005020223-vulnerabilites-dans-les-produits-cisco.html)|Plusieurs vulnérabilités ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir une élévation de privilèges, causer un déni de service,...|02 février 2023|
  |[40060202/23 - Vulnérabilité affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/4006020223-vulnerabilite-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger une vulnérabilité affectant son client de messagerie Mozilla Thunderbird. L’exploitation de cette vulnérabilité peut permettre à un...|02 février 2023|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[shadow-utils code execution (CVE-2023-0634)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
- |[Delta Electronics DX-2100L1-CN cross-site scripting (CVE-2023-0432)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
- |[TRENDnet TEW-811DRU denial of service (CVE-2023-0637)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
- |[FastCMS file upload (CVE-2023-0651)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
- |[Multilaser RE057 and Multilaser RE170 information disclosure (CVE-2023-0658)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
- |[GNU C Library (glibc) buffer overflow (CVE-2023-25139)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
- |[Grafana information disclosure (CVE-2022-23498)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
  
 
 # HK-CERT
@@ -105,28 +105,18 @@
  |[Mozilla Thunderbird Security Restriction Bypass Vulnerability](/security-bulletin/mozilla-thunderbird-security-restriction-bypass-vulnerability_20230202)|A vulnerability was identified in Mozilla Thunderbird. A remote attacker can exploit this vulnerability to trigger security restriction bypass on the targeted system.|Release Date: 2 Feb 2023|
  
 
-# EU-CERT
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[2023-006: Critical Security Flaw in Jira Service Management Server and Data Center](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|A critical security flaw has been discovered in Jira Service Management Server and Data Center that can be exploited by an attacker to impersonate another user and gain unauthorized access to instances. The vulnerability is tracked as CVE-2023-22501 with a CVSS score of 9.4.|Friday, February 03, 2023 07:20:00 PM CEST|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Dell security advisory (AV23-071)](https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-071)|Visit link for details|2023-02-06|
- |[Ubuntu security advisory (AV23-070)](https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-070)|Visit link for details|2023-02-06|
- |[IBM security advisory (AV23-069)](https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-069)|Visit link for details|2023-02-06|
- |[ABB security advisory (AV23-068)](https://cyber.gc.ca/en/alerts-advisories/abb-security-advisory-av23-068)|Visit link for details|2023-02-06|
- |[Microsoft Edge security advisory (AV23-067)](https://cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-067)|Visit link for details|2023-02-03|
- |[VMware security advisory (AV23-066)](https://cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av23-066)|Visit link for details|2023-02-03|
- |[[Control systems] Baicells security advisory (AV23-065)](https://cyber.gc.ca/en/alerts-advisories/control-systems-baicells-security-advisory-av23-065)|Visit link for details|2023-02-03|
- |[[Control systems] Mitsubishi security advisory (AV23-064)](https://cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-security-advisory-av23-064)|Visit link for details|2023-02-03|
- |[[Control systems] Delta Electronics security advisory (AV22-063)](https://cyber.gc.ca/en/alerts-advisories/control-systems-delta-electronics-security-advisory-av22-063)|Visit link for details|2023-02-03|
- |[Atlassian security advisory (AV23-062)](https://cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av23-062)|Visit link for details|2023-02-02|
- |[F5 security advisory (AV23-061)](https://cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av23-061)|Visit link for details|2023-02-02|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
 
 # OBS-Vigilance
@@ -146,8 +136,26 @@
  |[<a href="https://vigilance.fr/vulnerability/binwalk-directory-traversal-40453" class="noirorange"><b>binwalk</b>: directory traversal</a>](https://vigilance.fr/vulnerability/binwalk-directory-traversal-40453)|An attacker can traverse directories of binwalk, in order to write a file outside the service root path...|Visit link for details|
  
 
-# ZERODAYINITIATIVE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
+ |[Dell security advisory (AV23-071)](https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-071)|Visit link for details|2023-02-06|
+ |[Ubuntu security advisory (AV23-070)](https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-070)|Visit link for details|2023-02-06|
+ |[IBM security advisory (AV23-069)](https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-069)|Visit link for details|2023-02-06|
+ |[ABB security advisory (AV23-068)](https://cyber.gc.ca/en/alerts-advisories/abb-security-advisory-av23-068)|Visit link for details|2023-02-06|
+ |[Microsoft Edge security advisory (AV23-067)](https://cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-067)|Visit link for details|2023-02-03|
+ |[VMware security advisory (AV23-066)](https://cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av23-066)|Visit link for details|2023-02-03|
+ |[[Control systems] Baicells security advisory (AV23-065)](https://cyber.gc.ca/en/alerts-advisories/control-systems-baicells-security-advisory-av23-065)|Visit link for details|2023-02-03|
+ |[[Control systems] Mitsubishi security advisory (AV23-064)](https://cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-security-advisory-av23-064)|Visit link for details|2023-02-03|
+ |[[Control systems] Delta Electronics security advisory (AV22-063)](https://cyber.gc.ca/en/alerts-advisories/control-systems-delta-electronics-security-advisory-av22-063)|Visit link for details|2023-02-03|
+ |[Atlassian security advisory (AV23-062)](https://cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av23-062)|Visit link for details|2023-02-02|
+ |[F5 security advisory (AV23-061)](https://cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av23-061)|Visit link for details|2023-02-02|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-006: Critical Security Flaw in Jira Service Management Server and Data Center](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|A critical security flaw has been discovered in Jira Service Management Server and Data Center that can be exploited by an attacker to impersonate another user and gain unauthorized access to instances. The vulnerability is tracked as CVE-2023-22501 with a CVSS score of 9.4.|Friday, February 03, 2023 07:20:00 PM CEST|
  
