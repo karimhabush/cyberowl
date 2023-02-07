@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 07/02/2023 01:40:46 UTC
+ > Last Updated 07/02/2023 02:43:14 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -83,40 +83,26 @@
  |[Grafana information disclosure (CVE-2022-23498)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
  
 
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Edge Data Manipulation Vulnerability](/security-bulletin/microsoft-edge-data-manipulation-vulnerability_20230206)|A vulnerability was identified in Microsoft Edge. A remote attacker could exploit this vulnerability to trigger data manipulation on the targeted system. Note:Proof Of Concept Exploit Code is Publicly Available for CVE-2023-21720.|Release Date: 6 Feb 2023|
- |[F5 Products Multiple Vulnerabilities](/security-bulletin/f5-products-multiple-vulnerabilities_20230203)|Multiple vulnerabilities were identified in F5 Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service and remote code execution on the targeted system. |Release Date: 3 Feb 2023|
- |[Microsoft Monthly Security Update (October 2022)](/security-bulletin/microsoft-monthly-security-update-october-2022)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesWindows High RiskRemote Code ExecutionDenial of ServiceSpoofingElevation of PrivilegeInformation DisclosureSecurity Restriction BypassCVE-2022-...| Release Date: 12 Oct 2022 |
- |[IBM WebSphere Application Server Remote Code Execution Vulnerability](/security-bulletin/ibm-websphere-application-server-remote-code-execution-vulnerability_20230202)|A vulnerability was identified in IBM WebSphere Application Server. A remote user can exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 2 Feb 2023|
- |[Mozilla Thunderbird Security Restriction Bypass Vulnerability](/security-bulletin/mozilla-thunderbird-security-restriction-bypass-vulnerability_20230202)|A vulnerability was identified in Mozilla Thunderbird. A remote attacker can exploit this vulnerability to trigger security restriction bypass on the targeted system.|Release Date: 2 Feb 2023|
- |[ISC BIND Multiple Vulnerabilities](/security-bulletin/isc-bind-multiple-vulnerabilities_20230202)|Multiple vulnerabilities were identified in BIND. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition on the targeted system.|Release Date: 2 Feb 2023|
- |[ChromeOS Multiple Vulnerabilities](/security-bulletin/chromeos-multiple-vulnerabilities_20230201)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and sensitive information disclosure on the targeted system.|Release Date: 1 Feb 2023|
- |[VMWare vRealize Log Insight Multiple Vulnerabilities](/security-bulletin/vmware-vrealize-log-insight-multiple-vulnerabilities_20230126)|Multiple vulnerabilities were identified in VMware vRealize Log Insight. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-02-01]Proof of Concept exploit code...| Release Date: 26 Jan 2023 |
- |[QNAP NAS Remote Code Execution Vulnerability](/security-bulletin/qnap-nas-remote-code-execution-vulnerability_20230131)|A vulnerability was identified in QNAP NAS. A remote attacker can exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 31 Jan 2023|
- |[Linux Kernel Multiple Vulnerabilities](/security-bulletin/linux-kernel-multiple-vulnerabilities_20230130)|Multiple vulnerabilities were identified in Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 30 Jan 2023|
- 
-
 # VulDB
 
  |Title|Description|Date|
  |---|---|---|
  
 
-# ZERODAYINITIATIVE
+# HK-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
+ |[IBM MQ Denial of Service Vulnerability](/security-bulletin/ibm-mq-denial-of-service-vulnerability_20230207)|A vulnerability has been identified in IBM MQ. A remote user can exploit this vulnerability to trigger denial of service condition on the targeted system.|Release Date: 7 Feb 2023|
+ |[Android Multiple Vulnerabilities](/security-bulletin/android-multiple-vulnerabilities_20230207)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 7 Feb 2023|
+ |[ChromeOS Multiple Vulnerabilities](/security-bulletin/chromeos-multiple-vulnerabilities_20230207)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 7 Feb 2023|
+ |[SUSE Linux Kernel Multiple Vulnerabilities](/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230207)|Multiple vulnerabilities were identified in SUSE Linux. A attacker could exploit some of these vulnerabilities to trigger denial of service condition and elevation of privilege on the targeted system.|Release Date: 7 Feb 2023|
+ |[OpenSSH Multiple Vulnerabilities](/security-bulletin/openssh-multiple-vulnerabilities_20230207)|Multiple vulnerabilities were identified in OpenSSH. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 7 Feb 2023|
+ |[Microsoft Edge Data Manipulation Vulnerability](/security-bulletin/microsoft-edge-data-manipulation-vulnerability_20230206)|A vulnerability was identified in Microsoft Edge. A remote attacker could exploit this vulnerability to trigger data manipulation on the targeted system. Note:Proof Of Concept Exploit Code is Publicly Available for CVE-2023-21720.|Release Date: 6 Feb 2023|
+ |[F5 Products Multiple Vulnerabilities](/security-bulletin/f5-products-multiple-vulnerabilities_20230203)|Multiple vulnerabilities were identified in F5 Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service and remote code execution on the targeted system. |Release Date: 3 Feb 2023|
+ |[Microsoft Monthly Security Update (October 2022)](/security-bulletin/microsoft-monthly-security-update-october-2022)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesWindows High RiskRemote Code ExecutionDenial of ServiceSpoofingElevation of PrivilegeInformation DisclosureSecurity Restriction BypassCVE-2022-...| Release Date: 12 Oct 2022 |
+ |[IBM WebSphere Application Server Remote Code Execution Vulnerability](/security-bulletin/ibm-websphere-application-server-remote-code-execution-vulnerability_20230202)|A vulnerability was identified in IBM WebSphere Application Server. A remote user can exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 2 Feb 2023|
+ |[Mozilla Thunderbird Security Restriction Bypass Vulnerability](/security-bulletin/mozilla-thunderbird-security-restriction-bypass-vulnerability_20230202)|A vulnerability was identified in Mozilla Thunderbird. A remote attacker can exploit this vulnerability to trigger security restriction bypass on the targeted system.|Release Date: 2 Feb 2023|
  
 
 # OBS-Vigilance
@@ -134,6 +120,20 @@
  |[<a href="https://vigilance.fr/vulnerability/binwalk-directory-traversal-40453" class="noirorange"><b>binwalk</b>: directory traversal</a>](https://vigilance.fr/vulnerability/binwalk-directory-traversal-40453)|An attacker can traverse directories of binwalk, in order to write a file outside the service root path...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-Per-cpu-Entry-Area-40452" class="noirorange"><b>Linux kernel</b>: memory reading via Per-cpu Entry Area</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-Per-cpu-Entry-Area-40452)|An attacker can read a memory fragment of the Linux kernel, via Per-cpu Entry Area, in order to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Dell-NetWorker-code-execution-via-nsrdump-40451" class="noirorange"><b>Dell NetWorker</b>: code execution via nsrdump</a>](https://vigilance.fr/vulnerability/Dell-NetWorker-code-execution-via-nsrdump-40451)|An attacker can use a vulnerability of Dell NetWorker, via nsrdump, in order to run code...|Visit link for details|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
 
 # CA-CCS
