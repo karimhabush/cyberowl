@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 07/02/2023 08:26:32 UTC
+ > Last Updated 07/02/2023 09:20:06 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -53,10 +53,30 @@
  |[Vulnérabilité dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0087/)|Une vulnérabilité a été découverte dans les produits NetApp. Elle permet à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une atteinte à l'intégrité des données.|Publié le 2 février 2023|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[shadow-utils code execution (CVE-2023-0634)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
+ |[Delta Electronics DX-2100L1-CN cross-site scripting (CVE-2023-0432)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
+ |[TRENDnet TEW-811DRU denial of service (CVE-2023-0637)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
+ |[FastCMS file upload (CVE-2023-0651)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
+ |[Multilaser RE057 and Multilaser RE170 information disclosure (CVE-2023-0658)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
+ |[GNU C Library (glibc) buffer overflow (CVE-2023-25139)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
+ |[Grafana information disclosure (CVE-2022-23498)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[40150702/23 - Vulnérabilité affectantle navigateur Microsoft Edge ](https://www.dgssi.gov.ma//fr/content/4015070223-vulnerabilite-affectant-le-navigateur-microsoft-edge.html)|Microsoft vient de publier une mise à jour de sécurité qui permet de corriger unevulnérabilité affectant le navigateur Microsoft Edge. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant de contourner les mesures...|07 février 2023|
  |[40140602/23 - Vulnérabilité critique dans Atlassian Jira Service Management Server et Data Center](https://www.dgssi.gov.ma//fr/content/4014060223-vulnerabilite-critique-dans-atlassian-jira-service-management-server-et-data-center.html)|Atlassian a corrigée une vulnérabilité critique affectant Service Management Server et Data Center. L’exploitation de cette faille peut permettre à un attaquant non authentifié de se faire passer pour d'autres utilisateurs et d'...|06 février 2023|
  |[40130302/23 - Vulnérabilité affectant OpenSSH](https://www.dgssi.gov.ma//fr/content/4013030223-vulnerabilite-affectant-openssh.html)|OpenSSH annonce la disponibilité de mise à jour de sécurité qui corrige une vulnérabilité auniveaud’OpenSSH. L’exploitation de cette vulnérabilité peut permettre à un attaquant distantd’exécuter du code arbitraire.|06 février 2023|
  |[40100602/23 - Vulnérabilité dans VMware Workstation](https://www.dgssi.gov.ma//fr/content/4010060223-vulnerabilite-dans-vmware-workstation.html)|Une vulnérabilité a été corrigée dans VMware Workstation. L’exploitation de cette faille pourrait permettre à un attaquant de porter atteinte à la confidentialité de données et deréussir une élévation de privilèges.|06 février 2023|
@@ -67,13 +87,6 @@
  |[40070302/23 - Vulnérabilités affectant le CMS Joomla](https://www.dgssi.gov.ma//fr/content/4007030223-vulnerabilites-affectant-le-cms-joomla.html)|Joomla annonce la disponibilité d’une mise à jour qui corrige deux vulnérabilités dans son CMS Joomla. L’exploitation de ces vulnérabilités peut permettre à un attaquant l’injection de codeindirecte à distance ou le contournement de la...|03 février 2023|
  |[40050202/23 - Vulnérabilités dans les produits Cisco](https://www.dgssi.gov.ma//fr/content/4005020223-vulnerabilites-dans-les-produits-cisco.html)|Plusieurs vulnérabilités ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir une élévation de privilèges, causer un déni de service,...|02 février 2023|
  |[40060202/23 - Vulnérabilité affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/4006020223-vulnerabilite-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger une vulnérabilité affectant son client de messagerie Mozilla Thunderbird. L’exploitation de cette vulnérabilité peut permettre à un...|02 février 2023|
- |[40040202/23 - Vulnérabilité dans VMware vRealize Operations](https://www.dgssi.gov.ma//fr/content/4004020223-vulnerabilite-dans-vmware-vrealize-operations.html)|Une vulnérabilité a été corrigée dans VMware vRealize Operations. L’exploitation de cette faille peut permettre à un attaquant d’exécuter du code arbitraire à distance.|02 février 2023|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # HK-CERT
@@ -92,37 +105,11 @@
  |[Mozilla Thunderbird Security Restriction Bypass Vulnerability](/security-bulletin/mozilla-thunderbird-security-restriction-bypass-vulnerability_20230202)|A vulnerability was identified in Mozilla Thunderbird. A remote attacker can exploit this vulnerability to trigger security restriction bypass on the targeted system.|Release Date: 2 Feb 2023|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[shadow-utils code execution (CVE-2023-0634)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
- |[Delta Electronics DX-2100L1-CN cross-site scripting (CVE-2023-0432)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
- |[TRENDnet TEW-811DRU denial of service (CVE-2023-0637)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
- |[FastCMS file upload (CVE-2023-0651)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
- |[Multilaser RE057 and Multilaser RE170 information disclosure (CVE-2023-0658)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
- |[GNU C Library (glibc) buffer overflow (CVE-2023-25139)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
- |[Grafana information disclosure (CVE-2022-23498)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 2, 2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/graphite-web-three-vulnerabilities-40462" class="noirorange"><b>graphite-web</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/graphite-web-three-vulnerabilities-40462)|An attacker can use several vulnerabilities of graphite-web...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-February-2023-40461" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of February 2023</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-February-2023-40461)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/RubyGem-Active-Support-overload-via-Regular-Expression-40460" class="noirorange"><b>RubyGem Active Support</b>: overload via Regular Expression</a>](https://vigilance.fr/vulnerability/RubyGem-Active-Support-overload-via-Regular-Expression-40460)|An attacker can trigger an overload of RubyGem Active Support, via Regular Expression, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-three-vulnerabilities-40459" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-three-vulnerabilities-40459)|An attacker can use several vulnerabilities of WebKitGTK  WPE WebKit...|Visit link for details|
@@ -133,7 +120,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-Spectre-BTI-40454" class="noirorange"><b>Linux kernel</b>: memory reading via Spectre-BTI</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-Spectre-BTI-40454)|An attacker can read a memory fragment of the Linux kernel, via Spectre-BTI, in order to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/binwalk-directory-traversal-40453" class="noirorange"><b>binwalk</b>: directory traversal</a>](https://vigilance.fr/vulnerability/binwalk-directory-traversal-40453)|An attacker can traverse directories of binwalk, in order to write a file outside the service root path...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-Per-cpu-Entry-Area-40452" class="noirorange"><b>Linux kernel</b>: memory reading via Per-cpu Entry Area</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-Per-cpu-Entry-Area-40452)|An attacker can read a memory fragment of the Linux kernel, via Per-cpu Entry Area, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Dell-NetWorker-code-execution-via-nsrdump-40451" class="noirorange"><b>Dell NetWorker</b>: code execution via nsrdump</a>](https://vigilance.fr/vulnerability/Dell-NetWorker-code-execution-via-nsrdump-40451)|An attacker can use a vulnerability of Dell NetWorker, via nsrdump, in order to run code...|Visit link for details|
  
 
 # CA-CCS
@@ -158,4 +144,18 @@
  |Title|Description|Date|
  |---|---|---|
  |[2023-006: Critical Security Flaw in Jira Service Management Server and Data Center](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|A critical security flaw has been discovered in Jira Service Management Server and Data Center that can be exploited by an attacker to impersonate another user and gain unauthorized access to instances. The vulnerability is tracked as CVE-2023-22501 with a CVSS score of 9.4.|Friday, February 03, 2023 07:20:00 PM CEST|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
