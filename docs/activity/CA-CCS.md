@@ -4,7 +4,7 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Android Security Advisory – february 2023 monthly rollup (AV23-072)](https://cyber.gc.ca/en/alerts-advisories/android-security-advisory-february-2023-monthly-rollup-av23-072)|Visit link for details|2023-02-07|
+ |[Android security advisory – February 2023 monthly rollup (AV23-072)](https://cyber.gc.ca/en/alerts-advisories/android-security-advisory-february-2023-monthly-rollup-av23-072)|Visit link for details|2023-02-07|
  |[Dell security advisory (AV23-071)](https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-071)|Visit link for details|2023-02-06|
  |[Ubuntu security advisory (AV23-070)](https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-070)|Visit link for details|2023-02-06|
  |[IBM security advisory (AV23-069)](https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-069)|Visit link for details|2023-02-06|
