@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 08/02/2023 08:27:45 UTC
+ > Last Updated 08/02/2023 09:23:19 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -37,28 +37,6 @@
  |[Drupal Releases Security Update to Address a Vulnerability in Apigee Edge](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/02/drupal-releases-security-update-address-vulnerability-apigee-edge)|<p>Drupal released a security update to address a vulnerability affecting the Apigee Edge module for Drupal 9.x. An attacker could exploit this vulnerability to bypass access authorization or disclose sensitive information.<br><br>CISA encourages users and administrators to review Drupal’s security advisory <a href="https://www.drupal.org/sa-contrib-2023-005">SA-CONTRIB- 2023-005</a> and apply the necessary update.</p>|Thursday, February 2, 2023|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0098/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 7 février 2023|
- |[Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0097/)|De multiples vulnérabilités ont été découvertes dans Google Android. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une élévation de privilèges et un déni de service.|Publié le 7 février 2023|
- |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0096/)|De multiples vulnérabilités ont été corrigées dans |Publié le 6 février 2023|
- |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0095/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 6 février 2023|
- |[Multiples vulnérabilités dans les produits Elastic](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0094/)|De multiples vulnérabilités ont été découvertes dans les produits Elastic. Elles permettent à un attaquant de provoquer un déni de service à distance et une élévation de privilèges.|Publié le 6 février 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0093/)|De multiples vulnérabilités ont été corrigées dans |Publié le 3 février 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0092/)|De multiples vulnérabilités ont été corrigées dans le noyau Linux de|Publié le 3 février 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0091/)|De multiples vulnérabilités ont été corrigées dans |Publié le 3 février 2023|
- |[Vulnérabilité dans VMware Workstation](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0090/)|Une vulnérabilité a été découverte dans VMware Workstation. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données et une élévation de privilèges.|Publié le 3 février 2023|
- |[Multiples vulnérabilités dans OpenSSH](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0089/)|De multiples vulnérabilités ont été découvertes dans OpenSSH. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et un contournement de la politique de sécurité.|Publié le 3 février 2023|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -88,10 +66,17 @@
  |[IBM WebSphere Application Server Remote Code Execution Vulnerability](/security-bulletin/ibm-websphere-application-server-remote-code-execution-vulnerability_20230202)|A vulnerability was identified in IBM WebSphere Application Server. A remote user can exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 2 Feb 2023|
  
 
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[40160802/23 - Vulnérabilités affectant le système d’exploitation Android](https://www.dgssi.gov.ma//fr/content/4016080223-vulnerabilites-affectant-le-systeme-d-exploitation-android.html)|Google annonce la correction de plusieurs vulnérabilités affectantson système d’exploitation Android.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’accéder à des données confidentielles, d’...|08 février 2023|
  |[40150702/23 - Vulnérabilité affectantle navigateur Microsoft Edge ](https://www.dgssi.gov.ma//fr/content/4015070223-vulnerabilite-affectant-le-navigateur-microsoft-edge.html)|Microsoft vient de publier une mise à jour de sécurité qui permet de corriger unevulnérabilité affectant le navigateur Microsoft Edge. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant de contourner les mesures...|07 février 2023|
  |[40140602/23 - Vulnérabilité critique dans Atlassian Jira Service Management Server et Data Center](https://www.dgssi.gov.ma//fr/content/4014060223-vulnerabilite-critique-dans-atlassian-jira-service-management-server-et-data-center.html)|Atlassian a corrigée une vulnérabilité critique affectant Service Management Server et Data Center. L’exploitation de cette faille peut permettre à un attaquant non authentifié de se faire passer pour d'autres utilisateurs et d'...|06 février 2023|
  |[40130302/23 - Vulnérabilité affectant OpenSSH](https://www.dgssi.gov.ma//fr/content/4013030223-vulnerabilite-affectant-openssh.html)|OpenSSH annonce la disponibilité de mise à jour de sécurité qui corrige une vulnérabilité auniveaud’OpenSSH. L’exploitation de cette vulnérabilité peut permettre à un attaquant distantd’exécuter du code arbitraire.|06 février 2023|
@@ -102,24 +87,39 @@
  |[40080302/23 - Vulnérabilités dans les produits F5](https://www.dgssi.gov.ma//fr/content/4008030223-vulnerabilites-dans-les-produits-f5.html)|Plusieurs vulnérabilités ont été corrigées dans les produits F5 susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, causer un déni de service, contourner la politique de sécurité ou...|03 février 2023|
  |[40070302/23 - Vulnérabilités affectant le CMS Joomla](https://www.dgssi.gov.ma//fr/content/4007030223-vulnerabilites-affectant-le-cms-joomla.html)|Joomla annonce la disponibilité d’une mise à jour qui corrige deux vulnérabilités dans son CMS Joomla. L’exploitation de ces vulnérabilités peut permettre à un attaquant l’injection de codeindirecte à distance ou le contournement de la...|03 février 2023|
  |[40050202/23 - Vulnérabilités dans les produits Cisco](https://www.dgssi.gov.ma//fr/content/4005020223-vulnerabilites-dans-les-produits-cisco.html)|Plusieurs vulnérabilités ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir une élévation de privilèges, causer un déni de service,...|02 février 2023|
- |[40060202/23 - Vulnérabilité affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/4006020223-vulnerabilite-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger une vulnérabilité affectant son client de messagerie Mozilla Thunderbird. L’exploitation de cette vulnérabilité peut permettre à un...|02 février 2023|
  
 
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-Core-vulnerabity-unveiled-on-14-02-2023-40471" class="noirorange"><b>Node.js Core</b>: vulnerabity unveiled on 14/02/2023</a>](https://vigilance.fr/vulnerability/Node-js-Core-vulnerabity-unveiled-on-14-02-2023-40471)|A vulnerability of Node.js Core will be unveiled on 14/02/2023...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Eternal-Terminal-information-disclosure-via-Logfiles-40470" class="noirorange"><b>Eternal Terminal</b>: information disclosure via Logfiles</a>](https://vigilance.fr/vulnerability/Eternal-Terminal-information-disclosure-via-Logfiles-40470)|An attacker can bypass access restrictions to data of Eternal Terminal, via Logfiles, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Eternal-Terminal-file-corruption-via-Predictable-Logfile-Names-40469" class="noirorange"><b>Eternal Terminal</b>: file corruption via Predictable Logfile Names</a>](https://vigilance.fr/vulnerability/Eternal-Terminal-file-corruption-via-Predictable-Logfile-Names-40469)|An attacker can create a symbolic link, in order to alter the pointed file, with privileges of Eternal Terminal, via Predictable Logfile Names...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-grunt-file-reading-via-Dest-Symlink-40468" class="noirorange"><b>Node.js grunt</b>: file reading via Dest Symlink</a>](https://vigilance.fr/vulnerability/Node-js-grunt-file-reading-via-Dest-Symlink-40468)|An attacker can read a file of Node.js grunt, via Dest Symlink, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-grunt-file-reading-via-Symlink-40467" class="noirorange"><b>Node.js grunt</b>: file reading via Symlink</a>](https://vigilance.fr/vulnerability/Node-js-grunt-file-reading-via-Symlink-40467)|An attacker can read a file of Node.js grunt, via Symlink, in order to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-Kafka-code-execution-via-Connect-SASL-JAAS-JndiLoginModule-40466" class="noirorange"><b>Apache Kafka</b>: code execution via Connect SASL JAAS JndiLoginModule</a>](https://vigilance.fr/vulnerability/Apache-Kafka-code-execution-via-Connect-SASL-JAAS-JndiLoginModule-40466)|An attacker can use a vulnerability of Apache Kafka, via Connect SASL JAAS JndiLoginModule, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-Smtpd-Local-Scoped-Ipv6-Address-40465" class="noirorange"><b>OpenBSD</b>: denial of service via Smtpd Local Scoped Ipv6 Address</a>](https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-Smtpd-Local-Scoped-Ipv6-Address-40465)|An attacker can cause a fatal error of OpenBSD, via Smtpd Local Scoped Ipv6 Address, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/X-Org-Server-reuse-after-free-via-DeepCopyPointerClasses-40463" class="noirorange"><b>X.Org Server</b>: reuse after free via DeepCopyPointerClasses()</a>](https://vigilance.fr/vulnerability/X-Org-Server-reuse-after-free-via-DeepCopyPointerClasses-40463)|An attacker can force the reuse of a freed memory area of X.Org Server, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/graphite-web-three-vulnerabilities-40462" class="noirorange"><b>graphite-web</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/graphite-web-three-vulnerabilities-40462)|An attacker can use several vulnerabilities of graphite-web...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-February-2023-40461" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of February 2023</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-February-2023-40461)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/RubyGem-Active-Support-overload-via-Regular-Expression-40460" class="noirorange"><b>RubyGem Active Support</b>: overload via Regular Expression</a>](https://vigilance.fr/vulnerability/RubyGem-Active-Support-overload-via-Regular-Expression-40460)|An attacker can trigger an overload of RubyGem Active Support, via Regular Expression, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-three-vulnerabilities-40459" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-three-vulnerabilities-40459)|An attacker can use several vulnerabilities of WebKitGTK  WPE WebKit...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/EditorConfig-Core-C-buffer-overflow-via-ec-glob-40458" class="noirorange"><b>EditorConfig Core C</b>: buffer overflow via ec_glob()</a>](https://vigilance.fr/vulnerability/EditorConfig-Core-C-buffer-overflow-via-ec-glob-40458)|An attacker can trigger a buffer overflow of EditorConfig Core C, via ec_glob(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ImageMagick-file-read-write-via-Profile-40457" class="noirorange"><b>ImageMagick</b>: file read/write via Profile</a>](https://vigilance.fr/vulnerability/ImageMagick-file-read-write-via-Profile-40457)|An attacker can bypass access restrictions of ImageMagick, via Profile, in order to read or alter files...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TYPO3-Core-Cross-Site-Scripting-via-Frontend-Rendering-40456" class="noirorange"><b>TYPO3 Core</b>: Cross Site Scripting via Frontend Rendering</a>](https://vigilance.fr/vulnerability/TYPO3-Core-Cross-Site-Scripting-via-Frontend-Rendering-40456)|An attacker can trigger a Cross Site Scripting of TYPO3 Core, via Frontend Rendering, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/RESTEasy-file-read-write-via-Temp-Files-40455" class="noirorange"><b>RESTEasy</b>: file read/write via Temp Files</a>](https://vigilance.fr/vulnerability/RESTEasy-file-read-write-via-Temp-Files-40455)|An attacker can bypass access restrictions of RESTEasy, via Temp Files, in order to read or alter files...|Visit link for details|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0098/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 7 février 2023|
+ |[Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0097/)|De multiples vulnérabilités ont été découvertes dans Google Android. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une élévation de privilèges et un déni de service.|Publié le 7 février 2023|
+ |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0096/)|De multiples vulnérabilités ont été corrigées dans |Publié le 6 février 2023|
+ |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0095/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 6 février 2023|
+ |[Multiples vulnérabilités dans les produits Elastic](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0094/)|De multiples vulnérabilités ont été découvertes dans les produits Elastic. Elles permettent à un attaquant de provoquer un déni de service à distance et une élévation de privilèges.|Publié le 6 février 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0093/)|De multiples vulnérabilités ont été corrigées dans |Publié le 3 février 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0092/)|De multiples vulnérabilités ont été corrigées dans le noyau Linux de|Publié le 3 février 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0091/)|De multiples vulnérabilités ont été corrigées dans |Publié le 3 février 2023|
+ |[Vulnérabilité dans VMware Workstation](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0090/)|Une vulnérabilité a été découverte dans VMware Workstation. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données et une élévation de privilèges.|Publié le 3 février 2023|
+ |[Multiples vulnérabilités dans OpenSSH](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0089/)|De multiples vulnérabilités ont été découvertes dans OpenSSH. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et un contournement de la politique de sécurité.|Publié le 3 février 2023|
  
 
 # CA-CCS
@@ -139,13 +139,6 @@
  |[Atlassian security advisory (AV23-062)](https://cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av23-062)|Visit link for details|2023-02-02|
  
 
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-006: Critical Security Flaw in Jira Service Management Server and Data Center](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|A critical security flaw has been discovered in Jira Service Management Server and Data Center that can be exploited by an attacker to impersonate another user and gain unauthorized access to instances. The vulnerability is tracked as CVE-2023-22501 with a CVSS score of 9.4.|Friday, February 03, 2023 07:20:00 PM CEST|
- 
-
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -158,4 +151,11 @@
  |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
  |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
  |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-006: Critical Security Flaw in Jira Service Management Server and Data Center](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|A critical security flaw has been discovered in Jira Service Management Server and Data Center that can be exploited by an attacker to impersonate another user and gain unauthorized access to instances. The vulnerability is tracked as CVE-2023-22501 with a CVSS score of 9.4.|Friday, February 03, 2023 07:20:00 PM CEST|
  
