@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 08/02/2023 18:28:00 UTC
+ > Last Updated 08/02/2023 19:20:32 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,12 +29,29 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA and FBI Release ESXiArgs Ransomware Recovery Guidance](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/08/cisa-and-fbi-release-esxiargs-ransomware-recovery-guidance)|<p>Today, CISA and the Federal Bureau of Investigation (FBI) released a joint Cybersecurity Advisory, <a href="https://www.cisa.gov/uscert/ncas/alerts/aa23-039a">ESXiArgs Ransomware Virtual Machine Recovery Guidance</a>. This advisory describes the ongoing ransomware campaign known as “ESXiArgs.” Malicious cyber actors may be exploiting known vulnerabilities in unpatched and out-of-service or out-of-date versions of VMware ESXi software to gain access to ESXi servers and deploy ESXiArgs ransomware.</p>|Wednesday, February 8, 2023|
  |[CISA Releases ESXiArgs Ransomware Recovery Script ](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/07/cisa-releases-esxiargs-ransomware-recovery-script)|<p>CISA has released a recovery script for organizations that have fallen victim to ESXiArgs ransomware. The ESXiArgs ransomware encrypts configuration files on vulnerable ESXi servers, potentially rendering virtual machines (VMs) unusable.</p>|Tuesday, February 7, 2023|
  |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/07/cisa-releases-one-industrial-control-systems-advisory)|<p>CISA released one Industrial Control Systems (ICS) advisory on February 7, 2023. This advisory provides timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p>|Tuesday, February 7, 2023|
  |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/02/cisa-releases-six-industrial-control-systems-advisories)|<p>CISA released six Industrial Control Systems (ICS) advisories on February 2, 2023.These advisories provides timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p>|Thursday, February 2, 2023|
  |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/02/cisa-adds-two-known-exploited-vulnerabilities-catalog)|<p>CISA has added two new vulnerabilities to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. <strong>Note</strong>: To view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.</p>|Thursday, February 2, 2023|
  |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/02/cisco-releases-security-advisories-multiple-products)|<p>Cisco released security updates for vulnerabilities affecting multiple products. A remote attacker could exploit these vulnerabilities to take control of an affected system.</p>|Thursday, February 2, 2023|
- |[Drupal Releases Security Update to Address a Vulnerability in Apigee Edge](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/02/drupal-releases-security-update-address-vulnerability-apigee-edge)|<p>Drupal released a security update to address a vulnerability affecting the Apigee Edge module for Drupal 9.x. An attacker could exploit this vulnerability to bypass access authorization or disclose sensitive information.<br><br>CISA encourages users and administrators to review Drupal’s security advisory <a href="https://www.drupal.org/sa-contrib-2023-005">SA-CONTRIB- 2023-005</a> and apply the necessary update.</p>|Thursday, February 2, 2023|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[40200802/23 - Vulnérabilités dans OpenSSL](https://www.dgssi.gov.ma//fr/content/4020080223-vulnerabilites-dans-openssl.html)|OpenSSL a publié un avis de sécurité pour corriger plusieurs vulnérabilités affectant les versions susmentionnées de OpenSSL.L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service et de porter atteinte à...|08 février 2023|
+ |[40190802/23 - Vulnérabilité dans phpMyAdmin](https://www.dgssi.gov.ma//fr/content/4019080223-vulnerabilite-dans-phpmyadmin.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées de phpMyAdmin. L’exploitation de cette faille peut permettre à un attaquant de déclencher une attaque XSS en envoyant un fichier ".sql" spécialement conçu.|08 février 2023|
+ |[40180802/23 - Vulnérabilité dans EnOcean SmartServer](https://www.dgssi.gov.ma//fr/content/4018080223-vulnerabilite-dans-enocean-smartserver.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées de l’EnOcean SmartServer. En effet, les versions vulnérables de SmartServer stockent des informations d'identification dans un fichier en clair. Si l'attaquant...|08 février 2023|
+ |[40170802/23 - Correctif de sécurité pour le zero-dayaffectant GoAnywhere MFT](https://www.dgssi.gov.ma//fr/content/4017080223-correctif-de-securite-pour-le-zero-day-affectant-goanywhere-mft.html)|Fortra a publié un correctif d'urgence pour corriger une vulnérabilité de type "zero-day" activement exploitée dans l'outil de transfert de fichiers sécurisé GoAnywhere MFT. La vulné-rabilité permet aux attaquants d’...|08 février 2023|
+ |[40160802/23 - Vulnérabilités affectant le système d’exploitation Android](https://www.dgssi.gov.ma//fr/content/4016080223-vulnerabilites-affectant-le-systeme-d-exploitation-android.html)|Google annonce la correction de plusieurs vulnérabilités affectantson système d’exploitation Android.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’accéder à des données confidentielles, d’...|08 février 2023|
+ |[40150702/23 - Vulnérabilité affectantle navigateur Microsoft Edge ](https://www.dgssi.gov.ma//fr/content/4015070223-vulnerabilite-affectant-le-navigateur-microsoft-edge.html)|Microsoft vient de publier une mise à jour de sécurité qui permet de corriger unevulnérabilité affectant le navigateur Microsoft Edge. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant de contourner les mesures...|07 février 2023|
+ |[40140602/23 - Vulnérabilité critique dans Atlassian Jira Service Management Server et Data Center](https://www.dgssi.gov.ma//fr/content/4014060223-vulnerabilite-critique-dans-atlassian-jira-service-management-server-et-data-center.html)|Atlassian a corrigée une vulnérabilité critique affectant Service Management Server et Data Center. L’exploitation de cette faille peut permettre à un attaquant non authentifié de se faire passer pour d'autres utilisateurs et d'...|06 février 2023|
+ |[40130302/23 - Vulnérabilité affectant OpenSSH](https://www.dgssi.gov.ma//fr/content/4013030223-vulnerabilite-affectant-openssh.html)|OpenSSH annonce la disponibilité de mise à jour de sécurité qui corrige une vulnérabilité auniveaud’OpenSSH. L’exploitation de cette vulnérabilité peut permettre à un attaquant distantd’exécuter du code arbitraire.|06 février 2023|
+ |[40100602/23 - Vulnérabilité dans VMware Workstation](https://www.dgssi.gov.ma//fr/content/4010060223-vulnerabilite-dans-vmware-workstation.html)|Une vulnérabilité a été corrigée dans VMware Workstation. L’exploitation de cette faille pourrait permettre à un attaquant de porter atteinte à la confidentialité de données et deréussir une élévation de privilèges.|06 février 2023|
+ |[40090602/23 - Campagne de Ransomware cible les serveurs VMware ESXi non corrigés](https://www.dgssi.gov.ma//fr/content/4009060223-campagne-de-ransomware-cible-les-serveurs-vmware-esxi-non-corriges.html)|Une campagne d’attaque par ransomware exploite activement une vulnérabilité (CVE-2021-21974) dans les serveurs VMware ESXi non corrigés. L'exploitation réussie de la vulnérabilité pourrait permettre à un attaquant d'exécuter du...|06 février 2023|
+ |[401010302/23 - Vulnérabilité affectant le Module «Apigee Edge »pourCMS Drupal](https://www.dgssi.gov.ma//fr/content/40101030223-vulnerabilite-affectant-le-module-apigee-edge-pour-cms-drupal.html)|Drupal annonce la disponibilité de mise à jour de sécurité qui corrige une vulnérabilité auniveaudu module « Apigee Edge ». L’exploitation de cette vulnérabilité peut permettre à un attaquant de contourner les mesures de sécurité.|03 février 2023|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -48,12 +65,6 @@
  |[Wicked Folders plugin for WordPress security bypass (CVE-2023-0712)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2023|
  |[Wicked Folders plugin for WordPress security bypass (CVE-2023-0713)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2023|
  |[Wicked Folders plugin for WordPress security bypass (CVE-2023-0715)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2023|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # HK-CERT
@@ -72,21 +83,10 @@
  |[IBM WebSphere Application Server Remote Code Execution Vulnerability](/security-bulletin/ibm-websphere-application-server-remote-code-execution-vulnerability_20230202)|A vulnerability was identified in IBM WebSphere Application Server. A remote user can exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 2 Feb 2023|
  
 
-# MA-CERT
+# VulDB
 
  |Title|Description|Date|
  |---|---|---|
- |[40200802/23 - Vulnérabilités dans OpenSSL](https://www.dgssi.gov.ma//fr/content/4020080223-vulnerabilites-dans-openssl.html)|OpenSSL a publié un avis de sécurité pour corriger plusieurs vulnérabilités affectant les versions susmentionnées de OpenSSL.L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service et de porter atteinte à...|08 février 2023|
- |[40190802/23 - Vulnérabilité dans phpMyAdmin](https://www.dgssi.gov.ma//fr/content/4019080223-vulnerabilite-dans-phpmyadmin.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées de phpMyAdmin. L’exploitation de cette faille peut permettre à un attaquant de déclencher une attaque XSS en envoyant un fichier ".sql" spécialement conçu.|08 février 2023|
- |[40180802/23 - Vulnérabilité dans EnOcean SmartServer](https://www.dgssi.gov.ma//fr/content/4018080223-vulnerabilite-dans-enocean-smartserver.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées de l’EnOcean SmartServer. En effet, les versions vulnérables de SmartServer stockent des informations d'identification dans un fichier en clair. Si l'attaquant...|08 février 2023|
- |[40170802/23 - Correctif de sécurité pour le zero-dayaffectant GoAnywhere MFT](https://www.dgssi.gov.ma//fr/content/4017080223-correctif-de-securite-pour-le-zero-day-affectant-goanywhere-mft.html)|Fortra a publié un correctif d'urgence pour corriger une vulnérabilité de type "zero-day" activement exploitée dans l'outil de transfert de fichiers sécurisé GoAnywhere MFT. La vulné-rabilité permet aux attaquants d’...|08 février 2023|
- |[40160802/23 - Vulnérabilités affectant le système d’exploitation Android](https://www.dgssi.gov.ma//fr/content/4016080223-vulnerabilites-affectant-le-systeme-d-exploitation-android.html)|Google annonce la correction de plusieurs vulnérabilités affectantson système d’exploitation Android.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’accéder à des données confidentielles, d’...|08 février 2023|
- |[40150702/23 - Vulnérabilité affectantle navigateur Microsoft Edge ](https://www.dgssi.gov.ma//fr/content/4015070223-vulnerabilite-affectant-le-navigateur-microsoft-edge.html)|Microsoft vient de publier une mise à jour de sécurité qui permet de corriger unevulnérabilité affectant le navigateur Microsoft Edge. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant de contourner les mesures...|07 février 2023|
- |[40140602/23 - Vulnérabilité critique dans Atlassian Jira Service Management Server et Data Center](https://www.dgssi.gov.ma//fr/content/4014060223-vulnerabilite-critique-dans-atlassian-jira-service-management-server-et-data-center.html)|Atlassian a corrigée une vulnérabilité critique affectant Service Management Server et Data Center. L’exploitation de cette faille peut permettre à un attaquant non authentifié de se faire passer pour d'autres utilisateurs et d'...|06 février 2023|
- |[40130302/23 - Vulnérabilité affectant OpenSSH](https://www.dgssi.gov.ma//fr/content/4013030223-vulnerabilite-affectant-openssh.html)|OpenSSH annonce la disponibilité de mise à jour de sécurité qui corrige une vulnérabilité auniveaud’OpenSSH. L’exploitation de cette vulnérabilité peut permettre à un attaquant distantd’exécuter du code arbitraire.|06 février 2023|
- |[40100602/23 - Vulnérabilité dans VMware Workstation](https://www.dgssi.gov.ma//fr/content/4010060223-vulnerabilite-dans-vmware-workstation.html)|Une vulnérabilité a été corrigée dans VMware Workstation. L’exploitation de cette faille pourrait permettre à un attaquant de porter atteinte à la confidentialité de données et deréussir une élévation de privilèges.|06 février 2023|
- |[40090602/23 - Campagne de Ransomware cible les serveurs VMware ESXi non corrigés](https://www.dgssi.gov.ma//fr/content/4009060223-campagne-de-ransomware-cible-les-serveurs-vmware-esxi-non-corriges.html)|Une campagne d’attaque par ransomware exploite activement une vulnérabilité (CVE-2021-21974) dans les serveurs VMware ESXi non corrigés. L'exploitation réussie de la vulnérabilité pourrait permettre à un attaquant d'exécuter du...|06 février 2023|
- |[401010302/23 - Vulnérabilité affectant le Module «Apigee Edge »pourCMS Drupal](https://www.dgssi.gov.ma//fr/content/40101030223-vulnerabilite-affectant-le-module-apigee-edge-pour-cms-drupal.html)|Drupal annonce la disponibilité de mise à jour de sécurité qui corrige une vulnérabilité auniveaudu module « Apigee Edge ». L’exploitation de cette vulnérabilité peut permettre à un attaquant de contourner les mesures de sécurité.|03 février 2023|
  
 
 # OBS-Vigilance
@@ -150,12 +150,4 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
