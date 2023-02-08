@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 08/02/2023 15:22:33 UTC
+ > Last Updated 08/02/2023 16:31:16 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -53,16 +53,11 @@
  |[Multiples vulnérabilités dans les produits Elastic](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0094/)|De multiples vulnérabilités ont été découvertes dans les produits Elastic. Elles permettent à un attaquant de provoquer un déni de service à distance et une élévation de privilèges.|Publié le 6 février 2023|
  
 
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[40200802/23 - Vulnérabilités dans OpenSSL](https://www.dgssi.gov.ma//fr/content/4020080223-vulnerabilites-dans-openssl.html)|OpenSSL a publié un avis de sécurité pour corriger plusieurs vulnérabilités affectant les versions susmentionnées de OpenSSL.L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service et de porter atteinte à...|08 février 2023|
  |[40190802/23 - Vulnérabilité dans phpMyAdmin](https://www.dgssi.gov.ma//fr/content/4019080223-vulnerabilite-dans-phpmyadmin.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées de phpMyAdmin. L’exploitation de cette faille peut permettre à un attaquant de déclencher une attaque XSS en envoyant un fichier ".sql" spécialement conçu.|08 février 2023|
  |[40180802/23 - Vulnérabilité dans EnOcean SmartServer](https://www.dgssi.gov.ma//fr/content/4018080223-vulnerabilite-dans-enocean-smartserver.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées de l’EnOcean SmartServer. En effet, les versions vulnérables de SmartServer stockent des informations d'identification dans un fichier en clair. Si l'attaquant...|08 février 2023|
  |[40170802/23 - Correctif de sécurité pour le zero-dayaffectant GoAnywhere MFT](https://www.dgssi.gov.ma//fr/content/4017080223-correctif-de-securite-pour-le-zero-day-affectant-goanywhere-mft.html)|Fortra a publié un correctif d'urgence pour corriger une vulnérabilité de type "zero-day" activement exploitée dans l'outil de transfert de fichiers sécurisé GoAnywhere MFT. La vulné-rabilité permet aux attaquants d’...|08 février 2023|
@@ -73,20 +68,19 @@
  |[40100602/23 - Vulnérabilité dans VMware Workstation](https://www.dgssi.gov.ma//fr/content/4010060223-vulnerabilite-dans-vmware-workstation.html)|Une vulnérabilité a été corrigée dans VMware Workstation. L’exploitation de cette faille pourrait permettre à un attaquant de porter atteinte à la confidentialité de données et deréussir une élévation de privilèges.|06 février 2023|
  |[40090602/23 - Campagne de Ransomware cible les serveurs VMware ESXi non corrigés](https://www.dgssi.gov.ma//fr/content/4009060223-campagne-de-ransomware-cible-les-serveurs-vmware-esxi-non-corriges.html)|Une campagne d’attaque par ransomware exploite activement une vulnérabilité (CVE-2021-21974) dans les serveurs VMware ESXi non corrigés. L'exploitation réussie de la vulnérabilité pourrait permettre à un attaquant d'exécuter du...|06 février 2023|
  |[401010302/23 - Vulnérabilité affectant le Module «Apigee Edge »pourCMS Drupal](https://www.dgssi.gov.ma//fr/content/40101030223-vulnerabilite-affectant-le-module-apigee-edge-pour-cms-drupal.html)|Drupal annonce la disponibilité de mise à jour de sécurité qui corrige une vulnérabilité auniveaudu module « Apigee Edge ». L’exploitation de cette vulnérabilité peut permettre à un attaquant de contourner les mesures de sécurité.|03 février 2023|
- |[40090302/23 - Vulnérabilitécritiqueaffectant la bibliothèque «Dompdf» pour PHP](https://www.dgssi.gov.ma//fr/content/4009030223-vulnerabilite-critique-affectant-la-bibliotheque-dompdf-pour-php.html)|Dompdf annonce la correction d’une vulnérabilité critique affectant la bibliothèque « Dompdf » pour PHP. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du code arbitraire ou de supprimer des fichiers...|03 février 2023|
  
 
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
+ |[Python Cryptographic Authority cryptography denial of service (CVE-2023-23931)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2023|
  |[Zyxel ATP, USG FLEX, VPN, and ZyWALL/USG command execution (CVE-2022-38547)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2023|
  |[TYPO3 cross-site scripting (CVE-2023-24814)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2023|
  |[EnOcean SmartServer default account (CVE-2022-3089)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2023|
  |[Google Chrome Core integer overflow (CVE-2023-0705)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2023|
  |[Google Chrome DevTools security bypass (CVE-2023-0704)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2023|
  |[Google Chrome DevTools code execution (CVE-2023-0703)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2023|
- |[Google Chrome Data Transfer code execution (CVE-2023-0702)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2023|
  
 
 # HK-CERT
@@ -105,27 +99,11 @@
  |[IBM WebSphere Application Server Remote Code Execution Vulnerability](/security-bulletin/ibm-websphere-application-server-remote-code-execution-vulnerability_20230202)|A vulnerability was identified in IBM WebSphere Application Server. A remote user can exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 2 Feb 2023|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Android security advisory – February 2023 monthly rollup (AV23-072)](https://cyber.gc.ca/en/alerts-advisories/android-security-advisory-february-2023-monthly-rollup-av23-072)|Visit link for details|2023-02-07|
- |[Dell security advisory (AV23-071)](https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-071)|Visit link for details|2023-02-06|
- |[Ubuntu security advisory (AV23-070)](https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-070)|Visit link for details|2023-02-06|
- |[IBM security advisory (AV23-069)](https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-069)|Visit link for details|2023-02-06|
- |[ABB security advisory (AV23-068)](https://cyber.gc.ca/en/alerts-advisories/abb-security-advisory-av23-068)|Visit link for details|2023-02-06|
- |[Microsoft Edge security advisory (AV23-067)](https://cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-067)|Visit link for details|2023-02-03|
- |[VMware security advisory (AV23-066)](https://cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av23-066)|Visit link for details|2023-02-03|
- |[[Control systems] Baicells security advisory (AV23-065)](https://cyber.gc.ca/en/alerts-advisories/control-systems-baicells-security-advisory-av23-065)|Visit link for details|2023-02-03|
- |[[Control systems] Mitsubishi security advisory (AV23-064)](https://cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-security-advisory-av23-064)|Visit link for details|2023-02-03|
- |[[Control systems] Delta Electronics security advisory (AV22-063)](https://cyber.gc.ca/en/alerts-advisories/control-systems-delta-electronics-security-advisory-av22-063)|Visit link for details|2023-02-03|
- |[Atlassian security advisory (AV23-062)](https://cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av23-062)|Visit link for details|2023-02-02|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-information-disclosure-via-Log-File-40476" class="noirorange"><b>IBM Db2</b>: information disclosure via Log File</a>](https://vigilance.fr/vulnerability/IBM-Db2-information-disclosure-via-Log-File-40476)|An attacker can bypass access restrictions to data of IBM Db2, via Log File, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Shim-privilege-escalation-via-Insecure-GRUB-Versions-40475" class="noirorange"><b>Shim</b>: privilege escalation via Insecure GRUB Versions</a>](https://vigilance.fr/vulnerability/Shim-privilege-escalation-via-Insecure-GRUB-Versions-40475)|An attacker can bypass restrictions of Shim, via Insecure GRUB Versions, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Heimdal-weak-signature-via-Memory-Comparisons-Backport-40474" class="noirorange"><b>Heimdal</b>: weak signature via Memory Comparisons Backport</a>](https://vigilance.fr/vulnerability/Heimdal-weak-signature-via-Memory-Comparisons-Backport-40474)|An attacker can use malicious data on Heimdal, via Memory Comparisons Backport, in order to deceive the victim...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/phpMyAdmin-Cross-Site-Scripting-via-Drag-and-Drop-Upload-40473" class="noirorange"><b>phpMyAdmin</b>: Cross Site Scripting via Drag-and-Drop Upload</a>](https://vigilance.fr/vulnerability/phpMyAdmin-Cross-Site-Scripting-via-Drag-and-Drop-Upload-40473)|An attacker can trigger a Cross Site Scripting of phpMyAdmin, via Drag-and-Drop Upload, in order to run JavaScript code in the context of the web site...|Visit link for details|
@@ -136,7 +114,29 @@
  |[<a href="https://vigilance.fr/vulnerability/Node-js-grunt-file-reading-via-Dest-Symlink-40468" class="noirorange"><b>Node.js grunt</b>: file reading via Dest Symlink</a>](https://vigilance.fr/vulnerability/Node-js-grunt-file-reading-via-Dest-Symlink-40468)|An attacker can read a file of Node.js grunt, via Dest Symlink, in order to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Node-js-grunt-file-reading-via-Symlink-40467" class="noirorange"><b>Node.js grunt</b>: file reading via Symlink</a>](https://vigilance.fr/vulnerability/Node-js-grunt-file-reading-via-Symlink-40467)|An attacker can read a file of Node.js grunt, via Symlink, in order to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-Kafka-code-execution-via-Connect-SASL-JAAS-JndiLoginModule-40466" class="noirorange"><b>Apache Kafka</b>: code execution via Connect SASL JAAS JndiLoginModule</a>](https://vigilance.fr/vulnerability/Apache-Kafka-code-execution-via-Connect-SASL-JAAS-JndiLoginModule-40466)|An attacker can use a vulnerability of Apache Kafka, via Connect SASL JAAS JndiLoginModule, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-Smtpd-Local-Scoped-Ipv6-Address-40465" class="noirorange"><b>OpenBSD</b>: denial of service via Smtpd Local Scoped Ipv6 Address</a>](https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-Smtpd-Local-Scoped-Ipv6-Address-40465)|An attacker can cause a fatal error of OpenBSD, via Smtpd Local Scoped Ipv6 Address, in order to trigger a denial of service...|Visit link for details|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Ongoing reports of Qakbot malware incidents – Update 1](https://cyber.gc.ca/en/alerts-advisories/ongoing-reports-qakbot-malware-incidents)|Visit link for details|2023-02-08|
+ |[Android security advisory – February 2023 monthly rollup (AV23-072)](https://cyber.gc.ca/en/alerts-advisories/android-security-advisory-february-2023-monthly-rollup-av23-072)|Visit link for details|2023-02-07|
+ |[Dell security advisory (AV23-071)](https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-071)|Visit link for details|2023-02-06|
+ |[Ubuntu security advisory (AV23-070)](https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-070)|Visit link for details|2023-02-06|
+ |[IBM security advisory (AV23-069)](https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-069)|Visit link for details|2023-02-06|
+ |[ABB security advisory (AV23-068)](https://cyber.gc.ca/en/alerts-advisories/abb-security-advisory-av23-068)|Visit link for details|2023-02-06|
+ |[Microsoft Edge security advisory (AV23-067)](https://cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-067)|Visit link for details|2023-02-03|
+ |[VMware security advisory (AV23-066)](https://cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av23-066)|Visit link for details|2023-02-03|
+ |[[Control systems] Baicells security advisory (AV23-065)](https://cyber.gc.ca/en/alerts-advisories/control-systems-baicells-security-advisory-av23-065)|Visit link for details|2023-02-03|
+ |[[Control systems] Mitsubishi security advisory (AV23-064)](https://cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-security-advisory-av23-064)|Visit link for details|2023-02-03|
+ |[[Control systems] Delta Electronics security advisory (AV22-063)](https://cyber.gc.ca/en/alerts-advisories/control-systems-delta-electronics-security-advisory-av22-063)|Visit link for details|2023-02-03|
  
 
 # EU-CERT
@@ -150,4 +150,12 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  

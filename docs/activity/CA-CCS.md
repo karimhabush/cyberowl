@@ -4,6 +4,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Ongoing reports of Qakbot malware incidents – Update 1](https://cyber.gc.ca/en/alerts-advisories/ongoing-reports-qakbot-malware-incidents)|Visit link for details|2023-02-08|
  |[Android security advisory – February 2023 monthly rollup (AV23-072)](https://cyber.gc.ca/en/alerts-advisories/android-security-advisory-february-2023-monthly-rollup-av23-072)|Visit link for details|2023-02-07|
  |[Dell security advisory (AV23-071)](https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-071)|Visit link for details|2023-02-06|
  |[Ubuntu security advisory (AV23-070)](https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-070)|Visit link for details|2023-02-06|
@@ -14,5 +15,4 @@
  |[[Control systems] Baicells security advisory (AV23-065)](https://cyber.gc.ca/en/alerts-advisories/control-systems-baicells-security-advisory-av23-065)|Visit link for details|2023-02-03|
  |[[Control systems] Mitsubishi security advisory (AV23-064)](https://cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-security-advisory-av23-064)|Visit link for details|2023-02-03|
  |[[Control systems] Delta Electronics security advisory (AV22-063)](https://cyber.gc.ca/en/alerts-advisories/control-systems-delta-electronics-security-advisory-av22-063)|Visit link for details|2023-02-03|
- |[Atlassian security advisory (AV23-062)](https://cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av23-062)|Visit link for details|2023-02-02|
  
