@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 08/02/2023 17:22:08 UTC
+ > Last Updated 08/02/2023 18:28:00 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -37,20 +37,17 @@
  |[Drupal Releases Security Update to Address a Vulnerability in Apigee Edge](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/02/drupal-releases-security-update-address-vulnerability-apigee-edge)|<p>Drupal released a security update to address a vulnerability affecting the Apigee Edge module for Drupal 9.x. An attacker could exploit this vulnerability to bypass access authorization or disclose sensitive information.<br><br>CISA encourages users and administrators to review Drupal’s security advisory <a href="https://www.drupal.org/sa-contrib-2023-005">SA-CONTRIB- 2023-005</a> and apply the necessary update.</p>|Thursday, February 2, 2023|
  
 
-# CERT-FR
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[Vulnérabilité dans phpMyAdmin](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0103/)|Une vulnérabilité a été découverte dans phpMyAdmin. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 8 février 2023|
- |[Multiples vulnérabilités dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0102/)|De multiples vulnérabilités ont été découvertes dans OpenSSL. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 8 février 2023|
- |[Multiples vulnérabilités dans IBM Sterling](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0101/)|De multiples vulnérabilités ont été découvertes dans IBM Sterling. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 8 février 2023|
- |[Vulnérabilité dans TYPO3](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0100/)|Une vulnérabilité a été découverte dans TYPO3. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 8 février 2023|
- |[Multiples vulnérabilités dans Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0099/)|De multiples vulnérabilités ont été corrigées dans |Publié le 8 février 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0098/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 7 février 2023|
- |[Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0097/)|De multiples vulnérabilités ont été découvertes dans Google Android. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une élévation de privilèges et un déni de service.|Publié le 7 février 2023|
- |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0096/)|De multiples vulnérabilités ont été corrigées dans |Publié le 6 février 2023|
- |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0095/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 6 février 2023|
- |[Multiples vulnérabilités dans les produits Elastic](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0094/)|De multiples vulnérabilités ont été découvertes dans les produits Elastic. Elles permettent à un attaquant de provoquer un déni de service à distance et une élévation de privilèges.|Publié le 6 février 2023|
+ |[Apache Kafka code execution (CVE-2023-25194)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2023|
+ |[Python Cryptographic Authority cryptography denial of service (CVE-2023-23931)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2023|
+ |[Zyxel ATP, USG FLEX, VPN, and ZyWALL/USG command execution (CVE-2022-38547)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2023|
+ |[Wicked Folders plugin for WordPress security bypass (CVE-2023-0711)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2023|
+ |[Wicked Folders plugin for WordPress security bypass (CVE-2023-0712)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2023|
+ |[Wicked Folders plugin for WordPress security bypass (CVE-2023-0713)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2023|
+ |[Wicked Folders plugin for WordPress security bypass (CVE-2023-0715)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2023|
  
 
 # VulDB
@@ -75,19 +72,6 @@
  |[IBM WebSphere Application Server Remote Code Execution Vulnerability](/security-bulletin/ibm-websphere-application-server-remote-code-execution-vulnerability_20230202)|A vulnerability was identified in IBM WebSphere Application Server. A remote user can exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 2 Feb 2023|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Apache Kafka code execution (CVE-2023-25194)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2023|
- |[Python Cryptographic Authority cryptography denial of service (CVE-2023-23931)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2023|
- |[Zyxel ATP, USG FLEX, VPN, and ZyWALL/USG command execution (CVE-2022-38547)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2023|
- |[Wicked Folders plugin for WordPress cross-site request forgery (CVE-2023-0724)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2023|
- |[Wicked Folders plugin for WordPress cross-site request forgery (CVE-2023-0725)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2023|
- |[Wicked Folders plugin for WordPress cross-site request forgery (CVE-2023-0726)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2023|
- |[Wicked Folders plugin for WordPress cross-site request forgery (CVE-2023-0727)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2023|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -109,6 +93,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-James-MIME4J-file-reading-via-TempFileStorageProvider-40479" class="noirorange"><b>Apache James MIME4J</b>: file reading via TempFileStorageProvider</a>](https://vigilance.fr/vulnerability/Apache-James-MIME4J-file-reading-via-TempFileStorageProvider-40479)|An attacker can read a file of Apache James MIME4J, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Load-Command-40478" class="noirorange"><b>IBM Db2</b>: denial of service via Load Command</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Load-Command-40478)|An attacker can cause a fatal error of IBM Db2, via Load Command, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-information-disclosure-via-Table-Access-40477" class="noirorange"><b>IBM Db2</b>: information disclosure via Table Access</a>](https://vigilance.fr/vulnerability/IBM-Db2-information-disclosure-via-Table-Access-40477)|An attacker can bypass access restrictions to data of IBM Db2, via Table Access, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-information-disclosure-via-Log-File-40476" class="noirorange"><b>IBM Db2</b>: information disclosure via Log File</a>](https://vigilance.fr/vulnerability/IBM-Db2-information-disclosure-via-Log-File-40476)|An attacker can bypass access restrictions to data of IBM Db2, via Log File, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Shim-privilege-escalation-via-Insecure-GRUB-Versions-40475" class="noirorange"><b>Shim</b>: privilege escalation via Insecure GRUB Versions</a>](https://vigilance.fr/vulnerability/Shim-privilege-escalation-via-Insecure-GRUB-Versions-40475)|An attacker can bypass restrictions of Shim, via Insecure GRUB Versions, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Heimdal-weak-signature-via-Memory-Comparisons-Backport-40474" class="noirorange"><b>Heimdal</b>: weak signature via Memory Comparisons Backport</a>](https://vigilance.fr/vulnerability/Heimdal-weak-signature-via-Memory-Comparisons-Backport-40474)|An attacker can use malicious data on Heimdal, via Memory Comparisons Backport, in order to deceive the victim...|Visit link for details|
@@ -117,23 +104,22 @@
  |[<a href="https://vigilance.fr/vulnerability/Node-js-Core-vulnerabity-unveiled-on-14-02-2023-40471" class="noirorange"><b>Node.js Core</b>: vulnerabity unveiled on 14/02/2023</a>](https://vigilance.fr/vulnerability/Node-js-Core-vulnerabity-unveiled-on-14-02-2023-40471)|A vulnerability of Node.js Core will be unveiled on 14/02/2023...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Eternal-Terminal-information-disclosure-via-Logfiles-40470" class="noirorange"><b>Eternal Terminal</b>: information disclosure via Logfiles</a>](https://vigilance.fr/vulnerability/Eternal-Terminal-information-disclosure-via-Logfiles-40470)|An attacker can bypass access restrictions to data of Eternal Terminal, via Logfiles, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Eternal-Terminal-file-corruption-via-Predictable-Logfile-Names-40469" class="noirorange"><b>Eternal Terminal</b>: file corruption via Predictable Logfile Names</a>](https://vigilance.fr/vulnerability/Eternal-Terminal-file-corruption-via-Predictable-Logfile-Names-40469)|An attacker can create a symbolic link, in order to alter the pointed file, with privileges of Eternal Terminal, via Predictable Logfile Names...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Node-js-grunt-file-reading-via-Dest-Symlink-40468" class="noirorange"><b>Node.js grunt</b>: file reading via Dest Symlink</a>](https://vigilance.fr/vulnerability/Node-js-grunt-file-reading-via-Dest-Symlink-40468)|An attacker can read a file of Node.js grunt, via Dest Symlink, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Node-js-grunt-file-reading-via-Symlink-40467" class="noirorange"><b>Node.js grunt</b>: file reading via Symlink</a>](https://vigilance.fr/vulnerability/Node-js-grunt-file-reading-via-Symlink-40467)|An attacker can read a file of Node.js grunt, via Symlink, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Kafka-code-execution-via-Connect-SASL-JAAS-JndiLoginModule-40466" class="noirorange"><b>Apache Kafka</b>: code execution via Connect SASL JAAS JndiLoginModule</a>](https://vigilance.fr/vulnerability/Apache-Kafka-code-execution-via-Connect-SASL-JAAS-JndiLoginModule-40466)|An attacker can use a vulnerability of Apache Kafka, via Connect SASL JAAS JndiLoginModule, in order to run code...|Visit link for details|
  
 
-# ZERODAYINITIATIVE
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
+ |[Vulnérabilité dans phpMyAdmin](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0103/)|Une vulnérabilité a été découverte dans phpMyAdmin. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 8 février 2023|
+ |[Multiples vulnérabilités dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0102/)|De multiples vulnérabilités ont été découvertes dans OpenSSL. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 8 février 2023|
+ |[Multiples vulnérabilités dans IBM Sterling](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0101/)|De multiples vulnérabilités ont été découvertes dans IBM Sterling. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 8 février 2023|
+ |[Vulnérabilité dans TYPO3](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0100/)|Une vulnérabilité a été découverte dans TYPO3. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 8 février 2023|
+ |[Multiples vulnérabilités dans Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0099/)|De multiples vulnérabilités ont été corrigées dans |Publié le 8 février 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0098/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 7 février 2023|
+ |[Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0097/)|De multiples vulnérabilités ont été découvertes dans Google Android. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une élévation de privilèges et un déni de service.|Publié le 7 février 2023|
+ |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0096/)|De multiples vulnérabilités ont été corrigées dans |Publié le 6 février 2023|
+ |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0095/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 6 février 2023|
+ |[Multiples vulnérabilités dans les produits Elastic](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0094/)|De multiples vulnérabilités ont été découvertes dans les produits Elastic. Elles permettent à un attaquant de provoquer un déni de service à distance et une élévation de privilèges.|Publié le 6 février 2023|
  
 
 # CA-CCS
@@ -157,5 +143,19 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[2023-006: Critical Security Flaw in Jira Service Management Server and Data Center](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|A critical security flaw has been discovered in Jira Service Management Server and Data Center that can be exploited by an attacker to impersonate another user and gain unauthorized access to instances. The vulnerability is tracked as CVE-2023-22501 with a CVSS score of 9.4.|Friday, February 03, 2023 07:20:00 PM CEST|
+ |[2023-008: Vulnerability in OpenSSH](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|The development team of the OpenSSH suite has released the version 9.2 to address several security vulnerabilities, including a memory safety bug in the OpenSSH server (|Wednesday, February 08, 2023 06:20:00 PM CEST|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
