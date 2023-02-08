@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 08/02/2023 14:21:06 UTC
+ > Last Updated 08/02/2023 15:22:33 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -53,6 +53,12 @@
  |[Multiples vulnérabilités dans les produits Elastic](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0094/)|De multiples vulnérabilités ont été découvertes dans les produits Elastic. Elles permettent à un attaquant de provoquer un déni de service à distance et une élévation de privilèges.|Publié le 6 février 2023|
  
 
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -75,35 +81,12 @@
  |Title|Description|Date|
  |---|---|---|
  |[Zyxel ATP, USG FLEX, VPN, and ZyWALL/USG command execution (CVE-2022-38547)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2023|
+ |[TYPO3 cross-site scripting (CVE-2023-24814)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2023|
  |[EnOcean SmartServer default account (CVE-2022-3089)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2023|
  |[Google Chrome Core integer overflow (CVE-2023-0705)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2023|
  |[Google Chrome DevTools security bypass (CVE-2023-0704)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2023|
  |[Google Chrome DevTools code execution (CVE-2023-0703)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2023|
  |[Google Chrome Data Transfer code execution (CVE-2023-0702)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2023|
- |[Google Chrome WebUI buffer overflow (CVE-2023-0701)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2023|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Shim-privilege-escalation-via-Insecure-GRUB-Versions-40475" class="noirorange"><b>Shim</b>: privilege escalation via Insecure GRUB Versions</a>](https://vigilance.fr/vulnerability/Shim-privilege-escalation-via-Insecure-GRUB-Versions-40475)|An attacker can bypass restrictions of Shim, via Insecure GRUB Versions, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Heimdal-weak-signature-via-Memory-Comparisons-Backport-40474" class="noirorange"><b>Heimdal</b>: weak signature via Memory Comparisons Backport</a>](https://vigilance.fr/vulnerability/Heimdal-weak-signature-via-Memory-Comparisons-Backport-40474)|An attacker can use malicious data on Heimdal, via Memory Comparisons Backport, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/phpMyAdmin-Cross-Site-Scripting-via-Drag-and-Drop-Upload-40473" class="noirorange"><b>phpMyAdmin</b>: Cross Site Scripting via Drag-and-Drop Upload</a>](https://vigilance.fr/vulnerability/phpMyAdmin-Cross-Site-Scripting-via-Drag-and-Drop-Upload-40473)|An attacker can trigger a Cross Site Scripting of phpMyAdmin, via Drag-and-Drop Upload, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-40472" class="noirorange"><b>Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-40472)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Node-js-Core-vulnerabity-unveiled-on-14-02-2023-40471" class="noirorange"><b>Node.js Core</b>: vulnerabity unveiled on 14/02/2023</a>](https://vigilance.fr/vulnerability/Node-js-Core-vulnerabity-unveiled-on-14-02-2023-40471)|A vulnerability of Node.js Core will be unveiled on 14/02/2023...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Eternal-Terminal-information-disclosure-via-Logfiles-40470" class="noirorange"><b>Eternal Terminal</b>: information disclosure via Logfiles</a>](https://vigilance.fr/vulnerability/Eternal-Terminal-information-disclosure-via-Logfiles-40470)|An attacker can bypass access restrictions to data of Eternal Terminal, via Logfiles, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Eternal-Terminal-file-corruption-via-Predictable-Logfile-Names-40469" class="noirorange"><b>Eternal Terminal</b>: file corruption via Predictable Logfile Names</a>](https://vigilance.fr/vulnerability/Eternal-Terminal-file-corruption-via-Predictable-Logfile-Names-40469)|An attacker can create a symbolic link, in order to alter the pointed file, with privileges of Eternal Terminal, via Predictable Logfile Names...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Node-js-grunt-file-reading-via-Dest-Symlink-40468" class="noirorange"><b>Node.js grunt</b>: file reading via Dest Symlink</a>](https://vigilance.fr/vulnerability/Node-js-grunt-file-reading-via-Dest-Symlink-40468)|An attacker can read a file of Node.js grunt, via Dest Symlink, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Node-js-grunt-file-reading-via-Symlink-40467" class="noirorange"><b>Node.js grunt</b>: file reading via Symlink</a>](https://vigilance.fr/vulnerability/Node-js-grunt-file-reading-via-Symlink-40467)|An attacker can read a file of Node.js grunt, via Symlink, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Kafka-code-execution-via-Connect-SASL-JAAS-JndiLoginModule-40466" class="noirorange"><b>Apache Kafka</b>: code execution via Connect SASL JAAS JndiLoginModule</a>](https://vigilance.fr/vulnerability/Apache-Kafka-code-execution-via-Connect-SASL-JAAS-JndiLoginModule-40466)|An attacker can use a vulnerability of Apache Kafka, via Connect SASL JAAS JndiLoginModule, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-Smtpd-Local-Scoped-Ipv6-Address-40465" class="noirorange"><b>OpenBSD</b>: denial of service via Smtpd Local Scoped Ipv6 Address</a>](https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-Smtpd-Local-Scoped-Ipv6-Address-40465)|An attacker can cause a fatal error of OpenBSD, via Smtpd Local Scoped Ipv6 Address, in order to trigger a denial of service...|Visit link for details|
  
 
 # HK-CERT
@@ -139,18 +122,21 @@
  |[Atlassian security advisory (AV23-062)](https://cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av23-062)|Visit link for details|2023-02-02|
  
 
-# ZERODAYINITIATIVE
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
+ |[<a href="https://vigilance.fr/vulnerability/Shim-privilege-escalation-via-Insecure-GRUB-Versions-40475" class="noirorange"><b>Shim</b>: privilege escalation via Insecure GRUB Versions</a>](https://vigilance.fr/vulnerability/Shim-privilege-escalation-via-Insecure-GRUB-Versions-40475)|An attacker can bypass restrictions of Shim, via Insecure GRUB Versions, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Heimdal-weak-signature-via-Memory-Comparisons-Backport-40474" class="noirorange"><b>Heimdal</b>: weak signature via Memory Comparisons Backport</a>](https://vigilance.fr/vulnerability/Heimdal-weak-signature-via-Memory-Comparisons-Backport-40474)|An attacker can use malicious data on Heimdal, via Memory Comparisons Backport, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/phpMyAdmin-Cross-Site-Scripting-via-Drag-and-Drop-Upload-40473" class="noirorange"><b>phpMyAdmin</b>: Cross Site Scripting via Drag-and-Drop Upload</a>](https://vigilance.fr/vulnerability/phpMyAdmin-Cross-Site-Scripting-via-Drag-and-Drop-Upload-40473)|An attacker can trigger a Cross Site Scripting of phpMyAdmin, via Drag-and-Drop Upload, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-40472" class="noirorange"><b>Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-40472)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-Core-vulnerabity-unveiled-on-14-02-2023-40471" class="noirorange"><b>Node.js Core</b>: vulnerabity unveiled on 14/02/2023</a>](https://vigilance.fr/vulnerability/Node-js-Core-vulnerabity-unveiled-on-14-02-2023-40471)|A vulnerability of Node.js Core will be unveiled on 14/02/2023...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Eternal-Terminal-information-disclosure-via-Logfiles-40470" class="noirorange"><b>Eternal Terminal</b>: information disclosure via Logfiles</a>](https://vigilance.fr/vulnerability/Eternal-Terminal-information-disclosure-via-Logfiles-40470)|An attacker can bypass access restrictions to data of Eternal Terminal, via Logfiles, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Eternal-Terminal-file-corruption-via-Predictable-Logfile-Names-40469" class="noirorange"><b>Eternal Terminal</b>: file corruption via Predictable Logfile Names</a>](https://vigilance.fr/vulnerability/Eternal-Terminal-file-corruption-via-Predictable-Logfile-Names-40469)|An attacker can create a symbolic link, in order to alter the pointed file, with privileges of Eternal Terminal, via Predictable Logfile Names...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-grunt-file-reading-via-Dest-Symlink-40468" class="noirorange"><b>Node.js grunt</b>: file reading via Dest Symlink</a>](https://vigilance.fr/vulnerability/Node-js-grunt-file-reading-via-Dest-Symlink-40468)|An attacker can read a file of Node.js grunt, via Dest Symlink, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-grunt-file-reading-via-Symlink-40467" class="noirorange"><b>Node.js grunt</b>: file reading via Symlink</a>](https://vigilance.fr/vulnerability/Node-js-grunt-file-reading-via-Symlink-40467)|An attacker can read a file of Node.js grunt, via Symlink, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Kafka-code-execution-via-Connect-SASL-JAAS-JndiLoginModule-40466" class="noirorange"><b>Apache Kafka</b>: code execution via Connect SASL JAAS JndiLoginModule</a>](https://vigilance.fr/vulnerability/Apache-Kafka-code-execution-via-Connect-SASL-JAAS-JndiLoginModule-40466)|An attacker can use a vulnerability of Apache Kafka, via Connect SASL JAAS JndiLoginModule, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-Smtpd-Local-Scoped-Ipv6-Address-40465" class="noirorange"><b>OpenBSD</b>: denial of service via Smtpd Local Scoped Ipv6 Address</a>](https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-Smtpd-Local-Scoped-Ipv6-Address-40465)|An attacker can cause a fatal error of OpenBSD, via Smtpd Local Scoped Ipv6 Address, in order to trigger a denial of service...|Visit link for details|
  
 
 # EU-CERT
@@ -158,4 +144,10 @@
  |Title|Description|Date|
  |---|---|---|
  |[2023-006: Critical Security Flaw in Jira Service Management Server and Data Center](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|A critical security flaw has been discovered in Jira Service Management Server and Data Center that can be exploited by an attacker to impersonate another user and gain unauthorized access to instances. The vulnerability is tracked as CVE-2023-22501 with a CVSS score of 9.4.|Friday, February 03, 2023 07:20:00 PM CEST|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
  
