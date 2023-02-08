@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 08/02/2023 09:23:19 UTC
+ > Last Updated 08/02/2023 10:24:16 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -37,17 +37,33 @@
  |[Drupal Releases Security Update to Address a Vulnerability in Apigee Edge](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/02/drupal-releases-security-update-address-vulnerability-apigee-edge)|<p>Drupal released a security update to address a vulnerability affecting the Apigee Edge module for Drupal 9.x. An attacker could exploit this vulnerability to bypass access authorization or disclose sensitive information.<br><br>CISA encourages users and administrators to review Drupal’s security advisory <a href="https://www.drupal.org/sa-contrib-2023-005">SA-CONTRIB- 2023-005</a> and apply the necessary update.</p>|Thursday, February 2, 2023|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0098/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 7 février 2023|
+ |[Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0097/)|De multiples vulnérabilités ont été découvertes dans Google Android. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une élévation de privilèges et un déni de service.|Publié le 7 février 2023|
+ |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0096/)|De multiples vulnérabilités ont été corrigées dans |Publié le 6 février 2023|
+ |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0095/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 6 février 2023|
+ |[Multiples vulnérabilités dans les produits Elastic](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0094/)|De multiples vulnérabilités ont été découvertes dans les produits Elastic. Elles permettent à un attaquant de provoquer un déni de service à distance et une élévation de privilèges.|Publié le 6 février 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0093/)|De multiples vulnérabilités ont été corrigées dans |Publié le 3 février 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0092/)|De multiples vulnérabilités ont été corrigées dans le noyau Linux de|Publié le 3 février 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0091/)|De multiples vulnérabilités ont été corrigées dans |Publié le 3 février 2023|
+ |[Vulnérabilité dans VMware Workstation](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0090/)|Une vulnérabilité a été découverte dans VMware Workstation. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données et une élévation de privilèges.|Publié le 3 février 2023|
+ |[Multiples vulnérabilités dans OpenSSH](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0089/)|De multiples vulnérabilités ont été découvertes dans OpenSSH. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et un contournement de la politique de sécurité.|Publié le 3 février 2023|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[MediaTek Android privilege escalation (CVE-2022-32642)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 6, 2023|
- |[MediaTek Android privilege escalation (CVE-2022-32643)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 6, 2023|
- |[MediaTek Android privilege escalation (CVE-2022-32654)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 6, 2023|
- |[MediaTek Android privilege escalation (CVE-2022-32655)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 6, 2023|
- |[MediaTek Android privilege escalation (CVE-2022-32656)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 6, 2023|
- |[MediaTek Android information disclosure (CVE-2022-32595)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 6, 2023|
- |[MediaTek Android information disclosure (CVE-2023-20605)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 6, 2023|
+ |[Zyxel ATP, USG FLEX, VPN, and ZyWALL/USG command execution (CVE-2022-38547)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2023|
+ |[EnOcean SmartServer default account (CVE-2022-3089)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2023|
+ |[Google Chrome Core integer overflow (CVE-2023-0705)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2023|
+ |[Google Chrome DevTools security bypass (CVE-2023-0704)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2023|
+ |[Google Chrome DevTools code execution (CVE-2023-0703)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2023|
+ |[Google Chrome Data Transfer code execution (CVE-2023-0702)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2023|
+ |[Google Chrome WebUI buffer overflow (CVE-2023-0701)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2023|
  
 
 # HK-CERT
@@ -64,12 +80,6 @@
  |[F5 Products Multiple Vulnerabilities](/security-bulletin/f5-products-multiple-vulnerabilities_20230203)|Multiple vulnerabilities were identified in F5 Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service and remote code execution on the targeted system. |Release Date: 3 Feb 2023|
  |[Microsoft Monthly Security Update (October 2022)](/security-bulletin/microsoft-monthly-security-update-october-2022)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesWindows High RiskRemote Code ExecutionDenial of ServiceSpoofingElevation of PrivilegeInformation DisclosureSecurity Restriction BypassCVE-2022-...| Release Date: 12 Oct 2022 |
  |[IBM WebSphere Application Server Remote Code Execution Vulnerability](/security-bulletin/ibm-websphere-application-server-remote-code-execution-vulnerability_20230202)|A vulnerability was identified in IBM WebSphere Application Server. A remote user can exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 2 Feb 2023|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # MA-CERT
@@ -89,37 +99,24 @@
  |[40050202/23 - Vulnérabilités dans les produits Cisco](https://www.dgssi.gov.ma//fr/content/4005020223-vulnerabilites-dans-les-produits-cisco.html)|Plusieurs vulnérabilités ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir une élévation de privilèges, causer un déni de service,...|02 février 2023|
  
 
-# OBS-Vigilance
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Node-js-Core-vulnerabity-unveiled-on-14-02-2023-40471" class="noirorange"><b>Node.js Core</b>: vulnerabity unveiled on 14/02/2023</a>](https://vigilance.fr/vulnerability/Node-js-Core-vulnerabity-unveiled-on-14-02-2023-40471)|A vulnerability of Node.js Core will be unveiled on 14/02/2023...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Eternal-Terminal-information-disclosure-via-Logfiles-40470" class="noirorange"><b>Eternal Terminal</b>: information disclosure via Logfiles</a>](https://vigilance.fr/vulnerability/Eternal-Terminal-information-disclosure-via-Logfiles-40470)|An attacker can bypass access restrictions to data of Eternal Terminal, via Logfiles, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Eternal-Terminal-file-corruption-via-Predictable-Logfile-Names-40469" class="noirorange"><b>Eternal Terminal</b>: file corruption via Predictable Logfile Names</a>](https://vigilance.fr/vulnerability/Eternal-Terminal-file-corruption-via-Predictable-Logfile-Names-40469)|An attacker can create a symbolic link, in order to alter the pointed file, with privileges of Eternal Terminal, via Predictable Logfile Names...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Node-js-grunt-file-reading-via-Dest-Symlink-40468" class="noirorange"><b>Node.js grunt</b>: file reading via Dest Symlink</a>](https://vigilance.fr/vulnerability/Node-js-grunt-file-reading-via-Dest-Symlink-40468)|An attacker can read a file of Node.js grunt, via Dest Symlink, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Node-js-grunt-file-reading-via-Symlink-40467" class="noirorange"><b>Node.js grunt</b>: file reading via Symlink</a>](https://vigilance.fr/vulnerability/Node-js-grunt-file-reading-via-Symlink-40467)|An attacker can read a file of Node.js grunt, via Symlink, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Kafka-code-execution-via-Connect-SASL-JAAS-JndiLoginModule-40466" class="noirorange"><b>Apache Kafka</b>: code execution via Connect SASL JAAS JndiLoginModule</a>](https://vigilance.fr/vulnerability/Apache-Kafka-code-execution-via-Connect-SASL-JAAS-JndiLoginModule-40466)|An attacker can use a vulnerability of Apache Kafka, via Connect SASL JAAS JndiLoginModule, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-Smtpd-Local-Scoped-Ipv6-Address-40465" class="noirorange"><b>OpenBSD</b>: denial of service via Smtpd Local Scoped Ipv6 Address</a>](https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-Smtpd-Local-Scoped-Ipv6-Address-40465)|An attacker can cause a fatal error of OpenBSD, via Smtpd Local Scoped Ipv6 Address, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/X-Org-Server-reuse-after-free-via-DeepCopyPointerClasses-40463" class="noirorange"><b>X.Org Server</b>: reuse after free via DeepCopyPointerClasses()</a>](https://vigilance.fr/vulnerability/X-Org-Server-reuse-after-free-via-DeepCopyPointerClasses-40463)|An attacker can force the reuse of a freed memory area of X.Org Server, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/graphite-web-three-vulnerabilities-40462" class="noirorange"><b>graphite-web</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/graphite-web-three-vulnerabilities-40462)|An attacker can use several vulnerabilities of graphite-web...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-February-2023-40461" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of February 2023</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-February-2023-40461)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/RubyGem-Active-Support-overload-via-Regular-Expression-40460" class="noirorange"><b>RubyGem Active Support</b>: overload via Regular Expression</a>](https://vigilance.fr/vulnerability/RubyGem-Active-Support-overload-via-Regular-Expression-40460)|An attacker can trigger an overload of RubyGem Active Support, via Regular Expression, in order to trigger a denial of service...|Visit link for details|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
 
-# CERT-FR
+# VulDB
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0098/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 7 février 2023|
- |[Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0097/)|De multiples vulnérabilités ont été découvertes dans Google Android. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une élévation de privilèges et un déni de service.|Publié le 7 février 2023|
- |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0096/)|De multiples vulnérabilités ont été corrigées dans |Publié le 6 février 2023|
- |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0095/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 6 février 2023|
- |[Multiples vulnérabilités dans les produits Elastic](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0094/)|De multiples vulnérabilités ont été découvertes dans les produits Elastic. Elles permettent à un attaquant de provoquer un déni de service à distance et une élévation de privilèges.|Publié le 6 février 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0093/)|De multiples vulnérabilités ont été corrigées dans |Publié le 3 février 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0092/)|De multiples vulnérabilités ont été corrigées dans le noyau Linux de|Publié le 3 février 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0091/)|De multiples vulnérabilités ont été corrigées dans |Publié le 3 février 2023|
- |[Vulnérabilité dans VMware Workstation](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0090/)|Une vulnérabilité a été découverte dans VMware Workstation. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données et une élévation de privilèges.|Publié le 3 février 2023|
- |[Multiples vulnérabilités dans OpenSSH](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0089/)|De multiples vulnérabilités ont été découvertes dans OpenSSH. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et un contournement de la politique de sécurité.|Publié le 3 février 2023|
  
 
 # CA-CCS
@@ -139,18 +136,21 @@
  |[Atlassian security advisory (AV23-062)](https://cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av23-062)|Visit link for details|2023-02-02|
  
 
-# ZERODAYINITIATIVE
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
+ |[<a href="https://vigilance.fr/vulnerability/phpMyAdmin-Cross-Site-Scripting-via-Drag-and-Drop-Upload-40473" class="noirorange"><b>phpMyAdmin</b>: Cross Site Scripting via Drag-and-Drop Upload</a>](https://vigilance.fr/vulnerability/phpMyAdmin-Cross-Site-Scripting-via-Drag-and-Drop-Upload-40473)|An attacker can trigger a Cross Site Scripting of phpMyAdmin, via Drag-and-Drop Upload, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-40472" class="noirorange"><b>Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-40472)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-Core-vulnerabity-unveiled-on-14-02-2023-40471" class="noirorange"><b>Node.js Core</b>: vulnerabity unveiled on 14/02/2023</a>](https://vigilance.fr/vulnerability/Node-js-Core-vulnerabity-unveiled-on-14-02-2023-40471)|A vulnerability of Node.js Core will be unveiled on 14/02/2023...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Eternal-Terminal-information-disclosure-via-Logfiles-40470" class="noirorange"><b>Eternal Terminal</b>: information disclosure via Logfiles</a>](https://vigilance.fr/vulnerability/Eternal-Terminal-information-disclosure-via-Logfiles-40470)|An attacker can bypass access restrictions to data of Eternal Terminal, via Logfiles, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Eternal-Terminal-file-corruption-via-Predictable-Logfile-Names-40469" class="noirorange"><b>Eternal Terminal</b>: file corruption via Predictable Logfile Names</a>](https://vigilance.fr/vulnerability/Eternal-Terminal-file-corruption-via-Predictable-Logfile-Names-40469)|An attacker can create a symbolic link, in order to alter the pointed file, with privileges of Eternal Terminal, via Predictable Logfile Names...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-grunt-file-reading-via-Dest-Symlink-40468" class="noirorange"><b>Node.js grunt</b>: file reading via Dest Symlink</a>](https://vigilance.fr/vulnerability/Node-js-grunt-file-reading-via-Dest-Symlink-40468)|An attacker can read a file of Node.js grunt, via Dest Symlink, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-grunt-file-reading-via-Symlink-40467" class="noirorange"><b>Node.js grunt</b>: file reading via Symlink</a>](https://vigilance.fr/vulnerability/Node-js-grunt-file-reading-via-Symlink-40467)|An attacker can read a file of Node.js grunt, via Symlink, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Kafka-code-execution-via-Connect-SASL-JAAS-JndiLoginModule-40466" class="noirorange"><b>Apache Kafka</b>: code execution via Connect SASL JAAS JndiLoginModule</a>](https://vigilance.fr/vulnerability/Apache-Kafka-code-execution-via-Connect-SASL-JAAS-JndiLoginModule-40466)|An attacker can use a vulnerability of Apache Kafka, via Connect SASL JAAS JndiLoginModule, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-Smtpd-Local-Scoped-Ipv6-Address-40465" class="noirorange"><b>OpenBSD</b>: denial of service via Smtpd Local Scoped Ipv6 Address</a>](https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-Smtpd-Local-Scoped-Ipv6-Address-40465)|An attacker can cause a fatal error of OpenBSD, via Smtpd Local Scoped Ipv6 Address, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/X-Org-Server-reuse-after-free-via-DeepCopyPointerClasses-40463" class="noirorange"><b>X.Org Server</b>: reuse after free via DeepCopyPointerClasses()</a>](https://vigilance.fr/vulnerability/X-Org-Server-reuse-after-free-via-DeepCopyPointerClasses-40463)|An attacker can force the reuse of a freed memory area of X.Org Server, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/graphite-web-three-vulnerabilities-40462" class="noirorange"><b>graphite-web</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/graphite-web-three-vulnerabilities-40462)|An attacker can use several vulnerabilities of graphite-web...|Visit link for details|
  
 
 # EU-CERT
