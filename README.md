@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 07/02/2023 23:21:39 UTC
+ > Last Updated 08/02/2023 01:44:00 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -25,18 +25,6 @@
  
  > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/07/cisa-releases-one-industrial-control-systems-advisory)|<p>CISA released one Industrial Control Systems (ICS) advisory on February 7, 2023. This advisory provides timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p>|Tuesday, February 7, 2023|
- |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/02/cisa-releases-six-industrial-control-systems-advisories)|<p>CISA released six Industrial Control Systems (ICS) advisories on February 2, 2023.These advisories provides timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p>|Thursday, February 2, 2023|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/02/cisa-adds-two-known-exploited-vulnerabilities-catalog)|<p>CISA has added two new vulnerabilities to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. <strong>Note</strong>: To view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.</p>|Thursday, February 2, 2023|
- |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/02/cisco-releases-security-advisories-multiple-products)|<p>Cisco released security updates for vulnerabilities affecting multiple products. A remote attacker could exploit these vulnerabilities to take control of an affected system.</p>|Thursday, February 2, 2023|
- |[Drupal Releases Security Update to Address a Vulnerability in Apigee Edge](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/02/drupal-releases-security-update-address-vulnerability-apigee-edge)|<p>Drupal released a security update to address a vulnerability affecting the Apigee Edge module for Drupal 9.x. An attacker could exploit this vulnerability to bypass access authorization or disclose sensitive information.<br><br>CISA encourages users and administrators to review Drupal’s security advisory <a href="https://www.drupal.org/sa-contrib-2023-005">SA-CONTRIB- 2023-005</a> and apply the necessary update.</p>|Thursday, February 2, 2023|
- |[VMware Releases Security Update for VMware vRealize Operations](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/01/vmware-releases-security-update-vmware-vrealize-operations)|<p>VMware released a security update that addresses a cross-site request forgery bypass vulnerability affecting VMware vRealize Operations. A malicious user could exploit this vulnerability to take control of an affected system.</p>|Wednesday, February 1, 2023|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -51,6 +39,23 @@
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0091/)|De multiples vulnérabilités ont été corrigées dans |Publié le 3 février 2023|
  |[Vulnérabilité dans VMware Workstation](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0090/)|Une vulnérabilité a été découverte dans VMware Workstation. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données et une élévation de privilèges.|Publié le 3 février 2023|
  |[Multiples vulnérabilités dans OpenSSH](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0089/)|De multiples vulnérabilités ont été découvertes dans OpenSSH. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et un contournement de la politique de sécurité.|Publié le 3 février 2023|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-Smtpd-Local-Scoped-Ipv6-Address-40465" class="noirorange"><b>OpenBSD</b>: denial of service via Smtpd Local Scoped Ipv6 Address</a>](https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-Smtpd-Local-Scoped-Ipv6-Address-40465)|An attacker can cause a fatal error of OpenBSD, via Smtpd Local Scoped Ipv6 Address, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/X-Org-Server-reuse-after-free-via-DeepCopyPointerClasses-40463" class="noirorange"><b>X.Org Server</b>: reuse after free via DeepCopyPointerClasses()</a>](https://vigilance.fr/vulnerability/X-Org-Server-reuse-after-free-via-DeepCopyPointerClasses-40463)|An attacker can force the reuse of a freed memory area of X.Org Server, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/graphite-web-three-vulnerabilities-40462" class="noirorange"><b>graphite-web</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/graphite-web-three-vulnerabilities-40462)|An attacker can use several vulnerabilities of graphite-web...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-February-2023-40461" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of February 2023</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-February-2023-40461)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/RubyGem-Active-Support-overload-via-Regular-Expression-40460" class="noirorange"><b>RubyGem Active Support</b>: overload via Regular Expression</a>](https://vigilance.fr/vulnerability/RubyGem-Active-Support-overload-via-Regular-Expression-40460)|An attacker can trigger an overload of RubyGem Active Support, via Regular Expression, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-three-vulnerabilities-40459" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-three-vulnerabilities-40459)|An attacker can use several vulnerabilities of WebKitGTK  WPE WebKit...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/EditorConfig-Core-C-buffer-overflow-via-ec-glob-40458" class="noirorange"><b>EditorConfig Core C</b>: buffer overflow via ec_glob()</a>](https://vigilance.fr/vulnerability/EditorConfig-Core-C-buffer-overflow-via-ec-glob-40458)|An attacker can trigger a buffer overflow of EditorConfig Core C, via ec_glob(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ImageMagick-file-read-write-via-Profile-40457" class="noirorange"><b>ImageMagick</b>: file read/write via Profile</a>](https://vigilance.fr/vulnerability/ImageMagick-file-read-write-via-Profile-40457)|An attacker can bypass access restrictions of ImageMagick, via Profile, in order to read or alter files...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TYPO3-Core-Cross-Site-Scripting-via-Frontend-Rendering-40456" class="noirorange"><b>TYPO3 Core</b>: Cross Site Scripting via Frontend Rendering</a>](https://vigilance.fr/vulnerability/TYPO3-Core-Cross-Site-Scripting-via-Frontend-Rendering-40456)|An attacker can trigger a Cross Site Scripting of TYPO3 Core, via Frontend Rendering, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/RESTEasy-file-read-write-via-Temp-Files-40455" class="noirorange"><b>RESTEasy</b>: file read/write via Temp Files</a>](https://vigilance.fr/vulnerability/RESTEasy-file-read-write-via-Temp-Files-40455)|An attacker can bypass access restrictions of RESTEasy, via Temp Files, in order to read or alter files...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-Spectre-BTI-40454" class="noirorange"><b>Linux kernel</b>: memory reading via Spectre-BTI</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-Spectre-BTI-40454)|An attacker can read a memory fragment of the Linux kernel, via Spectre-BTI, in order to obtain sensitive information...|Visit link for details|
  
 
 # MA-CERT
@@ -76,36 +81,6 @@
  |---|---|---|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[MediaTek Android privilege escalation (CVE-2022-32642)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 6, 2023|
- |[MediaTek Android privilege escalation (CVE-2022-32643)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 6, 2023|
- |[MediaTek Android privilege escalation (CVE-2022-32654)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 6, 2023|
- |[MediaTek Android privilege escalation (CVE-2022-32655)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 6, 2023|
- |[MediaTek Android privilege escalation (CVE-2022-32656)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 6, 2023|
- |[MediaTek Android information disclosure (CVE-2022-32595)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 6, 2023|
- |[MediaTek Android information disclosure (CVE-2023-20605)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 6, 2023|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-Smtpd-Local-Scoped-Ipv6-Address-40465" class="noirorange"><b>OpenBSD</b>: denial of service via Smtpd Local Scoped Ipv6 Address</a>](https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-Smtpd-Local-Scoped-Ipv6-Address-40465)|An attacker can cause a fatal error of OpenBSD, via Smtpd Local Scoped Ipv6 Address, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/X-Org-Server-reuse-after-free-via-DeepCopyPointerClasses-40463" class="noirorange"><b>X.Org Server</b>: reuse after free via DeepCopyPointerClasses()</a>](https://vigilance.fr/vulnerability/X-Org-Server-reuse-after-free-via-DeepCopyPointerClasses-40463)|An attacker can force the reuse of a freed memory area of X.Org Server, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/graphite-web-three-vulnerabilities-40462" class="noirorange"><b>graphite-web</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/graphite-web-three-vulnerabilities-40462)|An attacker can use several vulnerabilities of graphite-web...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-February-2023-40461" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of February 2023</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-February-2023-40461)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/RubyGem-Active-Support-overload-via-Regular-Expression-40460" class="noirorange"><b>RubyGem Active Support</b>: overload via Regular Expression</a>](https://vigilance.fr/vulnerability/RubyGem-Active-Support-overload-via-Regular-Expression-40460)|An attacker can trigger an overload of RubyGem Active Support, via Regular Expression, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-three-vulnerabilities-40459" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-three-vulnerabilities-40459)|An attacker can use several vulnerabilities of WebKitGTK  WPE WebKit...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/EditorConfig-Core-C-buffer-overflow-via-ec-glob-40458" class="noirorange"><b>EditorConfig Core C</b>: buffer overflow via ec_glob()</a>](https://vigilance.fr/vulnerability/EditorConfig-Core-C-buffer-overflow-via-ec-glob-40458)|An attacker can trigger a buffer overflow of EditorConfig Core C, via ec_glob(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ImageMagick-file-read-write-via-Profile-40457" class="noirorange"><b>ImageMagick</b>: file read/write via Profile</a>](https://vigilance.fr/vulnerability/ImageMagick-file-read-write-via-Profile-40457)|An attacker can bypass access restrictions of ImageMagick, via Profile, in order to read or alter files...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TYPO3-Core-Cross-Site-Scripting-via-Frontend-Rendering-40456" class="noirorange"><b>TYPO3 Core</b>: Cross Site Scripting via Frontend Rendering</a>](https://vigilance.fr/vulnerability/TYPO3-Core-Cross-Site-Scripting-via-Frontend-Rendering-40456)|An attacker can trigger a Cross Site Scripting of TYPO3 Core, via Frontend Rendering, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/RESTEasy-file-read-write-via-Temp-Files-40455" class="noirorange"><b>RESTEasy</b>: file read/write via Temp Files</a>](https://vigilance.fr/vulnerability/RESTEasy-file-read-write-via-Temp-Files-40455)|An attacker can bypass access restrictions of RESTEasy, via Temp Files, in order to read or alter files...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-Spectre-BTI-40454" class="noirorange"><b>Linux kernel</b>: memory reading via Spectre-BTI</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-Spectre-BTI-40454)|An attacker can read a memory fragment of the Linux kernel, via Spectre-BTI, in order to obtain sensitive information...|Visit link for details|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -122,21 +97,29 @@
  |[Mozilla Thunderbird Security Restriction Bypass Vulnerability](/security-bulletin/mozilla-thunderbird-security-restriction-bypass-vulnerability_20230202)|A vulnerability was identified in Mozilla Thunderbird. A remote attacker can exploit this vulnerability to trigger security restriction bypass on the targeted system.|Release Date: 2 Feb 2023|
  
 
-# CA-CCS
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[Android security advisory – February 2023 monthly rollup (AV23-072)](https://cyber.gc.ca/en/alerts-advisories/android-security-advisory-february-2023-monthly-rollup-av23-072)|Visit link for details|2023-02-07|
- |[Dell security advisory (AV23-071)](https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-071)|Visit link for details|2023-02-06|
- |[Ubuntu security advisory (AV23-070)](https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-070)|Visit link for details|2023-02-06|
- |[IBM security advisory (AV23-069)](https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-069)|Visit link for details|2023-02-06|
- |[ABB security advisory (AV23-068)](https://cyber.gc.ca/en/alerts-advisories/abb-security-advisory-av23-068)|Visit link for details|2023-02-06|
- |[Microsoft Edge security advisory (AV23-067)](https://cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-067)|Visit link for details|2023-02-03|
- |[VMware security advisory (AV23-066)](https://cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av23-066)|Visit link for details|2023-02-03|
- |[[Control systems] Baicells security advisory (AV23-065)](https://cyber.gc.ca/en/alerts-advisories/control-systems-baicells-security-advisory-av23-065)|Visit link for details|2023-02-03|
- |[[Control systems] Mitsubishi security advisory (AV23-064)](https://cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-security-advisory-av23-064)|Visit link for details|2023-02-03|
- |[[Control systems] Delta Electronics security advisory (AV22-063)](https://cyber.gc.ca/en/alerts-advisories/control-systems-delta-electronics-security-advisory-av22-063)|Visit link for details|2023-02-03|
- |[Atlassian security advisory (AV23-062)](https://cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av23-062)|Visit link for details|2023-02-02|
+ |[MediaTek Android privilege escalation (CVE-2022-32642)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 6, 2023|
+ |[MediaTek Android privilege escalation (CVE-2022-32643)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 6, 2023|
+ |[MediaTek Android privilege escalation (CVE-2022-32654)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 6, 2023|
+ |[MediaTek Android privilege escalation (CVE-2022-32655)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 6, 2023|
+ |[MediaTek Android privilege escalation (CVE-2022-32656)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 6, 2023|
+ |[MediaTek Android information disclosure (CVE-2022-32595)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 6, 2023|
+ |[MediaTek Android information disclosure (CVE-2023-20605)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 6, 2023|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases ESXiArgs Ransomware Recovery Script ](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/07/cisa-releases-esxiargs-ransomware-recovery-script)|<p>CISA has released a recovery script for organizations that have fallen victim to ESXiArgs ransomware. The ESXiArgs ransomware encrypts configuration files on vulnerable ESXi servers, potentially rendering virtual machines (VMs) unusable.</p>|Tuesday, February 7, 2023|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/07/cisa-releases-one-industrial-control-systems-advisory)|<p>CISA released one Industrial Control Systems (ICS) advisory on February 7, 2023. This advisory provides timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p>|Tuesday, February 7, 2023|
+ |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/02/cisa-releases-six-industrial-control-systems-advisories)|<p>CISA released six Industrial Control Systems (ICS) advisories on February 2, 2023.These advisories provides timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p>|Thursday, February 2, 2023|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/02/cisa-adds-two-known-exploited-vulnerabilities-catalog)|<p>CISA has added two new vulnerabilities to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. <strong>Note</strong>: To view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.</p>|Thursday, February 2, 2023|
+ |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/02/cisco-releases-security-advisories-multiple-products)|<p>Cisco released security updates for vulnerabilities affecting multiple products. A remote attacker could exploit these vulnerabilities to take control of an affected system.</p>|Thursday, February 2, 2023|
+ |[Drupal Releases Security Update to Address a Vulnerability in Apigee Edge](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/02/drupal-releases-security-update-address-vulnerability-apigee-edge)|<p>Drupal released a security update to address a vulnerability affecting the Apigee Edge module for Drupal 9.x. An attacker could exploit this vulnerability to bypass access authorization or disclose sensitive information.<br><br>CISA encourages users and administrators to review Drupal’s security advisory <a href="https://www.drupal.org/sa-contrib-2023-005">SA-CONTRIB- 2023-005</a> and apply the necessary update.</p>|Thursday, February 2, 2023|
  
 
 # EU-CERT
@@ -158,4 +141,21 @@
  |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
  |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
  |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Android security advisory – February 2023 monthly rollup (AV23-072)](https://cyber.gc.ca/en/alerts-advisories/android-security-advisory-february-2023-monthly-rollup-av23-072)|Visit link for details|2023-02-07|
+ |[Dell security advisory (AV23-071)](https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-071)|Visit link for details|2023-02-06|
+ |[Ubuntu security advisory (AV23-070)](https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-070)|Visit link for details|2023-02-06|
+ |[IBM security advisory (AV23-069)](https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-069)|Visit link for details|2023-02-06|
+ |[ABB security advisory (AV23-068)](https://cyber.gc.ca/en/alerts-advisories/abb-security-advisory-av23-068)|Visit link for details|2023-02-06|
+ |[Microsoft Edge security advisory (AV23-067)](https://cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-067)|Visit link for details|2023-02-03|
+ |[VMware security advisory (AV23-066)](https://cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av23-066)|Visit link for details|2023-02-03|
+ |[[Control systems] Baicells security advisory (AV23-065)](https://cyber.gc.ca/en/alerts-advisories/control-systems-baicells-security-advisory-av23-065)|Visit link for details|2023-02-03|
+ |[[Control systems] Mitsubishi security advisory (AV23-064)](https://cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-security-advisory-av23-064)|Visit link for details|2023-02-03|
+ |[[Control systems] Delta Electronics security advisory (AV22-063)](https://cyber.gc.ca/en/alerts-advisories/control-systems-delta-electronics-security-advisory-av22-063)|Visit link for details|2023-02-03|
+ |[Atlassian security advisory (AV23-062)](https://cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av23-062)|Visit link for details|2023-02-02|
  
