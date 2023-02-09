@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 09/02/2023 16:30:04 UTC
+ > Last Updated 09/02/2023 17:19:25 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -37,45 +37,6 @@
  |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/02/cisa-adds-two-known-exploited-vulnerabilities-catalog)|<p>CISA has added two new vulnerabilities to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. <strong>Note</strong>: To view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.</p>|Thursday, February 2, 2023|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Vulnérabilité dans phpMyAdmin](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0103/)|Une vulnérabilité a été découverte dans phpMyAdmin. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 8 février 2023|
- |[Multiples vulnérabilités dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0102/)|De multiples vulnérabilités ont été découvertes dans OpenSSL. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 8 février 2023|
- |[Multiples vulnérabilités dans IBM Sterling](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0101/)|De multiples vulnérabilités ont été découvertes dans IBM Sterling. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 8 février 2023|
- |[Vulnérabilité dans TYPO3](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0100/)|Une vulnérabilité a été découverte dans TYPO3. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 8 février 2023|
- |[Multiples vulnérabilités dans Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0099/)|De multiples vulnérabilités ont été corrigées dans |Publié le 8 février 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0098/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 7 février 2023|
- |[Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0097/)|De multiples vulnérabilités ont été découvertes dans Google Android. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une élévation de privilèges et un déni de service.|Publié le 7 février 2023|
- |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0096/)|De multiples vulnérabilités ont été corrigées dans |Publié le 6 février 2023|
- |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0095/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 6 février 2023|
- |[Multiples vulnérabilités dans les produits Elastic](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0094/)|De multiples vulnérabilités ont été découvertes dans les produits Elastic. Elles permettent à un attaquant de provoquer un déni de service à distance et une élévation de privilèges.|Publié le 6 février 2023|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/PostgreSQL-memory-reading-via-Kerberos-Transport-Encryption-40486" class="noirorange"><b>PostgreSQL</b>: memory reading via Kerberos Transport Encryption</a>](https://vigilance.fr/vulnerability/PostgreSQL-memory-reading-via-Kerberos-Transport-Encryption-40486)|An attacker can read a memory fragment of PostgreSQL, via Kerberos Transport Encryption, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Rubygem-Globalid-overload-via-Regular-Expression-40485" class="noirorange"><b>Rubygem Globalid</b>: overload via Regular Expression</a>](https://vigilance.fr/vulnerability/Rubygem-Globalid-overload-via-Regular-Expression-40485)|An attacker can trigger an overload of Rubygem Globalid, via Regular Expression, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Netatalk-buffer-overflow-via-dsi-writeinit-40484" class="noirorange"><b>Netatalk</b>: buffer overflow via dsi_writeinit()</a>](https://vigilance.fr/vulnerability/Netatalk-buffer-overflow-via-dsi-writeinit-40484)|An attacker can trigger a buffer overflow of Netatalk, via dsi_writeinit(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/tpm2-tss-buffer-overflow-via-layer-handler-40483" class="noirorange"><b>tpm2-tss</b>: buffer overflow via layer_handler()</a>](https://vigilance.fr/vulnerability/tpm2-tss-buffer-overflow-via-layer-handler-40483)|An attacker can trigger a buffer overflow of tpm2-tss, via layer_handler(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/pesign-file-reading-via-Pesign-Group-40482" class="noirorange"><b>pesign</b>: file reading via Pesign Group</a>](https://vigilance.fr/vulnerability/pesign-file-reading-via-Pesign-Group-40482)|An attacker can read a file of pesign, via Pesign Group, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-aeelf-40481" class="noirorange"><b>WithSecure Endpoint Protection</b>: denial of service via aeelf</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-aeelf-40481)|An attacker can cause a fatal error of WithSecure Endpoint Protection, via aeelf, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeBSD-no-encryption-via-GELI-NULL-User-Key-File-40480" class="noirorange"><b>FreeBSD</b>: no encryption via GELI NULL User Key File</a>](https://vigilance.fr/vulnerability/FreeBSD-no-encryption-via-GELI-NULL-User-Key-File-40480)|An attacker can access data on FreeBSD, via GELI NULL User Key File, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-James-MIME4J-file-reading-via-TempFileStorageProvider-40479" class="noirorange"><b>Apache James MIME4J</b>: file reading via TempFileStorageProvider</a>](https://vigilance.fr/vulnerability/Apache-James-MIME4J-file-reading-via-TempFileStorageProvider-40479)|An attacker can read a file of Apache James MIME4J, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Load-Command-40478" class="noirorange"><b>IBM Db2</b>: denial of service via Load Command</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Load-Command-40478)|An attacker can cause a fatal error of IBM Db2, via Load Command, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-information-disclosure-via-Table-Access-40477" class="noirorange"><b>IBM Db2</b>: information disclosure via Table Access</a>](https://vigilance.fr/vulnerability/IBM-Db2-information-disclosure-via-Table-Access-40477)|An attacker can bypass access restrictions to data of IBM Db2, via Table Access, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-information-disclosure-via-Log-File-40476" class="noirorange"><b>IBM Db2</b>: information disclosure via Log File</a>](https://vigilance.fr/vulnerability/IBM-Db2-information-disclosure-via-Log-File-40476)|An attacker can bypass access restrictions to data of IBM Db2, via Log File, in order to read sensitive information...|Visit link for details|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -91,6 +52,22 @@
  |[40130302/23 - Vulnérabilité affectant OpenSSH](https://www.dgssi.gov.ma//fr/content/4013030223-vulnerabilite-affectant-openssh.html)|OpenSSH annonce la disponibilité de mise à jour de sécurité qui corrige une vulnérabilité auniveaud’OpenSSH. L’exploitation de cette vulnérabilité peut permettre à un attaquant distantd’exécuter du code arbitraire.|06 février 2023|
  |[40100602/23 - Vulnérabilité dans VMware Workstation](https://www.dgssi.gov.ma//fr/content/4010060223-vulnerabilite-dans-vmware-workstation.html)|Une vulnérabilité a été corrigée dans VMware Workstation. L’exploitation de cette faille pourrait permettre à un attaquant de porter atteinte à la confidentialité de données et deréussir une élévation de privilèges.|06 février 2023|
  |[40090602/23 - Campagne de Ransomware cible les serveurs VMware ESXi non corrigés](https://www.dgssi.gov.ma//fr/content/4009060223-campagne-de-ransomware-cible-les-serveurs-vmware-esxi-non-corriges.html)|Une campagne d’attaque par ransomware exploite activement une vulnérabilité (CVE-2021-21974) dans les serveurs VMware ESXi non corrigés. L'exploitation réussie de la vulnérabilité pourrait permettre à un attaquant d'exécuter du...|06 février 2023|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Vulnérabilité dans phpMyAdmin](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0103/)|Une vulnérabilité a été découverte dans phpMyAdmin. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 8 février 2023|
+ |[Multiples vulnérabilités dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0102/)|De multiples vulnérabilités ont été découvertes dans OpenSSL. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 8 février 2023|
+ |[Multiples vulnérabilités dans IBM Sterling](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0101/)|De multiples vulnérabilités ont été découvertes dans IBM Sterling. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 8 février 2023|
+ |[Vulnérabilité dans TYPO3](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0100/)|Une vulnérabilité a été découverte dans TYPO3. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 8 février 2023|
+ |[Multiples vulnérabilités dans Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0099/)|De multiples vulnérabilités ont été corrigées dans |Publié le 8 février 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0098/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à l'intégrité des données.|Publié le 7 février 2023|
+ |[Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0097/)|De multiples vulnérabilités ont été découvertes dans Google Android. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une élévation de privilèges et un déni de service.|Publié le 7 février 2023|
+ |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0096/)|De multiples vulnérabilités ont été corrigées dans |Publié le 6 février 2023|
+ |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0095/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 6 février 2023|
+ |[Multiples vulnérabilités dans les produits Elastic](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0094/)|De multiples vulnérabilités ont été découvertes dans les produits Elastic. Elles permettent à un attaquant de provoquer un déni de service à distance et une élévation de privilèges.|Publié le 6 février 2023|
  
 
 # HK-CERT
@@ -122,6 +99,29 @@
  |[Apache Kafka code execution (CVE-2023-25194)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2023|
  
 
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/PostgreSQL-memory-reading-via-Kerberos-Transport-Encryption-40486" class="noirorange"><b>PostgreSQL</b>: memory reading via Kerberos Transport Encryption</a>](https://vigilance.fr/vulnerability/PostgreSQL-memory-reading-via-Kerberos-Transport-Encryption-40486)|An attacker can read a memory fragment of PostgreSQL, via Kerberos Transport Encryption, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Rubygem-Globalid-overload-via-Regular-Expression-40485" class="noirorange"><b>Rubygem Globalid</b>: overload via Regular Expression</a>](https://vigilance.fr/vulnerability/Rubygem-Globalid-overload-via-Regular-Expression-40485)|An attacker can trigger an overload of Rubygem Globalid, via Regular Expression, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Netatalk-buffer-overflow-via-dsi-writeinit-40484" class="noirorange"><b>Netatalk</b>: buffer overflow via dsi_writeinit()</a>](https://vigilance.fr/vulnerability/Netatalk-buffer-overflow-via-dsi-writeinit-40484)|An attacker can trigger a buffer overflow of Netatalk, via dsi_writeinit(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/tpm2-tss-buffer-overflow-via-layer-handler-40483" class="noirorange"><b>tpm2-tss</b>: buffer overflow via layer_handler()</a>](https://vigilance.fr/vulnerability/tpm2-tss-buffer-overflow-via-layer-handler-40483)|An attacker can trigger a buffer overflow of tpm2-tss, via layer_handler(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/pesign-file-reading-via-Pesign-Group-40482" class="noirorange"><b>pesign</b>: file reading via Pesign Group</a>](https://vigilance.fr/vulnerability/pesign-file-reading-via-Pesign-Group-40482)|An attacker can read a file of pesign, via Pesign Group, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-aeelf-40481" class="noirorange"><b>WithSecure Endpoint Protection</b>: denial of service via aeelf</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-aeelf-40481)|An attacker can cause a fatal error of WithSecure Endpoint Protection, via aeelf, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FreeBSD-no-encryption-via-GELI-NULL-User-Key-File-40480" class="noirorange"><b>FreeBSD</b>: no encryption via GELI NULL User Key File</a>](https://vigilance.fr/vulnerability/FreeBSD-no-encryption-via-GELI-NULL-User-Key-File-40480)|An attacker can access data on FreeBSD, via GELI NULL User Key File, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-James-MIME4J-file-reading-via-TempFileStorageProvider-40479" class="noirorange"><b>Apache James MIME4J</b>: file reading via TempFileStorageProvider</a>](https://vigilance.fr/vulnerability/Apache-James-MIME4J-file-reading-via-TempFileStorageProvider-40479)|An attacker can read a file of Apache James MIME4J, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Load-Command-40478" class="noirorange"><b>IBM Db2</b>: denial of service via Load Command</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Load-Command-40478)|An attacker can cause a fatal error of IBM Db2, via Load Command, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-information-disclosure-via-Table-Access-40477" class="noirorange"><b>IBM Db2</b>: information disclosure via Table Access</a>](https://vigilance.fr/vulnerability/IBM-Db2-information-disclosure-via-Table-Access-40477)|An attacker can bypass access restrictions to data of IBM Db2, via Table Access, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-information-disclosure-via-Log-File-40476" class="noirorange"><b>IBM Db2</b>: information disclosure via Log File</a>](https://vigilance.fr/vulnerability/IBM-Db2-information-disclosure-via-Log-File-40476)|An attacker can bypass access restrictions to data of IBM Db2, via Log File, in order to read sensitive information...|Visit link for details|
+ 
+
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -134,13 +134,6 @@
  |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
  |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
  |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-008: Vulnerability in OpenSSH](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|The development team of the OpenSSH suite has released the version 9.2 to address several security vulnerabilities, including a memory safety bug in the OpenSSH server (|Wednesday, February 08, 2023 06:20:00 PM CEST|
  
 
 # CA-CCS
@@ -158,4 +151,11 @@
  |[Microsoft Edge security advisory (AV23-067)](https://cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-067)|Visit link for details|2023-02-03|
  |[VMware security advisory (AV23-066)](https://cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av23-066)|Visit link for details|2023-02-03|
  |[[Control systems] Baicells security advisory (AV23-065)](https://cyber.gc.ca/en/alerts-advisories/control-systems-baicells-security-advisory-av23-065)|Visit link for details|2023-02-03|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-008: Vulnerability in OpenSSH](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|The development team of the OpenSSH suite has released the version 9.2 to address several security vulnerabilities, including a memory safety bug in the OpenSSH server (|Wednesday, February 08, 2023 06:20:00 PM CEST|
  
