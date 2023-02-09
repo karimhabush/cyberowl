@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 09/02/2023 07:19:30 UTC
+ > Last Updated 09/02/2023 08:28:42 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -53,19 +53,6 @@
  |[Multiples vulnérabilités dans les produits Elastic](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0094/)|De multiples vulnérabilités ont été découvertes dans les produits Elastic. Elles permettent à un attaquant de provoquer un déni de service à distance et une élévation de privilèges.|Publié le 6 février 2023|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[AdminLTE directory traversal (CVE-2021-36471)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2023|
- |[Apache Kafka code execution (CVE-2023-25194)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2023|
- |[Python Cryptographic Authority cryptography denial of service (CVE-2023-23931)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2023|
- |[Dompdf file upload (CVE-2023-24813)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2023|
- |[HP Deskjet 2540 series cross-site scripting (CVE-2022-48311)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2023|
- |[Zyxel ATP, USG FLEX, VPN, and ZyWALL/USG command execution (CVE-2022-38547)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2023|
- |[PyPI cryptography package security bypass (CVE-2023-23931)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2023|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -103,6 +90,19 @@
  |[Microsoft Edge Data Manipulation Vulnerability](/security-bulletin/microsoft-edge-data-manipulation-vulnerability_20230206)|A vulnerability was identified in Microsoft Edge. A remote attacker could exploit this vulnerability to trigger data manipulation on the targeted system. Note:Proof Of Concept Exploit Code is Publicly Available for CVE-2023-21720.|Release Date: 6 Feb 2023|
  |[F5 Products Multiple Vulnerabilities](/security-bulletin/f5-products-multiple-vulnerabilities_20230203)|Multiple vulnerabilities were identified in F5 Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service and remote code execution on the targeted system. |Release Date: 3 Feb 2023|
  |[Microsoft Monthly Security Update (October 2022)](/security-bulletin/microsoft-monthly-security-update-october-2022)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesWindows High RiskRemote Code ExecutionDenial of ServiceSpoofingElevation of PrivilegeInformation DisclosureSecurity Restriction BypassCVE-2022-...| Release Date: 12 Oct 2022 |
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[AdminLTE directory traversal (CVE-2021-36471)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2023|
+ |[Apache Kafka code execution (CVE-2023-25194)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2023|
+ |[Python Cryptographic Authority cryptography denial of service (CVE-2023-23931)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2023|
+ |[Dompdf file upload (CVE-2023-24813)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2023|
+ |[HP Deskjet 2540 series cross-site scripting (CVE-2022-48311)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2023|
+ |[Zyxel ATP, USG FLEX, VPN, and ZyWALL/USG command execution (CVE-2022-38547)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2023|
+ |[PyPI cryptography package security bypass (CVE-2023-23931)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2023|
  
 
 # OBS-Vigilance
