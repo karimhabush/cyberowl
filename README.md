@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 09/02/2023 20:23:30 UTC
+ > Last Updated 09/02/2023 21:21:49 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -53,6 +53,19 @@
  |[Multiples vulnérabilités dans les produits Elastic](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0094/)|De multiples vulnérabilités ont été découvertes dans les produits Elastic. Elles permettent à un attaquant de provoquer un déni de service à distance et une élévation de privilèges.|Publié le 6 février 2023|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[hapi.js formula denial of service (CVE-2023-25166)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 9, 2023|
+ |[Argo CD information disclosure (CVE-2023-25163)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2023|
+ |[Node.js @tinacms/cli module information disclosure (CVE-2023-25164)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2023|
+ |[Helm information disclosure (CVE-2023-25165)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2023|
+ |[Node.js @sideway/formula module denial of service (CVE-2023-25166)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2023|
+ |[Pterodactyl Wings file creation (CVE-2023-25152)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2023|
+ |[Pterodactyl Wings file deletion (CVE-2023-25168)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2023|
+ 
+
 # VulDB
 
  |Title|Description|Date|
@@ -80,6 +93,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-qdisc-graft-40487" class="noirorange"><b>Linux kernel</b>: reuse after free via qdisc_graft()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-qdisc-graft-40487)|An attacker can force the reuse of a freed memory area of the Linux kernel, via qdisc_graft(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/PostgreSQL-memory-reading-via-Kerberos-Transport-Encryption-40486" class="noirorange"><b>PostgreSQL</b>: memory reading via Kerberos Transport Encryption</a>](https://vigilance.fr/vulnerability/PostgreSQL-memory-reading-via-Kerberos-Transport-Encryption-40486)|An attacker can read a memory fragment of PostgreSQL, via Kerberos Transport Encryption, in order to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Rubygem-Globalid-overload-via-Regular-Expression-40485" class="noirorange"><b>Rubygem Globalid</b>: overload via Regular Expression</a>](https://vigilance.fr/vulnerability/Rubygem-Globalid-overload-via-Regular-Expression-40485)|An attacker can trigger an overload of Rubygem Globalid, via Regular Expression, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Netatalk-buffer-overflow-via-dsi-writeinit-40484" class="noirorange"><b>Netatalk</b>: buffer overflow via dsi_writeinit()</a>](https://vigilance.fr/vulnerability/Netatalk-buffer-overflow-via-dsi-writeinit-40484)|An attacker can trigger a buffer overflow of Netatalk, via dsi_writeinit(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
@@ -90,20 +104,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Apache-James-MIME4J-file-reading-via-TempFileStorageProvider-40479" class="noirorange"><b>Apache James MIME4J</b>: file reading via TempFileStorageProvider</a>](https://vigilance.fr/vulnerability/Apache-James-MIME4J-file-reading-via-TempFileStorageProvider-40479)|An attacker can read a file of Apache James MIME4J, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Load-Command-40478" class="noirorange"><b>IBM Db2</b>: denial of service via Load Command</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-Load-Command-40478)|An attacker can cause a fatal error of IBM Db2, via Load Command, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-information-disclosure-via-Table-Access-40477" class="noirorange"><b>IBM Db2</b>: information disclosure via Table Access</a>](https://vigilance.fr/vulnerability/IBM-Db2-information-disclosure-via-Table-Access-40477)|An attacker can bypass access restrictions to data of IBM Db2, via Table Access, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-information-disclosure-via-Log-File-40476" class="noirorange"><b>IBM Db2</b>: information disclosure via Log File</a>](https://vigilance.fr/vulnerability/IBM-Db2-information-disclosure-via-Log-File-40476)|An attacker can bypass access restrictions to data of IBM Db2, via Log File, in order to read sensitive information...|Visit link for details|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[hapi.js formula denial of service (CVE-2023-25166)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 9, 2023|
- |[Helm information disclosure (CVE-2023-25165)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2023|
- |[Node.js @sideway/formula module denial of service (CVE-2023-25166)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2023|
- |[Pterodactyl Wings file deletion (CVE-2023-25168)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2023|
- |[Discourse denial of service (CVE-2023-25167)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2023|
- |[Palo Alto Networks Cortex XSOAR server (CVE-2023-0003)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2023|
- |[Palo Alto Networks Cortex XDR agent information disclosure (CVE-2023-0001)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2023|
  
 
 # HK-CERT
@@ -120,6 +120,23 @@
  |[Microsoft Edge Data Manipulation Vulnerability](/security-bulletin/microsoft-edge-data-manipulation-vulnerability_20230206)|A vulnerability was identified in Microsoft Edge. A remote attacker could exploit this vulnerability to trigger data manipulation on the targeted system. Note:Proof Of Concept Exploit Code is Publicly Available for CVE-2023-21720.|Release Date: 6 Feb 2023|
  |[F5 Products Multiple Vulnerabilities](/security-bulletin/f5-products-multiple-vulnerabilities_20230203)|Multiple vulnerabilities were identified in F5 Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service and remote code execution on the targeted system. |Release Date: 3 Feb 2023|
  |[Microsoft Monthly Security Update (October 2022)](/security-bulletin/microsoft-monthly-security-update-october-2022)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesWindows High RiskRemote Code ExecutionDenial of ServiceSpoofingElevation of PrivilegeInformation DisclosureSecurity Restriction BypassCVE-2022-...| Release Date: 12 Oct 2022 |
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[[Control systems] EnOcean Edge security advisory (AV23-074)](https://cyber.gc.ca/en/alerts-advisories/control-systems-enocean-edge-security-advisory-av23-074)|Visit link for details|2023-02-08|
+ |[Google Chrome security advisory (AV23-073)](https://cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-073)|Visit link for details|2023-02-08|
+ |[Ongoing reports of Qakbot malware incidents – Update 1](https://cyber.gc.ca/en/alerts-advisories/ongoing-reports-qakbot-malware-incidents)|Visit link for details|2023-02-08|
+ |[Android security advisory – February 2023 monthly rollup (AV23-072)](https://cyber.gc.ca/en/alerts-advisories/android-security-advisory-february-2023-monthly-rollup-av23-072)|Visit link for details|2023-02-07|
+ |[Dell security advisory (AV23-071)](https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-071)|Visit link for details|2023-02-06|
+ |[Ubuntu security advisory (AV23-070)](https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-070)|Visit link for details|2023-02-06|
+ |[IBM security advisory (AV23-069)](https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-069)|Visit link for details|2023-02-06|
+ |[ABB security advisory (AV23-068)](https://cyber.gc.ca/en/alerts-advisories/abb-security-advisory-av23-068)|Visit link for details|2023-02-06|
+ |[Microsoft Edge security advisory (AV23-067)](https://cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-067)|Visit link for details|2023-02-03|
+ |[VMware security advisory (AV23-066)](https://cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av23-066)|Visit link for details|2023-02-03|
+ |[[Control systems] Baicells security advisory (AV23-065)](https://cyber.gc.ca/en/alerts-advisories/control-systems-baicells-security-advisory-av23-065)|Visit link for details|2023-02-03|
  
 
 # EU-CERT
@@ -141,21 +158,4 @@
  |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
  |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
  |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[[Control systems] EnOcean Edge security advisory (AV23-074)](https://cyber.gc.ca/en/alerts-advisories/control-systems-enocean-edge-security-advisory-av23-074)|Visit link for details|2023-02-08|
- |[Google Chrome security advisory (AV23-073)](https://cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-073)|Visit link for details|2023-02-08|
- |[Ongoing reports of Qakbot malware incidents – Update 1](https://cyber.gc.ca/en/alerts-advisories/ongoing-reports-qakbot-malware-incidents)|Visit link for details|2023-02-08|
- |[Android security advisory – February 2023 monthly rollup (AV23-072)](https://cyber.gc.ca/en/alerts-advisories/android-security-advisory-february-2023-monthly-rollup-av23-072)|Visit link for details|2023-02-07|
- |[Dell security advisory (AV23-071)](https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-071)|Visit link for details|2023-02-06|
- |[Ubuntu security advisory (AV23-070)](https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-070)|Visit link for details|2023-02-06|
- |[IBM security advisory (AV23-069)](https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-069)|Visit link for details|2023-02-06|
- |[ABB security advisory (AV23-068)](https://cyber.gc.ca/en/alerts-advisories/abb-security-advisory-av23-068)|Visit link for details|2023-02-06|
- |[Microsoft Edge security advisory (AV23-067)](https://cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-067)|Visit link for details|2023-02-03|
- |[VMware security advisory (AV23-066)](https://cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av23-066)|Visit link for details|2023-02-03|
- |[[Control systems] Baicells security advisory (AV23-065)](https://cyber.gc.ca/en/alerts-advisories/control-systems-baicells-security-advisory-av23-065)|Visit link for details|2023-02-03|
  
