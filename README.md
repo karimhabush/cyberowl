@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 09/02/2023 06:27:55 UTC
+ > Last Updated 09/02/2023 07:19:30 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -53,6 +53,19 @@
  |[Multiples vulnérabilités dans les produits Elastic](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0094/)|De multiples vulnérabilités ont été découvertes dans les produits Elastic. Elles permettent à un attaquant de provoquer un déni de service à distance et une élévation de privilèges.|Publié le 6 février 2023|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[AdminLTE directory traversal (CVE-2021-36471)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2023|
+ |[Apache Kafka code execution (CVE-2023-25194)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2023|
+ |[Python Cryptographic Authority cryptography denial of service (CVE-2023-23931)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2023|
+ |[Dompdf file upload (CVE-2023-24813)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2023|
+ |[HP Deskjet 2540 series cross-site scripting (CVE-2022-48311)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2023|
+ |[Zyxel ATP, USG FLEX, VPN, and ZyWALL/USG command execution (CVE-2022-38547)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2023|
+ |[PyPI cryptography package security bypass (CVE-2023-23931)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2023|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -68,19 +81,6 @@
  |[40100602/23 - Vulnérabilité dans VMware Workstation](https://www.dgssi.gov.ma//fr/content/4010060223-vulnerabilite-dans-vmware-workstation.html)|Une vulnérabilité a été corrigée dans VMware Workstation. L’exploitation de cette faille pourrait permettre à un attaquant de porter atteinte à la confidentialité de données et deréussir une élévation de privilèges.|06 février 2023|
  |[40090602/23 - Campagne de Ransomware cible les serveurs VMware ESXi non corrigés](https://www.dgssi.gov.ma//fr/content/4009060223-campagne-de-ransomware-cible-les-serveurs-vmware-esxi-non-corriges.html)|Une campagne d’attaque par ransomware exploite activement une vulnérabilité (CVE-2021-21974) dans les serveurs VMware ESXi non corrigés. L'exploitation réussie de la vulnérabilité pourrait permettre à un attaquant d'exécuter du...|06 février 2023|
  |[401010302/23 - Vulnérabilité affectant le Module «Apigee Edge »pourCMS Drupal](https://www.dgssi.gov.ma//fr/content/40101030223-vulnerabilite-affectant-le-module-apigee-edge-pour-cms-drupal.html)|Drupal annonce la disponibilité de mise à jour de sécurité qui corrige une vulnérabilité auniveaudu module « Apigee Edge ». L’exploitation de cette vulnérabilité peut permettre à un attaquant de contourner les mesures de sécurité.|03 février 2023|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[AdminLTE directory traversal (CVE-2021-36471)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2023|
- |[Apache Kafka code execution (CVE-2023-25194)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2023|
- |[Python Cryptographic Authority cryptography denial of service (CVE-2023-23931)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 8, 2023|
- |[Dompdf file upload (CVE-2023-24813)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2023|
- |[HP Deskjet 2540 series cross-site scripting (CVE-2022-48311)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2023|
- |[Zyxel ATP, USG FLEX, VPN, and ZyWALL/USG command execution (CVE-2022-38547)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2023|
- |[PyPI cryptography package security bypass (CVE-2023-23931)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 7, 2023|
  
 
 # VulDB
