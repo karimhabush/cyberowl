@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 09/02/2023 12:40:37 UTC
+ > Last Updated 09/02/2023 13:36:04 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -70,22 +70,6 @@
  |[40090602/23 - Campagne de Ransomware cible les serveurs VMware ESXi non corrigés](https://www.dgssi.gov.ma//fr/content/4009060223-campagne-de-ransomware-cible-les-serveurs-vmware-esxi-non-corriges.html)|Une campagne d’attaque par ransomware exploite activement une vulnérabilité (CVE-2021-21974) dans les serveurs VMware ESXi non corrigés. L'exploitation réussie de la vulnérabilité pourrait permettre à un attaquant d'exécuter du...|06 février 2023|
  
 
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[OpenSSL Multiple Vulnerabilities](/security-bulletin/openssl-multiple-vulnerabilities_20230209)|Multiple vulnerabilities were identified in OpenSSL. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 9 Feb 2023|
- |[Google Chrome Multiple Vulnerabilities](/security-bulletin/google-chrome-multiple-vulnerabilities_20230208)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, privilege escalation,  security restriction bypass, denial of service and sensitive information disclosure on the targeted system.|Release Date: 8 Feb 2023|
- |[SUSE Linux Kernel Multiple Vulnerabilities](/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230207)|Multiple vulnerabilities were identified in SUSE Linux. A attacker could exploit some of these vulnerabilities to trigger denial of service condition and elevation of privilege on the targeted system. [Updated on 2023-02-08] Updated System / Technologies affected, Solutions, Vulnerability Identifier and...| Release Date: 7 Feb 2023 |
- |[IBM MQ Denial of Service Vulnerability](/security-bulletin/ibm-mq-denial-of-service-vulnerability_20230207)|A vulnerability has been identified in IBM MQ. A remote user can exploit this vulnerability to trigger denial of service condition on the targeted system.|Release Date: 7 Feb 2023|
- |[Android Multiple Vulnerabilities](/security-bulletin/android-multiple-vulnerabilities_20230207)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 7 Feb 2023|
- |[ChromeOS Multiple Vulnerabilities](/security-bulletin/chromeos-multiple-vulnerabilities_20230207)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 7 Feb 2023|
- |[OpenSSH Multiple Vulnerabilities](/security-bulletin/openssh-multiple-vulnerabilities_20230207)|Multiple vulnerabilities were identified in OpenSSH. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 7 Feb 2023|
- |[Microsoft Edge Data Manipulation Vulnerability](/security-bulletin/microsoft-edge-data-manipulation-vulnerability_20230206)|A vulnerability was identified in Microsoft Edge. A remote attacker could exploit this vulnerability to trigger data manipulation on the targeted system. Note:Proof Of Concept Exploit Code is Publicly Available for CVE-2023-21720.|Release Date: 6 Feb 2023|
- |[F5 Products Multiple Vulnerabilities](/security-bulletin/f5-products-multiple-vulnerabilities_20230203)|Multiple vulnerabilities were identified in F5 Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service and remote code execution on the targeted system. |Release Date: 3 Feb 2023|
- |[Microsoft Monthly Security Update (October 2022)](/security-bulletin/microsoft-monthly-security-update-october-2022)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesWindows High RiskRemote Code ExecutionDenial of ServiceSpoofingElevation of PrivilegeInformation DisclosureSecurity Restriction BypassCVE-2022-...| Release Date: 12 Oct 2022 |
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -105,24 +89,28 @@
  |---|---|---|
  
 
-# ZERODAYINITIATIVE
+# HK-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
+ |[OpenSSL Multiple Vulnerabilities](/security-bulletin/openssl-multiple-vulnerabilities_20230209)|Multiple vulnerabilities were identified in OpenSSL. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 9 Feb 2023|
+ |[Google Chrome Multiple Vulnerabilities](/security-bulletin/google-chrome-multiple-vulnerabilities_20230208)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, privilege escalation,  security restriction bypass, denial of service and sensitive information disclosure on the targeted system.|Release Date: 8 Feb 2023|
+ |[SUSE Linux Kernel Multiple Vulnerabilities](/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230207)|Multiple vulnerabilities were identified in SUSE Linux. A attacker could exploit some of these vulnerabilities to trigger denial of service condition and elevation of privilege on the targeted system. [Updated on 2023-02-08] Updated System / Technologies affected, Solutions, Vulnerability Identifier and...| Release Date: 7 Feb 2023 |
+ |[IBM MQ Denial of Service Vulnerability](/security-bulletin/ibm-mq-denial-of-service-vulnerability_20230207)|A vulnerability has been identified in IBM MQ. A remote user can exploit this vulnerability to trigger denial of service condition on the targeted system.|Release Date: 7 Feb 2023|
+ |[Android Multiple Vulnerabilities](/security-bulletin/android-multiple-vulnerabilities_20230207)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 7 Feb 2023|
+ |[ChromeOS Multiple Vulnerabilities](/security-bulletin/chromeos-multiple-vulnerabilities_20230207)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 7 Feb 2023|
+ |[OpenSSH Multiple Vulnerabilities](/security-bulletin/openssh-multiple-vulnerabilities_20230207)|Multiple vulnerabilities were identified in OpenSSH. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 7 Feb 2023|
+ |[Microsoft Edge Data Manipulation Vulnerability](/security-bulletin/microsoft-edge-data-manipulation-vulnerability_20230206)|A vulnerability was identified in Microsoft Edge. A remote attacker could exploit this vulnerability to trigger data manipulation on the targeted system. Note:Proof Of Concept Exploit Code is Publicly Available for CVE-2023-21720.|Release Date: 6 Feb 2023|
+ |[F5 Products Multiple Vulnerabilities](/security-bulletin/f5-products-multiple-vulnerabilities_20230203)|Multiple vulnerabilities were identified in F5 Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service and remote code execution on the targeted system. |Release Date: 3 Feb 2023|
+ |[Microsoft Monthly Security Update (October 2022)](/security-bulletin/microsoft-monthly-security-update-october-2022)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesWindows High RiskRemote Code ExecutionDenial of ServiceSpoofingElevation of PrivilegeInformation DisclosureSecurity Restriction BypassCVE-2022-...| Release Date: 12 Oct 2022 |
  
 
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Rubygem-Globalid-overload-via-Regular-Expression-40485" class="noirorange"><b>Rubygem Globalid</b>: overload via Regular Expression</a>](https://vigilance.fr/vulnerability/Rubygem-Globalid-overload-via-Regular-Expression-40485)|An attacker can trigger an overload of Rubygem Globalid, via Regular Expression, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Netatalk-buffer-overflow-via-dsi-writeinit-40484" class="noirorange"><b>Netatalk</b>: buffer overflow via dsi_writeinit()</a>](https://vigilance.fr/vulnerability/Netatalk-buffer-overflow-via-dsi-writeinit-40484)|An attacker can trigger a buffer overflow of Netatalk, via dsi_writeinit(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/tpm2-tss-buffer-overflow-via-layer-handler-40483" class="noirorange"><b>tpm2-tss</b>: buffer overflow via layer_handler()</a>](https://vigilance.fr/vulnerability/tpm2-tss-buffer-overflow-via-layer-handler-40483)|An attacker can trigger a buffer overflow of tpm2-tss, via layer_handler(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/pesign-file-reading-via-Pesign-Group-40482" class="noirorange"><b>pesign</b>: file reading via Pesign Group</a>](https://vigilance.fr/vulnerability/pesign-file-reading-via-Pesign-Group-40482)|An attacker can read a file of pesign, via Pesign Group, in order to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-aeelf-40481" class="noirorange"><b>WithSecure Endpoint Protection</b>: denial of service via aeelf</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-aeelf-40481)|An attacker can cause a fatal error of WithSecure Endpoint Protection, via aeelf, in order to trigger a denial of service...|Visit link for details|
@@ -132,8 +120,6 @@
  |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-information-disclosure-via-Table-Access-40477" class="noirorange"><b>IBM Db2</b>: information disclosure via Table Access</a>](https://vigilance.fr/vulnerability/IBM-Db2-information-disclosure-via-Table-Access-40477)|An attacker can bypass access restrictions to data of IBM Db2, via Table Access, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-information-disclosure-via-Log-File-40476" class="noirorange"><b>IBM Db2</b>: information disclosure via Log File</a>](https://vigilance.fr/vulnerability/IBM-Db2-information-disclosure-via-Log-File-40476)|An attacker can bypass access restrictions to data of IBM Db2, via Log File, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Shim-privilege-escalation-via-Insecure-GRUB-Versions-40475" class="noirorange"><b>Shim</b>: privilege escalation via Insecure GRUB Versions</a>](https://vigilance.fr/vulnerability/Shim-privilege-escalation-via-Insecure-GRUB-Versions-40475)|An attacker can bypass restrictions of Shim, via Insecure GRUB Versions, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Heimdal-weak-signature-via-Memory-Comparisons-Backport-40474" class="noirorange"><b>Heimdal</b>: weak signature via Memory Comparisons Backport</a>](https://vigilance.fr/vulnerability/Heimdal-weak-signature-via-Memory-Comparisons-Backport-40474)|An attacker can use malicious data on Heimdal, via Memory Comparisons Backport, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/phpMyAdmin-Cross-Site-Scripting-via-Drag-and-Drop-Upload-40473" class="noirorange"><b>phpMyAdmin</b>: Cross Site Scripting via Drag-and-Drop Upload</a>](https://vigilance.fr/vulnerability/phpMyAdmin-Cross-Site-Scripting-via-Drag-and-Drop-Upload-40473)|An attacker can trigger a Cross Site Scripting of phpMyAdmin, via Drag-and-Drop Upload, in order to run JavaScript code in the context of the web site...|Visit link for details|
  
 
 # CA-CCS
@@ -158,4 +144,10 @@
  |Title|Description|Date|
  |---|---|---|
  |[2023-008: Vulnerability in OpenSSH](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|The development team of the OpenSSH suite has released the version 9.2 to address several security vulnerabilities, including a memory safety bug in the OpenSSH server (|Wednesday, February 08, 2023 06:20:00 PM CEST|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
  
