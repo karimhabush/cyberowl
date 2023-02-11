@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 11/02/2023 17:18:10 UTC
+ > Last Updated 11/02/2023 18:25:30 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -60,6 +60,13 @@
  |---|---|---|
  
 
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-008: Vulnerability in OpenSSH](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|The development team of the OpenSSH suite has released the version 9.2 to address several security vulnerabilities, including a memory safety bug in the OpenSSH server (|Wednesday, February 08, 2023 06:20:00 PM CEST|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
@@ -74,13 +81,6 @@
  |[Vulnérabilité dans PostgreSQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0107/)|Une vulnérabilité a été corrigée dans |Publié le 9 février 2023|
  |[Multiples vulnérabilités dans les produits TrendMicro](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0106/)|De multiples vulnérabilités ont été corrigées dans |Publié le 9 février 2023|
  |[Multiples vulnérabilités dans les produits PaloAlto](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0105/)|De multiples vulnérabilités ont été corrigées dans |Publié le 9 février 2023|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-008: Vulnerability in OpenSSH](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|The development team of the OpenSSH suite has released the version 9.2 to address several security vulnerabilities, including a memory safety bug in the OpenSSH server (|Wednesday, February 08, 2023 06:20:00 PM CEST|
  
 
 # MA-CERT
