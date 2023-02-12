@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 12/02/2023 20:21:43 UTC
+ > Last Updated 12/02/2023 21:18:34 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -37,12 +37,6 @@
  |[CISA Releases ESXiArgs Ransomware Recovery Script ](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/07/cisa-releases-esxiargs-ransomware-recovery-script)|<p>CISA has released a recovery script for organizations that have fallen victim to ESXiArgs ransomware. The ESXiArgs ransomware encrypts configuration files on vulnerable ESXi servers, potentially rendering virtual machines (VMs) unusable.</p>|Tuesday, February 7, 2023|
  
 
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -58,6 +52,12 @@
  |[<a href="https://vigilance.fr/vulnerability/SoX-buffer-overflow-via-lsx-read-w-buf-40495" class="noirorange"><b>SoX</b>: buffer overflow via lsx_read_w_buf()</a>](https://vigilance.fr/vulnerability/SoX-buffer-overflow-via-lsx-read-w-buf-40495)|An attacker can trigger a buffer overflow of SoX, via lsx_read_w_buf(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/SoX-buffer-overflow-via-lsx-adpcm-init-40494" class="noirorange"><b>SoX</b>: buffer overflow via lsx_adpcm_init()</a>](https://vigilance.fr/vulnerability/SoX-buffer-overflow-via-lsx-adpcm-init-40494)|An attacker can trigger a buffer overflow of SoX, via lsx_adpcm_init(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/SoX-NULL-pointer-dereference-via-lsx-calloc-40493" class="noirorange"><b>SoX</b>: NULL pointer dereference via lsx_calloc()</a>](https://vigilance.fr/vulnerability/SoX-NULL-pointer-dereference-via-lsx-calloc-40493)|An attacker can force a NULL pointer to be dereferenced on SoX, via lsx_calloc(), in order to trigger a denial of service...|Visit link for details|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # CERT-FR
