@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 12/02/2023 08:25:11 UTC
+ > Last Updated 12/02/2023 09:19:59 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -35,6 +35,36 @@
  |[OpenSSL Releases Security Advisory](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/09/openssl-releases-security-advisory)|<p>OpenSSL has released a security advisory to address multiple vulnerabilities affecting OpenSSL versions 3.0.0, 2.2.2, and 1.0.2. An attacker could exploit some of these vulnerabilities to obtain sensitive information.<br><br>CISA encourages users and administrators to review the <a href="https://www.openssl.org/news/secadv/20230207.txt">OpenSSL advisory</a> and make the necessary updates.</p>|Thursday, February 9, 2023|
  |[CISA and FBI Release ESXiArgs Ransomware Recovery Guidance](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/08/cisa-and-fbi-release-esxiargs-ransomware-recovery-guidance)|<p>Today, CISA and the Federal Bureau of Investigation (FBI) released a joint Cybersecurity Advisory, <a href="https://www.cisa.gov/uscert/ncas/alerts/aa23-039a">ESXiArgs Ransomware Virtual Machine Recovery Guidance</a>. This advisory describes the ongoing ransomware campaign known as “ESXiArgs.” Malicious cyber actors may be exploiting known vulnerabilities in unpatched and out-of-service or out-of-date versions of VMware ESXi software to gain access to ESXi servers and deploy ESXiArgs ransomware.</p>|Wednesday, February 8, 2023|
  |[CISA Releases ESXiArgs Ransomware Recovery Script ](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/07/cisa-releases-esxiargs-ransomware-recovery-script)|<p>CISA has released a recovery script for organizations that have fallen victim to ESXiArgs ransomware. The ESXiArgs ransomware encrypts configuration files on vulnerable ESXi servers, potentially rendering virtual machines (VMs) unusable.</p>|Tuesday, February 7, 2023|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/libde265-buffer-overflow-via-cpb-cnt-minus1-40503" class="noirorange"><b>libde265</b>: buffer overflow via cpb_cnt_minus1()</a>](https://vigilance.fr/vulnerability/libde265-buffer-overflow-via-cpb-cnt-minus1-40503)|An attacker can trigger a buffer overflow of libde265, via cpb_cnt_minus1(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Python-Core-Windows-code-execution-via-Cmd-exe-Search-Path-40502" class="noirorange"><b>Python Core Windows</b>: code execution via Cmd.exe Search Path</a>](https://vigilance.fr/vulnerability/Python-Core-Windows-code-execution-via-Cmd-exe-Search-Path-40502)|An attacker can use a vulnerability of Python Core Windows, via Cmd.exe Search Path, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SoX-assertion-error-via-rate-init-40501" class="noirorange"><b>SoX</b>: assertion error via rate_init()</a>](https://vigilance.fr/vulnerability/SoX-assertion-error-via-rate-init-40501)|An attacker can force an assertion error of SoX, via rate_init(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SoX-denial-of-service-via-lsx-aiffstartwrite-40500" class="noirorange"><b>SoX</b>: denial of service via lsx_aiffstartwrite()</a>](https://vigilance.fr/vulnerability/SoX-denial-of-service-via-lsx-aiffstartwrite-40500)|An attacker can cause a fatal error of SoX, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SoX-buffer-overflow-via-start-read-40499" class="noirorange"><b>SoX</b>: buffer overflow via start_read()</a>](https://vigilance.fr/vulnerability/SoX-buffer-overflow-via-start-read-40499)|An attacker can trigger a buffer overflow of SoX, via start_read(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SoX-denial-of-service-via-startread-40498" class="noirorange"><b>SoX</b>: denial of service via startread()</a>](https://vigilance.fr/vulnerability/SoX-denial-of-service-via-startread-40498)|An attacker can cause a fatal error of SoX, via startread(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SoX-denial-of-service-via-read-samples-40497" class="noirorange"><b>SoX</b>: denial of service via read_samples()</a>](https://vigilance.fr/vulnerability/SoX-denial-of-service-via-read-samples-40497)|An attacker can cause a fatal error of SoX, via read_samples(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SoX-buffer-overflow-via-startread-40496" class="noirorange"><b>SoX</b>: buffer overflow via startread()</a>](https://vigilance.fr/vulnerability/SoX-buffer-overflow-via-startread-40496)|An attacker can trigger a buffer overflow of SoX, via startread(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SoX-buffer-overflow-via-lsx-read-w-buf-40495" class="noirorange"><b>SoX</b>: buffer overflow via lsx_read_w_buf()</a>](https://vigilance.fr/vulnerability/SoX-buffer-overflow-via-lsx-read-w-buf-40495)|An attacker can trigger a buffer overflow of SoX, via lsx_read_w_buf(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SoX-buffer-overflow-via-lsx-adpcm-init-40494" class="noirorange"><b>SoX</b>: buffer overflow via lsx_adpcm_init()</a>](https://vigilance.fr/vulnerability/SoX-buffer-overflow-via-lsx-adpcm-init-40494)|An attacker can trigger a buffer overflow of SoX, via lsx_adpcm_init(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SoX-NULL-pointer-dereference-via-lsx-calloc-40493" class="noirorange"><b>SoX</b>: NULL pointer dereference via lsx_calloc()</a>](https://vigilance.fr/vulnerability/SoX-NULL-pointer-dereference-via-lsx-calloc-40493)|An attacker can force a NULL pointer to be dereferenced on SoX, via lsx_calloc(), in order to trigger a denial of service...|Visit link for details|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-008: Vulnerability in OpenSSH](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|The development team of the OpenSSH suite has released the version 9.2 to address several security vulnerabilities, including a memory safety bug in the OpenSSH server (|Wednesday, February 08, 2023 06:20:00 PM CEST|
  
 
 # CERT-FR
@@ -70,12 +100,6 @@
  |[40090602/23 - Campagne de Ransomware cible les serveurs VMware ESXi non corrigés](https://www.dgssi.gov.ma//fr/content/4009060223-campagne-de-ransomware-cible-les-serveurs-vmware-esxi-non-corriges.html)|Une campagne d’attaque par ransomware exploite activement une vulnérabilité (CVE-2021-21974) dans les serveurs VMware ESXi non corrigés. L'exploitation réussie de la vulnérabilité pourrait permettre à un attaquant d'exécuter du...|06 février 2023|
  
 
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -90,72 +114,4 @@
  |[OpenSSH Multiple Vulnerabilities](/security-bulletin/openssh-multiple-vulnerabilities_20230207)|Multiple vulnerabilities were identified in OpenSSH. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 7 Feb 2023|
  |[Microsoft Edge Data Manipulation Vulnerability](/security-bulletin/microsoft-edge-data-manipulation-vulnerability_20230206)|A vulnerability was identified in Microsoft Edge. A remote attacker could exploit this vulnerability to trigger data manipulation on the targeted system. Note:Proof Of Concept Exploit Code is Publicly Available for CVE-2023-21720.|Release Date: 6 Feb 2023|
  |[F5 Products Multiple Vulnerabilities](/security-bulletin/f5-products-multiple-vulnerabilities_20230203)|Multiple vulnerabilities were identified in F5 Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service and remote code execution on the targeted system. |Release Date: 3 Feb 2023|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[NEC PC Settings Tool security bypass (CVE-2023-25011)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 10, 2023|
- |[Zuken Elmic KASAGO security bypass (CVE-2022-43501)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 10, 2023|
- |[Huawei E5573Cs-322 devices denial of service (CVE-2018-7935)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 10, 2023|
- |[LSElectric XBC-DN32U denial of service (CVE-2023-0103)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 9, 2023|
- |[LSElectric XBC-DN32U weak security (CVE-2023-0102)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 9, 2023|
- |[LSElectric XBC-DN32U security bypass (CVE-2023-22807)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 9, 2023|
- |[LSElectric XBC-DN32U information disclosure (CVE-2023-22806)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 9, 2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/libde265-buffer-overflow-via-cpb-cnt-minus1-40503" class="noirorange"><b>libde265</b>: buffer overflow via cpb_cnt_minus1()</a>](https://vigilance.fr/vulnerability/libde265-buffer-overflow-via-cpb-cnt-minus1-40503)|An attacker can trigger a buffer overflow of libde265, via cpb_cnt_minus1(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Python-Core-Windows-code-execution-via-Cmd-exe-Search-Path-40502" class="noirorange"><b>Python Core Windows</b>: code execution via Cmd.exe Search Path</a>](https://vigilance.fr/vulnerability/Python-Core-Windows-code-execution-via-Cmd-exe-Search-Path-40502)|An attacker can use a vulnerability of Python Core Windows, via Cmd.exe Search Path, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SoX-assertion-error-via-rate-init-40501" class="noirorange"><b>SoX</b>: assertion error via rate_init()</a>](https://vigilance.fr/vulnerability/SoX-assertion-error-via-rate-init-40501)|An attacker can force an assertion error of SoX, via rate_init(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SoX-denial-of-service-via-lsx-aiffstartwrite-40500" class="noirorange"><b>SoX</b>: denial of service via lsx_aiffstartwrite()</a>](https://vigilance.fr/vulnerability/SoX-denial-of-service-via-lsx-aiffstartwrite-40500)|An attacker can cause a fatal error of SoX, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SoX-buffer-overflow-via-start-read-40499" class="noirorange"><b>SoX</b>: buffer overflow via start_read()</a>](https://vigilance.fr/vulnerability/SoX-buffer-overflow-via-start-read-40499)|An attacker can trigger a buffer overflow of SoX, via start_read(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SoX-denial-of-service-via-startread-40498" class="noirorange"><b>SoX</b>: denial of service via startread()</a>](https://vigilance.fr/vulnerability/SoX-denial-of-service-via-startread-40498)|An attacker can cause a fatal error of SoX, via startread(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SoX-denial-of-service-via-read-samples-40497" class="noirorange"><b>SoX</b>: denial of service via read_samples()</a>](https://vigilance.fr/vulnerability/SoX-denial-of-service-via-read-samples-40497)|An attacker can cause a fatal error of SoX, via read_samples(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SoX-buffer-overflow-via-startread-40496" class="noirorange"><b>SoX</b>: buffer overflow via startread()</a>](https://vigilance.fr/vulnerability/SoX-buffer-overflow-via-startread-40496)|An attacker can trigger a buffer overflow of SoX, via startread(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SoX-buffer-overflow-via-lsx-read-w-buf-40495" class="noirorange"><b>SoX</b>: buffer overflow via lsx_read_w_buf()</a>](https://vigilance.fr/vulnerability/SoX-buffer-overflow-via-lsx-read-w-buf-40495)|An attacker can trigger a buffer overflow of SoX, via lsx_read_w_buf(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SoX-buffer-overflow-via-lsx-adpcm-init-40494" class="noirorange"><b>SoX</b>: buffer overflow via lsx_adpcm_init()</a>](https://vigilance.fr/vulnerability/SoX-buffer-overflow-via-lsx-adpcm-init-40494)|An attacker can trigger a buffer overflow of SoX, via lsx_adpcm_init(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SoX-NULL-pointer-dereference-via-lsx-calloc-40493" class="noirorange"><b>SoX</b>: NULL pointer dereference via lsx_calloc()</a>](https://vigilance.fr/vulnerability/SoX-NULL-pointer-dereference-via-lsx-calloc-40493)|An attacker can force a NULL pointer to be dereferenced on SoX, via lsx_calloc(), in order to trigger a denial of service...|Visit link for details|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[[Control systems] Johnson Controls security advisory (AV23-078)](https://cyber.gc.ca/en/alerts-advisories/control-systems-johnson-controls-security-advisory-av23-078)|Visit link for details|2023-02-10|
- |[[Control systems] Control By Web security advisory (AV23-077)](https://cyber.gc.ca/en/alerts-advisories/control-systems-control-web-security-advisory-av23-077)|Visit link for details|2023-02-10|
- |[[Control systems] LS ELECTRIC security advisory (AV23-076)](https://cyber.gc.ca/en/alerts-advisories/control-systems-ls-electric-security-advisory-av23-076)|Visit link for details|2023-02-10|
- |[[Control systems] Horner security advisory (AV23-075)](https://cyber.gc.ca/en/alerts-advisories/control-systems-horner-security-advisory-av23-075)|Visit link for details|2023-02-10|
- |[[Control systems] EnOcean Edge security advisory (AV23-074)](https://cyber.gc.ca/en/alerts-advisories/control-systems-enocean-edge-security-advisory-av23-074)|Visit link for details|2023-02-08|
- |[Google Chrome security advisory (AV23-073)](https://cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-073)|Visit link for details|2023-02-08|
- |[Ongoing reports of Qakbot malware incidents – Update 1](https://cyber.gc.ca/en/alerts-advisories/ongoing-reports-qakbot-malware-incidents)|Visit link for details|2023-02-08|
- |[Android security advisory – February 2023 monthly rollup (AV23-072)](https://cyber.gc.ca/en/alerts-advisories/android-security-advisory-february-2023-monthly-rollup-av23-072)|Visit link for details|2023-02-07|
- |[Dell security advisory (AV23-071)](https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-071)|Visit link for details|2023-02-06|
- |[Ubuntu security advisory (AV23-070)](https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-070)|Visit link for details|2023-02-06|
- |[IBM security advisory (AV23-069)](https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-069)|Visit link for details|2023-02-06|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-008: Vulnerability in OpenSSH](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|The development team of the OpenSSH suite has released the version 9.2 to address several security vulnerabilities, including a memory safety bug in the OpenSSH server (|Wednesday, February 08, 2023 06:20:00 PM CEST|
  
