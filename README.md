@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 12/02/2023 22:19:30 UTC
+ > Last Updated 12/02/2023 23:20:12 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -54,17 +54,17 @@
  |[<a href="https://vigilance.fr/vulnerability/SoX-NULL-pointer-dereference-via-lsx-calloc-40493" class="noirorange"><b>SoX</b>: NULL pointer dereference via lsx_calloc()</a>](https://vigilance.fr/vulnerability/SoX-NULL-pointer-dereference-via-lsx-calloc-40493)|An attacker can force a NULL pointer to be dereferenced on SoX, via lsx_calloc(), in order to trigger a denial of service...|Visit link for details|
  
 
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
  |---|---|---|
  |[2023-008: Vulnerability in OpenSSH](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|The development team of the OpenSSH suite has released the version 9.2 to address several security vulnerabilities, including a memory safety bug in the OpenSSH server (|Wednesday, February 08, 2023 06:20:00 PM CEST|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # CERT-FR
