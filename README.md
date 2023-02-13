@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 13/02/2023 17:22:52 UTC
+ > Last Updated 13/02/2023 18:27:16 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -54,6 +54,13 @@
  |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-extractContigSamplesShifted16bits-40508" class="noirorange"><b>LibTIFF</b>: buffer overflow via extractContigSamplesShifted16bits()</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-extractContigSamplesShifted16bits-40508)|An attacker can trigger a buffer overflow of LibTIFF, via |Visit link for details|
  
 
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-008: Vulnerability in OpenSSH](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|The development team of the OpenSSH suite has released the version 9.2 to address several security vulnerabilities, including a memory safety bug in the OpenSSH server (|Wednesday, February 08, 2023 06:20:00 PM CEST|
+ 
+
 # VulDB
 
  |Title|Description|Date|
@@ -74,13 +81,6 @@
  |[Vulnérabilité dans les produits WithSecure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0109/)|Une vulnérabilité a été découverte dans les produits WithSecure. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 9 février 2023|
  |[Vulnérabilité dans Tenable Nessus](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0108/)|Une vulnérabilité a été corrigée dans |Publié le 9 février 2023|
  |[Vulnérabilité dans PostgreSQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0107/)|Une vulnérabilité a été corrigée dans |Publié le 9 février 2023|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-008: Vulnerability in OpenSSH](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|The development team of the OpenSSH suite has released the version 9.2 to address several security vulnerabilities, including a memory safety bug in the OpenSSH server (|Wednesday, February 08, 2023 06:20:00 PM CEST|
  
 
 # MA-CERT
