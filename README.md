@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 13/02/2023 13:31:30 UTC
+ > Last Updated 13/02/2023 14:19:27 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -54,17 +54,17 @@
  |[<a href="https://vigilance.fr/vulnerability/GnuTLS-information-disclosure-via-ClientKeyExchange-Malformed-RSA-Ciphertexts-40506" class="noirorange"><b>GnuTLS</b>: information disclosure via ClientKeyExchange Malformed RSA Ciphertexts</a>](https://vigilance.fr/vulnerability/GnuTLS-information-disclosure-via-ClientKeyExchange-Malformed-RSA-Ciphertexts-40506)|An attacker can bypass access restrictions to data of GnuTLS, via ClientKeyExchange Malformed RSA Ciphertexts, in order to read sensitive information...|Visit link for details|
  
 
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
  |---|---|---|
  |[2023-008: Vulnerability in OpenSSH](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|The development team of the OpenSSH suite has released the version 9.2 to address several security vulnerabilities, including a memory safety bug in the OpenSSH server (|Wednesday, February 08, 2023 06:20:00 PM CEST|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # CERT-FR
