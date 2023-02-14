@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 14/02/2023 02:54:13 UTC
+ > Last Updated 14/02/2023 03:26:27 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -89,6 +89,22 @@
  |---|---|---|
  
 
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apple Products Multiple Vulnerabilities](/security-bulletin/apple-products-multiple-vulnerabilities_20230214)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution, sensitive information disclosure on the targeted system. Note:CVE-2023-23529 is being exploited in the wild.|Release Date: 14 Feb 2023|
+ |[Linux Kernel Multiple Vulnerabilities](/security-bulletin/linux-kernel-multiple-vulnerabilities_20230213)|Multiple vulnerabilities were identified in Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 13 Feb 2023|
+ |[Microsoft Edge Multiple Vulnerabilities](/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230210)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, privilege escalation,  security restriction bypass, denial of service and sensitive information disclosure on the targeted system.|Release Date: 10 Feb 2023|
+ |[OpenSSL Multiple Vulnerabilities](/security-bulletin/openssl-multiple-vulnerabilities_20230209)|Multiple vulnerabilities were identified in OpenSSL. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 9 Feb 2023|
+ |[Google Chrome Multiple Vulnerabilities](/security-bulletin/google-chrome-multiple-vulnerabilities_20230208)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, privilege escalation,  security restriction bypass, denial of service and sensitive information disclosure on the targeted system.|Release Date: 8 Feb 2023|
+ |[SUSE Linux Kernel Multiple Vulnerabilities](/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230207)|Multiple vulnerabilities were identified in SUSE Linux. A attacker could exploit some of these vulnerabilities to trigger denial of service condition and elevation of privilege on the targeted system. [Updated on 2023-02-08] Updated System / Technologies affected, Solutions, Vulnerability Identifier and...| Release Date: 7 Feb 2023 |
+ |[IBM MQ Denial of Service Vulnerability](/security-bulletin/ibm-mq-denial-of-service-vulnerability_20230207)|A vulnerability has been identified in IBM MQ. A remote user can exploit this vulnerability to trigger denial of service condition on the targeted system.|Release Date: 7 Feb 2023|
+ |[Android Multiple Vulnerabilities](/security-bulletin/android-multiple-vulnerabilities_20230207)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 7 Feb 2023|
+ |[ChromeOS Multiple Vulnerabilities](/security-bulletin/chromeos-multiple-vulnerabilities_20230207)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 7 Feb 2023|
+ |[OpenSSH Multiple Vulnerabilities](/security-bulletin/openssh-multiple-vulnerabilities_20230207)|Multiple vulnerabilities were identified in OpenSSH. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 7 Feb 2023|
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -104,22 +120,6 @@
  |[<a href="https://vigilance.fr/vulnerability/LibTIFF-reuse-after-free-via-extractContigSamplesShifted32bits-40511" class="noirorange"><b>LibTIFF</b>: reuse after free via extractContigSamplesShifted32bits()</a>](https://vigilance.fr/vulnerability/LibTIFF-reuse-after-free-via-extractContigSamplesShifted32bits-40511)|An attacker can force the reuse of a freed memory area of LibTIFF, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/LibTIFF-out-of-bounds-memory-reading-via-extractContigSamplesShifted8bits-40510" class="noirorange"><b>LibTIFF</b>: out-of-bounds memory reading via extractContigSamplesShifted8bits()</a>](https://vigilance.fr/vulnerability/LibTIFF-out-of-bounds-memory-reading-via-extractContigSamplesShifted8bits-40510)|An attacker can force a read at an invalid memory address of LibTIFF, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-extractContigSamplesShifted24bits-40509" class="noirorange"><b>LibTIFF</b>: buffer overflow via extractContigSamplesShifted24bits()</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-extractContigSamplesShifted24bits-40509)|An attacker can trigger a buffer overflow of LibTIFF, via |Visit link for details|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Apple Products Multiple Vulnerabilities](/security-bulletin/apple-products-multiple-vulnerabilities_20230214)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution, sensitive information disclosure on the targeted system. Note:CVE-2023-23529 is being exploited in the wild.|Release Date: 14 Feb 2023|
- |[Linux Kernel Multiple Vulnerabilities](/security-bulletin/linux-kernel-multiple-vulnerabilities_20230213)|Multiple vulnerabilities were identified in Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 13 Feb 2023|
- |[Microsoft Edge Multiple Vulnerabilities](/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230210)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, privilege escalation,  security restriction bypass, denial of service and sensitive information disclosure on the targeted system.|Release Date: 10 Feb 2023|
- |[OpenSSL Multiple Vulnerabilities](/security-bulletin/openssl-multiple-vulnerabilities_20230209)|Multiple vulnerabilities were identified in OpenSSL. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 9 Feb 2023|
- |[Google Chrome Multiple Vulnerabilities](/security-bulletin/google-chrome-multiple-vulnerabilities_20230208)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, privilege escalation,  security restriction bypass, denial of service and sensitive information disclosure on the targeted system.|Release Date: 8 Feb 2023|
- |[SUSE Linux Kernel Multiple Vulnerabilities](/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230207)|Multiple vulnerabilities were identified in SUSE Linux. A attacker could exploit some of these vulnerabilities to trigger denial of service condition and elevation of privilege on the targeted system. [Updated on 2023-02-08] Updated System / Technologies affected, Solutions, Vulnerability Identifier and...| Release Date: 7 Feb 2023 |
- |[IBM MQ Denial of Service Vulnerability](/security-bulletin/ibm-mq-denial-of-service-vulnerability_20230207)|A vulnerability has been identified in IBM MQ. A remote user can exploit this vulnerability to trigger denial of service condition on the targeted system.|Release Date: 7 Feb 2023|
- |[Android Multiple Vulnerabilities](/security-bulletin/android-multiple-vulnerabilities_20230207)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 7 Feb 2023|
- |[ChromeOS Multiple Vulnerabilities](/security-bulletin/chromeos-multiple-vulnerabilities_20230207)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 7 Feb 2023|
- |[OpenSSH Multiple Vulnerabilities](/security-bulletin/openssh-multiple-vulnerabilities_20230207)|Multiple vulnerabilities were identified in OpenSSH. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 7 Feb 2023|
  
 
 # CA-CCS
@@ -139,13 +139,6 @@
  |[Ongoing reports of Qakbot malware incidents – Update 1](https://cyber.gc.ca/en/alerts-advisories/ongoing-reports-qakbot-malware-incidents)|Visit link for details|2023-02-08|
  
 
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-008: Vulnerability in OpenSSH](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|The development team of the OpenSSH suite has released the version 9.2 to address several security vulnerabilities, including a memory safety bug in the OpenSSH server (|Wednesday, February 08, 2023 06:20:00 PM CEST|
- 
-
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -158,4 +151,11 @@
  |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
  |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
  |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-008: Vulnerability in OpenSSH](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|The development team of the OpenSSH suite has released the version 9.2 to address several security vulnerabilities, including a memory safety bug in the OpenSSH server (|Wednesday, February 08, 2023 06:20:00 PM CEST|
  
