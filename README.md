@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 14/02/2023 05:21:05 UTC
+ > Last Updated 14/02/2023 06:27:21 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -37,22 +37,6 @@
  |[CISA Releases ESXiArgs Ransomware Recovery Script ](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/07/cisa-releases-esxiargs-ransomware-recovery-script)|<p>CISA has released a recovery script for organizations that have fallen victim to ESXiArgs ransomware. The ESXiArgs ransomware encrypts configuration files on vulnerable ESXi servers, potentially rendering virtual machines (VMs) unusable.</p>|Tuesday, February 7, 2023|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0116/)|De multiples vulnérabilités ont été corrigées dans les produits |Publié le 13 février 2023|
- |[Vulnérabilité dans WALLIX Access Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0115/)|Une vulnérabilité a été découverte dans WALLIX Access Manager. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 13 février 2023|
- |[[SCADA] Vulnérabilité dans Belden HiSecOS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0114/)|Une vulnérabilité a été découverte dans Belden. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 10 février 2023|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0113/)|De multiples vulnérabilités ont été corrigées dans |Publié le 10 février 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0112/)|De multiples vulnérabilités ont été corrigées dans |Publié le 10 février 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0111/)|De multiples vulnérabilités ont été corrigées dans |Publié le 10 février 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0110/)|De multiples vulnérabilités ont été corrigées dans |Publié le 9 février 2023|
- |[Vulnérabilité dans les produits WithSecure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0109/)|Une vulnérabilité a été découverte dans les produits WithSecure. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 9 février 2023|
- |[Vulnérabilité dans Tenable Nessus](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0108/)|Une vulnérabilité a été corrigée dans |Publié le 9 février 2023|
- |[Vulnérabilité dans PostgreSQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0107/)|Une vulnérabilité a été corrigée dans |Publié le 9 février 2023|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -70,27 +54,23 @@
  |[40130302/23 - Vulnérabilité affectant OpenSSH](https://www.dgssi.gov.ma//fr/content/4013030223-vulnerabilite-affectant-openssh.html)|OpenSSH annonce la disponibilité de mise à jour de sécurité qui corrige une vulnérabilité auniveaud’OpenSSH. L’exploitation de cette vulnérabilité peut permettre à un attaquant distantd’exécuter du code arbitraire.|06 février 2023|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apple macOS Ventura privilege escalation (CVE-2023-23514)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 13, 2023|
+ |[Apple macOS Ventura information disclosure (CVE-2023-23522)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 13, 2023|
+ |[Apple Safari WebKit code execution (CVE-2023-23529)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 13, 2023|
+ |[Node.js glance directory traversal (CVE-2022-25937)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 12, 2023|
+ |[SourceCodester Best Online News Portal SQL injection (CVE-2023-0784)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 12, 2023|
+ |[SourceCodester Canteen Management System SQL injection (CVE-2023-0781)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 11, 2023|
+ |[Multiple Baicells devices command execution (CVE-2023-0776)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 10, 2023|
+ 
+
 # VulDB
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-of-February-2023-40519" class="noirorange"><b>Apple iOS  macOS</b>: multiple vulnerabilities of February 2023</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-of-February-2023-40519)|An attacker can use several vulnerabilities of Apple iOS  macOS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Hadoop-code-execution-via-FileUtil-unTar-40518" class="noirorange"><b>Apache Hadoop</b>: code execution via FileUtil.unTar()</a>](https://vigilance.fr/vulnerability/Apache-Hadoop-code-execution-via-FileUtil-unTar-40518)|An attacker can use a vulnerability of Apache Hadoop, via FileUtil.unTar(), in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Domain-Security-Profile-40517" class="noirorange"><b>IBM QRadar SIEM</b>: information disclosure via Domain Security Profile</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Domain-Security-Profile-40517)|An attacker can bypass access restrictions to data of IBM QRadar SIEM, via Domain Security Profile, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-memory-corruption-via-extractContigSamplesShifted16bits-40516" class="noirorange"><b>LibTIFF</b>: memory corruption via extractContigSamplesShifted16bits()</a>](https://vigilance.fr/vulnerability/LibTIFF-memory-corruption-via-extractContigSamplesShifted16bits-40516)|An attacker can trigger a memory corruption of LibTIFF, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-memory-corruption-via-rotateImage-40515" class="noirorange"><b>LibTIFF</b>: memory corruption via rotateImage()</a>](https://vigilance.fr/vulnerability/LibTIFF-memory-corruption-via-rotateImage-40515)|An attacker can trigger a memory corruption of LibTIFF, via rotateImage(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-memory-corruption-via-extractContigSamplesShifted24bits-40514" class="noirorange"><b>LibTIFF</b>: memory corruption via extractContigSamplesShifted24bits()</a>](https://vigilance.fr/vulnerability/LibTIFF-memory-corruption-via-extractContigSamplesShifted24bits-40514)|An attacker can trigger a memory corruption of LibTIFF, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-TIFFmemcpy-40513" class="noirorange"><b>LibTIFF</b>: buffer overflow via _TIFFmemcpy()</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-TIFFmemcpy-40513)|An attacker can trigger a buffer overflow of LibTIFF, via _TIFFmemcpy(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-extractContigSamplesShifted16bits-40512" class="noirorange"><b>LibTIFF</b>: buffer overflow via extractContigSamplesShifted16bits()</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-extractContigSamplesShifted16bits-40512)|An attacker can trigger a buffer overflow of LibTIFF, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-reuse-after-free-via-extractContigSamplesShifted32bits-40511" class="noirorange"><b>LibTIFF</b>: reuse after free via extractContigSamplesShifted32bits()</a>](https://vigilance.fr/vulnerability/LibTIFF-reuse-after-free-via-extractContigSamplesShifted32bits-40511)|An attacker can force the reuse of a freed memory area of LibTIFF, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-out-of-bounds-memory-reading-via-extractContigSamplesShifted8bits-40510" class="noirorange"><b>LibTIFF</b>: out-of-bounds memory reading via extractContigSamplesShifted8bits()</a>](https://vigilance.fr/vulnerability/LibTIFF-out-of-bounds-memory-reading-via-extractContigSamplesShifted8bits-40510)|An attacker can force a read at an invalid memory address of LibTIFF, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-extractContigSamplesShifted24bits-40509" class="noirorange"><b>LibTIFF</b>: buffer overflow via extractContigSamplesShifted24bits()</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-extractContigSamplesShifted24bits-40509)|An attacker can trigger a buffer overflow of LibTIFF, via |Visit link for details|
  
 
 # HK-CERT
@@ -109,24 +89,37 @@
  |[OpenSSH Multiple Vulnerabilities](/security-bulletin/openssh-multiple-vulnerabilities_20230207)|Multiple vulnerabilities were identified in OpenSSH. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 7 Feb 2023|
  
 
-# IBM-X-FORCE-EXCHANGE
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[Apple macOS Ventura privilege escalation (CVE-2023-23514)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 13, 2023|
- |[Apple macOS Ventura information disclosure (CVE-2023-23522)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 13, 2023|
- |[Apple Safari WebKit code execution (CVE-2023-23529)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 13, 2023|
- |[Node.js glance directory traversal (CVE-2022-25937)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 12, 2023|
- |[SourceCodester Best Online News Portal SQL injection (CVE-2023-0784)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 12, 2023|
- |[Multiple Baicells devices command execution (CVE-2023-0776)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 10, 2023|
- |[IPython command execution (CVE-2023-24816)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 10, 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0116/)|De multiples vulnérabilités ont été corrigées dans les produits |Publié le 13 février 2023|
+ |[Vulnérabilité dans WALLIX Access Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0115/)|Une vulnérabilité a été découverte dans WALLIX Access Manager. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 13 février 2023|
+ |[[SCADA] Vulnérabilité dans Belden HiSecOS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0114/)|Une vulnérabilité a été découverte dans Belden. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 10 février 2023|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0113/)|De multiples vulnérabilités ont été corrigées dans |Publié le 10 février 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0112/)|De multiples vulnérabilités ont été corrigées dans |Publié le 10 février 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0111/)|De multiples vulnérabilités ont été corrigées dans |Publié le 10 février 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0110/)|De multiples vulnérabilités ont été corrigées dans |Publié le 9 février 2023|
+ |[Vulnérabilité dans les produits WithSecure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0109/)|Une vulnérabilité a été découverte dans les produits WithSecure. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 9 février 2023|
+ |[Vulnérabilité dans Tenable Nessus](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0108/)|Une vulnérabilité a été corrigée dans |Publié le 9 février 2023|
+ |[Vulnérabilité dans PostgreSQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0107/)|Une vulnérabilité a été corrigée dans |Publié le 9 février 2023|
  
 
-# EU-CERT
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[2023-008: Vulnerability in OpenSSH](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|The development team of the OpenSSH suite has released the version 9.2 to address several security vulnerabilities, including a memory safety bug in the OpenSSH server (|Wednesday, February 08, 2023 06:20:00 PM CEST|
+ |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-of-February-2023-40519" class="noirorange"><b>Apple iOS  macOS</b>: multiple vulnerabilities of February 2023</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-of-February-2023-40519)|An attacker can use several vulnerabilities of Apple iOS  macOS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Hadoop-code-execution-via-FileUtil-unTar-40518" class="noirorange"><b>Apache Hadoop</b>: code execution via FileUtil.unTar()</a>](https://vigilance.fr/vulnerability/Apache-Hadoop-code-execution-via-FileUtil-unTar-40518)|An attacker can use a vulnerability of Apache Hadoop, via FileUtil.unTar(), in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Domain-Security-Profile-40517" class="noirorange"><b>IBM QRadar SIEM</b>: information disclosure via Domain Security Profile</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Domain-Security-Profile-40517)|An attacker can bypass access restrictions to data of IBM QRadar SIEM, via Domain Security Profile, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-memory-corruption-via-extractContigSamplesShifted16bits-40516" class="noirorange"><b>LibTIFF</b>: memory corruption via extractContigSamplesShifted16bits()</a>](https://vigilance.fr/vulnerability/LibTIFF-memory-corruption-via-extractContigSamplesShifted16bits-40516)|An attacker can trigger a memory corruption of LibTIFF, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-memory-corruption-via-rotateImage-40515" class="noirorange"><b>LibTIFF</b>: memory corruption via rotateImage()</a>](https://vigilance.fr/vulnerability/LibTIFF-memory-corruption-via-rotateImage-40515)|An attacker can trigger a memory corruption of LibTIFF, via rotateImage(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-memory-corruption-via-extractContigSamplesShifted24bits-40514" class="noirorange"><b>LibTIFF</b>: memory corruption via extractContigSamplesShifted24bits()</a>](https://vigilance.fr/vulnerability/LibTIFF-memory-corruption-via-extractContigSamplesShifted24bits-40514)|An attacker can trigger a memory corruption of LibTIFF, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-TIFFmemcpy-40513" class="noirorange"><b>LibTIFF</b>: buffer overflow via _TIFFmemcpy()</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-TIFFmemcpy-40513)|An attacker can trigger a buffer overflow of LibTIFF, via _TIFFmemcpy(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-extractContigSamplesShifted16bits-40512" class="noirorange"><b>LibTIFF</b>: buffer overflow via extractContigSamplesShifted16bits()</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-extractContigSamplesShifted16bits-40512)|An attacker can trigger a buffer overflow of LibTIFF, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-reuse-after-free-via-extractContigSamplesShifted32bits-40511" class="noirorange"><b>LibTIFF</b>: reuse after free via extractContigSamplesShifted32bits()</a>](https://vigilance.fr/vulnerability/LibTIFF-reuse-after-free-via-extractContigSamplesShifted32bits-40511)|An attacker can force the reuse of a freed memory area of LibTIFF, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-out-of-bounds-memory-reading-via-extractContigSamplesShifted8bits-40510" class="noirorange"><b>LibTIFF</b>: out-of-bounds memory reading via extractContigSamplesShifted8bits()</a>](https://vigilance.fr/vulnerability/LibTIFF-out-of-bounds-memory-reading-via-extractContigSamplesShifted8bits-40510)|An attacker can force a read at an invalid memory address of LibTIFF, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-extractContigSamplesShifted24bits-40509" class="noirorange"><b>LibTIFF</b>: buffer overflow via extractContigSamplesShifted24bits()</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-extractContigSamplesShifted24bits-40509)|An attacker can trigger a buffer overflow of LibTIFF, via |Visit link for details|
  
 
 # ZERODAYINITIATIVE
@@ -158,4 +151,11 @@
  |[[Control systems] EnOcean Edge security advisory (AV23-074)](https://cyber.gc.ca/en/alerts-advisories/control-systems-enocean-edge-security-advisory-av23-074)|Visit link for details|2023-02-08|
  |[Google Chrome security advisory (AV23-073)](https://cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-073)|Visit link for details|2023-02-08|
  |[Ongoing reports of Qakbot malware incidents – Update 1](https://cyber.gc.ca/en/alerts-advisories/ongoing-reports-qakbot-malware-incidents)|Visit link for details|2023-02-08|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-008: Vulnerability in OpenSSH](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|The development team of the OpenSSH suite has released the version 9.2 to address several security vulnerabilities, including a memory safety bug in the OpenSSH server (|Wednesday, February 08, 2023 06:20:00 PM CEST|
  
