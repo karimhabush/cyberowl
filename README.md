@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 14/02/2023 21:19:45 UTC
+ > Last Updated 14/02/2023 22:21:10 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,35 +29,25 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Mozilla Releases Security Updates for Firefox 110 and Firefox ESR](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/14/mozilla-releases-security-updates-firefox-110-and-firefox-esr)|<p>Mozilla has released security updates to address vulnerabilities in Firefox 110 and Firefox ESR. An attacker could exploit these vulnerabilities to take control of an affected system.</p>|Tuesday, February 14, 2023|
  |[Citrix Releases Security Updates for Workspace Apps, Virtual Apps and Desktops](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/14/citrix-releases-security-updates-workspace-apps-virtual-apps-and)|<p>Citrix has released security updates to address high-severity vulnerabilities (CVE-2023-24486, CVE-2023-24484, CVE-2023-24485, and CVE-2023-24483) in Citrix Workspace Apps, Virtual Apps and Desktops. A local user could exploit these vulnerabilities to take control of an affected system.</p>|Tuesday, February 14, 2023|
  |[CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/14/cisa-adds-four-known-exploited-vulnerabilities-catalog)|<p>CISA has added four new vulnerabilities to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. <strong>Note</strong>: To view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.</p>|Tuesday, February 14, 2023|
  |[Microsoft Releases February 2023 Security Updates](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/14/microsoft-releases-february-2023-security-updates)|<p>Microsoft has released updates to address multiple vulnerabilities in Microsoft software. An attacker can exploit some of these vulnerabilities to take control of an affected system.</p>|Tuesday, February 14, 2023|
  |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/14/apple-releases-security-updates-multiple-products)|<p>Apple has released security updates to address vulnerabilities in multiple products. An attacker could exploit these vulnerabilities to take control of an affected device.</p>|Tuesday, February 14, 2023|
  |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/14/cisa-releases-one-industrial-control-systems-advisory)|<p>CISA released one Industrial Control Systems (ICS) advisory on February 14, 2023. This advisory provides timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p>|Tuesday, February 14, 2023|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/10/cisa-adds-three-known-exploited-vulnerabilities-catalog)|<p>CISA has added three new vulnerabilities to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. <strong>Note</strong>: To view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.</p>|Friday, February 10, 2023|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/OkHostnameVerifier-information-disclosure-via-verifyHostName-40537" class="noirorange"><b>OkHostnameVerifier</b>: information disclosure via verifyHostName()</a>](https://vigilance.fr/vulnerability/OkHostnameVerifier-information-disclosure-via-verifyHostName-40537)|An attacker can bypass access restrictions to data of OkHostnameVerifier, via verifyHostName(), in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Git-two-vulnerabilities-40536" class="noirorange"><b>Git</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Git-two-vulnerabilities-40536)|An attacker can use several vulnerabilities of Git...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/AMD-Processors-read-write-access-via-RAS-RAP-RSB-40535" class="noirorange"><b>AMD Processors</b>: read-write access via RAS/RAP/RSB</a>](https://vigilance.fr/vulnerability/AMD-Processors-read-write-access-via-RAS-RAP-RSB-40535)|An attacker, in a guest system, can bypass access restrictions of AMD Processors, via RAS/RAP/RSB, in order to read or alter data on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Windows-vulnerabilities-of-February-2023-40534" class="noirorange"><b>Microsoft Windows</b>: vulnerabilities of February 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Windows-vulnerabilities-of-February-2023-40534)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Visual-Studio-vulnerabilities-of-February-2023-40533" class="noirorange"><b>Microsoft Visual Studio</b>: vulnerabilities of February 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Visual-Studio-vulnerabilities-of-February-2023-40533)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-February-2023-40532" class="noirorange"><b>Microsoft SharePoint</b>: vulnerabilities of February 2023</a>](https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-February-2023-40532)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-SQL-Server-vulnerabilities-of-February-2023-40531" class="noirorange"><b>Microsoft SQL Server</b>: vulnerabilities of February 2023</a>](https://vigilance.fr/vulnerability/Microsoft-SQL-Server-vulnerabilities-of-February-2023-40531)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-February-2023-40530" class="noirorange"><b>Microsoft Exchange Server</b>: vulnerabilities of February 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-February-2023-40530)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Defender-privilege-escalation-40529" class="noirorange"><b>Microsoft Defender</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Microsoft-Defender-privilege-escalation-40529)|An attacker can bypass restrictions of Microsoft Defender, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-February-2023-40528" class="noirorange"><b>Microsoft 365 Apps  Office</b>: vulnerabilities of February 2023</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-February-2023-40528)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-NET-vulnerabilities-of-February-2023-40527" class="noirorange"><b>Microsoft .NET</b>: vulnerabilities of February 2023</a>](https://vigilance.fr/vulnerability/Microsoft-NET-vulnerabilities-of-February-2023-40527)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
  
 
 # VulDB
 
  |Title|Description|Date|
  |---|---|---|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-008: Vulnerability in OpenSSH](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|The development team of the OpenSSH suite has released the version 9.2 to address several security vulnerabilities, including a memory safety bug in the OpenSSH server (|Wednesday, February 08, 2023 06:20:00 PM CEST|
  
 
 # CERT-FR
@@ -74,13 +64,6 @@
  |[[SCADA] Vulnérabilité dans Belden HiSecOS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0114/)|Une vulnérabilité a été découverte dans Belden. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 10 février 2023|
  |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0113/)|De multiples vulnérabilités ont été corrigées dans |Publié le 10 février 2023|
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0112/)|De multiples vulnérabilités ont été corrigées dans |Publié le 10 février 2023|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-008: Vulnerability in OpenSSH](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|The development team of the OpenSSH suite has released the version 9.2 to address several security vulnerabilities, including a memory safety bug in the OpenSSH server (|Wednesday, February 08, 2023 06:20:00 PM CEST|
  
 
 # MA-CERT
@@ -114,4 +97,21 @@
  |[Android Multiple Vulnerabilities](/security-bulletin/android-multiple-vulnerabilities_20230207)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 7 Feb 2023|
  |[ChromeOS Multiple Vulnerabilities](/security-bulletin/chromeos-multiple-vulnerabilities_20230207)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 7 Feb 2023|
  |[OpenSSH Multiple Vulnerabilities](/security-bulletin/openssh-multiple-vulnerabilities_20230207)|Multiple vulnerabilities were identified in OpenSSH. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 7 Feb 2023|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/OkHostnameVerifier-information-disclosure-via-verifyHostName-40537" class="noirorange"><b>OkHostnameVerifier</b>: information disclosure via verifyHostName()</a>](https://vigilance.fr/vulnerability/OkHostnameVerifier-information-disclosure-via-verifyHostName-40537)|An attacker can bypass access restrictions to data of OkHostnameVerifier, via verifyHostName(), in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Git-two-vulnerabilities-40536" class="noirorange"><b>Git</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Git-two-vulnerabilities-40536)|An attacker can use several vulnerabilities of Git...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/AMD-Processors-read-write-access-via-RAS-RAP-RSB-40535" class="noirorange"><b>AMD Processors</b>: read-write access via RAS/RAP/RSB</a>](https://vigilance.fr/vulnerability/AMD-Processors-read-write-access-via-RAS-RAP-RSB-40535)|An attacker, in a guest system, can bypass access restrictions of AMD Processors, via RAS/RAP/RSB, in order to read or alter data on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Windows-vulnerabilities-of-February-2023-40534" class="noirorange"><b>Microsoft Windows</b>: vulnerabilities of February 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Windows-vulnerabilities-of-February-2023-40534)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Visual-Studio-vulnerabilities-of-February-2023-40533" class="noirorange"><b>Microsoft Visual Studio</b>: vulnerabilities of February 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Visual-Studio-vulnerabilities-of-February-2023-40533)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-February-2023-40532" class="noirorange"><b>Microsoft SharePoint</b>: vulnerabilities of February 2023</a>](https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-February-2023-40532)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-SQL-Server-vulnerabilities-of-February-2023-40531" class="noirorange"><b>Microsoft SQL Server</b>: vulnerabilities of February 2023</a>](https://vigilance.fr/vulnerability/Microsoft-SQL-Server-vulnerabilities-of-February-2023-40531)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-February-2023-40530" class="noirorange"><b>Microsoft Exchange Server</b>: vulnerabilities of February 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-February-2023-40530)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Defender-privilege-escalation-40529" class="noirorange"><b>Microsoft Defender</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Microsoft-Defender-privilege-escalation-40529)|An attacker can bypass restrictions of Microsoft Defender, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-February-2023-40528" class="noirorange"><b>Microsoft 365 Apps  Office</b>: vulnerabilities of February 2023</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-February-2023-40528)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-NET-vulnerabilities-of-February-2023-40527" class="noirorange"><b>Microsoft .NET</b>: vulnerabilities of February 2023</a>](https://vigilance.fr/vulnerability/Microsoft-NET-vulnerabilities-of-February-2023-40527)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
  
