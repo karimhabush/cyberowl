@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 14/02/2023 14:20:50 UTC
+ > Last Updated 14/02/2023 15:23:13 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -70,23 +70,23 @@
  |[40140602/23 - Vulnérabilité critique dans Atlassian Jira Service Management Server et Data Center](https://www.dgssi.gov.ma//fr/content/4014060223-vulnerabilite-critique-dans-atlassian-jira-service-management-server-et-data-center.html)|Atlassian a corrigée une vulnérabilité critique affectant Service Management Server et Data Center. L’exploitation de cette faille peut permettre à un attaquant non authentifié de se faire passer pour d'autres utilisateurs et d'...|06 février 2023|
  
 
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
+ |[Django denial of service (CVE-2023-24580)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 14, 2023|
  |[PLANEX Wired/Wireless LAN Pan/Tilt Network Camera CS-WMV02G cross-site scripting (CVE-2023-22376)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 13, 2023|
  |[PLANEX Wired/Wireless LAN Pan/Tilt Network Camera CS-WMV02G cross-site request forgery (CVE-2023-22375)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 13, 2023|
  |[PLANEX Wired/Wireless LAN Pan/Tilt Network Camera CS-WMV02G cross-site scripting (CVE-2023-22370)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 13, 2023|
  |[Apple macOS Ventura privilege escalation (CVE-2023-23514)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 13, 2023|
  |[Apple macOS Ventura information disclosure (CVE-2023-23522)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 13, 2023|
- |[Apple Safari WebKit code execution (CVE-2023-23529)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 13, 2023|
- |[Node.js glance directory traversal (CVE-2022-25937)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 12, 2023|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 13, 2023|
  
 
 # HK-CERT
@@ -103,6 +103,13 @@
  |[Android Multiple Vulnerabilities](/security-bulletin/android-multiple-vulnerabilities_20230207)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 7 Feb 2023|
  |[ChromeOS Multiple Vulnerabilities](/security-bulletin/chromeos-multiple-vulnerabilities_20230207)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 7 Feb 2023|
  |[OpenSSH Multiple Vulnerabilities](/security-bulletin/openssh-multiple-vulnerabilities_20230207)|Multiple vulnerabilities were identified in OpenSSH. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 7 Feb 2023|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-008: Vulnerability in OpenSSH](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|The development team of the OpenSSH suite has released the version 9.2 to address several security vulnerabilities, including a memory safety bug in the OpenSSH server (|Wednesday, February 08, 2023 06:20:00 PM CEST|
  
 
 # OBS-Vigilance
@@ -122,6 +129,20 @@
  |[<a href="https://vigilance.fr/vulnerability/LibTIFF-reuse-after-free-via-extractContigSamplesShifted32bits-40511" class="noirorange"><b>LibTIFF</b>: reuse after free via extractContigSamplesShifted32bits()</a>](https://vigilance.fr/vulnerability/LibTIFF-reuse-after-free-via-extractContigSamplesShifted32bits-40511)|An attacker can force the reuse of a freed memory area of LibTIFF, via |Visit link for details|
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
@@ -137,25 +158,4 @@
  |[[Control systems] EnOcean Edge security advisory (AV23-074)](https://cyber.gc.ca/en/alerts-advisories/control-systems-enocean-edge-security-advisory-av23-074)|Visit link for details|2023-02-08|
  |[Google Chrome security advisory (AV23-073)](https://cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-073)|Visit link for details|2023-02-08|
  |[Ongoing reports of Qakbot malware incidents – Update 1](https://cyber.gc.ca/en/alerts-advisories/ongoing-reports-qakbot-malware-incidents)|Visit link for details|2023-02-08|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-008: Vulnerability in OpenSSH](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|The development team of the OpenSSH suite has released the version 9.2 to address several security vulnerabilities, including a memory safety bug in the OpenSSH server (|Wednesday, February 08, 2023 06:20:00 PM CEST|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
