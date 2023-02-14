@@ -9,6 +9,6 @@
  |[Apple Safari WebKit code execution (CVE-2023-23529)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 13, 2023|
  |[Node.js glance directory traversal (CVE-2022-25937)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 12, 2023|
  |[SourceCodester Best Online News Portal SQL injection (CVE-2023-0784)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 12, 2023|
- |[SourceCodester Canteen Management System SQL injection (CVE-2023-0781)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 11, 2023|
- |[Multiple Baicells devices command execution (CVE-2023-0776)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 10, 2023|
+ |[Group Arge Energy and Control Systems Smartpower Web cross-site scripting (CVE-2022-45091)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 11, 2023|
+ |[Group Arge Energy and Control Systems Smartpower Web cross-site scripting (CVE-2022-45090)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 11, 2023|
  
