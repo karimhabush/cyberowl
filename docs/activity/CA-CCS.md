@@ -4,6 +4,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[IBM security advisory (AV23-083)](https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-083)|Visit link for details|2023-02-13|
  |[Ubuntu security advisory (AV23-082)](https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-082)|Visit link for details|2023-02-13|
  |[Dell security advisory (AV23-081)](https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-081)|Visit link for details|2023-02-13|
  |[ABB security advisory (AV23-080)](https://cyber.gc.ca/en/alerts-advisories/abb-security-advisory-av23-080)|Visit link for details|2023-02-13|
@@ -14,5 +15,4 @@
  |[[Control systems] Horner security advisory (AV23-075)](https://cyber.gc.ca/en/alerts-advisories/control-systems-horner-security-advisory-av23-075)|Visit link for details|2023-02-10|
  |[[Control systems] EnOcean Edge security advisory (AV23-074)](https://cyber.gc.ca/en/alerts-advisories/control-systems-enocean-edge-security-advisory-av23-074)|Visit link for details|2023-02-08|
  |[Google Chrome security advisory (AV23-073)](https://cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-073)|Visit link for details|2023-02-08|
- |[Ongoing reports of Qakbot malware incidents – Update 1](https://cyber.gc.ca/en/alerts-advisories/ongoing-reports-qakbot-malware-incidents)|Visit link for details|2023-02-08|
  
