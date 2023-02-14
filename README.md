@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 14/02/2023 16:31:54 UTC
+ > Last Updated 14/02/2023 17:21:48 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,18 +29,19 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/14/apple-releases-security-updates-multiple-products)|<p>Apple has released security updates to address vulnerabilities in multiple products. An attacker could exploit these vulnerabilities to take control of an affected device.</p>|Tuesday, February 14, 2023|
  |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/14/cisa-releases-one-industrial-control-systems-advisory)|<p>CISA released one Industrial Control Systems (ICS) advisory on February 14, 2023. This advisory provides timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p>|Tuesday, February 14, 2023|
  |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/10/cisa-adds-three-known-exploited-vulnerabilities-catalog)|<p>CISA has added three new vulnerabilities to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. <strong>Note</strong>: To view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.</p>|Friday, February 10, 2023|
  |[#StopRansomware - Ransomware Attacks on Critical Infrastructure Fund DPRK Espionage Activities](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/09/stopransomware-ransomware-attacks-critical-infrastructure-fund)|<p>CISA, the National Security Agency (NSA), the Federal Bureau of Investigation (FBI), the Department of Health and Human Services (HHS), and Republic of Korea’s Defense Security Agency and National Intelligence Service have released a joint Cybersecurity Advisory (CSA), <a href="https://www.cisa.gov/uscert/ncas/alerts/aa23-040a">Ransomware Attacks on Critical Infrastructure Fund DPRK Espionage Activities</a>, to provide information on ransomware activity used by North Korean state-sponsored cyber to target various critical infrastructure sectors, especially <a href="https://www.cisa.gov/heal&lt;/body&gt;&lt;/html&gt;"></a></p>|Thursday, February 9, 2023|
  |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/09/cisa-releases-six-industrial-control-systems-advisories)|<p>CISA released six Industrial Control Systems (ICS) advisories on February 9, 2023. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p>|Thursday, February 9, 2023|
  |[OpenSSL Releases Security Advisory](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/09/openssl-releases-security-advisory)|<p>OpenSSL has released a security advisory to address multiple vulnerabilities affecting OpenSSL versions 3.0.0, 2.2.2, and 1.0.2. An attacker could exploit some of these vulnerabilities to obtain sensitive information.<br><br>CISA encourages users and administrators to review the <a href="https://www.openssl.org/news/secadv/20230207.txt">OpenSSL advisory</a> and make the necessary updates.</p>|Thursday, February 9, 2023|
- |[CISA and FBI Release ESXiArgs Ransomware Recovery Guidance](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/08/cisa-and-fbi-release-esxiargs-ransomware-recovery-guidance)|<p>Today, CISA and the Federal Bureau of Investigation (FBI) released a joint Cybersecurity Advisory, <a href="https://www.cisa.gov/uscert/ncas/alerts/aa23-039a">ESXiArgs Ransomware Virtual Machine Recovery Guidance</a>. This advisory describes the ongoing ransomware campaign known as “ESXiArgs.” Malicious cyber actors may be exploiting known vulnerabilities in unpatched and out-of-service or out-of-date versions of VMware ESXi software to gain access to ESXi servers and deploy ESXiArgs ransomware.</p>|Wednesday, February 8, 2023|
  
 
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/PHP-three-vulnerabilities-40524" class="noirorange"><b>PHP</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/PHP-three-vulnerabilities-40524)|An attacker can use several vulnerabilities of PHP...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Django-denial-of-service-via-File-Uploads-40523" class="noirorange"><b>Django</b>: denial of service via File Uploads</a>](https://vigilance.fr/vulnerability/Django-denial-of-service-via-File-Uploads-40523)|An attacker can cause a fatal error of Django, via File Uploads, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GNU-Tar-buffer-overflow-via-from-header-40522" class="noirorange"><b>GNU Tar</b>: buffer overflow via from_header()</a>](https://vigilance.fr/vulnerability/GNU-Tar-buffer-overflow-via-from-header-40522)|An attacker can trigger a buffer overflow of GNU Tar, via from_header(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-de-decembre-2021-40520" class="noirorange"><b>SAP</b>: multiple vulnerabilities de décembre 2021</a>](https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-de-decembre-2021-40520)|An attacker can use several vulnerabilities of SAP products...|Visit link for details|
@@ -51,7 +52,12 @@
  |[<a href="https://vigilance.fr/vulnerability/LibTIFF-memory-corruption-via-rotateImage-40515" class="noirorange"><b>LibTIFF</b>: memory corruption via rotateImage()</a>](https://vigilance.fr/vulnerability/LibTIFF-memory-corruption-via-rotateImage-40515)|An attacker can trigger a memory corruption of LibTIFF, via rotateImage(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/LibTIFF-memory-corruption-via-extractContigSamplesShifted24bits-40514" class="noirorange"><b>LibTIFF</b>: memory corruption via extractContigSamplesShifted24bits()</a>](https://vigilance.fr/vulnerability/LibTIFF-memory-corruption-via-extractContigSamplesShifted24bits-40514)|An attacker can trigger a memory corruption of LibTIFF, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-TIFFmemcpy-40513" class="noirorange"><b>LibTIFF</b>: buffer overflow via _TIFFmemcpy()</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-TIFFmemcpy-40513)|An attacker can trigger a buffer overflow of LibTIFF, via _TIFFmemcpy(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-extractContigSamplesShifted16bits-40512" class="noirorange"><b>LibTIFF</b>: buffer overflow via extractContigSamplesShifted16bits()</a>](https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-extractContigSamplesShifted16bits-40512)|An attacker can trigger a buffer overflow of LibTIFF, via |Visit link for details|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # EU-CERT
@@ -59,12 +65,6 @@
  |Title|Description|Date|
  |---|---|---|
  |[2023-008: Vulnerability in OpenSSH](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|The development team of the OpenSSH suite has released the version 9.2 to address several security vulnerabilities, including a memory safety bug in the OpenSSH server (|Wednesday, February 08, 2023 06:20:00 PM CEST|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # CERT-FR
