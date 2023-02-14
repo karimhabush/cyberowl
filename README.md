@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 14/02/2023 12:42:05 UTC
+ > Last Updated 14/02/2023 13:33:25 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -54,17 +54,17 @@
  |[<a href="https://vigilance.fr/vulnerability/LibTIFF-reuse-after-free-via-extractContigSamplesShifted32bits-40511" class="noirorange"><b>LibTIFF</b>: reuse after free via extractContigSamplesShifted32bits()</a>](https://vigilance.fr/vulnerability/LibTIFF-reuse-after-free-via-extractContigSamplesShifted32bits-40511)|An attacker can force the reuse of a freed memory area of LibTIFF, via |Visit link for details|
  
 
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
  |---|---|---|
  |[2023-008: Vulnerability in OpenSSH](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|The development team of the OpenSSH suite has released the version 9.2 to address several security vulnerabilities, including a memory safety bug in the OpenSSH server (|Wednesday, February 08, 2023 06:20:00 PM CEST|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # CERT-FR
