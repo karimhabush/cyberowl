@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 14/02/2023 19:18:51 UTC
+ > Last Updated 14/02/2023 20:23:51 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,29 +29,36 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Microsoft Releases February 2023 Security Updates](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/14/microsoft-releases-february-2023-security-updates)|<p>Microsoft has released updates to address multiple vulnerabilities in Microsoft software. An attacker can exploit some of these vulnerabilities to take control of an affected system.</p>|Tuesday, February 14, 2023|
  |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/14/apple-releases-security-updates-multiple-products)|<p>Apple has released security updates to address vulnerabilities in multiple products. An attacker could exploit these vulnerabilities to take control of an affected device.</p>|Tuesday, February 14, 2023|
  |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/14/cisa-releases-one-industrial-control-systems-advisory)|<p>CISA released one Industrial Control Systems (ICS) advisory on February 14, 2023. This advisory provides timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p>|Tuesday, February 14, 2023|
  |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/10/cisa-adds-three-known-exploited-vulnerabilities-catalog)|<p>CISA has added three new vulnerabilities to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. <strong>Note</strong>: To view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.</p>|Friday, February 10, 2023|
  |[#StopRansomware - Ransomware Attacks on Critical Infrastructure Fund DPRK Espionage Activities](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/09/stopransomware-ransomware-attacks-critical-infrastructure-fund)|<p>CISA, the National Security Agency (NSA), the Federal Bureau of Investigation (FBI), the Department of Health and Human Services (HHS), and Republic of Korea’s Defense Security Agency and National Intelligence Service have released a joint Cybersecurity Advisory (CSA), <a href="https://www.cisa.gov/uscert/ncas/alerts/aa23-040a">Ransomware Attacks on Critical Infrastructure Fund DPRK Espionage Activities</a>, to provide information on ransomware activity used by North Korean state-sponsored cyber to target various critical infrastructure sectors, especially <a href="https://www.cisa.gov/heal&lt;/body&gt;&lt;/html&gt;"></a></p>|Thursday, February 9, 2023|
  |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/09/cisa-releases-six-industrial-control-systems-advisories)|<p>CISA released six Industrial Control Systems (ICS) advisories on February 9, 2023. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p>|Thursday, February 9, 2023|
- |[OpenSSL Releases Security Advisory](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/09/openssl-releases-security-advisory)|<p>OpenSSL has released a security advisory to address multiple vulnerabilities affecting OpenSSL versions 3.0.0, 2.2.2, and 1.0.2. An attacker could exploit some of these vulnerabilities to obtain sensitive information.<br><br>CISA encourages users and administrators to review the <a href="https://www.openssl.org/news/secadv/20230207.txt">OpenSSL advisory</a> and make the necessary updates.</p>|Thursday, February 9, 2023|
  
 
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/HAProxy-header-injection-via-Parser-40526" class="noirorange"><b>HAProxy</b>: header injection via Parser</a>](https://vigilance.fr/vulnerability/HAProxy-header-injection-via-Parser-40526)|An attacker can add new headers on HAProxy, via Parser, in order to alter the service behavior...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Citrix-Virtual-Apps-and-Desktops-privilege-escalation-40525" class="noirorange"><b>Citrix Virtual Apps and Desktops</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Citrix-Virtual-Apps-and-Desktops-privilege-escalation-40525)|An attacker can bypass restrictions of Citrix Virtual Apps and Desktops, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PHP-three-vulnerabilities-40524" class="noirorange"><b>PHP</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/PHP-three-vulnerabilities-40524)|An attacker can use several vulnerabilities of PHP...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Django-denial-of-service-via-File-Uploads-40523" class="noirorange"><b>Django</b>: denial of service via File Uploads</a>](https://vigilance.fr/vulnerability/Django-denial-of-service-via-File-Uploads-40523)|An attacker can cause a fatal error of Django, via File Uploads, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GNU-Tar-buffer-overflow-via-from-header-40522" class="noirorange"><b>GNU Tar</b>: buffer overflow via from_header()</a>](https://vigilance.fr/vulnerability/GNU-Tar-buffer-overflow-via-from-header-40522)|An attacker can trigger a buffer overflow of GNU Tar, via from_header(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-de-decembre-2021-40520" class="noirorange"><b>SAP</b>: multiple vulnerabilities de décembre 2021</a>](https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-de-decembre-2021-40520)|An attacker can use several vulnerabilities of SAP products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-of-February-2023-40519" class="noirorange"><b>Apple iOS  macOS</b>: multiple vulnerabilities of February 2023</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-of-February-2023-40519)|An attacker can use several vulnerabilities of Apple iOS  macOS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Hadoop-code-execution-via-FileUtil-unTar-40518" class="noirorange"><b>Apache Hadoop</b>: code execution via FileUtil.unTar()</a>](https://vigilance.fr/vulnerability/Apache-Hadoop-code-execution-via-FileUtil-unTar-40518)|An attacker can use a vulnerability of Apache Hadoop, via FileUtil.unTar(), in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Domain-Security-Profile-40517" class="noirorange"><b>IBM QRadar SIEM</b>: information disclosure via Domain Security Profile</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-information-disclosure-via-Domain-Security-Profile-40517)|An attacker can bypass access restrictions to data of IBM QRadar SIEM, via Domain Security Profile, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-memory-corruption-via-extractContigSamplesShifted16bits-40516" class="noirorange"><b>LibTIFF</b>: memory corruption via extractContigSamplesShifted16bits()</a>](https://vigilance.fr/vulnerability/LibTIFF-memory-corruption-via-extractContigSamplesShifted16bits-40516)|An attacker can trigger a memory corruption of LibTIFF, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibTIFF-memory-corruption-via-rotateImage-40515" class="noirorange"><b>LibTIFF</b>: memory corruption via rotateImage()</a>](https://vigilance.fr/vulnerability/LibTIFF-memory-corruption-via-rotateImage-40515)|An attacker can trigger a memory corruption of LibTIFF, via rotateImage(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OkHostnameVerifier-information-disclosure-via-verifyHostName-40537" class="noirorange"><b>OkHostnameVerifier</b>: information disclosure via verifyHostName()</a>](https://vigilance.fr/vulnerability/OkHostnameVerifier-information-disclosure-via-verifyHostName-40537)|An attacker can bypass access restrictions to data of OkHostnameVerifier, via verifyHostName(), in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Git-two-vulnerabilities-40536" class="noirorange"><b>Git</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Git-two-vulnerabilities-40536)|An attacker can use several vulnerabilities of Git...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/AMD-Processors-read-write-access-via-RAS-RAP-RSB-40535" class="noirorange"><b>AMD Processors</b>: read-write access via RAS/RAP/RSB</a>](https://vigilance.fr/vulnerability/AMD-Processors-read-write-access-via-RAS-RAP-RSB-40535)|An attacker, in a guest system, can bypass access restrictions of AMD Processors, via RAS/RAP/RSB, in order to read or alter data on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Windows-vulnerabilities-of-February-2023-40534" class="noirorange"><b>Microsoft Windows</b>: vulnerabilities of February 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Windows-vulnerabilities-of-February-2023-40534)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Visual-Studio-vulnerabilities-of-February-2023-40533" class="noirorange"><b>Microsoft Visual Studio</b>: vulnerabilities of February 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Visual-Studio-vulnerabilities-of-February-2023-40533)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-February-2023-40532" class="noirorange"><b>Microsoft SharePoint</b>: vulnerabilities of February 2023</a>](https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-February-2023-40532)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-SQL-Server-vulnerabilities-of-February-2023-40531" class="noirorange"><b>Microsoft SQL Server</b>: vulnerabilities of February 2023</a>](https://vigilance.fr/vulnerability/Microsoft-SQL-Server-vulnerabilities-of-February-2023-40531)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-February-2023-40530" class="noirorange"><b>Microsoft Exchange Server</b>: vulnerabilities of February 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-February-2023-40530)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Defender-privilege-escalation-40529" class="noirorange"><b>Microsoft Defender</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Microsoft-Defender-privilege-escalation-40529)|An attacker can bypass restrictions of Microsoft Defender, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-February-2023-40528" class="noirorange"><b>Microsoft 365 Apps  Office</b>: vulnerabilities of February 2023</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-February-2023-40528)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-NET-vulnerabilities-of-February-2023-40527" class="noirorange"><b>Microsoft .NET</b>: vulnerabilities of February 2023</a>](https://vigilance.fr/vulnerability/Microsoft-NET-vulnerabilities-of-February-2023-40527)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-008: Vulnerability in OpenSSH](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|The development team of the OpenSSH suite has released the version 9.2 to address several security vulnerabilities, including a memory safety bug in the OpenSSH server (|Wednesday, February 08, 2023 06:20:00 PM CEST|
  
 
 # VulDB
@@ -74,13 +81,6 @@
  |[[SCADA] Vulnérabilité dans Belden HiSecOS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0114/)|Une vulnérabilité a été découverte dans Belden. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 10 février 2023|
  |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0113/)|De multiples vulnérabilités ont été corrigées dans |Publié le 10 février 2023|
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0112/)|De multiples vulnérabilités ont été corrigées dans |Publié le 10 février 2023|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-008: Vulnerability in OpenSSH](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|The development team of the OpenSSH suite has released the version 9.2 to address several security vulnerabilities, including a memory safety bug in the OpenSSH server (|Wednesday, February 08, 2023 06:20:00 PM CEST|
  
 
 # MA-CERT
