@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 15/02/2023 03:29:01 UTC
+ > Last Updated 15/02/2023 04:26:23 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -37,72 +37,10 @@
  |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/14/apple-releases-security-updates-multiple-products)|<p>Apple has released security updates to address vulnerabilities in multiple products. An attacker could exploit these vulnerabilities to take control of an affected device.</p>|Tuesday, February 14, 2023|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[[SCADA] Multiples vulnérabilités dans les produits Siemens](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0121/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 février 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0120/)|De multiples vulnérabilités ont été corrigées dans les produits |Publié le 14 février 2023|
- |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0119/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 février 2023|
- |[Vulnérabilité dans SonicWall Email Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0118/)|Une vulnérabilité a été corrigée dans |Publié le 14 février 2023|
- |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0117/)|De multiples vulnérabilités ont été corrigées dans les produits |Publié le 14 février 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0116/)|De multiples vulnérabilités ont été corrigées dans les produits |Publié le 13 février 2023|
- |[Vulnérabilité dans WALLIX Access Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0115/)|Une vulnérabilité a été découverte dans WALLIX Access Manager. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 13 février 2023|
- |[[SCADA] Vulnérabilité dans Belden HiSecOS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0114/)|Une vulnérabilité a été découverte dans Belden. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 10 février 2023|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0113/)|De multiples vulnérabilités ont été corrigées dans |Publié le 10 février 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0112/)|De multiples vulnérabilités ont été corrigées dans |Publié le 10 février 2023|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[40221402/23 - « Zero-Day » affectant iOS, iPadOS et macOS](https://www.dgssi.gov.ma//fr/content/4022140223-zero-day-affectant-ios-ipados-et-macos.html)|Apple annonce la correction de trois vulnérabilités affectant ses produits susmentionnés. Selon Apple une de ces vulnérabilités identifiée par « CVE-2023-23529» est un « Zero-day » et peut permettre à un attaquant d’exécuter du code...|14 février 2023|
- |[40231302/23 - Vulnérabilités dans les produits IBM](https://www.dgssi.gov.ma//fr/content/4023130223-vulnerabilites-dans-les-produits-ibm.html)|Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. L’exploitation de ces failles pourrait permettre à un attaquant de porter atteinte à la confidentialité des données, de contourner la politique de sécurité, de...|13 février 2023|
- |[40221302/23 - Vulnérabilité dans PostgreSQL](https://www.dgssi.gov.ma//fr/content/4022130223-vulnerabilite-dans-postgresql.html)|Une vulnérabilité a été corrigée dans les versions PostgreSQL susmentionnées. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité des données.|13 février 2023|
- |[40210902/23 - Vulnérabilité dans le CMS TYPO3](https://www.dgssi.gov.ma//fr/content/4021090223-vulnerabilite-dans-le-cms-typo3.html)|Une vulnérabilité a été corrigée dans le CMS TYPO3. L’exploitation de cette faille permet à un attaquant d’injecter du code indirect à distance (XSS).|09 février 2023|
- |[40200802/23 - Vulnérabilités dans OpenSSL](https://www.dgssi.gov.ma//fr/content/4020080223-vulnerabilites-dans-openssl.html)|OpenSSL a publié un avis de sécurité pour corriger plusieurs vulnérabilités affectant les versions susmentionnées de OpenSSL.L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service et de porter atteinte à...|08 février 2023|
- |[40190802/23 - Vulnérabilité dans phpMyAdmin](https://www.dgssi.gov.ma//fr/content/4019080223-vulnerabilite-dans-phpmyadmin.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées de phpMyAdmin. L’exploitation de cette faille peut permettre à un attaquant de déclencher une attaque XSS en envoyant un fichier ".sql" spécialement conçu.|08 février 2023|
- |[40180802/23 - Vulnérabilité dans EnOcean SmartServer](https://www.dgssi.gov.ma//fr/content/4018080223-vulnerabilite-dans-enocean-smartserver.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées de l’EnOcean SmartServer. En effet, les versions vulnérables de SmartServer stockent des informations d'identification dans un fichier en clair. Si l'attaquant...|08 février 2023|
- |[40170802/23 - Correctif de sécurité pour le zero-dayaffectant GoAnywhere MFT](https://www.dgssi.gov.ma//fr/content/4017080223-correctif-de-securite-pour-le-zero-day-affectant-goanywhere-mft.html)|Fortra a publié un correctif d'urgence pour corriger une vulnérabilité de type "zero-day" activement exploitée dans l'outil de transfert de fichiers sécurisé GoAnywhere MFT. La vulné-rabilité permet aux attaquants d’...|08 février 2023|
- |[40160802/23 - Vulnérabilités affectant le système d’exploitation Android](https://www.dgssi.gov.ma//fr/content/4016080223-vulnerabilites-affectant-le-systeme-d-exploitation-android.html)|Google annonce la correction de plusieurs vulnérabilités affectantson système d’exploitation Android.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’accéder à des données confidentielles, d’...|08 février 2023|
- |[40150702/23 - Vulnérabilité affectantle navigateur Microsoft Edge ](https://www.dgssi.gov.ma//fr/content/4015070223-vulnerabilite-affectant-le-navigateur-microsoft-edge.html)|Microsoft vient de publier une mise à jour de sécurité qui permet de corriger unevulnérabilité affectant le navigateur Microsoft Edge. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant de contourner les mesures...|07 février 2023|
- |[40140602/23 - Vulnérabilité critique dans Atlassian Jira Service Management Server et Data Center](https://www.dgssi.gov.ma//fr/content/4014060223-vulnerabilite-critique-dans-atlassian-jira-service-management-server-et-data-center.html)|Atlassian a corrigée une vulnérabilité critique affectant Service Management Server et Data Center. L’exploitation de cette faille peut permettre à un attaquant non authentifié de se faire passer pour d'autres utilisateurs et d'...|06 février 2023|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Intel X710 and E810 Series Ethernet Controllers and Adapters denial of service (CVE-2022-36382)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 14, 2023|
- |[Intel QuickAssist Technology (QAT) drivers for Windows privilege escalation (CVE-2022-37340)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 14, 2023|
- |[Intel QuickAssist Technology (QAT) drivers for Linux privilege escalation (CVE-2022-36397)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 14, 2023|
- |[Intel Endpoint Management Assistant privilege escalation (CVE-2022-38056)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 14, 2023|
- |[Intel QATzip privilege escalation (CVE-2022-36369)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 14, 2023|
- |[Intel One Boot Flash Utility (OFU) software denial of service (CVE-2021-33104)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 14, 2023|
- |[Intel Xeon processors privilege escalation (CVE-2022-33196)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 14, 2023|
- 
-
 # VulDB
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Adobe Monthly Security Update (February 2023)](/security-bulletin/adobe-monthly-security-update-february-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe After Effects Medium RiskInformation DisclosureRemote Code Execution APSB23-02Adobe Connect Medium RiskSecurity...|Release Date: 15 Feb 2023|
- |[Microsoft Monthly Security Update (February 2023)](/security-bulletin/microsoft-monthly-security-update-february-2023)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesSQL Server Medium RiskRemote Code ExecutionSpoofing Windows Extremely High RiskRemote Code ExecutionElevation of PrivilegeDenial of Service...|Release Date: 15 Feb 2023|
- |[Mozilla Firefox Multiple Vulnerabilities](/security-bulletin/mozilla-firefox-multiple-vulnerabilities_20230215)|Multiple vulnerabilities were identified in Mozilla Firefox. A remote attacker could exploit some of these vulnerabilities to trigger spoofing, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 15 Feb 2023|
- |[Linux Kernel Multiple Vulnerabilities](/security-bulletin/linux-kernel-multiple-vulnerabilities_20230213)|Multiple vulnerabilities were identified in Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-02-15] Updated System...| Release Date: 13 Feb 2023 |
- |[Apple Products Multiple Vulnerabilities](/security-bulletin/apple-products-multiple-vulnerabilities_20230214)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution, sensitive information disclosure on the targeted system. Note:CVE-2023-23529 is being exploited in the wild. [Updated...| Release Date: 14 Feb 2023 |
- |[Microsoft Edge Multiple Vulnerabilities](/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230210)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, privilege escalation,  security restriction bypass, denial of service and sensitive information disclosure on the targeted system.|Release Date: 10 Feb 2023|
- |[OpenSSL Multiple Vulnerabilities](/security-bulletin/openssl-multiple-vulnerabilities_20230209)|Multiple vulnerabilities were identified in OpenSSL. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 9 Feb 2023|
- |[Google Chrome Multiple Vulnerabilities](/security-bulletin/google-chrome-multiple-vulnerabilities_20230208)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, privilege escalation,  security restriction bypass, denial of service and sensitive information disclosure on the targeted system.|Release Date: 8 Feb 2023|
- |[SUSE Linux Kernel Multiple Vulnerabilities](/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230207)|Multiple vulnerabilities were identified in SUSE Linux. A attacker could exploit some of these vulnerabilities to trigger denial of service condition and elevation of privilege on the targeted system. [Updated on 2023-02-08] Updated System / Technologies affected, Solutions, Vulnerability Identifier and...| Release Date: 7 Feb 2023 |
- |[IBM MQ Denial of Service Vulnerability](/security-bulletin/ibm-mq-denial-of-service-vulnerability_20230207)|A vulnerability has been identified in IBM MQ. A remote user can exploit this vulnerability to trigger denial of service condition on the targeted system.|Release Date: 7 Feb 2023|
  
 
 # OBS-Vigilance
@@ -122,23 +60,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-NET-vulnerabilities-of-February-2023-40527" class="noirorange"><b>Microsoft .NET</b>: vulnerabilities of February 2023</a>](https://vigilance.fr/vulnerability/Microsoft-NET-vulnerabilities-of-February-2023-40527)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
  
 
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft security advisory – February 2023 monthly rollup (AV23-088)](https://cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-february-2023-monthly-rollup-av23-088)|Visit link for details|2023-02-14|
- |[[Control systems] Weintek security advisory (AV23-087)](https://cyber.gc.ca/en/alerts-advisories/control-systems-weintek-security-advisory-av23-087)|Visit link for details|2023-02-14|
- |[Apple security advisory (AV23-086)](https://cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-086)|Visit link for details|2023-02-14|
- |[[Control systems] Siemens security advisory (AV23-085)](https://cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av23-085)|Visit link for details|2023-02-14|
- |[SAP security advisory – February 2023 monthly rollup (AV23-084)](https://cyber.gc.ca/en/alerts-advisories/sap-security-advisory-february-2023-monthly-rollup-av23-084)|Visit link for details|2023-02-14|
- |[IBM security advisory (AV23-083)](https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-083)|Visit link for details|2023-02-13|
- |[Ubuntu security advisory (AV23-082)](https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-082)|Visit link for details|2023-02-13|
- |[Dell security advisory (AV23-081)](https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-081)|Visit link for details|2023-02-13|
- |[ABB security advisory (AV23-080)](https://cyber.gc.ca/en/alerts-advisories/abb-security-advisory-av23-080)|Visit link for details|2023-02-13|
- |[Microsoft Edge security advisory (AV23-079)](https://cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-079)|Visit link for details|2023-02-13|
- |[[Control systems] Johnson Controls security advisory (AV23-078)](https://cyber.gc.ca/en/alerts-advisories/control-systems-johnson-controls-security-advisory-av23-078)|Visit link for details|2023-02-10|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -146,8 +67,51 @@
  |[2023-008: Vulnerability in OpenSSH](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|The development team of the OpenSSH suite has released the version 9.2 to address several security vulnerabilities, including a memory safety bug in the OpenSSH server (|Wednesday, February 08, 2023 06:20:00 PM CEST|
  
 
-# ZERODAYINITIATIVE
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
+ |[[SCADA] Multiples vulnérabilités dans les produits Siemens](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0121/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 février 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0120/)|De multiples vulnérabilités ont été corrigées dans les produits |Publié le 14 février 2023|
+ |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0119/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 février 2023|
+ |[Vulnérabilité dans SonicWall Email Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0118/)|Une vulnérabilité a été corrigée dans |Publié le 14 février 2023|
+ |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0117/)|De multiples vulnérabilités ont été corrigées dans les produits |Publié le 14 février 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0116/)|De multiples vulnérabilités ont été corrigées dans les produits |Publié le 13 février 2023|
+ |[Vulnérabilité dans WALLIX Access Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0115/)|Une vulnérabilité a été découverte dans WALLIX Access Manager. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 13 février 2023|
+ |[[SCADA] Vulnérabilité dans Belden HiSecOS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0114/)|Une vulnérabilité a été découverte dans Belden. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 10 février 2023|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0113/)|De multiples vulnérabilités ont été corrigées dans |Publié le 10 février 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0112/)|De multiples vulnérabilités ont été corrigées dans |Publié le 10 février 2023|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Adobe Monthly Security Update (February 2023)](/security-bulletin/adobe-monthly-security-update-february-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe After Effects Medium RiskInformation DisclosureRemote Code Execution APSB23-02Adobe Connect Medium RiskSecurity...|Release Date: 15 Feb 2023|
+ |[Microsoft Monthly Security Update (February 2023)](/security-bulletin/microsoft-monthly-security-update-february-2023)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesSQL Server Medium RiskRemote Code ExecutionSpoofing Windows Extremely High RiskRemote Code ExecutionElevation of PrivilegeDenial of Service...|Release Date: 15 Feb 2023|
+ |[Mozilla Firefox Multiple Vulnerabilities](/security-bulletin/mozilla-firefox-multiple-vulnerabilities_20230215)|Multiple vulnerabilities were identified in Mozilla Firefox. A remote attacker could exploit some of these vulnerabilities to trigger spoofing, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 15 Feb 2023|
+ |[Linux Kernel Multiple Vulnerabilities](/security-bulletin/linux-kernel-multiple-vulnerabilities_20230213)|Multiple vulnerabilities were identified in Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-02-15] Updated System...| Release Date: 13 Feb 2023 |
+ |[Apple Products Multiple Vulnerabilities](/security-bulletin/apple-products-multiple-vulnerabilities_20230214)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution, sensitive information disclosure on the targeted system. Note:CVE-2023-23529 is being exploited in the wild. [Updated...| Release Date: 14 Feb 2023 |
+ |[Microsoft Edge Multiple Vulnerabilities](/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230210)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, privilege escalation,  security restriction bypass, denial of service and sensitive information disclosure on the targeted system.|Release Date: 10 Feb 2023|
+ |[OpenSSL Multiple Vulnerabilities](/security-bulletin/openssl-multiple-vulnerabilities_20230209)|Multiple vulnerabilities were identified in OpenSSL. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 9 Feb 2023|
+ |[Google Chrome Multiple Vulnerabilities](/security-bulletin/google-chrome-multiple-vulnerabilities_20230208)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, privilege escalation,  security restriction bypass, denial of service and sensitive information disclosure on the targeted system.|Release Date: 8 Feb 2023|
+ |[SUSE Linux Kernel Multiple Vulnerabilities](/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230207)|Multiple vulnerabilities were identified in SUSE Linux. A attacker could exploit some of these vulnerabilities to trigger denial of service condition and elevation of privilege on the targeted system. [Updated on 2023-02-08] Updated System / Technologies affected, Solutions, Vulnerability Identifier and...| Release Date: 7 Feb 2023 |
+ |[IBM MQ Denial of Service Vulnerability](/security-bulletin/ibm-mq-denial-of-service-vulnerability_20230207)|A vulnerability has been identified in IBM MQ. A remote user can exploit this vulnerability to trigger denial of service condition on the targeted system.|Release Date: 7 Feb 2023|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[40221402/23 - « Zero-Day » affectant iOS, iPadOS et macOS](https://www.dgssi.gov.ma//fr/content/4022140223-zero-day-affectant-ios-ipados-et-macos.html)|Apple annonce la correction de trois vulnérabilités affectant ses produits susmentionnés. Selon Apple une de ces vulnérabilités identifiée par « CVE-2023-23529» est un « Zero-day » et peut permettre à un attaquant d’exécuter du code...|14 février 2023|
+ |[40231302/23 - Vulnérabilités dans les produits IBM](https://www.dgssi.gov.ma//fr/content/4023130223-vulnerabilites-dans-les-produits-ibm.html)|Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. L’exploitation de ces failles pourrait permettre à un attaquant de porter atteinte à la confidentialité des données, de contourner la politique de sécurité, de...|13 février 2023|
+ |[40221302/23 - Vulnérabilité dans PostgreSQL](https://www.dgssi.gov.ma//fr/content/4022130223-vulnerabilite-dans-postgresql.html)|Une vulnérabilité a été corrigée dans les versions PostgreSQL susmentionnées. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité des données.|13 février 2023|
+ |[40210902/23 - Vulnérabilité dans le CMS TYPO3](https://www.dgssi.gov.ma//fr/content/4021090223-vulnerabilite-dans-le-cms-typo3.html)|Une vulnérabilité a été corrigée dans le CMS TYPO3. L’exploitation de cette faille permet à un attaquant d’injecter du code indirect à distance (XSS).|09 février 2023|
+ |[40200802/23 - Vulnérabilités dans OpenSSL](https://www.dgssi.gov.ma//fr/content/4020080223-vulnerabilites-dans-openssl.html)|OpenSSL a publié un avis de sécurité pour corriger plusieurs vulnérabilités affectant les versions susmentionnées de OpenSSL.L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service et de porter atteinte à...|08 février 2023|
+ |[40190802/23 - Vulnérabilité dans phpMyAdmin](https://www.dgssi.gov.ma//fr/content/4019080223-vulnerabilite-dans-phpmyadmin.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées de phpMyAdmin. L’exploitation de cette faille peut permettre à un attaquant de déclencher une attaque XSS en envoyant un fichier ".sql" spécialement conçu.|08 février 2023|
+ |[40180802/23 - Vulnérabilité dans EnOcean SmartServer](https://www.dgssi.gov.ma//fr/content/4018080223-vulnerabilite-dans-enocean-smartserver.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées de l’EnOcean SmartServer. En effet, les versions vulnérables de SmartServer stockent des informations d'identification dans un fichier en clair. Si l'attaquant...|08 février 2023|
+ |[40170802/23 - Correctif de sécurité pour le zero-dayaffectant GoAnywhere MFT](https://www.dgssi.gov.ma//fr/content/4017080223-correctif-de-securite-pour-le-zero-day-affectant-goanywhere-mft.html)|Fortra a publié un correctif d'urgence pour corriger une vulnérabilité de type "zero-day" activement exploitée dans l'outil de transfert de fichiers sécurisé GoAnywhere MFT. La vulné-rabilité permet aux attaquants d’...|08 février 2023|
+ |[40160802/23 - Vulnérabilités affectant le système d’exploitation Android](https://www.dgssi.gov.ma//fr/content/4016080223-vulnerabilites-affectant-le-systeme-d-exploitation-android.html)|Google annonce la correction de plusieurs vulnérabilités affectantson système d’exploitation Android.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’accéder à des données confidentielles, d’...|08 février 2023|
+ |[40150702/23 - Vulnérabilité affectantle navigateur Microsoft Edge ](https://www.dgssi.gov.ma//fr/content/4015070223-vulnerabilite-affectant-le-navigateur-microsoft-edge.html)|Microsoft vient de publier une mise à jour de sécurité qui permet de corriger unevulnérabilité affectant le navigateur Microsoft Edge. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant de contourner les mesures...|07 février 2023|
+ |[40140602/23 - Vulnérabilité critique dans Atlassian Jira Service Management Server et Data Center](https://www.dgssi.gov.ma//fr/content/4014060223-vulnerabilite-critique-dans-atlassian-jira-service-management-server-et-data-center.html)|Atlassian a corrigée une vulnérabilité critique affectant Service Management Server et Data Center. L’exploitation de cette faille peut permettre à un attaquant non authentifié de se faire passer pour d'autres utilisateurs et d'...|06 février 2023|
  
