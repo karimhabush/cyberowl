@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 15/02/2023 18:27:34 UTC
+ > Last Updated 15/02/2023 19:18:58 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -41,23 +41,30 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-40569" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-40569)|An attacker can use several vulnerabilities of Jenkins Plugins...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Go-YAML-overload-via-Large-YAML-Documents-40568" class="noirorange"><b>Go YAML</b>: overload via Large YAML Documents</a>](https://vigilance.fr/vulnerability/Go-YAML-overload-via-Large-YAML-Documents-40568)|An attacker can trigger an overload of Go YAML, via Large YAML Documents, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Go-YAML-overload-via-Unbounded-Alias-Chasing-40567" class="noirorange"><b>Go YAML</b>: overload via Unbounded Alias Chasing</a>](https://vigilance.fr/vulnerability/Go-YAML-overload-via-Unbounded-Alias-Chasing-40567)|An attacker can trigger an overload of Go YAML, via Unbounded Alias Chasing, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Intel-Processor-information-disclosure-via-SGX-40566" class="noirorange"><b>Intel Processor</b>: information disclosure via SGX</a>](https://vigilance.fr/vulnerability/Intel-Processor-information-disclosure-via-SGX-40566)|An attacker can bypass access restrictions to data of Intel Processor, via SGX, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Intel-Xeon-privilege-escalation-via-SGX-40565" class="noirorange"><b>Intel Xeon</b>: privilege escalation via SGX</a>](https://vigilance.fr/vulnerability/Intel-Xeon-privilege-escalation-via-SGX-40565)|An attacker can bypass restrictions of Intel Xeon, via SGX, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Intel-Xeon-information-disclosure-via-Microcode-Keying-Mechanism-40564" class="noirorange"><b>Intel Xeon</b>: information disclosure via Microcode Keying Mechanism</a>](https://vigilance.fr/vulnerability/Intel-Xeon-information-disclosure-via-Microcode-Keying-Mechanism-40564)|An attacker can bypass access restrictions to data of Intel Xeon, via Microcode Keying Mechanism, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Intel-SPS-privilege-escalation-40563" class="noirorange"><b>Intel SPS</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Intel-SPS-privilege-escalation-40563)|An attacker can bypass restrictions of Intel SPS, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Intel-Atom-Xeon-Processors-privilege-escalation-40562" class="noirorange"><b>Intel Atom/Xeon Processors</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Intel-Atom-Xeon-Processors-privilege-escalation-40562)|An attacker can bypass restrictions of Intel Atom/Xeon Processors, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Intel-BIOS-multiple-vulnerabilities-40559" class="noirorange"><b>Intel BIOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Intel-BIOS-multiple-vulnerabilities-40559)|An attacker can use several vulnerabilities of Intel BIOS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Joomla-Core-vulnerabity-unveiled-on-16-02-2023-40558" class="noirorange"><b>Joomla Core</b>: vulnerabity unveiled on 16/02/2023</a>](https://vigilance.fr/vulnerability/Joomla-Core-vulnerabity-unveiled-on-16-02-2023-40558)|A vulnerability of Joomla Core will be unveiled on 16/02/2023...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-CloudConnect-SDK-Man-in-the-Middle-via-REST-API-Modular-Input-40557" class="noirorange"><b>Splunk Enterprise CloudConnect SDK</b>: Man-in-the-Middle via REST API Modular Input</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-CloudConnect-SDK-Man-in-the-Middle-via-REST-API-Modular-Input-40557)|An attacker can act as a Man-in-the-Middle on Splunk Enterprise CloudConnect SDK, via REST API Modular Input, in order to read or write data in the session...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/pfSense-ingress-filtrering-bypass-via-Anti-brute-Force-40581" class="noirorange"><b>pfSense</b>: ingress filtrering bypass via Anti-brute Force</a>](https://vigilance.fr/vulnerability/pfSense-ingress-filtrering-bypass-via-Anti-brute-Force-40581)|An attacker can bypass filtering rules of pfSense, via Anti-brute Force, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/pfSense-code-execution-via-WebGUI-40580" class="noirorange"><b>pfSense</b>: code execution via WebGUI</a>](https://vigilance.fr/vulnerability/pfSense-code-execution-via-WebGUI-40580)|An attacker can use a vulnerability of pfSense, via WebGUI, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/pfSense-file-creation-via-WebGUI-40579" class="noirorange"><b>pfSense</b>: file creation via WebGUI</a>](https://vigilance.fr/vulnerability/pfSense-file-creation-via-WebGUI-40579)|An attacker can bypass access restrictions of pfSense, via WebGUI, in order to create a file...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/pfSense-Cross-Site-Scripting-via-WebGUI-40578" class="noirorange"><b>pfSense</b>: Cross Site Scripting via WebGUI</a>](https://vigilance.fr/vulnerability/pfSense-Cross-Site-Scripting-via-WebGUI-40578)|An attacker can trigger a Cross Site Scripting of pfSense, via WebGUI, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/pfSense-Cross-Site-Scripting-via-WebGUI-40577" class="noirorange"><b>pfSense</b>: Cross Site Scripting via WebGUI</a>](https://vigilance.fr/vulnerability/pfSense-Cross-Site-Scripting-via-WebGUI-40577)|An attacker can trigger a Cross Site Scripting of pfSense, via WebGUI, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/pfSense-Cross-Site-Scripting-via-WebGUI-40576" class="noirorange"><b>pfSense</b>: Cross Site Scripting via WebGUI</a>](https://vigilance.fr/vulnerability/pfSense-Cross-Site-Scripting-via-WebGUI-40576)|An attacker can trigger a Cross Site Scripting of pfSense, via WebGUI, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ClamAV-information-disclosure-via-DMG-File-Parser-40575" class="noirorange"><b>ClamAV</b>: information disclosure via DMG File Parser</a>](https://vigilance.fr/vulnerability/ClamAV-information-disclosure-via-DMG-File-Parser-40575)|An attacker can bypass access restrictions to data of ClamAV, via DMG File Parser, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ClamAV-code-execution-via-HFS-File-Parser-40574" class="noirorange"><b>ClamAV</b>: code execution via HFS+ File Parser</a>](https://vigilance.fr/vulnerability/ClamAV-code-execution-via-HFS-File-Parser-40574)|An attacker can use a vulnerability of ClamAV, via HFS+ File Parser, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-ESA-Secure-Email-and-Web-Manager-two-vulnerabilities-40573" class="noirorange"><b>Cisco ESA  Secure Email and Web Manager</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Cisco-ESA-Secure-Email-and-Web-Manager-two-vulnerabilities-40573)|An attacker can use several vulnerabilities of Cisco ESA  Secure Email and Web Manager...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-Nexus-Dashboard-Cross-Site-Scripting-via-Web-based-Management-Interface-40572" class="noirorange"><b>Cisco Nexus Dashboard</b>: Cross Site Scripting via Web-based Management Interface</a>](https://vigilance.fr/vulnerability/Cisco-Nexus-Dashboard-Cross-Site-Scripting-via-Web-based-Management-Interface-40572)|An attacker can trigger a Cross Site Scripting of Cisco Nexus Dashboard, via Web-based Management Interface, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-Nexus-Dashboard-denial-of-service-via-DNS-Requests-40571" class="noirorange"><b>Cisco Nexus Dashboard</b>: denial of service via DNS Requests</a>](https://vigilance.fr/vulnerability/Cisco-Nexus-Dashboard-denial-of-service-via-DNS-Requests-40571)|An attacker can cause a fatal error of Cisco Nexus Dashboard, via DNS Requests, in order to trigger a denial of service...|Visit link for details|
  
 
 # VulDB
 
  |Title|Description|Date|
  |---|---|---|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-008: Vulnerability in OpenSSH](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|The development team of the OpenSSH suite has released the version 9.2 to address several security vulnerabilities, including a memory safety bug in the OpenSSH server (|Wednesday, February 08, 2023 06:20:00 PM CEST|
  
 
 # CERT-FR
@@ -74,13 +81,6 @@
  |[[SCADA] Multiples vulnérabilités dans les produits Schneider Electric](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0126/)|De multiples vulnérabilités ont été découvertes dans les produits Schneider Electric. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 15 février 2023|
  |[Multiples vulnérabilités dans les produits SAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0125/)|De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 15 février 2023|
  |[Multiples vulnérabilités dans Mozilla Firefox](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0124/)|De multiples vulnérabilités ont été corrigées dans|Publié le 15 février 2023|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-008: Vulnerability in OpenSSH](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|The development team of the OpenSSH suite has released the version 9.2 to address several security vulnerabilities, including a memory safety bug in the OpenSSH server (|Wednesday, February 08, 2023 06:20:00 PM CEST|
  
 
 # MA-CERT
