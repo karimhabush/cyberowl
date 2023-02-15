@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 15/02/2023 06:27:01 UTC
+ > Last Updated 15/02/2023 07:19:17 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -54,17 +54,17 @@
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-NET-vulnerabilities-of-February-2023-40527" class="noirorange"><b>Microsoft .NET</b>: vulnerabilities of February 2023</a>](https://vigilance.fr/vulnerability/Microsoft-NET-vulnerabilities-of-February-2023-40527)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
  
 
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
  |---|---|---|
  |[2023-008: Vulnerability in OpenSSH](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|The development team of the OpenSSH suite has released the version 9.2 to address several security vulnerabilities, including a memory safety bug in the OpenSSH server (|Wednesday, February 08, 2023 06:20:00 PM CEST|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # CERT-FR
