@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 15/02/2023 11:20:07 UTC
+ > Last Updated 15/02/2023 12:42:00 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -41,6 +41,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Go-YAML-overload-via-Large-YAML-Documents-40568" class="noirorange"><b>Go YAML</b>: overload via Large YAML Documents</a>](https://vigilance.fr/vulnerability/Go-YAML-overload-via-Large-YAML-Documents-40568)|An attacker can trigger an overload of Go YAML, via Large YAML Documents, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Go-YAML-overload-via-Unbounded-Alias-Chasing-40567" class="noirorange"><b>Go YAML</b>: overload via Unbounded Alias Chasing</a>](https://vigilance.fr/vulnerability/Go-YAML-overload-via-Unbounded-Alias-Chasing-40567)|An attacker can trigger an overload of Go YAML, via Unbounded Alias Chasing, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Intel-Processor-information-disclosure-via-SGX-40566" class="noirorange"><b>Intel Processor</b>: information disclosure via SGX</a>](https://vigilance.fr/vulnerability/Intel-Processor-information-disclosure-via-SGX-40566)|An attacker can bypass access restrictions to data of Intel Processor, via SGX, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Intel-Xeon-privilege-escalation-via-SGX-40565" class="noirorange"><b>Intel Xeon</b>: privilege escalation via SGX</a>](https://vigilance.fr/vulnerability/Intel-Xeon-privilege-escalation-via-SGX-40565)|An attacker can bypass restrictions of Intel Xeon, via SGX, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Intel-Xeon-information-disclosure-via-Microcode-Keying-Mechanism-40564" class="noirorange"><b>Intel Xeon</b>: information disclosure via Microcode Keying Mechanism</a>](https://vigilance.fr/vulnerability/Intel-Xeon-information-disclosure-via-Microcode-Keying-Mechanism-40564)|An attacker can bypass access restrictions to data of Intel Xeon, via Microcode Keying Mechanism, in order to read sensitive information...|Visit link for details|
@@ -50,8 +52,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Joomla-Core-vulnerabity-unveiled-on-16-02-2023-40558" class="noirorange"><b>Joomla Core</b>: vulnerabity unveiled on 16/02/2023</a>](https://vigilance.fr/vulnerability/Joomla-Core-vulnerabity-unveiled-on-16-02-2023-40558)|A vulnerability of Joomla Core will be unveiled on 16/02/2023...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-CloudConnect-SDK-Man-in-the-Middle-via-REST-API-Modular-Input-40557" class="noirorange"><b>Splunk Enterprise CloudConnect SDK</b>: Man-in-the-Middle via REST API Modular Input</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-CloudConnect-SDK-Man-in-the-Middle-via-REST-API-Modular-Input-40557)|An attacker can act as a Man-in-the-Middle on Splunk Enterprise CloudConnect SDK, via REST API Modular Input, in order to read or write data in the session...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-Cross-Site-Request-Forgery-via-ssg-kvstore-client-40556" class="noirorange"><b>Splunk Enterprise</b>: Cross Site Request Forgery via ssg/kvstore_client</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-Cross-Site-Request-Forgery-via-ssg-kvstore-client-40556)|An attacker can trigger a Cross Site Request Forgery of Splunk Enterprise, via ssg/kvstore_client, in order to force the victim to perform operations...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-denial-of-service-via-INGEST-EVAL-40555" class="noirorange"><b>Splunk Enterprise</b>: denial of service via INGEST_EVAL</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-denial-of-service-via-INGEST-EVAL-40555)|An attacker can cause a fatal error of Splunk Enterprise, via INGEST_EVAL, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-read-write-access-via-collect-SPL-Command-40554" class="noirorange"><b>Splunk Enterprise</b>: read-write access via collect SPL Command</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-read-write-access-via-collect-SPL-Command-40554)|An attacker can bypass access restrictions of Splunk Enterprise, via collect SPL Command, in order to read or alter data...|Visit link for details|
  
 
 # EU-CERT
@@ -65,6 +65,22 @@
 
  |Title|Description|Date|
  |---|---|---|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[[SCADA] Multiples vulnérabilités dans les produits Siemens](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0121/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 février 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0120/)|De multiples vulnérabilités ont été corrigées dans les produits |Publié le 14 février 2023|
+ |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0119/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 février 2023|
+ |[Vulnérabilité dans SonicWall Email Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0118/)|Une vulnérabilité a été corrigée dans |Publié le 14 février 2023|
+ |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0117/)|De multiples vulnérabilités ont été corrigées dans les produits |Publié le 14 février 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0116/)|De multiples vulnérabilités ont été corrigées dans les produits |Publié le 13 février 2023|
+ |[Vulnérabilité dans WALLIX Access Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0115/)|Une vulnérabilité a été découverte dans WALLIX Access Manager. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 13 février 2023|
+ |[[SCADA] Vulnérabilité dans Belden HiSecOS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0114/)|Une vulnérabilité a été découverte dans Belden. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 10 février 2023|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0113/)|De multiples vulnérabilités ont été corrigées dans |Publié le 10 février 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0112/)|De multiples vulnérabilités ont été corrigées dans |Publié le 10 février 2023|
  
 
 # MA-CERT
@@ -82,22 +98,6 @@
  |[40231502/23 - Vulnérabilités affectant plusieurs produits d’Adobe](https://www.dgssi.gov.ma//fr/content/4023150223-vulnerabilites-affectant-plusieurs-produits-d-adobe.html)|Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuterdu code arbitraire, de...|15 février 2023|
  |[40221402/23 - « Zero-Day » affectant iOS, iPadOS et macOS](https://www.dgssi.gov.ma//fr/content/4022140223-zero-day-affectant-ios-ipados-et-macos.html)|Apple annonce la correction de trois vulnérabilités affectant ses produits susmentionnés. Selon Apple une de ces vulnérabilités identifiée par « CVE-2023-23529» est un « Zero-day » et peut permettre à un attaquant d’exécuter du code...|14 février 2023|
  |[40231302/23 - Vulnérabilités dans les produits IBM](https://www.dgssi.gov.ma//fr/content/4023130223-vulnerabilites-dans-les-produits-ibm.html)|Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. L’exploitation de ces failles pourrait permettre à un attaquant de porter atteinte à la confidentialité des données, de contourner la politique de sécurité, de...|13 février 2023|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[[SCADA] Multiples vulnérabilités dans les produits Siemens](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0121/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 février 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0120/)|De multiples vulnérabilités ont été corrigées dans les produits |Publié le 14 février 2023|
- |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0119/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 février 2023|
- |[Vulnérabilité dans SonicWall Email Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0118/)|Une vulnérabilité a été corrigée dans |Publié le 14 février 2023|
- |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0117/)|De multiples vulnérabilités ont été corrigées dans les produits |Publié le 14 février 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0116/)|De multiples vulnérabilités ont été corrigées dans les produits |Publié le 13 février 2023|
- |[Vulnérabilité dans WALLIX Access Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0115/)|Une vulnérabilité a été découverte dans WALLIX Access Manager. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 13 février 2023|
- |[[SCADA] Vulnérabilité dans Belden HiSecOS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0114/)|Une vulnérabilité a été découverte dans Belden. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 10 février 2023|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0113/)|De multiples vulnérabilités ont été corrigées dans |Publié le 10 février 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0112/)|De multiples vulnérabilités ont été corrigées dans |Publié le 10 février 2023|
  
 
 # HK-CERT
