@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 15/02/2023 16:31:53 UTC
+ > Last Updated 15/02/2023 17:19:50 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -54,10 +54,11 @@
  |[<a href="https://vigilance.fr/vulnerability/Splunk-Enterprise-CloudConnect-SDK-Man-in-the-Middle-via-REST-API-Modular-Input-40557" class="noirorange"><b>Splunk Enterprise CloudConnect SDK</b>: Man-in-the-Middle via REST API Modular Input</a>](https://vigilance.fr/vulnerability/Splunk-Enterprise-CloudConnect-SDK-Man-in-the-Middle-via-REST-API-Modular-Input-40557)|An attacker can act as a Man-in-the-Middle on Splunk Enterprise CloudConnect SDK, via REST API Modular Input, in order to read or write data in the session...|Visit link for details|
  
 
-# VulDB
+# EU-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[2023-008: Vulnerability in OpenSSH](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|The development team of the OpenSSH suite has released the version 9.2 to address several security vulnerabilities, including a memory safety bug in the OpenSSH server (|Wednesday, February 08, 2023 06:20:00 PM CEST|
  
 
 # CERT-FR
@@ -76,11 +77,10 @@
  |[Multiples vulnérabilités dans Mozilla Firefox](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0124/)|De multiples vulnérabilités ont été corrigées dans|Publié le 15 février 2023|
  
 
-# EU-CERT
+# VulDB
 
  |Title|Description|Date|
  |---|---|---|
- |[2023-008: Vulnerability in OpenSSH](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|The development team of the OpenSSH suite has released the version 9.2 to address several security vulnerabilities, including a memory safety bug in the OpenSSH server (|Wednesday, February 08, 2023 06:20:00 PM CEST|
  
 
 # MA-CERT
@@ -90,8 +90,8 @@
  |[40321502/23 - Fin de support pour Microsoft Exchange Server 2013](https://www.dgssi.gov.ma//fr/content/4032150223-fin-de-support-pour-microsoft-exchange-server-2013.html)|Microsoftannonce la fin du support destiné à Microsoft Exchange Server 2013, et ce à partir du 11 Avril 2023.|15 février 2023|
  |[40261502/23 - « Zero-Day » affectant le navigateur Apple Safari](https://www.dgssi.gov.ma//fr/content/4026150223-zero-day-affectant-le-navigateur-apple-safari.html)|Apple annonce la correction d’une vulnérabilité critique affectant les versions susmentionnées de son navigateur Safari. Selon Apple cette vulnérabilité est activement exploitée et peut permettre à un attaquant distant d’exécuter du code...|15 février 2023|
  |[40251502/23 - Vulnérabilités affectantplusieurs produits de Citrix ](https://www.dgssi.gov.ma//fr/content/4025150223-vulnerabilites-affectant-plusieurs-produits-de-citrix.html)|Citrix annonce la correction de quatre vulnérabilités affectant ses produits susmentionnés.L’exploitation de ces vulnérabilités peut permettre à un utilisateurlocal de contourner les mesures de sécurité et accéder aux systèmes affectés.|15 février 2023|
- |[40311502/23 - Vulnérabilités critiques dans plusieurs produits Microsoft(Patch Tuesday Février 202](https://www.dgssi.gov.ma//fr/content/4031150223-vulnerabilites-critiques-dans-plusieurs-produits-microsoft-patch-tuesday-fevrier-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, d’exécuter du...|15 février 2023|
  |[40301502/23 - Vulnérabilités dans les produits Microsoft Azure (Patch Tuesday Février 2023)](https://www.dgssi.gov.ma//fr/content/4030150223-vulnerabilites-dans-les-produits-microsoft-azure-patch-tuesday-fevrier-2023.html)|Plusieurs vulnérabilités ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges, d’exécuter du code arbitraire et de réussir une usurpation d’...|15 février 2023|
+ |[40311502/23 - Vulnérabilités critiques dans plusieurs produits Microsoft(Patch Tuesday Février 202](https://www.dgssi.gov.ma//fr/content/4031150223-vulnerabilites-critiques-dans-plusieurs-produits-microsoft-patch-tuesday-fevrier-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, d’exécuter du...|15 février 2023|
  |[40291502/23 - Vulnérabilités dans Microsoft Exchange Server (Patch Tuesday Février 2023)](https://www.dgssi.gov.ma//fr/content/4029150223-vulnerabilites-dans-microsoft-exchange-server-patch-tuesday-fevrier-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées de Microsoft Exchange Server. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire.|15 février 2023|
  |[40241502/23 - Vulnérabilités affectantle navigateur Mozilla Firefox](https://www.dgssi.gov.ma//fr/content/4024150223-vulnerabilites-affectant-le-navigateur-mozilla-firefox.html)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de cesvulnérabilités peut permettre à un...|15 février 2023|
  |[40281502/23 - Vulnérabilités critiques dans Microsoft Windows (Patch Tuesday Février 2023)](https://www.dgssi.gov.ma//fr/content/4028150223-vulnerabilites-critiques-dans-microsoft-windows-patch-tuesday-fevrier-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques dans lessystèmes d’exploitation Windows susmentionnés. Selon Microsoft deux de ces vulnérabilités identifiées par «CVE-2023-23376 et CVE-2023-21823 » sont des « Zero-...|15 février 2023|
