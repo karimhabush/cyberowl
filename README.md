@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 14/02/2023 23:21:52 UTC
+ > Last Updated 15/02/2023 01:45:21 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -54,13 +54,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Microsoft-NET-vulnerabilities-of-February-2023-40527" class="noirorange"><b>Microsoft .NET</b>: vulnerabilities of February 2023</a>](https://vigilance.fr/vulnerability/Microsoft-NET-vulnerabilities-of-February-2023-40527)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
  
 
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-008: Vulnerability in OpenSSH](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|The development team of the OpenSSH suite has released the version 9.2 to address several security vulnerabilities, including a memory safety bug in the OpenSSH server (|Wednesday, February 08, 2023 06:20:00 PM CEST|
- 
-
 # VulDB
 
  |Title|Description|Date|
@@ -81,6 +74,13 @@
  |[[SCADA] Vulnérabilité dans Belden HiSecOS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0114/)|Une vulnérabilité a été découverte dans Belden. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 10 février 2023|
  |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0113/)|De multiples vulnérabilités ont été corrigées dans |Publié le 10 février 2023|
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0112/)|De multiples vulnérabilités ont été corrigées dans |Publié le 10 février 2023|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-008: Vulnerability in OpenSSH](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|The development team of the OpenSSH suite has released the version 9.2 to address several security vulnerabilities, including a memory safety bug in the OpenSSH server (|Wednesday, February 08, 2023 06:20:00 PM CEST|
  
 
 # MA-CERT
