@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 15/02/2023 08:28:14 UTC
+ > Last Updated 15/02/2023 09:21:17 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -37,6 +37,36 @@
  |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/14/apple-releases-security-updates-multiple-products)|<p>Apple has released security updates to address vulnerabilities in multiple products. An attacker could exploit these vulnerabilities to take control of an affected device.</p>|Tuesday, February 14, 2023|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Git-for-Windows-executing-DLL-code-40544" class="noirorange"><b>Git for Windows</b>: executing DLL code</a>](https://vigilance.fr/vulnerability/Git-for-Windows-executing-DLL-code-40544)|An attacker can create a malicious DLL for Git for Windows, and then put it in the current directory, in order to execute code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Git-for-Windows-code-execution-via-Untrusted-Path-40543" class="noirorange"><b>Git for Windows</b>: code execution via Untrusted Path</a>](https://vigilance.fr/vulnerability/Git-for-Windows-code-execution-via-Untrusted-Path-40543)|An attacker can use a vulnerability of Git for Windows, via Untrusted Path, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/curl-multiple-vulnerabilities-via-HTTP-multi-header-compression-40542" class="noirorange"><b>curl</b>: multiple vulnerabilities via HTTP multi-header compression</a>](https://vigilance.fr/vulnerability/curl-multiple-vulnerabilities-via-HTTP-multi-header-compression-40542)|An attacker can use several vulnerabilities of curl, via HTTP multi-header compression...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/curl-information-disclosure-via-Parallel-HSTS-Amnesia-40541" class="noirorange"><b>curl</b>: information disclosure via Parallel HSTS Amnesia</a>](https://vigilance.fr/vulnerability/curl-information-disclosure-via-Parallel-HSTS-Amnesia-40541)|An attacker can bypass access restrictions to data of curl, via Parallel HSTS Amnesia, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/curl-information-disclosure-via-Ignored-HSTS-Multiple-Requests-40540" class="noirorange"><b>curl</b>: information disclosure via Ignored HSTS Multiple Requests</a>](https://vigilance.fr/vulnerability/curl-information-disclosure-via-Ignored-HSTS-Multiple-Requests-40540)|An attacker can bypass access restrictions to data of curl, via Ignored HSTS Multiple Requests, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Firefox-multiple-vulnerabilities-40539" class="noirorange"><b>Firefox</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Firefox-multiple-vulnerabilities-40539)|An attacker can use several vulnerabilities of Firefox...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TimescaleDB-privilege-escalation-via-Extension-Installation-40538" class="noirorange"><b>TimescaleDB</b>: privilege escalation via Extension Installation</a>](https://vigilance.fr/vulnerability/TimescaleDB-privilege-escalation-via-Extension-Installation-40538)|An attacker can bypass restrictions of TimescaleDB, via Extension Installation, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OkHostnameVerifier-information-disclosure-via-verifyHostName-40537" class="noirorange"><b>OkHostnameVerifier</b>: information disclosure via verifyHostName()</a>](https://vigilance.fr/vulnerability/OkHostnameVerifier-information-disclosure-via-verifyHostName-40537)|An attacker can bypass access restrictions to data of OkHostnameVerifier, via verifyHostName(), in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Git-two-vulnerabilities-40536" class="noirorange"><b>Git</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Git-two-vulnerabilities-40536)|An attacker can use several vulnerabilities of Git...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/AMD-Processors-read-write-access-via-RAS-RAP-RSB-40535" class="noirorange"><b>AMD Processors</b>: read-write access via RAS/RAP/RSB</a>](https://vigilance.fr/vulnerability/AMD-Processors-read-write-access-via-RAS-RAP-RSB-40535)|An attacker, in a guest system, can bypass access restrictions of AMD Processors, via RAS/RAP/RSB, in order to read or alter data on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Windows-vulnerabilities-of-February-2023-40534" class="noirorange"><b>Microsoft Windows</b>: vulnerabilities of February 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Windows-vulnerabilities-of-February-2023-40534)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-008: Vulnerability in OpenSSH](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|The development team of the OpenSSH suite has released the version 9.2 to address several security vulnerabilities, including a memory safety bug in the OpenSSH server (|Wednesday, February 08, 2023 06:20:00 PM CEST|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
@@ -51,42 +81,6 @@
  |[[SCADA] Vulnérabilité dans Belden HiSecOS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0114/)|Une vulnérabilité a été découverte dans Belden. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 10 février 2023|
  |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0113/)|De multiples vulnérabilités ont été corrigées dans |Publié le 10 février 2023|
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0112/)|De multiples vulnérabilités ont été corrigées dans |Publié le 10 février 2023|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[40221402/23 - « Zero-Day » affectant iOS, iPadOS et macOS](https://www.dgssi.gov.ma//fr/content/4022140223-zero-day-affectant-ios-ipados-et-macos.html)|Apple annonce la correction de trois vulnérabilités affectant ses produits susmentionnés. Selon Apple une de ces vulnérabilités identifiée par « CVE-2023-23529» est un « Zero-day » et peut permettre à un attaquant d’exécuter du code...|14 février 2023|
- |[40231302/23 - Vulnérabilités dans les produits IBM](https://www.dgssi.gov.ma//fr/content/4023130223-vulnerabilites-dans-les-produits-ibm.html)|Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. L’exploitation de ces failles pourrait permettre à un attaquant de porter atteinte à la confidentialité des données, de contourner la politique de sécurité, de...|13 février 2023|
- |[40221302/23 - Vulnérabilité dans PostgreSQL](https://www.dgssi.gov.ma//fr/content/4022130223-vulnerabilite-dans-postgresql.html)|Une vulnérabilité a été corrigée dans les versions PostgreSQL susmentionnées. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité des données.|13 février 2023|
- |[40210902/23 - Vulnérabilité dans le CMS TYPO3](https://www.dgssi.gov.ma//fr/content/4021090223-vulnerabilite-dans-le-cms-typo3.html)|Une vulnérabilité a été corrigée dans le CMS TYPO3. L’exploitation de cette faille permet à un attaquant d’injecter du code indirect à distance (XSS).|09 février 2023|
- |[40200802/23 - Vulnérabilités dans OpenSSL](https://www.dgssi.gov.ma//fr/content/4020080223-vulnerabilites-dans-openssl.html)|OpenSSL a publié un avis de sécurité pour corriger plusieurs vulnérabilités affectant les versions susmentionnées de OpenSSL.L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service et de porter atteinte à...|08 février 2023|
- |[40190802/23 - Vulnérabilité dans phpMyAdmin](https://www.dgssi.gov.ma//fr/content/4019080223-vulnerabilite-dans-phpmyadmin.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées de phpMyAdmin. L’exploitation de cette faille peut permettre à un attaquant de déclencher une attaque XSS en envoyant un fichier ".sql" spécialement conçu.|08 février 2023|
- |[40180802/23 - Vulnérabilité dans EnOcean SmartServer](https://www.dgssi.gov.ma//fr/content/4018080223-vulnerabilite-dans-enocean-smartserver.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées de l’EnOcean SmartServer. En effet, les versions vulnérables de SmartServer stockent des informations d'identification dans un fichier en clair. Si l'attaquant...|08 février 2023|
- |[40170802/23 - Correctif de sécurité pour le zero-dayaffectant GoAnywhere MFT](https://www.dgssi.gov.ma//fr/content/4017080223-correctif-de-securite-pour-le-zero-day-affectant-goanywhere-mft.html)|Fortra a publié un correctif d'urgence pour corriger une vulnérabilité de type "zero-day" activement exploitée dans l'outil de transfert de fichiers sécurisé GoAnywhere MFT. La vulné-rabilité permet aux attaquants d’...|08 février 2023|
- |[40160802/23 - Vulnérabilités affectant le système d’exploitation Android](https://www.dgssi.gov.ma//fr/content/4016080223-vulnerabilites-affectant-le-systeme-d-exploitation-android.html)|Google annonce la correction de plusieurs vulnérabilités affectantson système d’exploitation Android.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’accéder à des données confidentielles, d’...|08 février 2023|
- |[40150702/23 - Vulnérabilité affectantle navigateur Microsoft Edge ](https://www.dgssi.gov.ma//fr/content/4015070223-vulnerabilite-affectant-le-navigateur-microsoft-edge.html)|Microsoft vient de publier une mise à jour de sécurité qui permet de corriger unevulnérabilité affectant le navigateur Microsoft Edge. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant de contourner les mesures...|07 février 2023|
- |[40140602/23 - Vulnérabilité critique dans Atlassian Jira Service Management Server et Data Center](https://www.dgssi.gov.ma//fr/content/4014060223-vulnerabilite-critique-dans-atlassian-jira-service-management-server-et-data-center.html)|Atlassian a corrigée une vulnérabilité critique affectant Service Management Server et Data Center. L’exploitation de cette faille peut permettre à un attaquant non authentifié de se faire passer pour d'autres utilisateurs et d'...|06 février 2023|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Intel X710 and E810 Series Ethernet Controllers and Adapters denial of service (CVE-2022-36382)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 14, 2023|
- |[Intel QuickAssist Technology (QAT) drivers for Windows privilege escalation (CVE-2022-37340)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 14, 2023|
- |[Intel QuickAssist Technology (QAT) drivers for Linux privilege escalation (CVE-2022-36397)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 14, 2023|
- |[Intel Endpoint Management Assistant privilege escalation (CVE-2022-38056)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 14, 2023|
- |[Intel QATzip privilege escalation (CVE-2022-36369)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 14, 2023|
- |[Intel One Boot Flash Utility (OFU) software denial of service (CVE-2021-33104)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 14, 2023|
- |[Intel Xeon processors privilege escalation (CVE-2022-33196)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Feb 14, 2023|
  
 
 # HK-CERT
@@ -105,57 +99,19 @@
  |[IBM MQ Denial of Service Vulnerability](/security-bulletin/ibm-mq-denial-of-service-vulnerability_20230207)|A vulnerability has been identified in IBM MQ. A remote user can exploit this vulnerability to trigger denial of service condition on the targeted system.|Release Date: 7 Feb 2023|
  
 
-# ZERODAYINITIATIVE
+# MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-008: Vulnerability in OpenSSH](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|The development team of the OpenSSH suite has released the version 9.2 to address several security vulnerabilities, including a memory safety bug in the OpenSSH server (|Wednesday, February 08, 2023 06:20:00 PM CEST|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Firefox-multiple-vulnerabilities-40539" class="noirorange"><b>Firefox</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Firefox-multiple-vulnerabilities-40539)|An attacker can use several vulnerabilities of Firefox...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TimescaleDB-privilege-escalation-via-Extension-Installation-40538" class="noirorange"><b>TimescaleDB</b>: privilege escalation via Extension Installation</a>](https://vigilance.fr/vulnerability/TimescaleDB-privilege-escalation-via-Extension-Installation-40538)|An attacker can bypass restrictions of TimescaleDB, via Extension Installation, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OkHostnameVerifier-information-disclosure-via-verifyHostName-40537" class="noirorange"><b>OkHostnameVerifier</b>: information disclosure via verifyHostName()</a>](https://vigilance.fr/vulnerability/OkHostnameVerifier-information-disclosure-via-verifyHostName-40537)|An attacker can bypass access restrictions to data of OkHostnameVerifier, via verifyHostName(), in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Git-two-vulnerabilities-40536" class="noirorange"><b>Git</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Git-two-vulnerabilities-40536)|An attacker can use several vulnerabilities of Git...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/AMD-Processors-read-write-access-via-RAS-RAP-RSB-40535" class="noirorange"><b>AMD Processors</b>: read-write access via RAS/RAP/RSB</a>](https://vigilance.fr/vulnerability/AMD-Processors-read-write-access-via-RAS-RAP-RSB-40535)|An attacker, in a guest system, can bypass access restrictions of AMD Processors, via RAS/RAP/RSB, in order to read or alter data on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Windows-vulnerabilities-of-February-2023-40534" class="noirorange"><b>Microsoft Windows</b>: vulnerabilities of February 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Windows-vulnerabilities-of-February-2023-40534)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Visual-Studio-vulnerabilities-of-February-2023-40533" class="noirorange"><b>Microsoft Visual Studio</b>: vulnerabilities of February 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Visual-Studio-vulnerabilities-of-February-2023-40533)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-February-2023-40532" class="noirorange"><b>Microsoft SharePoint</b>: vulnerabilities of February 2023</a>](https://vigilance.fr/vulnerability/Microsoft-SharePoint-vulnerabilities-of-February-2023-40532)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-SQL-Server-vulnerabilities-of-February-2023-40531" class="noirorange"><b>Microsoft SQL Server</b>: vulnerabilities of February 2023</a>](https://vigilance.fr/vulnerability/Microsoft-SQL-Server-vulnerabilities-of-February-2023-40531)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-February-2023-40530" class="noirorange"><b>Microsoft Exchange Server</b>: vulnerabilities of February 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Exchange-Server-vulnerabilities-of-February-2023-40530)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Defender-privilege-escalation-40529" class="noirorange"><b>Microsoft Defender</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/Microsoft-Defender-privilege-escalation-40529)|An attacker can bypass restrictions of Microsoft Defender, in order to escalate his privileges...|Visit link for details|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft security advisory – February 2023 monthly rollup (AV23-088)](https://cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-february-2023-monthly-rollup-av23-088)|Visit link for details|2023-02-14|
- |[[Control systems] Weintek security advisory (AV23-087)](https://cyber.gc.ca/en/alerts-advisories/control-systems-weintek-security-advisory-av23-087)|Visit link for details|2023-02-14|
- |[Apple security advisory (AV23-086)](https://cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-086)|Visit link for details|2023-02-14|
- |[[Control systems] Siemens security advisory (AV23-085)](https://cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av23-085)|Visit link for details|2023-02-14|
- |[SAP security advisory – February 2023 monthly rollup (AV23-084)](https://cyber.gc.ca/en/alerts-advisories/sap-security-advisory-february-2023-monthly-rollup-av23-084)|Visit link for details|2023-02-14|
- |[IBM security advisory (AV23-083)](https://cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-083)|Visit link for details|2023-02-13|
- |[Ubuntu security advisory (AV23-082)](https://cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-082)|Visit link for details|2023-02-13|
- |[Dell security advisory (AV23-081)](https://cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-081)|Visit link for details|2023-02-13|
- |[ABB security advisory (AV23-080)](https://cyber.gc.ca/en/alerts-advisories/abb-security-advisory-av23-080)|Visit link for details|2023-02-13|
- |[Microsoft Edge security advisory (AV23-079)](https://cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-079)|Visit link for details|2023-02-13|
- |[[Control systems] Johnson Controls security advisory (AV23-078)](https://cyber.gc.ca/en/alerts-advisories/control-systems-johnson-controls-security-advisory-av23-078)|Visit link for details|2023-02-10|
+ |[40221402/23 - « Zero-Day » affectant iOS, iPadOS et macOS](https://www.dgssi.gov.ma//fr/content/4022140223-zero-day-affectant-ios-ipados-et-macos.html)|Apple annonce la correction de trois vulnérabilités affectant ses produits susmentionnés. Selon Apple une de ces vulnérabilités identifiée par « CVE-2023-23529» est un « Zero-day » et peut permettre à un attaquant d’exécuter du code...|14 février 2023|
+ |[40231302/23 - Vulnérabilités dans les produits IBM](https://www.dgssi.gov.ma//fr/content/4023130223-vulnerabilites-dans-les-produits-ibm.html)|Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. L’exploitation de ces failles pourrait permettre à un attaquant de porter atteinte à la confidentialité des données, de contourner la politique de sécurité, de...|13 février 2023|
+ |[40221302/23 - Vulnérabilité dans PostgreSQL](https://www.dgssi.gov.ma//fr/content/4022130223-vulnerabilite-dans-postgresql.html)|Une vulnérabilité a été corrigée dans les versions PostgreSQL susmentionnées. L’exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité des données.|13 février 2023|
+ |[40210902/23 - Vulnérabilité dans le CMS TYPO3](https://www.dgssi.gov.ma//fr/content/4021090223-vulnerabilite-dans-le-cms-typo3.html)|Une vulnérabilité a été corrigée dans le CMS TYPO3. L’exploitation de cette faille permet à un attaquant d’injecter du code indirect à distance (XSS).|09 février 2023|
+ |[40200802/23 - Vulnérabilités dans OpenSSL](https://www.dgssi.gov.ma//fr/content/4020080223-vulnerabilites-dans-openssl.html)|OpenSSL a publié un avis de sécurité pour corriger plusieurs vulnérabilités affectant les versions susmentionnées de OpenSSL.L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service et de porter atteinte à...|08 février 2023|
+ |[40190802/23 - Vulnérabilité dans phpMyAdmin](https://www.dgssi.gov.ma//fr/content/4019080223-vulnerabilite-dans-phpmyadmin.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées de phpMyAdmin. L’exploitation de cette faille peut permettre à un attaquant de déclencher une attaque XSS en envoyant un fichier ".sql" spécialement conçu.|08 février 2023|
+ |[40180802/23 - Vulnérabilité dans EnOcean SmartServer](https://www.dgssi.gov.ma//fr/content/4018080223-vulnerabilite-dans-enocean-smartserver.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées de l’EnOcean SmartServer. En effet, les versions vulnérables de SmartServer stockent des informations d'identification dans un fichier en clair. Si l'attaquant...|08 février 2023|
+ |[40170802/23 - Correctif de sécurité pour le zero-dayaffectant GoAnywhere MFT](https://www.dgssi.gov.ma//fr/content/4017080223-correctif-de-securite-pour-le-zero-day-affectant-goanywhere-mft.html)|Fortra a publié un correctif d'urgence pour corriger une vulnérabilité de type "zero-day" activement exploitée dans l'outil de transfert de fichiers sécurisé GoAnywhere MFT. La vulné-rabilité permet aux attaquants d’...|08 février 2023|
+ |[40160802/23 - Vulnérabilités affectant le système d’exploitation Android](https://www.dgssi.gov.ma//fr/content/4016080223-vulnerabilites-affectant-le-systeme-d-exploitation-android.html)|Google annonce la correction de plusieurs vulnérabilités affectantson système d’exploitation Android.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’accéder à des données confidentielles, d’...|08 février 2023|
+ |[40150702/23 - Vulnérabilité affectantle navigateur Microsoft Edge ](https://www.dgssi.gov.ma//fr/content/4015070223-vulnerabilite-affectant-le-navigateur-microsoft-edge.html)|Microsoft vient de publier une mise à jour de sécurité qui permet de corriger unevulnérabilité affectant le navigateur Microsoft Edge. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant de contourner les mesures...|07 février 2023|
+ |[40140602/23 - Vulnérabilité critique dans Atlassian Jira Service Management Server et Data Center](https://www.dgssi.gov.ma//fr/content/4014060223-vulnerabilite-critique-dans-atlassian-jira-service-management-server-et-data-center.html)|Atlassian a corrigée une vulnérabilité critique affectant Service Management Server et Data Center. L’exploitation de cette faille peut permettre à un attaquant non authentifié de se faire passer pour d'autres utilisateurs et d'...|06 février 2023|
  
