@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 16/02/2023 20:23:20 UTC
+ > Last Updated 16/02/2023 21:21:50 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -41,17 +41,24 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-FortiProxy-directory-traversal-40594" class="noirorange"><b>FortiOS  FortiProxy</b>: directory traversal</a>](https://vigilance.fr/vulnerability/FortiOS-FortiProxy-directory-traversal-40594)|An attacker can traverse directories of FortiOS  FortiProxy, in order to read or write a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-FortiProxy-header-injection-via-Login-Page-40593" class="noirorange"><b>FortiOS  FortiProxy</b>: header injection via Login Page</a>](https://vigilance.fr/vulnerability/FortiOS-FortiProxy-header-injection-via-Login-Page-40593)|An attacker can add new headers on FortiOS  FortiProxy, via Login Page, in order to alter the service behavior...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-FortiProxy-privilege-escalation-via-Own-Profile-40592" class="noirorange"><b>FortiOS  FortiProxy</b>: privilege escalation via Own Profile</a>](https://vigilance.fr/vulnerability/FortiOS-FortiProxy-privilege-escalation-via-Own-Profile-40592)|An attacker can bypass restrictions of FortiOS  FortiProxy, via Own Profile, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-FortiProxy-Man-in-the-Middle-via-Threat-Feed-40591" class="noirorange"><b>FortiOS  FortiProxy</b>: Man-in-the-Middle via Threat Feed</a>](https://vigilance.fr/vulnerability/FortiOS-FortiProxy-Man-in-the-Middle-via-Threat-Feed-40591)|An attacker can act as a Man-in-the-Middle on FortiOS  FortiProxy, via Threat Feed, in order to read or write data in the session...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-Cross-Site-Scripting-via-FortiCloud-Sign-in-Login-Page-40590" class="noirorange"><b>FortiOS</b>: Cross Site Scripting via FortiCloud Sign-in Login Page</a>](https://vigilance.fr/vulnerability/FortiOS-Cross-Site-Scripting-via-FortiCloud-Sign-in-Login-Page-40590)|An attacker can trigger a Cross Site Scripting of FortiOS, via FortiCloud Sign-in Login Page, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-FortiProxy-weak-encryption-via-DHCP-DNS-Keys-Encryption-40589" class="noirorange"><b>FortiOS  FortiProxy</b>: weak encryption via DHCP / DNS Keys Encryption</a>](https://vigilance.fr/vulnerability/FortiOS-FortiProxy-weak-encryption-via-DHCP-DNS-Keys-Encryption-40589)|An attacker can access data on FortiOS  FortiProxy, via DHCP / DNS Keys Encryption, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-FortiWeb-weak-encryption-via-Cookie-Encryption-40588" class="noirorange"><b>FortiOS  FortiWeb</b>: weak encryption via Cookie Encryption</a>](https://vigilance.fr/vulnerability/FortiOS-FortiWeb-weak-encryption-via-Cookie-Encryption-40588)|An attacker can access data on FortiOS  FortiWeb, via Cookie Encryption, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-FortiGate-information-disclosure-via-Private-Keys-40587" class="noirorange"><b>FortiOS  FortiGate</b>: information disclosure via Private Keys</a>](https://vigilance.fr/vulnerability/FortiOS-FortiGate-information-disclosure-via-Private-Keys-40587)|An attacker can bypass access restrictions to data of FortiOS  FortiGate, via Private Keys, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiAnalyzer-Cross-Site-Scripting-via-Event-Logview-40586" class="noirorange"><b>FortiAnalyzer</b>: Cross Site Scripting via Event Logview</a>](https://vigilance.fr/vulnerability/FortiAnalyzer-Cross-Site-Scripting-via-Event-Logview-40586)|An attacker can trigger a Cross Site Scripting of FortiAnalyzer, via Event Logview, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Intel-Ethernet-Controllers-four-vulnerabilities-40585" class="noirorange"><b>Intel Ethernet Controllers</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Intel-Ethernet-Controllers-four-vulnerabilities-40585)|An attacker can use several vulnerabilities of Intel Ethernet Controllers...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Go-x-text-language-out-of-bounds-memory-reading-via-BCP-47-Language-Tag-Parsing-40584" class="noirorange"><b>Go x/text/language</b>: out-of-bounds memory reading via BCP 47 Language Tag Parsing</a>](https://vigilance.fr/vulnerability/Go-x-text-language-out-of-bounds-memory-reading-via-BCP-47-Language-Tag-Parsing-40584)|An attacker can force a read at an invalid memory address of Go x/text/language, via BCP 47 Language Tag Parsing, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-binder-alloc-c-40583" class="noirorange"><b>Linux kernel</b>: reuse after free via binder_alloc.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-binder-alloc-c-40583)|An attacker can force the reuse of a freed memory area of the Linux kernel, via binder_alloc.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/efs-utils-file-read-write-via-Mount-Helper-40582" class="noirorange"><b>efs-utils</b>: file read/write via Mount Helper</a>](https://vigilance.fr/vulnerability/efs-utils-file-read-write-via-Mount-Helper-40582)|An attacker can bypass access restrictions of efs-utils, via Mount Helper, in order to read or alter files...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/pfSense-ingress-filtrering-bypass-via-Anti-brute-Force-40581" class="noirorange"><b>pfSense</b>: ingress filtrering bypass via Anti-brute Force</a>](https://vigilance.fr/vulnerability/pfSense-ingress-filtrering-bypass-via-Anti-brute-Force-40581)|An attacker can bypass filtering rules of pfSense, via Anti-brute Force, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/pfSense-code-execution-via-WebGUI-40580" class="noirorange"><b>pfSense</b>: code execution via WebGUI</a>](https://vigilance.fr/vulnerability/pfSense-code-execution-via-WebGUI-40580)|An attacker can use a vulnerability of pfSense, via WebGUI, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/pfSense-file-creation-via-WebGUI-40579" class="noirorange"><b>pfSense</b>: file creation via WebGUI</a>](https://vigilance.fr/vulnerability/pfSense-file-creation-via-WebGUI-40579)|An attacker can bypass access restrictions of pfSense, via WebGUI, in order to create a file...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/pfSense-Cross-Site-Scripting-via-WebGUI-40578" class="noirorange"><b>pfSense</b>: Cross Site Scripting via WebGUI</a>](https://vigilance.fr/vulnerability/pfSense-Cross-Site-Scripting-via-WebGUI-40578)|An attacker can trigger a Cross Site Scripting of pfSense, via WebGUI, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/pfSense-Cross-Site-Scripting-via-WebGUI-40577" class="noirorange"><b>pfSense</b>: Cross Site Scripting via WebGUI</a>](https://vigilance.fr/vulnerability/pfSense-Cross-Site-Scripting-via-WebGUI-40577)|An attacker can trigger a Cross Site Scripting of pfSense, via WebGUI, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/pfSense-Cross-Site-Scripting-via-WebGUI-40576" class="noirorange"><b>pfSense</b>: Cross Site Scripting via WebGUI</a>](https://vigilance.fr/vulnerability/pfSense-Cross-Site-Scripting-via-WebGUI-40576)|An attacker can trigger a Cross Site Scripting of pfSense, via WebGUI, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ClamAV-information-disclosure-via-DMG-File-Parser-40575" class="noirorange"><b>ClamAV</b>: information disclosure via DMG File Parser</a>](https://vigilance.fr/vulnerability/ClamAV-information-disclosure-via-DMG-File-Parser-40575)|An attacker can bypass access restrictions to data of ClamAV, via DMG File Parser, in order to read sensitive information...|Visit link for details|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-010: Severe Vulnerabilities in Citrix Workspace, Virtual Apps and Desktops](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On February 14, 2022, Citrix released Security Bulletins regarding severe vulnerabilities affecting its Citrix Workspace, Virtual Apps and Desktops. If exploited, these vulnerabilities could enable attackers to elevate their privileges and take control of the affected system, but they need local access to the target.|Thursday, February 16, 2023 11:00:00 AM CEST|
  
 
 # VulDB
@@ -74,13 +81,6 @@
  |[Vulnérabilité dans OwnCloud Android App](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0134/)|Une vulnérabilité a été découverte dans l'application Android Owncloud. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 16 février 2023|
  |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0133/)|De multiples vulnérabilités ont été corrigées dans |Publié le 15 février 2023|
  |[Multiples vulnérabilités dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0132/)|De multiples vulnérabilités ont été corrigées dans |Publié le 15 février 2023|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-010: Severe Vulnerabilities in Citrix Workspace, Virtual Apps and Desktops](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On February 14, 2022, Citrix released Security Bulletins regarding severe vulnerabilities affecting its Citrix Workspace, Virtual Apps and Desktops. If exploited, these vulnerabilities could enable attackers to elevate their privileges and take control of the affected system, but they need local access to the target.|Thursday, February 16, 2023 11:00:00 AM CEST|
  
 
 # MA-CERT
