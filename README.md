@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 16/02/2023 17:18:49 UTC
+ > Last Updated 16/02/2023 18:28:24 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,18 +29,19 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA Releases Fifteen Industrial Control Systems Advisories](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/16/cisa-releases-fifteen-industrial-control-systems-advisories)|<p>CISA released fifteen (15) Industrial Control Systems (ICS) advisories on February 16, 2023. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p>|Thursday, February 16, 2023|
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/16/cisa-adds-one-known-exploited-vulnerability-catalog)|<p>CISA has added one new vulnerability to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. This type of vulnerability is a frequent attack vector for malicious cyber actors and poses a significant risk to the federal enterprise. Note: To view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.</p>|Thursday, February 16, 2023|
  |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/16/cisco-releases-security-advisories-multiple-products)|<p>Cisco has released security advisories for vulnerabilities affecting multiple Cisco products. A remote attacker could exploit some of these vulnerabilities to take control of an affected system. For updates addressing lower severity vulnerabilities, see the <a href="https://tools.cisco.com/security/center/publicationListing.x">Cisco Security Advisories</a> page.</p>|Thursday, February 16, 2023|
  |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/14/adobe-releases-security-updates-multiple-products)|<p>Adobe has released security updates to address multiple vulnerabilities in Adobe software. An attacker can exploit these vulnerabilities to take control of an affected system.</p>|Tuesday, February 14, 2023|
  |[Mozilla Releases Security Updates for Firefox 110 and Firefox ESR](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/14/mozilla-releases-security-updates-firefox-110-and-firefox-esr)|<p>Mozilla has released security updates to address vulnerabilities in Firefox 110 and Firefox ESR. An attacker could exploit these vulnerabilities to take control of an affected system.</p>|Tuesday, February 14, 2023|
  |[Citrix Releases Security Updates for Workspace Apps, Virtual Apps and Desktops](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/14/citrix-releases-security-updates-workspace-apps-virtual-apps-and)|<p>Citrix has released security updates to address high-severity vulnerabilities (CVE-2023-24486, CVE-2023-24484, CVE-2023-24485, and CVE-2023-24483) in Citrix Workspace Apps, Virtual Apps and Desktops. A local user could exploit these vulnerabilities to take control of an affected system.</p>|Tuesday, February 14, 2023|
- |[CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/14/cisa-adds-four-known-exploited-vulnerabilities-catalog)|<p>CISA has added four new vulnerabilities to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. <strong>Note</strong>: To view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.</p>|Tuesday, February 14, 2023|
  
 
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Intel-Ethernet-Controllers-four-vulnerabilities-40585" class="noirorange"><b>Intel Ethernet Controllers</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Intel-Ethernet-Controllers-four-vulnerabilities-40585)|An attacker can use several vulnerabilities of Intel Ethernet Controllers...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Go-x-text-language-out-of-bounds-memory-reading-via-BCP-47-Language-Tag-Parsing-40584" class="noirorange"><b>Go x/text/language</b>: out-of-bounds memory reading via BCP 47 Language Tag Parsing</a>](https://vigilance.fr/vulnerability/Go-x-text-language-out-of-bounds-memory-reading-via-BCP-47-Language-Tag-Parsing-40584)|An attacker can force a read at an invalid memory address of Go x/text/language, via BCP 47 Language Tag Parsing, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-binder-alloc-c-40583" class="noirorange"><b>Linux kernel</b>: reuse after free via binder_alloc.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-binder-alloc-c-40583)|An attacker can force the reuse of a freed memory area of the Linux kernel, via binder_alloc.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/efs-utils-file-read-write-via-Mount-Helper-40582" class="noirorange"><b>efs-utils</b>: file read/write via Mount Helper</a>](https://vigilance.fr/vulnerability/efs-utils-file-read-write-via-Mount-Helper-40582)|An attacker can bypass access restrictions of efs-utils, via Mount Helper, in order to read or alter files...|Visit link for details|
@@ -51,13 +52,6 @@
  |[<a href="https://vigilance.fr/vulnerability/pfSense-Cross-Site-Scripting-via-WebGUI-40577" class="noirorange"><b>pfSense</b>: Cross Site Scripting via WebGUI</a>](https://vigilance.fr/vulnerability/pfSense-Cross-Site-Scripting-via-WebGUI-40577)|An attacker can trigger a Cross Site Scripting of pfSense, via WebGUI, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/pfSense-Cross-Site-Scripting-via-WebGUI-40576" class="noirorange"><b>pfSense</b>: Cross Site Scripting via WebGUI</a>](https://vigilance.fr/vulnerability/pfSense-Cross-Site-Scripting-via-WebGUI-40576)|An attacker can trigger a Cross Site Scripting of pfSense, via WebGUI, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ClamAV-information-disclosure-via-DMG-File-Parser-40575" class="noirorange"><b>ClamAV</b>: information disclosure via DMG File Parser</a>](https://vigilance.fr/vulnerability/ClamAV-information-disclosure-via-DMG-File-Parser-40575)|An attacker can bypass access restrictions to data of ClamAV, via DMG File Parser, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ClamAV-code-execution-via-HFS-File-Parser-40574" class="noirorange"><b>ClamAV</b>: code execution via HFS+ File Parser</a>](https://vigilance.fr/vulnerability/ClamAV-code-execution-via-HFS-File-Parser-40574)|An attacker can use a vulnerability of ClamAV, via HFS+ File Parser, in order to run code...|Visit link for details|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # EU-CERT
@@ -65,6 +59,12 @@
  |Title|Description|Date|
  |---|---|---|
  |[2023-010: Severe Vulnerabilities in Citrix Workspace, Virtual Apps and Desktops](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On February 14, 2022, Citrix released Security Bulletins regarding severe vulnerabilities affecting its Citrix Workspace, Virtual Apps and Desktops. If exploited, these vulnerabilities could enable attackers to elevate their privileges and take control of the affected system, but they need local access to the target.|Thursday, February 16, 2023 11:00:00 AM CEST|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # CERT-FR
@@ -95,8 +95,8 @@
  |[40321502/23 - Fin de support pour Microsoft Exchange Server 2013](https://www.dgssi.gov.ma//fr/content/4032150223-fin-de-support-pour-microsoft-exchange-server-2013.html)|Microsoftannonce la fin du support destiné à Microsoft Exchange Server 2013, et ce à partir du 11 Avril 2023.|15 février 2023|
  |[40261502/23 - « Zero-Day » affectant le navigateur Apple Safari](https://www.dgssi.gov.ma//fr/content/4026150223-zero-day-affectant-le-navigateur-apple-safari.html)|Apple annonce la correction d’une vulnérabilité critique affectant les versions susmentionnées de son navigateur Safari. Selon Apple cette vulnérabilité est activement exploitée et peut permettre à un attaquant distant d’exécuter du code...|15 février 2023|
  |[40251502/23 - Vulnérabilités affectantplusieurs produits de Citrix ](https://www.dgssi.gov.ma//fr/content/4025150223-vulnerabilites-affectant-plusieurs-produits-de-citrix.html)|Citrix annonce la correction de quatre vulnérabilités affectant ses produits susmentionnés.L’exploitation de ces vulnérabilités peut permettre à un utilisateurlocal de contourner les mesures de sécurité et accéder aux systèmes affectés.|15 février 2023|
- |[40301502/23 - Vulnérabilités dans les produits Microsoft Azure (Patch Tuesday Février 2023)](https://www.dgssi.gov.ma//fr/content/4030150223-vulnerabilites-dans-les-produits-microsoft-azure-patch-tuesday-fevrier-2023.html)|Plusieurs vulnérabilités ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges, d’exécuter du code arbitraire et de réussir une usurpation d’...|15 février 2023|
  |[40311502/23 - Vulnérabilités critiques dans plusieurs produits Microsoft(Patch Tuesday Février 202](https://www.dgssi.gov.ma//fr/content/4031150223-vulnerabilites-critiques-dans-plusieurs-produits-microsoft-patch-tuesday-fevrier-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, d’exécuter du...|15 février 2023|
+ |[40301502/23 - Vulnérabilités dans les produits Microsoft Azure (Patch Tuesday Février 2023)](https://www.dgssi.gov.ma//fr/content/4030150223-vulnerabilites-dans-les-produits-microsoft-azure-patch-tuesday-fevrier-2023.html)|Plusieurs vulnérabilités ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges, d’exécuter du code arbitraire et de réussir une usurpation d’...|15 février 2023|
  |[40291502/23 - Vulnérabilités dans Microsoft Exchange Server (Patch Tuesday Février 2023)](https://www.dgssi.gov.ma//fr/content/4029150223-vulnerabilites-dans-microsoft-exchange-server-patch-tuesday-fevrier-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées de Microsoft Exchange Server. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire.|15 février 2023|
  
 
