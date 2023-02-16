@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 16/02/2023 07:20:42 UTC
+ > Last Updated 16/02/2023 08:27:27 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -41,6 +41,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-binder-alloc-c-40583" class="noirorange"><b>Linux kernel</b>: reuse after free via binder_alloc.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-binder-alloc-c-40583)|An attacker can force the reuse of a freed memory area of the Linux kernel, via binder_alloc.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/efs-utils-file-read-write-via-Mount-Helper-40582" class="noirorange"><b>efs-utils</b>: file read/write via Mount Helper</a>](https://vigilance.fr/vulnerability/efs-utils-file-read-write-via-Mount-Helper-40582)|An attacker can bypass access restrictions of efs-utils, via Mount Helper, in order to read or alter files...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/pfSense-ingress-filtrering-bypass-via-Anti-brute-Force-40581" class="noirorange"><b>pfSense</b>: ingress filtrering bypass via Anti-brute Force</a>](https://vigilance.fr/vulnerability/pfSense-ingress-filtrering-bypass-via-Anti-brute-Force-40581)|An attacker can bypass filtering rules of pfSense, via Anti-brute Force, in order to send malicious data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/pfSense-code-execution-via-WebGUI-40580" class="noirorange"><b>pfSense</b>: code execution via WebGUI</a>](https://vigilance.fr/vulnerability/pfSense-code-execution-via-WebGUI-40580)|An attacker can use a vulnerability of pfSense, via WebGUI, in order to run code...|Visit link for details|
@@ -51,7 +52,12 @@
  |[<a href="https://vigilance.fr/vulnerability/ClamAV-information-disclosure-via-DMG-File-Parser-40575" class="noirorange"><b>ClamAV</b>: information disclosure via DMG File Parser</a>](https://vigilance.fr/vulnerability/ClamAV-information-disclosure-via-DMG-File-Parser-40575)|An attacker can bypass access restrictions to data of ClamAV, via DMG File Parser, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ClamAV-code-execution-via-HFS-File-Parser-40574" class="noirorange"><b>ClamAV</b>: code execution via HFS+ File Parser</a>](https://vigilance.fr/vulnerability/ClamAV-code-execution-via-HFS-File-Parser-40574)|An attacker can use a vulnerability of ClamAV, via HFS+ File Parser, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-ESA-Secure-Email-and-Web-Manager-two-vulnerabilities-40573" class="noirorange"><b>Cisco ESA  Secure Email and Web Manager</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Cisco-ESA-Secure-Email-and-Web-Manager-two-vulnerabilities-40573)|An attacker can use several vulnerabilities of Cisco ESA  Secure Email and Web Manager...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Nexus-Dashboard-Cross-Site-Scripting-via-Web-based-Management-Interface-40572" class="noirorange"><b>Cisco Nexus Dashboard</b>: Cross Site Scripting via Web-based Management Interface</a>](https://vigilance.fr/vulnerability/Cisco-Nexus-Dashboard-Cross-Site-Scripting-via-Web-based-Management-Interface-40572)|An attacker can trigger a Cross Site Scripting of Cisco Nexus Dashboard, via Web-based Management Interface, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # EU-CERT
@@ -59,12 +65,6 @@
  |Title|Description|Date|
  |---|---|---|
  |[2023-008: Vulnerability in OpenSSH](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|The development team of the OpenSSH suite has released the version 9.2 to address several security vulnerabilities, including a memory safety bug in the OpenSSH server (|Wednesday, February 08, 2023 06:20:00 PM CEST|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # CERT-FR
@@ -90,11 +90,11 @@
  |[40321502/23 - Fin de support pour Microsoft Exchange Server 2013](https://www.dgssi.gov.ma//fr/content/4032150223-fin-de-support-pour-microsoft-exchange-server-2013.html)|Microsoftannonce la fin du support destiné à Microsoft Exchange Server 2013, et ce à partir du 11 Avril 2023.|15 février 2023|
  |[40261502/23 - « Zero-Day » affectant le navigateur Apple Safari](https://www.dgssi.gov.ma//fr/content/4026150223-zero-day-affectant-le-navigateur-apple-safari.html)|Apple annonce la correction d’une vulnérabilité critique affectant les versions susmentionnées de son navigateur Safari. Selon Apple cette vulnérabilité est activement exploitée et peut permettre à un attaquant distant d’exécuter du code...|15 février 2023|
  |[40251502/23 - Vulnérabilités affectantplusieurs produits de Citrix ](https://www.dgssi.gov.ma//fr/content/4025150223-vulnerabilites-affectant-plusieurs-produits-de-citrix.html)|Citrix annonce la correction de quatre vulnérabilités affectant ses produits susmentionnés.L’exploitation de ces vulnérabilités peut permettre à un utilisateurlocal de contourner les mesures de sécurité et accéder aux systèmes affectés.|15 février 2023|
- |[40311502/23 - Vulnérabilités critiques dans plusieurs produits Microsoft(Patch Tuesday Février 202](https://www.dgssi.gov.ma//fr/content/4031150223-vulnerabilites-critiques-dans-plusieurs-produits-microsoft-patch-tuesday-fevrier-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, d’exécuter du...|15 février 2023|
  |[40301502/23 - Vulnérabilités dans les produits Microsoft Azure (Patch Tuesday Février 2023)](https://www.dgssi.gov.ma//fr/content/4030150223-vulnerabilites-dans-les-produits-microsoft-azure-patch-tuesday-fevrier-2023.html)|Plusieurs vulnérabilités ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges, d’exécuter du code arbitraire et de réussir une usurpation d’...|15 février 2023|
+ |[40311502/23 - Vulnérabilités critiques dans plusieurs produits Microsoft(Patch Tuesday Février 202](https://www.dgssi.gov.ma//fr/content/4031150223-vulnerabilites-critiques-dans-plusieurs-produits-microsoft-patch-tuesday-fevrier-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, d’exécuter du...|15 février 2023|
  |[40291502/23 - Vulnérabilités dans Microsoft Exchange Server (Patch Tuesday Février 2023)](https://www.dgssi.gov.ma//fr/content/4029150223-vulnerabilites-dans-microsoft-exchange-server-patch-tuesday-fevrier-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées de Microsoft Exchange Server. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire.|15 février 2023|
- |[40281502/23 - Vulnérabilités critiques dans Microsoft Windows (Patch Tuesday Février 2023)](https://www.dgssi.gov.ma//fr/content/4028150223-vulnerabilites-critiques-dans-microsoft-windows-patch-tuesday-fevrier-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques dans lessystèmes d’exploitation Windows susmentionnés. Selon Microsoft deux de ces vulnérabilités identifiées par «CVE-2023-23376 et CVE-2023-21823 » sont des « Zero-...|15 février 2023|
  |[40241502/23 - Vulnérabilités affectantle navigateur Mozilla Firefox](https://www.dgssi.gov.ma//fr/content/4024150223-vulnerabilites-affectant-le-navigateur-mozilla-firefox.html)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de cesvulnérabilités peut permettre à un...|15 février 2023|
+ |[40281502/23 - Vulnérabilités critiques dans Microsoft Windows (Patch Tuesday Février 2023)](https://www.dgssi.gov.ma//fr/content/4028150223-vulnerabilites-critiques-dans-microsoft-windows-patch-tuesday-fevrier-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques dans lessystèmes d’exploitation Windows susmentionnés. Selon Microsoft deux de ces vulnérabilités identifiées par «CVE-2023-23376 et CVE-2023-21823 » sont des « Zero-...|15 février 2023|
  |[40271502/23 - Vulnérabilités critiques dans Microsoft Office (Patch Tuesday Février 2023)](https://www.dgssi.gov.ma//fr/content/4027150223-vulnerabilites-critiques-dans-microsoft-office-patch-tuesday-fevrier-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les versions susmentionnées des produits Microsoft Office. Selon Microsoft, une de ces vulnérabilités identifiée par «CVE-2023-21715» est un « Zero-day » et...|15 février 2023|
  |[40231502/23 - Vulnérabilités affectant plusieurs produits d’Adobe](https://www.dgssi.gov.ma//fr/content/4023150223-vulnerabilites-affectant-plusieurs-produits-d-adobe.html)|Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuterdu code arbitraire, de...|15 février 2023|
  |[40221402/23 - « Zero-Day » affectant iOS, iPadOS et macOS](https://www.dgssi.gov.ma//fr/content/4022140223-zero-day-affectant-ios-ipados-et-macos.html)|Apple annonce la correction de trois vulnérabilités affectant ses produits susmentionnés. Selon Apple une de ces vulnérabilités identifiée par « CVE-2023-23529» est un « Zero-day » et peut permettre à un attaquant d’exécuter du code...|14 février 2023|
