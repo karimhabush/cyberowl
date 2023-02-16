@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 15/02/2023 23:23:58 UTC
+ > Last Updated 16/02/2023 01:45:22 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -60,13 +60,6 @@
  |---|---|---|
  
 
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-008: Vulnerability in OpenSSH](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|The development team of the OpenSSH suite has released the version 9.2 to address several security vulnerabilities, including a memory safety bug in the OpenSSH server (|Wednesday, February 08, 2023 06:20:00 PM CEST|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -81,6 +74,13 @@
  |[[SCADA] Multiples vulnérabilités dans les produits Schneider Electric](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0126/)|De multiples vulnérabilités ont été découvertes dans les produits Schneider Electric. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 15 février 2023|
  |[Multiples vulnérabilités dans les produits SAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0125/)|De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 15 février 2023|
  |[Multiples vulnérabilités dans Mozilla Firefox](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0124/)|De multiples vulnérabilités ont été corrigées dans|Publié le 15 février 2023|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-008: Vulnerability in OpenSSH](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|The development team of the OpenSSH suite has released the version 9.2 to address several security vulnerabilities, including a memory safety bug in the OpenSSH server (|Wednesday, February 08, 2023 06:20:00 PM CEST|
  
 
 # MA-CERT
