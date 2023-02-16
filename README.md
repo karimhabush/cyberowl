@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 16/02/2023 01:45:22 UTC
+ > Last Updated 16/02/2023 02:52:46 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -60,6 +60,13 @@
  |---|---|---|
  
 
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-008: Vulnerability in OpenSSH](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|The development team of the OpenSSH suite has released the version 9.2 to address several security vulnerabilities, including a memory safety bug in the OpenSSH server (|Wednesday, February 08, 2023 06:20:00 PM CEST|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
@@ -74,13 +81,6 @@
  |[[SCADA] Multiples vulnérabilités dans les produits Schneider Electric](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0126/)|De multiples vulnérabilités ont été découvertes dans les produits Schneider Electric. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 15 février 2023|
  |[Multiples vulnérabilités dans les produits SAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0125/)|De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 15 février 2023|
  |[Multiples vulnérabilités dans Mozilla Firefox](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0124/)|De multiples vulnérabilités ont été corrigées dans|Publié le 15 février 2023|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-008: Vulnerability in OpenSSH](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|The development team of the OpenSSH suite has released the version 9.2 to address several security vulnerabilities, including a memory safety bug in the OpenSSH server (|Wednesday, February 08, 2023 06:20:00 PM CEST|
  
 
 # MA-CERT
@@ -104,6 +104,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Git Multiple Vulnerabilities](/security-bulletin/git-multiple-vulnerabilities_20230216)|Multiple vulnerabilities were identified in Git. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation and sensitive information disclosure on the targeted system.|Release Date: 16 Feb 2023|
+ |[Splunk Products Multiple Vulnerabilities](/security-bulletin/splunk-products-multiple-vulnerabilities_20230216)|Multiple vulnerabilities were identified in Splunk Products. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, data manipulation and cross-site scripting on the targeted system.|Release Date: 16 Feb 2023|
  |[Adobe Monthly Security Update (February 2023)](/security-bulletin/adobe-monthly-security-update-february-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe After Effects Medium RiskInformation DisclosureRemote Code Execution APSB23-02Adobe Connect Medium RiskSecurity...|Release Date: 15 Feb 2023|
  |[Microsoft Monthly Security Update (February 2023)](/security-bulletin/microsoft-monthly-security-update-february-2023)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesSQL Server Medium RiskRemote Code ExecutionSpoofing Windows Extremely High RiskRemote Code ExecutionElevation of PrivilegeDenial of Service...|Release Date: 15 Feb 2023|
  |[Mozilla Firefox Multiple Vulnerabilities](/security-bulletin/mozilla-firefox-multiple-vulnerabilities_20230215)|Multiple vulnerabilities were identified in Mozilla Firefox. A remote attacker could exploit some of these vulnerabilities to trigger spoofing, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 15 Feb 2023|
@@ -112,6 +114,4 @@
  |[Microsoft Edge Multiple Vulnerabilities](/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230210)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, privilege escalation,  security restriction bypass, denial of service and sensitive information disclosure on the targeted system.|Release Date: 10 Feb 2023|
  |[OpenSSL Multiple Vulnerabilities](/security-bulletin/openssl-multiple-vulnerabilities_20230209)|Multiple vulnerabilities were identified in OpenSSL. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 9 Feb 2023|
  |[Google Chrome Multiple Vulnerabilities](/security-bulletin/google-chrome-multiple-vulnerabilities_20230208)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, privilege escalation,  security restriction bypass, denial of service and sensitive information disclosure on the targeted system.|Release Date: 8 Feb 2023|
- |[SUSE Linux Kernel Multiple Vulnerabilities](/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230207)|Multiple vulnerabilities were identified in SUSE Linux. A attacker could exploit some of these vulnerabilities to trigger denial of service condition and elevation of privilege on the targeted system. [Updated on 2023-02-08] Updated System / Technologies affected, Solutions, Vulnerability Identifier and...| Release Date: 7 Feb 2023 |
- |[IBM MQ Denial of Service Vulnerability](/security-bulletin/ibm-mq-denial-of-service-vulnerability_20230207)|A vulnerability has been identified in IBM MQ. A remote user can exploit this vulnerability to trigger denial of service condition on the targeted system.|Release Date: 7 Feb 2023|
  
