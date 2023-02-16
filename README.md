@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 16/02/2023 05:21:16 UTC
+ > Last Updated 16/02/2023 06:27:02 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -54,12 +54,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Cisco-Nexus-Dashboard-Cross-Site-Scripting-via-Web-based-Management-Interface-40572" class="noirorange"><b>Cisco Nexus Dashboard</b>: Cross Site Scripting via Web-based Management Interface</a>](https://vigilance.fr/vulnerability/Cisco-Nexus-Dashboard-Cross-Site-Scripting-via-Web-based-Management-Interface-40572)|An attacker can trigger a Cross Site Scripting of Cisco Nexus Dashboard, via Web-based Management Interface, in order to run JavaScript code in the context of the web site...|Visit link for details|
  
 
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -81,6 +75,12 @@
  |[[SCADA] Multiples vulnérabilités dans les produits Schneider Electric](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0126/)|De multiples vulnérabilités ont été découvertes dans les produits Schneider Electric. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 15 février 2023|
  |[Multiples vulnérabilités dans les produits SAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0125/)|De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 15 février 2023|
  |[Multiples vulnérabilités dans Mozilla Firefox](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0124/)|De multiples vulnérabilités ont été corrigées dans|Publié le 15 février 2023|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # HK-CERT
