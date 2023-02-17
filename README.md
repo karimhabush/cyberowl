@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 17/02/2023 08:28:41 UTC
+ > Last Updated 17/02/2023 09:21:59 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -60,6 +60,13 @@
  |---|---|---|
  
 
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-010: Severe Vulnerabilities in Citrix Workspace, Virtual Apps and Desktops](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On February 14, 2022, Citrix released Security Bulletins regarding severe vulnerabilities affecting its Citrix Workspace, Virtual Apps and Desktops. If exploited, these vulnerabilities could enable attackers to elevate their privileges and take control of the affected system, but they need local access to the target.|Thursday, February 16, 2023 11:00:00 AM CEST|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
@@ -74,13 +81,6 @@
  |[Vulnérabilité dans OwnCloud Android App](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0134/)|Une vulnérabilité a été découverte dans l'application Android Owncloud. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 16 février 2023|
  |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0133/)|De multiples vulnérabilités ont été corrigées dans |Publié le 15 février 2023|
  |[Multiples vulnérabilités dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0132/)|De multiples vulnérabilités ont été corrigées dans |Publié le 15 février 2023|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-010: Severe Vulnerabilities in Citrix Workspace, Virtual Apps and Desktops](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On February 14, 2022, Citrix released Security Bulletins regarding severe vulnerabilities affecting its Citrix Workspace, Virtual Apps and Desktops. If exploited, these vulnerabilities could enable attackers to elevate their privileges and take control of the affected system, but they need local access to the target.|Thursday, February 16, 2023 11:00:00 AM CEST|
  
 
 # MA-CERT
