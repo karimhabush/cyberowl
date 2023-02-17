@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 17/02/2023 16:29:37 UTC
+ > Last Updated 17/02/2023 17:20:07 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -71,16 +71,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0148/)|De multiples vulnérabilités ont été corrigées dans |Publié le 17 février 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0147/)|De multiples vulnérabilités ont été corrigées dans |Publié le 17 février 2023|
+ |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0146/)|De multiples vulnérabilités ont été corrigées dans |Publié le 17 février 2023|
+ |[Vulnérabilité dans Elastic Kibana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0145/)|Une vulnérabilité a été corrigée dans |Publié le 17 février 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0144/)|De multiples vulnérabilités ont été corrigées dans |Publié le 17 février 2023|
+ |[Vulnérabilité dans Joomla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0143/)|Une vulnérabilité a été corrigée dans |Publié le 17 février 2023|
+ |[Multiples vulnérabilités dans les produits Splunk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0142/)|De multiples vulnérabilités ont été corrigées dans |Publié le 17 février 2023|
  |[Multiples vulnérabilités dans IBM QRadar Advisor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0141/)|De multiples vulnérabilités ont été corrigées dans |Publié le 16 février 2023|
  |[Multiples vulnérabilités dans les produits ClamAV](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0140/)|De multiples vulnérabilités ont été corrigées dans |Publié le 16 février 2023|
  |[Multiples vulnérabilités dans Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0139/)|De multiples vulnérabilités ont été corrigées dans |Publié le 16 février 2023|
- |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0138/)|De multiples vulnérabilités ont été corrigées dans |Publié le 16 février 2023|
- |[Multiples vulnérabilités dans les produits SolarWinds](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0137/)|De multiples vulnérabilités ont été corrigées dans les produits |Publié le 16 février 2023|
- |[Vulnérabilité dans les produits Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0136/)|Une vulnérabilité a été corrigée dans |Publié le 16 février 2023|
- |[Multiples vulnérabilités dans PHP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0135/)|De multiples vulnérabilités ont été corrigées dans |Publié le 16 février 2023|
- |[Vulnérabilité dans OwnCloud Android App](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0134/)|Une vulnérabilité a été découverte dans l'application Android Owncloud. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 16 février 2023|
- |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0133/)|De multiples vulnérabilités ont été corrigées dans |Publié le 15 février 2023|
- |[Multiples vulnérabilités dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0132/)|De multiples vulnérabilités ont été corrigées dans |Publié le 15 février 2023|
  
 
 # MA-CERT
@@ -97,7 +97,7 @@
  |[40321502/23 - Fin de support pour Microsoft Exchange Server 2013](https://www.dgssi.gov.ma//fr/content/4032150223-fin-de-support-pour-microsoft-exchange-server-2013.html)|Microsoftannonce la fin du support destiné à Microsoft Exchange Server 2013, et ce à partir du 11 Avril 2023.|15 février 2023|
  |[40261502/23 - « Zero-Day » affectant le navigateur Apple Safari](https://www.dgssi.gov.ma//fr/content/4026150223-zero-day-affectant-le-navigateur-apple-safari.html)|Apple annonce la correction d’une vulnérabilité critique affectant les versions susmentionnées de son navigateur Safari. Selon Apple cette vulnérabilité est activement exploitée et peut permettre à un attaquant distant d’exécuter du code...|15 février 2023|
  |[40251502/23 - Vulnérabilités affectantplusieurs produits de Citrix ](https://www.dgssi.gov.ma//fr/content/4025150223-vulnerabilites-affectant-plusieurs-produits-de-citrix.html)|Citrix annonce la correction de quatre vulnérabilités affectant ses produits susmentionnés.L’exploitation de ces vulnérabilités peut permettre à un utilisateurlocal de contourner les mesures de sécurité et accéder aux systèmes affectés.|15 février 2023|
- |[40301502/23 - Vulnérabilités dans les produits Microsoft Azure (Patch Tuesday Février 2023)](https://www.dgssi.gov.ma//fr/content/4030150223-vulnerabilites-dans-les-produits-microsoft-azure-patch-tuesday-fevrier-2023.html)|Plusieurs vulnérabilités ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges, d’exécuter du code arbitraire et de réussir une usurpation d’...|15 février 2023|
+ |[40311502/23 - Vulnérabilités critiques dans plusieurs produits Microsoft(Patch Tuesday Février 202](https://www.dgssi.gov.ma//fr/content/4031150223-vulnerabilites-critiques-dans-plusieurs-produits-microsoft-patch-tuesday-fevrier-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, d’exécuter du...|15 février 2023|
  
 
 # HK-CERT
