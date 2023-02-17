@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 17/02/2023 02:56:04 UTC
+ > Last Updated 17/02/2023 03:27:43 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -54,17 +54,17 @@
  |[<a href="https://vigilance.fr/vulnerability/Go-x-text-language-out-of-bounds-memory-reading-via-BCP-47-Language-Tag-Parsing-40584" class="noirorange"><b>Go x/text/language</b>: out-of-bounds memory reading via BCP 47 Language Tag Parsing</a>](https://vigilance.fr/vulnerability/Go-x-text-language-out-of-bounds-memory-reading-via-BCP-47-Language-Tag-Parsing-40584)|An attacker can force a read at an invalid memory address of Go x/text/language, via BCP 47 Language Tag Parsing, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  
 
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
  |---|---|---|
  |[2023-010: Severe Vulnerabilities in Citrix Workspace, Virtual Apps and Desktops](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On February 14, 2022, Citrix released Security Bulletins regarding severe vulnerabilities affecting its Citrix Workspace, Virtual Apps and Desktops. If exploited, these vulnerabilities could enable attackers to elevate their privileges and take control of the affected system, but they need local access to the target.|Thursday, February 16, 2023 11:00:00 AM CEST|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # CERT-FR
