@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 17/02/2023 19:17:44 UTC
+ > Last Updated 17/02/2023 20:22:06 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,12 +29,12 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Mozilla Releases Security Updates for Thunderbird 102.8](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/17/mozilla-releases-security-updates-thunderbird-1028)|<p>Mozilla has released security updates to address vulnerabilities in Thunderbird 102.8. An attacker could exploit some of these vulnerabilities to take control of an affected system.</p>|Friday, February 17, 2023|
  |[CISA Releases Fifteen Industrial Control Systems Advisories](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/16/cisa-releases-fifteen-industrial-control-systems-advisories)|<p>CISA released fifteen (15) Industrial Control Systems (ICS) advisories on February 16, 2023. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p>|Thursday, February 16, 2023|
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/16/cisa-adds-one-known-exploited-vulnerability-catalog)|<p>CISA has added one new vulnerability to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. This type of vulnerability is a frequent attack vector for malicious cyber actors and poses a significant risk to the federal enterprise. Note: To view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.</p>|Thursday, February 16, 2023|
  |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/16/cisco-releases-security-advisories-multiple-products)|<p>Cisco has released security advisories for vulnerabilities affecting multiple Cisco products. A remote attacker could exploit some of these vulnerabilities to take control of an affected system. For updates addressing lower severity vulnerabilities, see the <a href="https://tools.cisco.com/security/center/publicationListing.x">Cisco Security Advisories</a> page.</p>|Thursday, February 16, 2023|
  |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/14/adobe-releases-security-updates-multiple-products)|<p>Adobe has released security updates to address multiple vulnerabilities in Adobe software. An attacker can exploit these vulnerabilities to take control of an affected system.</p>|Tuesday, February 14, 2023|
  |[Mozilla Releases Security Updates for Firefox 110 and Firefox ESR](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/14/mozilla-releases-security-updates-firefox-110-and-firefox-esr)|<p>Mozilla has released security updates to address vulnerabilities in Firefox 110 and Firefox ESR. An attacker could exploit these vulnerabilities to take control of an affected system.</p>|Tuesday, February 14, 2023|
+ |[Citrix Releases Security Updates for Workspace Apps, Virtual Apps and Desktops](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/14/citrix-releases-security-updates-workspace-apps-virtual-apps-and)|<p>Citrix has released security updates to address high-severity vulnerabilities (CVE-2023-24486, CVE-2023-24484, CVE-2023-24485, and CVE-2023-24483) in Citrix Workspace Apps, Virtual Apps and Desktops. A local user could exploit these vulnerabilities to take control of an affected system.</p>|Tuesday, February 14, 2023|
  
 
 # OBS-Vigilance
