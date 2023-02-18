@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 18/02/2023 05:20:10 UTC
+ > Last Updated 18/02/2023 06:25:20 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -37,6 +37,22 @@
  |[Citrix Releases Security Updates for Workspace Apps, Virtual Apps and Desktops](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/14/citrix-releases-security-updates-workspace-apps-virtual-apps-and)|<p>Citrix has released security updates to address high-severity vulnerabilities (CVE-2023-24486, CVE-2023-24484, CVE-2023-24485, and CVE-2023-24483) in Citrix Workspace Apps, Virtual Apps and Desktops. A local user could exploit these vulnerabilities to take control of an affected system.</p>|Tuesday, February 14, 2023|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0148/)|De multiples vulnérabilités ont été corrigées dans |Publié le 17 février 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0147/)|De multiples vulnérabilités ont été corrigées dans |Publié le 17 février 2023|
+ |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0146/)|De multiples vulnérabilités ont été corrigées dans |Publié le 17 février 2023|
+ |[Vulnérabilité dans Elastic Kibana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0145/)|Une vulnérabilité a été corrigée dans |Publié le 17 février 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0144/)|De multiples vulnérabilités ont été corrigées dans |Publié le 17 février 2023|
+ |[Vulnérabilité dans Joomla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0143/)|Une vulnérabilité a été corrigée dans |Publié le 17 février 2023|
+ |[Multiples vulnérabilités dans les produits Splunk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0142/)|De multiples vulnérabilités ont été corrigées dans |Publié le 17 février 2023|
+ |[Multiples vulnérabilités dans IBM QRadar Advisor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0141/)|De multiples vulnérabilités ont été corrigées dans |Publié le 16 février 2023|
+ |[Multiples vulnérabilités dans les produits ClamAV](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0140/)|De multiples vulnérabilités ont été corrigées dans |Publié le 16 février 2023|
+ |[Multiples vulnérabilités dans Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0139/)|De multiples vulnérabilités ont été corrigées dans |Publié le 16 février 2023|
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -54,35 +70,6 @@
  |[<a href="https://vigilance.fr/vulnerability/FortiOS-FortiGate-information-disclosure-via-Private-Keys-40587" class="noirorange"><b>FortiOS  FortiGate</b>: information disclosure via Private Keys</a>](https://vigilance.fr/vulnerability/FortiOS-FortiGate-information-disclosure-via-Private-Keys-40587)|An attacker can bypass access restrictions to data of FortiOS  FortiGate, via Private Keys, in order to read sensitive information...|Visit link for details|
  
 
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-010: Severe Vulnerabilities in Citrix Workspace, Virtual Apps and Desktops](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On February 14, 2022, Citrix released Security Bulletins regarding severe vulnerabilities affecting its Citrix Workspace, Virtual Apps and Desktops. If exploited, these vulnerabilities could enable attackers to elevate their privileges and take control of the affected system, but they need local access to the target.|Thursday, February 16, 2023 11:00:00 AM CEST|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0148/)|De multiples vulnérabilités ont été corrigées dans |Publié le 17 février 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0147/)|De multiples vulnérabilités ont été corrigées dans |Publié le 17 février 2023|
- |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0146/)|De multiples vulnérabilités ont été corrigées dans |Publié le 17 février 2023|
- |[Vulnérabilité dans Elastic Kibana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0145/)|Une vulnérabilité a été corrigée dans |Publié le 17 février 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0144/)|De multiples vulnérabilités ont été corrigées dans |Publié le 17 février 2023|
- |[Vulnérabilité dans Joomla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0143/)|Une vulnérabilité a été corrigée dans |Publié le 17 février 2023|
- |[Multiples vulnérabilités dans les produits Splunk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0142/)|De multiples vulnérabilités ont été corrigées dans |Publié le 17 février 2023|
- |[Multiples vulnérabilités dans IBM QRadar Advisor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0141/)|De multiples vulnérabilités ont été corrigées dans |Publié le 16 février 2023|
- |[Multiples vulnérabilités dans les produits ClamAV](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0140/)|De multiples vulnérabilités ont été corrigées dans |Publié le 16 février 2023|
- |[Multiples vulnérabilités dans Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0139/)|De multiples vulnérabilités ont été corrigées dans |Publié le 16 février 2023|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -98,6 +85,19 @@
  |[40261502/23 - « Zero-Day » affectant le navigateur Apple Safari](https://www.dgssi.gov.ma//fr/content/4026150223-zero-day-affectant-le-navigateur-apple-safari.html)|Apple annonce la correction d’une vulnérabilité critique affectant les versions susmentionnées de son navigateur Safari. Selon Apple cette vulnérabilité est activement exploitée et peut permettre à un attaquant distant d’exécuter du code...|15 février 2023|
  |[40251502/23 - Vulnérabilités affectantplusieurs produits de Citrix ](https://www.dgssi.gov.ma//fr/content/4025150223-vulnerabilites-affectant-plusieurs-produits-de-citrix.html)|Citrix annonce la correction de quatre vulnérabilités affectant ses produits susmentionnés.L’exploitation de ces vulnérabilités peut permettre à un utilisateurlocal de contourner les mesures de sécurité et accéder aux systèmes affectés.|15 février 2023|
  |[40311502/23 - Vulnérabilités critiques dans plusieurs produits Microsoft(Patch Tuesday Février 202](https://www.dgssi.gov.ma//fr/content/4031150223-vulnerabilites-critiques-dans-plusieurs-produits-microsoft-patch-tuesday-fevrier-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, d’exécuter du...|15 février 2023|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-010: Severe Vulnerabilities in Citrix Workspace, Virtual Apps and Desktops](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On February 14, 2022, Citrix released Security Bulletins regarding severe vulnerabilities affecting its Citrix Workspace, Virtual Apps and Desktops. If exploited, these vulnerabilities could enable attackers to elevate their privileges and take control of the affected system, but they need local access to the target.|Thursday, February 16, 2023 11:00:00 AM CEST|
  
 
 # HK-CERT
