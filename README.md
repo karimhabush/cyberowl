@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 18/02/2023 10:20:24 UTC
+ > Last Updated 18/02/2023 11:18:58 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -54,6 +54,12 @@
  |[<a href="https://vigilance.fr/vulnerability/FortiOS-FortiGate-information-disclosure-via-Private-Keys-40587" class="noirorange"><b>FortiOS  FortiGate</b>: information disclosure via Private Keys</a>](https://vigilance.fr/vulnerability/FortiOS-FortiGate-information-disclosure-via-Private-Keys-40587)|An attacker can bypass access restrictions to data of FortiOS  FortiGate, via Private Keys, in order to read sensitive information...|Visit link for details|
  
 
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -75,12 +81,6 @@
  |[Multiples vulnérabilités dans IBM QRadar Advisor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0141/)|De multiples vulnérabilités ont été corrigées dans |Publié le 16 février 2023|
  |[Multiples vulnérabilités dans les produits ClamAV](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0140/)|De multiples vulnérabilités ont été corrigées dans |Publié le 16 février 2023|
  |[Multiples vulnérabilités dans Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0139/)|De multiples vulnérabilités ont été corrigées dans |Publié le 16 février 2023|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # MA-CERT
