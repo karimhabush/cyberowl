@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 19/02/2023 13:25:48 UTC
+ > Last Updated 19/02/2023 14:18:06 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -37,12 +37,6 @@
  |[Citrix Releases Security Updates for Workspace Apps, Virtual Apps and Desktops](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/14/citrix-releases-security-updates-workspace-apps-virtual-apps-and)|<p>Citrix has released security updates to address high-severity vulnerabilities (CVE-2023-24486, CVE-2023-24484, CVE-2023-24485, and CVE-2023-24483) in Citrix Workspace Apps, Virtual Apps and Desktops. A local user could exploit these vulnerabilities to take control of an affected system.</p>|Tuesday, February 14, 2023|
  
 
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -58,6 +52,12 @@
  |[<a href="https://vigilance.fr/vulnerability/FortiOS-FortiProxy-weak-encryption-via-DHCP-DNS-Keys-Encryption-40589" class="noirorange"><b>FortiOS  FortiProxy</b>: weak encryption via DHCP / DNS Keys Encryption</a>](https://vigilance.fr/vulnerability/FortiOS-FortiProxy-weak-encryption-via-DHCP-DNS-Keys-Encryption-40589)|An attacker can access data on FortiOS  FortiProxy, via DHCP / DNS Keys Encryption, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FortiOS-FortiWeb-weak-encryption-via-Cookie-Encryption-40588" class="noirorange"><b>FortiOS  FortiWeb</b>: weak encryption via Cookie Encryption</a>](https://vigilance.fr/vulnerability/FortiOS-FortiWeb-weak-encryption-via-Cookie-Encryption-40588)|An attacker can access data on FortiOS  FortiWeb, via Cookie Encryption, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FortiOS-FortiGate-information-disclosure-via-Private-Keys-40587" class="noirorange"><b>FortiOS  FortiGate</b>: information disclosure via Private Keys</a>](https://vigilance.fr/vulnerability/FortiOS-FortiGate-information-disclosure-via-Private-Keys-40587)|An attacker can bypass access restrictions to data of FortiOS  FortiGate, via Private Keys, in order to read sensitive information...|Visit link for details|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # CERT-FR
@@ -97,7 +97,7 @@
  |[40321502/23 - Fin de support pour Microsoft Exchange Server 2013](https://www.dgssi.gov.ma//fr/content/4032150223-fin-de-support-pour-microsoft-exchange-server-2013.html)|Microsoftannonce la fin du support destiné à Microsoft Exchange Server 2013, et ce à partir du 11 Avril 2023.|15 février 2023|
  |[40261502/23 - « Zero-Day » affectant le navigateur Apple Safari](https://www.dgssi.gov.ma//fr/content/4026150223-zero-day-affectant-le-navigateur-apple-safari.html)|Apple annonce la correction d’une vulnérabilité critique affectant les versions susmentionnées de son navigateur Safari. Selon Apple cette vulnérabilité est activement exploitée et peut permettre à un attaquant distant d’exécuter du code...|15 février 2023|
  |[40251502/23 - Vulnérabilités affectantplusieurs produits de Citrix ](https://www.dgssi.gov.ma//fr/content/4025150223-vulnerabilites-affectant-plusieurs-produits-de-citrix.html)|Citrix annonce la correction de quatre vulnérabilités affectant ses produits susmentionnés.L’exploitation de ces vulnérabilités peut permettre à un utilisateurlocal de contourner les mesures de sécurité et accéder aux systèmes affectés.|15 février 2023|
- |[40311502/23 - Vulnérabilités critiques dans plusieurs produits Microsoft(Patch Tuesday Février 202](https://www.dgssi.gov.ma//fr/content/4031150223-vulnerabilites-critiques-dans-plusieurs-produits-microsoft-patch-tuesday-fevrier-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, d’exécuter du...|15 février 2023|
+ |[40301502/23 - Vulnérabilités dans les produits Microsoft Azure (Patch Tuesday Février 2023)](https://www.dgssi.gov.ma//fr/content/4030150223-vulnerabilites-dans-les-produits-microsoft-azure-patch-tuesday-fevrier-2023.html)|Plusieurs vulnérabilités ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges, d’exécuter du code arbitraire et de réussir une usurpation d’...|15 février 2023|
  
 
 # HK-CERT
