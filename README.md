@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 19/02/2023 08:25:12 UTC
+ > Last Updated 19/02/2023 09:20:28 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -54,17 +54,17 @@
  |[<a href="https://vigilance.fr/vulnerability/FortiOS-FortiGate-information-disclosure-via-Private-Keys-40587" class="noirorange"><b>FortiOS  FortiGate</b>: information disclosure via Private Keys</a>](https://vigilance.fr/vulnerability/FortiOS-FortiGate-information-disclosure-via-Private-Keys-40587)|An attacker can bypass access restrictions to data of FortiOS  FortiGate, via Private Keys, in order to read sensitive information...|Visit link for details|
  
 
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
  |---|---|---|
  |[2023-010: Severe Vulnerabilities in Citrix Workspace, Virtual Apps and Desktops](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On February 14, 2022, Citrix released Security Bulletins regarding severe vulnerabilities affecting its Citrix Workspace, Virtual Apps and Desktops. If exploited, these vulnerabilities could enable attackers to elevate their privileges and take control of the affected system, but they need local access to the target.|Thursday, February 16, 2023 11:00:00 AM CEST|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # CERT-FR
