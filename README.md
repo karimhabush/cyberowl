@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 20/02/2023 08:28:41 UTC
+ > Last Updated 20/02/2023 09:23:19 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -41,6 +41,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-io-uring-timens-install-40602" class="noirorange"><b>Linux kernel</b>: memory reading via io_uring timens_install</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-io-uring-timens-install-40602)|An attacker can read a memory fragment of the Linux kernel, via io_uring timens_install, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/gssntlmssp-multiple-vulnerabilities-40600" class="noirorange"><b>gssntlmssp</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/gssntlmssp-multiple-vulnerabilities-40600)|An attacker can use several vulnerabilities of gssntlmssp...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/c-ares-buffer-overflow-via-config-sortlist-40599" class="noirorange"><b>c-ares</b>: buffer overflow via config_sortlist()</a>](https://vigilance.fr/vulnerability/c-ares-buffer-overflow-via-config-sortlist-40599)|An attacker can trigger a buffer overflow of c-ares, via config_sortlist(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Ruby-Action-Dispatch-overload-via-If-None-Match-Regular-Expression-40598" class="noirorange"><b>Ruby Action Dispatch</b>: overload via If-None-Match Regular Expression</a>](https://vigilance.fr/vulnerability/Ruby-Action-Dispatch-overload-via-If-None-Match-Regular-Expression-40598)|An attacker can trigger an overload of Ruby Action Dispatch, via If-None-Match Regular Expression, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Ruby-Action-Dispatch-overload-via-Cookies-Regular-Expression-40597" class="noirorange"><b>Ruby Action Dispatch</b>: overload via Cookies Regular Expression</a>](https://vigilance.fr/vulnerability/Ruby-Action-Dispatch-overload-via-Cookies-Regular-Expression-40597)|An attacker can trigger an overload of Ruby Action Dispatch, via Cookies Regular Expression, in order to trigger a denial of service...|Visit link for details|
@@ -50,21 +52,12 @@
  |[<a href="https://vigilance.fr/vulnerability/FortiOS-FortiProxy-privilege-escalation-via-Own-Profile-40592" class="noirorange"><b>FortiOS  FortiProxy</b>: privilege escalation via Own Profile</a>](https://vigilance.fr/vulnerability/FortiOS-FortiProxy-privilege-escalation-via-Own-Profile-40592)|An attacker can bypass restrictions of FortiOS  FortiProxy, via Own Profile, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FortiOS-FortiProxy-Man-in-the-Middle-via-Threat-Feed-40591" class="noirorange"><b>FortiOS  FortiProxy</b>: Man-in-the-Middle via Threat Feed</a>](https://vigilance.fr/vulnerability/FortiOS-FortiProxy-Man-in-the-Middle-via-Threat-Feed-40591)|An attacker can act as a Man-in-the-Middle on FortiOS  FortiProxy, via Threat Feed, in order to read or write data in the session...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FortiOS-Cross-Site-Scripting-via-FortiCloud-Sign-in-Login-Page-40590" class="noirorange"><b>FortiOS</b>: Cross Site Scripting via FortiCloud Sign-in Login Page</a>](https://vigilance.fr/vulnerability/FortiOS-Cross-Site-Scripting-via-FortiCloud-Sign-in-Login-Page-40590)|An attacker can trigger a Cross Site Scripting of FortiOS, via FortiCloud Sign-in Login Page, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-FortiProxy-weak-encryption-via-DHCP-DNS-Keys-Encryption-40589" class="noirorange"><b>FortiOS  FortiProxy</b>: weak encryption via DHCP / DNS Keys Encryption</a>](https://vigilance.fr/vulnerability/FortiOS-FortiProxy-weak-encryption-via-DHCP-DNS-Keys-Encryption-40589)|An attacker can access data on FortiOS  FortiProxy, via DHCP / DNS Keys Encryption, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-FortiWeb-weak-encryption-via-Cookie-Encryption-40588" class="noirorange"><b>FortiOS  FortiWeb</b>: weak encryption via Cookie Encryption</a>](https://vigilance.fr/vulnerability/FortiOS-FortiWeb-weak-encryption-via-Cookie-Encryption-40588)|An attacker can access data on FortiOS  FortiWeb, via Cookie Encryption, in order to read sensitive information...|Visit link for details|
  
 
 # VulDB
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-010: Severe Vulnerabilities in Citrix Workspace, Virtual Apps and Desktops](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On February 14, 2022, Citrix released Security Bulletins regarding severe vulnerabilities affecting its Citrix Workspace, Virtual Apps and Desktops. If exploited, these vulnerabilities could enable attackers to elevate their privileges and take control of the affected system, but they need local access to the target.|Thursday, February 16, 2023 11:00:00 AM CEST|
  
 
 # CERT-FR
@@ -83,6 +76,30 @@
  |[Multiples vulnérabilités dans Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0139/)|De multiples vulnérabilités ont été corrigées dans |Publié le 16 février 2023|
  
 
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-010: Severe Vulnerabilities in Citrix Workspace, Virtual Apps and Desktops](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On February 14, 2022, Citrix released Security Bulletins regarding severe vulnerabilities affecting its Citrix Workspace, Virtual Apps and Desktops. If exploited, these vulnerabilities could enable attackers to elevate their privileges and take control of the affected system, but they need local access to the target.|Thursday, February 16, 2023 11:00:00 AM CEST|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[40422002/23 - Vulnérabilités critiques dans les produits Fortinet](https://www.dgssi.gov.ma//fr/content/4042200223-vulnerabilites-critiques-dans-les-produits-fortinet.html)|Fortinet a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités critiques affectant les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à un attaquant de réussir une...|20 février 2023|
+ |[30402002/23 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/3040200223-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant son client de messagerie Mozilla Thunderbird. L’exploitation de ces vulnérabilités peut permettre à un...|20 février 2023|
+ |[40391702/23 - Vulnérabilités dans PHP](https://www.dgssi.gov.ma//fr/content/4039170223-vulnerabilites-dans-php.html)|Plusieurs vulnérabilités ont été corrigées dans PHP. L’exploitation de ces vulnérabilités peut permettre à un attaquant de contourner la politique de sécurité et de provoquer un déni de service à distance.|17 février 2023|
+ |[40381702/23 - Vulnérabilités dans les produits SolarWinds](https://www.dgssi.gov.ma//fr/content/4038170223-vulnerabilites-dans-les-produits-solarwinds.html)|Plusieurs vulnérabilités ont été corrigées dans les produits SolarWinds susmentionnés. L'exploitation de ces failles pourrait permettre à un attaquant d’exécuter du code arbitraire à dis-tance et de contourner la politique de sécurité.|17 février 2023|
+ |[40371602/23 - Vulnérabilités corrigées dansGitLab](https://www.dgssi.gov.ma//fr/content/4037160223-vulnerabilites-corrigees-dans-gitlab.html)|GitLab annonce la disponibilité de mises à jour permettant de corriger deux vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuter du code arbitraire ou d’...|16 février 2023|
+ |[40361602/23 - Vulnérabilités affectant plusieursproduits deCisco](https://www.dgssi.gov.ma//fr/content/4036160223-vulnerabilites-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’accéder à des informations...|16 février 2023|
+ |[40351602/23 - Vulnérabilités critiques dans les produits Splunk](https://www.dgssi.gov.ma//fr/content/4035160223-vulnerabilites-critiques-dans-les-produits-splunk.html)|Splunk a publié une mise à jour de sécurité corrigeant plusieurs vulnérabilités critiques dans les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire, de contourner la...|16 février 2023|
+ |[40341602/23 - Vulnérabilités dansles produits Intel](https://www.dgssi.gov.ma//fr/content/4034160223-vulnerabilites-dans-les-produits-intel.html)|Intel a publié une mise à jour de sécurité corrigeant plusieurs vulnérabilités recensées dans les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de porter atteinte à la confidentialité de données...|16 février 2023|
+ |[40331602/23 - Vulnérabilités affectant plusieursproduits SAP](https://www.dgssi.gov.ma//fr/content/4033160223-vulnerabilites-affectant-plusieurs-produits-sap.html)|SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuterdu code arbitraire,...|16 février 2023|
+ |[40321502/23 - Fin de support pour Microsoft Exchange Server 2013](https://www.dgssi.gov.ma//fr/content/4032150223-fin-de-support-pour-microsoft-exchange-server-2013.html)|Microsoftannonce la fin du support destiné à Microsoft Exchange Server 2013, et ce à partir du 11 Avril 2023.|15 février 2023|
+ |[40261502/23 - « Zero-Day » affectant le navigateur Apple Safari](https://www.dgssi.gov.ma//fr/content/4026150223-zero-day-affectant-le-navigateur-apple-safari.html)|Apple annonce la correction d’une vulnérabilité critique affectant les versions susmentionnées de son navigateur Safari. Selon Apple cette vulnérabilité est activement exploitée et peut permettre à un attaquant distant d’exécuter du code...|15 février 2023|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -97,21 +114,4 @@
  |[Adobe Monthly Security Update (February 2023)](/security-bulletin/adobe-monthly-security-update-february-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe After Effects Medium RiskInformation DisclosureRemote Code Execution APSB23-02Adobe Connect Medium RiskSecurity...|Release Date: 15 Feb 2023|
  |[Microsoft Monthly Security Update (February 2023)](/security-bulletin/microsoft-monthly-security-update-february-2023)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesSQL Server Medium RiskRemote Code ExecutionSpoofing Windows Extremely High RiskRemote Code ExecutionElevation of PrivilegeDenial of Service...|Release Date: 15 Feb 2023|
  |[Mozilla Firefox Multiple Vulnerabilities](/security-bulletin/mozilla-firefox-multiple-vulnerabilities_20230215)|Multiple vulnerabilities were identified in Mozilla Firefox. A remote attacker could exploit some of these vulnerabilities to trigger spoofing, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 15 Feb 2023|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[40391702/23 - Vulnérabilités dans PHP](https://www.dgssi.gov.ma//fr/content/4039170223-vulnerabilites-dans-php.html)|Plusieurs vulnérabilités ont été corrigées dans PHP. L’exploitation de ces vulnérabilités peut permettre à un attaquant de contourner la politique de sécurité et de provoquer un déni de service à distance.|17 février 2023|
- |[40381702/23 - Vulnérabilités dans les produits SolarWinds](https://www.dgssi.gov.ma//fr/content/4038170223-vulnerabilites-dans-les-produits-solarwinds.html)|Plusieurs vulnérabilités ont été corrigées dans les produits SolarWinds susmentionnés. L'exploitation de ces failles pourrait permettre à un attaquant d’exécuter du code arbitraire à dis-tance et de contourner la politique de sécurité.|17 février 2023|
- |[40371602/23 - Vulnérabilités corrigées dansGitLab](https://www.dgssi.gov.ma//fr/content/4037160223-vulnerabilites-corrigees-dans-gitlab.html)|GitLab annonce la disponibilité de mises à jour permettant de corriger deux vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuter du code arbitraire ou d’...|16 février 2023|
- |[40361602/23 - Vulnérabilités affectant plusieursproduits deCisco](https://www.dgssi.gov.ma//fr/content/4036160223-vulnerabilites-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’accéder à des informations...|16 février 2023|
- |[40351602/23 - Vulnérabilités critiques dans les produits Splunk](https://www.dgssi.gov.ma//fr/content/4035160223-vulnerabilites-critiques-dans-les-produits-splunk.html)|Splunk a publié une mise à jour de sécurité corrigeant plusieurs vulnérabilités critiques dans les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire, de contourner la...|16 février 2023|
- |[40341602/23 - Vulnérabilités dansles produits Intel](https://www.dgssi.gov.ma//fr/content/4034160223-vulnerabilites-dans-les-produits-intel.html)|Intel a publié une mise à jour de sécurité corrigeant plusieurs vulnérabilités recensées dans les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de porter atteinte à la confidentialité de données...|16 février 2023|
- |[40331602/23 - Vulnérabilités affectant plusieursproduits SAP](https://www.dgssi.gov.ma//fr/content/4033160223-vulnerabilites-affectant-plusieurs-produits-sap.html)|SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuterdu code arbitraire,...|16 février 2023|
- |[40321502/23 - Fin de support pour Microsoft Exchange Server 2013](https://www.dgssi.gov.ma//fr/content/4032150223-fin-de-support-pour-microsoft-exchange-server-2013.html)|Microsoftannonce la fin du support destiné à Microsoft Exchange Server 2013, et ce à partir du 11 Avril 2023.|15 février 2023|
- |[40261502/23 - « Zero-Day » affectant le navigateur Apple Safari](https://www.dgssi.gov.ma//fr/content/4026150223-zero-day-affectant-le-navigateur-apple-safari.html)|Apple annonce la correction d’une vulnérabilité critique affectant les versions susmentionnées de son navigateur Safari. Selon Apple cette vulnérabilité est activement exploitée et peut permettre à un attaquant distant d’exécuter du code...|15 février 2023|
- |[40251502/23 - Vulnérabilités affectantplusieurs produits de Citrix ](https://www.dgssi.gov.ma//fr/content/4025150223-vulnerabilites-affectant-plusieurs-produits-de-citrix.html)|Citrix annonce la correction de quatre vulnérabilités affectant ses produits susmentionnés.L’exploitation de ces vulnérabilités peut permettre à un utilisateurlocal de contourner les mesures de sécurité et accéder aux systèmes affectés.|15 février 2023|
- |[40311502/23 - Vulnérabilités critiques dans plusieurs produits Microsoft(Patch Tuesday Février 202](https://www.dgssi.gov.ma//fr/content/4031150223-vulnerabilites-critiques-dans-plusieurs-produits-microsoft-patch-tuesday-fevrier-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, d’exécuter du...|15 février 2023|
  
