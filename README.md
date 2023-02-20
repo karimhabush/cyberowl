@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 20/02/2023 15:24:24 UTC
+ > Last Updated 20/02/2023 16:29:52 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -41,6 +41,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Geotools-SQL-injection-40603" class="noirorange"><b>Geotools</b>: SQL injection</a>](https://vigilance.fr/vulnerability/Geotools-SQL-injection-40603)|An attacker can use a SQL injection of Geotools, in order to read or alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-io-uring-timens-install-40602" class="noirorange"><b>Linux kernel</b>: memory reading via io_uring timens_install</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-io-uring-timens-install-40602)|An attacker can read a memory fragment of the Linux kernel, via io_uring timens_install, in order to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/gssntlmssp-multiple-vulnerabilities-40600" class="noirorange"><b>gssntlmssp</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/gssntlmssp-multiple-vulnerabilities-40600)|An attacker can use several vulnerabilities of gssntlmssp...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/c-ares-buffer-overflow-via-config-sortlist-40599" class="noirorange"><b>c-ares</b>: buffer overflow via config_sortlist()</a>](https://vigilance.fr/vulnerability/c-ares-buffer-overflow-via-config-sortlist-40599)|An attacker can trigger a buffer overflow of c-ares, via config_sortlist(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
@@ -51,7 +52,6 @@
  |[<a href="https://vigilance.fr/vulnerability/FortiOS-FortiProxy-header-injection-via-Login-Page-40593" class="noirorange"><b>FortiOS  FortiProxy</b>: header injection via Login Page</a>](https://vigilance.fr/vulnerability/FortiOS-FortiProxy-header-injection-via-Login-Page-40593)|An attacker can add new headers on FortiOS  FortiProxy, via Login Page, in order to alter the service behavior...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FortiOS-FortiProxy-privilege-escalation-via-Own-Profile-40592" class="noirorange"><b>FortiOS  FortiProxy</b>: privilege escalation via Own Profile</a>](https://vigilance.fr/vulnerability/FortiOS-FortiProxy-privilege-escalation-via-Own-Profile-40592)|An attacker can bypass restrictions of FortiOS  FortiProxy, via Own Profile, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FortiOS-FortiProxy-Man-in-the-Middle-via-Threat-Feed-40591" class="noirorange"><b>FortiOS  FortiProxy</b>: Man-in-the-Middle via Threat Feed</a>](https://vigilance.fr/vulnerability/FortiOS-FortiProxy-Man-in-the-Middle-via-Threat-Feed-40591)|An attacker can act as a Man-in-the-Middle on FortiOS  FortiProxy, via Threat Feed, in order to read or write data in the session...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-Cross-Site-Scripting-via-FortiCloud-Sign-in-Login-Page-40590" class="noirorange"><b>FortiOS</b>: Cross Site Scripting via FortiCloud Sign-in Login Page</a>](https://vigilance.fr/vulnerability/FortiOS-Cross-Site-Scripting-via-FortiCloud-Sign-in-Login-Page-40590)|An attacker can trigger a Cross Site Scripting of FortiOS, via FortiCloud Sign-in Login Page, in order to run JavaScript code in the context of the web site...|Visit link for details|
  
 
 # VulDB
