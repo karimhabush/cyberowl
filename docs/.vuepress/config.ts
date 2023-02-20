@@ -87,14 +87,14 @@ export default defineUserConfig({
 
   // use plugins
   plugins: [
-    searchPlugin({}),
+//     searchPlugin({}),
     googleAnalyticsPlugin({
       id: process.env.GA_ID ?? '',
     }),
-    // docsearchPlugin({
-    //   appId: 'JF3XXSIIVE',
-    //   apiKey: '4bf131e5a248c25baf276a394b7d18cd',
-    //   indexName: 'cyberowl',
-    // }),
+    docsearchPlugin({
+      appId: 'JF3XXSIIVE',
+      apiKey: '4bf131e5a248c25baf276a394b7d18cd',
+      indexName: 'cyberowl',
+    }),
   ],
 })
