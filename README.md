@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 20/02/2023 10:24:59 UTC
+ > Last Updated 20/02/2023 11:19:26 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -54,17 +54,17 @@
  |[<a href="https://vigilance.fr/vulnerability/FortiOS-Cross-Site-Scripting-via-FortiCloud-Sign-in-Login-Page-40590" class="noirorange"><b>FortiOS</b>: Cross Site Scripting via FortiCloud Sign-in Login Page</a>](https://vigilance.fr/vulnerability/FortiOS-Cross-Site-Scripting-via-FortiCloud-Sign-in-Login-Page-40590)|An attacker can trigger a Cross Site Scripting of FortiOS, via FortiCloud Sign-in Login Page, in order to run JavaScript code in the context of the web site...|Visit link for details|
  
 
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
  |---|---|---|
  |[2023-010: Severe Vulnerabilities in Citrix Workspace, Virtual Apps and Desktops](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On February 14, 2022, Citrix released Security Bulletins regarding severe vulnerabilities affecting its Citrix Workspace, Virtual Apps and Desktops. If exploited, these vulnerabilities could enable attackers to elevate their privileges and take control of the affected system, but they need local access to the target.|Thursday, February 16, 2023 11:00:00 AM CEST|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # CERT-FR
@@ -87,6 +87,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[40412002/2023 - Vulnérabilité affectant le CMS Joomla](https://www.dgssi.gov.ma//fr/content/404120022023-vulnerabilite-affectant-le-cms-joomla.html)|Joomla annonce la disponibilité d’une mise à jour qui corrige une vulnérabilité dans son CMS Joomla. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant de contourner les mesures de sécurité.|20 février 2023|
  |[40432002/23 - Vulnérabilité dans l'hyperviseur Xen](https://www.dgssi.gov.ma//fr/content/4043200223-vulnerabilite-dans-l-hyperviseur-xen.html)|Une vulnérabilité a été corrigée dans les versions d’hyperviseur Xen susmentionnées. L'exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité de données.|20 février 2023|
  |[40422002/23 - Vulnérabilités critiques dans les produits Fortinet](https://www.dgssi.gov.ma//fr/content/4042200223-vulnerabilites-critiques-dans-les-produits-fortinet.html)|Fortinet a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités critiques affectant les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à un attaquant de réussir une...|20 février 2023|
  |[30402002/23 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/3040200223-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant son client de messagerie Mozilla Thunderbird. L’exploitation de ces vulnérabilités peut permettre à un...|20 février 2023|
@@ -97,7 +98,6 @@
  |[40351602/23 - Vulnérabilités critiques dans les produits Splunk](https://www.dgssi.gov.ma//fr/content/4035160223-vulnerabilites-critiques-dans-les-produits-splunk.html)|Splunk a publié une mise à jour de sécurité corrigeant plusieurs vulnérabilités critiques dans les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire, de contourner la...|16 février 2023|
  |[40341602/23 - Vulnérabilités dansles produits Intel](https://www.dgssi.gov.ma//fr/content/4034160223-vulnerabilites-dans-les-produits-intel.html)|Intel a publié une mise à jour de sécurité corrigeant plusieurs vulnérabilités recensées dans les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de porter atteinte à la confidentialité de données...|16 février 2023|
  |[40331602/23 - Vulnérabilités affectant plusieursproduits SAP](https://www.dgssi.gov.ma//fr/content/4033160223-vulnerabilites-affectant-plusieurs-produits-sap.html)|SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuterdu code arbitraire,...|16 février 2023|
- |[40321502/23 - Fin de support pour Microsoft Exchange Server 2013](https://www.dgssi.gov.ma//fr/content/4032150223-fin-de-support-pour-microsoft-exchange-server-2013.html)|Microsoftannonce la fin du support destiné à Microsoft Exchange Server 2013, et ce à partir du 11 Avril 2023.|15 février 2023|
  
 
 # HK-CERT
