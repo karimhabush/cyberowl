@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 21/02/2023 09:22:33 UTC
+ > Last Updated 21/02/2023 10:23:59 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -54,10 +54,11 @@
  |[<a href="https://vigilance.fr/vulnerability/FortiOS-FortiProxy-header-injection-via-Login-Page-40593" class="noirorange"><b>FortiOS  FortiProxy</b>: header injection via Login Page</a>](https://vigilance.fr/vulnerability/FortiOS-FortiProxy-header-injection-via-Login-Page-40593)|An attacker can add new headers on FortiOS  FortiProxy, via Login Page, in order to alter the service behavior...|Visit link for details|
  
 
-# VulDB
+# EU-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[2023-013: Critical SQL injection vulnerabilities in MISP](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On February 20, 2023, the MISP project team released advisories regarding 2 critical SQL injection vulnerabilities in MISP Threat Intelligence and Sharing Platform. The team decided to follow a silent fix procedure, releasing several updates in November and December 2022, giving enough time to users to update their instances to a safe version.|Tuesday, February 21, 2023 11:15:00 AM CEST|
  
 
 # CERT-FR
@@ -76,11 +77,10 @@
  |[Multiples vulnérabilités dans Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0139/)|De multiples vulnérabilités ont été corrigées dans |Publié le 16 février 2023|
  
 
-# EU-CERT
+# VulDB
 
  |Title|Description|Date|
  |---|---|---|
- |[2023-012: RCE vulnerabilities in Fortinet products](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On February 16, 2023, Fortinet released advisories regarding critical vulnerabilities in FortiNAC and FortiWeb products that may allow unauthenticated attackers to perform remote arbitrary code or command execution.|Monday, February 20, 2023 03:40:00 PM CEST|
  
 
 # MA-CERT
