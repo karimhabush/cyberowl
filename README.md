@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 21/02/2023 17:19:56 UTC
+ > Last Updated 21/02/2023 18:27:34 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,12 +29,22 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/21/cisa-releases-two-industrial-control-systems-advisories)|<p>CISA released two (2) Industrial Control Systems (ICS) advisories on February 21, 2023. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p>|Tuesday, February 21, 2023|
- |[CISA Releases Fifteen Industrial Control Systems Advisories](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/16/cisa-releases-fifteen-industrial-control-systems-advisories)|<p>CISA released fifteen (15) Industrial Control Systems (ICS) advisories on February 16, 2023. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p>|Thursday, February 16, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/16/cisa-adds-one-known-exploited-vulnerability-catalog)|<p>CISA has added one new vulnerability to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">Known Exploited Vulnerabilities Catalog</a>, based on evidence of active exploitation. This type of vulnerability is a frequent attack vector for malicious cyber actors and poses a significant risk to the federal enterprise. Note: To view the newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column, which will sort by descending dates.</p>|Thursday, February 16, 2023|
- |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/16/cisco-releases-security-advisories-multiple-products)|<p>Cisco has released security advisories for vulnerabilities affecting multiple Cisco products. A remote attacker could exploit some of these vulnerabilities to take control of an affected system. For updates addressing lower severity vulnerabilities, see the <a href="https://tools.cisco.com/security/center/publicationListing.x">Cisco Security Advisories</a> page.</p>|Thursday, February 16, 2023|
- |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/14/adobe-releases-security-updates-multiple-products)|<p>Adobe has released security updates to address multiple vulnerabilities in Adobe software. An attacker can exploit these vulnerabilities to take control of an affected system.</p>|Tuesday, February 14, 2023|
- |[Mozilla Releases Security Updates for Firefox 110 and Firefox ESR](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/14/mozilla-releases-security-updates-firefox-110-and-firefox-esr)|<p>Mozilla has released security updates to address vulnerabilities in Firefox 110 and Firefox ESR. An attacker could exploit these vulnerabilities to take control of an affected system.</p>|Tuesday, February 14, 2023|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans Stormshield Network Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0153/)|De multiples vulnérabilités ont été corrigées dans Stormshield Network Security. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 21 février 2023|
+ |[Multiples vulnérabilités dans Foxit PDF Reader et Editor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0151/)|De multiples vulnérabilités ont été découvertes dans Foxit PDF Reader et Editor. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 21 février 2023|
+ |[Multiples vulnérabilités dans macOS Ventura](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0152/)|De multiples vulnérabilités ont été corrigées dans |Publié le 21 février 2023|
+ |[Vulnérabilité dans Apache Tomcat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0150/)|Une vulnérabilité a été découverte dans Apache Tomcat. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 21 février 2023|
+ |[Multiples vulnérabilités dans IBM WebSphere](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0149/)|De multiples vulnérabilités ont été corrigées dans |Publié le 21 février 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0148/)|De multiples vulnérabilités ont été corrigées dans |Publié le 17 février 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0147/)|De multiples vulnérabilités ont été corrigées dans |Publié le 17 février 2023|
+ |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0146/)|De multiples vulnérabilités ont été corrigées dans |Publié le 17 février 2023|
+ |[Vulnérabilité dans Elastic Kibana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0145/)|Une vulnérabilité a été corrigée dans |Publié le 17 février 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0144/)|De multiples vulnérabilités ont été corrigées dans |Publié le 17 février 2023|
  
 
 # OBS-Vigilance
@@ -54,33 +64,17 @@
  |[<a href="https://vigilance.fr/vulnerability/Ruby-Action-Dispatch-overload-via-Cookies-Regular-Expression-40597" class="noirorange"><b>Ruby Action Dispatch</b>: overload via Cookies Regular Expression</a>](https://vigilance.fr/vulnerability/Ruby-Action-Dispatch-overload-via-Cookies-Regular-Expression-40597)|An attacker can trigger an overload of Ruby Action Dispatch, via Cookies Regular Expression, in order to trigger a denial of service...|Visit link for details|
  
 
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-013: Critical SQL injection vulnerabilities in MISP](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On February 20, 2023, the MISP project team released advisories regarding 2 critical SQL injection vulnerabilities in MISP Threat Intelligence and Sharing Platform. The team decided to follow a silent fix procedure, releasing several updates in November and December 2022, giving enough time to users to update their instances to a safe version.|Tuesday, February 21, 2023 11:15:00 AM CEST|
- 
-
 # VulDB
 
  |Title|Description|Date|
  |---|---|---|
  
 
-# CERT-FR
+# EU-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans Stormshield Network Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0153/)|De multiples vulnérabilités ont été corrigées dans Stormshield Network Security. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 21 février 2023|
- |[Multiples vulnérabilités dans Foxit PDF Reader et Editor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0151/)|De multiples vulnérabilités ont été découvertes dans Foxit PDF Reader et Editor. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 21 février 2023|
- |[Multiples vulnérabilités dans macOS Ventura](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0152/)|De multiples vulnérabilités ont été corrigées dans |Publié le 21 février 2023|
- |[Vulnérabilité dans Apache Tomcat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0150/)|Une vulnérabilité a été découverte dans Apache Tomcat. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 21 février 2023|
- |[Multiples vulnérabilités dans IBM WebSphere](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0149/)|De multiples vulnérabilités ont été corrigées dans |Publié le 21 février 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0148/)|De multiples vulnérabilités ont été corrigées dans |Publié le 17 février 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0147/)|De multiples vulnérabilités ont été corrigées dans |Publié le 17 février 2023|
- |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0146/)|De multiples vulnérabilités ont été corrigées dans |Publié le 17 février 2023|
- |[Vulnérabilité dans Elastic Kibana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0145/)|Une vulnérabilité a été corrigée dans |Publié le 17 février 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0144/)|De multiples vulnérabilités ont été corrigées dans |Publié le 17 février 2023|
+ |[2023-013: Critical SQL injection vulnerabilities in MISP](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On February 20, 2023, the MISP project team released advisories regarding 2 critical SQL injection vulnerabilities in MISP Threat Intelligence and Sharing Platform. The team decided to follow a silent fix procedure, releasing several updates in November and December 2022, giving enough time to users to update their instances to a safe version.|Tuesday, February 21, 2023 11:15:00 AM CEST|
  
 
 # HK-CERT
@@ -103,15 +97,4 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[40412002/2023 - Vulnérabilité affectant le CMS Joomla](https://www.dgssi.gov.ma//fr/content/404120022023-vulnerabilite-affectant-le-cms-joomla.html)|Joomla annonce la disponibilité d’une mise à jour qui corrige une vulnérabilité dans son CMS Joomla. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant de contourner les mesures de sécurité.|20 février 2023|
- |[40432002/23 - Vulnérabilité dans l'hyperviseur Xen](https://www.dgssi.gov.ma//fr/content/4043200223-vulnerabilite-dans-l-hyperviseur-xen.html)|Une vulnérabilité a été corrigée dans les versions d’hyperviseur Xen susmentionnées. L'exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité de données.|20 février 2023|
- |[40422002/23 - Vulnérabilités critiques dans les produits Fortinet](https://www.dgssi.gov.ma//fr/content/4042200223-vulnerabilites-critiques-dans-les-produits-fortinet.html)|Fortinet a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités critiques affectant les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à un attaquant de réussir une...|20 février 2023|
- |[30402002/23 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/3040200223-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant son client de messagerie Mozilla Thunderbird. L’exploitation de ces vulnérabilités peut permettre à un...|20 février 2023|
- |[40391702/23 - Vulnérabilités dans PHP](https://www.dgssi.gov.ma//fr/content/4039170223-vulnerabilites-dans-php.html)|Plusieurs vulnérabilités ont été corrigées dans PHP. L’exploitation de ces vulnérabilités peut permettre à un attaquant de contourner la politique de sécurité et de provoquer un déni de service à distance.|17 février 2023|
- |[40381702/23 - Vulnérabilités dans les produits SolarWinds](https://www.dgssi.gov.ma//fr/content/4038170223-vulnerabilites-dans-les-produits-solarwinds.html)|Plusieurs vulnérabilités ont été corrigées dans les produits SolarWinds susmentionnés. L'exploitation de ces failles pourrait permettre à un attaquant d’exécuter du code arbitraire à dis-tance et de contourner la politique de sécurité.|17 février 2023|
- |[40371602/23 - Vulnérabilités corrigées dansGitLab](https://www.dgssi.gov.ma//fr/content/4037160223-vulnerabilites-corrigees-dans-gitlab.html)|GitLab annonce la disponibilité de mises à jour permettant de corriger deux vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuter du code arbitraire ou d’...|16 février 2023|
- |[40361602/23 - Vulnérabilités affectant plusieursproduits deCisco](https://www.dgssi.gov.ma//fr/content/4036160223-vulnerabilites-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’accéder à des informations...|16 février 2023|
- |[40351602/23 - Vulnérabilités critiques dans les produits Splunk](https://www.dgssi.gov.ma//fr/content/4035160223-vulnerabilites-critiques-dans-les-produits-splunk.html)|Splunk a publié une mise à jour de sécurité corrigeant plusieurs vulnérabilités critiques dans les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire, de contourner la...|16 février 2023|
- |[40341602/23 - Vulnérabilités dansles produits Intel](https://www.dgssi.gov.ma//fr/content/4034160223-vulnerabilites-dans-les-produits-intel.html)|Intel a publié une mise à jour de sécurité corrigeant plusieurs vulnérabilités recensées dans les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de porter atteinte à la confidentialité de données...|16 février 2023|
- |[40331602/23 - Vulnérabilités affectant plusieursproduits SAP](https://www.dgssi.gov.ma//fr/content/4033160223-vulnerabilites-affectant-plusieurs-produits-sap.html)|SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuterdu code arbitraire,...|16 février 2023|
  
