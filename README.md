@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 21/02/2023 07:22:18 UTC
+ > Last Updated 21/02/2023 08:27:27 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -41,6 +41,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-afu-mmio-region-get-by-offset-40605" class="noirorange"><b>Linux kernel</b>: integer overflow via afu_mmio_region_get_by_offset()</a>](https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-afu-mmio-region-get-by-offset-40605)|An attacker can trigger an integer overflow of the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-Commons-FileUpload-overload-via-Excessive-Parts-40604" class="noirorange"><b>Apache Commons FileUpload</b>: overload via Excessive Parts</a>](https://vigilance.fr/vulnerability/Apache-Commons-FileUpload-overload-via-Excessive-Parts-40604)|An attacker can trigger an overload of Apache Commons FileUpload, via Excessive Parts, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Geotools-SQL-injection-40603" class="noirorange"><b>Geotools</b>: SQL injection</a>](https://vigilance.fr/vulnerability/Geotools-SQL-injection-40603)|An attacker can use a SQL injection of Geotools, in order to read or alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-io-uring-timens-install-40602" class="noirorange"><b>Linux kernel</b>: memory reading via io_uring timens_install</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-io-uring-timens-install-40602)|An attacker can read a memory fragment of the Linux kernel, via io_uring timens_install, in order to obtain sensitive information...|Visit link for details|
@@ -51,7 +52,6 @@
  |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-code-execution-40595" class="noirorange"><b>WebKitGTK  WPE WebKit</b>: code execution</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-code-execution-40595)|An attacker can use a vulnerability of WebKitGTK  WPE WebKit, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FortiOS-FortiProxy-directory-traversal-40594" class="noirorange"><b>FortiOS  FortiProxy</b>: directory traversal</a>](https://vigilance.fr/vulnerability/FortiOS-FortiProxy-directory-traversal-40594)|An attacker can traverse directories of FortiOS  FortiProxy, in order to read or write a file outside the service root path...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FortiOS-FortiProxy-header-injection-via-Login-Page-40593" class="noirorange"><b>FortiOS  FortiProxy</b>: header injection via Login Page</a>](https://vigilance.fr/vulnerability/FortiOS-FortiProxy-header-injection-via-Login-Page-40593)|An attacker can add new headers on FortiOS  FortiProxy, via Login Page, in order to alter the service behavior...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-FortiProxy-privilege-escalation-via-Own-Profile-40592" class="noirorange"><b>FortiOS  FortiProxy</b>: privilege escalation via Own Profile</a>](https://vigilance.fr/vulnerability/FortiOS-FortiProxy-privilege-escalation-via-Own-Profile-40592)|An attacker can bypass restrictions of FortiOS  FortiProxy, via Own Profile, in order to escalate his privileges...|Visit link for details|
  
 
 # VulDB
@@ -76,11 +76,20 @@
  |[Multiples vulnérabilités dans Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0139/)|De multiples vulnérabilités ont été corrigées dans |Publié le 16 février 2023|
  
 
-# EU-CERT
+# HK-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[2023-012: RCE vulnerabilities in Fortinet products](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On February 16, 2023, Fortinet released advisories regarding critical vulnerabilities in FortiNAC and FortiWeb products that may allow unauthenticated attackers to perform remote arbitrary code or command execution.|Monday, February 20, 2023 03:40:00 PM CEST|
+ |[Fortinet Products Multiple Vulnerabilities](/security-bulletin/fortinet-products-multiple-vulnerabilities_20230220)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, denial of service, information disclosure, cross-site scripting and elevation of privilege on the targeted system.|Release Date: 20 Feb 2023|
+ |[Mozilla Thunderbird Multiple Vulnerabilities](/security-bulletin/mozilla-thunderbird-multiple-vulnerabilities_20230220)|Multiple vulnerabilities were identified in Mozilla Thunderbird. A remote attacker could exploit some of these vulnerabilities to trigger spoofing, remote code execution, sensitive information disclosure,  denial of service and security restriction bypass on the targeted system.|Release Date: 20 Feb 2023|
+ |[Node.js Multiple Vulnerabilities](/security-bulletin/node-js-multiple-vulnerabilities_20230220)|Multiple vulnerabilities have been identified in Node.js, a remote attacker can exploit these vulnerabilities to trigger remote code execution, security restriction bypass, elevation of privilege and denial of service on the targeted system.|Release Date: 20 Feb 2023|
+ |[Splunk Products Multiple Vulnerabilities](/security-bulletin/splunk-products-multiple-vulnerabilities_20230216)|Multiple vulnerabilities were identified in Splunk Products. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, data manipulation, denial of service, elevation of privilege, security restriction bypass and cross-site scripting on the targeted system. [Updated on 2023...| Release Date: 16 Feb 2023 |
+ |[Linux Kernel Multiple Vulnerabilities](/security-bulletin/linux-kernel-multiple-vulnerabilities_20230213)|Multiple vulnerabilities were identified in Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-02-15] Updated System...| Release Date: 13 Feb 2023 |
+ |[Cisco Products Multiple Vulnerabilities](/security-bulletin/cisco-products-multiple-vulnerabilities_20230217)|Multiple vulnerabilities were identified in Cisco Products. A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, data manipulation, remote code execution, denial of service and cross-site scripting on the targeted system. [Updated on 2023-02-...| Release Date: 17 Feb 2023 |
+ |[Git Multiple Vulnerabilities](/security-bulletin/git-multiple-vulnerabilities_20230216)|Multiple vulnerabilities were identified in Git. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation and sensitive information disclosure on the targeted system.|Release Date: 16 Feb 2023|
+ |[Adobe Monthly Security Update (February 2023)](/security-bulletin/adobe-monthly-security-update-february-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe After Effects Medium RiskInformation DisclosureRemote Code Execution APSB23-02Adobe Connect Medium RiskSecurity...|Release Date: 15 Feb 2023|
+ |[Microsoft Monthly Security Update (February 2023)](/security-bulletin/microsoft-monthly-security-update-february-2023)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesSQL Server Medium RiskRemote Code ExecutionSpoofing Windows Extremely High RiskRemote Code ExecutionElevation of PrivilegeDenial of Service...|Release Date: 15 Feb 2023|
+ |[Mozilla Firefox Multiple Vulnerabilities](/security-bulletin/mozilla-firefox-multiple-vulnerabilities_20230215)|Multiple vulnerabilities were identified in Mozilla Firefox. A remote attacker could exploit some of these vulnerabilities to trigger spoofing, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 15 Feb 2023|
  
 
 # MA-CERT
@@ -100,18 +109,9 @@
  |[40331602/23 - Vulnérabilités affectant plusieursproduits SAP](https://www.dgssi.gov.ma//fr/content/4033160223-vulnerabilites-affectant-plusieurs-produits-sap.html)|SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuterdu code arbitraire,...|16 février 2023|
  
 
-# HK-CERT
+# EU-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Fortinet Products Multiple Vulnerabilities](/security-bulletin/fortinet-products-multiple-vulnerabilities_20230220)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, denial of service, information disclosure, cross-site scripting and elevation of privilege on the targeted system.|Release Date: 20 Feb 2023|
- |[Mozilla Thunderbird Multiple Vulnerabilities](/security-bulletin/mozilla-thunderbird-multiple-vulnerabilities_20230220)|Multiple vulnerabilities were identified in Mozilla Thunderbird. A remote attacker could exploit some of these vulnerabilities to trigger spoofing, remote code execution, sensitive information disclosure,  denial of service and security restriction bypass on the targeted system.|Release Date: 20 Feb 2023|
- |[Node.js Multiple Vulnerabilities](/security-bulletin/node-js-multiple-vulnerabilities_20230220)|Multiple vulnerabilities have been identified in Node.js, a remote attacker can exploit these vulnerabilities to trigger remote code execution, security restriction bypass, elevation of privilege and denial of service on the targeted system.|Release Date: 20 Feb 2023|
- |[Splunk Products Multiple Vulnerabilities](/security-bulletin/splunk-products-multiple-vulnerabilities_20230216)|Multiple vulnerabilities were identified in Splunk Products. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, data manipulation, denial of service, elevation of privilege, security restriction bypass and cross-site scripting on the targeted system. [Updated on 2023...| Release Date: 16 Feb 2023 |
- |[Linux Kernel Multiple Vulnerabilities](/security-bulletin/linux-kernel-multiple-vulnerabilities_20230213)|Multiple vulnerabilities were identified in Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-02-15] Updated System...| Release Date: 13 Feb 2023 |
- |[Cisco Products Multiple Vulnerabilities](/security-bulletin/cisco-products-multiple-vulnerabilities_20230217)|Multiple vulnerabilities were identified in Cisco Products. A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, data manipulation, remote code execution, denial of service and cross-site scripting on the targeted system. [Updated on 2023-02-...| Release Date: 17 Feb 2023 |
- |[Git Multiple Vulnerabilities](/security-bulletin/git-multiple-vulnerabilities_20230216)|Multiple vulnerabilities were identified in Git. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation and sensitive information disclosure on the targeted system.|Release Date: 16 Feb 2023|
- |[Adobe Monthly Security Update (February 2023)](/security-bulletin/adobe-monthly-security-update-february-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe After Effects Medium RiskInformation DisclosureRemote Code Execution APSB23-02Adobe Connect Medium RiskSecurity...|Release Date: 15 Feb 2023|
- |[Microsoft Monthly Security Update (February 2023)](/security-bulletin/microsoft-monthly-security-update-february-2023)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesSQL Server Medium RiskRemote Code ExecutionSpoofing Windows Extremely High RiskRemote Code ExecutionElevation of PrivilegeDenial of Service...|Release Date: 15 Feb 2023|
- |[Mozilla Firefox Multiple Vulnerabilities](/security-bulletin/mozilla-firefox-multiple-vulnerabilities_20230215)|Multiple vulnerabilities were identified in Mozilla Firefox. A remote attacker could exploit some of these vulnerabilities to trigger spoofing, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 15 Feb 2023|
+ |[2023-012: RCE vulnerabilities in Fortinet products](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On February 16, 2023, Fortinet released advisories regarding critical vulnerabilities in FortiNAC and FortiWeb products that may allow unauthenticated attackers to perform remote arbitrary code or command execution.|Monday, February 20, 2023 03:40:00 PM CEST|
  
