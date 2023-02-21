@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 21/02/2023 10:23:59 UTC
+ > Last Updated 21/02/2023 11:18:54 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -61,6 +61,12 @@
  |[2023-013: Critical SQL injection vulnerabilities in MISP](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On February 20, 2023, the MISP project team released advisories regarding 2 critical SQL injection vulnerabilities in MISP Threat Intelligence and Sharing Platform. The team decided to follow a silent fix procedure, releasing several updates in November and December 2022, giving enough time to users to update their instances to a safe version.|Tuesday, February 21, 2023 11:15:00 AM CEST|
  
 
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
@@ -75,12 +81,6 @@
  |[Multiples vulnérabilités dans IBM QRadar Advisor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0141/)|De multiples vulnérabilités ont été corrigées dans |Publié le 16 février 2023|
  |[Multiples vulnérabilités dans les produits ClamAV](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0140/)|De multiples vulnérabilités ont été corrigées dans |Publié le 16 février 2023|
  |[Multiples vulnérabilités dans Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0139/)|De multiples vulnérabilités ont été corrigées dans |Publié le 16 février 2023|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # MA-CERT
