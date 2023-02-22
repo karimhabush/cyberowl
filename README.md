@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 22/02/2023 02:53:38 UTC
+ > Last Updated 22/02/2023 03:26:26 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -61,12 +61,6 @@
  |[2023-013: Critical SQL injection vulnerabilities in MISP](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On February 20, 2023, the MISP project team released advisories regarding 2 critical SQL injection vulnerabilities in MISP Threat Intelligence and Sharing Platform. The team decided to follow a silent fix procedure, releasing several updates in November and December 2022, giving enough time to users to update their instances to a safe version.|Tuesday, February 21, 2023 11:15:00 AM CEST|
  
 
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -114,4 +108,10 @@
  |[Linux Kernel Multiple Vulnerabilities](/security-bulletin/linux-kernel-multiple-vulnerabilities_20230213)|Multiple vulnerabilities were identified in Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-02-15] Updated System...| Release Date: 13 Feb 2023 |
  |[Cisco Products Multiple Vulnerabilities](/security-bulletin/cisco-products-multiple-vulnerabilities_20230217)|Multiple vulnerabilities were identified in Cisco Products. A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, data manipulation, remote code execution, denial of service and cross-site scripting on the targeted system. [Updated on 2023-02-...| Release Date: 17 Feb 2023 |
  |[Git Multiple Vulnerabilities](/security-bulletin/git-multiple-vulnerabilities_20230216)|Multiple vulnerabilities were identified in Git. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation and sensitive information disclosure on the targeted system.|Release Date: 16 Feb 2023|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
  
