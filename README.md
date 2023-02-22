@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 22/02/2023 03:26:26 UTC
+ > Last Updated 22/02/2023 04:28:29 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -52,6 +52,12 @@
  |[<a href="https://vigilance.fr/vulnerability/gssntlmssp-multiple-vulnerabilities-40600" class="noirorange"><b>gssntlmssp</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/gssntlmssp-multiple-vulnerabilities-40600)|An attacker can use several vulnerabilities of gssntlmssp...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/c-ares-buffer-overflow-via-config-sortlist-40599" class="noirorange"><b>c-ares</b>: buffer overflow via config_sortlist()</a>](https://vigilance.fr/vulnerability/c-ares-buffer-overflow-via-config-sortlist-40599)|An attacker can trigger a buffer overflow of c-ares, via config_sortlist(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Ruby-Action-Dispatch-overload-via-If-None-Match-Regular-Expression-40598" class="noirorange"><b>Ruby Action Dispatch</b>: overload via If-None-Match Regular Expression</a>](https://vigilance.fr/vulnerability/Ruby-Action-Dispatch-overload-via-If-None-Match-Regular-Expression-40598)|An attacker can trigger an overload of Ruby Action Dispatch, via If-None-Match Regular Expression, in order to trigger a denial of service...|Visit link for details|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # EU-CERT
@@ -108,10 +114,4 @@
  |[Linux Kernel Multiple Vulnerabilities](/security-bulletin/linux-kernel-multiple-vulnerabilities_20230213)|Multiple vulnerabilities were identified in Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-02-15] Updated System...| Release Date: 13 Feb 2023 |
  |[Cisco Products Multiple Vulnerabilities](/security-bulletin/cisco-products-multiple-vulnerabilities_20230217)|Multiple vulnerabilities were identified in Cisco Products. A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, data manipulation, remote code execution, denial of service and cross-site scripting on the targeted system. [Updated on 2023-02-...| Release Date: 17 Feb 2023 |
  |[Git Multiple Vulnerabilities](/security-bulletin/git-multiple-vulnerabilities_20230216)|Multiple vulnerabilities were identified in Git. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation and sensitive information disclosure on the targeted system.|Release Date: 16 Feb 2023|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
  
