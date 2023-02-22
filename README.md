@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 22/02/2023 09:26:25 UTC
+ > Last Updated 22/02/2023 10:24:55 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -37,6 +37,35 @@
  |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/14/adobe-releases-security-updates-multiple-products)|<p>Adobe has released security updates to address multiple vulnerabilities in Adobe software. An attacker can exploit these vulnerabilities to take control of an affected system.</p>|Tuesday, February 14, 2023|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans Stormshield Network Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0153/)|De multiples vulnérabilités ont été corrigées dans Stormshield Network Security. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 21 février 2023|
+ |[Multiples vulnérabilités dans Foxit PDF Reader et Editor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0151/)|De multiples vulnérabilités ont été découvertes dans Foxit PDF Reader et Editor. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 21 février 2023|
+ |[Multiples vulnérabilités dans macOS Ventura](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0152/)|De multiples vulnérabilités ont été corrigées dans |Publié le 21 février 2023|
+ |[Vulnérabilité dans Apache Tomcat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0150/)|Une vulnérabilité a été découverte dans Apache Tomcat. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 21 février 2023|
+ |[Multiples vulnérabilités dans IBM WebSphere](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0149/)|De multiples vulnérabilités ont été corrigées dans |Publié le 21 février 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0148/)|De multiples vulnérabilités ont été corrigées dans |Publié le 17 février 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0147/)|De multiples vulnérabilités ont été corrigées dans |Publié le 17 février 2023|
+ |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0146/)|De multiples vulnérabilités ont été corrigées dans |Publié le 17 février 2023|
+ |[Vulnérabilité dans Elastic Kibana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0145/)|Une vulnérabilité a été corrigée dans |Publié le 17 février 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0144/)|De multiples vulnérabilités ont été corrigées dans |Publié le 17 février 2023|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-013: Critical SQL injection vulnerabilities in MISP](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On February 20, 2023, the MISP project team released advisories regarding 2 critical SQL injection vulnerabilities in MISP Threat Intelligence and Sharing Platform. The team decided to follow a silent fix procedure, releasing several updates in November and December 2022, giving enough time to users to update their instances to a safe version.|Tuesday, February 21, 2023 11:15:00 AM CEST|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -52,35 +81,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Geotools-SQL-injection-via-OGC-Filter-40603" class="noirorange"><b>Geotools</b>: SQL injection via OGC Filter</a>](https://vigilance.fr/vulnerability/Geotools-SQL-injection-via-OGC-Filter-40603)|An attacker can use a SQL injection of Geotools, via OGC Filter, in order to read or alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-io-uring-timens-install-40602" class="noirorange"><b>Linux kernel</b>: memory reading via io_uring timens_install</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-io-uring-timens-install-40602)|An attacker can read a memory fragment of the Linux kernel, via io_uring timens_install, in order to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/gssntlmssp-multiple-vulnerabilities-40600" class="noirorange"><b>gssntlmssp</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/gssntlmssp-multiple-vulnerabilities-40600)|An attacker can use several vulnerabilities of gssntlmssp...|Visit link for details|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-013: Critical SQL injection vulnerabilities in MISP](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On February 20, 2023, the MISP project team released advisories regarding 2 critical SQL injection vulnerabilities in MISP Threat Intelligence and Sharing Platform. The team decided to follow a silent fix procedure, releasing several updates in November and December 2022, giving enough time to users to update their instances to a safe version.|Tuesday, February 21, 2023 11:15:00 AM CEST|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans Stormshield Network Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0153/)|De multiples vulnérabilités ont été corrigées dans Stormshield Network Security. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 21 février 2023|
- |[Multiples vulnérabilités dans Foxit PDF Reader et Editor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0151/)|De multiples vulnérabilités ont été découvertes dans Foxit PDF Reader et Editor. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 21 février 2023|
- |[Multiples vulnérabilités dans macOS Ventura](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0152/)|De multiples vulnérabilités ont été corrigées dans |Publié le 21 février 2023|
- |[Vulnérabilité dans Apache Tomcat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0150/)|Une vulnérabilité a été découverte dans Apache Tomcat. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 21 février 2023|
- |[Multiples vulnérabilités dans IBM WebSphere](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0149/)|De multiples vulnérabilités ont été corrigées dans |Publié le 21 février 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0148/)|De multiples vulnérabilités ont été corrigées dans |Publié le 17 février 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0147/)|De multiples vulnérabilités ont été corrigées dans |Publié le 17 février 2023|
- |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0146/)|De multiples vulnérabilités ont été corrigées dans |Publié le 17 février 2023|
- |[Vulnérabilité dans Elastic Kibana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0145/)|Une vulnérabilité a été corrigée dans |Publié le 17 février 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0144/)|De multiples vulnérabilités ont été corrigées dans |Publié le 17 février 2023|
  
 
 # MA-CERT
