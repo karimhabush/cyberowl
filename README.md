@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 21/02/2023 23:23:19 UTC
+ > Last Updated 22/02/2023 01:44:01 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -37,36 +37,6 @@
  |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/uscert/ncas/current-activity/2023/02/14/adobe-releases-security-updates-multiple-products)|<p>Adobe has released security updates to address multiple vulnerabilities in Adobe software. An attacker can exploit these vulnerabilities to take control of an affected system.</p>|Tuesday, February 14, 2023|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Apereo-CAS-privilege-escalation-via-REST-API-X-509-Credentials-40610" class="noirorange"><b>Apereo CAS</b>: privilege escalation via REST API X.509 Credentials</a>](https://vigilance.fr/vulnerability/Apereo-CAS-privilege-escalation-via-REST-API-X-509-Credentials-40610)|An attacker can bypass restrictions of Apereo CAS, via REST API X.509 Credentials, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Atlassian-Jira-Server-DC-information-disclosure-via-QueryCompenentRenderer-40608" class="noirorange"><b>Atlassian Jira Server/DC</b>: information disclosure via QueryCompenentRenderer</a>](https://vigilance.fr/vulnerability/Atlassian-Jira-Server-DC-information-disclosure-via-QueryCompenentRenderer-40608)|An attacker can bypass access restrictions to data of Atlassian Jira Server/DC, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-denial-of-service-via-SIP-Packet-Nating-40607" class="noirorange"><b>Stormshield Network Security</b>: denial of service via SIP Packet Nating</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-denial-of-service-via-SIP-Packet-Nating-40607)|An attacker can cause a fatal error of Stormshield Network Security, via SIP Packet Nating, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TYPO3-Forms-Export-Cross-Site-Scripting-40606" class="noirorange"><b>TYPO3 Forms Export</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/TYPO3-Forms-Export-Cross-Site-Scripting-40606)|An attacker can trigger a Cross Site Scripting of TYPO3 Forms Export, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-afu-mmio-region-get-by-offset-40605" class="noirorange"><b>Linux kernel</b>: integer overflow via afu_mmio_region_get_by_offset()</a>](https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-afu-mmio-region-get-by-offset-40605)|An attacker can trigger an integer overflow of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Commons-FileUpload-overload-via-Excessive-Parts-40604" class="noirorange"><b>Apache Commons FileUpload</b>: overload via Excessive Parts</a>](https://vigilance.fr/vulnerability/Apache-Commons-FileUpload-overload-via-Excessive-Parts-40604)|An attacker can trigger an overload of Apache Commons FileUpload, via Excessive Parts, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Geotools-SQL-injection-via-OGC-Filter-40603" class="noirorange"><b>Geotools</b>: SQL injection via OGC Filter</a>](https://vigilance.fr/vulnerability/Geotools-SQL-injection-via-OGC-Filter-40603)|An attacker can use a SQL injection of Geotools, via OGC Filter, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-io-uring-timens-install-40602" class="noirorange"><b>Linux kernel</b>: memory reading via io_uring timens_install</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-io-uring-timens-install-40602)|An attacker can read a memory fragment of the Linux kernel, via io_uring timens_install, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/gssntlmssp-multiple-vulnerabilities-40600" class="noirorange"><b>gssntlmssp</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/gssntlmssp-multiple-vulnerabilities-40600)|An attacker can use several vulnerabilities of gssntlmssp...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/c-ares-buffer-overflow-via-config-sortlist-40599" class="noirorange"><b>c-ares</b>: buffer overflow via config_sortlist()</a>](https://vigilance.fr/vulnerability/c-ares-buffer-overflow-via-config-sortlist-40599)|An attacker can trigger a buffer overflow of c-ares, via config_sortlist(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ruby-Action-Dispatch-overload-via-If-None-Match-Regular-Expression-40598" class="noirorange"><b>Ruby Action Dispatch</b>: overload via If-None-Match Regular Expression</a>](https://vigilance.fr/vulnerability/Ruby-Action-Dispatch-overload-via-If-None-Match-Regular-Expression-40598)|An attacker can trigger an overload of Ruby Action Dispatch, via If-None-Match Regular Expression, in order to trigger a denial of service...|Visit link for details|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-013: Critical SQL injection vulnerabilities in MISP](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On February 20, 2023, the MISP project team released advisories regarding 2 critical SQL injection vulnerabilities in MISP Threat Intelligence and Sharing Platform. The team decided to follow a silent fix procedure, releasing several updates in November and December 2022, giving enough time to users to update their instances to a safe version.|Tuesday, February 21, 2023 11:15:00 AM CEST|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -81,6 +51,19 @@
  |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0146/)|De multiples vulnérabilités ont été corrigées dans |Publié le 17 février 2023|
  |[Vulnérabilité dans Elastic Kibana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0145/)|Une vulnérabilité a été corrigée dans |Publié le 17 février 2023|
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0144/)|De multiples vulnérabilités ont été corrigées dans |Publié le 17 février 2023|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-013: Critical SQL injection vulnerabilities in MISP](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On February 20, 2023, the MISP project team released advisories regarding 2 critical SQL injection vulnerabilities in MISP Threat Intelligence and Sharing Platform. The team decided to follow a silent fix procedure, releasing several updates in November and December 2022, giving enough time to users to update their instances to a safe version.|Tuesday, February 21, 2023 11:15:00 AM CEST|
  
 
 # MA-CERT
@@ -98,6 +81,23 @@
  |[40351602/23 - Vulnérabilités critiques dans les produits Splunk](https://www.dgssi.gov.ma//fr/content/4035160223-vulnerabilites-critiques-dans-les-produits-splunk.html)|Splunk a publié une mise à jour de sécurité corrigeant plusieurs vulnérabilités critiques dans les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire, de contourner la...|16 février 2023|
  |[40341602/23 - Vulnérabilités dansles produits Intel](https://www.dgssi.gov.ma//fr/content/4034160223-vulnerabilites-dans-les-produits-intel.html)|Intel a publié une mise à jour de sécurité corrigeant plusieurs vulnérabilités recensées dans les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de porter atteinte à la confidentialité de données...|16 février 2023|
  |[40331602/23 - Vulnérabilités affectant plusieursproduits SAP](https://www.dgssi.gov.ma//fr/content/4033160223-vulnerabilites-affectant-plusieurs-produits-sap.html)|SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuterdu code arbitraire,...|16 février 2023|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Apereo-CAS-privilege-escalation-via-REST-API-X-509-Credentials-40610" class="noirorange"><b>Apereo CAS</b>: privilege escalation via REST API X.509 Credentials</a>](https://vigilance.fr/vulnerability/Apereo-CAS-privilege-escalation-via-REST-API-X-509-Credentials-40610)|An attacker can bypass restrictions of Apereo CAS, via REST API X.509 Credentials, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Atlassian-Jira-Server-DC-information-disclosure-via-QueryCompenentRenderer-40608" class="noirorange"><b>Atlassian Jira Server/DC</b>: information disclosure via QueryCompenentRenderer</a>](https://vigilance.fr/vulnerability/Atlassian-Jira-Server-DC-information-disclosure-via-QueryCompenentRenderer-40608)|An attacker can bypass access restrictions to data of Atlassian Jira Server/DC, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-denial-of-service-via-SIP-Packet-Nating-40607" class="noirorange"><b>Stormshield Network Security</b>: denial of service via SIP Packet Nating</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-denial-of-service-via-SIP-Packet-Nating-40607)|An attacker can cause a fatal error of Stormshield Network Security, via SIP Packet Nating, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TYPO3-Forms-Export-Cross-Site-Scripting-40606" class="noirorange"><b>TYPO3 Forms Export</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/TYPO3-Forms-Export-Cross-Site-Scripting-40606)|An attacker can trigger a Cross Site Scripting of TYPO3 Forms Export, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-afu-mmio-region-get-by-offset-40605" class="noirorange"><b>Linux kernel</b>: integer overflow via afu_mmio_region_get_by_offset()</a>](https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-afu-mmio-region-get-by-offset-40605)|An attacker can trigger an integer overflow of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Commons-FileUpload-overload-via-Excessive-Parts-40604" class="noirorange"><b>Apache Commons FileUpload</b>: overload via Excessive Parts</a>](https://vigilance.fr/vulnerability/Apache-Commons-FileUpload-overload-via-Excessive-Parts-40604)|An attacker can trigger an overload of Apache Commons FileUpload, via Excessive Parts, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Geotools-SQL-injection-via-OGC-Filter-40603" class="noirorange"><b>Geotools</b>: SQL injection via OGC Filter</a>](https://vigilance.fr/vulnerability/Geotools-SQL-injection-via-OGC-Filter-40603)|An attacker can use a SQL injection of Geotools, via OGC Filter, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-io-uring-timens-install-40602" class="noirorange"><b>Linux kernel</b>: memory reading via io_uring timens_install</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-io-uring-timens-install-40602)|An attacker can read a memory fragment of the Linux kernel, via io_uring timens_install, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/gssntlmssp-multiple-vulnerabilities-40600" class="noirorange"><b>gssntlmssp</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/gssntlmssp-multiple-vulnerabilities-40600)|An attacker can use several vulnerabilities of gssntlmssp...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/c-ares-buffer-overflow-via-config-sortlist-40599" class="noirorange"><b>c-ares</b>: buffer overflow via config_sortlist()</a>](https://vigilance.fr/vulnerability/c-ares-buffer-overflow-via-config-sortlist-40599)|An attacker can trigger a buffer overflow of c-ares, via config_sortlist(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ruby-Action-Dispatch-overload-via-If-None-Match-Regular-Expression-40598" class="noirorange"><b>Ruby Action Dispatch</b>: overload via If-None-Match Regular Expression</a>](https://vigilance.fr/vulnerability/Ruby-Action-Dispatch-overload-via-If-None-Match-Regular-Expression-40598)|An attacker can trigger an overload of Ruby Action Dispatch, via If-None-Match Regular Expression, in order to trigger a denial of service...|Visit link for details|
  
 
 # HK-CERT
