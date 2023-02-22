@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 22/02/2023 13:29:00 UTC
+ > Last Updated 22/02/2023 14:20:36 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -41,6 +41,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/podman-file-read-write-via-Export-Volume-40616" class="noirorange"><b>podman</b>: file read/write via Export Volume</a>](https://vigilance.fr/vulnerability/podman-file-read-write-via-Export-Volume-40616)|An attacker can bypass access restrictions of podman, via Export Volume, in order to read or alter files...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/scs-library-client-information-disclosure-via-HTTP-Authorization-Header-40615" class="noirorange"><b>scs-library-client</b>: information disclosure via HTTP Authorization Header</a>](https://vigilance.fr/vulnerability/scs-library-client-information-disclosure-via-HTTP-Authorization-Header-40615)|An attacker can bypass access restrictions to data of scs-library-client, via HTTP Authorization Header, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenImageIO-three-vulnerabilities-40614" class="noirorange"><b>OpenImageIO</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/OpenImageIO-three-vulnerabilities-40614)|An attacker can use several vulnerabilities of OpenImageIO...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-information-disclosure-via-Attachments-Names-40613" class="noirorange"><b>Atlassian Confluence Server/DC</b>: information disclosure via Attachments Names</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-information-disclosure-via-Attachments-Names-40613)|An attacker can bypass access restrictions to data of Atlassian Confluence Server/DC, via Attachments Names, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Amanda-privilege-escalation-via-lib-amanda-rundump-40612" class="noirorange"><b>Amanda</b>: privilege escalation via /lib/amanda/rundump</a>](https://vigilance.fr/vulnerability/Amanda-privilege-escalation-via-lib-amanda-rundump-40612)|An attacker can bypass restrictions of Amanda, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apereo-CAS-privilege-escalation-via-REST-API-X-509-Credentials-40610" class="noirorange"><b>Apereo CAS</b>: privilege escalation via REST API X.509 Credentials</a>](https://vigilance.fr/vulnerability/Apereo-CAS-privilege-escalation-via-REST-API-X-509-Credentials-40610)|An attacker can bypass restrictions of Apereo CAS, via REST API X.509 Credentials, in order to escalate his privileges...|Visit link for details|
@@ -49,22 +52,12 @@
  |[<a href="https://vigilance.fr/vulnerability/TYPO3-Forms-Export-Cross-Site-Scripting-40606" class="noirorange"><b>TYPO3 Forms Export</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/TYPO3-Forms-Export-Cross-Site-Scripting-40606)|An attacker can trigger a Cross Site Scripting of TYPO3 Forms Export, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-afu-mmio-region-get-by-offset-40605" class="noirorange"><b>Linux kernel</b>: integer overflow via afu_mmio_region_get_by_offset()</a>](https://vigilance.fr/vulnerability/Linux-kernel-integer-overflow-via-afu-mmio-region-get-by-offset-40605)|An attacker can trigger an integer overflow of the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-Commons-FileUpload-overload-via-Excessive-Parts-40604" class="noirorange"><b>Apache Commons FileUpload</b>: overload via Excessive Parts</a>](https://vigilance.fr/vulnerability/Apache-Commons-FileUpload-overload-via-Excessive-Parts-40604)|An attacker can trigger an overload of Apache Commons FileUpload, via Excessive Parts, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Geotools-SQL-injection-via-OGC-Filter-40603" class="noirorange"><b>Geotools</b>: SQL injection via OGC Filter</a>](https://vigilance.fr/vulnerability/Geotools-SQL-injection-via-OGC-Filter-40603)|An attacker can use a SQL injection of Geotools, via OGC Filter, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-io-uring-timens-install-40602" class="noirorange"><b>Linux kernel</b>: memory reading via io_uring timens_install</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-io-uring-timens-install-40602)|An attacker can read a memory fragment of the Linux kernel, via io_uring timens_install, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/gssntlmssp-multiple-vulnerabilities-40600" class="noirorange"><b>gssntlmssp</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/gssntlmssp-multiple-vulnerabilities-40600)|An attacker can use several vulnerabilities of gssntlmssp...|Visit link for details|
  
 
 # VulDB
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-013: Critical SQL injection vulnerabilities in MISP](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On February 20, 2023, the MISP project team released advisories regarding 2 critical SQL injection vulnerabilities in MISP Threat Intelligence and Sharing Platform. The team decided to follow a silent fix procedure, releasing several updates in November and December 2022, giving enough time to users to update their instances to a safe version.|Tuesday, February 21, 2023 11:15:00 AM CEST|
  
 
 # CERT-FR
@@ -83,20 +76,11 @@
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0144/)|De multiples vulnérabilités ont été corrigées dans |Publié le 17 février 2023|
  
 
-# HK-CERT
+# EU-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Apache Tomcat Denial of Service Vulnerability](/security-bulletin/apache-tomcat-denial-of-service-vulnerability_20230222)|A vulnerability has been identified in Apache Tomcat. A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system.|Release Date: 22 Feb 2023|
- |[VMWare Products Multiple Vulnerabilities](/security-bulletin/vmware-products-multiple-vulnerabilities_20230222)|Multiple vulnerabilities were identified in VMware Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, data manipulation, security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 22 Feb 2023|
- |[Apple Products Multiple Vulnerabilities](/security-bulletin/apple-products-multiple-vulnerabilities_20230214)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, elevation of privilege, remote code execution, sensitive information disclosure on the targeted system. Note:CVE-2023-23529 is being exploited in...| Release Date: 14 Feb 2023 |
- |[Fortinet Products Multiple Vulnerabilities](/security-bulletin/fortinet-products-multiple-vulnerabilities_20230220)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, denial of service, information disclosure, cross-site scripting and elevation of privilege on the targeted system.|Release Date: 20 Feb 2023|
- |[Mozilla Thunderbird Multiple Vulnerabilities](/security-bulletin/mozilla-thunderbird-multiple-vulnerabilities_20230220)|Multiple vulnerabilities were identified in Mozilla Thunderbird. A remote attacker could exploit some of these vulnerabilities to trigger spoofing, remote code execution, sensitive information disclosure,  denial of service and security restriction bypass on the targeted system.|Release Date: 20 Feb 2023|
- |[Node.js Multiple Vulnerabilities](/security-bulletin/node-js-multiple-vulnerabilities_20230220)|Multiple vulnerabilities have been identified in Node.js, a remote attacker can exploit these vulnerabilities to trigger remote code execution, security restriction bypass, elevation of privilege and denial of service on the targeted system.|Release Date: 20 Feb 2023|
- |[Splunk Products Multiple Vulnerabilities](/security-bulletin/splunk-products-multiple-vulnerabilities_20230216)|Multiple vulnerabilities were identified in Splunk Products. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, data manipulation, denial of service, elevation of privilege, security restriction bypass and cross-site scripting on the targeted system. [Updated on 2023...| Release Date: 16 Feb 2023 |
- |[Linux Kernel Multiple Vulnerabilities](/security-bulletin/linux-kernel-multiple-vulnerabilities_20230213)|Multiple vulnerabilities were identified in Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-02-15] Updated System...| Release Date: 13 Feb 2023 |
- |[Cisco Products Multiple Vulnerabilities](/security-bulletin/cisco-products-multiple-vulnerabilities_20230217)|Multiple vulnerabilities were identified in Cisco Products. A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, data manipulation, remote code execution, denial of service and cross-site scripting on the targeted system. [Updated on 2023-02-...| Release Date: 17 Feb 2023 |
- |[Git Multiple Vulnerabilities](/security-bulletin/git-multiple-vulnerabilities_20230216)|Multiple vulnerabilities were identified in Git. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation and sensitive information disclosure on the targeted system.|Release Date: 16 Feb 2023|
+ |[2023-013: Critical SQL injection vulnerabilities in MISP](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On February 20, 2023, the MISP project team released advisories regarding 2 critical SQL injection vulnerabilities in MISP Threat Intelligence and Sharing Platform. The team decided to follow a silent fix procedure, releasing several updates in November and December 2022, giving enough time to users to update their instances to a safe version.|Tuesday, February 21, 2023 11:15:00 AM CEST|
  
 
 # MA-CERT
@@ -114,4 +98,20 @@
  |[40371602/23 - Vulnérabilités corrigées dansGitLab](https://www.dgssi.gov.ma//fr/content/4037160223-vulnerabilites-corrigees-dans-gitlab.html)|GitLab annonce la disponibilité de mises à jour permettant de corriger deux vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuter du code arbitraire ou d’...|16 février 2023|
  |[40361602/23 - Vulnérabilités affectant plusieursproduits deCisco](https://www.dgssi.gov.ma//fr/content/4036160223-vulnerabilites-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’accéder à des informations...|16 février 2023|
  |[40351602/23 - Vulnérabilités critiques dans les produits Splunk](https://www.dgssi.gov.ma//fr/content/4035160223-vulnerabilites-critiques-dans-les-produits-splunk.html)|Splunk a publié une mise à jour de sécurité corrigeant plusieurs vulnérabilités critiques dans les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire, de contourner la...|16 février 2023|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apache Tomcat Denial of Service Vulnerability](/security-bulletin/apache-tomcat-denial-of-service-vulnerability_20230222)|A vulnerability has been identified in Apache Tomcat. A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system.|Release Date: 22 Feb 2023|
+ |[VMWare Products Multiple Vulnerabilities](/security-bulletin/vmware-products-multiple-vulnerabilities_20230222)|Multiple vulnerabilities were identified in VMware Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, data manipulation, security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 22 Feb 2023|
+ |[Apple Products Multiple Vulnerabilities](/security-bulletin/apple-products-multiple-vulnerabilities_20230214)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, elevation of privilege, remote code execution, sensitive information disclosure on the targeted system. Note:CVE-2023-23529 is being exploited in...| Release Date: 14 Feb 2023 |
+ |[Fortinet Products Multiple Vulnerabilities](/security-bulletin/fortinet-products-multiple-vulnerabilities_20230220)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, denial of service, information disclosure, cross-site scripting and elevation of privilege on the targeted system.|Release Date: 20 Feb 2023|
+ |[Mozilla Thunderbird Multiple Vulnerabilities](/security-bulletin/mozilla-thunderbird-multiple-vulnerabilities_20230220)|Multiple vulnerabilities were identified in Mozilla Thunderbird. A remote attacker could exploit some of these vulnerabilities to trigger spoofing, remote code execution, sensitive information disclosure,  denial of service and security restriction bypass on the targeted system.|Release Date: 20 Feb 2023|
+ |[Node.js Multiple Vulnerabilities](/security-bulletin/node-js-multiple-vulnerabilities_20230220)|Multiple vulnerabilities have been identified in Node.js, a remote attacker can exploit these vulnerabilities to trigger remote code execution, security restriction bypass, elevation of privilege and denial of service on the targeted system.|Release Date: 20 Feb 2023|
+ |[Splunk Products Multiple Vulnerabilities](/security-bulletin/splunk-products-multiple-vulnerabilities_20230216)|Multiple vulnerabilities were identified in Splunk Products. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, data manipulation, denial of service, elevation of privilege, security restriction bypass and cross-site scripting on the targeted system. [Updated on 2023...| Release Date: 16 Feb 2023 |
+ |[Linux Kernel Multiple Vulnerabilities](/security-bulletin/linux-kernel-multiple-vulnerabilities_20230213)|Multiple vulnerabilities were identified in Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-02-15] Updated System...| Release Date: 13 Feb 2023 |
+ |[Cisco Products Multiple Vulnerabilities](/security-bulletin/cisco-products-multiple-vulnerabilities_20230217)|Multiple vulnerabilities were identified in Cisco Products. A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, data manipulation, remote code execution, denial of service and cross-site scripting on the targeted system. [Updated on 2023-02-...| Release Date: 17 Feb 2023 |
+ |[Git Multiple Vulnerabilities](/security-bulletin/git-multiple-vulnerabilities_20230216)|Multiple vulnerabilities were identified in Git. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation and sensitive information disclosure on the targeted system.|Release Date: 16 Feb 2023|
  
