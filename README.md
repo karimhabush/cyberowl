@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 23/02/2023 12:41:19 UTC
+ > Last Updated 23/02/2023 13:35:14 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -54,6 +54,13 @@
  |[<a href="https://vigilance.fr/vulnerability/PJSIP-out-of-bounds-memory-reading-via-STUN-Message-Unknown-Attribute-40629" class="noirorange"><b>PJSIP</b>: out-of-bounds memory reading via STUN Message Unknown Attribute</a>](https://vigilance.fr/vulnerability/PJSIP-out-of-bounds-memory-reading-via-STUN-Message-Unknown-Attribute-40629)|An attacker can force a read at an invalid memory address of PJSIP, via STUN Message Unknown Attribute, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  
 
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-013: Critical SQL injection vulnerabilities in MISP](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On February 20, 2023, the MISP project team released advisories regarding 2 critical SQL injection vulnerabilities in MISP Threat Intelligence and Sharing Platform. The team decided to follow a silent fix procedure, releasing several updates in November and December 2022, giving enough time to users to update their instances to a safe version.|Tuesday, February 21, 2023 11:15:00 AM CEST|
+ 
+
 # VulDB
 
  |Title|Description|Date|
@@ -74,13 +81,6 @@
  |[Multiples vulnérabilités dans Stormshield Network Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0153/)|De multiples vulnérabilités ont été corrigées dans Stormshield Network Security. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.|Publié le 21 février 2023|
  |[Multiples vulnérabilités dans Foxit PDF Reader et Editor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0151/)|De multiples vulnérabilités ont été découvertes dans Foxit PDF Reader et Editor. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 21 février 2023|
  |[Multiples vulnérabilités dans macOS Ventura](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0152/)|De multiples vulnérabilités ont été corrigées dans |Publié le 21 février 2023|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-013: Critical SQL injection vulnerabilities in MISP](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On February 20, 2023, the MISP project team released advisories regarding 2 critical SQL injection vulnerabilities in MISP Threat Intelligence and Sharing Platform. The team decided to follow a silent fix procedure, releasing several updates in November and December 2022, giving enough time to users to update their instances to a safe version.|Tuesday, February 21, 2023 11:15:00 AM CEST|
  
 
 # MA-CERT
