@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 23/02/2023 05:20:28 UTC
+ > Last Updated 23/02/2023 06:26:54 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
