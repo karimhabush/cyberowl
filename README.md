@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 23/02/2023 09:22:10 UTC
+ > Last Updated 23/02/2023 10:23:48 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -87,6 +87,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[40472302 /23 - Vulnérabilités dans Zimbra Collaboration](https://www.dgssi.gov.ma//fr/content/40472302-23-vulnerabilites-dans-zimbra-collaboration.html)|Plusieurs vulnérabilités ont été corrigées dans Zimbra Collaboration. L’exploitation de ces failles pourrait permettre à un attaquant de causer un déni de service, d’injecter du code indirect à distance, de contourner la politique de...|23 février 2023|
+ |[40462302 /23 - Exploitation active de la faille critique « CVE-2022-39952 » affectant les serveurs W](https://www.dgssi.gov.ma//fr/content/40462302-23-exploitation-active-de-la-faille-critique-cve-2022-39952-affectant-les-serveurs-web-fortinac-de-fortinet.html)|Des attaquants tentent d'exploiter une faille critique « CVE-2022-39952 » dans les serveurs Web FortiNAC de Fortinet exposés à Internet, un jour après que des chercheurs en sécurité ont publié un code d'exploitation "Preuve...|23 février 2023|
  |[40452202 /23 - Vulnérabilité critique dans VMware Carbon Black App Control](https://www.dgssi.gov.ma//fr/content/40452202-23-vulnerabilite-critique-dans-vmware-carbon-black-app-control.html)|Une vulnérabilité critique a été corrigée dans VMware Carbon Black App Control. L’exploitation de cette faille peut permettre à un attaquant distant d’exécuter du code arbitraire.|22 février 2023|
  |[40442202 /22 - Vulnérabilité dans Apache Tomcat](https://www.dgssi.gov.ma//fr/content/40442202-22-vulnerabilite-dans-apache-tomcat.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées d’Apache Tomcat. L’exploitation de cette faille peut permettre à un attaquant de provoquer un déni de service à distance.|22 février 2023|
  |[40412002/2023 - Vulnérabilité affectant le CMS Joomla](https://www.dgssi.gov.ma//fr/content/404120022023-vulnerabilite-affectant-le-cms-joomla.html)|Joomla annonce la disponibilité d’une mise à jour qui corrige une vulnérabilité dans son CMS Joomla. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant de contourner les mesures de sécurité.|20 février 2023|
@@ -96,8 +98,6 @@
  |[40391702/23 - Vulnérabilités dans PHP](https://www.dgssi.gov.ma//fr/content/4039170223-vulnerabilites-dans-php.html)|Plusieurs vulnérabilités ont été corrigées dans PHP. L’exploitation de ces vulnérabilités peut permettre à un attaquant de contourner la politique de sécurité et de provoquer un déni de service à distance.|17 février 2023|
  |[40381702/23 - Vulnérabilités dans les produits SolarWinds](https://www.dgssi.gov.ma//fr/content/4038170223-vulnerabilites-dans-les-produits-solarwinds.html)|Plusieurs vulnérabilités ont été corrigées dans les produits SolarWinds susmentionnés. L'exploitation de ces failles pourrait permettre à un attaquant d’exécuter du code arbitraire à dis-tance et de contourner la politique de sécurité.|17 février 2023|
  |[40371602/23 - Vulnérabilités corrigées dansGitLab](https://www.dgssi.gov.ma//fr/content/4037160223-vulnerabilites-corrigees-dans-gitlab.html)|GitLab annonce la disponibilité de mises à jour permettant de corriger deux vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuter du code arbitraire ou d’...|16 février 2023|
- |[40361602/23 - Vulnérabilités affectant plusieursproduits deCisco](https://www.dgssi.gov.ma//fr/content/4036160223-vulnerabilites-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’accéder à des informations...|16 février 2023|
- |[40351602/23 - Vulnérabilités critiques dans les produits Splunk](https://www.dgssi.gov.ma//fr/content/4035160223-vulnerabilites-critiques-dans-les-produits-splunk.html)|Splunk a publié une mise à jour de sécurité corrigeant plusieurs vulnérabilités critiques dans les produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire, de contourner la...|16 février 2023|
  
 
 # HK-CERT
