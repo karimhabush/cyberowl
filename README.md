@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 23/02/2023 07:20:43 UTC
+ > Last Updated 23/02/2023 08:27:23 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -41,17 +41,23 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/PJSIP-no-encryption-via-SRTP-Restart-Basic-RTP-40630" class="noirorange"><b>PJSIP</b>: no encryption via SRTP Restart Basic RTP</a>](https://vigilance.fr/vulnerability/PJSIP-no-encryption-via-SRTP-Restart-Basic-RTP-40630)|An attacker can access data on PJSIP, via SRTP Restart Basic RTP, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PJSIP-out-of-bounds-memory-reading-via-STUN-Message-Unknown-Attribute-40629" class="noirorange"><b>PJSIP</b>: out-of-bounds memory reading via STUN Message Unknown Attribute</a>](https://vigilance.fr/vulnerability/PJSIP-out-of-bounds-memory-reading-via-STUN-Message-Unknown-Attribute-40629)|An attacker can force a read at an invalid memory address of PJSIP, via STUN Message Unknown Attribute, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PJSIP-out-of-bounds-memory-reading-via-STUN-Message-Unknown-Attribute-40628" class="noirorange"><b>PJSIP</b>: out-of-bounds memory reading via STUN Message Unknown Attribute</a>](https://vigilance.fr/vulnerability/PJSIP-out-of-bounds-memory-reading-via-STUN-Message-Unknown-Attribute-40628)|An attacker can force a read at an invalid memory address of PJSIP, via STUN Message Unknown Attribute, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libsofia-sip-assertion-error-via-UDP-Message-40627" class="noirorange"><b>libsofia-sip</b>: assertion error via UDP Message</a>](https://vigilance.fr/vulnerability/libsofia-sip-assertion-error-via-UDP-Message-40627)|An attacker can force an assertion error of libsofia-sip, via UDP Message, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Python-Cryptography-memory-corruption-via-Cipher-update-into-40626" class="noirorange"><b>Python Cryptography</b>: memory corruption via Cipher.update_into()</a>](https://vigilance.fr/vulnerability/Python-Cryptography-memory-corruption-via-Cipher-update-into-40626)|An attacker can trigger a memory corruption of Python Cryptography, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-40625" class="noirorange"><b>Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-40625)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-tcp-set-ulp-40624" class="noirorange"><b>Linux kernel</b>: reuse after free via __tcp_set_ulp()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-tcp-set-ulp-40624)|An attacker can force the reuse of a freed memory area of the Linux kernel, via __tcp_set_ulp(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-UCS-Manager-Software-weak-encryption-via-Backup-Configuration-40622" class="noirorange"><b>Cisco UCS Manager Software</b>: weak encryption via Backup Configuration</a>](https://vigilance.fr/vulnerability/Cisco-UCS-Manager-Software-weak-encryption-via-Backup-Configuration-40622)|An attacker can access data on Cisco UCS Manager Software, via Backup Configuration, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-NX-OS-privilege-escalation-via-SSH-X-509v3-Certificate-Authentication-40621" class="noirorange"><b>Cisco NX-OS</b>: privilege escalation via SSH X.509v3 Certificate Authentication</a>](https://vigilance.fr/vulnerability/Cisco-NX-OS-privilege-escalation-via-SSH-X-509v3-Certificate-Authentication-40621)|An attacker can bypass restrictions of Cisco NX-OS, via SSH X.509v3 Certificate Authentication, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-NX-OS-privilege-escalation-via-CLI-Command-Injection-40620" class="noirorange"><b>Cisco NX-OS</b>: privilege escalation via CLI Command Injection</a>](https://vigilance.fr/vulnerability/Cisco-NX-OS-privilege-escalation-via-CLI-Command-Injection-40620)|An attacker can bypass restrictions of Cisco NX-OS, via CLI Command Injection, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-UCS-Fabric-Interconnects-privilege-escalation-via-CLI-Command-Injection-40619" class="noirorange"><b>Cisco UCS Fabric Interconnects</b>: privilege escalation via CLI Command Injection</a>](https://vigilance.fr/vulnerability/Cisco-UCS-Fabric-Interconnects-privilege-escalation-via-CLI-Command-Injection-40619)|An attacker can bypass restrictions of Cisco UCS Fabric Interconnects, via CLI Command Injection, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Nexus-9300-FX3-FEX-for-UCS-privilege-escalation-via-CLI-Console-Login-Authentication-40618" class="noirorange"><b>Cisco Nexus 9300-FX3 FEX for UCS</b>: privilege escalation via CLI Console Login Authentication</a>](https://vigilance.fr/vulnerability/Cisco-Nexus-9300-FX3-FEX-for-UCS-privilege-escalation-via-CLI-Console-Login-Authentication-40618)|An attacker can bypass restrictions of Cisco Nexus 9300-FX3 FEX for UCS, via CLI Console Login Authentication, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Nexus-9000-memory-leak-via-LLDP-40617" class="noirorange"><b>Cisco Nexus 9000</b>: memory leak via LLDP</a>](https://vigilance.fr/vulnerability/Cisco-Nexus-9000-memory-leak-via-LLDP-40617)|An attacker can create a memory leak of Cisco Nexus 9000, via LLDP, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Podman-file-read-write-via-Export-Volume-40616" class="noirorange"><b>Podman</b>: file read/write via Export Volume</a>](https://vigilance.fr/vulnerability/Podman-file-read-write-via-Export-Volume-40616)|An attacker can bypass access restrictions of Podman, via Export Volume, in order to read or alter files...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/scs-library-client-information-disclosure-via-HTTP-Authorization-Header-40615" class="noirorange"><b>scs-library-client</b>: information disclosure via HTTP Authorization Header</a>](https://vigilance.fr/vulnerability/scs-library-client-information-disclosure-via-HTTP-Authorization-Header-40615)|An attacker can bypass access restrictions to data of scs-library-client, via HTTP Authorization Header, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenImageIO-three-vulnerabilities-40614" class="noirorange"><b>OpenImageIO</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/OpenImageIO-three-vulnerabilities-40614)|An attacker can use several vulnerabilities of OpenImageIO...|Visit link for details|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # EU-CERT
@@ -59,12 +65,6 @@
  |Title|Description|Date|
  |---|---|---|
  |[2023-013: Critical SQL injection vulnerabilities in MISP](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On February 20, 2023, the MISP project team released advisories regarding 2 critical SQL injection vulnerabilities in MISP Threat Intelligence and Sharing Platform. The team decided to follow a silent fix procedure, releasing several updates in November and December 2022, giving enough time to users to update their instances to a safe version.|Tuesday, February 21, 2023 11:15:00 AM CEST|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # CERT-FR
