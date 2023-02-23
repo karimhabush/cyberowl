@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 23/02/2023 19:18:54 UTC
+ > Last Updated 23/02/2023 20:23:35 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -54,17 +54,17 @@
  |[<a href="https://vigilance.fr/vulnerability/PJSIP-out-of-bounds-memory-reading-via-STUN-Message-Unknown-Attribute-40629" class="noirorange"><b>PJSIP</b>: out-of-bounds memory reading via STUN Message Unknown Attribute</a>](https://vigilance.fr/vulnerability/PJSIP-out-of-bounds-memory-reading-via-STUN-Message-Unknown-Attribute-40629)|An attacker can force a read at an invalid memory address of PJSIP, via STUN Message Unknown Attribute, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  
 
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
  |---|---|---|
  |[2023-013: Critical SQL injection vulnerabilities in MISP](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On February 20, 2023, the MISP project team released advisories regarding 2 critical SQL injection vulnerabilities in MISP Threat Intelligence and Sharing Platform. The team decided to follow a silent fix procedure, releasing several updates in November and December 2022, giving enough time to users to update their instances to a safe version.|Tuesday, February 21, 2023 11:15:00 AM CEST|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # CERT-FR
