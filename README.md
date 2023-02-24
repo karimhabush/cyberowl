@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 24/02/2023 07:20:40 UTC
+ > Last Updated 24/02/2023 08:27:54 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -31,36 +31,6 @@
  |---|---|---|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/RubyGem-ActiveRecord-overload-via-PostgreSQL-Adapter-64bit-Integer-40641" class="noirorange"><b>RubyGem ActiveRecord</b>: overload via PostgreSQL Adapter 64bit Integer</a>](https://vigilance.fr/vulnerability/RubyGem-ActiveRecord-overload-via-PostgreSQL-Adapter-64bit-Integer-40641)|An attacker can trigger an overload of RubyGem ActiveRecord, via PostgreSQL Adapter 64bit Integer, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-l2cap-chan-put-40640" class="noirorange"><b>Linux kernel</b>: reuse after free via l2cap_chan_put()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-l2cap-chan-put-40640)|An attacker can force the reuse of a freed memory area of the Linux kernel, via l2cap_chan_put(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/DCMTK-memory-leak-via-T-ASC-Association-40639" class="noirorange"><b>DCMTK</b>: memory leak via T_ASC_Association</a>](https://vigilance.fr/vulnerability/DCMTK-memory-leak-via-T-ASC-Association-40639)|An attacker can create a memory leak of DCMTK, via T_ASC_Association, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/DCMTK-NULL-pointer-dereference-via-DICOM-Files-40638" class="noirorange"><b>DCMTK</b>: NULL pointer dereference via DICOM Files</a>](https://vigilance.fr/vulnerability/DCMTK-NULL-pointer-dereference-via-DICOM-Files-40638)|An attacker can force a NULL pointer to be dereferenced on DCMTK, via DICOM Files, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/DCMTK-four-vulnerabilities-40637" class="noirorange"><b>DCMTK</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/DCMTK-four-vulnerabilities-40637)|An attacker can use several vulnerabilities of DCMTK...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-vcc-open-40636" class="noirorange"><b>Linux kernel</b>: reuse after free via vcc_open()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-vcc-open-40636)|An attacker can force the reuse of a freed memory area of the Linux kernel, via vcc_open(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/MariaDB-memory-leak-via-mysql-stmt-execute-40635" class="noirorange"><b>MariaDB</b>: memory leak via mysql_stmt_execute()</a>](https://vigilance.fr/vulnerability/MariaDB-memory-leak-via-mysql-stmt-execute-40635)|An attacker can create a memory leak of MariaDB, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Node-js-url-parse-privilege-escalation-via-User-Controlled-Key-Backspace-40634" class="noirorange"><b>Node.js url-parse</b>: privilege escalation via User-Controlled Key Backspace</a>](https://vigilance.fr/vulnerability/Node-js-url-parse-privilege-escalation-via-User-Controlled-Key-Backspace-40634)|An attacker can bypass restrictions of Node.js url-parse, via User-Controlled Key Backspace, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Node-js-url-parse-privilege-escalation-via-User-Controlled-Key-No-Port-Number-40633" class="noirorange"><b>Node.js url-parse</b>: privilege escalation via User-Controlled Key No Port Number</a>](https://vigilance.fr/vulnerability/Node-js-url-parse-privilege-escalation-via-User-Controlled-Key-No-Port-Number-40633)|An attacker can bypass restrictions of Node.js url-parse, via User-Controlled Key No Port Number, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Node-js-url-parse-privilege-escalation-via-User-Controlled-Key-Protocol-At-Sign-40632" class="noirorange"><b>Node.js url-parse</b>: privilege escalation via User-Controlled Key Protocol At Sign</a>](https://vigilance.fr/vulnerability/Node-js-url-parse-privilege-escalation-via-User-Controlled-Key-Protocol-At-Sign-40632)|An attacker can bypass restrictions of Node.js url-parse, via User-Controlled Key Protocol At Sign, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Node-js-url-parse-privilege-escalation-via-User-Controlled-Key-Username-Password-40631" class="noirorange"><b>Node.js url-parse</b>: privilege escalation via User-Controlled Key Username Password</a>](https://vigilance.fr/vulnerability/Node-js-url-parse-privilege-escalation-via-User-Controlled-Key-Username-Password-40631)|An attacker can bypass restrictions of Node.js url-parse, via User-Controlled Key Username Password, in order to escalate his privileges...|Visit link for details|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-014: Critical Vulnerabilities in VMware Products](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On February 20, 2023, the MISP project team released advisories regarding 2 critical SQL injection vulnerabilities in MISP Threat Intelligence and Sharing Platform. The team decided to follow a silent fix procedure, releasing several updates in November and December 2022, giving enough time to users to update their instances to a safe version.|Tuesday, February 23, 2023 10:30:00 PM CET|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -75,6 +45,29 @@
  |[Vulnérabilité dans les routeurs 4G Zyxel](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0158/)|Une vulnérabilité a été découverte dans les routeurs 4G Zyxel. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 22 février 2023|
  |[Vulnérabilité dans IBM Spectrum Protect Plus](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0157/)|Une vulnérabilité a été corrigée dans IBM Spectrum Protect Plus. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 22 février 2023|
  |[Multiples vulnérabilités dans Tenable.sc](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0156/)|De multiples vulnérabilités ont été découvertes dans Tenable.sc. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 22 février 2023|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Emacs-three-vulnerabilities-40643" class="noirorange"><b>Emacs</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Emacs-three-vulnerabilities-40643)|An attacker can use several vulnerabilities of Emacs...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libgit2-Man-in-the-Middle-via-No-Default-Certificate-check-40642" class="noirorange"><b>libgit2</b>: Man-in-the-Middle via No Default Certificate_check</a>](https://vigilance.fr/vulnerability/libgit2-Man-in-the-Middle-via-No-Default-Certificate-check-40642)|An attacker can act as a Man-in-the-Middle on libgit2, via No Default Certificate_check, in order to read or write data in the session...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/RubyGem-ActiveRecord-overload-via-PostgreSQL-Adapter-64bit-Integer-40641" class="noirorange"><b>RubyGem ActiveRecord</b>: overload via PostgreSQL Adapter 64bit Integer</a>](https://vigilance.fr/vulnerability/RubyGem-ActiveRecord-overload-via-PostgreSQL-Adapter-64bit-Integer-40641)|An attacker can trigger an overload of RubyGem ActiveRecord, via PostgreSQL Adapter 64bit Integer, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-l2cap-chan-put-40640" class="noirorange"><b>Linux kernel</b>: reuse after free via l2cap_chan_put()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-l2cap-chan-put-40640)|An attacker can force the reuse of a freed memory area of the Linux kernel, via l2cap_chan_put(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/DCMTK-memory-leak-via-T-ASC-Association-40639" class="noirorange"><b>DCMTK</b>: memory leak via T_ASC_Association</a>](https://vigilance.fr/vulnerability/DCMTK-memory-leak-via-T-ASC-Association-40639)|An attacker can create a memory leak of DCMTK, via T_ASC_Association, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/DCMTK-NULL-pointer-dereference-via-DICOM-Files-40638" class="noirorange"><b>DCMTK</b>: NULL pointer dereference via DICOM Files</a>](https://vigilance.fr/vulnerability/DCMTK-NULL-pointer-dereference-via-DICOM-Files-40638)|An attacker can force a NULL pointer to be dereferenced on DCMTK, via DICOM Files, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/DCMTK-four-vulnerabilities-40637" class="noirorange"><b>DCMTK</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/DCMTK-four-vulnerabilities-40637)|An attacker can use several vulnerabilities of DCMTK...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-vcc-open-40636" class="noirorange"><b>Linux kernel</b>: reuse after free via vcc_open()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-vcc-open-40636)|An attacker can force the reuse of a freed memory area of the Linux kernel, via vcc_open(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MariaDB-memory-leak-via-mysql-stmt-execute-40635" class="noirorange"><b>MariaDB</b>: memory leak via mysql_stmt_execute()</a>](https://vigilance.fr/vulnerability/MariaDB-memory-leak-via-mysql-stmt-execute-40635)|An attacker can create a memory leak of MariaDB, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-url-parse-privilege-escalation-via-User-Controlled-Key-Backspace-40634" class="noirorange"><b>Node.js url-parse</b>: privilege escalation via User-Controlled Key Backspace</a>](https://vigilance.fr/vulnerability/Node-js-url-parse-privilege-escalation-via-User-Controlled-Key-Backspace-40634)|An attacker can bypass restrictions of Node.js url-parse, via User-Controlled Key Backspace, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-url-parse-privilege-escalation-via-User-Controlled-Key-No-Port-Number-40633" class="noirorange"><b>Node.js url-parse</b>: privilege escalation via User-Controlled Key No Port Number</a>](https://vigilance.fr/vulnerability/Node-js-url-parse-privilege-escalation-via-User-Controlled-Key-No-Port-Number-40633)|An attacker can bypass restrictions of Node.js url-parse, via User-Controlled Key No Port Number, in order to escalate his privileges...|Visit link for details|
  
 
 # MA-CERT
@@ -92,6 +85,13 @@
  |[40422002/23 - Vulnérabilités critiques dans les produits Fortinet](https://www.dgssi.gov.ma//fr/content/4042200223-vulnerabilites-critiques-dans-les-produits-fortinet.html)|Fortinet a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités critiques affectant les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à un attaquant de réussir une...|20 février 2023|
  |[30402002/23 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/3040200223-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant son client de messagerie Mozilla Thunderbird. L’exploitation de ces vulnérabilités peut permettre à un...|20 février 2023|
  |[40391702/23 - Vulnérabilités dans PHP](https://www.dgssi.gov.ma//fr/content/4039170223-vulnerabilites-dans-php.html)|Plusieurs vulnérabilités ont été corrigées dans PHP. L’exploitation de ces vulnérabilités peut permettre à un attaquant de contourner la politique de sécurité et de provoquer un déni de service à distance.|17 février 2023|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-014: Critical Vulnerabilities in VMware Products](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On February 20, 2023, the MISP project team released advisories regarding 2 critical SQL injection vulnerabilities in MISP Threat Intelligence and Sharing Platform. The team decided to follow a silent fix procedure, releasing several updates in November and December 2022, giving enough time to users to update their instances to a safe version.|Tuesday, February 23, 2023 10:30:00 PM CET|
  
 
 # HK-CERT
