@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 26/02/2023 22:19:55 UTC
+ > Last Updated 26/02/2023 23:22:24 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -48,12 +48,6 @@
  |[<a href="https://vigilance.fr/vulnerability/MariaDB-memory-leak-via-mysql-stmt-execute-40635" class="noirorange"><b>MariaDB</b>: memory leak via mysql_stmt_execute()</a>](https://vigilance.fr/vulnerability/MariaDB-memory-leak-via-mysql-stmt-execute-40635)|An attacker can create a memory leak of MariaDB, via |Visit link for details|
  
 
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -75,6 +69,12 @@
  |[Multiples vulnérabilités dans Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0163/)|De multiples vulnérabilités ont été corrigées dans |Publié le 23 février 2023|
  |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0162/)|De multiples vulnérabilités ont été corrigées dans |Publié le 23 février 2023|
  |[Vulnérabilité dans les produits MongoDB](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0161/)|Une vulnérabilité a été corrigée dans |Publié le 23 février 2023|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # MA-CERT
