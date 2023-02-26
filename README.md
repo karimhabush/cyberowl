@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 26/02/2023 04:27:24 UTC
+ > Last Updated 26/02/2023 05:23:01 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -25,34 +25,10 @@
  
  > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/LibRaw-buffer-overflow-via-LibRaw-buffer-datastream-gets-40646" class="noirorange"><b>LibRaw</b>: buffer overflow via LibRaw_buffer_datastream::gets()</a>](https://vigilance.fr/vulnerability/LibRaw-buffer-overflow-via-LibRaw-buffer-datastream-gets-40646)|An attacker can trigger a buffer overflow of LibRaw, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GnuPG-overload-via-Compressed-Packets-40644" class="noirorange"><b>GnuPG</b>: overload via Compressed Packets</a>](https://vigilance.fr/vulnerability/GnuPG-overload-via-Compressed-Packets-40644)|An attacker can trigger an overload of GnuPG, via Compressed Packets, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Emacs-three-vulnerabilities-40643" class="noirorange"><b>Emacs</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Emacs-three-vulnerabilities-40643)|An attacker can use several vulnerabilities of Emacs...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libgit2-Man-in-the-Middle-via-No-Default-Certificate-check-40642" class="noirorange"><b>libgit2</b>: Man-in-the-Middle via No Default Certificate_check</a>](https://vigilance.fr/vulnerability/libgit2-Man-in-the-Middle-via-No-Default-Certificate-check-40642)|An attacker can act as a Man-in-the-Middle on libgit2, via No Default Certificate_check, in order to read or write data in the session...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/RubyGem-ActiveRecord-overload-via-PostgreSQL-Adapter-64bit-Integer-40641" class="noirorange"><b>RubyGem ActiveRecord</b>: overload via PostgreSQL Adapter 64bit Integer</a>](https://vigilance.fr/vulnerability/RubyGem-ActiveRecord-overload-via-PostgreSQL-Adapter-64bit-Integer-40641)|An attacker can trigger an overload of RubyGem ActiveRecord, via PostgreSQL Adapter 64bit Integer, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-l2cap-chan-put-40640" class="noirorange"><b>Linux kernel</b>: reuse after free via l2cap_chan_put()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-l2cap-chan-put-40640)|An attacker can force the reuse of a freed memory area of the Linux kernel, via l2cap_chan_put(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/DCMTK-memory-leak-via-T-ASC-Association-40639" class="noirorange"><b>DCMTK</b>: memory leak via T_ASC_Association</a>](https://vigilance.fr/vulnerability/DCMTK-memory-leak-via-T-ASC-Association-40639)|An attacker can create a memory leak of DCMTK, via T_ASC_Association, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/DCMTK-NULL-pointer-dereference-via-DICOM-Files-40638" class="noirorange"><b>DCMTK</b>: NULL pointer dereference via DICOM Files</a>](https://vigilance.fr/vulnerability/DCMTK-NULL-pointer-dereference-via-DICOM-Files-40638)|An attacker can force a NULL pointer to be dereferenced on DCMTK, via DICOM Files, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/DCMTK-four-vulnerabilities-40637" class="noirorange"><b>DCMTK</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/DCMTK-four-vulnerabilities-40637)|An attacker can use several vulnerabilities of DCMTK...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-vcc-open-40636" class="noirorange"><b>Linux kernel</b>: reuse after free via vcc_open()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-vcc-open-40636)|An attacker can force the reuse of a freed memory area of the Linux kernel, via vcc_open(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/MariaDB-memory-leak-via-mysql-stmt-execute-40635" class="noirorange"><b>MariaDB</b>: memory leak via mysql_stmt_execute()</a>](https://vigilance.fr/vulnerability/MariaDB-memory-leak-via-mysql-stmt-execute-40635)|An attacker can create a memory leak of MariaDB, via |Visit link for details|
- 
-
 # US-CERT
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-014: Critical Vulnerabilities in VMware Products](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On February 20, 2023, the MISP project team released advisories regarding 2 critical SQL injection vulnerabilities in MISP Threat Intelligence and Sharing Platform. The team decided to follow a silent fix procedure, releasing several updates in November and December 2022, giving enough time to users to update their instances to a safe version.|Tuesday, February 23, 2023 10:30:00 PM CET|
  
 
 # VulDB
@@ -75,6 +51,30 @@
  |[Multiples vulnérabilités dans Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0163/)|De multiples vulnérabilités ont été corrigées dans |Publié le 23 février 2023|
  |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0162/)|De multiples vulnérabilités ont été corrigées dans |Publié le 23 février 2023|
  |[Vulnérabilité dans les produits MongoDB](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0161/)|Une vulnérabilité a été corrigée dans |Publié le 23 février 2023|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-014: Critical Vulnerabilities in VMware Products](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On February 20, 2023, the MISP project team released advisories regarding 2 critical SQL injection vulnerabilities in MISP Threat Intelligence and Sharing Platform. The team decided to follow a silent fix procedure, releasing several updates in November and December 2022, giving enough time to users to update their instances to a safe version.|Tuesday, February 23, 2023 10:30:00 PM CET|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/LibRaw-buffer-overflow-via-LibRaw-buffer-datastream-gets-40646" class="noirorange"><b>LibRaw</b>: buffer overflow via LibRaw_buffer_datastream::gets()</a>](https://vigilance.fr/vulnerability/LibRaw-buffer-overflow-via-LibRaw-buffer-datastream-gets-40646)|An attacker can trigger a buffer overflow of LibRaw, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GnuPG-overload-via-Compressed-Packets-40644" class="noirorange"><b>GnuPG</b>: overload via Compressed Packets</a>](https://vigilance.fr/vulnerability/GnuPG-overload-via-Compressed-Packets-40644)|An attacker can trigger an overload of GnuPG, via Compressed Packets, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Emacs-three-vulnerabilities-40643" class="noirorange"><b>Emacs</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Emacs-three-vulnerabilities-40643)|An attacker can use several vulnerabilities of Emacs...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libgit2-Man-in-the-Middle-via-No-Default-Certificate-check-40642" class="noirorange"><b>libgit2</b>: Man-in-the-Middle via No Default Certificate_check</a>](https://vigilance.fr/vulnerability/libgit2-Man-in-the-Middle-via-No-Default-Certificate-check-40642)|An attacker can act as a Man-in-the-Middle on libgit2, via No Default Certificate_check, in order to read or write data in the session...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/RubyGem-ActiveRecord-overload-via-PostgreSQL-Adapter-64bit-Integer-40641" class="noirorange"><b>RubyGem ActiveRecord</b>: overload via PostgreSQL Adapter 64bit Integer</a>](https://vigilance.fr/vulnerability/RubyGem-ActiveRecord-overload-via-PostgreSQL-Adapter-64bit-Integer-40641)|An attacker can trigger an overload of RubyGem ActiveRecord, via PostgreSQL Adapter 64bit Integer, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-l2cap-chan-put-40640" class="noirorange"><b>Linux kernel</b>: reuse after free via l2cap_chan_put()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-l2cap-chan-put-40640)|An attacker can force the reuse of a freed memory area of the Linux kernel, via l2cap_chan_put(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/DCMTK-memory-leak-via-T-ASC-Association-40639" class="noirorange"><b>DCMTK</b>: memory leak via T_ASC_Association</a>](https://vigilance.fr/vulnerability/DCMTK-memory-leak-via-T-ASC-Association-40639)|An attacker can create a memory leak of DCMTK, via T_ASC_Association, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/DCMTK-NULL-pointer-dereference-via-DICOM-Files-40638" class="noirorange"><b>DCMTK</b>: NULL pointer dereference via DICOM Files</a>](https://vigilance.fr/vulnerability/DCMTK-NULL-pointer-dereference-via-DICOM-Files-40638)|An attacker can force a NULL pointer to be dereferenced on DCMTK, via DICOM Files, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/DCMTK-four-vulnerabilities-40637" class="noirorange"><b>DCMTK</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/DCMTK-four-vulnerabilities-40637)|An attacker can use several vulnerabilities of DCMTK...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-vcc-open-40636" class="noirorange"><b>Linux kernel</b>: reuse after free via vcc_open()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-vcc-open-40636)|An attacker can force the reuse of a freed memory area of the Linux kernel, via vcc_open(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MariaDB-memory-leak-via-mysql-stmt-execute-40635" class="noirorange"><b>MariaDB</b>: memory leak via mysql_stmt_execute()</a>](https://vigilance.fr/vulnerability/MariaDB-memory-leak-via-mysql-stmt-execute-40635)|An attacker can create a memory leak of MariaDB, via |Visit link for details|
  
 
 # MA-CERT
