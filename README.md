@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 26/02/2023 16:27:09 UTC
+ > Last Updated 26/02/2023 17:18:34 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -31,22 +31,6 @@
  |---|---|---|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0170/)|De multiples vulnérabilités ont été corrigées dans les |Publié le 24 février 2023|
- |[Multiples vulnérabilités dans Stormshield Management Center](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0169/)|De multiples vulnérabilités ont été corrigées dans Stormshield Management Center. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 24 février 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0168/)|De multiples vulnérabilités ont été corrigées dans |Publié le 24 février 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0167/)|De multiples vulnérabilités ont été corrigées dans |Publié le 24 février 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0166/)|De multiples vulnérabilités ont été corrigées dans |Publié le 24 février 2023|
- |[Vulnérabilité dans StormShield SSLVPN](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0165/)|Une vulnérabilité a été corrigée dans |Publié le 23 février 2023|
- |[Multiples vulnérabilités dans Broadcom Symantec Content Analysis](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0164/)|De multiples vulnérabilités ont été corrigées dans Symantec Content Analysis. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.|Publié le 23 février 2023|
- |[Multiples vulnérabilités dans Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0163/)|De multiples vulnérabilités ont été corrigées dans |Publié le 23 février 2023|
- |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0162/)|De multiples vulnérabilités ont été corrigées dans |Publié le 23 février 2023|
- |[Vulnérabilité dans les produits MongoDB](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0161/)|Une vulnérabilité a été corrigée dans |Publié le 23 février 2023|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -64,6 +48,35 @@
  |[<a href="https://vigilance.fr/vulnerability/MariaDB-memory-leak-via-mysql-stmt-execute-40635" class="noirorange"><b>MariaDB</b>: memory leak via mysql_stmt_execute()</a>](https://vigilance.fr/vulnerability/MariaDB-memory-leak-via-mysql-stmt-execute-40635)|An attacker can create a memory leak of MariaDB, via |Visit link for details|
  
 
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-014: Critical Vulnerabilities in VMware Products](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On February 20, 2023, the MISP project team released advisories regarding 2 critical SQL injection vulnerabilities in MISP Threat Intelligence and Sharing Platform. The team decided to follow a silent fix procedure, releasing several updates in November and December 2022, giving enough time to users to update their instances to a safe version.|Tuesday, February 23, 2023 10:30:00 PM CET|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0170/)|De multiples vulnérabilités ont été corrigées dans les |Publié le 24 février 2023|
+ |[Multiples vulnérabilités dans Stormshield Management Center](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0169/)|De multiples vulnérabilités ont été corrigées dans Stormshield Management Center. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 24 février 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0168/)|De multiples vulnérabilités ont été corrigées dans |Publié le 24 février 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0167/)|De multiples vulnérabilités ont été corrigées dans |Publié le 24 février 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0166/)|De multiples vulnérabilités ont été corrigées dans |Publié le 24 février 2023|
+ |[Vulnérabilité dans StormShield SSLVPN](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0165/)|Une vulnérabilité a été corrigée dans |Publié le 23 février 2023|
+ |[Multiples vulnérabilités dans Broadcom Symantec Content Analysis](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0164/)|De multiples vulnérabilités ont été corrigées dans Symantec Content Analysis. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.|Publié le 23 février 2023|
+ |[Multiples vulnérabilités dans Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0163/)|De multiples vulnérabilités ont été corrigées dans |Publié le 23 février 2023|
+ |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0162/)|De multiples vulnérabilités ont été corrigées dans |Publié le 23 février 2023|
+ |[Vulnérabilité dans les produits MongoDB](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0161/)|Une vulnérabilité a été corrigée dans |Publié le 23 février 2023|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -79,19 +92,6 @@
  |[40442202 /22 - Vulnérabilité dans Apache Tomcat](https://www.dgssi.gov.ma//fr/content/40442202-22-vulnerabilite-dans-apache-tomcat.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées d’Apache Tomcat. L’exploitation de cette faille peut permettre à un attaquant de provoquer un déni de service à distance.|22 février 2023|
  |[40412002/2023 - Vulnérabilité affectant le CMS Joomla](https://www.dgssi.gov.ma//fr/content/404120022023-vulnerabilite-affectant-le-cms-joomla.html)|Joomla annonce la disponibilité d’une mise à jour qui corrige une vulnérabilité dans son CMS Joomla. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant de contourner les mesures de sécurité.|20 février 2023|
  |[40432002/23 - Vulnérabilité dans l'hyperviseur Xen](https://www.dgssi.gov.ma//fr/content/4043200223-vulnerabilite-dans-l-hyperviseur-xen.html)|Une vulnérabilité a été corrigée dans les versions d’hyperviseur Xen susmentionnées. L'exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité de données.|20 février 2023|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-014: Critical Vulnerabilities in VMware Products](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On February 20, 2023, the MISP project team released advisories regarding 2 critical SQL injection vulnerabilities in MISP Threat Intelligence and Sharing Platform. The team decided to follow a silent fix procedure, releasing several updates in November and December 2022, giving enough time to users to update their instances to a safe version.|Tuesday, February 23, 2023 10:30:00 PM CET|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # HK-CERT
