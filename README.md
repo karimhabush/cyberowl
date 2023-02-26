@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 26/02/2023 03:35:27 UTC
+ > Last Updated 26/02/2023 04:27:24 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -25,12 +25,6 @@
  
  > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -46,6 +40,19 @@
  |[<a href="https://vigilance.fr/vulnerability/DCMTK-four-vulnerabilities-40637" class="noirorange"><b>DCMTK</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/DCMTK-four-vulnerabilities-40637)|An attacker can use several vulnerabilities of DCMTK...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-vcc-open-40636" class="noirorange"><b>Linux kernel</b>: reuse after free via vcc_open()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-vcc-open-40636)|An attacker can force the reuse of a freed memory area of the Linux kernel, via vcc_open(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/MariaDB-memory-leak-via-mysql-stmt-execute-40635" class="noirorange"><b>MariaDB</b>: memory leak via mysql_stmt_execute()</a>](https://vigilance.fr/vulnerability/MariaDB-memory-leak-via-mysql-stmt-execute-40635)|An attacker can create a memory leak of MariaDB, via |Visit link for details|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-014: Critical Vulnerabilities in VMware Products](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On February 20, 2023, the MISP project team released advisories regarding 2 critical SQL injection vulnerabilities in MISP Threat Intelligence and Sharing Platform. The team decided to follow a silent fix procedure, releasing several updates in November and December 2022, giving enough time to users to update their instances to a safe version.|Tuesday, February 23, 2023 10:30:00 PM CET|
  
 
 # VulDB
@@ -68,13 +75,6 @@
  |[Multiples vulnérabilités dans Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0163/)|De multiples vulnérabilités ont été corrigées dans |Publié le 23 février 2023|
  |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0162/)|De multiples vulnérabilités ont été corrigées dans |Publié le 23 février 2023|
  |[Vulnérabilité dans les produits MongoDB](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0161/)|Une vulnérabilité a été corrigée dans |Publié le 23 février 2023|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-014: Critical Vulnerabilities in VMware Products](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On February 20, 2023, the MISP project team released advisories regarding 2 critical SQL injection vulnerabilities in MISP Threat Intelligence and Sharing Platform. The team decided to follow a silent fix procedure, releasing several updates in November and December 2022, giving enough time to users to update their instances to a safe version.|Tuesday, February 23, 2023 10:30:00 PM CET|
  
 
 # MA-CERT
