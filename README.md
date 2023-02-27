@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 27/02/2023 02:54:45 UTC
+ > Last Updated 27/02/2023 03:27:53 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -48,6 +48,13 @@
  |[<a href="https://vigilance.fr/vulnerability/MariaDB-memory-leak-via-mysql-stmt-execute-40635" class="noirorange"><b>MariaDB</b>: memory leak via mysql_stmt_execute()</a>](https://vigilance.fr/vulnerability/MariaDB-memory-leak-via-mysql-stmt-execute-40635)|An attacker can create a memory leak of MariaDB, via |Visit link for details|
  
 
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-014: Critical Vulnerabilities in VMware Products](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On February 20, 2023, the MISP project team released advisories regarding 2 critical SQL injection vulnerabilities in MISP Threat Intelligence and Sharing Platform. The team decided to follow a silent fix procedure, releasing several updates in November and December 2022, giving enough time to users to update their instances to a safe version.|Tuesday, February 23, 2023 10:30:00 PM CET|
+ 
+
 # VulDB
 
  |Title|Description|Date|
@@ -70,11 +77,21 @@
  |[Vulnérabilité dans les produits MongoDB](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0161/)|Une vulnérabilité a été corrigée dans |Publié le 23 février 2023|
  
 
-# EU-CERT
+# MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[2023-014: Critical Vulnerabilities in VMware Products](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On February 20, 2023, the MISP project team released advisories regarding 2 critical SQL injection vulnerabilities in MISP Threat Intelligence and Sharing Platform. The team decided to follow a silent fix procedure, releasing several updates in November and December 2022, giving enough time to users to update their instances to a safe version.|Tuesday, February 23, 2023 10:30:00 PM CET|
+ |[40512502/23 - Vulnérabilité affectant la solution de gestion de bases de données MongoDB](https://www.dgssi.gov.ma//fr/content/4051250223-vulnerabilite-affectant-la-solution-de-gestion-de-bases-de-donnees-mongodb.html)|MongoDBannonce la disponibilité d’une mise à jour qui corrige une vulnérabilité dans son produit susmentionné. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du code arbitraire.|24 février 2023|
+ |[40522402 /23 - Vulnérabilité dans StormShield SSLVPN](https://www.dgssi.gov.ma//fr/content/40522402-23-vulnerabilite-dans-stormshield-sslvpn.html)|Une vulnérabilité a été corrigée dans StormShield SSLVPN. L’exploitation de cette faille pourrait permettre à un attaquant de porter atteinte à la confidentialité des données.|24 février 2023|
+ |[40502402/23 - Vulnérabilités affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/4050240223-vulnerabilites-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilitésaffectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre àun attaquant de provoquer des problèmes...|24 février 2023|
+ |[40492302 /23 - Vulnérabilités critiques dans les produits Cisco](https://www.dgssi.gov.ma//fr/content/40492302-23-vulnerabilites-critiques-dans-les-produits-cisco.html)|Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir une élévation de privilèges, causer un déni de...|23 février 2023|
+ |[40482302 /23 - Vulnérabilité dansles routeurs 4G Zyxel](https://www.dgssi.gov.ma//fr/content/40482302-23-vulnerabilite-dans-les-routeurs-4g-zyxel.html)|Une vulnérabilité a été corrigée dansles routeurs 4G Zyxel. L’exploitation de cette faille pourrait permettre à un attaquant de contourner la politique de sécurité.|23 février 2023|
+ |[40472302 /23 - Vulnérabilités dans Zimbra Collaboration](https://www.dgssi.gov.ma//fr/content/40472302-23-vulnerabilites-dans-zimbra-collaboration.html)|Plusieurs vulnérabilités ont été corrigées dans Zimbra Collaboration. L’exploitation de ces failles pourrait permettre à un attaquant de causer un déni de service, d’injecter du code indirect à distance, de contourner la politique de...|23 février 2023|
+ |[40462302 /23 - Exploitation active de la faille critique « CVE-2022-39952 » affectant les serveurs W](https://www.dgssi.gov.ma//fr/content/40462302-23-exploitation-active-de-la-faille-critique-cve-2022-39952-affectant-les-serveurs-web-fortinac-de-fortinet.html)|Des attaquants tentent d'exploiter une faille critique « CVE-2022-39952 » dans les serveurs Web FortiNAC de Fortinet exposés à Internet, un jour après que des chercheurs en sécurité ont publié un code d'exploitation "Preuve...|23 février 2023|
+ |[40452202 /23 - Vulnérabilité critique dans VMware Carbon Black App Control](https://www.dgssi.gov.ma//fr/content/40452202-23-vulnerabilite-critique-dans-vmware-carbon-black-app-control.html)|Une vulnérabilité critique a été corrigée dans VMware Carbon Black App Control. L’exploitation de cette faille peut permettre à un attaquant distant d’exécuter du code arbitraire.|22 février 2023|
+ |[40442202 /22 - Vulnérabilité dans Apache Tomcat](https://www.dgssi.gov.ma//fr/content/40442202-22-vulnerabilite-dans-apache-tomcat.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées d’Apache Tomcat. L’exploitation de cette faille peut permettre à un attaquant de provoquer un déni de service à distance.|22 février 2023|
+ |[40412002/2023 - Vulnérabilité affectant le CMS Joomla](https://www.dgssi.gov.ma//fr/content/404120022023-vulnerabilite-affectant-le-cms-joomla.html)|Joomla annonce la disponibilité d’une mise à jour qui corrige une vulnérabilité dans son CMS Joomla. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant de contourner les mesures de sécurité.|20 février 2023|
+ |[40432002/23 - Vulnérabilité dans l'hyperviseur Xen](https://www.dgssi.gov.ma//fr/content/4043200223-vulnerabilite-dans-l-hyperviseur-xen.html)|Une vulnérabilité a été corrigée dans les versions d’hyperviseur Xen susmentionnées. L'exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité de données.|20 février 2023|
  
 
 # HK-CERT
@@ -91,21 +108,4 @@
  |[Apple Products Multiple Vulnerabilities](/security-bulletin/apple-products-multiple-vulnerabilities_20230214)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, elevation of privilege, remote code execution, sensitive information disclosure on the targeted system. Note:CVE-2023-23529 is being exploited in...| Release Date: 14 Feb 2023 |
  |[Fortinet Products Multiple Vulnerabilities](/security-bulletin/fortinet-products-multiple-vulnerabilities_20230220)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, denial of service, information disclosure, cross-site scripting and elevation of privilege on the targeted system.|Release Date: 20 Feb 2023|
  |[Mozilla Thunderbird Multiple Vulnerabilities](/security-bulletin/mozilla-thunderbird-multiple-vulnerabilities_20230220)|Multiple vulnerabilities were identified in Mozilla Thunderbird. A remote attacker could exploit some of these vulnerabilities to trigger spoofing, remote code execution, sensitive information disclosure,  denial of service and security restriction bypass on the targeted system.|Release Date: 20 Feb 2023|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[40512502/23 - Vulnérabilité affectant la solution de gestion de bases de données MongoDB](https://www.dgssi.gov.ma//fr/content/4051250223-vulnerabilite-affectant-la-solution-de-gestion-de-bases-de-donnees-mongodb.html)|MongoDBannonce la disponibilité d’une mise à jour qui corrige une vulnérabilité dans son produit susmentionné. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du code arbitraire.|24 février 2023|
- |[40522402 /23 - Vulnérabilité dans StormShield SSLVPN](https://www.dgssi.gov.ma//fr/content/40522402-23-vulnerabilite-dans-stormshield-sslvpn.html)|Une vulnérabilité a été corrigée dans StormShield SSLVPN. L’exploitation de cette faille pourrait permettre à un attaquant de porter atteinte à la confidentialité des données.|24 février 2023|
- |[40502402/23 - Vulnérabilités affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/4050240223-vulnerabilites-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilitésaffectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre àun attaquant de provoquer des problèmes...|24 février 2023|
- |[40492302 /23 - Vulnérabilités critiques dans les produits Cisco](https://www.dgssi.gov.ma//fr/content/40492302-23-vulnerabilites-critiques-dans-les-produits-cisco.html)|Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir une élévation de privilèges, causer un déni de...|23 février 2023|
- |[40482302 /23 - Vulnérabilité dansles routeurs 4G Zyxel](https://www.dgssi.gov.ma//fr/content/40482302-23-vulnerabilite-dans-les-routeurs-4g-zyxel.html)|Une vulnérabilité a été corrigée dansles routeurs 4G Zyxel. L’exploitation de cette faille pourrait permettre à un attaquant de contourner la politique de sécurité.|23 février 2023|
- |[40472302 /23 - Vulnérabilités dans Zimbra Collaboration](https://www.dgssi.gov.ma//fr/content/40472302-23-vulnerabilites-dans-zimbra-collaboration.html)|Plusieurs vulnérabilités ont été corrigées dans Zimbra Collaboration. L’exploitation de ces failles pourrait permettre à un attaquant de causer un déni de service, d’injecter du code indirect à distance, de contourner la politique de...|23 février 2023|
- |[40462302 /23 - Exploitation active de la faille critique « CVE-2022-39952 » affectant les serveurs W](https://www.dgssi.gov.ma//fr/content/40462302-23-exploitation-active-de-la-faille-critique-cve-2022-39952-affectant-les-serveurs-web-fortinac-de-fortinet.html)|Des attaquants tentent d'exploiter une faille critique « CVE-2022-39952 » dans les serveurs Web FortiNAC de Fortinet exposés à Internet, un jour après que des chercheurs en sécurité ont publié un code d'exploitation "Preuve...|23 février 2023|
- |[40452202 /23 - Vulnérabilité critique dans VMware Carbon Black App Control](https://www.dgssi.gov.ma//fr/content/40452202-23-vulnerabilite-critique-dans-vmware-carbon-black-app-control.html)|Une vulnérabilité critique a été corrigée dans VMware Carbon Black App Control. L’exploitation de cette faille peut permettre à un attaquant distant d’exécuter du code arbitraire.|22 février 2023|
- |[40442202 /22 - Vulnérabilité dans Apache Tomcat](https://www.dgssi.gov.ma//fr/content/40442202-22-vulnerabilite-dans-apache-tomcat.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées d’Apache Tomcat. L’exploitation de cette faille peut permettre à un attaquant de provoquer un déni de service à distance.|22 février 2023|
- |[40412002/2023 - Vulnérabilité affectant le CMS Joomla](https://www.dgssi.gov.ma//fr/content/404120022023-vulnerabilite-affectant-le-cms-joomla.html)|Joomla annonce la disponibilité d’une mise à jour qui corrige une vulnérabilité dans son CMS Joomla. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant de contourner les mesures de sécurité.|20 février 2023|
- |[40432002/23 - Vulnérabilité dans l'hyperviseur Xen](https://www.dgssi.gov.ma//fr/content/4043200223-vulnerabilite-dans-l-hyperviseur-xen.html)|Une vulnérabilité a été corrigée dans les versions d’hyperviseur Xen susmentionnées. L'exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité de données.|20 février 2023|
  
