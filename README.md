@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 27/02/2023 19:18:57 UTC
+ > Last Updated 27/02/2023 20:24:24 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -35,6 +35,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Werkzeug-overload-via-Multipart-Form-Data-40659" class="noirorange"><b>Werkzeug</b>: overload via Multipart Form Data</a>](https://vigilance.fr/vulnerability/Werkzeug-overload-via-Multipart-Form-Data-40659)|An attacker can trigger an overload of Werkzeug, via Multipart Form Data, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Werkzeug-privilege-escalation-via-Cookie-Key-40658" class="noirorange"><b>Werkzeug</b>: privilege escalation via Cookie Key</a>](https://vigilance.fr/vulnerability/Werkzeug-privilege-escalation-via-Cookie-Key-40658)|An attacker can bypass restrictions of Werkzeug, via Cookie Key, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Keycloak-Cross-Site-Scripting-via-Impersonation-40657" class="noirorange"><b>Keycloak</b>: Cross Site Scripting via Impersonation</a>](https://vigilance.fr/vulnerability/Keycloak-Cross-Site-Scripting-via-Impersonation-40657)|An attacker can trigger a Cross Site Scripting of Keycloak, via Impersonation, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/SPIP-code-execution-40656" class="noirorange"><b>SPIP</b>: code execution</a>](https://vigilance.fr/vulnerability/SPIP-code-execution-40656)|An attacker can use a vulnerability of SPIP, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ZoneMinder-code-execution-via-Invalid-Language-Debug-Log-File-40655" class="noirorange"><b>ZoneMinder</b>: code execution via Invalid Language Debug Log File</a>](https://vigilance.fr/vulnerability/ZoneMinder-code-execution-via-Invalid-Language-Debug-Log-File-40655)|An attacker can use a vulnerability of ZoneMinder, via Invalid Language Debug Log File, in order to run code...|Visit link for details|
@@ -44,8 +46,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-mpls-dev-sysctl-register-40651" class="noirorange"><b>Linux kernel</b>: double free via mpls_dev_sysctl_register()</a>](https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-mpls-dev-sysctl-register-40651)|An attacker can force a double memory free of the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-wscons-40649" class="noirorange"><b>OpenBSD</b>: denial of service via wscons</a>](https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-wscons-40649)|An attacker can cause a fatal error of OpenBSD, via wscons, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Epiphany-information-disclosure-via-Autofill-40648" class="noirorange"><b>Epiphany</b>: information disclosure via Autofill</a>](https://vigilance.fr/vulnerability/Epiphany-information-disclosure-via-Autofill-40648)|An attacker can bypass access restrictions to data of Epiphany, via Autofill, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/mono-code-execution-via-Application-x-ms-dos-executable-Un-sandboxed-Mono-CLR-Interpreter-40647" class="noirorange"><b>mono</b>: code execution via Application/x-ms-dos-executable Un-sandboxed Mono CLR Interpreter</a>](https://vigilance.fr/vulnerability/mono-code-execution-via-Application-x-ms-dos-executable-Un-sandboxed-Mono-CLR-Interpreter-40647)|An attacker can use a vulnerability of mono, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LibRaw-buffer-overflow-via-LibRaw-buffer-datastream-gets-40646" class="noirorange"><b>LibRaw</b>: buffer overflow via LibRaw_buffer_datastream::gets()</a>](https://vigilance.fr/vulnerability/LibRaw-buffer-overflow-via-LibRaw-buffer-datastream-gets-40646)|An attacker can trigger a buffer overflow of LibRaw, via |Visit link for details|
  
 
 # VulDB
@@ -77,6 +77,22 @@
  |[Multiples vulnérabilités dans Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0163/)|De multiples vulnérabilités ont été corrigées dans |Publié le 23 février 2023|
  
 
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft Edge Multiple Vulnerabilities](/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230227)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service on the targeted system.|Release Date: 27 Feb 2023|
+ |[Cisco Products Multiple Vulnerabilities](/security-bulletin/cisco-products-multiple-vulnerabilities_20230224)|Multiple vulnerabilities were identified in Cisco Systems Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.| Release Date: 24 Feb 2023 |
+ |[Google Chrome Multiple Vulnerabilities](/security-bulletin/google-chrome-multiple-vulnerabilities_20230224)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 24 Feb 2023|
+ |[Linux Kernel Multiple Vulnerabilities](/security-bulletin/linux-kernel-multiple-vulnerabilities_20230213)|Multiple vulnerabilities were identified in Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-02-15] Updated System...| Release Date: 13 Feb 2023 |
+ |[Apple Products Multiple Vulnerabilities](/security-bulletin/apple-products-multiple-vulnerabilities_20230126)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. Note:CVE-2022-...| Release Date: 26 Jan 2023 |
+ |[Apache Tomcat Denial of Service Vulnerability](/security-bulletin/apache-tomcat-denial-of-service-vulnerability_20230222)|A vulnerability has been identified in Apache Tomcat. A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system.|Release Date: 22 Feb 2023|
+ |[VMWare Products Multiple Vulnerabilities](/security-bulletin/vmware-products-multiple-vulnerabilities_20230222)|Multiple vulnerabilities were identified in VMware Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, data manipulation, security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 22 Feb 2023|
+ |[Apple Products Multiple Vulnerabilities](/security-bulletin/apple-products-multiple-vulnerabilities_20230214)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, elevation of privilege, remote code execution, sensitive information disclosure on the targeted system. Note:CVE-2023-23529 is being exploited in...| Release Date: 14 Feb 2023 |
+ |[Fortinet Products Multiple Vulnerabilities](/security-bulletin/fortinet-products-multiple-vulnerabilities_20230220)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, denial of service, information disclosure, cross-site scripting and elevation of privilege on the targeted system.|Release Date: 20 Feb 2023|
+ |[Mozilla Thunderbird Multiple Vulnerabilities](/security-bulletin/mozilla-thunderbird-multiple-vulnerabilities_20230220)|Multiple vulnerabilities were identified in Mozilla Thunderbird. A remote attacker could exploit some of these vulnerabilities to trigger spoofing, remote code execution, sensitive information disclosure,  denial of service and security restriction bypass on the targeted system.|Release Date: 20 Feb 2023|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -92,20 +108,4 @@
  |[40442202 /22 - Vulnérabilité dans Apache Tomcat](https://www.dgssi.gov.ma//fr/content/40442202-22-vulnerabilite-dans-apache-tomcat.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées d’Apache Tomcat. L’exploitation de cette faille peut permettre à un attaquant de provoquer un déni de service à distance.|22 février 2023|
  |[40412002/2023 - Vulnérabilité affectant le CMS Joomla](https://www.dgssi.gov.ma//fr/content/404120022023-vulnerabilite-affectant-le-cms-joomla.html)|Joomla annonce la disponibilité d’une mise à jour qui corrige une vulnérabilité dans son CMS Joomla. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant de contourner les mesures de sécurité.|20 février 2023|
  |[40432002/23 - Vulnérabilité dans l'hyperviseur Xen](https://www.dgssi.gov.ma//fr/content/4043200223-vulnerabilite-dans-l-hyperviseur-xen.html)|Une vulnérabilité a été corrigée dans les versions d’hyperviseur Xen susmentionnées. L'exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité de données.|20 février 2023|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Edge Multiple Vulnerabilities](/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230227)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service on the targeted system.|Release Date: 27 Feb 2023|
- |[Cisco Products Multiple Vulnerabilities](/security-bulletin/cisco-products-multiple-vulnerabilities_20230224)|Multiple vulnerabilities were identified in Cisco Systems Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.| Release Date: 24 Feb 2023 |
- |[Google Chrome Multiple Vulnerabilities](/security-bulletin/google-chrome-multiple-vulnerabilities_20230224)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 24 Feb 2023|
- |[Linux Kernel Multiple Vulnerabilities](/security-bulletin/linux-kernel-multiple-vulnerabilities_20230213)|Multiple vulnerabilities were identified in Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-02-15] Updated System...| Release Date: 13 Feb 2023 |
- |[Apple Products Multiple Vulnerabilities](/security-bulletin/apple-products-multiple-vulnerabilities_20230126)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. Note:CVE-2022-...| Release Date: 26 Jan 2023 |
- |[Apache Tomcat Denial of Service Vulnerability](/security-bulletin/apache-tomcat-denial-of-service-vulnerability_20230222)|A vulnerability has been identified in Apache Tomcat. A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system.|Release Date: 22 Feb 2023|
- |[VMWare Products Multiple Vulnerabilities](/security-bulletin/vmware-products-multiple-vulnerabilities_20230222)|Multiple vulnerabilities were identified in VMware Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, data manipulation, security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 22 Feb 2023|
- |[Apple Products Multiple Vulnerabilities](/security-bulletin/apple-products-multiple-vulnerabilities_20230214)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, elevation of privilege, remote code execution, sensitive information disclosure on the targeted system. Note:CVE-2023-23529 is being exploited in...| Release Date: 14 Feb 2023 |
- |[Fortinet Products Multiple Vulnerabilities](/security-bulletin/fortinet-products-multiple-vulnerabilities_20230220)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, denial of service, information disclosure, cross-site scripting and elevation of privilege on the targeted system.|Release Date: 20 Feb 2023|
- |[Mozilla Thunderbird Multiple Vulnerabilities](/security-bulletin/mozilla-thunderbird-multiple-vulnerabilities_20230220)|Multiple vulnerabilities were identified in Mozilla Thunderbird. A remote attacker could exploit some of these vulnerabilities to trigger spoofing, remote code execution, sensitive information disclosure,  denial of service and security restriction bypass on the targeted system.|Release Date: 20 Feb 2023|
  
