@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 27/02/2023 03:27:53 UTC
+ > Last Updated 27/02/2023 04:27:22 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -35,6 +35,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/mono-code-execution-via-Application-x-ms-dos-executable-Un-sandboxed-Mono-CLR-Interpreter-40647" class="noirorange"><b>mono</b>: code execution via Application/x-ms-dos-executable Un-sandboxed Mono CLR Interpreter</a>](https://vigilance.fr/vulnerability/mono-code-execution-via-Application-x-ms-dos-executable-Un-sandboxed-Mono-CLR-Interpreter-40647)|An attacker can use a vulnerability of mono, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/LibRaw-buffer-overflow-via-LibRaw-buffer-datastream-gets-40646" class="noirorange"><b>LibRaw</b>: buffer overflow via LibRaw_buffer_datastream::gets()</a>](https://vigilance.fr/vulnerability/LibRaw-buffer-overflow-via-LibRaw-buffer-datastream-gets-40646)|An attacker can trigger a buffer overflow of LibRaw, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GnuPG-overload-via-Compressed-Packets-40644" class="noirorange"><b>GnuPG</b>: overload via Compressed Packets</a>](https://vigilance.fr/vulnerability/GnuPG-overload-via-Compressed-Packets-40644)|An attacker can trigger an overload of GnuPG, via Compressed Packets, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Emacs-three-vulnerabilities-40643" class="noirorange"><b>Emacs</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Emacs-three-vulnerabilities-40643)|An attacker can use several vulnerabilities of Emacs...|Visit link for details|
@@ -45,7 +46,6 @@
  |[<a href="https://vigilance.fr/vulnerability/DCMTK-NULL-pointer-dereference-via-DICOM-Files-40638" class="noirorange"><b>DCMTK</b>: NULL pointer dereference via DICOM Files</a>](https://vigilance.fr/vulnerability/DCMTK-NULL-pointer-dereference-via-DICOM-Files-40638)|An attacker can force a NULL pointer to be dereferenced on DCMTK, via DICOM Files, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/DCMTK-four-vulnerabilities-40637" class="noirorange"><b>DCMTK</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/DCMTK-four-vulnerabilities-40637)|An attacker can use several vulnerabilities of DCMTK...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-vcc-open-40636" class="noirorange"><b>Linux kernel</b>: reuse after free via vcc_open()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-vcc-open-40636)|An attacker can force the reuse of a freed memory area of the Linux kernel, via vcc_open(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/MariaDB-memory-leak-via-mysql-stmt-execute-40635" class="noirorange"><b>MariaDB</b>: memory leak via mysql_stmt_execute()</a>](https://vigilance.fr/vulnerability/MariaDB-memory-leak-via-mysql-stmt-execute-40635)|An attacker can create a memory leak of MariaDB, via |Visit link for details|
  
 
 # EU-CERT
