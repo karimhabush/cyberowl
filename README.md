@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 27/02/2023 10:25:45 UTC
+ > Last Updated 27/02/2023 11:19:54 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -35,6 +35,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-mpls-dev-sysctl-register-40651" class="noirorange"><b>Linux kernel</b>: double free via mpls_dev_sysctl_register()</a>](https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-mpls-dev-sysctl-register-40651)|An attacker can force a double memory free of the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-wscons-40649" class="noirorange"><b>OpenBSD</b>: denial of service via wscons</a>](https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-wscons-40649)|An attacker can cause a fatal error of OpenBSD, via wscons, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Epiphany-information-disclosure-via-Autofill-40648" class="noirorange"><b>Epiphany</b>: information disclosure via Autofill</a>](https://vigilance.fr/vulnerability/Epiphany-information-disclosure-via-Autofill-40648)|An attacker can bypass access restrictions to data of Epiphany, via Autofill, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/mono-code-execution-via-Application-x-ms-dos-executable-Un-sandboxed-Mono-CLR-Interpreter-40647" class="noirorange"><b>mono</b>: code execution via Application/x-ms-dos-executable Un-sandboxed Mono CLR Interpreter</a>](https://vigilance.fr/vulnerability/mono-code-execution-via-Application-x-ms-dos-executable-Un-sandboxed-Mono-CLR-Interpreter-40647)|An attacker can use a vulnerability of mono, via |Visit link for details|
@@ -45,7 +46,19 @@
  |[<a href="https://vigilance.fr/vulnerability/RubyGem-ActiveRecord-overload-via-PostgreSQL-Adapter-64bit-Integer-40641" class="noirorange"><b>RubyGem ActiveRecord</b>: overload via PostgreSQL Adapter 64bit Integer</a>](https://vigilance.fr/vulnerability/RubyGem-ActiveRecord-overload-via-PostgreSQL-Adapter-64bit-Integer-40641)|An attacker can trigger an overload of RubyGem ActiveRecord, via PostgreSQL Adapter 64bit Integer, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-l2cap-chan-put-40640" class="noirorange"><b>Linux kernel</b>: reuse after free via l2cap_chan_put()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-l2cap-chan-put-40640)|An attacker can force the reuse of a freed memory area of the Linux kernel, via l2cap_chan_put(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/DCMTK-memory-leak-via-T-ASC-Association-40639" class="noirorange"><b>DCMTK</b>: memory leak via T_ASC_Association</a>](https://vigilance.fr/vulnerability/DCMTK-memory-leak-via-T-ASC-Association-40639)|An attacker can create a memory leak of DCMTK, via T_ASC_Association, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/DCMTK-NULL-pointer-dereference-via-DICOM-Files-40638" class="noirorange"><b>DCMTK</b>: NULL pointer dereference via DICOM Files</a>](https://vigilance.fr/vulnerability/DCMTK-NULL-pointer-dereference-via-DICOM-Files-40638)|An attacker can force a NULL pointer to be dereferenced on DCMTK, via DICOM Files, in order to trigger a denial of service...|Visit link for details|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-014: Critical Vulnerabilities in VMware Products](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On February 20, 2023, the MISP project team released advisories regarding 2 critical SQL injection vulnerabilities in MISP Threat Intelligence and Sharing Platform. The team decided to follow a silent fix procedure, releasing several updates in November and December 2022, giving enough time to users to update their instances to a safe version.|Tuesday, February 23, 2023 10:30:00 PM CET|
  
 
 # CERT-FR
@@ -62,19 +75,6 @@
  |[Multiples vulnérabilités dans Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0163/)|De multiples vulnérabilités ont été corrigées dans |Publié le 23 février 2023|
  |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0162/)|De multiples vulnérabilités ont été corrigées dans |Publié le 23 février 2023|
  |[Vulnérabilité dans les produits MongoDB](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0161/)|Une vulnérabilité a été corrigée dans |Publié le 23 février 2023|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-014: Critical Vulnerabilities in VMware Products](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On February 20, 2023, the MISP project team released advisories regarding 2 critical SQL injection vulnerabilities in MISP Threat Intelligence and Sharing Platform. The team decided to follow a silent fix procedure, releasing several updates in November and December 2022, giving enough time to users to update their instances to a safe version.|Tuesday, February 23, 2023 10:30:00 PM CET|
  
 
 # MA-CERT
