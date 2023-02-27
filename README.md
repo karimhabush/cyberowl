@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 27/02/2023 05:22:30 UTC
+ > Last Updated 27/02/2023 06:29:14 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -48,17 +48,17 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-vcc-open-40636" class="noirorange"><b>Linux kernel</b>: reuse after free via vcc_open()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-vcc-open-40636)|An attacker can force the reuse of a freed memory area of the Linux kernel, via vcc_open(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
 
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
  |---|---|---|
  |[2023-014: Critical Vulnerabilities in VMware Products](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On February 20, 2023, the MISP project team released advisories regarding 2 critical SQL injection vulnerabilities in MISP Threat Intelligence and Sharing Platform. The team decided to follow a silent fix procedure, releasing several updates in November and December 2022, giving enough time to users to update their instances to a safe version.|Tuesday, February 23, 2023 10:30:00 PM CET|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # CERT-FR
