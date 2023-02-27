@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 27/02/2023 01:46:59 UTC
+ > Last Updated 27/02/2023 02:54:45 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -54,13 +54,6 @@
  |---|---|---|
  
 
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-014: Critical Vulnerabilities in VMware Products](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On February 20, 2023, the MISP project team released advisories regarding 2 critical SQL injection vulnerabilities in MISP Threat Intelligence and Sharing Platform. The team decided to follow a silent fix procedure, releasing several updates in November and December 2022, giving enough time to users to update their instances to a safe version.|Tuesday, February 23, 2023 10:30:00 PM CET|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -77,10 +70,18 @@
  |[Vulnérabilité dans les produits MongoDB](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0161/)|Une vulnérabilité a été corrigée dans |Publié le 23 février 2023|
  
 
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-014: Critical Vulnerabilities in VMware Products](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On February 20, 2023, the MISP project team released advisories regarding 2 critical SQL injection vulnerabilities in MISP Threat Intelligence and Sharing Platform. The team decided to follow a silent fix procedure, releasing several updates in November and December 2022, giving enough time to users to update their instances to a safe version.|Tuesday, February 23, 2023 10:30:00 PM CET|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[Microsoft Edge Multiple Vulnerabilities](/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230227)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service on the targeted system.|Release Date: 27 Feb 2023|
  |[Cisco Products Multiple Vulnerabilities](/security-bulletin/cisco-products-multiple-vulnerabilities_20230224)|Multiple vulnerabilities were identified in Cisco Systems Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.| Release Date: 24 Feb 2023 |
  |[Google Chrome Multiple Vulnerabilities](/security-bulletin/google-chrome-multiple-vulnerabilities_20230224)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 24 Feb 2023|
  |[Linux Kernel Multiple Vulnerabilities](/security-bulletin/linux-kernel-multiple-vulnerabilities_20230213)|Multiple vulnerabilities were identified in Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-02-15] Updated System...| Release Date: 13 Feb 2023 |
@@ -90,7 +91,6 @@
  |[Apple Products Multiple Vulnerabilities](/security-bulletin/apple-products-multiple-vulnerabilities_20230214)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service, elevation of privilege, remote code execution, sensitive information disclosure on the targeted system. Note:CVE-2023-23529 is being exploited in...| Release Date: 14 Feb 2023 |
  |[Fortinet Products Multiple Vulnerabilities](/security-bulletin/fortinet-products-multiple-vulnerabilities_20230220)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, denial of service, information disclosure, cross-site scripting and elevation of privilege on the targeted system.|Release Date: 20 Feb 2023|
  |[Mozilla Thunderbird Multiple Vulnerabilities](/security-bulletin/mozilla-thunderbird-multiple-vulnerabilities_20230220)|Multiple vulnerabilities were identified in Mozilla Thunderbird. A remote attacker could exploit some of these vulnerabilities to trigger spoofing, remote code execution, sensitive information disclosure,  denial of service and security restriction bypass on the targeted system.|Release Date: 20 Feb 2023|
- |[Node.js Multiple Vulnerabilities](/security-bulletin/node-js-multiple-vulnerabilities_20230220)|Multiple vulnerabilities have been identified in Node.js, a remote attacker can exploit these vulnerabilities to trigger remote code execution, security restriction bypass, elevation of privilege and denial of service on the targeted system.|Release Date: 20 Feb 2023|
  
 
 # MA-CERT
