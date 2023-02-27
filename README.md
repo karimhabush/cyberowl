@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 27/02/2023 21:20:21 UTC
+ > Last Updated 27/02/2023 22:22:00 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -54,13 +54,6 @@
  |---|---|---|
  
 
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-014: Critical Vulnerabilities in VMware Products](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On February 20, 2023, the MISP project team released advisories regarding 2 critical SQL injection vulnerabilities in MISP Threat Intelligence and Sharing Platform. The team decided to follow a silent fix procedure, releasing several updates in November and December 2022, giving enough time to users to update their instances to a safe version.|Tuesday, February 23, 2023 10:30:00 PM CET|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -75,6 +68,13 @@
  |[Vulnérabilité dans StormShield SSLVPN](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0165/)|Une vulnérabilité a été corrigée dans |Publié le 23 février 2023|
  |[Multiples vulnérabilités dans Broadcom Symantec Content Analysis](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0164/)|De multiples vulnérabilités ont été corrigées dans Symantec Content Analysis. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.|Publié le 23 février 2023|
  |[Multiples vulnérabilités dans Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0163/)|De multiples vulnérabilités ont été corrigées dans |Publié le 23 février 2023|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-014: Critical Vulnerabilities in VMware Products](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On February 20, 2023, the MISP project team released advisories regarding 2 critical SQL injection vulnerabilities in MISP Threat Intelligence and Sharing Platform. The team decided to follow a silent fix procedure, releasing several updates in November and December 2022, giving enough time to users to update their instances to a safe version.|Tuesday, February 23, 2023 10:30:00 PM CET|
  
 
 # MA-CERT
