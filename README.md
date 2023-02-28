@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 28/02/2023 05:23:21 UTC
+ > Last Updated 28/02/2023 06:27:51 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -37,6 +37,29 @@
  |---|---|---|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Vulnérabilité dans IBM QRadar](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0172/)|Une vulnérabilité a été découverte dans IBM QRadar. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 27 février 2023|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0171/)|De multiples vulnérabilités ont été corrigées dans |Publié le 27 février 2023|
+ |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0170/)|De multiples vulnérabilités ont été corrigées dans les |Publié le 24 février 2023|
+ |[Multiples vulnérabilités dans Stormshield Management Center](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0169/)|De multiples vulnérabilités ont été corrigées dans Stormshield Management Center. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 24 février 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0168/)|De multiples vulnérabilités ont été corrigées dans |Publié le 24 février 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0167/)|De multiples vulnérabilités ont été corrigées dans |Publié le 24 février 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0166/)|De multiples vulnérabilités ont été corrigées dans |Publié le 24 février 2023|
+ |[Vulnérabilité dans StormShield SSLVPN](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0165/)|Une vulnérabilité a été corrigée dans |Publié le 23 février 2023|
+ |[Multiples vulnérabilités dans Broadcom Symantec Content Analysis](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0164/)|De multiples vulnérabilités ont été corrigées dans Symantec Content Analysis. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.|Publié le 23 février 2023|
+ |[Multiples vulnérabilités dans Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0163/)|De multiples vulnérabilités ont été corrigées dans |Publié le 23 février 2023|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-014: Critical Vulnerabilities in VMware Products](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On February 20, 2023, the MISP project team released advisories regarding 2 critical SQL injection vulnerabilities in MISP Threat Intelligence and Sharing Platform. The team decided to follow a silent fix procedure, releasing several updates in November and December 2022, giving enough time to users to update their instances to a safe version.|Tuesday, February 23, 2023 10:30:00 PM CET|
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -52,29 +75,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-mpls-dev-sysctl-register-40651" class="noirorange"><b>Linux kernel</b>: double free via mpls_dev_sysctl_register()</a>](https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-mpls-dev-sysctl-register-40651)|An attacker can force a double memory free of the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-wscons-40649" class="noirorange"><b>OpenBSD</b>: denial of service via wscons</a>](https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-wscons-40649)|An attacker can cause a fatal error of OpenBSD, via wscons, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Epiphany-information-disclosure-via-Autofill-40648" class="noirorange"><b>Epiphany</b>: information disclosure via Autofill</a>](https://vigilance.fr/vulnerability/Epiphany-information-disclosure-via-Autofill-40648)|An attacker can bypass access restrictions to data of Epiphany, via Autofill, in order to read sensitive information...|Visit link for details|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-014: Critical Vulnerabilities in VMware Products](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On February 20, 2023, the MISP project team released advisories regarding 2 critical SQL injection vulnerabilities in MISP Threat Intelligence and Sharing Platform. The team decided to follow a silent fix procedure, releasing several updates in November and December 2022, giving enough time to users to update their instances to a safe version.|Tuesday, February 23, 2023 10:30:00 PM CET|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Vulnérabilité dans IBM QRadar](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0172/)|Une vulnérabilité a été découverte dans IBM QRadar. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 27 février 2023|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0171/)|De multiples vulnérabilités ont été corrigées dans |Publié le 27 février 2023|
- |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0170/)|De multiples vulnérabilités ont été corrigées dans les |Publié le 24 février 2023|
- |[Multiples vulnérabilités dans Stormshield Management Center](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0169/)|De multiples vulnérabilités ont été corrigées dans Stormshield Management Center. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 24 février 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0168/)|De multiples vulnérabilités ont été corrigées dans |Publié le 24 février 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0167/)|De multiples vulnérabilités ont été corrigées dans |Publié le 24 février 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0166/)|De multiples vulnérabilités ont été corrigées dans |Publié le 24 février 2023|
- |[Vulnérabilité dans StormShield SSLVPN](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0165/)|Une vulnérabilité a été corrigée dans |Publié le 23 février 2023|
- |[Multiples vulnérabilités dans Broadcom Symantec Content Analysis](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0164/)|De multiples vulnérabilités ont été corrigées dans Symantec Content Analysis. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.|Publié le 23 février 2023|
- |[Multiples vulnérabilités dans Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0163/)|De multiples vulnérabilités ont été corrigées dans |Publié le 23 février 2023|
  
 
 # MA-CERT
