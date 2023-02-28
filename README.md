@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 28/02/2023 14:20:21 UTC
+ > Last Updated 28/02/2023 15:23:34 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -35,6 +35,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Sudo-double-free-via-Per-command-Chroot-Sudoers-Rules-40663" class="noirorange"><b>Sudo</b>: double free via Per-command Chroot Sudoers Rules</a>](https://vigilance.fr/vulnerability/Sudo-double-free-via-Per-command-Chroot-Sudoers-Rules-40663)|An attacker can force a double memory free of Sudo, via Per-command Chroot Sudoers Rules, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Python-urllib-ingress-filtrering-bypass-via-parse-40661" class="noirorange"><b>Python urllib</b>: ingress filtrering bypass via parse()</a>](https://vigilance.fr/vulnerability/Python-urllib-ingress-filtrering-bypass-via-parse-40661)|An attacker can bypass filtering rules of Python urllib, via parse(), in order to send malicious data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Lua-reuse-after-free-via-Garbage-Collector-40660" class="noirorange"><b>Lua</b>: reuse after free via Garbage Collector</a>](https://vigilance.fr/vulnerability/Lua-reuse-after-free-via-Garbage-Collector-40660)|An attacker can force the reuse of a freed memory area of Lua, via Garbage Collector, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Werkzeug-overload-via-Multipart-Form-Data-40659" class="noirorange"><b>Werkzeug</b>: overload via Multipart Form Data</a>](https://vigilance.fr/vulnerability/Werkzeug-overload-via-Multipart-Form-Data-40659)|An attacker can trigger an overload of Werkzeug, via Multipart Form Data, in order to trigger a denial of service...|Visit link for details|
@@ -45,13 +46,6 @@
  |[<a href="https://vigilance.fr/vulnerability/ZoneMinder-height-vulnerabilities-40654" class="noirorange"><b>ZoneMinder</b>: height vulnerabilities</a>](https://vigilance.fr/vulnerability/ZoneMinder-height-vulnerabilities-40654)|An attacker can use several vulnerabilities of ZoneMinder...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ZoneMinder-three-vulnerabilities-40653" class="noirorange"><b>ZoneMinder</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/ZoneMinder-three-vulnerabilities-40653)|An attacker can use several vulnerabilities of ZoneMinder...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/ZoneMinder-Cross-Site-Scripting-via-plugin-php-40652" class="noirorange"><b>ZoneMinder</b>: Cross Site Scripting via plugin.php</a>](https://vigilance.fr/vulnerability/ZoneMinder-Cross-Site-Scripting-via-plugin-php-40652)|An attacker can trigger a Cross Site Scripting of ZoneMinder, via plugin.php, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-mpls-dev-sysctl-register-40651" class="noirorange"><b>Linux kernel</b>: double free via mpls_dev_sysctl_register()</a>](https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-mpls-dev-sysctl-register-40651)|An attacker can force a double memory free of the Linux kernel, via |Visit link for details|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # EU-CERT
@@ -59,6 +53,12 @@
  |Title|Description|Date|
  |---|---|---|
  |[2023-014: Critical Vulnerabilities in VMware Products](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On February 20, 2023, the MISP project team released advisories regarding 2 critical SQL injection vulnerabilities in MISP Threat Intelligence and Sharing Platform. The team decided to follow a silent fix procedure, releasing several updates in November and December 2022, giving enough time to users to update their instances to a safe version.|Tuesday, February 23, 2023 10:30:00 PM CET|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # CERT-FR
