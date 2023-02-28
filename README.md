@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 28/02/2023 10:28:26 UTC
+ > Last Updated 28/02/2023 11:19:02 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -54,13 +54,6 @@
  |---|---|---|
  
 
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-014: Critical Vulnerabilities in VMware Products](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On February 20, 2023, the MISP project team released advisories regarding 2 critical SQL injection vulnerabilities in MISP Threat Intelligence and Sharing Platform. The team decided to follow a silent fix procedure, releasing several updates in November and December 2022, giving enough time to users to update their instances to a safe version.|Tuesday, February 23, 2023 10:30:00 PM CET|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -77,10 +70,18 @@
  |[Multiples vulnérabilités dans Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0163/)|De multiples vulnérabilités ont été corrigées dans |Publié le 23 février 2023|
  
 
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-014: Critical Vulnerabilities in VMware Products](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On February 20, 2023, the MISP project team released advisories regarding 2 critical SQL injection vulnerabilities in MISP Threat Intelligence and Sharing Platform. The team decided to follow a silent fix procedure, releasing several updates in November and December 2022, giving enough time to users to update their instances to a safe version.|Tuesday, February 23, 2023 10:30:00 PM CET|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[40532802 /23 - Vulnérabilité dans IBM QRadar](https://www.dgssi.gov.ma//fr/content/40532802-23-vulnerabilite-dans-ibm-qradar.html)|IBM annonce la correction d’une vulnérabilité dans IBM QRadar.L’exploitation de cette faille peut permettre à un attaquant de causer un problème de sécurité non spécifié.|28 février 2023|
  |[40512502/23 - Vulnérabilité affectant la solution de gestion de bases de données MongoDB](https://www.dgssi.gov.ma//fr/content/4051250223-vulnerabilite-affectant-la-solution-de-gestion-de-bases-de-donnees-mongodb.html)|MongoDBannonce la disponibilité d’une mise à jour qui corrige une vulnérabilité dans son produit susmentionné. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du code arbitraire.|24 février 2023|
  |[40522402 /23 - Vulnérabilité dans StormShield SSLVPN](https://www.dgssi.gov.ma//fr/content/40522402-23-vulnerabilite-dans-stormshield-sslvpn.html)|Une vulnérabilité a été corrigée dans StormShield SSLVPN. L’exploitation de cette faille pourrait permettre à un attaquant de porter atteinte à la confidentialité des données.|24 février 2023|
  |[40502402/23 - Vulnérabilités affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/4050240223-vulnerabilites-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilitésaffectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre àun attaquant de provoquer des problèmes...|24 février 2023|
@@ -91,7 +92,6 @@
  |[40452202 /23 - Vulnérabilité critique dans VMware Carbon Black App Control](https://www.dgssi.gov.ma//fr/content/40452202-23-vulnerabilite-critique-dans-vmware-carbon-black-app-control.html)|Une vulnérabilité critique a été corrigée dans VMware Carbon Black App Control. L’exploitation de cette faille peut permettre à un attaquant distant d’exécuter du code arbitraire.|22 février 2023|
  |[40442202 /22 - Vulnérabilité dans Apache Tomcat](https://www.dgssi.gov.ma//fr/content/40442202-22-vulnerabilite-dans-apache-tomcat.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées d’Apache Tomcat. L’exploitation de cette faille peut permettre à un attaquant de provoquer un déni de service à distance.|22 février 2023|
  |[40412002/2023 - Vulnérabilité affectant le CMS Joomla](https://www.dgssi.gov.ma//fr/content/404120022023-vulnerabilite-affectant-le-cms-joomla.html)|Joomla annonce la disponibilité d’une mise à jour qui corrige une vulnérabilité dans son CMS Joomla. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant de contourner les mesures de sécurité.|20 février 2023|
- |[40432002/23 - Vulnérabilité dans l'hyperviseur Xen](https://www.dgssi.gov.ma//fr/content/4043200223-vulnerabilite-dans-l-hyperviseur-xen.html)|Une vulnérabilité a été corrigée dans les versions d’hyperviseur Xen susmentionnées. L'exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité de données.|20 février 2023|
  
 
 # HK-CERT
