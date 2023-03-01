@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 01/03/2023 09:21:34 UTC
+ > Last Updated 01/03/2023 10:23:32 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -48,10 +48,11 @@
  |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-lhz-40665" class="noirorange"><b>WithSecure Endpoint Protection</b>: denial of service via lhz</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-lhz-40665)|An attacker can cause a fatal error of WithSecure Endpoint Protection, via lhz, in order to trigger a denial of service...|Visit link for details|
  
 
-# VulDB
+# EU-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[2023-014: Critical Vulnerabilities in VMware Products](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On February 20, 2023, the MISP project team released advisories regarding 2 critical SQL injection vulnerabilities in MISP Threat Intelligence and Sharing Platform. The team decided to follow a silent fix procedure, releasing several updates in November and December 2022, giving enough time to users to update their instances to a safe version.|Tuesday, February 23, 2023 10:30:00 PM CET|
  
 
 # CERT-FR
@@ -70,11 +71,10 @@
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0166/)|De multiples vulnérabilités ont été corrigées dans |Publié le 24 février 2023|
  
 
-# EU-CERT
+# VulDB
 
  |Title|Description|Date|
  |---|---|---|
- |[2023-014: Critical Vulnerabilities in VMware Products](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On February 20, 2023, the MISP project team released advisories regarding 2 critical SQL injection vulnerabilities in MISP Threat Intelligence and Sharing Platform. The team decided to follow a silent fix procedure, releasing several updates in November and December 2022, giving enough time to users to update their instances to a safe version.|Tuesday, February 23, 2023 10:30:00 PM CET|
  
 
 # HK-CERT
@@ -97,6 +97,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[40550103 /23 - Vulnérabilité dans VMwareWorkspace ONE Content](https://www.dgssi.gov.ma//fr/content/40550103-23-vulnerabilite-dans-vmware-workspace-one-content.html)|Une vulnérabilité a été corrigée dans VMwareWorkspace ONE Content. Un attaquant pourrait exploiter cette faille afin de contourner la politique de sécurité.|01 mars 2023|
  |[40540103 /23 - Vulnérabilités dans les produits IBM](https://www.dgssi.gov.ma//fr/content/40540103-23-vulnerabilites-dans-les-produits-ibm.html)|Deux vulnérabilités ont été corrigées dans les produits IBM susmentionnés. L’exploitation de ces failles pourrait permettre à un attaquant de réussir une élévation des privilèges et de réaliser des attaques de type injection de code...|01 mars 2023|
  |[40532802 /23 - Vulnérabilité dans IBM QRadar](https://www.dgssi.gov.ma//fr/content/40532802-23-vulnerabilite-dans-ibm-qradar.html)|IBM annonce la correction d’une vulnérabilité dans IBM QRadar.L’exploitation de cette faille peut permettre à un attaquant de causer un problème de sécurité non spécifié.|28 février 2023|
  |[40512502/23 - Vulnérabilité affectant la solution de gestion de bases de données MongoDB](https://www.dgssi.gov.ma//fr/content/4051250223-vulnerabilite-affectant-la-solution-de-gestion-de-bases-de-donnees-mongodb.html)|MongoDBannonce la disponibilité d’une mise à jour qui corrige une vulnérabilité dans son produit susmentionné. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du code arbitraire.|24 février 2023|
@@ -107,5 +108,4 @@
  |[40472302 /23 - Vulnérabilités dans Zimbra Collaboration](https://www.dgssi.gov.ma//fr/content/40472302-23-vulnerabilites-dans-zimbra-collaboration.html)|Plusieurs vulnérabilités ont été corrigées dans Zimbra Collaboration. L’exploitation de ces failles pourrait permettre à un attaquant de causer un déni de service, d’injecter du code indirect à distance, de contourner la politique de...|23 février 2023|
  |[40462302 /23 - Exploitation active de la faille critique « CVE-2022-39952 » affectant les serveurs W](https://www.dgssi.gov.ma//fr/content/40462302-23-exploitation-active-de-la-faille-critique-cve-2022-39952-affectant-les-serveurs-web-fortinac-de-fortinet.html)|Des attaquants tentent d'exploiter une faille critique « CVE-2022-39952 » dans les serveurs Web FortiNAC de Fortinet exposés à Internet, un jour après que des chercheurs en sécurité ont publié un code d'exploitation "Preuve...|23 février 2023|
  |[40452202 /23 - Vulnérabilité critique dans VMware Carbon Black App Control](https://www.dgssi.gov.ma//fr/content/40452202-23-vulnerabilite-critique-dans-vmware-carbon-black-app-control.html)|Une vulnérabilité critique a été corrigée dans VMware Carbon Black App Control. L’exploitation de cette faille peut permettre à un attaquant distant d’exécuter du code arbitraire.|22 février 2023|
- |[40442202 /22 - Vulnérabilité dans Apache Tomcat](https://www.dgssi.gov.ma//fr/content/40442202-22-vulnerabilite-dans-apache-tomcat.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées d’Apache Tomcat. L’exploitation de cette faille peut permettre à un attaquant de provoquer un déni de service à distance.|22 février 2023|
  
