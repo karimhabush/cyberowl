@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 01/03/2023 08:28:04 UTC
+ > Last Updated 01/03/2023 09:21:34 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -24,22 +24,6 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  
  > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Vulnérabilité dans VMware Workspace ONE Content](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0175/)|Une vulnérabilité a été découverte dans VMware Workspace ONE Content. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 28 février 2023|
- |[Multiples vulnérabilités dans IBM QRadar](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0174/)|De multiples vulnérabilités ont été découvertes dans IBM QRadar. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 28 février 2023|
- |[Vulnérabilité dans Nextcloud Talk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0173/)|Une vulnérabilité a été découverte dans Nextcloud Talk. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 28 février 2023|
- |[Vulnérabilité dans IBM QRadar](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0172/)|Une vulnérabilité a été découverte dans IBM QRadar. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 27 février 2023|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0171/)|De multiples vulnérabilités ont été corrigées dans |Publié le 27 février 2023|
- |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0170/)|De multiples vulnérabilités ont été corrigées dans les |Publié le 24 février 2023|
- |[Multiples vulnérabilités dans Stormshield Management Center](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0169/)|De multiples vulnérabilités ont été corrigées dans Stormshield Management Center. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 24 février 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0168/)|De multiples vulnérabilités ont été corrigées dans |Publié le 24 février 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0167/)|De multiples vulnérabilités ont été corrigées dans |Publié le 24 février 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0166/)|De multiples vulnérabilités ont été corrigées dans |Publié le 24 février 2023|
- 
 
 # US-CERT
 
@@ -64,34 +48,33 @@
  |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-lhz-40665" class="noirorange"><b>WithSecure Endpoint Protection</b>: denial of service via lhz</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-lhz-40665)|An attacker can cause a fatal error of WithSecure Endpoint Protection, via lhz, in order to trigger a denial of service...|Visit link for details|
  
 
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-014: Critical Vulnerabilities in VMware Products](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On February 20, 2023, the MISP project team released advisories regarding 2 critical SQL injection vulnerabilities in MISP Threat Intelligence and Sharing Platform. The team decided to follow a silent fix procedure, releasing several updates in November and December 2022, giving enough time to users to update their instances to a safe version.|Tuesday, February 23, 2023 10:30:00 PM CET|
- 
-
 # VulDB
 
  |Title|Description|Date|
  |---|---|---|
  
 
-# MA-CERT
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[40532802 /23 - Vulnérabilité dans IBM QRadar](https://www.dgssi.gov.ma//fr/content/40532802-23-vulnerabilite-dans-ibm-qradar.html)|IBM annonce la correction d’une vulnérabilité dans IBM QRadar.L’exploitation de cette faille peut permettre à un attaquant de causer un problème de sécurité non spécifié.|28 février 2023|
- |[40512502/23 - Vulnérabilité affectant la solution de gestion de bases de données MongoDB](https://www.dgssi.gov.ma//fr/content/4051250223-vulnerabilite-affectant-la-solution-de-gestion-de-bases-de-donnees-mongodb.html)|MongoDBannonce la disponibilité d’une mise à jour qui corrige une vulnérabilité dans son produit susmentionné. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du code arbitraire.|24 février 2023|
- |[40522402 /23 - Vulnérabilité dans StormShield SSLVPN](https://www.dgssi.gov.ma//fr/content/40522402-23-vulnerabilite-dans-stormshield-sslvpn.html)|Une vulnérabilité a été corrigée dans StormShield SSLVPN. L’exploitation de cette faille pourrait permettre à un attaquant de porter atteinte à la confidentialité des données.|24 février 2023|
- |[40502402/23 - Vulnérabilités affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/4050240223-vulnerabilites-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilitésaffectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre àun attaquant de provoquer des problèmes...|24 février 2023|
- |[40492302 /23 - Vulnérabilités critiques dans les produits Cisco](https://www.dgssi.gov.ma//fr/content/40492302-23-vulnerabilites-critiques-dans-les-produits-cisco.html)|Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir une élévation de privilèges, causer un déni de...|23 février 2023|
- |[40482302 /23 - Vulnérabilité dansles routeurs 4G Zyxel](https://www.dgssi.gov.ma//fr/content/40482302-23-vulnerabilite-dans-les-routeurs-4g-zyxel.html)|Une vulnérabilité a été corrigée dansles routeurs 4G Zyxel. L’exploitation de cette faille pourrait permettre à un attaquant de contourner la politique de sécurité.|23 février 2023|
- |[40472302 /23 - Vulnérabilités dans Zimbra Collaboration](https://www.dgssi.gov.ma//fr/content/40472302-23-vulnerabilites-dans-zimbra-collaboration.html)|Plusieurs vulnérabilités ont été corrigées dans Zimbra Collaboration. L’exploitation de ces failles pourrait permettre à un attaquant de causer un déni de service, d’injecter du code indirect à distance, de contourner la politique de...|23 février 2023|
- |[40462302 /23 - Exploitation active de la faille critique « CVE-2022-39952 » affectant les serveurs W](https://www.dgssi.gov.ma//fr/content/40462302-23-exploitation-active-de-la-faille-critique-cve-2022-39952-affectant-les-serveurs-web-fortinac-de-fortinet.html)|Des attaquants tentent d'exploiter une faille critique « CVE-2022-39952 » dans les serveurs Web FortiNAC de Fortinet exposés à Internet, un jour après que des chercheurs en sécurité ont publié un code d'exploitation "Preuve...|23 février 2023|
- |[40452202 /23 - Vulnérabilité critique dans VMware Carbon Black App Control](https://www.dgssi.gov.ma//fr/content/40452202-23-vulnerabilite-critique-dans-vmware-carbon-black-app-control.html)|Une vulnérabilité critique a été corrigée dans VMware Carbon Black App Control. L’exploitation de cette faille peut permettre à un attaquant distant d’exécuter du code arbitraire.|22 février 2023|
- |[40442202 /22 - Vulnérabilité dans Apache Tomcat](https://www.dgssi.gov.ma//fr/content/40442202-22-vulnerabilite-dans-apache-tomcat.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées d’Apache Tomcat. L’exploitation de cette faille peut permettre à un attaquant de provoquer un déni de service à distance.|22 février 2023|
- |[40412002/2023 - Vulnérabilité affectant le CMS Joomla](https://www.dgssi.gov.ma//fr/content/404120022023-vulnerabilite-affectant-le-cms-joomla.html)|Joomla annonce la disponibilité d’une mise à jour qui corrige une vulnérabilité dans son CMS Joomla. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant de contourner les mesures de sécurité.|20 février 2023|
+ |[Vulnérabilité dans VMware Workspace ONE Content](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0175/)|Une vulnérabilité a été découverte dans VMware Workspace ONE Content. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 28 février 2023|
+ |[Multiples vulnérabilités dans IBM QRadar](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0174/)|De multiples vulnérabilités ont été découvertes dans IBM QRadar. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 28 février 2023|
+ |[Vulnérabilité dans Nextcloud Talk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0173/)|Une vulnérabilité a été découverte dans Nextcloud Talk. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 28 février 2023|
+ |[Vulnérabilité dans IBM QRadar](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0172/)|Une vulnérabilité a été découverte dans IBM QRadar. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 27 février 2023|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0171/)|De multiples vulnérabilités ont été corrigées dans |Publié le 27 février 2023|
+ |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0170/)|De multiples vulnérabilités ont été corrigées dans les |Publié le 24 février 2023|
+ |[Multiples vulnérabilités dans Stormshield Management Center](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0169/)|De multiples vulnérabilités ont été corrigées dans Stormshield Management Center. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 24 février 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0168/)|De multiples vulnérabilités ont été corrigées dans |Publié le 24 février 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0167/)|De multiples vulnérabilités ont été corrigées dans |Publié le 24 février 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0166/)|De multiples vulnérabilités ont été corrigées dans |Publié le 24 février 2023|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-014: Critical Vulnerabilities in VMware Products](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On February 20, 2023, the MISP project team released advisories regarding 2 critical SQL injection vulnerabilities in MISP Threat Intelligence and Sharing Platform. The team decided to follow a silent fix procedure, releasing several updates in November and December 2022, giving enough time to users to update their instances to a safe version.|Tuesday, February 23, 2023 10:30:00 PM CET|
  
 
 # HK-CERT
@@ -108,4 +91,21 @@
  |[Linux Kernel Multiple Vulnerabilities](/security-bulletin/linux-kernel-multiple-vulnerabilities_20230213)|Multiple vulnerabilities were identified in Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-02-15] Updated System...| Release Date: 13 Feb 2023 |
  |[Apple Products Multiple Vulnerabilities](/security-bulletin/apple-products-multiple-vulnerabilities_20230126)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. Note:CVE-2022-...| Release Date: 26 Jan 2023 |
  |[Apache Tomcat Denial of Service Vulnerability](/security-bulletin/apache-tomcat-denial-of-service-vulnerability_20230222)|A vulnerability has been identified in Apache Tomcat. A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system.|Release Date: 22 Feb 2023|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[40540103 /23 - Vulnérabilités dans les produits IBM](https://www.dgssi.gov.ma//fr/content/40540103-23-vulnerabilites-dans-les-produits-ibm.html)|Deux vulnérabilités ont été corrigées dans les produits IBM susmentionnés. L’exploitation de ces failles pourrait permettre à un attaquant de réussir une élévation des privilèges et de réaliser des attaques de type injection de code...|01 mars 2023|
+ |[40532802 /23 - Vulnérabilité dans IBM QRadar](https://www.dgssi.gov.ma//fr/content/40532802-23-vulnerabilite-dans-ibm-qradar.html)|IBM annonce la correction d’une vulnérabilité dans IBM QRadar.L’exploitation de cette faille peut permettre à un attaquant de causer un problème de sécurité non spécifié.|28 février 2023|
+ |[40512502/23 - Vulnérabilité affectant la solution de gestion de bases de données MongoDB](https://www.dgssi.gov.ma//fr/content/4051250223-vulnerabilite-affectant-la-solution-de-gestion-de-bases-de-donnees-mongodb.html)|MongoDBannonce la disponibilité d’une mise à jour qui corrige une vulnérabilité dans son produit susmentionné. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du code arbitraire.|24 février 2023|
+ |[40522402 /23 - Vulnérabilité dans StormShield SSLVPN](https://www.dgssi.gov.ma//fr/content/40522402-23-vulnerabilite-dans-stormshield-sslvpn.html)|Une vulnérabilité a été corrigée dans StormShield SSLVPN. L’exploitation de cette faille pourrait permettre à un attaquant de porter atteinte à la confidentialité des données.|24 février 2023|
+ |[40502402/23 - Vulnérabilités affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/4050240223-vulnerabilites-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilitésaffectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre àun attaquant de provoquer des problèmes...|24 février 2023|
+ |[40492302 /23 - Vulnérabilités critiques dans les produits Cisco](https://www.dgssi.gov.ma//fr/content/40492302-23-vulnerabilites-critiques-dans-les-produits-cisco.html)|Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir une élévation de privilèges, causer un déni de...|23 février 2023|
+ |[40482302 /23 - Vulnérabilité dansles routeurs 4G Zyxel](https://www.dgssi.gov.ma//fr/content/40482302-23-vulnerabilite-dans-les-routeurs-4g-zyxel.html)|Une vulnérabilité a été corrigée dansles routeurs 4G Zyxel. L’exploitation de cette faille pourrait permettre à un attaquant de contourner la politique de sécurité.|23 février 2023|
+ |[40472302 /23 - Vulnérabilités dans Zimbra Collaboration](https://www.dgssi.gov.ma//fr/content/40472302-23-vulnerabilites-dans-zimbra-collaboration.html)|Plusieurs vulnérabilités ont été corrigées dans Zimbra Collaboration. L’exploitation de ces failles pourrait permettre à un attaquant de causer un déni de service, d’injecter du code indirect à distance, de contourner la politique de...|23 février 2023|
+ |[40462302 /23 - Exploitation active de la faille critique « CVE-2022-39952 » affectant les serveurs W](https://www.dgssi.gov.ma//fr/content/40462302-23-exploitation-active-de-la-faille-critique-cve-2022-39952-affectant-les-serveurs-web-fortinac-de-fortinet.html)|Des attaquants tentent d'exploiter une faille critique « CVE-2022-39952 » dans les serveurs Web FortiNAC de Fortinet exposés à Internet, un jour après que des chercheurs en sécurité ont publié un code d'exploitation "Preuve...|23 février 2023|
+ |[40452202 /23 - Vulnérabilité critique dans VMware Carbon Black App Control](https://www.dgssi.gov.ma//fr/content/40452202-23-vulnerabilite-critique-dans-vmware-carbon-black-app-control.html)|Une vulnérabilité critique a été corrigée dans VMware Carbon Black App Control. L’exploitation de cette faille peut permettre à un attaquant distant d’exécuter du code arbitraire.|22 février 2023|
+ |[40442202 /22 - Vulnérabilité dans Apache Tomcat](https://www.dgssi.gov.ma//fr/content/40442202-22-vulnerabilite-dans-apache-tomcat.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées d’Apache Tomcat. L’exploitation de cette faille peut permettre à un attaquant de provoquer un déni de service à distance.|22 février 2023|
  
