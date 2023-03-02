@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 02/03/2023 21:21:03 UTC
+ > Last Updated 02/03/2023 22:21:00 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -77,6 +77,22 @@
  |[Vulnérabilité dans Grafana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0176/)|Une vulnérabilité a été découverte dans Grafana. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 1 mars 2023|
  
 
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[IBM WebSphere Application Server Multiple Vulnerabilities](/security-bulletin/ibm-websphere-application-server-multiple-vulnerabilities_20230302)|Multiple vulnerabilities were identified in IBM WebSphere Application Server. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and cross-site scripting on the targeted system.|Release Date: 2 Mar 2023|
+ |[SUSE Linux Kernel Multiple Vulnerabilities](/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230302)|Multiple vulnerabilities were identified in SUSE Linux. An attacker could exploit some of these vulnerabilities to trigger denial of service condition and elevation of privilege on the targeted system.|Release Date: 2 Mar 2023|
+ |[Mozilla Firefox Remote Code Execution Vulnerability](/security-bulletin/mozilla-firefox-remote-code-execution-vulnerability_20230301)|A vulnerability was identified in Mozilla Firefox, a remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 1 Mar 2023|
+ |[Aruba Products Multiple Vulnerabilities](/security-bulletin/aruba-products-multiple-vulnerabilities_20230301)|Multiple vulnerabilities were identified in Aruba Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, cross-site scripting and security restriction bypass on the targeted system.|Release Date: 1 Mar 2023|
+ |[RedHat Linux Kernel Multiple Vulnerabilities](/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230301)|Multiple vulnerabilities were identified in RedHat Linux Kernal. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and elevation of privilege on the targeted system.|Release Date: 1 Mar 2023|
+ |[Oracle Products Multiple Vulnerabilities](/security-bulletin/oracle-products-multiple-vulnerabilities_20230118)|Multiple vulnerabilities were identified in Oracle Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass, sensitive information disclosure and data manipulation on the targeted system. [Updated on 2023-03-01...| Release Date: 18 Jan 2023 |
+ |[Microsoft Edge Multiple Vulnerabilities](/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230227)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service on the targeted system.|Release Date: 27 Feb 2023|
+ |[Cisco Products Multiple Vulnerabilities](/security-bulletin/cisco-products-multiple-vulnerabilities_20230224)|Multiple vulnerabilities were identified in Cisco Systems Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.| Release Date: 24 Feb 2023 |
+ |[Google Chrome Multiple Vulnerabilities](/security-bulletin/google-chrome-multiple-vulnerabilities_20230224)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 24 Feb 2023|
+ |[Linux Kernel Multiple Vulnerabilities](/security-bulletin/linux-kernel-multiple-vulnerabilities_20230213)|Multiple vulnerabilities were identified in Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-02-15] Updated System...| Release Date: 13 Feb 2023 |
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -92,20 +108,4 @@
  |[40512502/23 - Vulnérabilité affectant la solution de gestion de bases de données MongoDB](https://www.dgssi.gov.ma//fr/content/4051250223-vulnerabilite-affectant-la-solution-de-gestion-de-bases-de-donnees-mongodb.html)|MongoDBannonce la disponibilité d’une mise à jour qui corrige une vulnérabilité dans son produit susmentionné. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du code arbitraire.|24 février 2023|
  |[40522402 /23 - Vulnérabilité dans StormShield SSLVPN](https://www.dgssi.gov.ma//fr/content/40522402-23-vulnerabilite-dans-stormshield-sslvpn.html)|Une vulnérabilité a été corrigée dans StormShield SSLVPN. L’exploitation de cette faille pourrait permettre à un attaquant de porter atteinte à la confidentialité des données.|24 février 2023|
  |[40502402/23 - Vulnérabilités affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/4050240223-vulnerabilites-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilitésaffectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre àun attaquant de provoquer des problèmes...|24 février 2023|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[IBM WebSphere Application Server Multiple Vulnerabilities](/security-bulletin/ibm-websphere-application-server-multiple-vulnerabilities_20230302)|Multiple vulnerabilities were identified in IBM WebSphere Application Server. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and cross-site scripting on the targeted system.|Release Date: 2 Mar 2023|
- |[SUSE Linux Kernel Multiple Vulnerabilities](/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230302)|Multiple vulnerabilities were identified in SUSE Linux. An attacker could exploit some of these vulnerabilities to trigger denial of service condition and elevation of privilege on the targeted system.|Release Date: 2 Mar 2023|
- |[Mozilla Firefox Remote Code Execution Vulnerability](/security-bulletin/mozilla-firefox-remote-code-execution-vulnerability_20230301)|A vulnerability was identified in Mozilla Firefox, a remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 1 Mar 2023|
- |[Aruba Products Multiple Vulnerabilities](/security-bulletin/aruba-products-multiple-vulnerabilities_20230301)|Multiple vulnerabilities were identified in Aruba Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, cross-site scripting and security restriction bypass on the targeted system.|Release Date: 1 Mar 2023|
- |[RedHat Linux Kernel Multiple Vulnerabilities](/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230301)|Multiple vulnerabilities were identified in RedHat Linux Kernal. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and elevation of privilege on the targeted system.|Release Date: 1 Mar 2023|
- |[Oracle Products Multiple Vulnerabilities](/security-bulletin/oracle-products-multiple-vulnerabilities_20230118)|Multiple vulnerabilities were identified in Oracle Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass, sensitive information disclosure and data manipulation on the targeted system. [Updated on 2023-03-01...| Release Date: 18 Jan 2023 |
- |[Microsoft Edge Multiple Vulnerabilities](/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230227)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service on the targeted system.|Release Date: 27 Feb 2023|
- |[Cisco Products Multiple Vulnerabilities](/security-bulletin/cisco-products-multiple-vulnerabilities_20230224)|Multiple vulnerabilities were identified in Cisco Systems Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.| Release Date: 24 Feb 2023 |
- |[Google Chrome Multiple Vulnerabilities](/security-bulletin/google-chrome-multiple-vulnerabilities_20230224)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system.|Release Date: 24 Feb 2023|
- |[Linux Kernel Multiple Vulnerabilities](/security-bulletin/linux-kernel-multiple-vulnerabilities_20230213)|Multiple vulnerabilities were identified in Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-02-15] Updated System...| Release Date: 13 Feb 2023 |
  
