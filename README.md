@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 02/03/2023 19:20:18 UTC
+ > Last Updated 02/03/2023 20:22:49 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -35,6 +35,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-three-vulnerabilities-40704" class="noirorange"><b>Centreon Web</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Centreon-Web-three-vulnerabilities-40704)|An attacker can use several vulnerabilities of Centreon Web...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-40703" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-40703)|An attacker can use several vulnerabilities of GitLab CE/EE...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-information-disclosure-via-Synchrony-Service-40702" class="noirorange"><b>Atlassian Confluence Server/DC</b>: information disclosure via Synchrony Service</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-information-disclosure-via-Synchrony-Service-40702)|An attacker can bypass access restrictions to data of Atlassian Confluence Server/DC, via Synchrony Service, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/LIBTIFF-out-of-bounds-memory-reading-via-TIFFTAG-INKNAMES-40701" class="noirorange"><b>LIBTIFF</b>: out-of-bounds memory reading via TIFFTAG_INKNAMES</a>](https://vigilance.fr/vulnerability/LIBTIFF-out-of-bounds-memory-reading-via-TIFFTAG-INKNAMES-40701)|An attacker can force a read at an invalid memory address of LIBTIFF, via TIFFTAG_INKNAMES, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-dr-domain-init-resources-40700" class="noirorange"><b>Linux kernel</b>: denial of service via dr_domain_init_resources()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-dr-domain-init-resources-40700)|An attacker can cause a fatal error of the Linux kernel, via |Visit link for details|
@@ -44,14 +46,19 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-qca-serdev-probe-40696" class="noirorange"><b>Linux kernel</b>: denial of service via qca_serdev_probe()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-qca-serdev-probe-40696)|An attacker can cause a fatal error of the Linux kernel, via qca_serdev_probe(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-ufs-mtk-init-va09-pwr-ctrl-40695" class="noirorange"><b>Linux kernel</b>: denial of service via ufs_mtk_init_va09_pwr_ctrl()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-ufs-mtk-init-va09-pwr-ctrl-40695)|An attacker can cause a fatal error of the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-tegra-xusb-find-port-node-40694" class="noirorange"><b>Linux kernel</b>: denial of service via tegra_xusb_find_port_node()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-tegra-xusb-find-port-node-40694)|An attacker can cause a fatal error of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-HTTP-Server-denial-of-service-via-URL-40693" class="noirorange"><b>IBM HTTP Server</b>: denial of service via URL</a>](https://vigilance.fr/vulnerability/IBM-HTTP-Server-denial-of-service-via-URL-40693)|An attacker can cause a fatal error of IBM HTTP Server, via URL, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Dell-NetWorker-information-disclosure-via-Version-Disclosure-40692" class="noirorange"><b>Dell NetWorker</b>: information disclosure via Version Disclosure</a>](https://vigilance.fr/vulnerability/Dell-NetWorker-information-disclosure-via-Version-Disclosure-40692)|An attacker can bypass access restrictions to data of Dell NetWorker, via Version Disclosure, in order to read sensitive information...|Visit link for details|
  
 
 # VulDB
 
  |Title|Description|Date|
  |---|---|---|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-014: Critical Vulnerabilities in VMware Products](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On February 20, 2023, the MISP project team released advisories regarding 2 critical SQL injection vulnerabilities in MISP Threat Intelligence and Sharing Platform. The team decided to follow a silent fix procedure, releasing several updates in November and December 2022, giving enough time to users to update their instances to a safe version.|Tuesday, February 23, 2023 10:30:00 PM CET|
  
 
 # CERT-FR
@@ -68,13 +75,6 @@
  |[Multiples vulnérabilités dans Aruba ArubaOS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0178/)|De multiples vulnérabilités ont été découvertes dans Aruba ArubaOS. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 1 mars 2023|
  |[Multiples vulnérabilités dans IBM Sterling](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0177/)|De multiples vulnérabilités ont été découvertes dans IBM Sterling. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 1 mars 2023|
  |[Vulnérabilité dans Grafana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0176/)|Une vulnérabilité a été découverte dans Grafana. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 1 mars 2023|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-014: Critical Vulnerabilities in VMware Products](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On February 20, 2023, the MISP project team released advisories regarding 2 critical SQL injection vulnerabilities in MISP Threat Intelligence and Sharing Platform. The team decided to follow a silent fix procedure, releasing several updates in November and December 2022, giving enough time to users to update their instances to a safe version.|Tuesday, February 23, 2023 10:30:00 PM CET|
  
 
 # MA-CERT
