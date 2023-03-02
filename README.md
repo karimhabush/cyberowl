@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 02/03/2023 12:40:43 UTC
+ > Last Updated 02/03/2023 13:37:12 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -31,22 +31,6 @@
  |---|---|---|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Vulnérabilité dans Mozilla Firefox](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0179/)|Une vulnérabilité a été découverte dans Mozilla Firefox. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 1 mars 2023|
- |[Multiples vulnérabilités dans Aruba ArubaOS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0178/)|De multiples vulnérabilités ont été découvertes dans Aruba ArubaOS. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 1 mars 2023|
- |[Multiples vulnérabilités dans IBM Sterling](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0177/)|De multiples vulnérabilités ont été découvertes dans IBM Sterling. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 1 mars 2023|
- |[Vulnérabilité dans Grafana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0176/)|Une vulnérabilité a été découverte dans Grafana. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 1 mars 2023|
- |[Vulnérabilité dans VMware Workspace ONE Content](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0175/)|Une vulnérabilité a été découverte dans VMware Workspace ONE Content. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 28 février 2023|
- |[Multiples vulnérabilités dans IBM QRadar](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0174/)|De multiples vulnérabilités ont été découvertes dans IBM QRadar. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 28 février 2023|
- |[Vulnérabilité dans Nextcloud Talk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0173/)|Une vulnérabilité a été découverte dans Nextcloud Talk. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 28 février 2023|
- |[Vulnérabilité dans IBM QRadar](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0172/)|Une vulnérabilité a été découverte dans IBM QRadar. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 27 février 2023|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0171/)|De multiples vulnérabilités ont été corrigées dans |Publié le 27 février 2023|
- |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0170/)|De multiples vulnérabilités ont été corrigées dans les |Publié le 24 février 2023|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -64,6 +48,35 @@
  |[<a href="https://vigilance.fr/vulnerability/Dell-NetWorker-information-disclosure-via-Version-Disclosure-40692" class="noirorange"><b>Dell NetWorker</b>: information disclosure via Version Disclosure</a>](https://vigilance.fr/vulnerability/Dell-NetWorker-information-disclosure-via-Version-Disclosure-40692)|An attacker can bypass access restrictions to data of Dell NetWorker, via Version Disclosure, in order to read sensitive information...|Visit link for details|
  
 
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-014: Critical Vulnerabilities in VMware Products](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On February 20, 2023, the MISP project team released advisories regarding 2 critical SQL injection vulnerabilities in MISP Threat Intelligence and Sharing Platform. The team decided to follow a silent fix procedure, releasing several updates in November and December 2022, giving enough time to users to update their instances to a safe version.|Tuesday, February 23, 2023 10:30:00 PM CET|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Vulnérabilité dans Mozilla Firefox](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0179/)|Une vulnérabilité a été découverte dans Mozilla Firefox. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 1 mars 2023|
+ |[Multiples vulnérabilités dans Aruba ArubaOS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0178/)|De multiples vulnérabilités ont été découvertes dans Aruba ArubaOS. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 1 mars 2023|
+ |[Multiples vulnérabilités dans IBM Sterling](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0177/)|De multiples vulnérabilités ont été découvertes dans IBM Sterling. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 1 mars 2023|
+ |[Vulnérabilité dans Grafana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0176/)|Une vulnérabilité a été découverte dans Grafana. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 1 mars 2023|
+ |[Vulnérabilité dans VMware Workspace ONE Content](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0175/)|Une vulnérabilité a été découverte dans VMware Workspace ONE Content. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 28 février 2023|
+ |[Multiples vulnérabilités dans IBM QRadar](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0174/)|De multiples vulnérabilités ont été découvertes dans IBM QRadar. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 28 février 2023|
+ |[Vulnérabilité dans Nextcloud Talk](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0173/)|Une vulnérabilité a été découverte dans Nextcloud Talk. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 28 février 2023|
+ |[Vulnérabilité dans IBM QRadar](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0172/)|Une vulnérabilité a été découverte dans IBM QRadar. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 27 février 2023|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0171/)|De multiples vulnérabilités ont été corrigées dans |Publié le 27 février 2023|
+ |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0170/)|De multiples vulnérabilités ont été corrigées dans les |Publié le 24 février 2023|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -79,19 +92,6 @@
  |[40522402 /23 - Vulnérabilité dans StormShield SSLVPN](https://www.dgssi.gov.ma//fr/content/40522402-23-vulnerabilite-dans-stormshield-sslvpn.html)|Une vulnérabilité a été corrigée dans StormShield SSLVPN. L’exploitation de cette faille pourrait permettre à un attaquant de porter atteinte à la confidentialité des données.|24 février 2023|
  |[40502402/23 - Vulnérabilités affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/4050240223-vulnerabilites-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilitésaffectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre àun attaquant de provoquer des problèmes...|24 février 2023|
  |[40492302 /23 - Vulnérabilités critiques dans les produits Cisco](https://www.dgssi.gov.ma//fr/content/40492302-23-vulnerabilites-critiques-dans-les-produits-cisco.html)|Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir une élévation de privilèges, causer un déni de...|23 février 2023|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-014: Critical Vulnerabilities in VMware Products](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On February 20, 2023, the MISP project team released advisories regarding 2 critical SQL injection vulnerabilities in MISP Threat Intelligence and Sharing Platform. The team decided to follow a silent fix procedure, releasing several updates in November and December 2022, giving enough time to users to update their instances to a safe version.|Tuesday, February 23, 2023 10:30:00 PM CET|
  
 
 # HK-CERT
