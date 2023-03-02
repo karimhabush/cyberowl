@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 02/03/2023 11:25:39 UTC
+ > Last Updated 02/03/2023 12:40:43 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -47,10 +47,21 @@
  |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0170/)|De multiples vulnérabilités ont été corrigées dans les |Publié le 24 février 2023|
  
 
-# VulDB
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-information-disclosure-via-Synchrony-Service-40702" class="noirorange"><b>Atlassian Confluence Server/DC</b>: information disclosure via Synchrony Service</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-information-disclosure-via-Synchrony-Service-40702)|An attacker can bypass access restrictions to data of Atlassian Confluence Server/DC, via Synchrony Service, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LIBTIFF-out-of-bounds-memory-reading-via-TIFFTAG-INKNAMES-40701" class="noirorange"><b>LIBTIFF</b>: out-of-bounds memory reading via TIFFTAG_INKNAMES</a>](https://vigilance.fr/vulnerability/LIBTIFF-out-of-bounds-memory-reading-via-TIFFTAG-INKNAMES-40701)|An attacker can force a read at an invalid memory address of LIBTIFF, via TIFFTAG_INKNAMES, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-dr-domain-init-resources-40700" class="noirorange"><b>Linux kernel</b>: denial of service via dr_domain_init_resources()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-dr-domain-init-resources-40700)|An attacker can cause a fatal error of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-memory-tier-init-40699" class="noirorange"><b>Linux kernel</b>: denial of service via memory_tier_init()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-memory-tier-init-40699)|An attacker can cause a fatal error of the Linux kernel, via memory_tier_init(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-get-sg-table-40698" class="noirorange"><b>Linux kernel</b>: denial of service via get_sg_table()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-get-sg-table-40698)|An attacker can cause a fatal error of the Linux kernel, via get_sg_table(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-hashmap-new-40697" class="noirorange"><b>Linux kernel</b>: denial of service via hashmap__new()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-hashmap-new-40697)|An attacker can cause a fatal error of the Linux kernel, via hashmap__new(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-qca-serdev-probe-40696" class="noirorange"><b>Linux kernel</b>: denial of service via qca_serdev_probe()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-qca-serdev-probe-40696)|An attacker can cause a fatal error of the Linux kernel, via qca_serdev_probe(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-ufs-mtk-init-va09-pwr-ctrl-40695" class="noirorange"><b>Linux kernel</b>: denial of service via ufs_mtk_init_va09_pwr_ctrl()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-ufs-mtk-init-va09-pwr-ctrl-40695)|An attacker can cause a fatal error of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-tegra-xusb-find-port-node-40694" class="noirorange"><b>Linux kernel</b>: denial of service via tegra_xusb_find_port_node()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-tegra-xusb-find-port-node-40694)|An attacker can cause a fatal error of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-HTTP-Server-denial-of-service-via-URL-40693" class="noirorange"><b>IBM HTTP Server</b>: denial of service via URL</a>](https://vigilance.fr/vulnerability/IBM-HTTP-Server-denial-of-service-via-URL-40693)|An attacker can cause a fatal error of IBM HTTP Server, via URL, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Dell-NetWorker-information-disclosure-via-Version-Disclosure-40692" class="noirorange"><b>Dell NetWorker</b>: information disclosure via Version Disclosure</a>](https://vigilance.fr/vulnerability/Dell-NetWorker-information-disclosure-via-Version-Disclosure-40692)|An attacker can bypass access restrictions to data of Dell NetWorker, via Version Disclosure, in order to read sensitive information...|Visit link for details|
  
 
 # MA-CERT
@@ -70,28 +81,17 @@
  |[40492302 /23 - Vulnérabilités critiques dans les produits Cisco](https://www.dgssi.gov.ma//fr/content/40492302-23-vulnerabilites-critiques-dans-les-produits-cisco.html)|Plusieurs vulnérabilités critiques ont été corrigées dans les produits Cisco susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à distance, réussir une élévation de privilèges, causer un déni de...|23 février 2023|
  
 
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
  |---|---|---|
  |[2023-014: Critical Vulnerabilities in VMware Products](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On February 20, 2023, the MISP project team released advisories regarding 2 critical SQL injection vulnerabilities in MISP Threat Intelligence and Sharing Platform. The team decided to follow a silent fix procedure, releasing several updates in November and December 2022, giving enough time to users to update their instances to a safe version.|Tuesday, February 23, 2023 10:30:00 PM CET|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-information-disclosure-via-Synchrony-Service-40702" class="noirorange"><b>Atlassian Confluence Server/DC</b>: information disclosure via Synchrony Service</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-information-disclosure-via-Synchrony-Service-40702)|An attacker can bypass access restrictions to data of Atlassian Confluence Server/DC, via Synchrony Service, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LIBTIFF-out-of-bounds-memory-reading-via-TIFFTAG-INKNAMES-40701" class="noirorange"><b>LIBTIFF</b>: out-of-bounds memory reading via TIFFTAG_INKNAMES</a>](https://vigilance.fr/vulnerability/LIBTIFF-out-of-bounds-memory-reading-via-TIFFTAG-INKNAMES-40701)|An attacker can force a read at an invalid memory address of LIBTIFF, via TIFFTAG_INKNAMES, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-dr-domain-init-resources-40700" class="noirorange"><b>Linux kernel</b>: denial of service via dr_domain_init_resources()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-dr-domain-init-resources-40700)|An attacker can cause a fatal error of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-memory-tier-init-40699" class="noirorange"><b>Linux kernel</b>: denial of service via memory_tier_init()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-memory-tier-init-40699)|An attacker can cause a fatal error of the Linux kernel, via memory_tier_init(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-get-sg-table-40698" class="noirorange"><b>Linux kernel</b>: denial of service via get_sg_table()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-get-sg-table-40698)|An attacker can cause a fatal error of the Linux kernel, via get_sg_table(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-hashmap-new-40697" class="noirorange"><b>Linux kernel</b>: denial of service via hashmap__new()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-hashmap-new-40697)|An attacker can cause a fatal error of the Linux kernel, via hashmap__new(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-qca-serdev-probe-40696" class="noirorange"><b>Linux kernel</b>: denial of service via qca_serdev_probe()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-qca-serdev-probe-40696)|An attacker can cause a fatal error of the Linux kernel, via qca_serdev_probe(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-ufs-mtk-init-va09-pwr-ctrl-40695" class="noirorange"><b>Linux kernel</b>: denial of service via ufs_mtk_init_va09_pwr_ctrl()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-ufs-mtk-init-va09-pwr-ctrl-40695)|An attacker can cause a fatal error of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-tegra-xusb-find-port-node-40694" class="noirorange"><b>Linux kernel</b>: denial of service via tegra_xusb_find_port_node()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-tegra-xusb-find-port-node-40694)|An attacker can cause a fatal error of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-HTTP-Server-denial-of-service-via-URL-40693" class="noirorange"><b>IBM HTTP Server</b>: denial of service via URL</a>](https://vigilance.fr/vulnerability/IBM-HTTP-Server-denial-of-service-via-URL-40693)|An attacker can cause a fatal error of IBM HTTP Server, via URL, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Dell-NetWorker-information-disclosure-via-Version-Disclosure-40692" class="noirorange"><b>Dell NetWorker</b>: information disclosure via Version Disclosure</a>](https://vigilance.fr/vulnerability/Dell-NetWorker-information-disclosure-via-Version-Disclosure-40692)|An attacker can bypass access restrictions to data of Dell NetWorker, via Version Disclosure, in order to read sensitive information...|Visit link for details|
  
 
 # HK-CERT
