@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 03/03/2023 13:27:48 UTC
+ > Last Updated 03/03/2023 14:22:10 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -35,6 +35,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-css-what-overload-via-Regular-Expression-40706" class="noirorange"><b>Node.js css-what</b>: overload via Regular Expression</a>](https://vigilance.fr/vulnerability/Node-js-css-what-overload-via-Regular-Expression-40706)|An attacker can trigger an overload of Node.js css-what, via Regular Expression, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-ISO-15765-10681-40705" class="noirorange"><b>Wireshark</b>: denial of service via ISO 15765 / 10681</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-ISO-15765-10681-40705)|An attacker can cause a fatal error of Wireshark, via ISO 15765 / 10681, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-three-vulnerabilities-40704" class="noirorange"><b>Centreon Web</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Centreon-Web-three-vulnerabilities-40704)|An attacker can use several vulnerabilities of Centreon Web...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-40703" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-40703)|An attacker can use several vulnerabilities of GitLab CE/EE...|Visit link for details|
@@ -45,14 +46,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-get-sg-table-40698" class="noirorange"><b>Linux kernel</b>: denial of service via get_sg_table()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-get-sg-table-40698)|An attacker can cause a fatal error of the Linux kernel, via get_sg_table(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-hashmap-new-40697" class="noirorange"><b>Linux kernel</b>: denial of service via hashmap__new()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-hashmap-new-40697)|An attacker can cause a fatal error of the Linux kernel, via hashmap__new(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-qca-serdev-probe-40696" class="noirorange"><b>Linux kernel</b>: denial of service via qca_serdev_probe()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-qca-serdev-probe-40696)|An attacker can cause a fatal error of the Linux kernel, via qca_serdev_probe(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-ufs-mtk-init-va09-pwr-ctrl-40695" class="noirorange"><b>Linux kernel</b>: denial of service via ufs_mtk_init_va09_pwr_ctrl()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-ufs-mtk-init-va09-pwr-ctrl-40695)|An attacker can cause a fatal error of the Linux kernel, via |Visit link for details|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-014: Critical Vulnerabilities in VMware Products](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On February 20, 2023, the MISP project team released advisories regarding 2 critical SQL injection vulnerabilities in MISP Threat Intelligence and Sharing Platform. The team decided to follow a silent fix procedure, releasing several updates in November and December 2022, giving enough time to users to update their instances to a safe version.|Tuesday, February 23, 2023 10:30:00 PM CET|
  
 
 # VulDB
@@ -77,10 +70,18 @@
  |[Vulnérabilité dans Grafana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0176/)|Une vulnérabilité a été découverte dans Grafana. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 1 mars 2023|
  
 
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-014: Critical Vulnerabilities in VMware Products](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On February 20, 2023, the MISP project team released advisories regarding 2 critical SQL injection vulnerabilities in MISP Threat Intelligence and Sharing Platform. The team decided to follow a silent fix procedure, releasing several updates in November and December 2022, giving enough time to users to update their instances to a safe version.|Tuesday, February 23, 2023 10:30:00 PM CET|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[40630303/23 - Vulnérabilités affectant Zimbra Collaboration ](https://www.dgssi.gov.ma//fr/content/4063030323-vulnerabilites-affectant-zimbra-collaboration.html)|Zimbra annonce la disponibilité d’une mise à jour de sécurité permettant la correctionde deux vulnérabilités affectant sa plateforme de messagerie Zimbra. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’...|03 mars 2023|
  |[40620303/23 - Vulnérabilités affectant plusieursproduits deCisco](https://www.dgssi.gov.ma//fr/content/4062030323-vulnerabilites-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’injecter du contenu dans une page ou...|03 mars 2023|
  |[40610203 /23 - Nouvelle compagne d’attaque par le malware « Vidar »](https://www.dgssi.gov.ma//fr/content/40610203-23-nouvelle-compagne-d-attaque-par-le-malware-vidar.html)|Vidar est un malware de vol d'informations écrit en C++ qui permet aux acteurs malveillants de collecter les éléments suivants à partir des machines compromises : détails du navigateur (cookies, URL de sites Web et noms d'...|02 mars 2023|
  |[40600203/23 - Vulnérabilité affectantle navigateur Mozilla Firefox pour Android](https://www.dgssi.gov.ma//fr/content/4060020323-vulnerabilite-affectant-le-navigateur-mozilla-firefox-pour-android.html)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction d’une vulnérabilité au niveau du navigateur Mozilla Firefox sur Android. L’exploitation de cette vulnérabilité peut permettre à un...|02 mars 2023|
@@ -91,7 +92,6 @@
  |[40540103 /23 - Vulnérabilités dans les produits IBM](https://www.dgssi.gov.ma//fr/content/40540103-23-vulnerabilites-dans-les-produits-ibm.html)|Deux vulnérabilités ont été corrigées dans les produits IBM susmentionnés. L’exploitation de ces failles pourrait permettre à un attaquant de réussir une élévation des privilèges et de réaliser des attaques de type injection de code...|01 mars 2023|
  |[40532802 /23 - Vulnérabilité dans IBM QRadar](https://www.dgssi.gov.ma//fr/content/40532802-23-vulnerabilite-dans-ibm-qradar.html)|IBM annonce la correction d’une vulnérabilité dans IBM QRadar.L’exploitation de cette faille peut permettre à un attaquant de causer un problème de sécurité non spécifié.|28 février 2023|
  |[40512502/23 - Vulnérabilité affectant la solution de gestion de bases de données MongoDB](https://www.dgssi.gov.ma//fr/content/4051250223-vulnerabilite-affectant-la-solution-de-gestion-de-bases-de-donnees-mongodb.html)|MongoDBannonce la disponibilité d’une mise à jour qui corrige une vulnérabilité dans son produit susmentionné. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du code arbitraire.|24 février 2023|
- |[40522402 /23 - Vulnérabilité dans StormShield SSLVPN](https://www.dgssi.gov.ma//fr/content/40522402-23-vulnerabilite-dans-stormshield-sslvpn.html)|Une vulnérabilité a été corrigée dans StormShield SSLVPN. L’exploitation de cette faille pourrait permettre à un attaquant de porter atteinte à la confidentialité des données.|24 février 2023|
  
 
 # HK-CERT
