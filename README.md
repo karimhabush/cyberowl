@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 03/03/2023 17:20:02 UTC
+ > Last Updated 03/03/2023 18:27:40 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -31,10 +31,21 @@
  |---|---|---|
  
 
-# VulDB
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-css-what-overload-via-Regular-Expression-40706" class="noirorange"><b>Node.js css-what</b>: overload via Regular Expression</a>](https://vigilance.fr/vulnerability/Node-js-css-what-overload-via-Regular-Expression-40706)|An attacker can trigger an overload of Node.js css-what, via Regular Expression, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-ISO-15765-10681-40705" class="noirorange"><b>Wireshark</b>: denial of service via ISO 15765 / 10681</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-ISO-15765-10681-40705)|An attacker can cause a fatal error of Wireshark, via ISO 15765 / 10681, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-three-vulnerabilities-40704" class="noirorange"><b>Centreon Web</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Centreon-Web-three-vulnerabilities-40704)|An attacker can use several vulnerabilities of Centreon Web...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-40703" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-40703)|An attacker can use several vulnerabilities of GitLab CE/EE...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-information-disclosure-via-Synchrony-Service-40702" class="noirorange"><b>Atlassian Confluence Server/DC</b>: information disclosure via Synchrony Service</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-information-disclosure-via-Synchrony-Service-40702)|An attacker can bypass access restrictions to data of Atlassian Confluence Server/DC, via Synchrony Service, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LIBTIFF-out-of-bounds-memory-reading-via-TIFFTAG-INKNAMES-40701" class="noirorange"><b>LIBTIFF</b>: out-of-bounds memory reading via TIFFTAG_INKNAMES</a>](https://vigilance.fr/vulnerability/LIBTIFF-out-of-bounds-memory-reading-via-TIFFTAG-INKNAMES-40701)|An attacker can force a read at an invalid memory address of LIBTIFF, via TIFFTAG_INKNAMES, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-dr-domain-init-resources-40700" class="noirorange"><b>Linux kernel</b>: denial of service via dr_domain_init_resources()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-dr-domain-init-resources-40700)|An attacker can cause a fatal error of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-memory-tier-init-40699" class="noirorange"><b>Linux kernel</b>: denial of service via memory_tier_init()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-memory-tier-init-40699)|An attacker can cause a fatal error of the Linux kernel, via memory_tier_init(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-get-sg-table-40698" class="noirorange"><b>Linux kernel</b>: denial of service via get_sg_table()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-get-sg-table-40698)|An attacker can cause a fatal error of the Linux kernel, via get_sg_table(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-hashmap-new-40697" class="noirorange"><b>Linux kernel</b>: denial of service via hashmap__new()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-hashmap-new-40697)|An attacker can cause a fatal error of the Linux kernel, via hashmap__new(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-qca-serdev-probe-40696" class="noirorange"><b>Linux kernel</b>: denial of service via qca_serdev_probe()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-qca-serdev-probe-40696)|An attacker can cause a fatal error of the Linux kernel, via qca_serdev_probe(), in order to trigger a denial of service...|Visit link for details|
  
 
 # EU-CERT
@@ -42,6 +53,12 @@
  |Title|Description|Date|
  |---|---|---|
  |[2023-014: Critical Vulnerabilities in VMware Products](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On February 20, 2023, the MISP project team released advisories regarding 2 critical SQL injection vulnerabilities in MISP Threat Intelligence and Sharing Platform. The team decided to follow a silent fix procedure, releasing several updates in November and December 2022, giving enough time to users to update their instances to a safe version.|Tuesday, February 23, 2023 10:30:00 PM CET|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # CERT-FR
@@ -58,23 +75,6 @@
  |[Multiples vulnérabilités dans Symantec Web Isolation](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0189/)|De multiples vulnérabilités ont été découvertes dans Symantec Web Isolation. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.|Publié le 3 mars 2023|
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0188/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 3 mars 2023|
  |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0187/)|De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 3 mars 2023|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Node-js-css-what-overload-via-Regular-Expression-40706" class="noirorange"><b>Node.js css-what</b>: overload via Regular Expression</a>](https://vigilance.fr/vulnerability/Node-js-css-what-overload-via-Regular-Expression-40706)|An attacker can trigger an overload of Node.js css-what, via Regular Expression, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-ISO-15765-10681-40705" class="noirorange"><b>Wireshark</b>: denial of service via ISO 15765 / 10681</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-ISO-15765-10681-40705)|An attacker can cause a fatal error of Wireshark, via ISO 15765 / 10681, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-three-vulnerabilities-40704" class="noirorange"><b>Centreon Web</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Centreon-Web-three-vulnerabilities-40704)|An attacker can use several vulnerabilities of Centreon Web...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-40703" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-40703)|An attacker can use several vulnerabilities of GitLab CE/EE...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-information-disclosure-via-Synchrony-Service-40702" class="noirorange"><b>Atlassian Confluence Server/DC</b>: information disclosure via Synchrony Service</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-information-disclosure-via-Synchrony-Service-40702)|An attacker can bypass access restrictions to data of Atlassian Confluence Server/DC, via Synchrony Service, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LIBTIFF-out-of-bounds-memory-reading-via-TIFFTAG-INKNAMES-40701" class="noirorange"><b>LIBTIFF</b>: out-of-bounds memory reading via TIFFTAG_INKNAMES</a>](https://vigilance.fr/vulnerability/LIBTIFF-out-of-bounds-memory-reading-via-TIFFTAG-INKNAMES-40701)|An attacker can force a read at an invalid memory address of LIBTIFF, via TIFFTAG_INKNAMES, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-dr-domain-init-resources-40700" class="noirorange"><b>Linux kernel</b>: denial of service via dr_domain_init_resources()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-dr-domain-init-resources-40700)|An attacker can cause a fatal error of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-memory-tier-init-40699" class="noirorange"><b>Linux kernel</b>: denial of service via memory_tier_init()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-memory-tier-init-40699)|An attacker can cause a fatal error of the Linux kernel, via memory_tier_init(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-get-sg-table-40698" class="noirorange"><b>Linux kernel</b>: denial of service via get_sg_table()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-get-sg-table-40698)|An attacker can cause a fatal error of the Linux kernel, via get_sg_table(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-hashmap-new-40697" class="noirorange"><b>Linux kernel</b>: denial of service via hashmap__new()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-hashmap-new-40697)|An attacker can cause a fatal error of the Linux kernel, via hashmap__new(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-qca-serdev-probe-40696" class="noirorange"><b>Linux kernel</b>: denial of service via qca_serdev_probe()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-qca-serdev-probe-40696)|An attacker can cause a fatal error of the Linux kernel, via qca_serdev_probe(), in order to trigger a denial of service...|Visit link for details|
  
 
 # MA-CERT
