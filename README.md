@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 03/03/2023 07:19:17 UTC
+ > Last Updated 03/03/2023 08:26:42 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -35,6 +35,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-ISO-15765-10681-40705" class="noirorange"><b>Wireshark</b>: denial of service via ISO 15765 / 10681</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-ISO-15765-10681-40705)|An attacker can cause a fatal error of Wireshark, via ISO 15765 / 10681, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-three-vulnerabilities-40704" class="noirorange"><b>Centreon Web</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Centreon-Web-three-vulnerabilities-40704)|An attacker can use several vulnerabilities of Centreon Web...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-40703" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-40703)|An attacker can use several vulnerabilities of GitLab CE/EE...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-information-disclosure-via-Synchrony-Service-40702" class="noirorange"><b>Atlassian Confluence Server/DC</b>: information disclosure via Synchrony Service</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-information-disclosure-via-Synchrony-Service-40702)|An attacker can bypass access restrictions to data of Atlassian Confluence Server/DC, via Synchrony Service, in order to read sensitive information...|Visit link for details|
@@ -45,13 +46,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-hashmap-new-40697" class="noirorange"><b>Linux kernel</b>: denial of service via hashmap__new()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-hashmap-new-40697)|An attacker can cause a fatal error of the Linux kernel, via hashmap__new(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-qca-serdev-probe-40696" class="noirorange"><b>Linux kernel</b>: denial of service via qca_serdev_probe()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-qca-serdev-probe-40696)|An attacker can cause a fatal error of the Linux kernel, via qca_serdev_probe(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-ufs-mtk-init-va09-pwr-ctrl-40695" class="noirorange"><b>Linux kernel</b>: denial of service via ufs_mtk_init_va09_pwr_ctrl()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-ufs-mtk-init-va09-pwr-ctrl-40695)|An attacker can cause a fatal error of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-tegra-xusb-find-port-node-40694" class="noirorange"><b>Linux kernel</b>: denial of service via tegra_xusb_find_port_node()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-tegra-xusb-find-port-node-40694)|An attacker can cause a fatal error of the Linux kernel, via |Visit link for details|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # CERT-FR
@@ -68,6 +62,12 @@
  |[Multiples vulnérabilités dans Aruba ArubaOS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0178/)|De multiples vulnérabilités ont été découvertes dans Aruba ArubaOS. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 1 mars 2023|
  |[Multiples vulnérabilités dans IBM Sterling](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0177/)|De multiples vulnérabilités ont été découvertes dans IBM Sterling. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 1 mars 2023|
  |[Vulnérabilité dans Grafana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0176/)|Une vulnérabilité a été découverte dans Grafana. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 1 mars 2023|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # EU-CERT
