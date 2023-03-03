@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 03/03/2023 15:21:15 UTC
+ > Last Updated 03/03/2023 16:27:40 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -31,6 +31,12 @@
  |---|---|---|
  
 
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -48,23 +54,11 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-qca-serdev-probe-40696" class="noirorange"><b>Linux kernel</b>: denial of service via qca_serdev_probe()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-qca-serdev-probe-40696)|An attacker can cause a fatal error of the Linux kernel, via qca_serdev_probe(), in order to trigger a denial of service...|Visit link for details|
  
 
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-014: Critical Vulnerabilities in VMware Products](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On February 20, 2023, the MISP project team released advisories regarding 2 critical SQL injection vulnerabilities in MISP Threat Intelligence and Sharing Platform. The team decided to follow a silent fix procedure, releasing several updates in November and December 2022, giving enough time to users to update their instances to a safe version.|Tuesday, February 23, 2023 10:30:00 PM CET|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiples vulnérabilités dans les produits SonicWall](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0196/)|De multiples vulnérabilités ont été découvertes dans les produits SonicWall. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 3 mars 2023|
  |[Multiples vulnérabilités dans les produits RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0195/)|De multiples vulnérabilités ont été corrigées dans |Publié le 3 mars 2023|
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0194/)|De multiples vulnérabilités ont été corrigées dans |Publié le 3 mars 2023|
  |[Multiples vulnérabilités dans le noyau Linux de DebianLTS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0193/)|De multiples vulnérabilités ont été corrigées dans le noyau Linux de |Publié le 3 mars 2023|
@@ -74,7 +68,13 @@
  |[Multiples vulnérabilités dans Symantec Web Isolation](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0189/)|De multiples vulnérabilités ont été découvertes dans Symantec Web Isolation. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.|Publié le 3 mars 2023|
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0188/)|De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 3 mars 2023|
  |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0187/)|De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 3 mars 2023|
- |[Multiples vulnérabilités dans PostgreSQL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0186/)|De multiples vulnérabilités ont été découvertes dans PostgreSQL. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 3 mars 2023|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-014: Critical Vulnerabilities in VMware Products](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On February 20, 2023, the MISP project team released advisories regarding 2 critical SQL injection vulnerabilities in MISP Threat Intelligence and Sharing Platform. The team decided to follow a silent fix procedure, releasing several updates in November and December 2022, giving enough time to users to update their instances to a safe version.|Tuesday, February 23, 2023 10:30:00 PM CET|
  
 
 # MA-CERT
