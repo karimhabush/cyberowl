@@ -27,15 +27,15 @@ def main():
     process = CrawlerProcess(settings=crawler_settings)
 
     spiders_cls = [
-        # CisaSpider,
-        # MACertSpider,
-        # CertFRSpider,
-        # IBMCloudSpider,
-        # ZDISpider,
-        # VigilanceSpider,
-        # VulDBSpider,
-        # HKCERTSpider,
-        # CaCCSSpider,
+        CisaSpider,
+        MACertSpider,
+        CertFRSpider,
+        IBMCloudSpider,
+        ZDISpider,
+        VigilanceSpider,
+        VulDBSpider,
+        HKCERTSpider,
+        CaCCSSpider,
         EUCERTSpider,
     ]
 
