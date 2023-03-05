@@ -26,7 +26,7 @@ class EUCERTSpider(scrapy.Spider):
     name = "EU-CERT"
     max_items = 10
     start_urls = ["https://cow-www-prod.azurewebsites.net/publications/security-advisories"]
-    block_selector = "ul.publications--list"
+    block_selector = "li.publications--list--item"
     link_selector = ""
     date_selector = ".//div[contains(@class,'publications--list--item--date')]/text()"
     title_selector = ".//h3/text()"
