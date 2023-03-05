@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 05/03/2023 17:17:13 UTC
+ > Last Updated 05/03/2023 18:24:35 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,29 +57,6 @@
  |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0187/)|De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 3 mars 2023|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-binder-transaction-buffer-release-40707" class="noirorange"><b>Linux kernel</b>: reuse after free via binder_transaction_buffer_release()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-binder-transaction-buffer-release-40707)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Node-js-css-what-overload-via-Regular-Expression-40706" class="noirorange"><b>Node.js css-what</b>: overload via Regular Expression</a>](https://vigilance.fr/vulnerability/Node-js-css-what-overload-via-Regular-Expression-40706)|An attacker can trigger an overload of Node.js css-what, via Regular Expression, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-ISO-15765-10681-40705" class="noirorange"><b>Wireshark</b>: denial of service via ISO 15765 / 10681</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-ISO-15765-10681-40705)|An attacker can cause a fatal error of Wireshark, via ISO 15765 / 10681, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-three-vulnerabilities-40704" class="noirorange"><b>Centreon Web</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Centreon-Web-three-vulnerabilities-40704)|An attacker can use several vulnerabilities of Centreon Web...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-40703" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-40703)|An attacker can use several vulnerabilities of GitLab CE/EE...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-information-disclosure-via-Synchrony-Service-40702" class="noirorange"><b>Atlassian Confluence Server/DC</b>: information disclosure via Synchrony Service</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-information-disclosure-via-Synchrony-Service-40702)|An attacker can bypass access restrictions to data of Atlassian Confluence Server/DC, via Synchrony Service, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LIBTIFF-out-of-bounds-memory-reading-via-TIFFTAG-INKNAMES-40701" class="noirorange"><b>LIBTIFF</b>: out-of-bounds memory reading via TIFFTAG_INKNAMES</a>](https://vigilance.fr/vulnerability/LIBTIFF-out-of-bounds-memory-reading-via-TIFFTAG-INKNAMES-40701)|An attacker can force a read at an invalid memory address of LIBTIFF, via TIFFTAG_INKNAMES, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-dr-domain-init-resources-40700" class="noirorange"><b>Linux kernel</b>: denial of service via dr_domain_init_resources()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-dr-domain-init-resources-40700)|An attacker can cause a fatal error of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-memory-tier-init-40699" class="noirorange"><b>Linux kernel</b>: denial of service via memory_tier_init()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-memory-tier-init-40699)|An attacker can cause a fatal error of the Linux kernel, via memory_tier_init(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-get-sg-table-40698" class="noirorange"><b>Linux kernel</b>: denial of service via get_sg_table()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-get-sg-table-40698)|An attacker can cause a fatal error of the Linux kernel, via get_sg_table(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-hashmap-new-40697" class="noirorange"><b>Linux kernel</b>: denial of service via hashmap__new()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-hashmap-new-40697)|An attacker can cause a fatal error of the Linux kernel, via hashmap__new(), in order to trigger a denial of service...|Visit link for details|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -126,6 +103,43 @@
  |[Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/linux-kernel-multiple-vulnerabilities_20230213)|Multiple vulnerabilities were identified in Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-02-15] Updated System...| Release Date: 13 Feb 2023 |
  
 
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-binder-transaction-buffer-release-40707" class="noirorange"><b>Linux kernel</b>: reuse after free via binder_transaction_buffer_release()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-binder-transaction-buffer-release-40707)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-css-what-overload-via-Regular-Expression-40706" class="noirorange"><b>Node.js css-what</b>: overload via Regular Expression</a>](https://vigilance.fr/vulnerability/Node-js-css-what-overload-via-Regular-Expression-40706)|An attacker can trigger an overload of Node.js css-what, via Regular Expression, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-ISO-15765-10681-40705" class="noirorange"><b>Wireshark</b>: denial of service via ISO 15765 / 10681</a>](https://vigilance.fr/vulnerability/Wireshark-denial-of-service-via-ISO-15765-10681-40705)|An attacker can cause a fatal error of Wireshark, via ISO 15765 / 10681, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Centreon-Web-three-vulnerabilities-40704" class="noirorange"><b>Centreon Web</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Centreon-Web-three-vulnerabilities-40704)|An attacker can use several vulnerabilities of Centreon Web...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-40703" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-40703)|An attacker can use several vulnerabilities of GitLab CE/EE...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-information-disclosure-via-Synchrony-Service-40702" class="noirorange"><b>Atlassian Confluence Server/DC</b>: information disclosure via Synchrony Service</a>](https://vigilance.fr/vulnerability/Atlassian-Confluence-Server-DC-information-disclosure-via-Synchrony-Service-40702)|An attacker can bypass access restrictions to data of Atlassian Confluence Server/DC, via Synchrony Service, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LIBTIFF-out-of-bounds-memory-reading-via-TIFFTAG-INKNAMES-40701" class="noirorange"><b>LIBTIFF</b>: out-of-bounds memory reading via TIFFTAG_INKNAMES</a>](https://vigilance.fr/vulnerability/LIBTIFF-out-of-bounds-memory-reading-via-TIFFTAG-INKNAMES-40701)|An attacker can force a read at an invalid memory address of LIBTIFF, via TIFFTAG_INKNAMES, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-dr-domain-init-resources-40700" class="noirorange"><b>Linux kernel</b>: denial of service via dr_domain_init_resources()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-dr-domain-init-resources-40700)|An attacker can cause a fatal error of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-memory-tier-init-40699" class="noirorange"><b>Linux kernel</b>: denial of service via memory_tier_init()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-memory-tier-init-40699)|An attacker can cause a fatal error of the Linux kernel, via memory_tier_init(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-get-sg-table-40698" class="noirorange"><b>Linux kernel</b>: denial of service via get_sg_table()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-get-sg-table-40698)|An attacker can cause a fatal error of the Linux kernel, via get_sg_table(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-hashmap-new-40697" class="noirorange"><b>Linux kernel</b>: denial of service via hashmap__new()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-hashmap-new-40697)|An attacker can cause a fatal error of the Linux kernel, via hashmap__new(), in order to trigger a denial of service...|Visit link for details|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -141,20 +155,6 @@
  |[2023-006: Critical Security Flaw in Jira Service Management Server and Data Center](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-006.pdf)|A critical security flaw has been discovered in Jira Service Management Server and Data Center that can be exploited by an attacker to impersonate another user and gain unauthorized access to instances. The vulnerability is tracked as CVE-2023-22501 with a CVSS score of 9.4.|Friday, February 03, 2023 07:20:00 PM CET|
  |[2023-005: Critical Code Injection Vulnerability in QNAP Devices](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-005.pdf)|On January 30th, 2023, QNAP published an advisory related to a critical vulnerability, identified as CVE-2022-27596, allowing remote attackers to inject malicious code on QNAP NAS devices.|Tuesday, January 31, 2023 05:55:00 PM CET|
  |[2023-004: Critical Vulnerability in Several ManageEngine Products](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-004.pdf)|On January 18th, ManageEngine released updates to several ManageEngine OnPremise products. The potentially vulnerable products use outdated versions of the open-source library Apache Santuario (XML Security for Java). Products must have enabled Single-Sign-On (SSO) using the Security Assertion Markup Language (SAML) to be vulnerable. For some products, the SSO must be active, while for others, it is sufficient that SSO was active once. As a result, the vulnerability allows an unauthenticated adversary to execute arbitrary code. Additionally, a Proof-of-Concept exploit is available.|Monday, January 30, 2023 10:15:00 AM CET|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
 
 # CA-CCS
