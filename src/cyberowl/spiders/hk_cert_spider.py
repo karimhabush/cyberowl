@@ -43,7 +43,7 @@ class HKCERTSpider(scrapy.Spider):
             item = AlertItem()
 
             item["title"] = bulletin.xpath(self.title_selector).get()
-            item["link"] = bulletin.xpath(self.link_selector).get()
+            item["link"] = "https://www.hkcert.org" + bulletin.xpath(self.link_selector).get()
             item["date"] = bulletin.xpath(self.date_selector).get()
             item["description"] = bulletin.xpath(self.description_selector).get()
 
