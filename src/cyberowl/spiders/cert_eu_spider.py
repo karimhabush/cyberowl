@@ -25,9 +25,9 @@ class EUCERTSpider(scrapy.Spider):
 
     name = "EU-CERT"
     max_items = 10
-    start_urls = ["https://cow-www-prod.azurewebsites.net/publications/security-advisories"]
+    start_urls = ["https://cert.europa.eu/publications/security-advisories/2023"]
     block_selector = "li.publications--list--item"
-    link_selector = ""
+    link_selector = "descendant-or-self::ul[contains(@class,'publications--list--item--share')]/li[5]/a/@href"
     date_selector = ".//div[contains(@class,'publications--list--item--date')]/text()"
     title_selector = ".//h3/text()"
     description_selector = (
@@ -46,7 +46,7 @@ class EUCERTSpider(scrapy.Spider):
             item = AlertItem()
 
             item["title"] = bulletin.xpath(self.title_selector).get()
-            item["link"] = "https://cow-www-prod.azurewebsites.net/publications/security-advisories"
+            item["link"] = "https://cert.europa.eu" + bulletin.xpath(self.link_selector).get()
             item["date"] = bulletin.xpath(self.date_selector).get()
             item["description"] = bulletin.xpath(self.description_selector).get()
 
