@@ -47,7 +47,7 @@ class CisaSpider(scrapy.Spider):
 
             item["title"] = bulletin.xpath(self.title_selector).get()
             item["link"] = (
-                "https://www.cisa.gov/uscert" + bulletin.xpath(self.link_selector).get()
+                "https://www.cisa.gov" + bulletin.xpath(self.link_selector).get()
             )
             item["date"] = bulletin.xpath(self.date_selector).get()
             item["description"] = "Visit link for details."
