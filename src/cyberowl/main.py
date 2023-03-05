@@ -28,15 +28,15 @@ def main():
 
     spiders_cls = [
         CisaSpider,
-        MACertSpider,
-        CertFRSpider,
-        IBMCloudSpider,
-        ZDISpider,
-        VigilanceSpider,
-        VulDBSpider,
-        HKCERTSpider,
-        CaCCSSpider,
-        EUCERTSpider,
+        # MACertSpider,
+        # CertFRSpider,
+        # IBMCloudSpider,
+        # ZDISpider,
+        # VigilanceSpider,
+        # VulDBSpider,
+        # HKCERTSpider,
+        # CaCCSSpider,
+        # EUCERTSpider,
     ]
 
     for spider in spiders_cls:
