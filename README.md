@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 05/03/2023 13:23:57 UTC
+ > Last Updated 05/03/2023 14:17:46 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -25,22 +25,6 @@
  
  > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/uscert/news-events/alerts/2023/03/02/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Mar 02, 2023|
- |[Cisco Releases Security Advisory for Cisco IP Phones](https://www.cisa.gov/uscert/news-events/alerts/2023/03/02/cisco-releases-security-advisory-cisco-ip-phones)|Visit link for details.|Mar 02, 2023|
- |[FBI and CISA Release #StopRansomware: Royal Ransomware](https://www.cisa.gov/uscert/news-events/alerts/2023/03/02/fbi-and-cisa-release-stopransomware-royal-ransomware)|Visit link for details.|Mar 02, 2023|
- |[CISA Releases Decider Tool to Help with MITRE ATT&CK Mapping](https://www.cisa.gov/uscert/news-events/alerts/2023/03/01/cisa-releases-decider-tool-help-mitre-attck-mapping)|Visit link for details.|Mar 01, 2023|
- |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/uscert/news-events/alerts/2023/02/28/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Feb 28, 2023|
- |[CISA Red Team Shares Key Findings to Improve Monitoring and Hardening of Networks](https://www.cisa.gov/uscert/news-events/alerts/2023/02/28/cisa-red-team-shares-key-findings-improve-monitoring-and-hardening-networks)|Visit link for details.|Feb 28, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/uscert/news-events/alerts/2023/02/27/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Feb 27, 2023|
- |[US-CERT and ICS-CERT Transition to CISA](https://www.cisa.gov/uscert/news-events/alerts/2023/02/24/us-cert-and-ics-cert-transition-cisa)|Visit link for details.|Feb 24, 2023|
- |[VMware Releases Security Updates for Carbon Black App Control](https://www.cisa.gov/uscert/news-events/alerts/2023/02/23/vmware-releases-security-updates-carbon-black-app-control)|Visit link for details.|Feb 23, 2023|
- |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/uscert/news-events/alerts/2023/02/23/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Feb 23, 2023|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -58,10 +42,20 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-hashmap-new-40697" class="noirorange"><b>Linux kernel</b>: denial of service via hashmap__new()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-hashmap-new-40697)|An attacker can cause a fatal error of the Linux kernel, via hashmap__new(), in order to trigger a denial of service...|Visit link for details|
  
 
-# VulDB
+# US-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/uscert/news-events/alerts/2023/03/02/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Mar 02, 2023|
+ |[Cisco Releases Security Advisory for Cisco IP Phones](https://www.cisa.gov/uscert/news-events/alerts/2023/03/02/cisco-releases-security-advisory-cisco-ip-phones)|Visit link for details.|Mar 02, 2023|
+ |[FBI and CISA Release #StopRansomware: Royal Ransomware](https://www.cisa.gov/uscert/news-events/alerts/2023/03/02/fbi-and-cisa-release-stopransomware-royal-ransomware)|Visit link for details.|Mar 02, 2023|
+ |[CISA Releases Decider Tool to Help with MITRE ATT&CK Mapping](https://www.cisa.gov/uscert/news-events/alerts/2023/03/01/cisa-releases-decider-tool-help-mitre-attck-mapping)|Visit link for details.|Mar 01, 2023|
+ |[CISA Releases Three Industrial Control Systems Advisories](https://www.cisa.gov/uscert/news-events/alerts/2023/02/28/cisa-releases-three-industrial-control-systems-advisories)|Visit link for details.|Feb 28, 2023|
+ |[CISA Red Team Shares Key Findings to Improve Monitoring and Hardening of Networks](https://www.cisa.gov/uscert/news-events/alerts/2023/02/28/cisa-red-team-shares-key-findings-improve-monitoring-and-hardening-networks)|Visit link for details.|Feb 28, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/uscert/news-events/alerts/2023/02/27/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Feb 27, 2023|
+ |[US-CERT and ICS-CERT Transition to CISA](https://www.cisa.gov/uscert/news-events/alerts/2023/02/24/us-cert-and-ics-cert-transition-cisa)|Visit link for details.|Feb 24, 2023|
+ |[VMware Releases Security Updates for Carbon Black App Control](https://www.cisa.gov/uscert/news-events/alerts/2023/02/23/vmware-releases-security-updates-carbon-black-app-control)|Visit link for details.|Feb 23, 2023|
+ |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/uscert/news-events/alerts/2023/02/23/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Feb 23, 2023|
  
 
 # EU-CERT
@@ -69,6 +63,12 @@
  |Title|Description|Date|
  |---|---|---|
  |[2023-014: Critical Vulnerabilities in VMware Products](https://cow-www-prod.azurewebsites.net/publications/security-advisories)|On February 20, 2023, the MISP project team released advisories regarding 2 critical SQL injection vulnerabilities in MISP Threat Intelligence and Sharing Platform. The team decided to follow a silent fix procedure, releasing several updates in November and December 2022, giving enough time to users to update their instances to a safe version.|Tuesday, February 23, 2023 10:30:00 PM CET|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # CERT-FR
