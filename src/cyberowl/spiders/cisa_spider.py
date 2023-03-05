@@ -25,14 +25,14 @@ class CisaSpider(scrapy.Spider):
 
     name = "US-CERT"
     max_items = 10
-    start_urls = ["https://www.cisa.gov/uscert/ncas/current-activity"]
-    block_selector = "div.views-row"
-    link_selector = "descendant-or-self::h3/span/a/@href"
+    start_urls = ["https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_type%3A93"]
+    block_selector = "div.c-view__row"
+    link_selector = "descendant-or-self::h3[contains(@class,'c-teaser__title')]/a/@href"
     date_selector = (
-        "descendant-or-self::div[contains(@class,'entry-date')]/span[2]/text()"
+        "descendant-or-self::div[contains(@class,'c-teaser__date')]//text()"
     )
-    title_selector = "descendant-or-self::h3/span/a/text()"
-    description_selector = "descendant-or-self::div[contains(@class,'field-content')]/p"
+    title_selector = "descendant-or-self::h3[contains(@class,'c-teaser__title')]/a/span/text()"
+    description_selector = ""
 
     def parse(self, response):
         """
@@ -50,6 +50,6 @@ class CisaSpider(scrapy.Spider):
                 "https://www.cisa.gov/uscert" + bulletin.xpath(self.link_selector).get()
             )
             item["date"] = bulletin.xpath(self.date_selector).get()
-            item["description"] = bulletin.xpath(self.description_selector).get()
+            item["description"] = "Visit link for details."
 
             yield item
