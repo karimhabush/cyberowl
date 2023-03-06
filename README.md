@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 06/03/2023 19:18:09 UTC
+ > Last Updated 06/03/2023 20:24:42 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -41,6 +41,25 @@
  |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/02/23/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Feb 23, 2023|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[FabulaTech Webcam for Remote Desktop denial of service (CVE-2023-1186)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 6, 2023|
+ |[FabulaTech Webcam for Remote Desktop denial of service (CVE-2023-1187)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 6, 2023|
+ |[FabulaTech Webcam for Remote Desktop denial of service (CVE-2023-1188)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 6, 2023|
+ |[WiseCleaner Wise Folder Hider denial of service (CVE-2023-1189)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 6, 2023|
+ |[Sourcecodester Health Center Patient Record Management System cross-site scripting (CVE-2023-1180)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 5, 2023|
+ |[Sourcecodester Computer Parts Sales and Inventory System cross-site scripting (CVE-2023-1179)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 4, 2023|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 3, 2023|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
@@ -55,25 +74,6 @@
  |[Multiples vulnérabilités dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0191/)|De multiples vulnérabilités ont été découvertes dans Wireshark. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 3 mars 2023|
  |[Multiples vulnérabilités dans Tenable Nessus](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0190/)|De multiples vulnérabilités ont été découvertes dans Tenable Nessus. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 3 mars 2023|
  |[Multiples vulnérabilités dans Symantec Web Isolation](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0189/)|De multiples vulnérabilités ont été découvertes dans Symantec Web Isolation. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.|Publié le 3 mars 2023|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[FabulaTech Webcam for Remote Desktop denial of service (CVE-2023-1188)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 6, 2023|
- |[WiseCleaner Wise Folder Hider denial of service (CVE-2023-1189)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 6, 2023|
- |[Craft CMS cross-site scripting (CVE-2023-23927)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 3, 2023|
- |[ASOS cross-site scripting (CVE-2023-0577)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 3, 2023|
- |[ASOS cross-site scripting (CVE-2023-0578)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 3, 2023|
- |[Zhong Bang CRMEB Java SQL injection (CVE-2023-1165)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 3, 2023|
- |[KylinSoft kylin-activation privilege escalation (CVE-2023-1164)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 3, 2023|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # OBS-Vigilance
@@ -143,6 +143,20 @@
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230227)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service on the targeted system.|Release Date: 27 Feb 2023|
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
@@ -158,18 +172,4 @@
  |[Cisco Security Advisory (AV23-120)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av23-120)|Visit link for details|2023-03-02|
  |[HPE security advisory (AV23-119)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-119)|Visit link for details|2023-03-02|
  |[IBM security advisory (AV23-118)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-118)|Visit link for details|2023-03-02|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
