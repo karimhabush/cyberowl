@@ -4,6 +4,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[HPE security advisory (AV23-126)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-126)|Visit link for details|2023-03-03|
  |[GitLab security advisory (AV23-125)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av23-125)|Visit link for details|2023-03-03|
  |[[Control systems] Rittal security advisory (AV23-124)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-rittal-security-advisory-av23-124)|Visit link for details|2023-03-02|
  |[[Control systems] Baicells security advisory (AV23-123)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-baicells-security-advisory-av23-123)|Visit link for details|2023-03-02|
@@ -14,5 +15,4 @@
  |[IBM security advisory (AV23-118)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-118)|Visit link for details|2023-03-02|
  |[[Control systems] Hitachi Energy security advisory (AV23-117)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-hitachi-energy-security-advisory-av23-117)|Visit link for details|2023-02-28|
  |[Microsoft Edge security advisory (AV23-116)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-116)|Visit link for details|2023-02-28|
- |[[Control systems] ABB security advisory (AV23-115)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av23-115)|Visit link for details|2023-02-28|
  
