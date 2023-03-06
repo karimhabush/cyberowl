@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 06/03/2023 13:29:54 UTC
+ > Last Updated 06/03/2023 14:20:21 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,39 +57,6 @@
  |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0187/)|De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 3 mars 2023|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[40630303/23 - Vulnérabilités affectant Zimbra Collaboration ](https://www.dgssi.gov.ma//fr/content/4063030323-vulnerabilites-affectant-zimbra-collaboration.html)|Zimbra annonce la disponibilité d’une mise à jour de sécurité permettant la correctionde deux vulnérabilités affectant sa plateforme de messagerie Zimbra. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’...|03 mars 2023|
- |[40620303/23 - Vulnérabilités affectant plusieursproduits deCisco](https://www.dgssi.gov.ma//fr/content/4062030323-vulnerabilites-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’injecter du contenu dans une page ou...|03 mars 2023|
- |[40610203 /23 - Nouvelle compagne d’attaque par le malware « Vidar »](https://www.dgssi.gov.ma//fr/content/40610203-23-nouvelle-compagne-d-attaque-par-le-malware-vidar.html)|Vidar est un malware de vol d'informations écrit en C++ qui permet aux acteurs malveillants de collecter les éléments suivants à partir des machines compromises : détails du navigateur (cookies, URL de sites Web et noms d'...|02 mars 2023|
- |[40600203/23 - Vulnérabilité affectantle navigateur Mozilla Firefox pour Android](https://www.dgssi.gov.ma//fr/content/4060020323-vulnerabilite-affectant-le-navigateur-mozilla-firefox-pour-android.html)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction d’une vulnérabilité au niveau du navigateur Mozilla Firefox sur Android. L’exploitation de cette vulnérabilité peut permettre à un...|02 mars 2023|
- |[40590203/23 - Vulnérabilités affectantle navigateur Microsoft Edge ](https://www.dgssi.gov.ma//fr/content/4059020323-vulnerabilites-affectant-le-navigateur-microsoft-edge.html)|Microsoft vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilités affectant le navigateur Microsoft Edge. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuter du code...|02 mars 2023|
- |[40580103 /23 - Vulnérabilités dans Cisco IP Phone](https://www.dgssi.gov.ma//fr/content/40580103-23-vulnerabilites-dans-cisco-ip-phone.html)|Plusieurs vulnérabilités ont été corrigées dans Cisco IP Phone. L’exploitation de ces vulnérabilités peut permettre à un attaquantd’exécuter du code arbitraire à distance et de causer un déni de service.|02 mars 2023|
- |[40570103 /23 - Vulnérabilités critique dans Aruba ArubaOS](https://www.dgssi.gov.ma//fr/content/40570103-23-vulnerabilites-critique-dans-aruba-arubaos.html)|Plusieurs vulnérabilités critiques ont été corrigées dans Aruba ArubaOS. L’exploitation de ces failles pourrait permettre à un attaquant d’exécuter du code arbitraire à distance, de porter atteinte à la confidentialité des données et de...|02 mars 2023|
- |[40550103 /23 - Vulnérabilité dans VMwareWorkspace ONE Content](https://www.dgssi.gov.ma//fr/content/40550103-23-vulnerabilite-dans-vmware-workspace-one-content.html)|Une vulnérabilité a été corrigée dans VMwareWorkspace ONE Content. Un attaquant pourrait exploiter cette faille afin de contourner la politique de sécurité.|01 mars 2023|
- |[40540103 /23 - Vulnérabilités dans les produits IBM](https://www.dgssi.gov.ma//fr/content/40540103-23-vulnerabilites-dans-les-produits-ibm.html)|Deux vulnérabilités ont été corrigées dans les produits IBM susmentionnés. L’exploitation de ces failles pourrait permettre à un attaquant de réussir une élévation des privilèges et de réaliser des attaques de type injection de code...|01 mars 2023|
- |[40532802 /23 - Vulnérabilité dans IBM QRadar](https://www.dgssi.gov.ma//fr/content/40532802-23-vulnerabilite-dans-ibm-qradar.html)|IBM annonce la correction d’une vulnérabilité dans IBM QRadar.L’exploitation de cette faille peut permettre à un attaquant de causer un problème de sécurité non spécifié.|28 février 2023|
- |[40512502/23 - Vulnérabilité affectant la solution de gestion de bases de données MongoDB](https://www.dgssi.gov.ma//fr/content/4051250223-vulnerabilite-affectant-la-solution-de-gestion-de-bases-de-donnees-mongodb.html)|MongoDBannonce la disponibilité d’une mise à jour qui corrige une vulnérabilité dans son produit susmentionné. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du code arbitraire.|24 février 2023|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20230306)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 6 Mar 2023|
- |[Trusted Platform Module (TPM) Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/tpm-2-0-multiple-vulnerabilities_20230306)|Multiple vulnerabilities were identified in Trusted Platform Module (TPM). An attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure and elevation of privilege on the targeted system. Trusted Platform Module (TPM) technology is a hardware-based solution that provides secure cryptographic...|Release Date: 6 Mar 2023|
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230306)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 6 Mar 2023|
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230302)|Multiple vulnerabilities were identified in SUSE Linux. An attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-03-03] Updated Impact, ...| Release Date: 2 Mar 2023 |
- |[IBM WebSphere Application Server Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-websphere-application-server-multiple-vulnerabilities_20230302)|Multiple vulnerabilities were identified in IBM WebSphere Application Server. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and cross-site scripting on the targeted system.|Release Date: 2 Mar 2023|
- |[Mozilla Firefox Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/mozilla-firefox-remote-code-execution-vulnerability_20230301)|A vulnerability was identified in Mozilla Firefox, a remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 1 Mar 2023|
- |[Aruba Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20230301)|Multiple vulnerabilities were identified in Aruba Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, cross-site scripting and security restriction bypass on the targeted system.|Release Date: 1 Mar 2023|
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230301)|Multiple vulnerabilities were identified in RedHat Linux Kernal. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and elevation of privilege on the targeted system.|Release Date: 1 Mar 2023|
- |[Oracle Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/oracle-products-multiple-vulnerabilities_20230118)|Multiple vulnerabilities were identified in Oracle Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass, sensitive information disclosure and data manipulation on the targeted system. [Updated on 2023-03-01...| Release Date: 18 Jan 2023 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230227)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service on the targeted system.|Release Date: 27 Feb 2023|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -101,29 +68,6 @@
  |[JTEKT ELECTRONICS Kostac PLC Programming Software code execution (CVE-2023-22424)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 3, 2023|
  |[JTEKT ELECTRONICS Kostac PLC Programming Software code execution (CVE-2023-22421)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 3, 2023|
  |[IBM Observability with Instana missing authentication (CVE-2023-27290)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 3, 2023|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Redmine-four-vulnerabilities-40717" class="noirorange"><b>Redmine</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Redmine-four-vulnerabilities-40717)|An attacker can use several vulnerabilities of Redmine...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/stb-NULL-pointer-dereference-via-stb-image-40716" class="noirorange"><b>stb</b>: NULL pointer dereference via stb_image</a>](https://vigilance.fr/vulnerability/stb-NULL-pointer-dereference-via-stb-image-40716)|An attacker can force a NULL pointer to be dereferenced on stb, via stb_image, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libtpms-two-vulnerabilities-40715" class="noirorange"><b>libtpms</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/libtpms-two-vulnerabilities-40715)|An attacker can use several vulnerabilities of libtpms...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GitLab-logged-sensitive-information-via-DAST-Job-40714" class="noirorange"><b>GitLab</b>: logged sensitive information via DAST Job</a>](https://vigilance.fr/vulnerability/GitLab-logged-sensitive-information-via-DAST-Job-40714)|An attacker can read logs of GitLab, via DAST Job, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GitLab-privilege-escalation-40713" class="noirorange"><b>GitLab</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/GitLab-privilege-escalation-40713)|An attacker can bypass restrictions of GitLab, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-denial-of-service-via-scrolldown-40712" class="noirorange"><b>Vim</b>: denial of service via scrolldown()</a>](https://vigilance.fr/vulnerability/Vim-denial-of-service-via-scrolldown-40712)|An attacker can cause a fatal error of Vim, via scrolldown(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Libreswan-assertion-error-via-TS-Payload-40711" class="noirorange"><b>Libreswan</b>: assertion error via TS Payload</a>](https://vigilance.fr/vulnerability/Libreswan-assertion-error-via-TS-Payload-40711)|An attacker can force an assertion error of Libreswan, via TS Payload, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/xfig-buffer-overflow-via-LANG-Environment-Variable-40710" class="noirorange"><b>xfig</b>: buffer overflow via LANG Environment Variable</a>](https://vigilance.fr/vulnerability/xfig-buffer-overflow-via-LANG-Environment-Variable-40710)|An attacker can trigger a buffer overflow of xfig, via LANG Environment Variable, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libde265-buffer-overflow-via-derive-spatial-luma-vector-prediction-40709" class="noirorange"><b>libde265</b>: buffer overflow via derive_spatial_luma_vector_prediction()</a>](https://vigilance.fr/vulnerability/libde265-buffer-overflow-via-derive-spatial-luma-vector-prediction-40709)|An attacker can trigger a buffer overflow of libde265, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libde265-seven-vulnerabilities-40708" class="noirorange"><b>libde265</b>: seven vulnerabilities</a>](https://vigilance.fr/vulnerability/libde265-seven-vulnerabilities-40708)|An attacker can use several vulnerabilities of libde265...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-binder-transaction-buffer-release-40707" class="noirorange"><b>Linux kernel</b>: reuse after free via binder_transaction_buffer_release()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-binder-transaction-buffer-release-40707)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
  
 
 # EU-CERT
@@ -141,6 +85,62 @@
  |[2023-006: Critical Security Flaw in Jira Service Management Server and Data Center](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-006.pdf)|A critical security flaw has been discovered in Jira Service Management Server and Data Center that can be exploited by an attacker to impersonate another user and gain unauthorized access to instances. The vulnerability is tracked as CVE-2023-22501 with a CVSS score of 9.4.|Friday, February 03, 2023 07:20:00 PM CET|
  |[2023-005: Critical Code Injection Vulnerability in QNAP Devices](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-005.pdf)|On January 30th, 2023, QNAP published an advisory related to a critical vulnerability, identified as CVE-2022-27596, allowing remote attackers to inject malicious code on QNAP NAS devices.|Tuesday, January 31, 2023 05:55:00 PM CET|
  |[2023-004: Critical Vulnerability in Several ManageEngine Products](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-004.pdf)|On January 18th, ManageEngine released updates to several ManageEngine OnPremise products. The potentially vulnerable products use outdated versions of the open-source library Apache Santuario (XML Security for Java). Products must have enabled Single-Sign-On (SSO) using the Security Assertion Markup Language (SAML) to be vulnerable. For some products, the SSO must be active, while for others, it is sufficient that SSO was active once. As a result, the vulnerability allows an unauthenticated adversary to execute arbitrary code. Additionally, a Proof-of-Concept exploit is available.|Monday, January 30, 2023 10:15:00 AM CET|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[40630303/23 - Vulnérabilités affectant Zimbra Collaboration ](https://www.dgssi.gov.ma//fr/content/4063030323-vulnerabilites-affectant-zimbra-collaboration.html)|Zimbra annonce la disponibilité d’une mise à jour de sécurité permettant la correctionde deux vulnérabilités affectant sa plateforme de messagerie Zimbra. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’...|03 mars 2023|
+ |[40620303/23 - Vulnérabilités affectant plusieursproduits deCisco](https://www.dgssi.gov.ma//fr/content/4062030323-vulnerabilites-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’injecter du contenu dans une page ou...|03 mars 2023|
+ |[40610203 /23 - Nouvelle compagne d’attaque par le malware « Vidar »](https://www.dgssi.gov.ma//fr/content/40610203-23-nouvelle-compagne-d-attaque-par-le-malware-vidar.html)|Vidar est un malware de vol d'informations écrit en C++ qui permet aux acteurs malveillants de collecter les éléments suivants à partir des machines compromises : détails du navigateur (cookies, URL de sites Web et noms d'...|02 mars 2023|
+ |[40600203/23 - Vulnérabilité affectantle navigateur Mozilla Firefox pour Android](https://www.dgssi.gov.ma//fr/content/4060020323-vulnerabilite-affectant-le-navigateur-mozilla-firefox-pour-android.html)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction d’une vulnérabilité au niveau du navigateur Mozilla Firefox sur Android. L’exploitation de cette vulnérabilité peut permettre à un...|02 mars 2023|
+ |[40590203/23 - Vulnérabilités affectantle navigateur Microsoft Edge ](https://www.dgssi.gov.ma//fr/content/4059020323-vulnerabilites-affectant-le-navigateur-microsoft-edge.html)|Microsoft vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilités affectant le navigateur Microsoft Edge. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuter du code...|02 mars 2023|
+ |[40580103 /23 - Vulnérabilités dans Cisco IP Phone](https://www.dgssi.gov.ma//fr/content/40580103-23-vulnerabilites-dans-cisco-ip-phone.html)|Plusieurs vulnérabilités ont été corrigées dans Cisco IP Phone. L’exploitation de ces vulnérabilités peut permettre à un attaquantd’exécuter du code arbitraire à distance et de causer un déni de service.|02 mars 2023|
+ |[40570103 /23 - Vulnérabilités critique dans Aruba ArubaOS](https://www.dgssi.gov.ma//fr/content/40570103-23-vulnerabilites-critique-dans-aruba-arubaos.html)|Plusieurs vulnérabilités critiques ont été corrigées dans Aruba ArubaOS. L’exploitation de ces failles pourrait permettre à un attaquant d’exécuter du code arbitraire à distance, de porter atteinte à la confidentialité des données et de...|02 mars 2023|
+ |[40550103 /23 - Vulnérabilité dans VMwareWorkspace ONE Content](https://www.dgssi.gov.ma//fr/content/40550103-23-vulnerabilite-dans-vmware-workspace-one-content.html)|Une vulnérabilité a été corrigée dans VMwareWorkspace ONE Content. Un attaquant pourrait exploiter cette faille afin de contourner la politique de sécurité.|01 mars 2023|
+ |[40540103 /23 - Vulnérabilités dans les produits IBM](https://www.dgssi.gov.ma//fr/content/40540103-23-vulnerabilites-dans-les-produits-ibm.html)|Deux vulnérabilités ont été corrigées dans les produits IBM susmentionnés. L’exploitation de ces failles pourrait permettre à un attaquant de réussir une élévation des privilèges et de réaliser des attaques de type injection de code...|01 mars 2023|
+ |[40532802 /23 - Vulnérabilité dans IBM QRadar](https://www.dgssi.gov.ma//fr/content/40532802-23-vulnerabilite-dans-ibm-qradar.html)|IBM annonce la correction d’une vulnérabilité dans IBM QRadar.L’exploitation de cette faille peut permettre à un attaquant de causer un problème de sécurité non spécifié.|28 février 2023|
+ |[40512502/23 - Vulnérabilité affectant la solution de gestion de bases de données MongoDB](https://www.dgssi.gov.ma//fr/content/4051250223-vulnerabilite-affectant-la-solution-de-gestion-de-bases-de-donnees-mongodb.html)|MongoDBannonce la disponibilité d’une mise à jour qui corrige une vulnérabilité dans son produit susmentionné. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant d’exécuter du code arbitraire.|24 février 2023|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Helm-information-disclosure-via-getHostByName-40718" class="noirorange"><b>Helm</b>: information disclosure via getHostByName</a>](https://vigilance.fr/vulnerability/Helm-information-disclosure-via-getHostByName-40718)|An attacker can bypass access restrictions to data of Helm, via getHostByName, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Redmine-four-vulnerabilities-40717" class="noirorange"><b>Redmine</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Redmine-four-vulnerabilities-40717)|An attacker can use several vulnerabilities of Redmine...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/stb-NULL-pointer-dereference-via-stb-image-40716" class="noirorange"><b>stb</b>: NULL pointer dereference via stb_image</a>](https://vigilance.fr/vulnerability/stb-NULL-pointer-dereference-via-stb-image-40716)|An attacker can force a NULL pointer to be dereferenced on stb, via stb_image, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libtpms-two-vulnerabilities-40715" class="noirorange"><b>libtpms</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/libtpms-two-vulnerabilities-40715)|An attacker can use several vulnerabilities of libtpms...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GitLab-logged-sensitive-information-via-DAST-Job-40714" class="noirorange"><b>GitLab</b>: logged sensitive information via DAST Job</a>](https://vigilance.fr/vulnerability/GitLab-logged-sensitive-information-via-DAST-Job-40714)|An attacker can read logs of GitLab, via DAST Job, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GitLab-privilege-escalation-40713" class="noirorange"><b>GitLab</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/GitLab-privilege-escalation-40713)|An attacker can bypass restrictions of GitLab, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-denial-of-service-via-scrolldown-40712" class="noirorange"><b>Vim</b>: denial of service via scrolldown()</a>](https://vigilance.fr/vulnerability/Vim-denial-of-service-via-scrolldown-40712)|An attacker can cause a fatal error of Vim, via scrolldown(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Libreswan-assertion-error-via-TS-Payload-40711" class="noirorange"><b>Libreswan</b>: assertion error via TS Payload</a>](https://vigilance.fr/vulnerability/Libreswan-assertion-error-via-TS-Payload-40711)|An attacker can force an assertion error of Libreswan, via TS Payload, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/xfig-buffer-overflow-via-LANG-Environment-Variable-40710" class="noirorange"><b>xfig</b>: buffer overflow via LANG Environment Variable</a>](https://vigilance.fr/vulnerability/xfig-buffer-overflow-via-LANG-Environment-Variable-40710)|An attacker can trigger a buffer overflow of xfig, via LANG Environment Variable, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libde265-buffer-overflow-via-derive-spatial-luma-vector-prediction-40709" class="noirorange"><b>libde265</b>: buffer overflow via derive_spatial_luma_vector_prediction()</a>](https://vigilance.fr/vulnerability/libde265-buffer-overflow-via-derive-spatial-luma-vector-prediction-40709)|An attacker can trigger a buffer overflow of libde265, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libde265-seven-vulnerabilities-40708" class="noirorange"><b>libde265</b>: seven vulnerabilities</a>](https://vigilance.fr/vulnerability/libde265-seven-vulnerabilities-40708)|An attacker can use several vulnerabilities of libde265...|Visit link for details|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20230306)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 6 Mar 2023|
+ |[Trusted Platform Module (TPM) Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/tpm-2-0-multiple-vulnerabilities_20230306)|Multiple vulnerabilities were identified in Trusted Platform Module (TPM). An attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure and elevation of privilege on the targeted system. Trusted Platform Module (TPM) technology is a hardware-based solution that provides secure cryptographic...|Release Date: 6 Mar 2023|
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230306)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 6 Mar 2023|
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230302)|Multiple vulnerabilities were identified in SUSE Linux. An attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-03-03] Updated Impact, ...| Release Date: 2 Mar 2023 |
+ |[IBM WebSphere Application Server Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-websphere-application-server-multiple-vulnerabilities_20230302)|Multiple vulnerabilities were identified in IBM WebSphere Application Server. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and cross-site scripting on the targeted system.|Release Date: 2 Mar 2023|
+ |[Mozilla Firefox Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/mozilla-firefox-remote-code-execution-vulnerability_20230301)|A vulnerability was identified in Mozilla Firefox, a remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 1 Mar 2023|
+ |[Aruba Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20230301)|Multiple vulnerabilities were identified in Aruba Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, cross-site scripting and security restriction bypass on the targeted system.|Release Date: 1 Mar 2023|
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230301)|Multiple vulnerabilities were identified in RedHat Linux Kernal. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and elevation of privilege on the targeted system.|Release Date: 1 Mar 2023|
+ |[Oracle Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/oracle-products-multiple-vulnerabilities_20230118)|Multiple vulnerabilities were identified in Oracle Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass, sensitive information disclosure and data manipulation on the targeted system. [Updated on 2023-03-01...| Release Date: 18 Jan 2023 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230227)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and denial of service on the targeted system.|Release Date: 27 Feb 2023|
  
 
 # CA-CCS
@@ -164,12 +164,4 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
