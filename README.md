@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 06/03/2023 16:29:32 UTC
+ > Last Updated 06/03/2023 17:19:49 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -41,45 +41,6 @@
  |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/02/23/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Feb 23, 2023|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0198/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 6 mars 2023|
- |[Multiples vulnérabilités dans VMware Spring](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0197/)|De multiples vulnérabilités ont été découvertes dans VMware |Publié le 6 mars 2023|
- |[Multiples vulnérabilités dans les produits SonicWall](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0196/)|De multiples vulnérabilités ont été découvertes dans les produits SonicWall. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 3 mars 2023|
- |[Multiples vulnérabilités dans les produits RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0195/)|De multiples vulnérabilités ont été corrigées dans |Publié le 3 mars 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0194/)|De multiples vulnérabilités ont été corrigées dans |Publié le 3 mars 2023|
- |[Multiples vulnérabilités dans le noyau Linux de DebianLTS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0193/)|De multiples vulnérabilités ont été corrigées dans le noyau Linux de |Publié le 3 mars 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0192/)|De multiples vulnérabilités ont été corrigées dans |Publié le 3 mars 2023|
- |[Multiples vulnérabilités dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0191/)|De multiples vulnérabilités ont été découvertes dans Wireshark. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 3 mars 2023|
- |[Multiples vulnérabilités dans Tenable Nessus](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0190/)|De multiples vulnérabilités ont été découvertes dans Tenable Nessus. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 3 mars 2023|
- |[Multiples vulnérabilités dans Symantec Web Isolation](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0189/)|De multiples vulnérabilités ont été découvertes dans Symantec Web Isolation. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.|Publié le 3 mars 2023|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[40610603/23 -SkullLocker Ransomware](https://www.dgssi.gov.ma//fr/content/4061060323-skulllocker-ransomware.html)|Une compagne d’attaque ciblant les systèmes basés sur les systèmes d’exploitation Windows a été observé menée par le ransomware « SkullLocker ».SkullLocker est une nouvelle variante de la famille des ransomwares Chaos. Le ransomware se...|06 mars 2023|
- |[40630303/23 - Vulnérabilités affectant Zimbra Collaboration ](https://www.dgssi.gov.ma//fr/content/4063030323-vulnerabilites-affectant-zimbra-collaboration.html)|Zimbra annonce la disponibilité d’une mise à jour de sécurité permettant la correctionde deux vulnérabilités affectant sa plateforme de messagerie Zimbra. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’...|03 mars 2023|
- |[40620303/23 - Vulnérabilités affectant plusieursproduits deCisco](https://www.dgssi.gov.ma//fr/content/4062030323-vulnerabilites-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’injecter du contenu dans une page ou...|03 mars 2023|
- |[40610203 /23 - Nouvelle compagne d’attaque par le malware « Vidar »](https://www.dgssi.gov.ma//fr/content/40610203-23-nouvelle-compagne-d-attaque-par-le-malware-vidar.html)|Vidar est un malware de vol d'informations écrit en C++ qui permet aux acteurs malveillants de collecter les éléments suivants à partir des machines compromises : détails du navigateur (cookies, URL de sites Web et noms d'...|02 mars 2023|
- |[40600203/23 - Vulnérabilité affectantle navigateur Mozilla Firefox pour Android](https://www.dgssi.gov.ma//fr/content/4060020323-vulnerabilite-affectant-le-navigateur-mozilla-firefox-pour-android.html)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction d’une vulnérabilité au niveau du navigateur Mozilla Firefox sur Android. L’exploitation de cette vulnérabilité peut permettre à un...|02 mars 2023|
- |[40590203/23 - Vulnérabilités affectantle navigateur Microsoft Edge ](https://www.dgssi.gov.ma//fr/content/4059020323-vulnerabilites-affectant-le-navigateur-microsoft-edge.html)|Microsoft vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilités affectant le navigateur Microsoft Edge. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuter du code...|02 mars 2023|
- |[40580103 /23 - Vulnérabilités dans Cisco IP Phone](https://www.dgssi.gov.ma//fr/content/40580103-23-vulnerabilites-dans-cisco-ip-phone.html)|Plusieurs vulnérabilités ont été corrigées dans Cisco IP Phone. L’exploitation de ces vulnérabilités peut permettre à un attaquantd’exécuter du code arbitraire à distance et de causer un déni de service.|02 mars 2023|
- |[40570103 /23 - Vulnérabilités critique dans Aruba ArubaOS](https://www.dgssi.gov.ma//fr/content/40570103-23-vulnerabilites-critique-dans-aruba-arubaos.html)|Plusieurs vulnérabilités critiques ont été corrigées dans Aruba ArubaOS. L’exploitation de ces failles pourrait permettre à un attaquant d’exécuter du code arbitraire à distance, de porter atteinte à la confidentialité des données et de...|02 mars 2023|
- |[40550103 /23 - Vulnérabilité dans VMwareWorkspace ONE Content](https://www.dgssi.gov.ma//fr/content/40550103-23-vulnerabilite-dans-vmware-workspace-one-content.html)|Une vulnérabilité a été corrigée dans VMwareWorkspace ONE Content. Un attaquant pourrait exploiter cette faille afin de contourner la politique de sécurité.|01 mars 2023|
- |[40540103 /23 - Vulnérabilités dans les produits IBM](https://www.dgssi.gov.ma//fr/content/40540103-23-vulnerabilites-dans-les-produits-ibm.html)|Deux vulnérabilités ont été corrigées dans les produits IBM susmentionnés. L’exploitation de ces failles pourrait permettre à un attaquant de réussir une élévation des privilèges et de réaliser des attaques de type injection de code...|01 mars 2023|
- |[40532802 /23 - Vulnérabilité dans IBM QRadar](https://www.dgssi.gov.ma//fr/content/40532802-23-vulnerabilite-dans-ibm-qradar.html)|IBM annonce la correction d’une vulnérabilité dans IBM QRadar.L’exploitation de cette faille peut permettre à un attaquant de causer un problème de sécurité non spécifié.|28 février 2023|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -100,13 +61,52 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Craft CMS cross-site scripting (CVE-2023-23927)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 3, 2023|
  |[ASOS cross-site scripting (CVE-2023-0577)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 3, 2023|
  |[ASOS cross-site scripting (CVE-2023-0578)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 3, 2023|
  |[Zhong Bang CRMEB Java SQL injection (CVE-2023-1165)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 3, 2023|
  |[KylinSoft kylin-activation privilege escalation (CVE-2023-1164)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 3, 2023|
  |[JTEKT ELECTRONICS Kostac PLC Programming Software code execution (CVE-2023-22424)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 3, 2023|
  |[JTEKT ELECTRONICS Kostac PLC Programming Software code execution (CVE-2023-22421)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 3, 2023|
- |[IBM Observability with Instana missing authentication (CVE-2023-27290)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 3, 2023|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[40610603/23 -SkullLocker Ransomware](https://www.dgssi.gov.ma//fr/content/4061060323-skulllocker-ransomware.html)|Une compagne d’attaque ciblant les systèmes basés sur les systèmes d’exploitation Windows a été observé menée par le ransomware « SkullLocker ».SkullLocker est une nouvelle variante de la famille des ransomwares Chaos. Le ransomware se...|06 mars 2023|
+ |[40630303/23 - Vulnérabilités affectant Zimbra Collaboration ](https://www.dgssi.gov.ma//fr/content/4063030323-vulnerabilites-affectant-zimbra-collaboration.html)|Zimbra annonce la disponibilité d’une mise à jour de sécurité permettant la correctionde deux vulnérabilités affectant sa plateforme de messagerie Zimbra. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’...|03 mars 2023|
+ |[40620303/23 - Vulnérabilités affectant plusieursproduits deCisco](https://www.dgssi.gov.ma//fr/content/4062030323-vulnerabilites-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’injecter du contenu dans une page ou...|03 mars 2023|
+ |[40610203 /23 - Nouvelle compagne d’attaque par le malware « Vidar »](https://www.dgssi.gov.ma//fr/content/40610203-23-nouvelle-compagne-d-attaque-par-le-malware-vidar.html)|Vidar est un malware de vol d'informations écrit en C++ qui permet aux acteurs malveillants de collecter les éléments suivants à partir des machines compromises : détails du navigateur (cookies, URL de sites Web et noms d'...|02 mars 2023|
+ |[40600203/23 - Vulnérabilité affectantle navigateur Mozilla Firefox pour Android](https://www.dgssi.gov.ma//fr/content/4060020323-vulnerabilite-affectant-le-navigateur-mozilla-firefox-pour-android.html)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction d’une vulnérabilité au niveau du navigateur Mozilla Firefox sur Android. L’exploitation de cette vulnérabilité peut permettre à un...|02 mars 2023|
+ |[40590203/23 - Vulnérabilités affectantle navigateur Microsoft Edge ](https://www.dgssi.gov.ma//fr/content/4059020323-vulnerabilites-affectant-le-navigateur-microsoft-edge.html)|Microsoft vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilités affectant le navigateur Microsoft Edge. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuter du code...|02 mars 2023|
+ |[40580103 /23 - Vulnérabilités dans Cisco IP Phone](https://www.dgssi.gov.ma//fr/content/40580103-23-vulnerabilites-dans-cisco-ip-phone.html)|Plusieurs vulnérabilités ont été corrigées dans Cisco IP Phone. L’exploitation de ces vulnérabilités peut permettre à un attaquantd’exécuter du code arbitraire à distance et de causer un déni de service.|02 mars 2023|
+ |[40570103 /23 - Vulnérabilités critique dans Aruba ArubaOS](https://www.dgssi.gov.ma//fr/content/40570103-23-vulnerabilites-critique-dans-aruba-arubaos.html)|Plusieurs vulnérabilités critiques ont été corrigées dans Aruba ArubaOS. L’exploitation de ces failles pourrait permettre à un attaquant d’exécuter du code arbitraire à distance, de porter atteinte à la confidentialité des données et de...|02 mars 2023|
+ |[40550103 /23 - Vulnérabilité dans VMwareWorkspace ONE Content](https://www.dgssi.gov.ma//fr/content/40550103-23-vulnerabilite-dans-vmware-workspace-one-content.html)|Une vulnérabilité a été corrigée dans VMwareWorkspace ONE Content. Un attaquant pourrait exploiter cette faille afin de contourner la politique de sécurité.|01 mars 2023|
+ |[40540103 /23 - Vulnérabilités dans les produits IBM](https://www.dgssi.gov.ma//fr/content/40540103-23-vulnerabilites-dans-les-produits-ibm.html)|Deux vulnérabilités ont été corrigées dans les produits IBM susmentionnés. L’exploitation de ces failles pourrait permettre à un attaquant de réussir une élévation des privilèges et de réaliser des attaques de type injection de code...|01 mars 2023|
+ |[40532802 /23 - Vulnérabilité dans IBM QRadar](https://www.dgssi.gov.ma//fr/content/40532802-23-vulnerabilite-dans-ibm-qradar.html)|IBM annonce la correction d’une vulnérabilité dans IBM QRadar.L’exploitation de cette faille peut permettre à un attaquant de causer un problème de sécurité non spécifié.|28 février 2023|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0198/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 6 mars 2023|
+ |[Multiples vulnérabilités dans VMware Spring](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0197/)|De multiples vulnérabilités ont été découvertes dans VMware |Publié le 6 mars 2023|
+ |[Multiples vulnérabilités dans les produits SonicWall](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0196/)|De multiples vulnérabilités ont été découvertes dans les produits SonicWall. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 3 mars 2023|
+ |[Multiples vulnérabilités dans les produits RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0195/)|De multiples vulnérabilités ont été corrigées dans |Publié le 3 mars 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0194/)|De multiples vulnérabilités ont été corrigées dans |Publié le 3 mars 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de DebianLTS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0193/)|De multiples vulnérabilités ont été corrigées dans le noyau Linux de |Publié le 3 mars 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0192/)|De multiples vulnérabilités ont été corrigées dans |Publié le 3 mars 2023|
+ |[Multiples vulnérabilités dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0191/)|De multiples vulnérabilités ont été découvertes dans Wireshark. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 3 mars 2023|
+ |[Multiples vulnérabilités dans Tenable Nessus](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0190/)|De multiples vulnérabilités ont été découvertes dans Tenable Nessus. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 3 mars 2023|
+ |[Multiples vulnérabilités dans Symantec Web Isolation](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0189/)|De multiples vulnérabilités ont été découvertes dans Symantec Web Isolation. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.|Publié le 3 mars 2023|
  
 
 # EU-CERT
@@ -161,6 +161,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Dell security advisory (AV23-128)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-128)|Visit link for details|2023-03-06|
+ |[IBM security advisory (AV23-127)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-127)|Visit link for details|2023-03-06|
  |[HPE security advisory (AV23-126)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-126)|Visit link for details|2023-03-03|
  |[GitLab security advisory (AV23-125)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av23-125)|Visit link for details|2023-03-03|
  |[[Control systems] Rittal security advisory (AV23-124)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-rittal-security-advisory-av23-124)|Visit link for details|2023-03-02|
@@ -170,6 +172,4 @@
  |[Cisco Security Advisory (AV23-120)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av23-120)|Visit link for details|2023-03-02|
  |[HPE security advisory (AV23-119)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-119)|Visit link for details|2023-03-02|
  |[IBM security advisory (AV23-118)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-118)|Visit link for details|2023-03-02|
- |[[Control systems] Hitachi Energy security advisory (AV23-117)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-hitachi-energy-security-advisory-av23-117)|Visit link for details|2023-02-28|
- |[Microsoft Edge security advisory (AV23-116)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-116)|Visit link for details|2023-02-28|
  
