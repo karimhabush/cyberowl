@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 06/03/2023 18:27:47 UTC
+ > Last Updated 06/03/2023 19:18:09 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -41,25 +41,6 @@
  |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/02/23/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Feb 23, 2023|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Craft CMS cross-site scripting (CVE-2023-23927)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 3, 2023|
- |[ASOS cross-site scripting (CVE-2023-0577)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 3, 2023|
- |[ASOS cross-site scripting (CVE-2023-0578)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 3, 2023|
- |[Zhong Bang CRMEB Java SQL injection (CVE-2023-1165)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 3, 2023|
- |[KylinSoft kylin-activation privilege escalation (CVE-2023-1164)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 3, 2023|
- |[JTEKT ELECTRONICS Kostac PLC Programming Software code execution (CVE-2023-22424)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 3, 2023|
- |[JTEKT ELECTRONICS Kostac PLC Programming Software code execution (CVE-2023-22421)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 3, 2023|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -74,6 +55,42 @@
  |[Multiples vulnérabilités dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0191/)|De multiples vulnérabilités ont été découvertes dans Wireshark. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 3 mars 2023|
  |[Multiples vulnérabilités dans Tenable Nessus](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0190/)|De multiples vulnérabilités ont été découvertes dans Tenable Nessus. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 3 mars 2023|
  |[Multiples vulnérabilités dans Symantec Web Isolation](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0189/)|De multiples vulnérabilités ont été découvertes dans Symantec Web Isolation. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.|Publié le 3 mars 2023|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[FabulaTech Webcam for Remote Desktop denial of service (CVE-2023-1188)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 6, 2023|
+ |[WiseCleaner Wise Folder Hider denial of service (CVE-2023-1189)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 6, 2023|
+ |[Craft CMS cross-site scripting (CVE-2023-23927)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 3, 2023|
+ |[ASOS cross-site scripting (CVE-2023-0577)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 3, 2023|
+ |[ASOS cross-site scripting (CVE-2023-0578)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 3, 2023|
+ |[Zhong Bang CRMEB Java SQL injection (CVE-2023-1165)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 3, 2023|
+ |[KylinSoft kylin-activation privilege escalation (CVE-2023-1164)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 3, 2023|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Kopano-Groupware-Core-user-access-via-ECKrbAuth-Expired-Password-40720" class="noirorange"><b>Kopano Groupware Core</b>: user access via ECKrbAuth Expired Password</a>](https://vigilance.fr/vulnerability/Kopano-Groupware-Core-user-access-via-ECKrbAuth-Expired-Password-40720)|An attacker can bypass restrictions of Kopano Groupware Core, via ECKrbAuth Expired Password, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Kopano-Groupware-Core-buffer-overflow-via-HrAddFBBlock-40719" class="noirorange"><b>Kopano Groupware Core</b>: buffer overflow via HrAddFBBlock</a>](https://vigilance.fr/vulnerability/Kopano-Groupware-Core-buffer-overflow-via-HrAddFBBlock-40719)|An attacker can trigger a buffer overflow of Kopano Groupware Core, via HrAddFBBlock, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Helm-information-disclosure-via-getHostByName-40718" class="noirorange"><b>Helm</b>: information disclosure via getHostByName</a>](https://vigilance.fr/vulnerability/Helm-information-disclosure-via-getHostByName-40718)|An attacker can bypass access restrictions to data of Helm, via getHostByName, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Redmine-four-vulnerabilities-40717" class="noirorange"><b>Redmine</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Redmine-four-vulnerabilities-40717)|An attacker can use several vulnerabilities of Redmine...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/stb-NULL-pointer-dereference-via-stb-image-40716" class="noirorange"><b>stb</b>: NULL pointer dereference via stb_image</a>](https://vigilance.fr/vulnerability/stb-NULL-pointer-dereference-via-stb-image-40716)|An attacker can force a NULL pointer to be dereferenced on stb, via stb_image, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libtpms-two-vulnerabilities-40715" class="noirorange"><b>libtpms</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/libtpms-two-vulnerabilities-40715)|An attacker can use several vulnerabilities of libtpms...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GitLab-logged-sensitive-information-via-DAST-Job-40714" class="noirorange"><b>GitLab</b>: logged sensitive information via DAST Job</a>](https://vigilance.fr/vulnerability/GitLab-logged-sensitive-information-via-DAST-Job-40714)|An attacker can read logs of GitLab, via DAST Job, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GitLab-privilege-escalation-40713" class="noirorange"><b>GitLab</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/GitLab-privilege-escalation-40713)|An attacker can bypass restrictions of GitLab, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-denial-of-service-via-scrolldown-40712" class="noirorange"><b>Vim</b>: denial of service via scrolldown()</a>](https://vigilance.fr/vulnerability/Vim-denial-of-service-via-scrolldown-40712)|An attacker can cause a fatal error of Vim, via scrolldown(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Libreswan-assertion-error-via-TS-Payload-40711" class="noirorange"><b>Libreswan</b>: assertion error via TS Payload</a>](https://vigilance.fr/vulnerability/Libreswan-assertion-error-via-TS-Payload-40711)|An attacker can force an assertion error of Libreswan, via TS Payload, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/xfig-buffer-overflow-via-LANG-Environment-Variable-40710" class="noirorange"><b>xfig</b>: buffer overflow via LANG Environment Variable</a>](https://vigilance.fr/vulnerability/xfig-buffer-overflow-via-LANG-Environment-Variable-40710)|An attacker can trigger a buffer overflow of xfig, via LANG Environment Variable, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
 
 # EU-CERT
@@ -108,23 +125,6 @@
  |[40550103 /23 - Vulnérabilité dans VMwareWorkspace ONE Content](https://www.dgssi.gov.ma//fr/content/40550103-23-vulnerabilite-dans-vmware-workspace-one-content.html)|Une vulnérabilité a été corrigée dans VMwareWorkspace ONE Content. Un attaquant pourrait exploiter cette faille afin de contourner la politique de sécurité.|01 mars 2023|
  |[40540103 /23 - Vulnérabilités dans les produits IBM](https://www.dgssi.gov.ma//fr/content/40540103-23-vulnerabilites-dans-les-produits-ibm.html)|Deux vulnérabilités ont été corrigées dans les produits IBM susmentionnés. L’exploitation de ces failles pourrait permettre à un attaquant de réussir une élévation des privilèges et de réaliser des attaques de type injection de code...|01 mars 2023|
  |[40532802 /23 - Vulnérabilité dans IBM QRadar](https://www.dgssi.gov.ma//fr/content/40532802-23-vulnerabilite-dans-ibm-qradar.html)|IBM annonce la correction d’une vulnérabilité dans IBM QRadar.L’exploitation de cette faille peut permettre à un attaquant de causer un problème de sécurité non spécifié.|28 février 2023|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Kopano-Groupware-Core-user-access-via-ECKrbAuth-Expired-Password-40720" class="noirorange"><b>Kopano Groupware Core</b>: user access via ECKrbAuth Expired Password</a>](https://vigilance.fr/vulnerability/Kopano-Groupware-Core-user-access-via-ECKrbAuth-Expired-Password-40720)|An attacker can bypass restrictions of Kopano Groupware Core, via ECKrbAuth Expired Password, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Kopano-Groupware-Core-buffer-overflow-via-HrAddFBBlock-40719" class="noirorange"><b>Kopano Groupware Core</b>: buffer overflow via HrAddFBBlock</a>](https://vigilance.fr/vulnerability/Kopano-Groupware-Core-buffer-overflow-via-HrAddFBBlock-40719)|An attacker can trigger a buffer overflow of Kopano Groupware Core, via HrAddFBBlock, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Helm-information-disclosure-via-getHostByName-40718" class="noirorange"><b>Helm</b>: information disclosure via getHostByName</a>](https://vigilance.fr/vulnerability/Helm-information-disclosure-via-getHostByName-40718)|An attacker can bypass access restrictions to data of Helm, via getHostByName, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Redmine-four-vulnerabilities-40717" class="noirorange"><b>Redmine</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Redmine-four-vulnerabilities-40717)|An attacker can use several vulnerabilities of Redmine...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/stb-NULL-pointer-dereference-via-stb-image-40716" class="noirorange"><b>stb</b>: NULL pointer dereference via stb_image</a>](https://vigilance.fr/vulnerability/stb-NULL-pointer-dereference-via-stb-image-40716)|An attacker can force a NULL pointer to be dereferenced on stb, via stb_image, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libtpms-two-vulnerabilities-40715" class="noirorange"><b>libtpms</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/libtpms-two-vulnerabilities-40715)|An attacker can use several vulnerabilities of libtpms...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GitLab-logged-sensitive-information-via-DAST-Job-40714" class="noirorange"><b>GitLab</b>: logged sensitive information via DAST Job</a>](https://vigilance.fr/vulnerability/GitLab-logged-sensitive-information-via-DAST-Job-40714)|An attacker can read logs of GitLab, via DAST Job, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GitLab-privilege-escalation-40713" class="noirorange"><b>GitLab</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/GitLab-privilege-escalation-40713)|An attacker can bypass restrictions of GitLab, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-denial-of-service-via-scrolldown-40712" class="noirorange"><b>Vim</b>: denial of service via scrolldown()</a>](https://vigilance.fr/vulnerability/Vim-denial-of-service-via-scrolldown-40712)|An attacker can cause a fatal error of Vim, via scrolldown(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Libreswan-assertion-error-via-TS-Payload-40711" class="noirorange"><b>Libreswan</b>: assertion error via TS Payload</a>](https://vigilance.fr/vulnerability/Libreswan-assertion-error-via-TS-Payload-40711)|An attacker can force an assertion error of Libreswan, via TS Payload, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/xfig-buffer-overflow-via-LANG-Environment-Variable-40710" class="noirorange"><b>xfig</b>: buffer overflow via LANG Environment Variable</a>](https://vigilance.fr/vulnerability/xfig-buffer-overflow-via-LANG-Environment-Variable-40710)|An attacker can trigger a buffer overflow of xfig, via LANG Environment Variable, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
 
 # HK-CERT
@@ -164,4 +164,12 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
