@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 08/03/2023 13:31:38 UTC
+ > Last Updated 08/03/2023 14:20:52 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -70,16 +70,11 @@
  |[Google Chrome Intents code execution (CVE-2023-1234)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2023|
  
 
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/QEMU-reuse-after-free-via-pvrdma-exec-cmd-40737" class="noirorange"><b>QEMU</b>: reuse after free via pvrdma_exec_cmd()</a>](https://vigilance.fr/vulnerability/QEMU-reuse-after-free-via-pvrdma-exec-cmd-40737)|An attacker, in a guest system, can force the reuse of a freed memory area of QEMU, via pvrdma_exec_cmd(), in order to trigger a denial of service, and possibly to run code on the host system...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-40736" class="noirorange"><b>Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-40736)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FortiOS-memory-corruption-via-Administrative-Interface-40735" class="noirorange"><b>FortiOS</b>: memory corruption via Administrative Interface</a>](https://vigilance.fr/vulnerability/FortiOS-memory-corruption-via-Administrative-Interface-40735)|An attacker can trigger a memory corruption of FortiOS, via Administrative Interface, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FortiAnalyzer-code-execution-via-Macro-Names-Spreadsheet-Formulas-40734" class="noirorange"><b>FortiAnalyzer</b>: code execution via Macro Names Spreadsheet Formulas</a>](https://vigilance.fr/vulnerability/FortiAnalyzer-code-execution-via-Macro-Names-Spreadsheet-Formulas-40734)|An attacker can use a vulnerability of FortiAnalyzer, via Macro Names Spreadsheet Formulas, in order to run code...|Visit link for details|
@@ -90,7 +85,12 @@
  |[<a href="https://vigilance.fr/vulnerability/FortiOS-information-disclosure-via-HTTP-GET-Requests-40729" class="noirorange"><b>FortiOS</b>: information disclosure via HTTP GET Requests</a>](https://vigilance.fr/vulnerability/FortiOS-information-disclosure-via-HTTP-GET-Requests-40729)|An attacker can bypass access restrictions to data of FortiOS, via HTTP GET Requests, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FortiManager-FortiAnalyzer-information-disclosure-via-Diagnose-Debug-40728" class="noirorange"><b>FortiManager  FortiAnalyzer</b>: information disclosure via Diagnose Debug</a>](https://vigilance.fr/vulnerability/FortiManager-FortiAnalyzer-information-disclosure-via-Diagnose-Debug-40728)|An attacker can bypass access restrictions to data of FortiManager  FortiAnalyzer, via Diagnose Debug, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apache-httpd-header-injection-via-mod-proxy-uwsgi-40726" class="noirorange"><b>Apache httpd</b>: header injection via mod_proxy_uwsgi</a>](https://vigilance.fr/vulnerability/Apache-httpd-header-injection-via-mod-proxy-uwsgi-40726)|An attacker can add new headers on Apache httpd, via mod_proxy_uwsgi, in order to alter the service behavior...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-httpd-header-injection-via-mod-rewrite-mod-proxy-40725" class="noirorange"><b>Apache httpd</b>: header injection via mod_rewrite + mod_proxy</a>](https://vigilance.fr/vulnerability/Apache-httpd-header-injection-via-mod-rewrite-mod-proxy-40725)|An attacker can add new headers on Apache httpd, via mod_rewrite + mod_proxy, in order to alter the service behavior...|Visit link for details|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # EU-CERT
@@ -114,6 +114,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[40710803/23 - Exploitation d’une faille critique dans Microsoft Word](https://www.dgssi.gov.ma//fr/content/4071080323-exploitation-d-une-faille-critique-dans-microsoft-word.html)|Une preuve de concept pour « CVE-2023-21716 », une vulnérabilité critique dans Microsoft Word qui permet l'exécution de code à distance, a été récemment publiée. Les Emails de phishing peuvent être utilisés comme un vecteur d’attaque...|08 mars 2023|
  |[40680703/23 - Vulnérabilités critiques affectant le thème « Houzez » pour Wordpress](https://www.dgssi.gov.ma//fr/content/4068070323-vulnerabilites-critiques-affectant-le-theme-houzez-pour-wordpress.html)|Deux vulnérabilités critiques ont été corrigées au niveau de Wordpress« Houzez ». Ces deux vulnérabilités sont activement exploitées et peuvent permettre à un attaquant d’élever sesprivilèges.|07 mars 2023|
  |[40690703/23 - Vulnérabilités dans les produits IBM](https://www.dgssi.gov.ma//fr/content/4069070323-vulnerabilites-dans-les-produits-ibm.html)|Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. L’exploitation de ces failles pourrait permettre à un attaquant de contourner la politique de sécurité et de causer un déni de service à distance.|07 mars 2023|
  |[40650703/23 - Vulnérabilités affectant plusieurs produits de VMware ](https://www.dgssi.gov.ma//fr/content/4065070323-vulnerabilites-affectant-plusieurs-produits-de-vmware.html)|VMware annonce la correction de trois vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant de d’exécuter du code arbitraire, accéder à des données...|07 mars 2023|
@@ -124,7 +125,6 @@
  |[40600203/23 - Vulnérabilité affectantle navigateur Mozilla Firefox pour Android](https://www.dgssi.gov.ma//fr/content/4060020323-vulnerabilite-affectant-le-navigateur-mozilla-firefox-pour-android.html)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction d’une vulnérabilité au niveau du navigateur Mozilla Firefox sur Android. L’exploitation de cette vulnérabilité peut permettre à un...|02 mars 2023|
  |[40590203/23 - Vulnérabilités affectantle navigateur Microsoft Edge ](https://www.dgssi.gov.ma//fr/content/4059020323-vulnerabilites-affectant-le-navigateur-microsoft-edge.html)|Microsoft vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilités affectant le navigateur Microsoft Edge. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuter du code...|02 mars 2023|
  |[40580103 /23 - Vulnérabilités dans Cisco IP Phone](https://www.dgssi.gov.ma//fr/content/40580103-23-vulnerabilites-dans-cisco-ip-phone.html)|Plusieurs vulnérabilités ont été corrigées dans Cisco IP Phone. L’exploitation de ces vulnérabilités peut permettre à un attaquantd’exécuter du code arbitraire à distance et de causer un déni de service.|02 mars 2023|
- |[40570103 /23 - Vulnérabilités critique dans Aruba ArubaOS](https://www.dgssi.gov.ma//fr/content/40570103-23-vulnerabilites-critique-dans-aruba-arubaos.html)|Plusieurs vulnérabilités critiques ont été corrigées dans Aruba ArubaOS. L’exploitation de ces failles pourrait permettre à un attaquant d’exécuter du code arbitraire à distance, de porter atteinte à la confidentialité des données et de...|02 mars 2023|
  
 
 # HK-CERT
@@ -143,20 +143,6 @@
  |[Aruba Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20230301)|Multiple vulnerabilities were identified in Aruba Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, cross-site scripting and security restriction bypass on the targeted system.|Release Date: 1 Mar 2023|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
@@ -172,4 +158,18 @@
  |[[Control systems] Baicells security advisory (AV23-123)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-baicells-security-advisory-av23-123)|Visit link for details|2023-03-02|
  |[[Control systems] Mitsubishi Electric security advisory (AV23-122)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av23-122)|Visit link for details|2023-03-02|
  |[[Control systems] ABB security advisory (AV23-121)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av23-121)|Visit link for details|2023-03-02|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
