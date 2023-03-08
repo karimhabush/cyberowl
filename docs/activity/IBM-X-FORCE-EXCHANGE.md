@@ -4,11 +4,11 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Google Chrome Swiftshader code execution (CVE-2023-1213)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2023|
- |[Multiple Buffalo products default account (CVE-2023-26588)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2023|
- |[Parallels Desktop privilege escalation (CVE-2023-27328)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2023|
- |[Parallels Desktop privilege escalation (CVE-2023-27327)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2023|
- |[Parallels Desktop privilege escalation (CVE-2023-27326)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2023|
- |[Parallels Desktop privilege escalation (CVE-2023-27325)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2023|
- |[Parallels Desktop privilege escalation (CVE-2023-27324)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2023|
+ |[Google Chrome Core code execution (CVE-2023-1227)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2023|
+ |[Google Chrome Web Payments API security bypass (CVE-2023-1226)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2023|
+ |[Google Chrome Navigation security bypass (CVE-2023-1225)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2023|
+ |[Google Chrome Web Payments API security bypass (CVE-2023-1224)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2023|
+ |[Google Chrome Autofill security bypass (CVE-2023-1223)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2023|
+ |[Google Chrome Web Audio API buffer overflow (CVE-2023-1222)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2023|
+ |[Google Chrome Extensions API security bypass (CVE-2023-1221)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2023|
  
