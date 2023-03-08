@@ -4,6 +4,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Cisco Security Advisory (AV23-134)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av23-134)|Visit link for details|2023-03-08|
  |[Google Chrome security advisory (AV23-133)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-133)|Visit link for details|2023-03-08|
  |[Fortinet security advisory (AV23-132)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av23-132)|Visit link for details|2023-03-08|
  |[[Control systems] ABB security advisory (AV23-131)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av23-131)|Visit link for details|2023-03-07|
@@ -14,5 +15,4 @@
  |[HPE security advisory (AV23-126)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-126)|Visit link for details|2023-03-03|
  |[GitLab security advisory (AV23-125)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av23-125)|Visit link for details|2023-03-03|
  |[[Control systems] Rittal security advisory (AV23-124)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-rittal-security-advisory-av23-124)|Visit link for details|2023-03-02|
- |[[Control systems] Baicells security advisory (AV23-123)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-baicells-security-advisory-av23-123)|Visit link for details|2023-03-02|
  
