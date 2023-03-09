@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 09/03/2023 03:28:41 UTC
+ > Last Updated 09/03/2023 04:27:21 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,34 +57,23 @@
  |[Multiples vulnérabilités dans les produits RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0195/)|De multiples vulnérabilités ont été corrigées dans |Publié le 3 mars 2023|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[40710803/23 - Exploitation d’une faille critique dans Microsoft Word](https://www.dgssi.gov.ma//fr/content/4071080323-exploitation-d-une-faille-critique-dans-microsoft-word.html)|Une preuve de concept pour « CVE-2023-21716 », une vulnérabilité critique dans Microsoft Word qui permet l'exécution de code à distance, a été récemment publiée. Les Emails de phishing peuvent être utilisés comme un vecteur d’attaque...|08 mars 2023|
- |[40680703/23 - Vulnérabilités critiques affectant le thème « Houzez » pour Wordpress](https://www.dgssi.gov.ma//fr/content/4068070323-vulnerabilites-critiques-affectant-le-theme-houzez-pour-wordpress.html)|Deux vulnérabilités critiques ont été corrigées au niveau de Wordpress« Houzez ». Ces deux vulnérabilités sont activement exploitées et peuvent permettre à un attaquant d’élever sesprivilèges.|07 mars 2023|
- |[40690703/23 - Vulnérabilités dans les produits IBM](https://www.dgssi.gov.ma//fr/content/4069070323-vulnerabilites-dans-les-produits-ibm.html)|Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. L’exploitation de ces failles pourrait permettre à un attaquant de contourner la politique de sécurité et de causer un déni de service à distance.|07 mars 2023|
- |[40650703/23 - Vulnérabilités affectant plusieurs produits de VMware ](https://www.dgssi.gov.ma//fr/content/4065070323-vulnerabilites-affectant-plusieurs-produits-de-vmware.html)|VMware annonce la correction de trois vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant de d’exécuter du code arbitraire, accéder à des données...|07 mars 2023|
- |[40610603/23 -SkullLocker Ransomware](https://www.dgssi.gov.ma//fr/content/4061060323-skulllocker-ransomware.html)|Une compagne d’attaque ciblant les systèmes basés sur les systèmes d’exploitation Windows a été observé menée par le ransomware « SkullLocker ».SkullLocker est une nouvelle variante de la famille des ransomwares Chaos. Le ransomware se...|06 mars 2023|
- |[40630303/23 - Vulnérabilités affectant Zimbra Collaboration ](https://www.dgssi.gov.ma//fr/content/4063030323-vulnerabilites-affectant-zimbra-collaboration.html)|Zimbra annonce la disponibilité d’une mise à jour de sécurité permettant la correctionde deux vulnérabilités affectant sa plateforme de messagerie Zimbra. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’...|03 mars 2023|
- |[40620303/23 - Vulnérabilités affectant plusieursproduits deCisco](https://www.dgssi.gov.ma//fr/content/4062030323-vulnerabilites-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’injecter du contenu dans une page ou...|03 mars 2023|
- |[40610203 /23 - Nouvelle compagne d’attaque par le malware « Vidar »](https://www.dgssi.gov.ma//fr/content/40610203-23-nouvelle-compagne-d-attaque-par-le-malware-vidar.html)|Vidar est un malware de vol d'informations écrit en C++ qui permet aux acteurs malveillants de collecter les éléments suivants à partir des machines compromises : détails du navigateur (cookies, URL de sites Web et noms d'...|02 mars 2023|
- |[40600203/23 - Vulnérabilité affectantle navigateur Mozilla Firefox pour Android](https://www.dgssi.gov.ma//fr/content/4060020323-vulnerabilite-affectant-le-navigateur-mozilla-firefox-pour-android.html)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction d’une vulnérabilité au niveau du navigateur Mozilla Firefox sur Android. L’exploitation de cette vulnérabilité peut permettre à un...|02 mars 2023|
- |[40590203/23 - Vulnérabilités affectantle navigateur Microsoft Edge ](https://www.dgssi.gov.ma//fr/content/4059020323-vulnerabilites-affectant-le-navigateur-microsoft-edge.html)|Microsoft vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilités affectant le navigateur Microsoft Edge. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuter du code...|02 mars 2023|
- |[40580103 /23 - Vulnérabilités dans Cisco IP Phone](https://www.dgssi.gov.ma//fr/content/40580103-23-vulnerabilites-dans-cisco-ip-phone.html)|Plusieurs vulnérabilités ont été corrigées dans Cisco IP Phone. L’exploitation de ces vulnérabilités peut permettre à un attaquantd’exécuter du code arbitraire à distance et de causer un déni de service.|02 mars 2023|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
+ |[Apache Dubbo code execution (CVE-2023-23638)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 8, 2023|
+ |[Cisco IOS XR Software for ASR 9000 Series Routers denial of service (CVE-2023-20049)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 8, 2023|
+ |[Cisco IOS XR Software information disclosure (CVE-2023-20064)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 8, 2023|
  |[Jenkins update-center2 cross-site scripting (CVE-2023-27905)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 8, 2023|
  |[Jenkins weekly and LTS information disclosure (CVE-2023-27904)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 8, 2023|
  |[Jenkins weekly and LTS security bypass (CVE-2023-27903)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 8, 2023|
  |[Jenkins weekly and LTS information disclosure (CVE-2023-27902)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 8, 2023|
- |[Jenkins weekly and LTS denial of service (CVE-2023-27901)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 8, 2023|
- |[Jenkins weekly and LTS denial of service (CVE-2023-27900)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 8, 2023|
- |[Jenkins weekly and LTS code execution (CVE-2023-27899)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 8, 2023|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # OBS-Vigilance
@@ -104,12 +93,6 @@
  |[<a href="https://vigilance.fr/vulnerability/FortiOS-NULL-pointer-dereference-via-SSLVPNd-40732" class="noirorange"><b>FortiOS</b>: NULL pointer dereference via SSLVPNd</a>](https://vigilance.fr/vulnerability/FortiOS-NULL-pointer-dereference-via-SSLVPNd-40732)|An attacker can force a NULL pointer to be dereferenced on FortiOS, via SSLVPNd, in order to trigger a denial of service...|Visit link for details|
  
 
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -127,10 +110,28 @@
  |[2023-005: Critical Code Injection Vulnerability in QNAP Devices](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-005.pdf)|On January 30th, 2023, QNAP published an advisory related to a critical vulnerability, identified as CVE-2022-27596, allowing remote attackers to inject malicious code on QNAP NAS devices.|Tuesday, January 31, 2023 05:55:00 PM CET|
  
 
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[40710803/23 - Exploitation d’une faille critique dans Microsoft Word](https://www.dgssi.gov.ma//fr/content/4071080323-exploitation-d-une-faille-critique-dans-microsoft-word.html)|Une preuve de concept pour « CVE-2023-21716 », une vulnérabilité critique dans Microsoft Word qui permet l'exécution de code à distance, a été récemment publiée. Les Emails de phishing peuvent être utilisés comme un vecteur d’attaque...|08 mars 2023|
+ |[40680703/23 - Vulnérabilités critiques affectant le thème « Houzez » pour Wordpress](https://www.dgssi.gov.ma//fr/content/4068070323-vulnerabilites-critiques-affectant-le-theme-houzez-pour-wordpress.html)|Deux vulnérabilités critiques ont été corrigées au niveau de Wordpress« Houzez ». Ces deux vulnérabilités sont activement exploitées et peuvent permettre à un attaquant d’élever sesprivilèges.|07 mars 2023|
+ |[40690703/23 - Vulnérabilités dans les produits IBM](https://www.dgssi.gov.ma//fr/content/4069070323-vulnerabilites-dans-les-produits-ibm.html)|Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. L’exploitation de ces failles pourrait permettre à un attaquant de contourner la politique de sécurité et de causer un déni de service à distance.|07 mars 2023|
+ |[40650703/23 - Vulnérabilités affectant plusieurs produits de VMware ](https://www.dgssi.gov.ma//fr/content/4065070323-vulnerabilites-affectant-plusieurs-produits-de-vmware.html)|VMware annonce la correction de trois vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant de d’exécuter du code arbitraire, accéder à des données...|07 mars 2023|
+ |[40610603/23 -SkullLocker Ransomware](https://www.dgssi.gov.ma//fr/content/4061060323-skulllocker-ransomware.html)|Une compagne d’attaque ciblant les systèmes basés sur les systèmes d’exploitation Windows a été observé menée par le ransomware « SkullLocker ».SkullLocker est une nouvelle variante de la famille des ransomwares Chaos. Le ransomware se...|06 mars 2023|
+ |[40630303/23 - Vulnérabilités affectant Zimbra Collaboration ](https://www.dgssi.gov.ma//fr/content/4063030323-vulnerabilites-affectant-zimbra-collaboration.html)|Zimbra annonce la disponibilité d’une mise à jour de sécurité permettant la correctionde deux vulnérabilités affectant sa plateforme de messagerie Zimbra. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’...|03 mars 2023|
+ |[40620303/23 - Vulnérabilités affectant plusieursproduits deCisco](https://www.dgssi.gov.ma//fr/content/4062030323-vulnerabilites-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’injecter du contenu dans une page ou...|03 mars 2023|
+ |[40610203 /23 - Nouvelle compagne d’attaque par le malware « Vidar »](https://www.dgssi.gov.ma//fr/content/40610203-23-nouvelle-compagne-d-attaque-par-le-malware-vidar.html)|Vidar est un malware de vol d'informations écrit en C++ qui permet aux acteurs malveillants de collecter les éléments suivants à partir des machines compromises : détails du navigateur (cookies, URL de sites Web et noms d'...|02 mars 2023|
+ |[40600203/23 - Vulnérabilité affectantle navigateur Mozilla Firefox pour Android](https://www.dgssi.gov.ma//fr/content/4060020323-vulnerabilite-affectant-le-navigateur-mozilla-firefox-pour-android.html)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction d’une vulnérabilité au niveau du navigateur Mozilla Firefox sur Android. L’exploitation de cette vulnérabilité peut permettre à un...|02 mars 2023|
+ |[40590203/23 - Vulnérabilités affectantle navigateur Microsoft Edge ](https://www.dgssi.gov.ma//fr/content/4059020323-vulnerabilites-affectant-le-navigateur-microsoft-edge.html)|Microsoft vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilités affectant le navigateur Microsoft Edge. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuter du code...|02 mars 2023|
+ |[40580103 /23 - Vulnérabilités dans Cisco IP Phone](https://www.dgssi.gov.ma//fr/content/40580103-23-vulnerabilites-dans-cisco-ip-phone.html)|Plusieurs vulnérabilités ont été corrigées dans Cisco IP Phone. L’exploitation de ces vulnérabilités peut permettre à un attaquantd’exécuter du code arbitraire à distance et de causer un déni de service.|02 mars 2023|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20230309)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 9 Mar 2023|
  |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230306)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-03-07] Updated System / Technologies affected, ...| Release Date: 6 Mar 2023 |
  |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230302)|Multiple vulnerabilities were identified in SUSE Linux. An attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure, security restriction bypass on the targeted system. [Updated on 2023-03-03...| Release Date: 2 Mar 2023 |
  |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20230308)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure, data manipulation and remote code execution on the targeted system.|Release Date: 8 Mar 2023|
@@ -140,7 +141,6 @@
  |[Trusted Platform Module (TPM) Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/tpm-2-0-multiple-vulnerabilities_20230306)|Multiple vulnerabilities were identified in Trusted Platform Module (TPM). An attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure and elevation of privilege on the targeted system. Trusted Platform Module (TPM) technology is a hardware-based solution that provides secure cryptographic...|Release Date: 6 Mar 2023|
  |[IBM WebSphere Application Server Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-websphere-application-server-multiple-vulnerabilities_20230302)|Multiple vulnerabilities were identified in IBM WebSphere Application Server. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and cross-site scripting on the targeted system.|Release Date: 2 Mar 2023|
  |[Mozilla Firefox Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/mozilla-firefox-remote-code-execution-vulnerability_20230301)|A vulnerability was identified in Mozilla Firefox, a remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 1 Mar 2023|
- |[Aruba Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20230301)|Multiple vulnerabilities were identified in Aruba Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, cross-site scripting and security restriction bypass on the targeted system.|Release Date: 1 Mar 2023|
  
 
 # CA-CCS
