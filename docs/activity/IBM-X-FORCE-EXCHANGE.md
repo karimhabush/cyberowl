@@ -4,11 +4,11 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Jenkins weekly and LTS cross-site scripting (CVE-2023-27898)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 8, 2023|
  |[Fortinet FortiWeb command execution (CVE-2022-39951)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2023|
  |[Fortinet FortiNAC privilege escalation (CVE-2022-39953)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2023|
  |[Fortinet FortiNAC cross-site scripting (CVE-2022-40676)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2023|
  |[Fortinet FortiOS directory traversal (CVE-2022-41328)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2023|
  |[Fortinet FortiRecorder denial of service (CVE-2022-41333)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2023|
  |[Fortinet FortiWeb and Fortinet FortiRecorder information disclosure (CVE-2022-22297)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2023|
- |[Fortinet FortiAnalyzer information disclosure (CVE-2023-23776)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 7, 2023|
  
