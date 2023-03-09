@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 09/03/2023 14:19:51 UTC
+ > Last Updated 09/03/2023 15:24:26 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -78,13 +78,36 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[SEIKO EPSON printers/network interface Web Config cross-site request forgery (CVE-2023-23572)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 9, 2023|
+ |[SEIKO EPSON printers/network interface Web Config cross-site scripting (CVE-2023-27520)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 8, 2023|
  |[Ulkem Company PtteM Kart SQL injection (CVE-2023-1267)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 8, 2023|
  |[Gutenberg module for Drupal denial of service](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 8, 2023|
  |[XWiki Platform information disclosure (CVE-2023-27480)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 8, 2023|
  |[XWiki Platform privilege escalation (CVE-2023-27479)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 8, 2023|
  |[Apache Dubbo code execution (CVE-2023-23638)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 8, 2023|
- |[Cisco IOS XR Software for ASR 9000 Series Routers denial of service (CVE-2023-20049)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 8, 2023|
- |[Cisco IOS XR Software information disclosure (CVE-2023-20064)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 8, 2023|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Gutenberg-denial-of-service-via-Reusable-Blocks-40742" class="noirorange"><b>Drupal Gutenberg</b>: denial of service via Reusable Blocks</a>](https://vigilance.fr/vulnerability/Drupal-Gutenberg-denial-of-service-via-Reusable-Blocks-40742)|An attacker can cause a fatal error of Drupal Gutenberg, via Reusable Blocks, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-CCDT-Channel-Synchronization-Logic-40741" class="noirorange"><b>IBM MQ</b>: denial of service via CCDT Channel Synchronization Logic</a>](https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-CCDT-Channel-Synchronization-Logic-40741)|An attacker can cause a fatal error of IBM MQ, via CCDT Channel Synchronization Logic, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XR-for-ASR-9000-denial-of-service-via-BFD-40740" class="noirorange"><b>Cisco IOS XR for ASR 9000</b>: denial of service via BFD</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XR-for-ASR-9000-denial-of-service-via-BFD-40740)|An attacker can cause a fatal error of Cisco IOS XR for ASR 9000, via BFD, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XR-file-reading-via-GRUB-40739" class="noirorange"><b>Cisco IOS XR</b>: file reading via GRUB</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XR-file-reading-via-GRUB-40739)|An attacker can read a file of Cisco IOS XR, via GRUB, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Jenkins-Core-LTS-multiple-vulnerabilities-40738" class="noirorange"><b>Jenkins Core LTS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Core-LTS-multiple-vulnerabilities-40738)|An attacker can use several vulnerabilities of Jenkins Core LTS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/QEMU-reuse-after-free-via-pvrdma-exec-cmd-40737" class="noirorange"><b>QEMU</b>: reuse after free via pvrdma_exec_cmd()</a>](https://vigilance.fr/vulnerability/QEMU-reuse-after-free-via-pvrdma-exec-cmd-40737)|An attacker, in a guest system, can force the reuse of a freed memory area of QEMU, via pvrdma_exec_cmd(), in order to trigger a denial of service, and possibly to run code on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-40736" class="noirorange"><b>Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-40736)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-memory-corruption-via-Administrative-Interface-40735" class="noirorange"><b>FortiOS</b>: memory corruption via Administrative Interface</a>](https://vigilance.fr/vulnerability/FortiOS-memory-corruption-via-Administrative-Interface-40735)|An attacker can trigger a memory corruption of FortiOS, via Administrative Interface, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiAnalyzer-code-execution-via-Macro-Names-Spreadsheet-Formulas-40734" class="noirorange"><b>FortiAnalyzer</b>: code execution via Macro Names Spreadsheet Formulas</a>](https://vigilance.fr/vulnerability/FortiAnalyzer-code-execution-via-Macro-Names-Spreadsheet-Formulas-40734)|An attacker can use a vulnerability of FortiAnalyzer, via Macro Names Spreadsheet Formulas, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiAnalyzer-information-disclosure-via-Log-fetch-Client-Request-Password-40733" class="noirorange"><b>FortiAnalyzer</b>: information disclosure via Log-fetch Client Request Password</a>](https://vigilance.fr/vulnerability/FortiAnalyzer-information-disclosure-via-Log-fetch-Client-Request-Password-40733)|An attacker can bypass access restrictions to data of FortiAnalyzer, via Log-fetch Client Request Password, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-NULL-pointer-dereference-via-SSLVPNd-40732" class="noirorange"><b>FortiOS</b>: NULL pointer dereference via SSLVPNd</a>](https://vigilance.fr/vulnerability/FortiOS-NULL-pointer-dereference-via-SSLVPNd-40732)|An attacker can force a NULL pointer to be dereferenced on FortiOS, via SSLVPNd, in order to trigger a denial of service...|Visit link for details|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # HK-CERT
@@ -101,12 +124,6 @@
  |[Trusted Platform Module (TPM) Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/tpm-2-0-multiple-vulnerabilities_20230306)|Multiple vulnerabilities were identified in Trusted Platform Module (TPM). An attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure and elevation of privilege on the targeted system. Trusted Platform Module (TPM) technology is a hardware-based solution that provides secure cryptographic...|Release Date: 6 Mar 2023|
  |[IBM WebSphere Application Server Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ibm-websphere-application-server-multiple-vulnerabilities_20230302)|Multiple vulnerabilities were identified in IBM WebSphere Application Server. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and cross-site scripting on the targeted system.|Release Date: 2 Mar 2023|
  |[Mozilla Firefox Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/mozilla-firefox-remote-code-execution-vulnerability_20230301)|A vulnerability was identified in Mozilla Firefox, a remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 1 Mar 2023|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # EU-CERT
@@ -126,20 +143,6 @@
  |[2023-005: Critical Code Injection Vulnerability in QNAP Devices](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-005.pdf)|On January 30th, 2023, QNAP published an advisory related to a critical vulnerability, identified as CVE-2022-27596, allowing remote attackers to inject malicious code on QNAP NAS devices.|Tuesday, January 31, 2023 05:55:00 PM CET|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
@@ -157,19 +160,16 @@
  |[[Control systems] Rittal security advisory (AV23-124)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-rittal-security-advisory-av23-124)|Visit link for details|2023-03-02|
  
 
-# OBS-Vigilance
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Gutenberg-denial-of-service-via-Reusable-Blocks-40742" class="noirorange"><b>Drupal Gutenberg</b>: denial of service via Reusable Blocks</a>](https://vigilance.fr/vulnerability/Drupal-Gutenberg-denial-of-service-via-Reusable-Blocks-40742)|An attacker can cause a fatal error of Drupal Gutenberg, via Reusable Blocks, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-CCDT-Channel-Synchronization-Logic-40741" class="noirorange"><b>IBM MQ</b>: denial of service via CCDT Channel Synchronization Logic</a>](https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-CCDT-Channel-Synchronization-Logic-40741)|An attacker can cause a fatal error of IBM MQ, via CCDT Channel Synchronization Logic, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XR-for-ASR-9000-denial-of-service-via-BFD-40740" class="noirorange"><b>Cisco IOS XR for ASR 9000</b>: denial of service via BFD</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XR-for-ASR-9000-denial-of-service-via-BFD-40740)|An attacker can cause a fatal error of Cisco IOS XR for ASR 9000, via BFD, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XR-file-reading-via-GRUB-40739" class="noirorange"><b>Cisco IOS XR</b>: file reading via GRUB</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XR-file-reading-via-GRUB-40739)|An attacker can read a file of Cisco IOS XR, via GRUB, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jenkins-Core-LTS-multiple-vulnerabilities-40738" class="noirorange"><b>Jenkins Core LTS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Core-LTS-multiple-vulnerabilities-40738)|An attacker can use several vulnerabilities of Jenkins Core LTS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/QEMU-reuse-after-free-via-pvrdma-exec-cmd-40737" class="noirorange"><b>QEMU</b>: reuse after free via pvrdma_exec_cmd()</a>](https://vigilance.fr/vulnerability/QEMU-reuse-after-free-via-pvrdma-exec-cmd-40737)|An attacker, in a guest system, can force the reuse of a freed memory area of QEMU, via pvrdma_exec_cmd(), in order to trigger a denial of service, and possibly to run code on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-40736" class="noirorange"><b>Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-40736)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-memory-corruption-via-Administrative-Interface-40735" class="noirorange"><b>FortiOS</b>: memory corruption via Administrative Interface</a>](https://vigilance.fr/vulnerability/FortiOS-memory-corruption-via-Administrative-Interface-40735)|An attacker can trigger a memory corruption of FortiOS, via Administrative Interface, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiAnalyzer-code-execution-via-Macro-Names-Spreadsheet-Formulas-40734" class="noirorange"><b>FortiAnalyzer</b>: code execution via Macro Names Spreadsheet Formulas</a>](https://vigilance.fr/vulnerability/FortiAnalyzer-code-execution-via-Macro-Names-Spreadsheet-Formulas-40734)|An attacker can use a vulnerability of FortiAnalyzer, via Macro Names Spreadsheet Formulas, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiAnalyzer-information-disclosure-via-Log-fetch-Client-Request-Password-40733" class="noirorange"><b>FortiAnalyzer</b>: information disclosure via Log-fetch Client Request Password</a>](https://vigilance.fr/vulnerability/FortiAnalyzer-information-disclosure-via-Log-fetch-Client-Request-Password-40733)|An attacker can bypass access restrictions to data of FortiAnalyzer, via Log-fetch Client Request Password, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-NULL-pointer-dereference-via-SSLVPNd-40732" class="noirorange"><b>FortiOS</b>: NULL pointer dereference via SSLVPNd</a>](https://vigilance.fr/vulnerability/FortiOS-NULL-pointer-dereference-via-SSLVPNd-40732)|An attacker can force a NULL pointer to be dereferenced on FortiOS, via SSLVPNd, in order to trigger a denial of service...|Visit link for details|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
