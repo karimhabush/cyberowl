@@ -4,6 +4,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[[Control systems] STEP Tools security advisory (AV23-137)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-step-tools-security-advisory-av23-137)|Visit link for details|2023-03-09|
+ |[[Control systems] B&R security advisory (AV23-136)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-br-security-advisory-av23-136)|Visit link for details|2023-03-09|
+ |[[Control systems] Akuvox security advisory (AV23-135)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-akuvox-security-advisory-av23-135)|Visit link for details|2023-03-09|
  |[Cisco Security Advisory (AV23-134)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av23-134)|Visit link for details|2023-03-08|
  |[Google Chrome security advisory (AV23-133)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-133)|Visit link for details|2023-03-08|
  |[Fortinet security advisory (AV23-132)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av23-132)|Visit link for details|2023-03-08|
@@ -12,7 +15,4 @@
  |[Ubuntu security advisory (AV23-129)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-129)|Visit link for details|2023-03-06|
  |[Dell security advisory (AV23-128)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-128)|Visit link for details|2023-03-06|
  |[IBM security advisory (AV23-127)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-127)|Visit link for details|2023-03-06|
- |[HPE security advisory (AV23-126)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-126)|Visit link for details|2023-03-03|
- |[GitLab security advisory (AV23-125)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av23-125)|Visit link for details|2023-03-03|
- |[[Control systems] Rittal security advisory (AV23-124)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-rittal-security-advisory-av23-124)|Visit link for details|2023-03-02|
  
