@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 09/03/2023 07:19:50 UTC
+ > Last Updated 09/03/2023 08:28:43 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,25 +57,6 @@
  |[Multiples vulnérabilités dans les produits RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0195/)|De multiples vulnérabilités ont été corrigées dans |Publié le 3 mars 2023|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[XWiki Platform information disclosure (CVE-2023-27480)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 8, 2023|
- |[XWiki Platform privilege escalation (CVE-2023-27479)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 8, 2023|
- |[Apache Dubbo code execution (CVE-2023-23638)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 8, 2023|
- |[Cisco IOS XR Software for ASR 9000 Series Routers denial of service (CVE-2023-20049)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 8, 2023|
- |[Cisco IOS XR Software information disclosure (CVE-2023-20064)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 8, 2023|
- |[Jenkins update-center2 cross-site scripting (CVE-2023-27905)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 8, 2023|
- |[Jenkins weekly and LTS information disclosure (CVE-2023-27904)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 8, 2023|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -108,6 +89,25 @@
  |[<a href="https://vigilance.fr/vulnerability/FortiAnalyzer-code-execution-via-Macro-Names-Spreadsheet-Formulas-40734" class="noirorange"><b>FortiAnalyzer</b>: code execution via Macro Names Spreadsheet Formulas</a>](https://vigilance.fr/vulnerability/FortiAnalyzer-code-execution-via-Macro-Names-Spreadsheet-Formulas-40734)|An attacker can use a vulnerability of FortiAnalyzer, via Macro Names Spreadsheet Formulas, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FortiAnalyzer-information-disclosure-via-Log-fetch-Client-Request-Password-40733" class="noirorange"><b>FortiAnalyzer</b>: information disclosure via Log-fetch Client Request Password</a>](https://vigilance.fr/vulnerability/FortiAnalyzer-information-disclosure-via-Log-fetch-Client-Request-Password-40733)|An attacker can bypass access restrictions to data of FortiAnalyzer, via Log-fetch Client Request Password, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FortiOS-NULL-pointer-dereference-via-SSLVPNd-40732" class="noirorange"><b>FortiOS</b>: NULL pointer dereference via SSLVPNd</a>](https://vigilance.fr/vulnerability/FortiOS-NULL-pointer-dereference-via-SSLVPNd-40732)|An attacker can force a NULL pointer to be dereferenced on FortiOS, via SSLVPNd, in order to trigger a denial of service...|Visit link for details|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[XWiki Platform information disclosure (CVE-2023-27480)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 8, 2023|
+ |[XWiki Platform privilege escalation (CVE-2023-27479)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 8, 2023|
+ |[Apache Dubbo code execution (CVE-2023-23638)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 8, 2023|
+ |[Cisco IOS XR Software for ASR 9000 Series Routers denial of service (CVE-2023-20049)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 8, 2023|
+ |[Cisco IOS XR Software information disclosure (CVE-2023-20064)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 8, 2023|
+ |[Jenkins update-center2 cross-site scripting (CVE-2023-27905)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 8, 2023|
+ |[Jenkins weekly and LTS information disclosure (CVE-2023-27904)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 8, 2023|
  
 
 # EU-CERT
