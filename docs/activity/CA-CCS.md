@@ -4,6 +4,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[[Control systems] Hitachi security advisory (AV23-138)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-hitachi-security-advisory-av23-138)|Visit link for details|2023-03-10|
  |[[Control systems] STEP Tools security advisory (AV23-137)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-step-tools-security-advisory-av23-137)|Visit link for details|2023-03-09|
  |[[Control systems] B&R security advisory (AV23-136)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-br-security-advisory-av23-136)|Visit link for details|2023-03-09|
  |[[Control systems] Akuvox security advisory (AV23-135)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-akuvox-security-advisory-av23-135)|Visit link for details|2023-03-09|
@@ -14,5 +15,4 @@
  |[Android security advisory – March 2023 monthly rollup (AV23-130)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-march-2023-monthly-rollup-av23-130)|Visit link for details|2023-03-06|
  |[Ubuntu security advisory (AV23-129)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-129)|Visit link for details|2023-03-06|
  |[Dell security advisory (AV23-128)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-128)|Visit link for details|2023-03-06|
- |[IBM security advisory (AV23-127)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-127)|Visit link for details|2023-03-06|
  
