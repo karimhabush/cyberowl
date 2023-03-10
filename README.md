@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 10/03/2023 11:21:06 UTC
+ > Last Updated 10/03/2023 12:42:13 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -74,12 +74,6 @@
  |[40650703/23 - Vulnérabilités affectant plusieurs produits de VMware ](https://www.dgssi.gov.ma//fr/content/4065070323-vulnerabilites-affectant-plusieurs-produits-de-vmware.html)|VMware annonce la correction de trois vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant de d’exécuter du code arbitraire, accéder à des données...|07 mars 2023|
  
 
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -91,6 +85,12 @@
  |[Foxit Reader code execution (CVE-2023-27330)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 9, 2023|
  |[Foxit Reader code execution (CVE-2023-27331)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 9, 2023|
  |[SEIKO EPSON printers/network interface Web Config cross-site request forgery (CVE-2023-23572)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 9, 2023|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # OBS-Vigilance
