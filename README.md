@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 10/03/2023 15:22:08 UTC
+ > Last Updated 10/03/2023 16:29:47 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,35 +45,16 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Vulnérabilité dans SPIP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0213/)|Une vulnérabilité a été découverte dans SPIP. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 10 mars 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0212/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mars 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0211/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mars 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0210/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mars 2023|
+ |[Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0209/)|De multiples vulnérabilités ont été découvertes dans Google Android. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 10 mars 2023|
+ |[Multiples vulnérabilités dans Nessus](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0208/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 10 mars 2023|
  |[Vulnérabilité dans Cisco IOS XR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0207/)|Une vulnérabilité a été découverte dans Cisco IOS XR. Elle permet à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 9 mars 2023|
  |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0206/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 mars 2023|
  |[Multiples vulnérabilités dans IBM WebSphere](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0205/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 mars 2023|
  |[[SCADA] Vulnérabilité dans Moxa MXsecurity](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0204/)|Une vulnérabilité a été découverte dans |Publié le 8 mars 2023|
- |[Vulnérabilité dans Veeam Backup](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0203/)|Une vulnérabilités a été découverte dans |Publié le 8 mars 2023|
- |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0202/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 mars 2023|
- |[Multiples vulnérabilités dans Tenable Nessus](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0201/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 mars 2023|
- |[Multiples vulnérabilités dans Apache HTTP Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0200/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 mars 2023|
- |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0199/)|De multiples vulnérabilités ont été découvertes dans |Publié le 8 mars 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0198/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 6 mars 2023|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Emacs code execution (CVE-2023-27986)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 9, 2023|
- |[Emacs command execution (CVE-2023-27985)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 9, 2023|
- |[Ivanti Avalanche DeviceLogResource security bypass (CVE-2022-44574)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 9, 2023|
- |[Foxit Reader code execution (CVE-2023-27329)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 9, 2023|
- |[Foxit Reader code execution (CVE-2023-27330)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 9, 2023|
- |[Foxit Reader code execution (CVE-2023-27331)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 9, 2023|
- |[SEIKO EPSON printers/network interface Web Config cross-site request forgery (CVE-2023-23572)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 9, 2023|
  
 
 # MA-CERT
@@ -91,6 +72,25 @@
  |[40680703/23 - Vulnérabilités critiques affectant le thème « Houzez » pour Wordpress](https://www.dgssi.gov.ma//fr/content/4068070323-vulnerabilites-critiques-affectant-le-theme-houzez-pour-wordpress.html)|Deux vulnérabilités critiques ont été corrigées au niveau de Wordpress« Houzez ». Ces deux vulnérabilités sont activement exploitées et peuvent permettre à un attaquant d’élever sesprivilèges.|07 mars 2023|
  |[40690703/23 - Vulnérabilités dans les produits IBM](https://www.dgssi.gov.ma//fr/content/4069070323-vulnerabilites-dans-les-produits-ibm.html)|Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. L’exploitation de ces failles pourrait permettre à un attaquant de contourner la politique de sécurité et de causer un déni de service à distance.|07 mars 2023|
  |[40650703/23 - Vulnérabilités affectant plusieurs produits de VMware ](https://www.dgssi.gov.ma//fr/content/4065070323-vulnerabilites-affectant-plusieurs-produits-de-vmware.html)|VMware annonce la correction de trois vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant de d’exécuter du code arbitraire, accéder à des données...|07 mars 2023|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Auth.js next-auth cross-site request forgery (CVE-2023-27490)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 9, 2023|
+ |[Emacs code execution (CVE-2023-27986)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 9, 2023|
+ |[Emacs command execution (CVE-2023-27985)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 9, 2023|
+ |[Ivanti Avalanche DeviceLogResource security bypass (CVE-2022-44574)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 9, 2023|
+ |[Foxit Reader code execution (CVE-2023-27329)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 9, 2023|
+ |[Foxit Reader code execution (CVE-2023-27330)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 9, 2023|
+ |[Foxit Reader code execution (CVE-2023-27331)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 9, 2023|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # EU-CERT
@@ -143,20 +143,6 @@
  |[Trusted Platform Module (TPM) Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/tpm-2-0-multiple-vulnerabilities_20230306)|Multiple vulnerabilities were identified in Trusted Platform Module (TPM). An attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure and elevation of privilege on the targeted system. Trusted Platform Module (TPM) technology is a hardware-based solution that provides secure cryptographic...|Release Date: 6 Mar 2023|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
@@ -172,4 +158,18 @@
  |[Android security advisory – March 2023 monthly rollup (AV23-130)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-march-2023-monthly-rollup-av23-130)|Visit link for details|2023-03-06|
  |[Ubuntu security advisory (AV23-129)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-129)|Visit link for details|2023-03-06|
  |[Dell security advisory (AV23-128)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-128)|Visit link for details|2023-03-06|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
