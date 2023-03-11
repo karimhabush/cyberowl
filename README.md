@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 11/03/2023 01:27:49 UTC
+ > Last Updated 11/03/2023 02:39:20 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,6 +57,23 @@
  |[[SCADA] Vulnérabilité dans Moxa MXsecurity](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0204/)|Une vulnérabilité a été découverte dans |Publié le 8 mars 2023|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Log4j-1-denial-of-service-via-Chainsaw-SocketAppender-40751" class="noirorange"><b>Apache Log4j 1</b>: denial of service via Chainsaw / SocketAppender</a>](https://vigilance.fr/vulnerability/Apache-Log4j-1-denial-of-service-via-Chainsaw-SocketAppender-40751)|An attacker can cause a fatal error of Apache Log4j 1, via Chainsaw / SocketAppender, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-overload-40750" class="noirorange"><b>WithSecure Endpoint Protection</b>: overload</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-overload-40750)|An attacker can trigger an overload of WithSecure Endpoint Protection, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Joomla-J-BusinessDirectory-vulnerability-40749" class="noirorange"><b>Joomla J-BusinessDirectory</b>: vulnerability</a>](https://vigilance.fr/vulnerability/Joomla-J-BusinessDirectory-vulnerability-40749)|A vulnerability of Joomla J-BusinessDirectory was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Undertow-overload-via-SslConduit-Close-40748" class="noirorange"><b>Undertow</b>: overload via SslConduit Close</a>](https://vigilance.fr/vulnerability/Undertow-overload-via-SslConduit-Close-40748)|An attacker can trigger an overload of Undertow, via SslConduit Close, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HDFGroup-buffer-overflow-via-h5tools-str-sprint-40747" class="noirorange"><b>HDFGroup</b>: buffer overflow via h5tools_str_sprint()</a>](https://vigilance.fr/vulnerability/HDFGroup-buffer-overflow-via-h5tools-str-sprint-40747)|An attacker can trigger a buffer overflow of HDFGroup, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ImageMagick-denial-of-service-via-Looping-SVG-File-40746" class="noirorange"><b>ImageMagick</b>: denial of service via Looping SVG File</a>](https://vigilance.fr/vulnerability/ImageMagick-denial-of-service-via-Looping-SVG-File-40746)|An attacker can cause a fatal error of ImageMagick, via Looping SVG File, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Gutenberg-denial-of-service-via-Reusable-Blocks-40742" class="noirorange"><b>Drupal Gutenberg</b>: denial of service via Reusable Blocks</a>](https://vigilance.fr/vulnerability/Drupal-Gutenberg-denial-of-service-via-Reusable-Blocks-40742)|An attacker can cause a fatal error of Drupal Gutenberg, via Reusable Blocks, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-CCDT-Channel-Synchronization-Logic-40741" class="noirorange"><b>IBM MQ</b>: denial of service via CCDT Channel Synchronization Logic</a>](https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-CCDT-Channel-Synchronization-Logic-40741)|An attacker can cause a fatal error of IBM MQ, via CCDT Channel Synchronization Logic, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XR-for-ASR-9000-denial-of-service-via-BFD-40740" class="noirorange"><b>Cisco IOS XR for ASR 9000</b>: denial of service via BFD</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XR-for-ASR-9000-denial-of-service-via-BFD-40740)|An attacker can cause a fatal error of Cisco IOS XR for ASR 9000, via BFD, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XR-file-reading-via-GRUB-40739" class="noirorange"><b>Cisco IOS XR</b>: file reading via GRUB</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XR-file-reading-via-GRUB-40739)|An attacker can read a file of Cisco IOS XR, via GRUB, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Jenkins-Core-LTS-multiple-vulnerabilities-40738" class="noirorange"><b>Jenkins Core LTS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Core-LTS-multiple-vulnerabilities-40738)|An attacker can use several vulnerabilities of Jenkins Core LTS...|Visit link for details|
+ 
+
 # VulDB
 
  |Title|Description|Date|
@@ -78,23 +95,6 @@
  |[40680703/23 - Vulnérabilités critiques affectant le thème « Houzez » pour Wordpress](https://www.dgssi.gov.ma//fr/content/4068070323-vulnerabilites-critiques-affectant-le-theme-houzez-pour-wordpress.html)|Deux vulnérabilités critiques ont été corrigées au niveau de Wordpress« Houzez ». Ces deux vulnérabilités sont activement exploitées et peuvent permettre à un attaquant d’élever sesprivilèges.|07 mars 2023|
  |[40690703/23 - Vulnérabilités dans les produits IBM](https://www.dgssi.gov.ma//fr/content/4069070323-vulnerabilites-dans-les-produits-ibm.html)|Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. L’exploitation de ces failles pourrait permettre à un attaquant de contourner la politique de sécurité et de causer un déni de service à distance.|07 mars 2023|
  |[40650703/23 - Vulnérabilités affectant plusieurs produits de VMware ](https://www.dgssi.gov.ma//fr/content/4065070323-vulnerabilites-affectant-plusieurs-produits-de-vmware.html)|VMware annonce la correction de trois vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant de d’exécuter du code arbitraire, accéder à des données...|07 mars 2023|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Log4j-1-denial-of-service-via-Chainsaw-SocketAppender-40751" class="noirorange"><b>Apache Log4j 1</b>: denial of service via Chainsaw / SocketAppender</a>](https://vigilance.fr/vulnerability/Apache-Log4j-1-denial-of-service-via-Chainsaw-SocketAppender-40751)|An attacker can cause a fatal error of Apache Log4j 1, via Chainsaw / SocketAppender, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-overload-40750" class="noirorange"><b>WithSecure Endpoint Protection</b>: overload</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-overload-40750)|An attacker can trigger an overload of WithSecure Endpoint Protection, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Joomla-J-BusinessDirectory-vulnerability-40749" class="noirorange"><b>Joomla J-BusinessDirectory</b>: vulnerability</a>](https://vigilance.fr/vulnerability/Joomla-J-BusinessDirectory-vulnerability-40749)|A vulnerability of Joomla J-BusinessDirectory was announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Undertow-overload-via-SslConduit-Close-40748" class="noirorange"><b>Undertow</b>: overload via SslConduit Close</a>](https://vigilance.fr/vulnerability/Undertow-overload-via-SslConduit-Close-40748)|An attacker can trigger an overload of Undertow, via SslConduit Close, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HDFGroup-buffer-overflow-via-h5tools-str-sprint-40747" class="noirorange"><b>HDFGroup</b>: buffer overflow via h5tools_str_sprint()</a>](https://vigilance.fr/vulnerability/HDFGroup-buffer-overflow-via-h5tools-str-sprint-40747)|An attacker can trigger a buffer overflow of HDFGroup, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ImageMagick-denial-of-service-via-Looping-SVG-File-40746" class="noirorange"><b>ImageMagick</b>: denial of service via Looping SVG File</a>](https://vigilance.fr/vulnerability/ImageMagick-denial-of-service-via-Looping-SVG-File-40746)|An attacker can cause a fatal error of ImageMagick, via Looping SVG File, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Gutenberg-denial-of-service-via-Reusable-Blocks-40742" class="noirorange"><b>Drupal Gutenberg</b>: denial of service via Reusable Blocks</a>](https://vigilance.fr/vulnerability/Drupal-Gutenberg-denial-of-service-via-Reusable-Blocks-40742)|An attacker can cause a fatal error of Drupal Gutenberg, via Reusable Blocks, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-CCDT-Channel-Synchronization-Logic-40741" class="noirorange"><b>IBM MQ</b>: denial of service via CCDT Channel Synchronization Logic</a>](https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-CCDT-Channel-Synchronization-Logic-40741)|An attacker can cause a fatal error of IBM MQ, via CCDT Channel Synchronization Logic, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XR-for-ASR-9000-denial-of-service-via-BFD-40740" class="noirorange"><b>Cisco IOS XR for ASR 9000</b>: denial of service via BFD</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XR-for-ASR-9000-denial-of-service-via-BFD-40740)|An attacker can cause a fatal error of Cisco IOS XR for ASR 9000, via BFD, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XR-file-reading-via-GRUB-40739" class="noirorange"><b>Cisco IOS XR</b>: file reading via GRUB</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XR-file-reading-via-GRUB-40739)|An attacker can read a file of Cisco IOS XR, via GRUB, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jenkins-Core-LTS-multiple-vulnerabilities-40738" class="noirorange"><b>Jenkins Core LTS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Core-LTS-multiple-vulnerabilities-40738)|An attacker can use several vulnerabilities of Jenkins Core LTS...|Visit link for details|
  
 
 # EU-CERT
@@ -121,10 +121,10 @@
  |[Sourcecodester Friendly Island Pizza Website and Ordering System SQL injection (CVE-2023-1301)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 10, 2023|
  |[Sourcecodester Friendly Island Pizza Website and Ordering System SQL injection (CVE-2023-1311)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 10, 2023|
  |[ALPATA Licensed Warehousing Automation System SQL injection (CVE-2023-1091)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 10, 2023|
+ |[Sourcecodester File Tracker Manager System SQL injection (CVE-2023-1294)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 9, 2023|
  |[Sourcecodester COVID 19 Testing Management System SQL injection (CVE-2023-1300)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 9, 2023|
  |[Sourcecodester File Tracker Manager System cross-site scripting (CVE-2023-1302)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 9, 2023|
  |[Sourcecodester Online Graduate Tracer System SQL injection (CVE-2023-1308)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 9, 2023|
- |[Sourcecodester Online Graduate Tracer System SQL injection (CVE-2023-1309)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 9, 2023|
  
 
 # HK-CERT
