@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 12/03/2023 11:17:02 UTC
+ > Last Updated 12/03/2023 12:36:21 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -80,6 +80,19 @@
  |[40650703/23 - Vulnérabilités affectant plusieurs produits de VMware ](https://www.dgssi.gov.ma//fr/content/4065070323-vulnerabilites-affectant-plusieurs-produits-de-vmware.html)|VMware annonce la correction de trois vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant de d’exécuter du code arbitraire, accéder à des données...|07 mars 2023|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Sourcecodester Friendly Island Pizza Website and Ordering System SQL injection (CVE-2023-1301)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 10, 2023|
+ |[Sourcecodester Friendly Island Pizza Website and Ordering System SQL injection (CVE-2023-1311)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 10, 2023|
+ |[ALPATA Licensed Warehousing Automation System SQL injection (CVE-2023-1091)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 10, 2023|
+ |[Multiple WithSecure products denial of service](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 10, 2023|
+ |[Apache Log4j denial of service (CVE-2023-26464)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 10, 2023|
+ |[Sourcecodester File Tracker Manager System SQL injection (CVE-2023-1294)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 9, 2023|
+ |[Sourcecodester COVID 19 Testing Management System SQL injection (CVE-2023-1300)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 9, 2023|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -97,6 +110,22 @@
  |[2023-007: High Severity Vulnerability in OpenSSL](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-007.pdf)|On February 7, the OpenSSL project team has released a major security update to address 8 vulnerabilities. One vulnerability, tracked as CVE-2023-0286 and rated as High, may allow a remote attacker to read arbitrary memory contents or cause OpenSSL to crash, resulting in a denial of service.|Wednesday, February 08, 2023 06:20:00 PM CET|
  
 
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ChromeOS Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/chromeos-remote-code-execution-vulnerability_20230310)|A vulnerability was identified in ChromeOS, a remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 10 Mar 2023|
+ |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20230310)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service and sensitive information disclosure on the targeted system.|Release Date: 10 Mar 2023|
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230306)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-03-07] Updated System / Technologies affected, ...| Release Date: 6 Mar 2023 |
+ |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20230309)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 9 Mar 2023|
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230302)|Multiple vulnerabilities were identified in SUSE Linux. An attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure, security restriction bypass on the targeted system. [Updated on 2023-03-03...| Release Date: 2 Mar 2023 |
+ |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20230308)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure, data manipulation and remote code execution on the targeted system.|Release Date: 8 Mar 2023|
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230308)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution, information disclosure, spoofing, security restriction bypass on the targeted system.|Release Date: 8 Mar 2023|
+ |[Microsoft Monthly Security Update (February 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-february-2023)|[Updated on 2023-03-07] Proof of Concept exploit code is publicly available for CVE-2023-21716, affecting Microsoft Word. The vulnerability could be exploited by previewing a malicious RTF document and execute arbitrary code after memory corruption. Microsoft has...| Release Date: 15 Feb 2023 |
+ |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20230306)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 6 Mar 2023|
+ |[Trusted Platform Module (TPM) Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/tpm-2-0-multiple-vulnerabilities_20230306)|Multiple vulnerabilities were identified in Trusted Platform Module (TPM). An attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure and elevation of privilege on the targeted system. Trusted Platform Module (TPM) technology is a hardware-based solution that provides secure cryptographic...|Release Date: 6 Mar 2023|
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -112,35 +141,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XR-for-ASR-9000-denial-of-service-via-BFD-40740" class="noirorange"><b>Cisco IOS XR for ASR 9000</b>: denial of service via BFD</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XR-for-ASR-9000-denial-of-service-via-BFD-40740)|An attacker can cause a fatal error of Cisco IOS XR for ASR 9000, via BFD, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-XR-file-reading-via-GRUB-40739" class="noirorange"><b>Cisco IOS XR</b>: file reading via GRUB</a>](https://vigilance.fr/vulnerability/Cisco-IOS-XR-file-reading-via-GRUB-40739)|An attacker can read a file of Cisco IOS XR, via GRUB, in order to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Jenkins-Core-LTS-multiple-vulnerabilities-40738" class="noirorange"><b>Jenkins Core LTS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Core-LTS-multiple-vulnerabilities-40738)|An attacker can use several vulnerabilities of Jenkins Core LTS...|Visit link for details|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Sourcecodester Friendly Island Pizza Website and Ordering System SQL injection (CVE-2023-1301)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 10, 2023|
- |[Sourcecodester Friendly Island Pizza Website and Ordering System SQL injection (CVE-2023-1311)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 10, 2023|
- |[ALPATA Licensed Warehousing Automation System SQL injection (CVE-2023-1091)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 10, 2023|
- |[Multiple WithSecure products denial of service](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 10, 2023|
- |[Apache Log4j denial of service (CVE-2023-26464)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 10, 2023|
- |[Sourcecodester File Tracker Manager System SQL injection (CVE-2023-1294)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 9, 2023|
- |[Sourcecodester COVID 19 Testing Management System SQL injection (CVE-2023-1300)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 9, 2023|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ChromeOS Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/chromeos-remote-code-execution-vulnerability_20230310)|A vulnerability was identified in ChromeOS, a remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 10 Mar 2023|
- |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20230310)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service and sensitive information disclosure on the targeted system.|Release Date: 10 Mar 2023|
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230306)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-03-07] Updated System / Technologies affected, ...| Release Date: 6 Mar 2023 |
- |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20230309)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 9 Mar 2023|
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230302)|Multiple vulnerabilities were identified in SUSE Linux. An attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure, security restriction bypass on the targeted system. [Updated on 2023-03-03...| Release Date: 2 Mar 2023 |
- |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20230308)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure, data manipulation and remote code execution on the targeted system.|Release Date: 8 Mar 2023|
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230308)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution, information disclosure, spoofing, security restriction bypass on the targeted system.|Release Date: 8 Mar 2023|
- |[Microsoft Monthly Security Update (February 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-february-2023)|[Updated on 2023-03-07] Proof of Concept exploit code is publicly available for CVE-2023-21716, affecting Microsoft Word. The vulnerability could be exploited by previewing a malicious RTF document and execute arbitrary code after memory corruption. Microsoft has...| Release Date: 15 Feb 2023 |
- |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20230306)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 6 Mar 2023|
- |[Trusted Platform Module (TPM) Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/tpm-2-0-multiple-vulnerabilities_20230306)|Multiple vulnerabilities were identified in Trusted Platform Module (TPM). An attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure and elevation of privilege on the targeted system. Trusted Platform Module (TPM) technology is a hardware-based solution that provides secure cryptographic...|Release Date: 6 Mar 2023|
  
 
 # ZERODAYINITIATIVE
