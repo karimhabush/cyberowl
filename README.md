@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 13/03/2023 14:19:52 UTC
+ > Last Updated 13/03/2023 15:20:12 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,6 +45,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Vulnérabilité dans TrendMicro TXOne StellarOne](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0215/)|Une vulnérabilité a été découverte dans TrendMicro TXOne StellarOne. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 13 mars 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0214/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 mars 2023|
  |[Vulnérabilité dans SPIP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0213/)|Une vulnérabilité a été découverte dans SPIP. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 10 mars 2023|
  |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0212/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mars 2023|
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0211/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mars 2023|
@@ -53,21 +55,6 @@
  |[Multiples vulnérabilités dans Nessus](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0208/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 10 mars 2023|
  |[Vulnérabilité dans Cisco IOS XR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0207/)|Une vulnérabilité a été découverte dans Cisco IOS XR. Elle permet à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 9 mars 2023|
  |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0206/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 mars 2023|
- |[Multiples vulnérabilités dans IBM WebSphere](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0205/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 mars 2023|
- |[[SCADA] Vulnérabilité dans Moxa MXsecurity](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0204/)|Une vulnérabilité a été découverte dans |Publié le 8 mars 2023|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Sourcecodester Friendly Island Pizza Website and Ordering System SQL injection (CVE-2023-1301)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 10, 2023|
- |[Sourcecodester Friendly Island Pizza Website and Ordering System SQL injection (CVE-2023-1311)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 10, 2023|
- |[ALPATA Licensed Warehousing Automation System SQL injection (CVE-2023-1091)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 10, 2023|
- |[Multiple WithSecure products denial of service](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 10, 2023|
- |[Apache Log4j denial of service (CVE-2023-26464)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 10, 2023|
- |[Sourcecodester File Tracker Manager System SQL injection (CVE-2023-1294)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 9, 2023|
- |[Sourcecodester COVID 19 Testing Management System SQL injection (CVE-2023-1300)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 9, 2023|
  
 
 # MA-CERT
@@ -87,12 +74,6 @@
  |[40650703/23 - Vulnérabilités affectant plusieurs produits de VMware ](https://www.dgssi.gov.ma//fr/content/4065070323-vulnerabilites-affectant-plusieurs-produits-de-vmware.html)|VMware annonce la correction de trois vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant de d’exécuter du code arbitraire, accéder à des données...|07 mars 2023|
  
 
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -109,21 +90,23 @@
  |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20230306)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 6 Mar 2023|
  
 
-# OBS-Vigilance
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Rails-SQL-injection-via-ActiveRecord-Comments-40756" class="noirorange"><b>Rails</b>: SQL injection via ActiveRecord Comments</a>](https://vigilance.fr/vulnerability/Rails-SQL-injection-via-ActiveRecord-Comments-40756)|An attacker can use a SQL injection of Rails, via ActiveRecord Comments, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Rails-open-redirect-via-Action-Pack-X-Forwarded-Host-40755" class="noirorange"><b>Rails</b>: open redirect via Action Pack X-Forwarded-Host</a>](https://vigilance.fr/vulnerability/Rails-open-redirect-via-Action-Pack-X-Forwarded-Host-40755)|An attacker can deceive the user of Rails, via Action Pack X-Forwarded-Host, in order to redirect him to a malicious site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Rails-open-redirect-via-Action-Pack-Host-Authorization-40754" class="noirorange"><b>Rails</b>: open redirect via Action Pack Host Authorization</a>](https://vigilance.fr/vulnerability/Rails-open-redirect-via-Action-Pack-Host-Authorization-40754)|An attacker can deceive the user of Rails, via Action Pack Host Authorization, in order to redirect him to a malicious site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/MPV-code-execution-via-ao-c-40753" class="noirorange"><b>MPV</b>: code execution via ao_c</a>](https://vigilance.fr/vulnerability/MPV-code-execution-via-ao-c-40753)|An attacker can use a vulnerability of MPV, via ao_c, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/strongSwan-user-access-via-TLS-based-EAP-Methods-40752" class="noirorange"><b>strongSwan</b>: user access via TLS-based EAP Methods</a>](https://vigilance.fr/vulnerability/strongSwan-user-access-via-TLS-based-EAP-Methods-40752)|An attacker can bypass restrictions of strongSwan, via TLS-based EAP Methods, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Log4j-1-denial-of-service-via-Chainsaw-SocketAppender-40751" class="noirorange"><b>Apache Log4j 1</b>: denial of service via Chainsaw / SocketAppender</a>](https://vigilance.fr/vulnerability/Apache-Log4j-1-denial-of-service-via-Chainsaw-SocketAppender-40751)|An attacker can cause a fatal error of Apache Log4j 1, via Chainsaw / SocketAppender, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-overload-40750" class="noirorange"><b>WithSecure Endpoint Protection</b>: overload</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-overload-40750)|An attacker can trigger an overload of WithSecure Endpoint Protection, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Joomla-J-BusinessDirectory-vulnerability-40749" class="noirorange"><b>Joomla J-BusinessDirectory</b>: vulnerability</a>](https://vigilance.fr/vulnerability/Joomla-J-BusinessDirectory-vulnerability-40749)|A vulnerability of Joomla J-BusinessDirectory was announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Undertow-overload-via-SslConduit-Close-40748" class="noirorange"><b>Undertow</b>: overload via SslConduit Close</a>](https://vigilance.fr/vulnerability/Undertow-overload-via-SslConduit-Close-40748)|An attacker can trigger an overload of Undertow, via SslConduit Close, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HDFGroup-buffer-overflow-via-h5tools-str-sprint-40747" class="noirorange"><b>HDFGroup</b>: buffer overflow via h5tools_str_sprint()</a>](https://vigilance.fr/vulnerability/HDFGroup-buffer-overflow-via-h5tools-str-sprint-40747)|An attacker can trigger a buffer overflow of HDFGroup, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ImageMagick-denial-of-service-via-Looping-SVG-File-40746" class="noirorange"><b>ImageMagick</b>: denial of service via Looping SVG File</a>](https://vigilance.fr/vulnerability/ImageMagick-denial-of-service-via-Looping-SVG-File-40746)|An attacker can cause a fatal error of ImageMagick, via Looping SVG File, in order to trigger a denial of service...|Visit link for details|
+ |[Sourcecodester Friendly Island Pizza Website and Ordering System SQL injection (CVE-2023-1301)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 10, 2023|
+ |[Sourcecodester Friendly Island Pizza Website and Ordering System SQL injection (CVE-2023-1311)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 10, 2023|
+ |[ALPATA Licensed Warehousing Automation System SQL injection (CVE-2023-1091)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 10, 2023|
+ |[Multiple WithSecure products denial of service](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 10, 2023|
+ |[Apache Log4j denial of service (CVE-2023-26464)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 10, 2023|
+ |[Sourcecodester File Tracker Manager System SQL injection (CVE-2023-1294)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 9, 2023|
+ |[Sourcecodester COVID 19 Testing Management System SQL injection (CVE-2023-1300)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 9, 2023|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # EU-CERT
@@ -157,10 +140,29 @@
  |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Rails-SQL-injection-via-ActiveRecord-Comments-40756" class="noirorange"><b>Rails</b>: SQL injection via ActiveRecord Comments</a>](https://vigilance.fr/vulnerability/Rails-SQL-injection-via-ActiveRecord-Comments-40756)|An attacker can use a SQL injection of Rails, via ActiveRecord Comments, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Rails-open-redirect-via-Action-Pack-X-Forwarded-Host-40755" class="noirorange"><b>Rails</b>: open redirect via Action Pack X-Forwarded-Host</a>](https://vigilance.fr/vulnerability/Rails-open-redirect-via-Action-Pack-X-Forwarded-Host-40755)|An attacker can deceive the user of Rails, via Action Pack X-Forwarded-Host, in order to redirect him to a malicious site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Rails-open-redirect-via-Action-Pack-Host-Authorization-40754" class="noirorange"><b>Rails</b>: open redirect via Action Pack Host Authorization</a>](https://vigilance.fr/vulnerability/Rails-open-redirect-via-Action-Pack-Host-Authorization-40754)|An attacker can deceive the user of Rails, via Action Pack Host Authorization, in order to redirect him to a malicious site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MPV-code-execution-via-ao-c-40753" class="noirorange"><b>MPV</b>: code execution via ao_c</a>](https://vigilance.fr/vulnerability/MPV-code-execution-via-ao-c-40753)|An attacker can use a vulnerability of MPV, via ao_c, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/strongSwan-user-access-via-TLS-based-EAP-Methods-40752" class="noirorange"><b>strongSwan</b>: user access via TLS-based EAP Methods</a>](https://vigilance.fr/vulnerability/strongSwan-user-access-via-TLS-based-EAP-Methods-40752)|An attacker can bypass restrictions of strongSwan, via TLS-based EAP Methods, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Log4j-1-denial-of-service-via-Chainsaw-SocketAppender-40751" class="noirorange"><b>Apache Log4j 1</b>: denial of service via Chainsaw / SocketAppender</a>](https://vigilance.fr/vulnerability/Apache-Log4j-1-denial-of-service-via-Chainsaw-SocketAppender-40751)|An attacker can cause a fatal error of Apache Log4j 1, via Chainsaw / SocketAppender, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-overload-40750" class="noirorange"><b>WithSecure Endpoint Protection</b>: overload</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-overload-40750)|An attacker can trigger an overload of WithSecure Endpoint Protection, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Joomla-J-BusinessDirectory-vulnerability-40749" class="noirorange"><b>Joomla J-BusinessDirectory</b>: vulnerability</a>](https://vigilance.fr/vulnerability/Joomla-J-BusinessDirectory-vulnerability-40749)|A vulnerability of Joomla J-BusinessDirectory was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Undertow-overload-via-SslConduit-Close-40748" class="noirorange"><b>Undertow</b>: overload via SslConduit Close</a>](https://vigilance.fr/vulnerability/Undertow-overload-via-SslConduit-Close-40748)|An attacker can trigger an overload of Undertow, via SslConduit Close, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HDFGroup-buffer-overflow-via-h5tools-str-sprint-40747" class="noirorange"><b>HDFGroup</b>: buffer overflow via h5tools_str_sprint()</a>](https://vigilance.fr/vulnerability/HDFGroup-buffer-overflow-via-h5tools-str-sprint-40747)|An attacker can trigger a buffer overflow of HDFGroup, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ImageMagick-denial-of-service-via-Looping-SVG-File-40746" class="noirorange"><b>ImageMagick</b>: denial of service via Looping SVG File</a>](https://vigilance.fr/vulnerability/ImageMagick-denial-of-service-via-Looping-SVG-File-40746)|An attacker can cause a fatal error of ImageMagick, via Looping SVG File, in order to trigger a denial of service...|Visit link for details|
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
+ |[Dell security advisory (AV23-140)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-140)|Visit link for details|2023-03-13|
+ |[IBM security advisory (AV23-139)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-139)|Visit link for details|2023-03-13|
  |[[Control systems] Hitachi security advisory (AV23-138)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-hitachi-security-advisory-av23-138)|Visit link for details|2023-03-10|
  |[[Control systems] STEP Tools security advisory (AV23-137)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-step-tools-security-advisory-av23-137)|Visit link for details|2023-03-09|
  |[[Control systems] B&R security advisory (AV23-136)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-br-security-advisory-av23-136)|Visit link for details|2023-03-09|
@@ -170,6 +172,4 @@
  |[Fortinet security advisory (AV23-132)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av23-132)|Visit link for details|2023-03-08|
  |[[Control systems] ABB security advisory (AV23-131)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av23-131)|Visit link for details|2023-03-07|
  |[Android security advisory – March 2023 monthly rollup (AV23-130)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-march-2023-monthly-rollup-av23-130)|Visit link for details|2023-03-06|
- |[Ubuntu security advisory (AV23-129)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-129)|Visit link for details|2023-03-06|
- |[Dell security advisory (AV23-128)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-128)|Visit link for details|2023-03-06|
  
