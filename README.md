@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 14/03/2023 20:28:48 UTC
+ > Last Updated 14/03/2023 21:18:51 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -41,6 +41,19 @@
  |[Cisco Releases Security Advisory for Cisco IP Phones](https://www.cisa.gov/news-events/alerts/2023/03/02/cisco-releases-security-advisory-cisco-ip-phones)|Visit link for details.|Mar 02, 2023|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft OneDrive for MacOS privilege escalation (CVE-2023-24930)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
+ |[Microsoft Dynamics 365 (on-premises) cross-site scripting (CVE-2023-24891)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
+ |[Microsoft OneDrive for iOS security bypass (CVE-2023-24890)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
+ |[Microsoft Windows security bypass (CVE-2023-24880)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
+ |[Microsoft Windows PostScript Printer Driver code execution (CVE-2023-24876)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
+ |[Microsoft Windows PostScript Printer Driver code execution (CVE-2023-24913)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
+ |[Microsoft Windows PostScript and PCL6 Class Printer Driver code execution (CVE-2023-24872)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
@@ -55,6 +68,29 @@
  |[Vulnérabilité dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0216/)|Une vulnérabilité a été découverte dans |Publié le 14 mars 2023|
  |[Vulnérabilité dans TrendMicro TXOne StellarOne](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0215/)|Une vulnérabilité a été découverte dans TrendMicro TXOne StellarOne. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 13 mars 2023|
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0214/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 mars 2023|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Adobe-Commerce-Magento-Open-Source-four-vulnerabilities-40770" class="noirorange"><b>Adobe Commerce  Magento Open Source</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Adobe-Commerce-Magento-Open-Source-four-vulnerabilities-40770)|An attacker can use several vulnerabilities of Adobe Commerce  Magento Open Source...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Tenable-Nessus-privilege-escalation-via-Audit-Files-40769" class="noirorange"><b>Tenable Nessus</b>: privilege escalation via Audit Files</a>](https://vigilance.fr/vulnerability/Tenable-Nessus-privilege-escalation-via-Audit-Files-40769)|An attacker can bypass restrictions of Tenable Nessus, via Audit Files, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Bluetooth-weak-encryption-via-BLUFFS-40768" class="noirorange"><b>Bluetooth</b>: weak encryption via BLUFFS</a>](https://vigilance.fr/vulnerability/Bluetooth-weak-encryption-via-BLUFFS-40768)|An attacker can access data on Bluetooth, via BLUFFS, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-spoofing-via-Webview2-40767" class="noirorange"><b>Microsoft Edge Chromium</b>: spoofing via Webview2</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-spoofing-via-Webview2-40767)|An attacker can create spoofed data on Microsoft Edge Chromium, via Webview2, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Windows-vulnerabilities-of-March-2023-40766" class="noirorange"><b>Microsoft Windows</b>: vulnerabilities of March 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Windows-vulnerabilities-of-March-2023-40766)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-SharePoint-spoofing-40765" class="noirorange"><b>Microsoft SharePoint</b>: spoofing</a>](https://vigilance.fr/vulnerability/Microsoft-SharePoint-spoofing-40765)|An attacker can create spoofed data on Microsoft SharePoint, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-March-2023-40764" class="noirorange"><b>Microsoft 365 Apps  Office</b>: vulnerabilities of March 2023</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-March-2023-40764)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Rack-overload-via-Multipart-MIME-40763" class="noirorange"><b>Rack</b>: overload via Multipart MIME</a>](https://vigilance.fr/vulnerability/Rack-overload-via-Multipart-MIME-40763)|An attacker can trigger an overload of Rack, via Multipart MIME, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Amanda-privilege-escalation-via-runtar-40762" class="noirorange"><b>Amanda</b>: privilege escalation via runtar</a>](https://vigilance.fr/vulnerability/Amanda-privilege-escalation-via-runtar-40762)|An attacker can bypass restrictions of Amanda, via runtar, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-multiple-vulnerabilities-40761" class="noirorange"><b>Mozilla Firefox</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-multiple-vulnerabilities-40761)|An attacker can use several vulnerabilities of Mozilla Firefox...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-March-2023-40760" class="noirorange"><b>SAP</b>: multiple vulnerabilities of March 2023</a>](https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-March-2023-40760)|An attacker can use several vulnerabilities of SAP products...|Visit link for details|
  
 
 # EU-CERT
@@ -105,42 +141,6 @@
  |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20230308)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure, data manipulation and remote code execution on the targeted system.|Release Date: 8 Mar 2023|
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230308)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution, information disclosure, spoofing, security restriction bypass on the targeted system.|Release Date: 8 Mar 2023|
  |[Microsoft Monthly Security Update (February 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-february-2023)|[Updated on 2023-03-07] Proof of Concept exploit code is publicly available for CVE-2023-21716, affecting Microsoft Word. The vulnerability could be exploited by previewing a malicious RTF document and execute arbitrary code after memory corruption. Microsoft has...| Release Date: 15 Feb 2023 |
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft OneDrive for MacOS privilege escalation (CVE-2023-24930)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
- |[Microsoft Dynamics 365 (on-premises) cross-site scripting (CVE-2023-24891)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
- |[Microsoft OneDrive for iOS security bypass (CVE-2023-24890)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
- |[Microsoft Windows security bypass (CVE-2023-24880)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
- |[Microsoft Windows PostScript Printer Driver code execution (CVE-2023-24876)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
- |[Microsoft Windows PostScript Printer Driver code execution (CVE-2023-24913)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
- |[Microsoft Windows PostScript and PCL6 Class Printer Driver code execution (CVE-2023-24872)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Adobe-Commerce-Magento-Open-Source-four-vulnerabilities-40770" class="noirorange"><b>Adobe Commerce  Magento Open Source</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Adobe-Commerce-Magento-Open-Source-four-vulnerabilities-40770)|An attacker can use several vulnerabilities of Adobe Commerce  Magento Open Source...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Tenable-Nessus-privilege-escalation-via-Audit-Files-40769" class="noirorange"><b>Tenable Nessus</b>: privilege escalation via Audit Files</a>](https://vigilance.fr/vulnerability/Tenable-Nessus-privilege-escalation-via-Audit-Files-40769)|An attacker can bypass restrictions of Tenable Nessus, via Audit Files, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Bluetooth-weak-encryption-via-BLUFFS-40768" class="noirorange"><b>Bluetooth</b>: weak encryption via BLUFFS</a>](https://vigilance.fr/vulnerability/Bluetooth-weak-encryption-via-BLUFFS-40768)|An attacker can access data on Bluetooth, via BLUFFS, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-spoofing-via-Webview2-40767" class="noirorange"><b>Microsoft Edge Chromium</b>: spoofing via Webview2</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-spoofing-via-Webview2-40767)|An attacker can create spoofed data on Microsoft Edge Chromium, via Webview2, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Windows-vulnerabilities-of-March-2023-40766" class="noirorange"><b>Microsoft Windows</b>: vulnerabilities of March 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Windows-vulnerabilities-of-March-2023-40766)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-SharePoint-spoofing-40765" class="noirorange"><b>Microsoft SharePoint</b>: spoofing</a>](https://vigilance.fr/vulnerability/Microsoft-SharePoint-spoofing-40765)|An attacker can create spoofed data on Microsoft SharePoint, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-March-2023-40764" class="noirorange"><b>Microsoft 365 Apps  Office</b>: vulnerabilities of March 2023</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-March-2023-40764)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Rack-overload-via-Multipart-MIME-40763" class="noirorange"><b>Rack</b>: overload via Multipart MIME</a>](https://vigilance.fr/vulnerability/Rack-overload-via-Multipart-MIME-40763)|An attacker can trigger an overload of Rack, via Multipart MIME, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Amanda-privilege-escalation-via-runtar-40762" class="noirorange"><b>Amanda</b>: privilege escalation via runtar</a>](https://vigilance.fr/vulnerability/Amanda-privilege-escalation-via-runtar-40762)|An attacker can bypass restrictions of Amanda, via runtar, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-multiple-vulnerabilities-40761" class="noirorange"><b>Mozilla Firefox</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-multiple-vulnerabilities-40761)|An attacker can use several vulnerabilities of Mozilla Firefox...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-March-2023-40760" class="noirorange"><b>SAP</b>: multiple vulnerabilities of March 2023</a>](https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-March-2023-40760)|An attacker can use several vulnerabilities of SAP products...|Visit link for details|
  
 
 # ZERODAYINITIATIVE
