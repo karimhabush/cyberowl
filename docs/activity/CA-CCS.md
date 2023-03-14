@@ -4,6 +4,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Microsoft Edge security advisory (AV23-142)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-142)|Visit link for details|2023-03-14|
  |[Ubuntu security advisory (AV23-141)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-141)|Visit link for details|2023-03-13|
  |[Dell security advisory (AV23-140)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-140)|Visit link for details|2023-03-13|
  |[IBM security advisory (AV23-139)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-139)|Visit link for details|2023-03-13|
@@ -14,5 +15,4 @@
  |[Cisco Security Advisory (AV23-134)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av23-134)|Visit link for details|2023-03-08|
  |[Google Chrome security advisory (AV23-133)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-133)|Visit link for details|2023-03-08|
  |[Fortinet security advisory (AV23-132)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av23-132)|Visit link for details|2023-03-08|
- |[[Control systems] ABB security advisory (AV23-131)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av23-131)|Visit link for details|2023-03-07|
  
