@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 14/03/2023 17:28:08 UTC
+ > Last Updated 14/03/2023 18:30:52 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,33 +45,22 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0223/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 mars 2023|
+ |[[SCADA] Multiples vulnérabilités dans MOXA NPort 6000](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0221/)|Se référer au bulletin de sécurité de l'éditeur pour l'obtention des correctifs (cf. section Documentation).|Publié le 14 mars 2023|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0222/)|De multiples vulnérabilités ont été corrigées dans |Publié le 14 mars 2023|
+ |[[SCADA] Multiples vulnérabilités dans les produits Siemens](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0220/)|De multiples vulnérabilités ont été découvertes dans les produits Siemens. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 14 mars 2023|
+ |[Multiples vulnérabilités dans IBM Sterling B2B Integrator](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0219/)|De multiples vulnérabilités ont été découvertes dans IBM Sterling B2B Integrator. Certaines d'entre elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 14 mars 2023|
+ |[[SCADA] Multiples vulnérabilités dans les produits Schneider Electric](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0218/)|De multiples vulnérabilités ont été découvertes dans les produits Schneider Electric. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 14 mars 2023|
+ |[Multiples vulnérabilités dans TrendMicro Worry-Free Business Security](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0217/)|De multiples vulnérabilités ont été découvertes dans TrendMicro Worry-Free Business Security. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à l'intégrité des données et une élévation de privilèges.|Publié le 14 mars 2023|
+ |[Vulnérabilité dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0216/)|Une vulnérabilité a été découverte dans |Publié le 14 mars 2023|
  |[Vulnérabilité dans TrendMicro TXOne StellarOne](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0215/)|Une vulnérabilité a été découverte dans TrendMicro TXOne StellarOne. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 13 mars 2023|
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0214/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 mars 2023|
- |[Vulnérabilité dans SPIP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0213/)|Une vulnérabilité a été découverte dans SPIP. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 10 mars 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0212/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mars 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0211/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mars 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0210/)|De multiples vulnérabilités ont été découvertes dans |Publié le 10 mars 2023|
- |[Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0209/)|De multiples vulnérabilités ont été découvertes dans Google Android. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une élévation de privilèges.|Publié le 10 mars 2023|
- |[Multiples vulnérabilités dans Nessus](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0208/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 10 mars 2023|
- |[Vulnérabilité dans Cisco IOS XR](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0207/)|Une vulnérabilité a été découverte dans Cisco IOS XR. Elle permet à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.|Publié le 9 mars 2023|
- |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0206/)|De multiples vulnérabilités ont été découvertes dans |Publié le 9 mars 2023|
  
 
-# OBS-Vigilance
+# VulDB
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-multiple-vulnerabilities-40761" class="noirorange"><b>Mozilla Firefox</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-multiple-vulnerabilities-40761)|An attacker can use several vulnerabilities of Mozilla Firefox...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-March-2023-40760" class="noirorange"><b>SAP</b>: multiple vulnerabilities of March 2023</a>](https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-March-2023-40760)|An attacker can use several vulnerabilities of SAP products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-brcmf-get-assoc-ies-40759" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via brcmf_get_assoc_ies()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-brcmf-get-assoc-ies-40759)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HPE-ProLiant-Cross-Site-Scripting-via-iLO-40758" class="noirorange"><b>HPE ProLiant</b>: Cross Site Scripting via iLO</a>](https://vigilance.fr/vulnerability/HPE-ProLiant-Cross-Site-Scripting-via-iLO-40758)|An attacker can trigger a Cross Site Scripting of HPE ProLiant, via iLO, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-IORING-OP-SOCKET-40757" class="noirorange"><b>Linux kernel</b>: double free via IORING_OP_SOCKET</a>](https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-IORING-OP-SOCKET-40757)|An attacker can force a double memory free of the Linux kernel, via IORING_OP_SOCKET, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Rails-SQL-injection-via-ActiveRecord-Comments-40756" class="noirorange"><b>Rails</b>: SQL injection via ActiveRecord Comments</a>](https://vigilance.fr/vulnerability/Rails-SQL-injection-via-ActiveRecord-Comments-40756)|An attacker can use a SQL injection of Rails, via ActiveRecord Comments, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Rails-open-redirect-via-Action-Pack-X-Forwarded-Host-40755" class="noirorange"><b>Rails</b>: open redirect via Action Pack X-Forwarded-Host</a>](https://vigilance.fr/vulnerability/Rails-open-redirect-via-Action-Pack-X-Forwarded-Host-40755)|An attacker can deceive the user of Rails, via Action Pack X-Forwarded-Host, in order to redirect him to a malicious site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Rails-open-redirect-via-Action-Pack-Host-Authorization-40754" class="noirorange"><b>Rails</b>: open redirect via Action Pack Host Authorization</a>](https://vigilance.fr/vulnerability/Rails-open-redirect-via-Action-Pack-Host-Authorization-40754)|An attacker can deceive the user of Rails, via Action Pack Host Authorization, in order to redirect him to a malicious site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/MPV-code-execution-via-ao-c-40753" class="noirorange"><b>MPV</b>: code execution via ao_c</a>](https://vigilance.fr/vulnerability/MPV-code-execution-via-ao-c-40753)|An attacker can use a vulnerability of MPV, via ao_c, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/strongSwan-user-access-via-TLS-based-EAP-Methods-40752" class="noirorange"><b>strongSwan</b>: user access via TLS-based EAP Methods</a>](https://vigilance.fr/vulnerability/strongSwan-user-access-via-TLS-based-EAP-Methods-40752)|An attacker can bypass restrictions of strongSwan, via TLS-based EAP Methods, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Log4j-1-denial-of-service-via-Chainsaw-SocketAppender-40751" class="noirorange"><b>Apache Log4j 1</b>: denial of service via Chainsaw / SocketAppender</a>](https://vigilance.fr/vulnerability/Apache-Log4j-1-denial-of-service-via-Chainsaw-SocketAppender-40751)|An attacker can cause a fatal error of Apache Log4j 1, via Chainsaw / SocketAppender, in order to trigger a denial of service...|Visit link for details|
  
 
 # MA-CERT
@@ -91,6 +80,23 @@
  |[40680703/23 - Vulnérabilités critiques affectant le thème « Houzez » pour Wordpress](https://www.dgssi.gov.ma//fr/content/4068070323-vulnerabilites-critiques-affectant-le-theme-houzez-pour-wordpress.html)|Deux vulnérabilités critiques ont été corrigées au niveau de Wordpress« Houzez ». Ces deux vulnérabilités sont activement exploitées et peuvent permettre à un attaquant d’élever sesprivilèges.|07 mars 2023|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Rack-overload-via-Multipart-MIME-40763" class="noirorange"><b>Rack</b>: overload via Multipart MIME</a>](https://vigilance.fr/vulnerability/Rack-overload-via-Multipart-MIME-40763)|An attacker can trigger an overload of Rack, via Multipart MIME, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Amanda-privilege-escalation-via-runtar-40762" class="noirorange"><b>Amanda</b>: privilege escalation via runtar</a>](https://vigilance.fr/vulnerability/Amanda-privilege-escalation-via-runtar-40762)|An attacker can bypass restrictions of Amanda, via runtar, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-multiple-vulnerabilities-40761" class="noirorange"><b>Mozilla Firefox</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-multiple-vulnerabilities-40761)|An attacker can use several vulnerabilities of Mozilla Firefox...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-March-2023-40760" class="noirorange"><b>SAP</b>: multiple vulnerabilities of March 2023</a>](https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-March-2023-40760)|An attacker can use several vulnerabilities of SAP products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-brcmf-get-assoc-ies-40759" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via brcmf_get_assoc_ies()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-brcmf-get-assoc-ies-40759)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HPE-ProLiant-Cross-Site-Scripting-via-iLO-40758" class="noirorange"><b>HPE ProLiant</b>: Cross Site Scripting via iLO</a>](https://vigilance.fr/vulnerability/HPE-ProLiant-Cross-Site-Scripting-via-iLO-40758)|An attacker can trigger a Cross Site Scripting of HPE ProLiant, via iLO, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-IORING-OP-SOCKET-40757" class="noirorange"><b>Linux kernel</b>: double free via IORING_OP_SOCKET</a>](https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-IORING-OP-SOCKET-40757)|An attacker can force a double memory free of the Linux kernel, via IORING_OP_SOCKET, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Rails-SQL-injection-via-ActiveRecord-Comments-40756" class="noirorange"><b>Rails</b>: SQL injection via ActiveRecord Comments</a>](https://vigilance.fr/vulnerability/Rails-SQL-injection-via-ActiveRecord-Comments-40756)|An attacker can use a SQL injection of Rails, via ActiveRecord Comments, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Rails-open-redirect-via-Action-Pack-X-Forwarded-Host-40755" class="noirorange"><b>Rails</b>: open redirect via Action Pack X-Forwarded-Host</a>](https://vigilance.fr/vulnerability/Rails-open-redirect-via-Action-Pack-X-Forwarded-Host-40755)|An attacker can deceive the user of Rails, via Action Pack X-Forwarded-Host, in order to redirect him to a malicious site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Rails-open-redirect-via-Action-Pack-Host-Authorization-40754" class="noirorange"><b>Rails</b>: open redirect via Action Pack Host Authorization</a>](https://vigilance.fr/vulnerability/Rails-open-redirect-via-Action-Pack-Host-Authorization-40754)|An attacker can deceive the user of Rails, via Action Pack Host Authorization, in order to redirect him to a malicious site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/MPV-code-execution-via-ao-c-40753" class="noirorange"><b>MPV</b>: code execution via ao_c</a>](https://vigilance.fr/vulnerability/MPV-code-execution-via-ao-c-40753)|An attacker can use a vulnerability of MPV, via ao_c, in order to run code...|Visit link for details|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -108,10 +114,17 @@
  |[2023-007: High Severity Vulnerability in OpenSSL](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-007.pdf)|On February 7, the OpenSSL project team has released a major security update to address 8 vulnerabilities. One vulnerability, tracked as CVE-2023-0286 and rated as High, may allow a remote attacker to read arbitrary memory contents or cause OpenSSL to crash, resulting in a denial of service.|Wednesday, February 08, 2023 06:20:00 PM CET|
  
 
-# VulDB
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
+ |[Microsoft Windows Bluetooth Service code execution (CVE-2023-24871)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
+ |[Microsoft Windows PostScript Printer Driver information disclosure (CVE-2023-24911)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
+ |[Microsoft Windows PostScript Printer Driver information disclosure (CVE-2023-24870)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
+ |[Microsoft Windows Graphics Component privilege escalation (CVE-2023-24910)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
+ |[Microsoft Windows Remote Procedure Call Runtime code execution (CVE-2023-24869)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
+ |[Microsoft Windows Remote Procedure Call Runtime code execution (CVE-2023-24908)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
+ |[Microsoft Windows PostScript Printer Driver code execution (CVE-2023-24868)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
  
 
 # HK-CERT
@@ -130,6 +143,23 @@
  |[Microsoft Monthly Security Update (February 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-february-2023)|[Updated on 2023-03-07] Proof of Concept exploit code is publicly available for CVE-2023-21716, affecting Microsoft Word. The vulnerability could be exploited by previewing a malicious RTF document and execute arbitrary code after memory corruption. Microsoft has...| Release Date: 15 Feb 2023 |
  
 
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[[Control systems] Siemens security advisory (AV23-145)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av23-145)|Visit link for details|2023-03-14|
+ |[[Control systems] Schneider Electric security advisory (AV23-144)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av23-144)|Visit link for details|2023-03-14|
+ |[SAP security advisory – March 2023 monthly rollup (AV23-143)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-march-2023-monthly-rollup-av23-143)|Visit link for details|2023-03-14|
+ |[Microsoft Edge security advisory (AV23-142)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-142)|Visit link for details|2023-03-14|
+ |[Ubuntu security advisory (AV23-141)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-141)|Visit link for details|2023-03-13|
+ |[Dell security advisory (AV23-140)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-140)|Visit link for details|2023-03-13|
+ |[IBM security advisory (AV23-139)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-139)|Visit link for details|2023-03-13|
+ |[[Control systems] Hitachi security advisory (AV23-138)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-hitachi-security-advisory-av23-138)|Visit link for details|2023-03-10|
+ |[[Control systems] STEP Tools security advisory (AV23-137)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-step-tools-security-advisory-av23-137)|Visit link for details|2023-03-09|
+ |[[Control systems] B&R security advisory (AV23-136)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-br-security-advisory-av23-136)|Visit link for details|2023-03-09|
+ |[[Control systems] Akuvox security advisory (AV23-135)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-akuvox-security-advisory-av23-135)|Visit link for details|2023-03-09|
+ 
+
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -142,21 +172,4 @@
  |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
  |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
  |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Edge security advisory (AV23-142)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-142)|Visit link for details|2023-03-14|
- |[Ubuntu security advisory (AV23-141)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-141)|Visit link for details|2023-03-13|
- |[Dell security advisory (AV23-140)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-140)|Visit link for details|2023-03-13|
- |[IBM security advisory (AV23-139)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-139)|Visit link for details|2023-03-13|
- |[[Control systems] Hitachi security advisory (AV23-138)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-hitachi-security-advisory-av23-138)|Visit link for details|2023-03-10|
- |[[Control systems] STEP Tools security advisory (AV23-137)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-step-tools-security-advisory-av23-137)|Visit link for details|2023-03-09|
- |[[Control systems] B&R security advisory (AV23-136)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-br-security-advisory-av23-136)|Visit link for details|2023-03-09|
- |[[Control systems] Akuvox security advisory (AV23-135)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-akuvox-security-advisory-av23-135)|Visit link for details|2023-03-09|
- |[Cisco Security Advisory (AV23-134)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av23-134)|Visit link for details|2023-03-08|
- |[Google Chrome security advisory (AV23-133)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-133)|Visit link for details|2023-03-08|
- |[Fortinet security advisory (AV23-132)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av23-132)|Visit link for details|2023-03-08|
  

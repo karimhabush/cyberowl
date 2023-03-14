@@ -4,11 +4,11 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Octopus Server information disclosure (CVE-2022-2258)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 13, 2023|
- |[Octopus Server information disclosure (CVE-2022-2259)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 13, 2023|
- |[TG Soft Vir.IT eXplorer denial of service (CVE-2023-1369)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 13, 2023|
- |[Wolt Delivery: Food and more App for Android information disclosure (CVE-2023-22429)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 13, 2023|
- |[Sourcecodester Gadget Works Online Ordering System SQL injection (CVE-2023-1358)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 12, 2023|
- |[Sourcecodester Gadget Works Online Ordering System cross-site scripting (CVE-2023-1359)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 12, 2023|
- |[netplex json-smart-v2 denial of service (CVE-2023-1370)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 12, 2023|
+ |[Microsoft Windows Bluetooth Service code execution (CVE-2023-24871)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
+ |[Microsoft Windows PostScript Printer Driver information disclosure (CVE-2023-24911)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
+ |[Microsoft Windows PostScript Printer Driver information disclosure (CVE-2023-24870)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
+ |[Microsoft Windows Graphics Component privilege escalation (CVE-2023-24910)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
+ |[Microsoft Windows Remote Procedure Call Runtime code execution (CVE-2023-24869)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
+ |[Microsoft Windows Remote Procedure Call Runtime code execution (CVE-2023-24908)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
+ |[Microsoft Windows PostScript Printer Driver code execution (CVE-2023-24868)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
  
