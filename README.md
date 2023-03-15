@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 15/03/2023 09:20:30 UTC
+ > Last Updated 15/03/2023 10:22:36 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -41,6 +41,25 @@
  |[Cisco Releases Security Advisory for Cisco IP Phones](https://www.cisa.gov/news-events/alerts/2023/03/02/cisco-releases-security-advisory-cisco-ip-phones)|Visit link for details.|Mar 02, 2023|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Siemens RUGGEDCOM CROSSBOW SQL injection (CVE-2023-27463)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
+ |[Linux Kernel information disclosure (CVE-2023-1380)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
+ |[NETGEAR products buffer overflow](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
+ |[Siemens RUGGEDCOM CROSSBOW information disclosure (CVE-2023-27462)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
+ |[KDAB Hotspot privilege escalation (CVE-2023-28144)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
+ |[SAP NetWeaver AS for ABAP and ABAP Platform denial of service (CVE-2023-25618)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
+ |[SAP Business Objects Business Intelligence Platform command execution (CVE-2023-25617)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
@@ -57,10 +76,31 @@
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0214/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 mars 2023|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Aruba-ClearPass-Policy-Manager-height-vulnerabilities-40779" class="noirorange"><b>Aruba ClearPass Policy Manager</b>: height vulnerabilities</a>](https://vigilance.fr/vulnerability/Aruba-ClearPass-Policy-Manager-height-vulnerabilities-40779)|An attacker can use several vulnerabilities of Aruba ClearPass Policy Manager...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-sqlite3-code-execution-via-ToString-Binding-Parameter-40778" class="noirorange"><b>Node.js sqlite3</b>: code execution via ToString() Binding Parameter</a>](https://vigilance.fr/vulnerability/Node-js-sqlite3-code-execution-via-ToString-Binding-Parameter-40778)|An attacker can use a vulnerability of Node.js sqlite3, via ToString() Binding Parameter, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/containerd-privilege-escalation-via-Supplementary-Groups-40777" class="noirorange"><b>containerd</b>: privilege escalation via Supplementary Groups</a>](https://vigilance.fr/vulnerability/containerd-privilege-escalation-via-Supplementary-Groups-40777)|An attacker can bypass restrictions of containerd, via Supplementary Groups, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libmemcached-awesome-information-disclosure-via-POLL-TIMEOUT-40776" class="noirorange"><b>libmemcached-awesome</b>: information disclosure via POLL_TIMEOUT</a>](https://vigilance.fr/vulnerability/libmemcached-awesome-information-disclosure-via-POLL-TIMEOUT-40776)|An attacker can bypass access restrictions to data of |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-inode-cgwb-move-to-attached-40775" class="noirorange"><b>Linux kernel</b>: reuse after free via inode_cgwb_move_to_attached()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-inode-cgwb-move-to-attached-40775)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Go-weak-encryption-via-P256-Curve-ScalarMult-40774" class="noirorange"><b>Go</b>: weak encryption via P256 Curve ScalarMult</a>](https://vigilance.fr/vulnerability/Go-weak-encryption-via-P256-Curve-ScalarMult-40774)|An attacker can access data on Go, via P256 Curve ScalarMult, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Go-overload-via-net-http-mime-multipart-40773" class="noirorange"><b>Go</b>: overload via net/http mime/multipart</a>](https://vigilance.fr/vulnerability/Go-overload-via-net-http-mime-multipart-40773)|An attacker can trigger an overload of Go, via net/http mime/multipart, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Go-directory-traversal-via-filepath-Clean-40772" class="noirorange"><b>Go</b>: directory traversal via filepath.Clean()</a>](https://vigilance.fr/vulnerability/Go-directory-traversal-via-filepath-Clean-40772)|An attacker can traverse directories of Go, via filepath.Clean(), in order to read or write a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/peazip-overload-via-End-Of-Archive-Tag-40771" class="noirorange"><b>peazip</b>: overload via End Of Archive Tag</a>](https://vigilance.fr/vulnerability/peazip-overload-via-End-Of-Archive-Tag-40771)|An attacker can trigger an overload of peazip, via End Of Archive Tag, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Adobe-Commerce-Magento-Open-Source-four-vulnerabilities-40770" class="noirorange"><b>Adobe Commerce  Magento Open Source</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Adobe-Commerce-Magento-Open-Source-four-vulnerabilities-40770)|An attacker can use several vulnerabilities of Adobe Commerce  Magento Open Source...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Tenable-Nessus-privilege-escalation-via-Audit-Files-40769" class="noirorange"><b>Tenable Nessus</b>: privilege escalation via Audit Files</a>](https://vigilance.fr/vulnerability/Tenable-Nessus-privilege-escalation-via-Audit-Files-40769)|An attacker can bypass restrictions of Tenable Nessus, via Audit Files, in order to escalate his privileges...|Visit link for details|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[40841503/23 - Vulnérabilités dans les produits Microsoft Azure (Patch Tuesday Mars 2023)](https://www.dgssi.gov.ma//fr/content/4084150323-vulnerabilites-dans-les-produits-microsoft-azure-patch-tuesday-mars-2023.html)|Deux vulnérabilités ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de réussir une usurpation d’identité.|15 mars 2023|
+ |[40831503/23 - Vulnérabilités critiques dans Microsoft Windows (Patch Tuesday Mars 2023)](https://www.dgssi.gov.ma//fr/content/4083150323-vulnerabilites-critiques-dans-microsoft-windows-patch-tuesday-mars-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques dans lessystèmes d’exploitation Windows susmentionnés. Selon Microsoft une de ces vulnérabilités identifiée par «CVE-2023-24880 » est activement exploitée. Microsoft...|15 mars 2023|
+ |[40821503/23 - Vulnérabilités critiques dans Microsoft Office (Patch Tuesday Mars 2023)](https://www.dgssi.gov.ma//fr/content/4082150323-vulnerabilites-critiques-dans-microsoft-office-patch-tuesday-mars-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les versions susmentionnées des produits Microsoft Office. Selon Microsoft, une de ces vulnérabilités identifiée par «CVE-2023-23397» affectant Microsoft...|15 mars 2023|
+ |[40821503/23 - Vulnérabilités affectantle navigateur Mozilla Firefox](https://www.dgssi.gov.ma//fr/content/4082150323-vulnerabilites-affectant-le-navigateur-mozilla-firefox.html)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de cesvulnérabilités peut permettre à un...|15 mars 2023|
  |[40811503/23 - Vulnérabilités affectant plusieurs produits d’Adobe](https://www.dgssi.gov.ma//fr/content/4081150323-vulnerabilites-affectant-plusieurs-produits-d-adobe.html)|Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuterdu code arbitraire, d’...|15 mars 2023|
  |[40801403/23 - Vulnérabilités dans les produits IBM](https://www.dgssi.gov.ma//fr/content/4080140323-vulnerabilites-dans-les-produits-ibm.html)|Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. L’exploitation de ces failles pourrait permettre à un attaquant de porter atteinte à la confidentialité des données, de contourner la politique de sécurité, de...|14 mars 2023|
  |[40791403/23 - Vulnérabilités affectant Jenkins Server and Update Center](https://www.dgssi.gov.ma//fr/content/4079140323-vulnerabilites-affectant-jenkins-server-and-update-center.html)|Jenkins annonce la correction de plusieurs vulnérabilités affectant ses produits susmentionnés.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’injecter du code dans une page, d’accéder à des...|14 mars 2023|
@@ -68,23 +108,23 @@
  |[40760903/23 - Vulnérabilités dans Apache Tomcat](https://www.dgssi.gov.ma//fr/content/4076090323-vulnerabilites-dans-apache-tomcat.html)|Deux vulnérabilités ont été corrigées dans les versions susmentionnées d’Apache Tomcat. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité et de porter atteinte à la confidentialité des...|09 mars 2023|
  |[40750903/23 - Vulnérabilités affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/4075090323-vulnerabilites-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilitésaffectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre àun attaquant de provoquer des problèmes...|09 mars 2023|
  |[40740903/23 - Vulnérabilités affectant Cisco IOS XR Software ](https://www.dgssi.gov.ma//fr/content/4074090323-vulnerabilites-affectant-cisco-ios-xr-software.html)|Cisco annonce la correction de deux vulnérabilités affectant Cisco IOS XR Software.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’accéder à des informations confidentielles ou de causer un déni de...|09 mars 2023|
- |[40720903/23 - Vulnérabilité dans Veeam Backup](https://www.dgssi.gov.ma//fr/content/4072090323-vulnerabilite-dans-veeam-backup.html)|Veeam annonce la correction d’une vulnérabilité affectant les solutions de backup « Veeam Backup » susmentionnées.L’exploitation de cette faille peut permettre à un attaquant de porter atteinte à la confidentialité des données.|09 mars 2023|
- |[40730903/23 - Vulnérabilités dans les produits Fortinet](https://www.dgssi.gov.ma//fr/content/4073090323-vulnerabilites-dans-les-produits-fortinet.html)|Fortinet a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités critiques affectant les produits susmentionnés. L'exploitation réussie de ces vulnérabilités pourrait permettre à un attaquant de réussir une...|09 mars 2023|
- |[40700803/23 - Vulnérabilités affectant le système d’exploitation Android](https://www.dgssi.gov.ma//fr/content/4070080323-vulnerabilites-affectant-le-systeme-d-exploitation-android.html)|Google annonce la correction de plusieurs vulnérabilités affectantson système d’exploitation Android.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’exécuter du code arbitraire,d’accéder à des...|09 mars 2023|
- |[40710803/23 - Exploitation d’une faille critique dans Microsoft Word](https://www.dgssi.gov.ma//fr/content/4071080323-exploitation-d-une-faille-critique-dans-microsoft-word.html)|Une preuve de concept pour « CVE-2023-21716 », une vulnérabilité critique dans Microsoft Word qui permet l'exécution de code à distance, a été récemment publiée. Les Emails de phishing peuvent être utilisés comme un vecteur d’attaque...|08 mars 2023|
  
 
-# IBM-X-FORCE-EXCHANGE
+# EU-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Siemens RUGGEDCOM CROSSBOW SQL injection (CVE-2023-27463)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
- |[Linux Kernel information disclosure (CVE-2023-1380)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
- |[NETGEAR products buffer overflow](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
- |[Siemens RUGGEDCOM CROSSBOW information disclosure (CVE-2023-27462)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
- |[KDAB Hotspot privilege escalation (CVE-2023-28144)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
- |[SAP NetWeaver AS for ABAP and ABAP Platform denial of service (CVE-2023-25618)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
- |[SAP Business Objects Business Intelligence Platform command execution (CVE-2023-25617)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
+ |[2023-017: Severe Vulnerabilities in Jenkins Products](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-017.pdf)|On March 8, 2023, Jenkins released advisories regarding 2 severe security vulnerabilities in Jenkins server and Update Center. These vulnerabilities are identified by CVE-2023-27898 and CVE-2023-27905 and could allow an unauthenticated attacker to execute arbitrary code on the victim's Jenkins server, potentially leading to a complete compromise of the Jenkins server. Furthermore, these vulnerabilities could be exploited even if the Jenkins server is not directly reachable by attackers and could also impact self-hosted Jenkins servers.|Thursday, March 09, 2023 05:40:00 PM CET|
+ |[2023-016: High Vulnerability in Veeam Backup & Replication](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-016.pdf)|On March 8, 2023, Veeam released a new security advisory revealing one high vulnerability in a Veeam Backup & Replication component. This vulnerability is identified by CVE-2023-27532 (CVSS score of 7.5) and it may allow an attacker to obtain encrypted credentials stored in the configuration database. This may lead to gaining access to the backup infrastructure hosts. It is highly recommended installing the latest version.|Thursday, March 09, 2023 05:30:00 PM CET|
+ |[2023-015: RCE Vulnerability in Fortinet Products](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-015.pdf)|On March 7, 2023, Fortinet released an advisory regarding one critical vulnerability in FortiOS and FortiProxy administrative interface. This vulnerability is identified as CVE-2023-25610 (CVSS score of 9.3) and it may allow remote unauthenticated attackers to execute arbitrary code on the device and/or to perform a DoS on the GUI. Fortinet is not aware of any instance where this vulnerability was exploited in the wild.|Wednesday, March 08, 2023 11:15:00 PM CET|
+ |[2023-014: Critical Vulnerabilities in VMware Products](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-014.pdf)|On February 20, 2023, the MISP project team released advisories regarding 2 critical SQL injection vulnerabilities in MISP Threat Intelligence and Sharing Platform. The team decided to follow a silent fix procedure, releasing several updates in November and December 2022, giving enough time to users to update their instances to a safe version.|Tuesday, February 23, 2023 10:30:00 PM CET|
+ |[2023-013: Critical SQL injection vulnerabilities in MISP](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-013.pdf)|On February 20, 2023, the MISP project team released advisories regarding 2 critical SQL injection vulnerabilities in MISP Threat Intelligence and Sharing Platform. The team decided to follow a silent fix procedure, releasing several updates in November and December 2022, giving enough time to users to update their instances to a safe version.|Tuesday, February 21, 2023 11:15:00 AM CET|
+ |[2023-012: RCE vulnerabilities in Fortinet products](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-012.pdf)|On February 16, 2023, Fortinet released advisories regarding critical vulnerabilities in FortiNAC and FortiWeb products that may allow unauthenticated attackers to perform remote arbitrary code or command execution.|Monday, February 20, 2023 03:40:00 PM CET|
+ |[2023-011: ClamAV critical vulnerability](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-011.pdf)|On February 15th, 2023, ClamAV informed about a critical vulnerability in the cross-platform antimalware toolkit. The vulnerability is identified as CVE-2023-20032 and could lead to remote code execution.|Monday, February 20, 2023 03:40:00 PM CET|
+ |[2023-010: Severe Vulnerabilities in Citrix Workspace, Virtual Apps and Desktops](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-010.pdf)|On February 14, 2023, Citrix released Security Bulletins regarding severe vulnerabilities affecting its Citrix Workspace, Virtual Apps and Desktops. If exploited, these vulnerabilities could enable attackers to elevate their privileges and take control of the affected system, but they need local access to the target.|Thursday, February 16, 2023 11:00:00 AM CET|
+ |[2023-009: Multiple Critical Vulnerabilities in Microsoft Products](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-009.pdf)|On February 14, Microsoft released its February 2023 Patch Tuesday advisory disclosing 79 vulnerabilities (with 9 critical ones), including 3 exploited zero-day vulnerabilities identified with "CVE-2023-21823", "CVE-2023-21715" and "CVE-2023-23376", which affect respectively Windows Graphics Component, Microsoft Publisher and Windows Common Log File System Driver.|Thursday, February 16, 2023 11:00:00 AM CET|
+ |[2023-008: Vulnerability in OpenSSH](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-008.pdf)|The development team of the OpenSSH suite has released the version 9.2 to address several security vulnerabilities, including a memory safety bug in the OpenSSH server (|Wednesday, February 08, 2023 06:20:00 PM CET|
+ |[2023-007: High Severity Vulnerability in OpenSSL](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-007.pdf)|On February 7, the OpenSSL project team has released a major security update to address 8 vulnerabilities. One vulnerability, tracked as CVE-2023-0286 and rated as High, may allow a remote attacker to read arbitrary memory contents or cause OpenSSL to crash, resulting in a denial of service.|Wednesday, February 08, 2023 06:20:00 PM CET|
  
 
 # HK-CERT
@@ -103,29 +143,6 @@
  |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20230310)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service and sensitive information disclosure on the targeted system.|Release Date: 10 Mar 2023|
  
 
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Node-js-sqlite3-code-execution-via-ToString-Binding-Parameter-40778" class="noirorange"><b>Node.js sqlite3</b>: code execution via ToString() Binding Parameter</a>](https://vigilance.fr/vulnerability/Node-js-sqlite3-code-execution-via-ToString-Binding-Parameter-40778)|An attacker can use a vulnerability of Node.js sqlite3, via ToString() Binding Parameter, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/containerd-privilege-escalation-via-Supplementary-Groups-40777" class="noirorange"><b>containerd</b>: privilege escalation via Supplementary Groups</a>](https://vigilance.fr/vulnerability/containerd-privilege-escalation-via-Supplementary-Groups-40777)|An attacker can bypass restrictions of containerd, via Supplementary Groups, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libmemcached-awesome-information-disclosure-via-POLL-TIMEOUT-40776" class="noirorange"><b>libmemcached-awesome</b>: information disclosure via POLL_TIMEOUT</a>](https://vigilance.fr/vulnerability/libmemcached-awesome-information-disclosure-via-POLL-TIMEOUT-40776)|An attacker can bypass access restrictions to data of |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-inode-cgwb-move-to-attached-40775" class="noirorange"><b>Linux kernel</b>: reuse after free via inode_cgwb_move_to_attached()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-inode-cgwb-move-to-attached-40775)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Go-weak-encryption-via-P256-Curve-ScalarMult-40774" class="noirorange"><b>Go</b>: weak encryption via P256 Curve ScalarMult</a>](https://vigilance.fr/vulnerability/Go-weak-encryption-via-P256-Curve-ScalarMult-40774)|An attacker can access data on Go, via P256 Curve ScalarMult, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Go-overload-via-net-http-mime-multipart-40773" class="noirorange"><b>Go</b>: overload via net/http mime/multipart</a>](https://vigilance.fr/vulnerability/Go-overload-via-net-http-mime-multipart-40773)|An attacker can trigger an overload of Go, via net/http mime/multipart, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Go-directory-traversal-via-filepath-Clean-40772" class="noirorange"><b>Go</b>: directory traversal via filepath.Clean()</a>](https://vigilance.fr/vulnerability/Go-directory-traversal-via-filepath-Clean-40772)|An attacker can traverse directories of Go, via filepath.Clean(), in order to read or write a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/peazip-overload-via-End-Of-Archive-Tag-40771" class="noirorange"><b>peazip</b>: overload via End Of Archive Tag</a>](https://vigilance.fr/vulnerability/peazip-overload-via-End-Of-Archive-Tag-40771)|An attacker can trigger an overload of peazip, via End Of Archive Tag, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Adobe-Commerce-Magento-Open-Source-four-vulnerabilities-40770" class="noirorange"><b>Adobe Commerce  Magento Open Source</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Adobe-Commerce-Magento-Open-Source-four-vulnerabilities-40770)|An attacker can use several vulnerabilities of Adobe Commerce  Magento Open Source...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Tenable-Nessus-privilege-escalation-via-Audit-Files-40769" class="noirorange"><b>Tenable Nessus</b>: privilege escalation via Audit Files</a>](https://vigilance.fr/vulnerability/Tenable-Nessus-privilege-escalation-via-Audit-Files-40769)|An attacker can bypass restrictions of Tenable Nessus, via Audit Files, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Bluetooth-weak-encryption-via-BLUFFS-40768" class="noirorange"><b>Bluetooth</b>: weak encryption via BLUFFS</a>](https://vigilance.fr/vulnerability/Bluetooth-weak-encryption-via-BLUFFS-40768)|An attacker can access data on Bluetooth, via BLUFFS, in order to read sensitive information...|Visit link for details|
- 
-
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -138,23 +155,6 @@
  |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
  |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
  |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-017: Severe Vulnerabilities in Jenkins Products](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-017.pdf)|On March 8, 2023, Jenkins released advisories regarding 2 severe security vulnerabilities in Jenkins server and Update Center. These vulnerabilities are identified by CVE-2023-27898 and CVE-2023-27905 and could allow an unauthenticated attacker to execute arbitrary code on the victim's Jenkins server, potentially leading to a complete compromise of the Jenkins server. Furthermore, these vulnerabilities could be exploited even if the Jenkins server is not directly reachable by attackers and could also impact self-hosted Jenkins servers.|Thursday, March 09, 2023 05:40:00 PM CET|
- |[2023-016: High Vulnerability in Veeam Backup & Replication](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-016.pdf)|On March 8, 2023, Veeam released a new security advisory revealing one high vulnerability in a Veeam Backup & Replication component. This vulnerability is identified by CVE-2023-27532 (CVSS score of 7.5) and it may allow an attacker to obtain encrypted credentials stored in the configuration database. This may lead to gaining access to the backup infrastructure hosts. It is highly recommended installing the latest version.|Thursday, March 09, 2023 05:30:00 PM CET|
- |[2023-015: RCE Vulnerability in Fortinet Products](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-015.pdf)|On March 7, 2023, Fortinet released an advisory regarding one critical vulnerability in FortiOS and FortiProxy administrative interface. This vulnerability is identified as CVE-2023-25610 (CVSS score of 9.3) and it may allow remote unauthenticated attackers to execute arbitrary code on the device and/or to perform a DoS on the GUI. Fortinet is not aware of any instance where this vulnerability was exploited in the wild.|Wednesday, March 08, 2023 11:15:00 PM CET|
- |[2023-014: Critical Vulnerabilities in VMware Products](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-014.pdf)|On February 20, 2023, the MISP project team released advisories regarding 2 critical SQL injection vulnerabilities in MISP Threat Intelligence and Sharing Platform. The team decided to follow a silent fix procedure, releasing several updates in November and December 2022, giving enough time to users to update their instances to a safe version.|Tuesday, February 23, 2023 10:30:00 PM CET|
- |[2023-013: Critical SQL injection vulnerabilities in MISP](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-013.pdf)|On February 20, 2023, the MISP project team released advisories regarding 2 critical SQL injection vulnerabilities in MISP Threat Intelligence and Sharing Platform. The team decided to follow a silent fix procedure, releasing several updates in November and December 2022, giving enough time to users to update their instances to a safe version.|Tuesday, February 21, 2023 11:15:00 AM CET|
- |[2023-012: RCE vulnerabilities in Fortinet products](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-012.pdf)|On February 16, 2023, Fortinet released advisories regarding critical vulnerabilities in FortiNAC and FortiWeb products that may allow unauthenticated attackers to perform remote arbitrary code or command execution.|Monday, February 20, 2023 03:40:00 PM CET|
- |[2023-011: ClamAV critical vulnerability](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-011.pdf)|On February 15th, 2023, ClamAV informed about a critical vulnerability in the cross-platform antimalware toolkit. The vulnerability is identified as CVE-2023-20032 and could lead to remote code execution.|Monday, February 20, 2023 03:40:00 PM CET|
- |[2023-010: Severe Vulnerabilities in Citrix Workspace, Virtual Apps and Desktops](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-010.pdf)|On February 14, 2023, Citrix released Security Bulletins regarding severe vulnerabilities affecting its Citrix Workspace, Virtual Apps and Desktops. If exploited, these vulnerabilities could enable attackers to elevate their privileges and take control of the affected system, but they need local access to the target.|Thursday, February 16, 2023 11:00:00 AM CET|
- |[2023-009: Multiple Critical Vulnerabilities in Microsoft Products](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-009.pdf)|On February 14, Microsoft released its February 2023 Patch Tuesday advisory disclosing 79 vulnerabilities (with 9 critical ones), including 3 exploited zero-day vulnerabilities identified with "CVE-2023-21823", "CVE-2023-21715" and "CVE-2023-23376", which affect respectively Windows Graphics Component, Microsoft Publisher and Windows Common Log File System Driver.|Thursday, February 16, 2023 11:00:00 AM CET|
- |[2023-008: Vulnerability in OpenSSH](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-008.pdf)|The development team of the OpenSSH suite has released the version 9.2 to address several security vulnerabilities, including a memory safety bug in the OpenSSH server (|Wednesday, February 08, 2023 06:20:00 PM CET|
- |[2023-007: High Severity Vulnerability in OpenSSL](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-007.pdf)|On February 7, the OpenSSL project team has released a major security update to address 8 vulnerabilities. One vulnerability, tracked as CVE-2023-0286 and rated as High, may allow a remote attacker to read arbitrary memory contents or cause OpenSSL to crash, resulting in a denial of service.|Wednesday, February 08, 2023 06:20:00 PM CET|
  
 
 # CA-CCS
