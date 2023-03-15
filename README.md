@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 15/03/2023 18:27:49 UTC
+ > Last Updated 15/03/2023 19:17:25 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,7 +29,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/03/15/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Mar 15, 2023|
  |[WaterISAC Releases Advisory for Microsoft DCOM Patch](https://www.cisa.gov/news-events/alerts/2023/03/15/waterisac-releases-advisory-microsoft-dcom-patch)|Visit link for details.|Mar 15, 2023|
+ |[Beware of Bank-Related Scams](https://www.cisa.gov/news-events/alerts/2023/03/15/beware-bank-related-scams)|Visit link for details.|Mar 15, 2023|
  |[Threat Actors Exploited Progress Telerik Vulnerability in U.S. Government IIS Server](https://www.cisa.gov/news-events/alerts/2023/03/15/threat-actors-exploited-progress-telerik-vulnerability-us-government-iis-server)|Visit link for details.|Mar 15, 2023|
  |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/03/14/adobe-releases-security-updates-multiple-products)|Visit link for details.|Mar 14, 2023|
  |[Mozilla Releases Security Updates for Firefox 111 and Firefox ESR 102.9](https://www.cisa.gov/news-events/alerts/2023/03/14/mozilla-releases-security-updates-firefox-111-and-firefox-esr-1029)|Visit link for details.|Mar 14, 2023|
@@ -37,8 +39,6 @@
  |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/03/14/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Mar 14, 2023|
  |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/03/14/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Mar 14, 2023|
  |[CISA Announces Ransomware Vulnerability Warning Pilot](https://www.cisa.gov/news-events/alerts/2023/03/13/cisa-announces-ransomware-vulnerability-warning-pilot)|Visit link for details.|Mar 13, 2023|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/03/10/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Mar 10, 2023|
- |[CISA Releases Five Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/03/09/cisa-releases-five-industrial-control-systems-advisories)|Visit link for details.|Mar 09, 2023|
  
 
 # CERT-FR
@@ -57,6 +57,19 @@
  |[Vulnérabilité dans TrendMicro Endpoint Encryption](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0225/)|Une vulnérabilité a été découverte dans |Publié le 15 mars 2023|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Sourcecodester Student Study Center Desk Management System SQL injection (CVE-2023-1407)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 15, 2023|
+ |[Firmanet Customer Relation Manager cross-site scripting (CVE-2021-4195)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
+ |[Firmanet Customer Relation Manager cross-site scripting (CVE-2022-23790)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
+ |[Firmanet Customer Relation Manager cross-site scripting (CVE-2022-23791)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
+ |[Online Graduate Tracer System for College of ICT Alumni SQL injection (CVE-2023-1394)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
+ |[Combodo iTop security bypass (CVE-2022-39214)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
+ |[Combodo iTop weak security (CVE-2022-39216)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -72,36 +85,6 @@
  |[40801403/23 - Vulnérabilités dans les produits IBM](https://www.dgssi.gov.ma//fr/content/4080140323-vulnerabilites-dans-les-produits-ibm.html)|Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. L’exploitation de ces failles pourrait permettre à un attaquant de porter atteinte à la confidentialité des données, de contourner la politique de sécurité, de...|14 mars 2023|
  |[40791403/23 - Vulnérabilités affectant Jenkins Server and Update Center](https://www.dgssi.gov.ma//fr/content/4079140323-vulnerabilites-affectant-jenkins-server-and-update-center.html)|Jenkins annonce la correction de plusieurs vulnérabilités affectant ses produits susmentionnés.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’injecter du code dans une page, d’accéder à des...|14 mars 2023|
  |[40770903/23 - Exploitation d’une faille affectant « Zoho ManageEngine ADSelfService »](https://www.dgssi.gov.ma//fr/content/4077090323-exploitation-d-une-faille-affectant-zoho-manageengine-adselfservice.html)|Une exploitation massive a été observée exploitant la vulnérabilité critique « CVE-2022-28810 », affectant « Zoho ManageEngine ADSelfService ».Un code d’exploitation est publiquement disponible permet à un attaquant d’exécuter du code à...|09 mars 2023|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Online Graduate Tracer System for College of ICT Alumni SQL injection (CVE-2023-1394)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
- |[Combodo iTop security bypass (CVE-2022-39214)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
- |[Combodo iTop weak security (CVE-2022-39216)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
- |[Online Tours and Travels Management System cross-site scripting (CVE-2023-1396)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
- |[NETGEAR RAX30 security bypass (CVE-2023-1327)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
- |[Online Pizza Ordering System file upload (CVE-2023-1392)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
- |[Adobe ColdFusion directory traversal (CVE-2023-26361)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Perl-Net-Server-ingress-filtrering-bypass-via-Reverse-Lookups-40781" class="noirorange"><b>Perl Net-Server</b>: ingress filtrering bypass via Reverse Lookups</a>](https://vigilance.fr/vulnerability/Perl-Net-Server-ingress-filtrering-bypass-via-Reverse-Lookups-40781)|An attacker can bypass filtering rules of Perl Net-Server, via Reverse Lookups, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-PE32-File-40780" class="noirorange"><b>WithSecure Endpoint Protection</b>: denial of service via PE32 File</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-PE32-File-40780)|An attacker can cause a fatal error of WithSecure Endpoint Protection, via PE32 File, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Aruba-ClearPass-Policy-Manager-height-vulnerabilities-40779" class="noirorange"><b>Aruba ClearPass Policy Manager</b>: height vulnerabilities</a>](https://vigilance.fr/vulnerability/Aruba-ClearPass-Policy-Manager-height-vulnerabilities-40779)|An attacker can use several vulnerabilities of Aruba ClearPass Policy Manager...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Node-js-sqlite3-code-execution-via-ToString-Binding-Parameter-40778" class="noirorange"><b>Node.js sqlite3</b>: code execution via ToString() Binding Parameter</a>](https://vigilance.fr/vulnerability/Node-js-sqlite3-code-execution-via-ToString-Binding-Parameter-40778)|An attacker can use a vulnerability of Node.js sqlite3, via ToString() Binding Parameter, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/containerd-privilege-escalation-via-Supplementary-Groups-40777" class="noirorange"><b>containerd</b>: privilege escalation via Supplementary Groups</a>](https://vigilance.fr/vulnerability/containerd-privilege-escalation-via-Supplementary-Groups-40777)|An attacker can bypass restrictions of containerd, via Supplementary Groups, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libmemcached-awesome-information-disclosure-via-POLL-TIMEOUT-40776" class="noirorange"><b>libmemcached-awesome</b>: information disclosure via POLL_TIMEOUT</a>](https://vigilance.fr/vulnerability/libmemcached-awesome-information-disclosure-via-POLL-TIMEOUT-40776)|An attacker can bypass access restrictions to data of |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-inode-cgwb-move-to-attached-40775" class="noirorange"><b>Linux kernel</b>: reuse after free via inode_cgwb_move_to_attached()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-inode-cgwb-move-to-attached-40775)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Go-weak-encryption-via-P256-Curve-ScalarMult-40774" class="noirorange"><b>Go</b>: weak encryption via P256 Curve ScalarMult</a>](https://vigilance.fr/vulnerability/Go-weak-encryption-via-P256-Curve-ScalarMult-40774)|An attacker can access data on Go, via P256 Curve ScalarMult, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Go-overload-via-net-http-mime-multipart-40773" class="noirorange"><b>Go</b>: overload via net/http mime/multipart</a>](https://vigilance.fr/vulnerability/Go-overload-via-net-http-mime-multipart-40773)|An attacker can trigger an overload of Go, via net/http mime/multipart, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Go-directory-traversal-via-filepath-Clean-40772" class="noirorange"><b>Go</b>: directory traversal via filepath.Clean()</a>](https://vigilance.fr/vulnerability/Go-directory-traversal-via-filepath-Clean-40772)|An attacker can traverse directories of Go, via filepath.Clean(), in order to read or write a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/peazip-overload-via-End-Of-Archive-Tag-40771" class="noirorange"><b>peazip</b>: overload via End Of Archive Tag</a>](https://vigilance.fr/vulnerability/peazip-overload-via-End-Of-Archive-Tag-40771)|An attacker can trigger an overload of peazip, via End Of Archive Tag, in order to trigger a denial of service...|Visit link for details|
  
 
 # HK-CERT
@@ -126,20 +109,6 @@
  |---|---|---|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -155,6 +124,37 @@
  |[2023-012: RCE vulnerabilities in Fortinet products](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-012.pdf)|On February 16, 2023, Fortinet released advisories regarding critical vulnerabilities in FortiNAC and FortiWeb products that may allow unauthenticated attackers to perform remote arbitrary code or command execution.|Monday, February 20, 2023 03:40:00 PM CET|
  |[2023-011: ClamAV critical vulnerability](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-011.pdf)|On February 15th, 2023, ClamAV informed about a critical vulnerability in the cross-platform antimalware toolkit. The vulnerability is identified as CVE-2023-20032 and could lead to remote code execution.|Monday, February 20, 2023 03:40:00 PM CET|
  |[2023-010: Severe Vulnerabilities in Citrix Workspace, Virtual Apps and Desktops](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-010.pdf)|On February 14, 2023, Citrix released Security Bulletins regarding severe vulnerabilities affecting its Citrix Workspace, Virtual Apps and Desktops. If exploited, these vulnerabilities could enable attackers to elevate their privileges and take control of the affected system, but they need local access to the target.|Thursday, February 16, 2023 11:00:00 AM CET|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Perl-Net-Server-ingress-filtrering-bypass-via-Reverse-Lookups-40781" class="noirorange"><b>Perl Net-Server</b>: ingress filtrering bypass via Reverse Lookups</a>](https://vigilance.fr/vulnerability/Perl-Net-Server-ingress-filtrering-bypass-via-Reverse-Lookups-40781)|An attacker can bypass filtering rules of Perl Net-Server, via Reverse Lookups, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-PE32-File-40780" class="noirorange"><b>WithSecure Endpoint Protection</b>: denial of service via PE32 File</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-PE32-File-40780)|An attacker can cause a fatal error of WithSecure Endpoint Protection, via PE32 File, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Aruba-ClearPass-Policy-Manager-height-vulnerabilities-40779" class="noirorange"><b>Aruba ClearPass Policy Manager</b>: height vulnerabilities</a>](https://vigilance.fr/vulnerability/Aruba-ClearPass-Policy-Manager-height-vulnerabilities-40779)|An attacker can use several vulnerabilities of Aruba ClearPass Policy Manager...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-sqlite3-code-execution-via-ToString-Binding-Parameter-40778" class="noirorange"><b>Node.js sqlite3</b>: code execution via ToString() Binding Parameter</a>](https://vigilance.fr/vulnerability/Node-js-sqlite3-code-execution-via-ToString-Binding-Parameter-40778)|An attacker can use a vulnerability of Node.js sqlite3, via ToString() Binding Parameter, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/containerd-privilege-escalation-via-Supplementary-Groups-40777" class="noirorange"><b>containerd</b>: privilege escalation via Supplementary Groups</a>](https://vigilance.fr/vulnerability/containerd-privilege-escalation-via-Supplementary-Groups-40777)|An attacker can bypass restrictions of containerd, via Supplementary Groups, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libmemcached-awesome-information-disclosure-via-POLL-TIMEOUT-40776" class="noirorange"><b>libmemcached-awesome</b>: information disclosure via POLL_TIMEOUT</a>](https://vigilance.fr/vulnerability/libmemcached-awesome-information-disclosure-via-POLL-TIMEOUT-40776)|An attacker can bypass access restrictions to data of |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-inode-cgwb-move-to-attached-40775" class="noirorange"><b>Linux kernel</b>: reuse after free via inode_cgwb_move_to_attached()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-inode-cgwb-move-to-attached-40775)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Go-weak-encryption-via-P256-Curve-ScalarMult-40774" class="noirorange"><b>Go</b>: weak encryption via P256 Curve ScalarMult</a>](https://vigilance.fr/vulnerability/Go-weak-encryption-via-P256-Curve-ScalarMult-40774)|An attacker can access data on Go, via P256 Curve ScalarMult, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Go-overload-via-net-http-mime-multipart-40773" class="noirorange"><b>Go</b>: overload via net/http mime/multipart</a>](https://vigilance.fr/vulnerability/Go-overload-via-net-http-mime-multipart-40773)|An attacker can trigger an overload of Go, via net/http mime/multipart, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Go-directory-traversal-via-filepath-Clean-40772" class="noirorange"><b>Go</b>: directory traversal via filepath.Clean()</a>](https://vigilance.fr/vulnerability/Go-directory-traversal-via-filepath-Clean-40772)|An attacker can traverse directories of Go, via filepath.Clean(), in order to read or write a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/peazip-overload-via-End-Of-Archive-Tag-40771" class="noirorange"><b>peazip</b>: overload via End Of Archive Tag</a>](https://vigilance.fr/vulnerability/peazip-overload-via-End-Of-Archive-Tag-40771)|An attacker can trigger an overload of peazip, via End Of Archive Tag, in order to trigger a denial of service...|Visit link for details|
  
 
 # CA-CCS
