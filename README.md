@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 15/03/2023 19:17:25 UTC
+ > Last Updated 15/03/2023 20:21:57 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA Releases SCuBA Hybrid Identity Solutions Architecture Guidance Document for Public Comment](https://www.cisa.gov/news-events/alerts/2023/03/15/cisa-releases-scuba-hybrid-identity-solutions-architecture-guidance-document-public-comment)|Visit link for details.|Mar 15, 2023|
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/03/15/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Mar 15, 2023|
  |[WaterISAC Releases Advisory for Microsoft DCOM Patch](https://www.cisa.gov/news-events/alerts/2023/03/15/waterisac-releases-advisory-microsoft-dcom-patch)|Visit link for details.|Mar 15, 2023|
  |[Beware of Bank-Related Scams](https://www.cisa.gov/news-events/alerts/2023/03/15/beware-bank-related-scams)|Visit link for details.|Mar 15, 2023|
@@ -38,7 +39,6 @@
  |[Microsoft Releases March 2023 Security Updates](https://www.cisa.gov/news-events/alerts/2023/03/14/microsoft-releases-march-2023-security-updates)|Visit link for details.|Mar 14, 2023|
  |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/03/14/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Mar 14, 2023|
  |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/03/14/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Mar 14, 2023|
- |[CISA Announces Ransomware Vulnerability Warning Pilot](https://www.cisa.gov/news-events/alerts/2023/03/13/cisa-announces-ransomware-vulnerability-warning-pilot)|Visit link for details.|Mar 13, 2023|
  
 
 # CERT-FR
@@ -109,6 +109,23 @@
  |---|---|---|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Perl-Net-Server-ingress-filtrering-bypass-via-Reverse-Lookups-40781" class="noirorange"><b>Perl Net-Server</b>: ingress filtrering bypass via Reverse Lookups</a>](https://vigilance.fr/vulnerability/Perl-Net-Server-ingress-filtrering-bypass-via-Reverse-Lookups-40781)|An attacker can bypass filtering rules of Perl Net-Server, via Reverse Lookups, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-PE32-File-40780" class="noirorange"><b>WithSecure Endpoint Protection</b>: denial of service via PE32 File</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-PE32-File-40780)|An attacker can cause a fatal error of WithSecure Endpoint Protection, via PE32 File, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Aruba-ClearPass-Policy-Manager-height-vulnerabilities-40779" class="noirorange"><b>Aruba ClearPass Policy Manager</b>: height vulnerabilities</a>](https://vigilance.fr/vulnerability/Aruba-ClearPass-Policy-Manager-height-vulnerabilities-40779)|An attacker can use several vulnerabilities of Aruba ClearPass Policy Manager...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-sqlite3-code-execution-via-ToString-Binding-Parameter-40778" class="noirorange"><b>Node.js sqlite3</b>: code execution via ToString() Binding Parameter</a>](https://vigilance.fr/vulnerability/Node-js-sqlite3-code-execution-via-ToString-Binding-Parameter-40778)|An attacker can use a vulnerability of Node.js sqlite3, via ToString() Binding Parameter, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/containerd-privilege-escalation-via-Supplementary-Groups-40777" class="noirorange"><b>containerd</b>: privilege escalation via Supplementary Groups</a>](https://vigilance.fr/vulnerability/containerd-privilege-escalation-via-Supplementary-Groups-40777)|An attacker can bypass restrictions of containerd, via Supplementary Groups, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libmemcached-awesome-information-disclosure-via-POLL-TIMEOUT-40776" class="noirorange"><b>libmemcached-awesome</b>: information disclosure via POLL_TIMEOUT</a>](https://vigilance.fr/vulnerability/libmemcached-awesome-information-disclosure-via-POLL-TIMEOUT-40776)|An attacker can bypass access restrictions to data of |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-inode-cgwb-move-to-attached-40775" class="noirorange"><b>Linux kernel</b>: reuse after free via inode_cgwb_move_to_attached()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-inode-cgwb-move-to-attached-40775)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Go-weak-encryption-via-P256-Curve-ScalarMult-40774" class="noirorange"><b>Go</b>: weak encryption via P256 Curve ScalarMult</a>](https://vigilance.fr/vulnerability/Go-weak-encryption-via-P256-Curve-ScalarMult-40774)|An attacker can access data on Go, via P256 Curve ScalarMult, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Go-overload-via-net-http-mime-multipart-40773" class="noirorange"><b>Go</b>: overload via net/http mime/multipart</a>](https://vigilance.fr/vulnerability/Go-overload-via-net-http-mime-multipart-40773)|An attacker can trigger an overload of Go, via net/http mime/multipart, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Go-directory-traversal-via-filepath-Clean-40772" class="noirorange"><b>Go</b>: directory traversal via filepath.Clean()</a>](https://vigilance.fr/vulnerability/Go-directory-traversal-via-filepath-Clean-40772)|An attacker can traverse directories of Go, via filepath.Clean(), in order to read or write a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/peazip-overload-via-End-Of-Archive-Tag-40771" class="noirorange"><b>peazip</b>: overload via End Of Archive Tag</a>](https://vigilance.fr/vulnerability/peazip-overload-via-End-Of-Archive-Tag-40771)|An attacker can trigger an overload of peazip, via End Of Archive Tag, in order to trigger a denial of service...|Visit link for details|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -138,23 +155,6 @@
  |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
  |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
  |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Perl-Net-Server-ingress-filtrering-bypass-via-Reverse-Lookups-40781" class="noirorange"><b>Perl Net-Server</b>: ingress filtrering bypass via Reverse Lookups</a>](https://vigilance.fr/vulnerability/Perl-Net-Server-ingress-filtrering-bypass-via-Reverse-Lookups-40781)|An attacker can bypass filtering rules of Perl Net-Server, via Reverse Lookups, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-PE32-File-40780" class="noirorange"><b>WithSecure Endpoint Protection</b>: denial of service via PE32 File</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-PE32-File-40780)|An attacker can cause a fatal error of WithSecure Endpoint Protection, via PE32 File, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Aruba-ClearPass-Policy-Manager-height-vulnerabilities-40779" class="noirorange"><b>Aruba ClearPass Policy Manager</b>: height vulnerabilities</a>](https://vigilance.fr/vulnerability/Aruba-ClearPass-Policy-Manager-height-vulnerabilities-40779)|An attacker can use several vulnerabilities of Aruba ClearPass Policy Manager...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Node-js-sqlite3-code-execution-via-ToString-Binding-Parameter-40778" class="noirorange"><b>Node.js sqlite3</b>: code execution via ToString() Binding Parameter</a>](https://vigilance.fr/vulnerability/Node-js-sqlite3-code-execution-via-ToString-Binding-Parameter-40778)|An attacker can use a vulnerability of Node.js sqlite3, via ToString() Binding Parameter, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/containerd-privilege-escalation-via-Supplementary-Groups-40777" class="noirorange"><b>containerd</b>: privilege escalation via Supplementary Groups</a>](https://vigilance.fr/vulnerability/containerd-privilege-escalation-via-Supplementary-Groups-40777)|An attacker can bypass restrictions of containerd, via Supplementary Groups, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libmemcached-awesome-information-disclosure-via-POLL-TIMEOUT-40776" class="noirorange"><b>libmemcached-awesome</b>: information disclosure via POLL_TIMEOUT</a>](https://vigilance.fr/vulnerability/libmemcached-awesome-information-disclosure-via-POLL-TIMEOUT-40776)|An attacker can bypass access restrictions to data of |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-inode-cgwb-move-to-attached-40775" class="noirorange"><b>Linux kernel</b>: reuse after free via inode_cgwb_move_to_attached()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-inode-cgwb-move-to-attached-40775)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Go-weak-encryption-via-P256-Curve-ScalarMult-40774" class="noirorange"><b>Go</b>: weak encryption via P256 Curve ScalarMult</a>](https://vigilance.fr/vulnerability/Go-weak-encryption-via-P256-Curve-ScalarMult-40774)|An attacker can access data on Go, via P256 Curve ScalarMult, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Go-overload-via-net-http-mime-multipart-40773" class="noirorange"><b>Go</b>: overload via net/http mime/multipart</a>](https://vigilance.fr/vulnerability/Go-overload-via-net-http-mime-multipart-40773)|An attacker can trigger an overload of Go, via net/http mime/multipart, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Go-directory-traversal-via-filepath-Clean-40772" class="noirorange"><b>Go</b>: directory traversal via filepath.Clean()</a>](https://vigilance.fr/vulnerability/Go-directory-traversal-via-filepath-Clean-40772)|An attacker can traverse directories of Go, via filepath.Clean(), in order to read or write a file outside the service root path...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/peazip-overload-via-End-Of-Archive-Tag-40771" class="noirorange"><b>peazip</b>: overload via End Of Archive Tag</a>](https://vigilance.fr/vulnerability/peazip-overload-via-End-Of-Archive-Tag-40771)|An attacker can trigger an overload of peazip, via End Of Archive Tag, in order to trigger a denial of service...|Visit link for details|
  
 
 # CA-CCS
