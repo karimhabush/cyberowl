@@ -4,11 +4,11 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Mozilla Firefox for Android spoofing (CVE-2023-25748)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
- |[Mozilla Firefox for Android spoofing (CVE-2023-28159)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
- |[Mozilla Firefox spoofing (CVE-2023-28164)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
- |[Microsoft OneDrive for MacOS privilege escalation (CVE-2023-24930)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
- |[Microsoft Dynamics 365 (on-premises) cross-site scripting (CVE-2023-24891)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
- |[Microsoft OneDrive for iOS security bypass (CVE-2023-24890)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
- |[Microsoft Windows security bypass (CVE-2023-24880)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
+ |[Adobe Experience Manager cross-site scripting (CVE-2023-22252)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
+ |[Adobe Experience Manager open redirect (CVE-2023-2256)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
+ |[Adobe Commerce and Magento Open Source security bypass (CVE-2023-22251)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
+ |[Adobe Commerce and Magento Open Source cross-site scripting (CVE-2023-22249)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
+ |[Adobe Commerce and Magento Open Source information disclosure (CVE-2023-22247)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
+ |[Adobe Commerce and Magento Open Source security bypass (CVE-2023-22250)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
+ |[Mozilla Firefox code execution (CVE-2023-28177)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
  
