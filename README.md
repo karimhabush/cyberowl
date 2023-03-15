@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 15/03/2023 07:19:55 UTC
+ > Last Updated 15/03/2023 08:26:58 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -41,19 +41,6 @@
  |[Cisco Releases Security Advisory for Cisco IP Phones](https://www.cisa.gov/news-events/alerts/2023/03/02/cisco-releases-security-advisory-cisco-ip-phones)|Visit link for details.|Mar 02, 2023|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Siemens RUGGEDCOM CROSSBOW SQL injection (CVE-2023-27463)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
- |[Linux Kernel information disclosure (CVE-2023-1380)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
- |[Siemens RUGGEDCOM CROSSBOW information disclosure (CVE-2023-27462)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
- |[KDAB Hotspot privilege escalation (CVE-2023-28144)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
- |[SAP NetWeaver AS for ABAP and ABAP Platform denial of service (CVE-2023-25618)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
- |[SAP Business Objects Business Intelligence Platform command execution (CVE-2023-25617)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
- |[SAP Business Objects Business Intelligence Platform code execution (CVE-2023-25616)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -68,12 +55,6 @@
  |[Vulnérabilité dans les produits Tenable](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0216/)|Une vulnérabilité a été découverte dans |Publié le 14 mars 2023|
  |[Vulnérabilité dans TrendMicro TXOne StellarOne](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0215/)|Une vulnérabilité a été découverte dans TrendMicro TXOne StellarOne. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 13 mars 2023|
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0214/)|De multiples vulnérabilités ont été découvertes dans |Publié le 13 mars 2023|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # MA-CERT
@@ -93,6 +74,42 @@
  |[40680703/23 - Vulnérabilités critiques affectant le thème « Houzez » pour Wordpress](https://www.dgssi.gov.ma//fr/content/4068070323-vulnerabilites-critiques-affectant-le-theme-houzez-pour-wordpress.html)|Deux vulnérabilités critiques ont été corrigées au niveau de Wordpress« Houzez ». Ces deux vulnérabilités sont activement exploitées et peuvent permettre à un attaquant d’élever sesprivilèges.|07 mars 2023|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Siemens RUGGEDCOM CROSSBOW SQL injection (CVE-2023-27463)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
+ |[Linux Kernel information disclosure (CVE-2023-1380)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
+ |[NETGEAR products buffer overflow](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
+ |[Siemens RUGGEDCOM CROSSBOW information disclosure (CVE-2023-27462)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
+ |[KDAB Hotspot privilege escalation (CVE-2023-28144)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
+ |[SAP NetWeaver AS for ABAP and ABAP Platform denial of service (CVE-2023-25618)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
+ |[SAP Business Objects Business Intelligence Platform command execution (CVE-2023-25617)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-sqlite3-code-execution-via-ToString-Binding-Parameter-40778" class="noirorange"><b>Node.js sqlite3</b>: code execution via ToString() Binding Parameter</a>](https://vigilance.fr/vulnerability/Node-js-sqlite3-code-execution-via-ToString-Binding-Parameter-40778)|An attacker can use a vulnerability of Node.js sqlite3, via ToString() Binding Parameter, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/containerd-privilege-escalation-via-Supplementary-Groups-40777" class="noirorange"><b>containerd</b>: privilege escalation via Supplementary Groups</a>](https://vigilance.fr/vulnerability/containerd-privilege-escalation-via-Supplementary-Groups-40777)|An attacker can bypass restrictions of containerd, via Supplementary Groups, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libmemcached-awesome-information-disclosure-via-POLL-TIMEOUT-40776" class="noirorange"><b>libmemcached-awesome</b>: information disclosure via POLL_TIMEOUT</a>](https://vigilance.fr/vulnerability/libmemcached-awesome-information-disclosure-via-POLL-TIMEOUT-40776)|An attacker can bypass access restrictions to data of |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-inode-cgwb-move-to-attached-40775" class="noirorange"><b>Linux kernel</b>: reuse after free via inode_cgwb_move_to_attached()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-inode-cgwb-move-to-attached-40775)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Go-weak-encryption-via-P256-Curve-ScalarMult-40774" class="noirorange"><b>Go</b>: weak encryption via P256 Curve ScalarMult</a>](https://vigilance.fr/vulnerability/Go-weak-encryption-via-P256-Curve-ScalarMult-40774)|An attacker can access data on Go, via P256 Curve ScalarMult, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Go-overload-via-net-http-mime-multipart-40773" class="noirorange"><b>Go</b>: overload via net/http mime/multipart</a>](https://vigilance.fr/vulnerability/Go-overload-via-net-http-mime-multipart-40773)|An attacker can trigger an overload of Go, via net/http mime/multipart, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Go-directory-traversal-via-filepath-Clean-40772" class="noirorange"><b>Go</b>: directory traversal via filepath.Clean()</a>](https://vigilance.fr/vulnerability/Go-directory-traversal-via-filepath-Clean-40772)|An attacker can traverse directories of Go, via filepath.Clean(), in order to read or write a file outside the service root path...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/peazip-overload-via-End-Of-Archive-Tag-40771" class="noirorange"><b>peazip</b>: overload via End Of Archive Tag</a>](https://vigilance.fr/vulnerability/peazip-overload-via-End-Of-Archive-Tag-40771)|An attacker can trigger an overload of peazip, via End Of Archive Tag, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Adobe-Commerce-Magento-Open-Source-four-vulnerabilities-40770" class="noirorange"><b>Adobe Commerce  Magento Open Source</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Adobe-Commerce-Magento-Open-Source-four-vulnerabilities-40770)|An attacker can use several vulnerabilities of Adobe Commerce  Magento Open Source...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Tenable-Nessus-privilege-escalation-via-Audit-Files-40769" class="noirorange"><b>Tenable Nessus</b>: privilege escalation via Audit Files</a>](https://vigilance.fr/vulnerability/Tenable-Nessus-privilege-escalation-via-Audit-Files-40769)|An attacker can bypass restrictions of Tenable Nessus, via Audit Files, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Bluetooth-weak-encryption-via-BLUFFS-40768" class="noirorange"><b>Bluetooth</b>: weak encryption via BLUFFS</a>](https://vigilance.fr/vulnerability/Bluetooth-weak-encryption-via-BLUFFS-40768)|An attacker can access data on Bluetooth, via BLUFFS, in order to read sensitive information...|Visit link for details|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -108,23 +125,6 @@
  |[2023-009: Multiple Critical Vulnerabilities in Microsoft Products](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-009.pdf)|On February 14, Microsoft released its February 2023 Patch Tuesday advisory disclosing 79 vulnerabilities (with 9 critical ones), including 3 exploited zero-day vulnerabilities identified with "CVE-2023-21823", "CVE-2023-21715" and "CVE-2023-23376", which affect respectively Windows Graphics Component, Microsoft Publisher and Windows Common Log File System Driver.|Thursday, February 16, 2023 11:00:00 AM CET|
  |[2023-008: Vulnerability in OpenSSH](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-008.pdf)|The development team of the OpenSSH suite has released the version 9.2 to address several security vulnerabilities, including a memory safety bug in the OpenSSH server (|Wednesday, February 08, 2023 06:20:00 PM CET|
  |[2023-007: High Severity Vulnerability in OpenSSL](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-007.pdf)|On February 7, the OpenSSL project team has released a major security update to address 8 vulnerabilities. One vulnerability, tracked as CVE-2023-0286 and rated as High, may allow a remote attacker to read arbitrary memory contents or cause OpenSSL to crash, resulting in a denial of service.|Wednesday, February 08, 2023 06:20:00 PM CET|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Adobe-Commerce-Magento-Open-Source-four-vulnerabilities-40770" class="noirorange"><b>Adobe Commerce  Magento Open Source</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Adobe-Commerce-Magento-Open-Source-four-vulnerabilities-40770)|An attacker can use several vulnerabilities of Adobe Commerce  Magento Open Source...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Tenable-Nessus-privilege-escalation-via-Audit-Files-40769" class="noirorange"><b>Tenable Nessus</b>: privilege escalation via Audit Files</a>](https://vigilance.fr/vulnerability/Tenable-Nessus-privilege-escalation-via-Audit-Files-40769)|An attacker can bypass restrictions of Tenable Nessus, via Audit Files, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Bluetooth-weak-encryption-via-BLUFFS-40768" class="noirorange"><b>Bluetooth</b>: weak encryption via BLUFFS</a>](https://vigilance.fr/vulnerability/Bluetooth-weak-encryption-via-BLUFFS-40768)|An attacker can access data on Bluetooth, via BLUFFS, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-spoofing-via-Webview2-40767" class="noirorange"><b>Microsoft Edge Chromium</b>: spoofing via Webview2</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-spoofing-via-Webview2-40767)|An attacker can create spoofed data on Microsoft Edge Chromium, via Webview2, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Windows-vulnerabilities-of-March-2023-40766" class="noirorange"><b>Microsoft Windows</b>: vulnerabilities of March 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Windows-vulnerabilities-of-March-2023-40766)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-SharePoint-spoofing-40765" class="noirorange"><b>Microsoft SharePoint</b>: spoofing</a>](https://vigilance.fr/vulnerability/Microsoft-SharePoint-spoofing-40765)|An attacker can create spoofed data on Microsoft SharePoint, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-March-2023-40764" class="noirorange"><b>Microsoft 365 Apps  Office</b>: vulnerabilities of March 2023</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-March-2023-40764)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Rack-overload-via-Multipart-MIME-40763" class="noirorange"><b>Rack</b>: overload via Multipart MIME</a>](https://vigilance.fr/vulnerability/Rack-overload-via-Multipart-MIME-40763)|An attacker can trigger an overload of Rack, via Multipart MIME, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Amanda-privilege-escalation-via-runtar-40762" class="noirorange"><b>Amanda</b>: privilege escalation via runtar</a>](https://vigilance.fr/vulnerability/Amanda-privilege-escalation-via-runtar-40762)|An attacker can bypass restrictions of Amanda, via runtar, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-multiple-vulnerabilities-40761" class="noirorange"><b>Mozilla Firefox</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-multiple-vulnerabilities-40761)|An attacker can use several vulnerabilities of Mozilla Firefox...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-March-2023-40760" class="noirorange"><b>SAP</b>: multiple vulnerabilities of March 2023</a>](https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-March-2023-40760)|An attacker can use several vulnerabilities of SAP products...|Visit link for details|
  
 
 # HK-CERT
