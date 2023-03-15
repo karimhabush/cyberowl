@@ -4,11 +4,11 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Siemens RUGGEDCOM CROSSBOW privilege escalation (CVE-2023-27309)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
+ |[Siemens RUGGEDCOM CROSSBOW privilege escalation (CVE-2023-27310)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
+ |[SAP NetWeaver AS for ABAP and ABAP Platform directory traversal (CVE-2023-27501)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
+ |[SAP NetWeaver AS for ABAP and ABAP Platform directory traversal (CVE-2023-27500)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
+ |[SAP Host Agent information disclosure (CVE-2023-27498)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
+ |[SAP NetWeaver cross-site scripting (CVE-2023-0021)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
  |[Adobe Photoshop code execution (CVE-2023-25908)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
- |[Adobe Creative Cloud Desktop Application code execution (CVE-2023-26358)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
- |[Adobe Experience Manager cross-site scripting (CVE-2023-21616)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
- |[Adobe Experience Manager cross-site scripting (CVE-2023-21615)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
- |[Adobe Experience Manager privilege escalation (CVE-2023-22271)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
- |[Adobe Experience Manager cross-site scripting (CVE-2023-22269)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
- |[Adobe Experience Manager open redirect (CVE-2023-22266)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
  

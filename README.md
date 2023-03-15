@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 15/03/2023 03:21:17 UTC
+ > Last Updated 15/03/2023 04:24:57 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -74,6 +74,19 @@
  |[40680703/23 - Vulnérabilités critiques affectant le thème « Houzez » pour Wordpress](https://www.dgssi.gov.ma//fr/content/4068070323-vulnerabilites-critiques-affectant-le-theme-houzez-pour-wordpress.html)|Deux vulnérabilités critiques ont été corrigées au niveau de Wordpress« Houzez ». Ces deux vulnérabilités sont activement exploitées et peuvent permettre à un attaquant d’élever sesprivilèges.|07 mars 2023|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Siemens RUGGEDCOM CROSSBOW privilege escalation (CVE-2023-27309)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
+ |[Siemens RUGGEDCOM CROSSBOW privilege escalation (CVE-2023-27310)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
+ |[SAP NetWeaver AS for ABAP and ABAP Platform directory traversal (CVE-2023-27501)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
+ |[SAP NetWeaver AS for ABAP and ABAP Platform directory traversal (CVE-2023-27500)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
+ |[SAP Host Agent information disclosure (CVE-2023-27498)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
+ |[SAP NetWeaver cross-site scripting (CVE-2023-0021)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
+ |[Adobe Photoshop code execution (CVE-2023-25908)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
+ 
+
 # VulDB
 
  |Title|Description|Date|
@@ -114,19 +127,6 @@
  |[<a href="https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-March-2023-40760" class="noirorange"><b>SAP</b>: multiple vulnerabilities of March 2023</a>](https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-March-2023-40760)|An attacker can use several vulnerabilities of SAP products...|Visit link for details|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Adobe Photoshop code execution (CVE-2023-25908)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
- |[Adobe Creative Cloud Desktop Application code execution (CVE-2023-26358)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
- |[Adobe Experience Manager cross-site scripting (CVE-2023-21616)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
- |[Adobe Experience Manager cross-site scripting (CVE-2023-21615)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
- |[Adobe Experience Manager privilege escalation (CVE-2023-22271)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
- |[Adobe Experience Manager cross-site scripting (CVE-2023-22269)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
- |[Adobe Experience Manager open redirect (CVE-2023-22266)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -141,20 +141,6 @@
  |[Apache HTTP Server Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apache-http-server-multiple-vulnerabilities_20230313)|Multiple vulnerabilities were identified in Apache HTTP Server. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, cross-site scripting and security restriction bypass on the targeted system....|Release Date: 13 Mar 2023|
  |[ChromeOS Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/chromeos-remote-code-execution-vulnerability_20230310)|A vulnerability was identified in ChromeOS, a remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 10 Mar 2023|
  |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20230310)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service and sensitive information disclosure on the targeted system.|Release Date: 10 Mar 2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
 
 # CA-CCS
@@ -172,4 +158,18 @@
  |[[Control systems] STEP Tools security advisory (AV23-137)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-step-tools-security-advisory-av23-137)|Visit link for details|2023-03-09|
  |[[Control systems] B&R security advisory (AV23-136)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-br-security-advisory-av23-136)|Visit link for details|2023-03-09|
  |[[Control systems] Akuvox security advisory (AV23-135)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-akuvox-security-advisory-av23-135)|Visit link for details|2023-03-09|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
