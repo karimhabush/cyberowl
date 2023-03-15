@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 15/03/2023 22:18:05 UTC
+ > Last Updated 15/03/2023 23:17:12 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -41,22 +41,6 @@
  |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/03/14/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Mar 14, 2023|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0234/)|De multiples vulnérabilités ont été corrigées dans |Publié le 15 mars 2023|
- |[Multiples vulnérabilités dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0233/)|De multiples vulnérabilités ont été corrigées dans |Publié le 15 mars 2023|
- |[Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0232/)|De multiples vulnérabilités ont été corrigées dans |Publié le 15 mars 2023|
- |[Multiples vulnérabilités dans Microsoft Office](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0231/)|De multiples vulnérabilités ont été corrigées dans |Publié le 15 mars 2023|
- |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0230/)|Une vulnérabilité a été corrigée dans |Publié le 15 mars 2023|
- |[Multiples vulnérabilités dans les produits ownCloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0229/)|De multiples vulnérabilités ont été découvertes dans les produits ownCloud. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et une exécution de code arbitraire.|Publié le 15 mars 2023|
- |[Multiples vulnérabilités dans les produits SAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0228/)|De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 15 mars 2023|
- |[Multiples vulnérabilités dans les produits Adobe](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0227/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 15 mars 2023|
- |[Multiples vulnérabilités dans Aruba ClearPass Policy Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0226/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 mars 2023|
- |[Vulnérabilité dans TrendMicro Endpoint Encryption](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0225/)|Une vulnérabilité a été découverte dans |Publié le 15 mars 2023|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -86,6 +70,42 @@
  |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20230310)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service and sensitive information disclosure on the targeted system.|Release Date: 10 Mar 2023|
  
 
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0234/)|De multiples vulnérabilités ont été corrigées dans |Publié le 15 mars 2023|
+ |[Multiples vulnérabilités dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0233/)|De multiples vulnérabilités ont été corrigées dans |Publié le 15 mars 2023|
+ |[Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0232/)|De multiples vulnérabilités ont été corrigées dans |Publié le 15 mars 2023|
+ |[Multiples vulnérabilités dans Microsoft Office](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0231/)|De multiples vulnérabilités ont été corrigées dans |Publié le 15 mars 2023|
+ |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0230/)|Une vulnérabilité a été corrigée dans |Publié le 15 mars 2023|
+ |[Multiples vulnérabilités dans les produits ownCloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0229/)|De multiples vulnérabilités ont été découvertes dans les produits ownCloud. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et une exécution de code arbitraire.|Publié le 15 mars 2023|
+ |[Multiples vulnérabilités dans les produits SAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0228/)|De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 15 mars 2023|
+ |[Multiples vulnérabilités dans les produits Adobe](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0227/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 15 mars 2023|
+ |[Multiples vulnérabilités dans Aruba ClearPass Policy Manager](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0226/)|De multiples vulnérabilités ont été découvertes dans |Publié le 15 mars 2023|
+ |[Vulnérabilité dans TrendMicro Endpoint Encryption](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0225/)|Une vulnérabilité a été découverte dans |Publié le 15 mars 2023|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -103,24 +123,21 @@
  |[40770903/23 - Exploitation d’une faille affectant « Zoho ManageEngine ADSelfService »](https://www.dgssi.gov.ma//fr/content/4077090323-exploitation-d-une-faille-affectant-zoho-manageengine-adselfservice.html)|Une exploitation massive a été observée exploitant la vulnérabilité critique « CVE-2022-28810 », affectant « Zoho ManageEngine ADSelfService ».Un code d’exploitation est publiquement disponible permet à un attaquant d’exécuter du code à...|09 mars 2023|
  
 
-# ZERODAYINITIATIVE
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-drivers-gpu-vmxgfx-vmxgfx-execbuf-c-40787" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via drivers/gpu/vmxgfx/vmxgfx_execbuf.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-drivers-gpu-vmxgfx-vmxgfx-execbuf-c-40787)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Responsive-Media-Image-Formatter-vulnerability-40786" class="noirorange"><b>Drupal Responsive Media Image Formatter</b>: vulnerability</a>](https://vigilance.fr/vulnerability/Drupal-Responsive-Media-Image-Formatter-vulnerability-40786)|A vulnerability of Drupal Responsive Media Image Formatter was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Media-Responsive-Thumbnail-information-disclosure-40785" class="noirorange"><b>Drupal Media Responsive Thumbnail</b>: information disclosure</a>](https://vigilance.fr/vulnerability/Drupal-Media-Responsive-Thumbnail-information-disclosure-40785)|An attacker can bypass access restrictions to data of Drupal Media Responsive Thumbnail, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Core-information-disclosure-via-Phpinfo-Page-40784" class="noirorange"><b>Drupal Core</b>: information disclosure via Phpinfo Page</a>](https://vigilance.fr/vulnerability/Drupal-Core-information-disclosure-via-Phpinfo-Page-40784)|An attacker can bypass access restrictions to data of Drupal Core, via Phpinfo Page, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Core-information-disclosure-via-Language-40783" class="noirorange"><b>Drupal Core</b>: information disclosure via Language</a>](https://vigilance.fr/vulnerability/Drupal-Core-information-disclosure-via-Language-40783)|An attacker can bypass access restrictions to data of Drupal Core, via Language, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Core-file-reading-via-Media-40782" class="noirorange"><b>Drupal Core</b>: file reading via Media</a>](https://vigilance.fr/vulnerability/Drupal-Core-file-reading-via-Media-40782)|An attacker can read a file of Drupal Core, via Media, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Perl-Net-Server-ingress-filtrering-bypass-via-Reverse-Lookups-40781" class="noirorange"><b>Perl Net-Server</b>: ingress filtrering bypass via Reverse Lookups</a>](https://vigilance.fr/vulnerability/Perl-Net-Server-ingress-filtrering-bypass-via-Reverse-Lookups-40781)|An attacker can bypass filtering rules of Perl Net-Server, via Reverse Lookups, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-PE32-File-40780" class="noirorange"><b>WithSecure Endpoint Protection</b>: denial of service via PE32 File</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-PE32-File-40780)|An attacker can cause a fatal error of WithSecure Endpoint Protection, via PE32 File, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Aruba-ClearPass-Policy-Manager-height-vulnerabilities-40779" class="noirorange"><b>Aruba ClearPass Policy Manager</b>: height vulnerabilities</a>](https://vigilance.fr/vulnerability/Aruba-ClearPass-Policy-Manager-height-vulnerabilities-40779)|An attacker can use several vulnerabilities of Aruba ClearPass Policy Manager...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-sqlite3-code-execution-via-ToString-Binding-Parameter-40778" class="noirorange"><b>Node.js sqlite3</b>: code execution via ToString() Binding Parameter</a>](https://vigilance.fr/vulnerability/Node-js-sqlite3-code-execution-via-ToString-Binding-Parameter-40778)|An attacker can use a vulnerability of Node.js sqlite3, via ToString() Binding Parameter, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/containerd-privilege-escalation-via-Supplementary-Groups-40777" class="noirorange"><b>containerd</b>: privilege escalation via Supplementary Groups</a>](https://vigilance.fr/vulnerability/containerd-privilege-escalation-via-Supplementary-Groups-40777)|An attacker can bypass restrictions of containerd, via Supplementary Groups, in order to escalate his privileges...|Visit link for details|
  
 
 # EU-CERT
@@ -138,23 +155,6 @@
  |[2023-012: RCE vulnerabilities in Fortinet products](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-012.pdf)|On February 16, 2023, Fortinet released advisories regarding critical vulnerabilities in FortiNAC and FortiWeb products that may allow unauthenticated attackers to perform remote arbitrary code or command execution.|Monday, February 20, 2023 03:40:00 PM CET|
  |[2023-011: ClamAV critical vulnerability](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-011.pdf)|On February 15th, 2023, ClamAV informed about a critical vulnerability in the cross-platform antimalware toolkit. The vulnerability is identified as CVE-2023-20032 and could lead to remote code execution.|Monday, February 20, 2023 03:40:00 PM CET|
  |[2023-010: Severe Vulnerabilities in Citrix Workspace, Virtual Apps and Desktops](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-010.pdf)|On February 14, 2023, Citrix released Security Bulletins regarding severe vulnerabilities affecting its Citrix Workspace, Virtual Apps and Desktops. If exploited, these vulnerabilities could enable attackers to elevate their privileges and take control of the affected system, but they need local access to the target.|Thursday, February 16, 2023 11:00:00 AM CET|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-drivers-gpu-vmxgfx-vmxgfx-execbuf-c-40787" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via drivers/gpu/vmxgfx/vmxgfx_execbuf.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-drivers-gpu-vmxgfx-vmxgfx-execbuf-c-40787)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Responsive-Media-Image-Formatter-vulnerability-40786" class="noirorange"><b>Drupal Responsive Media Image Formatter</b>: vulnerability</a>](https://vigilance.fr/vulnerability/Drupal-Responsive-Media-Image-Formatter-vulnerability-40786)|A vulnerability of Drupal Responsive Media Image Formatter was announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Media-Responsive-Thumbnail-information-disclosure-40785" class="noirorange"><b>Drupal Media Responsive Thumbnail</b>: information disclosure</a>](https://vigilance.fr/vulnerability/Drupal-Media-Responsive-Thumbnail-information-disclosure-40785)|An attacker can bypass access restrictions to data of Drupal Media Responsive Thumbnail, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Core-information-disclosure-via-Phpinfo-Page-40784" class="noirorange"><b>Drupal Core</b>: information disclosure via Phpinfo Page</a>](https://vigilance.fr/vulnerability/Drupal-Core-information-disclosure-via-Phpinfo-Page-40784)|An attacker can bypass access restrictions to data of Drupal Core, via Phpinfo Page, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Core-information-disclosure-via-Language-40783" class="noirorange"><b>Drupal Core</b>: information disclosure via Language</a>](https://vigilance.fr/vulnerability/Drupal-Core-information-disclosure-via-Language-40783)|An attacker can bypass access restrictions to data of Drupal Core, via Language, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Core-file-reading-via-Media-40782" class="noirorange"><b>Drupal Core</b>: file reading via Media</a>](https://vigilance.fr/vulnerability/Drupal-Core-file-reading-via-Media-40782)|An attacker can read a file of Drupal Core, via Media, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Perl-Net-Server-ingress-filtrering-bypass-via-Reverse-Lookups-40781" class="noirorange"><b>Perl Net-Server</b>: ingress filtrering bypass via Reverse Lookups</a>](https://vigilance.fr/vulnerability/Perl-Net-Server-ingress-filtrering-bypass-via-Reverse-Lookups-40781)|An attacker can bypass filtering rules of Perl Net-Server, via Reverse Lookups, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-PE32-File-40780" class="noirorange"><b>WithSecure Endpoint Protection</b>: denial of service via PE32 File</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-denial-of-service-via-PE32-File-40780)|An attacker can cause a fatal error of WithSecure Endpoint Protection, via PE32 File, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Aruba-ClearPass-Policy-Manager-height-vulnerabilities-40779" class="noirorange"><b>Aruba ClearPass Policy Manager</b>: height vulnerabilities</a>](https://vigilance.fr/vulnerability/Aruba-ClearPass-Policy-Manager-height-vulnerabilities-40779)|An attacker can use several vulnerabilities of Aruba ClearPass Policy Manager...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Node-js-sqlite3-code-execution-via-ToString-Binding-Parameter-40778" class="noirorange"><b>Node.js sqlite3</b>: code execution via ToString() Binding Parameter</a>](https://vigilance.fr/vulnerability/Node-js-sqlite3-code-execution-via-ToString-Binding-Parameter-40778)|An attacker can use a vulnerability of Node.js sqlite3, via ToString() Binding Parameter, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/containerd-privilege-escalation-via-Supplementary-Groups-40777" class="noirorange"><b>containerd</b>: privilege escalation via Supplementary Groups</a>](https://vigilance.fr/vulnerability/containerd-privilege-escalation-via-Supplementary-Groups-40777)|An attacker can bypass restrictions of containerd, via Supplementary Groups, in order to escalate his privileges...|Visit link for details|
  
 
 # CA-CCS
