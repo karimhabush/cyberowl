@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 16/03/2023 08:26:23 UTC
+ > Last Updated 16/03/2023 09:21:59 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -74,40 +74,39 @@
  |[40770903/23 - Exploitation d’une faille affectant « Zoho ManageEngine ADSelfService »](https://www.dgssi.gov.ma//fr/content/4077090323-exploitation-d-une-faille-affectant-zoho-manageengine-adselfservice.html)|Une exploitation massive a été observée exploitant la vulnérabilité critique « CVE-2022-28810 », affectant « Zoho ManageEngine ADSelfService ».Un code d’exploitation est publiquement disponible permet à un attaquant d’exécuter du code à...|09 mars 2023|
  
 
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
  |[Sourcecodester Student Study Center Desk Management System SQL injection (CVE-2023-1407)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 15, 2023|
- |[Unity Technologies Unity code execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 15, 2023|
- |[Unity Technologies Unity code execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 15, 2023|
- |[Unity Technologies Unity information disclosure](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 15, 2023|
- |[Unity Technologies Unity code execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 15, 2023|
- |[Unity Technologies Unity code execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 15, 2023|
- |[Unity Technologies Unity buffer overflow](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 15, 2023|
+ |[TP-Link Archer AX21 routers buffer overflow (CVE-2023-27333)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 15, 2023|
+ |[TP-Link Archer AX21 routers buffer overflow (CVE-2023-27332)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 15, 2023|
+ |[Drupal Core cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 15, 2023|
+ |[Drupal Core information disclosure](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 15, 2023|
+ |[Drupal Core information disclosure](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 15, 2023|
+ |[Media Responsive Thumbnail module for Drupal information disclosure](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 15, 2023|
  
 
-# OBS-Vigilance
+# HK-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Dnsmasq-security-improvement-via-Fragmented-EDNS-40792" class="noirorange"><b>Dnsmasq</b>: security improvement via Fragmented EDNS</a>](https://vigilance.fr/vulnerability/Dnsmasq-security-improvement-via-Fragmented-EDNS-40792)|The security of Dnsmasq was improved via Fragmented EDNS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSSH-out-of-bounds-memory-reading-via-VerifyHostKeyDNS-40791" class="noirorange"><b>OpenSSH</b>: out-of-bounds memory reading via VerifyHostKeyDNS</a>](https://vigilance.fr/vulnerability/OpenSSH-out-of-bounds-memory-reading-via-VerifyHostKeyDNS-40791)|An attacker can force a read at an invalid memory address of OpenSSH, via VerifyHostKeyDNS, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSSH-ingress-filtrering-bypass-via-Smartcard-Keys-Ssh-add-Without-Constraints-40790" class="noirorange"><b>OpenSSH</b>: ingress filtrering bypass via Smartcard Keys Ssh-add Without Constraints</a>](https://vigilance.fr/vulnerability/OpenSSH-ingress-filtrering-bypass-via-Smartcard-Keys-Ssh-add-Without-Constraints-40790)|An attacker can bypass filtering rules of OpenSSH, via Smartcard Keys Ssh-add Without Constraints, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenBSD-buffer-overflow-via-libskey-40789" class="noirorange"><b>OpenBSD</b>: buffer overflow via libskey</a>](https://vigilance.fr/vulnerability/OpenBSD-buffer-overflow-via-libskey-40789)|An attacker can trigger a buffer overflow of OpenBSD, via libskey, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FFmpeg-out-of-bounds-memory-reading-via-smc-encode-stream-40788" class="noirorange"><b>FFmpeg</b>: out-of-bounds memory reading via smc_encode_stream()</a>](https://vigilance.fr/vulnerability/FFmpeg-out-of-bounds-memory-reading-via-smc-encode-stream-40788)|An attacker can force a read at an invalid memory address of FFmpeg, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-drivers-gpu-vmxgfx-vmxgfx-execbuf-c-40787" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via drivers/gpu/vmxgfx/vmxgfx_execbuf.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-drivers-gpu-vmxgfx-vmxgfx-execbuf-c-40787)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Responsive-Media-Image-Formatter-vulnerability-40786" class="noirorange"><b>Drupal Responsive Media Image Formatter</b>: vulnerability</a>](https://vigilance.fr/vulnerability/Drupal-Responsive-Media-Image-Formatter-vulnerability-40786)|A vulnerability of Drupal Responsive Media Image Formatter was announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Media-Responsive-Thumbnail-information-disclosure-40785" class="noirorange"><b>Drupal Media Responsive Thumbnail</b>: information disclosure</a>](https://vigilance.fr/vulnerability/Drupal-Media-Responsive-Thumbnail-information-disclosure-40785)|An attacker can bypass access restrictions to data of Drupal Media Responsive Thumbnail, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Core-information-disclosure-via-Phpinfo-Page-40784" class="noirorange"><b>Drupal Core</b>: information disclosure via Phpinfo Page</a>](https://vigilance.fr/vulnerability/Drupal-Core-information-disclosure-via-Phpinfo-Page-40784)|An attacker can bypass access restrictions to data of Drupal Core, via Phpinfo Page, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Core-information-disclosure-via-Language-40783" class="noirorange"><b>Drupal Core</b>: information disclosure via Language</a>](https://vigilance.fr/vulnerability/Drupal-Core-information-disclosure-via-Language-40783)|An attacker can bypass access restrictions to data of Drupal Core, via Language, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Core-file-reading-via-Media-40782" class="noirorange"><b>Drupal Core</b>: file reading via Media</a>](https://vigilance.fr/vulnerability/Drupal-Core-file-reading-via-Media-40782)|An attacker can read a file of Drupal Core, via Media, in order to obtain sensitive information...|Visit link for details|
+ |[Adobe Monthly Security Update (March 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-march-2023)|[Updated on 2023-03-16]The risk level escalated to extremely high due to CVE-2023-26360 was exploited in attacks as a zero-day. Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpacts...| Release Date: 15 Mar 2023 |
+ |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-firefox-multiple-vulnerabilities_20230315)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-03-16] Updated System / Technologies...| Release Date: 15 Mar 2023 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230306)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-03-07] Updated System / Technologies affected, ...| Release Date: 6 Mar 2023 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230301)|Multiple vulnerabilities were identified in RedHat Linux Kernal. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and elevation of privilege on the targeted system. [Updated on 2023-03-15] Updated System / Technologies affected, Solutions, ...| Release Date: 1 Mar 2023 |
+ |[Microsoft Monthly Security Update (March 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-march-2023)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesBrowser Low RiskSpoofing Azure Low RiskSpoofing Windows High RiskElevation of PrivilegeRemote Code ExecutionInformation Disclosure...|Release Date: 15 Mar 2023|
+ |[Zoom Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/zoom-products-multiple-vulnerabilities_20230315)|Multiple vulnerabilities have been identified in Zoom products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 15 Mar 2023|
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230314)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution, information disclosure, spoofing, security restriction bypass on the targeted system.|Release Date: 14 Mar 2023|
+ |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20230309)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated...| Release Date: 9 Mar 2023 |
+ |[Apache HTTP Server Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apache-http-server-multiple-vulnerabilities_20230313)|Multiple vulnerabilities were identified in Apache HTTP Server. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, cross-site scripting and security restriction bypass on the targeted system....|Release Date: 13 Mar 2023|
+ |[ChromeOS Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/chromeos-remote-code-execution-vulnerability_20230310)|A vulnerability was identified in ChromeOS, a remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 10 Mar 2023|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # EU-CERT
@@ -127,20 +126,35 @@
  |[2023-010: Severe Vulnerabilities in Citrix Workspace, Virtual Apps and Desktops](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-010.pdf)|On February 14, 2023, Citrix released Security Bulletins regarding severe vulnerabilities affecting its Citrix Workspace, Virtual Apps and Desktops. If exploited, these vulnerabilities could enable attackers to elevate their privileges and take control of the affected system, but they need local access to the target.|Thursday, February 16, 2023 11:00:00 AM CET|
  
 
-# HK-CERT
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Adobe Monthly Security Update (March 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-march-2023)|[Updated on 2023-03-16]The risk level escalated to extremely high due to CVE-2023-26360 was exploited in attacks as a zero-day. Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpacts...| Release Date: 15 Mar 2023 |
- |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-firefox-multiple-vulnerabilities_20230315)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-03-16] Updated System / Technologies...| Release Date: 15 Mar 2023 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230306)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-03-07] Updated System / Technologies affected, ...| Release Date: 6 Mar 2023 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230301)|Multiple vulnerabilities were identified in RedHat Linux Kernal. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and elevation of privilege on the targeted system. [Updated on 2023-03-15] Updated System / Technologies affected, Solutions, ...| Release Date: 1 Mar 2023 |
- |[Microsoft Monthly Security Update (March 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-march-2023)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesBrowser Low RiskSpoofing Azure Low RiskSpoofing Windows High RiskElevation of PrivilegeRemote Code ExecutionInformation Disclosure...|Release Date: 15 Mar 2023|
- |[Zoom Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/zoom-products-multiple-vulnerabilities_20230315)|Multiple vulnerabilities have been identified in Zoom products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 15 Mar 2023|
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230314)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution, information disclosure, spoofing, security restriction bypass on the targeted system.|Release Date: 14 Mar 2023|
- |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20230309)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated...| Release Date: 9 Mar 2023 |
- |[Apache HTTP Server Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apache-http-server-multiple-vulnerabilities_20230313)|Multiple vulnerabilities were identified in Apache HTTP Server. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, cross-site scripting and security restriction bypass on the targeted system....|Release Date: 13 Mar 2023|
- |[ChromeOS Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/chromeos-remote-code-execution-vulnerability_20230310)|A vulnerability was identified in ChromeOS, a remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 10 Mar 2023|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Dnsmasq-security-improvement-via-Fragmented-EDNS-40792" class="noirorange"><b>Dnsmasq</b>: security improvement via Fragmented EDNS</a>](https://vigilance.fr/vulnerability/Dnsmasq-security-improvement-via-Fragmented-EDNS-40792)|The security of Dnsmasq was improved via Fragmented EDNS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSH-out-of-bounds-memory-reading-via-VerifyHostKeyDNS-40791" class="noirorange"><b>OpenSSH</b>: out-of-bounds memory reading via VerifyHostKeyDNS</a>](https://vigilance.fr/vulnerability/OpenSSH-out-of-bounds-memory-reading-via-VerifyHostKeyDNS-40791)|An attacker can force a read at an invalid memory address of OpenSSH, via VerifyHostKeyDNS, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSH-ingress-filtrering-bypass-via-Smartcard-Keys-Ssh-add-Without-Constraints-40790" class="noirorange"><b>OpenSSH</b>: ingress filtrering bypass via Smartcard Keys Ssh-add Without Constraints</a>](https://vigilance.fr/vulnerability/OpenSSH-ingress-filtrering-bypass-via-Smartcard-Keys-Ssh-add-Without-Constraints-40790)|An attacker can bypass filtering rules of OpenSSH, via Smartcard Keys Ssh-add Without Constraints, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenBSD-buffer-overflow-via-libskey-40789" class="noirorange"><b>OpenBSD</b>: buffer overflow via libskey</a>](https://vigilance.fr/vulnerability/OpenBSD-buffer-overflow-via-libskey-40789)|An attacker can trigger a buffer overflow of OpenBSD, via libskey, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FFmpeg-out-of-bounds-memory-reading-via-smc-encode-stream-40788" class="noirorange"><b>FFmpeg</b>: out-of-bounds memory reading via smc_encode_stream()</a>](https://vigilance.fr/vulnerability/FFmpeg-out-of-bounds-memory-reading-via-smc-encode-stream-40788)|An attacker can force a read at an invalid memory address of FFmpeg, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-drivers-gpu-vmxgfx-vmxgfx-execbuf-c-40787" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via drivers/gpu/vmxgfx/vmxgfx_execbuf.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-drivers-gpu-vmxgfx-vmxgfx-execbuf-c-40787)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Responsive-Media-Image-Formatter-vulnerability-40786" class="noirorange"><b>Drupal Responsive Media Image Formatter</b>: vulnerability</a>](https://vigilance.fr/vulnerability/Drupal-Responsive-Media-Image-Formatter-vulnerability-40786)|A vulnerability of Drupal Responsive Media Image Formatter was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Media-Responsive-Thumbnail-information-disclosure-40785" class="noirorange"><b>Drupal Media Responsive Thumbnail</b>: information disclosure</a>](https://vigilance.fr/vulnerability/Drupal-Media-Responsive-Thumbnail-information-disclosure-40785)|An attacker can bypass access restrictions to data of Drupal Media Responsive Thumbnail, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Core-information-disclosure-via-Phpinfo-Page-40784" class="noirorange"><b>Drupal Core</b>: information disclosure via Phpinfo Page</a>](https://vigilance.fr/vulnerability/Drupal-Core-information-disclosure-via-Phpinfo-Page-40784)|An attacker can bypass access restrictions to data of Drupal Core, via Phpinfo Page, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Core-information-disclosure-via-Language-40783" class="noirorange"><b>Drupal Core</b>: information disclosure via Language</a>](https://vigilance.fr/vulnerability/Drupal-Core-information-disclosure-via-Language-40783)|An attacker can bypass access restrictions to data of Drupal Core, via Language, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Core-file-reading-via-Media-40782" class="noirorange"><b>Drupal Core</b>: file reading via Media</a>](https://vigilance.fr/vulnerability/Drupal-Core-file-reading-via-Media-40782)|An attacker can read a file of Drupal Core, via Media, in order to obtain sensitive information...|Visit link for details|
  
 
 # CA-CCS
@@ -158,18 +172,4 @@
  |[Microsoft security advisory – March 2023 monthly rollup (AV23-146)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-march-2023-monthly-rollup-av23-146)|Visit link for details|2023-03-15|
  |[[Control systems] Siemens security advisory (AV23-145)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av23-145)|Visit link for details|2023-03-14|
  |[[Control systems] Schneider Electric security advisory (AV23-144)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av23-144)|Visit link for details|2023-03-14|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
