@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 16/03/2023 02:43:04 UTC
+ > Last Updated 16/03/2023 03:21:56 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -25,22 +25,6 @@
  
  > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases SCuBA Hybrid Identity Solutions Architecture Guidance Document for Public Comment](https://www.cisa.gov/news-events/alerts/2023/03/15/cisa-releases-scuba-hybrid-identity-solutions-architecture-guidance-document-public-comment)|Visit link for details.|Mar 15, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/03/15/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Mar 15, 2023|
- |[WaterISAC Releases Advisory for Microsoft DCOM Patch](https://www.cisa.gov/news-events/alerts/2023/03/15/waterisac-releases-advisory-microsoft-dcom-patch)|Visit link for details.|Mar 15, 2023|
- |[Beware of Bank-Related Scams](https://www.cisa.gov/news-events/alerts/2023/03/15/beware-bank-related-scams)|Visit link for details.|Mar 15, 2023|
- |[Threat Actors Exploited Progress Telerik Vulnerability in U.S. Government IIS Server](https://www.cisa.gov/news-events/alerts/2023/03/15/threat-actors-exploited-progress-telerik-vulnerability-us-government-iis-server)|Visit link for details.|Mar 15, 2023|
- |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/03/14/adobe-releases-security-updates-multiple-products)|Visit link for details.|Mar 14, 2023|
- |[Mozilla Releases Security Updates for Firefox 111 and Firefox ESR 102.9](https://www.cisa.gov/news-events/alerts/2023/03/14/mozilla-releases-security-updates-firefox-111-and-firefox-esr-1029)|Visit link for details.|Mar 14, 2023|
- |[Microsoft Releases March 2023 Security Updates](https://www.cisa.gov/news-events/alerts/2023/03/14/microsoft-releases-march-2023-security-updates)|Visit link for details.|Mar 14, 2023|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/03/14/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Mar 14, 2023|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/03/14/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Mar 14, 2023|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -57,6 +41,22 @@
  |[Vulnérabilité dans TrendMicro Endpoint Encryption](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0225/)|Une vulnérabilité a été découverte dans |Publié le 15 mars 2023|
  
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases SCuBA Hybrid Identity Solutions Architecture Guidance Document for Public Comment](https://www.cisa.gov/news-events/alerts/2023/03/15/cisa-releases-scuba-hybrid-identity-solutions-architecture-guidance-document-public-comment)|Visit link for details.|Mar 15, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/03/15/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Mar 15, 2023|
+ |[WaterISAC Releases Advisory for Microsoft DCOM Patch](https://www.cisa.gov/news-events/alerts/2023/03/15/waterisac-releases-advisory-microsoft-dcom-patch)|Visit link for details.|Mar 15, 2023|
+ |[Beware of Bank-Related Scams](https://www.cisa.gov/news-events/alerts/2023/03/15/beware-bank-related-scams)|Visit link for details.|Mar 15, 2023|
+ |[Threat Actors Exploited Progress Telerik Vulnerability in U.S. Government IIS Server](https://www.cisa.gov/news-events/alerts/2023/03/15/threat-actors-exploited-progress-telerik-vulnerability-us-government-iis-server)|Visit link for details.|Mar 15, 2023|
+ |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/03/14/adobe-releases-security-updates-multiple-products)|Visit link for details.|Mar 14, 2023|
+ |[Mozilla Releases Security Updates for Firefox 111 and Firefox ESR 102.9](https://www.cisa.gov/news-events/alerts/2023/03/14/mozilla-releases-security-updates-firefox-111-and-firefox-esr-1029)|Visit link for details.|Mar 14, 2023|
+ |[Microsoft Releases March 2023 Security Updates](https://www.cisa.gov/news-events/alerts/2023/03/14/microsoft-releases-march-2023-security-updates)|Visit link for details.|Mar 14, 2023|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/03/14/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Mar 14, 2023|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/03/14/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Mar 14, 2023|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -70,57 +70,10 @@
  |[Combodo iTop weak security (CVE-2022-39216)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 14, 2023|
  
 
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Adobe Monthly Security Update (March 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-march-2023)|[Updated on 2023-03-16]The risk level escalated to extremely high due to CVE-2023-26360 was exploited in attacks as a zero-day. Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpacts...| Release Date: 15 Mar 2023 |
- |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-firefox-multiple-vulnerabilities_20230315)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-03-16] Updated System / Technologies...| Release Date: 15 Mar 2023 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230306)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-03-07] Updated System / Technologies affected, ...| Release Date: 6 Mar 2023 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230301)|Multiple vulnerabilities were identified in RedHat Linux Kernal. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and elevation of privilege on the targeted system. [Updated on 2023-03-15] Updated System / Technologies affected, Solutions, ...| Release Date: 1 Mar 2023 |
- |[Microsoft Monthly Security Update (March 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-march-2023)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesBrowser Low RiskSpoofing Azure Low RiskSpoofing Windows High RiskElevation of PrivilegeRemote Code ExecutionInformation Disclosure...|Release Date: 15 Mar 2023|
- |[Zoom Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/zoom-products-multiple-vulnerabilities_20230315)|Multiple vulnerabilities have been identified in Zoom products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 15 Mar 2023|
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230314)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution, information disclosure, spoofing, security restriction bypass on the targeted system.|Release Date: 14 Mar 2023|
- |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20230309)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated...| Release Date: 9 Mar 2023 |
- |[Apache HTTP Server Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apache-http-server-multiple-vulnerabilities_20230313)|Multiple vulnerabilities were identified in Apache HTTP Server. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, cross-site scripting and security restriction bypass on the targeted system....|Release Date: 13 Mar 2023|
- |[ChromeOS Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/chromeos-remote-code-execution-vulnerability_20230310)|A vulnerability was identified in ChromeOS, a remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 10 Mar 2023|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[40831503/23 - Vulnérabilités affectant plusieursproduits SAP](https://www.dgssi.gov.ma//fr/content/4083150323-vulnerabilites-affectant-plusieurs-produits-sap.html)|SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuterdu code arbitraire,...|15 mars 2023|
- |[40861503/23 - Vulnérabilités critiques dans plusieurs produits Microsoft(Patch Tuesday Mars 2023)](https://www.dgssi.gov.ma//fr/content/4086150323-vulnerabilites-critiques-dans-plusieurs-produits-microsoft-patch-tuesday-mars-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, d’exécuter du...|15 mars 2023|
- |[40851503/23 - Vulnérabilités dans Microsoft Edge](https://www.dgssi.gov.ma//fr/content/4085150323-vulnerabilites-dans-microsoft-edge.html)|Microsoft annonce la correction de plusieurs vulnérabilités dans Microsoft Edge. L’exploitation de ces failles peut permettre à un attaquant de réussir une usurpation d’identité.|15 mars 2023|
- |[40841503/23 - Vulnérabilités dans les produits Microsoft Azure (Patch Tuesday Mars 2023)](https://www.dgssi.gov.ma//fr/content/4084150323-vulnerabilites-dans-les-produits-microsoft-azure-patch-tuesday-mars-2023.html)|Deux vulnérabilités ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de réussir une usurpation d’identité.|15 mars 2023|
- |[40831503/23 - Vulnérabilités critiques dans Microsoft Windows (Patch Tuesday Mars 2023)](https://www.dgssi.gov.ma//fr/content/4083150323-vulnerabilites-critiques-dans-microsoft-windows-patch-tuesday-mars-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques dans lessystèmes d’exploitation Windows susmentionnés. Selon Microsoft une de ces vulnérabilités identifiée par «CVE-2023-24880 » est activement exploitée. Microsoft...|15 mars 2023|
- |[40821503/23 - Vulnérabilités critiques dans Microsoft Office (Patch Tuesday Mars 2023)](https://www.dgssi.gov.ma//fr/content/4082150323-vulnerabilites-critiques-dans-microsoft-office-patch-tuesday-mars-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les versions susmentionnées des produits Microsoft Office. Selon Microsoft, une de ces vulnérabilités identifiée par «CVE-2023-23397» affectant Microsoft...|15 mars 2023|
- |[40821503/23 - Vulnérabilités affectantle navigateur Mozilla Firefox](https://www.dgssi.gov.ma//fr/content/4082150323-vulnerabilites-affectant-le-navigateur-mozilla-firefox.html)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de cesvulnérabilités peut permettre à un...|15 mars 2023|
- |[40811503/23 - Vulnérabilités affectant plusieurs produits d’Adobe](https://www.dgssi.gov.ma//fr/content/4081150323-vulnerabilites-affectant-plusieurs-produits-d-adobe.html)|Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuterdu code arbitraire, d’...|15 mars 2023|
- |[40801403/23 - Vulnérabilités dans les produits IBM](https://www.dgssi.gov.ma//fr/content/4080140323-vulnerabilites-dans-les-produits-ibm.html)|Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. L’exploitation de ces failles pourrait permettre à un attaquant de porter atteinte à la confidentialité des données, de contourner la politique de sécurité, de...|14 mars 2023|
- |[40791403/23 - Vulnérabilités affectant Jenkins Server and Update Center](https://www.dgssi.gov.ma//fr/content/4079140323-vulnerabilites-affectant-jenkins-server-and-update-center.html)|Jenkins annonce la correction de plusieurs vulnérabilités affectant ses produits susmentionnés.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’injecter du code dans une page, d’accéder à des...|14 mars 2023|
- |[40770903/23 - Exploitation d’une faille affectant « Zoho ManageEngine ADSelfService »](https://www.dgssi.gov.ma//fr/content/4077090323-exploitation-d-une-faille-affectant-zoho-manageengine-adselfservice.html)|Une exploitation massive a été observée exploitant la vulnérabilité critique « CVE-2022-28810 », affectant « Zoho ManageEngine ADSelfService ».Un code d’exploitation est publiquement disponible permet à un attaquant d’exécuter du code à...|09 mars 2023|
- 
-
 # VulDB
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
 
 # EU-CERT
@@ -140,6 +93,23 @@
  |[2023-010: Severe Vulnerabilities in Citrix Workspace, Virtual Apps and Desktops](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-010.pdf)|On February 14, 2023, Citrix released Security Bulletins regarding severe vulnerabilities affecting its Citrix Workspace, Virtual Apps and Desktops. If exploited, these vulnerabilities could enable attackers to elevate their privileges and take control of the affected system, but they need local access to the target.|Thursday, February 16, 2023 11:00:00 AM CET|
  
 
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[40831503/23 - Vulnérabilités affectant plusieursproduits SAP](https://www.dgssi.gov.ma//fr/content/4083150323-vulnerabilites-affectant-plusieurs-produits-sap.html)|SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuterdu code arbitraire,...|15 mars 2023|
+ |[40861503/23 - Vulnérabilités critiques dans plusieurs produits Microsoft(Patch Tuesday Mars 2023)](https://www.dgssi.gov.ma//fr/content/4086150323-vulnerabilites-critiques-dans-plusieurs-produits-microsoft-patch-tuesday-mars-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, d’exécuter du...|15 mars 2023|
+ |[40851503/23 - Vulnérabilités dans Microsoft Edge](https://www.dgssi.gov.ma//fr/content/4085150323-vulnerabilites-dans-microsoft-edge.html)|Microsoft annonce la correction de plusieurs vulnérabilités dans Microsoft Edge. L’exploitation de ces failles peut permettre à un attaquant de réussir une usurpation d’identité.|15 mars 2023|
+ |[40841503/23 - Vulnérabilités dans les produits Microsoft Azure (Patch Tuesday Mars 2023)](https://www.dgssi.gov.ma//fr/content/4084150323-vulnerabilites-dans-les-produits-microsoft-azure-patch-tuesday-mars-2023.html)|Deux vulnérabilités ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de réussir une usurpation d’identité.|15 mars 2023|
+ |[40831503/23 - Vulnérabilités critiques dans Microsoft Windows (Patch Tuesday Mars 2023)](https://www.dgssi.gov.ma//fr/content/4083150323-vulnerabilites-critiques-dans-microsoft-windows-patch-tuesday-mars-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques dans lessystèmes d’exploitation Windows susmentionnés. Selon Microsoft une de ces vulnérabilités identifiée par «CVE-2023-24880 » est activement exploitée. Microsoft...|15 mars 2023|
+ |[40821503/23 - Vulnérabilités critiques dans Microsoft Office (Patch Tuesday Mars 2023)](https://www.dgssi.gov.ma//fr/content/4082150323-vulnerabilites-critiques-dans-microsoft-office-patch-tuesday-mars-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les versions susmentionnées des produits Microsoft Office. Selon Microsoft, une de ces vulnérabilités identifiée par «CVE-2023-23397» affectant Microsoft...|15 mars 2023|
+ |[40821503/23 - Vulnérabilités affectantle navigateur Mozilla Firefox](https://www.dgssi.gov.ma//fr/content/4082150323-vulnerabilites-affectant-le-navigateur-mozilla-firefox.html)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de cesvulnérabilités peut permettre à un...|15 mars 2023|
+ |[40811503/23 - Vulnérabilités affectant plusieurs produits d’Adobe](https://www.dgssi.gov.ma//fr/content/4081150323-vulnerabilites-affectant-plusieurs-produits-d-adobe.html)|Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuterdu code arbitraire, d’...|15 mars 2023|
+ |[40801403/23 - Vulnérabilités dans les produits IBM](https://www.dgssi.gov.ma//fr/content/4080140323-vulnerabilites-dans-les-produits-ibm.html)|Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. L’exploitation de ces failles pourrait permettre à un attaquant de porter atteinte à la confidentialité des données, de contourner la politique de sécurité, de...|14 mars 2023|
+ |[40791403/23 - Vulnérabilités affectant Jenkins Server and Update Center](https://www.dgssi.gov.ma//fr/content/4079140323-vulnerabilites-affectant-jenkins-server-and-update-center.html)|Jenkins annonce la correction de plusieurs vulnérabilités affectant ses produits susmentionnés.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’injecter du code dans une page, d’accéder à des...|14 mars 2023|
+ |[40770903/23 - Exploitation d’une faille affectant « Zoho ManageEngine ADSelfService »](https://www.dgssi.gov.ma//fr/content/4077090323-exploitation-d-une-faille-affectant-zoho-manageengine-adselfservice.html)|Une exploitation massive a été observée exploitant la vulnérabilité critique « CVE-2022-28810 », affectant « Zoho ManageEngine ADSelfService ».Un code d’exploitation est publiquement disponible permet à un attaquant d’exécuter du code à...|09 mars 2023|
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -157,6 +127,22 @@
  |[<a href="https://vigilance.fr/vulnerability/containerd-privilege-escalation-via-Supplementary-Groups-40777" class="noirorange"><b>containerd</b>: privilege escalation via Supplementary Groups</a>](https://vigilance.fr/vulnerability/containerd-privilege-escalation-via-Supplementary-Groups-40777)|An attacker can bypass restrictions of containerd, via Supplementary Groups, in order to escalate his privileges...|Visit link for details|
  
 
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Adobe Monthly Security Update (March 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-march-2023)|[Updated on 2023-03-16]The risk level escalated to extremely high due to CVE-2023-26360 was exploited in attacks as a zero-day. Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpacts...| Release Date: 15 Mar 2023 |
+ |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-firefox-multiple-vulnerabilities_20230315)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-03-16] Updated System / Technologies...| Release Date: 15 Mar 2023 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230306)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-03-07] Updated System / Technologies affected, ...| Release Date: 6 Mar 2023 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230301)|Multiple vulnerabilities were identified in RedHat Linux Kernal. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and elevation of privilege on the targeted system. [Updated on 2023-03-15] Updated System / Technologies affected, Solutions, ...| Release Date: 1 Mar 2023 |
+ |[Microsoft Monthly Security Update (March 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-march-2023)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesBrowser Low RiskSpoofing Azure Low RiskSpoofing Windows High RiskElevation of PrivilegeRemote Code ExecutionInformation Disclosure...|Release Date: 15 Mar 2023|
+ |[Zoom Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/zoom-products-multiple-vulnerabilities_20230315)|Multiple vulnerabilities have been identified in Zoom products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 15 Mar 2023|
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230314)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution, information disclosure, spoofing, security restriction bypass on the targeted system.|Release Date: 14 Mar 2023|
+ |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20230309)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated...| Release Date: 9 Mar 2023 |
+ |[Apache HTTP Server Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apache-http-server-multiple-vulnerabilities_20230313)|Multiple vulnerabilities were identified in Apache HTTP Server. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, cross-site scripting and security restriction bypass on the targeted system....|Release Date: 13 Mar 2023|
+ |[ChromeOS Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/chromeos-remote-code-execution-vulnerability_20230310)|A vulnerability was identified in ChromeOS, a remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 10 Mar 2023|
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
@@ -172,4 +158,18 @@
  |[Microsoft security advisory – March 2023 monthly rollup (AV23-146)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-march-2023-monthly-rollup-av23-146)|Visit link for details|2023-03-15|
  |[[Control systems] Siemens security advisory (AV23-145)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av23-145)|Visit link for details|2023-03-14|
  |[[Control systems] Schneider Electric security advisory (AV23-144)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av23-144)|Visit link for details|2023-03-14|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
