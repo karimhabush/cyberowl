@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 17/03/2023 05:20:44 UTC
+ > Last Updated 17/03/2023 06:26:37 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -74,12 +74,6 @@
  |[40801403/23 - Vulnérabilités dans les produits IBM](https://www.dgssi.gov.ma//fr/content/4080140323-vulnerabilites-dans-les-produits-ibm.html)|Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. L’exploitation de ces failles pourrait permettre à un attaquant de porter atteinte à la confidentialité des données, de contourner la politique de sécurité, de...|14 mars 2023|
  
 
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -91,6 +85,29 @@
  |[OpenSIPS denial of service (CVE-2023-27597)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 15, 2023|
  |[OpenSIPS denial of service (CVE-2023-27598)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 15, 2023|
  |[OpenSIPS denial of service (CVE-2023-27599)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 15, 2023|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Veritas-NetBackup-Master-Server-file-write-via-Log-File-Path-40799" class="noirorange"><b>Veritas NetBackup Master Server</b>: file write via Log File Path</a>](https://vigilance.fr/vulnerability/Veritas-NetBackup-Master-Server-file-write-via-Log-File-Path-40799)|An attacker can bypass access restrictions of Veritas NetBackup Master Server, via Log File Path, in order to alter files...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/binutils-NULL-pointer-dereference-via-compare-symbols-40798" class="noirorange"><b>binutils</b>: NULL pointer dereference via compare_symbols()</a>](https://vigilance.fr/vulnerability/binutils-NULL-pointer-dereference-via-compare-symbols-40798)|An attacker can force a NULL pointer to be dereferenced on binutils, via compare_symbols(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/containerd-overload-via-OCI-Image-Importer-40797" class="noirorange"><b>containerd</b>: overload via OCI Image Importer</a>](https://vigilance.fr/vulnerability/containerd-overload-via-OCI-Image-Importer-40797)|An attacker can trigger an overload of containerd, via OCI Image Importer, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenBSD-out-of-bounds-memory-reading-via-Libc-Resolver-40796" class="noirorange"><b>OpenBSD</b>: out-of-bounds memory reading via Libc Resolver</a>](https://vigilance.fr/vulnerability/OpenBSD-out-of-bounds-memory-reading-via-Libc-Resolver-40796)|An attacker can force a read at an invalid memory address of OpenBSD, via Libc Resolver, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-memory-corruption-via-op-yank-40795" class="noirorange"><b>Vim</b>: memory corruption via op_yank()</a>](https://vigilance.fr/vulnerability/Vim-memory-corruption-via-op-yank-40795)|An attacker can trigger a memory corruption of Vim, via op_yank(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-do-put-Cursor-After-NUL-40794" class="noirorange"><b>Vim</b>: buffer overflow via do_put() Cursor After NUL</a>](https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-do-put-Cursor-After-NUL-40794)|An attacker can trigger a buffer overflow of Vim, via do_put() Cursor After NUL, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-denial-of-service-via-adjust-skipcol-40793" class="noirorange"><b>Vim</b>: denial of service via adjust_skipcol()</a>](https://vigilance.fr/vulnerability/Vim-denial-of-service-via-adjust-skipcol-40793)|An attacker can cause a fatal error of Vim, via adjust_skipcol(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Dnsmasq-security-improvement-via-Fragmented-EDNS-40792" class="noirorange"><b>Dnsmasq</b>: security improvement via Fragmented EDNS</a>](https://vigilance.fr/vulnerability/Dnsmasq-security-improvement-via-Fragmented-EDNS-40792)|The security of Dnsmasq was improved via Fragmented EDNS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSH-out-of-bounds-memory-reading-via-VerifyHostKeyDNS-40791" class="noirorange"><b>OpenSSH</b>: out-of-bounds memory reading via VerifyHostKeyDNS</a>](https://vigilance.fr/vulnerability/OpenSSH-out-of-bounds-memory-reading-via-VerifyHostKeyDNS-40791)|An attacker can force a read at an invalid memory address of OpenSSH, via VerifyHostKeyDNS, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSH-ingress-filtrering-bypass-via-Smartcard-Keys-Ssh-add-Without-Constraints-40790" class="noirorange"><b>OpenSSH</b>: ingress filtrering bypass via Smartcard Keys Ssh-add Without Constraints</a>](https://vigilance.fr/vulnerability/OpenSSH-ingress-filtrering-bypass-via-Smartcard-Keys-Ssh-add-Without-Constraints-40790)|An attacker can bypass filtering rules of OpenSSH, via Smartcard Keys Ssh-add Without Constraints, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenBSD-buffer-overflow-via-libskey-40789" class="noirorange"><b>OpenBSD</b>: buffer overflow via libskey</a>](https://vigilance.fr/vulnerability/OpenBSD-buffer-overflow-via-libskey-40789)|An attacker can trigger a buffer overflow of OpenBSD, via libskey, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
 
 # EU-CERT
@@ -126,37 +143,6 @@
  |[Apache HTTP Server Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apache-http-server-multiple-vulnerabilities_20230313)|Multiple vulnerabilities were identified in Apache HTTP Server. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, cross-site scripting and security restriction bypass on the targeted system....|Release Date: 13 Mar 2023|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Veritas-NetBackup-Master-Server-file-write-via-Log-File-Path-40799" class="noirorange"><b>Veritas NetBackup Master Server</b>: file write via Log File Path</a>](https://vigilance.fr/vulnerability/Veritas-NetBackup-Master-Server-file-write-via-Log-File-Path-40799)|An attacker can bypass access restrictions of Veritas NetBackup Master Server, via Log File Path, in order to alter files...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/binutils-NULL-pointer-dereference-via-compare-symbols-40798" class="noirorange"><b>binutils</b>: NULL pointer dereference via compare_symbols()</a>](https://vigilance.fr/vulnerability/binutils-NULL-pointer-dereference-via-compare-symbols-40798)|An attacker can force a NULL pointer to be dereferenced on binutils, via compare_symbols(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/containerd-overload-via-OCI-Image-Importer-40797" class="noirorange"><b>containerd</b>: overload via OCI Image Importer</a>](https://vigilance.fr/vulnerability/containerd-overload-via-OCI-Image-Importer-40797)|An attacker can trigger an overload of containerd, via OCI Image Importer, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenBSD-out-of-bounds-memory-reading-via-Libc-Resolver-40796" class="noirorange"><b>OpenBSD</b>: out-of-bounds memory reading via Libc Resolver</a>](https://vigilance.fr/vulnerability/OpenBSD-out-of-bounds-memory-reading-via-Libc-Resolver-40796)|An attacker can force a read at an invalid memory address of OpenBSD, via Libc Resolver, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-memory-corruption-via-op-yank-40795" class="noirorange"><b>Vim</b>: memory corruption via op_yank()</a>](https://vigilance.fr/vulnerability/Vim-memory-corruption-via-op-yank-40795)|An attacker can trigger a memory corruption of Vim, via op_yank(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-do-put-Cursor-After-NUL-40794" class="noirorange"><b>Vim</b>: buffer overflow via do_put() Cursor After NUL</a>](https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-do-put-Cursor-After-NUL-40794)|An attacker can trigger a buffer overflow of Vim, via do_put() Cursor After NUL, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-denial-of-service-via-adjust-skipcol-40793" class="noirorange"><b>Vim</b>: denial of service via adjust_skipcol()</a>](https://vigilance.fr/vulnerability/Vim-denial-of-service-via-adjust-skipcol-40793)|An attacker can cause a fatal error of Vim, via adjust_skipcol(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Dnsmasq-security-improvement-via-Fragmented-EDNS-40792" class="noirorange"><b>Dnsmasq</b>: security improvement via Fragmented EDNS</a>](https://vigilance.fr/vulnerability/Dnsmasq-security-improvement-via-Fragmented-EDNS-40792)|The security of Dnsmasq was improved via Fragmented EDNS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSSH-out-of-bounds-memory-reading-via-VerifyHostKeyDNS-40791" class="noirorange"><b>OpenSSH</b>: out-of-bounds memory reading via VerifyHostKeyDNS</a>](https://vigilance.fr/vulnerability/OpenSSH-out-of-bounds-memory-reading-via-VerifyHostKeyDNS-40791)|An attacker can force a read at an invalid memory address of OpenSSH, via VerifyHostKeyDNS, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSSH-ingress-filtrering-bypass-via-Smartcard-Keys-Ssh-add-Without-Constraints-40790" class="noirorange"><b>OpenSSH</b>: ingress filtrering bypass via Smartcard Keys Ssh-add Without Constraints</a>](https://vigilance.fr/vulnerability/OpenSSH-ingress-filtrering-bypass-via-Smartcard-Keys-Ssh-add-Without-Constraints-40790)|An attacker can bypass filtering rules of OpenSSH, via Smartcard Keys Ssh-add Without Constraints, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenBSD-buffer-overflow-via-libskey-40789" class="noirorange"><b>OpenBSD</b>: buffer overflow via libskey</a>](https://vigilance.fr/vulnerability/OpenBSD-buffer-overflow-via-libskey-40789)|An attacker can trigger a buffer overflow of OpenBSD, via libskey, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
@@ -172,4 +158,18 @@
  |[Mozilla security advisory (AV23-147)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av23-147)|Visit link for details|2023-03-15|
  |[Microsoft security advisory – March 2023 monthly rollup (AV23-146)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-march-2023-monthly-rollup-av23-146)|Visit link for details|2023-03-15|
  |[[Control systems] Siemens security advisory (AV23-145)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av23-145)|Visit link for details|2023-03-14|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
