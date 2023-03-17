@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 17/03/2023 08:25:18 UTC
+ > Last Updated 17/03/2023 09:21:06 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -41,6 +41,35 @@
  |[Microsoft Releases March 2023 Security Updates](https://www.cisa.gov/news-events/alerts/2023/03/14/microsoft-releases-march-2023-security-updates)|Visit link for details.|Mar 14, 2023|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0238/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 16 mars 2023|
+ |[Multiples vulnérabilités dans Drupal core](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0237/)|De multiples vulnérabilités ont été découvertes dans Drupal core. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 16 mars 2023|
+ |[Multiples vulnérabilités dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0236/)|De multiples vulnérabilités ont été découvertes dans Mozilla |Publié le 16 mars 2023|
+ |[Multiples vulnérabilités dans OpenSSH](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0235/)|De multiples vulnérabilités ont été corrigées dans |Publié le 16 mars 2023|
+ |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0234/)|De multiples vulnérabilités ont été corrigées dans |Publié le 15 mars 2023|
+ |[Multiples vulnérabilités dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0233/)|De multiples vulnérabilités ont été corrigées dans |Publié le 15 mars 2023|
+ |[Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0232/)|De multiples vulnérabilités ont été corrigées dans |Publié le 15 mars 2023|
+ |[Multiples vulnérabilités dans Microsoft Office](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0231/)|De multiples vulnérabilités ont été corrigées dans |Publié le 15 mars 2023|
+ |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0230/)|Une vulnérabilité a été corrigée dans |Publié le 15 mars 2023|
+ |[Multiples vulnérabilités dans les produits ownCloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0229/)|De multiples vulnérabilités ont été découvertes dans les produits ownCloud. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et une exécution de code arbitraire.|Publié le 15 mars 2023|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[APsystems command execution (CVE-2023-28343)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 16, 2023|
+ |[Squidex security bypass (CVE-2023-24278)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 16, 2023|
+ |[Dell BIOS (CVE-2023-24571)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 15, 2023|
+ |[OpenSIPS denial of service (CVE-2023-27596)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 15, 2023|
+ |[OpenSIPS denial of service (CVE-2023-27597)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 15, 2023|
+ |[OpenSIPS denial of service (CVE-2023-27598)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 15, 2023|
+ |[OpenSIPS denial of service (CVE-2023-27599)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 15, 2023|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -57,23 +86,11 @@
  |[Apache HTTP Server Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apache-http-server-multiple-vulnerabilities_20230313)|Multiple vulnerabilities were identified in Apache HTTP Server. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, sensitive information disclosure, cross-site scripting and security restriction bypass on the targeted system....|Release Date: 13 Mar 2023|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[APsystems command execution (CVE-2023-28343)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 16, 2023|
- |[Squidex security bypass (CVE-2023-24278)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 16, 2023|
- |[Dell BIOS (CVE-2023-24571)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 15, 2023|
- |[OpenSIPS denial of service (CVE-2023-27596)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 15, 2023|
- |[OpenSIPS denial of service (CVE-2023-27597)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 15, 2023|
- |[OpenSIPS denial of service (CVE-2023-27598)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 15, 2023|
- |[OpenSIPS denial of service (CVE-2023-27599)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 15, 2023|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[40891703/23 - Vulnérabilités affectant le CMS Drupal](https://www.dgssi.gov.ma//fr/content/4089170323-vulnerabilites-affectant-le-cms-drupal.html)|Drupal annonce la disponibilité de mises à jour de sécurité qui corrigent plusieurs vulnérabilités auniveaude son CMS. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’accéder à des données confidentielles ou de...|17 mars 2023|
  |[40881603/23 - Vulnérabilités dans Cisco Small Business](https://www.dgssi.gov.ma//fr/content/4088160323-vulnerabilites-dans-cisco-small-business.html)|Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de Cisco Small Business. L’exploitation de ces failles pourrait permettre à un attaquant distant d'exécuter du code arbitraire sur un appareil affecté ou de...|16 mars 2023|
  |[40871603/23 - Vulnérabilités dans Foxit PhantomPDF](https://www.dgssi.gov.ma//fr/content/4087160323-vulnerabilites-dans-foxit-phantompdf.html)|Foxit annonce la correction de plusieurs vulnérabilités affectant Foxit Reader et Foxit PhantomPDF. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance ou de porter atteinte à la...|16 mars 2023|
  |[40831503/23 - Vulnérabilités affectant plusieursproduits SAP](https://www.dgssi.gov.ma//fr/content/4083150323-vulnerabilites-affectant-plusieurs-produits-sap.html)|SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuterdu code arbitraire,...|15 mars 2023|
@@ -84,27 +101,12 @@
  |[40821503/23 - Vulnérabilités critiques dans Microsoft Office (Patch Tuesday Mars 2023)](https://www.dgssi.gov.ma//fr/content/4082150323-vulnerabilites-critiques-dans-microsoft-office-patch-tuesday-mars-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les versions susmentionnées des produits Microsoft Office. Selon Microsoft, une de ces vulnérabilités identifiée par «CVE-2023-23397» affectant Microsoft...|15 mars 2023|
  |[40821503/23 - Vulnérabilités affectantle navigateur Mozilla Firefox](https://www.dgssi.gov.ma//fr/content/4082150323-vulnerabilites-affectant-le-navigateur-mozilla-firefox.html)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de cesvulnérabilités peut permettre à un...|15 mars 2023|
  |[40811503/23 - Vulnérabilités affectant plusieurs produits d’Adobe](https://www.dgssi.gov.ma//fr/content/4081150323-vulnerabilites-affectant-plusieurs-produits-d-adobe.html)|Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuterdu code arbitraire, d’...|15 mars 2023|
- |[40801403/23 - Vulnérabilités dans les produits IBM](https://www.dgssi.gov.ma//fr/content/4080140323-vulnerabilites-dans-les-produits-ibm.html)|Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. L’exploitation de ces failles pourrait permettre à un attaquant de porter atteinte à la confidentialité des données, de contourner la politique de sécurité, de...|14 mars 2023|
  
 
 # VulDB
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
 
 # EU-CERT
@@ -124,37 +126,18 @@
  |[2023-010: Severe Vulnerabilities in Citrix Workspace, Virtual Apps and Desktops](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-010.pdf)|On February 14, 2023, Citrix released Security Bulletins regarding severe vulnerabilities affecting its Citrix Workspace, Virtual Apps and Desktops. If exploited, these vulnerabilities could enable attackers to elevate their privileges and take control of the affected system, but they need local access to the target.|Thursday, February 16, 2023 11:00:00 AM CET|
  
 
-# CERT-FR
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0238/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 16 mars 2023|
- |[Multiples vulnérabilités dans Drupal core](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0237/)|De multiples vulnérabilités ont été découvertes dans Drupal core. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 16 mars 2023|
- |[Multiples vulnérabilités dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0236/)|De multiples vulnérabilités ont été découvertes dans Mozilla |Publié le 16 mars 2023|
- |[Multiples vulnérabilités dans OpenSSH](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0235/)|De multiples vulnérabilités ont été corrigées dans |Publié le 16 mars 2023|
- |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0234/)|De multiples vulnérabilités ont été corrigées dans |Publié le 15 mars 2023|
- |[Multiples vulnérabilités dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0233/)|De multiples vulnérabilités ont été corrigées dans |Publié le 15 mars 2023|
- |[Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0232/)|De multiples vulnérabilités ont été corrigées dans |Publié le 15 mars 2023|
- |[Multiples vulnérabilités dans Microsoft Office](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0231/)|De multiples vulnérabilités ont été corrigées dans |Publié le 15 mars 2023|
- |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0230/)|Une vulnérabilité a été corrigée dans |Publié le 15 mars 2023|
- |[Multiples vulnérabilités dans les produits ownCloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0229/)|De multiples vulnérabilités ont été découvertes dans les produits ownCloud. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et une exécution de code arbitraire.|Publié le 15 mars 2023|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-cifs-put-tcp-session-40801" class="noirorange"><b>Linux kernel</b>: reuse after free via cifs_put_tcp_session()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-cifs-put-tcp-session-40801)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-nf-tables-updtable-40800" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via nf_tables_updtable()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-nf-tables-updtable-40800)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Veritas-NetBackup-Master-Server-file-write-via-Log-File-Path-40799" class="noirorange"><b>Veritas NetBackup Master Server</b>: file write via Log File Path</a>](https://vigilance.fr/vulnerability/Veritas-NetBackup-Master-Server-file-write-via-Log-File-Path-40799)|An attacker can bypass access restrictions of Veritas NetBackup Master Server, via Log File Path, in order to alter files...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/binutils-NULL-pointer-dereference-via-compare-symbols-40798" class="noirorange"><b>binutils</b>: NULL pointer dereference via compare_symbols()</a>](https://vigilance.fr/vulnerability/binutils-NULL-pointer-dereference-via-compare-symbols-40798)|An attacker can force a NULL pointer to be dereferenced on binutils, via compare_symbols(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/containerd-overload-via-OCI-Image-Importer-40797" class="noirorange"><b>containerd</b>: overload via OCI Image Importer</a>](https://vigilance.fr/vulnerability/containerd-overload-via-OCI-Image-Importer-40797)|An attacker can trigger an overload of containerd, via OCI Image Importer, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenBSD-out-of-bounds-memory-reading-via-Libc-Resolver-40796" class="noirorange"><b>OpenBSD</b>: out-of-bounds memory reading via Libc Resolver</a>](https://vigilance.fr/vulnerability/OpenBSD-out-of-bounds-memory-reading-via-Libc-Resolver-40796)|An attacker can force a read at an invalid memory address of OpenBSD, via Libc Resolver, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-memory-corruption-via-op-yank-40795" class="noirorange"><b>Vim</b>: memory corruption via op_yank()</a>](https://vigilance.fr/vulnerability/Vim-memory-corruption-via-op-yank-40795)|An attacker can trigger a memory corruption of Vim, via op_yank(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-do-put-Cursor-After-NUL-40794" class="noirorange"><b>Vim</b>: buffer overflow via do_put() Cursor After NUL</a>](https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-do-put-Cursor-After-NUL-40794)|An attacker can trigger a buffer overflow of Vim, via do_put() Cursor After NUL, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-denial-of-service-via-adjust-skipcol-40793" class="noirorange"><b>Vim</b>: denial of service via adjust_skipcol()</a>](https://vigilance.fr/vulnerability/Vim-denial-of-service-via-adjust-skipcol-40793)|An attacker can cause a fatal error of Vim, via adjust_skipcol(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Dnsmasq-security-improvement-via-Fragmented-EDNS-40792" class="noirorange"><b>Dnsmasq</b>: security improvement via Fragmented EDNS</a>](https://vigilance.fr/vulnerability/Dnsmasq-security-improvement-via-Fragmented-EDNS-40792)|The security of Dnsmasq was improved via Fragmented EDNS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSSH-out-of-bounds-memory-reading-via-VerifyHostKeyDNS-40791" class="noirorange"><b>OpenSSH</b>: out-of-bounds memory reading via VerifyHostKeyDNS</a>](https://vigilance.fr/vulnerability/OpenSSH-out-of-bounds-memory-reading-via-VerifyHostKeyDNS-40791)|An attacker can force a read at an invalid memory address of OpenSSH, via VerifyHostKeyDNS, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
 
 # CA-CCS
@@ -172,4 +155,21 @@
  |[Mozilla security advisory (AV23-147)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av23-147)|Visit link for details|2023-03-15|
  |[Microsoft security advisory – March 2023 monthly rollup (AV23-146)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-march-2023-monthly-rollup-av23-146)|Visit link for details|2023-03-15|
  |[[Control systems] Siemens security advisory (AV23-145)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av23-145)|Visit link for details|2023-03-14|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-overload-via-tipc-link-xmit-40804" class="noirorange"><b>Linux kernel</b>: overload via tipc_link_xmit()</a>](https://vigilance.fr/vulnerability/Linux-kernel-overload-via-tipc-link-xmit-40804)|An attacker can trigger an overload of the Linux kernel, via tipc_link_xmit(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Sudo-ingress-filtrering-bypass-via-Sudoreplay-Output-Control-Characters-40803" class="noirorange"><b>Sudo</b>: ingress filtrering bypass via Sudoreplay Output Control Characters</a>](https://vigilance.fr/vulnerability/Sudo-ingress-filtrering-bypass-via-Sudoreplay-Output-Control-Characters-40803)|An attacker can bypass filtering rules of Sudo, via Sudoreplay Output Control Characters, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Sudo-ingress-filtrering-bypass-via-Log-Messages-Control-Characters-40802" class="noirorange"><b>Sudo</b>: ingress filtrering bypass via Log Messages Control Characters</a>](https://vigilance.fr/vulnerability/Sudo-ingress-filtrering-bypass-via-Log-Messages-Control-Characters-40802)|An attacker can bypass filtering rules of Sudo, via Log Messages Control Characters, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-cifs-put-tcp-session-40801" class="noirorange"><b>Linux kernel</b>: reuse after free via cifs_put_tcp_session()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-cifs-put-tcp-session-40801)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-nf-tables-updtable-40800" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via nf_tables_updtable()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-nf-tables-updtable-40800)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Veritas-NetBackup-Master-Server-file-write-via-Log-File-Path-40799" class="noirorange"><b>Veritas NetBackup Master Server</b>: file write via Log File Path</a>](https://vigilance.fr/vulnerability/Veritas-NetBackup-Master-Server-file-write-via-Log-File-Path-40799)|An attacker can bypass access restrictions of Veritas NetBackup Master Server, via Log File Path, in order to alter files...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/binutils-NULL-pointer-dereference-via-compare-symbols-40798" class="noirorange"><b>binutils</b>: NULL pointer dereference via compare_symbols()</a>](https://vigilance.fr/vulnerability/binutils-NULL-pointer-dereference-via-compare-symbols-40798)|An attacker can force a NULL pointer to be dereferenced on binutils, via compare_symbols(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/containerd-overload-via-OCI-Image-Importer-40797" class="noirorange"><b>containerd</b>: overload via OCI Image Importer</a>](https://vigilance.fr/vulnerability/containerd-overload-via-OCI-Image-Importer-40797)|An attacker can trigger an overload of containerd, via OCI Image Importer, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenBSD-out-of-bounds-memory-reading-via-Libc-Resolver-40796" class="noirorange"><b>OpenBSD</b>: out-of-bounds memory reading via Libc Resolver</a>](https://vigilance.fr/vulnerability/OpenBSD-out-of-bounds-memory-reading-via-Libc-Resolver-40796)|An attacker can force a read at an invalid memory address of OpenBSD, via Libc Resolver, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-memory-corruption-via-op-yank-40795" class="noirorange"><b>Vim</b>: memory corruption via op_yank()</a>](https://vigilance.fr/vulnerability/Vim-memory-corruption-via-op-yank-40795)|An attacker can trigger a memory corruption of Vim, via op_yank(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-do-put-Cursor-After-NUL-40794" class="noirorange"><b>Vim</b>: buffer overflow via do_put() Cursor After NUL</a>](https://vigilance.fr/vulnerability/Vim-buffer-overflow-via-do-put-Cursor-After-NUL-40794)|An attacker can trigger a buffer overflow of Vim, via do_put() Cursor After NUL, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
