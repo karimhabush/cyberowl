@@ -4,11 +4,11 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[John West Slideshow SE Plugin for WordPress cross-site scripting (CVE-2022-41554)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 16, 2023|
+ |[Yet Another Stars Rating Plugin for WordPress cross-site scripting (CVE-2022-40699)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 16, 2023|
+ |[BuddyForms Plugin for WordPress cross-site scripting (CVE-2022-38971)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 16, 2023|
+ |[Social Login WP Plugin for WordPress cross-site request forgery (CVE-2022-38063)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 16, 2023|
  |[Honeywell OneWireless Wireless Device Manager information disclosure (CVE-2022-4240)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 16, 2023|
  |[Honeywell OneWireless Wireless Device Manager information disclosure (CVE-2022-43485)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 16, 2023|
  |[Honeywell OneWireless Wireless Device Manager command execution (CVE-2022-46361)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 16, 2023|
- |[Rockwell Automation Modbus TCP AOI Server information disclosure (CVE-2023-0027)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 16, 2023|
- |[APsystems command execution (CVE-2023-28343)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 16, 2023|
- |[Squidex security bypass (CVE-2023-24278)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 16, 2023|
- |[Dell BIOS (CVE-2023-24571)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 15, 2023|
  
