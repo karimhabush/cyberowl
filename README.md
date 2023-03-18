@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 18/03/2023 10:21:05 UTC
+ > Last Updated 18/03/2023 11:18:27 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -74,19 +74,6 @@
  |[40821503/23 - Vulnérabilités affectantle navigateur Mozilla Firefox](https://www.dgssi.gov.ma//fr/content/4082150323-vulnerabilites-affectant-le-navigateur-mozilla-firefox.html)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de cesvulnérabilités peut permettre à un...|15 mars 2023|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Medicine Tracker System cross-site scripting (CVE-2023-1447)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 17, 2023|
- |[Watchdog Anti-Virus denial of service (CVE-2023-1446)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 17, 2023|
- |[Watchdog Anti-Virus security bypass (CVE-2023-1453)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 17, 2023|
- |[Contec CONPROSYS IoT Gateway products command execution (CVE-2023-27917)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 17, 2023|
- |[Contec CONPROSYS IoT Gateway products code execution (CVE-2023-27389)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 17, 2023|
- |[Contec CONPROSYS IoT Gateway products information disclosure (CVE-2023-23575)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 17, 2023|
- |[Samsung mobile devices information disclosure (CVE-2023-21455)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 17, 2023|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -107,6 +94,19 @@
 
  |Title|Description|Date|
  |---|---|---|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Medicine Tracker System cross-site scripting (CVE-2023-1447)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 17, 2023|
+ |[Watchdog Anti-Virus denial of service (CVE-2023-1446)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 17, 2023|
+ |[Watchdog Anti-Virus security bypass (CVE-2023-1453)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 17, 2023|
+ |[Contec CONPROSYS IoT Gateway products command execution (CVE-2023-27917)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 17, 2023|
+ |[Contec CONPROSYS IoT Gateway products code execution (CVE-2023-27389)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 17, 2023|
+ |[Contec CONPROSYS IoT Gateway products information disclosure (CVE-2023-23575)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 17, 2023|
+ |[Samsung mobile devices information disclosure (CVE-2023-21455)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 17, 2023|
  
 
 # ZERODAYINITIATIVE
