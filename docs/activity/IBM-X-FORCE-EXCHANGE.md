@@ -10,4 +10,5 @@
  |[Contec CONPROSYS IoT Gateway products command execution (CVE-2023-27917)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 17, 2023|
  |[Contec CONPROSYS IoT Gateway products code execution (CVE-2023-27389)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 17, 2023|
  |[Contec CONPROSYS IoT Gateway products information disclosure (CVE-2023-23575)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 17, 2023|
+ |[Samsung mobile devices information disclosure (CVE-2023-21455)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 17, 2023|
  
