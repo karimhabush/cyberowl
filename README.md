@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 19/03/2023 10:20:40 UTC
+ > Last Updated 19/03/2023 11:16:26 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,6 +57,29 @@
  |[Multiples vulnérabilités dans OpenSSH](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0235/)|De multiples vulnérabilités ont été corrigées dans |Publié le 16 mars 2023|
  
 
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[40901703/23 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/4090170323-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant son client de messagerie Mozilla Thunderbird. L’exploitation de ces vulnérabilités peut permettre à un...|17 mars 2023|
+ |[40891703/23 - Vulnérabilités affectant le CMS Drupal](https://www.dgssi.gov.ma//fr/content/4089170323-vulnerabilites-affectant-le-cms-drupal.html)|Drupal annonce la disponibilité de mises à jour de sécurité qui corrigent plusieurs vulnérabilités auniveaude son CMS. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’accéder à des données confidentielles ou de...|17 mars 2023|
+ |[40881603/23 - Vulnérabilités dans Cisco Small Business](https://www.dgssi.gov.ma//fr/content/4088160323-vulnerabilites-dans-cisco-small-business.html)|Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de Cisco Small Business. L’exploitation de ces failles pourrait permettre à un attaquant distant d'exécuter du code arbitraire sur un appareil affecté ou de...|16 mars 2023|
+ |[40871603/23 - Vulnérabilités dans Foxit PhantomPDF](https://www.dgssi.gov.ma//fr/content/4087160323-vulnerabilites-dans-foxit-phantompdf.html)|Foxit annonce la correction de plusieurs vulnérabilités affectant Foxit Reader et Foxit PhantomPDF. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance ou de porter atteinte à la...|16 mars 2023|
+ |[40831503/23 - Vulnérabilités affectant plusieursproduits SAP](https://www.dgssi.gov.ma//fr/content/4083150323-vulnerabilites-affectant-plusieurs-produits-sap.html)|SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuterdu code arbitraire,...|15 mars 2023|
+ |[40861503/23 - Vulnérabilités critiques dans plusieurs produits Microsoft(Patch Tuesday Mars 2023)](https://www.dgssi.gov.ma//fr/content/4086150323-vulnerabilites-critiques-dans-plusieurs-produits-microsoft-patch-tuesday-mars-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, d’exécuter du...|15 mars 2023|
+ |[40851503/23 - Vulnérabilités dans Microsoft Edge](https://www.dgssi.gov.ma//fr/content/4085150323-vulnerabilites-dans-microsoft-edge.html)|Microsoft annonce la correction de plusieurs vulnérabilités dans Microsoft Edge. L’exploitation de ces failles peut permettre à un attaquant de réussir une usurpation d’identité.|15 mars 2023|
+ |[40841503/23 - Vulnérabilités dans les produits Microsoft Azure (Patch Tuesday Mars 2023)](https://www.dgssi.gov.ma//fr/content/4084150323-vulnerabilites-dans-les-produits-microsoft-azure-patch-tuesday-mars-2023.html)|Deux vulnérabilités ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de réussir une usurpation d’identité.|15 mars 2023|
+ |[40831503/23 - Vulnérabilités critiques dans Microsoft Windows (Patch Tuesday Mars 2023)](https://www.dgssi.gov.ma//fr/content/4083150323-vulnerabilites-critiques-dans-microsoft-windows-patch-tuesday-mars-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques dans lessystèmes d’exploitation Windows susmentionnés. Selon Microsoft une de ces vulnérabilités identifiée par «CVE-2023-24880 » est activement exploitée. Microsoft...|15 mars 2023|
+ |[40821503/23 - Vulnérabilités critiques dans Microsoft Office (Patch Tuesday Mars 2023)](https://www.dgssi.gov.ma//fr/content/4082150323-vulnerabilites-critiques-dans-microsoft-office-patch-tuesday-mars-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les versions susmentionnées des produits Microsoft Office. Selon Microsoft, une de ces vulnérabilités identifiée par «CVE-2023-23397» affectant Microsoft...|15 mars 2023|
+ |[40821503/23 - Vulnérabilités affectantle navigateur Mozilla Firefox](https://www.dgssi.gov.ma//fr/content/4082150323-vulnerabilites-affectant-le-navigateur-mozilla-firefox.html)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de cesvulnérabilités peut permettre à un...|15 mars 2023|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -68,12 +91,6 @@
  |[Contec CONPROSYS IoT Gateway products code execution (CVE-2023-27389)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 17, 2023|
  |[Contec CONPROSYS IoT Gateway products information disclosure (CVE-2023-23575)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 17, 2023|
  |[Samsung mobile devices information disclosure (CVE-2023-21455)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 17, 2023|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # OBS-Vigilance
@@ -108,23 +125,6 @@
  |[2023-012: RCE vulnerabilities in Fortinet products](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-012.pdf)|On February 16, 2023, Fortinet released advisories regarding critical vulnerabilities in FortiNAC and FortiWeb products that may allow unauthenticated attackers to perform remote arbitrary code or command execution.|Monday, February 20, 2023 03:40:00 PM CET|
  |[2023-011: ClamAV critical vulnerability](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-011.pdf)|On February 15th, 2023, ClamAV informed about a critical vulnerability in the cross-platform antimalware toolkit. The vulnerability is identified as CVE-2023-20032 and could lead to remote code execution.|Monday, February 20, 2023 03:40:00 PM CET|
  |[2023-010: Severe Vulnerabilities in Citrix Workspace, Virtual Apps and Desktops](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-010.pdf)|On February 14, 2023, Citrix released Security Bulletins regarding severe vulnerabilities affecting its Citrix Workspace, Virtual Apps and Desktops. If exploited, these vulnerabilities could enable attackers to elevate their privileges and take control of the affected system, but they need local access to the target.|Thursday, February 16, 2023 11:00:00 AM CET|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[40901703/23 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/4090170323-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant son client de messagerie Mozilla Thunderbird. L’exploitation de ces vulnérabilités peut permettre à un...|17 mars 2023|
- |[40891703/23 - Vulnérabilités affectant le CMS Drupal](https://www.dgssi.gov.ma//fr/content/4089170323-vulnerabilites-affectant-le-cms-drupal.html)|Drupal annonce la disponibilité de mises à jour de sécurité qui corrigent plusieurs vulnérabilités auniveaude son CMS. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’accéder à des données confidentielles ou de...|17 mars 2023|
- |[40881603/23 - Vulnérabilités dans Cisco Small Business](https://www.dgssi.gov.ma//fr/content/4088160323-vulnerabilites-dans-cisco-small-business.html)|Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de Cisco Small Business. L’exploitation de ces failles pourrait permettre à un attaquant distant d'exécuter du code arbitraire sur un appareil affecté ou de...|16 mars 2023|
- |[40871603/23 - Vulnérabilités dans Foxit PhantomPDF](https://www.dgssi.gov.ma//fr/content/4087160323-vulnerabilites-dans-foxit-phantompdf.html)|Foxit annonce la correction de plusieurs vulnérabilités affectant Foxit Reader et Foxit PhantomPDF. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance ou de porter atteinte à la...|16 mars 2023|
- |[40831503/23 - Vulnérabilités affectant plusieursproduits SAP](https://www.dgssi.gov.ma//fr/content/4083150323-vulnerabilites-affectant-plusieurs-produits-sap.html)|SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuterdu code arbitraire,...|15 mars 2023|
- |[40861503/23 - Vulnérabilités critiques dans plusieurs produits Microsoft(Patch Tuesday Mars 2023)](https://www.dgssi.gov.ma//fr/content/4086150323-vulnerabilites-critiques-dans-plusieurs-produits-microsoft-patch-tuesday-mars-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, d’exécuter du...|15 mars 2023|
- |[40851503/23 - Vulnérabilités dans Microsoft Edge](https://www.dgssi.gov.ma//fr/content/4085150323-vulnerabilites-dans-microsoft-edge.html)|Microsoft annonce la correction de plusieurs vulnérabilités dans Microsoft Edge. L’exploitation de ces failles peut permettre à un attaquant de réussir une usurpation d’identité.|15 mars 2023|
- |[40841503/23 - Vulnérabilités dans les produits Microsoft Azure (Patch Tuesday Mars 2023)](https://www.dgssi.gov.ma//fr/content/4084150323-vulnerabilites-dans-les-produits-microsoft-azure-patch-tuesday-mars-2023.html)|Deux vulnérabilités ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de réussir une usurpation d’identité.|15 mars 2023|
- |[40831503/23 - Vulnérabilités critiques dans Microsoft Windows (Patch Tuesday Mars 2023)](https://www.dgssi.gov.ma//fr/content/4083150323-vulnerabilites-critiques-dans-microsoft-windows-patch-tuesday-mars-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques dans lessystèmes d’exploitation Windows susmentionnés. Selon Microsoft une de ces vulnérabilités identifiée par «CVE-2023-24880 » est activement exploitée. Microsoft...|15 mars 2023|
- |[40821503/23 - Vulnérabilités critiques dans Microsoft Office (Patch Tuesday Mars 2023)](https://www.dgssi.gov.ma//fr/content/4082150323-vulnerabilites-critiques-dans-microsoft-office-patch-tuesday-mars-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les versions susmentionnées des produits Microsoft Office. Selon Microsoft, une de ces vulnérabilités identifiée par «CVE-2023-23397» affectant Microsoft...|15 mars 2023|
- |[40821503/23 - Vulnérabilités affectantle navigateur Mozilla Firefox](https://www.dgssi.gov.ma//fr/content/4082150323-vulnerabilites-affectant-le-navigateur-mozilla-firefox.html)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de cesvulnérabilités peut permettre à un...|15 mars 2023|
  
 
 # HK-CERT
