@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 19/03/2023 21:21:03 UTC
+ > Last Updated 19/03/2023 22:18:02 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -39,6 +39,22 @@
  |[Threat Actors Exploited Progress Telerik Vulnerability in U.S. Government IIS Server](https://www.cisa.gov/news-events/alerts/2023/03/15/threat-actors-exploited-progress-telerik-vulnerability-us-government-iis-server)|Visit link for details.|Mar 15, 2023|
  |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/03/14/adobe-releases-security-updates-multiple-products)|Visit link for details.|Mar 14, 2023|
  |[Mozilla Releases Security Updates for Firefox 111, Firefox ESR 102.9, and Thunderbird 102.9](https://www.cisa.gov/news-events/alerts/2023/03/14/mozilla-releases-security-updates-firefox-111-firefox-esr-1029-and-thunderbird-1029)|Visit link for details.|Mar 14, 2023|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0244/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 mars 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0243/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 mars 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0242/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 mars 2023|
+ |[Multiples vulnérabilités dans les produits Synology](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0241/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 17 mars 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0240/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 17 mars 2023|
+ |[Multiples vulnérabilités dans Tenable Sensor Proxy](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0239/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 mars 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0238/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 16 mars 2023|
+ |[Multiples vulnérabilités dans Drupal core](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0237/)|De multiples vulnérabilités ont été découvertes dans Drupal core. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 16 mars 2023|
+ |[Multiples vulnérabilités dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0236/)|De multiples vulnérabilités ont été découvertes dans Mozilla |Publié le 16 mars 2023|
+ |[Multiples vulnérabilités dans OpenSSH](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0235/)|De multiples vulnérabilités ont été corrigées dans |Publié le 16 mars 2023|
  
 
 # MA-CERT
@@ -92,22 +108,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Veritas-NetBackup-Master-Server-file-write-via-Log-File-Path-40799" class="noirorange"><b>Veritas NetBackup Master Server</b>: file write via Log File Path</a>](https://vigilance.fr/vulnerability/Veritas-NetBackup-Master-Server-file-write-via-Log-File-Path-40799)|An attacker can bypass access restrictions of Veritas NetBackup Master Server, via Log File Path, in order to alter files...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/binutils-NULL-pointer-dereference-via-compare-symbols-40798" class="noirorange"><b>binutils</b>: NULL pointer dereference via compare_symbols()</a>](https://vigilance.fr/vulnerability/binutils-NULL-pointer-dereference-via-compare-symbols-40798)|An attacker can force a NULL pointer to be dereferenced on binutils, via compare_symbols(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/containerd-overload-via-OCI-Image-Importer-40797" class="noirorange"><b>containerd</b>: overload via OCI Image Importer</a>](https://vigilance.fr/vulnerability/containerd-overload-via-OCI-Image-Importer-40797)|An attacker can trigger an overload of containerd, via OCI Image Importer, in order to trigger a denial of service...|Visit link for details|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0244/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 mars 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0243/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 mars 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0242/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 mars 2023|
- |[Multiples vulnérabilités dans les produits Synology](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0241/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 17 mars 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0240/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 17 mars 2023|
- |[Multiples vulnérabilités dans Tenable Sensor Proxy](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0239/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 mars 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0238/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 16 mars 2023|
- |[Multiples vulnérabilités dans Drupal core](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0237/)|De multiples vulnérabilités ont été découvertes dans Drupal core. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 16 mars 2023|
- |[Multiples vulnérabilités dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0236/)|De multiples vulnérabilités ont été découvertes dans Mozilla |Publié le 16 mars 2023|
- |[Multiples vulnérabilités dans OpenSSH](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0235/)|De multiples vulnérabilités ont été corrigées dans |Publié le 16 mars 2023|
  
 
 # EU-CERT
