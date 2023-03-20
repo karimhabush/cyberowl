@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 20/03/2023 22:21:54 UTC
+ > Last Updated 20/03/2023 23:21:39 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -58,22 +58,6 @@
  |[40821503/23 - Vulnérabilités affectantle navigateur Mozilla Firefox](https://www.dgssi.gov.ma//fr/content/4082150323-vulnerabilites-affectant-le-navigateur-mozilla-firefox.html)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de cesvulnérabilités peut permettre à un...|15 mars 2023|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0245/)|De multiples vulnérabilités ont été corrigées dans les produits |Publié le 20 mars 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0244/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 mars 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0243/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 mars 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0242/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 mars 2023|
- |[Multiples vulnérabilités dans les produits Synology](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0241/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 17 mars 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0240/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 17 mars 2023|
- |[Multiples vulnérabilités dans Tenable Sensor Proxy](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0239/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 mars 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0238/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 16 mars 2023|
- |[Multiples vulnérabilités dans Drupal core](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0237/)|De multiples vulnérabilités ont été découvertes dans Drupal core. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 16 mars 2023|
- |[Multiples vulnérabilités dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0236/)|De multiples vulnérabilités ont été découvertes dans Mozilla |Publié le 16 mars 2023|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -109,6 +93,20 @@
  |---|---|---|
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -126,18 +124,20 @@
  |[2023-010: Severe Vulnerabilities in Citrix Workspace, Virtual Apps and Desktops](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-010.pdf)|On February 14, 2023, Citrix released Security Bulletins regarding severe vulnerabilities affecting its Citrix Workspace, Virtual Apps and Desktops. If exploited, these vulnerabilities could enable attackers to elevate their privileges and take control of the affected system, but they need local access to the target.|Thursday, February 16, 2023 11:00:00 AM CET|
  
 
-# ZERODAYINITIATIVE
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0245/)|De multiples vulnérabilités ont été corrigées dans les produits |Publié le 20 mars 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0244/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 mars 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0243/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 mars 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0242/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 mars 2023|
+ |[Multiples vulnérabilités dans les produits Synology](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0241/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 17 mars 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0240/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 17 mars 2023|
+ |[Multiples vulnérabilités dans Tenable Sensor Proxy](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0239/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 mars 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0238/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 16 mars 2023|
+ |[Multiples vulnérabilités dans Drupal core](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0237/)|De multiples vulnérabilités ont été découvertes dans Drupal core. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 16 mars 2023|
+ |[Multiples vulnérabilités dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0236/)|De multiples vulnérabilités ont été découvertes dans Mozilla |Publié le 16 mars 2023|
  
 
 # OBS-Vigilance
