@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 21/03/2023 14:15:43 UTC
+ > Last Updated 21/03/2023 15:17:13 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA Releases Updated Cybersecurity Performance Goals](https://www.cisa.gov/news-events/alerts/2023/03/21/cisa-releases-updated-cybersecurity-performance-goals)|Visit link for details.|Mar 21, 2023|
  |[Drupal Releases Security Advisory to Address Vulnerability in Drupal Core](https://www.cisa.gov/news-events/alerts/2023/03/17/drupal-releases-security-advisory-address-vulnerability-drupal-core)|Visit link for details.|Mar 17, 2023|
  |[CISA Releases Eight Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/03/16/cisa-releases-eight-industrial-control-systems-advisories)|Visit link for details.|Mar 16, 2023|
  |[FBI, CISA, and MS-ISAC Release #StopRansomware: LockBit 3.0](https://www.cisa.gov/news-events/alerts/2023/03/16/fbi-cisa-and-ms-isac-release-stopransomware-lockbit-30)|Visit link for details.|Mar 16, 2023|
@@ -38,7 +39,6 @@
  |[Beware of Bank-Related Scams](https://www.cisa.gov/news-events/alerts/2023/03/15/beware-bank-related-scams)|Visit link for details.|Mar 15, 2023|
  |[Threat Actors Exploited Progress Telerik Vulnerability in U.S. Government IIS Server](https://www.cisa.gov/news-events/alerts/2023/03/15/threat-actors-exploited-progress-telerik-vulnerability-us-government-iis-server)|Visit link for details.|Mar 15, 2023|
  |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/03/14/adobe-releases-security-updates-multiple-products)|Visit link for details.|Mar 14, 2023|
- |[Mozilla Releases Security Updates for Firefox 111, Firefox ESR 102.9, and Thunderbird 102.9](https://www.cisa.gov/news-events/alerts/2023/03/14/mozilla-releases-security-updates-firefox-111-firefox-esr-1029-and-thunderbird-1029)|Visit link for details.|Mar 14, 2023|
  
 
 # CERT-FR
@@ -57,10 +57,17 @@
  |[Multiples vulnérabilités dans Tenable Sensor Proxy](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0239/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 mars 2023|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[40922103/23 - Vulnérabilités dans Zimbra Collaboration](https://www.dgssi.gov.ma//fr/content/4092210323-vulnerabilites-dans-zimbra-collaboration.html)|Plusieurs vulnérabilités ont été corrigées dans Zimbra Collaboration. L’exploitation de ces failles pourrait permettre à un attaquant de contourner la politique de sécurité et d’injecter du code indirect à distance.|21 mars 2023|
  |[40912103/23 - Vulnérabilités dans les produits IBM](https://www.dgssi.gov.ma//fr/content/4091210323-vulnerabilites-dans-les-produits-ibm.html)|Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. L’exploitation de ces failles pourrait permettre à un attaquant de porter atteinte à la confidentialité des données, de contourner la politique de sécurité, de...|21 mars 2023|
  |[40901703/23 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/4090170323-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant son client de messagerie Mozilla Thunderbird. L’exploitation de ces vulnérabilités peut permettre à un...|17 mars 2023|
  |[40891703/23 - Vulnérabilités affectant le CMS Drupal](https://www.dgssi.gov.ma//fr/content/4089170323-vulnerabilites-affectant-le-cms-drupal.html)|Drupal annonce la disponibilité de mises à jour de sécurité qui corrigent plusieurs vulnérabilités auniveaude son CMS. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’accéder à des données confidentielles ou de...|17 mars 2023|
@@ -71,43 +78,6 @@
  |[40851503/23 - Vulnérabilités dans Microsoft Edge](https://www.dgssi.gov.ma//fr/content/4085150323-vulnerabilites-dans-microsoft-edge.html)|Microsoft annonce la correction de plusieurs vulnérabilités dans Microsoft Edge. L’exploitation de ces failles peut permettre à un attaquant de réussir une usurpation d’identité.|15 mars 2023|
  |[40841503/23 - Vulnérabilités dans les produits Microsoft Azure (Patch Tuesday Mars 2023)](https://www.dgssi.gov.ma//fr/content/4084150323-vulnerabilites-dans-les-produits-microsoft-azure-patch-tuesday-mars-2023.html)|Deux vulnérabilités ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de réussir une usurpation d’identité.|15 mars 2023|
  |[40831503/23 - Vulnérabilités critiques dans Microsoft Windows (Patch Tuesday Mars 2023)](https://www.dgssi.gov.ma//fr/content/4083150323-vulnerabilites-critiques-dans-microsoft-windows-patch-tuesday-mars-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques dans lessystèmes d’exploitation Windows susmentionnés. Selon Microsoft une de ces vulnérabilités identifiée par «CVE-2023-24880 » est activement exploitée. Microsoft...|15 mars 2023|
- |[40821503/23 - Vulnérabilités critiques dans Microsoft Office (Patch Tuesday Mars 2023)](https://www.dgssi.gov.ma//fr/content/4082150323-vulnerabilites-critiques-dans-microsoft-office-patch-tuesday-mars-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les versions susmentionnées des produits Microsoft Office. Selon Microsoft, une de ces vulnérabilités identifiée par «CVE-2023-23397» affectant Microsoft...|15 mars 2023|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Online Exam Software: eExamhall Plugin for WordPress cross-site request forgery (CVE-2023-22681)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 20, 2023|
- |[Camera slideshow Plugin for WordPress cross-site scripting (CVE-2023-22682)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 20, 2023|
- |[Page Loading Effects Plugin for WordPress cross-site scripting (CVE-2023-23718)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 20, 2023|
- |[David Gwyer Admin Log Plugin for WordPress cross-site request forgery (CVE-2023-23721)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 20, 2023|
- |[Feed Changer Plugin for WordPress cross-site scripting (CVE-2023-25795)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 20, 2023|
- |[cURL libcurl security bypass (CVE-2023-27538)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 20, 2023|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 20, 2023|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Redis-assertion-error-via-MSETNX-Command-40828" class="noirorange"><b>Redis</b>: assertion error via MSETNX Command</a>](https://vigilance.fr/vulnerability/Redis-assertion-error-via-MSETNX-Command-40828)|An attacker can force an assertion error of Redis, via MSETNX Command, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Spring-Framework-overload-via-SpEL-expression-40827" class="noirorange"><b>Spring Framework</b>: overload via SpEL expression</a>](https://vigilance.fr/vulnerability/Spring-Framework-overload-via-SpEL-expression-40827)|An attacker can trigger an overload of Spring Framework, via SpEL expression, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Spring-Framework-ingress-filtrering-bypass-via-mvcRequestMatcher-Double-Wildcard-40826" class="noirorange"><b>Spring Framework</b>: ingress filtrering bypass via mvcRequestMatcher Double Wildcard</a>](https://vigilance.fr/vulnerability/Spring-Framework-ingress-filtrering-bypass-via-mvcRequestMatcher-Double-Wildcard-40826)|An attacker can bypass filtering rules of Spring Framework, via mvcRequestMatcher Double Wildcard, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-code-execution-via-ACL-Creation-40824" class="noirorange"><b>OTRS Help Desk</b>: code execution via ACL Creation</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-code-execution-via-ACL-Creation-40824)|An attacker can use a vulnerability of OTRS Help Desk, via ACL Creation, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-Cross-Site-Scripting-via-Ticket-Actions-40823" class="noirorange"><b>OTRS Help Desk</b>: Cross Site Scripting via Ticket Actions</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-Cross-Site-Scripting-via-Ticket-Actions-40823)|An attacker can trigger a Cross Site Scripting of OTRS Help Desk, via Ticket Actions, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-NTFS3-MFT-Flags-40822" class="noirorange"><b>Linux kernel</b>: reuse after free via NTFS3 MFT Flags</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-NTFS3-MFT-Flags-40822)|An attacker can force the reuse of a freed memory area of the Linux kernel, via NTFS3 MFT Flags, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-NTFS3-Attribute-Name-Offset-40821" class="noirorange"><b>Linux kernel</b>: denial of service via NTFS3 Attribute Name Offset</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-NTFS3-Attribute-Name-Offset-40821)|An attacker can cause a fatal error of the Linux kernel, via NTFS3 Attribute Name Offset, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-NTFS3-Resident-Attribute-Names-40820" class="noirorange"><b>Linux kernel</b>: buffer overflow via NTFS3 Resident Attribute Names</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-NTFS3-Resident-Attribute-Names-40820)|An attacker can trigger a buffer overflow of the Linux kernel, via NTFS3 Resident Attribute Names, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/pfSense-code-execution-via-RRD-Restore-Process-40819" class="noirorange"><b>pfSense</b>: code execution via RRD Restore Process</a>](https://vigilance.fr/vulnerability/pfSense-code-execution-via-RRD-Restore-Process-40819)|An attacker can use a vulnerability of pfSense, via RRD Restore Process, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HAProxy-out-of-bounds-memory-reading-via-HTTP-3-QPACK-Decoder-40818" class="noirorange"><b>HAProxy</b>: out-of-bounds memory reading via HTTP/3 QPACK Decoder</a>](https://vigilance.fr/vulnerability/HAProxy-out-of-bounds-memory-reading-via-HTTP-3-QPACK-Decoder-40818)|An attacker can force a read at an invalid memory address of HAProxy, via HTTP/3 QPACK Decoder, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libcurl-file-read-write-via-SSH-Connection-Reuse-40817" class="noirorange"><b>libcurl</b>: file read/write via SSH Connection Reuse</a>](https://vigilance.fr/vulnerability/libcurl-file-read-write-via-SSH-Connection-Reuse-40817)|An attacker can bypass access restrictions of libcurl, via SSH Connection Reuse, in order to read or alter files...|Visit link for details|
  
 
 # EU-CERT
@@ -143,6 +113,43 @@
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230314)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution, information disclosure, spoofing, security restriction bypass on the targeted system.|Release Date: 14 Mar 2023|
  
 
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Xen-read-write-access-via-32bit-SYSCALL-Path-Speculative-40831" class="noirorange"><b>Xen</b>: read-write access via 32bit SYSCALL Path Speculative</a>](https://vigilance.fr/vulnerability/Xen-read-write-access-via-32bit-SYSCALL-Path-Speculative-40831)|An attacker, in a guest system, can bypass access restrictions of Xen, via 32bit SYSCALL Path Speculative, in order to read or alter data on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xen-memory-corruption-via-X86-HVM-Pinned-Cache-Attributes-40830" class="noirorange"><b>Xen</b>: memory corruption via X86/HVM Pinned Cache Attributes</a>](https://vigilance.fr/vulnerability/Xen-memory-corruption-via-X86-HVM-Pinned-Cache-Attributes-40830)|An attacker, in a guest system, can trigger a memory corruption of Xen, via X86/HVM Pinned Cache Attributes, in order to trigger a denial of service, and possibly to run code on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xen-reuse-after-free-via-X86-Shadow-Plus-Log-dirty-Mode-40829" class="noirorange"><b>Xen</b>: reuse after free via X86 Shadow Plus Log-dirty Mode</a>](https://vigilance.fr/vulnerability/Xen-reuse-after-free-via-X86-Shadow-Plus-Log-dirty-Mode-40829)|An attacker, in a guest system, can force the reuse of a freed memory area of Xen, via X86 Shadow Plus Log-dirty Mode, in order to trigger a denial of service, and possibly to run code on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Redis-assertion-error-via-MSETNX-Command-40828" class="noirorange"><b>Redis</b>: assertion error via MSETNX Command</a>](https://vigilance.fr/vulnerability/Redis-assertion-error-via-MSETNX-Command-40828)|An attacker can force an assertion error of Redis, via MSETNX Command, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Spring-Framework-overload-via-SpEL-expression-40827" class="noirorange"><b>Spring Framework</b>: overload via SpEL expression</a>](https://vigilance.fr/vulnerability/Spring-Framework-overload-via-SpEL-expression-40827)|An attacker can trigger an overload of Spring Framework, via SpEL expression, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Spring-Framework-ingress-filtrering-bypass-via-mvcRequestMatcher-Double-Wildcard-40826" class="noirorange"><b>Spring Framework</b>: ingress filtrering bypass via mvcRequestMatcher Double Wildcard</a>](https://vigilance.fr/vulnerability/Spring-Framework-ingress-filtrering-bypass-via-mvcRequestMatcher-Double-Wildcard-40826)|An attacker can bypass filtering rules of Spring Framework, via mvcRequestMatcher Double Wildcard, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-code-execution-via-ACL-Creation-40824" class="noirorange"><b>OTRS Help Desk</b>: code execution via ACL Creation</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-code-execution-via-ACL-Creation-40824)|An attacker can use a vulnerability of OTRS Help Desk, via ACL Creation, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OTRS-Help-Desk-Cross-Site-Scripting-via-Ticket-Actions-40823" class="noirorange"><b>OTRS Help Desk</b>: Cross Site Scripting via Ticket Actions</a>](https://vigilance.fr/vulnerability/OTRS-Help-Desk-Cross-Site-Scripting-via-Ticket-Actions-40823)|An attacker can trigger a Cross Site Scripting of OTRS Help Desk, via Ticket Actions, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-NTFS3-MFT-Flags-40822" class="noirorange"><b>Linux kernel</b>: reuse after free via NTFS3 MFT Flags</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-NTFS3-MFT-Flags-40822)|An attacker can force the reuse of a freed memory area of the Linux kernel, via NTFS3 MFT Flags, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-NTFS3-Attribute-Name-Offset-40821" class="noirorange"><b>Linux kernel</b>: denial of service via NTFS3 Attribute Name Offset</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-NTFS3-Attribute-Name-Offset-40821)|An attacker can cause a fatal error of the Linux kernel, via NTFS3 Attribute Name Offset, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-NTFS3-Resident-Attribute-Names-40820" class="noirorange"><b>Linux kernel</b>: buffer overflow via NTFS3 Resident Attribute Names</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-NTFS3-Resident-Attribute-Names-40820)|An attacker can trigger a buffer overflow of the Linux kernel, via NTFS3 Resident Attribute Names, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
@@ -158,18 +165,4 @@
  |[[Control systems] AVEVA security advisory (AV23-151)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-aveva-security-advisory-av23-151)|Visit link for details|2023-03-15|
  |[[Control systems] GE Digital security advisory (AV23-150)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-ge-digital-security-advisory-av23-150)|Visit link for details|2023-03-15|
  |[[Control systems] Autodesk security advisory (AV23-149)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-autodesk-security-advisory-av23-149)|Visit link for details|2023-03-15|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
