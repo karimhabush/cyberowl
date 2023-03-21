@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 21/03/2023 17:17:26 UTC
+ > Last Updated 21/03/2023 18:24:57 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -78,12 +78,12 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Galaxy security bypass (CVE-2023-27578)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 20, 2023|
+ |[CairoSVG server-side request forgery (CVE-2023-27586)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 20, 2023|
  |[KingHistorian buffer overflow (CVE-2022-43663)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 20, 2023|
  |[KingHistorian information disclosure (CVE-2022-45124)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 20, 2023|
  |[No API Amazon Affiliate Plugin for WordPress cross-site scripting (CVE-2023-22680)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 20, 2023|
  |[Online Exam Software: eExamhall Plugin for WordPress cross-site request forgery (CVE-2023-22681)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 20, 2023|
- |[Camera slideshow Plugin for WordPress cross-site scripting (CVE-2023-22682)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 20, 2023|
- |[Page Loading Effects Plugin for WordPress cross-site scripting (CVE-2023-23718)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 20, 2023|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 20, 2023|
  
 
