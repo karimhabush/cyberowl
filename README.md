@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 22/03/2023 10:20:37 UTC
+ > Last Updated 22/03/2023 11:16:13 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,6 +45,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[40932103/23 - Vulnérabilités dans l'hyperviseur Xen](https://www.dgssi.gov.ma//fr/content/4093210323-vulnerabilites-dans-l-hyperviseur-xen.html)|Plusieurs vulnérabilités ont été corrigées dans les versions d’hyperviseur Xen susmentionnées. L'exploitation de ces failles peut permettre à un attaquant de causer un déni de service, de porter atteinte à la confidentialité de...|21 mars 2023|
  |[40922103/23 - Vulnérabilités dans Zimbra Collaboration](https://www.dgssi.gov.ma//fr/content/4092210323-vulnerabilites-dans-zimbra-collaboration.html)|Plusieurs vulnérabilités ont été corrigées dans Zimbra Collaboration. L’exploitation de ces failles pourrait permettre à un attaquant de contourner la politique de sécurité et d’injecter du code indirect à distance.|21 mars 2023|
  |[40912103/23 - Vulnérabilités dans les produits IBM](https://www.dgssi.gov.ma//fr/content/4091210323-vulnerabilites-dans-les-produits-ibm.html)|Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. L’exploitation de ces failles pourrait permettre à un attaquant de porter atteinte à la confidentialité des données, de contourner la politique de sécurité, de...|21 mars 2023|
  |[40901703/23 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/4090170323-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant son client de messagerie Mozilla Thunderbird. L’exploitation de ces vulnérabilités peut permettre à un...|17 mars 2023|
@@ -55,7 +56,12 @@
  |[40861503/23 - Vulnérabilités critiques dans plusieurs produits Microsoft(Patch Tuesday Mars 2023)](https://www.dgssi.gov.ma//fr/content/4086150323-vulnerabilites-critiques-dans-plusieurs-produits-microsoft-patch-tuesday-mars-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, d’exécuter du...|15 mars 2023|
  |[40851503/23 - Vulnérabilités dans Microsoft Edge](https://www.dgssi.gov.ma//fr/content/4085150323-vulnerabilites-dans-microsoft-edge.html)|Microsoft annonce la correction de plusieurs vulnérabilités dans Microsoft Edge. L’exploitation de ces failles peut permettre à un attaquant de réussir une usurpation d’identité.|15 mars 2023|
  |[40841503/23 - Vulnérabilités dans les produits Microsoft Azure (Patch Tuesday Mars 2023)](https://www.dgssi.gov.ma//fr/content/4084150323-vulnerabilites-dans-les-produits-microsoft-azure-patch-tuesday-mars-2023.html)|Deux vulnérabilités ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de réussir une usurpation d’identité.|15 mars 2023|
- |[40831503/23 - Vulnérabilités critiques dans Microsoft Windows (Patch Tuesday Mars 2023)](https://www.dgssi.gov.ma//fr/content/4083150323-vulnerabilites-critiques-dans-microsoft-windows-patch-tuesday-mars-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques dans lessystèmes d’exploitation Windows susmentionnés. Selon Microsoft une de ces vulnérabilités identifiée par «CVE-2023-24880 » est activement exploitée. Microsoft...|15 mars 2023|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -101,12 +107,6 @@
  |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
 
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -121,23 +121,6 @@
  |[Multiples vulnérabilités dans les produits Synology](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0241/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 17 mars 2023|
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0240/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 17 mars 2023|
  |[Multiples vulnérabilités dans Tenable Sensor Proxy](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0239/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 mars 2023|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/TeamPass-SQL-injection-via-API-getUserAuth-40838" class="noirorange"><b>TeamPass</b>: SQL injection via API getUserAuth()</a>](https://vigilance.fr/vulnerability/TeamPass-SQL-injection-via-API-getUserAuth-40838)|An attacker can use a SQL injection of TeamPass, via API getUserAuth(), in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-40837" class="noirorange"><b>Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-40837)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Aruba-CX-AOS-CX-privilege-escalation-via-Network-Analytics-Engine-40836" class="noirorange"><b>Aruba CX AOS-CX</b>: privilege escalation via Network Analytics Engine</a>](https://vigilance.fr/vulnerability/Aruba-CX-AOS-CX-privilege-escalation-via-Network-Analytics-Engine-40836)|An attacker can bypass restrictions of Aruba CX AOS-CX, via Network Analytics Engine, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-privilege-escalation-40835" class="noirorange"><b>IBM QRadar SIEM</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-privilege-escalation-40835)|An attacker can bypass restrictions of IBM QRadar SIEM, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebSphere-AS-Cross-Site-Scripting-via-Admin-Console-40834" class="noirorange"><b>WebSphere AS</b>: Cross Site Scripting via Admin Console</a>](https://vigilance.fr/vulnerability/WebSphere-AS-Cross-Site-Scripting-via-Admin-Console-40834)|An attacker can trigger a Cross Site Scripting of WebSphere AS, via Admin Console, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Veritas-NetBackup-IT-Analytics-Man-in-the-Middle-via-Collector-Executable-Files-40833" class="noirorange"><b>Veritas NetBackup IT Analytics</b>: Man-in-the-Middle via Collector Executable Files</a>](https://vigilance.fr/vulnerability/Veritas-NetBackup-IT-Analytics-Man-in-the-Middle-via-Collector-Executable-Files-40833)|An attacker can act as a Man-in-the-Middle on Veritas NetBackup IT Analytics, via Collector Executable Files, in order to read or write data in the session...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-40832" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-40832)|An attacker can use several vulnerabilities of Jenkins Plugins...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xen-read-write-access-via-32bit-SYSCALL-Path-Speculative-40831" class="noirorange"><b>Xen</b>: read-write access via 32bit SYSCALL Path Speculative</a>](https://vigilance.fr/vulnerability/Xen-read-write-access-via-32bit-SYSCALL-Path-Speculative-40831)|An attacker, in a guest system, can bypass access restrictions of Xen, via 32bit SYSCALL Path Speculative, in order to read or alter data on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xen-memory-corruption-via-X86-HVM-Pinned-Cache-Attributes-40830" class="noirorange"><b>Xen</b>: memory corruption via X86/HVM Pinned Cache Attributes</a>](https://vigilance.fr/vulnerability/Xen-memory-corruption-via-X86-HVM-Pinned-Cache-Attributes-40830)|An attacker, in a guest system, can trigger a memory corruption of Xen, via X86/HVM Pinned Cache Attributes, in order to trigger a denial of service, and possibly to run code on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xen-reuse-after-free-via-X86-Shadow-Plus-Log-dirty-Mode-40829" class="noirorange"><b>Xen</b>: reuse after free via X86 Shadow Plus Log-dirty Mode</a>](https://vigilance.fr/vulnerability/Xen-reuse-after-free-via-X86-Shadow-Plus-Log-dirty-Mode-40829)|An attacker, in a guest system, can force the reuse of a freed memory area of Xen, via X86 Shadow Plus Log-dirty Mode, in order to trigger a denial of service, and possibly to run code on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Redis-assertion-error-via-MSETNX-Command-40828" class="noirorange"><b>Redis</b>: assertion error via MSETNX Command</a>](https://vigilance.fr/vulnerability/Redis-assertion-error-via-MSETNX-Command-40828)|An attacker can force an assertion error of Redis, via MSETNX Command, in order to trigger a denial of service...|Visit link for details|
  
 
 # EU-CERT
@@ -155,6 +138,23 @@
  |[2023-012: RCE vulnerabilities in Fortinet products](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-012.pdf)|On February 16, 2023, Fortinet released advisories regarding critical vulnerabilities in FortiNAC and FortiWeb products that may allow unauthenticated attackers to perform remote arbitrary code or command execution.|Monday, February 20, 2023 03:40:00 PM CET|
  |[2023-011: ClamAV critical vulnerability](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-011.pdf)|On February 15th, 2023, ClamAV informed about a critical vulnerability in the cross-platform antimalware toolkit. The vulnerability is identified as CVE-2023-20032 and could lead to remote code execution.|Monday, February 20, 2023 03:40:00 PM CET|
  |[2023-010: Severe Vulnerabilities in Citrix Workspace, Virtual Apps and Desktops](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-010.pdf)|On February 14, 2023, Citrix released Security Bulletins regarding severe vulnerabilities affecting its Citrix Workspace, Virtual Apps and Desktops. If exploited, these vulnerabilities could enable attackers to elevate their privileges and take control of the affected system, but they need local access to the target.|Thursday, February 16, 2023 11:00:00 AM CET|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-file-files-note-40840" class="noirorange"><b>Linux kernel</b>: reuse after free via file_files_note()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-file-files-note-40840)|An attacker can force the reuse of a freed memory area of the Linux kernel, via file_files_note(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-ovl-aio-req-40839" class="noirorange"><b>Linux kernel</b>: reuse after free via ovl_aio_req</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-ovl-aio-req-40839)|An attacker can force the reuse of a freed memory area of the Linux kernel, via ovl_aio_req, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TeamPass-SQL-injection-via-API-getUserAuth-40838" class="noirorange"><b>TeamPass</b>: SQL injection via API getUserAuth()</a>](https://vigilance.fr/vulnerability/TeamPass-SQL-injection-via-API-getUserAuth-40838)|An attacker can use a SQL injection of TeamPass, via API getUserAuth(), in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-40837" class="noirorange"><b>Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-40837)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Aruba-CX-AOS-CX-privilege-escalation-via-Network-Analytics-Engine-40836" class="noirorange"><b>Aruba CX AOS-CX</b>: privilege escalation via Network Analytics Engine</a>](https://vigilance.fr/vulnerability/Aruba-CX-AOS-CX-privilege-escalation-via-Network-Analytics-Engine-40836)|An attacker can bypass restrictions of Aruba CX AOS-CX, via Network Analytics Engine, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-privilege-escalation-40835" class="noirorange"><b>IBM QRadar SIEM</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-privilege-escalation-40835)|An attacker can bypass restrictions of IBM QRadar SIEM, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebSphere-AS-Cross-Site-Scripting-via-Admin-Console-40834" class="noirorange"><b>WebSphere AS</b>: Cross Site Scripting via Admin Console</a>](https://vigilance.fr/vulnerability/WebSphere-AS-Cross-Site-Scripting-via-Admin-Console-40834)|An attacker can trigger a Cross Site Scripting of WebSphere AS, via Admin Console, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Veritas-NetBackup-IT-Analytics-Man-in-the-Middle-via-Collector-Executable-Files-40833" class="noirorange"><b>Veritas NetBackup IT Analytics</b>: Man-in-the-Middle via Collector Executable Files</a>](https://vigilance.fr/vulnerability/Veritas-NetBackup-IT-Analytics-Man-in-the-Middle-via-Collector-Executable-Files-40833)|An attacker can act as a Man-in-the-Middle on Veritas NetBackup IT Analytics, via Collector Executable Files, in order to read or write data in the session...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-40832" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-40832)|An attacker can use several vulnerabilities of Jenkins Plugins...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xen-read-write-access-via-32bit-SYSCALL-Path-Speculative-40831" class="noirorange"><b>Xen</b>: read-write access via 32bit SYSCALL Path Speculative</a>](https://vigilance.fr/vulnerability/Xen-read-write-access-via-32bit-SYSCALL-Path-Speculative-40831)|An attacker, in a guest system, can bypass access restrictions of Xen, via 32bit SYSCALL Path Speculative, in order to read or alter data on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xen-memory-corruption-via-X86-HVM-Pinned-Cache-Attributes-40830" class="noirorange"><b>Xen</b>: memory corruption via X86/HVM Pinned Cache Attributes</a>](https://vigilance.fr/vulnerability/Xen-memory-corruption-via-X86-HVM-Pinned-Cache-Attributes-40830)|An attacker, in a guest system, can trigger a memory corruption of Xen, via X86/HVM Pinned Cache Attributes, in order to trigger a denial of service, and possibly to run code on the host system...|Visit link for details|
  
 
 # CA-CCS
