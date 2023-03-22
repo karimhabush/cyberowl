@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 22/03/2023 04:25:17 UTC
+ > Last Updated 22/03/2023 05:19:50 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -41,6 +41,25 @@
  |[Beware of Bank-Related Scams](https://www.cisa.gov/news-events/alerts/2023/03/15/beware-bank-related-scams)|Visit link for details.|Mar 15, 2023|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Jenkins remote-jobs-view-plugin Plugin information disclosure (CVE-2023-28684)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 21, 2023|
+ |[Jenkins Phabricator Differential Plugin information disclosure (CVE-2023-28683)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 21, 2023|
+ |[Jenkins Performance Publisher Plugin information disclosure (CVE-2023-28682)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 21, 2023|
+ |[Jenkins Visual Studio Code Metrics Plugin information disclosure (CVE-2023-28681)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 21, 2023|
+ |[Jenkins Crap4J Plugin information disclosure (CVE-2023-28680)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 21, 2023|
+ |[Jenkins Mashup Portlets Plugin cross-site scripting (CVE-2023-28679)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 21, 2023|
+ |[Jenkins Cppcheck Plugin cross-site scripting (CVE-2023-28678)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 21, 2023|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
@@ -55,6 +74,23 @@
  |[Multiples vulnérabilités dans les produits Synology](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0241/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 17 mars 2023|
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0240/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 17 mars 2023|
  |[Multiples vulnérabilités dans Tenable Sensor Proxy](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0239/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 mars 2023|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-40837" class="noirorange"><b>Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-40837)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Aruba-CX-AOS-CX-privilege-escalation-via-Network-Analytics-Engine-40836" class="noirorange"><b>Aruba CX AOS-CX</b>: privilege escalation via Network Analytics Engine</a>](https://vigilance.fr/vulnerability/Aruba-CX-AOS-CX-privilege-escalation-via-Network-Analytics-Engine-40836)|An attacker can bypass restrictions of Aruba CX AOS-CX, via Network Analytics Engine, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-privilege-escalation-40835" class="noirorange"><b>IBM QRadar SIEM</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-privilege-escalation-40835)|An attacker can bypass restrictions of IBM QRadar SIEM, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebSphere-AS-Cross-Site-Scripting-via-Admin-Console-40834" class="noirorange"><b>WebSphere AS</b>: Cross Site Scripting via Admin Console</a>](https://vigilance.fr/vulnerability/WebSphere-AS-Cross-Site-Scripting-via-Admin-Console-40834)|An attacker can trigger a Cross Site Scripting of WebSphere AS, via Admin Console, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Veritas-NetBackup-IT-Analytics-Man-in-the-Middle-via-Collector-Executable-Files-40833" class="noirorange"><b>Veritas NetBackup IT Analytics</b>: Man-in-the-Middle via Collector Executable Files</a>](https://vigilance.fr/vulnerability/Veritas-NetBackup-IT-Analytics-Man-in-the-Middle-via-Collector-Executable-Files-40833)|An attacker can act as a Man-in-the-Middle on Veritas NetBackup IT Analytics, via Collector Executable Files, in order to read or write data in the session...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-40832" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-40832)|An attacker can use several vulnerabilities of Jenkins Plugins...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xen-read-write-access-via-32bit-SYSCALL-Path-Speculative-40831" class="noirorange"><b>Xen</b>: read-write access via 32bit SYSCALL Path Speculative</a>](https://vigilance.fr/vulnerability/Xen-read-write-access-via-32bit-SYSCALL-Path-Speculative-40831)|An attacker, in a guest system, can bypass access restrictions of Xen, via 32bit SYSCALL Path Speculative, in order to read or alter data on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xen-memory-corruption-via-X86-HVM-Pinned-Cache-Attributes-40830" class="noirorange"><b>Xen</b>: memory corruption via X86/HVM Pinned Cache Attributes</a>](https://vigilance.fr/vulnerability/Xen-memory-corruption-via-X86-HVM-Pinned-Cache-Attributes-40830)|An attacker, in a guest system, can trigger a memory corruption of Xen, via X86/HVM Pinned Cache Attributes, in order to trigger a denial of service, and possibly to run code on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xen-reuse-after-free-via-X86-Shadow-Plus-Log-dirty-Mode-40829" class="noirorange"><b>Xen</b>: reuse after free via X86 Shadow Plus Log-dirty Mode</a>](https://vigilance.fr/vulnerability/Xen-reuse-after-free-via-X86-Shadow-Plus-Log-dirty-Mode-40829)|An attacker, in a guest system, can force the reuse of a freed memory area of Xen, via X86 Shadow Plus Log-dirty Mode, in order to trigger a denial of service, and possibly to run code on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Redis-assertion-error-via-MSETNX-Command-40828" class="noirorange"><b>Redis</b>: assertion error via MSETNX Command</a>](https://vigilance.fr/vulnerability/Redis-assertion-error-via-MSETNX-Command-40828)|An attacker can force an assertion error of Redis, via MSETNX Command, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Spring-Framework-overload-via-SpEL-expression-40827" class="noirorange"><b>Spring Framework</b>: overload via SpEL expression</a>](https://vigilance.fr/vulnerability/Spring-Framework-overload-via-SpEL-expression-40827)|An attacker can trigger an overload of Spring Framework, via SpEL expression, in order to trigger a denial of service...|Visit link for details|
  
 
 # MA-CERT
@@ -72,42 +108,6 @@
  |[40851503/23 - Vulnérabilités dans Microsoft Edge](https://www.dgssi.gov.ma//fr/content/4085150323-vulnerabilites-dans-microsoft-edge.html)|Microsoft annonce la correction de plusieurs vulnérabilités dans Microsoft Edge. L’exploitation de ces failles peut permettre à un attaquant de réussir une usurpation d’identité.|15 mars 2023|
  |[40841503/23 - Vulnérabilités dans les produits Microsoft Azure (Patch Tuesday Mars 2023)](https://www.dgssi.gov.ma//fr/content/4084150323-vulnerabilites-dans-les-produits-microsoft-azure-patch-tuesday-mars-2023.html)|Deux vulnérabilités ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de réussir une usurpation d’identité.|15 mars 2023|
  |[40831503/23 - Vulnérabilités critiques dans Microsoft Windows (Patch Tuesday Mars 2023)](https://www.dgssi.gov.ma//fr/content/4083150323-vulnerabilites-critiques-dans-microsoft-windows-patch-tuesday-mars-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques dans lessystèmes d’exploitation Windows susmentionnés. Selon Microsoft une de ces vulnérabilités identifiée par «CVE-2023-24880 » est activement exploitée. Microsoft...|15 mars 2023|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Jenkins Mashup Portlets Plugin cross-site scripting (CVE-2023-28679)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 21, 2023|
- |[Jenkins Cppcheck Plugin cross-site scripting (CVE-2023-28678)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 21, 2023|
- |[Jenkins Convert To Pipeline Plugin code execution (CVE-2023-28677)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 21, 2023|
- |[Jenkins Convert To Pipeline Plugin cross-site request forgery (CVE-2023-28676)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 21, 2023|
- |[Jenkins OctoPerf Load Testing Plugin security bypass (CVE-2023-28675)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 21, 2023|
- |[Jenkins OctoPerf Load Testing Plugin cross-site request forgery (CVE-2023-28674)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 21, 2023|
- |[Jenkins OctoPerf Load Testing Plugin information disclosure (CVE-2023-28673)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 21, 2023|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Aruba-CX-AOS-CX-privilege-escalation-via-Network-Analytics-Engine-40836" class="noirorange"><b>Aruba CX AOS-CX</b>: privilege escalation via Network Analytics Engine</a>](https://vigilance.fr/vulnerability/Aruba-CX-AOS-CX-privilege-escalation-via-Network-Analytics-Engine-40836)|An attacker can bypass restrictions of Aruba CX AOS-CX, via Network Analytics Engine, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-privilege-escalation-40835" class="noirorange"><b>IBM QRadar SIEM</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-privilege-escalation-40835)|An attacker can bypass restrictions of IBM QRadar SIEM, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebSphere-AS-Cross-Site-Scripting-via-Admin-Console-40834" class="noirorange"><b>WebSphere AS</b>: Cross Site Scripting via Admin Console</a>](https://vigilance.fr/vulnerability/WebSphere-AS-Cross-Site-Scripting-via-Admin-Console-40834)|An attacker can trigger a Cross Site Scripting of WebSphere AS, via Admin Console, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Veritas-NetBackup-IT-Analytics-Man-in-the-Middle-via-Collector-Executable-Files-40833" class="noirorange"><b>Veritas NetBackup IT Analytics</b>: Man-in-the-Middle via Collector Executable Files</a>](https://vigilance.fr/vulnerability/Veritas-NetBackup-IT-Analytics-Man-in-the-Middle-via-Collector-Executable-Files-40833)|An attacker can act as a Man-in-the-Middle on Veritas NetBackup IT Analytics, via Collector Executable Files, in order to read or write data in the session...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-40832" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-40832)|An attacker can use several vulnerabilities of Jenkins Plugins...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xen-read-write-access-via-32bit-SYSCALL-Path-Speculative-40831" class="noirorange"><b>Xen</b>: read-write access via 32bit SYSCALL Path Speculative</a>](https://vigilance.fr/vulnerability/Xen-read-write-access-via-32bit-SYSCALL-Path-Speculative-40831)|An attacker, in a guest system, can bypass access restrictions of Xen, via 32bit SYSCALL Path Speculative, in order to read or alter data on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xen-memory-corruption-via-X86-HVM-Pinned-Cache-Attributes-40830" class="noirorange"><b>Xen</b>: memory corruption via X86/HVM Pinned Cache Attributes</a>](https://vigilance.fr/vulnerability/Xen-memory-corruption-via-X86-HVM-Pinned-Cache-Attributes-40830)|An attacker, in a guest system, can trigger a memory corruption of Xen, via X86/HVM Pinned Cache Attributes, in order to trigger a denial of service, and possibly to run code on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xen-reuse-after-free-via-X86-Shadow-Plus-Log-dirty-Mode-40829" class="noirorange"><b>Xen</b>: reuse after free via X86 Shadow Plus Log-dirty Mode</a>](https://vigilance.fr/vulnerability/Xen-reuse-after-free-via-X86-Shadow-Plus-Log-dirty-Mode-40829)|An attacker, in a guest system, can force the reuse of a freed memory area of Xen, via X86 Shadow Plus Log-dirty Mode, in order to trigger a denial of service, and possibly to run code on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Redis-assertion-error-via-MSETNX-Command-40828" class="noirorange"><b>Redis</b>: assertion error via MSETNX Command</a>](https://vigilance.fr/vulnerability/Redis-assertion-error-via-MSETNX-Command-40828)|An attacker can force an assertion error of Redis, via MSETNX Command, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Spring-Framework-overload-via-SpEL-expression-40827" class="noirorange"><b>Spring Framework</b>: overload via SpEL expression</a>](https://vigilance.fr/vulnerability/Spring-Framework-overload-via-SpEL-expression-40827)|An attacker can trigger an overload of Spring Framework, via SpEL expression, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Spring-Framework-ingress-filtrering-bypass-via-mvcRequestMatcher-Double-Wildcard-40826" class="noirorange"><b>Spring Framework</b>: ingress filtrering bypass via mvcRequestMatcher Double Wildcard</a>](https://vigilance.fr/vulnerability/Spring-Framework-ingress-filtrering-bypass-via-mvcRequestMatcher-Double-Wildcard-40826)|An attacker can bypass filtering rules of Spring Framework, via mvcRequestMatcher Double Wildcard, in order to send malicious data...|Visit link for details|
  
 
 # EU-CERT
@@ -143,6 +143,20 @@
  |[Zoom Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/zoom-products-multiple-vulnerabilities_20230315)|Multiple vulnerabilities have been identified in Zoom products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 15 Mar 2023|
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
@@ -158,18 +172,4 @@
  |[[Control systems] AVEVA security advisory (AV23-151)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-aveva-security-advisory-av23-151)|Visit link for details|2023-03-15|
  |[[Control systems] GE Digital security advisory (AV23-150)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-ge-digital-security-advisory-av23-150)|Visit link for details|2023-03-15|
  |[[Control systems] Autodesk security advisory (AV23-149)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-autodesk-security-advisory-av23-149)|Visit link for details|2023-03-15|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
