@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 22/03/2023 13:24:26 UTC
+ > Last Updated 22/03/2023 14:19:21 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -41,45 +41,6 @@
  |[Beware of Bank-Related Scams](https://www.cisa.gov/news-events/alerts/2023/03/15/beware-bank-related-scams)|Visit link for details.|Mar 15, 2023|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans les produits Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0248/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 mars 2023|
- |[Multiples vulnérabilités dans Zimbra](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0247/)|De multiples vulnérabilités ont été découvertes dans Zimbra. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un contournement de la politique de sécurité et une injection de code indirecte à distance (XSS).|Publié le 21 mars 2023|
- |[Multiples vulnérabilités dans les produits Moodle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0246/)|De multiples vulnérabilités ont été corrigées dans |Publié le 21 mars 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0245/)|De multiples vulnérabilités ont été corrigées dans les produits |Publié le 20 mars 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0244/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 mars 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0243/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 mars 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0242/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 mars 2023|
- |[Multiples vulnérabilités dans les produits Synology](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0241/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 17 mars 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0240/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 17 mars 2023|
- |[Multiples vulnérabilités dans Tenable Sensor Proxy](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0239/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 mars 2023|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-file-files-note-40840" class="noirorange"><b>Linux kernel</b>: reuse after free via file_files_note()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-file-files-note-40840)|An attacker can force the reuse of a freed memory area of the Linux kernel, via file_files_note(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-ovl-aio-req-40839" class="noirorange"><b>Linux kernel</b>: reuse after free via ovl_aio_req</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-ovl-aio-req-40839)|An attacker can force the reuse of a freed memory area of the Linux kernel, via ovl_aio_req, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TeamPass-SQL-injection-via-API-getUserAuth-40838" class="noirorange"><b>TeamPass</b>: SQL injection via API getUserAuth()</a>](https://vigilance.fr/vulnerability/TeamPass-SQL-injection-via-API-getUserAuth-40838)|An attacker can use a SQL injection of TeamPass, via API getUserAuth(), in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-40837" class="noirorange"><b>Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-40837)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Aruba-CX-AOS-CX-privilege-escalation-via-Network-Analytics-Engine-40836" class="noirorange"><b>Aruba CX AOS-CX</b>: privilege escalation via Network Analytics Engine</a>](https://vigilance.fr/vulnerability/Aruba-CX-AOS-CX-privilege-escalation-via-Network-Analytics-Engine-40836)|An attacker can bypass restrictions of Aruba CX AOS-CX, via Network Analytics Engine, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-privilege-escalation-40835" class="noirorange"><b>IBM QRadar SIEM</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-privilege-escalation-40835)|An attacker can bypass restrictions of IBM QRadar SIEM, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebSphere-AS-Cross-Site-Scripting-via-Admin-Console-40834" class="noirorange"><b>WebSphere AS</b>: Cross Site Scripting via Admin Console</a>](https://vigilance.fr/vulnerability/WebSphere-AS-Cross-Site-Scripting-via-Admin-Console-40834)|An attacker can trigger a Cross Site Scripting of WebSphere AS, via Admin Console, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Veritas-NetBackup-IT-Analytics-Man-in-the-Middle-via-Collector-Executable-Files-40833" class="noirorange"><b>Veritas NetBackup IT Analytics</b>: Man-in-the-Middle via Collector Executable Files</a>](https://vigilance.fr/vulnerability/Veritas-NetBackup-IT-Analytics-Man-in-the-Middle-via-Collector-Executable-Files-40833)|An attacker can act as a Man-in-the-Middle on Veritas NetBackup IT Analytics, via Collector Executable Files, in order to read or write data in the session...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-40832" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-40832)|An attacker can use several vulnerabilities of Jenkins Plugins...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xen-read-write-access-via-32bit-SYSCALL-Path-Speculative-40831" class="noirorange"><b>Xen</b>: read-write access via 32bit SYSCALL Path Speculative</a>](https://vigilance.fr/vulnerability/Xen-read-write-access-via-32bit-SYSCALL-Path-Speculative-40831)|An attacker, in a guest system, can bypass access restrictions of Xen, via 32bit SYSCALL Path Speculative, in order to read or alter data on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xen-memory-corruption-via-X86-HVM-Pinned-Cache-Attributes-40830" class="noirorange"><b>Xen</b>: memory corruption via X86/HVM Pinned Cache Attributes</a>](https://vigilance.fr/vulnerability/Xen-memory-corruption-via-X86-HVM-Pinned-Cache-Attributes-40830)|An attacker, in a guest system, can trigger a memory corruption of Xen, via X86/HVM Pinned Cache Attributes, in order to trigger a denial of service, and possibly to run code on the host system...|Visit link for details|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -95,6 +56,41 @@
  |[40861503/23 - Vulnérabilités critiques dans plusieurs produits Microsoft(Patch Tuesday Mars 2023)](https://www.dgssi.gov.ma//fr/content/4086150323-vulnerabilites-critiques-dans-plusieurs-produits-microsoft-patch-tuesday-mars-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, d’exécuter du...|15 mars 2023|
  |[40851503/23 - Vulnérabilités dans Microsoft Edge](https://www.dgssi.gov.ma//fr/content/4085150323-vulnerabilites-dans-microsoft-edge.html)|Microsoft annonce la correction de plusieurs vulnérabilités dans Microsoft Edge. L’exploitation de ces failles peut permettre à un attaquant de réussir une usurpation d’identité.|15 mars 2023|
  |[40841503/23 - Vulnérabilités dans les produits Microsoft Azure (Patch Tuesday Mars 2023)](https://www.dgssi.gov.ma//fr/content/4084150323-vulnerabilites-dans-les-produits-microsoft-azure-patch-tuesday-mars-2023.html)|Deux vulnérabilités ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de réussir une usurpation d’identité.|15 mars 2023|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Vulnérabilité dans Apache Tomcat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0253/)|Une vulnérabilité a été découverte dans Apache Tomcat. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 22 mars 2023|
+ |[Vulnérabilité dans les produits Aruba](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0252/)|Une vulnérabilité a été découverte dans |Publié le 22 mars 2023|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0251/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 22 mars 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0250/)|De multiples vulnérabilités ont été corrigées dans les produits |Publié le 22 mars 2023|
+ |[Vulnérabilité dans NextCloud Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0249/)|Une vulnérabilité a été découverte dans NextCloud Server. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 22 mars 2023|
+ |[Multiples vulnérabilités dans les produits Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0248/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 mars 2023|
+ |[Multiples vulnérabilités dans Zimbra](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0247/)|De multiples vulnérabilités ont été découvertes dans Zimbra. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un contournement de la politique de sécurité et une injection de code indirecte à distance (XSS).|Publié le 21 mars 2023|
+ |[Multiples vulnérabilités dans les produits Moodle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0246/)|De multiples vulnérabilités ont été corrigées dans |Publié le 21 mars 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0245/)|De multiples vulnérabilités ont été corrigées dans les produits |Publié le 20 mars 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0244/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 mars 2023|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Google Chrome information disclosure (CVE-2023-1534)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 21, 2023|
+ |[Google Chrome code execution (CVE-2023-1533)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 21, 2023|
+ |[Google Chrome information disclosure (CVE-2023-1532)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 21, 2023|
+ |[Google Chrome code execution (CVE-2023-1531)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 21, 2023|
+ |[Google Chrome code execution (CVE-2023-1530)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 21, 2023|
+ |[Google Chrome code execution (CVE-2023-1529)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 21, 2023|
+ |[Google Chrome code execution (CVE-2023-1528)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 21, 2023|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # EU-CERT
@@ -114,17 +110,21 @@
  |[2023-010: Severe Vulnerabilities in Citrix Workspace, Virtual Apps and Desktops](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-010.pdf)|On February 14, 2023, Citrix released Security Bulletins regarding severe vulnerabilities affecting its Citrix Workspace, Virtual Apps and Desktops. If exploited, these vulnerabilities could enable attackers to elevate their privileges and take control of the affected system, but they need local access to the target.|Thursday, February 16, 2023 11:00:00 AM CET|
  
 
-# IBM-X-FORCE-EXCHANGE
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[Google Chrome information disclosure (CVE-2023-1534)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 21, 2023|
- |[Google Chrome code execution (CVE-2023-1533)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 21, 2023|
- |[Google Chrome information disclosure (CVE-2023-1532)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 21, 2023|
- |[Google Chrome code execution (CVE-2023-1531)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 21, 2023|
- |[Google Chrome code execution (CVE-2023-1530)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 21, 2023|
- |[Google Chrome code execution (CVE-2023-1529)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 21, 2023|
- |[Google Chrome code execution (CVE-2023-1528)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 21, 2023|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-file-files-note-40840" class="noirorange"><b>Linux kernel</b>: reuse after free via file_files_note()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-file-files-note-40840)|An attacker can force the reuse of a freed memory area of the Linux kernel, via file_files_note(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-ovl-aio-req-40839" class="noirorange"><b>Linux kernel</b>: reuse after free via ovl_aio_req</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-ovl-aio-req-40839)|An attacker can force the reuse of a freed memory area of the Linux kernel, via ovl_aio_req, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TeamPass-SQL-injection-via-API-getUserAuth-40838" class="noirorange"><b>TeamPass</b>: SQL injection via API getUserAuth()</a>](https://vigilance.fr/vulnerability/TeamPass-SQL-injection-via-API-getUserAuth-40838)|An attacker can use a SQL injection of TeamPass, via API getUserAuth(), in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-40837" class="noirorange"><b>Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-40837)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Aruba-CX-AOS-CX-privilege-escalation-via-Network-Analytics-Engine-40836" class="noirorange"><b>Aruba CX AOS-CX</b>: privilege escalation via Network Analytics Engine</a>](https://vigilance.fr/vulnerability/Aruba-CX-AOS-CX-privilege-escalation-via-Network-Analytics-Engine-40836)|An attacker can bypass restrictions of Aruba CX AOS-CX, via Network Analytics Engine, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-privilege-escalation-40835" class="noirorange"><b>IBM QRadar SIEM</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-privilege-escalation-40835)|An attacker can bypass restrictions of IBM QRadar SIEM, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebSphere-AS-Cross-Site-Scripting-via-Admin-Console-40834" class="noirorange"><b>WebSphere AS</b>: Cross Site Scripting via Admin Console</a>](https://vigilance.fr/vulnerability/WebSphere-AS-Cross-Site-Scripting-via-Admin-Console-40834)|An attacker can trigger a Cross Site Scripting of WebSphere AS, via Admin Console, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Veritas-NetBackup-IT-Analytics-Man-in-the-Middle-via-Collector-Executable-Files-40833" class="noirorange"><b>Veritas NetBackup IT Analytics</b>: Man-in-the-Middle via Collector Executable Files</a>](https://vigilance.fr/vulnerability/Veritas-NetBackup-IT-Analytics-Man-in-the-Middle-via-Collector-Executable-Files-40833)|An attacker can act as a Man-in-the-Middle on Veritas NetBackup IT Analytics, via Collector Executable Files, in order to read or write data in the session...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-40832" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-40832)|An attacker can use several vulnerabilities of Jenkins Plugins...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xen-read-write-access-via-32bit-SYSCALL-Path-Speculative-40831" class="noirorange"><b>Xen</b>: read-write access via 32bit SYSCALL Path Speculative</a>](https://vigilance.fr/vulnerability/Xen-read-write-access-via-32bit-SYSCALL-Path-Speculative-40831)|An attacker, in a guest system, can bypass access restrictions of Xen, via 32bit SYSCALL Path Speculative, in order to read or alter data on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xen-memory-corruption-via-X86-HVM-Pinned-Cache-Attributes-40830" class="noirorange"><b>Xen</b>: memory corruption via X86/HVM Pinned Cache Attributes</a>](https://vigilance.fr/vulnerability/Xen-memory-corruption-via-X86-HVM-Pinned-Cache-Attributes-40830)|An attacker, in a guest system, can trigger a memory corruption of Xen, via X86/HVM Pinned Cache Attributes, in order to trigger a denial of service, and possibly to run code on the host system...|Visit link for details|
  
 
 # HK-CERT
@@ -143,6 +143,23 @@
  |[Zoom Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/zoom-products-multiple-vulnerabilities_20230315)|Multiple vulnerabilities have been identified in Zoom products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 15 Mar 2023|
  
 
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[[Control systems] VISAM security advisory (AV23-159)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-visam-security-advisory-av23-159)|Visit link for details|2023-03-22|
+ |[IBM security advisory (AV23-158)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-158)|Visit link for details|2023-03-20|
+ |[Ubuntu security advisory (AV23-157)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-157)|Visit link for details|2023-03-20|
+ |[[Control systems] Honeywell security advisory (AV23-156)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-honeywell-security-advisory-av23-156)|Visit link for details|2023-03-17|
+ |[[Control systems] Rockwell Automation security advisory (AV23-155)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-rockwell-automation-security-advisory-av23-155)|Visit link for details|2023-03-17|
+ |[Adobe security advisory (AV23-152)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av23-152)|Visit link for details|2023-03-17|
+ |[Red Hat security advisory (AV23-154)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av23-154)|Visit link for details|2023-03-16|
+ |[Microsoft Outlook zero-day vulnerability allowing NTLM credential theft - CVE-2023-23397](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-outlook-zero-day-vulnerability-allowing-ntlm-credential-theft)|Visit link for details|2023-03-15|
+ |[HPE security advisory (AV23-153)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-153)|Visit link for details|2023-03-15|
+ |[[Control systems] AVEVA security advisory (AV23-151)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-aveva-security-advisory-av23-151)|Visit link for details|2023-03-15|
+ |[[Control systems] GE Digital security advisory (AV23-150)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-ge-digital-security-advisory-av23-150)|Visit link for details|2023-03-15|
+ 
+
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -155,21 +172,4 @@
  |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
  |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
  |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[IBM security advisory (AV23-158)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-158)|Visit link for details|2023-03-20|
- |[Ubuntu security advisory (AV23-157)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-157)|Visit link for details|2023-03-20|
- |[[Control systems] Honeywell security advisory (AV23-156)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-honeywell-security-advisory-av23-156)|Visit link for details|2023-03-17|
- |[[Control systems] Rockwell Automation security advisory (AV23-155)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-rockwell-automation-security-advisory-av23-155)|Visit link for details|2023-03-17|
- |[Adobe security advisory (AV23-152)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av23-152)|Visit link for details|2023-03-17|
- |[Red Hat security advisory (AV23-154)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av23-154)|Visit link for details|2023-03-16|
- |[Microsoft Outlook zero-day vulnerability allowing NTLM credential theft - CVE-2023-23397](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-outlook-zero-day-vulnerability-allowing-ntlm-credential-theft)|Visit link for details|2023-03-15|
- |[HPE security advisory (AV23-153)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-153)|Visit link for details|2023-03-15|
- |[[Control systems] AVEVA security advisory (AV23-151)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-aveva-security-advisory-av23-151)|Visit link for details|2023-03-15|
- |[[Control systems] GE Digital security advisory (AV23-150)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-ge-digital-security-advisory-av23-150)|Visit link for details|2023-03-15|
- |[[Control systems] Autodesk security advisory (AV23-149)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-autodesk-security-advisory-av23-149)|Visit link for details|2023-03-15|
  

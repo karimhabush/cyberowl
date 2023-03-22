@@ -4,6 +4,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[[Control systems] VISAM security advisory (AV23-159)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-visam-security-advisory-av23-159)|Visit link for details|2023-03-22|
  |[IBM security advisory (AV23-158)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-158)|Visit link for details|2023-03-20|
  |[Ubuntu security advisory (AV23-157)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-157)|Visit link for details|2023-03-20|
  |[[Control systems] Honeywell security advisory (AV23-156)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-honeywell-security-advisory-av23-156)|Visit link for details|2023-03-17|
@@ -14,5 +15,4 @@
  |[HPE security advisory (AV23-153)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-153)|Visit link for details|2023-03-15|
  |[[Control systems] AVEVA security advisory (AV23-151)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-aveva-security-advisory-av23-151)|Visit link for details|2023-03-15|
  |[[Control systems] GE Digital security advisory (AV23-150)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-ge-digital-security-advisory-av23-150)|Visit link for details|2023-03-15|
- |[[Control systems] Autodesk security advisory (AV23-149)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-autodesk-security-advisory-av23-149)|Visit link for details|2023-03-15|
  
