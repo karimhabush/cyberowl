@@ -4,6 +4,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Google Chrome security advisory (AV23-162)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-162)|Visit link for details|2023-03-22|
+ |[[Control systems] Rockwell Automation security advisory (AV23-161)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-rockwell-automation-security-advisory-av23-161)|Visit link for details|2023-03-22|
+ |[[Control systems] Keysight Technologies security advisory (AV23-160)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-keysight-technologies-security-advisory-av23-160)|Visit link for details|2023-03-22|
  |[[Control systems] VISAM security advisory (AV23-159)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-visam-security-advisory-av23-159)|Visit link for details|2023-03-22|
  |[IBM security advisory (AV23-158)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-158)|Visit link for details|2023-03-20|
  |[Ubuntu security advisory (AV23-157)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-157)|Visit link for details|2023-03-20|
@@ -12,7 +15,4 @@
  |[Adobe security advisory (AV23-152)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av23-152)|Visit link for details|2023-03-17|
  |[Red Hat security advisory (AV23-154)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av23-154)|Visit link for details|2023-03-16|
  |[Microsoft Outlook zero-day vulnerability allowing NTLM credential theft - CVE-2023-23397](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-outlook-zero-day-vulnerability-allowing-ntlm-credential-theft)|Visit link for details|2023-03-15|
- |[HPE security advisory (AV23-153)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-153)|Visit link for details|2023-03-15|
- |[[Control systems] AVEVA security advisory (AV23-151)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-aveva-security-advisory-av23-151)|Visit link for details|2023-03-15|
- |[[Control systems] GE Digital security advisory (AV23-150)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-ge-digital-security-advisory-av23-150)|Visit link for details|2023-03-15|
  
