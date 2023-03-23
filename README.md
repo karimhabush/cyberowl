@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 23/03/2023 22:19:42 UTC
+ > Last Updated 23/03/2023 23:19:18 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -41,6 +41,28 @@
  |[FBI, CISA, and MS-ISAC Release #StopRansomware: LockBit 3.0](https://www.cisa.gov/news-events/alerts/2023/03/16/fbi-cisa-and-ms-isac-release-stopransomware-lockbit-30)|Visit link for details.|Mar 16, 2023|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Vulnérabilité dans Grafana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0257/)|Une vulnérabilité a été découverte dans Grafana. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 23 mars 2023|
+ |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0256/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 23 mars 2023|
+ |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0255/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 23 mars 2023|
+ |[Multiples vulnérabilités dans Tenable.sc](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0254/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 mars 2023|
+ |[Vulnérabilité dans Apache Tomcat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0253/)|Une vulnérabilité a été découverte dans Apache Tomcat. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 22 mars 2023|
+ |[Vulnérabilité dans les produits Aruba](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0252/)|Une vulnérabilité a été découverte dans |Publié le 22 mars 2023|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0251/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 22 mars 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0250/)|De multiples vulnérabilités ont été corrigées dans les produits |Publié le 22 mars 2023|
+ |[Vulnérabilité dans NextCloud Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0249/)|Une vulnérabilité a été découverte dans NextCloud Server. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 22 mars 2023|
+ |[Multiples vulnérabilités dans les produits Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0248/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 mars 2023|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -55,25 +77,6 @@
  |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-firefox-multiple-vulnerabilities_20230315)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-03-16] Updated System / Technologies...| Release Date: 15 Mar 2023 |
  |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230306)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-03-07] Updated System / Technologies affected, ...| Release Date: 6 Mar 2023 |
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230301)|Multiple vulnerabilities were identified in RedHat Linux Kernal. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and elevation of privilege on the targeted system. [Updated on 2023-03-15] Updated System / Technologies affected, Solutions, ...| Release Date: 1 Mar 2023 |
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Online Tours and Travels Management System SQL injection (CVE-2023-1589)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 23, 2023|
- |[Online Tours and Travels Management System SQL injection (CVE-2023-1590)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 23, 2023|
- |[Automatic Question Paper Generator System SQL injection (CVE-2023-1591)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 23, 2023|
- |[novel-plus SQL injection (CVE-2023-1594)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 23, 2023|
- |[novel-plus SQL injection (CVE-2023-1595)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 23, 2023|
- |[VK All in One Expansion Unit Plugin for WordPress cross-site scripting (CVE-2023-0937)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 23, 2023|
- |[Python CGI module cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 22, 2023|
  
 
 # MA-CERT
@@ -93,53 +96,6 @@
  |[40831503/23 - Vulnérabilités affectant plusieursproduits SAP](https://www.dgssi.gov.ma//fr/content/4083150323-vulnerabilites-affectant-plusieurs-produits-sap.html)|SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuterdu code arbitraire,...|15 mars 2023|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Vulnérabilité dans Grafana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0257/)|Une vulnérabilité a été découverte dans Grafana. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 23 mars 2023|
- |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0256/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 23 mars 2023|
- |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0255/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 23 mars 2023|
- |[Multiples vulnérabilités dans Tenable.sc](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0254/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 mars 2023|
- |[Vulnérabilité dans Apache Tomcat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0253/)|Une vulnérabilité a été découverte dans Apache Tomcat. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 22 mars 2023|
- |[Vulnérabilité dans les produits Aruba](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0252/)|Une vulnérabilité a été découverte dans |Publié le 22 mars 2023|
- |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0251/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 22 mars 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0250/)|De multiples vulnérabilités ont été corrigées dans les produits |Publié le 22 mars 2023|
- |[Vulnérabilité dans NextCloud Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0249/)|Une vulnérabilité a été découverte dans NextCloud Server. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 22 mars 2023|
- |[Multiples vulnérabilités dans les produits Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0248/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 mars 2023|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[[Control systems] Schneider Electric security advisory (AV23-170)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av23-170)|Visit link for details|2023-03-23|
- |[[Control systems] SAUTER security advisory (AV23-169)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-sauter-security-advisory-av23-169)|Visit link for details|2023-03-23|
- |[[Control systems] RoboDK security advisory (AV23-168)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-robodk-security-advisory-av23-168)|Visit link for details|2023-03-23|
- |[[Control systems] ABB security advisory (AV23-167)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av23-167)|Visit link for details|2023-03-23|
- |[[Control systems] CP Plus security advisory (AV23-166)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cp-plus-security-advisory-av23-166)|Visit link for details|2023-03-23|
- |[Red Hat security advisory (AV23-165)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av23-165)|Visit link for details|2023-03-22|
- |[Cisco Security Advisory (AV23-164)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av23-164)|Visit link for details|2023-03-22|
- |[[Control systems] Delta Electronics security advisory (AV23-163)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-delta-electronics-security-advisory-av23-163)|Visit link for details|2023-03-22|
- |[Google Chrome security advisory (AV23-162)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-162)|Visit link for details|2023-03-22|
- |[[Control systems] Rockwell Automation security advisory (AV23-161)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-rockwell-automation-security-advisory-av23-161)|Visit link for details|2023-03-22|
- |[[Control systems] Keysight Technologies security advisory (AV23-160)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-keysight-technologies-security-advisory-av23-160)|Visit link for details|2023-03-22|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -157,6 +113,33 @@
  |[2023-010: Severe Vulnerabilities in Citrix Workspace, Virtual Apps and Desktops](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-010.pdf)|On February 14, 2023, Citrix released Security Bulletins regarding severe vulnerabilities affecting its Citrix Workspace, Virtual Apps and Desktops. If exploited, these vulnerabilities could enable attackers to elevate their privileges and take control of the affected system, but they need local access to the target.|Thursday, February 16, 2023 11:00:00 AM CET|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Online Tours and Travels Management System SQL injection (CVE-2023-1589)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 23, 2023|
+ |[Online Tours and Travels Management System SQL injection (CVE-2023-1590)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 23, 2023|
+ |[Automatic Question Paper Generator System SQL injection (CVE-2023-1591)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 23, 2023|
+ |[novel-plus SQL injection (CVE-2023-1594)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 23, 2023|
+ |[novel-plus SQL injection (CVE-2023-1595)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 23, 2023|
+ |[VK All in One Expansion Unit Plugin for WordPress cross-site scripting (CVE-2023-0937)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 23, 2023|
+ |[Export User plugin for MyBB cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 22, 2023|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -172,4 +155,21 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-tcf-exts-exec-40852" class="noirorange"><b>Linux kernel</b>: reuse after free via tcf_exts_exec()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-tcf-exts-exec-40852)|An attacker can force the reuse of a freed memory area of the Linux kernel, via tcf_exts_exec(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-ovl-copy-up-one-40851" class="noirorange"><b>Linux kernel</b>: privilege escalation via ovl_copy_up_one()</a>](https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-ovl-copy-up-one-40851)|An attacker can bypass restrictions of the Linux kernel, via ovl_copy_up_one(), in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/CairoSVG-Server-Side-Request-Forgery-via-SVG-File-40850" class="noirorange"><b>CairoSVG</b>: Server-Side Request Forgery via SVG File</a>](https://vigilance.fr/vulnerability/CairoSVG-Server-Side-Request-Forgery-via-SVG-File-40850)|An attacker can trigger a Server-Side Request Forgery of CairoSVG, via SVG File, in order to force the server to send queries...|Visit link for details|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[[Control systems] Schneider Electric security advisory (AV23-170)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av23-170)|Visit link for details|2023-03-23|
+ |[[Control systems] SAUTER security advisory (AV23-169)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-sauter-security-advisory-av23-169)|Visit link for details|2023-03-23|
+ |[[Control systems] RoboDK security advisory (AV23-168)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-robodk-security-advisory-av23-168)|Visit link for details|2023-03-23|
+ |[[Control systems] ABB security advisory (AV23-167)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av23-167)|Visit link for details|2023-03-23|
+ |[[Control systems] CP Plus security advisory (AV23-166)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cp-plus-security-advisory-av23-166)|Visit link for details|2023-03-23|
+ |[Red Hat security advisory (AV23-165)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av23-165)|Visit link for details|2023-03-22|
+ |[Cisco Security Advisory (AV23-164)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av23-164)|Visit link for details|2023-03-22|
+ |[[Control systems] Delta Electronics security advisory (AV23-163)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-delta-electronics-security-advisory-av23-163)|Visit link for details|2023-03-22|
+ |[Google Chrome security advisory (AV23-162)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-162)|Visit link for details|2023-03-22|
+ |[[Control systems] Rockwell Automation security advisory (AV23-161)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-rockwell-automation-security-advisory-av23-161)|Visit link for details|2023-03-22|
+ |[[Control systems] Keysight Technologies security advisory (AV23-160)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-keysight-technologies-security-advisory-av23-160)|Visit link for details|2023-03-22|
  
