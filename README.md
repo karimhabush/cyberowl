@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 23/03/2023 09:19:53 UTC
+ > Last Updated 23/03/2023 10:20:47 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -41,6 +41,23 @@
  |[Beware of Bank-Related Scams](https://www.cisa.gov/news-events/alerts/2023/03/15/beware-bank-related-scams)|Visit link for details.|Mar 15, 2023|
  
 
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[40952303/23- Vulnérabilités affectant plusieursproduits deCisco](https://www.dgssi.gov.ma//fr/content/4095230323-vulnerabilites-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’injecter des commandes, d’élever ses...|23 mars 2023|
+ |[40942203/23-Vulnérabilités dans les produits industriels de Siemens](https://www.dgssi.gov.ma//fr/content/4094220323-vulnerabilites-dans-les-produits-industriels-de-siemens.html)|Plusieurs vulnérabilités ont été corrigées dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à dis-tance, réussir une élévation de privilèges, causer un...|22 mars 2023|
+ |[40932103/23 - Vulnérabilités dans l'hyperviseur Xen](https://www.dgssi.gov.ma//fr/content/4093210323-vulnerabilites-dans-l-hyperviseur-xen.html)|Plusieurs vulnérabilités ont été corrigées dans les versions d’hyperviseur Xen susmentionnées. L'exploitation de ces failles peut permettre à un attaquant de causer un déni de service, de porter atteinte à la confidentialité de...|21 mars 2023|
+ |[40922103/23 - Vulnérabilités dans Zimbra Collaboration](https://www.dgssi.gov.ma//fr/content/4092210323-vulnerabilites-dans-zimbra-collaboration.html)|Plusieurs vulnérabilités ont été corrigées dans Zimbra Collaboration. L’exploitation de ces failles pourrait permettre à un attaquant de contourner la politique de sécurité et d’injecter du code indirect à distance.|21 mars 2023|
+ |[40912103/23 - Vulnérabilités dans les produits IBM](https://www.dgssi.gov.ma//fr/content/4091210323-vulnerabilites-dans-les-produits-ibm.html)|Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. L’exploitation de ces failles pourrait permettre à un attaquant de porter atteinte à la confidentialité des données, de contourner la politique de sécurité, de...|21 mars 2023|
+ |[40901703/23 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/4090170323-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant son client de messagerie Mozilla Thunderbird. L’exploitation de ces vulnérabilités peut permettre à un...|17 mars 2023|
+ |[40891703/23 - Vulnérabilités affectant le CMS Drupal](https://www.dgssi.gov.ma//fr/content/4089170323-vulnerabilites-affectant-le-cms-drupal.html)|Drupal annonce la disponibilité de mises à jour de sécurité qui corrigent plusieurs vulnérabilités auniveaude son CMS. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’accéder à des données confidentielles ou de...|17 mars 2023|
+ |[40881603/23 - Vulnérabilités dans Cisco Small Business](https://www.dgssi.gov.ma//fr/content/4088160323-vulnerabilites-dans-cisco-small-business.html)|Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de Cisco Small Business. L’exploitation de ces failles pourrait permettre à un attaquant distant d'exécuter du code arbitraire sur un appareil affecté ou de...|16 mars 2023|
+ |[40871603/23 - Vulnérabilités dans Foxit PhantomPDF](https://www.dgssi.gov.ma//fr/content/4087160323-vulnerabilites-dans-foxit-phantompdf.html)|Foxit annonce la correction de plusieurs vulnérabilités affectant Foxit Reader et Foxit PhantomPDF. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance ou de porter atteinte à la...|16 mars 2023|
+ |[40831503/23 - Vulnérabilités affectant plusieursproduits SAP](https://www.dgssi.gov.ma//fr/content/4083150323-vulnerabilites-affectant-plusieurs-produits-sap.html)|SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuterdu code arbitraire,...|15 mars 2023|
+ |[40861503/23 - Vulnérabilités critiques dans plusieurs produits Microsoft(Patch Tuesday Mars 2023)](https://www.dgssi.gov.ma//fr/content/4086150323-vulnerabilites-critiques-dans-plusieurs-produits-microsoft-patch-tuesday-mars-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, d’exécuter du...|15 mars 2023|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
@@ -57,21 +74,17 @@
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0244/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 mars 2023|
  
 
-# MA-CERT
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[40942203/23-Vulnérabilités dans les produits industriels de Siemens](https://www.dgssi.gov.ma//fr/content/4094220323-vulnerabilites-dans-les-produits-industriels-de-siemens.html)|Plusieurs vulnérabilités ont été corrigées dans les systèmes industriels de Siemens susmentionnés. Un attaquant pourrait exploiter ces failles afin d’exécuter du code arbitraire à dis-tance, réussir une élévation de privilèges, causer un...|22 mars 2023|
- |[40932103/23 - Vulnérabilités dans l'hyperviseur Xen](https://www.dgssi.gov.ma//fr/content/4093210323-vulnerabilites-dans-l-hyperviseur-xen.html)|Plusieurs vulnérabilités ont été corrigées dans les versions d’hyperviseur Xen susmentionnées. L'exploitation de ces failles peut permettre à un attaquant de causer un déni de service, de porter atteinte à la confidentialité de...|21 mars 2023|
- |[40922103/23 - Vulnérabilités dans Zimbra Collaboration](https://www.dgssi.gov.ma//fr/content/4092210323-vulnerabilites-dans-zimbra-collaboration.html)|Plusieurs vulnérabilités ont été corrigées dans Zimbra Collaboration. L’exploitation de ces failles pourrait permettre à un attaquant de contourner la politique de sécurité et d’injecter du code indirect à distance.|21 mars 2023|
- |[40912103/23 - Vulnérabilités dans les produits IBM](https://www.dgssi.gov.ma//fr/content/4091210323-vulnerabilites-dans-les-produits-ibm.html)|Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. L’exploitation de ces failles pourrait permettre à un attaquant de porter atteinte à la confidentialité des données, de contourner la politique de sécurité, de...|21 mars 2023|
- |[40901703/23 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/4090170323-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant son client de messagerie Mozilla Thunderbird. L’exploitation de ces vulnérabilités peut permettre à un...|17 mars 2023|
- |[40891703/23 - Vulnérabilités affectant le CMS Drupal](https://www.dgssi.gov.ma//fr/content/4089170323-vulnerabilites-affectant-le-cms-drupal.html)|Drupal annonce la disponibilité de mises à jour de sécurité qui corrigent plusieurs vulnérabilités auniveaude son CMS. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’accéder à des données confidentielles ou de...|17 mars 2023|
- |[40881603/23 - Vulnérabilités dans Cisco Small Business](https://www.dgssi.gov.ma//fr/content/4088160323-vulnerabilites-dans-cisco-small-business.html)|Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de Cisco Small Business. L’exploitation de ces failles pourrait permettre à un attaquant distant d'exécuter du code arbitraire sur un appareil affecté ou de...|16 mars 2023|
- |[40871603/23 - Vulnérabilités dans Foxit PhantomPDF](https://www.dgssi.gov.ma//fr/content/4087160323-vulnerabilites-dans-foxit-phantompdf.html)|Foxit annonce la correction de plusieurs vulnérabilités affectant Foxit Reader et Foxit PhantomPDF. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance ou de porter atteinte à la...|16 mars 2023|
- |[40831503/23 - Vulnérabilités affectant plusieursproduits SAP](https://www.dgssi.gov.ma//fr/content/4083150323-vulnerabilites-affectant-plusieurs-produits-sap.html)|SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuterdu code arbitraire,...|15 mars 2023|
- |[40861503/23 - Vulnérabilités critiques dans plusieurs produits Microsoft(Patch Tuesday Mars 2023)](https://www.dgssi.gov.ma//fr/content/4086150323-vulnerabilites-critiques-dans-plusieurs-produits-microsoft-patch-tuesday-mars-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, d’exécuter du...|15 mars 2023|
- |[40851503/23 - Vulnérabilités dans Microsoft Edge](https://www.dgssi.gov.ma//fr/content/4085150323-vulnerabilites-dans-microsoft-edge.html)|Microsoft annonce la correction de plusieurs vulnérabilités dans Microsoft Edge. L’exploitation de ces failles peut permettre à un attaquant de réussir une usurpation d’identité.|15 mars 2023|
+ |[VK All in One Expansion Unit Plugin for WordPress cross-site scripting (CVE-2023-0937)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 23, 2023|
+ |[Cisco Access Point Software command execution (CVE-2023-20097)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 22, 2023|
+ |[Cisco Access Point Software denial of service (CVE-2023-20056)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 22, 2023|
+ |[Cisco ASA and FTD Software security bypass (CVE-2023-20107)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 22, 2023|
+ |[Cisco ASA, FTD, IOS and IOS XE Software denial of service (CVE-2023-20081)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 22, 2023|
+ |[Cisco IOS XE Software denial of service (CVE-2023-20100)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 22, 2023|
+ |[Cisco DNA Center information disclosure (CVE-2023-20059)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 22, 2023|
  
 
 # HK-CERT
@@ -96,19 +109,6 @@
  |---|---|---|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[VK All in One Expansion Unit Plugin for WordPress cross-site scripting (CVE-2023-0937)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 23, 2023|
- |[Cisco Access Point Software command execution (CVE-2023-20097)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 22, 2023|
- |[Cisco Access Point Software denial of service (CVE-2023-20056)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 22, 2023|
- |[Cisco ASA and FTD Software security bypass (CVE-2023-20107)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 22, 2023|
- |[Cisco ASA, FTD, IOS and IOS XE Software denial of service (CVE-2023-20081)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 22, 2023|
- |[Cisco IOS XE Software denial of service (CVE-2023-20100)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 22, 2023|
- |[Cisco DNA Center information disclosure (CVE-2023-20059)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 22, 2023|
- 
-
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -121,23 +121,6 @@
  |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
  |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
  |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/IBM-API-Connect-privilege-escalation-40848" class="noirorange"><b>IBM API Connect</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/IBM-API-Connect-privilege-escalation-40848)|An attacker can bypass restrictions of IBM API Connect, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenBSD-out-of-bounds-memory-reading-via-bgpd-40847" class="noirorange"><b>OpenBSD</b>: out-of-bounds memory reading via bgpd</a>](https://vigilance.fr/vulnerability/OpenBSD-out-of-bounds-memory-reading-via-bgpd-40847)|An attacker can force a read at an invalid memory address of OpenBSD, via bgpd, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Samba-vulnerabity-unveiled-on-29-03-2023-40846" class="noirorange"><b>Samba</b>: vulnerabity unveiled on 29/03/2023</a>](https://vigilance.fr/vulnerability/Samba-vulnerabity-unveiled-on-29-03-2023-40846)|A vulnerability of Samba will be unveiled on 29/03/2023...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TYPO3-Fluid-Components-Cross-Site-Scripting-via-Component-Argument-Parameter-40845" class="noirorange"><b>TYPO3 Fluid Components</b>: Cross Site Scripting via Component Argument Parameter</a>](https://vigilance.fr/vulnerability/TYPO3-Fluid-Components-Cross-Site-Scripting-via-Component-Argument-Parameter-40845)|An attacker can trigger a Cross Site Scripting of TYPO3 Fluid Components, via Component Argument Parameter, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Amanda-information-disclosure-via-calcsize-40844" class="noirorange"><b>Amanda</b>: information disclosure via calcsize</a>](https://vigilance.fr/vulnerability/Amanda-information-disclosure-via-calcsize-40844)|An attacker can bypass access restrictions to data of Amanda, via calcsize, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSSL-overload-via-X-509-Policy-Constraints-40843" class="noirorange"><b>OpenSSL</b>: overload via X.509 Policy Constraints</a>](https://vigilance.fr/vulnerability/OpenSSL-overload-via-X-509-Policy-Constraints-40843)|An attacker can trigger an overload of OpenSSL, via X.509 Policy Constraints, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libplist-external-XML-entity-injection-via-plist-from-xml-40842" class="noirorange"><b>libplist</b>: external XML entity injection via plist_from_xml()</a>](https://vigilance.fr/vulnerability/libplist-external-XML-entity-injection-via-plist-from-xml-40842)|An attacker can transmit malicious XML data to libplist, via plist_from_xml(), in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Tomcat-information-disclosure-via-RemoteIpFilter-Reverse-Proxy-Cookie-40841" class="noirorange"><b>Apache Tomcat</b>: information disclosure via RemoteIpFilter Reverse Proxy Cookie</a>](https://vigilance.fr/vulnerability/Apache-Tomcat-information-disclosure-via-RemoteIpFilter-Reverse-Proxy-Cookie-40841)|An attacker can bypass access restrictions to data of Apache Tomcat, via RemoteIpFilter Reverse Proxy Cookie, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-file-files-note-40840" class="noirorange"><b>Linux kernel</b>: reuse after free via file_files_note()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-file-files-note-40840)|An attacker can force the reuse of a freed memory area of the Linux kernel, via file_files_note(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-ovl-aio-req-40839" class="noirorange"><b>Linux kernel</b>: reuse after free via ovl_aio_req</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-ovl-aio-req-40839)|An attacker can force the reuse of a freed memory area of the Linux kernel, via ovl_aio_req, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TeamPass-SQL-injection-via-API-getUserAuth-40838" class="noirorange"><b>TeamPass</b>: SQL injection via API getUserAuth()</a>](https://vigilance.fr/vulnerability/TeamPass-SQL-injection-via-API-getUserAuth-40838)|An attacker can use a SQL injection of TeamPass, via API getUserAuth(), in order to read or alter data...|Visit link for details|
  
 
 # EU-CERT
@@ -155,6 +138,23 @@
  |[2023-012: RCE vulnerabilities in Fortinet products](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-012.pdf)|On February 16, 2023, Fortinet released advisories regarding critical vulnerabilities in FortiNAC and FortiWeb products that may allow unauthenticated attackers to perform remote arbitrary code or command execution.|Monday, February 20, 2023 03:40:00 PM CET|
  |[2023-011: ClamAV critical vulnerability](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-011.pdf)|On February 15th, 2023, ClamAV informed about a critical vulnerability in the cross-platform antimalware toolkit. The vulnerability is identified as CVE-2023-20032 and could lead to remote code execution.|Monday, February 20, 2023 03:40:00 PM CET|
  |[2023-010: Severe Vulnerabilities in Citrix Workspace, Virtual Apps and Desktops](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-010.pdf)|On February 14, 2023, Citrix released Security Bulletins regarding severe vulnerabilities affecting its Citrix Workspace, Virtual Apps and Desktops. If exploited, these vulnerabilities could enable attackers to elevate their privileges and take control of the affected system, but they need local access to the target.|Thursday, February 16, 2023 11:00:00 AM CET|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-tcf-exts-exec-40852" class="noirorange"><b>Linux kernel</b>: reuse after free via tcf_exts_exec()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-tcf-exts-exec-40852)|An attacker can force the reuse of a freed memory area of the Linux kernel, via tcf_exts_exec(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-ovl-copy-up-one-40851" class="noirorange"><b>Linux kernel</b>: privilege escalation via ovl_copy_up_one()</a>](https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-ovl-copy-up-one-40851)|An attacker can bypass restrictions of the Linux kernel, via ovl_copy_up_one(), in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/CairoSVG-Server-Side-Request-Forgery-via-SVG-File-40850" class="noirorange"><b>CairoSVG</b>: Server-Side Request Forgery via SVG File</a>](https://vigilance.fr/vulnerability/CairoSVG-Server-Side-Request-Forgery-via-SVG-File-40850)|An attacker can trigger a Server-Side Request Forgery of CairoSVG, via SVG File, in order to force the server to send queries...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/liferea-code-execution-via-update-job-run-40849" class="noirorange"><b>liferea</b>: code execution via update_job_run()</a>](https://vigilance.fr/vulnerability/liferea-code-execution-via-update-job-run-40849)|An attacker can use a vulnerability of liferea, via update_job_run(), in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-API-Connect-privilege-escalation-40848" class="noirorange"><b>IBM API Connect</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/IBM-API-Connect-privilege-escalation-40848)|An attacker can bypass restrictions of IBM API Connect, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenBSD-out-of-bounds-memory-reading-via-bgpd-40847" class="noirorange"><b>OpenBSD</b>: out-of-bounds memory reading via bgpd</a>](https://vigilance.fr/vulnerability/OpenBSD-out-of-bounds-memory-reading-via-bgpd-40847)|An attacker can force a read at an invalid memory address of OpenBSD, via bgpd, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Samba-vulnerabity-unveiled-on-29-03-2023-40846" class="noirorange"><b>Samba</b>: vulnerabity unveiled on 29/03/2023</a>](https://vigilance.fr/vulnerability/Samba-vulnerabity-unveiled-on-29-03-2023-40846)|A vulnerability of Samba will be unveiled on 29/03/2023...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TYPO3-Fluid-Components-Cross-Site-Scripting-via-Component-Argument-Parameter-40845" class="noirorange"><b>TYPO3 Fluid Components</b>: Cross Site Scripting via Component Argument Parameter</a>](https://vigilance.fr/vulnerability/TYPO3-Fluid-Components-Cross-Site-Scripting-via-Component-Argument-Parameter-40845)|An attacker can trigger a Cross Site Scripting of TYPO3 Fluid Components, via Component Argument Parameter, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Amanda-information-disclosure-via-calcsize-40844" class="noirorange"><b>Amanda</b>: information disclosure via calcsize</a>](https://vigilance.fr/vulnerability/Amanda-information-disclosure-via-calcsize-40844)|An attacker can bypass access restrictions to data of Amanda, via calcsize, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSL-overload-via-X-509-Policy-Constraints-40843" class="noirorange"><b>OpenSSL</b>: overload via X.509 Policy Constraints</a>](https://vigilance.fr/vulnerability/OpenSSL-overload-via-X-509-Policy-Constraints-40843)|An attacker can trigger an overload of OpenSSL, via X.509 Policy Constraints, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libplist-external-XML-entity-injection-via-plist-from-xml-40842" class="noirorange"><b>libplist</b>: external XML entity injection via plist_from_xml()</a>](https://vigilance.fr/vulnerability/libplist-external-XML-entity-injection-via-plist-from-xml-40842)|An attacker can transmit malicious XML data to libplist, via plist_from_xml(), in order to read a file, scan sites, or trigger a denial of service...|Visit link for details|
  
 
 # CA-CCS
