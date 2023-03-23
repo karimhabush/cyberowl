@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 23/03/2023 16:27:38 UTC
+ > Last Updated 23/03/2023 17:21:19 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -74,19 +74,6 @@
  |[40831503/23 - Vulnérabilités affectant plusieursproduits SAP](https://www.dgssi.gov.ma//fr/content/4083150323-vulnerabilites-affectant-plusieurs-produits-sap.html)|SAP annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuterdu code arbitraire,...|15 mars 2023|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Online Tours and Travels Management System SQL injection (CVE-2023-1589)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 23, 2023|
- |[Online Tours and Travels Management System SQL injection (CVE-2023-1590)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 23, 2023|
- |[Automatic Question Paper Generator System SQL injection (CVE-2023-1591)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 23, 2023|
- |[novel-plus SQL injection (CVE-2023-1594)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 23, 2023|
- |[novel-plus SQL injection (CVE-2023-1595)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 23, 2023|
- |[VK All in One Expansion Unit Plugin for WordPress cross-site scripting (CVE-2023-0937)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 23, 2023|
- |[Devolutions Gateway denial of service (CVE-2023-1580)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 22, 2023|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -103,24 +90,23 @@
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230301)|Multiple vulnerabilities were identified in RedHat Linux Kernal. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and elevation of privilege on the targeted system. [Updated on 2023-03-15] Updated System / Technologies affected, Solutions, ...| Release Date: 1 Mar 2023 |
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Online Tours and Travels Management System SQL injection (CVE-2023-1589)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 23, 2023|
+ |[Online Tours and Travels Management System SQL injection (CVE-2023-1590)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 23, 2023|
+ |[Automatic Question Paper Generator System SQL injection (CVE-2023-1591)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 23, 2023|
+ |[novel-plus SQL injection (CVE-2023-1594)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 23, 2023|
+ |[novel-plus SQL injection (CVE-2023-1595)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 23, 2023|
+ |[VK All in One Expansion Unit Plugin for WordPress cross-site scripting (CVE-2023-0937)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 23, 2023|
+ |[Devolutions Gateway denial of service (CVE-2023-1580)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 22, 2023|
+ 
+
 # VulDB
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
 
 # EU-CERT
@@ -144,6 +130,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/NetBackup-Appliance-code-execution-via-SSH-Restriction-Bypass-40861" class="noirorange"><b>NetBackup Appliance</b>: code execution via SSH Restriction Bypass</a>](https://vigilance.fr/vulnerability/NetBackup-Appliance-code-execution-via-SSH-Restriction-Bypass-40861)|An attacker can use a vulnerability of NetBackup Appliance, via SSH Restriction Bypass, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/SQLite-out-of-bounds-memory-reading-40860" class="noirorange"><b>SQLite</b>: out-of-bounds memory reading</a>](https://vigilance.fr/vulnerability/SQLite-out-of-bounds-memory-reading-40860)|An attacker can force a read at an invalid memory address of SQLite, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Grafana-Cross-Site-Scripting-via-Graphite-Tooltip-40859" class="noirorange"><b>Grafana</b>: Cross Site Scripting via Graphite Tooltip</a>](https://vigilance.fr/vulnerability/Grafana-Cross-Site-Scripting-via-Graphite-Tooltip-40859)|An attacker can trigger a Cross Site Scripting of Grafana, via Graphite Tooltip, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Cisco-IOS-IOS-XE-multiple-vulnerabilities-40858" class="noirorange"><b>Cisco IOS  IOS XE</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Cisco-IOS-IOS-XE-multiple-vulnerabilities-40858)|An attacker can use several vulnerabilities of Cisco IOS  IOS XE...|Visit link for details|
@@ -154,7 +141,20 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-tcf-exts-exec-40852" class="noirorange"><b>Linux kernel</b>: reuse after free via tcf_exts_exec()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-tcf-exts-exec-40852)|An attacker can force the reuse of a freed memory area of the Linux kernel, via tcf_exts_exec(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-ovl-copy-up-one-40851" class="noirorange"><b>Linux kernel</b>: privilege escalation via ovl_copy_up_one()</a>](https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-ovl-copy-up-one-40851)|An attacker can bypass restrictions of the Linux kernel, via ovl_copy_up_one(), in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/CairoSVG-Server-Side-Request-Forgery-via-SVG-File-40850" class="noirorange"><b>CairoSVG</b>: Server-Side Request Forgery via SVG File</a>](https://vigilance.fr/vulnerability/CairoSVG-Server-Side-Request-Forgery-via-SVG-File-40850)|An attacker can trigger a Server-Side Request Forgery of CairoSVG, via SVG File, in order to force the server to send queries...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/liferea-code-execution-via-update-job-run-40849" class="noirorange"><b>liferea</b>: code execution via update_job_run()</a>](https://vigilance.fr/vulnerability/liferea-code-execution-via-update-job-run-40849)|An attacker can use a vulnerability of liferea, via update_job_run(), in order to run code...|Visit link for details|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
 
 # CA-CCS
