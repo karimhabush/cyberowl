@@ -9,6 +9,6 @@
  |[Automatic Question Paper Generator System SQL injection (CVE-2023-1591)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 23, 2023|
  |[novel-plus SQL injection (CVE-2023-1594)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 23, 2023|
  |[novel-plus SQL injection (CVE-2023-1595)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 23, 2023|
+ |[Meta Data and Taxonomies Filter Plugin for WordPress cross-site scripting (CVE-2023-28664)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 23, 2023|
  |[VK All in One Expansion Unit Plugin for WordPress cross-site scripting (CVE-2023-0937)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 23, 2023|
- |[Export User plugin for MyBB cross-site scripting](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 22, 2023|
  
