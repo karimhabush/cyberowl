@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 24/03/2023 20:21:14 UTC
+ > Last Updated 24/03/2023 21:18:40 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -76,23 +76,6 @@
  |---|---|---|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Apache-OpenOffice-code-execution-via-Macro-URL-40872" class="noirorange"><b>Apache OpenOffice</b>: code execution via Macro URL</a>](https://vigilance.fr/vulnerability/Apache-OpenOffice-code-execution-via-Macro-URL-40872)|An attacker can use a vulnerability of Apache OpenOffice, via Macro URL, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-OpenOffice-code-execution-via-Empty-Class-Path-40871" class="noirorange"><b>Apache OpenOffice</b>: code execution via Empty Class Path</a>](https://vigilance.fr/vulnerability/Apache-OpenOffice-code-execution-via-Empty-Class-Path-40871)|An attacker can use a vulnerability of Apache OpenOffice, via Empty Class Path, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Docker-Engine-Moby-information-disclosure-via-BuildKit-Buildinfo-URLs-Credentials-40870" class="noirorange"><b>Docker Engine/Moby</b>: information disclosure via BuildKit Buildinfo URLs Credentials</a>](https://vigilance.fr/vulnerability/Docker-Engine-Moby-information-disclosure-via-BuildKit-Buildinfo-URLs-Credentials-40870)|An attacker can bypass access restrictions to data of Docker Engine/Moby, via BuildKit Buildinfo URLs Credentials, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-overload-via-Engine-Scanner-40869" class="noirorange"><b>WithSecure Endpoint Protection</b>: overload via Engine Scanner</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-overload-via-Engine-Scanner-40869)|An attacker can trigger an overload of WithSecure Endpoint Protection, via Engine Scanner, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/QEMU-denial-of-service-via-init-dev-ring-40868" class="noirorange"><b>QEMU</b>: denial of service via init_dev_ring()</a>](https://vigilance.fr/vulnerability/QEMU-denial-of-service-via-init-dev-ring-40868)|An attacker, in a guest system, can cause a fatal error of QEMU, via init_dev_ring(), in order to trigger a denial of service on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-seq-buf-putmem-hex-40867" class="noirorange"><b>Linux kernel</b>: buffer overflow via seq_buf_putmem_hex()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-seq-buf-putmem-hex-40867)|An attacker can trigger a buffer overflow of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Squirrel-privilege-escalation-via-sqclass-cpp-40866" class="noirorange"><b>Squirrel</b>: privilege escalation via sqclass.cpp</a>](https://vigilance.fr/vulnerability/Squirrel-privilege-escalation-via-sqclass-cpp-40866)|An attacker can bypass restrictions of Squirrel, via sqclass.cpp, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Node-js-Socket-io-Parser-prototype-pollution-via-placeholder-40865" class="noirorange"><b>Node.js Socket.io-Parser</b>: prototype pollution via _placeholder</a>](https://vigilance.fr/vulnerability/Node-js-Socket-io-Parser-prototype-pollution-via-placeholder-40865)|An attacker can alter the JavaScript code of Node.js Socket.io-Parser, via _placeholder, in order to change the software behavior...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Spectrum-Protect-Plus-privilege-escalation-via-VSnap-Data-Stores-SMB-Credentials-40864" class="noirorange"><b>IBM Spectrum Protect Plus</b>: privilege escalation via VSnap Data Stores SMB Credentials</a>](https://vigilance.fr/vulnerability/IBM-Spectrum-Protect-Plus-privilege-escalation-via-VSnap-Data-Stores-SMB-Credentials-40864)|An attacker can bypass restrictions of IBM Spectrum Protect Plus, via VSnap Data Stores SMB Credentials, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Flatpak-code-execution-via-ANSI-Control-Codes-40863" class="noirorange"><b>Flatpak</b>: code execution via ANSI Control Codes</a>](https://vigilance.fr/vulnerability/Flatpak-code-execution-via-ANSI-Control-Codes-40863)|An attacker can use a vulnerability of Flatpak, via ANSI Control Codes, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Flatpak-code-execution-via-TIOCLINUX-40862" class="noirorange"><b>Flatpak</b>: code execution via TIOCLINUX</a>](https://vigilance.fr/vulnerability/Flatpak-code-execution-via-TIOCLINUX-40862)|An attacker can use a vulnerability of Flatpak, via TIOCLINUX, in order to run code...|Visit link for details|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -127,6 +110,23 @@
  |[40881603/23 - Vulnérabilités dans Cisco Small Business](https://www.dgssi.gov.ma//fr/content/4088160323-vulnerabilites-dans-cisco-small-business.html)|Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de Cisco Small Business. L’exploitation de ces failles pourrait permettre à un attaquant distant d'exécuter du code arbitraire sur un appareil affecté ou de...|16 mars 2023|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-OpenOffice-code-execution-via-Macro-URL-40872" class="noirorange"><b>Apache OpenOffice</b>: code execution via Macro URL</a>](https://vigilance.fr/vulnerability/Apache-OpenOffice-code-execution-via-Macro-URL-40872)|An attacker can use a vulnerability of Apache OpenOffice, via Macro URL, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-OpenOffice-code-execution-via-Empty-Class-Path-40871" class="noirorange"><b>Apache OpenOffice</b>: code execution via Empty Class Path</a>](https://vigilance.fr/vulnerability/Apache-OpenOffice-code-execution-via-Empty-Class-Path-40871)|An attacker can use a vulnerability of Apache OpenOffice, via Empty Class Path, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Docker-Engine-Moby-information-disclosure-via-BuildKit-Buildinfo-URLs-Credentials-40870" class="noirorange"><b>Docker Engine/Moby</b>: information disclosure via BuildKit Buildinfo URLs Credentials</a>](https://vigilance.fr/vulnerability/Docker-Engine-Moby-information-disclosure-via-BuildKit-Buildinfo-URLs-Credentials-40870)|An attacker can bypass access restrictions to data of Docker Engine/Moby, via BuildKit Buildinfo URLs Credentials, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-overload-via-Engine-Scanner-40869" class="noirorange"><b>WithSecure Endpoint Protection</b>: overload via Engine Scanner</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-overload-via-Engine-Scanner-40869)|An attacker can trigger an overload of WithSecure Endpoint Protection, via Engine Scanner, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/QEMU-denial-of-service-via-init-dev-ring-40868" class="noirorange"><b>QEMU</b>: denial of service via init_dev_ring()</a>](https://vigilance.fr/vulnerability/QEMU-denial-of-service-via-init-dev-ring-40868)|An attacker, in a guest system, can cause a fatal error of QEMU, via init_dev_ring(), in order to trigger a denial of service on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-seq-buf-putmem-hex-40867" class="noirorange"><b>Linux kernel</b>: buffer overflow via seq_buf_putmem_hex()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-seq-buf-putmem-hex-40867)|An attacker can trigger a buffer overflow of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Squirrel-privilege-escalation-via-sqclass-cpp-40866" class="noirorange"><b>Squirrel</b>: privilege escalation via sqclass.cpp</a>](https://vigilance.fr/vulnerability/Squirrel-privilege-escalation-via-sqclass-cpp-40866)|An attacker can bypass restrictions of Squirrel, via sqclass.cpp, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-Socket-io-Parser-prototype-pollution-via-placeholder-40865" class="noirorange"><b>Node.js Socket.io-Parser</b>: prototype pollution via _placeholder</a>](https://vigilance.fr/vulnerability/Node-js-Socket-io-Parser-prototype-pollution-via-placeholder-40865)|An attacker can alter the JavaScript code of Node.js Socket.io-Parser, via _placeholder, in order to change the software behavior...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Spectrum-Protect-Plus-privilege-escalation-via-VSnap-Data-Stores-SMB-Credentials-40864" class="noirorange"><b>IBM Spectrum Protect Plus</b>: privilege escalation via VSnap Data Stores SMB Credentials</a>](https://vigilance.fr/vulnerability/IBM-Spectrum-Protect-Plus-privilege-escalation-via-VSnap-Data-Stores-SMB-Credentials-40864)|An attacker can bypass restrictions of IBM Spectrum Protect Plus, via VSnap Data Stores SMB Credentials, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Flatpak-code-execution-via-ANSI-Control-Codes-40863" class="noirorange"><b>Flatpak</b>: code execution via ANSI Control Codes</a>](https://vigilance.fr/vulnerability/Flatpak-code-execution-via-ANSI-Control-Codes-40863)|An attacker can use a vulnerability of Flatpak, via ANSI Control Codes, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Flatpak-code-execution-via-TIOCLINUX-40862" class="noirorange"><b>Flatpak</b>: code execution via TIOCLINUX</a>](https://vigilance.fr/vulnerability/Flatpak-code-execution-via-TIOCLINUX-40862)|An attacker can use a vulnerability of Flatpak, via TIOCLINUX, in order to run code...|Visit link for details|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -141,6 +141,20 @@
  |[Samsung Chipset Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/samsung-chipset-remote-code-execution-vulnerability_20230320)|A vulnerability was identified in Samsung chipsets. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system.|Release Date: 20 Mar 2023|
  |[Drupal Core Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/drupal-core-multiple-vulnerabilities_20230317)|Multiple vulnerabilities were identified in Drupal Core. A remote attacker could exploit some of these vulnerabilities to trigger information disclosure and security restriction bypass on the targeted system.|Release Date: 17 Mar 2023|
  |[Adobe Monthly Security Update (March 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-march-2023)|[Updated on 2023-03-16]The risk level escalated to extremely high due to CVE-2023-26360 was exploited in attacks as a zero-day. Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpacts...| Release Date: 15 Mar 2023 |
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
 
 # CA-CCS
@@ -158,18 +172,4 @@
  |[[Control systems] Delta Electronics security advisory (AV23-163)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-delta-electronics-security-advisory-av23-163)|Visit link for details|2023-03-22|
  |[Google Chrome security advisory (AV23-162)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-162)|Visit link for details|2023-03-22|
  |[[Control systems] Rockwell Automation security advisory (AV23-161)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-rockwell-automation-security-advisory-av23-161)|Visit link for details|2023-03-22|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
