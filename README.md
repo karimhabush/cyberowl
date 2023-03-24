@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 24/03/2023 12:35:48 UTC
+ > Last Updated 24/03/2023 13:25:01 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -66,8 +66,8 @@
  |[Automatic Question Paper Generator System SQL injection (CVE-2023-1591)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 23, 2023|
  |[novel-plus SQL injection (CVE-2023-1594)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 23, 2023|
  |[novel-plus SQL injection (CVE-2023-1595)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 23, 2023|
+ |[Grafana cross-site scripting (CVE-2023-1410)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 23, 2023|
  |[Meta Data and Taxonomies Filter Plugin for WordPress cross-site scripting (CVE-2023-28664)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 23, 2023|
- |[VK All in One Expansion Unit Plugin for WordPress cross-site scripting (CVE-2023-0937)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 23, 2023|
  
 
 # VulDB
