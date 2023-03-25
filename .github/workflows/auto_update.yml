@@ -54,7 +54,7 @@ jobs:
 
       - name: Commit
         run: |
-          git add src/cyberowl/spiders/
+          git add src/cyberowl README.md docs/
           if git diff-index --quiet HEAD --; then
             echo "No changes to commit"
           else
