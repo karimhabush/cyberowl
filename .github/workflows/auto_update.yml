@@ -7,16 +7,45 @@ on:
 
 jobs:
   run-and-commit:
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        vmSize: [2]
 
     steps:
       - uses: actions/checkout@v3
+        with:
+            fetch-depth: 1
       - uses: actions/setup-python@v4
         with:
           python-version: '3.9'
           architecture: 'x64'
+      - name: Cache Poetry
+        uses: actions/cache@v2
+        with:
+          path: ~/.cache/pypoetry
+          key: ${{ runner.os }}-poetry-${{ hashFiles('**/pyproject.toml') }}
+          restore-keys: |
+            ${{ runner.os }}-poetry-
+      - name: Cache Python dependencies
+        uses: actions/cache@v2
+        with:
+          path: .venv
+          key: ${{ runner.os }}-venv-${{ hashFiles('**/poetry.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-venv-
       - run: python -m pip install poetry
-      - run: python -m poetry install
+      - run: python -m poetry config virtualenvs.in-project true && python -m poetry install
+      - name: Set up Chrome and ChromeDriver
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y unzip xvfb libxi6 libgconf-2-4
+          sudo apt-get install -y google-chrome-stable
+          wget https://chromedriver.storage.googleapis.com/$(curl https://chromedriver.storage.googleapis.com/LATEST_RELEASE)/chromedriver_linux64.zip
+          unzip chromedriver_linux64.zip
+          sudo mv chromedriver /usr/bin/chromedriver
+          sudo chown root:root /usr/bin/chromedriver
+          sudo chmod +x /usr/bin/chromedriver
       - run: python -m poetry run python src/cyberowl/main.py
       - name: Setup git config
         run: |

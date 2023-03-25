@@ -5,11 +5,11 @@
 
 import scrapy
 from items import AlertItem
-from msedge.selenium_tools import Edge, EdgeOptions
+from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
-
+from selenium.webdriver.chrome.options import Options
 
 class IBMCloudSpider(scrapy.Spider):
     """Spider for the IBMCLOUD website.
@@ -42,12 +42,11 @@ class IBMCloudSpider(scrapy.Spider):
     description_selector = ""
 
     def __init__(self):
-        options = EdgeOptions()
-        options.use_chromium = True
+        options = Options()
         options.add_argument("headless")
         options.add_argument("disable-gpu")
-        self.driver = Edge(
-            executable_path="./src/cyberowl/msedgedriver.exe", options=options
+        self.driver = webdriver.Chrome(
+            executable_path="/usr/bin/chromedriver", options=options
         )
 
     def _wait_until_website_is_ready(self) -> None:
