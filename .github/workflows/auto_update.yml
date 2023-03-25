@@ -59,7 +59,6 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "Automatic update with GitHub Actions"
-            git remote set-url origin https://x-access-token:${TOKEN}@github.com/karimhabush/cyberowl-mailer.git
             git push origin ${GITHUB_REF##*/}
           fi
 
