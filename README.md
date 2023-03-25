@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 25/03/2023 15:16:44 UTC
+ > Last Updated 25/03/2023 16:22:31 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -25,22 +25,6 @@
  
  > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/03/23/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Mar 23, 2023|
- |[Untitled Goose Tool Aids Hunt and Incident Response in Azure, Azure Active Directory, and Microsoft 365 Environments](https://www.cisa.gov/news-events/alerts/2023/03/23/untitled-goose-tool-aids-hunt-and-incident-response-azure-azure-active-directory-and-microsoft-365)|Visit link for details.|Mar 23, 2023|
- |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/03/23/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Mar 23, 2023|
- |[JCDC Cultivates Pre-Ransomware Notification Capability](https://www.cisa.gov/news-events/alerts/2023/03/23/jcdc-cultivates-pre-ransomware-notification-capability)|Visit link for details.|Mar 23, 2023|
- |[CISA and NSA Release Enduring Security Framework Guidance on Identity and Access Management](https://www.cisa.gov/news-events/alerts/2023/03/21/cisa-and-nsa-release-enduring-security-framework-guidance-identity-and-access-management)|Visit link for details.|Mar 21, 2023|
- |[CISA Releases Updated Cybersecurity Performance Goals](https://www.cisa.gov/news-events/alerts/2023/03/21/cisa-releases-updated-cybersecurity-performance-goals)|Visit link for details.|Mar 21, 2023|
- |[ CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/03/21/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Mar 21, 2023|
- |[Drupal Releases Security Advisory to Address Vulnerability in Drupal Core](https://www.cisa.gov/news-events/alerts/2023/03/17/drupal-releases-security-advisory-address-vulnerability-drupal-core)|Visit link for details.|Mar 17, 2023|
- |[CISA Releases Eight Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/03/16/cisa-releases-eight-industrial-control-systems-advisories)|Visit link for details.|Mar 16, 2023|
- |[FBI, CISA, and MS-ISAC Release #StopRansomware: LockBit 3.0](https://www.cisa.gov/news-events/alerts/2023/03/16/fbi-cisa-and-ms-isac-release-stopransomware-lockbit-30)|Visit link for details.|Mar 16, 2023|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -55,6 +39,22 @@
  |[Vulnérabilité dans Apache Tomcat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0253/)|Une vulnérabilité a été découverte dans Apache Tomcat. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 22 mars 2023|
  |[Vulnérabilité dans les produits Aruba](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0252/)|Une vulnérabilité a été découverte dans |Publié le 22 mars 2023|
  |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0251/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 22 mars 2023|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/03/23/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Mar 23, 2023|
+ |[Untitled Goose Tool Aids Hunt and Incident Response in Azure, Azure Active Directory, and Microsoft 365 Environments](https://www.cisa.gov/news-events/alerts/2023/03/23/untitled-goose-tool-aids-hunt-and-incident-response-azure-azure-active-directory-and-microsoft-365)|Visit link for details.|Mar 23, 2023|
+ |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/03/23/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Mar 23, 2023|
+ |[JCDC Cultivates Pre-Ransomware Notification Capability](https://www.cisa.gov/news-events/alerts/2023/03/23/jcdc-cultivates-pre-ransomware-notification-capability)|Visit link for details.|Mar 23, 2023|
+ |[CISA and NSA Release Enduring Security Framework Guidance on Identity and Access Management](https://www.cisa.gov/news-events/alerts/2023/03/21/cisa-and-nsa-release-enduring-security-framework-guidance-identity-and-access-management)|Visit link for details.|Mar 21, 2023|
+ |[CISA Releases Updated Cybersecurity Performance Goals](https://www.cisa.gov/news-events/alerts/2023/03/21/cisa-releases-updated-cybersecurity-performance-goals)|Visit link for details.|Mar 21, 2023|
+ |[ CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/03/21/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Mar 21, 2023|
+ |[Drupal Releases Security Advisory to Address Vulnerability in Drupal Core](https://www.cisa.gov/news-events/alerts/2023/03/17/drupal-releases-security-advisory-address-vulnerability-drupal-core)|Visit link for details.|Mar 17, 2023|
+ |[CISA Releases Eight Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/03/16/cisa-releases-eight-industrial-control-systems-advisories)|Visit link for details.|Mar 16, 2023|
+ |[FBI, CISA, and MS-ISAC Release #StopRansomware: LockBit 3.0](https://www.cisa.gov/news-events/alerts/2023/03/16/fbi-cisa-and-ms-isac-release-stopransomware-lockbit-30)|Visit link for details.|Mar 16, 2023|
  
 
 # HK-CERT
@@ -86,21 +86,10 @@
  |[Automatic Question Paper Generator System SQL injection (CVE-2023-1591)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 23, 2023|
  
 
-# OBS-Vigilance
+# VulDB
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Apache-OpenOffice-code-execution-via-Macro-URL-40872" class="noirorange"><b>Apache OpenOffice</b>: code execution via Macro URL</a>](https://vigilance.fr/vulnerability/Apache-OpenOffice-code-execution-via-Macro-URL-40872)|An attacker can use a vulnerability of Apache OpenOffice, via Macro URL, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-OpenOffice-code-execution-via-Empty-Class-Path-40871" class="noirorange"><b>Apache OpenOffice</b>: code execution via Empty Class Path</a>](https://vigilance.fr/vulnerability/Apache-OpenOffice-code-execution-via-Empty-Class-Path-40871)|An attacker can use a vulnerability of Apache OpenOffice, via Empty Class Path, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Docker-Engine-Moby-information-disclosure-via-BuildKit-Buildinfo-URLs-Credentials-40870" class="noirorange"><b>Docker Engine/Moby</b>: information disclosure via BuildKit Buildinfo URLs Credentials</a>](https://vigilance.fr/vulnerability/Docker-Engine-Moby-information-disclosure-via-BuildKit-Buildinfo-URLs-Credentials-40870)|An attacker can bypass access restrictions to data of Docker Engine/Moby, via BuildKit Buildinfo URLs Credentials, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-overload-via-Engine-Scanner-40869" class="noirorange"><b>WithSecure Endpoint Protection</b>: overload via Engine Scanner</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-overload-via-Engine-Scanner-40869)|An attacker can trigger an overload of WithSecure Endpoint Protection, via Engine Scanner, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/QEMU-denial-of-service-via-init-dev-ring-40868" class="noirorange"><b>QEMU</b>: denial of service via init_dev_ring()</a>](https://vigilance.fr/vulnerability/QEMU-denial-of-service-via-init-dev-ring-40868)|An attacker, in a guest system, can cause a fatal error of QEMU, via init_dev_ring(), in order to trigger a denial of service on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-seq-buf-putmem-hex-40867" class="noirorange"><b>Linux kernel</b>: buffer overflow via seq_buf_putmem_hex()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-seq-buf-putmem-hex-40867)|An attacker can trigger a buffer overflow of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Squirrel-privilege-escalation-via-sqclass-cpp-40866" class="noirorange"><b>Squirrel</b>: privilege escalation via sqclass.cpp</a>](https://vigilance.fr/vulnerability/Squirrel-privilege-escalation-via-sqclass-cpp-40866)|An attacker can bypass restrictions of Squirrel, via sqclass.cpp, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Node-js-Socket-io-Parser-prototype-pollution-via-placeholder-40865" class="noirorange"><b>Node.js Socket.io-Parser</b>: prototype pollution via _placeholder</a>](https://vigilance.fr/vulnerability/Node-js-Socket-io-Parser-prototype-pollution-via-placeholder-40865)|An attacker can alter the JavaScript code of Node.js Socket.io-Parser, via _placeholder, in order to change the software behavior...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Spectrum-Protect-Plus-privilege-escalation-via-VSnap-Data-Stores-SMB-Credentials-40864" class="noirorange"><b>IBM Spectrum Protect Plus</b>: privilege escalation via VSnap Data Stores SMB Credentials</a>](https://vigilance.fr/vulnerability/IBM-Spectrum-Protect-Plus-privilege-escalation-via-VSnap-Data-Stores-SMB-Credentials-40864)|An attacker can bypass restrictions of IBM Spectrum Protect Plus, via VSnap Data Stores SMB Credentials, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Flatpak-code-execution-via-ANSI-Control-Codes-40863" class="noirorange"><b>Flatpak</b>: code execution via ANSI Control Codes</a>](https://vigilance.fr/vulnerability/Flatpak-code-execution-via-ANSI-Control-Codes-40863)|An attacker can use a vulnerability of Flatpak, via ANSI Control Codes, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Flatpak-code-execution-via-TIOCLINUX-40862" class="noirorange"><b>Flatpak</b>: code execution via TIOCLINUX</a>](https://vigilance.fr/vulnerability/Flatpak-code-execution-via-TIOCLINUX-40862)|An attacker can use a vulnerability of Flatpak, via TIOCLINUX, in order to run code...|Visit link for details|
  
 
 # EU-CERT
@@ -120,6 +109,23 @@
  |[2023-010: Severe Vulnerabilities in Citrix Workspace, Virtual Apps and Desktops](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-010.pdf)|On February 14, 2023, Citrix released Security Bulletins regarding severe vulnerabilities affecting its Citrix Workspace, Virtual Apps and Desktops. If exploited, these vulnerabilities could enable attackers to elevate their privileges and take control of the affected system, but they need local access to the target.|Thursday, February 16, 2023 11:00:00 AM CET|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-OpenOffice-code-execution-via-Macro-URL-40872" class="noirorange"><b>Apache OpenOffice</b>: code execution via Macro URL</a>](https://vigilance.fr/vulnerability/Apache-OpenOffice-code-execution-via-Macro-URL-40872)|An attacker can use a vulnerability of Apache OpenOffice, via Macro URL, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-OpenOffice-code-execution-via-Empty-Class-Path-40871" class="noirorange"><b>Apache OpenOffice</b>: code execution via Empty Class Path</a>](https://vigilance.fr/vulnerability/Apache-OpenOffice-code-execution-via-Empty-Class-Path-40871)|An attacker can use a vulnerability of Apache OpenOffice, via Empty Class Path, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Docker-Engine-Moby-information-disclosure-via-BuildKit-Buildinfo-URLs-Credentials-40870" class="noirorange"><b>Docker Engine/Moby</b>: information disclosure via BuildKit Buildinfo URLs Credentials</a>](https://vigilance.fr/vulnerability/Docker-Engine-Moby-information-disclosure-via-BuildKit-Buildinfo-URLs-Credentials-40870)|An attacker can bypass access restrictions to data of Docker Engine/Moby, via BuildKit Buildinfo URLs Credentials, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-overload-via-Engine-Scanner-40869" class="noirorange"><b>WithSecure Endpoint Protection</b>: overload via Engine Scanner</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-overload-via-Engine-Scanner-40869)|An attacker can trigger an overload of WithSecure Endpoint Protection, via Engine Scanner, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/QEMU-denial-of-service-via-init-dev-ring-40868" class="noirorange"><b>QEMU</b>: denial of service via init_dev_ring()</a>](https://vigilance.fr/vulnerability/QEMU-denial-of-service-via-init-dev-ring-40868)|An attacker, in a guest system, can cause a fatal error of QEMU, via init_dev_ring(), in order to trigger a denial of service on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-seq-buf-putmem-hex-40867" class="noirorange"><b>Linux kernel</b>: buffer overflow via seq_buf_putmem_hex()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-seq-buf-putmem-hex-40867)|An attacker can trigger a buffer overflow of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Squirrel-privilege-escalation-via-sqclass-cpp-40866" class="noirorange"><b>Squirrel</b>: privilege escalation via sqclass.cpp</a>](https://vigilance.fr/vulnerability/Squirrel-privilege-escalation-via-sqclass-cpp-40866)|An attacker can bypass restrictions of Squirrel, via sqclass.cpp, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-Socket-io-Parser-prototype-pollution-via-placeholder-40865" class="noirorange"><b>Node.js Socket.io-Parser</b>: prototype pollution via _placeholder</a>](https://vigilance.fr/vulnerability/Node-js-Socket-io-Parser-prototype-pollution-via-placeholder-40865)|An attacker can alter the JavaScript code of Node.js Socket.io-Parser, via _placeholder, in order to change the software behavior...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Spectrum-Protect-Plus-privilege-escalation-via-VSnap-Data-Stores-SMB-Credentials-40864" class="noirorange"><b>IBM Spectrum Protect Plus</b>: privilege escalation via VSnap Data Stores SMB Credentials</a>](https://vigilance.fr/vulnerability/IBM-Spectrum-Protect-Plus-privilege-escalation-via-VSnap-Data-Stores-SMB-Credentials-40864)|An attacker can bypass restrictions of IBM Spectrum Protect Plus, via VSnap Data Stores SMB Credentials, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Flatpak-code-execution-via-ANSI-Control-Codes-40863" class="noirorange"><b>Flatpak</b>: code execution via ANSI Control Codes</a>](https://vigilance.fr/vulnerability/Flatpak-code-execution-via-ANSI-Control-Codes-40863)|An attacker can use a vulnerability of Flatpak, via ANSI Control Codes, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Flatpak-code-execution-via-TIOCLINUX-40862" class="noirorange"><b>Flatpak</b>: code execution via TIOCLINUX</a>](https://vigilance.fr/vulnerability/Flatpak-code-execution-via-TIOCLINUX-40862)|An attacker can use a vulnerability of Flatpak, via TIOCLINUX, in order to run code...|Visit link for details|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -135,12 +141,6 @@
  |[40901703/23 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/4090170323-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant son client de messagerie Mozilla Thunderbird. L’exploitation de ces vulnérabilités peut permettre à un...|17 mars 2023|
  |[40891703/23 - Vulnérabilités affectant le CMS Drupal](https://www.dgssi.gov.ma//fr/content/4089170323-vulnerabilites-affectant-le-cms-drupal.html)|Drupal annonce la disponibilité de mises à jour de sécurité qui corrigent plusieurs vulnérabilités auniveaude son CMS. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’accéder à des données confidentielles ou de...|17 mars 2023|
  |[40881603/23 - Vulnérabilités dans Cisco Small Business](https://www.dgssi.gov.ma//fr/content/4088160323-vulnerabilites-dans-cisco-small-business.html)|Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de Cisco Small Business. L’exploitation de ces failles pourrait permettre à un attaquant distant d'exécuter du code arbitraire sur un appareil affecté ou de...|16 mars 2023|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # CA-CCS
