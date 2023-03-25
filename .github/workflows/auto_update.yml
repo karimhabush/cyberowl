@@ -54,9 +54,14 @@ jobs:
 
       - name: Commit
         run: |
-          git add src/cyberowl/ docs/ 
-          git commit -m "Automatic update with GitHub Actions"
-          git push origin ${GITHUB_REF##*/}
+          git add src/cyberowl/spiders/
+          if git diff-index --quiet HEAD --; then
+            echo "No changes to commit"
+          else
+            git commit -m "Automatic update with GitHub Actions"
+            git remote set-url origin https://x-access-token:${TOKEN}@github.com/karimhabush/cyberowl-mailer.git
+            git push origin ${GITHUB_REF##*/}
+          fi
 
   deploy: # This job will only run if the previous job was successful, it will deploy the changes to the /docs folder to s3 bucket
     needs: run-and-commit
