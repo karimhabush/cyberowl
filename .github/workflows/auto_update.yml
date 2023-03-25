@@ -54,7 +54,7 @@ jobs:
 
       - name: Commit
         run: |
-          git add .
+          git add src/cyberowl/ docs/ 
           git commit -m "Automatic update with GitHub Actions"
           git push origin ${GITHUB_REF##*/}
 
