@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 27/03/2023 04:22:56 UTC
+ > Last Updated 27/03/2023 05:17:09 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -41,6 +41,22 @@
  |[FBI, CISA, and MS-ISAC Release #StopRansomware: LockBit 3.0](https://www.cisa.gov/news-events/alerts/2023/03/16/fbi-cisa-and-ms-isac-release-stopransomware-lockbit-30)|Visit link for details.|Mar 16, 2023|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0260/)|De multiples vulnérabilités ont été découvertes dans |Publié le 24 mars 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0259/)|De multiples vulnérabilités ont été découvertes dans |Publié le 24 mars 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0258/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 24 mars 2023|
+ |[Vulnérabilité dans Grafana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0257/)|Une vulnérabilité a été découverte dans Grafana. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 23 mars 2023|
+ |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0256/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 23 mars 2023|
+ |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0255/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 23 mars 2023|
+ |[Multiples vulnérabilités dans Tenable.sc](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0254/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 mars 2023|
+ |[Vulnérabilité dans Apache Tomcat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0253/)|Une vulnérabilité a été découverte dans Apache Tomcat. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 22 mars 2023|
+ |[Vulnérabilité dans les produits Aruba](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0252/)|Une vulnérabilité a été découverte dans |Publié le 22 mars 2023|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0251/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 22 mars 2023|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -70,12 +86,6 @@
  |[Automatic Question Paper Generator System SQL injection (CVE-2023-1591)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 23, 2023|
  
 
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -93,20 +103,24 @@
  |[<a href="https://vigilance.fr/vulnerability/Flatpak-code-execution-via-ANSI-Control-Codes-40863" class="noirorange"><b>Flatpak</b>: code execution via ANSI Control Codes</a>](https://vigilance.fr/vulnerability/Flatpak-code-execution-via-ANSI-Control-Codes-40863)|An attacker can use a vulnerability of Flatpak, via ANSI Control Codes, in order to run code...|Visit link for details|
  
 
-# CERT-FR
+# VulDB
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0260/)|De multiples vulnérabilités ont été découvertes dans |Publié le 24 mars 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0259/)|De multiples vulnérabilités ont été découvertes dans |Publié le 24 mars 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0258/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 24 mars 2023|
- |[Vulnérabilité dans Grafana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0257/)|Une vulnérabilité a été découverte dans Grafana. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 23 mars 2023|
- |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0256/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 23 mars 2023|
- |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0255/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 23 mars 2023|
- |[Multiples vulnérabilités dans Tenable.sc](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0254/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 mars 2023|
- |[Vulnérabilité dans Apache Tomcat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0253/)|Une vulnérabilité a été découverte dans Apache Tomcat. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 22 mars 2023|
- |[Vulnérabilité dans les produits Aruba](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0252/)|Une vulnérabilité a été découverte dans |Publié le 22 mars 2023|
- |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0251/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 22 mars 2023|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
 
 # EU-CERT
@@ -124,20 +138,6 @@
  |[2023-012: RCE vulnerabilities in Fortinet products](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-012.pdf)|On February 16, 2023, Fortinet released advisories regarding critical vulnerabilities in FortiNAC and FortiWeb products that may allow unauthenticated attackers to perform remote arbitrary code or command execution.|Monday, February 20, 2023 03:40:00 PM CET|
  |[2023-011: ClamAV critical vulnerability](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-011.pdf)|On February 15th, 2023, ClamAV informed about a critical vulnerability in the cross-platform antimalware toolkit. The vulnerability is identified as CVE-2023-20032 and could lead to remote code execution.|Monday, February 20, 2023 03:40:00 PM CET|
  |[2023-010: Severe Vulnerabilities in Citrix Workspace, Virtual Apps and Desktops](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-010.pdf)|On February 14, 2023, Citrix released Security Bulletins regarding severe vulnerabilities affecting its Citrix Workspace, Virtual Apps and Desktops. If exploited, these vulnerabilities could enable attackers to elevate their privileges and take control of the affected system, but they need local access to the target.|Thursday, February 16, 2023 11:00:00 AM CET|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
 
 # MA-CERT
