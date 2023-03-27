@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 27/03/2023 15:20:10 UTC
+ > Last Updated 27/03/2023 16:23:14 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,6 +57,58 @@
  |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0255/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 23 mars 2023|
  
 
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-remote-code-execution-vulnerability_20230327)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 27 Mar 2023|
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230327)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 27 Mar 2023|
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230306)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-03-07] Updated System / Technologies affected, ...| Release Date: 6 Mar 2023 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230301)|Multiple vulnerabilities were identified in RedHat Linux Kernal. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and elevation of privilege on the targeted system. [Updated on 2023-03-15] Updated System / Technologies affected, Solutions, ...| Release Date: 1 Mar 2023 |
+ |[OpenSSL Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/openssl-denial-of-service-vulnerability_20230324)|A vulnerability was identified in OpenSSL. A remote attacker could exploit this vulnerability to trigger denial of service condition.|Release Date: 24 Mar 2023|
+ |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20230324)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service and security restriction bypass on the targeted system.|Release Date: 24 Mar 2023|
+ |[Veeam Backup & Replication Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/veeam-backup-and-replication-information-disclosure-vulnerability_20230324)|A vulnerability has been identified in Veeam Backup & Replication. A remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system. Note:Proof of Concept exploit code is publicly available for CVE-2023-27532|Release Date: 24 Mar 2023|
+ |[Apache Tomcat Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/apache-tomcat-information-disclosure-vulnerability_20230323)|A vulnerability has been identified in Apache Tomcat. A remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system.|Release Date: 23 Mar 2023|
+ |[Netgear Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netgear-products-multiple-vulnerabilities_20230323)|Multiple vulnerabilities were identified in Netgear Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and sensitive information disclosure on the targeted system. Note:Proof of Concept exploit code is publicly available for CVE-2022-36429, CVE-...|Release Date: 23 Mar 2023|
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230322)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and information disclosure on the targeted system.|Release Date: 22 Mar 2023|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[TensorFlow buffer overflow (CVE-2023-25668)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 24, 2023|
+ |[TensorFlow denial of service (CVE-2023-25669)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 24, 2023|
+ |[TensorFlow denial of service (CVE-2023-25670)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 24, 2023|
+ |[TensorFlow denial of service (CVE-2023-25671)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 24, 2023|
+ |[TensorFlow denial of service (CVE-2023-25672)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 24, 2023|
+ |[TensorFlow denial of service (CVE-2023-25673)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 24, 2023|
+ |[TensorFlow denial of service (CVE-2023-25674)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 24, 2023|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Ceph-privilege-escalation-via-ceph-crash-40881" class="noirorange"><b>Ceph</b>: privilege escalation via ceph-crash</a>](https://vigilance.fr/vulnerability/Ceph-privilege-escalation-via-ceph-crash-40881)|An attacker can bypass restrictions of Ceph, via ceph-crash, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PHP-buffer-overflow-via-PHP-CLI-SERVER-WORKERS-40880" class="noirorange"><b>PHP</b>: buffer overflow via PHP_CLI_SERVER_WORKERS</a>](https://vigilance.fr/vulnerability/PHP-buffer-overflow-via-PHP-CLI-SERVER-WORKERS-40880)|An attacker can trigger a buffer overflow of PHP, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-tun-free-netdev-40879" class="noirorange"><b>Linux kernel</b>: double free via tun_free_netdev()</a>](https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-tun-free-netdev-40879)|An attacker can force a double memory free of the Linux kernel, via tun_free_netdev(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Windows-information-disclosure-via-Acropalypse-40878" class="noirorange"><b>Windows</b>: information disclosure via Acropalypse</a>](https://vigilance.fr/vulnerability/Windows-information-disclosure-via-Acropalypse-40878)|An attacker can bypass access restrictions to data of Windows, via Acropalypse, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-overload-via-nla-validate-array-40877" class="noirorange"><b>Linux kernel</b>: overload via nla_validate_array()</a>](https://vigilance.fr/vulnerability/Linux-kernel-overload-via-nla-validate-array-40877)|An attacker can trigger an overload of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ComponentSpace-SAML-for-ASP-NET-Man-in-the-Middle-40876" class="noirorange"><b>ComponentSpace SAML for ASP.NET</b>: Man-in-the-Middle</a>](https://vigilance.fr/vulnerability/ComponentSpace-SAML-for-ASP-NET-Man-in-the-Middle-40876)|An attacker can act as a Man-in-the-Middle on ComponentSpace SAML for ASP.NET, in order to read or write data in the session...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-io-file-bitmap-get-40875" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via io_file_bitmap_get()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-io-file-bitmap-get-40875)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-Wireless-Access-Point-Meraki-information-disclosure-via-Framing-Frames-40874" class="noirorange"><b>Cisco Wireless Access Point  Meraki</b>: information disclosure via Framing Frames</a>](https://vigilance.fr/vulnerability/Cisco-Wireless-Access-Point-Meraki-information-disclosure-via-Framing-Frames-40874)|An attacker can bypass access restrictions to data of Cisco Wireless Access Point  Meraki, via Framing Frames, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-40873" class="noirorange"><b>Microsoft Edge Chromium</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-40873)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-OpenOffice-code-execution-via-Macro-URL-40872" class="noirorange"><b>Apache OpenOffice</b>: code execution via Macro URL</a>](https://vigilance.fr/vulnerability/Apache-OpenOffice-code-execution-via-Macro-URL-40872)|An attacker can use a vulnerability of Apache OpenOffice, via Macro URL, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-OpenOffice-code-execution-via-Empty-Class-Path-40871" class="noirorange"><b>Apache OpenOffice</b>: code execution via Empty Class Path</a>](https://vigilance.fr/vulnerability/Apache-OpenOffice-code-execution-via-Empty-Class-Path-40871)|An attacker can use a vulnerability of Apache OpenOffice, via Empty Class Path, in order to run code...|Visit link for details|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -74,41 +126,6 @@
  |[2023-010: Severe Vulnerabilities in Citrix Workspace, Virtual Apps and Desktops](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-010.pdf)|On February 14, 2023, Citrix released Security Bulletins regarding severe vulnerabilities affecting its Citrix Workspace, Virtual Apps and Desktops. If exploited, these vulnerabilities could enable attackers to elevate their privileges and take control of the affected system, but they need local access to the target.|Thursday, February 16, 2023 11:00:00 AM CET|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[TensorFlow denial of service (CVE-2023-25672)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 24, 2023|
- |[TensorFlow denial of service (CVE-2023-25673)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 24, 2023|
- |[TensorFlow denial of service (CVE-2023-25674)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 24, 2023|
- |[TensorFlow denial of service (CVE-2023-25675)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 24, 2023|
- |[TensorFlow denial of service (CVE-2023-25676)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 24, 2023|
- |[TensorFlow code execution (CVE-2023-25801)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 24, 2023|
- |[Microsoft Windows Snipping Tool information disclosure (CVE-2023-28303)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 24, 2023|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-remote-code-execution-vulnerability_20230327)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 27 Mar 2023|
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230327)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 27 Mar 2023|
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230306)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-03-07] Updated System / Technologies affected, ...| Release Date: 6 Mar 2023 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230301)|Multiple vulnerabilities were identified in RedHat Linux Kernal. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and elevation of privilege on the targeted system. [Updated on 2023-03-15] Updated System / Technologies affected, Solutions, ...| Release Date: 1 Mar 2023 |
- |[OpenSSL Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/openssl-denial-of-service-vulnerability_20230324)|A vulnerability was identified in OpenSSL. A remote attacker could exploit this vulnerability to trigger denial of service condition.|Release Date: 24 Mar 2023|
- |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20230324)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service and security restriction bypass on the targeted system.|Release Date: 24 Mar 2023|
- |[Veeam Backup & Replication Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/veeam-backup-and-replication-information-disclosure-vulnerability_20230324)|A vulnerability has been identified in Veeam Backup & Replication. A remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system. Note:Proof of Concept exploit code is publicly available for CVE-2023-27532|Release Date: 24 Mar 2023|
- |[Apache Tomcat Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/apache-tomcat-information-disclosure-vulnerability_20230323)|A vulnerability has been identified in Apache Tomcat. A remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system.|Release Date: 23 Mar 2023|
- |[Netgear Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netgear-products-multiple-vulnerabilities_20230323)|Multiple vulnerabilities were identified in Netgear Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and sensitive information disclosure on the targeted system. Note:Proof of Concept exploit code is publicly available for CVE-2022-36429, CVE-...|Release Date: 23 Mar 2023|
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230322)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and information disclosure on the targeted system.|Release Date: 22 Mar 2023|
- 
-
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -121,23 +138,6 @@
  |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
  |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
  |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[[Control systems] ProPump and Controls security advisory (AV23-171)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-propump-and-controls-security-advisory-av23-171)|Visit link for details|2023-03-24|
- |[[Control systems] Schneider Electric security advisory (AV23-170)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av23-170)|Visit link for details|2023-03-23|
- |[[Control systems] SAUTER security advisory (AV23-169)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-sauter-security-advisory-av23-169)|Visit link for details|2023-03-23|
- |[[Control systems] RoboDK security advisory (AV23-168)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-robodk-security-advisory-av23-168)|Visit link for details|2023-03-23|
- |[[Control systems] ABB security advisory (AV23-167)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av23-167)|Visit link for details|2023-03-23|
- |[[Control systems] CP Plus security advisory (AV23-166)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cp-plus-security-advisory-av23-166)|Visit link for details|2023-03-23|
- |[Red Hat security advisory (AV23-165)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av23-165)|Visit link for details|2023-03-22|
- |[Cisco Security Advisory (AV23-164)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av23-164)|Visit link for details|2023-03-22|
- |[[Control systems] Delta Electronics security advisory (AV23-163)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-delta-electronics-security-advisory-av23-163)|Visit link for details|2023-03-22|
- |[Google Chrome security advisory (AV23-162)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-162)|Visit link for details|2023-03-22|
- |[[Control systems] Rockwell Automation security advisory (AV23-161)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-rockwell-automation-security-advisory-av23-161)|Visit link for details|2023-03-22|
  
 
 # MA-CERT
@@ -157,19 +157,19 @@
  |[40891703/23 - Vulnérabilités affectant le CMS Drupal](https://www.dgssi.gov.ma//fr/content/4089170323-vulnerabilites-affectant-le-cms-drupal.html)|Drupal annonce la disponibilité de mises à jour de sécurité qui corrigent plusieurs vulnérabilités auniveaude son CMS. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’accéder à des données confidentielles ou de...|17 mars 2023|
  
 
-# OBS-Vigilance
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Ceph-privilege-escalation-via-ceph-crash-40881" class="noirorange"><b>Ceph</b>: privilege escalation via ceph-crash</a>](https://vigilance.fr/vulnerability/Ceph-privilege-escalation-via-ceph-crash-40881)|An attacker can bypass restrictions of Ceph, via ceph-crash, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PHP-buffer-overflow-via-PHP-CLI-SERVER-WORKERS-40880" class="noirorange"><b>PHP</b>: buffer overflow via PHP_CLI_SERVER_WORKERS</a>](https://vigilance.fr/vulnerability/PHP-buffer-overflow-via-PHP-CLI-SERVER-WORKERS-40880)|An attacker can trigger a buffer overflow of PHP, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-tun-free-netdev-40879" class="noirorange"><b>Linux kernel</b>: double free via tun_free_netdev()</a>](https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-tun-free-netdev-40879)|An attacker can force a double memory free of the Linux kernel, via tun_free_netdev(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Windows-information-disclosure-via-Acropalypse-40878" class="noirorange"><b>Windows</b>: information disclosure via Acropalypse</a>](https://vigilance.fr/vulnerability/Windows-information-disclosure-via-Acropalypse-40878)|An attacker can bypass access restrictions to data of Windows, via Acropalypse, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-overload-via-nla-validate-array-40877" class="noirorange"><b>Linux kernel</b>: overload via nla_validate_array()</a>](https://vigilance.fr/vulnerability/Linux-kernel-overload-via-nla-validate-array-40877)|An attacker can trigger an overload of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ComponentSpace-SAML-for-ASP-NET-Man-in-the-Middle-40876" class="noirorange"><b>ComponentSpace SAML for ASP.NET</b>: Man-in-the-Middle</a>](https://vigilance.fr/vulnerability/ComponentSpace-SAML-for-ASP-NET-Man-in-the-Middle-40876)|An attacker can act as a Man-in-the-Middle on ComponentSpace SAML for ASP.NET, in order to read or write data in the session...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-io-file-bitmap-get-40875" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via io_file_bitmap_get()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-io-file-bitmap-get-40875)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Wireless-Access-Point-Meraki-information-disclosure-via-Framing-Frames-40874" class="noirorange"><b>Cisco Wireless Access Point  Meraki</b>: information disclosure via Framing Frames</a>](https://vigilance.fr/vulnerability/Cisco-Wireless-Access-Point-Meraki-information-disclosure-via-Framing-Frames-40874)|An attacker can bypass access restrictions to data of Cisco Wireless Access Point  Meraki, via Framing Frames, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-40873" class="noirorange"><b>Microsoft Edge Chromium</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-40873)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-OpenOffice-code-execution-via-Macro-URL-40872" class="noirorange"><b>Apache OpenOffice</b>: code execution via Macro URL</a>](https://vigilance.fr/vulnerability/Apache-OpenOffice-code-execution-via-Macro-URL-40872)|An attacker can use a vulnerability of Apache OpenOffice, via Macro URL, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-OpenOffice-code-execution-via-Empty-Class-Path-40871" class="noirorange"><b>Apache OpenOffice</b>: code execution via Empty Class Path</a>](https://vigilance.fr/vulnerability/Apache-OpenOffice-code-execution-via-Empty-Class-Path-40871)|An attacker can use a vulnerability of Apache OpenOffice, via Empty Class Path, in order to run code...|Visit link for details|
+ |[[Control systems] ProPump and Controls security advisory (AV23-171)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-propump-and-controls-security-advisory-av23-171)|Visit link for details|2023-03-24|
+ |[[Control systems] Schneider Electric security advisory (AV23-170)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av23-170)|Visit link for details|2023-03-23|
+ |[[Control systems] SAUTER security advisory (AV23-169)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-sauter-security-advisory-av23-169)|Visit link for details|2023-03-23|
+ |[[Control systems] RoboDK security advisory (AV23-168)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-robodk-security-advisory-av23-168)|Visit link for details|2023-03-23|
+ |[[Control systems] ABB security advisory (AV23-167)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av23-167)|Visit link for details|2023-03-23|
+ |[[Control systems] CP Plus security advisory (AV23-166)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cp-plus-security-advisory-av23-166)|Visit link for details|2023-03-23|
+ |[Red Hat security advisory (AV23-165)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av23-165)|Visit link for details|2023-03-22|
+ |[Cisco Security Advisory (AV23-164)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av23-164)|Visit link for details|2023-03-22|
+ |[[Control systems] Delta Electronics security advisory (AV23-163)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-delta-electronics-security-advisory-av23-163)|Visit link for details|2023-03-22|
+ |[Google Chrome security advisory (AV23-162)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-162)|Visit link for details|2023-03-22|
+ |[[Control systems] Rockwell Automation security advisory (AV23-161)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-rockwell-automation-security-advisory-av23-161)|Visit link for details|2023-03-22|
  
