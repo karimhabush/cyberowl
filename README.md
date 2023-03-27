@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 27/03/2023 07:17:36 UTC
+ > Last Updated 27/03/2023 08:24:33 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -41,22 +41,6 @@
  |[FBI, CISA, and MS-ISAC Release #StopRansomware: LockBit 3.0](https://www.cisa.gov/news-events/alerts/2023/03/16/fbi-cisa-and-ms-isac-release-stopransomware-lockbit-30)|Visit link for details.|Mar 16, 2023|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0260/)|De multiples vulnérabilités ont été découvertes dans |Publié le 24 mars 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0259/)|De multiples vulnérabilités ont été découvertes dans |Publié le 24 mars 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0258/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 24 mars 2023|
- |[Vulnérabilité dans Grafana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0257/)|Une vulnérabilité a été découverte dans Grafana. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 23 mars 2023|
- |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0256/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 23 mars 2023|
- |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0255/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 23 mars 2023|
- |[Multiples vulnérabilités dans Tenable.sc](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0254/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 mars 2023|
- |[Vulnérabilité dans Apache Tomcat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0253/)|Une vulnérabilité a été découverte dans Apache Tomcat. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 22 mars 2023|
- |[Vulnérabilité dans les produits Aruba](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0252/)|Une vulnérabilité a été découverte dans |Publié le 22 mars 2023|
- |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0251/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 22 mars 2023|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -73,27 +57,20 @@
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230322)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and information disclosure on the targeted system.|Release Date: 22 Mar 2023|
  
 
-# VulDB
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-40873" class="noirorange"><b>Microsoft Edge Chromium</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-40873)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-OpenOffice-code-execution-via-Macro-URL-40872" class="noirorange"><b>Apache OpenOffice</b>: code execution via Macro URL</a>](https://vigilance.fr/vulnerability/Apache-OpenOffice-code-execution-via-Macro-URL-40872)|An attacker can use a vulnerability of Apache OpenOffice, via Macro URL, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-OpenOffice-code-execution-via-Empty-Class-Path-40871" class="noirorange"><b>Apache OpenOffice</b>: code execution via Empty Class Path</a>](https://vigilance.fr/vulnerability/Apache-OpenOffice-code-execution-via-Empty-Class-Path-40871)|An attacker can use a vulnerability of Apache OpenOffice, via Empty Class Path, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Docker-Engine-Moby-information-disclosure-via-BuildKit-Buildinfo-URLs-Credentials-40870" class="noirorange"><b>Docker Engine/Moby</b>: information disclosure via BuildKit Buildinfo URLs Credentials</a>](https://vigilance.fr/vulnerability/Docker-Engine-Moby-information-disclosure-via-BuildKit-Buildinfo-URLs-Credentials-40870)|An attacker can bypass access restrictions to data of Docker Engine/Moby, via BuildKit Buildinfo URLs Credentials, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-overload-via-Engine-Scanner-40869" class="noirorange"><b>WithSecure Endpoint Protection</b>: overload via Engine Scanner</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-overload-via-Engine-Scanner-40869)|An attacker can trigger an overload of WithSecure Endpoint Protection, via Engine Scanner, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/QEMU-denial-of-service-via-init-dev-ring-40868" class="noirorange"><b>QEMU</b>: denial of service via init_dev_ring()</a>](https://vigilance.fr/vulnerability/QEMU-denial-of-service-via-init-dev-ring-40868)|An attacker, in a guest system, can cause a fatal error of QEMU, via init_dev_ring(), in order to trigger a denial of service on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-seq-buf-putmem-hex-40867" class="noirorange"><b>Linux kernel</b>: buffer overflow via seq_buf_putmem_hex()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-seq-buf-putmem-hex-40867)|An attacker can trigger a buffer overflow of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Squirrel-privilege-escalation-via-sqclass-cpp-40866" class="noirorange"><b>Squirrel</b>: privilege escalation via sqclass.cpp</a>](https://vigilance.fr/vulnerability/Squirrel-privilege-escalation-via-sqclass-cpp-40866)|An attacker can bypass restrictions of Squirrel, via sqclass.cpp, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Node-js-Socket-io-Parser-prototype-pollution-via-placeholder-40865" class="noirorange"><b>Node.js Socket.io-Parser</b>: prototype pollution via _placeholder</a>](https://vigilance.fr/vulnerability/Node-js-Socket-io-Parser-prototype-pollution-via-placeholder-40865)|An attacker can alter the JavaScript code of Node.js Socket.io-Parser, via _placeholder, in order to change the software behavior...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Spectrum-Protect-Plus-privilege-escalation-via-VSnap-Data-Stores-SMB-Credentials-40864" class="noirorange"><b>IBM Spectrum Protect Plus</b>: privilege escalation via VSnap Data Stores SMB Credentials</a>](https://vigilance.fr/vulnerability/IBM-Spectrum-Protect-Plus-privilege-escalation-via-VSnap-Data-Stores-SMB-Credentials-40864)|An attacker can bypass restrictions of IBM Spectrum Protect Plus, via VSnap Data Stores SMB Credentials, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Flatpak-code-execution-via-ANSI-Control-Codes-40863" class="noirorange"><b>Flatpak</b>: code execution via ANSI Control Codes</a>](https://vigilance.fr/vulnerability/Flatpak-code-execution-via-ANSI-Control-Codes-40863)|An attacker can use a vulnerability of Flatpak, via ANSI Control Codes, in order to run code...|Visit link for details|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0260/)|De multiples vulnérabilités ont été découvertes dans |Publié le 24 mars 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0259/)|De multiples vulnérabilités ont été découvertes dans |Publié le 24 mars 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0258/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 24 mars 2023|
+ |[Vulnérabilité dans Grafana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0257/)|Une vulnérabilité a été découverte dans Grafana. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 23 mars 2023|
+ |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0256/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 23 mars 2023|
+ |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0255/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 23 mars 2023|
+ |[Multiples vulnérabilités dans Tenable.sc](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0254/)|De multiples vulnérabilités ont été découvertes dans |Publié le 23 mars 2023|
+ |[Vulnérabilité dans Apache Tomcat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0253/)|Une vulnérabilité a été découverte dans Apache Tomcat. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 22 mars 2023|
+ |[Vulnérabilité dans les produits Aruba](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0252/)|Une vulnérabilité a été découverte dans |Publié le 22 mars 2023|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0251/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 22 mars 2023|
  
 
 # IBM-X-FORCE-EXCHANGE
@@ -126,18 +103,27 @@
  |[2023-010: Severe Vulnerabilities in Citrix Workspace, Virtual Apps and Desktops](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-010.pdf)|On February 14, 2023, Citrix released Security Bulletins regarding severe vulnerabilities affecting its Citrix Workspace, Virtual Apps and Desktops. If exploited, these vulnerabilities could enable attackers to elevate their privileges and take control of the affected system, but they need local access to the target.|Thursday, February 16, 2023 11:00:00 AM CET|
  
 
-# ZERODAYINITIATIVE
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-Wireless-Access-Point-Meraki-information-disclosure-via-Framing-Frames-40874" class="noirorange"><b>Cisco Wireless Access Point  Meraki</b>: information disclosure via Framing Frames</a>](https://vigilance.fr/vulnerability/Cisco-Wireless-Access-Point-Meraki-information-disclosure-via-Framing-Frames-40874)|An attacker can bypass access restrictions to data of Cisco Wireless Access Point  Meraki, via Framing Frames, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-40873" class="noirorange"><b>Microsoft Edge Chromium</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-40873)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-OpenOffice-code-execution-via-Macro-URL-40872" class="noirorange"><b>Apache OpenOffice</b>: code execution via Macro URL</a>](https://vigilance.fr/vulnerability/Apache-OpenOffice-code-execution-via-Macro-URL-40872)|An attacker can use a vulnerability of Apache OpenOffice, via Macro URL, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-OpenOffice-code-execution-via-Empty-Class-Path-40871" class="noirorange"><b>Apache OpenOffice</b>: code execution via Empty Class Path</a>](https://vigilance.fr/vulnerability/Apache-OpenOffice-code-execution-via-Empty-Class-Path-40871)|An attacker can use a vulnerability of Apache OpenOffice, via Empty Class Path, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Docker-Engine-Moby-information-disclosure-via-BuildKit-Buildinfo-URLs-Credentials-40870" class="noirorange"><b>Docker Engine/Moby</b>: information disclosure via BuildKit Buildinfo URLs Credentials</a>](https://vigilance.fr/vulnerability/Docker-Engine-Moby-information-disclosure-via-BuildKit-Buildinfo-URLs-Credentials-40870)|An attacker can bypass access restrictions to data of Docker Engine/Moby, via BuildKit Buildinfo URLs Credentials, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-overload-via-Engine-Scanner-40869" class="noirorange"><b>WithSecure Endpoint Protection</b>: overload via Engine Scanner</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-overload-via-Engine-Scanner-40869)|An attacker can trigger an overload of WithSecure Endpoint Protection, via Engine Scanner, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/QEMU-denial-of-service-via-init-dev-ring-40868" class="noirorange"><b>QEMU</b>: denial of service via init_dev_ring()</a>](https://vigilance.fr/vulnerability/QEMU-denial-of-service-via-init-dev-ring-40868)|An attacker, in a guest system, can cause a fatal error of QEMU, via init_dev_ring(), in order to trigger a denial of service on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-seq-buf-putmem-hex-40867" class="noirorange"><b>Linux kernel</b>: buffer overflow via seq_buf_putmem_hex()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-seq-buf-putmem-hex-40867)|An attacker can trigger a buffer overflow of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Squirrel-privilege-escalation-via-sqclass-cpp-40866" class="noirorange"><b>Squirrel</b>: privilege escalation via sqclass.cpp</a>](https://vigilance.fr/vulnerability/Squirrel-privilege-escalation-via-sqclass-cpp-40866)|An attacker can bypass restrictions of Squirrel, via sqclass.cpp, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-Socket-io-Parser-prototype-pollution-via-placeholder-40865" class="noirorange"><b>Node.js Socket.io-Parser</b>: prototype pollution via _placeholder</a>](https://vigilance.fr/vulnerability/Node-js-Socket-io-Parser-prototype-pollution-via-placeholder-40865)|An attacker can alter the JavaScript code of Node.js Socket.io-Parser, via _placeholder, in order to change the software behavior...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Spectrum-Protect-Plus-privilege-escalation-via-VSnap-Data-Stores-SMB-Credentials-40864" class="noirorange"><b>IBM Spectrum Protect Plus</b>: privilege escalation via VSnap Data Stores SMB Credentials</a>](https://vigilance.fr/vulnerability/IBM-Spectrum-Protect-Plus-privilege-escalation-via-VSnap-Data-Stores-SMB-Credentials-40864)|An attacker can bypass restrictions of IBM Spectrum Protect Plus, via VSnap Data Stores SMB Credentials, in order to escalate his privileges...|Visit link for details|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # MA-CERT
@@ -155,6 +141,20 @@
  |[40901703/23 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/4090170323-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant son client de messagerie Mozilla Thunderbird. L’exploitation de ces vulnérabilités peut permettre à un...|17 mars 2023|
  |[40891703/23 - Vulnérabilités affectant le CMS Drupal](https://www.dgssi.gov.ma//fr/content/4089170323-vulnerabilites-affectant-le-cms-drupal.html)|Drupal annonce la disponibilité de mises à jour de sécurité qui corrigent plusieurs vulnérabilités auniveaude son CMS. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’accéder à des données confidentielles ou de...|17 mars 2023|
  |[40881603/23 - Vulnérabilités dans Cisco Small Business](https://www.dgssi.gov.ma//fr/content/4088160323-vulnerabilites-dans-cisco-small-business.html)|Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de Cisco Small Business. L’exploitation de ces failles pourrait permettre à un attaquant distant d'exécuter du code arbitraire sur un appareil affecté ou de...|16 mars 2023|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
 
 # CA-CCS
