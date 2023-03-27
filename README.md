@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 27/03/2023 21:16:06 UTC
+ > Last Updated 27/03/2023 22:17:52 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,23 +57,6 @@
  |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0255/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 23 mars 2023|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/runc-privilege-escalation-via-libcontainer-rootfs-linux-go-40882" class="noirorange"><b>runc</b>: privilege escalation via libcontainer/rootfs_linux.go</a>](https://vigilance.fr/vulnerability/runc-privilege-escalation-via-libcontainer-rootfs-linux-go-40882)|An attacker can bypass restrictions of runc, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ceph-privilege-escalation-via-ceph-crash-40881" class="noirorange"><b>Ceph</b>: privilege escalation via ceph-crash</a>](https://vigilance.fr/vulnerability/Ceph-privilege-escalation-via-ceph-crash-40881)|An attacker can bypass restrictions of Ceph, via ceph-crash, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PHP-buffer-overflow-via-PHP-CLI-SERVER-WORKERS-40880" class="noirorange"><b>PHP</b>: buffer overflow via PHP_CLI_SERVER_WORKERS</a>](https://vigilance.fr/vulnerability/PHP-buffer-overflow-via-PHP-CLI-SERVER-WORKERS-40880)|An attacker can trigger a buffer overflow of PHP, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-tun-free-netdev-40879" class="noirorange"><b>Linux kernel</b>: double free via tun_free_netdev()</a>](https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-tun-free-netdev-40879)|An attacker can force a double memory free of the Linux kernel, via tun_free_netdev(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Windows-information-disclosure-via-Acropalypse-40878" class="noirorange"><b>Windows</b>: information disclosure via Acropalypse</a>](https://vigilance.fr/vulnerability/Windows-information-disclosure-via-Acropalypse-40878)|An attacker can bypass access restrictions to data of Windows, via Acropalypse, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-overload-via-nla-validate-array-40877" class="noirorange"><b>Linux kernel</b>: overload via nla_validate_array()</a>](https://vigilance.fr/vulnerability/Linux-kernel-overload-via-nla-validate-array-40877)|An attacker can trigger an overload of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ComponentSpace-SAML-for-ASP-NET-Man-in-the-Middle-40876" class="noirorange"><b>ComponentSpace SAML for ASP.NET</b>: Man-in-the-Middle</a>](https://vigilance.fr/vulnerability/ComponentSpace-SAML-for-ASP-NET-Man-in-the-Middle-40876)|An attacker can act as a Man-in-the-Middle on ComponentSpace SAML for ASP.NET, in order to read or write data in the session...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-io-file-bitmap-get-40875" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via io_file_bitmap_get()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-io-file-bitmap-get-40875)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Wireless-Access-Point-Meraki-information-disclosure-via-Framing-Frames-40874" class="noirorange"><b>Cisco Wireless Access Point  Meraki</b>: information disclosure via Framing Frames</a>](https://vigilance.fr/vulnerability/Cisco-Wireless-Access-Point-Meraki-information-disclosure-via-Framing-Frames-40874)|An attacker can bypass access restrictions to data of Cisco Wireless Access Point  Meraki, via Framing Frames, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-40873" class="noirorange"><b>Microsoft Edge Chromium</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-40873)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-OpenOffice-code-execution-via-Macro-URL-40872" class="noirorange"><b>Apache OpenOffice</b>: code execution via Macro URL</a>](https://vigilance.fr/vulnerability/Apache-OpenOffice-code-execution-via-Macro-URL-40872)|An attacker can use a vulnerability of Apache OpenOffice, via Macro URL, in order to run code...|Visit link for details|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -91,10 +74,27 @@
  |[2023-010: Severe Vulnerabilities in Citrix Workspace, Virtual Apps and Desktops](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-010.pdf)|On February 14, 2023, Citrix released Security Bulletins regarding severe vulnerabilities affecting its Citrix Workspace, Virtual Apps and Desktops. If exploited, these vulnerabilities could enable attackers to elevate their privileges and take control of the affected system, but they need local access to the target.|Thursday, February 16, 2023 11:00:00 AM CET|
  
 
-# VulDB
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/runc-privilege-escalation-via-libcontainer-rootfs-linux-go-40882" class="noirorange"><b>runc</b>: privilege escalation via libcontainer/rootfs_linux.go</a>](https://vigilance.fr/vulnerability/runc-privilege-escalation-via-libcontainer-rootfs-linux-go-40882)|An attacker can bypass restrictions of runc, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ceph-privilege-escalation-via-ceph-crash-40881" class="noirorange"><b>Ceph</b>: privilege escalation via ceph-crash</a>](https://vigilance.fr/vulnerability/Ceph-privilege-escalation-via-ceph-crash-40881)|An attacker can bypass restrictions of Ceph, via ceph-crash, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PHP-buffer-overflow-via-PHP-CLI-SERVER-WORKERS-40880" class="noirorange"><b>PHP</b>: buffer overflow via PHP_CLI_SERVER_WORKERS</a>](https://vigilance.fr/vulnerability/PHP-buffer-overflow-via-PHP-CLI-SERVER-WORKERS-40880)|An attacker can trigger a buffer overflow of PHP, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-tun-free-netdev-40879" class="noirorange"><b>Linux kernel</b>: double free via tun_free_netdev()</a>](https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-tun-free-netdev-40879)|An attacker can force a double memory free of the Linux kernel, via tun_free_netdev(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Windows-information-disclosure-via-Acropalypse-40878" class="noirorange"><b>Windows</b>: information disclosure via Acropalypse</a>](https://vigilance.fr/vulnerability/Windows-information-disclosure-via-Acropalypse-40878)|An attacker can bypass access restrictions to data of Windows, via Acropalypse, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-overload-via-nla-validate-array-40877" class="noirorange"><b>Linux kernel</b>: overload via nla_validate_array()</a>](https://vigilance.fr/vulnerability/Linux-kernel-overload-via-nla-validate-array-40877)|An attacker can trigger an overload of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ComponentSpace-SAML-for-ASP-NET-Man-in-the-Middle-40876" class="noirorange"><b>ComponentSpace SAML for ASP.NET</b>: Man-in-the-Middle</a>](https://vigilance.fr/vulnerability/ComponentSpace-SAML-for-ASP-NET-Man-in-the-Middle-40876)|An attacker can act as a Man-in-the-Middle on ComponentSpace SAML for ASP.NET, in order to read or write data in the session...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-io-file-bitmap-get-40875" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via io_file_bitmap_get()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-io-file-bitmap-get-40875)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-Wireless-Access-Point-Meraki-information-disclosure-via-Framing-Frames-40874" class="noirorange"><b>Cisco Wireless Access Point  Meraki</b>: information disclosure via Framing Frames</a>](https://vigilance.fr/vulnerability/Cisco-Wireless-Access-Point-Meraki-information-disclosure-via-Framing-Frames-40874)|An attacker can bypass access restrictions to data of Cisco Wireless Access Point  Meraki, via Framing Frames, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-40873" class="noirorange"><b>Microsoft Edge Chromium</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-two-vulnerabilities-40873)|An attacker can use several vulnerabilities of Microsoft Edge Chromium...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-OpenOffice-code-execution-via-Macro-URL-40872" class="noirorange"><b>Apache OpenOffice</b>: code execution via Macro URL</a>](https://vigilance.fr/vulnerability/Apache-OpenOffice-code-execution-via-Macro-URL-40872)|An attacker can use a vulnerability of Apache OpenOffice, via Macro URL, in order to run code...|Visit link for details|
  
 
 # HK-CERT
@@ -130,17 +130,10 @@
  |[40891703/23 - Vulnérabilités affectant le CMS Drupal](https://www.dgssi.gov.ma//fr/content/4089170323-vulnerabilites-affectant-le-cms-drupal.html)|Drupal annonce la disponibilité de mises à jour de sécurité qui corrigent plusieurs vulnérabilités auniveaude son CMS. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’accéder à des données confidentielles ou de...|17 mars 2023|
  
 
-# IBM-X-FORCE-EXCHANGE
+# VulDB
 
  |Title|Description|Date|
  |---|---|---|
- |[Ruijie Networks RG-EW1200G PRO, Ruijie Networks RG-EW1800GX PRO, and Ruijie Networks RG-EW3200GX PRO command execution (CVE-2023-27796)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 26, 2023|
- |[AVer Information PTZApp2 directory traversal (CVE-2022-27005)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 24, 2023|
- |[TensorFlow denial of service (CVE-2023-27579)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 24, 2023|
- |[TensorFlow denial of service (CVE-2023-25658)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 24, 2023|
- |[TensorFlow denial of service (CVE-2023-25659)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 24, 2023|
- |[TensorFlow denial of service (CVE-2023-25660)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 24, 2023|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 24, 2023|
  
 
 # ZERODAYINITIATIVE
