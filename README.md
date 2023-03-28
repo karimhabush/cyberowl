@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 28/03/2023 12:37:36 UTC
+ > Last Updated 28/03/2023 13:25:15 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,23 +57,20 @@
  |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0255/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 23 mars 2023|
  
 
-# IBM-X-FORCE-EXCHANGE
+# HK-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Apple macOS Ventura, iOS and iPadOS security bypass (CVE-2023-27932)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 27, 2023|
- |[Apple iOS and iPadOS code execution (CVE-2023-23540)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 27, 2023|
- |[Apple macOS Ventura, iOS and iPadOS security bypass (CVE-2023-23532)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 27, 2023|
- |[Apple macOS Ventura, iOS and iPadOS information disclosure (CVE-2023-23527)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 27, 2023|
- |[Apple macOS Ventura buffer overflow (CVE-2023-27968)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 27, 2023|
- |[Apache Fineract SQL injection (CVE-2023-25197)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 27, 2023|
- |[Apache Fineract SQL injection (CVE-2023-25196)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 27, 2023|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
+ |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20230328)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, data manipulation, spoofing, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. Note...|Release Date: 28 Mar 2023|
+ |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-remote-code-execution-vulnerability_20230327)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 27 Mar 2023|
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230327)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 27 Mar 2023|
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230306)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-03-07] Updated System / Technologies affected, ...| Release Date: 6 Mar 2023 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230301)|Multiple vulnerabilities were identified in RedHat Linux Kernal. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and elevation of privilege on the targeted system. [Updated on 2023-03-15] Updated System / Technologies affected, Solutions, ...| Release Date: 1 Mar 2023 |
+ |[OpenSSL Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/openssl-denial-of-service-vulnerability_20230324)|A vulnerability was identified in OpenSSL. A remote attacker could exploit this vulnerability to trigger denial of service condition.|Release Date: 24 Mar 2023|
+ |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20230324)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service and security restriction bypass on the targeted system.|Release Date: 24 Mar 2023|
+ |[Veeam Backup & Replication Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/veeam-backup-and-replication-information-disclosure-vulnerability_20230324)|A vulnerability has been identified in Veeam Backup & Replication. A remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system. Note:Proof of Concept exploit code is publicly available for CVE-2023-27532|Release Date: 24 Mar 2023|
+ |[Apache Tomcat Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/apache-tomcat-information-disclosure-vulnerability_20230323)|A vulnerability has been identified in Apache Tomcat. A remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system.|Release Date: 23 Mar 2023|
+ |[Netgear Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netgear-products-multiple-vulnerabilities_20230323)|Multiple vulnerabilities were identified in Netgear Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and sensitive information disclosure on the targeted system. Note:Proof of Concept exploit code is publicly available for CVE-2022-36429, CVE-...|Release Date: 23 Mar 2023|
  
 
 # EU-CERT
@@ -93,21 +90,37 @@
  |[2023-010: Severe Vulnerabilities in Citrix Workspace, Virtual Apps and Desktops](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-010.pdf)|On February 14, 2023, Citrix released Security Bulletins regarding severe vulnerabilities affecting its Citrix Workspace, Virtual Apps and Desktops. If exploited, these vulnerabilities could enable attackers to elevate their privileges and take control of the affected system, but they need local access to the target.|Thursday, February 16, 2023 11:00:00 AM CET|
  
 
-# OBS-Vigilance
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-40888" class="noirorange"><b>Apple iOS  macOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-40888)|An attacker can use several vulnerabilities of Apple iOS  macOS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Dino-write-access-via-Personal-Bookmark-40887" class="noirorange"><b>Dino</b>: write access via Personal Bookmark</a>](https://vigilance.fr/vulnerability/Dino-write-access-via-Personal-Bookmark-40887)|An attacker can bypass access restrictions of Dino, via Personal Bookmark, in order to alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/QEMU-privilege-escalation-via-Guest-Agent-Service-For-Windows-40886" class="noirorange"><b>QEMU</b>: privilege escalation via Guest Agent Service For Windows</a>](https://vigilance.fr/vulnerability/QEMU-privilege-escalation-via-Guest-Agent-Service-For-Windows-40886)|An attacker, in a guest system, can bypass restrictions of QEMU, via Guest Agent Service For Windows, in order to escalate his privileges on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-rds-rm-zerocopy-callback-40885" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via rds_rm_zerocopy_callback()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-rds-rm-zerocopy-callback-40885)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-az6027-i2c-xfer-40884" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via az6027_i2c_xfer()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-az6027-i2c-xfer-40884)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via az6027_i2c_xfer(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-ntfs-attr-find-40883" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via ntfs_attr_find()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-ntfs-attr-find-40883)|An attacker can force a read at an invalid memory address of the Linux kernel, via ntfs_attr_find(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/runc-privilege-escalation-via-libcontainer-rootfs-linux-go-40882" class="noirorange"><b>runc</b>: privilege escalation via libcontainer/rootfs_linux.go</a>](https://vigilance.fr/vulnerability/runc-privilege-escalation-via-libcontainer-rootfs-linux-go-40882)|An attacker can bypass restrictions of runc, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ceph-privilege-escalation-via-ceph-crash-40881" class="noirorange"><b>Ceph</b>: privilege escalation via ceph-crash</a>](https://vigilance.fr/vulnerability/Ceph-privilege-escalation-via-ceph-crash-40881)|An attacker can bypass restrictions of Ceph, via ceph-crash, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PHP-buffer-overflow-via-PHP-CLI-SERVER-WORKERS-40880" class="noirorange"><b>PHP</b>: buffer overflow via PHP_CLI_SERVER_WORKERS</a>](https://vigilance.fr/vulnerability/PHP-buffer-overflow-via-PHP-CLI-SERVER-WORKERS-40880)|An attacker can trigger a buffer overflow of PHP, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-tun-free-netdev-40879" class="noirorange"><b>Linux kernel</b>: double free via tun_free_netdev()</a>](https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-tun-free-netdev-40879)|An attacker can force a double memory free of the Linux kernel, via tun_free_netdev(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Windows-information-disclosure-via-Acropalypse-40878" class="noirorange"><b>Windows</b>: information disclosure via Acropalypse</a>](https://vigilance.fr/vulnerability/Windows-information-disclosure-via-Acropalypse-40878)|An attacker can bypass access restrictions to data of Windows, via Acropalypse, in order to read sensitive information...|Visit link for details|
+ |[Apple macOS Ventura, iOS and iPadOS security bypass (CVE-2023-27932)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 27, 2023|
+ |[Apple iOS and iPadOS code execution (CVE-2023-23540)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 27, 2023|
+ |[Apple macOS Ventura, iOS and iPadOS security bypass (CVE-2023-23532)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 27, 2023|
+ |[Apple macOS Ventura, iOS and iPadOS information disclosure (CVE-2023-23527)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 27, 2023|
+ |[Apple macOS Ventura buffer overflow (CVE-2023-27968)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 27, 2023|
+ |[Apache Fineract SQL injection (CVE-2023-25197)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 27, 2023|
+ |[Apache Fineract SQL injection (CVE-2023-25196)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 27, 2023|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
 
 # MA-CERT
@@ -127,34 +140,21 @@
  |[40901703/23 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/4090170323-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant son client de messagerie Mozilla Thunderbird. L’exploitation de ces vulnérabilités peut permettre à un...|17 mars 2023|
  
 
-# HK-CERT
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20230328)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, data manipulation, spoofing, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. Note...|Release Date: 28 Mar 2023|
- |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-remote-code-execution-vulnerability_20230327)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 27 Mar 2023|
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230327)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 27 Mar 2023|
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230306)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-03-07] Updated System / Technologies affected, ...| Release Date: 6 Mar 2023 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230301)|Multiple vulnerabilities were identified in RedHat Linux Kernal. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and elevation of privilege on the targeted system. [Updated on 2023-03-15] Updated System / Technologies affected, Solutions, ...| Release Date: 1 Mar 2023 |
- |[OpenSSL Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/openssl-denial-of-service-vulnerability_20230324)|A vulnerability was identified in OpenSSL. A remote attacker could exploit this vulnerability to trigger denial of service condition.|Release Date: 24 Mar 2023|
- |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20230324)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service and security restriction bypass on the targeted system.|Release Date: 24 Mar 2023|
- |[Veeam Backup & Replication Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/veeam-backup-and-replication-information-disclosure-vulnerability_20230324)|A vulnerability has been identified in Veeam Backup & Replication. A remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system. Note:Proof of Concept exploit code is publicly available for CVE-2023-27532|Release Date: 24 Mar 2023|
- |[Apache Tomcat Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/apache-tomcat-information-disclosure-vulnerability_20230323)|A vulnerability has been identified in Apache Tomcat. A remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system.|Release Date: 23 Mar 2023|
- |[Netgear Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netgear-products-multiple-vulnerabilities_20230323)|Multiple vulnerabilities were identified in Netgear Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and sensitive information disclosure on the targeted system. Note:Proof of Concept exploit code is publicly available for CVE-2022-36429, CVE-...|Release Date: 23 Mar 2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
+ |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-40888" class="noirorange"><b>Apple iOS  macOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-40888)|An attacker can use several vulnerabilities of Apple iOS  macOS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Dino-write-access-via-Personal-Bookmark-40887" class="noirorange"><b>Dino</b>: write access via Personal Bookmark</a>](https://vigilance.fr/vulnerability/Dino-write-access-via-Personal-Bookmark-40887)|An attacker can bypass access restrictions of Dino, via Personal Bookmark, in order to alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/QEMU-privilege-escalation-via-Guest-Agent-Service-For-Windows-40886" class="noirorange"><b>QEMU</b>: privilege escalation via Guest Agent Service For Windows</a>](https://vigilance.fr/vulnerability/QEMU-privilege-escalation-via-Guest-Agent-Service-For-Windows-40886)|An attacker, in a guest system, can bypass restrictions of QEMU, via Guest Agent Service For Windows, in order to escalate his privileges on the host system...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-rds-rm-zerocopy-callback-40885" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via rds_rm_zerocopy_callback()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-rds-rm-zerocopy-callback-40885)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-az6027-i2c-xfer-40884" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via az6027_i2c_xfer()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-az6027-i2c-xfer-40884)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via az6027_i2c_xfer(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-ntfs-attr-find-40883" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via ntfs_attr_find()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-ntfs-attr-find-40883)|An attacker can force a read at an invalid memory address of the Linux kernel, via ntfs_attr_find(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/runc-privilege-escalation-via-libcontainer-rootfs-linux-go-40882" class="noirorange"><b>runc</b>: privilege escalation via libcontainer/rootfs_linux.go</a>](https://vigilance.fr/vulnerability/runc-privilege-escalation-via-libcontainer-rootfs-linux-go-40882)|An attacker can bypass restrictions of runc, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ceph-privilege-escalation-via-ceph-crash-40881" class="noirorange"><b>Ceph</b>: privilege escalation via ceph-crash</a>](https://vigilance.fr/vulnerability/Ceph-privilege-escalation-via-ceph-crash-40881)|An attacker can bypass restrictions of Ceph, via ceph-crash, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PHP-buffer-overflow-via-PHP-CLI-SERVER-WORKERS-40880" class="noirorange"><b>PHP</b>: buffer overflow via PHP_CLI_SERVER_WORKERS</a>](https://vigilance.fr/vulnerability/PHP-buffer-overflow-via-PHP-CLI-SERVER-WORKERS-40880)|An attacker can trigger a buffer overflow of PHP, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-tun-free-netdev-40879" class="noirorange"><b>Linux kernel</b>: double free via tun_free_netdev()</a>](https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-tun-free-netdev-40879)|An attacker can force a double memory free of the Linux kernel, via tun_free_netdev(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Windows-information-disclosure-via-Acropalypse-40878" class="noirorange"><b>Windows</b>: information disclosure via Acropalypse</a>](https://vigilance.fr/vulnerability/Windows-information-disclosure-via-Acropalypse-40878)|An attacker can bypass access restrictions to data of Windows, via Acropalypse, in order to read sensitive information...|Visit link for details|
  
 
 # CA-CCS
