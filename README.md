@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 28/03/2023 10:20:30 UTC
+ > Last Updated 28/03/2023 11:15:45 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,6 +57,12 @@
  |[Vulnérabilité dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0255/)|Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 23 mars 2023|
  
 
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -71,25 +77,6 @@
  |[Veeam Backup & Replication Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/veeam-backup-and-replication-information-disclosure-vulnerability_20230324)|A vulnerability has been identified in Veeam Backup & Replication. A remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system. Note:Proof of Concept exploit code is publicly available for CVE-2023-27532|Release Date: 24 Mar 2023|
  |[Apache Tomcat Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/apache-tomcat-information-disclosure-vulnerability_20230323)|A vulnerability has been identified in Apache Tomcat. A remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system.|Release Date: 23 Mar 2023|
  |[Netgear Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netgear-products-multiple-vulnerabilities_20230323)|Multiple vulnerabilities were identified in Netgear Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and sensitive information disclosure on the targeted system. Note:Proof of Concept exploit code is publicly available for CVE-2022-36429, CVE-...|Release Date: 23 Mar 2023|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Apple macOS Ventura, iOS and iPadOS security bypass (CVE-2023-27932)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 27, 2023|
- |[Apple iOS and iPadOS code execution (CVE-2023-23540)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 27, 2023|
- |[Apple macOS Ventura, iOS and iPadOS security bypass (CVE-2023-23532)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 27, 2023|
- |[Apple macOS Ventura, iOS and iPadOS information disclosure (CVE-2023-23527)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 27, 2023|
- |[Apple macOS Ventura buffer overflow (CVE-2023-27968)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 27, 2023|
- |[Apache Fineract SQL injection (CVE-2023-25197)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 27, 2023|
- |[Apache Fineract SQL injection (CVE-2023-25196)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 27, 2023|
  
 
 # EU-CERT
@@ -109,6 +96,19 @@
  |[2023-010: Severe Vulnerabilities in Citrix Workspace, Virtual Apps and Desktops](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-010.pdf)|On February 14, 2023, Citrix released Security Bulletins regarding severe vulnerabilities affecting its Citrix Workspace, Virtual Apps and Desktops. If exploited, these vulnerabilities could enable attackers to elevate their privileges and take control of the affected system, but they need local access to the target.|Thursday, February 16, 2023 11:00:00 AM CET|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apple macOS Ventura, iOS and iPadOS security bypass (CVE-2023-27932)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 27, 2023|
+ |[Apple iOS and iPadOS code execution (CVE-2023-23540)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 27, 2023|
+ |[Apple macOS Ventura, iOS and iPadOS security bypass (CVE-2023-23532)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 27, 2023|
+ |[Apple macOS Ventura, iOS and iPadOS information disclosure (CVE-2023-23527)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 27, 2023|
+ |[Apple macOS Ventura buffer overflow (CVE-2023-27968)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 27, 2023|
+ |[Apache Fineract SQL injection (CVE-2023-25197)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 27, 2023|
+ |[Apache Fineract SQL injection (CVE-2023-25196)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 27, 2023|
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -126,24 +126,11 @@
  |[<a href="https://vigilance.fr/vulnerability/Windows-information-disclosure-via-Acropalypse-40878" class="noirorange"><b>Windows</b>: information disclosure via Acropalypse</a>](https://vigilance.fr/vulnerability/Windows-information-disclosure-via-Acropalypse-40878)|An attacker can bypass access restrictions to data of Windows, via Acropalypse, in order to read sensitive information...|Visit link for details|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[41002803/23 - Vulnérabilité dans LibreOffice](https://www.dgssi.gov.ma//fr/content/4100280323-vulnerabilite-dans-libreoffice.html)|Une vulnérabilité a été corrigée dans LibreOffice. L’exploitation de cette faille peut permettre à un attaquant d’exécuter du code arbitraire.|28 mars 2023|
  |[40992703/23 - Vulnérabilité affectant Windows Snipping Tool](https://www.dgssi.gov.ma//fr/content/4099270323-vulnerabilite-affectant-windows-snipping-tool.html)|Microsoft annonce la correction d’une vulnérabilité affectant son outil de capture d’images« Snipping Tool » utilisé sous Windows 10 et 11. L'exploitation de cette vulnérabilité peutpermettreà un attaquant d’accéder à des...|27 mars 2023|
  |[40982403/23 - Vulnérabilité dans OpenSSL](https://www.dgssi.gov.ma//fr/content/4098240323-vulnerabilite-dans-openssl.html)|OpenSSL a publié un avis de sécurité pour corriger une vulnérabilité affectant les versions susmentionnées de OpenSSL.L’exploitation de cette faille peut permettre à un attaquant de causer un déni de service.|24 mars 2023|
  |[40972403/23 - Vulnérabilité critique affectant le plugin «WooCommerce» pour WordPress](https://www.dgssi.gov.ma//fr/content/4097240323-vulnerabilite-critique-affectant-le-plugin-woocommerce-pour-wordpress.html)|WordPressannonce la correction d’unevulnérabilité critique affectant le plugin « WooCommerce». Cette vulnérabilité peut permettre à un attaquant de prendre le contrôle total sur le site web vulnérable.|24 mars 2023|
@@ -154,7 +141,6 @@
  |[40922103/23 - Vulnérabilités dans Zimbra Collaboration](https://www.dgssi.gov.ma//fr/content/4092210323-vulnerabilites-dans-zimbra-collaboration.html)|Plusieurs vulnérabilités ont été corrigées dans Zimbra Collaboration. L’exploitation de ces failles pourrait permettre à un attaquant de contourner la politique de sécurité et d’injecter du code indirect à distance.|21 mars 2023|
  |[40912103/23 - Vulnérabilités dans les produits IBM](https://www.dgssi.gov.ma//fr/content/4091210323-vulnerabilites-dans-les-produits-ibm.html)|Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. L’exploitation de ces failles pourrait permettre à un attaquant de porter atteinte à la confidentialité des données, de contourner la politique de sécurité, de...|21 mars 2023|
  |[40901703/23 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/4090170323-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant son client de messagerie Mozilla Thunderbird. L’exploitation de ces vulnérabilités peut permettre à un...|17 mars 2023|
- |[40891703/23 - Vulnérabilités affectant le CMS Drupal](https://www.dgssi.gov.ma//fr/content/4089170323-vulnerabilites-affectant-le-cms-drupal.html)|Drupal annonce la disponibilité de mises à jour de sécurité qui corrigent plusieurs vulnérabilités auniveaude son CMS. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’accéder à des données confidentielles ou de...|17 mars 2023|
  
 
 # CA-CCS
@@ -172,4 +158,18 @@
  |[Cisco Security Advisory (AV23-164)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av23-164)|Visit link for details|2023-03-22|
  |[[Control systems] Delta Electronics security advisory (AV23-163)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-delta-electronics-security-advisory-av23-163)|Visit link for details|2023-03-22|
  |[Google Chrome security advisory (AV23-162)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-162)|Visit link for details|2023-03-22|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
