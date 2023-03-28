@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 28/03/2023 22:17:00 UTC
+ > Last Updated 28/03/2023 23:17:48 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -41,12 +41,6 @@
  |[CISA Releases Eight Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/03/16/cisa-releases-eight-industrial-control-systems-advisories)|Visit link for details.|Mar 16, 2023|
  
 
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -61,6 +55,12 @@
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0259/)|De multiples vulnérabilités ont été découvertes dans |Publié le 24 mars 2023|
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0258/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 24 mars 2023|
  |[Vulnérabilité dans Grafana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0257/)|Une vulnérabilité a été découverte dans Grafana. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 23 mars 2023|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # HK-CERT
@@ -100,27 +100,13 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Apple macOS Ventura information disclosure (CVE-2023-27942)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 27, 2023|
- |[Apple macOS Ventura security bypass (CVE-2023-23523)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 27, 2023|
- |[Apple macOS Ventura security bypass (CVE-2023-27962)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 27, 2023|
- |[Apple macOS Ventura security bypass (CVE-2023-23538)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 27, 2023|
- |[Apple macOS Ventura spoofing (CVE-2023-28182)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 27, 2023|
- |[Apple macOS Ventura code execution (CVE-2023-27949)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 27, 2023|
- |[Apple macOS Ventura privilege escalation (CVE-2023-23525)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 27, 2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
+ |[Apple macOS Ventura information disclosure (CVE-2023-23535)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 27, 2023|
+ |[Apple macOS Ventura information disclosure (CVE-2023-27928)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 27, 2023|
+ |[Apple macOS Ventura security bypass (CVE-2023-23526)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 27, 2023|
+ |[Apple macOS Ventura information disclosure (CVE-2023-27956)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 27, 2023|
+ |[Apple macOS Ventura information disclosure (CVE-2023-23537)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 27, 2023|
+ |[Apple macOS Ventura information disclosure (CVE-2023-28190)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 27, 2023|
+ |[Apple macOS Ventura privilege escalation (CVE-2023-27965)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 27, 2023|
  
 
 # OBS-Vigilance
@@ -138,6 +124,20 @@
  |[<a href="https://vigilance.fr/vulnerability/QEMU-privilege-escalation-via-Guest-Agent-Service-For-Windows-40886" class="noirorange"><b>QEMU</b>: privilege escalation via Guest Agent Service For Windows</a>](https://vigilance.fr/vulnerability/QEMU-privilege-escalation-via-Guest-Agent-Service-For-Windows-40886)|An attacker, in a guest system, can bypass restrictions of QEMU, via Guest Agent Service For Windows, in order to escalate his privileges on the host system...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-rds-rm-zerocopy-callback-40885" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via rds_rm_zerocopy_callback()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-rds-rm-zerocopy-callback-40885)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-az6027-i2c-xfer-40884" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via az6027_i2c_xfer()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-az6027-i2c-xfer-40884)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via az6027_i2c_xfer(), in order to trigger a denial of service...|Visit link for details|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
 
 # MA-CERT
