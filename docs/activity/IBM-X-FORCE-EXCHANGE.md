@@ -10,5 +10,5 @@
  |[Earnings and Expense Tracker App cross-site scripting (CVE-2023-1688)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 28, 2023|
  |[Earnings and Expense Tracker App cross-site scripting (CVE-2023-1689)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 28, 2023|
  |[Earnings and Expense Tracker App cross-site scripting (CVE-2023-1690)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 28, 2023|
- |[School Registration and Fee System SQL injection (CVE-2023-1674)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 28, 2023|
+ |[matrix-js-sdk denial of service (CVE-2023-28427)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 28, 2023|
  
