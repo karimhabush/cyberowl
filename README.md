@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 29/03/2023 03:19:06 UTC
+ > Last Updated 29/03/2023 04:22:45 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -25,22 +25,6 @@
  
  > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/03/28/apple-releases-security-updates-multiple-products)|Visit link for details.|Mar 28, 2023|
- |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/03/23/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Mar 23, 2023|
- |[Untitled Goose Tool Aids Hunt and Incident Response in Azure, Azure Active Directory, and Microsoft 365 Environments](https://www.cisa.gov/news-events/alerts/2023/03/23/untitled-goose-tool-aids-hunt-and-incident-response-azure-azure-active-directory-and-microsoft-365)|Visit link for details.|Mar 23, 2023|
- |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/03/23/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Mar 23, 2023|
- |[JCDC Cultivates Pre-Ransomware Notification Capability](https://www.cisa.gov/news-events/alerts/2023/03/23/jcdc-cultivates-pre-ransomware-notification-capability)|Visit link for details.|Mar 23, 2023|
- |[CISA and NSA Release Enduring Security Framework Guidance on Identity and Access Management](https://www.cisa.gov/news-events/alerts/2023/03/21/cisa-and-nsa-release-enduring-security-framework-guidance-identity-and-access-management)|Visit link for details.|Mar 21, 2023|
- |[CISA Releases Updated Cybersecurity Performance Goals](https://www.cisa.gov/news-events/alerts/2023/03/21/cisa-releases-updated-cybersecurity-performance-goals)|Visit link for details.|Mar 21, 2023|
- |[ CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/03/21/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Mar 21, 2023|
- |[Drupal Releases Security Advisory to Address Vulnerability in Drupal Core](https://www.cisa.gov/news-events/alerts/2023/03/17/drupal-releases-security-advisory-address-vulnerability-drupal-core)|Visit link for details.|Mar 17, 2023|
- |[CISA Releases Eight Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/03/16/cisa-releases-eight-industrial-control-systems-advisories)|Visit link for details.|Mar 16, 2023|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -57,23 +41,28 @@
  |[Vulnérabilité dans Grafana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0257/)|Une vulnérabilité a été découverte dans Grafana. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).|Publié le 23 mars 2023|
  
 
-# IBM-X-FORCE-EXCHANGE
+# US-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Apple iOS and iPadOS security bypass (CVE-2023-28194)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 27, 2023|
- |[Apple iOS and iPadOS information disclosure (CVE-2023-23528)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 27, 2023|
- |[Apple iOS and iPadOS denial of service (CVE-2023-23494)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 27, 2023|
- |[Apple iOS and iPadOS privilege escalation (CVE-2023-27970)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 27, 2023|
- |[Apple iOS and iPadOS privilege escalation (CVE-2023-27959)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 27, 2023|
- |[Apple iOS and iPadOS information disclosure (CVE-2023-23541)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 27, 2023|
- |[Apple macOS Ventura security bypass (CVE-2023-27944)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 27, 2023|
+ |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/03/28/apple-releases-security-updates-multiple-products)|Visit link for details.|Mar 28, 2023|
+ |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/03/23/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Mar 23, 2023|
+ |[Untitled Goose Tool Aids Hunt and Incident Response in Azure, Azure Active Directory, and Microsoft 365 Environments](https://www.cisa.gov/news-events/alerts/2023/03/23/untitled-goose-tool-aids-hunt-and-incident-response-azure-azure-active-directory-and-microsoft-365)|Visit link for details.|Mar 23, 2023|
+ |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/03/23/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Mar 23, 2023|
+ |[JCDC Cultivates Pre-Ransomware Notification Capability](https://www.cisa.gov/news-events/alerts/2023/03/23/jcdc-cultivates-pre-ransomware-notification-capability)|Visit link for details.|Mar 23, 2023|
+ |[CISA and NSA Release Enduring Security Framework Guidance on Identity and Access Management](https://www.cisa.gov/news-events/alerts/2023/03/21/cisa-and-nsa-release-enduring-security-framework-guidance-identity-and-access-management)|Visit link for details.|Mar 21, 2023|
+ |[CISA Releases Updated Cybersecurity Performance Goals](https://www.cisa.gov/news-events/alerts/2023/03/21/cisa-releases-updated-cybersecurity-performance-goals)|Visit link for details.|Mar 21, 2023|
+ |[ CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/03/21/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Mar 21, 2023|
+ |[Drupal Releases Security Advisory to Address Vulnerability in Drupal Core](https://www.cisa.gov/news-events/alerts/2023/03/17/drupal-releases-security-advisory-address-vulnerability-drupal-core)|Visit link for details.|Mar 17, 2023|
+ |[CISA Releases Eight Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/03/16/cisa-releases-eight-industrial-control-systems-advisories)|Visit link for details.|Mar 16, 2023|
  
 
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-matrix-js-sdk-prototype-pollution-40896" class="noirorange"><b>Node.js matrix-js-sdk</b>: prototype pollution</a>](https://vigilance.fr/vulnerability/Node-js-matrix-js-sdk-prototype-pollution-40896)|An attacker can alter the JavaScript code of Node.js matrix-js-sdk, in order to change the software behavior...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Stellarium-directory-traversal-40895" class="noirorange"><b>Stellarium</b>: directory traversal</a>](https://vigilance.fr/vulnerability/Stellarium-directory-traversal-40895)|An attacker can traverse directories of Stellarium, in order to write a file outside the service root path...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-ntfs-trim-fs-40894" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via ntfs_trim_fs()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-ntfs-trim-fs-40894)|An attacker can force a read at an invalid memory address of the Linux kernel, via ntfs_trim_fs(), in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/OpenSSL-ingress-filtrering-bypass-via-Disabled-Certificate-Policy-Check-40893" class="noirorange"><b>OpenSSL</b>: ingress filtrering bypass via Disabled Certificate Policy Check</a>](https://vigilance.fr/vulnerability/OpenSSL-ingress-filtrering-bypass-via-Disabled-Certificate-Policy-Check-40893)|An attacker can bypass filtering rules of OpenSSL, via Disabled Certificate Policy Check, in order to send malicious data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/OpenSSL-ingress-filtrering-bypass-via-Ignored-Leaf-Certificates-Policies-40892" class="noirorange"><b>OpenSSL</b>: ingress filtrering bypass via Ignored Leaf Certificates Policies</a>](https://vigilance.fr/vulnerability/OpenSSL-ingress-filtrering-bypass-via-Ignored-Leaf-Certificates-Policies-40892)|An attacker can bypass filtering rules of OpenSSL, via Ignored Leaf Certificates Policies, in order to send malicious data...|Visit link for details|
@@ -83,8 +72,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-40888" class="noirorange"><b>Apple iOS  macOS</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-40888)|An attacker can use several vulnerabilities of Apple iOS  macOS...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Dino-write-access-via-Personal-Bookmark-40887" class="noirorange"><b>Dino</b>: write access via Personal Bookmark</a>](https://vigilance.fr/vulnerability/Dino-write-access-via-Personal-Bookmark-40887)|An attacker can bypass access restrictions of Dino, via Personal Bookmark, in order to alter data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/QEMU-privilege-escalation-via-Guest-Agent-Service-For-Windows-40886" class="noirorange"><b>QEMU</b>: privilege escalation via Guest Agent Service For Windows</a>](https://vigilance.fr/vulnerability/QEMU-privilege-escalation-via-Guest-Agent-Service-For-Windows-40886)|An attacker, in a guest system, can bypass restrictions of QEMU, via Guest Agent Service For Windows, in order to escalate his privileges on the host system...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-rds-rm-zerocopy-callback-40885" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via rds_rm_zerocopy_callback()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-rds-rm-zerocopy-callback-40885)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-az6027-i2c-xfer-40884" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via az6027_i2c_xfer()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-az6027-i2c-xfer-40884)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via az6027_i2c_xfer(), in order to trigger a denial of service...|Visit link for details|
  
 
 # VulDB
@@ -143,18 +130,17 @@
  |[Apache Tomcat Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/apache-tomcat-information-disclosure-vulnerability_20230323)|A vulnerability has been identified in Apache Tomcat. A remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system.|Release Date: 23 Mar 2023|
  
 
-# ZERODAYINITIATIVE
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
+ |[Apple iOS and iPadOS security bypass (CVE-2023-28194)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 27, 2023|
+ |[Apple iOS and iPadOS information disclosure (CVE-2023-23528)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 27, 2023|
+ |[Apple iOS and iPadOS denial of service (CVE-2023-23494)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 27, 2023|
+ |[Apple iOS and iPadOS privilege escalation (CVE-2023-27970)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 27, 2023|
+ |[Apple iOS and iPadOS privilege escalation (CVE-2023-27959)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 27, 2023|
+ |[Apple iOS and iPadOS information disclosure (CVE-2023-23541)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 27, 2023|
+ |[Apple macOS Ventura security bypass (CVE-2023-27944)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 27, 2023|
  
 
 # CA-CCS
@@ -172,4 +158,18 @@
  |[[Control systems] RoboDK security advisory (AV23-168)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-robodk-security-advisory-av23-168)|Visit link for details|2023-03-23|
  |[[Control systems] ABB security advisory (AV23-167)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av23-167)|Visit link for details|2023-03-23|
  |[[Control systems] CP Plus security advisory (AV23-166)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cp-plus-security-advisory-av23-166)|Visit link for details|2023-03-23|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
