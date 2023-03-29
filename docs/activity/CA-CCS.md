@@ -4,6 +4,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Mozilla security advisory (AV23-177)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av23-177)|Visit link for details|2023-03-29|
  |[Apple security advisory (AV23-176)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-176)|Visit link for details|2023-03-28|
  |[[Control systems] ABB security advisory (AV23-175)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av23-175)|Visit link for details|2023-03-28|
  |[IBM security advisory (AV23-174)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-174)|Visit link for details|2023-03-28|
@@ -14,5 +15,4 @@
  |[[Control systems] SAUTER security advisory (AV23-169)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-sauter-security-advisory-av23-169)|Visit link for details|2023-03-23|
  |[[Control systems] RoboDK security advisory (AV23-168)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-robodk-security-advisory-av23-168)|Visit link for details|2023-03-23|
  |[[Control systems] ABB security advisory (AV23-167)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av23-167)|Visit link for details|2023-03-23|
- |[[Control systems] CP Plus security advisory (AV23-166)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cp-plus-security-advisory-av23-166)|Visit link for details|2023-03-23|
  
