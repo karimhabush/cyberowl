@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 30/03/2023 07:16:47 UTC
+ > Last Updated 30/03/2023 08:24:22 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -41,22 +41,6 @@
  |[CISA Releases Eight Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/03/16/cisa-releases-eight-industrial-control-systems-advisories)|Visit link for details.|Mar 16, 2023|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0269/)|De multiples vulnérabilités ont été découvertes dans OpenSSL. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 29 mars 2023|
- |[Vulnérabilité dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0268/)|Une vulnérabilité a été découverte dans |Publié le 29 mars 2023|
- |[Multiples vulnérabilités dans Tenable.sc](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0267/)|De multiples vulnérabilités ont été découvertes dans |Publié le 29 mars 2023|
- |[Vulnérabilité dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0266/)|Une vulnérabilités a été découverte dans les produits Cisco. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 28 mars 2023|
- |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0265/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 28 mars 2023|
- |[Multiples vulnérabilités dans Nextcloud Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0264/)|De multiples vulnérabilités ont été découvertes dans |Publié le 27 mars 2023|
- |[Multiples vulnérabilités dans IBM Cognos](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0263/)|De multiples vulnérabilités ont été découvertes dans |Publié le 27 mars 2023|
- |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0262/)|De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 27 mars 2023|
- |[Vulnérabilité dans LibreOffice](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0261/)|Une vulnérabilité a été découverte dans |Publié le 27 mars 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0260/)|De multiples vulnérabilités ont été découvertes dans |Publié le 24 mars 2023|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -73,6 +57,28 @@
  |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20230324)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service and security restriction bypass on the targeted system.|Release Date: 24 Mar 2023|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans OpenSSL](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0269/)|De multiples vulnérabilités ont été découvertes dans OpenSSL. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 29 mars 2023|
+ |[Vulnérabilité dans Mozilla Thunderbird](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0268/)|Une vulnérabilité a été découverte dans |Publié le 29 mars 2023|
+ |[Multiples vulnérabilités dans Tenable.sc](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0267/)|De multiples vulnérabilités ont été découvertes dans |Publié le 29 mars 2023|
+ |[Vulnérabilité dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0266/)|Une vulnérabilités a été découverte dans les produits Cisco. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 28 mars 2023|
+ |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0265/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 28 mars 2023|
+ |[Multiples vulnérabilités dans Nextcloud Server](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0264/)|De multiples vulnérabilités ont été découvertes dans |Publié le 27 mars 2023|
+ |[Multiples vulnérabilités dans IBM Cognos](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0263/)|De multiples vulnérabilités ont été découvertes dans |Publié le 27 mars 2023|
+ |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0262/)|De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 27 mars 2023|
+ |[Vulnérabilité dans LibreOffice](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0261/)|Une vulnérabilité a été découverte dans |Publié le 27 mars 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0260/)|De multiples vulnérabilités ont été découvertes dans |Publié le 24 mars 2023|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -84,23 +90,6 @@
  |[Simple Task Allocation System cross-site scripting (CVE-2023-1687)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 28, 2023|
  |[Earnings and Expense Tracker App cross-site scripting (CVE-2023-1688)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 28, 2023|
  |[Earnings and Expense Tracker App cross-site scripting (CVE-2023-1689)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 28, 2023|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Xray-Audit-Cross-Site-Scripting-40906" class="noirorange"><b>Drupal Xray Audit</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-Xray-Audit-Cross-Site-Scripting-40906)|An attacker can trigger a Cross Site Scripting of Drupal Xray Audit, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xstream-denial-of-service-40905" class="noirorange"><b>Xstream</b>: denial of service</a>](https://vigilance.fr/vulnerability/Xstream-denial-of-service-40905)|An attacker can cause a fatal error of Xstream, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Rack-denial-of-service-via-Header-Parsing-40904" class="noirorange"><b>Rack</b>: denial of service via Header Parsing</a>](https://vigilance.fr/vulnerability/Rack-denial-of-service-via-Header-Parsing-40904)|An attacker can cause a fatal error of Rack, via Header Parsing, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GNU-libmicrohttpd-out-of-bounds-memory-reading-via-Multipart-form-data-Boundary-40903" class="noirorange"><b>GNU libmicrohttpd</b>: out-of-bounds memory reading via Multipart/form-data Boundary</a>](https://vigilance.fr/vulnerability/GNU-libmicrohttpd-out-of-bounds-memory-reading-via-Multipart-form-data-Boundary-40903)|An attacker can force a read at an invalid memory address of GNU libmicrohttpd, via Multipart/form-data Boundary, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Samba-information-disclosure-via-AD-DC-Admin-Tool-Samba-tool-40902" class="noirorange"><b>Samba</b>: information disclosure via AD DC Admin Tool Samba-tool</a>](https://vigilance.fr/vulnerability/Samba-information-disclosure-via-AD-DC-Admin-Tool-Samba-tool-40902)|An attacker can bypass access restrictions to data of Samba, via AD DC Admin Tool Samba-tool, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Samba-information-disclosure-via-AD-LDAP-Attributes-40901" class="noirorange"><b>Samba</b>: information disclosure via AD LDAP Attributes</a>](https://vigilance.fr/vulnerability/Samba-information-disclosure-via-AD-LDAP-Attributes-40901)|An attacker can bypass access restrictions to data of Samba, via AD LDAP Attributes, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/X-Org-Server-reuse-after-free-via-Compositor-Overlay-Window-40900" class="noirorange"><b>X.Org Server</b>: reuse after free via Compositor Overlay Window</a>](https://vigilance.fr/vulnerability/X-Org-Server-reuse-after-free-via-Compositor-Overlay-Window-40900)|An attacker can force the reuse of a freed memory area of X.Org Server, via Compositor Overlay Window, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Loofah-three-vulnerabilities-40899" class="noirorange"><b>Loofah</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Loofah-three-vulnerabilities-40899)|An attacker can use several vulnerabilities of Loofah...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-net-bluetooth-hci-sync-c-40898" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via net/bluetooth/hci_sync.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-net-bluetooth-hci-sync-c-40898)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-ucma-init-qp-attr-40897" class="noirorange"><b>Linux kernel</b>: memory reading via ucma_init_qp_attr()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-ucma-init-qp-attr-40897)|An attacker can read a memory fragment of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Node-js-matrix-js-sdk-prototype-pollution-40896" class="noirorange"><b>Node.js matrix-js-sdk</b>: prototype pollution</a>](https://vigilance.fr/vulnerability/Node-js-matrix-js-sdk-prototype-pollution-40896)|An attacker can alter the JavaScript code of Node.js matrix-js-sdk, in order to change the software behavior...|Visit link for details|
  
 
 # EU-CERT
@@ -120,10 +109,18 @@
  |[2023-010: Severe Vulnerabilities in Citrix Workspace, Virtual Apps and Desktops](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-010.pdf)|On February 14, 2023, Citrix released Security Bulletins regarding severe vulnerabilities affecting its Citrix Workspace, Virtual Apps and Desktops. If exploited, these vulnerabilities could enable attackers to elevate their privileges and take control of the affected system, but they need local access to the target.|Thursday, February 16, 2023 11:00:00 AM CET|
  
 
-# VulDB
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
 
 # MA-CERT
@@ -143,6 +140,23 @@
  |[40922103/23 - Vulnérabilités dans Zimbra Collaboration](https://www.dgssi.gov.ma//fr/content/4092210323-vulnerabilites-dans-zimbra-collaboration.html)|Plusieurs vulnérabilités ont été corrigées dans Zimbra Collaboration. L’exploitation de ces failles pourrait permettre à un attaquant de contourner la politique de sécurité et d’injecter du code indirect à distance.|21 mars 2023|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/zstd-buffer-overflow-via-util-c-40907" class="noirorange"><b>zstd</b>: buffer overflow via util.c</a>](https://vigilance.fr/vulnerability/zstd-buffer-overflow-via-util-c-40907)|An attacker can trigger a buffer overflow of zstd, via util.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Xray-Audit-Cross-Site-Scripting-40906" class="noirorange"><b>Drupal Xray Audit</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-Xray-Audit-Cross-Site-Scripting-40906)|An attacker can trigger a Cross Site Scripting of Drupal Xray Audit, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xstream-denial-of-service-40905" class="noirorange"><b>Xstream</b>: denial of service</a>](https://vigilance.fr/vulnerability/Xstream-denial-of-service-40905)|An attacker can cause a fatal error of Xstream, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Rack-denial-of-service-via-Header-Parsing-40904" class="noirorange"><b>Rack</b>: denial of service via Header Parsing</a>](https://vigilance.fr/vulnerability/Rack-denial-of-service-via-Header-Parsing-40904)|An attacker can cause a fatal error of Rack, via Header Parsing, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GNU-libmicrohttpd-out-of-bounds-memory-reading-via-Multipart-form-data-Boundary-40903" class="noirorange"><b>GNU libmicrohttpd</b>: out-of-bounds memory reading via Multipart/form-data Boundary</a>](https://vigilance.fr/vulnerability/GNU-libmicrohttpd-out-of-bounds-memory-reading-via-Multipart-form-data-Boundary-40903)|An attacker can force a read at an invalid memory address of GNU libmicrohttpd, via Multipart/form-data Boundary, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Samba-information-disclosure-via-AD-DC-Admin-Tool-Samba-tool-40902" class="noirorange"><b>Samba</b>: information disclosure via AD DC Admin Tool Samba-tool</a>](https://vigilance.fr/vulnerability/Samba-information-disclosure-via-AD-DC-Admin-Tool-Samba-tool-40902)|An attacker can bypass access restrictions to data of Samba, via AD DC Admin Tool Samba-tool, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Samba-information-disclosure-via-AD-LDAP-Attributes-40901" class="noirorange"><b>Samba</b>: information disclosure via AD LDAP Attributes</a>](https://vigilance.fr/vulnerability/Samba-information-disclosure-via-AD-LDAP-Attributes-40901)|An attacker can bypass access restrictions to data of Samba, via AD LDAP Attributes, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/X-Org-Server-reuse-after-free-via-Compositor-Overlay-Window-40900" class="noirorange"><b>X.Org Server</b>: reuse after free via Compositor Overlay Window</a>](https://vigilance.fr/vulnerability/X-Org-Server-reuse-after-free-via-Compositor-Overlay-Window-40900)|An attacker can force the reuse of a freed memory area of X.Org Server, via Compositor Overlay Window, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Loofah-three-vulnerabilities-40899" class="noirorange"><b>Loofah</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Loofah-three-vulnerabilities-40899)|An attacker can use several vulnerabilities of Loofah...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-net-bluetooth-hci-sync-c-40898" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via net/bluetooth/hci_sync.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-net-bluetooth-hci-sync-c-40898)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-ucma-init-qp-attr-40897" class="noirorange"><b>Linux kernel</b>: memory reading via ucma_init_qp_attr()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-ucma-init-qp-attr-40897)|An attacker can read a memory fragment of the Linux kernel, via |Visit link for details|
+ 
+
 # CA-CCS
 
  |Title|Description|Date|
@@ -158,18 +172,4 @@
  |[[Control systems] SAUTER security advisory (AV23-169)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-sauter-security-advisory-av23-169)|Visit link for details|2023-03-23|
  |[[Control systems] RoboDK security advisory (AV23-168)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-robodk-security-advisory-av23-168)|Visit link for details|2023-03-23|
  |[[Control systems] ABB security advisory (AV23-167)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av23-167)|Visit link for details|2023-03-23|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
