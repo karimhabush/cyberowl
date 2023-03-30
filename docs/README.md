@@ -4,8 +4,11 @@ title: Cyberowl
 heroImage: ./images/logo1.webp
 heroImageDark: ./images/logoDark.webp
 actions:
-  - text: Browse Current Activity ➜
+  - text: Browse Current Activity 
     link: /activity/US-CERT.html
+    type: secondary
+  - text: ✨ Get early notifications (beta) ➜
+    link: /subscription/
     type: primary
 features:
   - title:
