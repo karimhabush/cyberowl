@@ -1,9 +1,9 @@
 ---
-title: Subscription
+title: ✨ Subscription (Beta)
 ---
 
-# Subscription
+# ✨ Subscribe to the mailing list (Beta)
 
-Please fill out the form below to subscribe to our newsletter.
+You can now subscribe to the mailing list to get notified about new alerts in real-time!
 
 <SubscriptionForm />

@@ -10,7 +10,7 @@ export const navbarEn: NavbarConfig = [
     link: '/activity/',
   },
   {
-    text: 'Subscription',
+    text: '✨ Subscribe (Beta)',
     link: '/subscription/',
   },
   {

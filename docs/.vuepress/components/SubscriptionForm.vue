@@ -98,7 +98,7 @@ export default {
 .input {
     display: block;
     width: 100%;
-    padding: 0.5rem 0;
+    padding: 0.5rem 0.2rem;
     font-size: 1rem;
     line-height: 1.5;
     background-clip: padding-box;
