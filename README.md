@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 30/03/2023 17:16:02 UTC
+ > Last Updated 30/03/2023 18:21:25 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA Adds Ten Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/03/30/cisa-adds-ten-known-exploited-vulnerabilities-catalog)|Visit link for details.|Mar 30, 2023|
  |[Supply Chain Attack Against 3CXDesktopApp ](https://www.cisa.gov/news-events/alerts/2023/03/30/supply-chain-attack-against-3cxdesktopapp)|Visit link for details.|Mar 30, 2023|
  |[ CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/03/30/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Mar 30, 2023|
  |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/03/28/apple-releases-security-updates-multiple-products)|Visit link for details.|Mar 28, 2023|
@@ -38,7 +39,6 @@
  |[JCDC Cultivates Pre-Ransomware Notification Capability](https://www.cisa.gov/news-events/alerts/2023/03/23/jcdc-cultivates-pre-ransomware-notification-capability)|Visit link for details.|Mar 23, 2023|
  |[CISA and NSA Release Enduring Security Framework Guidance on Identity and Access Management](https://www.cisa.gov/news-events/alerts/2023/03/21/cisa-and-nsa-release-enduring-security-framework-guidance-identity-and-access-management)|Visit link for details.|Mar 21, 2023|
  |[CISA Releases Updated Cybersecurity Performance Goals](https://www.cisa.gov/news-events/alerts/2023/03/21/cisa-releases-updated-cybersecurity-performance-goals)|Visit link for details.|Mar 21, 2023|
- |[ CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/03/21/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Mar 21, 2023|
  
 
 # CERT-FR
@@ -55,6 +55,12 @@
  |[Multiples vulnérabilités dans Tenable.sc](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0267/)|De multiples vulnérabilités ont été découvertes dans |Publié le 29 mars 2023|
  |[Vulnérabilité dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0266/)|Une vulnérabilités a été découverte dans les produits Cisco. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 28 mars 2023|
  |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0265/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 28 mars 2023|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # OBS-Vigilance
@@ -74,12 +80,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Xray-Audit-Cross-Site-Scripting-40906" class="noirorange"><b>Drupal Xray Audit</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-Xray-Audit-Cross-Site-Scripting-40906)|An attacker can trigger a Cross Site Scripting of Drupal Xray Audit, in order to run JavaScript code in the context of the web site...|Visit link for details|
  
 
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -94,23 +94,6 @@
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230327)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 27 Mar 2023|
  |[OpenSSL Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/openssl-denial-of-service-vulnerability_20230324)|A vulnerability was identified in OpenSSL. A remote attacker could exploit this vulnerability to trigger denial of service condition.|Release Date: 24 Mar 2023|
  |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20230324)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service and security restriction bypass on the targeted system.|Release Date: 24 Mar 2023|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[41053003/23 - Vulnérabilités critiques affectant des produits QNAP ](https://www.dgssi.gov.ma//fr/content/4105300323-vulnerabilites-critiques-affectant-des-produits-qnap.html)|QNAP annonce la disponibilité de mises à jour de sécurité permettant la correctionde plusieurs vulnérabilités affectant ses produits susmentionnés. L'exploitationde ces vulnérabilités peut permettre à un attaquant distant d’...|30 mars 2023|
- |[41043003/23 - Vulnérabilités dans OpenSSL](https://www.dgssi.gov.ma//fr/content/4104300323-vulnerabilites-dans-openssl.html)|OpenSSL a publié un avis de sécurité pour corriger plusieurs vulnérabilités affectant les versions susmentionnées d’OpenSSL. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité.|30 mars 2023|
- |[41033003/23 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/4103300323-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger d’une vulnérabilité affectant son client de messagerie Mozilla Thunderbird. L’exploitation de cette vulnérabilité peut permettre à un...|30 mars 2023|
- |[41022903/23 - Vulnérabilités affectant plusieurs produits de cisco](https://www.dgssi.gov.ma//fr/content/4102290323-vulnerabilites-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’exécuter du code arbitraire, de...|29 mars 2023|
- |[41012803/23 - Vulnérabilités critiques affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma//fr/content/4101280323-vulnerabilites-critiques-affectant-plusieurs-produits-d-apple.html)|Apple annonce lacorrectionde plusieursvulnérabilitésaffectant ses produitssusmentionnés. Une de ces vulnérabilités est un « Zero-day » Activement exploité et peut permettre à un attaquant distant d’exécuter du...|28 mars 2023|
- |[41002803/23 - Vulnérabilité dans LibreOffice](https://www.dgssi.gov.ma//fr/content/4100280323-vulnerabilite-dans-libreoffice.html)|Une vulnérabilité a été corrigée dans LibreOffice. L’exploitation de cette faille peut permettre à un attaquant d’exécuter du code arbitraire.|28 mars 2023|
- |[40992703/23 - Vulnérabilité affectant Windows Snipping Tool](https://www.dgssi.gov.ma//fr/content/4099270323-vulnerabilite-affectant-windows-snipping-tool.html)|Microsoft annonce la correction d’une vulnérabilité affectant son outil de capture d’images« Snipping Tool » utilisé sous Windows 10 et 11. L'exploitation de cette vulnérabilité peutpermettreà un attaquant d’accéder à des...|27 mars 2023|
- |[40982403/23 - Vulnérabilité dans OpenSSL](https://www.dgssi.gov.ma//fr/content/4098240323-vulnerabilite-dans-openssl.html)|OpenSSL a publié un avis de sécurité pour corriger une vulnérabilité affectant les versions susmentionnées de OpenSSL.L’exploitation de cette faille peut permettre à un attaquant de causer un déni de service.|24 mars 2023|
- |[40972403/23 - Vulnérabilité critique affectant le plugin «WooCommerce» pour WordPress](https://www.dgssi.gov.ma//fr/content/4097240323-vulnerabilite-critique-affectant-le-plugin-woocommerce-pour-wordpress.html)|WordPressannonce la correction d’unevulnérabilité critique affectant le plugin « WooCommerce». Cette vulnérabilité peut permettre à un attaquant de prendre le contrôle total sur le site web vulnérable.|24 mars 2023|
- |[40962303/23 - Vulnérabilités critiques dans Google Chrome](https://www.dgssi.gov.ma//fr/content/4096230323-vulnerabilites-critiques-dans-google-chrome.html)|Google a corrigé plusieurs vulnérabilités critiques dans son navigateur Google Chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du système affecté.|23 mars 2023|
- |[40952303/23- Vulnérabilités affectant plusieursproduits deCisco](https://www.dgssi.gov.ma//fr/content/4095230323-vulnerabilites-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’injecter des commandes, d’élever ses...|23 mars 2023|
  
 
 # EU-CERT
@@ -155,6 +138,23 @@
  |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
  |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
  |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[41053003/23 - Vulnérabilités critiques affectant des produits QNAP ](https://www.dgssi.gov.ma//fr/content/4105300323-vulnerabilites-critiques-affectant-des-produits-qnap.html)|QNAP annonce la disponibilité de mises à jour de sécurité permettant la correctionde plusieurs vulnérabilités affectant ses produits susmentionnés. L'exploitationde ces vulnérabilités peut permettre à un attaquant distant d’...|30 mars 2023|
+ |[41043003/23 - Vulnérabilités dans OpenSSL](https://www.dgssi.gov.ma//fr/content/4104300323-vulnerabilites-dans-openssl.html)|OpenSSL a publié un avis de sécurité pour corriger plusieurs vulnérabilités affectant les versions susmentionnées d’OpenSSL. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité.|30 mars 2023|
+ |[41033003/23 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/4103300323-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger d’une vulnérabilité affectant son client de messagerie Mozilla Thunderbird. L’exploitation de cette vulnérabilité peut permettre à un...|30 mars 2023|
+ |[41022903/23 - Vulnérabilités affectant plusieurs produits de cisco](https://www.dgssi.gov.ma//fr/content/4102290323-vulnerabilites-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’exécuter du code arbitraire, de...|29 mars 2023|
+ |[41012803/23 - Vulnérabilités critiques affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma//fr/content/4101280323-vulnerabilites-critiques-affectant-plusieurs-produits-d-apple.html)|Apple annonce lacorrectionde plusieursvulnérabilitésaffectant ses produitssusmentionnés. Une de ces vulnérabilités est un « Zero-day » Activement exploité et peut permettre à un attaquant distant d’exécuter du...|28 mars 2023|
+ |[41002803/23 - Vulnérabilité dans LibreOffice](https://www.dgssi.gov.ma//fr/content/4100280323-vulnerabilite-dans-libreoffice.html)|Une vulnérabilité a été corrigée dans LibreOffice. L’exploitation de cette faille peut permettre à un attaquant d’exécuter du code arbitraire.|28 mars 2023|
+ |[40992703/23 - Vulnérabilité affectant Windows Snipping Tool](https://www.dgssi.gov.ma//fr/content/4099270323-vulnerabilite-affectant-windows-snipping-tool.html)|Microsoft annonce la correction d’une vulnérabilité affectant son outil de capture d’images« Snipping Tool » utilisé sous Windows 10 et 11. L'exploitation de cette vulnérabilité peutpermettreà un attaquant d’accéder à des...|27 mars 2023|
+ |[40982403/23 - Vulnérabilité dans OpenSSL](https://www.dgssi.gov.ma//fr/content/4098240323-vulnerabilite-dans-openssl.html)|OpenSSL a publié un avis de sécurité pour corriger une vulnérabilité affectant les versions susmentionnées de OpenSSL.L’exploitation de cette faille peut permettre à un attaquant de causer un déni de service.|24 mars 2023|
+ |[40972403/23 - Vulnérabilité critique affectant le plugin «WooCommerce» pour WordPress](https://www.dgssi.gov.ma//fr/content/4097240323-vulnerabilite-critique-affectant-le-plugin-woocommerce-pour-wordpress.html)|WordPressannonce la correction d’unevulnérabilité critique affectant le plugin « WooCommerce». Cette vulnérabilité peut permettre à un attaquant de prendre le contrôle total sur le site web vulnérable.|24 mars 2023|
+ |[40962303/23 - Vulnérabilités critiques dans Google Chrome](https://www.dgssi.gov.ma//fr/content/4096230323-vulnerabilites-critiques-dans-google-chrome.html)|Google a corrigé plusieurs vulnérabilités critiques dans son navigateur Google Chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du système affecté.|23 mars 2023|
+ |[40952303/23- Vulnérabilités affectant plusieursproduits deCisco](https://www.dgssi.gov.ma//fr/content/4095230323-vulnerabilites-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’injecter des commandes, d’élever ses...|23 mars 2023|
  
 
 # CA-CCS
