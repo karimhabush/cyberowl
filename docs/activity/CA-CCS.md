@@ -4,6 +4,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Supply chain compromise impacting 3CXDesktopApp](https://www.cyber.gc.ca/en/alerts-advisories/supply-chain-compromise-impacting-3cxdesktopapp)|Visit link for details|2023-03-30|
  |[[Control systems] Hitachi Energy security advisory (AV23-178)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-hitachi-energy-security-advisory-av23-178)|Visit link for details|2023-03-30|
  |[Mozilla security advisory (AV23-177)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av23-177)|Visit link for details|2023-03-29|
  |[Apple security advisory (AV23-176)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-176)|Visit link for details|2023-03-28|
@@ -14,5 +15,4 @@
  |[[Control systems] ProPump and Controls security advisory (AV23-171)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-propump-and-controls-security-advisory-av23-171)|Visit link for details|2023-03-24|
  |[[Control systems] Schneider Electric security advisory (AV23-170)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av23-170)|Visit link for details|2023-03-23|
  |[[Control systems] SAUTER security advisory (AV23-169)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-sauter-security-advisory-av23-169)|Visit link for details|2023-03-23|
- |[[Control systems] RoboDK security advisory (AV23-168)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-robodk-security-advisory-av23-168)|Visit link for details|2023-03-23|
  
