@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 30/03/2023 04:21:51 UTC
+ > Last Updated 30/03/2023 05:17:32 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,6 +57,23 @@
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0260/)|De multiples vulnérabilités ont été découvertes dans |Publié le 24 mars 2023|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Xray-Audit-Cross-Site-Scripting-40906" class="noirorange"><b>Drupal Xray Audit</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-Xray-Audit-Cross-Site-Scripting-40906)|An attacker can trigger a Cross Site Scripting of Drupal Xray Audit, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Xstream-denial-of-service-40905" class="noirorange"><b>Xstream</b>: denial of service</a>](https://vigilance.fr/vulnerability/Xstream-denial-of-service-40905)|An attacker can cause a fatal error of Xstream, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Rack-denial-of-service-via-Header-Parsing-40904" class="noirorange"><b>Rack</b>: denial of service via Header Parsing</a>](https://vigilance.fr/vulnerability/Rack-denial-of-service-via-Header-Parsing-40904)|An attacker can cause a fatal error of Rack, via Header Parsing, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GNU-libmicrohttpd-out-of-bounds-memory-reading-via-Multipart-form-data-Boundary-40903" class="noirorange"><b>GNU libmicrohttpd</b>: out-of-bounds memory reading via Multipart/form-data Boundary</a>](https://vigilance.fr/vulnerability/GNU-libmicrohttpd-out-of-bounds-memory-reading-via-Multipart-form-data-Boundary-40903)|An attacker can force a read at an invalid memory address of GNU libmicrohttpd, via Multipart/form-data Boundary, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Samba-information-disclosure-via-AD-DC-Admin-Tool-Samba-tool-40902" class="noirorange"><b>Samba</b>: information disclosure via AD DC Admin Tool Samba-tool</a>](https://vigilance.fr/vulnerability/Samba-information-disclosure-via-AD-DC-Admin-Tool-Samba-tool-40902)|An attacker can bypass access restrictions to data of Samba, via AD DC Admin Tool Samba-tool, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Samba-information-disclosure-via-AD-LDAP-Attributes-40901" class="noirorange"><b>Samba</b>: information disclosure via AD LDAP Attributes</a>](https://vigilance.fr/vulnerability/Samba-information-disclosure-via-AD-LDAP-Attributes-40901)|An attacker can bypass access restrictions to data of Samba, via AD LDAP Attributes, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/X-Org-Server-reuse-after-free-via-Compositor-Overlay-Window-40900" class="noirorange"><b>X.Org Server</b>: reuse after free via Compositor Overlay Window</a>](https://vigilance.fr/vulnerability/X-Org-Server-reuse-after-free-via-Compositor-Overlay-Window-40900)|An attacker can force the reuse of a freed memory area of X.Org Server, via Compositor Overlay Window, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Loofah-three-vulnerabilities-40899" class="noirorange"><b>Loofah</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Loofah-three-vulnerabilities-40899)|An attacker can use several vulnerabilities of Loofah...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-net-bluetooth-hci-sync-c-40898" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via net/bluetooth/hci_sync.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-net-bluetooth-hci-sync-c-40898)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-ucma-init-qp-attr-40897" class="noirorange"><b>Linux kernel</b>: memory reading via ucma_init_qp_attr()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-ucma-init-qp-attr-40897)|An attacker can read a memory fragment of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-matrix-js-sdk-prototype-pollution-40896" class="noirorange"><b>Node.js matrix-js-sdk</b>: prototype pollution</a>](https://vigilance.fr/vulnerability/Node-js-matrix-js-sdk-prototype-pollution-40896)|An attacker can alter the JavaScript code of Node.js matrix-js-sdk, in order to change the software behavior...|Visit link for details|
+ 
+
 # VulDB
 
  |Title|Description|Date|
@@ -80,21 +97,17 @@
  |[2023-010: Severe Vulnerabilities in Citrix Workspace, Virtual Apps and Desktops](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-010.pdf)|On February 14, 2023, Citrix released Security Bulletins regarding severe vulnerabilities affecting its Citrix Workspace, Virtual Apps and Desktops. If exploited, these vulnerabilities could enable attackers to elevate their privileges and take control of the affected system, but they need local access to the target.|Thursday, February 16, 2023 11:00:00 AM CET|
  
 
-# OBS-Vigilance
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Xray-Audit-Cross-Site-Scripting-40906" class="noirorange"><b>Drupal Xray Audit</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Drupal-Xray-Audit-Cross-Site-Scripting-40906)|An attacker can trigger a Cross Site Scripting of Drupal Xray Audit, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xstream-denial-of-service-40905" class="noirorange"><b>Xstream</b>: denial of service</a>](https://vigilance.fr/vulnerability/Xstream-denial-of-service-40905)|An attacker can cause a fatal error of Xstream, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Rack-denial-of-service-via-Header-Parsing-40904" class="noirorange"><b>Rack</b>: denial of service via Header Parsing</a>](https://vigilance.fr/vulnerability/Rack-denial-of-service-via-Header-Parsing-40904)|An attacker can cause a fatal error of Rack, via Header Parsing, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GNU-libmicrohttpd-out-of-bounds-memory-reading-via-Multipart-form-data-Boundary-40903" class="noirorange"><b>GNU libmicrohttpd</b>: out-of-bounds memory reading via Multipart/form-data Boundary</a>](https://vigilance.fr/vulnerability/GNU-libmicrohttpd-out-of-bounds-memory-reading-via-Multipart-form-data-Boundary-40903)|An attacker can force a read at an invalid memory address of GNU libmicrohttpd, via Multipart/form-data Boundary, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Samba-information-disclosure-via-AD-DC-Admin-Tool-Samba-tool-40902" class="noirorange"><b>Samba</b>: information disclosure via AD DC Admin Tool Samba-tool</a>](https://vigilance.fr/vulnerability/Samba-information-disclosure-via-AD-DC-Admin-Tool-Samba-tool-40902)|An attacker can bypass access restrictions to data of Samba, via AD DC Admin Tool Samba-tool, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Samba-information-disclosure-via-AD-LDAP-Attributes-40901" class="noirorange"><b>Samba</b>: information disclosure via AD LDAP Attributes</a>](https://vigilance.fr/vulnerability/Samba-information-disclosure-via-AD-LDAP-Attributes-40901)|An attacker can bypass access restrictions to data of Samba, via AD LDAP Attributes, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/X-Org-Server-reuse-after-free-via-Compositor-Overlay-Window-40900" class="noirorange"><b>X.Org Server</b>: reuse after free via Compositor Overlay Window</a>](https://vigilance.fr/vulnerability/X-Org-Server-reuse-after-free-via-Compositor-Overlay-Window-40900)|An attacker can force the reuse of a freed memory area of X.Org Server, via Compositor Overlay Window, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Loofah-three-vulnerabilities-40899" class="noirorange"><b>Loofah</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Loofah-three-vulnerabilities-40899)|An attacker can use several vulnerabilities of Loofah...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-net-bluetooth-hci-sync-c-40898" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via net/bluetooth/hci_sync.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-net-bluetooth-hci-sync-c-40898)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-ucma-init-qp-attr-40897" class="noirorange"><b>Linux kernel</b>: memory reading via ucma_init_qp_attr()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-ucma-init-qp-attr-40897)|An attacker can read a memory fragment of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Node-js-matrix-js-sdk-prototype-pollution-40896" class="noirorange"><b>Node.js matrix-js-sdk</b>: prototype pollution</a>](https://vigilance.fr/vulnerability/Node-js-matrix-js-sdk-prototype-pollution-40896)|An attacker can alter the JavaScript code of Node.js matrix-js-sdk, in order to change the software behavior...|Visit link for details|
+ |[Apache Archiva cross-site scripting (CVE-2023-28158)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 29, 2023|
+ |[X.Org XServer privilege escalation (CVE-2023-1393)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 29, 2023|
+ |[OAuth Single Sign On Plugin for WordPress cross-site request forgery (CVE-2023-1092)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 29, 2023|
+ |[Young Entrepreneur E-Negosyo System cross-site scripting (CVE-2023-1686)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 28, 2023|
+ |[Simple Task Allocation System cross-site scripting (CVE-2023-1687)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 28, 2023|
+ |[Earnings and Expense Tracker App cross-site scripting (CVE-2023-1688)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 28, 2023|
+ |[Earnings and Expense Tracker App cross-site scripting (CVE-2023-1689)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 28, 2023|
  
 
 # HK-CERT
@@ -111,19 +124,6 @@
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230327)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 27 Mar 2023|
  |[OpenSSL Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/openssl-denial-of-service-vulnerability_20230324)|A vulnerability was identified in OpenSSL. A remote attacker could exploit this vulnerability to trigger denial of service condition.|Release Date: 24 Mar 2023|
  |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20230324)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service and security restriction bypass on the targeted system.|Release Date: 24 Mar 2023|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Apache Archiva cross-site scripting (CVE-2023-28158)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 29, 2023|
- |[X.Org XServer privilege escalation (CVE-2023-1393)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 29, 2023|
- |[OAuth Single Sign On Plugin for WordPress cross-site request forgery (CVE-2023-1092)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 29, 2023|
- |[Young Entrepreneur E-Negosyo System cross-site scripting (CVE-2023-1686)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 28, 2023|
- |[Simple Task Allocation System cross-site scripting (CVE-2023-1687)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 28, 2023|
- |[Earnings and Expense Tracker App cross-site scripting (CVE-2023-1688)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 28, 2023|
- |[Earnings and Expense Tracker App cross-site scripting (CVE-2023-1689)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 28, 2023|
  
 
 # MA-CERT
