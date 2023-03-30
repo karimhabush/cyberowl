@@ -10,6 +10,10 @@ export const navbarEn: NavbarConfig = [
     link: '/activity/',
   },
   {
+    text: 'Subscription',
+    link: '/subscription/',
+  },
+  {
     text: 'Docs',
     link: '/docs/',
   },
