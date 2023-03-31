@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 31/03/2023 03:19:09 UTC
+ > Last Updated 31/03/2023 04:21:53 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,10 +57,20 @@
  |[Multiples vulnérabilités dans les produits Apple](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0265/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 28 mars 2023|
  
 
-# VulDB
+# HK-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[Aruba Products Data Manipulation Vulnerability](https://www.hkcert.org/security-bulletin/aruba-products-data-manipulation-vulnerability_20230331)|A vulnerability was identified in Aruba Products. A remote attacker could exploit this vulnerability to trigger data manipulation on the targeted system. Note:To exploit the vulnerability CVE-2022-47522 requires authenticated permission. Product vendor has not yet released workaround / resolution at this...|Release Date: 31 Mar 2023|
+ |[Microsoft Windows Snipping Tool Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/microsoft-windows-snipping-tool-information-disclosure-vulnerability_20230331)|A vulnerability has been identified in Microsoft Windows Snipping Tool, a remote user can exploit this vulnerability to trigger information disclosure on the targeted system. Note:Proof of Concept exploit code is publicly available for CVE-2023-28303.|Release Date: 31 Mar 2023|
+ |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20230330)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 30 Mar 2023|
+ |[Mozilla Thunderbird Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/mozilla-thunderbird-denial-of-service-vulnerability_20230330)|A vulnerability was identified in Mozilla Thunderbird. A remote attacker can exploit this vulnerability to trigger denial of service on the targeted system.|Release Date: 30 Mar 2023|
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230306)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2023-03-07] Updated System...| Release Date: 6 Mar 2023 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230302)|Multiple vulnerabilities were identified in SUSE Linux. An attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure, security restriction bypass on the targeted system. [Updated on 2023-03-03...| Release Date: 2 Mar 2023 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230301)|Multiple vulnerabilities were identified in RedHat Linux Kernal. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and elevation of privilege on the targeted system. [Updated on 2023-03-15] Updated System / Technologies affected, Solutions, ...| Release Date: 1 Mar 2023 |
+ |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20230328)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, data manipulation, spoofing, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. Note...|Release Date: 28 Mar 2023|
+ |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-remote-code-execution-vulnerability_20230327)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 27 Mar 2023|
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230327)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 27 Mar 2023|
  
 
 # EU-CERT
@@ -80,39 +90,6 @@
  |[2023-010: Severe Vulnerabilities in Citrix Workspace, Virtual Apps and Desktops](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-010.pdf)|On February 14, 2023, Citrix released Security Bulletins regarding severe vulnerabilities affecting its Citrix Workspace, Virtual Apps and Desktops. If exploited, these vulnerabilities could enable attackers to elevate their privileges and take control of the affected system, but they need local access to the target.|Thursday, February 16, 2023 11:00:00 AM CET|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Calcite-Avatica-JDBC-Driver-code-execution-via-Instantiation-40923" class="noirorange"><b>Apache Calcite Avatica JDBC Driver</b>: code execution via Instantiation</a>](https://vigilance.fr/vulnerability/Apache-Calcite-Avatica-JDBC-Driver-code-execution-via-Instantiation-40923)|An attacker can use a vulnerability of Apache Calcite Avatica JDBC Driver, via Instantiation, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/JSON-Smart-overload-via-Nested-Curly-Bracket-40922" class="noirorange"><b>JSON Smart</b>: overload via Nested Curly Bracket</a>](https://vigilance.fr/vulnerability/JSON-Smart-overload-via-Nested-Curly-Bracket-40922)|An attacker can trigger an overload of JSON Smart, via Nested Curly Bracket, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/JSON-Smart-denial-of-service-via-JSONParserByteArray-indexOf-40921" class="noirorange"><b>JSON Smart</b>: denial of service via JSONParserByteArray::indexOf()</a>](https://vigilance.fr/vulnerability/JSON-Smart-denial-of-service-via-JSONParserByteArray-indexOf-40921)|An attacker can cause a fatal error of JSON Smart, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ruby-Time-overload-via-Regular-Expression-40920" class="noirorange"><b>Ruby Time</b>: overload via Regular Expression</a>](https://vigilance.fr/vulnerability/Ruby-Time-overload-via-Regular-Expression-40920)|An attacker can trigger an overload of Ruby Time, via Regular Expression, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Forcepoint-Web-Security-three-vulnerabilities-40918" class="noirorange"><b>Forcepoint Web Security</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Forcepoint-Web-Security-three-vulnerabilities-40918)|An attacker can use several vulnerabilities of Forcepoint Web Security...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-nfsd4-ssc-setup-dul-40917" class="noirorange"><b>Linux kernel</b>: reuse after free via nfsd4_ssc_setup_dul()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-nfsd4-ssc-setup-dul-40917)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FFmpeg-reuse-after-free-via-Stale-Hwaccel-State-40916" class="noirorange"><b>FFmpeg</b>: reuse after free via Stale Hwaccel State</a>](https://vigilance.fr/vulnerability/FFmpeg-reuse-after-free-via-Stale-Hwaccel-State-40916)|An attacker can force the reuse of a freed memory area of FFmpeg, via Stale Hwaccel State, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/testng-directory-traversal-via-testngXmlExistsInJar-40912" class="noirorange"><b>testng</b>: directory traversal via testngXmlExistsInJar()</a>](https://vigilance.fr/vulnerability/testng-directory-traversal-via-testngXmlExistsInJar-40912)|An attacker can traverse directories of testng, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Undertow-Man-in-the-Middle-via-TLS-Client-40911" class="noirorange"><b>Undertow</b>: Man-in-the-Middle via TLS Client</a>](https://vigilance.fr/vulnerability/Undertow-Man-in-the-Middle-via-TLS-Client-40911)|An attacker can act as a Man-in-the-Middle on Undertow, via TLS Client, in order to read or write data in the session...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/markdown-it-py-denial-of-service-via-CLI-Invalid-UTF-8-Characters-40910" class="noirorange"><b>markdown-it-py</b>: denial of service via CLI Invalid UTF-8 Characters</a>](https://vigilance.fr/vulnerability/markdown-it-py-denial-of-service-via-CLI-Invalid-UTF-8-Characters-40910)|An attacker can cause a fatal error of markdown-it-py, via CLI Invalid UTF-8 Characters, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Moodle-information-disclosure-via-Course-Participation-Report-40909" class="noirorange"><b>Moodle</b>: information disclosure via Course Participation Report</a>](https://vigilance.fr/vulnerability/Moodle-information-disclosure-via-Course-Participation-Report-40909)|An attacker can bypass access restrictions to data of Moodle, via Course Participation Report, in order to read sensitive information...|Visit link for details|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Aruba Products Data Manipulation Vulnerability](https://www.hkcert.org/security-bulletin/aruba-products-data-manipulation-vulnerability_20230331)|A vulnerability was identified in Aruba Products. A remote attacker could exploit this vulnerability to trigger data manipulation on the targeted system. Note:To exploit the vulnerability CVE-2022-47522 requires authenticated permission. Product vendor has not yet released workaround / resolution at this...|Release Date: 31 Mar 2023|
- |[Microsoft Windows Snipping Tool Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/microsoft-windows-snipping-tool-information-disclosure-vulnerability_20230331)|A vulnerability has been identified in Microsoft Windows Snipping Tool, a remote user can exploit this vulnerability to trigger information disclosure on the targeted system. Note:Proof of Concept exploit code is publicly available for CVE-2023-28303.|Release Date: 31 Mar 2023|
- |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20230330)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 30 Mar 2023|
- |[Mozilla Thunderbird Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/mozilla-thunderbird-denial-of-service-vulnerability_20230330)|A vulnerability was identified in Mozilla Thunderbird. A remote attacker can exploit this vulnerability to trigger denial of service on the targeted system.|Release Date: 30 Mar 2023|
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230306)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2023-03-07] Updated System...| Release Date: 6 Mar 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230302)|Multiple vulnerabilities were identified in SUSE Linux. An attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure, security restriction bypass on the targeted system. [Updated on 2023-03-03...| Release Date: 2 Mar 2023 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230301)|Multiple vulnerabilities were identified in RedHat Linux Kernal. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and elevation of privilege on the targeted system. [Updated on 2023-03-15] Updated System / Technologies affected, Solutions, ...| Release Date: 1 Mar 2023 |
- |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20230328)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, data manipulation, spoofing, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. Note...|Release Date: 28 Mar 2023|
- |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-remote-code-execution-vulnerability_20230327)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 27 Mar 2023|
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230327)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 27 Mar 2023|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -124,6 +101,12 @@
  |[OpenImageIO Project OpenImageIO information disclosure (CVE-2023-24473)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 30, 2023|
  |[Apache UIMA DUCC command execution (CVE-2023-28935)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 30, 2023|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 29, 2023|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # MA-CERT
@@ -155,6 +138,23 @@
  |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
  |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
  |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Calcite-Avatica-JDBC-Driver-code-execution-via-Instantiation-40923" class="noirorange"><b>Apache Calcite Avatica JDBC Driver</b>: code execution via Instantiation</a>](https://vigilance.fr/vulnerability/Apache-Calcite-Avatica-JDBC-Driver-code-execution-via-Instantiation-40923)|An attacker can use a vulnerability of Apache Calcite Avatica JDBC Driver, via Instantiation, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/JSON-Smart-overload-via-Nested-Curly-Bracket-40922" class="noirorange"><b>JSON Smart</b>: overload via Nested Curly Bracket</a>](https://vigilance.fr/vulnerability/JSON-Smart-overload-via-Nested-Curly-Bracket-40922)|An attacker can trigger an overload of JSON Smart, via Nested Curly Bracket, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/JSON-Smart-denial-of-service-via-JSONParserByteArray-indexOf-40921" class="noirorange"><b>JSON Smart</b>: denial of service via JSONParserByteArray::indexOf()</a>](https://vigilance.fr/vulnerability/JSON-Smart-denial-of-service-via-JSONParserByteArray-indexOf-40921)|An attacker can cause a fatal error of JSON Smart, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ruby-Time-overload-via-Regular-Expression-40920" class="noirorange"><b>Ruby Time</b>: overload via Regular Expression</a>](https://vigilance.fr/vulnerability/Ruby-Time-overload-via-Regular-Expression-40920)|An attacker can trigger an overload of Ruby Time, via Regular Expression, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Forcepoint-Web-Security-three-vulnerabilities-40918" class="noirorange"><b>Forcepoint Web Security</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Forcepoint-Web-Security-three-vulnerabilities-40918)|An attacker can use several vulnerabilities of Forcepoint Web Security...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-nfsd4-ssc-setup-dul-40917" class="noirorange"><b>Linux kernel</b>: reuse after free via nfsd4_ssc_setup_dul()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-nfsd4-ssc-setup-dul-40917)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FFmpeg-reuse-after-free-via-Stale-Hwaccel-State-40916" class="noirorange"><b>FFmpeg</b>: reuse after free via Stale Hwaccel State</a>](https://vigilance.fr/vulnerability/FFmpeg-reuse-after-free-via-Stale-Hwaccel-State-40916)|An attacker can force the reuse of a freed memory area of FFmpeg, via Stale Hwaccel State, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/testng-directory-traversal-via-testngXmlExistsInJar-40912" class="noirorange"><b>testng</b>: directory traversal via testngXmlExistsInJar()</a>](https://vigilance.fr/vulnerability/testng-directory-traversal-via-testngXmlExistsInJar-40912)|An attacker can traverse directories of testng, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Undertow-Man-in-the-Middle-via-TLS-Client-40911" class="noirorange"><b>Undertow</b>: Man-in-the-Middle via TLS Client</a>](https://vigilance.fr/vulnerability/Undertow-Man-in-the-Middle-via-TLS-Client-40911)|An attacker can act as a Man-in-the-Middle on Undertow, via TLS Client, in order to read or write data in the session...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/markdown-it-py-denial-of-service-via-CLI-Invalid-UTF-8-Characters-40910" class="noirorange"><b>markdown-it-py</b>: denial of service via CLI Invalid UTF-8 Characters</a>](https://vigilance.fr/vulnerability/markdown-it-py-denial-of-service-via-CLI-Invalid-UTF-8-Characters-40910)|An attacker can cause a fatal error of markdown-it-py, via CLI Invalid UTF-8 Characters, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Moodle-information-disclosure-via-Course-Participation-Report-40909" class="noirorange"><b>Moodle</b>: information disclosure via Course Participation Report</a>](https://vigilance.fr/vulnerability/Moodle-information-disclosure-via-Course-Participation-Report-40909)|An attacker can bypass access restrictions to data of Moodle, via Course Participation Report, in order to read sensitive information...|Visit link for details|
  
 
 # CA-CCS
