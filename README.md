@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 31/03/2023 14:16:35 UTC
+ > Last Updated 31/03/2023 15:18:49 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -56,21 +56,26 @@
  |[Multiples vulnérabilités dans Samba](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0270/)|De multiples vulnérabilités ont été découvertes dans |Publié le 30 mars 2023|
  
 
-# OBS-Vigilance
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-xirc2ps-detach-40928" class="noirorange"><b>Linux kernel</b>: reuse after free via xirc2ps_detach()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-xirc2ps-detach-40928)|An attacker can force the reuse of a freed memory area of the Linux kernel, via xirc2ps_detach(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-40927" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-40927)|An attacker can use several vulnerabilities of GitLab CE/EE...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/musl-memory-corruption-via-X87-Floating-point-Stack-Adjustment-Imbalance-40926" class="noirorange"><b>musl</b>: memory corruption via X87 Floating-point Stack Adjustment Imbalance</a>](https://vigilance.fr/vulnerability/musl-memory-corruption-via-X87-Floating-point-Stack-Adjustment-Imbalance-40926)|An attacker can trigger a memory corruption of musl, via X87 Floating-point Stack Adjustment Imbalance, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GlusterFS-out-of-bounds-memory-reading-via-fuse-bridge-c-40925" class="noirorange"><b>GlusterFS</b>: out-of-bounds memory reading via fuse-bridge.c</a>](https://vigilance.fr/vulnerability/GlusterFS-out-of-bounds-memory-reading-via-fuse-bridge-c-40925)|An attacker can force a read at an invalid memory address of GlusterFS, via fuse-bridge.c, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Toolbox-for-Java-information-disclosure-via-Java-Strings-40924" class="noirorange"><b>IBM Toolbox for Java</b>: information disclosure via Java Strings</a>](https://vigilance.fr/vulnerability/IBM-Toolbox-for-Java-information-disclosure-via-Java-Strings-40924)|An attacker can bypass access restrictions to data of IBM Toolbox for Java, via Java Strings, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Apache-Calcite-Avatica-JDBC-Driver-code-execution-via-Instantiation-40923" class="noirorange"><b>Apache Calcite Avatica JDBC Driver</b>: code execution via Instantiation</a>](https://vigilance.fr/vulnerability/Apache-Calcite-Avatica-JDBC-Driver-code-execution-via-Instantiation-40923)|An attacker can use a vulnerability of Apache Calcite Avatica JDBC Driver, via Instantiation, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/JSON-Smart-overload-via-Nested-Curly-Bracket-40922" class="noirorange"><b>JSON Smart</b>: overload via Nested Curly Bracket</a>](https://vigilance.fr/vulnerability/JSON-Smart-overload-via-Nested-Curly-Bracket-40922)|An attacker can trigger an overload of JSON Smart, via Nested Curly Bracket, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/JSON-Smart-denial-of-service-via-JSONParserByteArray-indexOf-40921" class="noirorange"><b>JSON Smart</b>: denial of service via JSONParserByteArray::indexOf()</a>](https://vigilance.fr/vulnerability/JSON-Smart-denial-of-service-via-JSONParserByteArray-indexOf-40921)|An attacker can cause a fatal error of JSON Smart, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ruby-Time-overload-via-Regular-Expression-40920" class="noirorange"><b>Ruby Time</b>: overload via Regular Expression</a>](https://vigilance.fr/vulnerability/Ruby-Time-overload-via-Regular-Expression-40920)|An attacker can trigger an overload of Ruby Time, via Regular Expression, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Forcepoint-Web-Security-three-vulnerabilities-40918" class="noirorange"><b>Forcepoint Web Security</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Forcepoint-Web-Security-three-vulnerabilities-40918)|An attacker can use several vulnerabilities of Forcepoint Web Security...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-nfsd4-ssc-setup-dul-40917" class="noirorange"><b>Linux kernel</b>: reuse after free via nfsd4_ssc_setup_dul()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-nfsd4-ssc-setup-dul-40917)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Aruba Products Data Manipulation Vulnerability](https://www.hkcert.org/security-bulletin/aruba-products-data-manipulation-vulnerability_20230331)|A vulnerability was identified in Aruba Products. A remote attacker could exploit this vulnerability to trigger data manipulation on the targeted system. Note:To exploit the vulnerability CVE-2022-47522 requires authenticated permission. Product vendor has not yet released workaround / resolution at this...|Release Date: 31 Mar 2023|
+ |[Microsoft Windows Snipping Tool Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/microsoft-windows-snipping-tool-information-disclosure-vulnerability_20230331)|A vulnerability has been identified in Microsoft Windows Snipping Tool, a remote user can exploit this vulnerability to trigger information disclosure on the targeted system. Note:Proof of Concept exploit code is publicly available for CVE-2023-28303.|Release Date: 31 Mar 2023|
+ |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20230330)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 30 Mar 2023|
+ |[Mozilla Thunderbird Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/mozilla-thunderbird-denial-of-service-vulnerability_20230330)|A vulnerability was identified in Mozilla Thunderbird. A remote attacker can exploit this vulnerability to trigger denial of service on the targeted system.|Release Date: 30 Mar 2023|
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230306)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2023-03-07] Updated System...| Release Date: 6 Mar 2023 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230302)|Multiple vulnerabilities were identified in SUSE Linux. An attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure, security restriction bypass on the targeted system. [Updated on 2023-03-03...| Release Date: 2 Mar 2023 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230301)|Multiple vulnerabilities were identified in RedHat Linux Kernal. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and elevation of privilege on the targeted system. [Updated on 2023-03-15] Updated System / Technologies affected, Solutions, ...| Release Date: 1 Mar 2023 |
+ |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20230328)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, data manipulation, spoofing, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. Note...|Release Date: 28 Mar 2023|
+ |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-remote-code-execution-vulnerability_20230327)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 27 Mar 2023|
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230327)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 27 Mar 2023|
  
 
 # EU-CERT
@@ -90,16 +95,11 @@
  |[2023-010: Severe Vulnerabilities in Citrix Workspace, Virtual Apps and Desktops](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-010.pdf)|On February 14, 2023, Citrix released Security Bulletins regarding severe vulnerabilities affecting its Citrix Workspace, Virtual Apps and Desktops. If exploited, these vulnerabilities could enable attackers to elevate their privileges and take control of the affected system, but they need local access to the target.|Thursday, February 16, 2023 11:00:00 AM CET|
  
 
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[41073103/23 - Une attaque « supply chain » cible le logiciel 3CX et ses clients](https://www.dgssi.gov.ma//fr/content/4107310323-une-attaque-supply-chain-cible-le-logiciel-3cx-et-ses-clients.html)|Une compagne d'attaque de type "supply chain attack" a été observée contre des systèmes d'information a été observée contre des systèmes d'information utilisant le logiciel 3CX et ses clients.3CXDesktopApp, une...|31 mars 2023|
  |[41063103/23 - Exploitation active d'une vulnérabilité critique dans IBM Aspera Faspex](https://www.dgssi.gov.ma//fr/content/4106310323-exploitation-active-d-une-vulnerabilite-critique-dans-ibm-aspera-faspex.html)|Une compagne d’attaque a été détectée exploitant activement la vulnérabilité critique (CVE-2022-47986) affectant IBM Aspera Faspex. La vulnérabilité est causée par une faille de désérialisation YAML (Yet Another Markup Language). L'...|31 mars 2023|
  |[41053003/23 - Vulnérabilités critiques affectant des produits QNAP ](https://www.dgssi.gov.ma//fr/content/4105300323-vulnerabilites-critiques-affectant-des-produits-qnap.html)|QNAP annonce la disponibilité de mises à jour de sécurité permettant la correctionde plusieurs vulnérabilités affectant ses produits susmentionnés. L'exploitationde ces vulnérabilités peut permettre à un attaquant distant d’...|30 mars 2023|
  |[41043003/23 - Vulnérabilités dans OpenSSL](https://www.dgssi.gov.ma//fr/content/4104300323-vulnerabilites-dans-openssl.html)|OpenSSL a publié un avis de sécurité pour corriger plusieurs vulnérabilités affectant les versions susmentionnées d’OpenSSL. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité.|30 mars 2023|
@@ -110,23 +110,12 @@
  |[40992703/23 - Vulnérabilité affectant Windows Snipping Tool](https://www.dgssi.gov.ma//fr/content/4099270323-vulnerabilite-affectant-windows-snipping-tool.html)|Microsoft annonce la correction d’une vulnérabilité affectant son outil de capture d’images« Snipping Tool » utilisé sous Windows 10 et 11. L'exploitation de cette vulnérabilité peutpermettreà un attaquant d’accéder à des...|27 mars 2023|
  |[40982403/23 - Vulnérabilité dans OpenSSL](https://www.dgssi.gov.ma//fr/content/4098240323-vulnerabilite-dans-openssl.html)|OpenSSL a publié un avis de sécurité pour corriger une vulnérabilité affectant les versions susmentionnées de OpenSSL.L’exploitation de cette faille peut permettre à un attaquant de causer un déni de service.|24 mars 2023|
  |[40972403/23 - Vulnérabilité critique affectant le plugin «WooCommerce» pour WordPress](https://www.dgssi.gov.ma//fr/content/4097240323-vulnerabilite-critique-affectant-le-plugin-woocommerce-pour-wordpress.html)|WordPressannonce la correction d’unevulnérabilité critique affectant le plugin « WooCommerce». Cette vulnérabilité peut permettre à un attaquant de prendre le contrôle total sur le site web vulnérable.|24 mars 2023|
- |[40962303/23 - Vulnérabilités critiques dans Google Chrome](https://www.dgssi.gov.ma//fr/content/4096230323-vulnerabilites-critiques-dans-google-chrome.html)|Google a corrigé plusieurs vulnérabilités critiques dans son navigateur Google Chrome. L’exploitation de ces failles peut permettre à un attaquant de prendre le contrôle du système affecté.|23 mars 2023|
  
 
-# HK-CERT
+# VulDB
 
  |Title|Description|Date|
  |---|---|---|
- |[Aruba Products Data Manipulation Vulnerability](https://www.hkcert.org/security-bulletin/aruba-products-data-manipulation-vulnerability_20230331)|A vulnerability was identified in Aruba Products. A remote attacker could exploit this vulnerability to trigger data manipulation on the targeted system. Note:To exploit the vulnerability CVE-2022-47522 requires authenticated permission. Product vendor has not yet released workaround / resolution at this...|Release Date: 31 Mar 2023|
- |[Microsoft Windows Snipping Tool Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/microsoft-windows-snipping-tool-information-disclosure-vulnerability_20230331)|A vulnerability has been identified in Microsoft Windows Snipping Tool, a remote user can exploit this vulnerability to trigger information disclosure on the targeted system. Note:Proof of Concept exploit code is publicly available for CVE-2023-28303.|Release Date: 31 Mar 2023|
- |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20230330)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 30 Mar 2023|
- |[Mozilla Thunderbird Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/mozilla-thunderbird-denial-of-service-vulnerability_20230330)|A vulnerability was identified in Mozilla Thunderbird. A remote attacker can exploit this vulnerability to trigger denial of service on the targeted system.|Release Date: 30 Mar 2023|
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230306)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2023-03-07] Updated System...| Release Date: 6 Mar 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230302)|Multiple vulnerabilities were identified in SUSE Linux. An attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure, security restriction bypass on the targeted system. [Updated on 2023-03-03...| Release Date: 2 Mar 2023 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230301)|Multiple vulnerabilities were identified in RedHat Linux Kernal. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and elevation of privilege on the targeted system. [Updated on 2023-03-15] Updated System / Technologies affected, Solutions, ...| Release Date: 1 Mar 2023 |
- |[Apple Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20230328)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, data manipulation, spoofing, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. Note...|Release Date: 28 Mar 2023|
- |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-remote-code-execution-vulnerability_20230327)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system.|Release Date: 27 Mar 2023|
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230327)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 27 Mar 2023|
  
 
 # ZERODAYINITIATIVE
@@ -141,6 +130,23 @@
  |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
  |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
  |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-xirc2ps-detach-40928" class="noirorange"><b>Linux kernel</b>: reuse after free via xirc2ps_detach()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-xirc2ps-detach-40928)|An attacker can force the reuse of a freed memory area of the Linux kernel, via xirc2ps_detach(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-40927" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-40927)|An attacker can use several vulnerabilities of GitLab CE/EE...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/musl-memory-corruption-via-X87-Floating-point-Stack-Adjustment-Imbalance-40926" class="noirorange"><b>musl</b>: memory corruption via X87 Floating-point Stack Adjustment Imbalance</a>](https://vigilance.fr/vulnerability/musl-memory-corruption-via-X87-Floating-point-Stack-Adjustment-Imbalance-40926)|An attacker can trigger a memory corruption of musl, via X87 Floating-point Stack Adjustment Imbalance, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GlusterFS-out-of-bounds-memory-reading-via-fuse-bridge-c-40925" class="noirorange"><b>GlusterFS</b>: out-of-bounds memory reading via fuse-bridge.c</a>](https://vigilance.fr/vulnerability/GlusterFS-out-of-bounds-memory-reading-via-fuse-bridge-c-40925)|An attacker can force a read at an invalid memory address of GlusterFS, via fuse-bridge.c, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Toolbox-for-Java-information-disclosure-via-Java-Strings-40924" class="noirorange"><b>IBM Toolbox for Java</b>: information disclosure via Java Strings</a>](https://vigilance.fr/vulnerability/IBM-Toolbox-for-Java-information-disclosure-via-Java-Strings-40924)|An attacker can bypass access restrictions to data of IBM Toolbox for Java, via Java Strings, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Apache-Calcite-Avatica-JDBC-Driver-code-execution-via-Instantiation-40923" class="noirorange"><b>Apache Calcite Avatica JDBC Driver</b>: code execution via Instantiation</a>](https://vigilance.fr/vulnerability/Apache-Calcite-Avatica-JDBC-Driver-code-execution-via-Instantiation-40923)|An attacker can use a vulnerability of Apache Calcite Avatica JDBC Driver, via Instantiation, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/JSON-Smart-overload-via-Nested-Curly-Bracket-40922" class="noirorange"><b>JSON Smart</b>: overload via Nested Curly Bracket</a>](https://vigilance.fr/vulnerability/JSON-Smart-overload-via-Nested-Curly-Bracket-40922)|An attacker can trigger an overload of JSON Smart, via Nested Curly Bracket, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/JSON-Smart-denial-of-service-via-JSONParserByteArray-indexOf-40921" class="noirorange"><b>JSON Smart</b>: denial of service via JSONParserByteArray::indexOf()</a>](https://vigilance.fr/vulnerability/JSON-Smart-denial-of-service-via-JSONParserByteArray-indexOf-40921)|An attacker can cause a fatal error of JSON Smart, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Ruby-Time-overload-via-Regular-Expression-40920" class="noirorange"><b>Ruby Time</b>: overload via Regular Expression</a>](https://vigilance.fr/vulnerability/Ruby-Time-overload-via-Regular-Expression-40920)|An attacker can trigger an overload of Ruby Time, via Regular Expression, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Forcepoint-Web-Security-three-vulnerabilities-40918" class="noirorange"><b>Forcepoint Web Security</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Forcepoint-Web-Security-three-vulnerabilities-40918)|An attacker can use several vulnerabilities of Forcepoint Web Security...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-nfsd4-ssc-setup-dul-40917" class="noirorange"><b>Linux kernel</b>: reuse after free via nfsd4_ssc_setup_dul()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-nfsd4-ssc-setup-dul-40917)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
  
 
 # CA-CCS
@@ -158,17 +164,4 @@
  |[[Control systems] ProPump and Controls security advisory (AV23-171)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-propump-and-controls-security-advisory-av23-171)|Visit link for details|2023-03-24|
  |[[Control systems] Schneider Electric security advisory (AV23-170)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av23-170)|Visit link for details|2023-03-23|
  |[[Control systems] SAUTER security advisory (AV23-169)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-sauter-security-advisory-av23-169)|Visit link for details|2023-03-23|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[QNAP QTS, QNAP QuTS hero, QNAP QuTScloud, QNAP QVP (QVR Pro appliances), and QNAP QVR command execution (CVE-2023-23355)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 30, 2023|
- |[SNIProxy buffer overflow (CVE-2023-25076)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 30, 2023|
- |[OpenImageIO Project OpenImageIO denial of service (CVE-2023-24472)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 30, 2023|
- |[OpenImageIO Project OpenImageIO information disclosure (CVE-2023-22845)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 30, 2023|
- |[OpenImageIO Project OpenImageIO information disclosure (CVE-2023-24473)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 30, 2023|
- |[Apache UIMA DUCC command execution (CVE-2023-28935)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 30, 2023|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 29, 2023|
  
