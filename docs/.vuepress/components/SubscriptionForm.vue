@@ -3,24 +3,19 @@
         <h2 class="content__title">Subscribe</h2>
         <form @submit.prevent="submitForm" class="theme-default-content">
             <div class="form-group">
-                <label for="firstName" class="label">First Name:</label>
-                <input type="text" id="firstName" v-model="firstName" required class="input" />
+                <input type="text" id="firstName" placeholder="First Name" v-model="firstName" required class="input" />
             </div>
             <div class="form-group">
-                <label for="lastName" class="label">Last Name:</label>
-                <input type="text" id="lastName" v-model="lastName" required class="input" />
+                <input type="text" id="lastName" placeholder="Last Name" v-model="lastName" required class="input" />
             </div>
             <div class="form-group">
-                <label for="email" class="label">Email:</label>
-                <input type="email" id="email" v-model="email" required class="input" />
+                <input type="email" id="email" placeholder="Email" v-model="email" required class="input" />
             </div>
             <div class="form-group">
-                <label for="company" class="label">Company (Optional):</label>
-                <input type="text" id="company" v-model="company" class="input" />
+                <input type="text" id="company" placeholder="Company (Optional)" v-model="company" class="input" />
             </div>
             <div class="form-group">
-                <label for="position" class="label">Position (Optional):</label>
-                <input type="text" id="position" v-model="position" class="input" />
+                <input type="text" id="position" placeholder="Position (Optional)" v-model="position" class="input" />
             </div>
             <div class="form-group">
                 <input type="checkbox" id="acceptTerms" v-model="acceptTerms" required />
@@ -98,7 +93,7 @@ export default {
 .input {
     display: block;
     width: 100%;
-    padding: 0.5rem 0.2rem;
+    padding: 0.5rem 0.5rem;
     font-size: 1rem;
     line-height: 1.5;
     background-clip: padding-box;
