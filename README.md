@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 03/04/2023 08:23:10 UTC
+ > Last Updated 03/04/2023 09:17:57 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -91,6 +91,23 @@
  |---|---|---|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Dell-NetWorker-code-execution-via-nsrcapinfo-40940" class="noirorange"><b>Dell NetWorker</b>: code execution via nsrcapinfo</a>](https://vigilance.fr/vulnerability/Dell-NetWorker-code-execution-via-nsrcapinfo-40940)|An attacker can use a vulnerability of Dell NetWorker, via nsrcapinfo, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Dell-NetWorker-Man-in-the-Middle-via-Rabbitmq-Port-40939" class="noirorange"><b>Dell NetWorker</b>: Man-in-the-Middle via Rabbitmq Port</a>](https://vigilance.fr/vulnerability/Dell-NetWorker-Man-in-the-Middle-via-Rabbitmq-Port-40939)|An attacker can act as a Man-in-the-Middle on Dell NetWorker, via Rabbitmq Port, in order to read or write data in the session...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-ReadTIFFImage-40938" class="noirorange"><b>ImageMagick</b>: buffer overflow via ReadTIFFImage()</a>](https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-ReadTIFFImage-40938)|An attacker can trigger a buffer overflow of ImageMagick, via ReadTIFFImage(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-http-cache-semantics-overload-via-parseCacheControl-40937" class="noirorange"><b>Node.js http-cache-semantics</b>: overload via parseCacheControl()</a>](https://vigilance.fr/vulnerability/Node-js-http-cache-semantics-overload-via-parseCacheControl-40937)|An attacker can trigger an overload of Node.js |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/netconsd-memory-corruption-via-Fragment-Offset-40936" class="noirorange"><b>netconsd</b>: memory corruption via Fragment Offset</a>](https://vigilance.fr/vulnerability/netconsd-memory-corruption-via-Fragment-Offset-40936)|An attacker can trigger a memory corruption of netconsd, via Fragment Offset, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-NULL-pointer-dereference-via-class-object-index-40935" class="noirorange"><b>Vim</b>: NULL pointer dereference via class_object_index()</a>](https://vigilance.fr/vulnerability/Vim-NULL-pointer-dereference-via-class-object-index-40935)|An attacker can force a NULL pointer to be dereferenced on Vim, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Go-vulnerability-via-crypto-elliptic-40934" class="noirorange"><b>Go</b>: vulnerability via crypto/elliptic</a>](https://vigilance.fr/vulnerability/Go-vulnerability-via-crypto-elliptic-40934)|A vulnerability of Go, via crypto/elliptic, was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Intel-PROSet-Wireless-WiFi-and-Killer-multiple-vulnerabilities-40933" class="noirorange"><b>Intel PROSet/Wireless WiFi and Killer</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Intel-PROSet-Wireless-WiFi-and-Killer-multiple-vulnerabilities-40933)|An attacker can use several vulnerabilities of Intel PROSet/Wireless WiFi and Killer...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SVGPP-NULL-pointer-dereference-via-XMLDocument-getRoot-40932" class="noirorange"><b>SVGPP</b>: NULL pointer dereference via XMLDocument::getRoot()</a>](https://vigilance.fr/vulnerability/SVGPP-NULL-pointer-dereference-via-XMLDocument-getRoot-40932)|An attacker can force a NULL pointer to be dereferenced on SVGPP, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Anti-Grain-Geometry-buffer-overflow-via-svgpp-agg-render-40931" class="noirorange"><b>Anti-Grain Geometry</b>: buffer overflow via svgpp_agg_render()</a>](https://vigilance.fr/vulnerability/Anti-Grain-Geometry-buffer-overflow-via-svgpp-agg-render-40931)|An attacker can trigger a buffer overflow of Anti-Grain Geometry, via svgpp_agg_render(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Duktape-buffer-overflow-via-duk-push-tval-40930" class="noirorange"><b>Duktape</b>: buffer overflow via duk_push_tval()</a>](https://vigilance.fr/vulnerability/Duktape-buffer-overflow-via-duk-push-tval-40930)|An attacker can trigger a buffer overflow of Duktape, via duk_push_tval(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ 
+
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -103,23 +120,6 @@
  |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
  |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
  |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-ReadTIFFImage-40938" class="noirorange"><b>ImageMagick</b>: buffer overflow via ReadTIFFImage()</a>](https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-ReadTIFFImage-40938)|An attacker can trigger a buffer overflow of ImageMagick, via ReadTIFFImage(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Node-js-http-cache-semantics-overload-via-parseCacheControl-40937" class="noirorange"><b>Node.js http-cache-semantics</b>: overload via parseCacheControl()</a>](https://vigilance.fr/vulnerability/Node-js-http-cache-semantics-overload-via-parseCacheControl-40937)|An attacker can trigger an overload of Node.js |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/netconsd-memory-corruption-via-Fragment-Offset-40936" class="noirorange"><b>netconsd</b>: memory corruption via Fragment Offset</a>](https://vigilance.fr/vulnerability/netconsd-memory-corruption-via-Fragment-Offset-40936)|An attacker can trigger a memory corruption of netconsd, via Fragment Offset, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-NULL-pointer-dereference-via-class-object-index-40935" class="noirorange"><b>Vim</b>: NULL pointer dereference via class_object_index()</a>](https://vigilance.fr/vulnerability/Vim-NULL-pointer-dereference-via-class-object-index-40935)|An attacker can force a NULL pointer to be dereferenced on Vim, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Go-vulnerability-via-crypto-elliptic-40934" class="noirorange"><b>Go</b>: vulnerability via crypto/elliptic</a>](https://vigilance.fr/vulnerability/Go-vulnerability-via-crypto-elliptic-40934)|A vulnerability of Go, via crypto/elliptic, was announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Intel-PROSet-Wireless-WiFi-and-Killer-multiple-vulnerabilities-40933" class="noirorange"><b>Intel PROSet/Wireless WiFi and Killer</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Intel-PROSet-Wireless-WiFi-and-Killer-multiple-vulnerabilities-40933)|An attacker can use several vulnerabilities of Intel PROSet/Wireless WiFi and Killer...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SVGPP-NULL-pointer-dereference-via-XMLDocument-getRoot-40932" class="noirorange"><b>SVGPP</b>: NULL pointer dereference via XMLDocument::getRoot()</a>](https://vigilance.fr/vulnerability/SVGPP-NULL-pointer-dereference-via-XMLDocument-getRoot-40932)|An attacker can force a NULL pointer to be dereferenced on SVGPP, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Anti-Grain-Geometry-buffer-overflow-via-svgpp-agg-render-40931" class="noirorange"><b>Anti-Grain Geometry</b>: buffer overflow via svgpp_agg_render()</a>](https://vigilance.fr/vulnerability/Anti-Grain-Geometry-buffer-overflow-via-svgpp-agg-render-40931)|An attacker can trigger a buffer overflow of Anti-Grain Geometry, via svgpp_agg_render(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Duktape-buffer-overflow-via-duk-push-tval-40930" class="noirorange"><b>Duktape</b>: buffer overflow via duk_push_tval()</a>](https://vigilance.fr/vulnerability/Duktape-buffer-overflow-via-duk-push-tval-40930)|An attacker can trigger a buffer overflow of Duktape, via duk_push_tval(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GNU-C-Library-buffer-overflow-via-monstartup-40929" class="noirorange"><b>GNU C Library</b>: buffer overflow via __monstartup()</a>](https://vigilance.fr/vulnerability/GNU-C-Library-buffer-overflow-via-monstartup-40929)|An attacker can trigger a buffer overflow of GNU C Library, via __monstartup(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-xirc2ps-detach-40928" class="noirorange"><b>Linux kernel</b>: reuse after free via xirc2ps_detach()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-xirc2ps-detach-40928)|An attacker can force the reuse of a freed memory area of the Linux kernel, via xirc2ps_detach(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
 
 # EU-CERT
