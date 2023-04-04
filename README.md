@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 04/04/2023 14:17:20 UTC
+ > Last Updated 04/04/2023 15:18:26 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/04/04/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Apr 04, 2023|
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/04/03/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Apr 03, 2023|
  |[Samba Releases Security Updates for Multiple Versions of Samba](https://www.cisa.gov/news-events/alerts/2023/03/31/samba-releases-security-updates-multiple-versions-samba)|Visit link for details.|Mar 31, 2023|
  |[Mozilla Releases Security Update for Thunderbird 102.9.1](https://www.cisa.gov/news-events/alerts/2023/03/31/mozilla-releases-security-update-thunderbird-10291)|Visit link for details.|Mar 31, 2023|
@@ -38,13 +39,14 @@
  |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/03/28/apple-releases-security-updates-multiple-products)|Visit link for details.|Mar 28, 2023|
  |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/03/23/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Mar 23, 2023|
  |[Untitled Goose Tool Aids Hunt and Incident Response in Azure, Azure Active Directory, and Microsoft 365 Environments](https://www.cisa.gov/news-events/alerts/2023/03/23/untitled-goose-tool-aids-hunt-and-incident-response-azure-azure-active-directory-and-microsoft-365)|Visit link for details.|Mar 23, 2023|
- |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/03/23/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Mar 23, 2023|
  
 
 # CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0282/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 4 avril 2023|
+ |[Multiples vulnérabilités dans Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0281/)|De multiples vulnérabilités ont été découvertes dans Android. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service et une atteinte à la confidentialité des données.|Publié le 4 avril 2023|
  |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0280/)|De multiples vulnérabilités ont été découvertes dans |Publié le 31 mars 2023|
  |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0279/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de RedHat. Elles permettent à un attaquant de provoquer un déni de service et une élévation de privilèges.|Publié le 31 mars 2023|
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0278/)|De multiples vulnérabilités ont été découvertes dans |Publié le 31 mars 2023|
@@ -53,8 +55,6 @@
  |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0275/)|De multiples vulnérabilités ont été découvertes dans |Publié le 31 mars 2023|
  |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0274/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 30 mars 2023|
  |[[SCADA] Multiples vulnérabilités dans les produits Schneider](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0273/)|De multiples vulnérabilités ont été découvertes dans les produits Schneider. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 30 mars 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0272/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 30 mars 2023|
- |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0271/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 30 mars 2023|
  
 
 # HK-CERT
@@ -73,12 +73,6 @@
  |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230302)|Multiple vulnerabilities were identified in SUSE Linux. An attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure, security restriction bypass on the targeted system. [Updated on 2023-03-03...| Release Date: 2 Mar 2023 |
  
 
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -86,10 +80,10 @@
  |[HAProxy request smuggling (CVE-2023-25950)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 31, 2023|
  |[TP-Link AX1800 buffer overflow (CVE-2023-27346)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 31, 2023|
  |[RockOA code execution (CVE-2023-1773)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 31, 2023|
+ |[Grade Point Average (GPA) Calculator information disclosure (CVE-2023-1769)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 31, 2023|
+ |[Grade Point Average (GPA) Calculator SQL injection (CVE-2023-1770)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 31, 2023|
  |[Screen Creator Advance 2 buffer overflow (CVE-2023-25755)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 31, 2023|
- |[Microsoft Excel information disclosure](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 31, 2023|
- |[PDF-XChange Editor code execution (CVE-2023-27337)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 31, 2023|
- |[PDF-XChange Editor information disclosure (CVE-2023-27338)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 31, 2023|
+ |[Microsoft Print 3D code execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 31, 2023|
  
 
 # EU-CERT
@@ -109,6 +103,12 @@
  |[2023-010: Severe Vulnerabilities in Citrix Workspace, Virtual Apps and Desktops](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-010.pdf)|On February 14, 2023, Citrix released Security Bulletins regarding severe vulnerabilities affecting its Citrix Workspace, Virtual Apps and Desktops. If exploited, these vulnerabilities could enable attackers to elevate their privileges and take control of the affected system, but they need local access to the target.|Thursday, February 16, 2023 11:00:00 AM CET|
  
 
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -126,6 +126,40 @@
  |[<a href="https://vigilance.fr/vulnerability/Node-js-http-cache-semantics-overload-via-parseCacheControl-40937" class="noirorange"><b>Node.js http-cache-semantics</b>: overload via parseCacheControl()</a>](https://vigilance.fr/vulnerability/Node-js-http-cache-semantics-overload-via-parseCacheControl-40937)|An attacker can trigger an overload of Node.js |Visit link for details|
  
 
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[41130404/23 - Vulnérabilités critiques dans Android](https://www.dgssi.gov.ma//fr/content/4113040423-vulnerabilites-critiques-dans-android.html)|Plusieurs vulnérabilités critiques ont été corrigées dans le système d’exploitation Android. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, de causer un déni de service, d’...|04 avril 2023|
+ |[41120404/23- Vulnérabilités affectant Cisco Secure Web Appliance](https://www.dgssi.gov.ma//fr/content/4112040423-vulnerabilites-affectant-cisco-secure-web-appliance.html)|Cisco annonce la correction de deux vulnérabilités affectant son produit Cisco Secure Web Appliance.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant de contourner les mesures de sécurité.|04 avril 2023|
+ |[41110304/23 - Vulnérabilité dans F5 NGINX](https://www.dgssi.gov.ma//fr/content/4111030423-vulnerabilite-dans-f5-nginx.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées de F5 NGINX.Un attaquant authentifié disposant d'un accès local pour lire les fichiers journaux de l'agent peut accéder à des clés privées. Ce problème n'...|03 avril 2023|
+ |[41100304/23 - Vulnérabilité critique affectant le plugin «Elementor Pro» pour WordPress](https://www.dgssi.gov.ma//fr/content/4110030423-vulnerabilite-critique-affectant-le-plugin-elementor-pro-pour-wordpress.html)|WordPressannonce la correction d’unevulnérabilité critique affectant le plugin « Elementor Pro». Cette vulnérabilitéest activement exploitée etpeut permettre à un attaquant distant non authentifié de prendre le contrôle total...|03 avril 2023|
+ |[41090304/23 - Vulnérabilité dans SUDO](https://www.dgssi.gov.ma//fr/content/4109030423-vulnerabilite-dans-sudo.html)|Une vulnérabilité a été corrigée dans l'outil « sudo » utilisé par tous les systèmes Unix et Linux. En envoyant une requête spécialement conçue, un attaquant disposant d'un compte surle système peut élever ses privilèges et...|03 avril 2023|
+ |[41080304/23 - Vulnérabilités corrigées dans SAMBA](https://www.dgssi.gov.ma//fr/content/4108030423-vulnerabilites-corrigees-dans-samba.html)|Plusieurs vulnérabilités affectant Samba ontété corrigées. L'exploitation de ces vulnérabilités peut permettre à un attaquantdistant de contourner la politique de sécurité ou d’accéder à desinformations confidentielles.|03 avril 2023|
+ |[41073103/23 - Une attaque « supply chain » cible le logiciel 3CX et ses clients](https://www.dgssi.gov.ma//fr/content/4107310323-une-attaque-supply-chain-cible-le-logiciel-3cx-et-ses-clients.html)|Une compagne d'attaque de type "supply chain attack" a été observée contre des systèmes d'information a été observée contre des systèmes d'information utilisant le logiciel 3CX et ses clients.3CXDesktopApp, une...|31 mars 2023|
+ |[41063103/23 - Exploitation active d'une vulnérabilité critique dans IBM Aspera Faspex](https://www.dgssi.gov.ma//fr/content/4106310323-exploitation-active-d-une-vulnerabilite-critique-dans-ibm-aspera-faspex.html)|Une compagne d’attaque a été détectée exploitant activement la vulnérabilité critique (CVE-2022-47986) affectant IBM Aspera Faspex. La vulnérabilité est causée par une faille de désérialisation YAML (Yet Another Markup Language). L'...|31 mars 2023|
+ |[41053003/23 - Vulnérabilités critiques affectant des produits QNAP ](https://www.dgssi.gov.ma//fr/content/4105300323-vulnerabilites-critiques-affectant-des-produits-qnap.html)|QNAP annonce la disponibilité de mises à jour de sécurité permettant la correctionde plusieurs vulnérabilités affectant ses produits susmentionnés. L'exploitationde ces vulnérabilités peut permettre à un attaquant distant d’...|30 mars 2023|
+ |[41043003/23 - Vulnérabilités dans OpenSSL](https://www.dgssi.gov.ma//fr/content/4104300323-vulnerabilites-dans-openssl.html)|OpenSSL a publié un avis de sécurité pour corriger plusieurs vulnérabilités affectant les versions susmentionnées d’OpenSSL. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité.|30 mars 2023|
+ |[41033003/23 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/4103300323-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger d’une vulnérabilité affectant son client de messagerie Mozilla Thunderbird. L’exploitation de cette vulnérabilité peut permettre à un...|30 mars 2023|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[IBM security advisory (AV23-183)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-183)|Visit link for details|2023-04-03|
+ |[Ubuntu security advisory (AV23-182)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-182)|Visit link for details|2023-04-03|
+ |[Dell security advisory (AV23-181)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-181)|Visit link for details|2023-04-03|
+ |[[Control systems] ABB security advisory (AV23-180)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av23-180)|Visit link for details|2023-03-31|
+ |[Apple security advisory (AV23-179)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-179)|Visit link for details|2023-03-31|
+ |[Supply chain compromise impacting 3CXDesktopApp](https://www.cyber.gc.ca/en/alerts-advisories/supply-chain-compromise-impacting-3cxdesktopapp)|Visit link for details|2023-03-30|
+ |[[Control systems] Hitachi Energy security advisory (AV23-178)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-hitachi-energy-security-advisory-av23-178)|Visit link for details|2023-03-30|
+ |[Mozilla security advisory (AV23-177)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av23-177)|Visit link for details|2023-03-29|
+ |[Apple security advisory (AV23-176)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-176)|Visit link for details|2023-03-28|
+ |[[Control systems] ABB security advisory (AV23-175)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av23-175)|Visit link for details|2023-03-28|
+ |[IBM security advisory (AV23-174)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-174)|Visit link for details|2023-03-28|
+ 
+
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -138,38 +172,4 @@
  |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
  |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
  |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[41120404/23- Vulnérabilités affectant Cisco Secure Web Appliance](https://www.dgssi.gov.ma//fr/content/4112040423-vulnerabilites-affectant-cisco-secure-web-appliance.html)|Cisco annonce la correction de deux vulnérabilités affectant son produit Cisco Secure Web Appliance.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant de contourner les mesures de sécurité.|04 avril 2023|
- |[41110304/23 - Vulnérabilité dans F5 NGINX](https://www.dgssi.gov.ma//fr/content/4111030423-vulnerabilite-dans-f5-nginx.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées de F5 NGINX.Un attaquant authentifié disposant d'un accès local pour lire les fichiers journaux de l'agent peut accéder à des clés privées. Ce problème n'...|03 avril 2023|
- |[41100304/23 - Vulnérabilité critique affectant le plugin «Elementor Pro» pour WordPress](https://www.dgssi.gov.ma//fr/content/4110030423-vulnerabilite-critique-affectant-le-plugin-elementor-pro-pour-wordpress.html)|WordPressannonce la correction d’unevulnérabilité critique affectant le plugin « Elementor Pro». Cette vulnérabilitéest activement exploitée etpeut permettre à un attaquant distant non authentifié de prendre le contrôle total...|03 avril 2023|
- |[41090304/23 - Vulnérabilité dans SUDO](https://www.dgssi.gov.ma//fr/content/4109030423-vulnerabilite-dans-sudo.html)|Une vulnérabilité a été corrigée dans l'outil « sudo » utilisé par tous les systèmes Unix et Linux. En envoyant une requête spécialement conçue, un attaquant disposant d'un compte surle système peut élever ses privilèges et...|03 avril 2023|
- |[41080304/23 - Vulnérabilités corrigées dans SAMBA](https://www.dgssi.gov.ma//fr/content/4108030423-vulnerabilites-corrigees-dans-samba.html)|Plusieurs vulnérabilités affectant Samba ontété corrigées. L'exploitation de ces vulnérabilités peut permettre à un attaquantdistant de contourner la politique de sécurité ou d’accéder à desinformations confidentielles.|03 avril 2023|
- |[41073103/23 - Une attaque « supply chain » cible le logiciel 3CX et ses clients](https://www.dgssi.gov.ma//fr/content/4107310323-une-attaque-supply-chain-cible-le-logiciel-3cx-et-ses-clients.html)|Une compagne d'attaque de type "supply chain attack" a été observée contre des systèmes d'information a été observée contre des systèmes d'information utilisant le logiciel 3CX et ses clients.3CXDesktopApp, une...|31 mars 2023|
- |[41063103/23 - Exploitation active d'une vulnérabilité critique dans IBM Aspera Faspex](https://www.dgssi.gov.ma//fr/content/4106310323-exploitation-active-d-une-vulnerabilite-critique-dans-ibm-aspera-faspex.html)|Une compagne d’attaque a été détectée exploitant activement la vulnérabilité critique (CVE-2022-47986) affectant IBM Aspera Faspex. La vulnérabilité est causée par une faille de désérialisation YAML (Yet Another Markup Language). L'...|31 mars 2023|
- |[41053003/23 - Vulnérabilités critiques affectant des produits QNAP ](https://www.dgssi.gov.ma//fr/content/4105300323-vulnerabilites-critiques-affectant-des-produits-qnap.html)|QNAP annonce la disponibilité de mises à jour de sécurité permettant la correctionde plusieurs vulnérabilités affectant ses produits susmentionnés. L'exploitationde ces vulnérabilités peut permettre à un attaquant distant d’...|30 mars 2023|
- |[41043003/23 - Vulnérabilités dans OpenSSL](https://www.dgssi.gov.ma//fr/content/4104300323-vulnerabilites-dans-openssl.html)|OpenSSL a publié un avis de sécurité pour corriger plusieurs vulnérabilités affectant les versions susmentionnées d’OpenSSL. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité.|30 mars 2023|
- |[41033003/23 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/4103300323-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger d’une vulnérabilité affectant son client de messagerie Mozilla Thunderbird. L’exploitation de cette vulnérabilité peut permettre à un...|30 mars 2023|
- |[41022903/23 - Vulnérabilités affectant plusieurs produits de cisco](https://www.dgssi.gov.ma//fr/content/4102290323-vulnerabilites-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’exécuter du code arbitraire, de...|29 mars 2023|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Ubuntu security advisory (AV23-182)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-182)|Visit link for details|2023-04-03|
- |[Dell security advisory (AV23-181)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-181)|Visit link for details|2023-04-03|
- |[[Control systems] ABB security advisory (AV23-180)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av23-180)|Visit link for details|2023-03-31|
- |[Apple security advisory (AV23-179)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-179)|Visit link for details|2023-03-31|
- |[Supply chain compromise impacting 3CXDesktopApp](https://www.cyber.gc.ca/en/alerts-advisories/supply-chain-compromise-impacting-3cxdesktopapp)|Visit link for details|2023-03-30|
- |[[Control systems] Hitachi Energy security advisory (AV23-178)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-hitachi-energy-security-advisory-av23-178)|Visit link for details|2023-03-30|
- |[Mozilla security advisory (AV23-177)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av23-177)|Visit link for details|2023-03-29|
- |[Apple security advisory (AV23-176)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-176)|Visit link for details|2023-03-28|
- |[[Control systems] ABB security advisory (AV23-175)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av23-175)|Visit link for details|2023-03-28|
- |[IBM security advisory (AV23-174)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-174)|Visit link for details|2023-03-28|
- |[Dell security advisory (AV23-173)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-173)|Visit link for details|2023-03-28|
  

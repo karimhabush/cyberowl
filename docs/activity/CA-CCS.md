@@ -4,6 +4,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[IBM security advisory (AV23-183)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-183)|Visit link for details|2023-04-03|
  |[Ubuntu security advisory (AV23-182)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-182)|Visit link for details|2023-04-03|
  |[Dell security advisory (AV23-181)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-181)|Visit link for details|2023-04-03|
  |[[Control systems] ABB security advisory (AV23-180)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av23-180)|Visit link for details|2023-03-31|
@@ -14,5 +15,4 @@
  |[Apple security advisory (AV23-176)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-176)|Visit link for details|2023-03-28|
  |[[Control systems] ABB security advisory (AV23-175)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av23-175)|Visit link for details|2023-03-28|
  |[IBM security advisory (AV23-174)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-174)|Visit link for details|2023-03-28|
- |[Dell security advisory (AV23-173)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-173)|Visit link for details|2023-03-28|
  
