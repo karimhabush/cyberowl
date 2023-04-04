@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 04/04/2023 07:16:05 UTC
+ > Last Updated 04/04/2023 08:22:33 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -41,45 +41,6 @@
  |[CISA Releases Six Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/03/23/cisa-releases-six-industrial-control-systems-advisories)|Visit link for details.|Mar 23, 2023|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0280/)|De multiples vulnérabilités ont été découvertes dans |Publié le 31 mars 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0279/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de RedHat. Elles permettent à un attaquant de provoquer un déni de service et une élévation de privilèges.|Publié le 31 mars 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0278/)|De multiples vulnérabilités ont été découvertes dans |Publié le 31 mars 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0277/)|De multiples vulnérabilités ont été découvertes dans |Publié le 31 mars 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0276/)|De multiples vulnérabilités ont été découvertes dans |Publié le 31 mars 2023|
- |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0275/)|De multiples vulnérabilités ont été découvertes dans |Publié le 31 mars 2023|
- |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0274/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 30 mars 2023|
- |[[SCADA] Multiples vulnérabilités dans les produits Schneider](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0273/)|De multiples vulnérabilités ont été découvertes dans les produits Schneider. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 30 mars 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0272/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 30 mars 2023|
- |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0271/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 30 mars 2023|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-April-2023-40943" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of April 2023</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-April-2023-40943)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/runc-privilege-escalation-via-Symlinked-proc-40942" class="noirorange"><b>runc</b>: privilege escalation via Symlinked /proc</a>](https://vigilance.fr/vulnerability/runc-privilege-escalation-via-Symlinked-proc-40942)|An attacker can bypass restrictions of runc, via Symlinked /proc, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/runc-file-write-via-sys-fs-cgroup-40941" class="noirorange"><b>runc</b>: file write via /sys/fs/cgroup</a>](https://vigilance.fr/vulnerability/runc-file-write-via-sys-fs-cgroup-40941)|An attacker can bypass access restrictions of runc, via /sys/fs/cgroup, in order to alter files...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Dell-NetWorker-code-execution-via-nsrcapinfo-40940" class="noirorange"><b>Dell NetWorker</b>: code execution via nsrcapinfo</a>](https://vigilance.fr/vulnerability/Dell-NetWorker-code-execution-via-nsrcapinfo-40940)|An attacker can use a vulnerability of Dell NetWorker, via nsrcapinfo, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Dell-NetWorker-Man-in-the-Middle-via-Rabbitmq-Port-40939" class="noirorange"><b>Dell NetWorker</b>: Man-in-the-Middle via Rabbitmq Port</a>](https://vigilance.fr/vulnerability/Dell-NetWorker-Man-in-the-Middle-via-Rabbitmq-Port-40939)|An attacker can act as a Man-in-the-Middle on Dell NetWorker, via Rabbitmq Port, in order to read or write data in the session...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-ReadTIFFImage-40938" class="noirorange"><b>ImageMagick</b>: buffer overflow via ReadTIFFImage()</a>](https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-ReadTIFFImage-40938)|An attacker can trigger a buffer overflow of ImageMagick, via ReadTIFFImage(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Node-js-http-cache-semantics-overload-via-parseCacheControl-40937" class="noirorange"><b>Node.js http-cache-semantics</b>: overload via parseCacheControl()</a>](https://vigilance.fr/vulnerability/Node-js-http-cache-semantics-overload-via-parseCacheControl-40937)|An attacker can trigger an overload of Node.js |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/netconsd-memory-corruption-via-Fragment-Offset-40936" class="noirorange"><b>netconsd</b>: memory corruption via Fragment Offset</a>](https://vigilance.fr/vulnerability/netconsd-memory-corruption-via-Fragment-Offset-40936)|An attacker can trigger a memory corruption of netconsd, via Fragment Offset, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-NULL-pointer-dereference-via-class-object-index-40935" class="noirorange"><b>Vim</b>: NULL pointer dereference via class_object_index()</a>](https://vigilance.fr/vulnerability/Vim-NULL-pointer-dereference-via-class-object-index-40935)|An attacker can force a NULL pointer to be dereferenced on Vim, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Go-vulnerability-via-crypto-elliptic-40934" class="noirorange"><b>Go</b>: vulnerability via crypto/elliptic</a>](https://vigilance.fr/vulnerability/Go-vulnerability-via-crypto-elliptic-40934)|A vulnerability of Go, via crypto/elliptic, was announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Intel-PROSet-Wireless-WiFi-and-Killer-multiple-vulnerabilities-40933" class="noirorange"><b>Intel PROSet/Wireless WiFi and Killer</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Intel-PROSet-Wireless-WiFi-and-Killer-multiple-vulnerabilities-40933)|An attacker can use several vulnerabilities of Intel PROSet/Wireless WiFi and Killer...|Visit link for details|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -96,6 +57,22 @@
  |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230302)|Multiple vulnerabilities were identified in SUSE Linux. An attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure, security restriction bypass on the targeted system. [Updated on 2023-03-03...| Release Date: 2 Mar 2023 |
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0280/)|De multiples vulnérabilités ont été découvertes dans |Publié le 31 mars 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0279/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de RedHat. Elles permettent à un attaquant de provoquer un déni de service et une élévation de privilèges.|Publié le 31 mars 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0278/)|De multiples vulnérabilités ont été découvertes dans |Publié le 31 mars 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0277/)|De multiples vulnérabilités ont été découvertes dans |Publié le 31 mars 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0276/)|De multiples vulnérabilités ont été découvertes dans |Publié le 31 mars 2023|
+ |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0275/)|De multiples vulnérabilités ont été découvertes dans |Publié le 31 mars 2023|
+ |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0274/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 30 mars 2023|
+ |[[SCADA] Multiples vulnérabilités dans les produits Schneider](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0273/)|De multiples vulnérabilités ont été découvertes dans les produits Schneider. Elles permettent à un attaquant de provoquer un déni de service à distance.|Publié le 30 mars 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0272/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 30 mars 2023|
+ |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0271/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 30 mars 2023|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -107,6 +84,43 @@
  |[PDF-XChange Editor information disclosure (CVE-2023-27338)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 31, 2023|
  |[PDF-XChange Editor code execution (CVE-2023-27339)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 31, 2023|
  |[PDF-XChange Editor code execution (CVE-2023-27340)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 31, 2023|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Nextcloud-directory-traversal-via-Folder-getFullPath-40946" class="noirorange"><b>Nextcloud</b>: directory traversal via Folder::getFullPath()</a>](https://vigilance.fr/vulnerability/Nextcloud-directory-traversal-via-Folder-getFullPath-40946)|An attacker can traverse directories of Nextcloud, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Nextcloud-overload-via-User-Display-Names-40945" class="noirorange"><b>Nextcloud</b>: overload via User Display Names</a>](https://vigilance.fr/vulnerability/Nextcloud-overload-via-User-Display-Names-40945)|An attacker can trigger an overload of Nextcloud, via User Display Names, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Nextcloud-Password-Policy-weak-encryption-40944" class="noirorange"><b>Nextcloud Password Policy</b>: weak encryption</a>](https://vigilance.fr/vulnerability/Nextcloud-Password-Policy-weak-encryption-40944)|An attacker can access data on Nextcloud Password Policy, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-April-2023-40943" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of April 2023</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-April-2023-40943)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/runc-privilege-escalation-via-Symlinked-proc-40942" class="noirorange"><b>runc</b>: privilege escalation via Symlinked /proc</a>](https://vigilance.fr/vulnerability/runc-privilege-escalation-via-Symlinked-proc-40942)|An attacker can bypass restrictions of runc, via Symlinked /proc, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/runc-file-write-via-sys-fs-cgroup-40941" class="noirorange"><b>runc</b>: file write via /sys/fs/cgroup</a>](https://vigilance.fr/vulnerability/runc-file-write-via-sys-fs-cgroup-40941)|An attacker can bypass access restrictions of runc, via /sys/fs/cgroup, in order to alter files...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Dell-NetWorker-code-execution-via-nsrcapinfo-40940" class="noirorange"><b>Dell NetWorker</b>: code execution via nsrcapinfo</a>](https://vigilance.fr/vulnerability/Dell-NetWorker-code-execution-via-nsrcapinfo-40940)|An attacker can use a vulnerability of Dell NetWorker, via nsrcapinfo, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Dell-NetWorker-Man-in-the-Middle-via-Rabbitmq-Port-40939" class="noirorange"><b>Dell NetWorker</b>: Man-in-the-Middle via Rabbitmq Port</a>](https://vigilance.fr/vulnerability/Dell-NetWorker-Man-in-the-Middle-via-Rabbitmq-Port-40939)|An attacker can act as a Man-in-the-Middle on Dell NetWorker, via Rabbitmq Port, in order to read or write data in the session...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-ReadTIFFImage-40938" class="noirorange"><b>ImageMagick</b>: buffer overflow via ReadTIFFImage()</a>](https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-ReadTIFFImage-40938)|An attacker can trigger a buffer overflow of ImageMagick, via ReadTIFFImage(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-http-cache-semantics-overload-via-parseCacheControl-40937" class="noirorange"><b>Node.js http-cache-semantics</b>: overload via parseCacheControl()</a>](https://vigilance.fr/vulnerability/Node-js-http-cache-semantics-overload-via-parseCacheControl-40937)|An attacker can trigger an overload of Node.js |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/netconsd-memory-corruption-via-Fragment-Offset-40936" class="noirorange"><b>netconsd</b>: memory corruption via Fragment Offset</a>](https://vigilance.fr/vulnerability/netconsd-memory-corruption-via-Fragment-Offset-40936)|An attacker can trigger a memory corruption of netconsd, via Fragment Offset, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
 
 # MA-CERT
@@ -141,20 +155,6 @@
  |[2023-012: RCE vulnerabilities in Fortinet products](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-012.pdf)|On February 16, 2023, Fortinet released advisories regarding critical vulnerabilities in FortiNAC and FortiWeb products that may allow unauthenticated attackers to perform remote arbitrary code or command execution.|Monday, February 20, 2023 03:40:00 PM CET|
  |[2023-011: ClamAV critical vulnerability](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-011.pdf)|On February 15th, 2023, ClamAV informed about a critical vulnerability in the cross-platform antimalware toolkit. The vulnerability is identified as CVE-2023-20032 and could lead to remote code execution.|Monday, February 20, 2023 03:40:00 PM CET|
  |[2023-010: Severe Vulnerabilities in Citrix Workspace, Virtual Apps and Desktops](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-010.pdf)|On February 14, 2023, Citrix released Security Bulletins regarding severe vulnerabilities affecting its Citrix Workspace, Virtual Apps and Desktops. If exploited, these vulnerabilities could enable attackers to elevate their privileges and take control of the affected system, but they need local access to the target.|Thursday, February 16, 2023 11:00:00 AM CET|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
 
 # CA-CCS
