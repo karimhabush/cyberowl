@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 04/04/2023 03:18:07 UTC
+ > Last Updated 04/04/2023 04:21:10 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,39 +57,27 @@
  |[Multiples vulnérabilités dans les produits Qnap](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0271/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 30 mars 2023|
  
 
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Apple Xcode Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-xcode-multiple-vulnerabilities_20230403)|Multiple vulnerabilities were identified in Apple Xcode. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 3 Apr 2023|
- |[NetApp Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netapp-products-multiple-vulnerabilities_20230403)|Multiple vulnerabilities were identified in NetApp Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 3 Apr 2023|
- |[Samba Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samba-multiple-vulnerabilities_20230403)|Multiple vulnerabilities were identified in Samba. A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, security restriction bypass, and data manipulation on the targeted system.|Release Date: 3 Apr 2023|
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230403)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, data manipulation and security restriction bypass on the targeted system.|Release Date: 3 Apr 2023|
- |[Aruba Products Data Manipulation Vulnerability](https://www.hkcert.org/security-bulletin/aruba-products-data-manipulation-vulnerability_20230331)|A vulnerability was identified in Aruba Products. A remote attacker could exploit this vulnerability to trigger data manipulation on the targeted system. Note:To exploit the vulnerability CVE-2022-47522 requires authenticated permission. Product vendor has not yet released workaround / resolution at this...|Release Date: 31 Mar 2023|
- |[Microsoft Windows Snipping Tool Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/microsoft-windows-snipping-tool-information-disclosure-vulnerability_20230331)|A vulnerability has been identified in Microsoft Windows Snipping Tool, a remote user can exploit this vulnerability to trigger information disclosure on the targeted system. Note:Proof of Concept exploit code is publicly available for CVE-2023-28303.|Release Date: 31 Mar 2023|
- |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20230330)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 30 Mar 2023|
- |[Mozilla Thunderbird Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/mozilla-thunderbird-denial-of-service-vulnerability_20230330)|A vulnerability was identified in Mozilla Thunderbird. A remote attacker can exploit this vulnerability to trigger denial of service on the targeted system.|Release Date: 30 Mar 2023|
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230306)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2023-03-07] Updated System...| Release Date: 6 Mar 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230302)|Multiple vulnerabilities were identified in SUSE Linux. An attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure, security restriction bypass on the targeted system. [Updated on 2023-03-03...| Release Date: 2 Mar 2023 |
- 
-
 # VulDB
 
  |Title|Description|Date|
  |---|---|---|
  
 
-# IBM-X-FORCE-EXCHANGE
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[HAProxy request smuggling (CVE-2023-25950)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 31, 2023|
- |[TP-Link AX1800 buffer overflow (CVE-2023-27346)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 31, 2023|
- |[Screen Creator Advance 2 buffer overflow (CVE-2023-25755)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 31, 2023|
- |[PDF-XChange Editor code execution (CVE-2023-27337)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 31, 2023|
- |[PDF-XChange Editor information disclosure (CVE-2023-27338)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 31, 2023|
- |[PDF-XChange Editor code execution (CVE-2023-27339)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 31, 2023|
- |[PDF-XChange Editor code execution (CVE-2023-27340)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 31, 2023|
+ |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-April-2023-40943" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of April 2023</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-April-2023-40943)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/runc-privilege-escalation-via-Symlinked-proc-40942" class="noirorange"><b>runc</b>: privilege escalation via Symlinked /proc</a>](https://vigilance.fr/vulnerability/runc-privilege-escalation-via-Symlinked-proc-40942)|An attacker can bypass restrictions of runc, via Symlinked /proc, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/runc-file-write-via-sys-fs-cgroup-40941" class="noirorange"><b>runc</b>: file write via /sys/fs/cgroup</a>](https://vigilance.fr/vulnerability/runc-file-write-via-sys-fs-cgroup-40941)|An attacker can bypass access restrictions of runc, via /sys/fs/cgroup, in order to alter files...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Dell-NetWorker-code-execution-via-nsrcapinfo-40940" class="noirorange"><b>Dell NetWorker</b>: code execution via nsrcapinfo</a>](https://vigilance.fr/vulnerability/Dell-NetWorker-code-execution-via-nsrcapinfo-40940)|An attacker can use a vulnerability of Dell NetWorker, via nsrcapinfo, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Dell-NetWorker-Man-in-the-Middle-via-Rabbitmq-Port-40939" class="noirorange"><b>Dell NetWorker</b>: Man-in-the-Middle via Rabbitmq Port</a>](https://vigilance.fr/vulnerability/Dell-NetWorker-Man-in-the-Middle-via-Rabbitmq-Port-40939)|An attacker can act as a Man-in-the-Middle on Dell NetWorker, via Rabbitmq Port, in order to read or write data in the session...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-ReadTIFFImage-40938" class="noirorange"><b>ImageMagick</b>: buffer overflow via ReadTIFFImage()</a>](https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-ReadTIFFImage-40938)|An attacker can trigger a buffer overflow of ImageMagick, via ReadTIFFImage(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Node-js-http-cache-semantics-overload-via-parseCacheControl-40937" class="noirorange"><b>Node.js http-cache-semantics</b>: overload via parseCacheControl()</a>](https://vigilance.fr/vulnerability/Node-js-http-cache-semantics-overload-via-parseCacheControl-40937)|An attacker can trigger an overload of Node.js |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/netconsd-memory-corruption-via-Fragment-Offset-40936" class="noirorange"><b>netconsd</b>: memory corruption via Fragment Offset</a>](https://vigilance.fr/vulnerability/netconsd-memory-corruption-via-Fragment-Offset-40936)|An attacker can trigger a memory corruption of netconsd, via Fragment Offset, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Vim-NULL-pointer-dereference-via-class-object-index-40935" class="noirorange"><b>Vim</b>: NULL pointer dereference via class_object_index()</a>](https://vigilance.fr/vulnerability/Vim-NULL-pointer-dereference-via-class-object-index-40935)|An attacker can force a NULL pointer to be dereferenced on Vim, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Go-vulnerability-via-crypto-elliptic-40934" class="noirorange"><b>Go</b>: vulnerability via crypto/elliptic</a>](https://vigilance.fr/vulnerability/Go-vulnerability-via-crypto-elliptic-40934)|A vulnerability of Go, via crypto/elliptic, was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Intel-PROSet-Wireless-WiFi-and-Killer-multiple-vulnerabilities-40933" class="noirorange"><b>Intel PROSet/Wireless WiFi and Killer</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Intel-PROSet-Wireless-WiFi-and-Killer-multiple-vulnerabilities-40933)|An attacker can use several vulnerabilities of Intel PROSet/Wireless WiFi and Killer...|Visit link for details|
  
 
 # EU-CERT
@@ -109,18 +97,17 @@
  |[2023-010: Severe Vulnerabilities in Citrix Workspace, Virtual Apps and Desktops](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-010.pdf)|On February 14, 2023, Citrix released Security Bulletins regarding severe vulnerabilities affecting its Citrix Workspace, Virtual Apps and Desktops. If exploited, these vulnerabilities could enable attackers to elevate their privileges and take control of the affected system, but they need local access to the target.|Thursday, February 16, 2023 11:00:00 AM CET|
  
 
-# ZERODAYINITIATIVE
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
+ |[HAProxy request smuggling (CVE-2023-25950)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 31, 2023|
+ |[TP-Link AX1800 buffer overflow (CVE-2023-27346)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 31, 2023|
+ |[Screen Creator Advance 2 buffer overflow (CVE-2023-25755)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 31, 2023|
+ |[PDF-XChange Editor code execution (CVE-2023-27337)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 31, 2023|
+ |[PDF-XChange Editor information disclosure (CVE-2023-27338)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 31, 2023|
+ |[PDF-XChange Editor code execution (CVE-2023-27339)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 31, 2023|
+ |[PDF-XChange Editor code execution (CVE-2023-27340)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Mar 31, 2023|
  
 
 # MA-CERT
@@ -140,21 +127,34 @@
  |[41012803/23 - Vulnérabilités critiques affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma//fr/content/4101280323-vulnerabilites-critiques-affectant-plusieurs-produits-d-apple.html)|Apple annonce lacorrectionde plusieursvulnérabilitésaffectant ses produitssusmentionnés. Une de ces vulnérabilités est un « Zero-day » Activement exploité et peut permettre à un attaquant distant d’exécuter du...|28 mars 2023|
  
 
-# OBS-Vigilance
+# HK-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-April-2023-40943" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of April 2023</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-April-2023-40943)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/runc-privilege-escalation-via-Symlinked-proc-40942" class="noirorange"><b>runc</b>: privilege escalation via Symlinked /proc</a>](https://vigilance.fr/vulnerability/runc-privilege-escalation-via-Symlinked-proc-40942)|An attacker can bypass restrictions of runc, via Symlinked /proc, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/runc-file-write-via-sys-fs-cgroup-40941" class="noirorange"><b>runc</b>: file write via /sys/fs/cgroup</a>](https://vigilance.fr/vulnerability/runc-file-write-via-sys-fs-cgroup-40941)|An attacker can bypass access restrictions of runc, via /sys/fs/cgroup, in order to alter files...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Dell-NetWorker-code-execution-via-nsrcapinfo-40940" class="noirorange"><b>Dell NetWorker</b>: code execution via nsrcapinfo</a>](https://vigilance.fr/vulnerability/Dell-NetWorker-code-execution-via-nsrcapinfo-40940)|An attacker can use a vulnerability of Dell NetWorker, via nsrcapinfo, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Dell-NetWorker-Man-in-the-Middle-via-Rabbitmq-Port-40939" class="noirorange"><b>Dell NetWorker</b>: Man-in-the-Middle via Rabbitmq Port</a>](https://vigilance.fr/vulnerability/Dell-NetWorker-Man-in-the-Middle-via-Rabbitmq-Port-40939)|An attacker can act as a Man-in-the-Middle on Dell NetWorker, via Rabbitmq Port, in order to read or write data in the session...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-ReadTIFFImage-40938" class="noirorange"><b>ImageMagick</b>: buffer overflow via ReadTIFFImage()</a>](https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-ReadTIFFImage-40938)|An attacker can trigger a buffer overflow of ImageMagick, via ReadTIFFImage(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Node-js-http-cache-semantics-overload-via-parseCacheControl-40937" class="noirorange"><b>Node.js http-cache-semantics</b>: overload via parseCacheControl()</a>](https://vigilance.fr/vulnerability/Node-js-http-cache-semantics-overload-via-parseCacheControl-40937)|An attacker can trigger an overload of Node.js |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/netconsd-memory-corruption-via-Fragment-Offset-40936" class="noirorange"><b>netconsd</b>: memory corruption via Fragment Offset</a>](https://vigilance.fr/vulnerability/netconsd-memory-corruption-via-Fragment-Offset-40936)|An attacker can trigger a memory corruption of netconsd, via Fragment Offset, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Vim-NULL-pointer-dereference-via-class-object-index-40935" class="noirorange"><b>Vim</b>: NULL pointer dereference via class_object_index()</a>](https://vigilance.fr/vulnerability/Vim-NULL-pointer-dereference-via-class-object-index-40935)|An attacker can force a NULL pointer to be dereferenced on Vim, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Go-vulnerability-via-crypto-elliptic-40934" class="noirorange"><b>Go</b>: vulnerability via crypto/elliptic</a>](https://vigilance.fr/vulnerability/Go-vulnerability-via-crypto-elliptic-40934)|A vulnerability of Go, via crypto/elliptic, was announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Intel-PROSet-Wireless-WiFi-and-Killer-multiple-vulnerabilities-40933" class="noirorange"><b>Intel PROSet/Wireless WiFi and Killer</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Intel-PROSet-Wireless-WiFi-and-Killer-multiple-vulnerabilities-40933)|An attacker can use several vulnerabilities of Intel PROSet/Wireless WiFi and Killer...|Visit link for details|
+ |[Apple Xcode Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-xcode-multiple-vulnerabilities_20230403)|Multiple vulnerabilities were identified in Apple Xcode. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 3 Apr 2023|
+ |[NetApp Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netapp-products-multiple-vulnerabilities_20230403)|Multiple vulnerabilities were identified in NetApp Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 3 Apr 2023|
+ |[Samba Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samba-multiple-vulnerabilities_20230403)|Multiple vulnerabilities were identified in Samba. A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, security restriction bypass, and data manipulation on the targeted system.|Release Date: 3 Apr 2023|
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230403)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, data manipulation and security restriction bypass on the targeted system.|Release Date: 3 Apr 2023|
+ |[Aruba Products Data Manipulation Vulnerability](https://www.hkcert.org/security-bulletin/aruba-products-data-manipulation-vulnerability_20230331)|A vulnerability was identified in Aruba Products. A remote attacker could exploit this vulnerability to trigger data manipulation on the targeted system. Note:To exploit the vulnerability CVE-2022-47522 requires authenticated permission. Product vendor has not yet released workaround / resolution at this...|Release Date: 31 Mar 2023|
+ |[Microsoft Windows Snipping Tool Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/microsoft-windows-snipping-tool-information-disclosure-vulnerability_20230331)|A vulnerability has been identified in Microsoft Windows Snipping Tool, a remote user can exploit this vulnerability to trigger information disclosure on the targeted system. Note:Proof of Concept exploit code is publicly available for CVE-2023-28303.|Release Date: 31 Mar 2023|
+ |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20230330)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 30 Mar 2023|
+ |[Mozilla Thunderbird Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/mozilla-thunderbird-denial-of-service-vulnerability_20230330)|A vulnerability was identified in Mozilla Thunderbird. A remote attacker can exploit this vulnerability to trigger denial of service on the targeted system.|Release Date: 30 Mar 2023|
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230306)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2023-03-07] Updated System...| Release Date: 6 Mar 2023 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230302)|Multiple vulnerabilities were identified in SUSE Linux. An attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure, security restriction bypass on the targeted system. [Updated on 2023-03-03...| Release Date: 2 Mar 2023 |
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
 
 # CA-CCS
