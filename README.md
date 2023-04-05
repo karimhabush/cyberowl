@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 05/04/2023 16:27:15 UTC
+ > Last Updated 05/04/2023 17:17:49 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -41,6 +41,12 @@
  |[Untitled Goose Tool Aids Hunt and Incident Response in Azure, Azure Active Directory, and Microsoft 365 Environments](https://www.cisa.gov/news-events/alerts/2023/03/23/untitled-goose-tool-aids-hunt-and-incident-response-azure-azure-active-directory-and-microsoft-365)|Visit link for details.|Mar 23, 2023|
  
 
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
@@ -57,16 +63,12 @@
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0277/)|De multiples vulnérabilités ont été découvertes dans |Publié le 31 mars 2023|
  
 
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-Unified-Contact-Center-Express-Cross-Site-Scripting-40963" class="noirorange"><b>Cisco Unified Contact Center Express</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Cisco-Unified-Contact-Center-Express-Cross-Site-Scripting-40963)|An attacker can trigger a Cross Site Scripting of Cisco Unified Contact Center Express, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-Prime-Infrastructure-Cross-Site-Scripting-40962" class="noirorange"><b>Cisco Prime Infrastructure</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Cisco-Prime-Infrastructure-Cross-Site-Scripting-40962)|An attacker can trigger a Cross Site Scripting of Cisco Prime Infrastructure, in order to run JavaScript code in the context of the web site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Liblouis-buffer-overflow-via-Lou-Trace-40961" class="noirorange"><b>Liblouis</b>: buffer overflow via Lou_Trace()</a>](https://vigilance.fr/vulnerability/Liblouis-buffer-overflow-via-Lou-Trace-40961)|An attacker can trigger a buffer overflow of Liblouis, via Lou_Trace(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Liblouis-buffer-overflow-via-lou-logFile-40960" class="noirorange"><b>Liblouis</b>: buffer overflow via lou_logFile()</a>](https://vigilance.fr/vulnerability/Liblouis-buffer-overflow-via-lou-logFile-40960)|An attacker can trigger a buffer overflow of Liblouis, via lou_logFile(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libheif-buffer-overflow-via-Strided-Image-40959" class="noirorange"><b>libheif</b>: buffer overflow via Strided Image</a>](https://vigilance.fr/vulnerability/libheif-buffer-overflow-via-Strided-Image-40959)|An attacker can trigger a buffer overflow of libheif, via Strided Image, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
@@ -76,8 +78,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Rails-Cross-Site-Scripting-via-SafeBuffer-bytesplice-40955" class="noirorange"><b>Rails</b>: Cross Site Scripting via SafeBuffer#bytesplice()</a>](https://vigilance.fr/vulnerability/Rails-Cross-Site-Scripting-via-SafeBuffer-bytesplice-40955)|An attacker can trigger a Cross Site Scripting of Rails, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Percona-XtraBackup-vulnerability-40954" class="noirorange"><b>Percona XtraBackup</b>: vulnerability</a>](https://vigilance.fr/vulnerability/Percona-XtraBackup-vulnerability-40954)|A vulnerability of Percona XtraBackup was announced...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GhostScript-buffer-overflow-via-base-sbcp-c-40953" class="noirorange"><b>GhostScript</b>: buffer overflow via base/sbcp.c</a>](https://vigilance.fr/vulnerability/GhostScript-buffer-overflow-via-base-sbcp-c-40953)|An attacker can trigger a buffer overflow of GhostScript, via base/sbcp.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Docker-Engine-Moby-weak-signature-via-Encrypted-Overlay-Networks-Single-Endpoint-40952" class="noirorange"><b>Docker Engine/Moby</b>: weak signature via Encrypted Overlay Networks Single Endpoint</a>](https://vigilance.fr/vulnerability/Docker-Engine-Moby-weak-signature-via-Encrypted-Overlay-Networks-Single-Endpoint-40952)|An attacker can use malicious data on Docker Engine/Moby, via Encrypted Overlay Networks Single Endpoint, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Docker-Engine-Moby-no-encryption-via-Encrypted-Overlay-Networks-40951" class="noirorange"><b>Docker Engine/Moby</b>: no encryption via Encrypted Overlay Networks</a>](https://vigilance.fr/vulnerability/Docker-Engine-Moby-no-encryption-via-Encrypted-Overlay-Networks-40951)|An attacker can access data on Docker Engine/Moby, via Encrypted Overlay Networks, in order to read sensitive information...|Visit link for details|
  
 
 # EU-CERT
@@ -97,6 +97,22 @@
  |[2023-010: Severe Vulnerabilities in Citrix Workspace, Virtual Apps and Desktops](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-010.pdf)|On February 14, 2023, Citrix released Security Bulletins regarding severe vulnerabilities affecting its Citrix Workspace, Virtual Apps and Desktops. If exploited, these vulnerabilities could enable attackers to elevate their privileges and take control of the affected system, but they need local access to the target.|Thursday, February 16, 2023 11:00:00 AM CET|
  
 
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apple Xcode Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-xcode-multiple-vulnerabilities_20230403)|Multiple vulnerabilities were identified in Apple Xcode. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 3 Apr 2023|
+ |[NetApp Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netapp-products-multiple-vulnerabilities_20230403)|Multiple vulnerabilities were identified in NetApp Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 3 Apr 2023|
+ |[Samba Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samba-multiple-vulnerabilities_20230403)|Multiple vulnerabilities were identified in Samba. A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, security restriction bypass, and data manipulation on the targeted system.|Release Date: 3 Apr 2023|
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230403)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, data manipulation and security restriction bypass on the targeted system.|Release Date: 3 Apr 2023|
+ |[Aruba Products Data Manipulation Vulnerability](https://www.hkcert.org/security-bulletin/aruba-products-data-manipulation-vulnerability_20230331)|A vulnerability was identified in Aruba Products. A remote attacker could exploit this vulnerability to trigger data manipulation on the targeted system. Note:To exploit the vulnerability CVE-2022-47522 requires authenticated permission. Product vendor has not yet released workaround / resolution at this...|Release Date: 31 Mar 2023|
+ |[Microsoft Windows Snipping Tool Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/microsoft-windows-snipping-tool-information-disclosure-vulnerability_20230331)|A vulnerability has been identified in Microsoft Windows Snipping Tool, a remote user can exploit this vulnerability to trigger information disclosure on the targeted system. Note:Proof of Concept exploit code is publicly available for CVE-2023-28303.|Release Date: 31 Mar 2023|
+ |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20230330)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 30 Mar 2023|
+ |[Mozilla Thunderbird Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/mozilla-thunderbird-denial-of-service-vulnerability_20230330)|A vulnerability was identified in Mozilla Thunderbird. A remote attacker can exploit this vulnerability to trigger denial of service on the targeted system.|Release Date: 30 Mar 2023|
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230306)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2023-03-07] Updated System...| Release Date: 6 Mar 2023 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230302)|Multiple vulnerabilities were identified in SUSE Linux. An attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure, security restriction bypass on the targeted system. [Updated on 2023-03-03...| Release Date: 2 Mar 2023 |
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -112,20 +128,4 @@
  |[41053003/23 - Vulnérabilités critiques affectant des produits QNAP ](https://www.dgssi.gov.ma//fr/content/4105300323-vulnerabilites-critiques-affectant-des-produits-qnap.html)|QNAP annonce la disponibilité de mises à jour de sécurité permettant la correctionde plusieurs vulnérabilités affectant ses produits susmentionnés. L'exploitationde ces vulnérabilités peut permettre à un attaquant distant d’...|30 mars 2023|
  |[41043003/23 - Vulnérabilités dans OpenSSL](https://www.dgssi.gov.ma//fr/content/4104300323-vulnerabilites-dans-openssl.html)|OpenSSL a publié un avis de sécurité pour corriger plusieurs vulnérabilités affectant les versions susmentionnées d’OpenSSL. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité.|30 mars 2023|
  |[41033003/23 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/4103300323-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger d’une vulnérabilité affectant son client de messagerie Mozilla Thunderbird. L’exploitation de cette vulnérabilité peut permettre à un...|30 mars 2023|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Apple Xcode Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-xcode-multiple-vulnerabilities_20230403)|Multiple vulnerabilities were identified in Apple Xcode. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 3 Apr 2023|
- |[NetApp Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netapp-products-multiple-vulnerabilities_20230403)|Multiple vulnerabilities were identified in NetApp Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 3 Apr 2023|
- |[Samba Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samba-multiple-vulnerabilities_20230403)|Multiple vulnerabilities were identified in Samba. A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, security restriction bypass, and data manipulation on the targeted system.|Release Date: 3 Apr 2023|
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230403)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, data manipulation and security restriction bypass on the targeted system.|Release Date: 3 Apr 2023|
- |[Aruba Products Data Manipulation Vulnerability](https://www.hkcert.org/security-bulletin/aruba-products-data-manipulation-vulnerability_20230331)|A vulnerability was identified in Aruba Products. A remote attacker could exploit this vulnerability to trigger data manipulation on the targeted system. Note:To exploit the vulnerability CVE-2022-47522 requires authenticated permission. Product vendor has not yet released workaround / resolution at this...|Release Date: 31 Mar 2023|
- |[Microsoft Windows Snipping Tool Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/microsoft-windows-snipping-tool-information-disclosure-vulnerability_20230331)|A vulnerability has been identified in Microsoft Windows Snipping Tool, a remote user can exploit this vulnerability to trigger information disclosure on the targeted system. Note:Proof of Concept exploit code is publicly available for CVE-2023-28303.|Release Date: 31 Mar 2023|
- |[QNAP NAS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20230330)|Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 30 Mar 2023|
- |[Mozilla Thunderbird Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/mozilla-thunderbird-denial-of-service-vulnerability_20230330)|A vulnerability was identified in Mozilla Thunderbird. A remote attacker can exploit this vulnerability to trigger denial of service on the targeted system.|Release Date: 30 Mar 2023|
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230306)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2023-03-07] Updated System...| Release Date: 6 Mar 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230302)|Multiple vulnerabilities were identified in SUSE Linux. An attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure, security restriction bypass on the targeted system. [Updated on 2023-03-03...| Release Date: 2 Mar 2023 |
  
