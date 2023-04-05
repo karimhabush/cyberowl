@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 05/04/2023 21:16:42 UTC
+ > Last Updated 05/04/2023 22:16:05 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,12 +57,6 @@
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0277/)|De multiples vulnérabilités ont été découvertes dans |Publié le 31 mars 2023|
  
 
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -78,6 +72,12 @@
  |[<a href="https://vigilance.fr/vulnerability/Rails-Cross-Site-Scripting-via-SafeBuffer-bytesplice-40955" class="noirorange"><b>Rails</b>: Cross Site Scripting via SafeBuffer#bytesplice()</a>](https://vigilance.fr/vulnerability/Rails-Cross-Site-Scripting-via-SafeBuffer-bytesplice-40955)|An attacker can trigger a Cross Site Scripting of Rails, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Percona-XtraBackup-vulnerability-40954" class="noirorange"><b>Percona XtraBackup</b>: vulnerability</a>](https://vigilance.fr/vulnerability/Percona-XtraBackup-vulnerability-40954)|A vulnerability of Percona XtraBackup was announced...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GhostScript-buffer-overflow-via-base-sbcp-c-40953" class="noirorange"><b>GhostScript</b>: buffer overflow via base/sbcp.c</a>](https://vigilance.fr/vulnerability/GhostScript-buffer-overflow-via-base-sbcp-c-40953)|An attacker can trigger a buffer overflow of GhostScript, via base/sbcp.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # EU-CERT
