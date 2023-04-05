@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 05/04/2023 22:16:05 UTC
+ > Last Updated 05/04/2023 23:14:32 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -25,22 +25,6 @@
  
  > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/04/04/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Apr 04, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/04/03/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Apr 03, 2023|
- |[Samba Releases Security Updates for Multiple Versions of Samba](https://www.cisa.gov/news-events/alerts/2023/03/31/samba-releases-security-updates-multiple-versions-samba)|Visit link for details.|Mar 31, 2023|
- |[Mozilla Releases Security Update for Thunderbird 102.9.1](https://www.cisa.gov/news-events/alerts/2023/03/31/mozilla-releases-security-update-thunderbird-10291)|Visit link for details.|Mar 31, 2023|
- |[CISA Adds Ten Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/03/30/cisa-adds-ten-known-exploited-vulnerabilities-catalog)|Visit link for details.|Mar 30, 2023|
- |[Supply Chain Attack Against 3CXDesktopApp ](https://www.cisa.gov/news-events/alerts/2023/03/30/supply-chain-attack-against-3cxdesktopapp)|Visit link for details.|Mar 30, 2023|
- |[ CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/03/30/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Mar 30, 2023|
- |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/03/28/apple-releases-security-updates-multiple-products)|Visit link for details.|Mar 28, 2023|
- |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/03/23/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Mar 23, 2023|
- |[Untitled Goose Tool Aids Hunt and Incident Response in Azure, Azure Active Directory, and Microsoft 365 Environments](https://www.cisa.gov/news-events/alerts/2023/03/23/untitled-goose-tool-aids-hunt-and-incident-response-azure-azure-active-directory-and-microsoft-365)|Visit link for details.|Mar 23, 2023|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -55,6 +39,22 @@
  |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0279/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux de RedHat. Elles permettent à un attaquant de provoquer un déni de service et une élévation de privilèges.|Publié le 31 mars 2023|
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0278/)|De multiples vulnérabilités ont été découvertes dans |Publié le 31 mars 2023|
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0277/)|De multiples vulnérabilités ont été découvertes dans |Publié le 31 mars 2023|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/04/04/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Apr 04, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/04/03/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Apr 03, 2023|
+ |[Samba Releases Security Updates for Multiple Versions of Samba](https://www.cisa.gov/news-events/alerts/2023/03/31/samba-releases-security-updates-multiple-versions-samba)|Visit link for details.|Mar 31, 2023|
+ |[Mozilla Releases Security Update for Thunderbird 102.9.1](https://www.cisa.gov/news-events/alerts/2023/03/31/mozilla-releases-security-update-thunderbird-10291)|Visit link for details.|Mar 31, 2023|
+ |[CISA Adds Ten Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/03/30/cisa-adds-ten-known-exploited-vulnerabilities-catalog)|Visit link for details.|Mar 30, 2023|
+ |[Supply Chain Attack Against 3CXDesktopApp ](https://www.cisa.gov/news-events/alerts/2023/03/30/supply-chain-attack-against-3cxdesktopapp)|Visit link for details.|Mar 30, 2023|
+ |[ CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/03/30/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Mar 30, 2023|
+ |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/03/28/apple-releases-security-updates-multiple-products)|Visit link for details.|Mar 28, 2023|
+ |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/03/23/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Mar 23, 2023|
+ |[Untitled Goose Tool Aids Hunt and Incident Response in Azure, Azure Active Directory, and Microsoft 365 Environments](https://www.cisa.gov/news-events/alerts/2023/03/23/untitled-goose-tool-aids-hunt-and-incident-response-azure-azure-active-directory-and-microsoft-365)|Visit link for details.|Mar 23, 2023|
  
 
 # OBS-Vigilance
@@ -74,12 +74,6 @@
  |[<a href="https://vigilance.fr/vulnerability/GhostScript-buffer-overflow-via-base-sbcp-c-40953" class="noirorange"><b>GhostScript</b>: buffer overflow via base/sbcp.c</a>](https://vigilance.fr/vulnerability/GhostScript-buffer-overflow-via-base-sbcp-c-40953)|An attacker can trigger a buffer overflow of GhostScript, via base/sbcp.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
 
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -95,6 +89,12 @@
  |[2023-012: RCE vulnerabilities in Fortinet products](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-012.pdf)|On February 16, 2023, Fortinet released advisories regarding critical vulnerabilities in FortiNAC and FortiWeb products that may allow unauthenticated attackers to perform remote arbitrary code or command execution.|Monday, February 20, 2023 03:40:00 PM CET|
  |[2023-011: ClamAV critical vulnerability](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-011.pdf)|On February 15th, 2023, ClamAV informed about a critical vulnerability in the cross-platform antimalware toolkit. The vulnerability is identified as CVE-2023-20032 and could lead to remote code execution.|Monday, February 20, 2023 03:40:00 PM CET|
  |[2023-010: Severe Vulnerabilities in Citrix Workspace, Virtual Apps and Desktops](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-010.pdf)|On February 14, 2023, Citrix released Security Bulletins regarding severe vulnerabilities affecting its Citrix Workspace, Virtual Apps and Desktops. If exploited, these vulnerabilities could enable attackers to elevate their privileges and take control of the affected system, but they need local access to the target.|Thursday, February 16, 2023 11:00:00 AM CET|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # MA-CERT
