@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 05/04/2023 15:21:09 UTC
+ > Last Updated 05/04/2023 16:27:15 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,6 +57,12 @@
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0277/)|De multiples vulnérabilités ont été découvertes dans |Publié le 31 mars 2023|
  
 
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -72,12 +78,6 @@
  |[<a href="https://vigilance.fr/vulnerability/GhostScript-buffer-overflow-via-base-sbcp-c-40953" class="noirorange"><b>GhostScript</b>: buffer overflow via base/sbcp.c</a>](https://vigilance.fr/vulnerability/GhostScript-buffer-overflow-via-base-sbcp-c-40953)|An attacker can trigger a buffer overflow of GhostScript, via base/sbcp.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Docker-Engine-Moby-weak-signature-via-Encrypted-Overlay-Networks-Single-Endpoint-40952" class="noirorange"><b>Docker Engine/Moby</b>: weak signature via Encrypted Overlay Networks Single Endpoint</a>](https://vigilance.fr/vulnerability/Docker-Engine-Moby-weak-signature-via-Encrypted-Overlay-Networks-Single-Endpoint-40952)|An attacker can use malicious data on Docker Engine/Moby, via Encrypted Overlay Networks Single Endpoint, in order to deceive the victim...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Docker-Engine-Moby-no-encryption-via-Encrypted-Overlay-Networks-40951" class="noirorange"><b>Docker Engine/Moby</b>: no encryption via Encrypted Overlay Networks</a>](https://vigilance.fr/vulnerability/Docker-Engine-Moby-no-encryption-via-Encrypted-Overlay-Networks-40951)|An attacker can access data on Docker Engine/Moby, via Encrypted Overlay Networks, in order to read sensitive information...|Visit link for details|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # EU-CERT
