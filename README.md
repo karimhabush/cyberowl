@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 06/04/2023 22:15:52 UTC
+ > Last Updated 06/04/2023 23:17:09 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,23 +57,6 @@
  |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0280/)|De multiples vulnérabilités ont été découvertes dans |Publié le 31 mars 2023|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-overload-via-Certain-File-Types-40974" class="noirorange"><b>WithSecure Endpoint Protection</b>: overload via Certain File Types</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-overload-via-Certain-File-Types-40974)|An attacker can trigger an overload of WithSecure Endpoint Protection, via Certain File Types, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-fs-proc-task-mmu-c-40973" class="noirorange"><b>Linux kernel</b>: denial of service via fs/proc/task_mmu.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-fs-proc-task-mmu-c-40973)|An attacker can cause a fatal error of the Linux kernel, via fs/proc/task_mmu.c, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-vhost-net-set-backend-40972" class="noirorange"><b>Linux kernel</b>: double free via vhost_net_set_backend()</a>](https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-vhost-net-set-backend-40972)|An attacker can force a double memory free of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-xgene-hwmon-remove-40971" class="noirorange"><b>Linux kernel</b>: reuse after free via xgene_hwmon_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-xgene-hwmon-remove-40971)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Veritas-NetBackUp-OpsCenter-Cross-Site-Scripting-40970" class="noirorange"><b>Veritas NetBackUp OpsCenter</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Veritas-NetBackUp-OpsCenter-Cross-Site-Scripting-40970)|An attacker can trigger a Cross Site Scripting of Veritas NetBackUp OpsCenter, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/zchunk-three-vulnerabilities-40969" class="noirorange"><b>zchunk</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/zchunk-three-vulnerabilities-40969)|An attacker can use several vulnerabilities of zchunk...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/podman-conmon-denial-of-service-via-g-strdup-printf-40968" class="noirorange"><b>podman/conmon</b>: denial of service via g_strdup_printf()</a>](https://vigilance.fr/vulnerability/podman-conmon-denial-of-service-via-g-strdup-printf-40968)|An attacker can cause a fatal error of podman/conmon, via g_strdup_printf(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-tipc-conn-alloc-40967" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via tipc_conn_alloc()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-tipc-conn-alloc-40967)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via tipc_conn_alloc(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Liblouis-buffer-overflow-via-lou-setDataPath-40966" class="noirorange"><b>Liblouis</b>: buffer overflow via lou_setDataPath()</a>](https://vigilance.fr/vulnerability/Liblouis-buffer-overflow-via-lou-setDataPath-40966)|An attacker can trigger a buffer overflow of Liblouis, via lou_setDataPath(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Unified-Contact-Center-Express-Cross-Site-Scripting-40963" class="noirorange"><b>Cisco Unified Contact Center Express</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Cisco-Unified-Contact-Center-Express-Cross-Site-Scripting-40963)|An attacker can trigger a Cross Site Scripting of Cisco Unified Contact Center Express, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Prime-Infrastructure-Cross-Site-Scripting-40962" class="noirorange"><b>Cisco Prime Infrastructure</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Cisco-Prime-Infrastructure-Cross-Site-Scripting-40962)|An attacker can trigger a Cross Site Scripting of Cisco Prime Infrastructure, in order to run JavaScript code in the context of the web site...|Visit link for details|
- 
-
 # VulDB
 
  |Title|Description|Date|
@@ -95,6 +78,23 @@
  |[2023-012: RCE vulnerabilities in Fortinet products](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-012.pdf)|On February 16, 2023, Fortinet released advisories regarding critical vulnerabilities in FortiNAC and FortiWeb products that may allow unauthenticated attackers to perform remote arbitrary code or command execution.|Monday, February 20, 2023 03:40:00 PM CET|
  |[2023-011: ClamAV critical vulnerability](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-011.pdf)|On February 15th, 2023, ClamAV informed about a critical vulnerability in the cross-platform antimalware toolkit. The vulnerability is identified as CVE-2023-20032 and could lead to remote code execution.|Monday, February 20, 2023 03:40:00 PM CET|
  |[2023-010: Severe Vulnerabilities in Citrix Workspace, Virtual Apps and Desktops](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-010.pdf)|On February 14, 2023, Citrix released Security Bulletins regarding severe vulnerabilities affecting its Citrix Workspace, Virtual Apps and Desktops. If exploited, these vulnerabilities could enable attackers to elevate their privileges and take control of the affected system, but they need local access to the target.|Thursday, February 16, 2023 11:00:00 AM CET|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-overload-via-Certain-File-Types-40974" class="noirorange"><b>WithSecure Endpoint Protection</b>: overload via Certain File Types</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-overload-via-Certain-File-Types-40974)|An attacker can trigger an overload of WithSecure Endpoint Protection, via Certain File Types, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-fs-proc-task-mmu-c-40973" class="noirorange"><b>Linux kernel</b>: denial of service via fs/proc/task_mmu.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-fs-proc-task-mmu-c-40973)|An attacker can cause a fatal error of the Linux kernel, via fs/proc/task_mmu.c, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-vhost-net-set-backend-40972" class="noirorange"><b>Linux kernel</b>: double free via vhost_net_set_backend()</a>](https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-vhost-net-set-backend-40972)|An attacker can force a double memory free of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-xgene-hwmon-remove-40971" class="noirorange"><b>Linux kernel</b>: reuse after free via xgene_hwmon_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-xgene-hwmon-remove-40971)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Veritas-NetBackUp-OpsCenter-Cross-Site-Scripting-40970" class="noirorange"><b>Veritas NetBackUp OpsCenter</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Veritas-NetBackUp-OpsCenter-Cross-Site-Scripting-40970)|An attacker can trigger a Cross Site Scripting of Veritas NetBackUp OpsCenter, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/zchunk-three-vulnerabilities-40969" class="noirorange"><b>zchunk</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/zchunk-three-vulnerabilities-40969)|An attacker can use several vulnerabilities of zchunk...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/podman-conmon-denial-of-service-via-g-strdup-printf-40968" class="noirorange"><b>podman/conmon</b>: denial of service via g_strdup_printf()</a>](https://vigilance.fr/vulnerability/podman-conmon-denial-of-service-via-g-strdup-printf-40968)|An attacker can cause a fatal error of podman/conmon, via g_strdup_printf(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-tipc-conn-alloc-40967" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via tipc_conn_alloc()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-tipc-conn-alloc-40967)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via tipc_conn_alloc(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Liblouis-buffer-overflow-via-lou-setDataPath-40966" class="noirorange"><b>Liblouis</b>: buffer overflow via lou_setDataPath()</a>](https://vigilance.fr/vulnerability/Liblouis-buffer-overflow-via-lou-setDataPath-40966)|An attacker can trigger a buffer overflow of Liblouis, via lou_setDataPath(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-Unified-Contact-Center-Express-Cross-Site-Scripting-40963" class="noirorange"><b>Cisco Unified Contact Center Express</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Cisco-Unified-Contact-Center-Express-Cross-Site-Scripting-40963)|An attacker can trigger a Cross Site Scripting of Cisco Unified Contact Center Express, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-Prime-Infrastructure-Cross-Site-Scripting-40962" class="noirorange"><b>Cisco Prime Infrastructure</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Cisco-Prime-Infrastructure-Cross-Site-Scripting-40962)|An attacker can trigger a Cross Site Scripting of Cisco Prime Infrastructure, in order to run JavaScript code in the context of the web site...|Visit link for details|
  
 
 # MA-CERT
