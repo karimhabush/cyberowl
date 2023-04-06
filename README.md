@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 06/04/2023 04:20:55 UTC
+ > Last Updated 06/04/2023 05:15:50 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,23 +57,6 @@
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0277/)|De multiples vulnérabilités ont été découvertes dans |Publié le 31 mars 2023|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Unified-Contact-Center-Express-Cross-Site-Scripting-40963" class="noirorange"><b>Cisco Unified Contact Center Express</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Cisco-Unified-Contact-Center-Express-Cross-Site-Scripting-40963)|An attacker can trigger a Cross Site Scripting of Cisco Unified Contact Center Express, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Cisco-Prime-Infrastructure-Cross-Site-Scripting-40962" class="noirorange"><b>Cisco Prime Infrastructure</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Cisco-Prime-Infrastructure-Cross-Site-Scripting-40962)|An attacker can trigger a Cross Site Scripting of Cisco Prime Infrastructure, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Liblouis-buffer-overflow-via-Lou-Trace-40961" class="noirorange"><b>Liblouis</b>: buffer overflow via Lou_Trace()</a>](https://vigilance.fr/vulnerability/Liblouis-buffer-overflow-via-Lou-Trace-40961)|An attacker can trigger a buffer overflow of Liblouis, via Lou_Trace(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Liblouis-buffer-overflow-via-lou-logFile-40960" class="noirorange"><b>Liblouis</b>: buffer overflow via lou_logFile()</a>](https://vigilance.fr/vulnerability/Liblouis-buffer-overflow-via-lou-logFile-40960)|An attacker can trigger a buffer overflow of Liblouis, via lou_logFile(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libheif-buffer-overflow-via-Strided-Image-40959" class="noirorange"><b>libheif</b>: buffer overflow via Strided Image</a>](https://vigilance.fr/vulnerability/libheif-buffer-overflow-via-Strided-Image-40959)|An attacker can trigger a buffer overflow of libheif, via Strided Image, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-40958" class="noirorange"><b>Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-40958)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/pfSense-Cross-Site-Scripting-via-ACME-40957" class="noirorange"><b>pfSense</b>: Cross Site Scripting via ACME</a>](https://vigilance.fr/vulnerability/pfSense-Cross-Site-Scripting-via-ACME-40957)|An attacker can trigger a Cross Site Scripting of pfSense, via ACME, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-btrfs-search-slot-40956" class="noirorange"><b>Linux kernel</b>: reuse after free via btrfs_search_slot()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-btrfs-search-slot-40956)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Rails-Cross-Site-Scripting-via-SafeBuffer-bytesplice-40955" class="noirorange"><b>Rails</b>: Cross Site Scripting via SafeBuffer#bytesplice()</a>](https://vigilance.fr/vulnerability/Rails-Cross-Site-Scripting-via-SafeBuffer-bytesplice-40955)|An attacker can trigger a Cross Site Scripting of Rails, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Percona-XtraBackup-vulnerability-40954" class="noirorange"><b>Percona XtraBackup</b>: vulnerability</a>](https://vigilance.fr/vulnerability/Percona-XtraBackup-vulnerability-40954)|A vulnerability of Percona XtraBackup was announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GhostScript-buffer-overflow-via-base-sbcp-c-40953" class="noirorange"><b>GhostScript</b>: buffer overflow via base/sbcp.c</a>](https://vigilance.fr/vulnerability/GhostScript-buffer-overflow-via-base-sbcp-c-40953)|An attacker can trigger a buffer overflow of GhostScript, via base/sbcp.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -91,10 +74,21 @@
  |[2023-010: Severe Vulnerabilities in Citrix Workspace, Virtual Apps and Desktops](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-010.pdf)|On February 14, 2023, Citrix released Security Bulletins regarding severe vulnerabilities affecting its Citrix Workspace, Virtual Apps and Desktops. If exploited, these vulnerabilities could enable attackers to elevate their privileges and take control of the affected system, but they need local access to the target.|Thursday, February 16, 2023 11:00:00 AM CET|
  
 
-# VulDB
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-Unified-Contact-Center-Express-Cross-Site-Scripting-40963" class="noirorange"><b>Cisco Unified Contact Center Express</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Cisco-Unified-Contact-Center-Express-Cross-Site-Scripting-40963)|An attacker can trigger a Cross Site Scripting of Cisco Unified Contact Center Express, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Cisco-Prime-Infrastructure-Cross-Site-Scripting-40962" class="noirorange"><b>Cisco Prime Infrastructure</b>: Cross Site Scripting</a>](https://vigilance.fr/vulnerability/Cisco-Prime-Infrastructure-Cross-Site-Scripting-40962)|An attacker can trigger a Cross Site Scripting of Cisco Prime Infrastructure, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Liblouis-buffer-overflow-via-Lou-Trace-40961" class="noirorange"><b>Liblouis</b>: buffer overflow via Lou_Trace()</a>](https://vigilance.fr/vulnerability/Liblouis-buffer-overflow-via-Lou-Trace-40961)|An attacker can trigger a buffer overflow of Liblouis, via Lou_Trace(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Liblouis-buffer-overflow-via-lou-logFile-40960" class="noirorange"><b>Liblouis</b>: buffer overflow via lou_logFile()</a>](https://vigilance.fr/vulnerability/Liblouis-buffer-overflow-via-lou-logFile-40960)|An attacker can trigger a buffer overflow of Liblouis, via lou_logFile(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libheif-buffer-overflow-via-Strided-Image-40959" class="noirorange"><b>libheif</b>: buffer overflow via Strided Image</a>](https://vigilance.fr/vulnerability/libheif-buffer-overflow-via-Strided-Image-40959)|An attacker can trigger a buffer overflow of libheif, via Strided Image, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-40958" class="noirorange"><b>Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Chrome-multiple-vulnerabilities-40958)|An attacker can use several vulnerabilities of Chrome...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/pfSense-Cross-Site-Scripting-via-ACME-40957" class="noirorange"><b>pfSense</b>: Cross Site Scripting via ACME</a>](https://vigilance.fr/vulnerability/pfSense-Cross-Site-Scripting-via-ACME-40957)|An attacker can trigger a Cross Site Scripting of pfSense, via ACME, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-btrfs-search-slot-40956" class="noirorange"><b>Linux kernel</b>: reuse after free via btrfs_search_slot()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-btrfs-search-slot-40956)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Rails-Cross-Site-Scripting-via-SafeBuffer-bytesplice-40955" class="noirorange"><b>Rails</b>: Cross Site Scripting via SafeBuffer#bytesplice()</a>](https://vigilance.fr/vulnerability/Rails-Cross-Site-Scripting-via-SafeBuffer-bytesplice-40955)|An attacker can trigger a Cross Site Scripting of Rails, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Percona-XtraBackup-vulnerability-40954" class="noirorange"><b>Percona XtraBackup</b>: vulnerability</a>](https://vigilance.fr/vulnerability/Percona-XtraBackup-vulnerability-40954)|A vulnerability of Percona XtraBackup was announced...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GhostScript-buffer-overflow-via-base-sbcp-c-40953" class="noirorange"><b>GhostScript</b>: buffer overflow via base/sbcp.c</a>](https://vigilance.fr/vulnerability/GhostScript-buffer-overflow-via-base-sbcp-c-40953)|An attacker can trigger a buffer overflow of GhostScript, via base/sbcp.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
 
 # MA-CERT
@@ -128,4 +122,10 @@
  |[Samba Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samba-multiple-vulnerabilities_20230403)|Multiple vulnerabilities were identified in Samba. A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, security restriction bypass, and data manipulation on the targeted system.|Release Date: 3 Apr 2023|
  |[Aruba Products Data Manipulation Vulnerability](https://www.hkcert.org/security-bulletin/aruba-products-data-manipulation-vulnerability_20230331)|A vulnerability was identified in Aruba Products. A remote attacker could exploit this vulnerability to trigger data manipulation on the targeted system. Note:To exploit the vulnerability CVE-2022-47522 requires authenticated permission. Product vendor has not yet released workaround / resolution at this...|Release Date: 31 Mar 2023|
  |[Microsoft Windows Snipping Tool Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/microsoft-windows-snipping-tool-information-disclosure-vulnerability_20230331)|A vulnerability has been identified in Microsoft Windows Snipping Tool, a remote user can exploit this vulnerability to trigger information disclosure on the targeted system. Note:Proof of Concept exploit code is publicly available for CVE-2023-28303.|Release Date: 31 Mar 2023|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
  
