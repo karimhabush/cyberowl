@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 06/04/2023 21:13:12 UTC
+ > Last Updated 06/04/2023 22:15:52 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -25,22 +25,6 @@
  
  > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Vulnérabilité dans Mitel MiCollab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0289/)|Une vulnérabilité a été découverte dans |Publié le 6 avril 2023|
- |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0288/)|De multiples vulnérabilités ont été découvertes dans |Publié le 6 avril 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0287/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 6 avril 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0286/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 5 avril 2023|
- |[Multiples vulnérabilités dans Cisco Expressway Series et Cisco TelePresence VCS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0285/)|De multiples vulnérabilités ont été découvertes dans Cisco Expressway Series et Cisco TelePresence VCS. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 5 avril 2023|
- |[Multiples vulnérabilités dans les produits Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0284/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 avril 2023|
- |[Multiples vulnérabilités dans Sophos Web Appliance](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0283/)|De multiples vulnérabilités ont été découvertes dans Sophos Web Appliance. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 5 avril 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0282/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 4 avril 2023|
- |[Multiples vulnérabilités dans Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0281/)|De multiples vulnérabilités ont été découvertes dans Android. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service et une atteinte à la confidentialité des données.|Publié le 4 avril 2023|
- |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0280/)|De multiples vulnérabilités ont été découvertes dans |Publié le 31 mars 2023|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -55,6 +39,22 @@
  |[ CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/03/30/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Mar 30, 2023|
  |[Apple Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/03/28/apple-releases-security-updates-multiple-products)|Visit link for details.|Mar 28, 2023|
  |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/03/23/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Mar 23, 2023|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Vulnérabilité dans Mitel MiCollab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0289/)|Une vulnérabilité a été découverte dans |Publié le 6 avril 2023|
+ |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0288/)|De multiples vulnérabilités ont été découvertes dans |Publié le 6 avril 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0287/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 6 avril 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0286/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 5 avril 2023|
+ |[Multiples vulnérabilités dans Cisco Expressway Series et Cisco TelePresence VCS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0285/)|De multiples vulnérabilités ont été découvertes dans Cisco Expressway Series et Cisco TelePresence VCS. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 5 avril 2023|
+ |[Multiples vulnérabilités dans les produits Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0284/)|De multiples vulnérabilités ont été découvertes dans |Publié le 5 avril 2023|
+ |[Multiples vulnérabilités dans Sophos Web Appliance](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0283/)|De multiples vulnérabilités ont été découvertes dans Sophos Web Appliance. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.|Publié le 5 avril 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0282/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 4 avril 2023|
+ |[Multiples vulnérabilités dans Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0281/)|De multiples vulnérabilités ont été découvertes dans Android. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service et une atteinte à la confidentialité des données.|Publié le 4 avril 2023|
+ |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0280/)|De multiples vulnérabilités ont été découvertes dans |Publié le 31 mars 2023|
  
 
 # OBS-Vigilance
