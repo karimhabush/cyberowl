@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 08/04/2023 13:18:02 UTC
+ > Last Updated 08/04/2023 14:14:00 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -25,22 +25,6 @@
  
  > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Vulnérabilité dans Belden Industrial HiVision](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0294/)|Une vulnérabilité a été découverte dans Belden Industrial HiVision. Elle permet à un attaquant de provoquer une exécution de code arbitraire.|Publié le 7 avril 2023|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0293/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et un contournement de la politique de sécurité.|Publié le 7 avril 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0292/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 avril 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0291/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 avril 2023|
- |[Vulnérabilité dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0290/)|Une vulnérabilité a été découverte dans les produits |Publié le 7 avril 2023|
- |[Vulnérabilité dans Mitel MiCollab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0289/)|Une vulnérabilité a été découverte dans |Publié le 6 avril 2023|
- |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0288/)|De multiples vulnérabilités ont été découvertes dans |Publié le 6 avril 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0287/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 6 avril 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0286/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 5 avril 2023|
- |[Multiples vulnérabilités dans Cisco Expressway Series et Cisco TelePresence VCS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0285/)|De multiples vulnérabilités ont été découvertes dans Cisco Expressway Series et Cisco TelePresence VCS. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 5 avril 2023|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -55,6 +39,22 @@
  |[CISA Adds Ten Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/03/30/cisa-adds-ten-known-exploited-vulnerabilities-catalog)|Visit link for details.|Mar 30, 2023|
  |[Supply Chain Attack Against 3CXDesktopApp ](https://www.cisa.gov/news-events/alerts/2023/03/30/supply-chain-attack-against-3cxdesktopapp)|Visit link for details.|Mar 30, 2023|
  |[ CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/03/30/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Mar 30, 2023|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Vulnérabilité dans Belden Industrial HiVision](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0294/)|Une vulnérabilité a été découverte dans Belden Industrial HiVision. Elle permet à un attaquant de provoquer une exécution de code arbitraire.|Publié le 7 avril 2023|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0293/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et un contournement de la politique de sécurité.|Publié le 7 avril 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0292/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 avril 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0291/)|De multiples vulnérabilités ont été découvertes dans |Publié le 7 avril 2023|
+ |[Vulnérabilité dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0290/)|Une vulnérabilité a été découverte dans les produits |Publié le 7 avril 2023|
+ |[Vulnérabilité dans Mitel MiCollab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0289/)|Une vulnérabilité a été découverte dans |Publié le 6 avril 2023|
+ |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0288/)|De multiples vulnérabilités ont été découvertes dans |Publié le 6 avril 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0287/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 6 avril 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0286/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 5 avril 2023|
+ |[Multiples vulnérabilités dans Cisco Expressway Series et Cisco TelePresence VCS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0285/)|De multiples vulnérabilités ont été découvertes dans Cisco Expressway Series et Cisco TelePresence VCS. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 5 avril 2023|
  
 
 # OBS-Vigilance
