@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 09/04/2023 12:30:53 UTC
+ > Last Updated 09/04/2023 13:18:10 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -80,23 +80,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-vhost-net-set-backend-40972" class="noirorange"><b>Linux kernel</b>: double free via vhost_net_set_backend()</a>](https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-vhost-net-set-backend-40972)|An attacker can force a double memory free of the Linux kernel, via |Visit link for details|
  
 
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[41190704/23 - Vulnérabilités affectant plusieurs produits de cisco](https://www.dgssi.gov.ma//fr/content/4119070423-vulnerabilites-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’exécuter du code arbitraire, de...|07 avril 2023|
- |[41170604/23 - Vulnérabilités affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/4117060423-vulnerabilites-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilitésaffectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre àun attaquant d’exécuter du code...|07 avril 2023|
- |[41180704 /23 - Vulnérabilités dans les produits IBM](https://www.dgssi.gov.ma//fr/content/41180704-23-vulnerabilites-dans-les-produits-ibm.html)|Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. L’exploitation de ces failles pourrait permettre à un attaquant de porter atteinte à la confidentialité des données, de contourner la politique de sécurité, de...|07 avril 2023|
- |[41150604 /23 - Vulnérabilité critique dans le noyau Linux](https://www.dgssi.gov.ma//fr/content/41150604-23-vulnerabilite-critique-dans-le-noyau-linux.html)|Une vulnérabilité critique a été découverte dans le package "ALSA PCM" du noyau Linux. L’exploitation de cette faille pourrait permettre à un attaquant de réussir une élévation de privilèges pour obtenir un accès « ring0 » de l...|06 avril 2023|
- |[41150604 /23 - Le ransomware « Rorschach »](https://www.dgssi.gov.ma//fr/content/41150604-23-le-ransomware-rorschach.html)|Palo Alto Networks a déclaré être au courant d'attaques utilisant son outil « Cortex XDR Dump Service Tool » pour installer le ransomware « Rorschach » sur les systèmes Windows.Une analyse comportementale du nouveau ransomware...|06 avril 2023|
- |[41140504/23 - Vulnérabilitécritiqueaffectant des imprimantes HP](https://www.dgssi.gov.ma//fr/content/4114050423-vulnerabilite-critique-affectant-des-imprimantes-hp.html)|HPannonce la correction d’unevulnérabilité critique affectant certaines de ses imprimantes. Cette vulnérabilité est exploitable si le protocole IPsec et la fonctionnalité FutureSmart sont activés et ellepermet à un attaquantd’...|06 avril 2023|
- |[41130404/23 - Vulnérabilités critiques dans Android](https://www.dgssi.gov.ma//fr/content/4113040423-vulnerabilites-critiques-dans-android.html)|Plusieurs vulnérabilités critiques ont été corrigées dans le système d’exploitation Android. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, de causer un déni de service, d’...|04 avril 2023|
- |[41120404/23- Vulnérabilités affectant Cisco Secure Web Appliance](https://www.dgssi.gov.ma//fr/content/4112040423-vulnerabilites-affectant-cisco-secure-web-appliance.html)|Cisco annonce la correction de deux vulnérabilités affectant son produit Cisco Secure Web Appliance.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant de contourner les mesures de sécurité.|04 avril 2023|
- |[41110304/23 - Vulnérabilité dans F5 NGINX](https://www.dgssi.gov.ma//fr/content/4111030423-vulnerabilite-dans-f5-nginx.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées de F5 NGINX.Un attaquant authentifié disposant d'un accès local pour lire les fichiers journaux de l'agent peut accéder à des clés privées. Ce problème n'...|03 avril 2023|
- |[41100304/23 - Vulnérabilité critique affectant le plugin «Elementor Pro» pour WordPress](https://www.dgssi.gov.ma//fr/content/4110030423-vulnerabilite-critique-affectant-le-plugin-elementor-pro-pour-wordpress.html)|WordPressannonce la correction d’unevulnérabilité critique affectant le plugin « Elementor Pro». Cette vulnérabilitéest activement exploitée etpeut permettre à un attaquant distant non authentifié de prendre le contrôle total...|03 avril 2023|
- |[41090304/23 - Vulnérabilité dans SUDO](https://www.dgssi.gov.ma//fr/content/4109030423-vulnerabilite-dans-sudo.html)|Une vulnérabilité a été corrigée dans l'outil « sudo » utilisé par tous les systèmes Unix et Linux. En envoyant une requête spécialement conçue, un attaquant disposant d'un compte surle système peut élever ses privilèges et...|03 avril 2023|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -112,6 +95,23 @@
  |[2023-012: RCE vulnerabilities in Fortinet products](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-012.pdf)|On February 16, 2023, Fortinet released advisories regarding critical vulnerabilities in FortiNAC and FortiWeb products that may allow unauthenticated attackers to perform remote arbitrary code or command execution.|Monday, February 20, 2023 03:40:00 PM CET|
  |[2023-011: ClamAV critical vulnerability](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-011.pdf)|On February 15th, 2023, ClamAV informed about a critical vulnerability in the cross-platform antimalware toolkit. The vulnerability is identified as CVE-2023-20032 and could lead to remote code execution.|Monday, February 20, 2023 03:40:00 PM CET|
  |[2023-010: Severe Vulnerabilities in Citrix Workspace, Virtual Apps and Desktops](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-010.pdf)|On February 14, 2023, Citrix released Security Bulletins regarding severe vulnerabilities affecting its Citrix Workspace, Virtual Apps and Desktops. If exploited, these vulnerabilities could enable attackers to elevate their privileges and take control of the affected system, but they need local access to the target.|Thursday, February 16, 2023 11:00:00 AM CET|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[41190704/23 - Vulnérabilités affectant plusieurs produits de cisco](https://www.dgssi.gov.ma//fr/content/4119070423-vulnerabilites-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’exécuter du code arbitraire, de...|07 avril 2023|
+ |[41170604/23 - Vulnérabilités affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/4117060423-vulnerabilites-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilitésaffectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre àun attaquant d’exécuter du code...|07 avril 2023|
+ |[41180704 /23 - Vulnérabilités dans les produits IBM](https://www.dgssi.gov.ma//fr/content/41180704-23-vulnerabilites-dans-les-produits-ibm.html)|Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. L’exploitation de ces failles pourrait permettre à un attaquant de porter atteinte à la confidentialité des données, de contourner la politique de sécurité, de...|07 avril 2023|
+ |[41150604 /23 - Vulnérabilité critique dans le noyau Linux](https://www.dgssi.gov.ma//fr/content/41150604-23-vulnerabilite-critique-dans-le-noyau-linux.html)|Une vulnérabilité critique a été découverte dans le package "ALSA PCM" du noyau Linux. L’exploitation de cette faille pourrait permettre à un attaquant de réussir une élévation de privilèges pour obtenir un accès « ring0 » de l...|06 avril 2023|
+ |[41150604 /23 - Le ransomware « Rorschach »](https://www.dgssi.gov.ma//fr/content/41150604-23-le-ransomware-rorschach.html)|Palo Alto Networks a déclaré être au courant d'attaques utilisant son outil « Cortex XDR Dump Service Tool » pour installer le ransomware « Rorschach » sur les systèmes Windows.Une analyse comportementale du nouveau ransomware...|06 avril 2023|
+ |[41140504/23 - Vulnérabilitécritiqueaffectant des imprimantes HP](https://www.dgssi.gov.ma//fr/content/4114050423-vulnerabilite-critique-affectant-des-imprimantes-hp.html)|HPannonce la correction d’unevulnérabilité critique affectant certaines de ses imprimantes. Cette vulnérabilité est exploitable si le protocole IPsec et la fonctionnalité FutureSmart sont activés et ellepermet à un attaquantd’...|06 avril 2023|
+ |[41130404/23 - Vulnérabilités critiques dans Android](https://www.dgssi.gov.ma//fr/content/4113040423-vulnerabilites-critiques-dans-android.html)|Plusieurs vulnérabilités critiques ont été corrigées dans le système d’exploitation Android. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, de causer un déni de service, d’...|04 avril 2023|
+ |[41120404/23- Vulnérabilités affectant Cisco Secure Web Appliance](https://www.dgssi.gov.ma//fr/content/4112040423-vulnerabilites-affectant-cisco-secure-web-appliance.html)|Cisco annonce la correction de deux vulnérabilités affectant son produit Cisco Secure Web Appliance.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant de contourner les mesures de sécurité.|04 avril 2023|
+ |[41110304/23 - Vulnérabilité dans F5 NGINX](https://www.dgssi.gov.ma//fr/content/4111030423-vulnerabilite-dans-f5-nginx.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées de F5 NGINX.Un attaquant authentifié disposant d'un accès local pour lire les fichiers journaux de l'agent peut accéder à des clés privées. Ce problème n'...|03 avril 2023|
+ |[41100304/23 - Vulnérabilité critique affectant le plugin «Elementor Pro» pour WordPress](https://www.dgssi.gov.ma//fr/content/4110030423-vulnerabilite-critique-affectant-le-plugin-elementor-pro-pour-wordpress.html)|WordPressannonce la correction d’unevulnérabilité critique affectant le plugin « Elementor Pro». Cette vulnérabilitéest activement exploitée etpeut permettre à un attaquant distant non authentifié de prendre le contrôle total...|03 avril 2023|
+ |[41090304/23 - Vulnérabilité dans SUDO](https://www.dgssi.gov.ma//fr/content/4109030423-vulnerabilite-dans-sudo.html)|Une vulnérabilité a été corrigée dans l'outil « sudo » utilisé par tous les systèmes Unix et Linux. En envoyant une requête spécialement conçue, un attaquant disposant d'un compte surle système peut élever ses privilèges et...|03 avril 2023|
  
 
 # HK-CERT
