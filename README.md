@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 09/04/2023 21:13:55 UTC
+ > Last Updated 09/04/2023 22:15:20 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,12 +57,6 @@
  |[Multiples vulnérabilités dans Cisco Expressway Series et Cisco TelePresence VCS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0285/)|De multiples vulnérabilités ont été découvertes dans Cisco Expressway Series et Cisco TelePresence VCS. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 5 avril 2023|
  
 
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -78,6 +72,12 @@
  |[<a href="https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-overload-via-Certain-File-Types-40974" class="noirorange"><b>WithSecure Endpoint Protection</b>: overload via Certain File Types</a>](https://vigilance.fr/vulnerability/WithSecure-Endpoint-Protection-overload-via-Certain-File-Types-40974)|An attacker can trigger an overload of WithSecure Endpoint Protection, via Certain File Types, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-fs-proc-task-mmu-c-40973" class="noirorange"><b>Linux kernel</b>: denial of service via fs/proc/task_mmu.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-fs-proc-task-mmu-c-40973)|An attacker can cause a fatal error of the Linux kernel, via fs/proc/task_mmu.c, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-vhost-net-set-backend-40972" class="noirorange"><b>Linux kernel</b>: double free via vhost_net_set_backend()</a>](https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-vhost-net-set-backend-40972)|An attacker can force a double memory free of the Linux kernel, via |Visit link for details|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # EU-CERT
