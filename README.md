@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 10/04/2023 17:14:52 UTC
+ > Last Updated 10/04/2023 18:21:23 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,12 +57,6 @@
  |[Multiples vulnérabilités dans Cisco Expressway Series et Cisco TelePresence VCS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0285/)|De multiples vulnérabilités ont été découvertes dans Cisco Expressway Series et Cisco TelePresence VCS. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 5 avril 2023|
  
 
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -78,6 +72,12 @@
  |[<a href="https://vigilance.fr/vulnerability/MediaWiki-denial-of-service-via-Untrusted-X-Forwarded-For-Header-40983" class="noirorange"><b>MediaWiki</b>: denial of service via Untrusted X-Forwarded-For Header</a>](https://vigilance.fr/vulnerability/MediaWiki-denial-of-service-via-Untrusted-X-Forwarded-For-Header-40983)|An attacker can cause a fatal error of MediaWiki, via Untrusted X-Forwarded-For Header, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apple-macOS-iOS-two-vulnerabilities-40982" class="noirorange"><b>Apple macOS/iOS</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-macOS-iOS-two-vulnerabilities-40982)|An attacker can use several vulnerabilities of Apple macOS/iOS...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/HP-LaserJet-buffer-overflow-40981" class="noirorange"><b>HP LaserJet</b>: buffer overflow</a>](https://vigilance.fr/vulnerability/HP-LaserJet-buffer-overflow-40981)|An attacker can trigger a buffer overflow of HP LaserJet, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # EU-CERT
