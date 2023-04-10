@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 10/04/2023 16:22:46 UTC
+ > Last Updated 10/04/2023 17:14:52 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/04/10/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Apr 10, 2023|
  |[CISA Adds Five Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/04/07/cisa-adds-five-known-exploited-vulnerabilities-catalog)|Visit link for details.|Apr 07, 2023|
  |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/04/07/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Apr 07, 2023|
  |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/04/06/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Apr 06, 2023|
@@ -38,7 +39,6 @@
  |[Mozilla Releases Security Update for Thunderbird 102.9.1](https://www.cisa.gov/news-events/alerts/2023/03/31/mozilla-releases-security-update-thunderbird-10291)|Visit link for details.|Mar 31, 2023|
  |[CISA Adds Ten Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/03/30/cisa-adds-ten-known-exploited-vulnerabilities-catalog)|Visit link for details.|Mar 30, 2023|
  |[Supply Chain Attack Against 3CXDesktopApp ](https://www.cisa.gov/news-events/alerts/2023/03/30/supply-chain-attack-against-3cxdesktopapp)|Visit link for details.|Mar 30, 2023|
- |[ CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/03/30/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Mar 30, 2023|
  
 
 # CERT-FR
@@ -57,6 +57,12 @@
  |[Multiples vulnérabilités dans Cisco Expressway Series et Cisco TelePresence VCS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0285/)|De multiples vulnérabilités ont été découvertes dans Cisco Expressway Series et Cisco TelePresence VCS. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 5 avril 2023|
  
 
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -72,29 +78,6 @@
  |[<a href="https://vigilance.fr/vulnerability/MediaWiki-denial-of-service-via-Untrusted-X-Forwarded-For-Header-40983" class="noirorange"><b>MediaWiki</b>: denial of service via Untrusted X-Forwarded-For Header</a>](https://vigilance.fr/vulnerability/MediaWiki-denial-of-service-via-Untrusted-X-Forwarded-For-Header-40983)|An attacker can cause a fatal error of MediaWiki, via Untrusted X-Forwarded-For Header, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Apple-macOS-iOS-two-vulnerabilities-40982" class="noirorange"><b>Apple macOS/iOS</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/Apple-macOS-iOS-two-vulnerabilities-40982)|An attacker can use several vulnerabilities of Apple macOS/iOS...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/HP-LaserJet-buffer-overflow-40981" class="noirorange"><b>HP LaserJet</b>: buffer overflow</a>](https://vigilance.fr/vulnerability/HP-LaserJet-buffer-overflow-40981)|An attacker can trigger a buffer overflow of HP LaserJet, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[41321004/23 - Vulnérabilités dans Microsoft Edge](https://www.dgssi.gov.ma//fr/content/4132100423-vulnerabilites-dans-microsoft-edge.html)|Microsoft annonce la correction de deux vulnérabilités dans Microsoft Edge. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la confidentialité des données.|10 avril 2023|
- |[41221004/23 - Vulnérabilités critiques affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma//fr/content/4122100423-vulnerabilites-critiques-affectant-plusieurs-produits-d-apple.html)|Apple annonce lacorrectionde deuxvulnérabilitéscritiquesaffectant ses produitssusmentionnés. Ces vulnérabilités sontactivement exploitées et peuventpermettre à un attaquant distant d’exécuter du code arbitraire.|10 avril 2023|
- |[41211004/23 - Vulnérabilitécritiqueaffectant la bibliothèque VM2](https://www.dgssi.gov.ma//fr/content/4121100423-vulnerabilite-critique-affectant-la-bibliotheque-vm2.html)|Une vulnérabilité critique affectant la bibliothèque VM2 a été corrigée. VM2 est une bibliothèque populaire qui est utilisée pour exécuter du code non approuvé dans un environnement isolé.L’exploitde cettevulnérabilité est disponible...|10 avril 2023|
- |[41201004/22 - Vulnérabilitéscritiquesaffectant Sophos Web Appliance](https://www.dgssi.gov.ma//fr/content/4120100422-vulnerabilites-critiques-affectant-sophos-web-appliance.html)|Sophosannonce la correction de de troisvulnérabilités critique affectant les versions susmentionnées de son produit Sophos Web Appliance. L’exploitation de ces vulnérabilités peut permettre à un attaquant distantd’exécuter du...|10 avril 2023|
- |[41190704/23 - Vulnérabilités affectant plusieurs produits de cisco](https://www.dgssi.gov.ma//fr/content/4119070423-vulnerabilites-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’exécuter du code arbitraire, de...|07 avril 2023|
- |[41170604/23 - Vulnérabilités affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/4117060423-vulnerabilites-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilitésaffectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre àun attaquant d’exécuter du code...|07 avril 2023|
- |[41180704 /23 - Vulnérabilités dans les produits IBM](https://www.dgssi.gov.ma//fr/content/41180704-23-vulnerabilites-dans-les-produits-ibm.html)|Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. L’exploitation de ces failles pourrait permettre à un attaquant de porter atteinte à la confidentialité des données, de contourner la politique de sécurité, de...|07 avril 2023|
- |[41150604 /23 - Vulnérabilité critique dans le noyau Linux](https://www.dgssi.gov.ma//fr/content/41150604-23-vulnerabilite-critique-dans-le-noyau-linux.html)|Une vulnérabilité critique a été découverte dans le package "ALSA PCM" du noyau Linux. L’exploitation de cette faille pourrait permettre à un attaquant de réussir une élévation de privilèges pour obtenir un accès « ring0 » de l...|06 avril 2023|
- |[41150604 /23 - Le ransomware « Rorschach »](https://www.dgssi.gov.ma//fr/content/41150604-23-le-ransomware-rorschach.html)|Palo Alto Networks a déclaré être au courant d'attaques utilisant son outil « Cortex XDR Dump Service Tool » pour installer le ransomware « Rorschach » sur les systèmes Windows.Une analyse comportementale du nouveau ransomware...|06 avril 2023|
- |[41140504/23 - Vulnérabilitécritiqueaffectant des imprimantes HP](https://www.dgssi.gov.ma//fr/content/4114050423-vulnerabilite-critique-affectant-des-imprimantes-hp.html)|HPannonce la correction d’unevulnérabilité critique affectant certaines de ses imprimantes. Cette vulnérabilité est exploitable si le protocole IPsec et la fonctionnalité FutureSmart sont activés et ellepermet à un attaquantd’...|06 avril 2023|
- |[41130404/23 - Vulnérabilités critiques dans Android](https://www.dgssi.gov.ma//fr/content/4113040423-vulnerabilites-critiques-dans-android.html)|Plusieurs vulnérabilités critiques ont été corrigées dans le système d’exploitation Android. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, de causer un déni de service, d’...|04 avril 2023|
  
 
 # EU-CERT
@@ -128,4 +111,21 @@
  |[Samba Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samba-multiple-vulnerabilities_20230403)|Multiple vulnerabilities were identified in Samba. A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, security restriction bypass, and data manipulation on the targeted system.|Release Date: 3 Apr 2023|
  |[Aruba Products Data Manipulation Vulnerability](https://www.hkcert.org/security-bulletin/aruba-products-data-manipulation-vulnerability_20230331)|A vulnerability was identified in Aruba Products. A remote attacker could exploit this vulnerability to trigger data manipulation on the targeted system. Note:To exploit the vulnerability CVE-2022-47522 requires authenticated permission. Product vendor has not yet released workaround / resolution at this...|Release Date: 31 Mar 2023|
  |[Microsoft Windows Snipping Tool Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/microsoft-windows-snipping-tool-information-disclosure-vulnerability_20230331)|A vulnerability has been identified in Microsoft Windows Snipping Tool, a remote user can exploit this vulnerability to trigger information disclosure on the targeted system. Note:Proof of Concept exploit code is publicly available for CVE-2023-28303.|Release Date: 31 Mar 2023|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[41321004/23 - Vulnérabilités dans Microsoft Edge](https://www.dgssi.gov.ma//fr/content/4132100423-vulnerabilites-dans-microsoft-edge.html)|Microsoft annonce la correction de deux vulnérabilités dans Microsoft Edge. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la confidentialité des données.|10 avril 2023|
+ |[41221004/23 - Vulnérabilités critiques affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma//fr/content/4122100423-vulnerabilites-critiques-affectant-plusieurs-produits-d-apple.html)|Apple annonce lacorrectionde deuxvulnérabilitéscritiquesaffectant ses produitssusmentionnés. Ces vulnérabilités sontactivement exploitées et peuventpermettre à un attaquant distant d’exécuter du code arbitraire.|10 avril 2023|
+ |[41211004/23 - Vulnérabilitécritiqueaffectant la bibliothèque VM2](https://www.dgssi.gov.ma//fr/content/4121100423-vulnerabilite-critique-affectant-la-bibliotheque-vm2.html)|Une vulnérabilité critique affectant la bibliothèque VM2 a été corrigée. VM2 est une bibliothèque populaire qui est utilisée pour exécuter du code non approuvé dans un environnement isolé.L’exploitde cettevulnérabilité est disponible...|10 avril 2023|
+ |[41201004/22 - Vulnérabilitéscritiquesaffectant Sophos Web Appliance](https://www.dgssi.gov.ma//fr/content/4120100422-vulnerabilites-critiques-affectant-sophos-web-appliance.html)|Sophosannonce la correction de de troisvulnérabilités critique affectant les versions susmentionnées de son produit Sophos Web Appliance. L’exploitation de ces vulnérabilités peut permettre à un attaquant distantd’exécuter du...|10 avril 2023|
+ |[41190704/23 - Vulnérabilités affectant plusieurs produits de cisco](https://www.dgssi.gov.ma//fr/content/4119070423-vulnerabilites-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’exécuter du code arbitraire, de...|07 avril 2023|
+ |[41170604/23 - Vulnérabilités affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/4117060423-vulnerabilites-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilitésaffectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre àun attaquant d’exécuter du code...|07 avril 2023|
+ |[41180704 /23 - Vulnérabilités dans les produits IBM](https://www.dgssi.gov.ma//fr/content/41180704-23-vulnerabilites-dans-les-produits-ibm.html)|Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. L’exploitation de ces failles pourrait permettre à un attaquant de porter atteinte à la confidentialité des données, de contourner la politique de sécurité, de...|07 avril 2023|
+ |[41150604 /23 - Vulnérabilité critique dans le noyau Linux](https://www.dgssi.gov.ma//fr/content/41150604-23-vulnerabilite-critique-dans-le-noyau-linux.html)|Une vulnérabilité critique a été découverte dans le package "ALSA PCM" du noyau Linux. L’exploitation de cette faille pourrait permettre à un attaquant de réussir une élévation de privilèges pour obtenir un accès « ring0 » de l...|06 avril 2023|
+ |[41150604 /23 - Le ransomware « Rorschach »](https://www.dgssi.gov.ma//fr/content/41150604-23-le-ransomware-rorschach.html)|Palo Alto Networks a déclaré être au courant d'attaques utilisant son outil « Cortex XDR Dump Service Tool » pour installer le ransomware « Rorschach » sur les systèmes Windows.Une analyse comportementale du nouveau ransomware...|06 avril 2023|
+ |[41140504/23 - Vulnérabilitécritiqueaffectant des imprimantes HP](https://www.dgssi.gov.ma//fr/content/4114050423-vulnerabilite-critique-affectant-des-imprimantes-hp.html)|HPannonce la correction d’unevulnérabilité critique affectant certaines de ses imprimantes. Cette vulnérabilité est exploitable si le protocole IPsec et la fonctionnalité FutureSmart sont activés et ellepermet à un attaquantd’...|06 avril 2023|
+ |[41130404/23 - Vulnérabilités critiques dans Android](https://www.dgssi.gov.ma//fr/content/4113040423-vulnerabilites-critiques-dans-android.html)|Plusieurs vulnérabilités critiques ont été corrigées dans le système d’exploitation Android. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, de causer un déni de service, d’...|04 avril 2023|
  
