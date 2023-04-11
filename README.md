@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 11/04/2023 19:13:41 UTC
+ > Last Updated 11/04/2023 20:19:07 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -25,22 +25,6 @@
  
  > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases Zero Trust Maturity Model Version 2](https://www.cisa.gov/news-events/alerts/2023/04/11/cisa-releases-zero-trust-maturity-model-version-2)|Visit link for details.|Apr 11, 2023|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/04/10/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Apr 10, 2023|
- |[CISA Adds Five Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/04/07/cisa-adds-five-known-exploited-vulnerabilities-catalog)|Visit link for details.|Apr 07, 2023|
- |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/04/07/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Apr 07, 2023|
- |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/04/06/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Apr 06, 2023|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/04/04/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Apr 04, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/04/03/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Apr 03, 2023|
- |[Samba Releases Security Updates for Multiple Versions of Samba](https://www.cisa.gov/news-events/alerts/2023/03/31/samba-releases-security-updates-multiple-versions-samba)|Visit link for details.|Mar 31, 2023|
- |[Mozilla Releases Security Update for Thunderbird 102.9.1](https://www.cisa.gov/news-events/alerts/2023/03/31/mozilla-releases-security-update-thunderbird-10291)|Visit link for details.|Mar 31, 2023|
- |[CISA Adds Ten Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/03/30/cisa-adds-ten-known-exploited-vulnerabilities-catalog)|Visit link for details.|Mar 30, 2023|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -57,10 +41,20 @@
  |[Vulnérabilité dans Mitel MiCollab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0289/)|Une vulnérabilité a été découverte dans |Publié le 6 avril 2023|
  
 
-# VulDB
+# US-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA Releases Zero Trust Maturity Model Version 2](https://www.cisa.gov/news-events/alerts/2023/04/11/cisa-releases-zero-trust-maturity-model-version-2)|Visit link for details.|Apr 11, 2023|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/04/10/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Apr 10, 2023|
+ |[CISA Adds Five Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/04/07/cisa-adds-five-known-exploited-vulnerabilities-catalog)|Visit link for details.|Apr 07, 2023|
+ |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/04/07/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Apr 07, 2023|
+ |[CISA Releases Seven Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/04/06/cisa-releases-seven-industrial-control-systems-advisories)|Visit link for details.|Apr 06, 2023|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/04/04/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Apr 04, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/04/03/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Apr 03, 2023|
+ |[Samba Releases Security Updates for Multiple Versions of Samba](https://www.cisa.gov/news-events/alerts/2023/03/31/samba-releases-security-updates-multiple-versions-samba)|Visit link for details.|Mar 31, 2023|
+ |[Mozilla Releases Security Update for Thunderbird 102.9.1](https://www.cisa.gov/news-events/alerts/2023/03/31/mozilla-releases-security-update-thunderbird-10291)|Visit link for details.|Mar 31, 2023|
+ |[CISA Adds Ten Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/03/30/cisa-adds-ten-known-exploited-vulnerabilities-catalog)|Visit link for details.|Mar 30, 2023|
  
 
 # EU-CERT
@@ -84,33 +78,23 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-April-2023-41009" class="noirorange"><b>Windows</b>: vulnerabilities of April 2023</a>](https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-April-2023-41009)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Visual-Studio-vulnerabilities-of-April-2023-41008" class="noirorange"><b>Microsoft Visual Studio</b>: vulnerabilities of April 2023</a>](https://vigilance.fr/vulnerability/Microsoft-Visual-Studio-vulnerabilities-of-April-2023-41008)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-SharePoint-spoofing-41007" class="noirorange"><b>Microsoft SharePoint</b>: spoofing</a>](https://vigilance.fr/vulnerability/Microsoft-SharePoint-spoofing-41007)|An attacker can create spoofed data on Microsoft SharePoint, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-SQL-Server-code-execution-41006" class="noirorange"><b>Microsoft SQL Server</b>: code execution</a>](https://vigilance.fr/vulnerability/Microsoft-SQL-Server-code-execution-41006)|An attacker can use a vulnerability of Microsoft SQL Server, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-April-2023-41005" class="noirorange"><b>Microsoft 365 Apps  Office</b>: vulnerabilities of April 2023</a>](https://vigilance.fr/vulnerability/Microsoft-365-Apps-Office-vulnerabilities-of-April-2023-41005)|An attacker can use several vulnerabilities of Microsoft products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-NET-executing-DLL-code-41004" class="noirorange"><b>Microsoft .NET</b>: executing DLL code</a>](https://vigilance.fr/vulnerability/Microsoft-NET-executing-DLL-code-41004)|An attacker can create a malicious DLL for Microsoft .NET, and then put it in the current directory, in order to execute code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Stormshield-Network-Security-information-disclosure-via-Authentication-Portal-BREACH-41003" class="noirorange"><b>Stormshield Network Security</b>: information disclosure via Authentication Portal BREACH</a>](https://vigilance.fr/vulnerability/Stormshield-Network-Security-information-disclosure-via-Authentication-Portal-BREACH-41003)|An attacker can bypass access restrictions to data of Stormshield Network Security, via Authentication Portal BREACH, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Adobe-Acrobat-Reader-multiple-vulnerabilities-41002" class="noirorange"><b>Adobe Acrobat/Reader</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Adobe-Acrobat-Reader-multiple-vulnerabilities-41002)|An attacker can use several vulnerabilities of Adobe Acrobat/Reader...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/UPX-seven-vulnerabilities-41001" class="noirorange"><b>UPX</b>: seven vulnerabilities</a>](https://vigilance.fr/vulnerability/UPX-seven-vulnerabilities-41001)|An attacker can use several vulnerabilities of UPX...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/UPX-assertion-error-via-MemBuffer-alloc-41000" class="noirorange"><b>UPX</b>: assertion error via MemBuffer::alloc()</a>](https://vigilance.fr/vulnerability/UPX-assertion-error-via-MemBuffer-alloc-41000)|An attacker can force an assertion error of UPX, via MemBuffer::alloc(), in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/UPX-NULL-pointer-dereference-via-PackLinuxElf-canUnpack-40999" class="noirorange"><b>UPX</b>: NULL pointer dereference via PackLinuxElf::canUnpack()</a>](https://vigilance.fr/vulnerability/UPX-NULL-pointer-dereference-via-PackLinuxElf-canUnpack-40999)|An attacker can force a NULL pointer to be dereferenced on UPX, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Android-multiple-vulnerabilities-41020" class="noirorange"><b>Android</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Android-multiple-vulnerabilities-41020)|An attacker can use several vulnerabilities of Android...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-open-redirect-via-Sslvpnd-41019" class="noirorange"><b>FortiOS</b>: open redirect via Sslvpnd</a>](https://vigilance.fr/vulnerability/FortiOS-open-redirect-via-Sslvpnd-41019)|An attacker can deceive the user of FortiOS, via Sslvpnd, in order to redirect him to a malicious site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-Cross-Site-Scripting-via-Administrative-Interface-41018" class="noirorange"><b>FortiOS</b>: Cross Site Scripting via Administrative Interface</a>](https://vigilance.fr/vulnerability/FortiOS-Cross-Site-Scripting-via-Administrative-Interface-41018)|An attacker can trigger a Cross Site Scripting of FortiOS, via Administrative Interface, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-user-access-via-Anti-Brute-force-Bypass-41017" class="noirorange"><b>FortiOS</b>: user access via Anti Brute-force Bypass</a>](https://vigilance.fr/vulnerability/FortiOS-user-access-via-Anti-Brute-force-Bypass-41017)|An attacker can bypass restrictions of FortiOS, via Anti Brute-force Bypass, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiGate-FortiOS-ingress-filtrering-bypass-via-Bookmarks-41016" class="noirorange"><b>FortiGate  FortiOS</b>: ingress filtrering bypass via Bookmarks</a>](https://vigilance.fr/vulnerability/FortiGate-FortiOS-ingress-filtrering-bypass-via-Bookmarks-41016)|An attacker can bypass filtering rules of FortiGate  FortiOS, via Bookmarks, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiClientWindows-file-creation-via-Device-Filesystem-41015" class="noirorange"><b>FortiClientWindows</b>: file creation via Device Filesystem</a>](https://vigilance.fr/vulnerability/FortiClientWindows-file-creation-via-Device-Filesystem-41015)|An attacker can bypass access restrictions of FortiClientWindows, via Device Filesystem, in order to create a file...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiClientWindows-code-execution-via-Pipe-Object-41014" class="noirorange"><b>FortiClientWindows</b>: code execution via Pipe Object</a>](https://vigilance.fr/vulnerability/FortiClientWindows-code-execution-via-Pipe-Object-41014)|An attacker can use a vulnerability of FortiClientWindows, via Pipe Object, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiClientWindows-file-creation-via-Process-Impersonation-41013" class="noirorange"><b>FortiClientWindows</b>: file creation via Process Impersonation</a>](https://vigilance.fr/vulnerability/FortiClientWindows-file-creation-via-Process-Impersonation-41013)|An attacker can bypass access restrictions of FortiClientWindows, via Process Impersonation, in order to create a file...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiClientMac-privilege-escalation-via-Update-Functionality-41012" class="noirorange"><b>FortiClientMac</b>: privilege escalation via Update Functionality</a>](https://vigilance.fr/vulnerability/FortiClientMac-privilege-escalation-via-Update-Functionality-41012)|An attacker can bypass restrictions of FortiClientMac, via Update Functionality, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiAnalyzer-information-disclosure-via-Custom-Dataset-41011" class="noirorange"><b>FortiAnalyzer</b>: information disclosure via Custom Dataset</a>](https://vigilance.fr/vulnerability/FortiAnalyzer-information-disclosure-via-Custom-Dataset-41011)|An attacker can bypass access restrictions to data of FortiAnalyzer, via Custom Dataset, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-Man-in-the-Middle-via-Outbreakalert-Download-41010" class="noirorange"><b>FortiAnalyzer  FortiManager</b>: Man-in-the-Middle via Outbreakalert Download</a>](https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-Man-in-the-Middle-via-Outbreakalert-Download-41010)|An attacker can act as a Man-in-the-Middle on FortiAnalyzer  FortiManager, via Outbreakalert Download, in order to read or write data in the session...|Visit link for details|
  
 
-# HK-CERT
+# VulDB
 
  |Title|Description|Date|
  |---|---|---|
- |[Apple Products Remote Code Execution Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-remote-code-execution-vulnerabilities_20230411)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system. Note:CVE-2023-28205 and CVE-2023-28206 are being exploited in the wild. These...|Release Date: 11 Apr 2023|
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230411)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, security restriction bypass, sensitive information disclosure, spoofing and data manipulation on the targeted system.|Release Date: 11 Apr 2023|
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230411)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 11 Apr 2023|
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230403)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, data manipulation and security restriction bypass on the targeted system. [Updated on 2023-04-...| Release Date: 3 Apr 2023 |
- |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20230406)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure and remote code execution on the targeted system.|Release Date: 6 Apr 2023|
- |[Cisco Webex Meetings Web UI Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-webex-meetings-web-ui-vulnerabilities_20230406)|Multiple vulnerabilities were identified in Cisco Webex Meetings Web UI. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, data manipulation, remote code execution and information disclosure on the targeted system.|Release Date: 6 Apr 2023|
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230406)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, remote code execution and information disclosure on the targeted system.|Release Date: 6 Apr 2023|
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230406)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 6 Apr 2023|
- |[Apple Xcode Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-xcode-multiple-vulnerabilities_20230403)|Multiple vulnerabilities were identified in Apple Xcode. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 3 Apr 2023|
- |[NetApp Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netapp-products-multiple-vulnerabilities_20230403)|Multiple vulnerabilities were identified in NetApp Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 3 Apr 2023|
  
 
 # MA-CERT
@@ -128,4 +112,20 @@
  |[41150604 /23 - Vulnérabilité critique dans le noyau Linux](https://www.dgssi.gov.ma//fr/content/41150604-23-vulnerabilite-critique-dans-le-noyau-linux.html)|Une vulnérabilité critique a été découverte dans le package "ALSA PCM" du noyau Linux. L’exploitation de cette faille pourrait permettre à un attaquant de réussir une élévation de privilèges pour obtenir un accès « ring0 » de l...|06 avril 2023|
  |[41150604 /23 - Le ransomware « Rorschach »](https://www.dgssi.gov.ma//fr/content/41150604-23-le-ransomware-rorschach.html)|Palo Alto Networks a déclaré être au courant d'attaques utilisant son outil « Cortex XDR Dump Service Tool » pour installer le ransomware « Rorschach » sur les systèmes Windows.Une analyse comportementale du nouveau ransomware...|06 avril 2023|
  |[41140504/23 - Vulnérabilitécritiqueaffectant des imprimantes HP](https://www.dgssi.gov.ma//fr/content/4114050423-vulnerabilite-critique-affectant-des-imprimantes-hp.html)|HPannonce la correction d’unevulnérabilité critique affectant certaines de ses imprimantes. Cette vulnérabilité est exploitable si le protocole IPsec et la fonctionnalité FutureSmart sont activés et ellepermet à un attaquantd’...|06 avril 2023|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Apple Products Remote Code Execution Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-remote-code-execution-vulnerabilities_20230411)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system. Note:CVE-2023-28205 and CVE-2023-28206 are being exploited in the wild. These...|Release Date: 11 Apr 2023|
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230411)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, security restriction bypass, sensitive information disclosure, spoofing and data manipulation on the targeted system.|Release Date: 11 Apr 2023|
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230411)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 11 Apr 2023|
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230403)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, data manipulation and security restriction bypass on the targeted system. [Updated on 2023-04-...| Release Date: 3 Apr 2023 |
+ |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20230406)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure and remote code execution on the targeted system.|Release Date: 6 Apr 2023|
+ |[Cisco Webex Meetings Web UI Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-webex-meetings-web-ui-vulnerabilities_20230406)|Multiple vulnerabilities were identified in Cisco Webex Meetings Web UI. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, data manipulation, remote code execution and information disclosure on the targeted system.|Release Date: 6 Apr 2023|
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230406)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, remote code execution and information disclosure on the targeted system.|Release Date: 6 Apr 2023|
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230406)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 6 Apr 2023|
+ |[Apple Xcode Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-xcode-multiple-vulnerabilities_20230403)|Multiple vulnerabilities were identified in Apple Xcode. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 3 Apr 2023|
+ |[NetApp Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netapp-products-multiple-vulnerabilities_20230403)|Multiple vulnerabilities were identified in NetApp Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 3 Apr 2023|
  
