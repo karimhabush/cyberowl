@@ -4,11 +4,11 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[JustSystems products code execution (CVE-2023-22291)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 4, 2023|
- |[JustSystems products buffer overflow (CVE-2023-22660)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 4, 2023|
- |[JustSystems products buffer overflow (CVE-2022-45115)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 4, 2023|
- |[JustSystems products code execution (CVE-2022-43664)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 4, 2023|
- |[National land numerical information data conversion tool (CVE-2023-25955)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 4, 2023|
- |[Nexx Smart Home devices security bypass (CVE-2023-1752)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 4, 2023|
- |[Nexx Smart Home devices information disclosure (CVE-2023-1751)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 4, 2023|
+ |[Microsoft Edge (Chromium-based) security bypass (CVE-2023-28284)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 11, 2023|
+ |[Apache OFBiz file disclosure (CVE-2022-47501)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 10, 2023|
+ |[Apache Linkis command execution (CVE-2023-29216)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 10, 2023|
+ |[Apache Linkis command execution (CVE-2023-29215)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 10, 2023|
+ |[Apache Linkis security bypass (CVE-2023-27987)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 10, 2023|
+ |[Apache Linkis directory traversal (CVE-2023-27603)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 10, 2023|
+ |[Apache Linkis file upload (CVE-2023-27602)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 10, 2023|
  
