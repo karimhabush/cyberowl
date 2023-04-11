@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 11/04/2023 01:22:41 UTC
+ > Last Updated 11/04/2023 02:32:40 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,6 +57,12 @@
  |[Multiples vulnérabilités dans Cisco Expressway Series et Cisco TelePresence VCS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0285/)|De multiples vulnérabilités ont été découvertes dans Cisco Expressway Series et Cisco TelePresence VCS. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 5 avril 2023|
  
 
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -91,12 +97,6 @@
  |[<a href="https://vigilance.fr/vulnerability/HP-LaserJet-buffer-overflow-40981" class="noirorange"><b>HP LaserJet</b>: buffer overflow</a>](https://vigilance.fr/vulnerability/HP-LaserJet-buffer-overflow-40981)|An attacker can trigger a buffer overflow of HP LaserJet, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
 
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -118,14 +118,14 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Apple Products Remote Code Execution Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-remote-code-execution-vulnerabilities_20230411)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system. Note:CVE-2023-28205 and CVE-2023-28206 are being exploited in the wild. These...|Release Date: 11 Apr 2023|
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230411)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, security restriction bypass, sensitive information disclosure, spoofing and data manipulation on the targeted system.|Release Date: 11 Apr 2023|
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230411)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 11 Apr 2023|
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230403)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, data manipulation and security restriction bypass on the targeted system. [Updated on 2023-04-...| Release Date: 3 Apr 2023 |
  |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20230406)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure and remote code execution on the targeted system.|Release Date: 6 Apr 2023|
  |[Cisco Webex Meetings Web UI Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-webex-meetings-web-ui-vulnerabilities_20230406)|Multiple vulnerabilities were identified in Cisco Webex Meetings Web UI. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, data manipulation, remote code execution and information disclosure on the targeted system.|Release Date: 6 Apr 2023|
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230406)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, remote code execution and information disclosure on the targeted system.|Release Date: 6 Apr 2023|
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230406)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 6 Apr 2023|
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230403)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, data manipulation and security restriction bypass on the targeted system. [Updated on 2023-04-...| Release Date: 3 Apr 2023 |
  |[Apple Xcode Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-xcode-multiple-vulnerabilities_20230403)|Multiple vulnerabilities were identified in Apple Xcode. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 3 Apr 2023|
  |[NetApp Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netapp-products-multiple-vulnerabilities_20230403)|Multiple vulnerabilities were identified in NetApp Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 3 Apr 2023|
- |[Samba Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/samba-multiple-vulnerabilities_20230403)|Multiple vulnerabilities were identified in Samba. A remote attacker could exploit some of these vulnerabilities to trigger information disclosure, security restriction bypass, and data manipulation on the targeted system.|Release Date: 3 Apr 2023|
- |[Aruba Products Data Manipulation Vulnerability](https://www.hkcert.org/security-bulletin/aruba-products-data-manipulation-vulnerability_20230331)|A vulnerability was identified in Aruba Products. A remote attacker could exploit this vulnerability to trigger data manipulation on the targeted system. Note:To exploit the vulnerability CVE-2022-47522 requires authenticated permission. Product vendor has not yet released workaround / resolution at this...|Release Date: 31 Mar 2023|
- |[Microsoft Windows Snipping Tool Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/microsoft-windows-snipping-tool-information-disclosure-vulnerability_20230331)|A vulnerability has been identified in Microsoft Windows Snipping Tool, a remote user can exploit this vulnerability to trigger information disclosure on the targeted system. Note:Proof of Concept exploit code is publicly available for CVE-2023-28303.|Release Date: 31 Mar 2023|
  
