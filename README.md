@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 11/04/2023 14:16:07 UTC
+ > Last Updated 11/04/2023 15:18:11 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA Releases Zero Trust Maturity Model Version 2](https://www.cisa.gov/news-events/alerts/2023/04/11/cisa-releases-zero-trust-maturity-model-version-2)|Visit link for details.|Apr 11, 2023|
  |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/04/10/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Apr 10, 2023|
  |[CISA Adds Five Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/04/07/cisa-adds-five-known-exploited-vulnerabilities-catalog)|Visit link for details.|Apr 07, 2023|
  |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/04/07/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Apr 07, 2023|
@@ -38,7 +39,6 @@
  |[Samba Releases Security Updates for Multiple Versions of Samba](https://www.cisa.gov/news-events/alerts/2023/03/31/samba-releases-security-updates-multiple-versions-samba)|Visit link for details.|Mar 31, 2023|
  |[Mozilla Releases Security Update for Thunderbird 102.9.1](https://www.cisa.gov/news-events/alerts/2023/03/31/mozilla-releases-security-update-thunderbird-10291)|Visit link for details.|Mar 31, 2023|
  |[CISA Adds Ten Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/03/30/cisa-adds-ten-known-exploited-vulnerabilities-catalog)|Visit link for details.|Mar 30, 2023|
- |[Supply Chain Attack Against 3CXDesktopApp ](https://www.cisa.gov/news-events/alerts/2023/03/30/supply-chain-attack-against-3cxdesktopapp)|Visit link for details.|Mar 30, 2023|
  
 
 # CERT-FR
@@ -55,23 +55,6 @@
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0287/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 6 avril 2023|
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0286/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 5 avril 2023|
  |[Multiples vulnérabilités dans Cisco Expressway Series et Cisco TelePresence VCS](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0285/)|De multiples vulnérabilités ont été découvertes dans Cisco Expressway Series et Cisco TelePresence VCS. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.|Publié le 5 avril 2023|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-multiple-vulnerabilities-40998" class="noirorange"><b>Mozilla Firefox</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-multiple-vulnerabilities-40998)|An attacker can use several vulnerabilities of Mozilla Firefox...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libxml2-three-vulnerabilities-40997" class="noirorange"><b>libxml2</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/libxml2-three-vulnerabilities-40997)|An attacker can use several vulnerabilities of libxml2...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SIMATIC-privilege-escalation-via-OPC-Foundation-Local-Discovery-40996" class="noirorange"><b>SIMATIC</b>: privilege escalation via OPC Foundation Local Discovery</a>](https://vigilance.fr/vulnerability/SIMATIC-privilege-escalation-via-OPC-Foundation-Local-Discovery-40996)|An attacker can bypass restrictions of SIMATIC, via OPC Foundation Local Discovery, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SIMATIC-CP-three-vulnerabilities-via-Webserver-40995" class="noirorange"><b>SIMATIC CP</b>: three vulnerabilities via Webserver</a>](https://vigilance.fr/vulnerability/SIMATIC-CP-three-vulnerabilities-via-Webserver-40995)|An attacker can use several vulnerabilities of SIMATIC CP, via Webserver...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SIMATIC-Man-in-the-Middle-via-Adaptec-Maxview-Application-Hard-Coded-Private-Key-40994" class="noirorange"><b>SIMATIC</b>: Man-in-the-Middle via Adaptec Maxview Application Hard Coded Private Key</a>](https://vigilance.fr/vulnerability/SIMATIC-Man-in-the-Middle-via-Adaptec-Maxview-Application-Hard-Coded-Private-Key-40994)|An attacker can act as a Man-in-the-Middle on SIMATIC, via Adaptec Maxview Application Hard Coded Private Key, in order to read or write data in the session...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-April-2023-40993" class="noirorange"><b>SAP</b>: multiple vulnerabilities of April 2023</a>](https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-April-2023-40993)|An attacker can use several vulnerabilities of SAP products...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/lldpd-buffer-overflow-via-sonmp-decode-40992" class="noirorange"><b>lldpd</b>: buffer overflow via sonmp_decode()</a>](https://vigilance.fr/vulnerability/lldpd-buffer-overflow-via-sonmp-decode-40992)|An attacker can trigger a buffer overflow of lldpd, via sonmp_decode(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Irssi-denial-of-service-40991" class="noirorange"><b>Irssi</b>: denial of service</a>](https://vigilance.fr/vulnerability/Irssi-denial-of-service-40991)|An attacker can cause a fatal error of Irssi, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-read-write-access-via-S3-Resume-Speculation-Related-MSR-40990" class="noirorange"><b>Linux kernel</b>: read-write access via S3 Resume Speculation Related MSR</a>](https://vigilance.fr/vulnerability/Linux-kernel-read-write-access-via-S3-Resume-Speculation-Related-MSR-40990)|An attacker can bypass access restrictions of the Linux kernel, via S3 Resume Speculation Related MSR, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-unix-diag-get-exact-40989" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via unix_diag_get_exact()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-unix-diag-get-exact-40989)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-pppol2tp-create-40988" class="noirorange"><b>Linux kernel</b>: reuse after free via pppol2tp_create</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-pppol2tp-create-40988)|An attacker can force the reuse of a freed memory area of the Linux kernel, via pppol2tp_create, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
 
 # EU-CERT
@@ -91,10 +74,44 @@
  |[2023-010: Severe Vulnerabilities in Citrix Workspace, Virtual Apps and Desktops](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-010.pdf)|On February 14, 2023, Citrix released Security Bulletins regarding severe vulnerabilities affecting its Citrix Workspace, Virtual Apps and Desktops. If exploited, these vulnerabilities could enable attackers to elevate their privileges and take control of the affected system, but they need local access to the target.|Thursday, February 16, 2023 11:00:00 AM CET|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/UPX-seven-vulnerabilities-41001" class="noirorange"><b>UPX</b>: seven vulnerabilities</a>](https://vigilance.fr/vulnerability/UPX-seven-vulnerabilities-41001)|An attacker can use several vulnerabilities of UPX...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/UPX-assertion-error-via-MemBuffer-alloc-41000" class="noirorange"><b>UPX</b>: assertion error via MemBuffer::alloc()</a>](https://vigilance.fr/vulnerability/UPX-assertion-error-via-MemBuffer-alloc-41000)|An attacker can force an assertion error of UPX, via MemBuffer::alloc(), in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/UPX-NULL-pointer-dereference-via-PackLinuxElf-canUnpack-40999" class="noirorange"><b>UPX</b>: NULL pointer dereference via PackLinuxElf::canUnpack()</a>](https://vigilance.fr/vulnerability/UPX-NULL-pointer-dereference-via-PackLinuxElf-canUnpack-40999)|An attacker can force a NULL pointer to be dereferenced on UPX, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-multiple-vulnerabilities-40998" class="noirorange"><b>Mozilla Firefox</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-multiple-vulnerabilities-40998)|An attacker can use several vulnerabilities of Mozilla Firefox...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libxml2-three-vulnerabilities-40997" class="noirorange"><b>libxml2</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/libxml2-three-vulnerabilities-40997)|An attacker can use several vulnerabilities of libxml2...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SIMATIC-privilege-escalation-via-OPC-Foundation-Local-Discovery-40996" class="noirorange"><b>SIMATIC</b>: privilege escalation via OPC Foundation Local Discovery</a>](https://vigilance.fr/vulnerability/SIMATIC-privilege-escalation-via-OPC-Foundation-Local-Discovery-40996)|An attacker can bypass restrictions of SIMATIC, via OPC Foundation Local Discovery, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SIMATIC-CP-three-vulnerabilities-via-Webserver-40995" class="noirorange"><b>SIMATIC CP</b>: three vulnerabilities via Webserver</a>](https://vigilance.fr/vulnerability/SIMATIC-CP-three-vulnerabilities-via-Webserver-40995)|An attacker can use several vulnerabilities of SIMATIC CP, via Webserver...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SIMATIC-Man-in-the-Middle-via-Adaptec-Maxview-Application-Hard-Coded-Private-Key-40994" class="noirorange"><b>SIMATIC</b>: Man-in-the-Middle via Adaptec Maxview Application Hard Coded Private Key</a>](https://vigilance.fr/vulnerability/SIMATIC-Man-in-the-Middle-via-Adaptec-Maxview-Application-Hard-Coded-Private-Key-40994)|An attacker can act as a Man-in-the-Middle on SIMATIC, via Adaptec Maxview Application Hard Coded Private Key, in order to read or write data in the session...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-April-2023-40993" class="noirorange"><b>SAP</b>: multiple vulnerabilities of April 2023</a>](https://vigilance.fr/vulnerability/SAP-multiple-vulnerabilities-of-April-2023-40993)|An attacker can use several vulnerabilities of SAP products...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/lldpd-buffer-overflow-via-sonmp-decode-40992" class="noirorange"><b>lldpd</b>: buffer overflow via sonmp_decode()</a>](https://vigilance.fr/vulnerability/lldpd-buffer-overflow-via-sonmp-decode-40992)|An attacker can trigger a buffer overflow of lldpd, via sonmp_decode(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Irssi-denial-of-service-40991" class="noirorange"><b>Irssi</b>: denial of service</a>](https://vigilance.fr/vulnerability/Irssi-denial-of-service-40991)|An attacker can cause a fatal error of Irssi, in order to trigger a denial of service...|Visit link for details|
+ 
+
 # VulDB
 
  |Title|Description|Date|
  |---|---|---|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[41331104/23 - Vulnérabilités dans plusieurs produits de ZOOM ](https://www.dgssi.gov.ma//fr/content/4133110423-vulnerabilites-dans-plusieurs-produits-de-zoom.html)|Zoom annonce la correction de plusieurs vulnérabilités affectant les produits susmentionnés de vidéoconférence Zoom. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service, de porter atteinte à la...|11 avril 2023|
+ |[41321004/23 - Vulnérabilités dans Microsoft Edge](https://www.dgssi.gov.ma//fr/content/4132100423-vulnerabilites-dans-microsoft-edge.html)|Microsoft annonce la correction de deux vulnérabilités dans Microsoft Edge. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la confidentialité des données.|10 avril 2023|
+ |[41221004/23 - Vulnérabilités critiques affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma//fr/content/4122100423-vulnerabilites-critiques-affectant-plusieurs-produits-d-apple.html)|Apple annonce lacorrectionde deuxvulnérabilitéscritiquesaffectant ses produitssusmentionnés. Ces vulnérabilités sontactivement exploitées et peuventpermettre à un attaquant distant d’exécuter du code arbitraire.|10 avril 2023|
+ |[41211004/23 - Vulnérabilitécritiqueaffectant la bibliothèque VM2](https://www.dgssi.gov.ma//fr/content/4121100423-vulnerabilite-critique-affectant-la-bibliotheque-vm2.html)|Une vulnérabilité critique affectant la bibliothèque VM2 a été corrigée. VM2 est une bibliothèque populaire qui est utilisée pour exécuter du code non approuvé dans un environnement isolé.L’exploitde cettevulnérabilité est disponible...|10 avril 2023|
+ |[41201004/22 - Vulnérabilitéscritiquesaffectant Sophos Web Appliance](https://www.dgssi.gov.ma//fr/content/4120100422-vulnerabilites-critiques-affectant-sophos-web-appliance.html)|Sophosannonce la correction de de troisvulnérabilités critique affectant les versions susmentionnées de son produit Sophos Web Appliance. L’exploitation de ces vulnérabilités peut permettre à un attaquant distantd’exécuter du...|10 avril 2023|
+ |[41190704/23 - Vulnérabilités affectant plusieurs produits de cisco](https://www.dgssi.gov.ma//fr/content/4119070423-vulnerabilites-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’exécuter du code arbitraire, de...|07 avril 2023|
+ |[41170604/23 - Vulnérabilités affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/4117060423-vulnerabilites-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilitésaffectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre àun attaquant d’exécuter du code...|07 avril 2023|
+ |[41180704 /23 - Vulnérabilités dans les produits IBM](https://www.dgssi.gov.ma//fr/content/41180704-23-vulnerabilites-dans-les-produits-ibm.html)|Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. L’exploitation de ces failles pourrait permettre à un attaquant de porter atteinte à la confidentialité des données, de contourner la politique de sécurité, de...|07 avril 2023|
+ |[41150604 /23 - Vulnérabilité critique dans le noyau Linux](https://www.dgssi.gov.ma//fr/content/41150604-23-vulnerabilite-critique-dans-le-noyau-linux.html)|Une vulnérabilité critique a été découverte dans le package "ALSA PCM" du noyau Linux. L’exploitation de cette faille pourrait permettre à un attaquant de réussir une élévation de privilèges pour obtenir un accès « ring0 » de l...|06 avril 2023|
+ |[41150604 /23 - Le ransomware « Rorschach »](https://www.dgssi.gov.ma//fr/content/41150604-23-le-ransomware-rorschach.html)|Palo Alto Networks a déclaré être au courant d'attaques utilisant son outil « Cortex XDR Dump Service Tool » pour installer le ransomware « Rorschach » sur les systèmes Windows.Une analyse comportementale du nouveau ransomware...|06 avril 2023|
+ |[41140504/23 - Vulnérabilitécritiqueaffectant des imprimantes HP](https://www.dgssi.gov.ma//fr/content/4114050423-vulnerabilite-critique-affectant-des-imprimantes-hp.html)|HPannonce la correction d’unevulnérabilité critique affectant certaines de ses imprimantes. Cette vulnérabilité est exploitable si le protocole IPsec et la fonctionnalité FutureSmart sont activés et ellepermet à un attaquantd’...|06 avril 2023|
  
 
 # HK-CERT
@@ -111,10 +128,4 @@
  |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230406)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 6 Apr 2023|
  |[Apple Xcode Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-xcode-multiple-vulnerabilities_20230403)|Multiple vulnerabilities were identified in Apple Xcode. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, remote code execution and sensitive information disclosure on the targeted system.|Release Date: 3 Apr 2023|
  |[NetApp Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/netapp-products-multiple-vulnerabilities_20230403)|Multiple vulnerabilities were identified in NetApp Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and data manipulation on the targeted system.|Release Date: 3 Apr 2023|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
  
