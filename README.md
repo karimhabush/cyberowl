@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 12/04/2023 19:13:49 UTC
+ > Last Updated 12/04/2023 20:18:14 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -25,22 +25,6 @@
  
  > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0309/)|De multiples vulnérabilités ont été corrigées dans |Publié le 12 avril 2023|
- |[Multiples vulnérabilités dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0308/)|De multiples vulnérabilités ont été corrigées dans |Publié le 12 avril 2023|
- |[Vulnérabilité dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0307/)|Une vulnérabilité a été corrigée dans |Publié le 12 avril 2023|
- |[Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0306/)|De multiples vulnérabilités ont été corrigées dans |Publié le 12 avril 2023|
- |[Multiples vulnérabilités dans Microsoft Office](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0305/)|De multiples vulnérabilités ont été corrigées dans |Publié le 12 avril 2023|
- |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0304/)|De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 12 avril 2023|
- |[Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0303/)|De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 12 avril 2023|
- |[Multiples vulnérabilités dans Adobe Acrobat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0302/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 avril 2023|
- |[Multiples vulnérabilités dans les produits SAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0301/)|De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 12 avril 2023|
- |[Vulnérabilité dans LemonLDAP-NG](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0300/)|Une vulnérabilité a été découverte dans LemonLDAP-NG. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 12 avril 2023|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -57,10 +41,20 @@
  |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/04/10/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Apr 10, 2023|
  
 
-# VulDB
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
+ |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0309/)|De multiples vulnérabilités ont été corrigées dans |Publié le 12 avril 2023|
+ |[Multiples vulnérabilités dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0308/)|De multiples vulnérabilités ont été corrigées dans |Publié le 12 avril 2023|
+ |[Vulnérabilité dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0307/)|Une vulnérabilité a été corrigée dans |Publié le 12 avril 2023|
+ |[Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0306/)|De multiples vulnérabilités ont été corrigées dans |Publié le 12 avril 2023|
+ |[Multiples vulnérabilités dans Microsoft Office](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0305/)|De multiples vulnérabilités ont été corrigées dans |Publié le 12 avril 2023|
+ |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0304/)|De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 12 avril 2023|
+ |[Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0303/)|De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 12 avril 2023|
+ |[Multiples vulnérabilités dans Adobe Acrobat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0302/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 avril 2023|
+ |[Multiples vulnérabilités dans les produits SAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0301/)|De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 12 avril 2023|
+ |[Vulnérabilité dans LemonLDAP-NG](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0300/)|Une vulnérabilité a été découverte dans LemonLDAP-NG. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 12 avril 2023|
  
 
 # OBS-Vigilance
@@ -78,6 +72,12 @@
  |[<a href="https://vigilance.fr/vulnerability/Nexcloud-Desktop-four-vulnerabilities-41030" class="noirorange"><b>Nexcloud Desktop</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Nexcloud-Desktop-four-vulnerabilities-41030)|An attacker can use several vulnerabilities of Nexcloud Desktop...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/NTP-org-four-vulnerabilities-via-mstolfp-41029" class="noirorange"><b>NTP.org</b>: four vulnerabilities via mstolfp</a>](https://vigilance.fr/vulnerability/NTP-org-four-vulnerabilities-via-mstolfp-41029)|An attacker can use several vulnerabilities of NTP.org, via mstolfp...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/NTP-org-buffer-overflow-via-praecis-parse-41028" class="noirorange"><b>NTP.org</b>: buffer overflow via praecis_parse()</a>](https://vigilance.fr/vulnerability/NTP-org-buffer-overflow-via-praecis-parse-41028)|An attacker can trigger a buffer overflow of NTP.org, via praecis_parse(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # EU-CERT
