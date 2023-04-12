@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 12/04/2023 15:18:11 UTC
+ > Last Updated 12/04/2023 16:23:27 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -63,23 +63,6 @@
  |---|---|---|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/NTP-org-four-vulnerabilities-via-mstolfp-41029" class="noirorange"><b>NTP.org</b>: four vulnerabilities via mstolfp</a>](https://vigilance.fr/vulnerability/NTP-org-four-vulnerabilities-via-mstolfp-41029)|An attacker can use several vulnerabilities of NTP.org, via mstolfp...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/NTP-org-buffer-overflow-via-praecis-parse-41028" class="noirorange"><b>NTP.org</b>: buffer overflow via praecis_parse()</a>](https://vigilance.fr/vulnerability/NTP-org-buffer-overflow-via-praecis-parse-41028)|An attacker can trigger a buffer overflow of NTP.org, via praecis_parse(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SQLite-memory-corruption-via-ORDER-BY-Alias-41027" class="noirorange"><b>SQLite</b>: memory corruption via ORDER BY Alias</a>](https://vigilance.fr/vulnerability/SQLite-memory-corruption-via-ORDER-BY-Alias-41027)|An attacker can trigger a memory corruption of SQLite, via ORDER BY Alias, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-btsdio-remove-41026" class="noirorange"><b>Linux kernel</b>: reuse after free via btsdio_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-btsdio-remove-41026)|An attacker can force the reuse of a freed memory area of the Linux kernel, via btsdio_remove(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HAProxy-header-injection-via-h3-headers-to-htx-41025" class="noirorange"><b>HAProxy</b>: header injection via h3_headers_to_htx()</a>](https://vigilance.fr/vulnerability/HAProxy-header-injection-via-h3-headers-to-htx-41025)|An attacker can add new headers on HAProxy, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Wireshark-three-vulnerabilities-41024" class="noirorange"><b>Wireshark</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Wireshark-three-vulnerabilities-41024)|An attacker can use several vulnerabilities of Wireshark...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-Tcindex-Perfect-Hash-Filter-Deletion-41023" class="noirorange"><b>Linux kernel</b>: reuse after free via Tcindex Perfect Hash Filter Deletion</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-Tcindex-Perfect-Hash-Filter-Deletion-41023)|An attacker can force the reuse of a freed memory area of the Linux kernel, via Tcindex Perfect Hash Filter Deletion, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Gluster-GlusterFS-reuse-after-free-via-dht-setxattr-mds-cbk-41022" class="noirorange"><b>Gluster GlusterFS</b>: reuse after free via dht_setxattr_mds_cbk()</a>](https://vigilance.fr/vulnerability/Gluster-GlusterFS-reuse-after-free-via-dht-setxattr-mds-cbk-41022)|An attacker can force the reuse of a freed memory area of Gluster GlusterFS, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Smarty-Cross-Site-Scripting-via-smarty-modifier-escape-41021" class="noirorange"><b>Smarty</b>: Cross Site Scripting via smarty_modifier_escape()</a>](https://vigilance.fr/vulnerability/Smarty-Cross-Site-Scripting-via-smarty-modifier-escape-41021)|An attacker can trigger a Cross Site Scripting of Smarty, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Android-multiple-vulnerabilities-41020" class="noirorange"><b>Android</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Android-multiple-vulnerabilities-41020)|An attacker can use several vulnerabilities of Android...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiOS-open-redirect-via-Sslvpnd-41019" class="noirorange"><b>FortiOS</b>: open redirect via Sslvpnd</a>](https://vigilance.fr/vulnerability/FortiOS-open-redirect-via-Sslvpnd-41019)|An attacker can deceive the user of FortiOS, via Sslvpnd, in order to redirect him to a malicious site...|Visit link for details|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -95,6 +78,23 @@
  |[2023-012: RCE vulnerabilities in Fortinet products](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-012.pdf)|On February 16, 2023, Fortinet released advisories regarding critical vulnerabilities in FortiNAC and FortiWeb products that may allow unauthenticated attackers to perform remote arbitrary code or command execution.|Monday, February 20, 2023 03:40:00 PM CET|
  |[2023-011: ClamAV critical vulnerability](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-011.pdf)|On February 15th, 2023, ClamAV informed about a critical vulnerability in the cross-platform antimalware toolkit. The vulnerability is identified as CVE-2023-20032 and could lead to remote code execution.|Monday, February 20, 2023 03:40:00 PM CET|
  |[2023-010: Severe Vulnerabilities in Citrix Workspace, Virtual Apps and Desktops](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-010.pdf)|On February 14, 2023, Citrix released Security Bulletins regarding severe vulnerabilities affecting its Citrix Workspace, Virtual Apps and Desktops. If exploited, these vulnerabilities could enable attackers to elevate their privileges and take control of the affected system, but they need local access to the target.|Thursday, February 16, 2023 11:00:00 AM CET|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/NTP-org-four-vulnerabilities-via-mstolfp-41029" class="noirorange"><b>NTP.org</b>: four vulnerabilities via mstolfp</a>](https://vigilance.fr/vulnerability/NTP-org-four-vulnerabilities-via-mstolfp-41029)|An attacker can use several vulnerabilities of NTP.org, via mstolfp...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/NTP-org-buffer-overflow-via-praecis-parse-41028" class="noirorange"><b>NTP.org</b>: buffer overflow via praecis_parse()</a>](https://vigilance.fr/vulnerability/NTP-org-buffer-overflow-via-praecis-parse-41028)|An attacker can trigger a buffer overflow of NTP.org, via praecis_parse(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SQLite-memory-corruption-via-ORDER-BY-Alias-41027" class="noirorange"><b>SQLite</b>: memory corruption via ORDER BY Alias</a>](https://vigilance.fr/vulnerability/SQLite-memory-corruption-via-ORDER-BY-Alias-41027)|An attacker can trigger a memory corruption of SQLite, via ORDER BY Alias, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-btsdio-remove-41026" class="noirorange"><b>Linux kernel</b>: reuse after free via btsdio_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-btsdio-remove-41026)|An attacker can force the reuse of a freed memory area of the Linux kernel, via btsdio_remove(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HAProxy-header-injection-via-h3-headers-to-htx-41025" class="noirorange"><b>HAProxy</b>: header injection via h3_headers_to_htx()</a>](https://vigilance.fr/vulnerability/HAProxy-header-injection-via-h3-headers-to-htx-41025)|An attacker can add new headers on HAProxy, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-three-vulnerabilities-41024" class="noirorange"><b>Wireshark</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Wireshark-three-vulnerabilities-41024)|An attacker can use several vulnerabilities of Wireshark...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-Tcindex-Perfect-Hash-Filter-Deletion-41023" class="noirorange"><b>Linux kernel</b>: reuse after free via Tcindex Perfect Hash Filter Deletion</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-Tcindex-Perfect-Hash-Filter-Deletion-41023)|An attacker can force the reuse of a freed memory area of the Linux kernel, via Tcindex Perfect Hash Filter Deletion, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Gluster-GlusterFS-reuse-after-free-via-dht-setxattr-mds-cbk-41022" class="noirorange"><b>Gluster GlusterFS</b>: reuse after free via dht_setxattr_mds_cbk()</a>](https://vigilance.fr/vulnerability/Gluster-GlusterFS-reuse-after-free-via-dht-setxattr-mds-cbk-41022)|An attacker can force the reuse of a freed memory area of Gluster GlusterFS, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Smarty-Cross-Site-Scripting-via-smarty-modifier-escape-41021" class="noirorange"><b>Smarty</b>: Cross Site Scripting via smarty_modifier_escape()</a>](https://vigilance.fr/vulnerability/Smarty-Cross-Site-Scripting-via-smarty-modifier-escape-41021)|An attacker can trigger a Cross Site Scripting of Smarty, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Android-multiple-vulnerabilities-41020" class="noirorange"><b>Android</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Android-multiple-vulnerabilities-41020)|An attacker can use several vulnerabilities of Android...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/FortiOS-open-redirect-via-Sslvpnd-41019" class="noirorange"><b>FortiOS</b>: open redirect via Sslvpnd</a>](https://vigilance.fr/vulnerability/FortiOS-open-redirect-via-Sslvpnd-41019)|An attacker can deceive the user of FortiOS, via Sslvpnd, in order to redirect him to a malicious site...|Visit link for details|
  
 
 # MA-CERT
