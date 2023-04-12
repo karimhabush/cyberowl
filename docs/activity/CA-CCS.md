@@ -4,6 +4,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Drupal security advisory (AV23-209)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av23-209)|Visit link for details|2023-04-12|
  |[Adobe security advisory (AV23-208)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av23-208)|Visit link for details|2023-04-12|
  |[Novi Survey security advisory (AV23-207)](https://www.cyber.gc.ca/en/alerts-advisories/novi-survey-security-advisory-av23-207)|Visit link for details|2023-04-11|
  |[Microsoft security advisory – April 2023 monthly rollup (AV23-206)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-april-2023-monthly-rollup-av23-206)|Visit link for details|2023-04-11|
@@ -14,5 +15,4 @@
  |[[Control systems] Siemens security advisory (AV23-201)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av23-201)|Visit link for details|2023-04-11|
  |[Dell security advisory (AV23-200)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-200)|Visit link for details|2023-04-11|
  |[IBM security advisory (AV23-199)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-199)|Visit link for details|2023-04-11|
- |[Ubuntu security advisory (AV23-198)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-198)|Visit link for details|2023-04-11|
  
