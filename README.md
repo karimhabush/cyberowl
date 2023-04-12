@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 12/04/2023 13:21:22 UTC
+ > Last Updated 12/04/2023 14:16:25 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/04/11/adobe-releases-security-updates-multiple-products)|Visit link for details.|Apr 11, 2023|
  |[Microsoft Releases April 2023 Security Updates](https://www.cisa.gov/news-events/alerts/2023/04/11/microsoft-releases-april-2023-security-updates)|Visit link for details.|Apr 11, 2023|
  |[Fortinet Releases April 2023 Vulnerability Advisories](https://www.cisa.gov/news-events/alerts/2023/04/11/fortinet-releases-april-2023-vulnerability-advisories)|Visit link for details.|Apr 11, 2023|
  |[Mozilla Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/04/11/mozilla-releases-security-advisories-multiple-products)|Visit link for details.|Apr 11, 2023|
@@ -38,7 +39,6 @@
  |[Microsoft Releases Guidance for the BlackLotus Campaign ](https://www.cisa.gov/news-events/alerts/2023/04/11/microsoft-releases-guidance-for-the-blacklotus-campaign)|Visit link for details.|Apr 11, 2023|
  |[CISA Releases Zero Trust Maturity Model Version 2](https://www.cisa.gov/news-events/alerts/2023/04/11/cisa-releases-zero-trust-maturity-model-version-2)|Visit link for details.|Apr 11, 2023|
  |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/04/10/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Apr 10, 2023|
- |[CISA Adds Five Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/04/07/cisa-adds-five-known-exploited-vulnerabilities-catalog)|Visit link for details.|Apr 07, 2023|
  
 
 # CERT-FR
@@ -63,35 +63,6 @@
  |---|---|---|
  
 
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Adobe Monthly Security Update (April 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-april-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Digital Editions Medium RiskRemote Code Execution APSB23-04Adobe InCopy Medium RiskRemote Code Execution ...|Release Date: 12 Apr 2023|
- |[Microsoft Monthly Security Update (April 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-april-2023)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesBrowser Medium RiskSecurity Restriction BypassSpoofingData Manipulation Windows Medium RiskRemote Code ExecutionInformation DisclosureDenial of Service...|Release Date: 12 Apr 2023|
- |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20230412)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 12 Apr 2023|
- |[Apple Products Remote Code Execution Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-remote-code-execution-vulnerabilities_20230411)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system. Note:CVE-2023-28205 and CVE-2023-28206 are being exploited in the wild. These...|Release Date: 11 Apr 2023|
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230411)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, security restriction bypass, sensitive information disclosure, spoofing and data manipulation on the targeted system.|Release Date: 11 Apr 2023|
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230411)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 11 Apr 2023|
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230403)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, data manipulation and security restriction bypass on the targeted system. [Updated on 2023-04-...| Release Date: 3 Apr 2023 |
- |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20230406)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure and remote code execution on the targeted system.|Release Date: 6 Apr 2023|
- |[Cisco Webex Meetings Web UI Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-webex-meetings-web-ui-vulnerabilities_20230406)|Multiple vulnerabilities were identified in Cisco Webex Meetings Web UI. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, data manipulation, remote code execution and information disclosure on the targeted system.|Release Date: 6 Apr 2023|
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230406)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, remote code execution and information disclosure on the targeted system.|Release Date: 6 Apr 2023|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Linux Kernel privilege escalation (CVE-2023-1829)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 12, 2023|
- |[Fortinet FortiClient (Windows) code execution (CVE-2022-40682)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 11, 2023|
- |[Fortinet FortiADC, Fortinet FortiDDoS, and Fortinet FortiDDoS-F command execution (CVE-2022-40679)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 11, 2023|
- |[Fortinet FortiNAC information disclosure (CVE-2022-43951)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 11, 2023|
- |[Fortinet FortiSOAR code execution (CVE-2023-27995)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 11, 2023|
- |[Fortinet FortiClient (Mac) privilege escalation (CVE-2023-22635)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 11, 2023|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 11, 2023|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -107,37 +78,6 @@
  |[2023-012: RCE vulnerabilities in Fortinet products](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-012.pdf)|On February 16, 2023, Fortinet released advisories regarding critical vulnerabilities in FortiNAC and FortiWeb products that may allow unauthenticated attackers to perform remote arbitrary code or command execution.|Monday, February 20, 2023 03:40:00 PM CET|
  |[2023-011: ClamAV critical vulnerability](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-011.pdf)|On February 15th, 2023, ClamAV informed about a critical vulnerability in the cross-platform antimalware toolkit. The vulnerability is identified as CVE-2023-20032 and could lead to remote code execution.|Monday, February 20, 2023 03:40:00 PM CET|
  |[2023-010: Severe Vulnerabilities in Citrix Workspace, Virtual Apps and Desktops](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-010.pdf)|On February 14, 2023, Citrix released Security Bulletins regarding severe vulnerabilities affecting its Citrix Workspace, Virtual Apps and Desktops. If exploited, these vulnerabilities could enable attackers to elevate their privileges and take control of the affected system, but they need local access to the target.|Thursday, February 16, 2023 11:00:00 AM CET|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[41261204/23 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/4126120423-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant son client de messagerie Mozilla Thunderbird. L’exploitation de ces vulnérabilités peut permettre à un...|12 avril 2023|
- |[41251204/23 - Vulnérabilités affectant plusieurs produits d’Adobe](https://www.dgssi.gov.ma//fr/content/4125120423-vulnerabilites-affectant-plusieurs-produits-d-adobe.html)|Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuterdu code arbitraire, d’...|12 avril 2023|
- |[41331204/23 - Vulnérabilités critiques dans plusieurs produits Microsoft(Patch Tuesday Avril 2023)](https://www.dgssi.gov.ma//fr/content/4133120423-vulnerabilites-critiques-dans-plusieurs-produits-microsoft-patch-tuesday-avril-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, d’exécuter du...|12 avril 2023|
- |[41321204/23 - Vulnérabilités dans les produits Microsoft SQL Server (Patch Tuesday Avril 2023)](https://www.dgssi.gov.ma//fr/content/4132120423-vulnerabilites-dans-les-produits-microsoft-sql-server-patch-tuesday-avril-2023.html)|Plusieurs vulnérabilités ont été corrigées dans les versions de Microsoft SQL Server susmentionnées. L’exploitation de ces failles permet à un attaquant de contourner la politique de sécurité ou de porter atteinte à la confidentialité des...|12 avril 2023|
- |[41311204/23 - Vulnérabilités dans les produits Microsoft Azure (Patch Tuesday Avril 2023)](https://www.dgssi.gov.ma//fr/content/4131120423-vulnerabilites-dans-les-produits-microsoft-azure-patch-tuesday-avril-2023.html)|Deux vulnérabilités ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de contourner la politique de sécurité ou de porter atteinte à la confidentialité des données.|12 avril 2023|
- |[41301204/23 - Vulnérabilités critiques dans Microsoft Windows (Patch Tuesday Avril 2023)](https://www.dgssi.gov.ma//fr/content/4130120423-vulnerabilites-critiques-dans-microsoft-windows-patch-tuesday-avril-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques dans lessystèmes d’exploitation Windows susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de divulguer des informations confidentielles, d’...|12 avril 2023|
- |[41291204/23 - Vulnérabilités dans Microsoft Office (Patch Tuesday Avril 2023)](https://www.dgssi.gov.ma//fr/content/4129120423-vulnerabilites-dans-microsoft-office-patch-tuesday-avril-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées des produits Microsoft Office. L’exploitation de ses vulnérabilités pourrait permettre à un attaquant d’exécuter du code arbitraire à...|12 avril 2023|
- |[41331104/23 - Vulnérabilités dans plusieurs produits de ZOOM ](https://www.dgssi.gov.ma//fr/content/4133110423-vulnerabilites-dans-plusieurs-produits-de-zoom.html)|Zoom annonce la correction de plusieurs vulnérabilités affectant les produits susmentionnés de vidéoconférence Zoom. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service, de porter atteinte à la...|11 avril 2023|
- |[41321004/23 - Vulnérabilités dans Microsoft Edge](https://www.dgssi.gov.ma//fr/content/4132100423-vulnerabilites-dans-microsoft-edge.html)|Microsoft annonce la correction de deux vulnérabilités dans Microsoft Edge. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la confidentialité des données.|10 avril 2023|
- |[41221004/23 - Vulnérabilités critiques affectant plusieurs produits d’Apple ](https://www.dgssi.gov.ma//fr/content/4122100423-vulnerabilites-critiques-affectant-plusieurs-produits-d-apple.html)|Apple annonce lacorrectionde deuxvulnérabilitéscritiquesaffectant ses produitssusmentionnés. Ces vulnérabilités sontactivement exploitées et peuventpermettre à un attaquant distant d’exécuter du code arbitraire.|10 avril 2023|
- |[41211004/23 - Vulnérabilitécritiqueaffectant la bibliothèque VM2](https://www.dgssi.gov.ma//fr/content/4121100423-vulnerabilite-critique-affectant-la-bibliotheque-vm2.html)|Une vulnérabilité critique affectant la bibliothèque VM2 a été corrigée. VM2 est une bibliothèque populaire qui est utilisée pour exécuter du code non approuvé dans un environnement isolé.L’exploitde cettevulnérabilité est disponible...|10 avril 2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
 
 # OBS-Vigilance
@@ -157,19 +97,35 @@
  |[<a href="https://vigilance.fr/vulnerability/FortiOS-open-redirect-via-Sslvpnd-41019" class="noirorange"><b>FortiOS</b>: open redirect via Sslvpnd</a>](https://vigilance.fr/vulnerability/FortiOS-open-redirect-via-Sslvpnd-41019)|An attacker can deceive the user of FortiOS, via Sslvpnd, in order to redirect him to a malicious site...|Visit link for details|
  
 
-# CA-CCS
+# MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Novi Survey security advisory (AV23-207)](https://www.cyber.gc.ca/en/alerts-advisories/novi-survey-security-advisory-av23-207)|Visit link for details|2023-04-11|
- |[Microsoft security advisory – April 2023 monthly rollup (AV23-206)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-april-2023-monthly-rollup-av23-206)|Visit link for details|2023-04-11|
- |[Fortinet security advisory (AV23-205)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av23-205)|Visit link for details|2023-04-11|
- |[SAP security advisory – April 2023 monthly rollup (AV23-204)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-april-2023-monthly-rollup-av23-204)|Visit link for details|2023-04-11|
- |[Mozilla Security Advisory (AV23-203)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av23-203)|Visit link for details|2023-04-11|
- |[[Control systems] Schneider Electric security advisory (AV23-202)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av23-202)|Visit link for details|2023-04-11|
- |[[Control systems] Siemens security advisory (AV23-201)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av23-201)|Visit link for details|2023-04-11|
- |[Dell security advisory (AV23-200)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-200)|Visit link for details|2023-04-11|
- |[IBM security advisory (AV23-199)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-199)|Visit link for details|2023-04-11|
- |[Ubuntu security advisory (AV23-198)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-198)|Visit link for details|2023-04-11|
- |[Apple security advisory (AV23-197)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-197)|Visit link for details|2023-04-11|
+ |[41281204/23 - Mises à jour de sécurité pour des produits de Fortinet ](https://www.dgssi.gov.ma//fr/content/4128120423-mises-jour-de-securite-pour-des-produits-de-fortinet.html)|Fortinet annonce la disponibilité de mises à jour de sécurité permettant la correctionde vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peut permettre à un attaquant distant d’...|12 avril 2023|
+ |[41271204/23 - Vulnérabilités affectantle navigateur Mozilla Firefox](https://www.dgssi.gov.ma//fr/content/4127120423-vulnerabilites-affectant-le-navigateur-mozilla-firefox.html)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de cesvulnérabilités peut permettre à un...|12 avril 2023|
+ |[41261204/23 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/4126120423-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant son client de messagerie Mozilla Thunderbird. L’exploitation de ces vulnérabilités peut permettre à un...|12 avril 2023|
+ |[41251204/23 - Vulnérabilités affectant plusieurs produits d’Adobe](https://www.dgssi.gov.ma//fr/content/4125120423-vulnerabilites-affectant-plusieurs-produits-d-adobe.html)|Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuterdu code arbitraire, d’...|12 avril 2023|
+ |[41331204/23 - Vulnérabilités critiques dans plusieurs produits Microsoft(Patch Tuesday Avril 2023)](https://www.dgssi.gov.ma//fr/content/4133120423-vulnerabilites-critiques-dans-plusieurs-produits-microsoft-patch-tuesday-avril-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, d’exécuter du...|12 avril 2023|
+ |[41321204/23 - Vulnérabilités dans les produits Microsoft SQL Server (Patch Tuesday Avril 2023)](https://www.dgssi.gov.ma//fr/content/4132120423-vulnerabilites-dans-les-produits-microsoft-sql-server-patch-tuesday-avril-2023.html)|Plusieurs vulnérabilités ont été corrigées dans les versions de Microsoft SQL Server susmentionnées. L’exploitation de ces failles permet à un attaquant de contourner la politique de sécurité ou de porter atteinte à la confidentialité des...|12 avril 2023|
+ |[41311204/23 - Vulnérabilités dans les produits Microsoft Azure (Patch Tuesday Avril 2023)](https://www.dgssi.gov.ma//fr/content/4131120423-vulnerabilites-dans-les-produits-microsoft-azure-patch-tuesday-avril-2023.html)|Deux vulnérabilités ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de contourner la politique de sécurité ou de porter atteinte à la confidentialité des données.|12 avril 2023|
+ |[41301204/23 - Vulnérabilités critiques dans Microsoft Windows (Patch Tuesday Avril 2023)](https://www.dgssi.gov.ma//fr/content/4130120423-vulnerabilites-critiques-dans-microsoft-windows-patch-tuesday-avril-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques dans lessystèmes d’exploitation Windows susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de divulguer des informations confidentielles, d’...|12 avril 2023|
+ |[41291204/23 - Vulnérabilités dans Microsoft Office (Patch Tuesday Avril 2023)](https://www.dgssi.gov.ma//fr/content/4129120423-vulnerabilites-dans-microsoft-office-patch-tuesday-avril-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées des produits Microsoft Office. L’exploitation de ses vulnérabilités pourrait permettre à un attaquant d’exécuter du code arbitraire à...|12 avril 2023|
+ |[41331104/23 - Vulnérabilités dans plusieurs produits de ZOOM ](https://www.dgssi.gov.ma//fr/content/4133110423-vulnerabilites-dans-plusieurs-produits-de-zoom.html)|Zoom annonce la correction de plusieurs vulnérabilités affectant les produits susmentionnés de vidéoconférence Zoom. L’exploitation de ces failles peut permettre à un attaquant de causer un déni de service, de porter atteinte à la...|11 avril 2023|
+ |[41321004/23 - Vulnérabilités dans Microsoft Edge](https://www.dgssi.gov.ma//fr/content/4132100423-vulnerabilites-dans-microsoft-edge.html)|Microsoft annonce la correction de deux vulnérabilités dans Microsoft Edge. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la confidentialité des données.|10 avril 2023|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Adobe Monthly Security Update (April 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-april-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Digital Editions Medium RiskRemote Code Execution APSB23-04Adobe InCopy Medium RiskRemote Code Execution ...|Release Date: 12 Apr 2023|
+ |[Microsoft Monthly Security Update (April 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-april-2023)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesBrowser Medium RiskSecurity Restriction BypassSpoofingData Manipulation Windows Medium RiskRemote Code ExecutionInformation DisclosureDenial of Service...|Release Date: 12 Apr 2023|
+ |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20230412)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 12 Apr 2023|
+ |[Apple Products Remote Code Execution Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-remote-code-execution-vulnerabilities_20230411)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system. Note:CVE-2023-28205 and CVE-2023-28206 are being exploited in the wild. These...|Release Date: 11 Apr 2023|
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230411)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, security restriction bypass, sensitive information disclosure, spoofing and data manipulation on the targeted system.|Release Date: 11 Apr 2023|
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230411)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 11 Apr 2023|
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230403)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, data manipulation and security restriction bypass on the targeted system. [Updated on 2023-04-...| Release Date: 3 Apr 2023 |
+ |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20230406)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure and remote code execution on the targeted system.|Release Date: 6 Apr 2023|
+ |[Cisco Webex Meetings Web UI Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-webex-meetings-web-ui-vulnerabilities_20230406)|Multiple vulnerabilities were identified in Cisco Webex Meetings Web UI. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, data manipulation, remote code execution and information disclosure on the targeted system.|Release Date: 6 Apr 2023|
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230406)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, remote code execution and information disclosure on the targeted system.|Release Date: 6 Apr 2023|
  
