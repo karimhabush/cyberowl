@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 12/04/2023 04:21:02 UTC
+ > Last Updated 12/04/2023 05:16:30 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,12 +57,6 @@
  |[Vulnérabilité dans Mitel MiCollab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0289/)|Une vulnérabilité a été découverte dans |Publié le 6 avril 2023|
  
 
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -84,6 +78,10 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Wireshark-three-vulnerabilities-41024" class="noirorange"><b>Wireshark</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Wireshark-three-vulnerabilities-41024)|An attacker can use several vulnerabilities of Wireshark...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-Tcindex-Perfect-Hash-Filter-Deletion-41023" class="noirorange"><b>Linux kernel</b>: reuse after free via Tcindex Perfect Hash Filter Deletion</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-Tcindex-Perfect-Hash-Filter-Deletion-41023)|An attacker can force the reuse of a freed memory area of the Linux kernel, via Tcindex Perfect Hash Filter Deletion, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Gluster-GlusterFS-reuse-after-free-via-dht-setxattr-mds-cbk-41022" class="noirorange"><b>Gluster GlusterFS</b>: reuse after free via dht_setxattr_mds_cbk()</a>](https://vigilance.fr/vulnerability/Gluster-GlusterFS-reuse-after-free-via-dht-setxattr-mds-cbk-41022)|An attacker can force the reuse of a freed memory area of Gluster GlusterFS, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Smarty-Cross-Site-Scripting-via-smarty-modifier-escape-41021" class="noirorange"><b>Smarty</b>: Cross Site Scripting via smarty_modifier_escape()</a>](https://vigilance.fr/vulnerability/Smarty-Cross-Site-Scripting-via-smarty-modifier-escape-41021)|An attacker can trigger a Cross Site Scripting of Smarty, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Android-multiple-vulnerabilities-41020" class="noirorange"><b>Android</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Android-multiple-vulnerabilities-41020)|An attacker can use several vulnerabilities of Android...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FortiOS-open-redirect-via-Sslvpnd-41019" class="noirorange"><b>FortiOS</b>: open redirect via Sslvpnd</a>](https://vigilance.fr/vulnerability/FortiOS-open-redirect-via-Sslvpnd-41019)|An attacker can deceive the user of FortiOS, via Sslvpnd, in order to redirect him to a malicious site...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FortiOS-Cross-Site-Scripting-via-Administrative-Interface-41018" class="noirorange"><b>FortiOS</b>: Cross Site Scripting via Administrative Interface</a>](https://vigilance.fr/vulnerability/FortiOS-Cross-Site-Scripting-via-Administrative-Interface-41018)|An attacker can trigger a Cross Site Scripting of FortiOS, via Administrative Interface, in order to run JavaScript code in the context of the web site...|Visit link for details|
@@ -91,10 +89,12 @@
  |[<a href="https://vigilance.fr/vulnerability/FortiGate-FortiOS-ingress-filtrering-bypass-via-Bookmarks-41016" class="noirorange"><b>FortiGate  FortiOS</b>: ingress filtrering bypass via Bookmarks</a>](https://vigilance.fr/vulnerability/FortiGate-FortiOS-ingress-filtrering-bypass-via-Bookmarks-41016)|An attacker can bypass filtering rules of FortiGate  FortiOS, via Bookmarks, in order to send malicious data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FortiClientWindows-file-creation-via-Device-Filesystem-41015" class="noirorange"><b>FortiClientWindows</b>: file creation via Device Filesystem</a>](https://vigilance.fr/vulnerability/FortiClientWindows-file-creation-via-Device-Filesystem-41015)|An attacker can bypass access restrictions of FortiClientWindows, via Device Filesystem, in order to create a file...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FortiClientWindows-code-execution-via-Pipe-Object-41014" class="noirorange"><b>FortiClientWindows</b>: code execution via Pipe Object</a>](https://vigilance.fr/vulnerability/FortiClientWindows-code-execution-via-Pipe-Object-41014)|An attacker can use a vulnerability of FortiClientWindows, via Pipe Object, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiClientWindows-file-creation-via-Process-Impersonation-41013" class="noirorange"><b>FortiClientWindows</b>: file creation via Process Impersonation</a>](https://vigilance.fr/vulnerability/FortiClientWindows-file-creation-via-Process-Impersonation-41013)|An attacker can bypass access restrictions of FortiClientWindows, via Process Impersonation, in order to create a file...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiClientMac-privilege-escalation-via-Update-Functionality-41012" class="noirorange"><b>FortiClientMac</b>: privilege escalation via Update Functionality</a>](https://vigilance.fr/vulnerability/FortiClientMac-privilege-escalation-via-Update-Functionality-41012)|An attacker can bypass restrictions of FortiClientMac, via Update Functionality, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiAnalyzer-information-disclosure-via-Custom-Dataset-41011" class="noirorange"><b>FortiAnalyzer</b>: information disclosure via Custom Dataset</a>](https://vigilance.fr/vulnerability/FortiAnalyzer-information-disclosure-via-Custom-Dataset-41011)|An attacker can bypass access restrictions to data of FortiAnalyzer, via Custom Dataset, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-Man-in-the-Middle-via-Outbreakalert-Download-41010" class="noirorange"><b>FortiAnalyzer  FortiManager</b>: Man-in-the-Middle via Outbreakalert Download</a>](https://vigilance.fr/vulnerability/FortiAnalyzer-FortiManager-Man-in-the-Middle-via-Outbreakalert-Download-41010)|An attacker can act as a Man-in-the-Middle on FortiAnalyzer  FortiManager, via Outbreakalert Download, in order to read or write data in the session...|Visit link for details|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # MA-CERT
