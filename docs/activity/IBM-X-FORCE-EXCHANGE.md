@@ -4,11 +4,11 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Microsoft Edge (Chromium-based) security bypass (CVE-2023-28284)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 11, 2023|
- |[Apache OFBiz file disclosure (CVE-2022-47501)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 10, 2023|
- |[Apache Linkis command execution (CVE-2023-29216)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 10, 2023|
- |[Apache Linkis command execution (CVE-2023-29215)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 10, 2023|
- |[Apache Linkis security bypass (CVE-2023-27987)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 10, 2023|
- |[Apache Linkis directory traversal (CVE-2023-27603)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 10, 2023|
- |[Apache Linkis file upload (CVE-2023-27602)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 10, 2023|
+ |[Linux Kernel privilege escalation (CVE-2023-1829)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 12, 2023|
+ |[Fortinet FortiClient (Windows) code execution (CVE-2022-40682)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 11, 2023|
+ |[Fortinet FortiADC, Fortinet FortiDDoS, and Fortinet FortiDDoS-F command execution (CVE-2022-40679)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 11, 2023|
+ |[Fortinet FortiNAC information disclosure (CVE-2022-43951)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 11, 2023|
+ |[Fortinet FortiSOAR code execution (CVE-2023-27995)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 11, 2023|
+ |[Fortinet FortiClient (Mac) privilege escalation (CVE-2023-22635)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 11, 2023|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 11, 2023|
  

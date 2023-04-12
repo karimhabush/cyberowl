@@ -4,15 +4,15 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[[Control systems] mySCADA security advisory (AV23-192)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-myscada-security-advisory-av23-192)|Visit link for details|2023-04-06|
- |[[Control systems] ABB security advisory (AV23-191)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av23-191)|Visit link for details|2023-04-06|
- |[Sophos security advisory (AV23-190)](https://www.cyber.gc.ca/en/alerts-advisories/sophos-security-advisory-av23-190)|Visit link for details|2023-04-06|
- |[Cisco security advisory (AV23-189)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av23-189)|Visit link for details|2023-04-06|
- |[Red Hat security advisory (AV23-188)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av23-188)|Visit link for details|2023-04-05|
- |[Google Chrome security advisory (AV23-187)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-187)|Visit link for details|2023-04-05|
- |[[Control systems] Nexx Smart Home security advisory (AV23-186)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-nexx-smart-home-security-advisory-av23-186)|Visit link for details|2023-04-05|
- |[Android security advisory – April 2023 monthly rollup (AV23-185)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-april-2023-monthly-rollup-av23-185)|Visit link for details|2023-04-04|
- |[Trellix security advisory (AV23-184)](https://www.cyber.gc.ca/en/alerts-advisories/trellix-security-advisory-av23-184)|Visit link for details|2023-04-04|
- |[IBM security advisory (AV23-183)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-183)|Visit link for details|2023-04-03|
- |[Ubuntu security advisory (AV23-182)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-182)|Visit link for details|2023-04-03|
+ |[Novi Survey security advisory (AV23-207)](https://www.cyber.gc.ca/en/alerts-advisories/novi-survey-security-advisory-av23-207)|Visit link for details|2023-04-11|
+ |[Microsoft security advisory – April 2023 monthly rollup (AV23-206)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-april-2023-monthly-rollup-av23-206)|Visit link for details|2023-04-11|
+ |[Fortinet security advisory (AV23-205)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av23-205)|Visit link for details|2023-04-11|
+ |[SAP security advisory – April 2023 monthly rollup (AV23-204)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-april-2023-monthly-rollup-av23-204)|Visit link for details|2023-04-11|
+ |[Mozilla Security Advisory (AV23-203)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av23-203)|Visit link for details|2023-04-11|
+ |[[Control systems] Schneider Electric security advisory (AV23-202)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av23-202)|Visit link for details|2023-04-11|
+ |[[Control systems] Siemens security advisory (AV23-201)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av23-201)|Visit link for details|2023-04-11|
+ |[Dell security advisory (AV23-200)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-200)|Visit link for details|2023-04-11|
+ |[IBM security advisory (AV23-199)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-199)|Visit link for details|2023-04-11|
+ |[Ubuntu security advisory (AV23-198)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-198)|Visit link for details|2023-04-11|
+ |[Apple security advisory (AV23-197)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av23-197)|Visit link for details|2023-04-11|
  
