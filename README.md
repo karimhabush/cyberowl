@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 12/04/2023 06:22:24 UTC
+ > Last Updated 12/04/2023 07:15:44 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,6 +57,12 @@
  |[Vulnérabilité dans Mitel MiCollab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0289/)|Une vulnérabilité a été découverte dans |Publié le 6 avril 2023|
  
 
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -72,12 +78,6 @@
  |[<a href="https://vigilance.fr/vulnerability/FortiGate-FortiOS-ingress-filtrering-bypass-via-Bookmarks-41016" class="noirorange"><b>FortiGate  FortiOS</b>: ingress filtrering bypass via Bookmarks</a>](https://vigilance.fr/vulnerability/FortiGate-FortiOS-ingress-filtrering-bypass-via-Bookmarks-41016)|An attacker can bypass filtering rules of FortiGate  FortiOS, via Bookmarks, in order to send malicious data...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FortiClientWindows-file-creation-via-Device-Filesystem-41015" class="noirorange"><b>FortiClientWindows</b>: file creation via Device Filesystem</a>](https://vigilance.fr/vulnerability/FortiClientWindows-file-creation-via-Device-Filesystem-41015)|An attacker can bypass access restrictions of FortiClientWindows, via Device Filesystem, in order to create a file...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FortiClientWindows-code-execution-via-Pipe-Object-41014" class="noirorange"><b>FortiClientWindows</b>: code execution via Pipe Object</a>](https://vigilance.fr/vulnerability/FortiClientWindows-code-execution-via-Pipe-Object-41014)|An attacker can use a vulnerability of FortiClientWindows, via Pipe Object, in order to run code...|Visit link for details|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # EU-CERT
