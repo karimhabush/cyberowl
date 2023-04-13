@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 13/04/2023 06:22:00 UTC
+ > Last Updated 13/04/2023 07:16:23 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,23 +57,6 @@
  |[Vulnérabilité dans LemonLDAP-NG](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0300/)|Une vulnérabilité a été découverte dans LemonLDAP-NG. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 12 avril 2023|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/PAN-OS-information-disclosure-41038" class="noirorange"><b>PAN-OS</b>: information disclosure</a>](https://vigilance.fr/vulnerability/PAN-OS-information-disclosure-41038)|An attacker can bypass access restrictions to data of PAN-OS, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PAN-OS-file-deletion-41037" class="noirorange"><b>PAN-OS</b>: file deletion</a>](https://vigilance.fr/vulnerability/PAN-OS-file-deletion-41037)|An attacker can bypass access restrictions of PAN-OS, in order to delete a file...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/AIX-privilege-escalation-via-invscout-41036" class="noirorange"><b>AIX</b>: privilege escalation via invscout</a>](https://vigilance.fr/vulnerability/AIX-privilege-escalation-via-invscout-41036)|An attacker can bypass restrictions of AIX, via invscout, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/AIX-privilege-escalation-via-librts-41035" class="noirorange"><b>AIX</b>: privilege escalation via librts</a>](https://vigilance.fr/vulnerability/AIX-privilege-escalation-via-librts-41035)|An attacker can bypass restrictions of AIX, via librts, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Junos-OS-multiple-vulnerabilities-of-April-2023-41034" class="noirorange"><b>Junos OS</b>: multiple vulnerabilities of April 2023</a>](https://vigilance.fr/vulnerability/Junos-OS-multiple-vulnerabilities-of-April-2023-41034)|An attacker can use several vulnerabilities of Junos OS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-41033" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-41033)|An attacker can use several vulnerabilities of Jenkins Plugins...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Protected-Pages-read-write-access-41032" class="noirorange"><b>Drupal Protected Pages</b>: read-write access</a>](https://vigilance.fr/vulnerability/Drupal-Protected-Pages-read-write-access-41032)|An attacker can bypass access restrictions of Drupal Protected Pages, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Nexcloud-Desktop-Cross-Site-Scripting-via-Qml-Labels-41031" class="noirorange"><b>Nexcloud Desktop</b>: Cross Site Scripting via Qml Labels</a>](https://vigilance.fr/vulnerability/Nexcloud-Desktop-Cross-Site-Scripting-via-Qml-Labels-41031)|An attacker can trigger a Cross Site Scripting of Nexcloud Desktop, via Qml Labels, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Nexcloud-Desktop-four-vulnerabilities-41030" class="noirorange"><b>Nexcloud Desktop</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Nexcloud-Desktop-four-vulnerabilities-41030)|An attacker can use several vulnerabilities of Nexcloud Desktop...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/NTP-org-four-vulnerabilities-via-mstolfp-41029" class="noirorange"><b>NTP.org</b>: four vulnerabilities via mstolfp</a>](https://vigilance.fr/vulnerability/NTP-org-four-vulnerabilities-via-mstolfp-41029)|An attacker can use several vulnerabilities of NTP.org, via mstolfp...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/NTP-org-buffer-overflow-via-praecis-parse-41028" class="noirorange"><b>NTP.org</b>: buffer overflow via praecis_parse()</a>](https://vigilance.fr/vulnerability/NTP-org-buffer-overflow-via-praecis-parse-41028)|An attacker can trigger a buffer overflow of NTP.org, via praecis_parse(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- 
-
 # VulDB
 
  |Title|Description|Date|
@@ -95,6 +78,23 @@
  |[2023-012: RCE vulnerabilities in Fortinet products](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-012.pdf)|On February 16, 2023, Fortinet released advisories regarding critical vulnerabilities in FortiNAC and FortiWeb products that may allow unauthenticated attackers to perform remote arbitrary code or command execution.|Monday, February 20, 2023 03:40:00 PM CET|
  |[2023-011: ClamAV critical vulnerability](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-011.pdf)|On February 15th, 2023, ClamAV informed about a critical vulnerability in the cross-platform antimalware toolkit. The vulnerability is identified as CVE-2023-20032 and could lead to remote code execution.|Monday, February 20, 2023 03:40:00 PM CET|
  |[2023-010: Severe Vulnerabilities in Citrix Workspace, Virtual Apps and Desktops](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-010.pdf)|On February 14, 2023, Citrix released Security Bulletins regarding severe vulnerabilities affecting its Citrix Workspace, Virtual Apps and Desktops. If exploited, these vulnerabilities could enable attackers to elevate their privileges and take control of the affected system, but they need local access to the target.|Thursday, February 16, 2023 11:00:00 AM CET|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/PAN-OS-information-disclosure-41038" class="noirorange"><b>PAN-OS</b>: information disclosure</a>](https://vigilance.fr/vulnerability/PAN-OS-information-disclosure-41038)|An attacker can bypass access restrictions to data of PAN-OS, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PAN-OS-file-deletion-41037" class="noirorange"><b>PAN-OS</b>: file deletion</a>](https://vigilance.fr/vulnerability/PAN-OS-file-deletion-41037)|An attacker can bypass access restrictions of PAN-OS, in order to delete a file...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/AIX-privilege-escalation-via-invscout-41036" class="noirorange"><b>AIX</b>: privilege escalation via invscout</a>](https://vigilance.fr/vulnerability/AIX-privilege-escalation-via-invscout-41036)|An attacker can bypass restrictions of AIX, via invscout, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/AIX-privilege-escalation-via-librts-41035" class="noirorange"><b>AIX</b>: privilege escalation via librts</a>](https://vigilance.fr/vulnerability/AIX-privilege-escalation-via-librts-41035)|An attacker can bypass restrictions of AIX, via librts, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Junos-OS-multiple-vulnerabilities-of-April-2023-41034" class="noirorange"><b>Junos OS</b>: multiple vulnerabilities of April 2023</a>](https://vigilance.fr/vulnerability/Junos-OS-multiple-vulnerabilities-of-April-2023-41034)|An attacker can use several vulnerabilities of Junos OS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-41033" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-41033)|An attacker can use several vulnerabilities of Jenkins Plugins...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Protected-Pages-read-write-access-41032" class="noirorange"><b>Drupal Protected Pages</b>: read-write access</a>](https://vigilance.fr/vulnerability/Drupal-Protected-Pages-read-write-access-41032)|An attacker can bypass access restrictions of Drupal Protected Pages, in order to read or alter data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Nexcloud-Desktop-Cross-Site-Scripting-via-Qml-Labels-41031" class="noirorange"><b>Nexcloud Desktop</b>: Cross Site Scripting via Qml Labels</a>](https://vigilance.fr/vulnerability/Nexcloud-Desktop-Cross-Site-Scripting-via-Qml-Labels-41031)|An attacker can trigger a Cross Site Scripting of Nexcloud Desktop, via Qml Labels, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Nexcloud-Desktop-four-vulnerabilities-41030" class="noirorange"><b>Nexcloud Desktop</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Nexcloud-Desktop-four-vulnerabilities-41030)|An attacker can use several vulnerabilities of Nexcloud Desktop...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/NTP-org-four-vulnerabilities-via-mstolfp-41029" class="noirorange"><b>NTP.org</b>: four vulnerabilities via mstolfp</a>](https://vigilance.fr/vulnerability/NTP-org-four-vulnerabilities-via-mstolfp-41029)|An attacker can use several vulnerabilities of NTP.org, via mstolfp...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/NTP-org-buffer-overflow-via-praecis-parse-41028" class="noirorange"><b>NTP.org</b>: buffer overflow via praecis_parse()</a>](https://vigilance.fr/vulnerability/NTP-org-buffer-overflow-via-praecis-parse-41028)|An attacker can trigger a buffer overflow of NTP.org, via praecis_parse(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
 
 # MA-CERT
@@ -128,4 +128,48 @@
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230411)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, security restriction bypass, sensitive information disclosure, spoofing and data manipulation on the targeted system.|Release Date: 11 Apr 2023|
  |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230403)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, data manipulation and security restriction bypass on the targeted system. [Updated on 2023-04-...| Release Date: 3 Apr 2023 |
  |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20230406)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure and remote code execution on the targeted system.|Release Date: 6 Apr 2023|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Drupal security advisory (AV23-209)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av23-209)|Visit link for details|2023-04-12|
+ |[Adobe security advisory (AV23-208)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av23-208)|Visit link for details|2023-04-12|
+ |[Novi Survey security advisory (AV23-207)](https://www.cyber.gc.ca/en/alerts-advisories/novi-survey-security-advisory-av23-207)|Visit link for details|2023-04-11|
+ |[Microsoft security advisory – April 2023 monthly rollup (AV23-206)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-april-2023-monthly-rollup-av23-206)|Visit link for details|2023-04-11|
+ |[Fortinet security advisory (AV23-205)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av23-205)|Visit link for details|2023-04-11|
+ |[SAP security advisory – April 2023 monthly rollup (AV23-204)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-april-2023-monthly-rollup-av23-204)|Visit link for details|2023-04-11|
+ |[Mozilla Security Advisory (AV23-203)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av23-203)|Visit link for details|2023-04-11|
+ |[[Control systems] Schneider Electric security advisory (AV23-202)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av23-202)|Visit link for details|2023-04-11|
+ |[[Control systems] Siemens security advisory (AV23-201)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av23-201)|Visit link for details|2023-04-11|
+ |[Dell security advisory (AV23-200)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-200)|Visit link for details|2023-04-11|
+ |[IBM security advisory (AV23-199)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-199)|Visit link for details|2023-04-11|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[OpenCATS cross-site request forgery (CVE-2023-26845)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 12, 2023|
+ |[OpenCATS cross-site scripting (CVE-2023-26846)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 12, 2023|
+ |[OpenCATS cross-site scripting (CVE-2023-26847)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 12, 2023|
+ |[Protected Pages module for Drupal security bypass](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 12, 2023|
+ |[Juniper Networks Junos OS security bypass (CVE-2023-28979)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 12, 2023|
+ |[Juniper Networks Junos OS denial of service (CVE-2023-28976)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 12, 2023|
+ |[Juniper Networks Junos OS denial of service (CVE-2023-28975)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 12, 2023|
  

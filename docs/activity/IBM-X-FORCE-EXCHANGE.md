@@ -4,11 +4,11 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Linux Kernel privilege escalation (CVE-2023-1829)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 12, 2023|
- |[Fortinet FortiClient (Windows) code execution (CVE-2022-40682)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 11, 2023|
- |[Fortinet FortiADC, Fortinet FortiDDoS, and Fortinet FortiDDoS-F command execution (CVE-2022-40679)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 11, 2023|
- |[Fortinet FortiNAC information disclosure (CVE-2022-43951)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 11, 2023|
- |[Fortinet FortiSOAR code execution (CVE-2023-27995)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 11, 2023|
- |[Fortinet FortiClient (Mac) privilege escalation (CVE-2023-22635)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 11, 2023|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 11, 2023|
+ |[OpenCATS cross-site request forgery (CVE-2023-26845)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 12, 2023|
+ |[OpenCATS cross-site scripting (CVE-2023-26846)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 12, 2023|
+ |[OpenCATS cross-site scripting (CVE-2023-26847)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 12, 2023|
+ |[Protected Pages module for Drupal security bypass](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 12, 2023|
+ |[Juniper Networks Junos OS security bypass (CVE-2023-28979)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 12, 2023|
+ |[Juniper Networks Junos OS denial of service (CVE-2023-28976)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 12, 2023|
+ |[Juniper Networks Junos OS denial of service (CVE-2023-28975)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 12, 2023|
  
