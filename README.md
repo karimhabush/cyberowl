@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 13/04/2023 05:16:24 UTC
+ > Last Updated 13/04/2023 06:22:00 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,12 +57,6 @@
  |[Vulnérabilité dans LemonLDAP-NG](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0300/)|Une vulnérabilité a été découverte dans LemonLDAP-NG. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 12 avril 2023|
  
 
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -78,6 +72,12 @@
  |[<a href="https://vigilance.fr/vulnerability/Nexcloud-Desktop-four-vulnerabilities-41030" class="noirorange"><b>Nexcloud Desktop</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Nexcloud-Desktop-four-vulnerabilities-41030)|An attacker can use several vulnerabilities of Nexcloud Desktop...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/NTP-org-four-vulnerabilities-via-mstolfp-41029" class="noirorange"><b>NTP.org</b>: four vulnerabilities via mstolfp</a>](https://vigilance.fr/vulnerability/NTP-org-four-vulnerabilities-via-mstolfp-41029)|An attacker can use several vulnerabilities of NTP.org, via mstolfp...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/NTP-org-buffer-overflow-via-praecis-parse-41028" class="noirorange"><b>NTP.org</b>: buffer overflow via praecis_parse()</a>](https://vigilance.fr/vulnerability/NTP-org-buffer-overflow-via-praecis-parse-41028)|An attacker can trigger a buffer overflow of NTP.org, via praecis_parse(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # EU-CERT
