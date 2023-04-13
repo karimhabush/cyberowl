@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 13/04/2023 09:17:16 UTC
+ > Last Updated 13/04/2023 10:18:28 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,12 +57,6 @@
  |[Vulnérabilité dans LemonLDAP-NG](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0300/)|Une vulnérabilité a été découverte dans LemonLDAP-NG. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 12 avril 2023|
  
 
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -80,10 +74,18 @@
  |[2023-010: Severe Vulnerabilities in Citrix Workspace, Virtual Apps and Desktops](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-010.pdf)|On February 14, 2023, Citrix released Security Bulletins regarding severe vulnerabilities affecting its Citrix Workspace, Virtual Apps and Desktops. If exploited, these vulnerabilities could enable attackers to elevate their privileges and take control of the affected system, but they need local access to the target.|Thursday, February 16, 2023 11:00:00 AM CET|
  
 
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-io-file-get-fixed-41042" class="noirorange"><b>Linux kernel</b>: reuse after free via io_file_get_fixed()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-io-file-get-fixed-41042)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-ndlc-remove-41041" class="noirorange"><b>Linux kernel</b>: reuse after free via ndlc_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-ndlc-remove-41041)|An attacker can force the reuse of a freed memory area of the Linux kernel, via ndlc_remove(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/polkit-privilege-escalation-via-etc-polkit-1-rules-d-41040" class="noirorange"><b>polkit</b>: privilege escalation via /etc/polkit-1/rules.d</a>](https://vigilance.fr/vulnerability/polkit-privilege-escalation-via-etc-polkit-1-rules-d-41040)|An attacker can bypass restrictions of polkit, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/PowerDNS-Recursor-denial-of-service-via-Unavailable-Authoritative-Servers-41039" class="noirorange"><b>PowerDNS Recursor</b>: denial of service via Unavailable Authoritative Servers</a>](https://vigilance.fr/vulnerability/PowerDNS-Recursor-denial-of-service-via-Unavailable-Authoritative-Servers-41039)|An attacker can cause a fatal error of PowerDNS Recursor, via Unavailable Authoritative Servers, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/PAN-OS-information-disclosure-41038" class="noirorange"><b>PAN-OS</b>: information disclosure</a>](https://vigilance.fr/vulnerability/PAN-OS-information-disclosure-41038)|An attacker can bypass access restrictions to data of PAN-OS, in order to read sensitive information...|Visit link for details|
@@ -93,8 +95,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Junos-OS-multiple-vulnerabilities-of-April-2023-41034" class="noirorange"><b>Junos OS</b>: multiple vulnerabilities of April 2023</a>](https://vigilance.fr/vulnerability/Junos-OS-multiple-vulnerabilities-of-April-2023-41034)|An attacker can use several vulnerabilities of Junos OS...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-41033" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-41033)|An attacker can use several vulnerabilities of Jenkins Plugins...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-Protected-Pages-read-write-access-41032" class="noirorange"><b>Drupal Protected Pages</b>: read-write access</a>](https://vigilance.fr/vulnerability/Drupal-Protected-Pages-read-write-access-41032)|An attacker can bypass access restrictions of Drupal Protected Pages, in order to read or alter data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Nexcloud-Desktop-Cross-Site-Scripting-via-Qml-Labels-41031" class="noirorange"><b>Nexcloud Desktop</b>: Cross Site Scripting via Qml Labels</a>](https://vigilance.fr/vulnerability/Nexcloud-Desktop-Cross-Site-Scripting-via-Qml-Labels-41031)|An attacker can trigger a Cross Site Scripting of Nexcloud Desktop, via Qml Labels, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Nexcloud-Desktop-four-vulnerabilities-41030" class="noirorange"><b>Nexcloud Desktop</b>: four vulnerabilities</a>](https://vigilance.fr/vulnerability/Nexcloud-Desktop-four-vulnerabilities-41030)|An attacker can use several vulnerabilities of Nexcloud Desktop...|Visit link for details|
  
 
 # MA-CERT
