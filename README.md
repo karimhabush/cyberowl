@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 13/04/2023 11:14:39 UTC
+ > Last Updated 13/04/2023 12:35:45 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -25,6 +25,22 @@
  
  > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans IBM AIX](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0313/)|De multiples vulnérabilités ont été découvertes dans IBM AIX. Elles permettent à un attaquant de provoquer une exécution de code arbitraire.|Publié le 13 avril 2023|
+ |[Vulnérabilité dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0312/)|Une vulnérabilité a été découverte dans Wireshark. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 13 avril 2023|
+ |[Multiples vulnérabilités dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0311/)|De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 13 avril 2023|
+ |[Multiples vulnérabilités dans les produits Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0310/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 13 avril 2023|
+ |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0309/)|De multiples vulnérabilités ont été corrigées dans |Publié le 12 avril 2023|
+ |[Multiples vulnérabilités dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0308/)|De multiples vulnérabilités ont été corrigées dans |Publié le 12 avril 2023|
+ |[Vulnérabilité dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0307/)|Une vulnérabilité a été corrigée dans |Publié le 12 avril 2023|
+ |[Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0306/)|De multiples vulnérabilités ont été corrigées dans |Publié le 12 avril 2023|
+ |[Multiples vulnérabilités dans Microsoft Office](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0305/)|De multiples vulnérabilités ont été corrigées dans |Publié le 12 avril 2023|
+ |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0304/)|De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 12 avril 2023|
+ 
+
 # US-CERT
 
  |Title|Description|Date|
@@ -41,43 +57,10 @@
  |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/04/10/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Apr 10, 2023|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0309/)|De multiples vulnérabilités ont été corrigées dans |Publié le 12 avril 2023|
- |[Multiples vulnérabilités dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0308/)|De multiples vulnérabilités ont été corrigées dans |Publié le 12 avril 2023|
- |[Vulnérabilité dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0307/)|Une vulnérabilité a été corrigée dans |Publié le 12 avril 2023|
- |[Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0306/)|De multiples vulnérabilités ont été corrigées dans |Publié le 12 avril 2023|
- |[Multiples vulnérabilités dans Microsoft Office](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0305/)|De multiples vulnérabilités ont été corrigées dans |Publié le 12 avril 2023|
- |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0304/)|De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 12 avril 2023|
- |[Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0303/)|De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 12 avril 2023|
- |[Multiples vulnérabilités dans Adobe Acrobat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0302/)|De multiples vulnérabilités ont été découvertes dans |Publié le 12 avril 2023|
- |[Multiples vulnérabilités dans les produits SAP](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0301/)|De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 12 avril 2023|
- |[Vulnérabilité dans LemonLDAP-NG](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0300/)|Une vulnérabilité a été découverte dans LemonLDAP-NG. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 12 avril 2023|
- 
-
 # VulDB
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-io-file-get-fixed-41042" class="noirorange"><b>Linux kernel</b>: reuse after free via io_file_get_fixed()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-io-file-get-fixed-41042)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-ndlc-remove-41041" class="noirorange"><b>Linux kernel</b>: reuse after free via ndlc_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-ndlc-remove-41041)|An attacker can force the reuse of a freed memory area of the Linux kernel, via ndlc_remove(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/polkit-privilege-escalation-via-etc-polkit-1-rules-d-41040" class="noirorange"><b>polkit</b>: privilege escalation via /etc/polkit-1/rules.d</a>](https://vigilance.fr/vulnerability/polkit-privilege-escalation-via-etc-polkit-1-rules-d-41040)|An attacker can bypass restrictions of polkit, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PowerDNS-Recursor-denial-of-service-via-Unavailable-Authoritative-Servers-41039" class="noirorange"><b>PowerDNS Recursor</b>: denial of service via Unavailable Authoritative Servers</a>](https://vigilance.fr/vulnerability/PowerDNS-Recursor-denial-of-service-via-Unavailable-Authoritative-Servers-41039)|An attacker can cause a fatal error of PowerDNS Recursor, via Unavailable Authoritative Servers, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PAN-OS-information-disclosure-41038" class="noirorange"><b>PAN-OS</b>: information disclosure</a>](https://vigilance.fr/vulnerability/PAN-OS-information-disclosure-41038)|An attacker can bypass access restrictions to data of PAN-OS, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PAN-OS-file-deletion-41037" class="noirorange"><b>PAN-OS</b>: file deletion</a>](https://vigilance.fr/vulnerability/PAN-OS-file-deletion-41037)|An attacker can bypass access restrictions of PAN-OS, in order to delete a file...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/AIX-privilege-escalation-via-invscout-41036" class="noirorange"><b>AIX</b>: privilege escalation via invscout</a>](https://vigilance.fr/vulnerability/AIX-privilege-escalation-via-invscout-41036)|An attacker can bypass restrictions of AIX, via invscout, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/AIX-privilege-escalation-via-librts-41035" class="noirorange"><b>AIX</b>: privilege escalation via librts</a>](https://vigilance.fr/vulnerability/AIX-privilege-escalation-via-librts-41035)|An attacker can bypass restrictions of AIX, via librts, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Junos-OS-multiple-vulnerabilities-of-April-2023-41034" class="noirorange"><b>Junos OS</b>: multiple vulnerabilities of April 2023</a>](https://vigilance.fr/vulnerability/Junos-OS-multiple-vulnerabilities-of-April-2023-41034)|An attacker can use several vulnerabilities of Junos OS...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-41033" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-41033)|An attacker can use several vulnerabilities of Jenkins Plugins...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Protected-Pages-read-write-access-41032" class="noirorange"><b>Drupal Protected Pages</b>: read-write access</a>](https://vigilance.fr/vulnerability/Drupal-Protected-Pages-read-write-access-41032)|An attacker can bypass access restrictions of Drupal Protected Pages, in order to read or alter data...|Visit link for details|
  
 
 # EU-CERT
@@ -95,6 +78,36 @@
  |[2023-012: RCE vulnerabilities in Fortinet products](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-012.pdf)|On February 16, 2023, Fortinet released advisories regarding critical vulnerabilities in FortiNAC and FortiWeb products that may allow unauthenticated attackers to perform remote arbitrary code or command execution.|Monday, February 20, 2023 03:40:00 PM CET|
  |[2023-011: ClamAV critical vulnerability](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-011.pdf)|On February 15th, 2023, ClamAV informed about a critical vulnerability in the cross-platform antimalware toolkit. The vulnerability is identified as CVE-2023-20032 and could lead to remote code execution.|Monday, February 20, 2023 03:40:00 PM CET|
  |[2023-010: Severe Vulnerabilities in Citrix Workspace, Virtual Apps and Desktops](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-010.pdf)|On February 14, 2023, Citrix released Security Bulletins regarding severe vulnerabilities affecting its Citrix Workspace, Virtual Apps and Desktops. If exploited, these vulnerabilities could enable attackers to elevate their privileges and take control of the affected system, but they need local access to the target.|Thursday, February 16, 2023 11:00:00 AM CET|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[OpenCATS cross-site request forgery (CVE-2023-26845)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 12, 2023|
+ |[OpenCATS cross-site scripting (CVE-2023-26846)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 12, 2023|
+ |[OpenCATS cross-site scripting (CVE-2023-26847)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 12, 2023|
+ |[Autodesk Maya code execution (CVE-2023-27907)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 12, 2023|
+ |[Autodesk Maya code execution (CVE-2023-27906)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 12, 2023|
+ |[Autodesk Maya information disclosure (CVE-2023-25010)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 12, 2023|
+ |[ManageEngine ADManager Plus command execution (CVE-2023-29084)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 12, 2023|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-io-file-get-fixed-41042" class="noirorange"><b>Linux kernel</b>: reuse after free via io_file_get_fixed()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-io-file-get-fixed-41042)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-ndlc-remove-41041" class="noirorange"><b>Linux kernel</b>: reuse after free via ndlc_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-ndlc-remove-41041)|An attacker can force the reuse of a freed memory area of the Linux kernel, via ndlc_remove(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/polkit-privilege-escalation-via-etc-polkit-1-rules-d-41040" class="noirorange"><b>polkit</b>: privilege escalation via /etc/polkit-1/rules.d</a>](https://vigilance.fr/vulnerability/polkit-privilege-escalation-via-etc-polkit-1-rules-d-41040)|An attacker can bypass restrictions of polkit, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PowerDNS-Recursor-denial-of-service-via-Unavailable-Authoritative-Servers-41039" class="noirorange"><b>PowerDNS Recursor</b>: denial of service via Unavailable Authoritative Servers</a>](https://vigilance.fr/vulnerability/PowerDNS-Recursor-denial-of-service-via-Unavailable-Authoritative-Servers-41039)|An attacker can cause a fatal error of PowerDNS Recursor, via Unavailable Authoritative Servers, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PAN-OS-information-disclosure-41038" class="noirorange"><b>PAN-OS</b>: information disclosure</a>](https://vigilance.fr/vulnerability/PAN-OS-information-disclosure-41038)|An attacker can bypass access restrictions to data of PAN-OS, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PAN-OS-file-deletion-41037" class="noirorange"><b>PAN-OS</b>: file deletion</a>](https://vigilance.fr/vulnerability/PAN-OS-file-deletion-41037)|An attacker can bypass access restrictions of PAN-OS, in order to delete a file...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/AIX-privilege-escalation-via-invscout-41036" class="noirorange"><b>AIX</b>: privilege escalation via invscout</a>](https://vigilance.fr/vulnerability/AIX-privilege-escalation-via-invscout-41036)|An attacker can bypass restrictions of AIX, via invscout, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/AIX-privilege-escalation-via-librts-41035" class="noirorange"><b>AIX</b>: privilege escalation via librts</a>](https://vigilance.fr/vulnerability/AIX-privilege-escalation-via-librts-41035)|An attacker can bypass restrictions of AIX, via librts, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Junos-OS-multiple-vulnerabilities-of-April-2023-41034" class="noirorange"><b>Junos OS</b>: multiple vulnerabilities of April 2023</a>](https://vigilance.fr/vulnerability/Junos-OS-multiple-vulnerabilities-of-April-2023-41034)|An attacker can use several vulnerabilities of Junos OS...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-41033" class="noirorange"><b>Jenkins Plugins</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Jenkins-Plugins-multiple-vulnerabilities-41033)|An attacker can use several vulnerabilities of Jenkins Plugins...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Protected-Pages-read-write-access-41032" class="noirorange"><b>Drupal Protected Pages</b>: read-write access</a>](https://vigilance.fr/vulnerability/Drupal-Protected-Pages-read-write-access-41032)|An attacker can bypass access restrictions of Drupal Protected Pages, in order to read or alter data...|Visit link for details|
  
 
 # MA-CERT
@@ -128,4 +141,27 @@
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230411)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, security restriction bypass, sensitive information disclosure, spoofing and data manipulation on the targeted system.|Release Date: 11 Apr 2023|
  |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230403)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, data manipulation and security restriction bypass on the targeted system. [Updated on 2023-04-...| Release Date: 3 Apr 2023 |
  |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20230406)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure and remote code execution on the targeted system.|Release Date: 6 Apr 2023|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Drupal security advisory (AV23-209)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av23-209)|Visit link for details|2023-04-12|
+ |[Adobe security advisory (AV23-208)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av23-208)|Visit link for details|2023-04-12|
+ |[Novi Survey security advisory (AV23-207)](https://www.cyber.gc.ca/en/alerts-advisories/novi-survey-security-advisory-av23-207)|Visit link for details|2023-04-11|
+ |[Microsoft security advisory – April 2023 monthly rollup (AV23-206)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-april-2023-monthly-rollup-av23-206)|Visit link for details|2023-04-11|
+ |[Fortinet security advisory (AV23-205)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av23-205)|Visit link for details|2023-04-11|
+ |[SAP security advisory – April 2023 monthly rollup (AV23-204)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-april-2023-monthly-rollup-av23-204)|Visit link for details|2023-04-11|
+ |[Mozilla Security Advisory (AV23-203)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av23-203)|Visit link for details|2023-04-11|
+ |[[Control systems] Schneider Electric security advisory (AV23-202)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av23-202)|Visit link for details|2023-04-11|
+ |[[Control systems] Siemens security advisory (AV23-201)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av23-201)|Visit link for details|2023-04-11|
+ |[Dell security advisory (AV23-200)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-200)|Visit link for details|2023-04-11|
+ |[IBM security advisory (AV23-199)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-199)|Visit link for details|2023-04-11|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
  
