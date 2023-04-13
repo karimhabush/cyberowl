@@ -4,6 +4,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[[Control Systems] FANUC security advisory (AV23-210)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-fanuc-security-advisory-av23-210)|Visit link for details|2023-04-13|
  |[Drupal security advisory (AV23-209)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av23-209)|Visit link for details|2023-04-12|
  |[Adobe security advisory (AV23-208)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av23-208)|Visit link for details|2023-04-12|
  |[Novi Survey security advisory (AV23-207)](https://www.cyber.gc.ca/en/alerts-advisories/novi-survey-security-advisory-av23-207)|Visit link for details|2023-04-11|
@@ -14,5 +15,4 @@
  |[[Control systems] Schneider Electric security advisory (AV23-202)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av23-202)|Visit link for details|2023-04-11|
  |[[Control systems] Siemens security advisory (AV23-201)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av23-201)|Visit link for details|2023-04-11|
  |[Dell security advisory (AV23-200)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-200)|Visit link for details|2023-04-11|
- |[IBM security advisory (AV23-199)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-199)|Visit link for details|2023-04-11|
  
