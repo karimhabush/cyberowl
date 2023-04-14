@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 14/04/2023 03:18:14 UTC
+ > Last Updated 14/04/2023 04:21:14 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -41,19 +41,6 @@
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/04/11/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Apr 11, 2023|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Mitsubishi Electric GC-ENET-COM denial of service (CVE-2023-1285)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 13, 2023|
- |[Palo Alto Networks GlobalProtect app for Windows security bypass (CVE-2023-0006)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 13, 2023|
- |[Palo Alto Networks PAN-OS information disclosure (CVE-2023-0005)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 13, 2023|
- |[Palo Alto Networks PAN-OS security bypass (CVE-2023-0004)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 13, 2023|
- |[OpenCATS cross-site request forgery (CVE-2023-26845)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 12, 2023|
- |[OpenCATS cross-site scripting (CVE-2023-26846)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 12, 2023|
- |[OpenCATS cross-site scripting (CVE-2023-26847)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 12, 2023|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -68,6 +55,35 @@
  |[Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0306/)|De multiples vulnérabilités ont été corrigées dans |Publié le 12 avril 2023|
  |[Multiples vulnérabilités dans Microsoft Office](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0305/)|De multiples vulnérabilités ont été corrigées dans |Publié le 12 avril 2023|
  |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0304/)|De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 12 avril 2023|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230411)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2023-04-13] Updated System...| Release Date: 11 Apr 2023 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230403)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, data manipulation and security restriction bypass on the targeted system. [Updated on 2023-04-...| Release Date: 3 Apr 2023 |
+ |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20230413)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, data manipulation and cross-site scripting on the targeted system.|Release Date: 13 Apr 2023|
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230406)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-04-13] Updated System / Technologies affected, ...| Release Date: 6 Apr 2023 |
+ |[Adobe Monthly Security Update (April 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-april-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Digital Editions Medium RiskRemote Code Execution APSB23-04Adobe InCopy Medium RiskRemote Code Execution ...|Release Date: 12 Apr 2023|
+ |[Microsoft Monthly Security Update (April 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-april-2023)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesBrowser Medium RiskSecurity Restriction BypassSpoofingData Manipulation Windows Medium RiskRemote Code ExecutionInformation DisclosureDenial of Service...|Release Date: 12 Apr 2023|
+ |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20230412)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 12 Apr 2023|
+ |[Apple Products Remote Code Execution Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-remote-code-execution-vulnerabilities_20230411)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system. Note:CVE-2023-28205 and CVE-2023-28206 are being exploited in the wild. These...|Release Date: 11 Apr 2023|
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230411)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, security restriction bypass, sensitive information disclosure, spoofing and data manipulation on the targeted system.|Release Date: 11 Apr 2023|
+ |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20230406)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure and remote code execution on the targeted system.|Release Date: 6 Apr 2023|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Mitsubishi Electric GC-ENET-COM denial of service (CVE-2023-1285)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 13, 2023|
+ |[Palo Alto Networks GlobalProtect app for Windows security bypass (CVE-2023-0006)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 13, 2023|
+ |[Palo Alto Networks PAN-OS information disclosure (CVE-2023-0005)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 13, 2023|
+ |[Palo Alto Networks PAN-OS security bypass (CVE-2023-0004)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 13, 2023|
+ |[OpenCATS cross-site request forgery (CVE-2023-26845)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 12, 2023|
+ |[OpenCATS cross-site scripting (CVE-2023-26846)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 12, 2023|
+ |[OpenCATS cross-site scripting (CVE-2023-26847)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 12, 2023|
  
 
 # VulDB
@@ -125,22 +141,6 @@
  |[41321204/23 - Vulnérabilités dans les produits Microsoft SQL Server (Patch Tuesday Avril 2023)](https://www.dgssi.gov.ma//fr/content/4132120423-vulnerabilites-dans-les-produits-microsoft-sql-server-patch-tuesday-avril-2023.html)|Plusieurs vulnérabilités ont été corrigées dans les versions de Microsoft SQL Server susmentionnées. L’exploitation de ces failles permet à un attaquant de contourner la politique de sécurité ou de porter atteinte à la confidentialité des...|12 avril 2023|
  |[41311204/23 - Vulnérabilités dans les produits Microsoft Azure (Patch Tuesday Avril 2023)](https://www.dgssi.gov.ma//fr/content/4131120423-vulnerabilites-dans-les-produits-microsoft-azure-patch-tuesday-avril-2023.html)|Deux vulnérabilités ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de contourner la politique de sécurité ou de porter atteinte à la confidentialité des données.|12 avril 2023|
  |[41301204/23 - Vulnérabilités critiques dans Microsoft Windows (Patch Tuesday Avril 2023)](https://www.dgssi.gov.ma//fr/content/4130120423-vulnerabilites-critiques-dans-microsoft-windows-patch-tuesday-avril-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques dans lessystèmes d’exploitation Windows susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de divulguer des informations confidentielles, d’...|12 avril 2023|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230411)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2023-04-13] Updated System...| Release Date: 11 Apr 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230403)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, data manipulation and security restriction bypass on the targeted system. [Updated on 2023-04-...| Release Date: 3 Apr 2023 |
- |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20230413)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, data manipulation and cross-site scripting on the targeted system.|Release Date: 13 Apr 2023|
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230406)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-04-13] Updated System / Technologies affected, ...| Release Date: 6 Apr 2023 |
- |[Adobe Monthly Security Update (April 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-april-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Digital Editions Medium RiskRemote Code Execution APSB23-04Adobe InCopy Medium RiskRemote Code Execution ...|Release Date: 12 Apr 2023|
- |[Microsoft Monthly Security Update (April 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-april-2023)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesBrowser Medium RiskSecurity Restriction BypassSpoofingData Manipulation Windows Medium RiskRemote Code ExecutionInformation DisclosureDenial of Service...|Release Date: 12 Apr 2023|
- |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20230412)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 12 Apr 2023|
- |[Apple Products Remote Code Execution Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-remote-code-execution-vulnerabilities_20230411)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system. Note:CVE-2023-28205 and CVE-2023-28206 are being exploited in the wild. These...|Release Date: 11 Apr 2023|
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230411)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, security restriction bypass, sensitive information disclosure, spoofing and data manipulation on the targeted system.|Release Date: 11 Apr 2023|
- |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20230406)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure and remote code execution on the targeted system.|Release Date: 6 Apr 2023|
  
 
 # CA-CCS
