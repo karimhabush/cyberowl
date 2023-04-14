@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 14/04/2023 09:16:59 UTC
+ > Last Updated 14/04/2023 10:18:21 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -41,22 +41,6 @@
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/04/11/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Apr 11, 2023|
  
 
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230411)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2023-04-13] Updated System...| Release Date: 11 Apr 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230403)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, data manipulation and security restriction bypass on the targeted system. [Updated on 2023-04-...| Release Date: 3 Apr 2023 |
- |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20230413)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, data manipulation and cross-site scripting on the targeted system.|Release Date: 13 Apr 2023|
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230406)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-04-13] Updated System / Technologies affected, ...| Release Date: 6 Apr 2023 |
- |[Adobe Monthly Security Update (April 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-april-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Digital Editions Medium RiskRemote Code Execution APSB23-04Adobe InCopy Medium RiskRemote Code Execution ...|Release Date: 12 Apr 2023|
- |[Microsoft Monthly Security Update (April 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-april-2023)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesBrowser Medium RiskSecurity Restriction BypassSpoofingData Manipulation Windows Medium RiskRemote Code ExecutionInformation DisclosureDenial of Service...|Release Date: 12 Apr 2023|
- |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20230412)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 12 Apr 2023|
- |[Apple Products Remote Code Execution Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-remote-code-execution-vulnerabilities_20230411)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system. Note:CVE-2023-28205 and CVE-2023-28206 are being exploited in the wild. These...|Release Date: 11 Apr 2023|
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230411)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, security restriction bypass, sensitive information disclosure, spoofing and data manipulation on the targeted system.|Release Date: 11 Apr 2023|
- |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20230406)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure and remote code execution on the targeted system.|Release Date: 6 Apr 2023|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -71,56 +55,6 @@
  |[Multiples vulnérabilités dans Microsoft Windows](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0306/)|De multiples vulnérabilités ont été corrigées dans |Publié le 12 avril 2023|
  |[Multiples vulnérabilités dans Microsoft Office](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0305/)|De multiples vulnérabilités ont été corrigées dans |Publié le 12 avril 2023|
  |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0304/)|De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 12 avril 2023|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[shadow-maint shadow-utils security bypass](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 13, 2023|
- |[Linux Kernel denial of service (CVE-2023-2019)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 13, 2023|
- |[Linux Kernel privilege escalation (CVE-2023-2008)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 13, 2023|
- |[Linux Kernel information disclosure (CVE-2023-2007)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 13, 2023|
- |[Linux Kernel privilege escalation (CVE-2023-2006)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 13, 2023|
- |[Mitsubishi Electric GC-ENET-COM denial of service (CVE-2023-1285)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 13, 2023|
- |[Palo Alto Networks GlobalProtect app for Windows security bypass (CVE-2023-0006)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 13, 2023|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2023-020: Remote Code Execution vulnerability in Windows HTTP protocol stack](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-020.pdf)|On March 14, 2023, Microsoft released a security fix for a vulnerability (CVE-2023-23392) in the HTTP/3 protocol stack of Microsoft Windows Server 2022 and Windows 11 systems. This vulnerability allows a remote attacker to execute arbitrary code. Microsoft expects this vulnerability likely to be exploited soon.|Wednesday, March 15, 2023 11:30:00 AM CET|
- |[2023-019: Several Critical Vulnerabilities in SAP Products](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-019.pdf)|On March 14, 2023, SAP released 19 patches for various products which contain five critical severity fixes for SAP Business Objects Business Intelligence Platform (CMC) and SAP NetWeaver:|Wednesday, March 15, 2023 11:30:00 AM CET|
- |[2023-018: Microsoft Outlook Elevation of Privilege Vulnerability](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-018.pdf)|On March 14, 2023, Microsoft released a security fix for an elevation of privilege vulnerability (CVE-2023-23397) in Microsoft Outlook. A specially crafted e-mail can trigger the vulnerability automatically when it is retrieved and processed by the Outlook client. Such an e-mail could lead to exploitation before the e-mail is viewed in the Preview Pane and allows an attacker to steal credential hashes by forcing the targets' devices to authenticate to an attacker-controlled server. The Computer Emergency Response Team for Ukraine (CERT-UA) reported the vulnerability to Microsoft. Based on Microsoft Threat Intelligence, a Russia-based threat actor used it in attacks to target and breach the network of several governments, military, energy, and transportation organisations in Europe between April and December 2022. They used the stolen hashes for lateral movement within the victims' networks and to change Outlook mailbox folder permissions for e-mail exfiltration. Online services such as Microsoft 365 do not support NTLM authentication and are not vulnerable to being attacked by these messages.|Wednesday, March 15, 2023 11:30:00 AM CET|
- |[2023-017: Severe Vulnerabilities in Jenkins Products](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-017.pdf)|On March 8, 2023, Jenkins released advisories regarding 2 severe security vulnerabilities in Jenkins server and Update Center. These vulnerabilities are identified by CVE-2023-27898 and CVE-2023-27905 and could allow an unauthenticated attacker to execute arbitrary code on the victim's Jenkins server, potentially leading to a complete compromise of the Jenkins server. Furthermore, these vulnerabilities could be exploited even if the Jenkins server is not directly reachable by attackers and could also impact self-hosted Jenkins servers.|Thursday, March 09, 2023 05:40:00 PM CET|
- |[2023-016: High Vulnerability in Veeam Backup & Replication](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-016.pdf)|On March 8, 2023, Veeam released a new security advisory revealing one high vulnerability in a Veeam Backup & Replication component. This vulnerability is identified by CVE-2023-27532 (CVSS score of 7.5) and it may allow an attacker to obtain encrypted credentials stored in the configuration database. This may lead to gaining access to the backup infrastructure hosts. It is highly recommended installing the latest version.|Thursday, March 09, 2023 05:30:00 PM CET|
- |[2023-015: RCE Vulnerability in Fortinet Products](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-015.pdf)|On March 7, 2023, Fortinet released an advisory regarding one critical vulnerability in FortiOS and FortiProxy administrative interface. This vulnerability is identified as CVE-2023-25610 (CVSS score of 9.3) and it may allow remote unauthenticated attackers to execute arbitrary code on the device and/or to perform a DoS on the GUI. Fortinet is not aware of any instance where this vulnerability was exploited in the wild.|Wednesday, March 08, 2023 11:15:00 PM CET|
- |[2023-014: Critical Vulnerabilities in VMware Products](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-014.pdf)|On February 20, 2023, the MISP project team released advisories regarding 2 critical SQL injection vulnerabilities in MISP Threat Intelligence and Sharing Platform. The team decided to follow a silent fix procedure, releasing several updates in November and December 2022, giving enough time to users to update their instances to a safe version.|Tuesday, February 23, 2023 10:30:00 PM CET|
- |[2023-013: Critical SQL injection vulnerabilities in MISP](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-013.pdf)|On February 20, 2023, the MISP project team released advisories regarding 2 critical SQL injection vulnerabilities in MISP Threat Intelligence and Sharing Platform. The team decided to follow a silent fix procedure, releasing several updates in November and December 2022, giving enough time to users to update their instances to a safe version.|Tuesday, February 21, 2023 11:15:00 AM CET|
- |[2023-012: RCE vulnerabilities in Fortinet products](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-012.pdf)|On February 16, 2023, Fortinet released advisories regarding critical vulnerabilities in FortiNAC and FortiWeb products that may allow unauthenticated attackers to perform remote arbitrary code or command execution.|Monday, February 20, 2023 03:40:00 PM CET|
- |[2023-011: ClamAV critical vulnerability](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-011.pdf)|On February 15th, 2023, ClamAV informed about a critical vulnerability in the cross-platform antimalware toolkit. The vulnerability is identified as CVE-2023-20032 and could lead to remote code execution.|Monday, February 20, 2023 03:40:00 PM CET|
- |[2023-010: Severe Vulnerabilities in Citrix Workspace, Virtual Apps and Desktops](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-010.pdf)|On February 14, 2023, Citrix released Security Bulletins regarding severe vulnerabilities affecting its Citrix Workspace, Virtual Apps and Desktops. If exploited, these vulnerabilities could enable attackers to elevate their privileges and take control of the affected system, but they need local access to the target.|Thursday, February 16, 2023 11:00:00 AM CET|
  
 
 # OBS-Vigilance
@@ -140,21 +74,26 @@
  |[<a href="https://vigilance.fr/vulnerability/PHP-buffer-overflow-via-php-fgetcsv-41045" class="noirorange"><b>PHP</b>: buffer overflow via php_fgetcsv()</a>](https://vigilance.fr/vulnerability/PHP-buffer-overflow-via-php-fgetcsv-41045)|An attacker can trigger a buffer overflow of PHP, via php_fgetcsv(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
 
-# CA-CCS
+# VulDB
 
  |Title|Description|Date|
  |---|---|---|
- |[[Control Systems] FANUC security advisory (AV23-210)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-fanuc-security-advisory-av23-210)|Visit link for details|2023-04-13|
- |[Drupal security advisory (AV23-209)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av23-209)|Visit link for details|2023-04-12|
- |[Adobe security advisory (AV23-208)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av23-208)|Visit link for details|2023-04-12|
- |[Novi Survey security advisory (AV23-207)](https://www.cyber.gc.ca/en/alerts-advisories/novi-survey-security-advisory-av23-207)|Visit link for details|2023-04-11|
- |[Microsoft security advisory – April 2023 monthly rollup (AV23-206)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-april-2023-monthly-rollup-av23-206)|Visit link for details|2023-04-11|
- |[Fortinet security advisory (AV23-205)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av23-205)|Visit link for details|2023-04-11|
- |[SAP security advisory – April 2023 monthly rollup (AV23-204)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-april-2023-monthly-rollup-av23-204)|Visit link for details|2023-04-11|
- |[Mozilla Security Advisory (AV23-203)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av23-203)|Visit link for details|2023-04-11|
- |[[Control systems] Schneider Electric security advisory (AV23-202)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av23-202)|Visit link for details|2023-04-11|
- |[[Control systems] Siemens security advisory (AV23-201)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av23-201)|Visit link for details|2023-04-11|
- |[Dell security advisory (AV23-200)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-200)|Visit link for details|2023-04-11|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230411)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2023-04-13] Updated System...| Release Date: 11 Apr 2023 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230403)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, data manipulation and security restriction bypass on the targeted system. [Updated on 2023-04-...| Release Date: 3 Apr 2023 |
+ |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20230413)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, data manipulation and cross-site scripting on the targeted system.|Release Date: 13 Apr 2023|
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230406)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-04-13] Updated System / Technologies affected, ...| Release Date: 6 Apr 2023 |
+ |[Adobe Monthly Security Update (April 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-april-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Digital Editions Medium RiskRemote Code Execution APSB23-04Adobe InCopy Medium RiskRemote Code Execution ...|Release Date: 12 Apr 2023|
+ |[Microsoft Monthly Security Update (April 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-april-2023)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesBrowser Medium RiskSecurity Restriction BypassSpoofingData Manipulation Windows Medium RiskRemote Code ExecutionInformation DisclosureDenial of Service...|Release Date: 12 Apr 2023|
+ |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20230412)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 12 Apr 2023|
+ |[Apple Products Remote Code Execution Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-remote-code-execution-vulnerabilities_20230411)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system. Note:CVE-2023-28205 and CVE-2023-28206 are being exploited in the wild. These...|Release Date: 11 Apr 2023|
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230411)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, security restriction bypass, sensitive information disclosure, spoofing and data manipulation on the targeted system.|Release Date: 11 Apr 2023|
+ |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20230406)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure and remote code execution on the targeted system.|Release Date: 6 Apr 2023|
  
 
 # MA-CERT
@@ -172,4 +111,65 @@
  |[41321204/23 - Vulnérabilités dans les produits Microsoft SQL Server (Patch Tuesday Avril 2023)](https://www.dgssi.gov.ma//fr/content/4132120423-vulnerabilites-dans-les-produits-microsoft-sql-server-patch-tuesday-avril-2023.html)|Plusieurs vulnérabilités ont été corrigées dans les versions de Microsoft SQL Server susmentionnées. L’exploitation de ces failles permet à un attaquant de contourner la politique de sécurité ou de porter atteinte à la confidentialité des...|12 avril 2023|
  |[41311204/23 - Vulnérabilités dans les produits Microsoft Azure (Patch Tuesday Avril 2023)](https://www.dgssi.gov.ma//fr/content/4131120423-vulnerabilites-dans-les-produits-microsoft-azure-patch-tuesday-avril-2023.html)|Deux vulnérabilités ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles permet à un attaquant de contourner la politique de sécurité ou de porter atteinte à la confidentialité des données.|12 avril 2023|
  |[41301204/23 - Vulnérabilités critiques dans Microsoft Windows (Patch Tuesday Avril 2023)](https://www.dgssi.gov.ma//fr/content/4130120423-vulnerabilites-critiques-dans-microsoft-windows-patch-tuesday-avril-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques dans lessystèmes d’exploitation Windows susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de divulguer des informations confidentielles, d’...|12 avril 2023|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[shadow-maint shadow-utils security bypass](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 13, 2023|
+ |[Linux Kernel denial of service (CVE-2023-2019)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 13, 2023|
+ |[Linux Kernel privilege escalation (CVE-2023-2008)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 13, 2023|
+ |[Linux Kernel information disclosure (CVE-2023-2007)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 13, 2023|
+ |[Linux Kernel privilege escalation (CVE-2023-2006)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 13, 2023|
+ |[Mitsubishi Electric GC-ENET-COM denial of service (CVE-2023-1285)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 13, 2023|
+ |[Palo Alto Networks GlobalProtect app for Windows security bypass (CVE-2023-0006)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 13, 2023|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[[Control Systems] FANUC security advisory (AV23-210)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-fanuc-security-advisory-av23-210)|Visit link for details|2023-04-13|
+ |[Drupal security advisory (AV23-209)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av23-209)|Visit link for details|2023-04-12|
+ |[Adobe security advisory (AV23-208)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av23-208)|Visit link for details|2023-04-12|
+ |[Novi Survey security advisory (AV23-207)](https://www.cyber.gc.ca/en/alerts-advisories/novi-survey-security-advisory-av23-207)|Visit link for details|2023-04-11|
+ |[Microsoft security advisory – April 2023 monthly rollup (AV23-206)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-april-2023-monthly-rollup-av23-206)|Visit link for details|2023-04-11|
+ |[Fortinet security advisory (AV23-205)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av23-205)|Visit link for details|2023-04-11|
+ |[SAP security advisory – April 2023 monthly rollup (AV23-204)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-april-2023-monthly-rollup-av23-204)|Visit link for details|2023-04-11|
+ |[Mozilla Security Advisory (AV23-203)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av23-203)|Visit link for details|2023-04-11|
+ |[[Control systems] Schneider Electric security advisory (AV23-202)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av23-202)|Visit link for details|2023-04-11|
+ |[[Control systems] Siemens security advisory (AV23-201)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av23-201)|Visit link for details|2023-04-11|
+ |[Dell security advisory (AV23-200)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-200)|Visit link for details|2023-04-11|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2023-020: Remote Code Execution vulnerability in Windows HTTP protocol stack](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-020.pdf)|On March 14, 2023, Microsoft released a security fix for a vulnerability (CVE-2023-23392) in the HTTP/3 protocol stack of Microsoft Windows Server 2022 and Windows 11 systems. This vulnerability allows a remote attacker to execute arbitrary code. Microsoft expects this vulnerability likely to be exploited soon.|Wednesday, March 15, 2023 11:30:00 AM CET|
+ |[2023-019: Several Critical Vulnerabilities in SAP Products](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-019.pdf)|On March 14, 2023, SAP released 19 patches for various products which contain five critical severity fixes for SAP Business Objects Business Intelligence Platform (CMC) and SAP NetWeaver:|Wednesday, March 15, 2023 11:30:00 AM CET|
+ |[2023-018: Microsoft Outlook Elevation of Privilege Vulnerability](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-018.pdf)|On March 14, 2023, Microsoft released a security fix for an elevation of privilege vulnerability (CVE-2023-23397) in Microsoft Outlook. A specially crafted e-mail can trigger the vulnerability automatically when it is retrieved and processed by the Outlook client. Such an e-mail could lead to exploitation before the e-mail is viewed in the Preview Pane and allows an attacker to steal credential hashes by forcing the targets' devices to authenticate to an attacker-controlled server. The Computer Emergency Response Team for Ukraine (CERT-UA) reported the vulnerability to Microsoft. Based on Microsoft Threat Intelligence, a Russia-based threat actor used it in attacks to target and breach the network of several governments, military, energy, and transportation organisations in Europe between April and December 2022. They used the stolen hashes for lateral movement within the victims' networks and to change Outlook mailbox folder permissions for e-mail exfiltration. Online services such as Microsoft 365 do not support NTLM authentication and are not vulnerable to being attacked by these messages.|Wednesday, March 15, 2023 11:30:00 AM CET|
+ |[2023-017: Severe Vulnerabilities in Jenkins Products](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-017.pdf)|On March 8, 2023, Jenkins released advisories regarding 2 severe security vulnerabilities in Jenkins server and Update Center. These vulnerabilities are identified by CVE-2023-27898 and CVE-2023-27905 and could allow an unauthenticated attacker to execute arbitrary code on the victim's Jenkins server, potentially leading to a complete compromise of the Jenkins server. Furthermore, these vulnerabilities could be exploited even if the Jenkins server is not directly reachable by attackers and could also impact self-hosted Jenkins servers.|Thursday, March 09, 2023 05:40:00 PM CET|
+ |[2023-016: High Vulnerability in Veeam Backup & Replication](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-016.pdf)|On March 8, 2023, Veeam released a new security advisory revealing one high vulnerability in a Veeam Backup & Replication component. This vulnerability is identified by CVE-2023-27532 (CVSS score of 7.5) and it may allow an attacker to obtain encrypted credentials stored in the configuration database. This may lead to gaining access to the backup infrastructure hosts. It is highly recommended installing the latest version.|Thursday, March 09, 2023 05:30:00 PM CET|
+ |[2023-015: RCE Vulnerability in Fortinet Products](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-015.pdf)|On March 7, 2023, Fortinet released an advisory regarding one critical vulnerability in FortiOS and FortiProxy administrative interface. This vulnerability is identified as CVE-2023-25610 (CVSS score of 9.3) and it may allow remote unauthenticated attackers to execute arbitrary code on the device and/or to perform a DoS on the GUI. Fortinet is not aware of any instance where this vulnerability was exploited in the wild.|Wednesday, March 08, 2023 11:15:00 PM CET|
+ |[2023-014: Critical Vulnerabilities in VMware Products](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-014.pdf)|On February 20, 2023, the MISP project team released advisories regarding 2 critical SQL injection vulnerabilities in MISP Threat Intelligence and Sharing Platform. The team decided to follow a silent fix procedure, releasing several updates in November and December 2022, giving enough time to users to update their instances to a safe version.|Tuesday, February 23, 2023 10:30:00 PM CET|
+ |[2023-013: Critical SQL injection vulnerabilities in MISP](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-013.pdf)|On February 20, 2023, the MISP project team released advisories regarding 2 critical SQL injection vulnerabilities in MISP Threat Intelligence and Sharing Platform. The team decided to follow a silent fix procedure, releasing several updates in November and December 2022, giving enough time to users to update their instances to a safe version.|Tuesday, February 21, 2023 11:15:00 AM CET|
+ |[2023-012: RCE vulnerabilities in Fortinet products](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-012.pdf)|On February 16, 2023, Fortinet released advisories regarding critical vulnerabilities in FortiNAC and FortiWeb products that may allow unauthenticated attackers to perform remote arbitrary code or command execution.|Monday, February 20, 2023 03:40:00 PM CET|
+ |[2023-011: ClamAV critical vulnerability](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-011.pdf)|On February 15th, 2023, ClamAV informed about a critical vulnerability in the cross-platform antimalware toolkit. The vulnerability is identified as CVE-2023-20032 and could lead to remote code execution.|Monday, February 20, 2023 03:40:00 PM CET|
+ |[2023-010: Severe Vulnerabilities in Citrix Workspace, Virtual Apps and Desktops](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-010.pdf)|On February 14, 2023, Citrix released Security Bulletins regarding severe vulnerabilities affecting its Citrix Workspace, Virtual Apps and Desktops. If exploited, these vulnerabilities could enable attackers to elevate their privileges and take control of the affected system, but they need local access to the target.|Thursday, February 16, 2023 11:00:00 AM CET|
  
