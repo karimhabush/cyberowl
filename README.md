@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 15/04/2023 16:22:02 UTC
+ > Last Updated 15/04/2023 17:14:59 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -41,43 +41,23 @@
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/04/11/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Apr 11, 2023|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0317/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 avril 2023|
- |[Vulnérabilité dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0316/)|Une vulnérabilité a été découverte dans le noyau Linux de Red Hat. Elle permet à un attaquant de provoquer un déni de service et une élévation de privilèges.|Publié le 14 avril 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0315/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 avril 2023|
- |[Multiples vulnérabilités dans IBM Spectrum Scale](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0314/)|De multiples vulnérabilités ont été découvertes dans IBM Spectrum Scale. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 14 avril 2023|
- |[Multiples vulnérabilités dans IBM AIX](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0313/)|De multiples vulnérabilités ont été découvertes dans IBM AIX. Elles permettent à un attaquant de provoquer une exécution de code arbitraire.|Publié le 13 avril 2023|
- |[Vulnérabilité dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0312/)|Une vulnérabilité a été découverte dans Wireshark. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 13 avril 2023|
- |[Multiples vulnérabilités dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0311/)|De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 13 avril 2023|
- |[Multiples vulnérabilités dans les produits Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0310/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 13 avril 2023|
- |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0309/)|De multiples vulnérabilités ont été corrigées dans |Publié le 12 avril 2023|
- |[Multiples vulnérabilités dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0308/)|De multiples vulnérabilités ont été corrigées dans |Publié le 12 avril 2023|
- 
-
 # VulDB
 
  |Title|Description|Date|
  |---|---|---|
  
 
-# OBS-Vigilance
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Rails-Cross-Site-Scripting-via-MVC-Web-Application-41060" class="noirorange"><b>Rails</b>: Cross Site Scripting via MVC Web Application</a>](https://vigilance.fr/vulnerability/Rails-Cross-Site-Scripting-via-MVC-Web-Application-41060)|An attacker can trigger a Cross Site Scripting of Rails, via MVC Web Application, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-memory-corruption-via-V8-Type-Confusion-41059" class="noirorange"><b>Chrome</b>: memory corruption via V8 Type Confusion</a>](https://vigilance.fr/vulnerability/Chrome-memory-corruption-via-V8-Type-Confusion-41059)|An attacker can trigger a memory corruption of Chrome, via V8 Type Confusion, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Hyperium-Hyper-overload-via-max-header-list-size-41058" class="noirorange"><b>Hyperium Hyper</b>: overload via max_header_list_size</a>](https://vigilance.fr/vulnerability/Hyperium-Hyper-overload-via-max-header-list-size-41058)|An attacker can trigger an overload of Hyperium Hyper, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/mod-auth-openidc-NULL-pointer-dereference-via-OIDCStripCookies-41057" class="noirorange"><b>mod_auth_openidc</b>: NULL pointer dereference via OIDCStripCookies</a>](https://vigilance.fr/vulnerability/mod-auth-openidc-NULL-pointer-dereference-via-OIDCStripCookies-41057)|An attacker can force a NULL pointer to be dereferenced on mod_auth_openidc, via OIDCStripCookies, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SUSE-LE-vulnerability-via-tftpboot-installation-41056" class="noirorange"><b>SUSE LE</b>: vulnerability via tftpboot-installation</a>](https://vigilance.fr/vulnerability/SUSE-LE-vulnerability-via-tftpboot-installation-41056)|A vulnerability of SUSE LE, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-netdevsim-41055" class="noirorange"><b>Linux kernel</b>: denial of service via netdevsim</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-netdevsim-41055)|An attacker can cause a fatal error of the Linux kernel, via netdevsim, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-udmabuf-vm-fault-41054" class="noirorange"><b>Linux kernel</b>: buffer overflow via udmabuf_vm_fault()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-udmabuf-vm-fault-41054)|An attacker can trigger a buffer overflow of the Linux kernel, via udmabuf_vm_fault(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-dpt-i2o-41053" class="noirorange"><b>Linux kernel</b>: information disclosure via dpt_i2o</a>](https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-dpt-i2o-41053)|An attacker can bypass access restrictions to data of the Linux kernel, via dpt_i2o, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-RxRPC-Bundles-41052" class="noirorange"><b>Linux kernel</b>: memory corruption via RxRPC Bundles</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-RxRPC-Bundles-41052)|An attacker can trigger a memory corruption of the Linux kernel, via RxRPC Bundles, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TeamPass-Cross-Site-Scripting-via-Item-Description-Field-41051" class="noirorange"><b>TeamPass</b>: Cross Site Scripting via Item Description Field</a>](https://vigilance.fr/vulnerability/TeamPass-Cross-Site-Scripting-via-Item-Description-Field-41051)|An attacker can trigger a Cross Site Scripting of TeamPass, via Item Description Field, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libyang-NULL-pointer-dereference-via-lys-parse-mem-41050" class="noirorange"><b>libyang</b>: NULL pointer dereference via lys_parse_mem()</a>](https://vigilance.fr/vulnerability/libyang-NULL-pointer-dereference-via-lys-parse-mem-41050)|An attacker can force a NULL pointer to be dereferenced on libyang, via lys_parse_mem(), in order to trigger a denial of service...|Visit link for details|
+ |[Sonos One Speaker information disclosure (CVE-2023-27353)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 14, 2023|
+ |[Sonos One Speaker code execution (CVE-2023-27352)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 14, 2023|
+ |[Sonos One Speaker buffer overflow (CVE-2023-27351)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 14, 2023|
+ |[Sonos One Speaker information disclosure (CVE-2023-27350)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 14, 2023|
+ |[Google Chrome V8 code execution (CVE-2023-2033)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 14, 2023|
+ |[VMware Tanzu Spring Framework denial of service (CVE-2023-20863)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 13, 2023|
+ |[shadow-maint shadow-utils security bypass](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 13, 2023|
  
 
 # HK-CERT
@@ -96,17 +76,18 @@
  |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20230406)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure and remote code execution on the targeted system.|Release Date: 6 Apr 2023|
  
 
-# IBM-X-FORCE-EXCHANGE
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Sonos One Speaker information disclosure (CVE-2023-27353)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 14, 2023|
- |[Sonos One Speaker code execution (CVE-2023-27352)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 14, 2023|
- |[Sonos One Speaker buffer overflow (CVE-2023-27351)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 14, 2023|
- |[Sonos One Speaker information disclosure (CVE-2023-27350)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 14, 2023|
- |[Google Chrome V8 code execution (CVE-2023-2033)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 14, 2023|
- |[VMware Tanzu Spring Framework denial of service (CVE-2023-20863)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 13, 2023|
- |[shadow-maint shadow-utils security bypass](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 13, 2023|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
 
 # EU-CERT
@@ -126,18 +107,37 @@
  |[2023-010: Severe Vulnerabilities in Citrix Workspace, Virtual Apps and Desktops](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-010.pdf)|On February 14, 2023, Citrix released Security Bulletins regarding severe vulnerabilities affecting its Citrix Workspace, Virtual Apps and Desktops. If exploited, these vulnerabilities could enable attackers to elevate their privileges and take control of the affected system, but they need local access to the target.|Thursday, February 16, 2023 11:00:00 AM CET|
  
 
-# ZERODAYINITIATIVE
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0317/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 avril 2023|
+ |[Vulnérabilité dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0316/)|Une vulnérabilité a été découverte dans le noyau Linux de Red Hat. Elle permet à un attaquant de provoquer un déni de service et une élévation de privilèges.|Publié le 14 avril 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0315/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 avril 2023|
+ |[Multiples vulnérabilités dans IBM Spectrum Scale](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0314/)|De multiples vulnérabilités ont été découvertes dans IBM Spectrum Scale. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 14 avril 2023|
+ |[Multiples vulnérabilités dans IBM AIX](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0313/)|De multiples vulnérabilités ont été découvertes dans IBM AIX. Elles permettent à un attaquant de provoquer une exécution de code arbitraire.|Publié le 13 avril 2023|
+ |[Vulnérabilité dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0312/)|Une vulnérabilité a été découverte dans Wireshark. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 13 avril 2023|
+ |[Multiples vulnérabilités dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0311/)|De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 13 avril 2023|
+ |[Multiples vulnérabilités dans les produits Juniper](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0310/)|De multiples vulnérabilités ont été découvertes dans les produits Juniper. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 13 avril 2023|
+ |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0309/)|De multiples vulnérabilités ont été corrigées dans |Publié le 12 avril 2023|
+ |[Multiples vulnérabilités dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0308/)|De multiples vulnérabilités ont été corrigées dans |Publié le 12 avril 2023|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Rails-Cross-Site-Scripting-via-MVC-Web-Application-41060" class="noirorange"><b>Rails</b>: Cross Site Scripting via MVC Web Application</a>](https://vigilance.fr/vulnerability/Rails-Cross-Site-Scripting-via-MVC-Web-Application-41060)|An attacker can trigger a Cross Site Scripting of Rails, via MVC Web Application, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-memory-corruption-via-V8-Type-Confusion-41059" class="noirorange"><b>Chrome</b>: memory corruption via V8 Type Confusion</a>](https://vigilance.fr/vulnerability/Chrome-memory-corruption-via-V8-Type-Confusion-41059)|An attacker can trigger a memory corruption of Chrome, via V8 Type Confusion, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Hyperium-Hyper-overload-via-max-header-list-size-41058" class="noirorange"><b>Hyperium Hyper</b>: overload via max_header_list_size</a>](https://vigilance.fr/vulnerability/Hyperium-Hyper-overload-via-max-header-list-size-41058)|An attacker can trigger an overload of Hyperium Hyper, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/mod-auth-openidc-NULL-pointer-dereference-via-OIDCStripCookies-41057" class="noirorange"><b>mod_auth_openidc</b>: NULL pointer dereference via OIDCStripCookies</a>](https://vigilance.fr/vulnerability/mod-auth-openidc-NULL-pointer-dereference-via-OIDCStripCookies-41057)|An attacker can force a NULL pointer to be dereferenced on mod_auth_openidc, via OIDCStripCookies, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SUSE-LE-vulnerability-via-tftpboot-installation-41056" class="noirorange"><b>SUSE LE</b>: vulnerability via tftpboot-installation</a>](https://vigilance.fr/vulnerability/SUSE-LE-vulnerability-via-tftpboot-installation-41056)|A vulnerability of SUSE LE, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-netdevsim-41055" class="noirorange"><b>Linux kernel</b>: denial of service via netdevsim</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-netdevsim-41055)|An attacker can cause a fatal error of the Linux kernel, via netdevsim, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-udmabuf-vm-fault-41054" class="noirorange"><b>Linux kernel</b>: buffer overflow via udmabuf_vm_fault()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-udmabuf-vm-fault-41054)|An attacker can trigger a buffer overflow of the Linux kernel, via udmabuf_vm_fault(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-dpt-i2o-41053" class="noirorange"><b>Linux kernel</b>: information disclosure via dpt_i2o</a>](https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-dpt-i2o-41053)|An attacker can bypass access restrictions to data of the Linux kernel, via dpt_i2o, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-RxRPC-Bundles-41052" class="noirorange"><b>Linux kernel</b>: memory corruption via RxRPC Bundles</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-RxRPC-Bundles-41052)|An attacker can trigger a memory corruption of the Linux kernel, via RxRPC Bundles, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TeamPass-Cross-Site-Scripting-via-Item-Description-Field-41051" class="noirorange"><b>TeamPass</b>: Cross Site Scripting via Item Description Field</a>](https://vigilance.fr/vulnerability/TeamPass-Cross-Site-Scripting-via-Item-Description-Field-41051)|An attacker can trigger a Cross Site Scripting of TeamPass, via Item Description Field, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libyang-NULL-pointer-dereference-via-lys-parse-mem-41050" class="noirorange"><b>libyang</b>: NULL pointer dereference via lys_parse_mem()</a>](https://vigilance.fr/vulnerability/libyang-NULL-pointer-dereference-via-lys-parse-mem-41050)|An attacker can force a NULL pointer to be dereferenced on libyang, via lys_parse_mem(), in order to trigger a denial of service...|Visit link for details|
  
 
 # MA-CERT
