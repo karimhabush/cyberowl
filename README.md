@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 15/04/2023 01:25:05 UTC
+ > Last Updated 15/04/2023 02:33:53 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -63,6 +63,19 @@
  |---|---|---|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[shadow-maint shadow-utils security bypass](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 13, 2023|
+ |[Linux Kernel denial of service (CVE-2023-2019)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 13, 2023|
+ |[Linux Kernel privilege escalation (CVE-2023-2008)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 13, 2023|
+ |[Linux Kernel information disclosure (CVE-2023-2007)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 13, 2023|
+ |[Linux Kernel privilege escalation (CVE-2023-2006)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 13, 2023|
+ |[Mitsubishi Electric GC-ENET-COM denial of service (CVE-2023-1285)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 13, 2023|
+ |[Palo Alto Networks GlobalProtect app for Windows security bypass (CVE-2023-0006)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 13, 2023|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -77,36 +90,6 @@
  |[Apple Products Remote Code Execution Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-remote-code-execution-vulnerabilities_20230411)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system. Note:CVE-2023-28205 and CVE-2023-28206 are being exploited in the wild. These...|Release Date: 11 Apr 2023|
  |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230411)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, security restriction bypass, sensitive information disclosure, spoofing and data manipulation on the targeted system.|Release Date: 11 Apr 2023|
  |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20230406)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure and remote code execution on the targeted system.|Release Date: 6 Apr 2023|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[shadow-maint shadow-utils security bypass](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 13, 2023|
- |[Linux Kernel denial of service (CVE-2023-2019)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 13, 2023|
- |[Linux Kernel privilege escalation (CVE-2023-2008)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 13, 2023|
- |[Linux Kernel information disclosure (CVE-2023-2007)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 13, 2023|
- |[Linux Kernel privilege escalation (CVE-2023-2006)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 13, 2023|
- |[Mitsubishi Electric GC-ENET-COM denial of service (CVE-2023-1285)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 13, 2023|
- |[Palo Alto Networks GlobalProtect app for Windows security bypass (CVE-2023-0006)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 13, 2023|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Rails-Cross-Site-Scripting-via-MVC-Web-Application-41060" class="noirorange"><b>Rails</b>: Cross Site Scripting via MVC Web Application</a>](https://vigilance.fr/vulnerability/Rails-Cross-Site-Scripting-via-MVC-Web-Application-41060)|An attacker can trigger a Cross Site Scripting of Rails, via MVC Web Application, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-memory-corruption-via-V8-Type-Confusion-41059" class="noirorange"><b>Chrome</b>: memory corruption via V8 Type Confusion</a>](https://vigilance.fr/vulnerability/Chrome-memory-corruption-via-V8-Type-Confusion-41059)|An attacker can trigger a memory corruption of Chrome, via V8 Type Confusion, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Hyperium-Hyper-overload-via-max-header-list-size-41058" class="noirorange"><b>Hyperium Hyper</b>: overload via max_header_list_size</a>](https://vigilance.fr/vulnerability/Hyperium-Hyper-overload-via-max-header-list-size-41058)|An attacker can trigger an overload of Hyperium Hyper, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/mod-auth-openidc-NULL-pointer-dereference-via-OIDCStripCookies-41057" class="noirorange"><b>mod_auth_openidc</b>: NULL pointer dereference via OIDCStripCookies</a>](https://vigilance.fr/vulnerability/mod-auth-openidc-NULL-pointer-dereference-via-OIDCStripCookies-41057)|An attacker can force a NULL pointer to be dereferenced on mod_auth_openidc, via OIDCStripCookies, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SUSE-LE-vulnerability-via-tftpboot-installation-41056" class="noirorange"><b>SUSE LE</b>: vulnerability via tftpboot-installation</a>](https://vigilance.fr/vulnerability/SUSE-LE-vulnerability-via-tftpboot-installation-41056)|A vulnerability of SUSE LE, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-netdevsim-41055" class="noirorange"><b>Linux kernel</b>: denial of service via netdevsim</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-netdevsim-41055)|An attacker can cause a fatal error of the Linux kernel, via netdevsim, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-udmabuf-vm-fault-41054" class="noirorange"><b>Linux kernel</b>: buffer overflow via udmabuf_vm_fault()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-udmabuf-vm-fault-41054)|An attacker can trigger a buffer overflow of the Linux kernel, via udmabuf_vm_fault(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-dpt-i2o-41053" class="noirorange"><b>Linux kernel</b>: information disclosure via dpt_i2o</a>](https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-dpt-i2o-41053)|An attacker can bypass access restrictions to data of the Linux kernel, via dpt_i2o, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-RxRPC-Bundles-41052" class="noirorange"><b>Linux kernel</b>: memory corruption via RxRPC Bundles</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-RxRPC-Bundles-41052)|An attacker can trigger a memory corruption of the Linux kernel, via RxRPC Bundles, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/TeamPass-Cross-Site-Scripting-via-Item-Description-Field-41051" class="noirorange"><b>TeamPass</b>: Cross Site Scripting via Item Description Field</a>](https://vigilance.fr/vulnerability/TeamPass-Cross-Site-Scripting-via-Item-Description-Field-41051)|An attacker can trigger a Cross Site Scripting of TeamPass, via Item Description Field, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libyang-NULL-pointer-dereference-via-lys-parse-mem-41050" class="noirorange"><b>libyang</b>: NULL pointer dereference via lys_parse_mem()</a>](https://vigilance.fr/vulnerability/libyang-NULL-pointer-dereference-via-lys-parse-mem-41050)|An attacker can force a NULL pointer to be dereferenced on libyang, via lys_parse_mem(), in order to trigger a denial of service...|Visit link for details|
  
 
 # MA-CERT
@@ -124,6 +107,40 @@
  |[41261204/23 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/4126120423-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant son client de messagerie Mozilla Thunderbird. L’exploitation de ces vulnérabilités peut permettre à un...|12 avril 2023|
  |[41251204/23 - Vulnérabilités affectant plusieurs produits d’Adobe](https://www.dgssi.gov.ma//fr/content/4125120423-vulnerabilites-affectant-plusieurs-produits-d-adobe.html)|Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuterdu code arbitraire, d’...|12 avril 2023|
  |[41331204/23 - Vulnérabilités critiques dans plusieurs produits Microsoft(Patch Tuesday Avril 2023)](https://www.dgssi.gov.ma//fr/content/4133120423-vulnerabilites-critiques-dans-plusieurs-produits-microsoft-patch-tuesday-avril-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, d’exécuter du...|12 avril 2023|
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Juniper Networks security advisory (AV23-217)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av23-217)|Visit link for details|2023-04-14|
+ |[HPE security advisory (AV23-216)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-216)|Visit link for details|2023-04-14|
+ |[Google Chrome Security Advisory (AV23-215)](https://www.cyber.gc.ca/en/alerts-advisories/av23-215-google-chrome-security-advisory)|Visit link for details|2023-04-14|
+ |[[Control systems] ABB security advisory (AV23-214)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av23-214)|Visit link for details|2023-04-14|
+ |[[Control systems] B. Braun security advisory (AV23-213)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-b-braun-security-advisory-av23-213)|Visit link for details|2023-04-14|
+ |[[Control systems] Datakit security advisory (AV23-212)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-datakit-security-advisory-av23-212)|Visit link for details|2023-04-14|
+ |[[Control systems] Mitsubishi Electric India security advisory (AV23-211)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-india-security-advisory-av23-211)|Visit link for details|2023-04-14|
+ |[[Control Systems] FANUC security advisory (AV23-210)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-fanuc-security-advisory-av23-210)|Visit link for details|2023-04-13|
+ |[Drupal security advisory (AV23-209)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av23-209)|Visit link for details|2023-04-12|
+ |[Adobe security advisory (AV23-208)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av23-208)|Visit link for details|2023-04-12|
+ |[Novi Survey security advisory (AV23-207)](https://www.cyber.gc.ca/en/alerts-advisories/novi-survey-security-advisory-av23-207)|Visit link for details|2023-04-11|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Rails-Cross-Site-Scripting-via-MVC-Web-Application-41060" class="noirorange"><b>Rails</b>: Cross Site Scripting via MVC Web Application</a>](https://vigilance.fr/vulnerability/Rails-Cross-Site-Scripting-via-MVC-Web-Application-41060)|An attacker can trigger a Cross Site Scripting of Rails, via MVC Web Application, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-memory-corruption-via-V8-Type-Confusion-41059" class="noirorange"><b>Chrome</b>: memory corruption via V8 Type Confusion</a>](https://vigilance.fr/vulnerability/Chrome-memory-corruption-via-V8-Type-Confusion-41059)|An attacker can trigger a memory corruption of Chrome, via V8 Type Confusion, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Hyperium-Hyper-overload-via-max-header-list-size-41058" class="noirorange"><b>Hyperium Hyper</b>: overload via max_header_list_size</a>](https://vigilance.fr/vulnerability/Hyperium-Hyper-overload-via-max-header-list-size-41058)|An attacker can trigger an overload of Hyperium Hyper, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/mod-auth-openidc-NULL-pointer-dereference-via-OIDCStripCookies-41057" class="noirorange"><b>mod_auth_openidc</b>: NULL pointer dereference via OIDCStripCookies</a>](https://vigilance.fr/vulnerability/mod-auth-openidc-NULL-pointer-dereference-via-OIDCStripCookies-41057)|An attacker can force a NULL pointer to be dereferenced on mod_auth_openidc, via OIDCStripCookies, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SUSE-LE-vulnerability-via-tftpboot-installation-41056" class="noirorange"><b>SUSE LE</b>: vulnerability via tftpboot-installation</a>](https://vigilance.fr/vulnerability/SUSE-LE-vulnerability-via-tftpboot-installation-41056)|A vulnerability of SUSE LE, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-netdevsim-41055" class="noirorange"><b>Linux kernel</b>: denial of service via netdevsim</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-netdevsim-41055)|An attacker can cause a fatal error of the Linux kernel, via netdevsim, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-udmabuf-vm-fault-41054" class="noirorange"><b>Linux kernel</b>: buffer overflow via udmabuf_vm_fault()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-udmabuf-vm-fault-41054)|An attacker can trigger a buffer overflow of the Linux kernel, via udmabuf_vm_fault(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-dpt-i2o-41053" class="noirorange"><b>Linux kernel</b>: information disclosure via dpt_i2o</a>](https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-dpt-i2o-41053)|An attacker can bypass access restrictions to data of the Linux kernel, via dpt_i2o, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-RxRPC-Bundles-41052" class="noirorange"><b>Linux kernel</b>: memory corruption via RxRPC Bundles</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-RxRPC-Bundles-41052)|An attacker can trigger a memory corruption of the Linux kernel, via RxRPC Bundles, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/TeamPass-Cross-Site-Scripting-via-Item-Description-Field-41051" class="noirorange"><b>TeamPass</b>: Cross Site Scripting via Item Description Field</a>](https://vigilance.fr/vulnerability/TeamPass-Cross-Site-Scripting-via-Item-Description-Field-41051)|An attacker can trigger a Cross Site Scripting of TeamPass, via Item Description Field, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libyang-NULL-pointer-dereference-via-lys-parse-mem-41050" class="noirorange"><b>libyang</b>: NULL pointer dereference via lys_parse_mem()</a>](https://vigilance.fr/vulnerability/libyang-NULL-pointer-dereference-via-lys-parse-mem-41050)|An attacker can force a NULL pointer to be dereferenced on libyang, via lys_parse_mem(), in order to trigger a denial of service...|Visit link for details|
  
 
 # EU-CERT
@@ -155,21 +172,4 @@
  |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
  |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
  |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[Juniper Networks security advisory (AV23-217)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av23-217)|Visit link for details|2023-04-14|
- |[HPE security advisory (AV23-216)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av23-216)|Visit link for details|2023-04-14|
- |[Google Chrome Security Advisory (AV23-215)](https://www.cyber.gc.ca/en/alerts-advisories/av23-215-google-chrome-security-advisory)|Visit link for details|2023-04-14|
- |[[Control systems] ABB security advisory (AV23-214)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av23-214)|Visit link for details|2023-04-14|
- |[[Control systems] B. Braun security advisory (AV23-213)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-b-braun-security-advisory-av23-213)|Visit link for details|2023-04-14|
- |[[Control systems] Datakit security advisory (AV23-212)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-datakit-security-advisory-av23-212)|Visit link for details|2023-04-14|
- |[[Control systems] Mitsubishi Electric India security advisory (AV23-211)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-india-security-advisory-av23-211)|Visit link for details|2023-04-14|
- |[[Control Systems] FANUC security advisory (AV23-210)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-fanuc-security-advisory-av23-210)|Visit link for details|2023-04-13|
- |[Drupal security advisory (AV23-209)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av23-209)|Visit link for details|2023-04-12|
- |[Adobe security advisory (AV23-208)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av23-208)|Visit link for details|2023-04-12|
- |[Novi Survey security advisory (AV23-207)](https://www.cyber.gc.ca/en/alerts-advisories/novi-survey-security-advisory-av23-207)|Visit link for details|2023-04-11|
  
