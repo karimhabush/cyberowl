@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 15/04/2023 14:14:48 UTC
+ > Last Updated 15/04/2023 15:16:48 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -25,20 +25,20 @@
  
  > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
 
-# US-CERT
+# HK-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/04/13/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Apr 13, 2023|
- |[CISA Releases Sixteen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/04/13/cisa-releases-sixteen-industrial-control-systems-advisories)|Visit link for details.|Apr 13, 2023|
- |[Juniper Networks Releases Security Updates](https://www.cisa.gov/news-events/alerts/2023/04/13/juniper-networks-releases-security-updates)|Visit link for details.|Apr 13, 2023|
- |[Shifting the Balance of Cybersecurity Risk: Security-by-Design and Default Principles](https://www.cisa.gov/news-events/alerts/2023/04/13/shifting-balance-cybersecurity-risk-security-design-and-default-principles)|Visit link for details.|Apr 13, 2023|
- |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/04/11/adobe-releases-security-updates-multiple-products)|Visit link for details.|Apr 11, 2023|
- |[Microsoft Releases April 2023 Security Updates](https://www.cisa.gov/news-events/alerts/2023/04/11/microsoft-releases-april-2023-security-updates)|Visit link for details.|Apr 11, 2023|
- |[Fortinet Releases April 2023 Vulnerability Advisories](https://www.cisa.gov/news-events/alerts/2023/04/11/fortinet-releases-april-2023-vulnerability-advisories)|Visit link for details.|Apr 11, 2023|
- |[Mozilla Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/04/11/mozilla-releases-security-advisories-multiple-products)|Visit link for details.|Apr 11, 2023|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/04/11/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Apr 11, 2023|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/04/11/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Apr 11, 2023|
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230411)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2023-04-13] Updated System...| Release Date: 11 Apr 2023 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230403)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, data manipulation and security restriction bypass on the targeted system. [Updated on 2023-04-...| Release Date: 3 Apr 2023 |
+ |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20230413)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, data manipulation and cross-site scripting on the targeted system.|Release Date: 13 Apr 2023|
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230406)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-04-13] Updated System / Technologies affected, ...| Release Date: 6 Apr 2023 |
+ |[Adobe Monthly Security Update (April 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-april-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Digital Editions Medium RiskRemote Code Execution APSB23-04Adobe InCopy Medium RiskRemote Code Execution ...|Release Date: 12 Apr 2023|
+ |[Microsoft Monthly Security Update (April 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-april-2023)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesBrowser Medium RiskSecurity Restriction BypassSpoofingData Manipulation Windows Medium RiskRemote Code ExecutionInformation DisclosureDenial of Service...|Release Date: 12 Apr 2023|
+ |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20230412)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 12 Apr 2023|
+ |[Apple Products Remote Code Execution Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-remote-code-execution-vulnerabilities_20230411)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system. Note:CVE-2023-28205 and CVE-2023-28206 are being exploited in the wild. These...|Release Date: 11 Apr 2023|
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230411)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, security restriction bypass, sensitive information disclosure, spoofing and data manipulation on the targeted system.|Release Date: 11 Apr 2023|
+ |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20230406)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure and remote code execution on the targeted system.|Release Date: 6 Apr 2023|
  
 
 # CERT-FR
@@ -57,6 +57,41 @@
  |[Multiples vulnérabilités dans Microsoft Azure](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0308/)|De multiples vulnérabilités ont été corrigées dans |Publié le 12 avril 2023|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Sonos One Speaker information disclosure (CVE-2023-27353)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 14, 2023|
+ |[Sonos One Speaker code execution (CVE-2023-27352)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 14, 2023|
+ |[Sonos One Speaker buffer overflow (CVE-2023-27351)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 14, 2023|
+ |[Sonos One Speaker information disclosure (CVE-2023-27350)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 14, 2023|
+ |[Google Chrome V8 code execution (CVE-2023-2033)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 14, 2023|
+ |[VMware Tanzu Spring Framework denial of service (CVE-2023-20863)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 13, 2023|
+ |[shadow-maint shadow-utils security bypass](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 13, 2023|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/04/13/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Apr 13, 2023|
+ |[CISA Releases Sixteen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/04/13/cisa-releases-sixteen-industrial-control-systems-advisories)|Visit link for details.|Apr 13, 2023|
+ |[Juniper Networks Releases Security Updates](https://www.cisa.gov/news-events/alerts/2023/04/13/juniper-networks-releases-security-updates)|Visit link for details.|Apr 13, 2023|
+ |[Shifting the Balance of Cybersecurity Risk: Security-by-Design and Default Principles](https://www.cisa.gov/news-events/alerts/2023/04/13/shifting-balance-cybersecurity-risk-security-design-and-default-principles)|Visit link for details.|Apr 13, 2023|
+ |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/04/11/adobe-releases-security-updates-multiple-products)|Visit link for details.|Apr 11, 2023|
+ |[Microsoft Releases April 2023 Security Updates](https://www.cisa.gov/news-events/alerts/2023/04/11/microsoft-releases-april-2023-security-updates)|Visit link for details.|Apr 11, 2023|
+ |[Fortinet Releases April 2023 Vulnerability Advisories](https://www.cisa.gov/news-events/alerts/2023/04/11/fortinet-releases-april-2023-vulnerability-advisories)|Visit link for details.|Apr 11, 2023|
+ |[Mozilla Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/04/11/mozilla-releases-security-advisories-multiple-products)|Visit link for details.|Apr 11, 2023|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/04/11/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Apr 11, 2023|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/04/11/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Apr 11, 2023|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -72,12 +107,6 @@
  |[2023-012: RCE vulnerabilities in Fortinet products](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-012.pdf)|On February 16, 2023, Fortinet released advisories regarding critical vulnerabilities in FortiNAC and FortiWeb products that may allow unauthenticated attackers to perform remote arbitrary code or command execution.|Monday, February 20, 2023 03:40:00 PM CET|
  |[2023-011: ClamAV critical vulnerability](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-011.pdf)|On February 15th, 2023, ClamAV informed about a critical vulnerability in the cross-platform antimalware toolkit. The vulnerability is identified as CVE-2023-20032 and could lead to remote code execution.|Monday, February 20, 2023 03:40:00 PM CET|
  |[2023-010: Severe Vulnerabilities in Citrix Workspace, Virtual Apps and Desktops](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-010.pdf)|On February 14, 2023, Citrix released Security Bulletins regarding severe vulnerabilities affecting its Citrix Workspace, Virtual Apps and Desktops. If exploited, these vulnerabilities could enable attackers to elevate their privileges and take control of the affected system, but they need local access to the target.|Thursday, February 16, 2023 11:00:00 AM CET|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # OBS-Vigilance
@@ -114,49 +143,6 @@
  |[41331204/23 - Vulnérabilités critiques dans plusieurs produits Microsoft(Patch Tuesday Avril 2023)](https://www.dgssi.gov.ma//fr/content/4133120423-vulnerabilites-critiques-dans-plusieurs-produits-microsoft-patch-tuesday-avril-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, d’exécuter du...|12 avril 2023|
  
 
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230411)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2023-04-13] Updated System...| Release Date: 11 Apr 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230403)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, data manipulation and security restriction bypass on the targeted system. [Updated on 2023-04-...| Release Date: 3 Apr 2023 |
- |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20230413)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, data manipulation and cross-site scripting on the targeted system.|Release Date: 13 Apr 2023|
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230406)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-04-13] Updated System / Technologies affected, ...| Release Date: 6 Apr 2023 |
- |[Adobe Monthly Security Update (April 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-april-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Digital Editions Medium RiskRemote Code Execution APSB23-04Adobe InCopy Medium RiskRemote Code Execution ...|Release Date: 12 Apr 2023|
- |[Microsoft Monthly Security Update (April 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-april-2023)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesBrowser Medium RiskSecurity Restriction BypassSpoofingData Manipulation Windows Medium RiskRemote Code ExecutionInformation DisclosureDenial of Service...|Release Date: 12 Apr 2023|
- |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20230412)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 12 Apr 2023|
- |[Apple Products Remote Code Execution Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-remote-code-execution-vulnerabilities_20230411)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system. Note:CVE-2023-28205 and CVE-2023-28206 are being exploited in the wild. These...|Release Date: 11 Apr 2023|
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20230411)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, security restriction bypass, sensitive information disclosure, spoofing and data manipulation on the targeted system.|Release Date: 11 Apr 2023|
- |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20230406)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure and remote code execution on the targeted system.|Release Date: 6 Apr 2023|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Sonos One Speaker information disclosure (CVE-2023-27353)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 14, 2023|
- |[Sonos One Speaker code execution (CVE-2023-27352)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 14, 2023|
- |[Sonos One Speaker buffer overflow (CVE-2023-27351)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 14, 2023|
- |[Sonos One Speaker information disclosure (CVE-2023-27350)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 14, 2023|
- |[Google Chrome V8 code execution (CVE-2023-2033)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 14, 2023|
- |[VMware Tanzu Spring Framework denial of service (CVE-2023-20863)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 13, 2023|
- |[shadow-maint shadow-utils security bypass](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 13, 2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
@@ -172,4 +158,18 @@
  |[Drupal security advisory (AV23-209)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av23-209)|Visit link for details|2023-04-12|
  |[Adobe security advisory (AV23-208)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av23-208)|Visit link for details|2023-04-12|
  |[Novi Survey security advisory (AV23-207)](https://www.cyber.gc.ca/en/alerts-advisories/novi-survey-security-advisory-av23-207)|Visit link for details|2023-04-11|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
