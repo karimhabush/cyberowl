@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 17/04/2023 10:19:15 UTC
+ > Last Updated 17/04/2023 11:14:58 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -87,12 +87,6 @@
  |[2023-010: Severe Vulnerabilities in Citrix Workspace, Virtual Apps and Desktops](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-010.pdf)|On February 14, 2023, Citrix released Security Bulletins regarding severe vulnerabilities affecting its Citrix Workspace, Virtual Apps and Desktops. If exploited, these vulnerabilities could enable attackers to elevate their privileges and take control of the affected system, but they need local access to the target.|Thursday, February 16, 2023 11:00:00 AM CET|
  
 
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -110,10 +104,17 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-RxRPC-Bundles-41052" class="noirorange"><b>Linux kernel</b>: memory corruption via RxRPC Bundles</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-RxRPC-Bundles-41052)|An attacker can trigger a memory corruption of the Linux kernel, via RxRPC Bundles, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
 
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[41401704/23 - Vulnérabilité critique dans Google Chrome](https://www.dgssi.gov.ma//fr/content/4140170423-vulnerabilite-critique-dans-google-chrome.html)|Google a corrigé une vulnérabilité critique de type « zero-day » dans son navigateur Google Chrome. L’exploitation de cette faille peut permettre à un attaquant de prendre le contrôle du système affecté.Google confirme que cette faille...|17 avril 2023|
  |[41391404/23 - Vulnérabilité dans les produits Hikvision](https://www.dgssi.gov.ma//fr/content/4139140423-vulnerabilite-dans-les-produits-hikvision.html)|Une vulnérabilité a été corrigée dans les produits de vidéosurveillance "Hikvision Hybrid SAN/Cluster Storage" susmentionnés. La vulnérabilité, suivit par« CVE-2023-28808 », a été décrite par l'éditeur comme un problème de...|14 avril 2023|
  |[41371404/23 - Vulnérabilités affectantdes produits Juniper](https://www.dgssi.gov.ma//fr/content/4137140423-vulnerabilites-affectant-des-produits-juniper.html)|Juniper annonce la correction de plusieursvulnérabilités qui affectent certains de ses produits.Un attaquant distantpourrait exploiter ces failles afin d’exécuter du code arbitraire, injecter du contenu dans une page,...|14 avril 2023|
  |[41381404/23 - Vulnérabilités dans les produits Lenovo](https://www.dgssi.gov.ma//fr/content/4138140423-vulnerabilites-dans-les-produits-lenovo.html)|Plusieurs vulnérabilités ont été corrigées dans les produits Lenovo susmentionnés.L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges, de porter atteinte à la confidentialité des données, de causer...|14 avril 2023|
@@ -124,7 +125,6 @@
  |[41271204/23 - Vulnérabilités affectantle navigateur Mozilla Firefox](https://www.dgssi.gov.ma//fr/content/4127120423-vulnerabilites-affectant-le-navigateur-mozilla-firefox.html)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de cesvulnérabilités peut permettre à un...|12 avril 2023|
  |[41261204/23 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/4126120423-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant son client de messagerie Mozilla Thunderbird. L’exploitation de ces vulnérabilités peut permettre à un...|12 avril 2023|
  |[41251204/23 - Vulnérabilités affectant plusieurs produits d’Adobe](https://www.dgssi.gov.ma//fr/content/4125120423-vulnerabilites-affectant-plusieurs-produits-d-adobe.html)|Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuterdu code arbitraire, d’...|12 avril 2023|
- |[41331204/23 - Vulnérabilités critiques dans plusieurs produits Microsoft(Patch Tuesday Avril 2023)](https://www.dgssi.gov.ma//fr/content/4133120423-vulnerabilites-critiques-dans-plusieurs-produits-microsoft-patch-tuesday-avril-2023.html)|Microsoft annonce la correction de plusieurs vulnérabilités critiques affectant les produits Microsoft susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, d’exécuter du...|12 avril 2023|
  
 
 # HK-CERT
