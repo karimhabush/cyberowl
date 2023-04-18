@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 18/04/2023 11:15:09 UTC
+ > Last Updated 18/04/2023 12:34:56 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -39,6 +39,22 @@
  |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/04/11/adobe-releases-security-updates-multiple-products)|Visit link for details.|Apr 11, 2023|
  |[Microsoft Releases April 2023 Security Updates](https://www.cisa.gov/news-events/alerts/2023/04/11/microsoft-releases-april-2023-security-updates)|Visit link for details.|Apr 11, 2023|
  |[Fortinet Releases April 2023 Vulnerability Advisories](https://www.cisa.gov/news-events/alerts/2023/04/11/fortinet-releases-april-2023-vulnerability-advisories)|Visit link for details.|Apr 11, 2023|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0320/)|De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 17 avril 2023|
+ |[Vulnérabilité dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0319/)|Une vulnérabilité a été découverte dans |Publié le 17 avril 2023|
+ |[Multiples vulnérabilités dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0318/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 avril 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0317/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 avril 2023|
+ |[Vulnérabilité dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0316/)|Une vulnérabilité a été découverte dans le noyau Linux de Red Hat. Elle permet à un attaquant de provoquer un déni de service et une élévation de privilèges.|Publié le 14 avril 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0315/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 avril 2023|
+ |[Multiples vulnérabilités dans IBM Spectrum Scale](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0314/)|De multiples vulnérabilités ont été découvertes dans IBM Spectrum Scale. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 14 avril 2023|
+ |[Multiples vulnérabilités dans IBM AIX](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0313/)|De multiples vulnérabilités ont été découvertes dans IBM AIX. Elles permettent à un attaquant de provoquer une exécution de code arbitraire.|Publié le 13 avril 2023|
+ |[Vulnérabilité dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0312/)|Une vulnérabilité a été découverte dans Wireshark. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 13 avril 2023|
+ |[Multiples vulnérabilités dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0311/)|De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 13 avril 2023|
  
 
 # HK-CERT
@@ -94,6 +110,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[2023-024: Type confusion flaw in Google Chrome](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-024.pdf)|Google has released out-of-band updates to address a vulnerability in its Chrome web browser, identified as CVE-2023-2033. The high-severity flaw is a type confusion issue within the V8 JavaScript engine. Users of Google Chrome, as well as other Chromium-based browsers such as Microsoft Edge, Brave, Opera, and Vivaldi, are strongly advised to update to the latest version to mitigate potential threats.|Tuesday, April 18, 2023 01:30:00 PM CEST|
  |[2023-023: Remote Code Execution vulnerability in Microsoft Message Queuing](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-023.pdf)|On April 11, 2023, Microsoft released a security update for a critical vulnerability in the Microsoft Message Queuing, commonly known as MSMQ. This vulnerability is identified as CVE-2023-21554 (CVSS score of 9.8) and could allow unauthenticated attackers to remotely execute arbitrary code.|Monday, April 17, 2023 03:28:00 PM CEST|
  |[2023-022: Critical Authentication Vulnerability in Fortinet Product](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-022.pdf)|On April 11, 2023, Fortinet released an advisory regarding one critical vulnerability in FortiPresence on-prem infrastructure server. This vulnerability is identified as CVE-2022-41331 (CVSS score of 9.3) and it may allow remote un-authenticated attackers to access the Redis and MongoDB instances.|Monday, April 17, 2023 03:25:00 PM CEST|
  |[2023-021: Critical Vulnerabilities in SAP Products](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-021.pdf)|On April 11, 2023, SAP released 24 patches for various products, which contain five critical severity fixes that impact SAP Diagnostics Agent, SAP Business Client, SAP NetWeaver Process Integration, SAP BusinessObjects Business Intelligence Platform, and SAP NetWeaver Application Server for ABAP Platform:|Monday, April 17, 2023 03:20:00 PM CEST|
@@ -104,23 +121,6 @@
  |[2023-016: High Vulnerability in Veeam Backup & Replication](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-016.pdf)|On March 8, 2023, Veeam released a new security advisory revealing one high vulnerability in a Veeam Backup & Replication component. This vulnerability is identified by CVE-2023-27532 (CVSS score of 7.5) and it may allow an attacker to obtain encrypted credentials stored in the configuration database. This may lead to gaining access to the backup infrastructure hosts. It is highly recommended installing the latest version.|Thursday, March 09, 2023 05:30:00 PM CET|
  |[2023-015: RCE Vulnerability in Fortinet Products](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-015.pdf)|On March 7, 2023, Fortinet released an advisory regarding one critical vulnerability in FortiOS and FortiProxy administrative interface. This vulnerability is identified as CVE-2023-25610 (CVSS score of 9.3) and it may allow remote unauthenticated attackers to execute arbitrary code on the device and/or to perform a DoS on the GUI. Fortinet is not aware of any instance where this vulnerability was exploited in the wild.|Wednesday, March 08, 2023 11:15:00 PM CET|
  |[2023-014: Critical Vulnerabilities in VMware Products](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-014.pdf)|On February 20, 2023, the MISP project team released advisories regarding 2 critical SQL injection vulnerabilities in MISP Threat Intelligence and Sharing Platform. The team decided to follow a silent fix procedure, releasing several updates in November and December 2022, giving enough time to users to update their instances to a safe version.|Tuesday, February 23, 2023 10:30:00 PM CET|
- |[2023-013: Critical SQL injection vulnerabilities in MISP](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-013.pdf)|On February 20, 2023, the MISP project team released advisories regarding 2 critical SQL injection vulnerabilities in MISP Threat Intelligence and Sharing Platform. The team decided to follow a silent fix procedure, releasing several updates in November and December 2022, giving enough time to users to update their instances to a safe version.|Tuesday, February 21, 2023 11:15:00 AM CET|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0320/)|De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 17 avril 2023|
- |[Vulnérabilité dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0319/)|Une vulnérabilité a été découverte dans |Publié le 17 avril 2023|
- |[Multiples vulnérabilités dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0318/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 avril 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0317/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 avril 2023|
- |[Vulnérabilité dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0316/)|Une vulnérabilité a été découverte dans le noyau Linux de Red Hat. Elle permet à un attaquant de provoquer un déni de service et une élévation de privilèges.|Publié le 14 avril 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0315/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 avril 2023|
- |[Multiples vulnérabilités dans IBM Spectrum Scale](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0314/)|De multiples vulnérabilités ont été découvertes dans IBM Spectrum Scale. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 14 avril 2023|
- |[Multiples vulnérabilités dans IBM AIX](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0313/)|De multiples vulnérabilités ont été découvertes dans IBM AIX. Elles permettent à un attaquant de provoquer une exécution de code arbitraire.|Publié le 13 avril 2023|
- |[Vulnérabilité dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0312/)|Une vulnérabilité a été découverte dans Wireshark. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 13 avril 2023|
- |[Multiples vulnérabilités dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0311/)|De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 13 avril 2023|
  
 
 # OBS-Vigilance
