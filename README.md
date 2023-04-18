@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 18/04/2023 07:16:13 UTC
+ > Last Updated 18/04/2023 08:22:40 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -41,6 +41,12 @@
  |[Fortinet Releases April 2023 Vulnerability Advisories](https://www.cisa.gov/news-events/alerts/2023/04/11/fortinet-releases-april-2023-vulnerability-advisories)|Visit link for details.|Apr 11, 2023|
  
 
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
@@ -55,29 +61,6 @@
  |[Multiples vulnérabilités dans IBM AIX](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0313/)|De multiples vulnérabilités ont été découvertes dans IBM AIX. Elles permettent à un attaquant de provoquer une exécution de code arbitraire.|Publié le 13 avril 2023|
  |[Vulnérabilité dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0312/)|Une vulnérabilité a été découverte dans Wireshark. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 13 avril 2023|
  |[Multiples vulnérabilités dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0311/)|De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 13 avril 2023|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[41401704/23 - Vulnérabilité critique dans Google Chrome](https://www.dgssi.gov.ma//fr/content/4140170423-vulnerabilite-critique-dans-google-chrome.html)|Google a corrigé une vulnérabilité critique de type « zero-day » dans son navigateur Google Chrome. L’exploitation de cette faille peut permettre à un attaquant de prendre le contrôle du système affecté.Google confirme que cette faille...|17 avril 2023|
- |[41391404/23 - Vulnérabilité dans les produits Hikvision](https://www.dgssi.gov.ma//fr/content/4139140423-vulnerabilite-dans-les-produits-hikvision.html)|Une vulnérabilité a été corrigée dans les produits de vidéosurveillance "Hikvision Hybrid SAN/Cluster Storage" susmentionnés. La vulnérabilité, suivit par« CVE-2023-28808 », a été décrite par l'éditeur comme un problème de...|14 avril 2023|
- |[41371404/23 - Vulnérabilités affectantdes produits Juniper](https://www.dgssi.gov.ma//fr/content/4137140423-vulnerabilites-affectant-des-produits-juniper.html)|Juniper annonce la correction de plusieursvulnérabilités qui affectent certains de ses produits.Un attaquant distantpourrait exploiter ces failles afin d’exécuter du code arbitraire, injecter du contenu dans une page,...|14 avril 2023|
- |[41381404/23 - Vulnérabilités dans les produits Lenovo](https://www.dgssi.gov.ma//fr/content/4138140423-vulnerabilites-dans-les-produits-lenovo.html)|Plusieurs vulnérabilités ont été corrigées dans les produits Lenovo susmentionnés.L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges, de porter atteinte à la confidentialité des données, de causer...|14 avril 2023|
- |[41361304/23 - Vulnérabilités affectant des produits Palo Alto ](https://www.dgssi.gov.ma//fr/content/4136130423-vulnerabilites-affectant-des-produits-palo-alto.html)|Palo Alto Networks annonce la correction de trois vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’accéder à des données confidentielles.|13 avril 2023|
- |[41351304/23 - Vulnérabilités critiques dans les produits Jenkins](https://www.dgssi.gov.ma//fr/content/4135130423-vulnerabilites-critiques-dans-les-produits-jenkins.html)|Jenkins annonce la correction de plusieurs vulnérabilités critiques affectant les produits susmentionnés. L'exploitation de ces vulnérabilités peut permettre à un attaquant distant d’injecter du code dans une page, d’accéder à des...|13 avril 2023|
- |[41341304/23 - Vulnérabilités critiques dans les produits SAP](https://www.dgssi.gov.ma//fr/content/4134130423-vulnerabilites-critiques-dans-les-produits-sap.html)|SAP annonce la disponibilité d’une mise à jour de sécurité corrigeant plusieurs vulnérabilités critiques affectant les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la...|13 avril 2023|
- |[41281204/23 - Mises à jour de sécurité pour des produits de Fortinet ](https://www.dgssi.gov.ma//fr/content/4128120423-mises-jour-de-securite-pour-des-produits-de-fortinet.html)|Fortinet annonce la disponibilité de mises à jour de sécurité permettant la correctionde vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peut permettre à un attaquant distant d’...|12 avril 2023|
- |[41271204/23 - Vulnérabilités affectantle navigateur Mozilla Firefox](https://www.dgssi.gov.ma//fr/content/4127120423-vulnerabilites-affectant-le-navigateur-mozilla-firefox.html)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de cesvulnérabilités peut permettre à un...|12 avril 2023|
- |[41261204/23 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/4126120423-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant son client de messagerie Mozilla Thunderbird. L’exploitation de ces vulnérabilités peut permettre à un...|12 avril 2023|
- |[41251204/23 - Vulnérabilités affectant plusieurs produits d’Adobe](https://www.dgssi.gov.ma//fr/content/4125120423-vulnerabilites-affectant-plusieurs-produits-d-adobe.html)|Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuterdu code arbitraire, d’...|12 avril 2023|
  
 
 # HK-CERT
@@ -96,21 +79,17 @@
  |[Apple Products Remote Code Execution Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-remote-code-execution-vulnerabilities_20230411)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system. Note:CVE-2023-28205 and CVE-2023-28206 are being exploited in the wild. These...|Release Date: 11 Apr 2023|
  
 
-# OBS-Vigilance
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Gradle-privilege-escalation-via-System-Temporary-Directory-41067" class="noirorange"><b>Gradle</b>: privilege escalation via System Temporary Directory</a>](https://vigilance.fr/vulnerability/Gradle-privilege-escalation-via-System-Temporary-Directory-41067)|An attacker can bypass restrictions of Gradle, via System Temporary Directory, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Defender-ingress-filtrering-bypass-41066" class="noirorange"><b>Microsoft Defender</b>: ingress filtrering bypass</a>](https://vigilance.fr/vulnerability/Microsoft-Defender-ingress-filtrering-bypass-41066)|An attacker can bypass filtering rules of Microsoft Defender, via a specially crafted file, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Kamailio-SIP-buffer-overflow-via-INVITE-Requests-Duplicated-Fields-41065" class="noirorange"><b>Kamailio SIP</b>: buffer overflow via INVITE Requests Duplicated Fields</a>](https://vigilance.fr/vulnerability/Kamailio-SIP-buffer-overflow-via-INVITE-Requests-Duplicated-Fields-41065)|An attacker can trigger a buffer overflow of Kamailio SIP, via INVITE Requests Duplicated Fields, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Redis-denial-of-service-via-the-command-HINCRBYFLOAT-41064" class="noirorange"><b>Redis</b>: denial of service via the command HINCRBYFLOAT</a>](https://vigilance.fr/vulnerability/Redis-denial-of-service-via-the-command-HINCRBYFLOAT-41064)|An attacker can cause a fatal error of Redis, via the command HINCRBYFLOAT, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-da9150-charger-remove-41063" class="noirorange"><b>Linux kernel</b>: reuse after free via da9150_charger_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-da9150-charger-remove-41063)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-Bluetooth-Management-Commands-41061" class="noirorange"><b>Linux kernel</b>: privilege escalation via Bluetooth Management Commands</a>](https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-Bluetooth-Management-Commands-41061)|An attacker can bypass restrictions of the Linux kernel, via Bluetooth Management Commands, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Rails-Cross-Site-Scripting-via-MVC-Web-Application-41060" class="noirorange"><b>Rails</b>: Cross Site Scripting via MVC Web Application</a>](https://vigilance.fr/vulnerability/Rails-Cross-Site-Scripting-via-MVC-Web-Application-41060)|An attacker can trigger a Cross Site Scripting of Rails, via MVC Web Application, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-memory-corruption-via-V8-Type-Confusion-41059" class="noirorange"><b>Chrome</b>: memory corruption via V8 Type Confusion</a>](https://vigilance.fr/vulnerability/Chrome-memory-corruption-via-V8-Type-Confusion-41059)|An attacker can trigger a memory corruption of Chrome, via V8 Type Confusion, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Hyperium-Hyper-overload-via-max-header-list-size-41058" class="noirorange"><b>Hyperium Hyper</b>: overload via max_header_list_size</a>](https://vigilance.fr/vulnerability/Hyperium-Hyper-overload-via-max-header-list-size-41058)|An attacker can trigger an overload of Hyperium Hyper, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/mod-auth-openidc-NULL-pointer-dereference-via-OIDCStripCookies-41057" class="noirorange"><b>mod_auth_openidc</b>: NULL pointer dereference via OIDCStripCookies</a>](https://vigilance.fr/vulnerability/mod-auth-openidc-NULL-pointer-dereference-via-OIDCStripCookies-41057)|An attacker can force a NULL pointer to be dereferenced on mod_auth_openidc, via OIDCStripCookies, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SUSE-LE-vulnerability-via-tftpboot-installation-41056" class="noirorange"><b>SUSE LE</b>: vulnerability via tftpboot-installation</a>](https://vigilance.fr/vulnerability/SUSE-LE-vulnerability-via-tftpboot-installation-41056)|A vulnerability of SUSE LE, via |Visit link for details|
+ |[Kylin Software youker-assistant command execution (CVE-2023-2091)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 17, 2023|
+ |[Node.js vm2 module code execution (CVE-2023-30547)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 17, 2023|
+ |[Guzzle PSR-7 weak security (CVE-2023-29197)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 17, 2023|
+ |[ASUSTOR Data Master (ADM) buffer overflow (CVE-2023-30770)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 17, 2023|
+ |[NETGEAR RAX30 buffer overflow](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 17, 2023|
+ |[DREAM TRAIN INTERNET TONE Family security bypass](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 17, 2023|
+ |[Apache Superset server-side request forgery (CVE-2023-25504)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 17, 2023|
  
 
 # EU-CERT
@@ -130,31 +109,38 @@
  |[2023-013: Critical SQL injection vulnerabilities in MISP](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-013.pdf)|On February 20, 2023, the MISP project team released advisories regarding 2 critical SQL injection vulnerabilities in MISP Threat Intelligence and Sharing Platform. The team decided to follow a silent fix procedure, releasing several updates in November and December 2022, giving enough time to users to update their instances to a safe version.|Tuesday, February 21, 2023 11:15:00 AM CET|
  
 
-# IBM-X-FORCE-EXCHANGE
+# MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Kylin Software youker-assistant command execution (CVE-2023-2091)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 17, 2023|
- |[Guzzle PSR-7 weak security (CVE-2023-29197)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 17, 2023|
- |[ASUSTOR Data Master (ADM) buffer overflow (CVE-2023-30770)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 17, 2023|
- |[NETGEAR RAX30 buffer overflow](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 17, 2023|
- |[DREAM TRAIN INTERNET TONE Family security bypass](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 17, 2023|
- |[Apache Superset server-side request forgery (CVE-2023-25504)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 17, 2023|
- |[Apache Superset information disclosure (CVE-2023-27525)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 17, 2023|
+ |[41401704/23 - Vulnérabilité critique dans Google Chrome](https://www.dgssi.gov.ma//fr/content/4140170423-vulnerabilite-critique-dans-google-chrome.html)|Google a corrigé une vulnérabilité critique de type « zero-day » dans son navigateur Google Chrome. L’exploitation de cette faille peut permettre à un attaquant de prendre le contrôle du système affecté.Google confirme que cette faille...|17 avril 2023|
+ |[41391404/23 - Vulnérabilité dans les produits Hikvision](https://www.dgssi.gov.ma//fr/content/4139140423-vulnerabilite-dans-les-produits-hikvision.html)|Une vulnérabilité a été corrigée dans les produits de vidéosurveillance "Hikvision Hybrid SAN/Cluster Storage" susmentionnés. La vulnérabilité, suivit par« CVE-2023-28808 », a été décrite par l'éditeur comme un problème de...|14 avril 2023|
+ |[41371404/23 - Vulnérabilités affectantdes produits Juniper](https://www.dgssi.gov.ma//fr/content/4137140423-vulnerabilites-affectant-des-produits-juniper.html)|Juniper annonce la correction de plusieursvulnérabilités qui affectent certains de ses produits.Un attaquant distantpourrait exploiter ces failles afin d’exécuter du code arbitraire, injecter du contenu dans une page,...|14 avril 2023|
+ |[41381404/23 - Vulnérabilités dans les produits Lenovo](https://www.dgssi.gov.ma//fr/content/4138140423-vulnerabilites-dans-les-produits-lenovo.html)|Plusieurs vulnérabilités ont été corrigées dans les produits Lenovo susmentionnés.L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges, de porter atteinte à la confidentialité des données, de causer...|14 avril 2023|
+ |[41361304/23 - Vulnérabilités affectant des produits Palo Alto ](https://www.dgssi.gov.ma//fr/content/4136130423-vulnerabilites-affectant-des-produits-palo-alto.html)|Palo Alto Networks annonce la correction de trois vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’accéder à des données confidentielles.|13 avril 2023|
+ |[41351304/23 - Vulnérabilités critiques dans les produits Jenkins](https://www.dgssi.gov.ma//fr/content/4135130423-vulnerabilites-critiques-dans-les-produits-jenkins.html)|Jenkins annonce la correction de plusieurs vulnérabilités critiques affectant les produits susmentionnés. L'exploitation de ces vulnérabilités peut permettre à un attaquant distant d’injecter du code dans une page, d’accéder à des...|13 avril 2023|
+ |[41341304/23 - Vulnérabilités critiques dans les produits SAP](https://www.dgssi.gov.ma//fr/content/4134130423-vulnerabilites-critiques-dans-les-produits-sap.html)|SAP annonce la disponibilité d’une mise à jour de sécurité corrigeant plusieurs vulnérabilités critiques affectant les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la...|13 avril 2023|
+ |[41281204/23 - Mises à jour de sécurité pour des produits de Fortinet ](https://www.dgssi.gov.ma//fr/content/4128120423-mises-jour-de-securite-pour-des-produits-de-fortinet.html)|Fortinet annonce la disponibilité de mises à jour de sécurité permettant la correctionde vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peut permettre à un attaquant distant d’...|12 avril 2023|
+ |[41271204/23 - Vulnérabilités affectantle navigateur Mozilla Firefox](https://www.dgssi.gov.ma//fr/content/4127120423-vulnerabilites-affectant-le-navigateur-mozilla-firefox.html)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de cesvulnérabilités peut permettre à un...|12 avril 2023|
+ |[41261204/23 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/4126120423-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant son client de messagerie Mozilla Thunderbird. L’exploitation de ces vulnérabilités peut permettre à un...|12 avril 2023|
+ |[41251204/23 - Vulnérabilités affectant plusieurs produits d’Adobe](https://www.dgssi.gov.ma//fr/content/4125120423-vulnerabilites-affectant-plusieurs-produits-d-adobe.html)|Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuterdu code arbitraire, d’...|12 avril 2023|
  
 
-# ZERODAYINITIATIVE
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
+ |[<a href="https://vigilance.fr/vulnerability/Gradle-privilege-escalation-via-System-Temporary-Directory-41067" class="noirorange"><b>Gradle</b>: privilege escalation via System Temporary Directory</a>](https://vigilance.fr/vulnerability/Gradle-privilege-escalation-via-System-Temporary-Directory-41067)|An attacker can bypass restrictions of Gradle, via System Temporary Directory, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Defender-ingress-filtrering-bypass-41066" class="noirorange"><b>Microsoft Defender</b>: ingress filtrering bypass</a>](https://vigilance.fr/vulnerability/Microsoft-Defender-ingress-filtrering-bypass-41066)|An attacker can bypass filtering rules of Microsoft Defender, via a specially crafted file, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Kamailio-SIP-buffer-overflow-via-INVITE-Requests-Duplicated-Fields-41065" class="noirorange"><b>Kamailio SIP</b>: buffer overflow via INVITE Requests Duplicated Fields</a>](https://vigilance.fr/vulnerability/Kamailio-SIP-buffer-overflow-via-INVITE-Requests-Duplicated-Fields-41065)|An attacker can trigger a buffer overflow of Kamailio SIP, via INVITE Requests Duplicated Fields, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Redis-denial-of-service-via-the-command-HINCRBYFLOAT-41064" class="noirorange"><b>Redis</b>: denial of service via the command HINCRBYFLOAT</a>](https://vigilance.fr/vulnerability/Redis-denial-of-service-via-the-command-HINCRBYFLOAT-41064)|An attacker can cause a fatal error of Redis, via the command HINCRBYFLOAT, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-da9150-charger-remove-41063" class="noirorange"><b>Linux kernel</b>: reuse after free via da9150_charger_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-da9150-charger-remove-41063)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-Bluetooth-Management-Commands-41061" class="noirorange"><b>Linux kernel</b>: privilege escalation via Bluetooth Management Commands</a>](https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-Bluetooth-Management-Commands-41061)|An attacker can bypass restrictions of the Linux kernel, via Bluetooth Management Commands, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Rails-Cross-Site-Scripting-via-MVC-Web-Application-41060" class="noirorange"><b>Rails</b>: Cross Site Scripting via MVC Web Application</a>](https://vigilance.fr/vulnerability/Rails-Cross-Site-Scripting-via-MVC-Web-Application-41060)|An attacker can trigger a Cross Site Scripting of Rails, via MVC Web Application, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-memory-corruption-via-V8-Type-Confusion-41059" class="noirorange"><b>Chrome</b>: memory corruption via V8 Type Confusion</a>](https://vigilance.fr/vulnerability/Chrome-memory-corruption-via-V8-Type-Confusion-41059)|An attacker can trigger a memory corruption of Chrome, via V8 Type Confusion, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Hyperium-Hyper-overload-via-max-header-list-size-41058" class="noirorange"><b>Hyperium Hyper</b>: overload via max_header_list_size</a>](https://vigilance.fr/vulnerability/Hyperium-Hyper-overload-via-max-header-list-size-41058)|An attacker can trigger an overload of Hyperium Hyper, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/mod-auth-openidc-NULL-pointer-dereference-via-OIDCStripCookies-41057" class="noirorange"><b>mod_auth_openidc</b>: NULL pointer dereference via OIDCStripCookies</a>](https://vigilance.fr/vulnerability/mod-auth-openidc-NULL-pointer-dereference-via-OIDCStripCookies-41057)|An attacker can force a NULL pointer to be dereferenced on mod_auth_openidc, via OIDCStripCookies, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SUSE-LE-vulnerability-via-tftpboot-installation-41056" class="noirorange"><b>SUSE LE</b>: vulnerability via tftpboot-installation</a>](https://vigilance.fr/vulnerability/SUSE-LE-vulnerability-via-tftpboot-installation-41056)|A vulnerability of SUSE LE, via |Visit link for details|
  
 
 # CA-CCS
@@ -172,4 +158,18 @@
  |[[Control systems] Datakit security advisory (AV23-212)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-datakit-security-advisory-av23-212)|Visit link for details|2023-04-14|
  |[[Control systems] Mitsubishi Electric India security advisory (AV23-211)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-india-security-advisory-av23-211)|Visit link for details|2023-04-14|
  |[[Control Systems] FANUC security advisory (AV23-210)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-fanuc-security-advisory-av23-210)|Visit link for details|2023-04-13|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
