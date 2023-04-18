@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 18/04/2023 08:22:40 UTC
+ > Last Updated 18/04/2023 09:17:31 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -41,12 +41,6 @@
  |[Fortinet Releases April 2023 Vulnerability Advisories](https://www.cisa.gov/news-events/alerts/2023/04/11/fortinet-releases-april-2023-vulnerability-advisories)|Visit link for details.|Apr 11, 2023|
  
 
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -79,6 +73,29 @@
  |[Apple Products Remote Code Execution Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-remote-code-execution-vulnerabilities_20230411)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system. Note:CVE-2023-28205 and CVE-2023-28206 are being exploited in the wild. These...|Release Date: 11 Apr 2023|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Gradle-privilege-escalation-via-System-Temporary-Directory-41067" class="noirorange"><b>Gradle</b>: privilege escalation via System Temporary Directory</a>](https://vigilance.fr/vulnerability/Gradle-privilege-escalation-via-System-Temporary-Directory-41067)|An attacker can bypass restrictions of Gradle, via System Temporary Directory, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Defender-ingress-filtrering-bypass-41066" class="noirorange"><b>Microsoft Defender</b>: ingress filtrering bypass</a>](https://vigilance.fr/vulnerability/Microsoft-Defender-ingress-filtrering-bypass-41066)|An attacker can bypass filtering rules of Microsoft Defender, via a specially crafted file, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Kamailio-SIP-buffer-overflow-via-INVITE-Requests-Duplicated-Fields-41065" class="noirorange"><b>Kamailio SIP</b>: buffer overflow via INVITE Requests Duplicated Fields</a>](https://vigilance.fr/vulnerability/Kamailio-SIP-buffer-overflow-via-INVITE-Requests-Duplicated-Fields-41065)|An attacker can trigger a buffer overflow of Kamailio SIP, via INVITE Requests Duplicated Fields, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Redis-denial-of-service-via-the-command-HINCRBYFLOAT-41064" class="noirorange"><b>Redis</b>: denial of service via the command HINCRBYFLOAT</a>](https://vigilance.fr/vulnerability/Redis-denial-of-service-via-the-command-HINCRBYFLOAT-41064)|An attacker can cause a fatal error of Redis, via the command HINCRBYFLOAT, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-da9150-charger-remove-41063" class="noirorange"><b>Linux kernel</b>: reuse after free via da9150_charger_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-da9150-charger-remove-41063)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-Bluetooth-Management-Commands-41061" class="noirorange"><b>Linux kernel</b>: privilege escalation via Bluetooth Management Commands</a>](https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-Bluetooth-Management-Commands-41061)|An attacker can bypass restrictions of the Linux kernel, via Bluetooth Management Commands, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Rails-Cross-Site-Scripting-via-MVC-Web-Application-41060" class="noirorange"><b>Rails</b>: Cross Site Scripting via MVC Web Application</a>](https://vigilance.fr/vulnerability/Rails-Cross-Site-Scripting-via-MVC-Web-Application-41060)|An attacker can trigger a Cross Site Scripting of Rails, via MVC Web Application, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-memory-corruption-via-V8-Type-Confusion-41059" class="noirorange"><b>Chrome</b>: memory corruption via V8 Type Confusion</a>](https://vigilance.fr/vulnerability/Chrome-memory-corruption-via-V8-Type-Confusion-41059)|An attacker can trigger a memory corruption of Chrome, via V8 Type Confusion, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Hyperium-Hyper-overload-via-max-header-list-size-41058" class="noirorange"><b>Hyperium Hyper</b>: overload via max_header_list_size</a>](https://vigilance.fr/vulnerability/Hyperium-Hyper-overload-via-max-header-list-size-41058)|An attacker can trigger an overload of Hyperium Hyper, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/mod-auth-openidc-NULL-pointer-dereference-via-OIDCStripCookies-41057" class="noirorange"><b>mod_auth_openidc</b>: NULL pointer dereference via OIDCStripCookies</a>](https://vigilance.fr/vulnerability/mod-auth-openidc-NULL-pointer-dereference-via-OIDCStripCookies-41057)|An attacker can force a NULL pointer to be dereferenced on mod_auth_openidc, via OIDCStripCookies, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SUSE-LE-vulnerability-via-tftpboot-installation-41056" class="noirorange"><b>SUSE LE</b>: vulnerability via tftpboot-installation</a>](https://vigilance.fr/vulnerability/SUSE-LE-vulnerability-via-tftpboot-installation-41056)|A vulnerability of SUSE LE, via |Visit link for details|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -109,6 +126,20 @@
  |[2023-013: Critical SQL injection vulnerabilities in MISP](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-013.pdf)|On February 20, 2023, the MISP project team released advisories regarding 2 critical SQL injection vulnerabilities in MISP Threat Intelligence and Sharing Platform. The team decided to follow a silent fix procedure, releasing several updates in November and December 2022, giving enough time to users to update their instances to a safe version.|Tuesday, February 21, 2023 11:15:00 AM CET|
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -126,23 +157,6 @@
  |[41251204/23 - Vulnérabilités affectant plusieurs produits d’Adobe](https://www.dgssi.gov.ma//fr/content/4125120423-vulnerabilites-affectant-plusieurs-produits-d-adobe.html)|Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuterdu code arbitraire, d’...|12 avril 2023|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Gradle-privilege-escalation-via-System-Temporary-Directory-41067" class="noirorange"><b>Gradle</b>: privilege escalation via System Temporary Directory</a>](https://vigilance.fr/vulnerability/Gradle-privilege-escalation-via-System-Temporary-Directory-41067)|An attacker can bypass restrictions of Gradle, via System Temporary Directory, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Defender-ingress-filtrering-bypass-41066" class="noirorange"><b>Microsoft Defender</b>: ingress filtrering bypass</a>](https://vigilance.fr/vulnerability/Microsoft-Defender-ingress-filtrering-bypass-41066)|An attacker can bypass filtering rules of Microsoft Defender, via a specially crafted file, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Kamailio-SIP-buffer-overflow-via-INVITE-Requests-Duplicated-Fields-41065" class="noirorange"><b>Kamailio SIP</b>: buffer overflow via INVITE Requests Duplicated Fields</a>](https://vigilance.fr/vulnerability/Kamailio-SIP-buffer-overflow-via-INVITE-Requests-Duplicated-Fields-41065)|An attacker can trigger a buffer overflow of Kamailio SIP, via INVITE Requests Duplicated Fields, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Redis-denial-of-service-via-the-command-HINCRBYFLOAT-41064" class="noirorange"><b>Redis</b>: denial of service via the command HINCRBYFLOAT</a>](https://vigilance.fr/vulnerability/Redis-denial-of-service-via-the-command-HINCRBYFLOAT-41064)|An attacker can cause a fatal error of Redis, via the command HINCRBYFLOAT, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-da9150-charger-remove-41063" class="noirorange"><b>Linux kernel</b>: reuse after free via da9150_charger_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-da9150-charger-remove-41063)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-Bluetooth-Management-Commands-41061" class="noirorange"><b>Linux kernel</b>: privilege escalation via Bluetooth Management Commands</a>](https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-Bluetooth-Management-Commands-41061)|An attacker can bypass restrictions of the Linux kernel, via Bluetooth Management Commands, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Rails-Cross-Site-Scripting-via-MVC-Web-Application-41060" class="noirorange"><b>Rails</b>: Cross Site Scripting via MVC Web Application</a>](https://vigilance.fr/vulnerability/Rails-Cross-Site-Scripting-via-MVC-Web-Application-41060)|An attacker can trigger a Cross Site Scripting of Rails, via MVC Web Application, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-memory-corruption-via-V8-Type-Confusion-41059" class="noirorange"><b>Chrome</b>: memory corruption via V8 Type Confusion</a>](https://vigilance.fr/vulnerability/Chrome-memory-corruption-via-V8-Type-Confusion-41059)|An attacker can trigger a memory corruption of Chrome, via V8 Type Confusion, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Hyperium-Hyper-overload-via-max-header-list-size-41058" class="noirorange"><b>Hyperium Hyper</b>: overload via max_header_list_size</a>](https://vigilance.fr/vulnerability/Hyperium-Hyper-overload-via-max-header-list-size-41058)|An attacker can trigger an overload of Hyperium Hyper, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/mod-auth-openidc-NULL-pointer-dereference-via-OIDCStripCookies-41057" class="noirorange"><b>mod_auth_openidc</b>: NULL pointer dereference via OIDCStripCookies</a>](https://vigilance.fr/vulnerability/mod-auth-openidc-NULL-pointer-dereference-via-OIDCStripCookies-41057)|An attacker can force a NULL pointer to be dereferenced on mod_auth_openidc, via OIDCStripCookies, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SUSE-LE-vulnerability-via-tftpboot-installation-41056" class="noirorange"><b>SUSE LE</b>: vulnerability via tftpboot-installation</a>](https://vigilance.fr/vulnerability/SUSE-LE-vulnerability-via-tftpboot-installation-41056)|A vulnerability of SUSE LE, via |Visit link for details|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
@@ -158,18 +172,4 @@
  |[[Control systems] Datakit security advisory (AV23-212)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-datakit-security-advisory-av23-212)|Visit link for details|2023-04-14|
  |[[Control systems] Mitsubishi Electric India security advisory (AV23-211)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-india-security-advisory-av23-211)|Visit link for details|2023-04-14|
  |[[Control Systems] FANUC security advisory (AV23-210)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-fanuc-security-advisory-av23-210)|Visit link for details|2023-04-13|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
