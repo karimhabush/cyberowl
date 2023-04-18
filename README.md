@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 17/04/2023 23:17:31 UTC
+ > Last Updated 18/04/2023 01:22:29 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -25,22 +25,6 @@
  
  > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0320/)|De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 17 avril 2023|
- |[Vulnérabilité dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0319/)|Une vulnérabilité a été découverte dans |Publié le 17 avril 2023|
- |[Multiples vulnérabilités dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0318/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 avril 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0317/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 avril 2023|
- |[Vulnérabilité dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0316/)|Une vulnérabilité a été découverte dans le noyau Linux de Red Hat. Elle permet à un attaquant de provoquer un déni de service et une élévation de privilèges.|Publié le 14 avril 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0315/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 avril 2023|
- |[Multiples vulnérabilités dans IBM Spectrum Scale](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0314/)|De multiples vulnérabilités ont été découvertes dans IBM Spectrum Scale. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 14 avril 2023|
- |[Multiples vulnérabilités dans IBM AIX](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0313/)|De multiples vulnérabilités ont été découvertes dans IBM AIX. Elles permettent à un attaquant de provoquer une exécution de code arbitraire.|Publié le 13 avril 2023|
- |[Vulnérabilité dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0312/)|Une vulnérabilité a été découverte dans Wireshark. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 13 avril 2023|
- |[Multiples vulnérabilités dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0311/)|De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 13 avril 2023|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -57,40 +41,55 @@
  |[Fortinet Releases April 2023 Vulnerability Advisories](https://www.cisa.gov/news-events/alerts/2023/04/11/fortinet-releases-april-2023-vulnerability-advisories)|Visit link for details.|Apr 11, 2023|
  
 
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0320/)|De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 17 avril 2023|
+ |[Vulnérabilité dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0319/)|Une vulnérabilité a été découverte dans |Publié le 17 avril 2023|
+ |[Multiples vulnérabilités dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0318/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 avril 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0317/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 avril 2023|
+ |[Vulnérabilité dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0316/)|Une vulnérabilité a été découverte dans le noyau Linux de Red Hat. Elle permet à un attaquant de provoquer un déni de service et une élévation de privilèges.|Publié le 14 avril 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0315/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 avril 2023|
+ |[Multiples vulnérabilités dans IBM Spectrum Scale](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0314/)|De multiples vulnérabilités ont été découvertes dans IBM Spectrum Scale. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.|Publié le 14 avril 2023|
+ |[Multiples vulnérabilités dans IBM AIX](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0313/)|De multiples vulnérabilités ont été découvertes dans IBM AIX. Elles permettent à un attaquant de provoquer une exécution de code arbitraire.|Publié le 13 avril 2023|
+ |[Vulnérabilité dans Wireshark](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0312/)|Une vulnérabilité a été découverte dans Wireshark. Elle permet à un attaquant de provoquer un déni de service à distance.|Publié le 13 avril 2023|
+ |[Multiples vulnérabilités dans les produits Palo Alto Networks](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0311/)|De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.|Publié le 13 avril 2023|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20230417)|A vulnerability was identified in Google Chrome. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:CVE-2023-2033 is being exploited in the wild. The vulnerability is caused due to a type confusion error...|Release Date: 17 Apr 2023|
+ |[Microsoft Edge Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/microsoft-edge-remote-code-execution-vulnerability_20230417)|A vulnerability was identified in Microsoft Edge. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:CVE-2023-2033 is being exploited in the wild. The vulnerability is caused due to a type confusion error...|Release Date: 17 Apr 2023|
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230411)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2023-04-13] Updated System...| Release Date: 11 Apr 2023 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230403)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, data manipulation and security restriction bypass on the targeted system. [Updated on 2023-04-...| Release Date: 3 Apr 2023 |
+ |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20230413)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, data manipulation and cross-site scripting on the targeted system.|Release Date: 13 Apr 2023|
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230406)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-04-13] Updated System / Technologies affected, ...| Release Date: 6 Apr 2023 |
+ |[Adobe Monthly Security Update (April 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-april-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Digital Editions Medium RiskRemote Code Execution APSB23-04Adobe InCopy Medium RiskRemote Code Execution ...|Release Date: 12 Apr 2023|
+ |[Microsoft Monthly Security Update (April 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-april-2023)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesBrowser Medium RiskSecurity Restriction BypassSpoofingData Manipulation Windows Medium RiskRemote Code ExecutionInformation DisclosureDenial of Service...|Release Date: 12 Apr 2023|
+ |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20230412)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 12 Apr 2023|
+ |[Apple Products Remote Code Execution Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-remote-code-execution-vulnerabilities_20230411)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system. Note:CVE-2023-28205 and CVE-2023-28206 are being exploited in the wild. These...|Release Date: 11 Apr 2023|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
  |[Kylin Software youker-assistant command execution (CVE-2023-2091)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 17, 2023|
+ |[OMRON FINS (Factory Interface Network Service) command execution (CVE-2023-27396)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 17, 2023|
+ |[Shopware code execution (CVE-2023-2017)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 17, 2023|
  |[Chatwoot cross-site scripting (CVE-2023-2109)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 16, 2023|
  |[Sourcecodester Judging Management System SQL injection (CVE-2023-2108)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 16, 2023|
  |[Complaint Management System SQL injection (CVE-2023-2089)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 15, 2023|
  |[Employee and Visitor Gate Pass Logging System SQL injection (CVE-2023-2090)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 15, 2023|
- |[Vehicle Service Management System SQL injection (CVE-2023-2092)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 15, 2023|
- |[Vehicle Service Management System SQL injection (CVE-2023-2093)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 15, 2023|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Gradle-privilege-escalation-via-System-Temporary-Directory-41067" class="noirorange"><b>Gradle</b>: privilege escalation via System Temporary Directory</a>](https://vigilance.fr/vulnerability/Gradle-privilege-escalation-via-System-Temporary-Directory-41067)|An attacker can bypass restrictions of Gradle, via System Temporary Directory, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Defender-ingress-filtrering-bypass-41066" class="noirorange"><b>Microsoft Defender</b>: ingress filtrering bypass</a>](https://vigilance.fr/vulnerability/Microsoft-Defender-ingress-filtrering-bypass-41066)|An attacker can bypass filtering rules of Microsoft Defender, via a specially crafted file, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Kamailio-SIP-buffer-overflow-via-INVITE-Requests-Duplicated-Fields-41065" class="noirorange"><b>Kamailio SIP</b>: buffer overflow via INVITE Requests Duplicated Fields</a>](https://vigilance.fr/vulnerability/Kamailio-SIP-buffer-overflow-via-INVITE-Requests-Duplicated-Fields-41065)|An attacker can trigger a buffer overflow of Kamailio SIP, via INVITE Requests Duplicated Fields, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Redis-denial-of-service-via-the-command-HINCRBYFLOAT-41064" class="noirorange"><b>Redis</b>: denial of service via the command HINCRBYFLOAT</a>](https://vigilance.fr/vulnerability/Redis-denial-of-service-via-the-command-HINCRBYFLOAT-41064)|An attacker can cause a fatal error of Redis, via the command HINCRBYFLOAT, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-da9150-charger-remove-41063" class="noirorange"><b>Linux kernel</b>: reuse after free via da9150_charger_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-da9150-charger-remove-41063)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-Bluetooth-Management-Commands-41061" class="noirorange"><b>Linux kernel</b>: privilege escalation via Bluetooth Management Commands</a>](https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-Bluetooth-Management-Commands-41061)|An attacker can bypass restrictions of the Linux kernel, via Bluetooth Management Commands, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Rails-Cross-Site-Scripting-via-MVC-Web-Application-41060" class="noirorange"><b>Rails</b>: Cross Site Scripting via MVC Web Application</a>](https://vigilance.fr/vulnerability/Rails-Cross-Site-Scripting-via-MVC-Web-Application-41060)|An attacker can trigger a Cross Site Scripting of Rails, via MVC Web Application, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-memory-corruption-via-V8-Type-Confusion-41059" class="noirorange"><b>Chrome</b>: memory corruption via V8 Type Confusion</a>](https://vigilance.fr/vulnerability/Chrome-memory-corruption-via-V8-Type-Confusion-41059)|An attacker can trigger a memory corruption of Chrome, via V8 Type Confusion, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Hyperium-Hyper-overload-via-max-header-list-size-41058" class="noirorange"><b>Hyperium Hyper</b>: overload via max_header_list_size</a>](https://vigilance.fr/vulnerability/Hyperium-Hyper-overload-via-max-header-list-size-41058)|An attacker can trigger an overload of Hyperium Hyper, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/mod-auth-openidc-NULL-pointer-dereference-via-OIDCStripCookies-41057" class="noirorange"><b>mod_auth_openidc</b>: NULL pointer dereference via OIDCStripCookies</a>](https://vigilance.fr/vulnerability/mod-auth-openidc-NULL-pointer-dereference-via-OIDCStripCookies-41057)|An attacker can force a NULL pointer to be dereferenced on mod_auth_openidc, via OIDCStripCookies, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SUSE-LE-vulnerability-via-tftpboot-installation-41056" class="noirorange"><b>SUSE LE</b>: vulnerability via tftpboot-installation</a>](https://vigilance.fr/vulnerability/SUSE-LE-vulnerability-via-tftpboot-installation-41056)|A vulnerability of SUSE LE, via |Visit link for details|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # EU-CERT
@@ -110,20 +109,21 @@
  |[2023-013: Critical SQL injection vulnerabilities in MISP](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-013.pdf)|On February 20, 2023, the MISP project team released advisories regarding 2 critical SQL injection vulnerabilities in MISP Threat Intelligence and Sharing Platform. The team decided to follow a silent fix procedure, releasing several updates in November and December 2022, giving enough time to users to update their instances to a safe version.|Tuesday, February 21, 2023 11:15:00 AM CET|
  
 
-# HK-CERT
+# OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
- |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20230417)|A vulnerability was identified in Google Chrome. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:CVE-2023-2033 is being exploited in the wild. The vulnerability is caused due to a type confusion error...|Release Date: 17 Apr 2023|
- |[Microsoft Edge Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/microsoft-edge-remote-code-execution-vulnerability_20230417)|A vulnerability was identified in Microsoft Edge. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:CVE-2023-2033 is being exploited in the wild. The vulnerability is caused due to a type confusion error...|Release Date: 17 Apr 2023|
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230411)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2023-04-13] Updated System...| Release Date: 11 Apr 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230403)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, data manipulation and security restriction bypass on the targeted system. [Updated on 2023-04-...| Release Date: 3 Apr 2023 |
- |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20230413)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, data manipulation and cross-site scripting on the targeted system.|Release Date: 13 Apr 2023|
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230406)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-04-13] Updated System / Technologies affected, ...| Release Date: 6 Apr 2023 |
- |[Adobe Monthly Security Update (April 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-april-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Digital Editions Medium RiskRemote Code Execution APSB23-04Adobe InCopy Medium RiskRemote Code Execution ...|Release Date: 12 Apr 2023|
- |[Microsoft Monthly Security Update (April 2023)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-april-2023)|Microsoft has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesBrowser Medium RiskSecurity Restriction BypassSpoofingData Manipulation Windows Medium RiskRemote Code ExecutionInformation DisclosureDenial of Service...|Release Date: 12 Apr 2023|
- |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20230412)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, spoofing, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system.|Release Date: 12 Apr 2023|
- |[Apple Products Remote Code Execution Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-remote-code-execution-vulnerabilities_20230411)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system. Note:CVE-2023-28205 and CVE-2023-28206 are being exploited in the wild. These...|Release Date: 11 Apr 2023|
+ |[<a href="https://vigilance.fr/vulnerability/Gradle-privilege-escalation-via-System-Temporary-Directory-41067" class="noirorange"><b>Gradle</b>: privilege escalation via System Temporary Directory</a>](https://vigilance.fr/vulnerability/Gradle-privilege-escalation-via-System-Temporary-Directory-41067)|An attacker can bypass restrictions of Gradle, via System Temporary Directory, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Defender-ingress-filtrering-bypass-41066" class="noirorange"><b>Microsoft Defender</b>: ingress filtrering bypass</a>](https://vigilance.fr/vulnerability/Microsoft-Defender-ingress-filtrering-bypass-41066)|An attacker can bypass filtering rules of Microsoft Defender, via a specially crafted file, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Kamailio-SIP-buffer-overflow-via-INVITE-Requests-Duplicated-Fields-41065" class="noirorange"><b>Kamailio SIP</b>: buffer overflow via INVITE Requests Duplicated Fields</a>](https://vigilance.fr/vulnerability/Kamailio-SIP-buffer-overflow-via-INVITE-Requests-Duplicated-Fields-41065)|An attacker can trigger a buffer overflow of Kamailio SIP, via INVITE Requests Duplicated Fields, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Redis-denial-of-service-via-the-command-HINCRBYFLOAT-41064" class="noirorange"><b>Redis</b>: denial of service via the command HINCRBYFLOAT</a>](https://vigilance.fr/vulnerability/Redis-denial-of-service-via-the-command-HINCRBYFLOAT-41064)|An attacker can cause a fatal error of Redis, via the command HINCRBYFLOAT, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-da9150-charger-remove-41063" class="noirorange"><b>Linux kernel</b>: reuse after free via da9150_charger_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-da9150-charger-remove-41063)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-Bluetooth-Management-Commands-41061" class="noirorange"><b>Linux kernel</b>: privilege escalation via Bluetooth Management Commands</a>](https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-Bluetooth-Management-Commands-41061)|An attacker can bypass restrictions of the Linux kernel, via Bluetooth Management Commands, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Rails-Cross-Site-Scripting-via-MVC-Web-Application-41060" class="noirorange"><b>Rails</b>: Cross Site Scripting via MVC Web Application</a>](https://vigilance.fr/vulnerability/Rails-Cross-Site-Scripting-via-MVC-Web-Application-41060)|An attacker can trigger a Cross Site Scripting of Rails, via MVC Web Application, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-memory-corruption-via-V8-Type-Confusion-41059" class="noirorange"><b>Chrome</b>: memory corruption via V8 Type Confusion</a>](https://vigilance.fr/vulnerability/Chrome-memory-corruption-via-V8-Type-Confusion-41059)|An attacker can trigger a memory corruption of Chrome, via V8 Type Confusion, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Hyperium-Hyper-overload-via-max-header-list-size-41058" class="noirorange"><b>Hyperium Hyper</b>: overload via max_header_list_size</a>](https://vigilance.fr/vulnerability/Hyperium-Hyper-overload-via-max-header-list-size-41058)|An attacker can trigger an overload of Hyperium Hyper, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/mod-auth-openidc-NULL-pointer-dereference-via-OIDCStripCookies-41057" class="noirorange"><b>mod_auth_openidc</b>: NULL pointer dereference via OIDCStripCookies</a>](https://vigilance.fr/vulnerability/mod-auth-openidc-NULL-pointer-dereference-via-OIDCStripCookies-41057)|An attacker can force a NULL pointer to be dereferenced on mod_auth_openidc, via OIDCStripCookies, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SUSE-LE-vulnerability-via-tftpboot-installation-41056" class="noirorange"><b>SUSE LE</b>: vulnerability via tftpboot-installation</a>](https://vigilance.fr/vulnerability/SUSE-LE-vulnerability-via-tftpboot-installation-41056)|A vulnerability of SUSE LE, via |Visit link for details|
  
 
 # MA-CERT
