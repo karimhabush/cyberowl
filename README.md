@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 19/04/2023 16:23:36 UTC
+ > Last Updated 19/04/2023 17:16:19 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -29,6 +29,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA Adds One Known Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/04/19/cisa-adds-one-known-vulnerability-catalog)|Visit link for details.|Apr 19, 2023|
+ |[CISA and Partners Release Cybersecurity Best Practices for Smart Cities](https://www.cisa.gov/news-events/alerts/2023/04/19/cisa-and-partners-release-cybersecurity-best-practices-smart-cities)|Visit link for details.|Apr 19, 2023|
  |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/04/18/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Apr 18, 2023|
  |[APT28 Exploits Known Vulnerability To Carry Out Reconnaissance and Deploy Malware on Cisco Routers](https://www.cisa.gov/news-events/alerts/2023/04/18/apt28-exploits-known-vulnerability-carry-out-reconnaissance-and-deploy-malware-cisco-routers)|Visit link for details.|Apr 18, 2023|
  |[IRS Warns of New Tax Scams](https://www.cisa.gov/news-events/alerts/2023/04/17/irs-warns-new-tax-scams)|Visit link for details.|Apr 17, 2023|
@@ -37,8 +39,6 @@
  |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/04/13/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Apr 13, 2023|
  |[CISA Releases Sixteen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/04/13/cisa-releases-sixteen-industrial-control-systems-advisories)|Visit link for details.|Apr 13, 2023|
  |[Juniper Networks Releases Security Updates](https://www.cisa.gov/news-events/alerts/2023/04/13/juniper-networks-releases-security-updates)|Visit link for details.|Apr 13, 2023|
- |[Shifting the Balance of Cybersecurity Risk: Security-by-Design and Default Principles](https://www.cisa.gov/news-events/alerts/2023/04/13/shifting-balance-cybersecurity-risk-security-design-and-default-principles)|Visit link for details.|Apr 13, 2023|
- |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/04/11/adobe-releases-security-updates-multiple-products)|Visit link for details.|Apr 11, 2023|
  
 
 # HK-CERT
@@ -57,19 +57,6 @@
  |[Adobe Monthly Security Update (April 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-april-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Digital Editions Medium RiskRemote Code Execution APSB23-04Adobe InCopy Medium RiskRemote Code Execution ...|Release Date: 12 Apr 2023|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Oracle Health Sciences InForm unspecified (CVE-2023-21923)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 19, 2023|
- |[XWiki Platform privilege escalation (CVE-2023-29525)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2023|
- |[XWiki Platform privilege escalation (CVE-2023-29527)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2023|
- |[Oracle Solaris unspecified (CVE-2023-21896)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2023|
- |[Oracle Financial Services Behavior Detection Platform unspecified (CVE-2023-21902)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2023|
- |[Oracle Banking Virtual Account Management unspecified (CVE-2023-21903)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2023|
- |[Oracle Banking Virtual Account Management unspecified (CVE-2023-21904)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2023|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -86,10 +73,17 @@
  |[Vulnérabilité dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0316/)|Une vulnérabilité a été découverte dans le noyau Linux de Red Hat. Elle permet à un attaquant de provoquer un déni de service et une élévation de privilèges.|Publié le 14 avril 2023|
  
 
-# VulDB
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
+ |[Oracle Health Sciences InForm unspecified (CVE-2023-21923)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 19, 2023|
+ |[Alo Presencia user SQL injection (CVE-2023-27779)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2023|
+ |[XWiki Platform privilege escalation (CVE-2023-29524)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2023|
+ |[XWiki Platform privilege escalation (CVE-2023-29525)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2023|
+ |[XWiki Platform privilege escalation (CVE-2023-29527)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2023|
+ |[Oracle Solaris unspecified (CVE-2023-21896)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2023|
+ |[Oracle Financial Services Behavior Detection Platform unspecified (CVE-2023-21902)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2023|
  
 
 # ZERODAYINITIATIVE
@@ -104,6 +98,12 @@
  |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
  |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
  |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # EU-CERT
