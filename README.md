@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 18/04/2023 23:17:33 UTC
+ > Last Updated 19/04/2023 01:25:01 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -25,20 +25,10 @@
  
  > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
 
-# US-CERT
+# VulDB
 
  |Title|Description|Date|
  |---|---|---|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/04/18/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Apr 18, 2023|
- |[APT28 Exploits Known Vulnerability To Carry Out Reconnaissance and Deploy Malware on Cisco Routers](https://www.cisa.gov/news-events/alerts/2023/04/18/apt28-exploits-known-vulnerability-carry-out-reconnaissance-and-deploy-malware-cisco-routers)|Visit link for details.|Apr 18, 2023|
- |[IRS Warns of New Tax Scams](https://www.cisa.gov/news-events/alerts/2023/04/17/irs-warns-new-tax-scams)|Visit link for details.|Apr 17, 2023|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/04/17/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Apr 17, 2023|
- |[CISA and CESER Releases Software Bill of Materials (SBOM) Sharing Lifecycle Report ](https://www.cisa.gov/news-events/alerts/2023/04/17/cisa-and-ceser-releases-software-bill-materials-sbom-sharing-lifecycle-report)|Visit link for details.|Apr 17, 2023|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/04/13/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Apr 13, 2023|
- |[CISA Releases Sixteen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/04/13/cisa-releases-sixteen-industrial-control-systems-advisories)|Visit link for details.|Apr 13, 2023|
- |[Juniper Networks Releases Security Updates](https://www.cisa.gov/news-events/alerts/2023/04/13/juniper-networks-releases-security-updates)|Visit link for details.|Apr 13, 2023|
- |[Shifting the Balance of Cybersecurity Risk: Security-by-Design and Default Principles](https://www.cisa.gov/news-events/alerts/2023/04/13/shifting-balance-cybersecurity-risk-security-design-and-default-principles)|Visit link for details.|Apr 13, 2023|
- |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/04/11/adobe-releases-security-updates-multiple-products)|Visit link for details.|Apr 11, 2023|
  
 
 # CERT-FR
@@ -57,27 +47,20 @@
  |[Multiples vulnérabilités dans IBM AIX](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0313/)|De multiples vulnérabilités ont été découvertes dans IBM AIX. Elles permettent à un attaquant de provoquer une exécution de code arbitraire.|Publié le 13 avril 2023|
  
 
-# OBS-Vigilance
+# US-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Gradle-privilege-escalation-via-System-Temporary-Directory-41067" class="noirorange"><b>Gradle</b>: privilege escalation via System Temporary Directory</a>](https://vigilance.fr/vulnerability/Gradle-privilege-escalation-via-System-Temporary-Directory-41067)|An attacker can bypass restrictions of Gradle, via System Temporary Directory, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Defender-ingress-filtrering-bypass-41066" class="noirorange"><b>Microsoft Defender</b>: ingress filtrering bypass</a>](https://vigilance.fr/vulnerability/Microsoft-Defender-ingress-filtrering-bypass-41066)|An attacker can bypass filtering rules of Microsoft Defender, via a specially crafted file, in order to send malicious data...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Kamailio-SIP-buffer-overflow-via-INVITE-Requests-Duplicated-Fields-41065" class="noirorange"><b>Kamailio SIP</b>: buffer overflow via INVITE Requests Duplicated Fields</a>](https://vigilance.fr/vulnerability/Kamailio-SIP-buffer-overflow-via-INVITE-Requests-Duplicated-Fields-41065)|An attacker can trigger a buffer overflow of Kamailio SIP, via INVITE Requests Duplicated Fields, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Redis-denial-of-service-via-the-command-HINCRBYFLOAT-41064" class="noirorange"><b>Redis</b>: denial of service via the command HINCRBYFLOAT</a>](https://vigilance.fr/vulnerability/Redis-denial-of-service-via-the-command-HINCRBYFLOAT-41064)|An attacker can cause a fatal error of Redis, via the command HINCRBYFLOAT, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-da9150-charger-remove-41063" class="noirorange"><b>Linux kernel</b>: reuse after free via da9150_charger_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-da9150-charger-remove-41063)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-Bluetooth-Management-Commands-41061" class="noirorange"><b>Linux kernel</b>: privilege escalation via Bluetooth Management Commands</a>](https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-Bluetooth-Management-Commands-41061)|An attacker can bypass restrictions of the Linux kernel, via Bluetooth Management Commands, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Rails-Cross-Site-Scripting-via-MVC-Web-Application-41060" class="noirorange"><b>Rails</b>: Cross Site Scripting via MVC Web Application</a>](https://vigilance.fr/vulnerability/Rails-Cross-Site-Scripting-via-MVC-Web-Application-41060)|An attacker can trigger a Cross Site Scripting of Rails, via MVC Web Application, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Chrome-memory-corruption-via-V8-Type-Confusion-41059" class="noirorange"><b>Chrome</b>: memory corruption via V8 Type Confusion</a>](https://vigilance.fr/vulnerability/Chrome-memory-corruption-via-V8-Type-Confusion-41059)|An attacker can trigger a memory corruption of Chrome, via V8 Type Confusion, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Hyperium-Hyper-overload-via-max-header-list-size-41058" class="noirorange"><b>Hyperium Hyper</b>: overload via max_header_list_size</a>](https://vigilance.fr/vulnerability/Hyperium-Hyper-overload-via-max-header-list-size-41058)|An attacker can trigger an overload of Hyperium Hyper, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/mod-auth-openidc-NULL-pointer-dereference-via-OIDCStripCookies-41057" class="noirorange"><b>mod_auth_openidc</b>: NULL pointer dereference via OIDCStripCookies</a>](https://vigilance.fr/vulnerability/mod-auth-openidc-NULL-pointer-dereference-via-OIDCStripCookies-41057)|An attacker can force a NULL pointer to be dereferenced on mod_auth_openidc, via OIDCStripCookies, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SUSE-LE-vulnerability-via-tftpboot-installation-41056" class="noirorange"><b>SUSE LE</b>: vulnerability via tftpboot-installation</a>](https://vigilance.fr/vulnerability/SUSE-LE-vulnerability-via-tftpboot-installation-41056)|A vulnerability of SUSE LE, via |Visit link for details|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/04/18/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Apr 18, 2023|
+ |[APT28 Exploits Known Vulnerability To Carry Out Reconnaissance and Deploy Malware on Cisco Routers](https://www.cisa.gov/news-events/alerts/2023/04/18/apt28-exploits-known-vulnerability-carry-out-reconnaissance-and-deploy-malware-cisco-routers)|Visit link for details.|Apr 18, 2023|
+ |[IRS Warns of New Tax Scams](https://www.cisa.gov/news-events/alerts/2023/04/17/irs-warns-new-tax-scams)|Visit link for details.|Apr 17, 2023|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/04/17/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Apr 17, 2023|
+ |[CISA and CESER Releases Software Bill of Materials (SBOM) Sharing Lifecycle Report ](https://www.cisa.gov/news-events/alerts/2023/04/17/cisa-and-ceser-releases-software-bill-materials-sbom-sharing-lifecycle-report)|Visit link for details.|Apr 17, 2023|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/04/13/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Apr 13, 2023|
+ |[CISA Releases Sixteen Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/04/13/cisa-releases-sixteen-industrial-control-systems-advisories)|Visit link for details.|Apr 13, 2023|
+ |[Juniper Networks Releases Security Updates](https://www.cisa.gov/news-events/alerts/2023/04/13/juniper-networks-releases-security-updates)|Visit link for details.|Apr 13, 2023|
+ |[Shifting the Balance of Cybersecurity Risk: Security-by-Design and Default Principles](https://www.cisa.gov/news-events/alerts/2023/04/13/shifting-balance-cybersecurity-risk-security-design-and-default-principles)|Visit link for details.|Apr 13, 2023|
+ |[Adobe Releases Security Updates for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/04/11/adobe-releases-security-updates-multiple-products)|Visit link for details.|Apr 11, 2023|
  
 
 # EU-CERT
@@ -113,6 +96,36 @@
  |[Apple Products Remote Code Execution Vulnerabilities](https://www.hkcert.org/security-bulletin/apple-products-remote-code-execution-vulnerabilities_20230411)|Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution on the targeted system. Note:CVE-2023-28205 and CVE-2023-28206 are being exploited in the wild. These...|Release Date: 11 Apr 2023|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Gradle-privilege-escalation-via-System-Temporary-Directory-41067" class="noirorange"><b>Gradle</b>: privilege escalation via System Temporary Directory</a>](https://vigilance.fr/vulnerability/Gradle-privilege-escalation-via-System-Temporary-Directory-41067)|An attacker can bypass restrictions of Gradle, via System Temporary Directory, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Defender-ingress-filtrering-bypass-41066" class="noirorange"><b>Microsoft Defender</b>: ingress filtrering bypass</a>](https://vigilance.fr/vulnerability/Microsoft-Defender-ingress-filtrering-bypass-41066)|An attacker can bypass filtering rules of Microsoft Defender, via a specially crafted file, in order to send malicious data...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Kamailio-SIP-buffer-overflow-via-INVITE-Requests-Duplicated-Fields-41065" class="noirorange"><b>Kamailio SIP</b>: buffer overflow via INVITE Requests Duplicated Fields</a>](https://vigilance.fr/vulnerability/Kamailio-SIP-buffer-overflow-via-INVITE-Requests-Duplicated-Fields-41065)|An attacker can trigger a buffer overflow of Kamailio SIP, via INVITE Requests Duplicated Fields, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Redis-denial-of-service-via-the-command-HINCRBYFLOAT-41064" class="noirorange"><b>Redis</b>: denial of service via the command HINCRBYFLOAT</a>](https://vigilance.fr/vulnerability/Redis-denial-of-service-via-the-command-HINCRBYFLOAT-41064)|An attacker can cause a fatal error of Redis, via the command HINCRBYFLOAT, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-da9150-charger-remove-41063" class="noirorange"><b>Linux kernel</b>: reuse after free via da9150_charger_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-da9150-charger-remove-41063)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-Bluetooth-Management-Commands-41061" class="noirorange"><b>Linux kernel</b>: privilege escalation via Bluetooth Management Commands</a>](https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-Bluetooth-Management-Commands-41061)|An attacker can bypass restrictions of the Linux kernel, via Bluetooth Management Commands, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Rails-Cross-Site-Scripting-via-MVC-Web-Application-41060" class="noirorange"><b>Rails</b>: Cross Site Scripting via MVC Web Application</a>](https://vigilance.fr/vulnerability/Rails-Cross-Site-Scripting-via-MVC-Web-Application-41060)|An attacker can trigger a Cross Site Scripting of Rails, via MVC Web Application, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Chrome-memory-corruption-via-V8-Type-Confusion-41059" class="noirorange"><b>Chrome</b>: memory corruption via V8 Type Confusion</a>](https://vigilance.fr/vulnerability/Chrome-memory-corruption-via-V8-Type-Confusion-41059)|An attacker can trigger a memory corruption of Chrome, via V8 Type Confusion, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Hyperium-Hyper-overload-via-max-header-list-size-41058" class="noirorange"><b>Hyperium Hyper</b>: overload via max_header_list_size</a>](https://vigilance.fr/vulnerability/Hyperium-Hyper-overload-via-max-header-list-size-41058)|An attacker can trigger an overload of Hyperium Hyper, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/mod-auth-openidc-NULL-pointer-dereference-via-OIDCStripCookies-41057" class="noirorange"><b>mod_auth_openidc</b>: NULL pointer dereference via OIDCStripCookies</a>](https://vigilance.fr/vulnerability/mod-auth-openidc-NULL-pointer-dereference-via-OIDCStripCookies-41057)|An attacker can force a NULL pointer to be dereferenced on mod_auth_openidc, via OIDCStripCookies, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/SUSE-LE-vulnerability-via-tftpboot-installation-41056" class="noirorange"><b>SUSE LE</b>: vulnerability via tftpboot-installation</a>](https://vigilance.fr/vulnerability/SUSE-LE-vulnerability-via-tftpboot-installation-41056)|A vulnerability of SUSE LE, via |Visit link for details|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[AeroCMS cross-site scripting (CVE-2023-29847)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2023|
+ |[VegaGroup Mobile Assistant SQL injection (CVE-2023-1723)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 17, 2023|
+ |[Faturamatik BirCard SQL injection (CVE-2023-1873)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 17, 2023|
+ |[Kylin Software youker-assistant command execution (CVE-2023-2091)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 17, 2023|
+ |[Mattermost information disclosure (CVE-2023-1831)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 17, 2023|
+ |[Node.js vm2 module code execution (CVE-2023-30547)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 17, 2023|
+ |[Guzzle PSR-7 weak security (CVE-2023-29197)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 17, 2023|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -128,19 +141,6 @@
  |[41281204/23 - Mises à jour de sécurité pour des produits de Fortinet ](https://www.dgssi.gov.ma//fr/content/4128120423-mises-jour-de-securite-pour-des-produits-de-fortinet.html)|Fortinet annonce la disponibilité de mises à jour de sécurité permettant la correctionde vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peut permettre à un attaquant distant d’...|12 avril 2023|
  |[41271204/23 - Vulnérabilités affectantle navigateur Mozilla Firefox](https://www.dgssi.gov.ma//fr/content/4127120423-vulnerabilites-affectant-le-navigateur-mozilla-firefox.html)|Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox. L’exploitation de cesvulnérabilités peut permettre à un...|12 avril 2023|
  |[41261204/23 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma//fr/content/4126120423-vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird.html)|Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant son client de messagerie Mozilla Thunderbird. L’exploitation de ces vulnérabilités peut permettre à un...|12 avril 2023|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[AeroCMS cross-site scripting (CVE-2023-29847)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2023|
- |[Faturamatik BirCard SQL injection (CVE-2023-1873)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 17, 2023|
- |[Kylin Software youker-assistant command execution (CVE-2023-2091)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 17, 2023|
- |[Mattermost information disclosure (CVE-2023-1831)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 17, 2023|
- |[Node.js vm2 module code execution (CVE-2023-30547)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 17, 2023|
- |[Guzzle PSR-7 weak security (CVE-2023-29197)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 17, 2023|
- |[ASUSTOR Data Master (ADM) buffer overflow (CVE-2023-30770)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 17, 2023|
  
 
 # ZERODAYINITIATIVE
