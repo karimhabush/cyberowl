@@ -4,11 +4,11 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Oracle BI Publisher product of Oracle Analytics unspecified (CVE-2023-21941)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2023|
- |[JD Edwards EnterpriseOne Tools product of Oracle JD Edwards unspecified (CVE-2023-21936)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2023|
- |[Oracle Database Server unspecified (CVE-2023-21934)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2023|
- |[Oracle Essbase unspecified (CVE-2023-21942)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2023|
- |[Oracle Essbase unspecified (CVE-2023-21943)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2023|
- |[Oracle Essbase unspecified (CVE-2023-21944)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2023|
- |[Oracle Solaris unspecified (CVE-2023-22003)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2023|
+ |[Oracle MySQL Server unspecified (CVE-2023-21947)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2023|
+ |[Google Chrome buffer overflow (CVE-2023-2137)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2023|
+ |[Google Chrome integer overflow (CVE-2023-2136)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2023|
+ |[Oracle Solaris unspecified (CVE-2023-21948)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2023|
+ |[Oracle iReceivables unspecified (CVE-2023-21959)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2023|
+ |[Oracle Hospitality OPERA 5 Property Services unspecified (CVE-2023-21932)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2023|
+ |[Google Chrome code execution (CVE-2023-2134)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2023|
  
