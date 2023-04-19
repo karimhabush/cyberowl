@@ -4,6 +4,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Red Hat security advisory (AV23-222)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av23-222)|Visit link for details|2023-04-19|
  |[PaperCut security advisory (AV23-221)](https://www.cyber.gc.ca/en/alerts-advisories/papercut-security-advisory-av23-221)|Visit link for details|2023-04-18|
  |[IBM security advisory (AV23-220)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-220)|Visit link for details|2023-04-17|
  |[Dell security advisory (AV23-219)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-219)|Visit link for details|2023-04-17|
@@ -14,5 +15,4 @@
  |[[Control systems] ABB security advisory (AV23-214)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av23-214)|Visit link for details|2023-04-14|
  |[[Control systems] B. Braun security advisory (AV23-213)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-b-braun-security-advisory-av23-213)|Visit link for details|2023-04-14|
  |[[Control systems] Datakit security advisory (AV23-212)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-datakit-security-advisory-av23-212)|Visit link for details|2023-04-14|
- |[[Control systems] Mitsubishi Electric India security advisory (AV23-211)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-india-security-advisory-av23-211)|Visit link for details|2023-04-14|
  
