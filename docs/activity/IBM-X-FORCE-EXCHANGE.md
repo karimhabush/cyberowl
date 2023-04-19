@@ -4,11 +4,11 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Oracle BI Publisher unspecified (CVE-2023-21970)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2023|
- |[Oracle SQL Developer unspecified (CVE-2023-21969)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2023|
- |[Oracle Java SE and GraalVM Enterprise Edition unspecified (CVE-2023-21968)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2023|
- |[AeroCMS cross-site scripting (CVE-2023-29847)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2023|
- |[VegaGroup Mobile Assistant SQL injection (CVE-2023-1723)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 17, 2023|
- |[Faturamatik BirCard SQL injection (CVE-2023-1873)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 17, 2023|
- |[Kylin Software youker-assistant command execution (CVE-2023-2091)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 17, 2023|
+ |[Oracle MySQL Server unspecified (CVE-2023-21980)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2023|
+ |[Oracle WebLogic Server unspecified (CVE-2023-21979)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2023|
+ |[Oracle Application Object Library unspecified (CVE-2023-21978)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2023|
+ |[Oracle MySQL Server unspecified (CVE-2023-21977)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2023|
+ |[Oracle MySQL Server unspecified (CVE-2023-21976)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2023|
+ |[Oracle iProcurement unspecified (CVE-2023-21973)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2023|
+ |[Oracle MySQL Server unspecified (CVE-2023-21972)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 18, 2023|
  
