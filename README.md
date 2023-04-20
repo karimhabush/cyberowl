@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 20/04/2023 17:15:18 UTC
+ > Last Updated 20/04/2023 18:21:00 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -41,12 +41,6 @@
  |[CISA and CESER Releases Software Bill of Materials (SBOM) Sharing Lifecycle Report ](https://www.cisa.gov/news-events/alerts/2023/04/17/cisa-and-ceser-releases-software-bill-materials-sbom-sharing-lifecycle-report)|Visit link for details.|Apr 17, 2023|
  
 
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -79,6 +73,42 @@
  |[Adobe Monthly Security Update (April 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-april-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Digital Editions Medium RiskRemote Code Execution APSB23-04Adobe InCopy Medium RiskRemote Code Execution ...|Release Date: 12 Apr 2023|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Cisco Modeling Labs security bypass (CVE-2023-20154)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 19, 2023|
+ |[Cisco Industrial Network Director information disclosure (CVE-2023-20039)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 19, 2023|
+ |[Cisco Industrial Network Director command execution (CVE-2023-20036)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 19, 2023|
+ |[NEXT ENGINE Integration Plugin plugin for EC-CUBE 2.0 series security bypass (CVE-2023-27919)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 19, 2023|
+ |[LIQUID SPEECH BALLOON plugin for WordPress cross-site request forgery (CVE-2023-27889)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 19, 2023|
+ |[Drupal core security bypass](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 19, 2023|
+ |[Cisco StarOS Software privilege escalation (CVE-2023-20046)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 19, 2023|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Pallets-Project-Flask-memory-corruption-via-JSON-41091" class="noirorange"><b>Pallets Project Flask</b>: memory corruption via JSON</a>](https://vigilance.fr/vulnerability/Pallets-Project-Flask-memory-corruption-via-JSON-41091)|An attacker can trigger a memory corruption of Pallets Project Flask, via JSON, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-iscsi-tcp-c-41089" class="noirorange"><b>Linux kernel</b>: reuse after free via iscsi_tcp.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-iscsi-tcp-c-41089)|An attacker can force the reuse of a freed memory area of the Linux kernel, via iscsi_tcp.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-af-can-c-41088" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via af_can.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-af-can-c-41088)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via af_can.c, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WordPress-TaxoPress-Cross-Site-Scripting-via-Editor-41087" class="noirorange"><b>WordPress TaxoPress</b>: Cross Site Scripting via Editor+</a>](https://vigilance.fr/vulnerability/WordPress-TaxoPress-Cross-Site-Scripting-via-Editor-41087)|An attacker can trigger a Cross Site Scripting of WordPress TaxoPress, via Editor+, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Avast-Antivirus-three-vulnerabilities-41086" class="noirorange"><b>Avast Antivirus</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Avast-Antivirus-three-vulnerabilities-41086)|An attacker can use several vulnerabilities of Avast Antivirus...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ovmf-integer-overflow-via-SmmEntryPoint-41085" class="noirorange"><b>ovmf</b>: integer overflow via SmmEntryPoint()</a>](https://vigilance.fr/vulnerability/ovmf-integer-overflow-via-SmmEntryPoint-41085)|An attacker can trigger an integer overflow of ovmf, via SmmEntryPoint(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Tiano-Core-privilege-escalation-via-GetEfiGlobalVariable2-41084" class="noirorange"><b>Tiano Core</b>: privilege escalation via GetEfiGlobalVariable2()</a>](https://vigilance.fr/vulnerability/Tiano-Core-privilege-escalation-via-GetEfiGlobalVariable2-41084)|An attacker can bypass restrictions of Tiano Core, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-XFS-41083" class="noirorange"><b>Linux kernel</b>: privilege escalation via XFS</a>](https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-XFS-41083)|An attacker can bypass restrictions of the Linux kernel, via XFS, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Freetype-integer-overflow-via-tt-hvadvance-adjust-41082" class="noirorange"><b>Freetype</b>: integer overflow via tt_hvadvance_adjust()</a>](https://vigilance.fr/vulnerability/Freetype-integer-overflow-via-tt-hvadvance-adjust-41082)|An attacker can trigger an integer overflow of Freetype, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Core-user-access-via-the-download-facility-41081" class="noirorange"><b>Drupal Core</b>: user access via the download facility</a>](https://vigilance.fr/vulnerability/Drupal-Core-user-access-via-the-download-facility-41081)|An attacker can bypass restrictions of Drupal Core, via a download function, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/glib-denial-of-service-via-Variant-41080" class="noirorange"><b>glib</b>: denial of service via Variant</a>](https://vigilance.fr/vulnerability/glib-denial-of-service-via-Variant-41080)|An attacker can cause a fatal error of glib, via Variant, in order to trigger a denial of service...|Visit link for details|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -94,19 +124,6 @@
  |[2023-017: Severe Vulnerabilities in Jenkins Products](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-017.pdf)|On March 8, 2023, Jenkins released advisories regarding 2 severe security vulnerabilities in Jenkins server and Update Center. These vulnerabilities are identified by CVE-2023-27898 and CVE-2023-27905 and could allow an unauthenticated attacker to execute arbitrary code on the victim's Jenkins server, potentially leading to a complete compromise of the Jenkins server. Furthermore, these vulnerabilities could be exploited even if the Jenkins server is not directly reachable by attackers and could also impact self-hosted Jenkins servers.|Thursday, March 09, 2023 05:40:00 PM CET|
  |[2023-016: High Vulnerability in Veeam Backup & Replication](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-016.pdf)|On March 8, 2023, Veeam released a new security advisory revealing one high vulnerability in a Veeam Backup & Replication component. This vulnerability is identified by CVE-2023-27532 (CVSS score of 7.5) and it may allow an attacker to obtain encrypted credentials stored in the configuration database. This may lead to gaining access to the backup infrastructure hosts. It is highly recommended installing the latest version.|Thursday, March 09, 2023 05:30:00 PM CET|
  |[2023-015: RCE Vulnerability in Fortinet Products](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-015.pdf)|On March 7, 2023, Fortinet released an advisory regarding one critical vulnerability in FortiOS and FortiProxy administrative interface. This vulnerability is identified as CVE-2023-25610 (CVSS score of 9.3) and it may allow remote unauthenticated attackers to execute arbitrary code on the device and/or to perform a DoS on the GUI. Fortinet is not aware of any instance where this vulnerability was exploited in the wild.|Wednesday, March 08, 2023 11:15:00 PM CET|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Cisco Modeling Labs security bypass (CVE-2023-20154)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 19, 2023|
- |[Cisco Industrial Network Director information disclosure (CVE-2023-20039)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 19, 2023|
- |[Cisco Industrial Network Director command execution (CVE-2023-20036)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 19, 2023|
- |[NEXT ENGINE Integration Plugin plugin for EC-CUBE 2.0 series security bypass (CVE-2023-27919)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 19, 2023|
- |[LIQUID SPEECH BALLOON plugin for WordPress cross-site request forgery (CVE-2023-27889)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 19, 2023|
- |[Drupal core security bypass](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 19, 2023|
- |[Cisco StarOS Software privilege escalation (CVE-2023-20046)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 19, 2023|
  
 
 # ZERODAYINITIATIVE
@@ -140,27 +157,12 @@
  |[41381404/23 - Vulnérabilités dans les produits Lenovo](https://www.dgssi.gov.ma//fr/content/4138140423-vulnerabilites-dans-les-produits-lenovo.html)|Plusieurs vulnérabilités ont été corrigées dans les produits Lenovo susmentionnés.L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges, de porter atteinte à la confidentialité des données, de causer...|14 avril 2023|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Pallets-Project-Flask-memory-corruption-via-JSON-41091" class="noirorange"><b>Pallets Project Flask</b>: memory corruption via JSON</a>](https://vigilance.fr/vulnerability/Pallets-Project-Flask-memory-corruption-via-JSON-41091)|An attacker can trigger a memory corruption of Pallets Project Flask, via JSON, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-iscsi-tcp-c-41089" class="noirorange"><b>Linux kernel</b>: reuse after free via iscsi_tcp.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-iscsi-tcp-c-41089)|An attacker can force the reuse of a freed memory area of the Linux kernel, via iscsi_tcp.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-af-can-c-41088" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via af_can.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-af-can-c-41088)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via af_can.c, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WordPress-TaxoPress-Cross-Site-Scripting-via-Editor-41087" class="noirorange"><b>WordPress TaxoPress</b>: Cross Site Scripting via Editor+</a>](https://vigilance.fr/vulnerability/WordPress-TaxoPress-Cross-Site-Scripting-via-Editor-41087)|An attacker can trigger a Cross Site Scripting of WordPress TaxoPress, via Editor+, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Avast-Antivirus-three-vulnerabilities-41086" class="noirorange"><b>Avast Antivirus</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Avast-Antivirus-three-vulnerabilities-41086)|An attacker can use several vulnerabilities of Avast Antivirus...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ovmf-integer-overflow-via-SmmEntryPoint-41085" class="noirorange"><b>ovmf</b>: integer overflow via SmmEntryPoint()</a>](https://vigilance.fr/vulnerability/ovmf-integer-overflow-via-SmmEntryPoint-41085)|An attacker can trigger an integer overflow of ovmf, via SmmEntryPoint(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Tiano-Core-privilege-escalation-via-GetEfiGlobalVariable2-41084" class="noirorange"><b>Tiano Core</b>: privilege escalation via GetEfiGlobalVariable2()</a>](https://vigilance.fr/vulnerability/Tiano-Core-privilege-escalation-via-GetEfiGlobalVariable2-41084)|An attacker can bypass restrictions of Tiano Core, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-XFS-41083" class="noirorange"><b>Linux kernel</b>: privilege escalation via XFS</a>](https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-XFS-41083)|An attacker can bypass restrictions of the Linux kernel, via XFS, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Freetype-integer-overflow-via-tt-hvadvance-adjust-41082" class="noirorange"><b>Freetype</b>: integer overflow via tt_hvadvance_adjust()</a>](https://vigilance.fr/vulnerability/Freetype-integer-overflow-via-tt-hvadvance-adjust-41082)|An attacker can trigger an integer overflow of Freetype, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Core-user-access-via-the-download-facility-41081" class="noirorange"><b>Drupal Core</b>: user access via the download facility</a>](https://vigilance.fr/vulnerability/Drupal-Core-user-access-via-the-download-facility-41081)|An attacker can bypass restrictions of Drupal Core, via a download function, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/glib-denial-of-service-via-Variant-41080" class="noirorange"><b>glib</b>: denial of service via Variant</a>](https://vigilance.fr/vulnerability/glib-denial-of-service-via-Variant-41080)|An attacker can cause a fatal error of glib, via Variant, in order to trigger a denial of service...|Visit link for details|
- 
-
 # CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
+ |[[Control systems] INEA security advisory (AV23-229)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-inea-security-advisory-av23-229)|Visit link for details|2023-04-20|
+ |[Microsoft Edge security advisory (AV23-228)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-228)|Visit link for details|2023-04-20|
  |[NVIDIA security advisory (AV23-227)](https://www.cyber.gc.ca/en/alerts-advisories/nvidia-security-advisory-av23-227)|Visit link for details|2023-04-19|
  |[Cisco security advisory (AV23-226)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av23-226)|Visit link for details|2023-04-19|
  |[Oracle security advisory – April 2023 quarterly rollup (AV23-225)](https://www.cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-april-2023-quarterly-rollup-av23-225)|Visit link for details|2023-04-19|
@@ -170,6 +172,4 @@
  |[PaperCut security advisory (AV23-221)](https://www.cyber.gc.ca/en/alerts-advisories/papercut-security-advisory-av23-221)|Visit link for details|2023-04-18|
  |[IBM security advisory (AV23-220)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-220)|Visit link for details|2023-04-17|
  |[Dell security advisory (AV23-219)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-219)|Visit link for details|2023-04-17|
- |[Ubuntu security advisory (AV23-218)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-218)|Visit link for details|2023-04-17|
- |[Juniper Networks security advisory (AV23-217)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av23-217)|Visit link for details|2023-04-14|
  
