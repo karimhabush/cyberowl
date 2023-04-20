@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 20/04/2023 21:14:57 UTC
+ > Last Updated 20/04/2023 22:16:22 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -25,22 +25,6 @@
  
  > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA to Continue and Enhance U.K.’s Logging Made Easy Tool](https://www.cisa.gov/news-events/alerts/2023/04/20/cisa-continue-and-enhance-uks-logging-made-easy-tool)|Visit link for details.|Apr 20, 2023|
- |[CISA Releases Malware Analysis Report on ICONICSTEALER](https://www.cisa.gov/news-events/alerts/2023/04/20/cisa-releases-malware-analysis-report-iconicstealer)|Visit link for details.|Apr 20, 2023|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/04/20/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Apr 20, 2023|
- |[CISA Adds One Known Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/04/19/cisa-adds-one-known-vulnerability-catalog)|Visit link for details.|Apr 19, 2023|
- |[CISA and Partners Release Cybersecurity Best Practices for Smart Cities](https://www.cisa.gov/news-events/alerts/2023/04/19/cisa-and-partners-release-cybersecurity-best-practices-smart-cities)|Visit link for details.|Apr 19, 2023|
- |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/04/18/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Apr 18, 2023|
- |[APT28 Exploits Known Vulnerability To Carry Out Reconnaissance and Deploy Malware on Cisco Routers](https://www.cisa.gov/news-events/alerts/2023/04/18/apt28-exploits-known-vulnerability-carry-out-reconnaissance-and-deploy-malware-cisco-routers)|Visit link for details.|Apr 18, 2023|
- |[IRS Warns of New Tax Scams](https://www.cisa.gov/news-events/alerts/2023/04/17/irs-warns-new-tax-scams)|Visit link for details.|Apr 17, 2023|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/04/17/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Apr 17, 2023|
- |[CISA and CESER Releases Software Bill of Materials (SBOM) Sharing Lifecycle Report ](https://www.cisa.gov/news-events/alerts/2023/04/17/cisa-and-ceser-releases-software-bill-materials-sbom-sharing-lifecycle-report)|Visit link for details.|Apr 17, 2023|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -57,21 +41,26 @@
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0322/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 18 avril 2023|
  
 
-# OBS-Vigilance
+# US-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Pallets-Project-Flask-memory-corruption-via-JSON-41091" class="noirorange"><b>Pallets Project Flask</b>: memory corruption via JSON</a>](https://vigilance.fr/vulnerability/Pallets-Project-Flask-memory-corruption-via-JSON-41091)|An attacker can trigger a memory corruption of Pallets Project Flask, via JSON, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-iscsi-tcp-c-41089" class="noirorange"><b>Linux kernel</b>: reuse after free via iscsi_tcp.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-iscsi-tcp-c-41089)|An attacker can force the reuse of a freed memory area of the Linux kernel, via iscsi_tcp.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-af-can-c-41088" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via af_can.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-af-can-c-41088)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via af_can.c, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WordPress-TaxoPress-Cross-Site-Scripting-via-Editor-41087" class="noirorange"><b>WordPress TaxoPress</b>: Cross Site Scripting via Editor+</a>](https://vigilance.fr/vulnerability/WordPress-TaxoPress-Cross-Site-Scripting-via-Editor-41087)|An attacker can trigger a Cross Site Scripting of WordPress TaxoPress, via Editor+, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Avast-Antivirus-three-vulnerabilities-41086" class="noirorange"><b>Avast Antivirus</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Avast-Antivirus-three-vulnerabilities-41086)|An attacker can use several vulnerabilities of Avast Antivirus...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ovmf-integer-overflow-via-SmmEntryPoint-41085" class="noirorange"><b>ovmf</b>: integer overflow via SmmEntryPoint()</a>](https://vigilance.fr/vulnerability/ovmf-integer-overflow-via-SmmEntryPoint-41085)|An attacker can trigger an integer overflow of ovmf, via SmmEntryPoint(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Tiano-Core-privilege-escalation-via-GetEfiGlobalVariable2-41084" class="noirorange"><b>Tiano Core</b>: privilege escalation via GetEfiGlobalVariable2()</a>](https://vigilance.fr/vulnerability/Tiano-Core-privilege-escalation-via-GetEfiGlobalVariable2-41084)|An attacker can bypass restrictions of Tiano Core, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-XFS-41083" class="noirorange"><b>Linux kernel</b>: privilege escalation via XFS</a>](https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-XFS-41083)|An attacker can bypass restrictions of the Linux kernel, via XFS, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Freetype-integer-overflow-via-tt-hvadvance-adjust-41082" class="noirorange"><b>Freetype</b>: integer overflow via tt_hvadvance_adjust()</a>](https://vigilance.fr/vulnerability/Freetype-integer-overflow-via-tt-hvadvance-adjust-41082)|An attacker can trigger an integer overflow of Freetype, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Core-user-access-via-the-download-facility-41081" class="noirorange"><b>Drupal Core</b>: user access via the download facility</a>](https://vigilance.fr/vulnerability/Drupal-Core-user-access-via-the-download-facility-41081)|An attacker can bypass restrictions of Drupal Core, via a download function, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/glib-denial-of-service-via-Variant-41080" class="noirorange"><b>glib</b>: denial of service via Variant</a>](https://vigilance.fr/vulnerability/glib-denial-of-service-via-Variant-41080)|An attacker can cause a fatal error of glib, via Variant, in order to trigger a denial of service...|Visit link for details|
+ |[CISA to Continue and Enhance U.K.’s Logging Made Easy Tool](https://www.cisa.gov/news-events/alerts/2023/04/20/cisa-continue-and-enhance-uks-logging-made-easy-tool)|Visit link for details.|Apr 20, 2023|
+ |[CISA Releases Malware Analysis Report on ICONICSTEALER](https://www.cisa.gov/news-events/alerts/2023/04/20/cisa-releases-malware-analysis-report-iconicstealer)|Visit link for details.|Apr 20, 2023|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/04/20/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Apr 20, 2023|
+ |[CISA Adds One Known Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/04/19/cisa-adds-one-known-vulnerability-catalog)|Visit link for details.|Apr 19, 2023|
+ |[CISA and Partners Release Cybersecurity Best Practices for Smart Cities](https://www.cisa.gov/news-events/alerts/2023/04/19/cisa-and-partners-release-cybersecurity-best-practices-smart-cities)|Visit link for details.|Apr 19, 2023|
+ |[CISA Releases Four Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/04/18/cisa-releases-four-industrial-control-systems-advisories)|Visit link for details.|Apr 18, 2023|
+ |[APT28 Exploits Known Vulnerability To Carry Out Reconnaissance and Deploy Malware on Cisco Routers](https://www.cisa.gov/news-events/alerts/2023/04/18/apt28-exploits-known-vulnerability-carry-out-reconnaissance-and-deploy-malware-cisco-routers)|Visit link for details.|Apr 18, 2023|
+ |[IRS Warns of New Tax Scams](https://www.cisa.gov/news-events/alerts/2023/04/17/irs-warns-new-tax-scams)|Visit link for details.|Apr 17, 2023|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/04/17/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Apr 17, 2023|
+ |[CISA and CESER Releases Software Bill of Materials (SBOM) Sharing Lifecycle Report ](https://www.cisa.gov/news-events/alerts/2023/04/17/cisa-and-ceser-releases-software-bill-materials-sbom-sharing-lifecycle-report)|Visit link for details.|Apr 17, 2023|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # HK-CERT
@@ -111,13 +100,30 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Slic3r Libslic3r buffer overflow (CVE-2022-36788)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 20, 2023|
  |[VMware Aria Operations for Logs command execution (CVE-2023-20865)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 20, 2023|
  |[VMware Aria Operations for Logs code execution (CVE-2023-20864)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 20, 2023|
  |[Cisco Modeling Labs security bypass (CVE-2023-20154)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 19, 2023|
  |[Cisco Industrial Network Director information disclosure (CVE-2023-20039)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 19, 2023|
  |[Cisco Industrial Network Director command execution (CVE-2023-20036)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 19, 2023|
  |[NEXT ENGINE Integration Plugin plugin for EC-CUBE 2.0 series security bypass (CVE-2023-27919)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 19, 2023|
- |[LIQUID SPEECH BALLOON plugin for WordPress cross-site request forgery (CVE-2023-27889)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 19, 2023|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Pallets-Project-Flask-memory-corruption-via-JSON-41091" class="noirorange"><b>Pallets Project Flask</b>: memory corruption via JSON</a>](https://vigilance.fr/vulnerability/Pallets-Project-Flask-memory-corruption-via-JSON-41091)|An attacker can trigger a memory corruption of Pallets Project Flask, via JSON, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-iscsi-tcp-c-41089" class="noirorange"><b>Linux kernel</b>: reuse after free via iscsi_tcp.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-iscsi-tcp-c-41089)|An attacker can force the reuse of a freed memory area of the Linux kernel, via iscsi_tcp.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-af-can-c-41088" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via af_can.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-af-can-c-41088)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via af_can.c, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WordPress-TaxoPress-Cross-Site-Scripting-via-Editor-41087" class="noirorange"><b>WordPress TaxoPress</b>: Cross Site Scripting via Editor+</a>](https://vigilance.fr/vulnerability/WordPress-TaxoPress-Cross-Site-Scripting-via-Editor-41087)|An attacker can trigger a Cross Site Scripting of WordPress TaxoPress, via Editor+, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Avast-Antivirus-three-vulnerabilities-41086" class="noirorange"><b>Avast Antivirus</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Avast-Antivirus-three-vulnerabilities-41086)|An attacker can use several vulnerabilities of Avast Antivirus...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ovmf-integer-overflow-via-SmmEntryPoint-41085" class="noirorange"><b>ovmf</b>: integer overflow via SmmEntryPoint()</a>](https://vigilance.fr/vulnerability/ovmf-integer-overflow-via-SmmEntryPoint-41085)|An attacker can trigger an integer overflow of ovmf, via SmmEntryPoint(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Tiano-Core-privilege-escalation-via-GetEfiGlobalVariable2-41084" class="noirorange"><b>Tiano Core</b>: privilege escalation via GetEfiGlobalVariable2()</a>](https://vigilance.fr/vulnerability/Tiano-Core-privilege-escalation-via-GetEfiGlobalVariable2-41084)|An attacker can bypass restrictions of Tiano Core, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-XFS-41083" class="noirorange"><b>Linux kernel</b>: privilege escalation via XFS</a>](https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-XFS-41083)|An attacker can bypass restrictions of the Linux kernel, via XFS, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Freetype-integer-overflow-via-tt-hvadvance-adjust-41082" class="noirorange"><b>Freetype</b>: integer overflow via tt_hvadvance_adjust()</a>](https://vigilance.fr/vulnerability/Freetype-integer-overflow-via-tt-hvadvance-adjust-41082)|An attacker can trigger an integer overflow of Freetype, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Core-user-access-via-the-download-facility-41081" class="noirorange"><b>Drupal Core</b>: user access via the download facility</a>](https://vigilance.fr/vulnerability/Drupal-Core-user-access-via-the-download-facility-41081)|An attacker can bypass restrictions of Drupal Core, via a download function, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/glib-denial-of-service-via-Variant-41080" class="noirorange"><b>glib</b>: denial of service via Variant</a>](https://vigilance.fr/vulnerability/glib-denial-of-service-via-Variant-41080)|An attacker can cause a fatal error of glib, via Variant, in order to trigger a denial of service...|Visit link for details|
  
 
 # MA-CERT
@@ -166,10 +172,4 @@
  |[Red Hat security advisory (AV23-222)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av23-222)|Visit link for details|2023-04-19|
  |[PaperCut security advisory (AV23-221)](https://www.cyber.gc.ca/en/alerts-advisories/papercut-security-advisory-av23-221)|Visit link for details|2023-04-18|
  |[IBM security advisory (AV23-220)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-220)|Visit link for details|2023-04-17|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
  
