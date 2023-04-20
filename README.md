@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 20/04/2023 02:33:44 UTC
+ > Last Updated 20/04/2023 03:18:54 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -41,6 +41,35 @@
  |[Juniper Networks Releases Security Updates](https://www.cisa.gov/news-events/alerts/2023/04/13/juniper-networks-releases-security-updates)|Visit link for details.|Apr 13, 2023|
  
 
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230411)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2023-04-13] Updated System...| Release Date: 11 Apr 2023 |
+ |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20230419)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and information disclosure on the targeted system.|Release Date: 19 Apr 2023|
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230419)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. Note:CVE-2023-2136 is being exploited in the wild...|Release Date: 19 Apr 2023|
+ |[Oracle Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/oracle-products-multiple-vulnerabilities_20230419)|Multiple vulnerabilities were identified in Oracle Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 19 Apr 2023|
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230406)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-04-13] Updated System / Technologies affected, ...| Release Date: 6 Apr 2023 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230403)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on...| Release Date: 3 Apr 2023 |
+ |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20230417)|A vulnerability was identified in Google Chrome. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:CVE-2023-2033 is being exploited in the wild. The vulnerability is caused due to a type confusion error...|Release Date: 17 Apr 2023|
+ |[Microsoft Edge Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/microsoft-edge-remote-code-execution-vulnerability_20230417)|A vulnerability was identified in Microsoft Edge. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:CVE-2023-2033 is being exploited in the wild. The vulnerability is caused due to a type confusion error...|Release Date: 17 Apr 2023|
+ |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20230413)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, data manipulation and cross-site scripting on the targeted system.|Release Date: 13 Apr 2023|
+ |[Adobe Monthly Security Update (April 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-april-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Digital Editions Medium RiskRemote Code Execution APSB23-04Adobe InCopy Medium RiskRemote Code Execution ...|Release Date: 12 Apr 2023|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Cisco Modeling Labs security bypass (CVE-2023-20154)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 19, 2023|
+ |[Cisco Industrial Network Director information disclosure (CVE-2023-20039)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 19, 2023|
+ |[Cisco Industrial Network Director command execution (CVE-2023-20036)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 19, 2023|
+ |[Cisco TelePresence CE and RoomOS information disclosure (CVE-2023-20094)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 19, 2023|
+ |[Cisco TelePresence CE and RoomOS security bypass (CVE-2023-20093)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 19, 2023|
+ |[Cisco TelePresence CE and RoomOS security bypass (CVE-2023-20092)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 19, 2023|
+ |[Cisco TelePresence CE and RoomOS security bypass (CVE-2023-20091)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 19, 2023|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
@@ -61,23 +90,6 @@
 
  |Title|Description|Date|
  |---|---|---|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[41431904/23 - Vulnérabilités affectantSchneider Electric Easy UPS Online Monitoring Software](https://www.dgssi.gov.ma//fr/content/4143190423-vulnerabilites-affectant-schneider-electric-easy-ups-online-monitoring-software.html)|Schneider Electric annonce la correction de trois vulnérabilités critiques affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire, d’élever ses privilèges, de...|19 avril 2023|
- |[41441904/23 - Vulnérabilités dans les produits IBM](https://www.dgssi.gov.ma//fr/content/4144190423-vulnerabilites-dans-les-produits-ibm.html)|Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. L’exploitation de ces failles pourrait permettre à un attaquant de contourner la politique de sécurité, de causer un déni de service à distance et d’exécuter...|19 avril 2023|
- |[41421904/23 - "Oracle Critical Patch Update" du Mois Avril 2023](https://www.dgssi.gov.ma//fr/content/4142190423-oracle-critical-patch-update-du-mois-avril-2023.html)|Oracle a publié des correctifs de sécurité pour traiter plusieurs vulnérabilités dans le cadre de sa mise à jour « Oracle Critical Patch Update » du mois Avril 2023. L'exploitation de certaines de ces vulnérabilités pourrait permettre...|19 avril 2023|
- |[41411804/23 - Vulnérabilités dans les produits VMware](https://www.dgssi.gov.ma//fr/content/4141180423-vulnerabilites-dans-les-produits-vmware.html)|VMware annonce la correction de plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’exécuter du code arbitraire, de réussir une élévation des privilèges,...|18 avril 2023|
- |[41401704/23 - Vulnérabilité critique dans Google Chrome](https://www.dgssi.gov.ma//fr/content/4140170423-vulnerabilite-critique-dans-google-chrome.html)|Google a corrigé une vulnérabilité critique de type « zero-day » dans son navigateur Google Chrome. L’exploitation de cette faille peut permettre à un attaquant de prendre le contrôle du système affecté.Google confirme que cette faille...|17 avril 2023|
- |[41391404/23 - Vulnérabilité dans les produits Hikvision](https://www.dgssi.gov.ma//fr/content/4139140423-vulnerabilite-dans-les-produits-hikvision.html)|Une vulnérabilité a été corrigée dans les produits de vidéosurveillance "Hikvision Hybrid SAN/Cluster Storage" susmentionnés. La vulnérabilité, suivit par« CVE-2023-28808 », a été décrite par l'éditeur comme un problème de...|14 avril 2023|
- |[41371404/23 - Vulnérabilités affectantdes produits Juniper](https://www.dgssi.gov.ma//fr/content/4137140423-vulnerabilites-affectant-des-produits-juniper.html)|Juniper annonce la correction de plusieursvulnérabilités qui affectent certains de ses produits.Un attaquant distantpourrait exploiter ces failles afin d’exécuter du code arbitraire, injecter du contenu dans une page,...|14 avril 2023|
- |[41381404/23 - Vulnérabilités dans les produits Lenovo](https://www.dgssi.gov.ma//fr/content/4138140423-vulnerabilites-dans-les-produits-lenovo.html)|Plusieurs vulnérabilités ont été corrigées dans les produits Lenovo susmentionnés.L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges, de porter atteinte à la confidentialité des données, de causer...|14 avril 2023|
- |[41361304/23 - Vulnérabilités affectant des produits Palo Alto ](https://www.dgssi.gov.ma//fr/content/4136130423-vulnerabilites-affectant-des-produits-palo-alto.html)|Palo Alto Networks annonce la correction de trois vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’accéder à des données confidentielles.|13 avril 2023|
- |[41351304/23 - Vulnérabilités critiques dans les produits Jenkins](https://www.dgssi.gov.ma//fr/content/4135130423-vulnerabilites-critiques-dans-les-produits-jenkins.html)|Jenkins annonce la correction de plusieurs vulnérabilités critiques affectant les produits susmentionnés. L'exploitation de ces vulnérabilités peut permettre à un attaquant distant d’injecter du code dans une page, d’accéder à des...|13 avril 2023|
- |[41341304/23 - Vulnérabilités critiques dans les produits SAP](https://www.dgssi.gov.ma//fr/content/4134130423-vulnerabilites-critiques-dans-les-produits-sap.html)|SAP annonce la disponibilité d’une mise à jour de sécurité corrigeant plusieurs vulnérabilités critiques affectant les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la...|13 avril 2023|
  
 
 # EU-CERT
@@ -114,33 +126,21 @@
  |[<a href="https://vigilance.fr/vulnerability/Oracle-Fusion-Middleware-vulnerabilities-of-April-2023-41070" class="noirorange"><b>Oracle Fusion Middleware</b>: vulnerabilities of April 2023</a>](https://vigilance.fr/vulnerability/Oracle-Fusion-Middleware-vulnerabilities-of-April-2023-41070)|Several vulnerabilities were announced in Oracle products...|Visit link for details|
  
 
-# HK-CERT
+# MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230411)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2023-04-13] Updated System...| Release Date: 11 Apr 2023 |
- |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20230419)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and information disclosure on the targeted system.|Release Date: 19 Apr 2023|
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230419)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. Note:CVE-2023-2136 is being exploited in the wild...|Release Date: 19 Apr 2023|
- |[Oracle Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/oracle-products-multiple-vulnerabilities_20230419)|Multiple vulnerabilities were identified in Oracle Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 19 Apr 2023|
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230406)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-04-13] Updated System / Technologies affected, ...| Release Date: 6 Apr 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230403)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on...| Release Date: 3 Apr 2023 |
- |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20230417)|A vulnerability was identified in Google Chrome. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:CVE-2023-2033 is being exploited in the wild. The vulnerability is caused due to a type confusion error...|Release Date: 17 Apr 2023|
- |[Microsoft Edge Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/microsoft-edge-remote-code-execution-vulnerability_20230417)|A vulnerability was identified in Microsoft Edge. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:CVE-2023-2033 is being exploited in the wild. The vulnerability is caused due to a type confusion error...|Release Date: 17 Apr 2023|
- |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20230413)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, data manipulation and cross-site scripting on the targeted system.|Release Date: 13 Apr 2023|
- |[Adobe Monthly Security Update (April 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-april-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Digital Editions Medium RiskRemote Code Execution APSB23-04Adobe InCopy Medium RiskRemote Code Execution ...|Release Date: 12 Apr 2023|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Cisco Modeling Labs security bypass (CVE-2023-20154)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 19, 2023|
- |[Cisco Industrial Network Director information disclosure (CVE-2023-20039)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 19, 2023|
- |[Cisco Industrial Network Director command execution (CVE-2023-20036)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 19, 2023|
- |[Cisco TelePresence CE and RoomOS security bypass (CVE-2023-20093)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 19, 2023|
- |[Cisco TelePresence CE and RoomOS security bypass (CVE-2023-20092)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 19, 2023|
- |[Cisco TelePresence CE and RoomOS security bypass (CVE-2023-20091)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 19, 2023|
- |[Cisco TelePresence CE and RoomOS privilege escalation (CVE-2023-20090)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 19, 2023|
+ |[41431904/23 - Vulnérabilités affectantSchneider Electric Easy UPS Online Monitoring Software](https://www.dgssi.gov.ma//fr/content/4143190423-vulnerabilites-affectant-schneider-electric-easy-ups-online-monitoring-software.html)|Schneider Electric annonce la correction de trois vulnérabilités critiques affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire, d’élever ses privilèges, de...|19 avril 2023|
+ |[41441904/23 - Vulnérabilités dans les produits IBM](https://www.dgssi.gov.ma//fr/content/4144190423-vulnerabilites-dans-les-produits-ibm.html)|Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. L’exploitation de ces failles pourrait permettre à un attaquant de contourner la politique de sécurité, de causer un déni de service à distance et d’exécuter...|19 avril 2023|
+ |[41421904/23 - "Oracle Critical Patch Update" du Mois Avril 2023](https://www.dgssi.gov.ma//fr/content/4142190423-oracle-critical-patch-update-du-mois-avril-2023.html)|Oracle a publié des correctifs de sécurité pour traiter plusieurs vulnérabilités dans le cadre de sa mise à jour « Oracle Critical Patch Update » du mois Avril 2023. L'exploitation de certaines de ces vulnérabilités pourrait permettre...|19 avril 2023|
+ |[41411804/23 - Vulnérabilités dans les produits VMware](https://www.dgssi.gov.ma//fr/content/4141180423-vulnerabilites-dans-les-produits-vmware.html)|VMware annonce la correction de plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’exécuter du code arbitraire, de réussir une élévation des privilèges,...|18 avril 2023|
+ |[41401704/23 - Vulnérabilité critique dans Google Chrome](https://www.dgssi.gov.ma//fr/content/4140170423-vulnerabilite-critique-dans-google-chrome.html)|Google a corrigé une vulnérabilité critique de type « zero-day » dans son navigateur Google Chrome. L’exploitation de cette faille peut permettre à un attaquant de prendre le contrôle du système affecté.Google confirme que cette faille...|17 avril 2023|
+ |[41391404/23 - Vulnérabilité dans les produits Hikvision](https://www.dgssi.gov.ma//fr/content/4139140423-vulnerabilite-dans-les-produits-hikvision.html)|Une vulnérabilité a été corrigée dans les produits de vidéosurveillance "Hikvision Hybrid SAN/Cluster Storage" susmentionnés. La vulnérabilité, suivit par« CVE-2023-28808 », a été décrite par l'éditeur comme un problème de...|14 avril 2023|
+ |[41371404/23 - Vulnérabilités affectantdes produits Juniper](https://www.dgssi.gov.ma//fr/content/4137140423-vulnerabilites-affectant-des-produits-juniper.html)|Juniper annonce la correction de plusieursvulnérabilités qui affectent certains de ses produits.Un attaquant distantpourrait exploiter ces failles afin d’exécuter du code arbitraire, injecter du contenu dans une page,...|14 avril 2023|
+ |[41381404/23 - Vulnérabilités dans les produits Lenovo](https://www.dgssi.gov.ma//fr/content/4138140423-vulnerabilites-dans-les-produits-lenovo.html)|Plusieurs vulnérabilités ont été corrigées dans les produits Lenovo susmentionnés.L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges, de porter atteinte à la confidentialité des données, de causer...|14 avril 2023|
+ |[41361304/23 - Vulnérabilités affectant des produits Palo Alto ](https://www.dgssi.gov.ma//fr/content/4136130423-vulnerabilites-affectant-des-produits-palo-alto.html)|Palo Alto Networks annonce la correction de trois vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’accéder à des données confidentielles.|13 avril 2023|
+ |[41351304/23 - Vulnérabilités critiques dans les produits Jenkins](https://www.dgssi.gov.ma//fr/content/4135130423-vulnerabilites-critiques-dans-les-produits-jenkins.html)|Jenkins annonce la correction de plusieurs vulnérabilités critiques affectant les produits susmentionnés. L'exploitation de ces vulnérabilités peut permettre à un attaquant distant d’injecter du code dans une page, d’accéder à des...|13 avril 2023|
+ |[41341304/23 - Vulnérabilités critiques dans les produits SAP](https://www.dgssi.gov.ma//fr/content/4134130423-vulnerabilites-critiques-dans-les-produits-sap.html)|SAP annonce la disponibilité d’une mise à jour de sécurité corrigeant plusieurs vulnérabilités critiques affectant les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la...|13 avril 2023|
  
 
 # ZERODAYINITIATIVE
