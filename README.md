@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 20/04/2023 10:18:25 UTC
+ > Last Updated 20/04/2023 11:14:40 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -41,6 +41,38 @@
  |[Juniper Networks Releases Security Updates](https://www.cisa.gov/news-events/alerts/2023/04/13/juniper-networks-releases-security-updates)|Visit link for details.|Apr 13, 2023|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans les produits Oracle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0325/)|De multiples vulnérabilités ont été découvertes dans les produits Oracle. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 19 avril 2023|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0324/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 avril 2023|
+ |[Multiples vulnérabilités dans les produits SolarWinds](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0323/)|De multiples vulnérabilités ont été découvertes dans |Publié le 18 avril 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0322/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 18 avril 2023|
+ |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0321/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 18 avril 2023|
+ |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0320/)|De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 17 avril 2023|
+ |[Vulnérabilité dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0319/)|Une vulnérabilité a été découverte dans |Publié le 17 avril 2023|
+ |[Multiples vulnérabilités dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0318/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 avril 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0317/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 avril 2023|
+ |[Vulnérabilité dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0316/)|Une vulnérabilité a été découverte dans le noyau Linux de Red Hat. Elle permet à un attaquant de provoquer un déni de service et une élévation de privilèges.|Publié le 14 avril 2023|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230411)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2023-04-13] Updated System...| Release Date: 11 Apr 2023 |
+ |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20230419)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and information disclosure on the targeted system.|Release Date: 19 Apr 2023|
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230419)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. Note:CVE-2023-2136 is being exploited in the wild...|Release Date: 19 Apr 2023|
+ |[Oracle Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/oracle-products-multiple-vulnerabilities_20230419)|Multiple vulnerabilities were identified in Oracle Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 19 Apr 2023|
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230406)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-04-13] Updated System / Technologies affected, ...| Release Date: 6 Apr 2023 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230403)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on...| Release Date: 3 Apr 2023 |
+ |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20230417)|A vulnerability was identified in Google Chrome. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:CVE-2023-2033 is being exploited in the wild. The vulnerability is caused due to a type confusion error...|Release Date: 17 Apr 2023|
+ |[Microsoft Edge Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/microsoft-edge-remote-code-execution-vulnerability_20230417)|A vulnerability was identified in Microsoft Edge. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:CVE-2023-2033 is being exploited in the wild. The vulnerability is caused due to a type confusion error...|Release Date: 17 Apr 2023|
+ |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20230413)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, data manipulation and cross-site scripting on the targeted system.|Release Date: 13 Apr 2023|
+ |[Adobe Monthly Security Update (April 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-april-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Digital Editions Medium RiskRemote Code Execution APSB23-04Adobe InCopy Medium RiskRemote Code Execution ...|Release Date: 12 Apr 2023|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -60,6 +92,23 @@
  |---|---|---|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-iscsi-tcp-c-41089" class="noirorange"><b>Linux kernel</b>: reuse after free via iscsi_tcp.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-iscsi-tcp-c-41089)|An attacker can force the reuse of a freed memory area of the Linux kernel, via iscsi_tcp.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-af-can-c-41088" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via af_can.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-af-can-c-41088)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via af_can.c, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WordPress-TaxoPress-Cross-Site-Scripting-via-Editor-41087" class="noirorange"><b>WordPress TaxoPress</b>: Cross Site Scripting via Editor+</a>](https://vigilance.fr/vulnerability/WordPress-TaxoPress-Cross-Site-Scripting-via-Editor-41087)|An attacker can trigger a Cross Site Scripting of WordPress TaxoPress, via Editor+, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Avast-Antivirus-three-vulnerabilities-41086" class="noirorange"><b>Avast Antivirus</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Avast-Antivirus-three-vulnerabilities-41086)|An attacker can use several vulnerabilities of Avast Antivirus...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ovmf-integer-overflow-via-SmmEntryPoint-41085" class="noirorange"><b>ovmf</b>: integer overflow via SmmEntryPoint()</a>](https://vigilance.fr/vulnerability/ovmf-integer-overflow-via-SmmEntryPoint-41085)|An attacker can trigger an integer overflow of ovmf, via SmmEntryPoint(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Tiano-Core-privilege-escalation-via-GetEfiGlobalVariable2-41084" class="noirorange"><b>Tiano Core</b>: privilege escalation via GetEfiGlobalVariable2()</a>](https://vigilance.fr/vulnerability/Tiano-Core-privilege-escalation-via-GetEfiGlobalVariable2-41084)|An attacker can bypass restrictions of Tiano Core, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-XFS-41083" class="noirorange"><b>Linux kernel</b>: privilege escalation via XFS</a>](https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-XFS-41083)|An attacker can bypass restrictions of the Linux kernel, via XFS, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Freetype-integer-overflow-via-tt-hvadvance-adjust-41082" class="noirorange"><b>Freetype</b>: integer overflow via tt_hvadvance_adjust()</a>](https://vigilance.fr/vulnerability/Freetype-integer-overflow-via-tt-hvadvance-adjust-41082)|An attacker can trigger an integer overflow of Freetype, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Drupal-Core-user-access-via-the-download-facility-41081" class="noirorange"><b>Drupal Core</b>: user access via the download facility</a>](https://vigilance.fr/vulnerability/Drupal-Core-user-access-via-the-download-facility-41081)|An attacker can bypass restrictions of Drupal Core, via a download function, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/glib-denial-of-service-via-Variant-41080" class="noirorange"><b>glib</b>: denial of service via Variant</a>](https://vigilance.fr/vulnerability/glib-denial-of-service-via-Variant-41080)|An attacker can cause a fatal error of glib, via Variant, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Google-Chrome-height-vulnerabilities-41079" class="noirorange"><b>Google Chrome</b>: height vulnerabilities</a>](https://vigilance.fr/vulnerability/Google-Chrome-height-vulnerabilities-41079)|An attacker can use several vulnerabilities of Google Chrome...|Visit link for details|
+ 
+
 # EU-CERT
 
  |Title|Description|Date|
@@ -77,43 +126,12 @@
  |[2023-014: Critical Vulnerabilities in VMware Products](https://cert.europa.eu/static/SecurityAdvisories/2023/CERT-EU-SA2023-014.pdf)|On February 20, 2023, the MISP project team released advisories regarding 2 critical SQL injection vulnerabilities in MISP Threat Intelligence and Sharing Platform. The team decided to follow a silent fix procedure, releasing several updates in November and December 2022, giving enough time to users to update their instances to a safe version.|Tuesday, February 23, 2023 10:30:00 PM CET|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/ovmf-integer-overflow-via-SmmEntryPoint-41085" class="noirorange"><b>ovmf</b>: integer overflow via SmmEntryPoint()</a>](https://vigilance.fr/vulnerability/ovmf-integer-overflow-via-SmmEntryPoint-41085)|An attacker can trigger an integer overflow of ovmf, via SmmEntryPoint(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Tiano-Core-privilege-escalation-via-GetEfiGlobalVariable2-41084" class="noirorange"><b>Tiano Core</b>: privilege escalation via GetEfiGlobalVariable2()</a>](https://vigilance.fr/vulnerability/Tiano-Core-privilege-escalation-via-GetEfiGlobalVariable2-41084)|An attacker can bypass restrictions of Tiano Core, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-XFS-41083" class="noirorange"><b>Linux kernel</b>: privilege escalation via XFS</a>](https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-XFS-41083)|An attacker can bypass restrictions of the Linux kernel, via XFS, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Freetype-integer-overflow-via-tt-hvadvance-adjust-41082" class="noirorange"><b>Freetype</b>: integer overflow via tt_hvadvance_adjust()</a>](https://vigilance.fr/vulnerability/Freetype-integer-overflow-via-tt-hvadvance-adjust-41082)|An attacker can trigger an integer overflow of Freetype, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Drupal-Core-user-access-via-the-download-facility-41081" class="noirorange"><b>Drupal Core</b>: user access via the download facility</a>](https://vigilance.fr/vulnerability/Drupal-Core-user-access-via-the-download-facility-41081)|An attacker can bypass restrictions of Drupal Core, via a download function, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/glib-denial-of-service-via-Variant-41080" class="noirorange"><b>glib</b>: denial of service via Variant</a>](https://vigilance.fr/vulnerability/glib-denial-of-service-via-Variant-41080)|An attacker can cause a fatal error of glib, via Variant, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Google-Chrome-height-vulnerabilities-41079" class="noirorange"><b>Google Chrome</b>: height vulnerabilities</a>](https://vigilance.fr/vulnerability/Google-Chrome-height-vulnerabilities-41079)|An attacker can use several vulnerabilities of Google Chrome...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Perl-HTTP-Tiny-Man-in-the-Middle-41078" class="noirorange"><b>Perl HTTP-Tiny</b>: Man-in-the-Middle</a>](https://vigilance.fr/vulnerability/Perl-HTTP-Tiny-Man-in-the-Middle-41078)|An attacker can act as a Man-in-the-Middle on Perl HTTP::Tiny, in order to read or write data in the session...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Eclipse-Jetty-memory-leak-via-HttpServletRequest-getParameter-41077" class="noirorange"><b>Eclipse Jetty</b>: memory leak via HttpServletRequest.getParameter()</a>](https://vigilance.fr/vulnerability/Eclipse-Jetty-memory-leak-via-HttpServletRequest-getParameter-41077)|An attacker can create a memory leak of Eclipse Jetty, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Eclipse-Jetty-information-disclosure-via-cookie-41076" class="noirorange"><b>Eclipse Jetty</b>: information disclosure via cookie</a>](https://vigilance.fr/vulnerability/Eclipse-Jetty-information-disclosure-via-cookie-41076)|An attacker can bypass access restrictions to data of Eclipse Jetty, via cookie, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Asterisk-Open-Source-buffer-overflow-via-parse-query-41075" class="noirorange"><b>Asterisk Open Source</b>: buffer overflow via parse_query()</a>](https://vigilance.fr/vulnerability/Asterisk-Open-Source-buffer-overflow-via-parse-query-41075)|An attacker can trigger a buffer overflow of Asterisk Open Source, via parse_query(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans les produits Oracle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0325/)|De multiples vulnérabilités ont été découvertes dans les produits Oracle. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 19 avril 2023|
- |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0324/)|De multiples vulnérabilités ont été découvertes dans |Publié le 19 avril 2023|
- |[Multiples vulnérabilités dans les produits SolarWinds](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0323/)|De multiples vulnérabilités ont été découvertes dans |Publié le 18 avril 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0322/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 18 avril 2023|
- |[Multiples vulnérabilités dans les produits Nextcloud](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0321/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 18 avril 2023|
- |[Multiples vulnérabilités dans les produits Microsoft](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0320/)|De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 17 avril 2023|
- |[Vulnérabilité dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0319/)|Une vulnérabilité a été découverte dans |Publié le 17 avril 2023|
- |[Multiples vulnérabilités dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0318/)|De multiples vulnérabilités ont été découvertes dans |Publié le 17 avril 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0317/)|De multiples vulnérabilités ont été découvertes dans |Publié le 14 avril 2023|
- |[Vulnérabilité dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0316/)|Une vulnérabilité a été découverte dans le noyau Linux de Red Hat. Elle permet à un attaquant de provoquer un déni de service et une élévation de privilèges.|Publié le 14 avril 2023|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[41462004/23 - Vulnérabilités affectant plusieurs produits de Cisco](https://www.dgssi.gov.ma//fr/content/4146200423-vulnerabilites-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’exécuter du code arbitraire, de...|20 avril 2023|
+ |[41452004/23 - Vulnérabilités affectantle navigateur Google Chrome ](https://www.dgssi.gov.ma//fr/content/4145200423-vulnerabilites-affectant-le-navigateur-google-chrome.html)|Google vient de publier une mise à jour de sécurité qui permet de corriger plusieursvulnérabilitésaffectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut permettre àun attaquant d’accéder à des informations...|20 avril 2023|
  |[41431904/23 - Vulnérabilités affectantSchneider Electric Easy UPS Online Monitoring Software](https://www.dgssi.gov.ma//fr/content/4143190423-vulnerabilites-affectant-schneider-electric-easy-ups-online-monitoring-software.html)|Schneider Electric annonce la correction de trois vulnérabilités critiques affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire, d’élever ses privilèges, de...|19 avril 2023|
  |[41441904/23 - Vulnérabilités dans les produits IBM](https://www.dgssi.gov.ma//fr/content/4144190423-vulnerabilites-dans-les-produits-ibm.html)|Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. L’exploitation de ces failles pourrait permettre à un attaquant de contourner la politique de sécurité, de causer un déni de service à distance et d’exécuter...|19 avril 2023|
  |[41421904/23 - "Oracle Critical Patch Update" du Mois Avril 2023](https://www.dgssi.gov.ma//fr/content/4142190423-oracle-critical-patch-update-du-mois-avril-2023.html)|Oracle a publié des correctifs de sécurité pour traiter plusieurs vulnérabilités dans le cadre de sa mise à jour « Oracle Critical Patch Update » du mois Avril 2023. L'exploitation de certaines de ces vulnérabilités pourrait permettre...|19 avril 2023|
@@ -123,24 +141,6 @@
  |[41371404/23 - Vulnérabilités affectantdes produits Juniper](https://www.dgssi.gov.ma//fr/content/4137140423-vulnerabilites-affectant-des-produits-juniper.html)|Juniper annonce la correction de plusieursvulnérabilités qui affectent certains de ses produits.Un attaquant distantpourrait exploiter ces failles afin d’exécuter du code arbitraire, injecter du contenu dans une page,...|14 avril 2023|
  |[41381404/23 - Vulnérabilités dans les produits Lenovo](https://www.dgssi.gov.ma//fr/content/4138140423-vulnerabilites-dans-les-produits-lenovo.html)|Plusieurs vulnérabilités ont été corrigées dans les produits Lenovo susmentionnés.L’exploitation de ces failles permet à un attaquant de réussir une élévation de privilèges, de porter atteinte à la confidentialité des données, de causer...|14 avril 2023|
  |[41361304/23 - Vulnérabilités affectant des produits Palo Alto ](https://www.dgssi.gov.ma//fr/content/4136130423-vulnerabilites-affectant-des-produits-palo-alto.html)|Palo Alto Networks annonce la correction de trois vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’accéder à des données confidentielles.|13 avril 2023|
- |[41351304/23 - Vulnérabilités critiques dans les produits Jenkins](https://www.dgssi.gov.ma//fr/content/4135130423-vulnerabilites-critiques-dans-les-produits-jenkins.html)|Jenkins annonce la correction de plusieurs vulnérabilités critiques affectant les produits susmentionnés. L'exploitation de ces vulnérabilités peut permettre à un attaquant distant d’injecter du code dans une page, d’accéder à des...|13 avril 2023|
- |[41341304/23 - Vulnérabilités critiques dans les produits SAP](https://www.dgssi.gov.ma//fr/content/4134130423-vulnerabilites-critiques-dans-les-produits-sap.html)|SAP annonce la disponibilité d’une mise à jour de sécurité corrigeant plusieurs vulnérabilités critiques affectant les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de porter atteinte à la...|13 avril 2023|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230411)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. [Updated on 2023-04-13] Updated System...| Release Date: 11 Apr 2023 |
- |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20230419)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and information disclosure on the targeted system.|Release Date: 19 Apr 2023|
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230419)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. Note:CVE-2023-2136 is being exploited in the wild...|Release Date: 19 Apr 2023|
- |[Oracle Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/oracle-products-multiple-vulnerabilities_20230419)|Multiple vulnerabilities were identified in Oracle Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 19 Apr 2023|
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230406)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-04-13] Updated System / Technologies affected, ...| Release Date: 6 Apr 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230403)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on...| Release Date: 3 Apr 2023 |
- |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20230417)|A vulnerability was identified in Google Chrome. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:CVE-2023-2033 is being exploited in the wild. The vulnerability is caused due to a type confusion error...|Release Date: 17 Apr 2023|
- |[Microsoft Edge Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/microsoft-edge-remote-code-execution-vulnerability_20230417)|A vulnerability was identified in Microsoft Edge. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:CVE-2023-2033 is being exploited in the wild. The vulnerability is caused due to a type confusion error...|Release Date: 17 Apr 2023|
- |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20230413)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, data manipulation and cross-site scripting on the targeted system.|Release Date: 13 Apr 2023|
- |[Adobe Monthly Security Update (April 2023)](https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-april-2023)|Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Digital Editions Medium RiskRemote Code Execution APSB23-04Adobe InCopy Medium RiskRemote Code Execution ...|Release Date: 12 Apr 2023|
  
 
 # CA-CCS
