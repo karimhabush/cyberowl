@@ -4,6 +4,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Microsoft Edge security advisory (AV23-231)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-231)|Visit link for details|2023-04-21|
  |[VMware security advisory (AV23-230)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av23-230)|Visit link for details|2023-04-20|
  |[[Control systems] INEA security advisory (AV23-229)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-inea-security-advisory-av23-229)|Visit link for details|2023-04-20|
  |[Microsoft Edge security advisory (AV23-228)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-228)|Visit link for details|2023-04-20|
@@ -14,5 +15,4 @@
  |[Google Chrome security advisory (AV23-223)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av23-223)|Visit link for details|2023-04-19|
  |[Red Hat security advisory (AV23-222)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av23-222)|Visit link for details|2023-04-19|
  |[PaperCut security advisory (AV23-221)](https://www.cyber.gc.ca/en/alerts-advisories/papercut-security-advisory-av23-221)|Visit link for details|2023-04-18|
- |[IBM security advisory (AV23-220)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-220)|Visit link for details|2023-04-17|
  
