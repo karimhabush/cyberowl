@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 22/04/2023 20:17:57 UTC
+ > Last Updated 22/04/2023 21:14:55 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -41,22 +41,6 @@
  |[CISA Adds One Known Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/04/19/cisa-adds-one-known-vulnerability-catalog)|Visit link for details.|Apr 19, 2023|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0335/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 avril 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0334/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 avril 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0333/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 avril 2023|
- |[Multiples vulnérabilités dans Vmware Aria Operations for Logs](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0332/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 avril 2023|
- |[Multiples vulnérabilités dans IBM Db2 REST](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0331/)|De multiples vulnérabilités ont été découvertes dans |Publié le 20 avril 2023|
- |[Vulnérabilité dans Drupal Core](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0330/)|Une vulnérabilité a été découverte dans Drupal Core. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 20 avril 2023|
- |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0329/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 20 avril 2023|
- |[Multiples vulnérabilités dans Postfix](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0328/)|De multiples vulnérabilités ont été découvertes dans Postfix. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un déni de service.|Publié le 20 avril 2023|
- |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0327/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 20 avril 2023|
- |[Multiples vulnérabilités dans Foxit PDF Reader et Editor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0326/)|De multiples vulnérabilités ont été découvertes dans Foxit PDF Reader et Editor. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service et une élévation de privilèges.|Publié le 20 avril 2023|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -84,29 +68,6 @@
  |[ONOS security bypass (CVE-2022-29609)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 20, 2023|
  |[ONOS denial of service (CVE-2022-29608)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 20, 2023|
  |[ONOS security bypass (CVE-2022-29607)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 20, 2023|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-xgene-slimpro-i2c-xfer-41100" class="noirorange"><b>Linux kernel</b>: buffer overflow via xgene_slimpro_i2c_xfer</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-xgene-slimpro-i2c-xfer-41100)|An attacker can trigger a buffer overflow of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-net-sctp-stream-sched-c-41099" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via net/sctp/stream_sched.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-net-sctp-stream-sched-c-41099)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-compare-netdev-and-ip-41098" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via compare_netdev_and_ip()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-compare-netdev-and-ip-41098)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PatchELF-out-of-bounds-memory-reading-41097" class="noirorange"><b>PatchELF</b>: out-of-bounds memory reading</a>](https://vigilance.fr/vulnerability/PatchELF-out-of-bounds-memory-reading-41097)|An attacker can force a read at an invalid memory address of PatchELF, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebKit-code-execution-41096" class="noirorange"><b>WebKit</b>: code execution</a>](https://vigilance.fr/vulnerability/WebKit-code-execution-41096)|An attacker can use a vulnerability of WebKit, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/OpenSSL-out-of-bounds-memory-reading-via-AES-XTS-41095" class="noirorange"><b>OpenSSL</b>: out-of-bounds memory reading via AES-XTS</a>](https://vigilance.fr/vulnerability/OpenSSL-out-of-bounds-memory-reading-via-AES-XTS-41095)|An attacker can force a read at an invalid memory address of OpenSSL, via AES-XTS, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/dr-libs-NULL-pointer-dereference-via-dr-wav-41094" class="noirorange"><b>dr_libs</b>: NULL pointer dereference via dr_wav</a>](https://vigilance.fr/vulnerability/dr-libs-NULL-pointer-dereference-via-dr-wav-41094)|An attacker can force a NULL pointer to be dereferenced on dr_libs, via dr_wav, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/frr-assertion-error-via-peek-for-as4-capability-41093" class="noirorange"><b>frr</b>: assertion error via peek_for_as4_capability()</a>](https://vigilance.fr/vulnerability/frr-assertion-error-via-peek-for-as4-capability-41093)|An attacker can force an assertion error of frr, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Pallets-Project-Flask-memory-corruption-via-JSON-41091" class="noirorange"><b>Pallets Project Flask</b>: memory corruption via JSON</a>](https://vigilance.fr/vulnerability/Pallets-Project-Flask-memory-corruption-via-JSON-41091)|An attacker can trigger a memory corruption of Pallets Project Flask, via JSON, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-iscsi-tcp-c-41089" class="noirorange"><b>Linux kernel</b>: reuse after free via iscsi_tcp.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-iscsi-tcp-c-41089)|An attacker can force the reuse of a freed memory area of the Linux kernel, via iscsi_tcp.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-af-can-c-41088" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via af_can.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-af-can-c-41088)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via af_can.c, in order to trigger a denial of service...|Visit link for details|
  
 
 # ZERODAYINITIATIVE
@@ -138,6 +99,45 @@
  |[2023-017: Severe Vulnerabilities in Jenkins Products](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-017.pdf)|On March 8, 2023, Jenkins released advisories regarding 2 severe security vulnerabilities in Jenkins server and Update Center. These vulnerabilities are identified by CVE-2023-27898 and CVE-2023-27905 and could allow an unauthenticated attacker to execute arbitrary code on the victim's Jenkins server, potentially leading to a complete compromise of the Jenkins server. Furthermore, these vulnerabilities could be exploited even if the Jenkins server is not directly reachable by attackers and could also impact self-hosted Jenkins servers.|Thursday, March 09, 2023 05:40:00 PM CET|
  |[2023-016: High Vulnerability in Veeam Backup & Replication](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-016.pdf)|On March 8, 2023, Veeam released a new security advisory revealing one high vulnerability in a Veeam Backup & Replication component. This vulnerability is identified by CVE-2023-27532 (CVSS score of 7.5) and it may allow an attacker to obtain encrypted credentials stored in the configuration database. This may lead to gaining access to the backup infrastructure hosts. It is highly recommended installing the latest version.|Thursday, March 09, 2023 05:30:00 PM CET|
  |[2023-015: RCE Vulnerability in Fortinet Products](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-015.pdf)|On March 7, 2023, Fortinet released an advisory regarding one critical vulnerability in FortiOS and FortiProxy administrative interface. This vulnerability is identified as CVE-2023-25610 (CVSS score of 9.3) and it may allow remote unauthenticated attackers to execute arbitrary code on the device and/or to perform a DoS on the GUI. Fortinet is not aware of any instance where this vulnerability was exploited in the wild.|Wednesday, March 08, 2023 11:15:00 PM CET|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0335/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 avril 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0334/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 avril 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0333/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 avril 2023|
+ |[Multiples vulnérabilités dans Vmware Aria Operations for Logs](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0332/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 avril 2023|
+ |[Multiples vulnérabilités dans IBM Db2 REST](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0331/)|De multiples vulnérabilités ont été découvertes dans |Publié le 20 avril 2023|
+ |[Vulnérabilité dans Drupal Core](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0330/)|Une vulnérabilité a été découverte dans Drupal Core. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 20 avril 2023|
+ |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0329/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 20 avril 2023|
+ |[Multiples vulnérabilités dans Postfix](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0328/)|De multiples vulnérabilités ont été découvertes dans Postfix. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un déni de service.|Publié le 20 avril 2023|
+ |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0327/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 20 avril 2023|
+ |[Multiples vulnérabilités dans Foxit PDF Reader et Editor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0326/)|De multiples vulnérabilités ont été découvertes dans Foxit PDF Reader et Editor. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service et une élévation de privilèges.|Publié le 20 avril 2023|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-xgene-slimpro-i2c-xfer-41100" class="noirorange"><b>Linux kernel</b>: buffer overflow via xgene_slimpro_i2c_xfer</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-xgene-slimpro-i2c-xfer-41100)|An attacker can trigger a buffer overflow of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-net-sctp-stream-sched-c-41099" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via net/sctp/stream_sched.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-net-sctp-stream-sched-c-41099)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-compare-netdev-and-ip-41098" class="noirorange"><b>Linux kernel</b>: out-of-bounds memory reading via compare_netdev_and_ip()</a>](https://vigilance.fr/vulnerability/Linux-kernel-out-of-bounds-memory-reading-via-compare-netdev-and-ip-41098)|An attacker can force a read at an invalid memory address of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PatchELF-out-of-bounds-memory-reading-41097" class="noirorange"><b>PatchELF</b>: out-of-bounds memory reading</a>](https://vigilance.fr/vulnerability/PatchELF-out-of-bounds-memory-reading-41097)|An attacker can force a read at an invalid memory address of PatchELF, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/WebKit-code-execution-41096" class="noirorange"><b>WebKit</b>: code execution</a>](https://vigilance.fr/vulnerability/WebKit-code-execution-41096)|An attacker can use a vulnerability of WebKit, in order to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/OpenSSL-out-of-bounds-memory-reading-via-AES-XTS-41095" class="noirorange"><b>OpenSSL</b>: out-of-bounds memory reading via AES-XTS</a>](https://vigilance.fr/vulnerability/OpenSSL-out-of-bounds-memory-reading-via-AES-XTS-41095)|An attacker can force a read at an invalid memory address of OpenSSL, via AES-XTS, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/dr-libs-NULL-pointer-dereference-via-dr-wav-41094" class="noirorange"><b>dr_libs</b>: NULL pointer dereference via dr_wav</a>](https://vigilance.fr/vulnerability/dr-libs-NULL-pointer-dereference-via-dr-wav-41094)|An attacker can force a NULL pointer to be dereferenced on dr_libs, via dr_wav, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/frr-assertion-error-via-peek-for-as4-capability-41093" class="noirorange"><b>frr</b>: assertion error via peek_for_as4_capability()</a>](https://vigilance.fr/vulnerability/frr-assertion-error-via-peek-for-as4-capability-41093)|An attacker can force an assertion error of frr, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Pallets-Project-Flask-memory-corruption-via-JSON-41091" class="noirorange"><b>Pallets Project Flask</b>: memory corruption via JSON</a>](https://vigilance.fr/vulnerability/Pallets-Project-Flask-memory-corruption-via-JSON-41091)|An attacker can trigger a memory corruption of Pallets Project Flask, via JSON, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-iscsi-tcp-c-41089" class="noirorange"><b>Linux kernel</b>: reuse after free via iscsi_tcp.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-iscsi-tcp-c-41089)|An attacker can force the reuse of a freed memory area of the Linux kernel, via iscsi_tcp.c, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-af-can-c-41088" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via af_can.c</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-af-can-c-41088)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via af_can.c, in order to trigger a denial of service...|Visit link for details|
  
 
 # MA-CERT
