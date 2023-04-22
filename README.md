@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 22/04/2023 19:13:28 UTC
+ > Last Updated 22/04/2023 20:17:57 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -41,6 +41,22 @@
  |[CISA Adds One Known Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/04/19/cisa-adds-one-known-vulnerability-catalog)|Visit link for details.|Apr 19, 2023|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0335/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 avril 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0334/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 avril 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0333/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 avril 2023|
+ |[Multiples vulnérabilités dans Vmware Aria Operations for Logs](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0332/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 avril 2023|
+ |[Multiples vulnérabilités dans IBM Db2 REST](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0331/)|De multiples vulnérabilités ont été découvertes dans |Publié le 20 avril 2023|
+ |[Vulnérabilité dans Drupal Core](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0330/)|Une vulnérabilité a été découverte dans Drupal Core. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 20 avril 2023|
+ |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0329/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 20 avril 2023|
+ |[Multiples vulnérabilités dans Postfix](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0328/)|De multiples vulnérabilités ont été découvertes dans Postfix. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un déni de service.|Publié le 20 avril 2023|
+ |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0327/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 20 avril 2023|
+ |[Multiples vulnérabilités dans Foxit PDF Reader et Editor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0326/)|De multiples vulnérabilités ont été découvertes dans Foxit PDF Reader et Editor. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service et une élévation de privilèges.|Publié le 20 avril 2023|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -70,20 +86,10 @@
  |[ONOS security bypass (CVE-2022-29607)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 20, 2023|
  
 
-# CERT-FR
+# VulDB
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0335/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 avril 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0334/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 avril 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0333/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 avril 2023|
- |[Multiples vulnérabilités dans Vmware Aria Operations for Logs](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0332/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 avril 2023|
- |[Multiples vulnérabilités dans IBM Db2 REST](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0331/)|De multiples vulnérabilités ont été découvertes dans |Publié le 20 avril 2023|
- |[Vulnérabilité dans Drupal Core](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0330/)|Une vulnérabilité a été découverte dans Drupal Core. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 20 avril 2023|
- |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0329/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 20 avril 2023|
- |[Multiples vulnérabilités dans Postfix](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0328/)|De multiples vulnérabilités ont été découvertes dans Postfix. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un déni de service.|Publié le 20 avril 2023|
- |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0327/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 20 avril 2023|
- |[Multiples vulnérabilités dans Foxit PDF Reader et Editor](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0326/)|De multiples vulnérabilités ont été découvertes dans Foxit PDF Reader et Editor. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service et une élévation de privilèges.|Publié le 20 avril 2023|
  
 
 # OBS-Vigilance
@@ -132,12 +138,6 @@
  |[2023-017: Severe Vulnerabilities in Jenkins Products](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-017.pdf)|On March 8, 2023, Jenkins released advisories regarding 2 severe security vulnerabilities in Jenkins server and Update Center. These vulnerabilities are identified by CVE-2023-27898 and CVE-2023-27905 and could allow an unauthenticated attacker to execute arbitrary code on the victim's Jenkins server, potentially leading to a complete compromise of the Jenkins server. Furthermore, these vulnerabilities could be exploited even if the Jenkins server is not directly reachable by attackers and could also impact self-hosted Jenkins servers.|Thursday, March 09, 2023 05:40:00 PM CET|
  |[2023-016: High Vulnerability in Veeam Backup & Replication](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-016.pdf)|On March 8, 2023, Veeam released a new security advisory revealing one high vulnerability in a Veeam Backup & Replication component. This vulnerability is identified by CVE-2023-27532 (CVSS score of 7.5) and it may allow an attacker to obtain encrypted credentials stored in the configuration database. This may lead to gaining access to the backup infrastructure hosts. It is highly recommended installing the latest version.|Thursday, March 09, 2023 05:30:00 PM CET|
  |[2023-015: RCE Vulnerability in Fortinet Products](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-015.pdf)|On March 7, 2023, Fortinet released an advisory regarding one critical vulnerability in FortiOS and FortiProxy administrative interface. This vulnerability is identified as CVE-2023-25610 (CVSS score of 9.3) and it may allow remote unauthenticated attackers to execute arbitrary code on the device and/or to perform a DoS on the GUI. Fortinet is not aware of any instance where this vulnerability was exploited in the wild.|Wednesday, March 08, 2023 11:15:00 PM CET|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # MA-CERT
