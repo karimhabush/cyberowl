@@ -10,5 +10,5 @@
  |[Apache Superset information disclosure (CVE-2023-30776)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 24, 2023|
  |[Apache Superset security bypass (CVE-2023-27524)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 24, 2023|
  |[Apache Jena code execution (CVE-2023-22665)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 24, 2023|
- |[Medicine Tracker System information disclosure (CVE-2023-30458)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 23, 2023|
+ |[Portfolio Slideshow plugin for WordPress cross-site scripting (CVE-2023-23717)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 23, 2023|
  
