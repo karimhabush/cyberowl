@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 25/04/2023 09:17:23 UTC
+ > Last Updated 25/04/2023 10:19:00 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -41,28 +41,6 @@
  |[CISA Adds One Known Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/04/19/cisa-adds-one-known-vulnerability-catalog)|Visit link for details.|Apr 19, 2023|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0336/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 24 avril 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0335/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 avril 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0334/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 avril 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0333/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 avril 2023|
- |[Multiples vulnérabilités dans Vmware Aria Operations for Logs](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0332/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 avril 2023|
- |[Multiples vulnérabilités dans IBM Db2 REST](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0331/)|De multiples vulnérabilités ont été découvertes dans |Publié le 20 avril 2023|
- |[Vulnérabilité dans Drupal Core](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0330/)|Une vulnérabilité a été découverte dans Drupal Core. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 20 avril 2023|
- |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0329/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 20 avril 2023|
- |[Multiples vulnérabilités dans Postfix](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0328/)|De multiples vulnérabilités ont été découvertes dans Postfix. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un déni de service.|Publié le 20 avril 2023|
- |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0327/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 20 avril 2023|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -79,6 +57,28 @@
  |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20230413)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, data manipulation and cross-site scripting on the targeted system.|Release Date: 13 Apr 2023|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0337/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 25 avril 2023|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0336/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 24 avril 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0335/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 avril 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0334/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 avril 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0333/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 avril 2023|
+ |[Multiples vulnérabilités dans Vmware Aria Operations for Logs](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0332/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 avril 2023|
+ |[Multiples vulnérabilités dans IBM Db2 REST](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0331/)|De multiples vulnérabilités ont été découvertes dans |Publié le 20 avril 2023|
+ |[Vulnérabilité dans Drupal Core](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0330/)|Une vulnérabilité a été découverte dans Drupal Core. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 20 avril 2023|
+ |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0329/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 20 avril 2023|
+ |[Multiples vulnérabilités dans Postfix](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0328/)|De multiples vulnérabilités ont été découvertes dans Postfix. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un déni de service.|Publié le 20 avril 2023|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
@@ -90,37 +90,6 @@
  |[CloverDX information disclosure (CVE-2023-31056)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 24, 2023|
  |[TP-Link AX1800 code execution (CVE-2023-27359)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 24, 2023|
  |[Apache Superset information disclosure (CVE-2023-30776)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 24, 2023|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-special-register-41116" class="noirorange"><b>IBM Db2</b>: denial of service via special register</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-special-register-41116)|An attacker can cause a fatal error of IBM Db2, via special register, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-subquery-41115" class="noirorange"><b>IBM Db2</b>: denial of service via subquery</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-subquery-41115)|An attacker can cause a fatal error of IBM Db2, via subquery, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-xen-9pfs-front-remove-41114" class="noirorange"><b>Linux kernel</b>: reuse after free via xen_9pfs_front_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-xen-9pfs-front-remove-41114)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Avahi-denial-of-service-via-DBus-41113" class="noirorange"><b>Avahi</b>: denial of service via DBus</a>](https://vigilance.fr/vulnerability/Avahi-denial-of-service-via-DBus-41113)|An attacker can cause a fatal error of Avahi, via DBus, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/dmidecode-privilege-escalation-41112" class="noirorange"><b>dmidecode</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/dmidecode-privilege-escalation-41112)|An attacker can bypass restrictions of dmidecode, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/jettison-overload-via-JSONArray-41111" class="noirorange"><b>jettison</b>: overload via JSONArray</a>](https://vigilance.fr/vulnerability/jettison-overload-via-JSONArray-41111)|An attacker can trigger an overload of jettison, via JSONArray, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-WPE-Webkit-five-vulnerabilities-41110" class="noirorange"><b>WebKitGTK  WPE Webkit</b>: five vulnerabilities</a>](https://vigilance.fr/vulnerability/WebKitGTK-WPE-Webkit-five-vulnerabilities-41110)|An attacker can use several vulnerabilities of WebKitGTK  WPE Webkit...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebKitGTK-reuse-after-free-via-WebCore-RenderLayer-addChild-41109" class="noirorange"><b>WebKitGTK</b>: reuse after free via WebCore::RenderLayer::addChild()</a>](https://vigilance.fr/vulnerability/WebKitGTK-reuse-after-free-via-WebCore-RenderLayer-addChild-41109)|An attacker can force the reuse of a freed memory area of WebKitGTK, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/insight-out-of-bounds-memory-reading-via-bfd-41108" class="noirorange"><b>insight</b>: out-of-bounds memory reading via bfd</a>](https://vigilance.fr/vulnerability/insight-out-of-bounds-memory-reading-via-bfd-41108)|An attacker can force a read at an invalid memory address of insight, via bfd, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Suricata-vulnerability-41107" class="noirorange"><b>Suricata</b>: vulnerability</a>](https://vigilance.fr/vulnerability/Suricata-vulnerability-41107)|A vulnerability of Suricata was announced...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FreeImage-denial-of-service-via-a-JXR-image-41106" class="noirorange"><b>FreeImage</b>: denial of service via a JXR image</a>](https://vigilance.fr/vulnerability/FreeImage-denial-of-service-via-a-JXR-image-41106)|An attacker can cause a fatal error of FreeImage, via an image of type JXR, in order to trigger a denial of service...|Visit link for details|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
 
 # EU-CERT
@@ -140,10 +109,43 @@
  |[2023-015: RCE Vulnerability in Fortinet Products](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-015.pdf)|On March 7, 2023, Fortinet released an advisory regarding one critical vulnerability in FortiOS and FortiProxy administrative interface. This vulnerability is identified as CVE-2023-25610 (CVSS score of 9.3) and it may allow remote unauthenticated attackers to execute arbitrary code on the device and/or to perform a DoS on the GUI. Fortinet is not aware of any instance where this vulnerability was exploited in the wild.|Wednesday, March 08, 2023 11:15:00 PM CET|
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/KubeVirt-privilege-escalation-41122" class="noirorange"><b>KubeVirt</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/KubeVirt-privilege-escalation-41122)|An attacker can bypass restrictions of KubeVirt, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-compilation-41121" class="noirorange"><b>IBM Db2</b>: denial of service via compilation</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-compilation-41121)|An attacker can cause a fatal error of IBM Db2, via compilation, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-ACR-client-affinity-41120" class="noirorange"><b>IBM Db2</b>: denial of service via ACR client affinity</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-ACR-client-affinity-41120)|An attacker can cause a fatal error of IBM Db2, via ACR client affinity, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-privilege-escalation-41119" class="noirorange"><b>IBM Db2</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/IBM-Db2-privilege-escalation-41119)|An attacker can bypass restrictions of IBM Db2, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-memory-leak-via-DBMS-OUTPUT-module-41118" class="noirorange"><b>IBM Db2</b>: memory leak via DBMS_OUTPUT module</a>](https://vigilance.fr/vulnerability/IBM-Db2-memory-leak-via-DBMS-OUTPUT-module-41118)|An attacker can create a memory leak of IBM Db2, via DBMS_OUTPUT module, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-LIMIT-SQL-41117" class="noirorange"><b>IBM Db2</b>: denial of service via LIMIT SQL</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-LIMIT-SQL-41117)|An attacker can cause a fatal error of IBM Db2, via LIMIT SQL, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-special-register-41116" class="noirorange"><b>IBM Db2</b>: denial of service via special register</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-special-register-41116)|An attacker can cause a fatal error of IBM Db2, via special register, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-subquery-41115" class="noirorange"><b>IBM Db2</b>: denial of service via subquery</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-subquery-41115)|An attacker can cause a fatal error of IBM Db2, via subquery, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-xen-9pfs-front-remove-41114" class="noirorange"><b>Linux kernel</b>: reuse after free via xen_9pfs_front_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-xen-9pfs-front-remove-41114)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Avahi-denial-of-service-via-DBus-41113" class="noirorange"><b>Avahi</b>: denial of service via DBus</a>](https://vigilance.fr/vulnerability/Avahi-denial-of-service-via-DBus-41113)|An attacker can cause a fatal error of Avahi, via DBus, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/dmidecode-privilege-escalation-41112" class="noirorange"><b>dmidecode</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/dmidecode-privilege-escalation-41112)|An attacker can bypass restrictions of dmidecode, in order to escalate his privileges...|Visit link for details|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[41512504/23 - Exploitation active des vulnérabilités SNMP dans les logiciels Cisco IOS et IOS XE](https://www.dgssi.gov.ma//fr/content/4151250423-exploitation-active-des-vulnerabilites-snmp-dans-les-logiciels-cisco-ios-et-ios-xe.html)|Une compagne d'attaque a été observée exploitant activement plusieurs vulnérabilités con-nues du protocole SNMP à savoir (CVE-2017-6736, CVE-2017-6737, CVE-2017-6738, CVE-2017-6739, CVE-2017-6740, CVE-2017-6742, CVE-2017-6743 et CVE-...|25 avril 2023|
+ |[41522504/23 - Vulnérabilités affectant Solarwinds Platform](https://www.dgssi.gov.ma//fr/content/4152250423-vulnerabilites-affectant-solarwinds-platform.html)|SolarWinds annonce la correction de quatre vulnérabilités affectant sonproduit Solarwinds Plateform. L’exploitation de ces vulnérabilités peut permettre à un attaquant, l’exécution de code arbitraire, l’élévation de privilèges ou l’...|25 avril 2023|
  |[41502104/23 - Vulnérabilités dansPostfix](https://www.dgssi.gov.ma//fr/content/4150210423-vulnerabilites-dans-postfix.html)|Plusieurs vulnérabilités ont été corrigées dans les versions Postfix susmentionnées. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité et de causer un déni de service.|21 avril 2023|
  |[41492104/23 - Vulnérabilité dans le CMS Drupal](https://www.dgssi.gov.ma//fr/content/4149210423-vulnerabilite-dans-le-cms-drupal.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées du CMS Drupal. L’exploitation de cette faille peut permettre à un attaquant de contourner la politique de sécurité.|21 avril 2023|
  |[41482104/23 - Vulnérabilités critiques affectantVMware Aria Operations for Logs](https://www.dgssi.gov.ma//fr/content/4148210423-vulnerabilites-critiques-affectant-vmware-aria-operations-logs.html)|VMware annonce la correction de deux vulnérabilités critiques affectant son produit VMware Aria Operations for Logs. L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant de d’exécuter du code arbitraire avec...|21 avril 2023|
@@ -153,8 +155,6 @@
  |[41431904/23 - Vulnérabilités affectantSchneider Electric Easy UPS Online Monitoring Software](https://www.dgssi.gov.ma//fr/content/4143190423-vulnerabilites-affectant-schneider-electric-easy-ups-online-monitoring-software.html)|Schneider Electric annonce la correction de trois vulnérabilités critiques affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code arbitraire, d’élever ses privilèges, de...|19 avril 2023|
  |[41441904/23 - Vulnérabilités dans les produits IBM](https://www.dgssi.gov.ma//fr/content/4144190423-vulnerabilites-dans-les-produits-ibm.html)|Plusieurs vulnérabilités ont été corrigées dans les produits IBM susmentionnés. L’exploitation de ces failles pourrait permettre à un attaquant de contourner la politique de sécurité, de causer un déni de service à distance et d’exécuter...|19 avril 2023|
  |[41421904/23 - "Oracle Critical Patch Update" du Mois Avril 2023](https://www.dgssi.gov.ma//fr/content/4142190423-oracle-critical-patch-update-du-mois-avril-2023.html)|Oracle a publié des correctifs de sécurité pour traiter plusieurs vulnérabilités dans le cadre de sa mise à jour « Oracle Critical Patch Update » du mois Avril 2023. L'exploitation de certaines de ces vulnérabilités pourrait permettre...|19 avril 2023|
- |[41411804/23 - Vulnérabilités dans les produits VMware](https://www.dgssi.gov.ma//fr/content/4141180423-vulnerabilites-dans-les-produits-vmware.html)|VMware annonce la correction de plusieurs vulnérabilités dans les produits susmentionnés. L’exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’exécuter du code arbitraire, de réussir une élévation des privilèges,...|18 avril 2023|
- |[41401704/23 - Vulnérabilité critique dans Google Chrome](https://www.dgssi.gov.ma//fr/content/4140170423-vulnerabilite-critique-dans-google-chrome.html)|Google a corrigé une vulnérabilité critique de type « zero-day » dans son navigateur Google Chrome. L’exploitation de cette faille peut permettre à un attaquant de prendre le contrôle du système affecté.Google confirme que cette faille...|17 avril 2023|
  
 
 # CA-CCS
