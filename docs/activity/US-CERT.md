@@ -4,6 +4,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/04/25/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Apr 25, 2023|
  |[VMware Releases Security Update for Aria Operations for Logs](https://www.cisa.gov/news-events/alerts/2023/04/21/vmware-releases-security-update-aria-operations-logs)|Visit link for details.|Apr 21, 2023|
  |[Drupal Releases Security Advisory to Address Vulnerability in Drupal Core](https://www.cisa.gov/news-events/alerts/2023/04/21/drupal-releases-security-advisory-address-vulnerability-drupal-core)|Visit link for details.|Apr 21, 2023|
  |[Oracle Releases Security Updates](https://www.cisa.gov/news-events/alerts/2023/04/21/oracle-releases-security-updates)|Visit link for details.|Apr 21, 2023|
@@ -13,5 +14,4 @@
  |[CISA to Continue and Enhance U.K.’s Logging Made Easy Tool](https://www.cisa.gov/news-events/alerts/2023/04/20/cisa-continue-and-enhance-uks-logging-made-easy-tool)|Visit link for details.|Apr 20, 2023|
  |[CISA Releases Malware Analysis Report on ICONICSTEALER](https://www.cisa.gov/news-events/alerts/2023/04/20/cisa-releases-malware-analysis-report-iconicstealer)|Visit link for details.|Apr 20, 2023|
  |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/04/20/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|Apr 20, 2023|
- |[CISA Adds One Known Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/04/19/cisa-adds-one-known-vulnerability-catalog)|Visit link for details.|Apr 19, 2023|
  
