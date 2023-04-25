@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 25/04/2023 07:16:23 UTC
+ > Last Updated 25/04/2023 08:22:18 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -41,28 +41,6 @@
  |[CISA Adds One Known Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2023/04/19/cisa-adds-one-known-vulnerability-catalog)|Visit link for details.|Apr 19, 2023|
  
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0336/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 24 avril 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0335/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 avril 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0334/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 avril 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0333/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 avril 2023|
- |[Multiples vulnérabilités dans Vmware Aria Operations for Logs](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0332/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 avril 2023|
- |[Multiples vulnérabilités dans IBM Db2 REST](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0331/)|De multiples vulnérabilités ont été découvertes dans |Publié le 20 avril 2023|
- |[Vulnérabilité dans Drupal Core](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0330/)|Une vulnérabilité a été découverte dans Drupal Core. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 20 avril 2023|
- |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0329/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 20 avril 2023|
- |[Multiples vulnérabilités dans Postfix](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0328/)|De multiples vulnérabilités ont été découvertes dans Postfix. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un déni de service.|Publié le 20 avril 2023|
- |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0327/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 20 avril 2023|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -84,26 +62,12 @@
  |Title|Description|Date|
  |---|---|---|
  |[OMRON CX-Drive buffer overflow (CVE-2023-27385)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 24, 2023|
+ |[Telit Cinterion IoT code execution](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 24, 2023|
+ |[Telit Cinterion IoT information disclosure](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 24, 2023|
  |[CloverDX information disclosure (CVE-2023-31056)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 24, 2023|
  |[TP-Link AX1800 code execution (CVE-2023-27359)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 24, 2023|
  |[Apache Superset information disclosure (CVE-2023-30776)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 24, 2023|
  |[Apache Superset security bypass (CVE-2023-27524)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 24, 2023|
- |[Apache Jena code execution (CVE-2023-22665)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 24, 2023|
- |[Simple PDF Viewer plugin for WordPress cross-site scripting (CVE-2023-23817)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 23, 2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
 
 # EU-CERT
@@ -123,10 +87,19 @@
  |[2023-015: RCE Vulnerability in Fortinet Products](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-015.pdf)|On March 7, 2023, Fortinet released an advisory regarding one critical vulnerability in FortiOS and FortiProxy administrative interface. This vulnerability is identified as CVE-2023-25610 (CVSS score of 9.3) and it may allow remote unauthenticated attackers to execute arbitrary code on the device and/or to perform a DoS on the GUI. Fortinet is not aware of any instance where this vulnerability was exploited in the wild.|Wednesday, March 08, 2023 11:15:00 PM CET|
  
 
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-special-register-41116" class="noirorange"><b>IBM Db2</b>: denial of service via special register</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-special-register-41116)|An attacker can cause a fatal error of IBM Db2, via special register, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-subquery-41115" class="noirorange"><b>IBM Db2</b>: denial of service via subquery</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-subquery-41115)|An attacker can cause a fatal error of IBM Db2, via subquery, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-xen-9pfs-front-remove-41114" class="noirorange"><b>Linux kernel</b>: reuse after free via xen_9pfs_front_remove()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-xen-9pfs-front-remove-41114)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Avahi-denial-of-service-via-DBus-41113" class="noirorange"><b>Avahi</b>: denial of service via DBus</a>](https://vigilance.fr/vulnerability/Avahi-denial-of-service-via-DBus-41113)|An attacker can cause a fatal error of Avahi, via DBus, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/dmidecode-privilege-escalation-41112" class="noirorange"><b>dmidecode</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/dmidecode-privilege-escalation-41112)|An attacker can bypass restrictions of dmidecode, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/jettison-overload-via-JSONArray-41111" class="noirorange"><b>jettison</b>: overload via JSONArray</a>](https://vigilance.fr/vulnerability/jettison-overload-via-JSONArray-41111)|An attacker can trigger an overload of jettison, via JSONArray, in order to trigger a denial of service...|Visit link for details|
@@ -135,9 +108,36 @@
  |[<a href="https://vigilance.fr/vulnerability/insight-out-of-bounds-memory-reading-via-bfd-41108" class="noirorange"><b>insight</b>: out-of-bounds memory reading via bfd</a>](https://vigilance.fr/vulnerability/insight-out-of-bounds-memory-reading-via-bfd-41108)|An attacker can force a read at an invalid memory address of insight, via bfd, in order to trigger a denial of service, or to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Suricata-vulnerability-41107" class="noirorange"><b>Suricata</b>: vulnerability</a>](https://vigilance.fr/vulnerability/Suricata-vulnerability-41107)|A vulnerability of Suricata was announced...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FreeImage-denial-of-service-via-a-JXR-image-41106" class="noirorange"><b>FreeImage</b>: denial of service via a JXR image</a>](https://vigilance.fr/vulnerability/FreeImage-denial-of-service-via-a-JXR-image-41106)|An attacker can cause a fatal error of FreeImage, via an image of type JXR, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/RNP-unprotected-keys-41105" class="noirorange"><b>RNP</b>: unprotected keys</a>](https://vigilance.fr/vulnerability/RNP-unprotected-keys-41105)|An attacker can acess to some cryptographic keys...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Ribose-RNP-denial-of-service-via-PKESK-SKESK-OpenPGP-packets-41104" class="noirorange"><b>Ribose RNP</b>: denial of service via PKESK/SKESK OpenPGP packets</a>](https://vigilance.fr/vulnerability/Ribose-RNP-denial-of-service-via-PKESK-SKESK-OpenPGP-packets-41104)|An attacker can cause a fatal error of Ribose RNP, via PKESK/SKESK OpenPGP packets, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/389-Directory-Server-information-disclosure-via-verbose-output-41103" class="noirorange"><b>389 Directory Server</b>: information disclosure via verbose output</a>](https://vigilance.fr/vulnerability/389-Directory-Server-information-disclosure-via-verbose-output-41103)|An attacker can bypass access restrictions to data of 389-ds-base, via verbose output, in order to read sensitive information...|Visit link for details|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0336/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 24 avril 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0335/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 avril 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0334/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 avril 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0333/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 avril 2023|
+ |[Multiples vulnérabilités dans Vmware Aria Operations for Logs](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0332/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 avril 2023|
+ |[Multiples vulnérabilités dans IBM Db2 REST](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0331/)|De multiples vulnérabilités ont été découvertes dans |Publié le 20 avril 2023|
+ |[Vulnérabilité dans Drupal Core](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0330/)|Une vulnérabilité a été découverte dans Drupal Core. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 20 avril 2023|
+ |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0329/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 20 avril 2023|
+ |[Multiples vulnérabilités dans Postfix](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0328/)|De multiples vulnérabilités ont été découvertes dans Postfix. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un déni de service.|Publié le 20 avril 2023|
+ |[Multiples vulnérabilités dans les produits Cisco](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0327/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 20 avril 2023|
  
 
 # MA-CERT
