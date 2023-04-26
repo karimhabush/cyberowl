@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 25/04/2023 23:17:13 UTC
+ > Last Updated 26/04/2023 01:23:34 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,6 +57,12 @@
  |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0329/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 20 avril 2023|
  
 
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -72,12 +78,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-vidtv-mux-stop-thread-41123" class="noirorange"><b>Linux kernel</b>: NULL pointer dereference via vidtv_mux_stop_thread()</a>](https://vigilance.fr/vulnerability/Linux-kernel-NULL-pointer-dereference-via-vidtv-mux-stop-thread-41123)|An attacker can force a NULL pointer to be dereferenced on the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/KubeVirt-privilege-escalation-41122" class="noirorange"><b>KubeVirt</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/KubeVirt-privilege-escalation-41122)|An attacker can bypass restrictions of KubeVirt, in order to escalate his privileges...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-compilation-41121" class="noirorange"><b>IBM Db2</b>: denial of service via compilation</a>](https://vigilance.fr/vulnerability/IBM-Db2-denial-of-service-via-compilation-41121)|An attacker can cause a fatal error of IBM Db2, via compilation, in order to trigger a denial of service...|Visit link for details|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # MA-CERT
@@ -119,28 +119,12 @@
  |Title|Description|Date|
  |---|---|---|
  |[Service Location Protocol (SLP, RFC 2608) denial of service (CVE-2023-29552)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 25, 2023|
- |[VMware Workstation and Fusion code execution (CVE-2023-20872)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 25, 2023|
- |[VMware Fusion privilege escalation (CVE-2023-20871)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 25, 2023|
  |[VMware Workstation and Fusion information disclosure (CVE-2023-20870)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 25, 2023|
  |[VMware Workstation and Fusion buffer overflow (CVE-2023-20869)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 25, 2023|
+ |[VMware Workstation and Fusion code execution (CVE-2023-20872)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 25, 2023|
+ |[VMware Fusion privilege escalation (CVE-2023-20871)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 25, 2023|
  |[XenSource Xen shadow page denial of service (CVE-2022-42335)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 25, 2023|
  |[OMRON CX-Drive buffer overflow (CVE-2023-27385)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 24, 2023|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Edge Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/microsoft-edge-remote-code-execution-vulnerability_20230421)|A vulnerability was identified in Microsoft Edge. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:CVE-2023-2136 is being exploited in the wild. The vulnerability is caused due to a Integer overflow in...|Release Date: 21 Apr 2023|
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230411)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass, sensitive information disclosure and elevation of privilege on the targeted system. [Updated on 2023-04-...| Release Date: 11 Apr 2023 |
- |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20230419)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and information disclosure on the targeted system.|Release Date: 19 Apr 2023|
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230419)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. Note:CVE-2023-2136 is being exploited in the wild...|Release Date: 19 Apr 2023|
- |[Oracle Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/oracle-products-multiple-vulnerabilities_20230419)|Multiple vulnerabilities were identified in Oracle Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 19 Apr 2023|
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230406)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-04-13] Updated System / Technologies affected, ...| Release Date: 6 Apr 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230403)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on...| Release Date: 3 Apr 2023 |
- |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20230417)|A vulnerability was identified in Google Chrome. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:CVE-2023-2033 is being exploited in the wild. The vulnerability is caused due to a type confusion error...|Release Date: 17 Apr 2023|
- |[Microsoft Edge Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/microsoft-edge-remote-code-execution-vulnerability_20230417)|A vulnerability was identified in Microsoft Edge. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:CVE-2023-2033 is being exploited in the wild. The vulnerability is caused due to a type confusion error...|Release Date: 17 Apr 2023|
- |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20230413)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, data manipulation and cross-site scripting on the targeted system.|Release Date: 13 Apr 2023|
  
 
 # ZERODAYINITIATIVE
@@ -172,4 +156,20 @@
  |[VMware security advisory (AV23-230)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av23-230)|Visit link for details|2023-04-20|
  |[[Control systems] INEA security advisory (AV23-229)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-inea-security-advisory-av23-229)|Visit link for details|2023-04-20|
  |[Microsoft Edge security advisory (AV23-228)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-228)|Visit link for details|2023-04-20|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft Edge Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/microsoft-edge-remote-code-execution-vulnerability_20230421)|A vulnerability was identified in Microsoft Edge. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:CVE-2023-2136 is being exploited in the wild. The vulnerability is caused due to a Integer overflow in...|Release Date: 21 Apr 2023|
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230411)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass, sensitive information disclosure and elevation of privilege on the targeted system. [Updated on 2023-04-...| Release Date: 11 Apr 2023 |
+ |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20230419)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and information disclosure on the targeted system.|Release Date: 19 Apr 2023|
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230419)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. Note:CVE-2023-2136 is being exploited in the wild...|Release Date: 19 Apr 2023|
+ |[Oracle Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/oracle-products-multiple-vulnerabilities_20230419)|Multiple vulnerabilities were identified in Oracle Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 19 Apr 2023|
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230406)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-04-13] Updated System / Technologies affected, ...| Release Date: 6 Apr 2023 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230403)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on...| Release Date: 3 Apr 2023 |
+ |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20230417)|A vulnerability was identified in Google Chrome. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:CVE-2023-2033 is being exploited in the wild. The vulnerability is caused due to a type confusion error...|Release Date: 17 Apr 2023|
+ |[Microsoft Edge Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/microsoft-edge-remote-code-execution-vulnerability_20230417)|A vulnerability was identified in Microsoft Edge. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:CVE-2023-2033 is being exploited in the wild. The vulnerability is caused due to a type confusion error...|Release Date: 17 Apr 2023|
+ |[Fortinet Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20230413)|Multiple vulnerabilities were identified in Fortinet Products. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure, data manipulation and cross-site scripting on the targeted system.|Release Date: 13 Apr 2023|
  
