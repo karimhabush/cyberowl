@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 26/04/2023 22:16:43 UTC
+ > Last Updated 26/04/2023 23:18:15 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -41,6 +41,12 @@
  |[CISA Releases Malware Analysis Report on ICONICSTEALER](https://www.cisa.gov/news-events/alerts/2023/04/20/cisa-releases-malware-analysis-report-iconicstealer)|Visit link for details.|Apr 20, 2023|
  
 
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
@@ -57,25 +63,6 @@
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0333/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 avril 2023|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Service Location Protocol (SLP, RFC 2608) denial of service (CVE-2023-29552)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 25, 2023|
- |[VMware Workstation and Fusion information disclosure (CVE-2023-20870)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 25, 2023|
- |[VMware Workstation and Fusion buffer overflow (CVE-2023-20869)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 25, 2023|
- |[Multiple Zyxel products denial of service (CVE-2023-22916)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 25, 2023|
- |[Multiple Zyxel products denial of service (CVE-2023-22915)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 25, 2023|
- |[Multiple Zyxel products directory traversal (CVE-2023-22914)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 25, 2023|
- |[Multiple Zyxel products command execution (CVE-2023-22913)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 25, 2023|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -90,6 +77,19 @@
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230419)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. Note:CVE-2023-2136 is being exploited in the wild...|Release Date: 19 Apr 2023|
  |[Oracle Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/oracle-products-multiple-vulnerabilities_20230419)|Multiple vulnerabilities were identified in Oracle Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 19 Apr 2023|
  |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20230417)|A vulnerability was identified in Google Chrome. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:CVE-2023-2033 is being exploited in the wild. The vulnerability is caused due to a type confusion error...|Release Date: 17 Apr 2023|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Service Location Protocol (SLP, RFC 2608) denial of service (CVE-2023-29552)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 25, 2023|
+ |[VMware Workstation and Fusion information disclosure (CVE-2023-20870)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 25, 2023|
+ |[VMware Workstation and Fusion buffer overflow (CVE-2023-20869)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 25, 2023|
+ |[Multiple Zyxel products denial of service (CVE-2023-22916)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 25, 2023|
+ |[Multiple Zyxel products denial of service (CVE-2023-22915)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 25, 2023|
+ |[Multiple Zyxel products directory traversal (CVE-2023-22914)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 25, 2023|
+ |[Multiple Zyxel products command execution (CVE-2023-22913)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 25, 2023|
  
 
 # OBS-Vigilance
@@ -126,20 +126,6 @@
  |[2023-015: RCE Vulnerability in Fortinet Products](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-015.pdf)|On March 7, 2023, Fortinet released an advisory regarding one critical vulnerability in FortiOS and FortiProxy administrative interface. This vulnerability is identified as CVE-2023-25610 (CVSS score of 9.3) and it may allow remote unauthenticated attackers to execute arbitrary code on the device and/or to perform a DoS on the GUI. Fortinet is not aware of any instance where this vulnerability was exploited in the wild.|Wednesday, March 08, 2023 11:15:00 PM CET|
  
 
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
- 
-
 # MA-CERT
 
  |Title|Description|Date|
@@ -155,6 +141,20 @@
  |[41482104/23 - Vulnérabilités critiques affectantVMware Aria Operations for Logs](https://www.dgssi.gov.ma//fr/content/4148210423-vulnerabilites-critiques-affectant-vmware-aria-operations-logs.html)|VMware annonce la correction de deux vulnérabilités critiques affectant son produit VMware Aria Operations for Logs. L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant de d’exécuter du code arbitraire avec...|21 avril 2023|
  |[41472004/23 - Le ransomware « Kiop »](https://www.dgssi.gov.ma//fr/content/4147200423-le-ransomware-kiop.html)|Une compagne d’attaque par le ransomware « Kiop » a été récemment détectée, ciblant lessystèmes basés sur Windows dans le monde entier. Ce ransomware peut infecter les ordinateurs par diverses méthodes, notamment des pièces jointes...|20 avril 2023|
  |[41462004/23 - Vulnérabilités affectant plusieurs produits de Cisco](https://www.dgssi.gov.ma//fr/content/4146200423-vulnerabilites-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’exécuter du code arbitraire, de...|20 avril 2023|
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
 
 # CA-CCS
