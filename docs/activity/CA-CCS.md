@@ -4,6 +4,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[[Control systems] Illumina security advisory (AV23-239)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-illumina-security-advisory-av23-239)|Visit link for details|2023-04-27|
  |[Red Hat security advisory (AV23-238)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av23-238)|Visit link for details|2023-04-25|
  |[VMware security advisory (AV23-237)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av23-237)|Visit link for details|2023-04-25|
  |[[Control systems] Scada-LTS security advisory (AV23-236)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-scada-lts-security-advisory-av23-236)|Visit link for details|2023-04-25|
@@ -14,5 +15,4 @@
  |[Microsoft Edge security advisory (AV23-231)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-231)|Visit link for details|2023-04-21|
  |[VMware security advisory (AV23-230)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av23-230)|Visit link for details|2023-04-20|
  |[[Control systems] INEA security advisory (AV23-229)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-inea-security-advisory-av23-229)|Visit link for details|2023-04-20|
- |[Microsoft Edge security advisory (AV23-228)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av23-228)|Visit link for details|2023-04-20|
  
