@@ -9,6 +9,6 @@
  |[Service Location Protocol (SLP, RFC 2608) denial of service (CVE-2023-29552)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 25, 2023|
  |[VMware Workstation and Fusion information disclosure (CVE-2023-20870)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 25, 2023|
  |[VMware Workstation and Fusion buffer overflow (CVE-2023-20869)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 25, 2023|
+ |[Arista EOS security bypass (CVE-2023-24512)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 25, 2023|
  |[Devolutions Remote Desktop Manager security bypass (CVE-2023-2282)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 25, 2023|
- |[Mattermost Server information disclosure (CVE-2023-2281)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 25, 2023|
  
