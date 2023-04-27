@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 27/04/2023 13:24:28 UTC
+ > Last Updated 27/04/2023 14:16:12 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -25,28 +25,6 @@
  
  > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Abuse of the Service Location Protocol May Lead to DoS Attacks](https://www.cisa.gov/news-events/alerts/2023/04/25/abuse-service-location-protocol-may-lead-dos-attacks)|Visit link for details.|Apr 25, 2023|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/04/25/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Apr 25, 2023|
- |[VMware Releases Security Update for Aria Operations for Logs](https://www.cisa.gov/news-events/alerts/2023/04/21/vmware-releases-security-update-aria-operations-logs)|Visit link for details.|Apr 21, 2023|
- |[Drupal Releases Security Advisory to Address Vulnerability in Drupal Core](https://www.cisa.gov/news-events/alerts/2023/04/21/drupal-releases-security-advisory-address-vulnerability-drupal-core)|Visit link for details.|Apr 21, 2023|
- |[Oracle Releases Security Updates](https://www.cisa.gov/news-events/alerts/2023/04/21/oracle-releases-security-updates)|Visit link for details.|Apr 21, 2023|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/04/21/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Apr 21, 2023|
- |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/04/21/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Apr 21, 2023|
- |[CISA Releases Two SBOM Documents ](https://www.cisa.gov/news-events/alerts/2023/04/21/cisa-releases-two-sbom-documents)|Visit link for details.|Apr 21, 2023|
- |[CISA to Continue and Enhance U.K.’s Logging Made Easy Tool](https://www.cisa.gov/news-events/alerts/2023/04/20/cisa-continue-and-enhance-uks-logging-made-easy-tool)|Visit link for details.|Apr 20, 2023|
- |[CISA Releases Malware Analysis Report on ICONICSTEALER](https://www.cisa.gov/news-events/alerts/2023/04/20/cisa-releases-malware-analysis-report-iconicstealer)|Visit link for details.|Apr 20, 2023|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -63,21 +41,33 @@
  |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0333/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 avril 2023|
  
 
-# OBS-Vigilance
+# US-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Grafana-user-access-via-JWT-41141" class="noirorange"><b>Grafana</b>: user access via JWT</a>](https://vigilance.fr/vulnerability/Grafana-user-access-via-JWT-41141)|An attacker can bypass restrictions of Grafana, via JWT, in order to gain user privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-do-prlimit-41140" class="noirorange"><b>Linux kernel</b>: information disclosure via do_prlimit()</a>](https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-do-prlimit-41140)|An attacker can bypass access restrictions to data of the Linux kernel, via do_prlimit(), in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/cloud-init-information-disclosure-via-log-files-41139" class="noirorange"><b>cloud-init</b>: information disclosure via log files</a>](https://vigilance.fr/vulnerability/cloud-init-information-disclosure-via-log-files-41139)|An attacker can read sensitive information from the cloud-init logs...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBMCA-extension-for-OpenSSL-getting-information-41138" class="noirorange"><b>IBMCA extension for OpenSSL</b>: getting information</a>](https://vigilance.fr/vulnerability/IBMCA-extension-for-OpenSSL-getting-information-41138)|An attacker can bypass access restrictions to data of the extension IBMCA pour OpenSSL, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-WebSphere-Application-Server-Traditional-Cross-Site-Scripting-via-Admin-Console-41137" class="noirorange"><b>IBM WebSphere Application Server Traditional</b>: Cross Site Scripting via Admin Console</a>](https://vigilance.fr/vulnerability/IBM-WebSphere-Application-Server-Traditional-Cross-Site-Scripting-via-Admin-Console-41137)|An attacker can trigger a Cross Site Scripting of IBM WebSphere Application Server Traditional, via Admin Console, in order to run JavaScript code in the context of the web site...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/VMware-Workstation-three-vulnerabilities-41136" class="noirorange"><b>VMware Workstation</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/VMware-Workstation-three-vulnerabilities-41136)|An attacker can use several vulnerabilities of VMware Workstation...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Secure-Boot-renewal-of-cryptographic-keys-41135" class="noirorange"><b>Secure Boot</b>: renewal of cryptographic keys</a>](https://vigilance.fr/vulnerability/Secure-Boot-renewal-of-cryptographic-keys-41135)|Cryptographic keys used for Secure Boot must be renewed...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Git-three-vulnerabilities-41134" class="noirorange"><b>Git</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Git-three-vulnerabilities-41134)|An attacker can use several vulnerabilities of Git...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/HPE-ProLiant-information-disclosure-41133" class="noirorange"><b>HPE ProLiant</b>: information disclosure</a>](https://vigilance.fr/vulnerability/HPE-ProLiant-information-disclosure-41133)|An attacker can bypass access restrictions to data of HPE ProLiant, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/LilyPond-privilege-escalation-41132" class="noirorange"><b>LilyPond</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/LilyPond-privilege-escalation-41132)|An attacker can bypass restrictions of LilyPond, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Xen-memory-corruption-via-direct-PCI-access-41131" class="noirorange"><b>Xen</b>: memory corruption via direct PCI access</a>](https://vigilance.fr/vulnerability/Xen-memory-corruption-via-direct-PCI-access-41131)|An attacker in a guest system can cause Xen memory corruption, via direct access to a PCI device, in order to conduct a denial of service, and possibly execute code on the host system...|Visit link for details|
+ |[Abuse of the Service Location Protocol May Lead to DoS Attacks](https://www.cisa.gov/news-events/alerts/2023/04/25/abuse-service-location-protocol-may-lead-dos-attacks)|Visit link for details.|Apr 25, 2023|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/04/25/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Apr 25, 2023|
+ |[VMware Releases Security Update for Aria Operations for Logs](https://www.cisa.gov/news-events/alerts/2023/04/21/vmware-releases-security-update-aria-operations-logs)|Visit link for details.|Apr 21, 2023|
+ |[Drupal Releases Security Advisory to Address Vulnerability in Drupal Core](https://www.cisa.gov/news-events/alerts/2023/04/21/drupal-releases-security-advisory-address-vulnerability-drupal-core)|Visit link for details.|Apr 21, 2023|
+ |[Oracle Releases Security Updates](https://www.cisa.gov/news-events/alerts/2023/04/21/oracle-releases-security-updates)|Visit link for details.|Apr 21, 2023|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/04/21/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Apr 21, 2023|
+ |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/04/21/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Apr 21, 2023|
+ |[CISA Releases Two SBOM Documents ](https://www.cisa.gov/news-events/alerts/2023/04/21/cisa-releases-two-sbom-documents)|Visit link for details.|Apr 21, 2023|
+ |[CISA to Continue and Enhance U.K.’s Logging Made Easy Tool](https://www.cisa.gov/news-events/alerts/2023/04/20/cisa-continue-and-enhance-uks-logging-made-easy-tool)|Visit link for details.|Apr 20, 2023|
+ |[CISA Releases Malware Analysis Report on ICONICSTEALER](https://www.cisa.gov/news-events/alerts/2023/04/20/cisa-releases-malware-analysis-report-iconicstealer)|Visit link for details.|Apr 20, 2023|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Huawei printer product code execution (CVE-2022-48472)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 27, 2023|
+ |[Atom CMS SQL injection](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 27, 2023|
+ |[Huawei HarmonyOS AILife Solution security bypass (CVE-2022-48470)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 26, 2023|
+ |[Huawei Printer denial of service (CVE-2022-48473)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 26, 2023|
+ |[Huawei Printer denial of service (CVE-2022-48471)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 26, 2023|
+ |[Linux Mint Warpinator directory traversal (CVE-2023-29380)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 26, 2023|
+ |[Cisco Prime Collaboration Deployment cross-site scripting (CVE-2023-20060)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 26, 2023|
  
 
 # HK-CERT
@@ -94,19 +84,6 @@
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230419)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. Note:CVE-2023-2136 is being exploited in the wild...|Release Date: 19 Apr 2023|
  |[Oracle Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/oracle-products-multiple-vulnerabilities_20230419)|Multiple vulnerabilities were identified in Oracle Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system.|Release Date: 19 Apr 2023|
  |[Google Chrome Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20230417)|A vulnerability was identified in Google Chrome. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:CVE-2023-2033 is being exploited in the wild. The vulnerability is caused due to a type confusion error...|Release Date: 17 Apr 2023|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Huawei printer product code execution (CVE-2022-48472)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 27, 2023|
- |[Atom CMS SQL injection](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 27, 2023|
- |[Huawei HarmonyOS AILife Solution security bypass (CVE-2022-48470)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 26, 2023|
- |[Huawei Printer denial of service (CVE-2022-48473)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 26, 2023|
- |[Huawei Printer denial of service (CVE-2022-48471)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 26, 2023|
- |[Linux Mint Warpinator directory traversal (CVE-2023-29380)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 26, 2023|
- |[Cisco Prime Collaboration Deployment cross-site scripting (CVE-2023-20060)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 26, 2023|
  
 
 # EU-CERT
@@ -126,6 +103,12 @@
  |[2023-015: RCE Vulnerability in Fortinet Products](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-015.pdf)|On March 7, 2023, Fortinet released an advisory regarding one critical vulnerability in FortiOS and FortiProxy administrative interface. This vulnerability is identified as CVE-2023-25610 (CVSS score of 9.3) and it may allow remote unauthenticated attackers to execute arbitrary code on the device and/or to perform a DoS on the GUI. Fortinet is not aware of any instance where this vulnerability was exploited in the wild.|Wednesday, March 08, 2023 11:15:00 PM CET|
  
 
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # ZERODAYINITIATIVE
 
  |Title|Description|Date|
@@ -140,10 +123,28 @@
  |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Grafana-denial-of-service-via-crewjam-saml-library-41142" class="noirorange"><b>Grafana</b>: denial of service via crewjam/saml library</a>](https://vigilance.fr/vulnerability/Grafana-denial-of-service-via-crewjam-saml-library-41142)|An attacker can cause a fatal error of Grafana, in the library crewjam/saml, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Grafana-user-access-via-JWT-41141" class="noirorange"><b>Grafana</b>: user access via JWT</a>](https://vigilance.fr/vulnerability/Grafana-user-access-via-JWT-41141)|An attacker can bypass restrictions of Grafana, via JWT, in order to gain user privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-do-prlimit-41140" class="noirorange"><b>Linux kernel</b>: information disclosure via do_prlimit()</a>](https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-do-prlimit-41140)|An attacker can bypass access restrictions to data of the Linux kernel, via do_prlimit(), in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/cloud-init-information-disclosure-via-log-files-41139" class="noirorange"><b>cloud-init</b>: information disclosure via log files</a>](https://vigilance.fr/vulnerability/cloud-init-information-disclosure-via-log-files-41139)|An attacker can read sensitive information from the cloud-init logs...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBMCA-extension-for-OpenSSL-getting-information-41138" class="noirorange"><b>IBMCA extension for OpenSSL</b>: getting information</a>](https://vigilance.fr/vulnerability/IBMCA-extension-for-OpenSSL-getting-information-41138)|An attacker can bypass access restrictions to data of the extension IBMCA pour OpenSSL, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-WebSphere-Application-Server-Traditional-Cross-Site-Scripting-via-Admin-Console-41137" class="noirorange"><b>IBM WebSphere Application Server Traditional</b>: Cross Site Scripting via Admin Console</a>](https://vigilance.fr/vulnerability/IBM-WebSphere-Application-Server-Traditional-Cross-Site-Scripting-via-Admin-Console-41137)|An attacker can trigger a Cross Site Scripting of IBM WebSphere Application Server Traditional, via Admin Console, in order to run JavaScript code in the context of the web site...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/VMware-Workstation-three-vulnerabilities-41136" class="noirorange"><b>VMware Workstation</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/VMware-Workstation-three-vulnerabilities-41136)|An attacker can use several vulnerabilities of VMware Workstation...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Secure-Boot-renewal-of-cryptographic-keys-41135" class="noirorange"><b>Secure Boot</b>: renewal of cryptographic keys</a>](https://vigilance.fr/vulnerability/Secure-Boot-renewal-of-cryptographic-keys-41135)|Cryptographic keys used for Secure Boot must be renewed...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Git-three-vulnerabilities-41134" class="noirorange"><b>Git</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Git-three-vulnerabilities-41134)|An attacker can use several vulnerabilities of Git...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/HPE-ProLiant-information-disclosure-41133" class="noirorange"><b>HPE ProLiant</b>: information disclosure</a>](https://vigilance.fr/vulnerability/HPE-ProLiant-information-disclosure-41133)|An attacker can bypass access restrictions to data of HPE ProLiant, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/LilyPond-privilege-escalation-41132" class="noirorange"><b>LilyPond</b>: privilege escalation</a>](https://vigilance.fr/vulnerability/LilyPond-privilege-escalation-41132)|An attacker can bypass restrictions of LilyPond, in order to escalate his privileges...|Visit link for details|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[41582704/23- Vulnérabilités critiques affectant PrestaShop ](https://www.dgssi.gov.ma//fr/content/4158270423-vulnerabilites-critiques-affectant-prestashop.html)|PrestaShop annonce la correction de trois vulnérabilités affectant sa plateforme destinée à la construction de sites E-commerce. Une de ces vulnérabilités identifiée par «CVE-2023-30839 »est très critique et son exploitation peut...|27 avril 2023|
  |[41572704/23 - Vulnérabilité affectant Cisco Prime Collaboration Deployment](https://www.dgssi.gov.ma//fr/content/4157270423-vulnerabilite-affectant-cisco-prime-collaboration-deployment.html)|Cisco annonce la correction d’une vulnérabilité affectant l’interface de gestion de son produit Cisco Prime Collaboration Deployment.L'exploitation de cette vulnérabilité peutpermettreà un attaquant distant d’exécuter du code...|27 avril 2023|
  |[41562604/23 - Vulnérabilités dans les produits industriels de Schneider Electric ](https://www.dgssi.gov.ma//fr/content/4156260423-vulnerabilites-dans-les-produits-industriels-de-schneider-electric.html)|Plusieurs vulnérabilités critiques ont été corrigées dans les produits industriels susmentionnés de Schneider Electric. L’exploitation de ces failles permet à un attaquant de causer un déni de service, de réussir une élévation de...|26 avril 2023|
  |[41542604/23 - Vulnérabilité dans le protocole SLP permettant des attaques d’amplification de DDOS ](https://www.dgssi.gov.ma//fr/content/4154260423-vulnerabilite-dans-le-protocole-slp-permettant-des-attaques-d-amplification-de-ddos.html)|SLP « Service Location Protocol » est un ancien protocole de découverte de services qui permet aux ordinateurs et autres périphériques de trouver des services dans un réseau local tels que des imprimantes, des serveurs de fichiers et d’...|26 avril 2023|
@@ -154,7 +155,6 @@
  |[41502104/23 - Vulnérabilités dansPostfix](https://www.dgssi.gov.ma//fr/content/4150210423-vulnerabilites-dans-postfix.html)|Plusieurs vulnérabilités ont été corrigées dans les versions Postfix susmentionnées. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité et de causer un déni de service.|21 avril 2023|
  |[41492104/23 - Vulnérabilité dans le CMS Drupal](https://www.dgssi.gov.ma//fr/content/4149210423-vulnerabilite-dans-le-cms-drupal.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées du CMS Drupal. L’exploitation de cette faille peut permettre à un attaquant de contourner la politique de sécurité.|21 avril 2023|
  |[41482104/23 - Vulnérabilités critiques affectantVMware Aria Operations for Logs](https://www.dgssi.gov.ma//fr/content/4148210423-vulnerabilites-critiques-affectant-vmware-aria-operations-logs.html)|VMware annonce la correction de deux vulnérabilités critiques affectant son produit VMware Aria Operations for Logs. L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant de d’exécuter du code arbitraire avec...|21 avril 2023|
- |[41472004/23 - Le ransomware « Kiop »](https://www.dgssi.gov.ma//fr/content/4147200423-le-ransomware-kiop.html)|Une compagne d’attaque par le ransomware « Kiop » a été récemment détectée, ciblant lessystèmes basés sur Windows dans le monde entier. Ce ransomware peut infecter les ordinateurs par diverses méthodes, notamment des pièces jointes...|20 avril 2023|
  
 
 # CA-CCS
