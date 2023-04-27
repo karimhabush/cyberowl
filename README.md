@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 26/04/2023 23:18:15 UTC
+ > Last Updated 27/04/2023 01:24:56 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -41,28 +41,6 @@
  |[CISA Releases Malware Analysis Report on ICONICSTEALER](https://www.cisa.gov/news-events/alerts/2023/04/20/cisa-releases-malware-analysis-report-iconicstealer)|Visit link for details.|Apr 20, 2023|
  
 
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0342/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 avril 2023|
- |[Vulnérabilité dans SolarWinds Platform](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0341/)|Une vulnérabilité a été découverte dans |Publié le 26 avril 2023|
- |[Vulnérabilité dans les produits Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0340/)|Une vulnérabilité a été découverte dans |Publié le 26 avril 2023|
- |[Multiples vulnérabilités dans Tenable.sc](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0339/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 avril 2023|
- |[[SCADA] Multiples vulnérabilités dans les produits Belden](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0338/)|De multiples vulnérabilités ont été découvertes dans les produits Belden. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 25 avril 2023|
- |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0337/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 25 avril 2023|
- |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0336/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 24 avril 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0335/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 avril 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0334/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 avril 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0333/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 avril 2023|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -92,6 +70,36 @@
  |[Multiple Zyxel products command execution (CVE-2023-22913)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 25, 2023|
  
 
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
+ 
+
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0342/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 avril 2023|
+ |[Vulnérabilité dans SolarWinds Platform](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0341/)|Une vulnérabilité a été découverte dans |Publié le 26 avril 2023|
+ |[Vulnérabilité dans les produits Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0340/)|Une vulnérabilité a été découverte dans |Publié le 26 avril 2023|
+ |[Multiples vulnérabilités dans Tenable.sc](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0339/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 avril 2023|
+ |[[SCADA] Multiples vulnérabilités dans les produits Belden](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0338/)|De multiples vulnérabilités ont été découvertes dans les produits Belden. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 25 avril 2023|
+ |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0337/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 25 avril 2023|
+ |[Multiples vulnérabilités dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0336/)|De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 24 avril 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0335/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 avril 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0334/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 avril 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0333/)|De multiples vulnérabilités ont été découvertes dans |Publié le 21 avril 2023|
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -107,6 +115,12 @@
  |[<a href="https://vigilance.fr/vulnerability/Contao-directory-traversal-41128" class="noirorange"><b>Contao</b>: directory traversal</a>](https://vigilance.fr/vulnerability/Contao-directory-traversal-41128)|An attacker can traverse directories of Contao, in order to read a folder outside the service root path...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-ctrl-cdev-ioctl-41127" class="noirorange"><b>Linux kernel</b>: denial of service via ctrl_cdev_ioctl()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-ctrl-cdev-ioctl-41127)|An attacker can trigger a division by 0 in the Linux kernel, via ctrl_cdev_ioctl(), in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-dvb-frontend-get-event-41126" class="noirorange"><b>Linux kernel</b>: denial of service via dvb_frontend_get_event()</a>](https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-dvb-frontend-get-event-41126)|An attacker can make the Linux kernel block, via |Visit link for details|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # EU-CERT
@@ -141,20 +155,6 @@
  |[41482104/23 - Vulnérabilités critiques affectantVMware Aria Operations for Logs](https://www.dgssi.gov.ma//fr/content/4148210423-vulnerabilites-critiques-affectant-vmware-aria-operations-logs.html)|VMware annonce la correction de deux vulnérabilités critiques affectant son produit VMware Aria Operations for Logs. L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant de d’exécuter du code arbitraire avec...|21 avril 2023|
  |[41472004/23 - Le ransomware « Kiop »](https://www.dgssi.gov.ma//fr/content/4147200423-le-ransomware-kiop.html)|Une compagne d’attaque par le ransomware « Kiop » a été récemment détectée, ciblant lessystèmes basés sur Windows dans le monde entier. Ce ransomware peut infecter les ordinateurs par diverses méthodes, notamment des pièces jointes...|20 avril 2023|
  |[41462004/23 - Vulnérabilités affectant plusieurs produits de Cisco](https://www.dgssi.gov.ma//fr/content/4146200423-vulnerabilites-affectant-plusieurs-produits-de-cisco.html)|Cisco annonce la correction de plusieurs vulnérabilités affectant certaines versions de ses produits susmentionnés.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’exécuter du code arbitraire, de...|20 avril 2023|
- 
-
-# ZERODAYINITIATIVE
-
- |Title|Description|Date|
- |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
 
 # CA-CCS
