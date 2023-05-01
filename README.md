@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 01/05/2023 08:22:13 UTC
+ > Last Updated 01/05/2023 09:17:19 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -96,6 +96,19 @@
  |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230419)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. Note:CVE-2023-2136 is being exploited in the wild...|Release Date: 19 Apr 2023|
  
 
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft Edge (Chromium-based) spoofing (CVE-2023-29334)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 28, 2023|
+ |[IBM Java information disclosure (CVE-2023-30441)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 28, 2023|
+ |[Faculty Evaluation System SQL injection (CVE-2023-2365)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 27, 2023|
+ |[Faculty Evaluation System SQL injection (CVE-2023-2366)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 27, 2023|
+ |[42Gears Surelock for Windows information disclosure (CVE-2023-2335)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 27, 2023|
+ |[42Gears Surelock for Windows code execution (CVE-2023-2331)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 27, 2023|
+ |[Linux Kernel unspecified (CVE-2023-31436)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 27, 2023|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -111,19 +124,6 @@
  |[41522504/23 - Vulnérabilités affectant Solarwinds Platform](https://www.dgssi.gov.ma//fr/content/4152250423-vulnerabilites-affectant-solarwinds-platform.html)|SolarWinds annonce la correction de quatre vulnérabilités affectant sonproduit Solarwinds Plateform. L’exploitation de ces vulnérabilités peut permettre à un attaquant, l’exécution de code arbitraire, l’élévation de privilèges ou l’...|25 avril 2023|
  |[41502104/23 - Vulnérabilités dansPostfix](https://www.dgssi.gov.ma//fr/content/4150210423-vulnerabilites-dans-postfix.html)|Plusieurs vulnérabilités ont été corrigées dans les versions Postfix susmentionnées. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité et de causer un déni de service.|21 avril 2023|
  |[41492104/23 - Vulnérabilité dans le CMS Drupal](https://www.dgssi.gov.ma//fr/content/4149210423-vulnerabilite-dans-le-cms-drupal.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées du CMS Drupal. L’exploitation de cette faille peut permettre à un attaquant de contourner la politique de sécurité.|21 avril 2023|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Edge (Chromium-based) spoofing (CVE-2023-29334)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 28, 2023|
- |[IBM Java information disclosure (CVE-2023-30441)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 28, 2023|
- |[Faculty Evaluation System SQL injection (CVE-2023-2365)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 27, 2023|
- |[Faculty Evaluation System SQL injection (CVE-2023-2366)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 27, 2023|
- |[42Gears Surelock for Windows information disclosure (CVE-2023-2335)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 27, 2023|
- |[42Gears Surelock for Windows code execution (CVE-2023-2331)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 27, 2023|
- |[Linux Kernel unspecified (CVE-2023-31436)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 27, 2023|
  
 
 # ZERODAYINITIATIVE
