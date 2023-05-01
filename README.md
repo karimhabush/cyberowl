@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 01/05/2023 15:17:26 UTC
+ > Last Updated 01/05/2023 16:22:32 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -24,6 +24,22 @@
  |[EU-CERT](#eu-cert-arrow_heading_up)|European Union Agency for Cybersecurity.|
  
  > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/05/01/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 01, 2023|
+ |[CISA Requests for Comment on Secure Software Self-Attestation Form](https://www.cisa.gov/news-events/alerts/2023/04/28/cisa-requests-comment-secure-software-self-attestation-form)|Visit link for details.|Apr 28, 2023|
+ |[CISA Releases One Industrial Control Systems Medical Advisory](https://www.cisa.gov/news-events/alerts/2023/04/27/cisa-releases-one-industrial-control-systems-medical-advisory)|Visit link for details.|Apr 27, 2023|
+ |[Abuse of the Service Location Protocol May Lead to DoS Attacks](https://www.cisa.gov/news-events/alerts/2023/04/25/abuse-service-location-protocol-may-lead-dos-attacks)|Visit link for details.|Apr 25, 2023|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/04/25/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Apr 25, 2023|
+ |[VMware Releases Security Update for Aria Operations for Logs](https://www.cisa.gov/news-events/alerts/2023/04/21/vmware-releases-security-update-aria-operations-logs)|Visit link for details.|Apr 21, 2023|
+ |[Drupal Releases Security Advisory to Address Vulnerability in Drupal Core](https://www.cisa.gov/news-events/alerts/2023/04/21/drupal-releases-security-advisory-address-vulnerability-drupal-core)|Visit link for details.|Apr 21, 2023|
+ |[Oracle Releases Security Updates](https://www.cisa.gov/news-events/alerts/2023/04/21/oracle-releases-security-updates)|Visit link for details.|Apr 21, 2023|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/04/21/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Apr 21, 2023|
+ |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/04/21/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Apr 21, 2023|
+ 
 
 # CERT-FR
 
@@ -47,23 +63,6 @@
  |---|---|---|
  
 
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-qfq-activate-agg-41160" class="noirorange"><b>Linux kernel</b>: buffer overflow via qfq_activate_agg()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-qfq-activate-agg-41160)|An attacker can trigger a buffer overflow of the Linux kernel, via qfq_activate_agg(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-spoofing-41159" class="noirorange"><b>Microsoft Edge Chromium</b>: spoofing</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-spoofing-41159)|An attacker can create spoofed data on Microsoft Edge Chromium, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-Configuration-Files-41158" class="noirorange"><b>IBM MQ</b>: denial of service via Configuration Files</a>](https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-Configuration-Files-41158)|An attacker can cause a fatal error of IBM MQ, via Configuration Files, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-PCF-Messages-41157" class="noirorange"><b>IBM MQ</b>: denial of service via PCF Messages</a>](https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-PCF-Messages-41157)|An attacker can cause a fatal error of IBM MQ, via PCF Messages, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-logged-sensitive-information-via-Tracing-Logic-41156" class="noirorange"><b>IBM MQ</b>: logged sensitive information via Tracing Logic</a>](https://vigilance.fr/vulnerability/IBM-MQ-logged-sensitive-information-via-Tracing-Logic-41156)|An attacker can read logs of IBM MQ, via Tracing Logic, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-logged-sensitive-information-via-Trace-File-41155" class="noirorange"><b>IBM MQ</b>: logged sensitive information via Trace File</a>](https://vigilance.fr/vulnerability/IBM-MQ-logged-sensitive-information-via-Trace-File-41155)|An attacker can read logs of IBM MQ, via Trace File, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-Invalid-Data-41154" class="noirorange"><b>IBM MQ</b>: denial of service via Invalid Data</a>](https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-Invalid-Data-41154)|An attacker can cause a fatal error of IBM MQ, via Invalid Data, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Comrak-denial-of-service-via-format-document-with-plugins-41153" class="noirorange"><b>Comrak</b>: denial of service via format_document_with_plugins()</a>](https://vigilance.fr/vulnerability/Comrak-denial-of-service-via-format-document-with-plugins-41153)|An attacker can cause a fatal error of Comrak, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Comrak-overload-via-Markdown-Quadratic-Parsing-41152" class="noirorange"><b>Comrak</b>: overload via Markdown Quadratic Parsing</a>](https://vigilance.fr/vulnerability/Comrak-overload-via-Markdown-Quadratic-Parsing-41152)|An attacker can trigger an overload of Comrak, via Markdown Quadratic Parsing, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/FasterXML-Jackson-Databind-code-execution-via-Deserialization-41151" class="noirorange"><b>FasterXML Jackson-Databind</b>: code execution via Deserialization</a>](https://vigilance.fr/vulnerability/FasterXML-Jackson-Databind-code-execution-via-Deserialization-41151)|An attacker can use a vulnerability of FasterXML Jackson-Databind, via Deserialization, in order to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/SNIProxy-buffer-overflow-via-Wildcard-Backend-Hosts-41150" class="noirorange"><b>SNIProxy</b>: buffer overflow via Wildcard Backend Hosts</a>](https://vigilance.fr/vulnerability/SNIProxy-buffer-overflow-via-Wildcard-Backend-Hosts-41150)|An attacker can trigger a buffer overflow of SNIProxy, via Wildcard Backend Hosts, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -79,6 +78,39 @@
  |[2023-017: Severe Vulnerabilities in Jenkins Products](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-017.pdf)|On March 8, 2023, Jenkins released advisories regarding 2 severe security vulnerabilities in Jenkins server and Update Center. These vulnerabilities are identified by CVE-2023-27898 and CVE-2023-27905 and could allow an unauthenticated attacker to execute arbitrary code on the victim's Jenkins server, potentially leading to a complete compromise of the Jenkins server. Furthermore, these vulnerabilities could be exploited even if the Jenkins server is not directly reachable by attackers and could also impact self-hosted Jenkins servers.|Thursday, March 09, 2023 05:40:00 PM CET|
  |[2023-016: High Vulnerability in Veeam Backup & Replication](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-016.pdf)|On March 8, 2023, Veeam released a new security advisory revealing one high vulnerability in a Veeam Backup & Replication component. This vulnerability is identified by CVE-2023-27532 (CVSS score of 7.5) and it may allow an attacker to obtain encrypted credentials stored in the configuration database. This may lead to gaining access to the backup infrastructure hosts. It is highly recommended installing the latest version.|Thursday, March 09, 2023 05:30:00 PM CET|
  |[2023-015: RCE Vulnerability in Fortinet Products](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-015.pdf)|On March 7, 2023, Fortinet released an advisory regarding one critical vulnerability in FortiOS and FortiProxy administrative interface. This vulnerability is identified as CVE-2023-25610 (CVSS score of 9.3) and it may allow remote unauthenticated attackers to execute arbitrary code on the device and/or to perform a DoS on the GUI. Fortinet is not aware of any instance where this vulnerability was exploited in the wild.|Wednesday, March 08, 2023 11:15:00 PM CET|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Veritas-NetBackup-executing-DLL-code-41164" class="noirorange"><b>Veritas NetBackup</b>: executing DLL code</a>](https://vigilance.fr/vulnerability/Veritas-NetBackup-executing-DLL-code-41164)|An attacker can create a malicious DLL for Veritas NetBackup, and then put it in the current directory, in order to execute code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-ReadTIFFImage-41163" class="noirorange"><b>ImageMagick</b>: buffer overflow via ReadTIFFImage()</a>](https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-ReadTIFFImage-41163)|An attacker can trigger a buffer overflow of ImageMagick, via ReadTIFFImage(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-TIFFGetProfiles-41162" class="noirorange"><b>ImageMagick</b>: buffer overflow via TIFFGetProfiles()</a>](https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-TIFFGetProfiles-41162)|An attacker can trigger a buffer overflow of ImageMagick, via TIFFGetProfiles(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mbed-TLS-weak-encryption-via-mbedtls-mpi-exp-mod-41161" class="noirorange"><b>Mbed TLS</b>: weak encryption via mbedtls_mpi_exp_mod()</a>](https://vigilance.fr/vulnerability/Mbed-TLS-weak-encryption-via-mbedtls-mpi-exp-mod-41161)|An attacker can access data on Mbed TLS, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-qfq-activate-agg-41160" class="noirorange"><b>Linux kernel</b>: buffer overflow via qfq_activate_agg()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-qfq-activate-agg-41160)|An attacker can trigger a buffer overflow of the Linux kernel, via qfq_activate_agg(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-spoofing-41159" class="noirorange"><b>Microsoft Edge Chromium</b>: spoofing</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-spoofing-41159)|An attacker can create spoofed data on Microsoft Edge Chromium, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-Configuration-Files-41158" class="noirorange"><b>IBM MQ</b>: denial of service via Configuration Files</a>](https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-Configuration-Files-41158)|An attacker can cause a fatal error of IBM MQ, via Configuration Files, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-PCF-Messages-41157" class="noirorange"><b>IBM MQ</b>: denial of service via PCF Messages</a>](https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-PCF-Messages-41157)|An attacker can cause a fatal error of IBM MQ, via PCF Messages, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-logged-sensitive-information-via-Tracing-Logic-41156" class="noirorange"><b>IBM MQ</b>: logged sensitive information via Tracing Logic</a>](https://vigilance.fr/vulnerability/IBM-MQ-logged-sensitive-information-via-Tracing-Logic-41156)|An attacker can read logs of IBM MQ, via Tracing Logic, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-logged-sensitive-information-via-Trace-File-41155" class="noirorange"><b>IBM MQ</b>: logged sensitive information via Trace File</a>](https://vigilance.fr/vulnerability/IBM-MQ-logged-sensitive-information-via-Trace-File-41155)|An attacker can read logs of IBM MQ, via Trace File, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-Invalid-Data-41154" class="noirorange"><b>IBM MQ</b>: denial of service via Invalid Data</a>](https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-Invalid-Data-41154)|An attacker can cause a fatal error of IBM MQ, via Invalid Data, in order to trigger a denial of service...|Visit link for details|
+ 
+
+# HK-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20230428)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, remote code execution and information disclosure on the targeted system.|Release Date: 28 Apr 2023|
+ |[NetApp Product Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/netapp-products-denial-of-service-vulnerability_20230428)|A vulnerability was identified in a NetApp Product. A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system.|Release Date: 28 Apr 2023|
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230411)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass, sensitive information disclosure and elevation of privilege on the targeted system. [Updated on 2023-04-...| Release Date: 11 Apr 2023 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230403)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on...| Release Date: 3 Apr 2023 |
+ |[TP-Link Router Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/tp-link-router-remote-code-execution-vulnerability_20230426)|A vulnerability was identified in TP-Link router. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:CVE-2023-1389 is being exploited in the wild.| Release Date: 26 Apr 2023 |
+ |[VMWare Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/vmware-products-multiple-vulnerabilities_20230426)|Multiple vulnerabilities were identified in VMware Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution, denial of service and sensitive information disclosure on the targeted system.|Release Date: 26 Apr 2023|
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230406)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-04-13] Updated System / Technologies affected, ...| Release Date: 6 Apr 2023 |
+ |[Microsoft Edge Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/microsoft-edge-remote-code-execution-vulnerability_20230421)|A vulnerability was identified in Microsoft Edge. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:CVE-2023-2136 is being exploited in the wild. The vulnerability is caused due to a Integer overflow in...|Release Date: 21 Apr 2023|
+ |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20230419)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and information disclosure on the targeted system.|Release Date: 19 Apr 2023|
+ |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230419)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. Note:CVE-2023-2136 is being exploited in the wild...|Release Date: 19 Apr 2023|
  
 
 # MA-CERT
@@ -98,49 +130,17 @@
  |[41492104/23 - Vulnérabilité dans le CMS Drupal](https://www.dgssi.gov.ma//fr/content/4149210423-vulnerabilite-dans-le-cms-drupal.html)|Une vulnérabilité a été corrigée dans les versions susmentionnées du CMS Drupal. L’exploitation de cette faille peut permettre à un attaquant de contourner la politique de sécurité.|21 avril 2023|
  
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Requests for Comment on Secure Software Self-Attestation Form](https://www.cisa.gov/news-events/alerts/2023/04/28/cisa-requests-comment-secure-software-self-attestation-form)|Visit link for details.|Apr 28, 2023|
- |[CISA Releases One Industrial Control Systems Medical Advisory](https://www.cisa.gov/news-events/alerts/2023/04/27/cisa-releases-one-industrial-control-systems-medical-advisory)|Visit link for details.|Apr 27, 2023|
- |[Abuse of the Service Location Protocol May Lead to DoS Attacks](https://www.cisa.gov/news-events/alerts/2023/04/25/abuse-service-location-protocol-may-lead-dos-attacks)|Visit link for details.|Apr 25, 2023|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/04/25/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Apr 25, 2023|
- |[VMware Releases Security Update for Aria Operations for Logs](https://www.cisa.gov/news-events/alerts/2023/04/21/vmware-releases-security-update-aria-operations-logs)|Visit link for details.|Apr 21, 2023|
- |[Drupal Releases Security Advisory to Address Vulnerability in Drupal Core](https://www.cisa.gov/news-events/alerts/2023/04/21/drupal-releases-security-advisory-address-vulnerability-drupal-core)|Visit link for details.|Apr 21, 2023|
- |[Oracle Releases Security Updates](https://www.cisa.gov/news-events/alerts/2023/04/21/oracle-releases-security-updates)|Visit link for details.|Apr 21, 2023|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/04/21/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|Apr 21, 2023|
- |[Cisco Releases Security Advisories for Multiple Products](https://www.cisa.gov/news-events/alerts/2023/04/21/cisco-releases-security-advisories-multiple-products)|Visit link for details.|Apr 21, 2023|
- |[CISA Releases Two SBOM Documents ](https://www.cisa.gov/news-events/alerts/2023/04/21/cisa-releases-two-sbom-documents)|Visit link for details.|Apr 21, 2023|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20230428)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, remote code execution and information disclosure on the targeted system.|Release Date: 28 Apr 2023|
- |[NetApp Product Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/netapp-products-denial-of-service-vulnerability_20230428)|A vulnerability was identified in a NetApp Product. A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system.|Release Date: 28 Apr 2023|
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230411)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass, sensitive information disclosure and elevation of privilege on the targeted system. [Updated on 2023-04-...| Release Date: 11 Apr 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230403)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on...| Release Date: 3 Apr 2023 |
- |[TP-Link Router Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/tp-link-router-remote-code-execution-vulnerability_20230426)|A vulnerability was identified in TP-Link router. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:CVE-2023-1389 is being exploited in the wild.| Release Date: 26 Apr 2023 |
- |[VMWare Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/vmware-products-multiple-vulnerabilities_20230426)|Multiple vulnerabilities were identified in VMware Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution, denial of service and sensitive information disclosure on the targeted system.|Release Date: 26 Apr 2023|
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230406)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-04-13] Updated System / Technologies affected, ...| Release Date: 6 Apr 2023 |
- |[Microsoft Edge Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/microsoft-edge-remote-code-execution-vulnerability_20230421)|A vulnerability was identified in Microsoft Edge. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:CVE-2023-2136 is being exploited in the wild. The vulnerability is caused due to a Integer overflow in...|Release Date: 21 Apr 2023|
- |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20230419)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and information disclosure on the targeted system.|Release Date: 19 Apr 2023|
- |[Google Chrome Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20230419)|Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and sensitive information disclosure on the targeted system. Note:CVE-2023-2136 is being exploited in the wild...|Release Date: 19 Apr 2023|
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
  |[Simple Student Information System cross-site scripting (CVE-2023-2425)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 29, 2023|
+ |[Advanced Host Monitor privilege escalation (CVE-2023-2417)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 28, 2023|
  |[Microsoft Edge (Chromium-based) spoofing (CVE-2023-29334)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 28, 2023|
  |[IBM Java information disclosure (CVE-2023-30441)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 28, 2023|
  |[Faculty Evaluation System SQL injection (CVE-2023-2365)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 27, 2023|
  |[Faculty Evaluation System SQL injection (CVE-2023-2366)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 27, 2023|
  |[42Gears Surelock for Windows information disclosure (CVE-2023-2335)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 27, 2023|
- |[42Gears Surelock for Windows code execution (CVE-2023-2331)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 27, 2023|
  
 
 # ZERODAYINITIATIVE
