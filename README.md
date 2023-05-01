@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 01/05/2023 05:16:50 UTC
+ > Last Updated 01/05/2023 06:22:57 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,6 +57,25 @@
  |[Multiples vulnérabilités dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0337/)|De multiples vulnérabilités ont été découvertes dans les produits |Publié le 25 avril 2023|
  
 
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Microsoft Edge (Chromium-based) spoofing (CVE-2023-29334)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 28, 2023|
+ |[IBM Java information disclosure (CVE-2023-30441)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 28, 2023|
+ |[Faculty Evaluation System SQL injection (CVE-2023-2365)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 27, 2023|
+ |[Faculty Evaluation System SQL injection (CVE-2023-2366)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 27, 2023|
+ |[42Gears Surelock for Windows information disclosure (CVE-2023-2335)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 27, 2023|
+ |[42Gears Surelock for Windows code execution (CVE-2023-2331)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 27, 2023|
+ |[Linux Kernel unspecified (CVE-2023-31436)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 27, 2023|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -88,25 +107,6 @@
  |[2023-017: Severe Vulnerabilities in Jenkins Products](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-017.pdf)|On March 8, 2023, Jenkins released advisories regarding 2 severe security vulnerabilities in Jenkins server and Update Center. These vulnerabilities are identified by CVE-2023-27898 and CVE-2023-27905 and could allow an unauthenticated attacker to execute arbitrary code on the victim's Jenkins server, potentially leading to a complete compromise of the Jenkins server. Furthermore, these vulnerabilities could be exploited even if the Jenkins server is not directly reachable by attackers and could also impact self-hosted Jenkins servers.|Thursday, March 09, 2023 05:40:00 PM CET|
  |[2023-016: High Vulnerability in Veeam Backup & Replication](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-016.pdf)|On March 8, 2023, Veeam released a new security advisory revealing one high vulnerability in a Veeam Backup & Replication component. This vulnerability is identified by CVE-2023-27532 (CVSS score of 7.5) and it may allow an attacker to obtain encrypted credentials stored in the configuration database. This may lead to gaining access to the backup infrastructure hosts. It is highly recommended installing the latest version.|Thursday, March 09, 2023 05:30:00 PM CET|
  |[2023-015: RCE Vulnerability in Fortinet Products](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-015.pdf)|On March 7, 2023, Fortinet released an advisory regarding one critical vulnerability in FortiOS and FortiProxy administrative interface. This vulnerability is identified as CVE-2023-25610 (CVSS score of 9.3) and it may allow remote unauthenticated attackers to execute arbitrary code on the device and/or to perform a DoS on the GUI. Fortinet is not aware of any instance where this vulnerability was exploited in the wild.|Wednesday, March 08, 2023 11:15:00 PM CET|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[Microsoft Edge (Chromium-based) spoofing (CVE-2023-29334)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 28, 2023|
- |[IBM Java information disclosure (CVE-2023-30441)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 28, 2023|
- |[Faculty Evaluation System SQL injection (CVE-2023-2365)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 27, 2023|
- |[Faculty Evaluation System SQL injection (CVE-2023-2366)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 27, 2023|
- |[42Gears Surelock for Windows information disclosure (CVE-2023-2335)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 27, 2023|
- |[42Gears Surelock for Windows code execution (CVE-2023-2331)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 27, 2023|
- |[Linux Kernel unspecified (CVE-2023-31436)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 27, 2023|
  
 
 # ZERODAYINITIATIVE
