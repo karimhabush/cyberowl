@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 02/05/2023 15:19:35 UTC
+ > Last Updated 02/05/2023 16:22:38 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,39 +57,40 @@
  |[Vulnérabilité dans les produits Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0340/)|Une vulnérabilité a été découverte dans |Publié le 26 avril 2023|
  
 
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[IBM WebSphere Application Server Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/ibm-websphere-application-server-information-disclosure-vulnerability_20230502)|A vulnerability was identified in IBM WebSphere Application Server. A remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system.|Release Date: 2 May 2023|
- |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20230502)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 2 May 2023|
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230502)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and elevation of privilege on the targeted system.|Release Date: 2 May 2023|
- |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20230428)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, remote code execution and information disclosure on the targeted system.|Release Date: 28 Apr 2023|
- |[NetApp Product Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/netapp-products-denial-of-service-vulnerability_20230428)|A vulnerability was identified in a NetApp Product. A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system.|Release Date: 28 Apr 2023|
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230411)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass, sensitive information disclosure and elevation of privilege on the targeted system. [Updated on 2023-04-...| Release Date: 11 Apr 2023 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230403)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on...| Release Date: 3 Apr 2023 |
- |[TP-Link Router Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/tp-link-router-remote-code-execution-vulnerability_20230426)|A vulnerability was identified in TP-Link router. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:CVE-2023-1389 is being exploited in the wild.| Release Date: 26 Apr 2023 |
- |[VMWare Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/vmware-products-multiple-vulnerabilities_20230426)|Multiple vulnerabilities were identified in VMware Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution, denial of service and sensitive information disclosure on the targeted system.|Release Date: 26 Apr 2023|
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230406)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-04-13] Updated System / Technologies affected, ...| Release Date: 6 Apr 2023 |
- 
-
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
+ |[Apache Spark command execution (CVE-2023-32007)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 2, 2023|
  |[Simple Student Information System cross-site scripting (CVE-2023-2425)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 29, 2023|
  |[AC Repair and Services System SQL Injection (CVE-2023-2408)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 28, 2023|
  |[AC Repair and Services System SQL Injection (CVE-2023-2409)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 28, 2023|
  |[AC Repair and Services System SQL Injection (CVE-2023-2410)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 28, 2023|
  |[AC Repair and Services System SQL Injection (CVE-2023-2411)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 28, 2023|
  |[AC Repair and Services System SQL Injection (CVE-2023-2412)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 28, 2023|
- |[AC Repair and Services System SQL Injection (CVE-2023-2413)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 28, 2023|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-41169" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-41169)|An attacker can use several vulnerabilities of GitLab CE/EE...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-SQL-Operation-41168" class="noirorange"><b>IBM i</b>: privilege escalation via SQL Operation</a>](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-SQL-Operation-41168)|An attacker can bypass restrictions of IBM i, via SQL Operation, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-May-2023-41167" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of May 2023</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-May-2023-41167)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-perf-group-detach-41165" class="noirorange"><b>Linux kernel</b>: reuse after free via perf_group_detach()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-perf-group-detach-41165)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Veritas-NetBackup-executing-DLL-code-41164" class="noirorange"><b>Veritas NetBackup</b>: executing DLL code</a>](https://vigilance.fr/vulnerability/Veritas-NetBackup-executing-DLL-code-41164)|An attacker can create a malicious DLL for Veritas NetBackup, and then put it in the current directory, in order to execute code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-ReadTIFFImage-41163" class="noirorange"><b>ImageMagick</b>: buffer overflow via ReadTIFFImage()</a>](https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-ReadTIFFImage-41163)|An attacker can trigger a buffer overflow of ImageMagick, via ReadTIFFImage(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-TIFFGetProfiles-41162" class="noirorange"><b>ImageMagick</b>: buffer overflow via TIFFGetProfiles()</a>](https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-TIFFGetProfiles-41162)|An attacker can trigger a buffer overflow of ImageMagick, via TIFFGetProfiles(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mbed-TLS-weak-encryption-via-mbedtls-mpi-exp-mod-41161" class="noirorange"><b>Mbed TLS</b>: weak encryption via mbedtls_mpi_exp_mod()</a>](https://vigilance.fr/vulnerability/Mbed-TLS-weak-encryption-via-mbedtls-mpi-exp-mod-41161)|An attacker can access data on Mbed TLS, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-qfq-activate-agg-41160" class="noirorange"><b>Linux kernel</b>: buffer overflow via qfq_activate_agg()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-qfq-activate-agg-41160)|An attacker can trigger a buffer overflow of the Linux kernel, via qfq_activate_agg(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-spoofing-41159" class="noirorange"><b>Microsoft Edge Chromium</b>: spoofing</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-spoofing-41159)|An attacker can create spoofed data on Microsoft Edge Chromium, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-Configuration-Files-41158" class="noirorange"><b>IBM MQ</b>: denial of service via Configuration Files</a>](https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-Configuration-Files-41158)|An attacker can cause a fatal error of IBM MQ, via Configuration Files, in order to trigger a denial of service...|Visit link for details|
  
 
 # EU-CERT
@@ -109,35 +110,37 @@
  |[2023-015: RCE Vulnerability in Fortinet Products](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-015.pdf)|On March 7, 2023, Fortinet released an advisory regarding one critical vulnerability in FortiOS and FortiProxy administrative interface. This vulnerability is identified as CVE-2023-25610 (CVSS score of 9.3) and it may allow remote unauthenticated attackers to execute arbitrary code on the device and/or to perform a DoS on the GUI. Fortinet is not aware of any instance where this vulnerability was exploited in the wild.|Wednesday, March 08, 2023 11:15:00 PM CET|
  
 
-# OBS-Vigilance
+# HK-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-May-2023-41167" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of May 2023</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-May-2023-41167)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-perf-group-detach-41165" class="noirorange"><b>Linux kernel</b>: reuse after free via perf_group_detach()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-perf-group-detach-41165)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Veritas-NetBackup-executing-DLL-code-41164" class="noirorange"><b>Veritas NetBackup</b>: executing DLL code</a>](https://vigilance.fr/vulnerability/Veritas-NetBackup-executing-DLL-code-41164)|An attacker can create a malicious DLL for Veritas NetBackup, and then put it in the current directory, in order to execute code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-ReadTIFFImage-41163" class="noirorange"><b>ImageMagick</b>: buffer overflow via ReadTIFFImage()</a>](https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-ReadTIFFImage-41163)|An attacker can trigger a buffer overflow of ImageMagick, via ReadTIFFImage(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-TIFFGetProfiles-41162" class="noirorange"><b>ImageMagick</b>: buffer overflow via TIFFGetProfiles()</a>](https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-TIFFGetProfiles-41162)|An attacker can trigger a buffer overflow of ImageMagick, via TIFFGetProfiles(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mbed-TLS-weak-encryption-via-mbedtls-mpi-exp-mod-41161" class="noirorange"><b>Mbed TLS</b>: weak encryption via mbedtls_mpi_exp_mod()</a>](https://vigilance.fr/vulnerability/Mbed-TLS-weak-encryption-via-mbedtls-mpi-exp-mod-41161)|An attacker can access data on Mbed TLS, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-qfq-activate-agg-41160" class="noirorange"><b>Linux kernel</b>: buffer overflow via qfq_activate_agg()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-qfq-activate-agg-41160)|An attacker can trigger a buffer overflow of the Linux kernel, via qfq_activate_agg(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-spoofing-41159" class="noirorange"><b>Microsoft Edge Chromium</b>: spoofing</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-spoofing-41159)|An attacker can create spoofed data on Microsoft Edge Chromium, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-Configuration-Files-41158" class="noirorange"><b>IBM MQ</b>: denial of service via Configuration Files</a>](https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-Configuration-Files-41158)|An attacker can cause a fatal error of IBM MQ, via Configuration Files, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-PCF-Messages-41157" class="noirorange"><b>IBM MQ</b>: denial of service via PCF Messages</a>](https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-PCF-Messages-41157)|An attacker can cause a fatal error of IBM MQ, via PCF Messages, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-logged-sensitive-information-via-Tracing-Logic-41156" class="noirorange"><b>IBM MQ</b>: logged sensitive information via Tracing Logic</a>](https://vigilance.fr/vulnerability/IBM-MQ-logged-sensitive-information-via-Tracing-Logic-41156)|An attacker can read logs of IBM MQ, via Tracing Logic, in order to obtain sensitive information...|Visit link for details|
+ |[IBM WebSphere Application Server Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/ibm-websphere-application-server-information-disclosure-vulnerability_20230502)|A vulnerability was identified in IBM WebSphere Application Server. A remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system.|Release Date: 2 May 2023|
+ |[Android Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20230502)|Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system.|Release Date: 2 May 2023|
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230502)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and elevation of privilege on the targeted system.|Release Date: 2 May 2023|
+ |[ChromeOS Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20230428)|Multiple vulnerabilities were identified in ChromeOS. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, remote code execution and information disclosure on the targeted system.|Release Date: 28 Apr 2023|
+ |[NetApp Product Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/netapp-products-denial-of-service-vulnerability_20230428)|A vulnerability was identified in a NetApp Product. A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system.|Release Date: 28 Apr 2023|
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230411)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass, sensitive information disclosure and elevation of privilege on the targeted system. [Updated on 2023-04-...| Release Date: 11 Apr 2023 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230403)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on...| Release Date: 3 Apr 2023 |
+ |[TP-Link Router Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/tp-link-router-remote-code-execution-vulnerability_20230426)|A vulnerability was identified in TP-Link router. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:CVE-2023-1389 is being exploited in the wild.| Release Date: 26 Apr 2023 |
+ |[VMWare Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/vmware-products-multiple-vulnerabilities_20230426)|Multiple vulnerabilities were identified in VMware Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution, denial of service and sensitive information disclosure on the targeted system.|Release Date: 26 Apr 2023|
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20230406)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, remote code execution and sensitive information disclosure on the targeted system. [Updated on 2023-04-13] Updated System / Technologies affected, ...| Release Date: 6 Apr 2023 |
  
 
-# ZERODAYINITIATIVE
+# CA-CCS
 
  |Title|Description|Date|
  |---|---|---|
- |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
- |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
- |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
- |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
+ |[Dell security advisory (AV23-242)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-242)|Visit link for details|2023-05-01|
+ |[Ubuntu security advisory (AV23-241)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-241)|Visit link for details|2023-05-01|
+ |[IBM security advisory (AV23-240)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-240)|Visit link for details|2023-05-01|
+ |[[Control systems] Illumina security advisory (AV23-239)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-illumina-security-advisory-av23-239)|Visit link for details|2023-04-27|
+ |[Red Hat security advisory (AV23-238)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av23-238)|Visit link for details|2023-04-25|
+ |[VMware security advisory (AV23-237)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av23-237)|Visit link for details|2023-04-25|
+ |[[Control systems] Scada-LTS security advisory (AV23-236)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-scada-lts-security-advisory-av23-236)|Visit link for details|2023-04-25|
+ |[[Control systems] Keysight security advisory (AV23-235)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-keysight-security-advisory-av23-235)|Visit link for details|2023-04-25|
+ |[Ubuntu security advisory (AV23-234)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-234)|Visit link for details|2023-04-24|
+ |[Dell security advisory (AV23-233)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-233)|Visit link for details|2023-04-24|
+ |[IBM security advisory (AV23-232)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-232)|Visit link for details|2023-04-24|
  
 
 # MA-CERT
@@ -157,19 +160,16 @@
  |[41512504/23 - Exploitation active des vulnérabilités SNMP dans les logiciels Cisco IOS et IOS XE](https://www.dgssi.gov.ma//fr/content/4151250423-exploitation-active-des-vulnerabilites-snmp-dans-les-logiciels-cisco-ios-et-ios-xe.html)|Une compagne d'attaque a été observée exploitant activement plusieurs vulnérabilités con-nues du protocole SNMP à savoir (CVE-2017-6736, CVE-2017-6737, CVE-2017-6738, CVE-2017-6739, CVE-2017-6740, CVE-2017-6742, CVE-2017-6743 et CVE-...|25 avril 2023|
  
 
-# CA-CCS
+# ZERODAYINITIATIVE
 
  |Title|Description|Date|
  |---|---|---|
- |[Dell security advisory (AV23-242)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-242)|Visit link for details|2023-05-01|
- |[Ubuntu security advisory (AV23-241)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-241)|Visit link for details|2023-05-01|
- |[IBM security advisory (AV23-240)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-240)|Visit link for details|2023-05-01|
- |[[Control systems] Illumina security advisory (AV23-239)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-illumina-security-advisory-av23-239)|Visit link for details|2023-04-27|
- |[Red Hat security advisory (AV23-238)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av23-238)|Visit link for details|2023-04-25|
- |[VMware security advisory (AV23-237)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av23-237)|Visit link for details|2023-04-25|
- |[[Control systems] Scada-LTS security advisory (AV23-236)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-scada-lts-security-advisory-av23-236)|Visit link for details|2023-04-25|
- |[[Control systems] Keysight security advisory (AV23-235)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-keysight-security-advisory-av23-235)|Visit link for details|2023-04-25|
- |[Ubuntu security advisory (AV23-234)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-234)|Visit link for details|2023-04-24|
- |[Dell security advisory (AV23-233)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-233)|Visit link for details|2023-04-24|
- |[IBM security advisory (AV23-232)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-232)|Visit link for details|2023-04-24|
+ |[D-Link DIR-825/EE xupnpd Upload Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1706/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Vimeo Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1705/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd IVI Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1704/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Dreambox Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1703/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd Generic Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1702/)|Visit link for details|2022-12-28|
+ |[D-Link DIR-825/EE xupnpd YouTube Plugin Command Injection Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1701/)|Visit link for details|2022-12-28|
+ |[X.Org Server XkbCopyNames Double Free Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1700/)|Visit link for details|2022-12-28|
+ |[X.Org Server ProcXIChangeProperty Numeric Truncation Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-1699/)|Visit link for details|2022-12-28|
  
