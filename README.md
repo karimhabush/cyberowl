@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 02/05/2023 18:21:18 UTC
+ > Last Updated 02/05/2023 19:14:30 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,12 +57,6 @@
  |[Vulnérabilité dans les produits Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0340/)|Une vulnérabilité a été découverte dans |Publié le 26 avril 2023|
  
 
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # HK-CERT
 
  |Title|Description|Date|
@@ -92,21 +86,10 @@
  |[AC Repair and Services System SQL Injection (CVE-2023-2411)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 28, 2023|
  
 
-# OBS-Vigilance
+# VulDB
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-41169" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-41169)|An attacker can use several vulnerabilities of GitLab CE/EE...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-SQL-Operation-41168" class="noirorange"><b>IBM i</b>: privilege escalation via SQL Operation</a>](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-SQL-Operation-41168)|An attacker can bypass restrictions of IBM i, via SQL Operation, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-May-2023-41167" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of May 2023</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-May-2023-41167)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-perf-group-detach-41165" class="noirorange"><b>Linux kernel</b>: reuse after free via perf_group_detach()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-perf-group-detach-41165)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Veritas-NetBackup-executing-DLL-code-41164" class="noirorange"><b>Veritas NetBackup</b>: executing DLL code</a>](https://vigilance.fr/vulnerability/Veritas-NetBackup-executing-DLL-code-41164)|An attacker can create a malicious DLL for Veritas NetBackup, and then put it in the current directory, in order to execute code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-ReadTIFFImage-41163" class="noirorange"><b>ImageMagick</b>: buffer overflow via ReadTIFFImage()</a>](https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-ReadTIFFImage-41163)|An attacker can trigger a buffer overflow of ImageMagick, via ReadTIFFImage(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-TIFFGetProfiles-41162" class="noirorange"><b>ImageMagick</b>: buffer overflow via TIFFGetProfiles()</a>](https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-TIFFGetProfiles-41162)|An attacker can trigger a buffer overflow of ImageMagick, via TIFFGetProfiles(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Mbed-TLS-weak-encryption-via-mbedtls-mpi-exp-mod-41161" class="noirorange"><b>Mbed TLS</b>: weak encryption via mbedtls_mpi_exp_mod()</a>](https://vigilance.fr/vulnerability/Mbed-TLS-weak-encryption-via-mbedtls-mpi-exp-mod-41161)|An attacker can access data on Mbed TLS, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-qfq-activate-agg-41160" class="noirorange"><b>Linux kernel</b>: buffer overflow via qfq_activate_agg()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-qfq-activate-agg-41160)|An attacker can trigger a buffer overflow of the Linux kernel, via qfq_activate_agg(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-spoofing-41159" class="noirorange"><b>Microsoft Edge Chromium</b>: spoofing</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-spoofing-41159)|An attacker can create spoofed data on Microsoft Edge Chromium, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-Configuration-Files-41158" class="noirorange"><b>IBM MQ</b>: denial of service via Configuration Files</a>](https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-Configuration-Files-41158)|An attacker can cause a fatal error of IBM MQ, via Configuration Files, in order to trigger a denial of service...|Visit link for details|
  
 
 # ZERODAYINITIATIVE
@@ -140,6 +123,23 @@
  |[2023-015: RCE Vulnerability in Fortinet Products](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-015.pdf)|On March 7, 2023, Fortinet released an advisory regarding one critical vulnerability in FortiOS and FortiProxy administrative interface. This vulnerability is identified as CVE-2023-25610 (CVSS score of 9.3) and it may allow remote unauthenticated attackers to execute arbitrary code on the device and/or to perform a DoS on the GUI. Fortinet is not aware of any instance where this vulnerability was exploited in the wild.|Wednesday, March 08, 2023 11:15:00 PM CET|
  
 
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-41169" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-41169)|An attacker can use several vulnerabilities of GitLab CE/EE...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-SQL-Operation-41168" class="noirorange"><b>IBM i</b>: privilege escalation via SQL Operation</a>](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-SQL-Operation-41168)|An attacker can bypass restrictions of IBM i, via SQL Operation, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-May-2023-41167" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of May 2023</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-May-2023-41167)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-perf-group-detach-41165" class="noirorange"><b>Linux kernel</b>: reuse after free via perf_group_detach()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-perf-group-detach-41165)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Veritas-NetBackup-executing-DLL-code-41164" class="noirorange"><b>Veritas NetBackup</b>: executing DLL code</a>](https://vigilance.fr/vulnerability/Veritas-NetBackup-executing-DLL-code-41164)|An attacker can create a malicious DLL for Veritas NetBackup, and then put it in the current directory, in order to execute code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-ReadTIFFImage-41163" class="noirorange"><b>ImageMagick</b>: buffer overflow via ReadTIFFImage()</a>](https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-ReadTIFFImage-41163)|An attacker can trigger a buffer overflow of ImageMagick, via ReadTIFFImage(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-TIFFGetProfiles-41162" class="noirorange"><b>ImageMagick</b>: buffer overflow via TIFFGetProfiles()</a>](https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-TIFFGetProfiles-41162)|An attacker can trigger a buffer overflow of ImageMagick, via TIFFGetProfiles(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Mbed-TLS-weak-encryption-via-mbedtls-mpi-exp-mod-41161" class="noirorange"><b>Mbed TLS</b>: weak encryption via mbedtls_mpi_exp_mod()</a>](https://vigilance.fr/vulnerability/Mbed-TLS-weak-encryption-via-mbedtls-mpi-exp-mod-41161)|An attacker can access data on Mbed TLS, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-qfq-activate-agg-41160" class="noirorange"><b>Linux kernel</b>: buffer overflow via qfq_activate_agg()</a>](https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-qfq-activate-agg-41160)|An attacker can trigger a buffer overflow of the Linux kernel, via qfq_activate_agg(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-spoofing-41159" class="noirorange"><b>Microsoft Edge Chromium</b>: spoofing</a>](https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-spoofing-41159)|An attacker can create spoofed data on Microsoft Edge Chromium, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-Configuration-Files-41158" class="noirorange"><b>IBM MQ</b>: denial of service via Configuration Files</a>](https://vigilance.fr/vulnerability/IBM-MQ-denial-of-service-via-Configuration-Files-41158)|An attacker can cause a fatal error of IBM MQ, via Configuration Files, in order to trigger a denial of service...|Visit link for details|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
@@ -161,6 +161,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[[Control systems] Mitsubishi Electric security advisory (AV23-244)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av23-244)|Visit link for details|2023-05-02|
+ |[F5 security advisory (AV23-243)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av23-243)|Visit link for details|2023-05-02|
  |[Dell security advisory (AV23-242)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-242)|Visit link for details|2023-05-01|
  |[Ubuntu security advisory (AV23-241)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-241)|Visit link for details|2023-05-01|
  |[IBM security advisory (AV23-240)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-240)|Visit link for details|2023-05-01|
@@ -170,6 +172,4 @@
  |[[Control systems] Scada-LTS security advisory (AV23-236)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-scada-lts-security-advisory-av23-236)|Visit link for details|2023-04-25|
  |[[Control systems] Keysight security advisory (AV23-235)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-keysight-security-advisory-av23-235)|Visit link for details|2023-04-25|
  |[Ubuntu security advisory (AV23-234)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-234)|Visit link for details|2023-04-24|
- |[Dell security advisory (AV23-233)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-233)|Visit link for details|2023-04-24|
- |[IBM security advisory (AV23-232)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-232)|Visit link for details|2023-04-24|
  

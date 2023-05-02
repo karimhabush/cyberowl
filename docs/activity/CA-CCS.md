@@ -4,6 +4,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[[Control systems] Mitsubishi Electric security advisory (AV23-244)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-mitsubishi-electric-security-advisory-av23-244)|Visit link for details|2023-05-02|
+ |[F5 security advisory (AV23-243)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av23-243)|Visit link for details|2023-05-02|
  |[Dell security advisory (AV23-242)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-242)|Visit link for details|2023-05-01|
  |[Ubuntu security advisory (AV23-241)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-241)|Visit link for details|2023-05-01|
  |[IBM security advisory (AV23-240)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-240)|Visit link for details|2023-05-01|
@@ -13,6 +15,4 @@
  |[[Control systems] Scada-LTS security advisory (AV23-236)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-scada-lts-security-advisory-av23-236)|Visit link for details|2023-04-25|
  |[[Control systems] Keysight security advisory (AV23-235)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-keysight-security-advisory-av23-235)|Visit link for details|2023-04-25|
  |[Ubuntu security advisory (AV23-234)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av23-234)|Visit link for details|2023-04-24|
- |[Dell security advisory (AV23-233)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av23-233)|Visit link for details|2023-04-24|
- |[IBM security advisory (AV23-232)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av23-232)|Visit link for details|2023-04-24|
  
