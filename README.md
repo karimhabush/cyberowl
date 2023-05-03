@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 03/05/2023 17:14:50 UTC
+ > Last Updated 03/05/2023 18:21:04 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,6 +57,12 @@
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0344/)|De multiples vulnérabilités ont été découvertes dans |Publié le 28 avril 2023|
  
 
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -72,12 +78,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-spectre-v2-in-ibrs-mode-41176" class="noirorange"><b>Linux kernel</b>: memory reading via spectre_v2_in_ibrs_mode()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-spectre-v2-in-ibrs-mode-41176)|An attacker can read a memory fragment of the Linux kernel, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Puppet-Server-overload-via-Certificate-Validation-Regular-Expression-41170" class="noirorange"><b>Puppet Server</b>: overload via Certificate Validation Regular Expression</a>](https://vigilance.fr/vulnerability/Puppet-Server-overload-via-Certificate-Validation-Regular-Expression-41170)|An attacker can trigger an overload of Puppet Server, via Certificate Validation Regular Expression, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-41169" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-41169)|An attacker can use several vulnerabilities of GitLab CE/EE...|Visit link for details|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # EU-CERT
