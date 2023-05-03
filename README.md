@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 03/05/2023 08:21:15 UTC
+ > Last Updated 03/05/2023 09:16:43 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -41,6 +41,35 @@
  |[Oracle Releases Security Updates](https://www.cisa.gov/news-events/alerts/2023/04/21/oracle-releases-security-updates)|Visit link for details.|Apr 21, 2023|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0349/)|De multiples vulnérabilités ont été découvertes dans Google Android. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 2 mai 2023|
+ |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0348/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 2 mai 2023|
+ |[Multiples vulnérabilités dans IBM Db2](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0347/)|De multiples vulnérabilités ont été découvertes dans IBM Db2. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et un déni de service à distance.|Publié le 2 mai 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0346/)|De multiples vulnérabilités ont été découvertes dans |Publié le 28 avril 2023|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0345/)|De multiples vulnérabilités ont été découvertes dans |Publié le 28 avril 2023|
+ |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0344/)|De multiples vulnérabilités ont été découvertes dans |Publié le 28 avril 2023|
+ |[Vulnérabilité dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0343/)|Une vulnérabilité a été découverte dans les produits IBM. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 28 avril 2023|
+ |[Multiples vulnérabilités dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0342/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 avril 2023|
+ |[Vulnérabilité dans SolarWinds Platform](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0341/)|Une vulnérabilité a été découverte dans |Publié le 26 avril 2023|
+ |[Vulnérabilité dans les produits Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0340/)|Une vulnérabilité a été découverte dans |Publié le 26 avril 2023|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[GitLab information disclosure (CVE-2022-4376)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 2, 2023|
+ |[GitLab cross-site scripting (CVE-2023-1836)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 2, 2023|
+ |[GitLab code execution (CVE-2023-0756)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 2, 2023|
+ |[GitLab security bypass (CVE-2023-0805)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 2, 2023|
+ |[GitLab security bypass (CVE-2023-1178)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 2, 2023|
+ |[GitLab information disclosure (CVE-2023-2069)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 2, 2023|
+ |[GitLab security bypass (CVE-2023-1621)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 2, 2023|
+ 
+
 # HK-CERT
 
  |Title|Description|Date|
@@ -55,42 +84,6 @@
  |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230411)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass, sensitive information disclosure and elevation of privilege on the targeted system. [Updated on 2023-04-...| Release Date: 11 Apr 2023 |
  |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230403)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on...| Release Date: 3 Apr 2023 |
  |[TP-Link Router Remote Code Execution Vulnerability](https://www.hkcert.org/security-bulletin/tp-link-router-remote-code-execution-vulnerability_20230426)|A vulnerability was identified in TP-Link router. A remote attacker could exploit this vulnerability to trigger remote code execution on the targeted system. Note:CVE-2023-1389 is being exploited in the wild.| Release Date: 26 Apr 2023 |
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# OBS-Vigilance
-
- |Title|Description|Date|
- |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Google-Chrome-multiple-vulnerabilities-41178" class="noirorange"><b>Google Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Google-Chrome-multiple-vulnerabilities-41178)|An attacker can use several vulnerabilities of Google Chrome...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-copy-from-user-41177" class="noirorange"><b>Linux kernel</b>: memory reading via copy_from_user()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-copy-from-user-41177)|An attacker can read a memory fragment of the Linux kernel, via copy_from_user(), in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-spectre-v2-in-ibrs-mode-41176" class="noirorange"><b>Linux kernel</b>: memory reading via spectre_v2_in_ibrs_mode()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-spectre-v2-in-ibrs-mode-41176)|An attacker can read a memory fragment of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Puppet-Server-overload-via-Certificate-Validation-Regular-Expression-41170" class="noirorange"><b>Puppet Server</b>: overload via Certificate Validation Regular Expression</a>](https://vigilance.fr/vulnerability/Puppet-Server-overload-via-Certificate-Validation-Regular-Expression-41170)|An attacker can trigger an overload of Puppet Server, via Certificate Validation Regular Expression, in order to trigger a denial of service...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-41169" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-41169)|An attacker can use several vulnerabilities of GitLab CE/EE...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-SQL-Operation-41168" class="noirorange"><b>IBM i</b>: privilege escalation via SQL Operation</a>](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-SQL-Operation-41168)|An attacker can bypass restrictions of IBM i, via SQL Operation, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-May-2023-41167" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of May 2023</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-May-2023-41167)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-perf-group-detach-41165" class="noirorange"><b>Linux kernel</b>: reuse after free via perf_group_detach()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-perf-group-detach-41165)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Veritas-NetBackup-executing-DLL-code-41164" class="noirorange"><b>Veritas NetBackup</b>: executing DLL code</a>](https://vigilance.fr/vulnerability/Veritas-NetBackup-executing-DLL-code-41164)|An attacker can create a malicious DLL for Veritas NetBackup, and then put it in the current directory, in order to execute code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-ReadTIFFImage-41163" class="noirorange"><b>ImageMagick</b>: buffer overflow via ReadTIFFImage()</a>](https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-ReadTIFFImage-41163)|An attacker can trigger a buffer overflow of ImageMagick, via ReadTIFFImage(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-TIFFGetProfiles-41162" class="noirorange"><b>ImageMagick</b>: buffer overflow via TIFFGetProfiles()</a>](https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-TIFFGetProfiles-41162)|An attacker can trigger a buffer overflow of ImageMagick, via TIFFGetProfiles(), in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- 
-
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[GitLab information disclosure (CVE-2022-4376)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 2, 2023|
- |[GitLab cross-site scripting (CVE-2023-1836)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 2, 2023|
- |[GitLab code execution (CVE-2023-0756)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 2, 2023|
- |[GitLab security bypass (CVE-2023-0805)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 2, 2023|
- |[GitLab security bypass (CVE-2023-1178)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 2, 2023|
- |[GitLab information disclosure (CVE-2023-2069)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 2, 2023|
- |[GitLab security bypass (CVE-2023-1621)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 2, 2023|
  
 
 # EU-CERT
@@ -110,20 +103,27 @@
  |[2023-015: RCE Vulnerability in Fortinet Products](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-015.pdf)|On March 7, 2023, Fortinet released an advisory regarding one critical vulnerability in FortiOS and FortiProxy administrative interface. This vulnerability is identified as CVE-2023-25610 (CVSS score of 9.3) and it may allow remote unauthenticated attackers to execute arbitrary code on the device and/or to perform a DoS on the GUI. Fortinet is not aware of any instance where this vulnerability was exploited in the wild.|Wednesday, March 08, 2023 11:15:00 PM CET|
  
 
-# CERT-FR
+# VulDB
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0349/)|De multiples vulnérabilités ont été découvertes dans Google Android. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 2 mai 2023|
- |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0348/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 2 mai 2023|
- |[Multiples vulnérabilités dans IBM Db2](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0347/)|De multiples vulnérabilités ont été découvertes dans IBM Db2. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et un déni de service à distance.|Publié le 2 mai 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0346/)|De multiples vulnérabilités ont été découvertes dans |Publié le 28 avril 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0345/)|De multiples vulnérabilités ont été découvertes dans |Publié le 28 avril 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0344/)|De multiples vulnérabilités ont été découvertes dans |Publié le 28 avril 2023|
- |[Vulnérabilité dans les produits IBM](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0343/)|Une vulnérabilité a été découverte dans les produits IBM. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.|Publié le 28 avril 2023|
- |[Multiples vulnérabilités dans les produits VMware](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0342/)|De multiples vulnérabilités ont été découvertes dans |Publié le 26 avril 2023|
- |[Vulnérabilité dans SolarWinds Platform](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0341/)|Une vulnérabilité a été découverte dans |Publié le 26 avril 2023|
- |[Vulnérabilité dans les produits Xen](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0340/)|Une vulnérabilité a été découverte dans |Publié le 26 avril 2023|
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/GitLab-spoofing-via-Unverified-Email-41180" class="noirorange"><b>GitLab</b>: spoofing via Unverified Email</a>](https://vigilance.fr/vulnerability/GitLab-spoofing-via-Unverified-Email-41180)|An attacker can create spoofed data on GitLab, via Unverified Email, in order to deceive the victim...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Check-Point-Quantum-logged-sensitive-information-via-OS-Backup-File-Encryption-Password-41179" class="noirorange"><b>Check Point Quantum</b>: logged sensitive information via OS Backup File Encryption Password</a>](https://vigilance.fr/vulnerability/Check-Point-Quantum-logged-sensitive-information-via-OS-Backup-File-Encryption-Password-41179)|An attacker can read logs of Check Point Quantum, via OS Backup File Encryption Password, in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Google-Chrome-multiple-vulnerabilities-41178" class="noirorange"><b>Google Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Google-Chrome-multiple-vulnerabilities-41178)|An attacker can use several vulnerabilities of Google Chrome...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-copy-from-user-41177" class="noirorange"><b>Linux kernel</b>: memory reading via copy_from_user()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-copy-from-user-41177)|An attacker can read a memory fragment of the Linux kernel, via copy_from_user(), in order to obtain sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-spectre-v2-in-ibrs-mode-41176" class="noirorange"><b>Linux kernel</b>: memory reading via spectre_v2_in_ibrs_mode()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-spectre-v2-in-ibrs-mode-41176)|An attacker can read a memory fragment of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Puppet-Server-overload-via-Certificate-Validation-Regular-Expression-41170" class="noirorange"><b>Puppet Server</b>: overload via Certificate Validation Regular Expression</a>](https://vigilance.fr/vulnerability/Puppet-Server-overload-via-Certificate-Validation-Regular-Expression-41170)|An attacker can trigger an overload of Puppet Server, via Certificate Validation Regular Expression, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-41169" class="noirorange"><b>GitLab CE/EE</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-41169)|An attacker can use several vulnerabilities of GitLab CE/EE...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-SQL-Operation-41168" class="noirorange"><b>IBM i</b>: privilege escalation via SQL Operation</a>](https://vigilance.fr/vulnerability/IBM-i-privilege-escalation-via-SQL-Operation-41168)|An attacker can bypass restrictions of IBM i, via SQL Operation, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-May-2023-41167" class="noirorange"><b>Google Android  Pixel</b>: multiple vulnerabilities of May 2023</a>](https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-May-2023-41167)|An attacker can use several vulnerabilities of Google Android  Pixel...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-perf-group-detach-41165" class="noirorange"><b>Linux kernel</b>: reuse after free via perf_group_detach()</a>](https://vigilance.fr/vulnerability/Linux-kernel-reuse-after-free-via-perf-group-detach-41165)|An attacker can force the reuse of a freed memory area of the Linux kernel, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Veritas-NetBackup-executing-DLL-code-41164" class="noirorange"><b>Veritas NetBackup</b>: executing DLL code</a>](https://vigilance.fr/vulnerability/Veritas-NetBackup-executing-DLL-code-41164)|An attacker can create a malicious DLL for Veritas NetBackup, and then put it in the current directory, in order to execute code...|Visit link for details|
  
 
 # ZERODAYINITIATIVE
