@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 04/05/2023 10:18:28 UTC
+ > Last Updated 04/05/2023 11:15:08 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,6 +57,12 @@
  |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0344/)|De multiples vulnérabilités ont été découvertes dans |Publié le 28 avril 2023|
  
 
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -72,12 +78,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Check-Point-Quantum-logged-sensitive-information-via-OS-Backup-File-Encryption-Password-41179" class="noirorange"><b>Check Point Quantum</b>: logged sensitive information via OS Backup File Encryption Password</a>](https://vigilance.fr/vulnerability/Check-Point-Quantum-logged-sensitive-information-via-OS-Backup-File-Encryption-Password-41179)|An attacker can read logs of Check Point Quantum, via OS Backup File Encryption Password, in order to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Google-Chrome-multiple-vulnerabilities-41178" class="noirorange"><b>Google Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Google-Chrome-multiple-vulnerabilities-41178)|An attacker can use several vulnerabilities of Google Chrome...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-copy-from-user-41177" class="noirorange"><b>Linux kernel</b>: memory reading via copy_from_user()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-copy-from-user-41177)|An attacker can read a memory fragment of the Linux kernel, via copy_from_user(), in order to obtain sensitive information...|Visit link for details|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # EU-CERT
