@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 04/05/2023 13:22:48 UTC
+ > Last Updated 04/05/2023 14:16:14 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -74,12 +74,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-copy-from-user-41177" class="noirorange"><b>Linux kernel</b>: memory reading via copy_from_user()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-copy-from-user-41177)|An attacker can read a memory fragment of the Linux kernel, via copy_from_user(), in order to obtain sensitive information...|Visit link for details|
  
 
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -97,10 +91,17 @@
  |[2023-015: RCE Vulnerability in Fortinet Products](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-015.pdf)|On March 7, 2023, Fortinet released an advisory regarding one critical vulnerability in FortiOS and FortiProxy administrative interface. This vulnerability is identified as CVE-2023-25610 (CVSS score of 9.3) and it may allow remote unauthenticated attackers to execute arbitrary code on the device and/or to perform a DoS on the GUI. Fortinet is not aware of any instance where this vulnerability was exploited in the wild.|Wednesday, March 08, 2023 11:15:00 PM CET|
  
 
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[41680405 /23 - Vulnérabilités dans Google Chrome](https://www.dgssi.gov.ma//fr/content/41680405-23-vulnerabilites-dans-google-chrome.html)|Google a corrigé plusieurs vulnérabilités dans son navigateur Google Chrome. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité, d’installer du contenu malicieux et de divulguer des...|04 mai 2023|
  |[41680405/23 - Vulnérabilités critiques affectant Netgear NMS300 ProSAFE](https://www.dgssi.gov.ma//fr/content/4168040523-vulnerabilites-critiques-affectant-netgear-nms300-prosafe.html)|Flashpoint, une entreprise spécialisée en sécurité informatique, annonce la découverte de deux vulnérabilités critiques affectant la solution de gestion de réseaux Netgear NMS300 ProSAFE.L'exploitation de ces vulnérabilités peut...|04 mai 2023|
  |[41670405/23 - Vulnérabilité critique affectant Cisco 2-Port Phone Adapters SPA112](https://www.dgssi.gov.ma//fr/content/4167040523-vulnerabilite-critique-affectant-cisco-2-port-phone-adapters-spa112.html)|Cisco annonce la correction d’une vulnérabilité affectant l’interface de gestion de son produit Cisco 2-Port Phone Adapters SPA112.L'exploitation de cette vulnérabilité peutpermettreà un attaquant distant non authentifié d’...|04 mai 2023|
  |[41660305 /23 - Vulnérabilités dans Elastic Kibana](https://www.dgssi.gov.ma//fr/content/41660305-23-vulnerabilites-dans-elastic-kibana.html)|Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées d’Elastic Kibana. L’exploitation de ces failles permet à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité...|03 mai 2023|
@@ -111,7 +112,6 @@
  |[41600205/23 - Vulnérabilitésaffectant des produits de Zyxel](https://www.dgssi.gov.ma//fr/content/4160020523-vulnerabilites-affectant-des-produits-de-zyxel.html)|Zyxel annonce la correction de deux vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’injecter du contenu dans une page ou d’injecter des commandes.|02 mai 2023|
  |[41592804/23 - Vulnérabilités dans les logiciels Avast et AVG Antivirus (AV)](https://www.dgssi.gov.ma//fr/content/4159280423-vulnerabilites-dans-les-logiciels-avast-et-avg-antivirus-av.html)|Deux vulnérabilités découvertes dans les logiciels Avast et AVG Antivirus (AV) antérieurs à la version 22.11. Lorsqu'elles sont enchaînées, ces vulnérabilités peuvent conduire à une élévation des privilèges en tant que « SYSTEME » et...|28 avril 2023|
  |[41582704/23- Vulnérabilités critiques affectant PrestaShop ](https://www.dgssi.gov.ma//fr/content/4158270423-vulnerabilites-critiques-affectant-prestashop.html)|PrestaShop annonce la correction de trois vulnérabilités affectant sa plateforme destinée à la construction de sites E-commerce. Une de ces vulnérabilités identifiée par «CVE-2023-30839 »est très critique et son exploitation peut...|27 avril 2023|
- |[41572704/23 - Vulnérabilité affectant Cisco Prime Collaboration Deployment](https://www.dgssi.gov.ma//fr/content/4157270423-vulnerabilite-affectant-cisco-prime-collaboration-deployment.html)|Cisco annonce la correction d’une vulnérabilité affectant l’interface de gestion de son produit Cisco Prime Collaboration Deployment.L'exploitation de cette vulnérabilité peutpermettreà un attaquant distant d’exécuter du code...|27 avril 2023|
  
 
 # HK-CERT
