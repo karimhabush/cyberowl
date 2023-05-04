@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 04/05/2023 12:33:26 UTC
+ > Last Updated 04/05/2023 13:22:48 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -45,6 +45,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Vulnérabilité dans IBM AIX](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0356/)|Une vulnérabilité a été découverte dans IBM AIX. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à l'intégrité des données et une injection de code indirecte à distance (XSS).|Publié le 4 mai 2023|
+ |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0355/)|De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 4 mai 2023|
+ |[Multiples vulnérabilités dans F5 BIG-IP et NGINX](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0354/)|De multiples vulnérabilités ont été découvertes dans F5 BIG-IP et NGINX. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 4 mai 2023|
  |[Multiples vulnérabilités dans Elastic Kibana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0353/)|De multiples vulnérabilités ont été découvertes dans Elastic Kibana. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 3 mai 2023|
  |[Multiples vulnérabilités dans Moodle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0352/)|De multiples vulnérabilités ont été découvertes dans Moodle. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à l'intégrité des données.|Publié le 3 mai 2023|
  |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0351/)|De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 3 mai 2023|
@@ -52,15 +55,6 @@
  |[Multiples vulnérabilités dans Google Android](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0349/)|De multiples vulnérabilités ont été découvertes dans Google Android. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 2 mai 2023|
  |[Vulnérabilité dans Microsoft Edge](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0348/)|Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.|Publié le 2 mai 2023|
  |[Multiples vulnérabilités dans IBM Db2](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0347/)|De multiples vulnérabilités ont été découvertes dans IBM Db2. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et un déni de service à distance.|Publié le 2 mai 2023|
- |[Multiples vulnérabilités dans le noyau Linux de RedHat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0346/)|De multiples vulnérabilités ont été découvertes dans |Publié le 28 avril 2023|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0345/)|De multiples vulnérabilités ont été découvertes dans |Publié le 28 avril 2023|
- |[Multiples vulnérabilités dans le noyau Linux de SUSE](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0344/)|De multiples vulnérabilités ont été découvertes dans |Publié le 28 avril 2023|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # OBS-Vigilance
@@ -78,6 +72,12 @@
  |[<a href="https://vigilance.fr/vulnerability/Check-Point-Quantum-logged-sensitive-information-via-OS-Backup-File-Encryption-Password-41179" class="noirorange"><b>Check Point Quantum</b>: logged sensitive information via OS Backup File Encryption Password</a>](https://vigilance.fr/vulnerability/Check-Point-Quantum-logged-sensitive-information-via-OS-Backup-File-Encryption-Password-41179)|An attacker can read logs of Check Point Quantum, via OS Backup File Encryption Password, in order to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Google-Chrome-multiple-vulnerabilities-41178" class="noirorange"><b>Google Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Google-Chrome-multiple-vulnerabilities-41178)|An attacker can use several vulnerabilities of Google Chrome...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-copy-from-user-41177" class="noirorange"><b>Linux kernel</b>: memory reading via copy_from_user()</a>](https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-copy-from-user-41177)|An attacker can read a memory fragment of the Linux kernel, via copy_from_user(), in order to obtain sensitive information...|Visit link for details|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # EU-CERT
@@ -101,6 +101,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[41680405/23 - Vulnérabilités critiques affectant Netgear NMS300 ProSAFE](https://www.dgssi.gov.ma//fr/content/4168040523-vulnerabilites-critiques-affectant-netgear-nms300-prosafe.html)|Flashpoint, une entreprise spécialisée en sécurité informatique, annonce la découverte de deux vulnérabilités critiques affectant la solution de gestion de réseaux Netgear NMS300 ProSAFE.L'exploitation de ces vulnérabilités peut...|04 mai 2023|
  |[41670405/23 - Vulnérabilité critique affectant Cisco 2-Port Phone Adapters SPA112](https://www.dgssi.gov.ma//fr/content/4167040523-vulnerabilite-critique-affectant-cisco-2-port-phone-adapters-spa112.html)|Cisco annonce la correction d’une vulnérabilité affectant l’interface de gestion de son produit Cisco 2-Port Phone Adapters SPA112.L'exploitation de cette vulnérabilité peutpermettreà un attaquant distant non authentifié d’...|04 mai 2023|
  |[41660305 /23 - Vulnérabilités dans Elastic Kibana](https://www.dgssi.gov.ma//fr/content/41660305-23-vulnerabilites-dans-elastic-kibana.html)|Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées d’Elastic Kibana. L’exploitation de ces failles permet à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité...|03 mai 2023|
  |[41630305 /23 - Vulnérabilités dans IBM Db2](https://www.dgssi.gov.ma//fr/content/41630305-23-vulnerabilites-dans-ibm-db2.html)|Plusieurs vulnérabilités ont été corrigées dans les versions IBM Db2 susmentionnées. Un attaquant distant pourrait exploiter certaines de ces vulnérabilités pour causer un déni de service et de prendre le contrôle du système affecté.|03 mai 2023|
@@ -111,7 +112,6 @@
  |[41592804/23 - Vulnérabilités dans les logiciels Avast et AVG Antivirus (AV)](https://www.dgssi.gov.ma//fr/content/4159280423-vulnerabilites-dans-les-logiciels-avast-et-avg-antivirus-av.html)|Deux vulnérabilités découvertes dans les logiciels Avast et AVG Antivirus (AV) antérieurs à la version 22.11. Lorsqu'elles sont enchaînées, ces vulnérabilités peuvent conduire à une élévation des privilèges en tant que « SYSTEME » et...|28 avril 2023|
  |[41582704/23- Vulnérabilités critiques affectant PrestaShop ](https://www.dgssi.gov.ma//fr/content/4158270423-vulnerabilites-critiques-affectant-prestashop.html)|PrestaShop annonce la correction de trois vulnérabilités affectant sa plateforme destinée à la construction de sites E-commerce. Une de ces vulnérabilités identifiée par «CVE-2023-30839 »est très critique et son exploitation peut...|27 avril 2023|
  |[41572704/23 - Vulnérabilité affectant Cisco Prime Collaboration Deployment](https://www.dgssi.gov.ma//fr/content/4157270423-vulnerabilite-affectant-cisco-prime-collaboration-deployment.html)|Cisco annonce la correction d’une vulnérabilité affectant l’interface de gestion de son produit Cisco Prime Collaboration Deployment.L'exploitation de cette vulnérabilité peutpermettreà un attaquant distant d’exécuter du code...|27 avril 2023|
- |[41562604/23 - Vulnérabilités dans les produits industriels de Schneider Electric ](https://www.dgssi.gov.ma//fr/content/4156260423-vulnerabilites-dans-les-produits-industriels-de-schneider-electric.html)|Plusieurs vulnérabilités critiques ont été corrigées dans les produits industriels susmentionnés de Schneider Electric. L’exploitation de ces failles permet à un attaquant de causer un déni de service, de réussir une élévation de...|26 avril 2023|
  
 
 # HK-CERT
