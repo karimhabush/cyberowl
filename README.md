@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 05/05/2023 06:22:18 UTC
+ > Last Updated 05/05/2023 07:15:41 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,10 +57,19 @@
  |[Multiples vulnérabilités dans IBM Db2](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0347/)|De multiples vulnérabilités ont été découvertes dans IBM Db2. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et un déni de service à distance.|Publié le 2 mai 2023|
  
 
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/libssh-privilege-escalation-via-pki-verify-data-signature-41191" class="noirorange"><b>libssh</b>: privilege escalation via pki_verify_data_signature()</a>](https://vigilance.fr/vulnerability/libssh-privilege-escalation-via-pki-verify-data-signature-41191)|An attacker can bypass restrictions of libssh, via |Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libssh-NULL-pointer-dereference-via-Algorithm-Guessing-Rekeying-41190" class="noirorange"><b>libssh</b>: NULL pointer dereference via Algorithm Guessing Rekeying</a>](https://vigilance.fr/vulnerability/libssh-NULL-pointer-dereference-via-Algorithm-Guessing-Rekeying-41190)|An attacker can force a NULL pointer to be dereferenced on libssh, via Algorithm Guessing Rekeying, in order to trigger a denial of service...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Libreswan-denial-of-service-via-IKEv1-Aggressive-Mode-41189" class="noirorange"><b>Libreswan</b>: denial of service via IKEv1 Aggressive Mode</a>](https://vigilance.fr/vulnerability/Libreswan-denial-of-service-via-IKEv1-Aggressive-Mode-41189)|An attacker can send malicious IKEv1 Aggressive Mode packets to Libreswan, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/cmark-gfm-overload-via-handle-close-bracket-41188" class="noirorange"><b>cmark-gfm</b>: overload via handle_close_bracket()</a>](https://vigilance.fr/vulnerability/cmark-gfm-overload-via-handle-close-bracket-41188)|An attacker can trigger an overload of cmark-gfm, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/FortiOS-buffer-overflow-via-sslvpnd-41187" class="noirorange"><b>FortiOS</b>: buffer overflow via sslvpnd</a>](https://vigilance.fr/vulnerability/FortiOS-buffer-overflow-via-sslvpnd-41187)|An attacker can trigger a buffer overflow of FortiOS, via sslvpnd, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-S3-File-System-file-write-41186" class="noirorange"><b>Drupal S3 File System</b>: file write</a>](https://vigilance.fr/vulnerability/Drupal-S3-File-System-file-write-41186)|An attacker can bypass access restrictions of Drupal S3 File System, in order to alter files...|Visit link for details|
@@ -69,15 +78,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Django-file-upload-via-Multiple-Files-41183" class="noirorange"><b>Django</b>: file upload via Multiple Files</a>](https://vigilance.fr/vulnerability/Django-file-upload-via-Multiple-Files-41183)|An attacker can upload a malicious file on Django, via Multiple Files, in order for example to upload a Trojan...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-multiple-vulnerabilities-41182" class="noirorange"><b>F5 BIG-IP</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-multiple-vulnerabilities-41182)|An attacker can use several vulnerabilities of F5 BIG-IP...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/WebSphere-AS-spoofing-via-Web-Server-Plug-ins-41181" class="noirorange"><b>WebSphere AS</b>: spoofing via Web Server Plug-ins</a>](https://vigilance.fr/vulnerability/WebSphere-AS-spoofing-via-Web-Server-Plug-ins-41181)|An attacker can create spoofed data on WebSphere AS, via Web Server Plug-ins, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GitLab-spoofing-via-Unverified-Email-41180" class="noirorange"><b>GitLab</b>: spoofing via Unverified Email</a>](https://vigilance.fr/vulnerability/GitLab-spoofing-via-Unverified-Email-41180)|An attacker can create spoofed data on GitLab, via Unverified Email, in order to deceive the victim...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Check-Point-Quantum-logged-sensitive-information-via-OS-Backup-File-Encryption-Password-41179" class="noirorange"><b>Check Point Quantum</b>: logged sensitive information via OS Backup File Encryption Password</a>](https://vigilance.fr/vulnerability/Check-Point-Quantum-logged-sensitive-information-via-OS-Backup-File-Encryption-Password-41179)|An attacker can read logs of Check Point Quantum, via OS Backup File Encryption Password, in order to obtain sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Google-Chrome-multiple-vulnerabilities-41178" class="noirorange"><b>Google Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Google-Chrome-multiple-vulnerabilities-41178)|An attacker can use several vulnerabilities of Google Chrome...|Visit link for details|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # EU-CERT
