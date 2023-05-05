@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 05/05/2023 13:20:30 UTC
+ > Last Updated 05/05/2023 14:15:55 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -25,6 +25,22 @@
  
  > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/05/04/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|May 04, 2023|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/05/02/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|May 02, 2023|
+ |[CISA Urges Organizations to Incorporate the FCC Covered List Into Risk Management Plans](https://www.cisa.gov/news-events/alerts/2023/05/01/cisa-urges-organizations-incorporate-fcc-covered-list-risk-management-plans)|Visit link for details.|May 01, 2023|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/05/01/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 01, 2023|
+ |[CISA Requests for Comment on Secure Software Self-Attestation Form](https://www.cisa.gov/news-events/alerts/2023/04/28/cisa-requests-comment-secure-software-self-attestation-form)|Visit link for details.|Apr 28, 2023|
+ |[CISA Releases One Industrial Control Systems Medical Advisory](https://www.cisa.gov/news-events/alerts/2023/04/27/cisa-releases-one-industrial-control-systems-medical-advisory)|Visit link for details.|Apr 27, 2023|
+ |[Abuse of the Service Location Protocol May Lead to DoS Attacks](https://www.cisa.gov/news-events/alerts/2023/04/25/abuse-service-location-protocol-may-lead-dos-attacks)|Visit link for details.|Apr 25, 2023|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/04/25/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Apr 25, 2023|
+ |[VMware Releases Security Update for Aria Operations for Logs](https://www.cisa.gov/news-events/alerts/2023/04/21/vmware-releases-security-update-aria-operations-logs)|Visit link for details.|Apr 21, 2023|
+ |[Drupal Releases Security Advisory to Address Vulnerability in Drupal Core](https://www.cisa.gov/news-events/alerts/2023/04/21/drupal-releases-security-advisory-address-vulnerability-drupal-core)|Visit link for details.|Apr 21, 2023|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
@@ -41,20 +57,10 @@
  |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0350/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 3 mai 2023|
  
 
-# US-CERT
+# VulDB
 
  |Title|Description|Date|
  |---|---|---|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/05/04/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|May 04, 2023|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/05/02/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|May 02, 2023|
- |[CISA Urges Organizations to Incorporate the FCC Covered List Into Risk Management Plans](https://www.cisa.gov/news-events/alerts/2023/05/01/cisa-urges-organizations-incorporate-fcc-covered-list-risk-management-plans)|Visit link for details.|May 01, 2023|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/05/01/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 01, 2023|
- |[CISA Requests for Comment on Secure Software Self-Attestation Form](https://www.cisa.gov/news-events/alerts/2023/04/28/cisa-requests-comment-secure-software-self-attestation-form)|Visit link for details.|Apr 28, 2023|
- |[CISA Releases One Industrial Control Systems Medical Advisory](https://www.cisa.gov/news-events/alerts/2023/04/27/cisa-releases-one-industrial-control-systems-medical-advisory)|Visit link for details.|Apr 27, 2023|
- |[Abuse of the Service Location Protocol May Lead to DoS Attacks](https://www.cisa.gov/news-events/alerts/2023/04/25/abuse-service-location-protocol-may-lead-dos-attacks)|Visit link for details.|Apr 25, 2023|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/04/25/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Apr 25, 2023|
- |[VMware Releases Security Update for Aria Operations for Logs](https://www.cisa.gov/news-events/alerts/2023/04/21/vmware-releases-security-update-aria-operations-logs)|Visit link for details.|Apr 21, 2023|
- |[Drupal Releases Security Advisory to Address Vulnerability in Drupal Core](https://www.cisa.gov/news-events/alerts/2023/04/21/drupal-releases-security-advisory-address-vulnerability-drupal-core)|Visit link for details.|Apr 21, 2023|
  
 
 # OBS-Vigilance
@@ -74,29 +80,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Python-information-disclosure-via-SimpleHTTPServer-41184" class="noirorange"><b>Python</b>: information disclosure via SimpleHTTPServer</a>](https://vigilance.fr/vulnerability/Python-information-disclosure-via-SimpleHTTPServer-41184)|An attacker can bypass access restrictions to data of Python, via SimpleHTTPServer, in order to read sensitive information...|Visit link for details|
  
 
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[41680405 /23 - Vulnérabilités dans Google Chrome](https://www.dgssi.gov.ma//fr/content/41680405-23-vulnerabilites-dans-google-chrome.html)|Google a corrigé plusieurs vulnérabilités dans son navigateur Google Chrome. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité, d’installer du contenu malicieux et de divulguer des...|04 mai 2023|
- |[41680405/23 - Vulnérabilités critiques affectant Netgear NMS300 ProSAFE](https://www.dgssi.gov.ma//fr/content/4168040523-vulnerabilites-critiques-affectant-netgear-nms300-prosafe.html)|Flashpoint, une entreprise spécialisée en sécurité informatique, annonce la découverte de deux vulnérabilités critiques affectant la solution de gestion de réseaux Netgear NMS300 ProSAFE.L'exploitation de ces vulnérabilités peut...|04 mai 2023|
- |[41670405/23 - Vulnérabilité critique affectant Cisco 2-Port Phone Adapters SPA112](https://www.dgssi.gov.ma//fr/content/4167040523-vulnerabilite-critique-affectant-cisco-2-port-phone-adapters-spa112.html)|Cisco annonce la correction d’une vulnérabilité affectant l’interface de gestion de son produit Cisco 2-Port Phone Adapters SPA112.L'exploitation de cette vulnérabilité peutpermettreà un attaquant distant non authentifié d’...|04 mai 2023|
- |[41660305 /23 - Vulnérabilités dans Elastic Kibana](https://www.dgssi.gov.ma//fr/content/41660305-23-vulnerabilites-dans-elastic-kibana.html)|Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées d’Elastic Kibana. L’exploitation de ces failles permet à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité...|03 mai 2023|
- |[41630305 /23 - Vulnérabilités dans IBM Db2](https://www.dgssi.gov.ma//fr/content/41630305-23-vulnerabilites-dans-ibm-db2.html)|Plusieurs vulnérabilités ont été corrigées dans les versions IBM Db2 susmentionnées. Un attaquant distant pourrait exploiter certaines de ces vulnérabilités pour causer un déni de service et de prendre le contrôle du système affecté.|03 mai 2023|
- |[41630305/23 - Vulnérabilités affectant le système d’exploitation Android](https://www.dgssi.gov.ma//fr/content/4163030523-vulnerabilites-affectant-le-systeme-d-exploitation-android.html)|Google annonce la correction de plusieurs vulnérabilités affectantson système d’exploitation Android.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’exécuter du code arbitraire,d’accéder à des...|03 mai 2023|
- |[41620205 /23 - Vulnérabilités critiques dans Android et Pixel](https://www.dgssi.gov.ma//fr/content/41620205-23-vulnerabilites-critiques-dans-android-et-pixel.html)|Plusieurs vulnérabilités critiques ont été corrigées dans le système d’exploitation Android et pixel. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, de causer un déni de service,...|02 mai 2023|
- |[41610205 /23 - Vulnérabilité dans Apache Superset](https://www.dgssi.gov.ma//fr/content/41610205-23-vulnerabilite-dans-apache-superset.html)|Une vulnérabilité permettant la validation de session a été corrigée dans les versions d'Apache Superset susmentionnées. Une exploitation réussie peut conduire un attaquant à l'exécution de code à distance (RCE) sur des...|02 mai 2023|
- |[41600205/23 - Vulnérabilitésaffectant des produits de Zyxel](https://www.dgssi.gov.ma//fr/content/4160020523-vulnerabilites-affectant-des-produits-de-zyxel.html)|Zyxel annonce la correction de deux vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’injecter du contenu dans une page ou d’injecter des commandes.|02 mai 2023|
- |[41592804/23 - Vulnérabilités dans les logiciels Avast et AVG Antivirus (AV)](https://www.dgssi.gov.ma//fr/content/4159280423-vulnerabilites-dans-les-logiciels-avast-et-avg-antivirus-av.html)|Deux vulnérabilités découvertes dans les logiciels Avast et AVG Antivirus (AV) antérieurs à la version 22.11. Lorsqu'elles sont enchaînées, ces vulnérabilités peuvent conduire à une élévation des privilèges en tant que « SYSTEME » et...|28 avril 2023|
- |[41582704/23- Vulnérabilités critiques affectant PrestaShop ](https://www.dgssi.gov.ma//fr/content/4158270423-vulnerabilites-critiques-affectant-prestashop.html)|PrestaShop annonce la correction de trois vulnérabilités affectant sa plateforme destinée à la construction de sites E-commerce. Une de ces vulnérabilités identifiée par «CVE-2023-30839 »est très critique et son exploitation peut...|27 avril 2023|
- 
-
 # EU-CERT
 
  |Title|Description|Date|
@@ -112,6 +95,23 @@
  |[2023-018: Microsoft Outlook Elevation of Privilege Vulnerability](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-018.pdf)|On March 14, 2023, Microsoft released a security fix for an elevation of privilege vulnerability (CVE-2023-23397) in Microsoft Outlook. A specially crafted e-mail can trigger the vulnerability automatically when it is retrieved and processed by the Outlook client. Such an e-mail could lead to exploitation before the e-mail is viewed in the Preview Pane and allows an attacker to steal credential hashes by forcing the targets' devices to authenticate to an attacker-controlled server. The Computer Emergency Response Team for Ukraine (CERT-UA) reported the vulnerability to Microsoft. Based on Microsoft Threat Intelligence, a Russia-based threat actor used it in attacks to target and breach the network of several governments, military, energy, and transportation organisations in Europe between April and December 2022. They used the stolen hashes for lateral movement within the victims' networks and to change Outlook mailbox folder permissions for e-mail exfiltration. Online services such as Microsoft 365 do not support NTLM authentication and are not vulnerable to being attacked by these messages.|Wednesday, March 15, 2023 11:30:00 AM CET|
  |[2023-017: Severe Vulnerabilities in Jenkins Products](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-017.pdf)|On March 8, 2023, Jenkins released advisories regarding 2 severe security vulnerabilities in Jenkins server and Update Center. These vulnerabilities are identified by CVE-2023-27898 and CVE-2023-27905 and could allow an unauthenticated attacker to execute arbitrary code on the victim's Jenkins server, potentially leading to a complete compromise of the Jenkins server. Furthermore, these vulnerabilities could be exploited even if the Jenkins server is not directly reachable by attackers and could also impact self-hosted Jenkins servers.|Thursday, March 09, 2023 05:40:00 PM CET|
  |[2023-016: High Vulnerability in Veeam Backup & Replication](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-016.pdf)|On March 8, 2023, Veeam released a new security advisory revealing one high vulnerability in a Veeam Backup & Replication component. This vulnerability is identified by CVE-2023-27532 (CVSS score of 7.5) and it may allow an attacker to obtain encrypted credentials stored in the configuration database. This may lead to gaining access to the backup infrastructure hosts. It is highly recommended installing the latest version.|Thursday, March 09, 2023 05:30:00 PM CET|
+ 
+
+# MA-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[41700505/23 - Vulnérabilités affectantdes produits F5 ](https://www.dgssi.gov.ma//fr/content/4170050523-vulnerabilites-affectant-des-produits-f5.html)|F5 Networks annonce la correction de plusieursvulnérabilités affectant ses produits susmentionnés. Un attaquant distant peut exploiter ces vulnérabilités pour exécuter du code arbitraire, injecter du code indirectement, accès à des...|05 mai 2023|
+ |[41690505/23 - Mises à jour de sécurité pour des produits de Fortinet ](https://www.dgssi.gov.ma//fr/content/4169050523-mises-jour-de-securite-pour-des-produits-de-fortinet.html)|Fortinet annonce la disponibilité de mises à jour de sécurité permettant la correction de vulnérabilités affectant ses produits susmentionnés. L'exploitation de ces vulnérabilités peut permettre à un attaquant distant d’...|05 mai 2023|
+ |[41710505 /23 - Vulnérabilité critique dans les produits PaperCut](https://www.dgssi.gov.ma//fr/content/41710505-23-vulnerabilite-critique-dans-les-produits-papercut.html)|Une vulnérabilité critique a été corrigée dans les produits PaperCut susmentionnés. L’exploitation de cette faille peut permettre à un attaquant d’exécuter du code arbitraire.|05 mai 2023|
+ |[41680405 /23 - Vulnérabilités dans Google Chrome](https://www.dgssi.gov.ma//fr/content/41680405-23-vulnerabilites-dans-google-chrome.html)|Google a corrigé plusieurs vulnérabilités dans son navigateur Google Chrome. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité, d’installer du contenu malicieux et de divulguer des...|04 mai 2023|
+ |[41680405/23 - Vulnérabilités critiques affectant Netgear NMS300 ProSAFE](https://www.dgssi.gov.ma//fr/content/4168040523-vulnerabilites-critiques-affectant-netgear-nms300-prosafe.html)|Flashpoint, une entreprise spécialisée en sécurité informatique, annonce la découverte de deux vulnérabilités critiques affectant la solution de gestion de réseaux Netgear NMS300 ProSAFE.L'exploitation de ces vulnérabilités peut...|04 mai 2023|
+ |[41670405/23 - Vulnérabilité critique affectant Cisco 2-Port Phone Adapters SPA112](https://www.dgssi.gov.ma//fr/content/4167040523-vulnerabilite-critique-affectant-cisco-2-port-phone-adapters-spa112.html)|Cisco annonce la correction d’une vulnérabilité affectant l’interface de gestion de son produit Cisco 2-Port Phone Adapters SPA112.L'exploitation de cette vulnérabilité peutpermettreà un attaquant distant non authentifié d’...|04 mai 2023|
+ |[41660305 /23 - Vulnérabilités dans Elastic Kibana](https://www.dgssi.gov.ma//fr/content/41660305-23-vulnerabilites-dans-elastic-kibana.html)|Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées d’Elastic Kibana. L’exploitation de ces failles permet à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité...|03 mai 2023|
+ |[41630305 /23 - Vulnérabilités dans IBM Db2](https://www.dgssi.gov.ma//fr/content/41630305-23-vulnerabilites-dans-ibm-db2.html)|Plusieurs vulnérabilités ont été corrigées dans les versions IBM Db2 susmentionnées. Un attaquant distant pourrait exploiter certaines de ces vulnérabilités pour causer un déni de service et de prendre le contrôle du système affecté.|03 mai 2023|
+ |[41630305/23 - Vulnérabilités affectant le système d’exploitation Android](https://www.dgssi.gov.ma//fr/content/4163030523-vulnerabilites-affectant-le-systeme-d-exploitation-android.html)|Google annonce la correction de plusieurs vulnérabilités affectantson système d’exploitation Android.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’exécuter du code arbitraire,d’accéder à des...|03 mai 2023|
+ |[41620205 /23 - Vulnérabilités critiques dans Android et Pixel](https://www.dgssi.gov.ma//fr/content/41620205-23-vulnerabilites-critiques-dans-android-et-pixel.html)|Plusieurs vulnérabilités critiques ont été corrigées dans le système d’exploitation Android et pixel. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, de causer un déni de service,...|02 mai 2023|
+ |[41610205 /23 - Vulnérabilité dans Apache Superset](https://www.dgssi.gov.ma//fr/content/41610205-23-vulnerabilite-dans-apache-superset.html)|Une vulnérabilité permettant la validation de session a été corrigée dans les versions d'Apache Superset susmentionnées. Une exploitation réussie peut conduire un attaquant à l'exécution de code à distance (RCE) sur des...|02 mai 2023|
  
 
 # HK-CERT
