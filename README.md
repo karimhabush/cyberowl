@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 05/05/2023 15:17:29 UTC
+ > Last Updated 05/05/2023 16:22:43 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -25,22 +25,6 @@
  
  > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
 
-# CERT-FR
-
- |Title|Description|Date|
- |---|---|---|
- |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0359/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une élévation de privilèges.|Publié le 5 mai 2023|
- |[Vulnérabilité dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0358/)|Une vulnérabilité a été découverte dans le noyau Linux de Red Hat. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 5 mai 2023|
- |[Multiples vulnérabilités dans IBM Cognos](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0357/)|De multiples vulnérabilités ont été découvertes dans IBM Cognos. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 5 mai 2023|
- |[Vulnérabilité dans IBM AIX](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0356/)|Une vulnérabilité a été découverte dans IBM AIX. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à l'intégrité des données et une injection de code indirecte à distance (XSS).|Publié le 4 mai 2023|
- |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0355/)|De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 4 mai 2023|
- |[Multiples vulnérabilités dans F5 BIG-IP et NGINX](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0354/)|De multiples vulnérabilités ont été découvertes dans F5 BIG-IP et NGINX. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 4 mai 2023|
- |[Multiples vulnérabilités dans Elastic Kibana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0353/)|De multiples vulnérabilités ont été découvertes dans Elastic Kibana. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 3 mai 2023|
- |[Multiples vulnérabilités dans Moodle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0352/)|De multiples vulnérabilités ont été découvertes dans Moodle. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à l'intégrité des données.|Publié le 3 mai 2023|
- |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0351/)|De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 3 mai 2023|
- |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0350/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 3 mai 2023|
- 
-
 # US-CERT
 
  |Title|Description|Date|
@@ -57,6 +41,22 @@
  |[Drupal Releases Security Advisory to Address Vulnerability in Drupal Core](https://www.cisa.gov/news-events/alerts/2023/04/21/drupal-releases-security-advisory-address-vulnerability-drupal-core)|Visit link for details.|Apr 21, 2023|
  
 
+# CERT-FR
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[Multiples vulnérabilités dans le noyau Linux d’Ubuntu](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0359/)|De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une élévation de privilèges.|Publié le 5 mai 2023|
+ |[Vulnérabilité dans le noyau Linux de Red Hat](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0358/)|Une vulnérabilité a été découverte dans le noyau Linux de Red Hat. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 5 mai 2023|
+ |[Multiples vulnérabilités dans IBM Cognos](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0357/)|De multiples vulnérabilités ont été découvertes dans IBM Cognos. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.|Publié le 5 mai 2023|
+ |[Vulnérabilité dans IBM AIX](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0356/)|Une vulnérabilité a été découverte dans IBM AIX. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à l'intégrité des données et une injection de code indirecte à distance (XSS).|Publié le 4 mai 2023|
+ |[Multiples vulnérabilités dans les produits Fortinet](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0355/)|De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 4 mai 2023|
+ |[Multiples vulnérabilités dans F5 BIG-IP et NGINX](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0354/)|De multiples vulnérabilités ont été découvertes dans F5 BIG-IP et NGINX. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.|Publié le 4 mai 2023|
+ |[Multiples vulnérabilités dans Elastic Kibana](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0353/)|De multiples vulnérabilités ont été découvertes dans Elastic Kibana. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).|Publié le 3 mai 2023|
+ |[Multiples vulnérabilités dans Moodle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0352/)|De multiples vulnérabilités ont été découvertes dans Moodle. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à l'intégrité des données.|Publié le 3 mai 2023|
+ |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0351/)|De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 3 mai 2023|
+ |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0350/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 3 mai 2023|
+ 
+
 # VulDB
 
  |Title|Description|Date|
@@ -67,8 +67,9 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/libheif-buffer-overflow-41195" class="noirorange"><b>libheif</b>: buffer overflow</a>](https://vigilance.fr/vulnerability/libheif-buffer-overflow-41195)|An attacker can trigger a buffer overflow of libheif, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Odoo-multiple-vulnerabilities-41194" class="noirorange"><b>Odoo</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Odoo-multiple-vulnerabilities-41194)|An attacker can use several vulnerabilities of Odoo...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-two-vulnerabilities-41193" class="noirorange"><b>GitLab CE/EE</b>: two vulnerabilities</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-two-vulnerabilities-41193)|An attacker can use several vulnerabilities of GitLab CE/EE...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GitLab-CE-EE-code-execution-via-GraphQL-Endpoint-41193" class="noirorange"><b>GitLab CE/EE</b>: code execution via GraphQL Endpoint</a>](https://vigilance.fr/vulnerability/GitLab-CE-EE-code-execution-via-GraphQL-Endpoint-41193)|An attacker can use a vulnerability of GitLab CE/EE, via GraphQL Endpoint, in order to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Go-three-vulnerabilities-41192" class="noirorange"><b>Go</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Go-three-vulnerabilities-41192)|An attacker can use several vulnerabilities of Go...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libssh-privilege-escalation-via-pki-verify-data-signature-41191" class="noirorange"><b>libssh</b>: privilege escalation via pki_verify_data_signature()</a>](https://vigilance.fr/vulnerability/libssh-privilege-escalation-via-pki-verify-data-signature-41191)|An attacker can bypass restrictions of libssh, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libssh-NULL-pointer-dereference-via-Algorithm-Guessing-Rekeying-41190" class="noirorange"><b>libssh</b>: NULL pointer dereference via Algorithm Guessing Rekeying</a>](https://vigilance.fr/vulnerability/libssh-NULL-pointer-dereference-via-Algorithm-Guessing-Rekeying-41190)|An attacker can force a NULL pointer to be dereferenced on libssh, via Algorithm Guessing Rekeying, in order to trigger a denial of service...|Visit link for details|
@@ -77,7 +78,6 @@
  |[<a href="https://vigilance.fr/vulnerability/FortiOS-buffer-overflow-via-sslvpnd-41187" class="noirorange"><b>FortiOS</b>: buffer overflow via sslvpnd</a>](https://vigilance.fr/vulnerability/FortiOS-buffer-overflow-via-sslvpnd-41187)|An attacker can trigger a buffer overflow of FortiOS, via sslvpnd, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-S3-File-System-file-write-41186" class="noirorange"><b>Drupal S3 File System</b>: file write</a>](https://vigilance.fr/vulnerability/Drupal-S3-File-System-file-write-41186)|An attacker can bypass access restrictions of Drupal S3 File System, in order to alter files...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Sentry-SDK-for-Python-information-disclosure-via-sendDefaultPII-41185" class="noirorange"><b>Sentry SDK for Python</b>: information disclosure via sendDefaultPII</a>](https://vigilance.fr/vulnerability/Sentry-SDK-for-Python-information-disclosure-via-sendDefaultPII-41185)|An attacker can bypass access restrictions to data of Sentry SDK for Python, via sendDefaultPII, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Python-information-disclosure-via-SimpleHTTPServer-41184" class="noirorange"><b>Python</b>: information disclosure via SimpleHTTPServer</a>](https://vigilance.fr/vulnerability/Python-information-disclosure-via-SimpleHTTPServer-41184)|An attacker can bypass access restrictions to data of Python, via SimpleHTTPServer, in order to read sensitive information...|Visit link for details|
  
 
 # EU-CERT
