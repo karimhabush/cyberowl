@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 05/05/2023 08:20:37 UTC
+ > Last Updated 05/05/2023 09:16:50 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,10 +57,17 @@
  |[Multiples vulnérabilités dans IBM Db2](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0347/)|De multiples vulnérabilités ont été découvertes dans IBM Db2. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et un déni de service à distance.|Publié le 2 mai 2023|
  
 
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
  |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Go-three-vulnerabilities-41192" class="noirorange"><b>Go</b>: three vulnerabilities</a>](https://vigilance.fr/vulnerability/Go-three-vulnerabilities-41192)|An attacker can use several vulnerabilities of Go...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libssh-privilege-escalation-via-pki-verify-data-signature-41191" class="noirorange"><b>libssh</b>: privilege escalation via pki_verify_data_signature()</a>](https://vigilance.fr/vulnerability/libssh-privilege-escalation-via-pki-verify-data-signature-41191)|An attacker can bypass restrictions of libssh, via |Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/libssh-NULL-pointer-dereference-via-Algorithm-Guessing-Rekeying-41190" class="noirorange"><b>libssh</b>: NULL pointer dereference via Algorithm Guessing Rekeying</a>](https://vigilance.fr/vulnerability/libssh-NULL-pointer-dereference-via-Algorithm-Guessing-Rekeying-41190)|An attacker can force a NULL pointer to be dereferenced on libssh, via Algorithm Guessing Rekeying, in order to trigger a denial of service...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Libreswan-denial-of-service-via-IKEv1-Aggressive-Mode-41189" class="noirorange"><b>Libreswan</b>: denial of service via IKEv1 Aggressive Mode</a>](https://vigilance.fr/vulnerability/Libreswan-denial-of-service-via-IKEv1-Aggressive-Mode-41189)|An attacker can send malicious IKEv1 Aggressive Mode packets to Libreswan, in order to trigger a denial of service...|Visit link for details|
@@ -71,7 +78,6 @@
  |[<a href="https://vigilance.fr/vulnerability/Python-information-disclosure-via-SimpleHTTPServer-41184" class="noirorange"><b>Python</b>: information disclosure via SimpleHTTPServer</a>](https://vigilance.fr/vulnerability/Python-information-disclosure-via-SimpleHTTPServer-41184)|An attacker can bypass access restrictions to data of Python, via SimpleHTTPServer, in order to read sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Django-file-upload-via-Multiple-Files-41183" class="noirorange"><b>Django</b>: file upload via Multiple Files</a>](https://vigilance.fr/vulnerability/Django-file-upload-via-Multiple-Files-41183)|An attacker can upload a malicious file on Django, via Multiple Files, in order for example to upload a Trojan...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/F5-BIG-IP-multiple-vulnerabilities-41182" class="noirorange"><b>F5 BIG-IP</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/F5-BIG-IP-multiple-vulnerabilities-41182)|An attacker can use several vulnerabilities of F5 BIG-IP...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/WebSphere-AS-spoofing-via-Web-Server-Plug-ins-41181" class="noirorange"><b>WebSphere AS</b>: spoofing via Web Server Plug-ins</a>](https://vigilance.fr/vulnerability/WebSphere-AS-spoofing-via-Web-Server-Plug-ins-41181)|An attacker can create spoofed data on WebSphere AS, via Web Server Plug-ins, in order to deceive the victim...|Visit link for details|
  
 
 # EU-CERT
@@ -91,10 +97,21 @@
  |[2023-015: RCE Vulnerability in Fortinet Products](https://cert.europa.eu/static/security-advisories/CERT-EU-SA2023-015.pdf)|On March 7, 2023, Fortinet released an advisory regarding one critical vulnerability in FortiOS and FortiProxy administrative interface. This vulnerability is identified as CVE-2023-25610 (CVSS score of 9.3) and it may allow remote unauthenticated attackers to execute arbitrary code on the device and/or to perform a DoS on the GUI. Fortinet is not aware of any instance where this vulnerability was exploited in the wild.|Wednesday, March 08, 2023 11:15:00 PM CET|
  
 
-# VulDB
+# MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
+ |[41680405 /23 - Vulnérabilités dans Google Chrome](https://www.dgssi.gov.ma//fr/content/41680405-23-vulnerabilites-dans-google-chrome.html)|Google a corrigé plusieurs vulnérabilités dans son navigateur Google Chrome. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité, d’installer du contenu malicieux et de divulguer des...|04 mai 2023|
+ |[41680405/23 - Vulnérabilités critiques affectant Netgear NMS300 ProSAFE](https://www.dgssi.gov.ma//fr/content/4168040523-vulnerabilites-critiques-affectant-netgear-nms300-prosafe.html)|Flashpoint, une entreprise spécialisée en sécurité informatique, annonce la découverte de deux vulnérabilités critiques affectant la solution de gestion de réseaux Netgear NMS300 ProSAFE.L'exploitation de ces vulnérabilités peut...|04 mai 2023|
+ |[41670405/23 - Vulnérabilité critique affectant Cisco 2-Port Phone Adapters SPA112](https://www.dgssi.gov.ma//fr/content/4167040523-vulnerabilite-critique-affectant-cisco-2-port-phone-adapters-spa112.html)|Cisco annonce la correction d’une vulnérabilité affectant l’interface de gestion de son produit Cisco 2-Port Phone Adapters SPA112.L'exploitation de cette vulnérabilité peutpermettreà un attaquant distant non authentifié d’...|04 mai 2023|
+ |[41660305 /23 - Vulnérabilités dans Elastic Kibana](https://www.dgssi.gov.ma//fr/content/41660305-23-vulnerabilites-dans-elastic-kibana.html)|Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées d’Elastic Kibana. L’exploitation de ces failles permet à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité...|03 mai 2023|
+ |[41630305 /23 - Vulnérabilités dans IBM Db2](https://www.dgssi.gov.ma//fr/content/41630305-23-vulnerabilites-dans-ibm-db2.html)|Plusieurs vulnérabilités ont été corrigées dans les versions IBM Db2 susmentionnées. Un attaquant distant pourrait exploiter certaines de ces vulnérabilités pour causer un déni de service et de prendre le contrôle du système affecté.|03 mai 2023|
+ |[41630305/23 - Vulnérabilités affectant le système d’exploitation Android](https://www.dgssi.gov.ma//fr/content/4163030523-vulnerabilites-affectant-le-systeme-d-exploitation-android.html)|Google annonce la correction de plusieurs vulnérabilités affectantson système d’exploitation Android.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’exécuter du code arbitraire,d’accéder à des...|03 mai 2023|
+ |[41620205 /23 - Vulnérabilités critiques dans Android et Pixel](https://www.dgssi.gov.ma//fr/content/41620205-23-vulnerabilites-critiques-dans-android-et-pixel.html)|Plusieurs vulnérabilités critiques ont été corrigées dans le système d’exploitation Android et pixel. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, de causer un déni de service,...|02 mai 2023|
+ |[41610205 /23 - Vulnérabilité dans Apache Superset](https://www.dgssi.gov.ma//fr/content/41610205-23-vulnerabilite-dans-apache-superset.html)|Une vulnérabilité permettant la validation de session a été corrigée dans les versions d'Apache Superset susmentionnées. Une exploitation réussie peut conduire un attaquant à l'exécution de code à distance (RCE) sur des...|02 mai 2023|
+ |[41600205/23 - Vulnérabilitésaffectant des produits de Zyxel](https://www.dgssi.gov.ma//fr/content/4160020523-vulnerabilites-affectant-des-produits-de-zyxel.html)|Zyxel annonce la correction de deux vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’injecter du contenu dans une page ou d’injecter des commandes.|02 mai 2023|
+ |[41592804/23 - Vulnérabilités dans les logiciels Avast et AVG Antivirus (AV)](https://www.dgssi.gov.ma//fr/content/4159280423-vulnerabilites-dans-les-logiciels-avast-et-avg-antivirus-av.html)|Deux vulnérabilités découvertes dans les logiciels Avast et AVG Antivirus (AV) antérieurs à la version 22.11. Lorsqu'elles sont enchaînées, ces vulnérabilités peuvent conduire à une élévation des privilèges en tant que « SYSTEME » et...|28 avril 2023|
+ |[41582704/23- Vulnérabilités critiques affectant PrestaShop ](https://www.dgssi.gov.ma//fr/content/4158270423-vulnerabilites-critiques-affectant-prestashop.html)|PrestaShop annonce la correction de trois vulnérabilités affectant sa plateforme destinée à la construction de sites E-commerce. Une de ces vulnérabilités identifiée par «CVE-2023-30839 »est très critique et son exploitation peut...|27 avril 2023|
  
 
 # HK-CERT
@@ -111,21 +128,4 @@
  |[NetApp Product Denial of Service Vulnerability](https://www.hkcert.org/security-bulletin/netapp-products-denial-of-service-vulnerability_20230428)|A vulnerability was identified in a NetApp Product. A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system.|Release Date: 28 Apr 2023|
  |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20230411)|Multiple vulnerabilities were identified in Ubuntu Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass, sensitive information disclosure and elevation of privilege on the targeted system. [Updated on 2023-04-...| Release Date: 11 Apr 2023 |
  |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20230403)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on...| Release Date: 3 Apr 2023 |
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[41680405 /23 - Vulnérabilités dans Google Chrome](https://www.dgssi.gov.ma//fr/content/41680405-23-vulnerabilites-dans-google-chrome.html)|Google a corrigé plusieurs vulnérabilités dans son navigateur Google Chrome. L’exploitation de ces failles peut permettre à un attaquant de contourner la politique de sécurité, d’installer du contenu malicieux et de divulguer des...|04 mai 2023|
- |[41680405/23 - Vulnérabilités critiques affectant Netgear NMS300 ProSAFE](https://www.dgssi.gov.ma//fr/content/4168040523-vulnerabilites-critiques-affectant-netgear-nms300-prosafe.html)|Flashpoint, une entreprise spécialisée en sécurité informatique, annonce la découverte de deux vulnérabilités critiques affectant la solution de gestion de réseaux Netgear NMS300 ProSAFE.L'exploitation de ces vulnérabilités peut...|04 mai 2023|
- |[41670405/23 - Vulnérabilité critique affectant Cisco 2-Port Phone Adapters SPA112](https://www.dgssi.gov.ma//fr/content/4167040523-vulnerabilite-critique-affectant-cisco-2-port-phone-adapters-spa112.html)|Cisco annonce la correction d’une vulnérabilité affectant l’interface de gestion de son produit Cisco 2-Port Phone Adapters SPA112.L'exploitation de cette vulnérabilité peutpermettreà un attaquant distant non authentifié d’...|04 mai 2023|
- |[41660305 /23 - Vulnérabilités dans Elastic Kibana](https://www.dgssi.gov.ma//fr/content/41660305-23-vulnerabilites-dans-elastic-kibana.html)|Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées d’Elastic Kibana. L’exploitation de ces failles permet à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité...|03 mai 2023|
- |[41630305 /23 - Vulnérabilités dans IBM Db2](https://www.dgssi.gov.ma//fr/content/41630305-23-vulnerabilites-dans-ibm-db2.html)|Plusieurs vulnérabilités ont été corrigées dans les versions IBM Db2 susmentionnées. Un attaquant distant pourrait exploiter certaines de ces vulnérabilités pour causer un déni de service et de prendre le contrôle du système affecté.|03 mai 2023|
- |[41630305/23 - Vulnérabilités affectant le système d’exploitation Android](https://www.dgssi.gov.ma//fr/content/4163030523-vulnerabilites-affectant-le-systeme-d-exploitation-android.html)|Google annonce la correction de plusieurs vulnérabilités affectantson système d’exploitation Android.L'exploitation de ces vulnérabilités peutpermettreà un attaquant distant d’exécuter du code arbitraire,d’accéder à des...|03 mai 2023|
- |[41620205 /23 - Vulnérabilités critiques dans Android et Pixel](https://www.dgssi.gov.ma//fr/content/41620205-23-vulnerabilites-critiques-dans-android-et-pixel.html)|Plusieurs vulnérabilités critiques ont été corrigées dans le système d’exploitation Android et pixel. L’exploitation de ces vulnérabilités peut permettre à un attaquant de réussir une élévation de privilèges, de causer un déni de service,...|02 mai 2023|
- |[41610205 /23 - Vulnérabilité dans Apache Superset](https://www.dgssi.gov.ma//fr/content/41610205-23-vulnerabilite-dans-apache-superset.html)|Une vulnérabilité permettant la validation de session a été corrigée dans les versions d'Apache Superset susmentionnées. Une exploitation réussie peut conduire un attaquant à l'exécution de code à distance (RCE) sur des...|02 mai 2023|
- |[41600205/23 - Vulnérabilitésaffectant des produits de Zyxel](https://www.dgssi.gov.ma//fr/content/4160020523-vulnerabilites-affectant-des-produits-de-zyxel.html)|Zyxel annonce la correction de deux vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’injecter du contenu dans une page ou d’injecter des commandes.|02 mai 2023|
- |[41592804/23 - Vulnérabilités dans les logiciels Avast et AVG Antivirus (AV)](https://www.dgssi.gov.ma//fr/content/4159280423-vulnerabilites-dans-les-logiciels-avast-et-avg-antivirus-av.html)|Deux vulnérabilités découvertes dans les logiciels Avast et AVG Antivirus (AV) antérieurs à la version 22.11. Lorsqu'elles sont enchaînées, ces vulnérabilités peuvent conduire à une élévation des privilèges en tant que « SYSTEME » et...|28 avril 2023|
- |[41582704/23- Vulnérabilités critiques affectant PrestaShop ](https://www.dgssi.gov.ma//fr/content/4158270423-vulnerabilites-critiques-affectant-prestashop.html)|PrestaShop annonce la correction de trois vulnérabilités affectant sa plateforme destinée à la construction de sites E-commerce. Une de ces vulnérabilités identifiée par «CVE-2023-30839 »est très critique et son exploitation peut...|27 avril 2023|
  
