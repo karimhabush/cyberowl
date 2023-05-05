@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 05/05/2023 14:15:55 UTC
+ > Last Updated 05/05/2023 15:17:29 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -25,22 +25,6 @@
  
  > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/05/04/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|May 04, 2023|
- |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/05/02/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|May 02, 2023|
- |[CISA Urges Organizations to Incorporate the FCC Covered List Into Risk Management Plans](https://www.cisa.gov/news-events/alerts/2023/05/01/cisa-urges-organizations-incorporate-fcc-covered-list-risk-management-plans)|Visit link for details.|May 01, 2023|
- |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/05/01/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 01, 2023|
- |[CISA Requests for Comment on Secure Software Self-Attestation Form](https://www.cisa.gov/news-events/alerts/2023/04/28/cisa-requests-comment-secure-software-self-attestation-form)|Visit link for details.|Apr 28, 2023|
- |[CISA Releases One Industrial Control Systems Medical Advisory](https://www.cisa.gov/news-events/alerts/2023/04/27/cisa-releases-one-industrial-control-systems-medical-advisory)|Visit link for details.|Apr 27, 2023|
- |[Abuse of the Service Location Protocol May Lead to DoS Attacks](https://www.cisa.gov/news-events/alerts/2023/04/25/abuse-service-location-protocol-may-lead-dos-attacks)|Visit link for details.|Apr 25, 2023|
- |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/04/25/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Apr 25, 2023|
- |[VMware Releases Security Update for Aria Operations for Logs](https://www.cisa.gov/news-events/alerts/2023/04/21/vmware-releases-security-update-aria-operations-logs)|Visit link for details.|Apr 21, 2023|
- |[Drupal Releases Security Advisory to Address Vulnerability in Drupal Core](https://www.cisa.gov/news-events/alerts/2023/04/21/drupal-releases-security-advisory-address-vulnerability-drupal-core)|Visit link for details.|Apr 21, 2023|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -55,6 +39,22 @@
  |[Multiples vulnérabilités dans Moodle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0352/)|De multiples vulnérabilités ont été découvertes dans Moodle. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à l'intégrité des données.|Publié le 3 mai 2023|
  |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0351/)|De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à l'intégrité des données.|Publié le 3 mai 2023|
  |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0350/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 3 mai 2023|
+ 
+
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/05/04/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|May 04, 2023|
+ |[CISA Releases One Industrial Control Systems Advisory](https://www.cisa.gov/news-events/alerts/2023/05/02/cisa-releases-one-industrial-control-systems-advisory)|Visit link for details.|May 02, 2023|
+ |[CISA Urges Organizations to Incorporate the FCC Covered List Into Risk Management Plans](https://www.cisa.gov/news-events/alerts/2023/05/01/cisa-urges-organizations-incorporate-fcc-covered-list-risk-management-plans)|Visit link for details.|May 01, 2023|
+ |[CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2023/05/01/cisa-adds-three-known-exploited-vulnerabilities-catalog)|Visit link for details.|May 01, 2023|
+ |[CISA Requests for Comment on Secure Software Self-Attestation Form](https://www.cisa.gov/news-events/alerts/2023/04/28/cisa-requests-comment-secure-software-self-attestation-form)|Visit link for details.|Apr 28, 2023|
+ |[CISA Releases One Industrial Control Systems Medical Advisory](https://www.cisa.gov/news-events/alerts/2023/04/27/cisa-releases-one-industrial-control-systems-medical-advisory)|Visit link for details.|Apr 27, 2023|
+ |[Abuse of the Service Location Protocol May Lead to DoS Attacks](https://www.cisa.gov/news-events/alerts/2023/04/25/abuse-service-location-protocol-may-lead-dos-attacks)|Visit link for details.|Apr 25, 2023|
+ |[CISA Releases Two Industrial Control Systems Advisories](https://www.cisa.gov/news-events/alerts/2023/04/25/cisa-releases-two-industrial-control-systems-advisories)|Visit link for details.|Apr 25, 2023|
+ |[VMware Releases Security Update for Aria Operations for Logs](https://www.cisa.gov/news-events/alerts/2023/04/21/vmware-releases-security-update-aria-operations-logs)|Visit link for details.|Apr 21, 2023|
+ |[Drupal Releases Security Advisory to Address Vulnerability in Drupal Core](https://www.cisa.gov/news-events/alerts/2023/04/21/drupal-releases-security-advisory-address-vulnerability-drupal-core)|Visit link for details.|Apr 21, 2023|
  
 
 # VulDB
