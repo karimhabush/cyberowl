@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 05/05/2023 04:20:41 UTC
+ > Last Updated 05/05/2023 05:16:19 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,12 +57,6 @@
  |[Multiples vulnérabilités dans IBM Db2](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0347/)|De multiples vulnérabilités ont été découvertes dans IBM Db2. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et un déni de service à distance.|Publié le 2 mai 2023|
  
 
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -78,6 +72,12 @@
  |[<a href="https://vigilance.fr/vulnerability/GitLab-spoofing-via-Unverified-Email-41180" class="noirorange"><b>GitLab</b>: spoofing via Unverified Email</a>](https://vigilance.fr/vulnerability/GitLab-spoofing-via-Unverified-Email-41180)|An attacker can create spoofed data on GitLab, via Unverified Email, in order to deceive the victim...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Check-Point-Quantum-logged-sensitive-information-via-OS-Backup-File-Encryption-Password-41179" class="noirorange"><b>Check Point Quantum</b>: logged sensitive information via OS Backup File Encryption Password</a>](https://vigilance.fr/vulnerability/Check-Point-Quantum-logged-sensitive-information-via-OS-Backup-File-Encryption-Password-41179)|An attacker can read logs of Check Point Quantum, via OS Backup File Encryption Password, in order to obtain sensitive information...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Google-Chrome-multiple-vulnerabilities-41178" class="noirorange"><b>Google Chrome</b>: multiple vulnerabilities</a>](https://vigilance.fr/vulnerability/Google-Chrome-multiple-vulnerabilities-41178)|An attacker can use several vulnerabilities of Google Chrome...|Visit link for details|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
  
 
 # EU-CERT
