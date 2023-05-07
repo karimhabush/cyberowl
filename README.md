@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 07/05/2023 12:52:26 UTC
+ > Last Updated 07/05/2023 13:18:26 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,6 +57,12 @@
  |[Multiples vulnérabilités dans Google Chrome](https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0350/)|De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 3 mai 2023|
  
 
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ 
+
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -72,12 +78,6 @@
  |[<a href="https://vigilance.fr/vulnerability/FortiOS-buffer-overflow-via-sslvpnd-41187" class="noirorange"><b>FortiOS</b>: buffer overflow via sslvpnd</a>](https://vigilance.fr/vulnerability/FortiOS-buffer-overflow-via-sslvpnd-41187)|An attacker can trigger a buffer overflow of FortiOS, via sslvpnd, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Drupal-S3-File-System-file-write-41186" class="noirorange"><b>Drupal S3 File System</b>: file write</a>](https://vigilance.fr/vulnerability/Drupal-S3-File-System-file-write-41186)|An attacker can bypass access restrictions of Drupal S3 File System, in order to alter files...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/Sentry-SDK-for-Python-information-disclosure-via-sendDefaultPII-41185" class="noirorange"><b>Sentry SDK for Python</b>: information disclosure via sendDefaultPII</a>](https://vigilance.fr/vulnerability/Sentry-SDK-for-Python-information-disclosure-via-sendDefaultPII-41185)|An attacker can bypass access restrictions to data of Sentry SDK for Python, via sendDefaultPII, in order to read sensitive information...|Visit link for details|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
  
 
 # EU-CERT
