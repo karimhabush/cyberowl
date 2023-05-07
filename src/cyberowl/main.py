@@ -33,7 +33,6 @@ def main():
         IBMCloudSpider,
         ZDISpider,
         VigilanceSpider,
-        VulDBSpider,
         HKCERTSpider,
         CaCCSSpider,
         EUCERTSpider,
