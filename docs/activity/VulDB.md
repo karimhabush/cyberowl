@@ -1,7 +1,0 @@
-
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- 
