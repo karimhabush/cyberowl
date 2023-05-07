@@ -64,5 +64,5 @@ class AlertPipeline:
         """
         Method to be called when spider is closed.
         """
-        generate_alerts_table(spider.name, self.__items)
+        # generate_alerts_table(spider.name, self.__items)
         generate_alerts_for_readme(spider.name, self.__items)
