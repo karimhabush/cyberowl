@@ -1,8 +1,8 @@
 name: auto_update_cron_job
 
 on:
-  schedule: # Runs every hour at 0 minutes
-    - cron: '0 * * * *'
+  #schedule: # Runs every hour at 0 minutes
+   # - cron: '0 * * * *'
   workflow_dispatch:
 
 jobs:
