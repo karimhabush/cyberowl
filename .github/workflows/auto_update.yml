@@ -1,6 +1,5 @@
-name: auto_update_cron_job
-
-on:
+name: main
+cpan --install log::Log4Perl
   schedule:
     - cron: '0 9,21 * * *'
   workflow_dispatch:
@@ -20,11 +19,5 @@ jobs:
       - run: python -m poetry run python src/cyberowl/main.py
       - name: Setup git config
         run: |
-          git config user.name "CyberOwl Bot"
-          git config user.email "<>"
+          git config user.name "l3aalteshuva"
 
-      - name: Commit
-        run: |
-          git add README.md
-          git commit -m "Automatic update with GitHub Actions"
-          git push origin ${GITHUB_REF##*/}
