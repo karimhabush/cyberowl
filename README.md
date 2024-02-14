@@ -5,7 +5,7 @@
 
  > Last Updated 20/05/2023 15:15:43 UTC
  
- A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
+ A daily updated summary of the most frequent types of security advisories currently being reported from different sources.
  
  For more information, please check out the documentation [here](./docs/README.md).
  
