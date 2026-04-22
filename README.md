@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 22/04/2026 17:03:33 UTC
+ > Last Updated 22/04/2026 17:06:04 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -25,22 +25,6 @@
  
  > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
 
-# US-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[CISA Adds Eight Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/20/cisa-adds-eight-known-exploited-vulnerabilities-catalog)|Visit link for details.|Apr 20, 2026|
- |[​​Supply Chain Compromise Impacts Axios Node Package Manager​ ](https://www.cisa.gov/news-events/alerts/2026/04/20/supply-chain-compromise-impacts-axios-node-package-manager)|Visit link for details.|Apr 20, 2026|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/16/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Apr 16, 2026|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/14/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Apr 14, 2026|
- |[CISA Adds Seven Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/13/cisa-adds-seven-known-exploited-vulnerabilities-catalog)|Visit link for details.|Apr 13, 2026|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/08/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Apr 08, 2026|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/06/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Apr 06, 2026|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/02/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Apr 02, 2026|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/01/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Apr 01, 2026|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/03/30/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Mar 30, 2026|
- 
-
 # CERT-FR
 
  |Title|Description|Date|
@@ -57,20 +41,52 @@
  |[Multiples vulnérabilités dans Oracle Systems](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0471/)|De multiples vulnérabilités ont été découvertes dans Oracle Systems. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service.|Publié le 22 avril 2026|
  
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Adds Eight Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/20/cisa-adds-eight-known-exploited-vulnerabilities-catalog)|Visit link for details.|Apr 20, 2026|
+ |[​​Supply Chain Compromise Impacts Axios Node Package Manager​ ](https://www.cisa.gov/news-events/alerts/2026/04/20/supply-chain-compromise-impacts-axios-node-package-manager)|Visit link for details.|Apr 20, 2026|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/16/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Apr 16, 2026|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/14/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Apr 14, 2026|
+ |[CISA Adds Seven Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/13/cisa-adds-seven-known-exploited-vulnerabilities-catalog)|Visit link for details.|Apr 13, 2026|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/08/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Apr 08, 2026|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/06/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Apr 06, 2026|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/02/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Apr 02, 2026|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/01/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Apr 01, 2026|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/03/30/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Mar 30, 2026|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[Gallagher Website Design <= 2.6.4 - Authenticated (Contributor+) Stored Cross-Site Scripting via 'prefix' Shortcode Attribute (CVE-2026-1913)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 22, 2026|
- |[Gutentools <= 1.1.3 - Authenticated (Contributor+) Stored Cross-Site Scripting via Post Slider Block Attributes (CVE-2026-1395)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 22, 2026|
- |[Emailchef <= 3.5.1 - Missing Authorization to Authenticated (Subscriber+) Arbitrary Plugin Settings Deletion (CVE-2026-1930)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 22, 2026|
- |[Nano: nano: format string vulnerability leads to denial of service (CVE-2026-6843)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 22, 2026|
- |[ksmbd: fix potencial OOB in get_file_all_info() for compound requests (CVE-2026-31433)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 22, 2026|
+ |[New vulnerability](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 22, 2026|
+ |[New vulnerability](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 22, 2026|
+ |[New vulnerability](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 22, 2026|
+ |[New vulnerability](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 22, 2026|
+ |[New vulnerability](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 22, 2026|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ 
+
+# OBS-Vigilance
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-dated-22-07-2025-47779" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities dated 22/07/2025</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-dated-22-07-2025-47779)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird, dated 22/07/2025...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/PowerDNS-Recursor-Cache-poisoning-via-EDNS-Client-Subnet-47761" class="noirorange"><b>PowerDNS Recursor</b>: Cache poisoning via EDNS Client Subnet</a>](https://vigilance.fr/vulnerability/PowerDNS-Recursor-Cache-poisoning-via-EDNS-Client-Subnet-47761)|An attacker can poison the cache of PowerDNS Recursor, via EDNS Client Subnet, in order to hijack trafic...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Office-SharePoint-Server-privilege-escalation-dated-21-07-2025-47756" class="noirorange"><b>Microsoft Office SharePoint Server</b>: privilege escalation dated 21/07/2025</a>](https://vigilance.fr/vulnerability/Microsoft-Office-SharePoint-Server-privilege-escalation-dated-21-07-2025-47756)|An attacker can bypass restrictions of Microsoft Office SharePoint Server, dated 21/07/2025, in order to escalate his privileges...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Tor-information-disclosure-via-Memory-Compare-50359" class="noirorange"><b>Tor</b>: information disclosure via Memory Compare</a>](https://vigilance.fr/vulnerability/Tor-information-disclosure-via-Memory-Compare-50359)|An attacker can bypass access restrictions to data of Tor, via Memory Compare, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/libinput-information-disclosure-via-Lua-Plugin-Pointer-50354" class="noirorange"><b>libinput</b>: information disclosure via Lua Plugin Pointer</a>](https://vigilance.fr/vulnerability/libinput-information-disclosure-via-Lua-Plugin-Pointer-50354)|An attacker can bypass access restrictions to data of libinput, via Lua Plugin Pointer, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Keycloak-five-vulnerabilities-dated-20-02-2026-49759" class="noirorange"><b>Keycloak</b>: five vulnerabilities dated 20/02/2026</a>](https://vigilance.fr/vulnerability/Keycloak-five-vulnerabilities-dated-20-02-2026-49759)|An attacker can use several vulnerabilities of Keycloak, dated 20/02/2026...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/Microsoft-Teams-information-disclosure-dated-20-02-2026-49758" class="noirorange"><b>Microsoft Teams</b>: information disclosure dated 20/02/2026</a>](https://vigilance.fr/vulnerability/Microsoft-Teams-information-disclosure-dated-20-02-2026-49758)|An attacker can bypass access restrictions to data of Microsoft Teams, dated 20/02/2026, in order to read sensitive information...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GNU-InetUtils-privilege-escalation-via-telnetd-CREDENTIALS-DIRECTORY-49757" class="noirorange"><b>GNU InetUtils</b>: privilege escalation via telnetd CREDENTIALS_DIRECTORY</a>](https://vigilance.fr/vulnerability/GNU-InetUtils-privilege-escalation-via-telnetd-CREDENTIALS-DIRECTORY-49757)|An attacker can bypass restrictions of GNU InetUtils, via telnetd CREDENTIALS_|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GIMP-buffer-overflow-via-XWD-49755" class="noirorange"><b>GIMP</b>: buffer overflow via XWD</a>](https://vigilance.fr/vulnerability/GIMP-buffer-overflow-via-XWD-49755)|An attacker can trigger a buffer overflow of GIMP, via XWD, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
+ |[<a href="https://vigilance.fr/vulnerability/GIMP-buffer-overflow-via-ICNS-49754" class="noirorange"><b>GIMP</b>: buffer overflow via ICNS</a>](https://vigilance.fr/vulnerability/GIMP-buffer-overflow-via-ICNS-49754)|An attacker can trigger a buffer overflow of GIMP, via ICNS, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  
 
 # VulDB
@@ -87,6 +103,16 @@
  |[CVE-2026-35368  Uutils coreutils chroot utility getpwnam untrusted search path](https://vuldb.com/vuln/359015)|A vulnerability described as <a href="https://vuldb.com/kb/risk">problematic</a> has been identified in <a href="https://vuldb.com/product/uutils:coreutils">Uutils coreutils</a>. The impacted element |Wed, 22 Apr 2026 18:53:28 +0200|
  |[CVE-2026-35366  Uutils coreutils up to 0.5.x Printenv Utility unusual condition](https://vuldb.com/vuln/359014)|A vulnerability marked as <a href="https://vuldb.com/kb/risk">problematic</a> has been reported in <a href="https://vuldb.com/product/uutils:coreutils">Uutils coreutils up to 0.5.x</a>. The affected e|Wed, 22 Apr 2026 18:53:20 +0200|
  |[CVE-2026-35361  Uutils coreutils up to 0.5.x Mknod Utility std::fs permissions](https://vuldb.com/vuln/359013)|A vulnerability labeled as <a href="https://vuldb.com/kb/risk">critical</a> has been found in <a href="https://vuldb.com/product/uutils:coreutils">Uutils coreutils up to 0.5.x</a>. Impacted is the fun|Wed, 22 Apr 2026 18:53:11 +0200|
+ 
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2026-004: Critical Vulnerability in SharePoint Exploited](https://cert.europa.eu/publications/security-advisories/2026-004/)|On 17 March 2026, Microsoft updated one of its January 2026 security advisories related to a remote code execution vulnerability in Microsoft SharePoint. Specifically, Microsoft raised the CVSS score and changed the FAQ section to indicate that the vulnerability could be exploited by an unauthenticated attacker. This vulnerability was added in the CISA's Known Exploited Vulnerabilities (KEV) catalogue on 18 March 2026.|Wednesday, March 25, 2026 08:51:39 AM CET|
+ |[2026-003: Multiple Vulnerabilities in Citrix NetScaler and Citrix ADC](https://cert.europa.eu/publications/security-advisories/2026-003/)|On 23 March 2026, Citrix published a security advisory addressing multiple vulnerabilities affecting NetScaler ADC and NetScaler Gateway. These vulnerabilities may lead to sensitive information disclosure and user session mix-up under specific configurations.|Monday, March 23, 2026 07:03:59 PM CET|
+ |[2026-002: Multiple Vulnerabilities in Cisco Products](https://cert.europa.eu/publications/security-advisories/2026-002/)|On 25 February 2026, Cisco released security advisories addressing multiple high and critical severity vulnerabilities in Cisco Catalyst SD-WAN controllers and Cisco SD-WAN Manager. If exploited, these vulnerabilities could allow attackers to gain administrative access to compromised systems. |Thursday, February 26, 2026 07:38:52 PM CET|
+ |[2026-001: Critical vulnerabilities in Ivanti EPMM](https://cert.europa.eu/publications/security-advisories/2026-001/)|On 29 January 2026, Ivanti released a security advisory addressing two critical vulnerabilities in their EPMM products. An attacker could exploit those flaws to achieve unauthenticated remote code execution on the vulnerable device. One of these vulnerabilities have been exploited in a limited number of cases.|Friday, January 30, 2026 10:09:06 AM CET|
  
 
 # HK-CERT
@@ -118,30 +144,20 @@
  |[Linux Kernel ETS Scheduler Race Condition Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-26-289/)|Visit link for details|2026-04-15|
  
 
-# OBS-Vigilance
+# MA-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[<a href="https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-dated-22-07-2025-47779" class="noirorange"><b>Mozilla Firefox  Thunderbird</b>: multiple vulnerabilities dated 22/07/2025</a>](https://vigilance.fr/vulnerability/Mozilla-Firefox-Thunderbird-multiple-vulnerabilities-dated-22-07-2025-47779)|An attacker can use several vulnerabilities of Mozilla Firefox  Thunderbird, dated 22/07/2025...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/PowerDNS-Recursor-Cache-poisoning-via-EDNS-Client-Subnet-47761" class="noirorange"><b>PowerDNS Recursor</b>: Cache poisoning via EDNS Client Subnet</a>](https://vigilance.fr/vulnerability/PowerDNS-Recursor-Cache-poisoning-via-EDNS-Client-Subnet-47761)|An attacker can poison the cache of PowerDNS Recursor, via EDNS Client Subnet, in order to hijack trafic...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Office-SharePoint-Server-privilege-escalation-dated-21-07-2025-47756" class="noirorange"><b>Microsoft Office SharePoint Server</b>: privilege escalation dated 21/07/2025</a>](https://vigilance.fr/vulnerability/Microsoft-Office-SharePoint-Server-privilege-escalation-dated-21-07-2025-47756)|An attacker can bypass restrictions of Microsoft Office SharePoint Server, dated 21/07/2025, in order to escalate his privileges...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Tor-information-disclosure-via-Memory-Compare-50359" class="noirorange"><b>Tor</b>: information disclosure via Memory Compare</a>](https://vigilance.fr/vulnerability/Tor-information-disclosure-via-Memory-Compare-50359)|An attacker can bypass access restrictions to data of Tor, via Memory Compare, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/libinput-information-disclosure-via-Lua-Plugin-Pointer-50354" class="noirorange"><b>libinput</b>: information disclosure via Lua Plugin Pointer</a>](https://vigilance.fr/vulnerability/libinput-information-disclosure-via-Lua-Plugin-Pointer-50354)|An attacker can bypass access restrictions to data of libinput, via Lua Plugin Pointer, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Keycloak-five-vulnerabilities-dated-20-02-2026-49759" class="noirorange"><b>Keycloak</b>: five vulnerabilities dated 20/02/2026</a>](https://vigilance.fr/vulnerability/Keycloak-five-vulnerabilities-dated-20-02-2026-49759)|An attacker can use several vulnerabilities of Keycloak, dated 20/02/2026...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/Microsoft-Teams-information-disclosure-dated-20-02-2026-49758" class="noirorange"><b>Microsoft Teams</b>: information disclosure dated 20/02/2026</a>](https://vigilance.fr/vulnerability/Microsoft-Teams-information-disclosure-dated-20-02-2026-49758)|An attacker can bypass access restrictions to data of Microsoft Teams, dated 20/02/2026, in order to read sensitive information...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GNU-InetUtils-privilege-escalation-via-telnetd-CREDENTIALS-DIRECTORY-49757" class="noirorange"><b>GNU InetUtils</b>: privilege escalation via telnetd CREDENTIALS_DIRECTORY</a>](https://vigilance.fr/vulnerability/GNU-InetUtils-privilege-escalation-via-telnetd-CREDENTIALS-DIRECTORY-49757)|An attacker can bypass restrictions of GNU InetUtils, via telnetd CREDENTIALS_|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GIMP-buffer-overflow-via-XWD-49755" class="noirorange"><b>GIMP</b>: buffer overflow via XWD</a>](https://vigilance.fr/vulnerability/GIMP-buffer-overflow-via-XWD-49755)|An attacker can trigger a buffer overflow of GIMP, via XWD, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- |[<a href="https://vigilance.fr/vulnerability/GIMP-buffer-overflow-via-ICNS-49754" class="noirorange"><b>GIMP</b>: buffer overflow via ICNS</a>](https://vigilance.fr/vulnerability/GIMP-buffer-overflow-via-ICNS-49754)|An attacker can trigger a buffer overflow of GIMP, via ICNS, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- 
-
-# EU-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[2026-004: Critical Vulnerability in SharePoint Exploited](https://cert.europa.eu/publications/security-advisories/2026-004/)|On 17 March 2026, Microsoft updated one of its January 2026 security advisories related to a remote code execution vulnerability in Microsoft SharePoint. Specifically, Microsoft raised the CVSS score and changed the FAQ section to indicate that the vulnerability could be exploited by an unauthenticated attacker. This vulnerability was added in the CISA's Known Exploited Vulnerabilities (KEV) catalogue on 18 March 2026.|Wednesday, March 25, 2026 08:51:39 AM CET|
- |[2026-003: Multiple Vulnerabilities in Citrix NetScaler and Citrix ADC](https://cert.europa.eu/publications/security-advisories/2026-003/)|On 23 March 2026, Citrix published a security advisory addressing multiple vulnerabilities affecting NetScaler ADC and NetScaler Gateway. These vulnerabilities may lead to sensitive information disclosure and user session mix-up under specific configurations.|Monday, March 23, 2026 07:03:59 PM CET|
- |[2026-002: Multiple Vulnerabilities in Cisco Products](https://cert.europa.eu/publications/security-advisories/2026-002/)|On 25 February 2026, Cisco released security advisories addressing multiple high and critical severity vulnerabilities in Cisco Catalyst SD-WAN controllers and Cisco SD-WAN Manager. If exploited, these vulnerabilities could allow attackers to gain administrative access to compromised systems. |Thursday, February 26, 2026 07:38:52 PM CET|
- |[2026-001: Critical vulnerabilities in Ivanti EPMM](https://cert.europa.eu/publications/security-advisories/2026-001/)|On 29 January 2026, Ivanti released a security advisory addressing two critical vulnerabilities in their EPMM products. An attacker could exploit those flaws to achieve unauthenticated remote code execution on the vulnerable device. One of these vulnerabilities have been exploited in a limited number of cases.|Friday, January 30, 2026 10:09:06 AM CET|
+ |[ 63482204/26 - Vulnérabilités critiques activement exploitée affectant Cisco Catalyst… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-activement-exploitee-affectant-cisco-catalyst-sd-wan-manager)| Trois vulnérabilités critiques affectant les versions susmentionnées de   Cisco Catalyst SD-WAN Manager et qui ont fait l’objet du bulletin de sécurité « 61462602/26 » de la DGSSI…| |
+ |[ 63472204/26 - Vulnérabilité affectant ASP.NET Core ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-aspnet-core)| Microsoft annonce la correction d’une vulnérabilité affectant les versions susmentionnées d’ASP.NET Core.  L'exploitation  de cette vulnérabilité peut permettre à un attaquant distant…| |
+ |[ 63462204/26 - Vulnérabilités dans GoAnywhere Managed File Transfer (MFT) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-goanywhere-managed-file-transfer-mft)| Fortra a publié un avis de sécurité concernant deux vulnérabilités affectant la solution de transfert de fichiers GoAnywhere MFT.Ces failles sont dues à l’absence de limitation des tentatives…| |
+ |[ 63452204/26 - Vulnérabilités critiques dans les produits Atlassian ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-atlassian-1)| Atlassian a publié des mises à jour de sécurité corrigeant plusieurs vulnérabilités affectant les produits susmentionnés. L’exploitation réussie de ces failles peut entraîner une exécution du code…| |
+ |[ 63442204/26 - “ Prometei ” malware ](https://www.dgssi.gov.ma/fr/bulletins/prometei-malware)|| |
+ |[ 63422204/26 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird-15)| Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant les versions susmentionnées de son client de messagerie Mozilla…| |
+ |[ 63412204/26 - Vulnérabilités affectant le navigateur Mozilla Firefox ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-mozilla-firefox-24)| Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la     correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox.…| |
+ |[ 63432204/26 - "Oracle Critical Patch Update" du Mois Avril 2026 ](https://www.dgssi.gov.ma/fr/bulletins/oracle-critical-patch-update-du-mois-avril-2026)| Oracle a publié son Critical Patch Update (CPU) d’avril 2026, corrigeant plusieurs vulnérabilités critiques affectant les produits susmentionnés.Certaines de ces vulnérabilités sont critiques et…| |
+ |[ 63402104/26 - Vulnérabilité critique activement exploitée affectant JetBrains TeamCity ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-activement-exploitee-affectant-jetbrains-teamcity)| Une vulnérabilité critique, activement exploitée, affectant les versions susmentionnées de JetBrains TeamCity a été corrigée. Son exploitation peut permettre à un attaquant distant non authentifié de…| |
+ |[ 63382104/26 - Vulnérabilité activement exploitée affectant Zimbra Collaboration ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-activement-exploitee-affectant-zimbra-collaboration)| Une vulnérabilité qui a fait l’objet du bulletin de sécurité «58130711/25 » de la DGSSI est activement exploitée. Cette vulnérabilité peut permettre à un attaquant d’injecter du contenu dans une…| |
  
 
 # CA-CCS
@@ -158,20 +174,4 @@
  |[Cisco security advisory (AV26-166) – Update 3](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av26-166)|Visit link for details|2026-04-20|
  |[Dell security advisory (AV26-366)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av26-366)|Visit link for details|2026-04-20|
  |[Progress security advisory (AV26-371)](https://www.cyber.gc.ca/en/alerts-advisories/progress-security-advisory-av26-371)|Visit link for details|2026-04-20|
- 
-
-# MA-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[ 63482204/26 - Vulnérabilités critiques activement exploitée affectant Cisco Catalyst… ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-activement-exploitee-affectant-cisco-catalyst-sd-wan-manager)| Trois vulnérabilités critiques affectant les versions susmentionnées de   Cisco Catalyst SD-WAN Manager et qui ont fait l’objet du bulletin de sécurité « 61462602/26 » de la DGSSI…| |
- |[ 63472204/26 - Vulnérabilité affectant ASP.NET Core ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-aspnet-core)| Microsoft annonce la correction d’une vulnérabilité affectant les versions susmentionnées d’ASP.NET Core.  L'exploitation  de cette vulnérabilité peut permettre à un attaquant distant…| |
- |[ 63462204/26 - Vulnérabilités dans GoAnywhere Managed File Transfer (MFT) ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-goanywhere-managed-file-transfer-mft)| Fortra a publié un avis de sécurité concernant deux vulnérabilités affectant la solution de transfert de fichiers GoAnywhere MFT.Ces failles sont dues à l’absence de limitation des tentatives…| |
- |[ 63452204/26 - Vulnérabilités critiques dans les produits Atlassian ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-atlassian-1)| Atlassian a publié des mises à jour de sécurité corrigeant plusieurs vulnérabilités affectant les produits susmentionnés. L’exploitation réussie de ces failles peut entraîner une exécution du code…| |
- |[ 63442204/26 - “ Prometei ” malware ](https://www.dgssi.gov.ma/fr/bulletins/prometei-malware)|| |
- |[ 63422204/26 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird-15)| Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant les versions susmentionnées de son client de messagerie Mozilla…| |
- |[ 63412204/26 - Vulnérabilités affectant le navigateur Mozilla Firefox ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-mozilla-firefox-24)| Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la     correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox.…| |
- |[ 63432204/26 - "Oracle Critical Patch Update" du Mois Avril 2026 ](https://www.dgssi.gov.ma/fr/bulletins/oracle-critical-patch-update-du-mois-avril-2026)| Oracle a publié son Critical Patch Update (CPU) d’avril 2026, corrigeant plusieurs vulnérabilités critiques affectant les produits susmentionnés.Certaines de ces vulnérabilités sont critiques et…| |
- |[ 63402104/26 - Vulnérabilité critique activement exploitée affectant JetBrains TeamCity ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-activement-exploitee-affectant-jetbrains-teamcity)| Une vulnérabilité critique, activement exploitée, affectant les versions susmentionnées de JetBrains TeamCity a été corrigée. Son exploitation peut permettre à un attaquant distant non authentifié de…| |
- |[ 63382104/26 - Vulnérabilité activement exploitée affectant Zimbra Collaboration ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-activement-exploitee-affectant-zimbra-collaboration)| Une vulnérabilité qui a fait l’objet du bulletin de sécurité «58130711/25 » de la DGSSI est activement exploitée. Cette vulnérabilité peut permettre à un attaquant d’injecter du contenu dans une…| |
  
