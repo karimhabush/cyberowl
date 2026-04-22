@@ -5,7 +5,7 @@ import { defineUserConfig } from '@vuepress/cli'
 import { defaultTheme } from '@vuepress/theme-default'
 import { getDirname, path } from '@vuepress/utils'
 import { searchPlugin } from '@vuepress/plugin-search'
-import googleAnalyticsPlugin from '@vuepress/plugin-google-analytics'
+import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics'
 import { docsearchPlugin } from '@vuepress/plugin-docsearch'
 import registerComponentsPlugin from '@vuepress/plugin-register-components'
 
