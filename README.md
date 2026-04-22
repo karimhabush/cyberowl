@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 22/04/2026 17:09:39 UTC
+ > Last Updated 22/04/2026 17:23:03 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -25,6 +25,22 @@
  
  > Suggest a source by opening an [issue](https://github.com/karimhabush/cyberowl/issues)! :raised_hands:
 
+# US-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CISA Adds Eight Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/20/cisa-adds-eight-known-exploited-vulnerabilities-catalog)|Visit link for details.|Apr 20, 2026|
+ |[​​Supply Chain Compromise Impacts Axios Node Package Manager​ ](https://www.cisa.gov/news-events/alerts/2026/04/20/supply-chain-compromise-impacts-axios-node-package-manager)|Visit link for details.|Apr 20, 2026|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/16/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Apr 16, 2026|
+ |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/14/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Apr 14, 2026|
+ |[CISA Adds Seven Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/13/cisa-adds-seven-known-exploited-vulnerabilities-catalog)|Visit link for details.|Apr 13, 2026|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/08/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Apr 08, 2026|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/06/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Apr 06, 2026|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/02/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Apr 02, 2026|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/01/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Apr 01, 2026|
+ |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/03/30/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Mar 30, 2026|
+ 
+
 # CERT-FR
 
  |Title|Description|Date|
@@ -41,20 +57,20 @@
  |[Multiples vulnérabilités dans Oracle Systems](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0471/)|De multiples vulnérabilités ont été découvertes dans Oracle Systems. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service.|Publié le 22 avril 2026|
  
 
-# US-CERT
+# IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[CISA Adds Eight Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/20/cisa-adds-eight-known-exploited-vulnerabilities-catalog)|Visit link for details.|Apr 20, 2026|
- |[​​Supply Chain Compromise Impacts Axios Node Package Manager​ ](https://www.cisa.gov/news-events/alerts/2026/04/20/supply-chain-compromise-impacts-axios-node-package-manager)|Visit link for details.|Apr 20, 2026|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/16/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Apr 16, 2026|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/14/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Apr 14, 2026|
- |[CISA Adds Seven Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/13/cisa-adds-seven-known-exploited-vulnerabilities-catalog)|Visit link for details.|Apr 13, 2026|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/08/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Apr 08, 2026|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/06/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Apr 06, 2026|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/02/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Apr 02, 2026|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/01/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Apr 01, 2026|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/03/30/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Mar 30, 2026|
+ |[Gallagher Website Design <= 2.6.4 - Authenticated (Contributor+) Stored Cross-Site Scripting via 'prefix' Shortcode Attribute (CVE-2026-1913)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 22, 2026|
+ |[Gutentools <= 1.1.3 - Authenticated (Contributor+) Stored Cross-Site Scripting via Post Slider Block Attributes (CVE-2026-1395)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 22, 2026|
+ |[Emailchef <= 3.5.1 - Missing Authorization to Authenticated (Subscriber+) Arbitrary Plugin Settings Deletion (CVE-2026-1930)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 22, 2026|
+ |[Nano: nano: format string vulnerability leads to denial of service (CVE-2026-6843)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 22, 2026|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # VulDB
@@ -73,20 +89,20 @@
  |[CVE-2026-35361  Uutils coreutils up to 0.5.x Mknod Utility std::fs permissions](https://vuldb.com/vuln/359013)|A vulnerability labeled as <a href="https://vuldb.com/kb/risk">critical</a> has been found in <a href="https://vuldb.com/product/uutils:coreutils">Uutils coreutils up to 0.5.x</a>. Impacted is the fun|Wed, 22 Apr 2026 18:53:11 +0200|
  
 
-# IBM-X-FORCE-EXCHANGE
+# HK-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Gallagher Website Design <= 2.6.4 - Authenticated (Contributor+) Stored Cross-Site Scripting via 'prefix' Shortcode Attribute (CVE-2026-1913)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 22, 2026|
- |[Gutentools <= 1.1.3 - Authenticated (Contributor+) Stored Cross-Site Scripting via Post Slider Block Attributes (CVE-2026-1395)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 22, 2026|
- |[Emailchef <= 3.5.1 - Missing Authorization to Authenticated (Subscriber+) Arbitrary Plugin Settings Deletion (CVE-2026-1930)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 22, 2026|
- |[Nano: nano: format string vulnerability leads to denial of service (CVE-2026-6843)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 22, 2026|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20260422)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass, spoofing and sensitive information disclosure on the targeted system.|Release Date: 22 Apr 2026 |
+ |[Oracle Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/oracle-products-multiple-vulnerabilities_20260422)|Multiple vulnerabilities were identified in Oracle Products, a remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system....|Release Date: 22 Apr 2026 |
+ |[PaperCut Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/papercut-multiple-vulnerabilities_20260421)|Multiple vulnerabilities were identified in PaperCut. A remote attacker could exploit these vulnerabilities to trigger security restriction bypass and remote code execution on the targeted system. Note:CVE-2023-27351 is being exploited in the wild. A remote attacker could leverage this...|Release Date: 21 Apr 2026 |
+ |[Zimbra Collaboration Suite Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/zimbra-collaboration-suite-cross-site-scripting-vulnerability_20260421)|A vulnerability has been identified in Zimbra Collaboration Suite. A remote attacker could exploit this vulnerability to trigger cross-site scripting and sensitive information disclosure the targeted system. Note:CVE-2025-48700 is being exploited in the wild. This vulnerability could allow...|Release Date: 21 Apr 2026 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20260408)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, security restriction bypass and data manipulation on the targeted system. [Updated on 2026-04-10]Updated System...| Release Date: 8 Apr 2026 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20260401)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, remote code execution, data manipulation, denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on...| Release Date: 1 Apr 2026 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20260420)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, denial of service condition, security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 20 Apr 2026 |
+ |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20260417)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, cross-site scripting and security restriction bypass on the targeted system.|Release Date: 17 Apr 2026 |
+ |[Microsoft Monthly Security Update (April 2026)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-april-2026)|[Updated on 2026-04-17]Updated Description.Proof of Concept exploit code is publicly available for CVE-2026-33825 . Insufficient granularity of access control in Microsoft Defender allows an authorized attacker to elevate privileges locally.  Microsoft has released monthly security...| Release Date: 15 Apr 2026 |
+ |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20260408)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, denial of service condition, remote code execution, security restriction bypass and elevation of privilege on the targeted system.  [Updated on 2026-04...| Release Date: 8 Apr 2026 |
  
 
 # OBS-Vigilance
@@ -113,22 +129,6 @@
  |[2026-003: Multiple Vulnerabilities in Citrix NetScaler and Citrix ADC](https://cert.europa.eu/publications/security-advisories/2026-003/)|On 23 March 2026, Citrix published a security advisory addressing multiple vulnerabilities affecting NetScaler ADC and NetScaler Gateway. These vulnerabilities may lead to sensitive information disclosure and user session mix-up under specific configurations.|Monday, March 23, 2026 07:03:59 PM CET|
  |[2026-002: Multiple Vulnerabilities in Cisco Products](https://cert.europa.eu/publications/security-advisories/2026-002/)|On 25 February 2026, Cisco released security advisories addressing multiple high and critical severity vulnerabilities in Cisco Catalyst SD-WAN controllers and Cisco SD-WAN Manager. If exploited, these vulnerabilities could allow attackers to gain administrative access to compromised systems. |Thursday, February 26, 2026 07:38:52 PM CET|
  |[2026-001: Critical vulnerabilities in Ivanti EPMM](https://cert.europa.eu/publications/security-advisories/2026-001/)|On 29 January 2026, Ivanti released a security advisory addressing two critical vulnerabilities in their EPMM products. An attacker could exploit those flaws to achieve unauthenticated remote code execution on the vulnerable device. One of these vulnerabilities have been exploited in a limited number of cases.|Friday, January 30, 2026 10:09:06 AM CET|
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20260422)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass, spoofing and sensitive information disclosure on the targeted system.|Release Date: 22 Apr 2026 |
- |[Oracle Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/oracle-products-multiple-vulnerabilities_20260422)|Multiple vulnerabilities were identified in Oracle Products, a remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system....|Release Date: 22 Apr 2026 |
- |[PaperCut Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/papercut-multiple-vulnerabilities_20260421)|Multiple vulnerabilities were identified in PaperCut. A remote attacker could exploit these vulnerabilities to trigger security restriction bypass and remote code execution on the targeted system. Note:CVE-2023-27351 is being exploited in the wild. A remote attacker could leverage this...|Release Date: 21 Apr 2026 |
- |[Zimbra Collaboration Suite Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/zimbra-collaboration-suite-cross-site-scripting-vulnerability_20260421)|A vulnerability has been identified in Zimbra Collaboration Suite. A remote attacker could exploit this vulnerability to trigger cross-site scripting and sensitive information disclosure the targeted system. Note:CVE-2025-48700 is being exploited in the wild. This vulnerability could allow...|Release Date: 21 Apr 2026 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20260408)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, security restriction bypass and data manipulation on the targeted system. [Updated on 2026-04-10]Updated System...| Release Date: 8 Apr 2026 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20260401)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, remote code execution, data manipulation, denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on...| Release Date: 1 Apr 2026 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20260420)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, denial of service condition, security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 20 Apr 2026 |
- |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20260417)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, cross-site scripting and security restriction bypass on the targeted system.|Release Date: 17 Apr 2026 |
- |[Microsoft Monthly Security Update (April 2026)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-april-2026)|[Updated on 2026-04-17]Updated Description.Proof of Concept exploit code is publicly available for CVE-2026-33825 . Insufficient granularity of access control in Microsoft Defender allows an authorized attacker to elevate privileges locally.  Microsoft has released monthly security...| Release Date: 15 Apr 2026 |
- |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20260408)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, denial of service condition, remote code execution, security restriction bypass and elevation of privilege on the targeted system.  [Updated on 2026-04...| Release Date: 8 Apr 2026 |
  
 
 # CA-CCS
