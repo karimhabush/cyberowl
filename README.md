@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 22/04/2026 17:06:04 UTC
+ > Last Updated 22/04/2026 17:09:39 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -57,15 +57,31 @@
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/03/30/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Mar 30, 2026|
  
 
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CVE-2026-35371  Uutils coreutils Id Utility clickjacking](https://vuldb.com/vuln/359022)|A vulnerability was found in <a href="https://vuldb.com/product/uutils:coreutils">Uutils coreutils</a>. It has been classified as <a href="https://vuldb.com/kb/risk">problematic</a>. This vulnerabilit|Wed, 22 Apr 2026 19:02:53 +0200|
+ |[CVE-2026-1660  GitLab Community Edition/Enterprise Edition up to 18.9.5/18.10.3/18.11.0 allocation of resources](https://vuldb.com/vuln/359021)|A vulnerability was found in <a href="https://vuldb.com/product/gitlab:community_edition">GitLab Community Edition and Enterprise Edition up to 18.9.5/18.10.3/18.11.0</a> and classified as <a href="ht|Wed, 22 Apr 2026 19:00:48 +0200|
+ |[CVE-2025-9957  GitLab Community Edition/Enterprise Edition up to 18.9.5/18.10.3/18.11.0 authorization](https://vuldb.com/vuln/359020)|A vulnerability has been found in <a href="https://vuldb.com/product/gitlab:community_edition">GitLab Community Edition and Enterprise Edition up to 18.9.5/18.10.3/18.11.0</a> and classified as <a hre|Wed, 22 Apr 2026 19:00:42 +0200|
+ |[CVE-2026-35353  Uutils coreutils up to 0.5.x Mkdir Utility toctou](https://vuldb.com/vuln/359019)|A vulnerability, which was classified as <a href="https://vuldb.com/kb/risk">problematic</a>, was found in <a href="https://vuldb.com/product/uutils:coreutils">Uutils coreutils up to 0.5.x</a>. Affect|Wed, 22 Apr 2026 18:58:51 +0200|
+ |[CVE-2026-35360  Uutils coreutils Touch Utility File::create toctou](https://vuldb.com/vuln/359018)|A vulnerability, which was classified as <a href="https://vuldb.com/kb/risk">problematic</a>, has been found in <a href="https://vuldb.com/product/uutils:coreutils">Uutils coreutils</a>. Affected is t|Wed, 22 Apr 2026 18:55:47 +0200|
+ |[CVE-2026-35363  Uutils coreutils Rm Utility path traversal](https://vuldb.com/vuln/359017)|A vulnerability classified as <a href="https://vuldb.com/kb/risk">critical</a> was found in <a href="https://vuldb.com/product/uutils:coreutils">Uutils coreutils</a>. This impacts an unknown function |Wed, 22 Apr 2026 18:55:39 +0200|
+ |[CVE-2026-35380  Uutils coreutils up to 0.7.x Cut Utility input validation](https://vuldb.com/vuln/359016)|A vulnerability classified as <a href="https://vuldb.com/kb/risk">problematic</a> has been found in <a href="https://vuldb.com/product/uutils:coreutils">Uutils coreutils up to 0.7.x</a>. This affects |Wed, 22 Apr 2026 18:53:34 +0200|
+ |[CVE-2026-35368  Uutils coreutils chroot utility getpwnam untrusted search path](https://vuldb.com/vuln/359015)|A vulnerability described as <a href="https://vuldb.com/kb/risk">problematic</a> has been identified in <a href="https://vuldb.com/product/uutils:coreutils">Uutils coreutils</a>. The impacted element |Wed, 22 Apr 2026 18:53:28 +0200|
+ |[CVE-2026-35366  Uutils coreutils up to 0.5.x Printenv Utility unusual condition](https://vuldb.com/vuln/359014)|A vulnerability marked as <a href="https://vuldb.com/kb/risk">problematic</a> has been reported in <a href="https://vuldb.com/product/uutils:coreutils">Uutils coreutils up to 0.5.x</a>. The affected e|Wed, 22 Apr 2026 18:53:20 +0200|
+ |[CVE-2026-35361  Uutils coreutils up to 0.5.x Mknod Utility std::fs permissions](https://vuldb.com/vuln/359013)|A vulnerability labeled as <a href="https://vuldb.com/kb/risk">critical</a> has been found in <a href="https://vuldb.com/product/uutils:coreutils">Uutils coreutils up to 0.5.x</a>. Impacted is the fun|Wed, 22 Apr 2026 18:53:11 +0200|
+ 
+
 # IBM-X-FORCE-EXCHANGE
 
  |Title|Description|Date|
  |---|---|---|
- |[New vulnerability](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 22, 2026|
- |[New vulnerability](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 22, 2026|
- |[New vulnerability](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 22, 2026|
- |[New vulnerability](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 22, 2026|
- |[New vulnerability](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 22, 2026|
+ |[Gallagher Website Design <= 2.6.4 - Authenticated (Contributor+) Stored Cross-Site Scripting via 'prefix' Shortcode Attribute (CVE-2026-1913)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 22, 2026|
+ |[Gutentools <= 1.1.3 - Authenticated (Contributor+) Stored Cross-Site Scripting via Post Slider Block Attributes (CVE-2026-1395)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 22, 2026|
+ |[Emailchef <= 3.5.1 - Missing Authorization to Authenticated (Subscriber+) Arbitrary Plugin Settings Deletion (CVE-2026-1930)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 22, 2026|
+ |[Nano: nano: format string vulnerability leads to denial of service (CVE-2026-6843)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 22, 2026|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
@@ -87,22 +103,6 @@
  |[<a href="https://vigilance.fr/vulnerability/GNU-InetUtils-privilege-escalation-via-telnetd-CREDENTIALS-DIRECTORY-49757" class="noirorange"><b>GNU InetUtils</b>: privilege escalation via telnetd CREDENTIALS_DIRECTORY</a>](https://vigilance.fr/vulnerability/GNU-InetUtils-privilege-escalation-via-telnetd-CREDENTIALS-DIRECTORY-49757)|An attacker can bypass restrictions of GNU InetUtils, via telnetd CREDENTIALS_|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GIMP-buffer-overflow-via-XWD-49755" class="noirorange"><b>GIMP</b>: buffer overflow via XWD</a>](https://vigilance.fr/vulnerability/GIMP-buffer-overflow-via-XWD-49755)|An attacker can trigger a buffer overflow of GIMP, via XWD, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
  |[<a href="https://vigilance.fr/vulnerability/GIMP-buffer-overflow-via-ICNS-49754" class="noirorange"><b>GIMP</b>: buffer overflow via ICNS</a>](https://vigilance.fr/vulnerability/GIMP-buffer-overflow-via-ICNS-49754)|An attacker can trigger a buffer overflow of GIMP, via ICNS, in order to trigger a denial of service, and possibly to run code...|Visit link for details|
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- |[CVE-2026-35371  Uutils coreutils Id Utility clickjacking](https://vuldb.com/vuln/359022)|A vulnerability was found in <a href="https://vuldb.com/product/uutils:coreutils">Uutils coreutils</a>. It has been classified as <a href="https://vuldb.com/kb/risk">problematic</a>. This vulnerabilit|Wed, 22 Apr 2026 19:02:53 +0200|
- |[CVE-2026-1660  GitLab Community Edition/Enterprise Edition up to 18.9.5/18.10.3/18.11.0 allocation of resources](https://vuldb.com/vuln/359021)|A vulnerability was found in <a href="https://vuldb.com/product/gitlab:community_edition">GitLab Community Edition and Enterprise Edition up to 18.9.5/18.10.3/18.11.0</a> and classified as <a href="ht|Wed, 22 Apr 2026 19:00:48 +0200|
- |[CVE-2025-9957  GitLab Community Edition/Enterprise Edition up to 18.9.5/18.10.3/18.11.0 authorization](https://vuldb.com/vuln/359020)|A vulnerability has been found in <a href="https://vuldb.com/product/gitlab:community_edition">GitLab Community Edition and Enterprise Edition up to 18.9.5/18.10.3/18.11.0</a> and classified as <a hre|Wed, 22 Apr 2026 19:00:42 +0200|
- |[CVE-2026-35353  Uutils coreutils up to 0.5.x Mkdir Utility toctou](https://vuldb.com/vuln/359019)|A vulnerability, which was classified as <a href="https://vuldb.com/kb/risk">problematic</a>, was found in <a href="https://vuldb.com/product/uutils:coreutils">Uutils coreutils up to 0.5.x</a>. Affect|Wed, 22 Apr 2026 18:58:51 +0200|
- |[CVE-2026-35360  Uutils coreutils Touch Utility File::create toctou](https://vuldb.com/vuln/359018)|A vulnerability, which was classified as <a href="https://vuldb.com/kb/risk">problematic</a>, has been found in <a href="https://vuldb.com/product/uutils:coreutils">Uutils coreutils</a>. Affected is t|Wed, 22 Apr 2026 18:55:47 +0200|
- |[CVE-2026-35363  Uutils coreutils Rm Utility path traversal](https://vuldb.com/vuln/359017)|A vulnerability classified as <a href="https://vuldb.com/kb/risk">critical</a> was found in <a href="https://vuldb.com/product/uutils:coreutils">Uutils coreutils</a>. This impacts an unknown function |Wed, 22 Apr 2026 18:55:39 +0200|
- |[CVE-2026-35380  Uutils coreutils up to 0.7.x Cut Utility input validation](https://vuldb.com/vuln/359016)|A vulnerability classified as <a href="https://vuldb.com/kb/risk">problematic</a> has been found in <a href="https://vuldb.com/product/uutils:coreutils">Uutils coreutils up to 0.7.x</a>. This affects |Wed, 22 Apr 2026 18:53:34 +0200|
- |[CVE-2026-35368  Uutils coreutils chroot utility getpwnam untrusted search path](https://vuldb.com/vuln/359015)|A vulnerability described as <a href="https://vuldb.com/kb/risk">problematic</a> has been identified in <a href="https://vuldb.com/product/uutils:coreutils">Uutils coreutils</a>. The impacted element |Wed, 22 Apr 2026 18:53:28 +0200|
- |[CVE-2026-35366  Uutils coreutils up to 0.5.x Printenv Utility unusual condition](https://vuldb.com/vuln/359014)|A vulnerability marked as <a href="https://vuldb.com/kb/risk">problematic</a> has been reported in <a href="https://vuldb.com/product/uutils:coreutils">Uutils coreutils up to 0.5.x</a>. The affected e|Wed, 22 Apr 2026 18:53:20 +0200|
- |[CVE-2026-35361  Uutils coreutils up to 0.5.x Mknod Utility std::fs permissions](https://vuldb.com/vuln/359013)|A vulnerability labeled as <a href="https://vuldb.com/kb/risk">critical</a> has been found in <a href="https://vuldb.com/product/uutils:coreutils">Uutils coreutils up to 0.5.x</a>. Impacted is the fun|Wed, 22 Apr 2026 18:53:11 +0200|
  
 
 # EU-CERT
@@ -129,6 +129,22 @@
  |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20260417)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, cross-site scripting and security restriction bypass on the targeted system.|Release Date: 17 Apr 2026 |
  |[Microsoft Monthly Security Update (April 2026)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-april-2026)|[Updated on 2026-04-17]Updated Description.Proof of Concept exploit code is publicly available for CVE-2026-33825 . Insufficient granularity of access control in Microsoft Defender allows an authorized attacker to elevate privileges locally.  Microsoft has released monthly security...| Release Date: 15 Apr 2026 |
  |[Ubuntu Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20260408)|Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, denial of service condition, remote code execution, security restriction bypass and elevation of privilege on the targeted system.  [Updated on 2026-04...| Release Date: 8 Apr 2026 |
+ 
+
+# CA-CCS
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[[Control Systems] Phoenix Contact Security Advisory (AV26-378)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-phoenix-contact-security-advisory-av26-378)|Visit link for details|2026-04-22|
+ |[Microsoft security advisory (AV26-377)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-av26-377)|Visit link for details|2026-04-22|
+ |[GitLab security advisory (AV26-376)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av26-376)|Visit link for details|2026-04-22|
+ |[Atlassian security advisory (AV26-375)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av26-375)|Visit link for details|2026-04-21|
+ |[Fortra security advisory (AV26-374)](https://www.cyber.gc.ca/en/alerts-advisories/fortra-security-advisory-av26-374)|Visit link for details|2026-04-21|
+ |[Spring security advisory (AV26-373)](https://www.cyber.gc.ca/en/alerts-advisories/spring-security-advisory-av26-373)|Visit link for details|2026-04-21|
+ |[Mozilla security advisory (AV26-372)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av26-372)|Visit link for details|2026-04-21|
+ |[Cisco security advisory (AV26-166) – Update 3](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av26-166)|Visit link for details|2026-04-20|
+ |[Dell security advisory (AV26-366)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av26-366)|Visit link for details|2026-04-20|
+ |[Progress security advisory (AV26-371)](https://www.cyber.gc.ca/en/alerts-advisories/progress-security-advisory-av26-371)|Visit link for details|2026-04-20|
  
 
 # ZERODAYINITIATIVE
@@ -158,20 +174,4 @@
  |[ 63432204/26 - "Oracle Critical Patch Update" du Mois Avril 2026 ](https://www.dgssi.gov.ma/fr/bulletins/oracle-critical-patch-update-du-mois-avril-2026)| Oracle a publié son Critical Patch Update (CPU) d’avril 2026, corrigeant plusieurs vulnérabilités critiques affectant les produits susmentionnés.Certaines de ces vulnérabilités sont critiques et…| |
  |[ 63402104/26 - Vulnérabilité critique activement exploitée affectant JetBrains TeamCity ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-activement-exploitee-affectant-jetbrains-teamcity)| Une vulnérabilité critique, activement exploitée, affectant les versions susmentionnées de JetBrains TeamCity a été corrigée. Son exploitation peut permettre à un attaquant distant non authentifié de…| |
  |[ 63382104/26 - Vulnérabilité activement exploitée affectant Zimbra Collaboration ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-activement-exploitee-affectant-zimbra-collaboration)| Une vulnérabilité qui a fait l’objet du bulletin de sécurité «58130711/25 » de la DGSSI est activement exploitée. Cette vulnérabilité peut permettre à un attaquant d’injecter du contenu dans une…| |
- 
-
-# CA-CCS
-
- |Title|Description|Date|
- |---|---|---|
- |[[Control Systems] Phoenix Contact Security Advisory (AV26-378)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-phoenix-contact-security-advisory-av26-378)|Visit link for details|2026-04-22|
- |[Microsoft security advisory (AV26-377)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-av26-377)|Visit link for details|2026-04-22|
- |[GitLab security advisory (AV26-376)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av26-376)|Visit link for details|2026-04-22|
- |[Atlassian security advisory (AV26-375)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av26-375)|Visit link for details|2026-04-21|
- |[Fortra security advisory (AV26-374)](https://www.cyber.gc.ca/en/alerts-advisories/fortra-security-advisory-av26-374)|Visit link for details|2026-04-21|
- |[Spring security advisory (AV26-373)](https://www.cyber.gc.ca/en/alerts-advisories/spring-security-advisory-av26-373)|Visit link for details|2026-04-21|
- |[Mozilla security advisory (AV26-372)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av26-372)|Visit link for details|2026-04-21|
- |[Cisco security advisory (AV26-166) – Update 3](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av26-166)|Visit link for details|2026-04-20|
- |[Dell security advisory (AV26-366)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av26-366)|Visit link for details|2026-04-20|
- |[Progress security advisory (AV26-371)](https://www.cyber.gc.ca/en/alerts-advisories/progress-security-advisory-av26-371)|Visit link for details|2026-04-20|
  
