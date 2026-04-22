@@ -32,7 +32,7 @@ class CaCCSSpider(scrapy.Spider):
     name = "CA-CCS"
     max_bulletins = 10
     start_urls = ["https://cyber.gc.ca/en/alerts-advisories"]
-    block_selector = "descendant-or-self::table/tbody/tr"
+    block_selector = "//table/tbody/tr"
     link_selector = ".//a"
     title_selector = ".//a"
     date_selector = "./td[contains(@class,'sorting_1')]"
@@ -40,14 +40,13 @@ class CaCCSSpider(scrapy.Spider):
 
     def __init__(self):
         options = Options()
-        options.add_argument("headless")
-        options.add_argument("disable-gpu")
-        self.driver = webdriver.Chrome(
-            executable_path="/usr/bin/chromedriver", options=options
-        )
+        options.add_argument("--headless")
+        options.add_argument("--disable-gpu")
+        options.add_argument("--no-sandbox")
+        self.driver = webdriver.Chrome(options=options)
 
     def _wait_until_website_is_ready(self) -> None:
-        wait = WebDriverWait(self.driver, 5)
+        wait = WebDriverWait(self.driver, 10)
         wait.until(
             EC.presence_of_element_located(
                 (
@@ -63,17 +62,21 @@ class CaCCSSpider(scrapy.Spider):
         self._wait_until_website_is_ready()
 
         for idx, bulletin in enumerate(
-            self.driver.find_elements_by_xpath(self.block_selector)
+            self.driver.find_elements(By.XPATH, self.block_selector)
         ):
-            if idx > self.max_bulletins:
+            if idx >= self.max_bulletins:
                 break
 
             item = AlertItem()
-            item["link"] = bulletin.find_element_by_xpath(
-                self.link_selector
+            item["link"] = bulletin.find_element(
+                By.XPATH, self.link_selector
             ).get_attribute("href")
-            item["date"] = bulletin.find_element_by_xpath(self.date_selector).text
-            item["title"] = bulletin.find_element_by_xpath(self.title_selector).text
+            item["date"] = bulletin.find_element(By.XPATH, self.date_selector).text
+            item["title"] = bulletin.find_element(By.XPATH, self.title_selector).text
             item["description"] = "Visit link for details"
 
             yield item
+
+    def closed(self, reason):
+        if hasattr(self, "driver"):
+            self.driver.quit()

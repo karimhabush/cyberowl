@@ -1,34 +1,30 @@
 name: auto_update_cron_job
 
 on:
-  #schedule: # Runs every hour at 0 minutes
-   # - cron: '0 * * * *'
+  schedule:
+    - cron: '0 15 * * *'  # Runs daily at 15:00 UTC
   workflow_dispatch:
 
 jobs:
   run-and-commit:
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        vmSize: [2]
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
-            fetch-depth: 1
-      - uses: actions/setup-python@v4
+          fetch-depth: 1
+      - uses: actions/setup-python@v5
         with:
-          python-version: '3.9'
-          architecture: 'x64'
+          python-version: '3.11'
       - name: Cache Poetry
-        uses: actions/cache@v2
+        uses: actions/cache@v4
         with:
           path: ~/.cache/pypoetry
           key: ${{ runner.os }}-poetry-${{ hashFiles('**/pyproject.toml') }}
           restore-keys: |
             ${{ runner.os }}-poetry-
       - name: Cache Python dependencies
-        uses: actions/cache@v2
+        uses: actions/cache@v4
         with:
           path: .venv
           key: ${{ runner.os }}-venv-${{ hashFiles('**/poetry.lock') }}
@@ -37,24 +33,14 @@ jobs:
       - run: python -m pip install poetry
       - run: python -m poetry config virtualenvs.in-project true && python -m poetry install
       - name: Set up Chrome and ChromeDriver
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y unzip xvfb libxi6 libgconf-2-4
-          sudo apt-get install -y google-chrome-stable
-          CHROME_VERSION=$(google-chrome --version | awk '{print $3}' | cut -d '.' -f 1)
-          CHROMEDRIVER_VERSION=$(curl -s "https://chromedriver.storage.googleapis.com/LATEST_RELEASE_$CHROME_VERSION")
-          wget "https://chromedriver.storage.googleapis.com/$CHROMEDRIVER_VERSION/chromedriver_linux64.zip"
-          unzip chromedriver_linux64.zip
-          sudo mv chromedriver /usr/bin/chromedriver
-          sudo chown root:root /usr/bin/chromedriver
-          sudo chmod +x /usr/bin/chromedriver
-          rm chromedriver_linux64.zip
+        uses: browser-actions/setup-chrome@v1
+        with:
+          chrome-version: stable
       - run: python -m poetry run python src/cyberowl/main.py
       - name: Setup git config
         run: |
           git config user.name "CyberOwl Bot"
           git config user.email "<>"
-
       - name: Commit
         run: |
           git add src/cyberowl README.md docs/
@@ -64,3 +50,29 @@ jobs:
             git commit -m "Automatic update with GitHub Actions"
             git push origin ${GITHUB_REF##*/}
           fi
+
+  deploy:
+    needs: run-and-commit
+    runs-on: ubuntu-latest
+    permissions:
+      id-token: write
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref }}
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+      - run: npm install
+      - name: Build
+        env:
+          GA_ID: ${{ secrets.GA_ID }}
+        run: npm run docs:build
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          role-to-assume: ${{ secrets.AWS_ROLE_TO_ASSUME }}
+          aws-region: ${{ secrets.AWS_REGION }}
+      - name: Deploy to S3
+        run: aws s3 sync ./docs/.vuepress/dist s3://${{ secrets.AWS_S3_BUCKET_NAME }} --delete

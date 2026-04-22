@@ -3,6 +3,8 @@
     https://www.zerodayinitiative.com/advisories/published/
 """
 
+from datetime import date
+
 import scrapy
 from items import AlertItem
 from selenium import webdriver
@@ -31,31 +33,33 @@ class ZDISpider(scrapy.Spider):
 
     name = "ZERODAYINITIATIVE"
     max_bulletins = 7
-    start_urls = ["https://www.zerodayinitiative.com/advisories/published/2022/"]
-    block_selector = "descendant-or-self::table[contains(@class,'table')]/tbody/tr"
-    link_selector = ".//a"
-    title_selector = ".//a"
+    block_selector = "//table[contains(@class,'table')]/tbody/tr[@id='publishedAdvisories']"
+    link_selector = ".//td[contains(@class,'sort-td')]/a"
+    title_selector = ".//td[contains(@class,'sort-td')]/a"
     date_selector = ".//td[6]"
     description_selector = ""
 
+    @property
+    def start_urls(self):
+        return [f"https://www.zerodayinitiative.com/advisories/published/{date.today().year}/"]
+
     def __init__(self):
         options = Options()
-        options.add_argument("headless")
-        options.add_argument("disable-gpu")
-        self.driver = webdriver.Chrome(
-            executable_path="/usr/bin/chromedriver", options=options
-        )
+        options.add_argument("--headless")
+        options.add_argument("--disable-gpu")
+        options.add_argument("--no-sandbox")
+        self.driver = webdriver.Chrome(options=options)
 
     def _wait_until_website_is_ready(self) -> None:
         """
         Wait until website is ready.
         """
-        wait = WebDriverWait(self.driver, 5)
+        wait = WebDriverWait(self.driver, 10)
         wait.until(
             EC.presence_of_element_located(
                 (
                     By.XPATH,
-                    self.block_selector,
+                    "//tr[@id='publishedAdvisories']",
                 )
             )
         )
@@ -66,17 +70,21 @@ class ZDISpider(scrapy.Spider):
         self._wait_until_website_is_ready()
 
         for idx, bulletin in enumerate(
-            self.driver.find_elements_by_xpath(self.block_selector)
+            self.driver.find_elements(By.XPATH, self.block_selector)
         ):
-            if idx > self.max_bulletins:
+            if idx >= self.max_bulletins:
                 break
 
             item = AlertItem()
-            item["link"] = bulletin.find_element_by_xpath(
-                self.link_selector
+            item["link"] = bulletin.find_element(
+                By.XPATH, self.link_selector
             ).get_attribute("href")
-            item["date"] = bulletin.find_element_by_xpath(self.date_selector).text
-            item["title"] = bulletin.find_element_by_xpath(self.link_selector).text
+            item["date"] = bulletin.find_element(By.XPATH, self.date_selector).text
+            item["title"] = bulletin.find_element(By.XPATH, self.link_selector).text
             item["description"] = "Visit link for details"
 
             yield item
+
+    def closed(self, reason):
+        if hasattr(self, "driver"):
+            self.driver.quit()

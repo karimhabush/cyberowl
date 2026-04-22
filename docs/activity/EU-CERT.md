@@ -1,0 +1,11 @@
+
+
+# EU-CERT
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[2026-004: Critical Vulnerability in SharePoint Exploited](https://cert.europa.eu/publications/security-advisories/2026-004/)|On 17 March 2026, Microsoft updated one of its January 2026 security advisories related to a remote code execution vulnerability in Microsoft SharePoint. Specifically, Microsoft raised the CVSS score and changed the FAQ section to indicate that the vulnerability could be exploited by an unauthenticated attacker. This vulnerability was added in the CISA's Known Exploited Vulnerabilities (KEV) catalogue on 18 March 2026.|Wednesday, March 25, 2026 08:51:39 AM CET|
+ |[2026-003: Multiple Vulnerabilities in Citrix NetScaler and Citrix ADC](https://cert.europa.eu/publications/security-advisories/2026-003/)|On 23 March 2026, Citrix published a security advisory addressing multiple vulnerabilities affecting NetScaler ADC and NetScaler Gateway. These vulnerabilities may lead to sensitive information disclosure and user session mix-up under specific configurations.|Monday, March 23, 2026 07:03:59 PM CET|
+ |[2026-002: Multiple Vulnerabilities in Cisco Products](https://cert.europa.eu/publications/security-advisories/2026-002/)|On 25 February 2026, Cisco released security advisories addressing multiple high and critical severity vulnerabilities in Cisco Catalyst SD-WAN controllers and Cisco SD-WAN Manager. If exploited, these vulnerabilities could allow attackers to gain administrative access to compromised systems. |Thursday, February 26, 2026 07:38:52 PM CET|
+ |[2026-001: Critical vulnerabilities in Ivanti EPMM](https://cert.europa.eu/publications/security-advisories/2026-001/)|On 29 January 2026, Ivanti released a security advisory addressing two critical vulnerabilities in their EPMM products. An attacker could exploit those flaws to achieve unauthenticated remote code execution on the vulnerable device. One of these vulnerabilities have been exploited in a limited number of cases.|Friday, January 30, 2026 10:09:06 AM CET|
+ 

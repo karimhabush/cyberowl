@@ -1,10 +1,7 @@
 """
 This spider is used to scrape alerts from the following source:
-https://vuldb.com/?live.recent
+https://vuldb.com via RSS feed
 """
-
-
-from datetime import date
 
 import scrapy
 from items import AlertItem
@@ -14,50 +11,33 @@ class VulDBSpider(scrapy.Spider):
     """Spider for the VulDB website.
 
     This spider is used to scrape data from the official website of
-    VulDB.
+    VulDB via their public RSS feed.
 
     Attributes:
         name : Name of the spider.
         max_items : The maximum number of items to scrape.
-        start_url : The website from which to start crawling.
-        block_selector : The CSS/XPATH selector of the block containing the data.
-        link_selector : The CSS/XPATH selector of the link of the alert.
-        title_selector : The CSS/XPATH selector of the title of the alert.
-        date_selector : The CSS/XPATH selector of the date of creation of the alert.
-        description_selector : The CSS/XPATH selector of the description of the alert.
+        start_url : The RSS feed URL.
     """
 
     name = "VulDB"
     max_items = 10
-    start_urls = ["https://vuldb.com/?live.recent"]
-    block_selector = "table>tr"
-    link_selector = "descendant-or-self::td[4]//@href"
-    date_selector = "descendant-or-self::td[1]//text()"
-    title_selector = "descendant-or-self::td[4]//text()"
-    description_selector = ""
+    start_urls = ["https://vuldb.com/?rss.recent"]
 
     def parse(self, response):
         """
-        Parsing the response
+        Parsing the RSS feed response
         """
-        for idx, bulletin in enumerate(response.css(self.block_selector)):
+        response.selector.remove_namespaces()
+        for idx, entry in enumerate(response.xpath("//item")):
 
-            # Skip table headers
-            if idx == 0:
-                continue
-
-            # Max number of alerts to scrape
-            if idx > self.max_items:
+            if idx >= self.max_items:
                 break
 
             item = AlertItem()
-            item["title"] = bulletin.xpath(self.title_selector).get()
-            item["link"] = (
-                "https://vuldb.com/" + bulletin.xpath(self.link_selector).get()
-            )
-            item["date"] = (
-                str(date.today()) + " at " + bulletin.xpath(self.date_selector).get()
-            )
-            item["description"] = "Visit link for details"
+            item["title"] = entry.xpath("title/text()").get()
+            item["link"] = entry.xpath("link/text()").get()
+            item["date"] = entry.xpath("pubDate/text()").get()
+            description = entry.xpath("description/text()").get()
+            item["description"] = description[:200] if description else "Visit link for details"
 
             yield item

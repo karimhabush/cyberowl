@@ -1,7 +1,9 @@
 """
 This spider is used to scrape alerts from the following source:
-https://www.dgssi.gov.ma/fr/macert/bulletins-de-securite.html
+https://cert.europa.eu/publications/security-advisories/
 """
+from datetime import date
+
 import scrapy
 from items import AlertItem
 
@@ -25,14 +27,17 @@ class EUCERTSpider(scrapy.Spider):
 
     name = "EU-CERT"
     max_items = 10
-    start_urls = ["https://cert.europa.eu/publications/security-advisories/2023"]
     block_selector = "li.publications--list--item"
-    link_selector = "descendant-or-self::ul[contains(@class,'publications--list--item--share')]/li[5]/a/@href"
-    date_selector = ".//div[contains(@class,'publications--list--item--date')]/text()"
-    title_selector = ".//h3/text()"
+    link_selector = "descendant-or-self::a[contains(@class,'publications--list--item--link')]/@href"
+    date_selector = ".//div[contains(@class,'publications--list--item--link--date')]/text()"
+    title_selector = ".//h3[contains(@class,'publications--list--item--link--title')]/text()"
     description_selector = (
-        ".//p[contains(@class,'publications--list--item--description')]/text()"
+        ".//p[contains(@class,'publications--list--item--link--description')]/text()"
     )
+
+    @property
+    def start_urls(self):
+        return [f"https://cert.europa.eu/publications/security-advisories/{date.today().year}"]
 
     def parse(self, response):
         """
@@ -40,13 +45,14 @@ class EUCERTSpider(scrapy.Spider):
         """
         for idx, bulletin in enumerate(response.css(self.block_selector)):
 
-            if idx > self.max_items:
+            if idx >= self.max_items:
                 break
 
             item = AlertItem()
 
             item["title"] = bulletin.xpath(self.title_selector).get()
-            item["link"] = "https://cert.europa.eu" + bulletin.xpath(self.link_selector).get()
+            link = bulletin.xpath(self.link_selector).get()
+            item["link"] = ("https://cert.europa.eu" + link) if link else ""
             item["date"] = bulletin.xpath(self.date_selector).get()
             item["description"] = bulletin.xpath(self.description_selector).get()
 

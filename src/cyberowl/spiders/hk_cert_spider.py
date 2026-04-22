@@ -38,7 +38,7 @@ class HKCERTSpider(scrapy.Spider):
         """
         for idx, bulletin in enumerate(response.css(self.block_selector)):
 
-            if idx > self.max_items:
+            if idx >= self.max_items:
                 break
             item = AlertItem()
 

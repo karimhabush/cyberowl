@@ -137,3 +137,7 @@ cython_debug/
 node_modules
 .temp
 .cache
+
+
+.claude/
+.claude/*

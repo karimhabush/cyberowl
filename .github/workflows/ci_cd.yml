@@ -1,0 +1,33 @@
+name: ci_cd
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'docs/**'
+      - 'package.json'
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      id-token: write
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+      - run: npm install
+      - name: Build
+        env:
+          GA_ID: ${{ secrets.GA_ID }}
+        run: npm run docs:build
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          role-to-assume: ${{ secrets.AWS_ROLE_TO_ASSUME }}
+          aws-region: ${{ secrets.AWS_REGION }}
+      - name: Deploy to S3
+        run: aws s3 sync ./docs/.vuepress/dist s3://${{ secrets.AWS_S3_BUCKET_NAME }} --delete

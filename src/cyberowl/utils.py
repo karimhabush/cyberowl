@@ -56,17 +56,17 @@ def write_to_readme() -> None:
     README_GENERATOR.create_md_file()
 
 
-# def generate_alerts_table(source, alerts: list) -> None:
-#     """
-#     Generates the table of alerts.
-#     """
-#     # Write to the file located in ./../../docs/activity/f{source}.md
+def generate_alerts_table(source, alerts: list) -> None:
+    """
+    Generates the table of alerts.
+    """
+    # Write to the file located in ./../../docs/activity/f{source}.md
 
-#     OUTPUT_FILE = f"./../../docs/activity/{source}.md"
-#     OUTPUT_FILE = os.path.join(os.path.dirname(__file__), OUTPUT_FILE)
-#     ALERT_GENERATOR = MDTemplate(OUTPUT_FILE)
-#     ALERT_GENERATOR.new_header(level=1, text=f"{source}")
-#     ALERT_GENERATOR.generate_table(alerts)
-#     ALERT_GENERATOR.new_line()
+    OUTPUT_FILE = f"./../../docs/activity/{source}.md"
+    OUTPUT_FILE = os.path.join(os.path.dirname(__file__), OUTPUT_FILE)
+    ALERT_GENERATOR = MDTemplate(OUTPUT_FILE)
+    ALERT_GENERATOR.new_header(level=1, text=f"{source}")
+    ALERT_GENERATOR.generate_table(alerts)
+    ALERT_GENERATOR.new_line()
 
-#     ALERT_GENERATOR.create_md_file()
+    ALERT_GENERATOR.create_md_file()
