@@ -841,18 +841,19 @@ files = [
 
 [[package]]
 name = "parsel"
-version = "1.7.0"
+version = "1.10.0"
 description = "Parsel is a library to extract data from HTML and XML using XPath and CSS selectors"
 optional = false
-python-versions = ">=3.7"
+python-versions = ">=3.9"
 groups = ["main"]
 files = [
-    {file = "parsel-1.7.0-py2.py3-none-any.whl", hash = "sha256:80ba5797b2a4968cdcdbd51c355e596f4441d0acd7f6d70f63a9e441e7fe45df"},
-    {file = "parsel-1.7.0.tar.gz", hash = "sha256:0254133cb0304de13fcc4857bb8214ff70d698872761fa6be8374e1bbbd58192"},
+    {file = "parsel-1.10.0-py2.py3-none-any.whl", hash = "sha256:6a0c28bd81f9df34ba665884c88efa0b18b8d2c44c81f64e27f2f0cb37d46169"},
+    {file = "parsel-1.10.0.tar.gz", hash = "sha256:14f17db9559f51b43357b9dfe43cec870a8efb5ea4857abb624ec6ff80d8a080"},
 ]
 
 [package.dependencies]
-cssselect = ">=0.9"
+cssselect = ">=1.2.0"
+jmespath = "*"
 lxml = "*"
 packaging = "*"
 w3lib = ">=1.19.0"
@@ -1725,4 +1726,4 @@ testing = ["coverage (>=5.0.3)", "zope.event", "zope.testing"]
 [metadata]
 lock-version = "2.1"
 python-versions = ">=3.9,<4.0"
-content-hash = "e34dd4a91d85d379b7bbb3ec3cf5f6b52ed20d9a1543d87eafa8f14db6e0727c"
+content-hash = "d2a007d19049d52c5a4b25403935a50bb4897b521319313894db46dbe760d188"
