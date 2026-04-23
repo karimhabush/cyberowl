@@ -1,10 +1,10 @@
 # Activity Summary
 
-Cyberowl collects the latest types of security incidents affecting your organization's assets from different sources.
+CyberOwl AI collects the latest types of security incidents affecting your organization's assets from different sources.
 
 ## Browse Activity
 
-Cyberowl is currently collecting data from the following sources:
+CyberOwl AI is currently collecting data from the following sources:
 
 |**US-CERT**|**MA-CERT**|**CERT-FR**|**HK-CERT**|
 |:---:|:---:|:---:|:---:|

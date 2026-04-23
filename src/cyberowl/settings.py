@@ -10,7 +10,7 @@ NEWSPIDER_MODULE = "spiders"
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-USER_AGENT = "cyberowl (+https://github.com/karimhabush/cyberowl)"
+USER_AGENT = "cyberowlai (+https://cyberowlai.com)"
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True

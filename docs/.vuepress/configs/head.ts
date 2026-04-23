@@ -19,8 +19,8 @@ export const head: HeadConfig[] = [
       href: `/images/logo1.webp`,
     },
   ],
-  ['meta', { name: 'application-name', content: 'Cyberowl' }],
-  ['meta', { name: 'apple-mobile-web-app-title', content: 'Cyberowl' }],
+  ['meta', { name: 'application-name', content: 'CyberOwl AI' }],
+  ['meta', { name: 'apple-mobile-web-app-title', content: 'CyberOwl AI' }],
   ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
   [
     'link',

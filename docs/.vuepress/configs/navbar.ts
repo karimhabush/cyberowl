@@ -9,4 +9,8 @@ export const navbarEn: NavbarConfig = [
     text: 'Activity',
     link: '/activity/',
   },
+  {
+    text: 'Skill',
+    link: '/skill.html',
+  },
 ]

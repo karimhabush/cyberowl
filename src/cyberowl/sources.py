@@ -1,9 +1,9 @@
 """
-    A list of CyberOwl sources.
+    A list of CyberOwl AI sources.
 """
 
 CYBEROWL_SOURCES = [
-    ["CyberOwl Sources", "Description"],
+    ["CyberOwl AI Sources", "Description"],
     [
         "[US-CERT](#us-cert-arrow_heading_up)",
         "United States Computer Emergency and Readiness Team.",

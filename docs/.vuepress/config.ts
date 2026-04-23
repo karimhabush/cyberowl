@@ -28,7 +28,7 @@ export default defineUserConfig({
   locales: {
     '/': {
       lang: 'en-US',
-      title: 'CyberOwl',
+      title: 'CyberOwl AI',
       description: 'Stay informed on the latest cyber threats - a one-stop destination for all the latest alerts and updates from multiple sources.',
     },
   },
@@ -71,10 +71,9 @@ export default defineUserConfig({
     },
 
     themePlugins: {
-      // only enable git plugin in production mode
       git: !isProd,
-      // use shiki plugin in production mode instead
       prismjs: !isProd,
+      backToTop: false,
     },
   }),
 

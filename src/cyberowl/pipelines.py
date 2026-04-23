@@ -1,7 +1,9 @@
 """
     Pipelines for cyberowl scraper.
 """
-from utils import generate_alerts_for_readme, generate_alerts_table
+import re
+
+from utils import generate_alerts_for_readme, generate_alerts_table, store_alerts_json
 
 
 class AlertPipeline:
@@ -13,10 +15,13 @@ class AlertPipeline:
     """
 
     __items: list = None
+    __raw_items: list = None
 
     def __init__(self) -> None:
         if self.__items is None:
             self.__items = []
+        if self.__raw_items is None:
+            self.__raw_items = []
 
     @property
     def items(self):
@@ -46,6 +51,7 @@ class AlertPipeline:
         Method to be called when spider is opened.
         """
         self.__items = [["Title", "Description", "Date"]]
+        self.__raw_items = []
 
     def process_item(self, item, *args, **kwargs):
         """
@@ -60,9 +66,17 @@ class AlertPipeline:
             [f"[{item['title']}]({item['link']})", item["description"], item["date"]]
         )
 
+        self.__raw_items.append({
+            "title": re.sub(r"<[^>]+>", "", item["title"]).strip(),
+            "link": item["link"],
+            "date": item["date"],
+            "description": re.sub(r"<[^>]+>", "", item["description"]).strip(),
+        })
+
     def close_spider(self, spider):
         """
         Method to be called when spider is closed.
         """
         generate_alerts_table(spider.name, self.__items)
         generate_alerts_for_readme(spider.name, self.__items)
+        store_alerts_json(spider.name, self.__raw_items)

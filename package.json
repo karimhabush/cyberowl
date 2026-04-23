@@ -1,5 +1,5 @@
 {
-  "name": "cyberowl.org",
+  "name": "cyberowlai.com",
   "version": "1.0.0",
   "scripts": {
     "docs:dev": "vuepress dev docs",

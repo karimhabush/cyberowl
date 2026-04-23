@@ -1,6 +1,6 @@
 ---
 home: true
-title: Cyberowl
+title: CyberOwl AI
 heroImage: ./images/logo1.webp
 heroImageDark: ./images/logoDark.webp
 actions:
@@ -13,13 +13,13 @@ features:
 footer: cyberowlai.com © 2026
 ---
 
-# Why cyberowl?
+# Why CyberOwl AI?
 
-Cyberowl is a quick and easy way to stay current on the latest types of security incidents affecting your organization's assets.
+CyberOwl AI is a quick and easy way to stay current on the latest types of security incidents affecting your organization's assets.
 
 It is a daily updated summary of the most frequent types of security incidents currently being reported from different sources. This is the quickest and most effective way to always stay current on the latest types of incidents.
 
-#### cyberowl is currently reporting from...
+#### CyberOwl AI is currently reporting from...
 
 |Source|Description|
 |:---:|:---|
