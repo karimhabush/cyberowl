@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T10:00:54.584179+00:00",
+  "generated_at": "2026-04-23T11:21:58.283210+00:00",
   "sources": {
     "US-CERT": {
       "items": [
@@ -62,6 +62,70 @@
           "link": "https://www.cisa.gov/news-events/alerts/2026/04/01/cisa-adds-one-known-exploited-vulnerability-catalog",
           "date": "Apr 01, 2026",
           "description": "Visit link for details."
+        }
+      ]
+    },
+    "CERT-FR": {
+      "items": [
+        {
+          "title": "Multiples vulnérabilités dans les produits Mozilla",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0480/",
+          "date": "Publié le 22 avril 2026",
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance."
+        },
+        {
+          "title": "Multiples vulnérabilités dans les produits Atlassian",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0479/",
+          "date": "Publié le 22 avril 2026",
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Atlassian. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données."
+        },
+        {
+          "title": "Vulnérabilité dans Microsoft .Net",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0478/",
+          "date": "Publié le 22 avril 2026",
+          "description": "Une vulnérabilité a été découverte dans Microsoft .Net. Elle permet à un attaquant de provoquer une élévation de privilèges."
+        },
+        {
+          "title": "Multiples vulnérabilités dans les produits Spring",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0477/",
+          "date": "Publié le 22 avril 2026",
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Spring. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une falsification de requêtes côté serveur (SSRF) et une injection de code indirecte à distance (XSS)."
+        },
+        {
+          "title": "Multiples vulnérabilités dans les produits NetApp",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0476/",
+          "date": "Publié le 22 avril 2026",
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits NetApp. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un déni de service."
+        },
+        {
+          "title": "Multiples vulnérabilités dans GitLab",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0475/",
+          "date": "Publié le 22 avril 2026",
+          "description": "De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une injection de code indirecte à distance (XSS) et une injection de requêtes illégitimes par rebond (CSRF)."
+        },
+        {
+          "title": "Vulnérabilité dans Python",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0474/",
+          "date": "Publié le 22 avril 2026",
+          "description": "Une vulnérabilité a été découverte dans Python. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
+        },
+        {
+          "title": "Multiples vulnérabilités dans Oracle Weblogic",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0473/",
+          "date": "Publié le 22 avril 2026",
+          "description": "De multiples vulnérabilités ont été découvertes dans Oracle Weblogic. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données."
+        },
+        {
+          "title": "Multiples vulnérabilités dans Oracle Virtualization",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0472/",
+          "date": "Publié le 22 avril 2026",
+          "description": "De multiples vulnérabilités ont été découvertes dans Oracle Virtualization. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données."
+        },
+        {
+          "title": "Multiples vulnérabilités dans Oracle Systems",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0471/",
+          "date": "Publié le 22 avril 2026",
+          "description": "De multiples vulnérabilités ont été découvertes dans Oracle Systems. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service."
         }
       ]
     },
@@ -132,19 +196,19 @@
     "VulDB": {
       "items": [
         {
-          "title": "CVE-2026-41040  GROWI redos",
+          "title": "CVE-2026-41040  GROWI redos (EUVD-2026-25199)",
           "link": "https://vuldb.com/vuln/359127",
           "date": "Thu, 23 Apr 2026 11:42:13 +0200",
           "description": "A vulnerability described as problematic has been identified in GROWI. This impacts an unknown function. Such manipulation leads to inefficient regular expression complexity.This vulnerability is do"
         },
         {
-          "title": "CVE-2025-10549  EfficientLab Controlio up to 1.3.94 uncontrolled search path",
+          "title": "CVE-2025-10549  EfficientLab Controlio up to 1.3.94 uncontrolled search path (EUVD-2025-209559)",
           "link": "https://vuldb.com/vuln/359126",
           "date": "Thu, 23 Apr 2026 11:41:44 +0200",
           "description": "A vulnerability marked as problematic has been reported in EfficientLab Controlio up to 1.3.94. This affects an unknown function. This manipulation causes uncontrolled search path.This vulnerability"
         },
         {
-          "title": "CVE-2026-41564  MIK CryptX up to 0.087 on Perl X25519 X25519 Modules prng seed (GHSA-24c2-gp6c-24c6)",
+          "title": "CVE-2026-41564  MIK CryptX up to 0.087 on Perl X25519 X25519 Modules prng seed (GHSA-24c2-gp6c-24c6 / EUVD-2026-25201)",
           "link": "https://vuldb.com/vuln/359125",
           "date": "Thu, 23 Apr 2026 11:41:18 +0200",
           "description": "A vulnerability labeled as problematic has been found in MIK CryptX up to 0.087 on Perl. The impacted element is the function Crypt::PK::RSA/Crypt::PK::DSA/Crypt::PK::DH/Crypt::PK::ECC/Crypt::PK::Ed25"
@@ -285,67 +349,113 @@
         }
       ]
     },
-    "CERT-FR": {
+    "MA-CERT": {
       "items": [
         {
-          "title": "Multiples vulnérabilités dans les produits Mozilla",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0480/",
-          "date": "Publié le 22 avril 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance."
+          "title": "63492304/26 - Vulnérabilité activement exploitée affectant Microsoft SharePoint Server",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-activement-exploitee-affectant-microsoft-sharepoint-server",
+          "date": " ",
+          "description": "La vulnérabilité affectant les versions susmentionnées de Microsoft SharePoint Server, identifiée par «CVE-2026-32201» et qui a fait l’objet du bulletin «63121504/26» de la DGSSI est activement…"
         },
         {
-          "title": "Multiples vulnérabilités dans les produits Atlassian",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0479/",
-          "date": "Publié le 22 avril 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Atlassian. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données."
+          "title": "63482204/26 - Vulnérabilités critiques activement exploitée affectant Cisco Catalyst…",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-activement-exploitee-affectant-cisco-catalyst-sd-wan-manager",
+          "date": " ",
+          "description": "Trois vulnérabilités critiques affectant les versions susmentionnées de   Cisco Catalyst SD-WAN Manager et qui ont fait l’objet du bulletin de sécurité « 61462602/26 » de la DGSSI…"
         },
         {
-          "title": "Vulnérabilité dans Microsoft .Net",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0478/",
-          "date": "Publié le 22 avril 2026",
-          "description": "Une vulnérabilité a été découverte dans Microsoft .Net. Elle permet à un attaquant de provoquer une élévation de privilèges."
+          "title": "63472204/26 - Vulnérabilité affectant ASP.NET Core",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-aspnet-core",
+          "date": " ",
+          "description": "Microsoft annonce la correction d’une vulnérabilité affectant les versions susmentionnées d’ASP.NET Core.  L'exploitation  de cette vulnérabilité peut permettre à un attaquant distant…"
         },
         {
-          "title": "Multiples vulnérabilités dans les produits Spring",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0477/",
-          "date": "Publié le 22 avril 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Spring. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une falsification de requêtes côté serveur (SSRF) et une injection de code indirecte à distance (XSS)."
+          "title": "63462204/26 - Vulnérabilités dans GoAnywhere Managed File Transfer (MFT)",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-goanywhere-managed-file-transfer-mft",
+          "date": " ",
+          "description": "Fortra a publié un avis de sécurité concernant deux vulnérabilités affectant la solution de transfert de fichiers GoAnywhere MFT.Ces failles sont dues à l’absence de limitation des tentatives…"
         },
         {
-          "title": "Multiples vulnérabilités dans les produits NetApp",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0476/",
-          "date": "Publié le 22 avril 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits NetApp. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un déni de service."
+          "title": "63452204/26 - Vulnérabilités critiques dans les produits Atlassian",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-atlassian-1",
+          "date": " ",
+          "description": "Atlassian a publié des mises à jour de sécurité corrigeant plusieurs vulnérabilités affectant les produits susmentionnés. L’exploitation réussie de ces failles peut entraîner une exécution du code…"
         },
         {
-          "title": "Multiples vulnérabilités dans GitLab",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0475/",
-          "date": "Publié le 22 avril 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une injection de code indirecte à distance (XSS) et une injection de requêtes illégitimes par rebond (CSRF)."
+          "title": "63442204/26 - “ Prometei ” malware",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/prometei-malware",
+          "date": " ",
+          "description": ""
         },
         {
-          "title": "Vulnérabilité dans Python",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0474/",
-          "date": "Publié le 22 avril 2026",
-          "description": "Une vulnérabilité a été découverte dans Python. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
+          "title": "63422204/26 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird-15",
+          "date": " ",
+          "description": "Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant les versions susmentionnées de son client de messagerie Mozilla…"
         },
         {
-          "title": "Multiples vulnérabilités dans Oracle Weblogic",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0473/",
-          "date": "Publié le 22 avril 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans Oracle Weblogic. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données."
+          "title": "63412204/26 - Vulnérabilités affectant le navigateur Mozilla Firefox",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-mozilla-firefox-24",
+          "date": " ",
+          "description": "Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la     correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox.…"
         },
         {
-          "title": "Multiples vulnérabilités dans Oracle Virtualization",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0472/",
-          "date": "Publié le 22 avril 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans Oracle Virtualization. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données."
+          "title": "63432204/26 - \"Oracle Critical Patch Update\" du Mois Avril 2026",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/oracle-critical-patch-update-du-mois-avril-2026",
+          "date": " ",
+          "description": "Oracle a publié son Critical Patch Update (CPU) d’avril 2026, corrigeant plusieurs vulnérabilités critiques affectant les produits susmentionnés.Certaines de ces vulnérabilités sont critiques et…"
         },
         {
-          "title": "Multiples vulnérabilités dans Oracle Systems",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0471/",
-          "date": "Publié le 22 avril 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans Oracle Systems. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service."
+          "title": "63402104/26 - Vulnérabilité critique activement exploitée affectant JetBrains TeamCity",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-activement-exploitee-affectant-jetbrains-teamcity",
+          "date": " ",
+          "description": "Une vulnérabilité critique, activement exploitée, affectant les versions susmentionnées de JetBrains TeamCity a été corrigée. Son exploitation peut permettre à un attaquant distant non authentifié de…"
+        }
+      ]
+    },
+    "ZERODAYINITIATIVE": {
+      "items": [
+        {
+          "title": "(0Day) PublicCMS getXml Server-Side Request Forgery Information Disclosure Vulnerability",
+          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-295/",
+          "date": "2026-04-21",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "(0Day) Microsoft Windows library-ms NTLM Response Information Disclosure Vulnerability",
+          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-294/",
+          "date": "2026-04-21",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "(0Day) Microsoft Office URI Handler NTLM Response Information Disclosure Vulnerability",
+          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-293/",
+          "date": "2026-04-21",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "QNAP TS-453E QVRPro excpostgres Exposed Dangerous Method Remote Code Execution Vulnerability",
+          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-292/",
+          "date": "2026-04-15",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "NI LabVIEW LVCLASS File Parsing Memory Corruption Remote Code Execution Vulnerability",
+          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-291/",
+          "date": "2026-04-15",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "NI LabVIEW LVLIB File Parsing Memory Corruption Remote Code Execution Vulnerability",
+          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-290/",
+          "date": "2026-04-15",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Linux Kernel ETS Scheduler Race Condition Local Privilege Escalation Vulnerability",
+          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-289/",
+          "date": "2026-04-15",
+          "description": "Visit link for details"
         }
       ]
     },
@@ -410,116 +520,6 @@
           "link": "https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20260420",
           "date": "Release Date: 20 Apr 2026 ",
           "description": "Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, denial of service condition, security restriction bypass and sensitive information disclosure on the targeted system."
-        }
-      ]
-    },
-    "ZERODAYINITIATIVE": {
-      "items": [
-        {
-          "title": "(0Day) PublicCMS getXml Server-Side Request Forgery Information Disclosure Vulnerability",
-          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-295/",
-          "date": "2026-04-21",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "(0Day) Microsoft Windows library-ms NTLM Response Information Disclosure Vulnerability",
-          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-294/",
-          "date": "2026-04-21",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "(0Day) Microsoft Office URI Handler NTLM Response Information Disclosure Vulnerability",
-          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-293/",
-          "date": "2026-04-21",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "QNAP TS-453E QVRPro excpostgres Exposed Dangerous Method Remote Code Execution Vulnerability",
-          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-292/",
-          "date": "2026-04-15",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "NI LabVIEW LVCLASS File Parsing Memory Corruption Remote Code Execution Vulnerability",
-          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-291/",
-          "date": "2026-04-15",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "NI LabVIEW LVLIB File Parsing Memory Corruption Remote Code Execution Vulnerability",
-          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-290/",
-          "date": "2026-04-15",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Linux Kernel ETS Scheduler Race Condition Local Privilege Escalation Vulnerability",
-          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-289/",
-          "date": "2026-04-15",
-          "description": "Visit link for details"
-        }
-      ]
-    },
-    "MA-CERT": {
-      "items": [
-        {
-          "title": "63492304/26 - Vulnérabilité activement exploitée affectant Microsoft SharePoint Server",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-activement-exploitee-affectant-microsoft-sharepoint-server",
-          "date": " ",
-          "description": "La vulnérabilité affectant les versions susmentionnées de Microsoft SharePoint Server, identifiée par «CVE-2026-32201» et qui a fait l’objet du bulletin «63121504/26» de la DGSSI est activement…"
-        },
-        {
-          "title": "63482204/26 - Vulnérabilités critiques activement exploitée affectant Cisco Catalyst…",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-activement-exploitee-affectant-cisco-catalyst-sd-wan-manager",
-          "date": " ",
-          "description": "Trois vulnérabilités critiques affectant les versions susmentionnées de   Cisco Catalyst SD-WAN Manager et qui ont fait l’objet du bulletin de sécurité « 61462602/26 » de la DGSSI…"
-        },
-        {
-          "title": "63472204/26 - Vulnérabilité affectant ASP.NET Core",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-aspnet-core",
-          "date": " ",
-          "description": "Microsoft annonce la correction d’une vulnérabilité affectant les versions susmentionnées d’ASP.NET Core.  L'exploitation  de cette vulnérabilité peut permettre à un attaquant distant…"
-        },
-        {
-          "title": "63462204/26 - Vulnérabilités dans GoAnywhere Managed File Transfer (MFT)",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-goanywhere-managed-file-transfer-mft",
-          "date": " ",
-          "description": "Fortra a publié un avis de sécurité concernant deux vulnérabilités affectant la solution de transfert de fichiers GoAnywhere MFT.Ces failles sont dues à l’absence de limitation des tentatives…"
-        },
-        {
-          "title": "63452204/26 - Vulnérabilités critiques dans les produits Atlassian",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-atlassian-1",
-          "date": " ",
-          "description": "Atlassian a publié des mises à jour de sécurité corrigeant plusieurs vulnérabilités affectant les produits susmentionnés. L’exploitation réussie de ces failles peut entraîner une exécution du code…"
-        },
-        {
-          "title": "63442204/26 - “ Prometei ” malware",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/prometei-malware",
-          "date": " ",
-          "description": ""
-        },
-        {
-          "title": "63422204/26 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird-15",
-          "date": " ",
-          "description": "Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant les versions susmentionnées de son client de messagerie Mozilla…"
-        },
-        {
-          "title": "63412204/26 - Vulnérabilités affectant le navigateur Mozilla Firefox",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-mozilla-firefox-24",
-          "date": " ",
-          "description": "Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la     correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox.…"
-        },
-        {
-          "title": "63432204/26 - \"Oracle Critical Patch Update\" du Mois Avril 2026",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/oracle-critical-patch-update-du-mois-avril-2026",
-          "date": " ",
-          "description": "Oracle a publié son Critical Patch Update (CPU) d’avril 2026, corrigeant plusieurs vulnérabilités critiques affectant les produits susmentionnés.Certaines de ces vulnérabilités sont critiques et…"
-        },
-        {
-          "title": "63402104/26 - Vulnérabilité critique activement exploitée affectant JetBrains TeamCity",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-activement-exploitee-affectant-jetbrains-teamcity",
-          "date": " ",
-          "description": "Une vulnérabilité critique, activement exploitée, affectant les versions susmentionnées de JetBrains TeamCity a été corrigée. Son exploitation peut permettre à un attaquant distant non authentifié de…"
         }
       ]
     },

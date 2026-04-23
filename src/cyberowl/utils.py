@@ -17,31 +17,45 @@ def generate_heading() -> None:
     now = datetime.now(timezone.utc).strftime("%d/%m/%Y %H:%M:%S")
     README_GENERATOR.new_line("<div id='top'></div>")
     README_GENERATOR.new_header(level=1, text="CyberOwl AI")
-    README_GENERATOR.new_line(f"> Last Updated {now} UTC")
     README_GENERATOR.new_line()
     README_GENERATOR.new_line(
-        "A daily updated summary of the most frequent types of security"
-        " incidents currently being reported from different sources."
+        "Aggregates security advisories from 10 international CERTs daily "
+        "and provides an AI skill that cross-references alerts against your "
+        "project's tech stack."
     )
     README_GENERATOR.new_line()
     README_GENERATOR.new_line(
-        "For more information, please check out the documentation"
-        " [here](./docs/README.md)."
+        "**Website:** [cyberowlai.com](https://cyberowlai.com)"
     )
+    README_GENERATOR.new_line()
+    README_GENERATOR.new_header(level=2, text="AI Skill")
+    README_GENERATOR.new_line(
+        "Add the CyberOwl AI skill to your IDE to check if recent alerts affect your project:"
+    )
+    # Code blocks need no leading space, so write directly to buffer
+    README_GENERATOR._MDTemplate__buffer += """
+**Claude Code:**
+```bash
+mkdir -p .claude/skills/cyberowlai && curl -o .claude/skills/cyberowlai/SKILL.md https://cyberowlai.com/skill/SKILL.md
+```
+
+**Cursor:**
+```bash
+mkdir -p .cursor/rules && curl -o .cursor/rules/cyberowlai.md https://cyberowlai.com/skill/SKILL.md
+```
+"""
     README_GENERATOR.new_line()
     README_GENERATOR.new_line("---")
+    README_GENERATOR.new_line()
+    README_GENERATOR.new_line(f"> Last updated {now} UTC")
 
 
 def generate_table_of_content() -> None:
     """
     Generates the table of content.
     """
-    README_GENERATOR.generate_table(CYBEROWL_SOURCES)
     README_GENERATOR.new_line()
-    README_GENERATOR.new_line(
-        "> Suggest a source by opening an [issue]"
-        "(https://github.com/karimhabush/cyberowl/issues)! :raised_hands:"
-    )
+    README_GENERATOR.generate_table(CYBEROWL_SOURCES)
 
 
 def generate_alerts_for_readme(source, alerts: list) -> None:
