@@ -3,7 +3,7 @@
 
 # CyberOwl
 
- > Last Updated 23/04/2026 09:02:48 UTC
+ > Last Updated 23/04/2026 09:20:47 UTC
  
  A daily updated summary of the most frequent types of security incidents currently being reported from different sources.
  
@@ -41,54 +41,6 @@
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/01/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Apr 01, 2026|
  
 
-# IBM-X-FORCE-EXCHANGE
-
- |Title|Description|Date|
- |---|---|---|
- |[IBM Guardium Data Protection cross-site scripting (CVE-2026-4918)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 22, 2026|
- |[IBM Guardium Data Protection cross-site scripting (CVE-2026-4919)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 22, 2026|
- |[IBM WebSphere Application Server Liberty spoofing (CVE-2026-3621)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 22, 2026|
- |[radare2 < 6.1.4 Command Injection via PDB Parser Symbol Names (CVE-2026-40517)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 22, 2026|
- |[Statamic: Unsafe method invocation via query value resolution allows data destruction (CVE-2026-41175)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 22, 2026|
- |[New vulnerability](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 22, 2026|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
- 
-
-# HK-CERT
-
- |Title|Description|Date|
- |---|---|---|
- |[Apple Products Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/apple-products-information-disclosure-vulnerability_20260423)|A vulnerability has been identified in Apple Products. A remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system.|Release Date: 23 Apr 2026 |
- |[Microsoft Monthly Security Update (April 2026)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-april-2026)|[Updated on 2026-04-17]Updated Description.Proof of Concept exploit code is publicly available for CVE-2026-33825. Insufficient granularity of access control in Microsoft Defender allows an authorized attacker to elevate privileges locally. [Updated on 2026-04...| Release Date: 15 Apr 2026 |
- |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20260401)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, remote code execution, data manipulation, denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on...| Release Date: 1 Apr 2026 |
- |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20260422)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass, spoofing and sensitive information disclosure on the targeted system.|Release Date: 22 Apr 2026 |
- |[Oracle Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/oracle-products-multiple-vulnerabilities_20260422)|Multiple vulnerabilities were identified in Oracle Products, a remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system....|Release Date: 22 Apr 2026 |
- |[PaperCut Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/papercut-multiple-vulnerabilities_20260421)|Multiple vulnerabilities were identified in PaperCut. A remote attacker could exploit these vulnerabilities to trigger security restriction bypass and remote code execution on the targeted system. Note:CVE-2023-27351 is being exploited in the wild. A remote attacker could leverage this...|Release Date: 21 Apr 2026 |
- |[Zimbra Collaboration Suite Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/zimbra-collaboration-suite-cross-site-scripting-vulnerability_20260421)|A vulnerability has been identified in Zimbra Collaboration Suite. A remote attacker could exploit this vulnerability to trigger cross-site scripting and sensitive information disclosure the targeted system. Note:CVE-2025-48700 is being exploited in the wild. This vulnerability could allow...|Release Date: 21 Apr 2026 |
- |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20260408)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, security restriction bypass and data manipulation on the targeted system. [Updated on 2026-04-10]Updated System...| Release Date: 8 Apr 2026 |
- |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20260420)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, denial of service condition, security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 20 Apr 2026 |
- |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20260417)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, cross-site scripting and security restriction bypass on the targeted system.|Release Date: 17 Apr 2026 |
- 
-
-# VulDB
-
- |Title|Description|Date|
- |---|---|---|
- |[CVE-2026-4367  X.org libXpm up to 3.5.4 xpmNextWord out-of-bounds (5448e1bd)](https://vuldb.com/vuln/359124)|A vulnerability identified as <a href="https://vuldb.com/kb/risk">problematic</a> has been detected in <a href="https://vuldb.com/product/x">X.org libXpm up to 3.5.4</a>. The affected element is the f|Thu, 23 Apr 2026 08:55:56 +0200|
- |[CVE-2026-34488  i-PRO IP Setting Software up to 5.19 uncontrolled search path (EUVD-2026-25194)](https://vuldb.com/vuln/359123)|A vulnerability categorized as <a href="https://vuldb.com/kb/risk">problematic</a> has been discovered in <a href="https://vuldb.com/product/i-pro:ip_setting_software">i-PRO IP Setting Software up to |Thu, 23 Apr 2026 08:55:09 +0200|
- |[CVE-2026-4512  WebDesignBy reCaptcha Plugin up to 1.x on WordPress Setting grecaptcha_js cross site scripting (EUVD-2026-25197)](https://vuldb.com/vuln/359122)|A vulnerability was found in <a href="https://vuldb.com/product/webdesignby:recaptcha_plugin">WebDesignBy reCaptcha Plugin up to 1.x</a> on WordPress. It has been rated as <a href="https://vuldb.com/k|Thu, 23 Apr 2026 08:54:44 +0200|
- |[CVE-2026-4106  HT Mega Addons for Elementor Plugin up to 3.0.6 on WordPress Ajax Action information disclosure (EUVD-2026-25196)](https://vuldb.com/vuln/359121)|A vulnerability was found in <a href="https://vuldb.com/product/ht_mega_addons_for_elementor_plugin">HT Mega Addons for Elementor Plugin up to 3.0.6</a> on WordPress. It has been declared as <a href="|Thu, 23 Apr 2026 08:54:39 +0200|
- |[CVE-2026-41990  gnupg Libgcrypt up to 1.12.1 out-of-bounds write (EUVD-2026-25193)](https://vuldb.com/vuln/359120)|A vulnerability was found in <a href="https://vuldb.com/product/gnupg:libgcrypt">gnupg Libgcrypt up to 1.12.1</a>. It has been classified as <a href="https://vuldb.com/kb/risk">critical</a>. This affe|Thu, 23 Apr 2026 07:21:33 +0200|
- |[CVE-2026-41989  gnupg Libgcrypt up to 1.10.3/1.11.2/1.12.1 ECDH gcry_pk_decrypt out-of-bounds write (EUVD-2026-25192)](https://vuldb.com/vuln/359119)|A vulnerability was found in <a href="https://vuldb.com/product/gnupg:libgcrypt">gnupg Libgcrypt up to 1.10.3/1.11.2/1.12.1</a> and classified as <a href="https://vuldb.com/kb/risk">critical</a>. Affe|Thu, 23 Apr 2026 07:21:25 +0200|
- |[CVE-2026-3007  Three Learning Koollab Learning Management System 5.3.2. cross site scripting (EUVD-2026-25170)](https://vuldb.com/vuln/359118)|A vulnerability has been found in <a href="https://vuldb.com/product/three_learning:koollab_learning_management_system">Three Learning Koollab Learning Management System 5.3.2.</a> and classified as <|Thu, 23 Apr 2026 07:21:13 +0200|
- |[CVE-2026-29198  Rocket.Chat up to 8.2.x sql injection](https://vuldb.com/vuln/359117)|A vulnerability, which was classified as <a href="https://vuldb.com/kb/risk">critical</a>, was found in <a href="https://vuldb.com/product/rocket">Rocket.Chat up to 8.2.x</a>. Affected is an unknown f|Thu, 23 Apr 2026 07:21:03 +0200|
- |[CVE-2026-41177  squidex up to 7.22.x Restore API Url file inclusion (GHSA-45fq-w37p-qfw5)](https://vuldb.com/vuln/359116)|A vulnerability, which was classified as <a href="https://vuldb.com/kb/risk">problematic</a>, has been found in <a href="https://vuldb.com/product/squidex">squidex up to 7.22.x</a>. This impacts an un|Thu, 23 Apr 2026 07:20:40 +0200|
- |[CVE-2026-41232  Froxlor up to 2.3.5 Email Address EmailSender::add authorization](https://vuldb.com/vuln/359115)|A vulnerability classified as <a href="https://vuldb.com/kb/risk">problematic</a> was found in <a href="https://vuldb.com/product/froxlor">Froxlor up to 2.3.5</a>. This affects the function <code>Emai|Thu, 23 Apr 2026 07:20:27 +0200|
- 
-
 # OBS-Vigilance
 
  |Title|Description|Date|
@@ -105,17 +57,36 @@
  |[<a href="https://vigilance.fr/vulnerability/Tor-information-disclosure-via-Memory-Compare-50359" class="noirorange"><b>Tor</b>: information disclosure via Memory Compare</a>](https://vigilance.fr/vulnerability/Tor-information-disclosure-via-Memory-Compare-50359)|An attacker can bypass access restrictions to data of Tor, via Memory Compare, in order to read sensitive information...|Visit link for details|
  
 
-# ZERODAYINITIATIVE
+# CERT-FR
 
  |Title|Description|Date|
  |---|---|---|
- |[(0Day) PublicCMS getXml Server-Side Request Forgery Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-26-295/)|Visit link for details|2026-04-21|
- |[(0Day) Microsoft Windows library-ms NTLM Response Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-26-294/)|Visit link for details|2026-04-21|
- |[(0Day) Microsoft Office URI Handler NTLM Response Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-26-293/)|Visit link for details|2026-04-21|
- |[QNAP TS-453E QVRPro excpostgres Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-26-292/)|Visit link for details|2026-04-15|
- |[NI LabVIEW LVCLASS File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-26-291/)|Visit link for details|2026-04-15|
- |[NI LabVIEW LVLIB File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-26-290/)|Visit link for details|2026-04-15|
- |[Linux Kernel ETS Scheduler Race Condition Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-26-289/)|Visit link for details|2026-04-15|
+ |[Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0480/)|De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 22 avril 2026|
+ |[Multiples vulnérabilités dans les produits Atlassian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0479/)|De multiples vulnérabilités ont été découvertes dans les produits Atlassian. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 22 avril 2026|
+ |[Vulnérabilité dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0478/)|Une vulnérabilité a été découverte dans Microsoft .Net. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 22 avril 2026|
+ |[Multiples vulnérabilités dans les produits Spring](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0477/)|De multiples vulnérabilités ont été découvertes dans les produits Spring. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une falsification de requêtes côté serveur (SSRF) et une injection de code indirecte à distance (XSS).|Publié le 22 avril 2026|
+ |[Multiples vulnérabilités dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0476/)|De multiples vulnérabilités ont été découvertes dans les produits NetApp. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un déni de service.|Publié le 22 avril 2026|
+ |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0475/)|De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une injection de code indirecte à distance (XSS) et une injection de requêtes illégitimes par rebond (CSRF).|Publié le 22 avril 2026|
+ |[Vulnérabilité dans Python](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0474/)|Une vulnérabilité a été découverte dans Python. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 22 avril 2026|
+ |[Multiples vulnérabilités dans Oracle Weblogic](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0473/)|De multiples vulnérabilités ont été découvertes dans Oracle Weblogic. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 22 avril 2026|
+ |[Multiples vulnérabilités dans Oracle Virtualization](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0472/)|De multiples vulnérabilités ont été découvertes dans Oracle Virtualization. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 22 avril 2026|
+ |[Multiples vulnérabilités dans Oracle Systems](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0471/)|De multiples vulnérabilités ont été découvertes dans Oracle Systems. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service.|Publié le 22 avril 2026|
+ 
+
+# IBM-X-FORCE-EXCHANGE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[IBM Guardium Data Protection cross-site scripting (CVE-2026-4918)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 22, 2026|
+ |[IBM Guardium Data Protection cross-site scripting (CVE-2026-4919)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 22, 2026|
+ |[IBM WebSphere Application Server Liberty spoofing (CVE-2026-3621)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 22, 2026|
+ |[radare2 < 6.1.4 Command Injection via PDB Parser Symbol Names (CVE-2026-40517)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 22, 2026|
+ |[New vulnerability](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 22, 2026|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  
 
 # EU-CERT
@@ -126,6 +97,22 @@
  |[2026-003: Multiple Vulnerabilities in Citrix NetScaler and Citrix ADC](https://cert.europa.eu/publications/security-advisories/2026-003/)|On 23 March 2026, Citrix published a security advisory addressing multiple vulnerabilities affecting NetScaler ADC and NetScaler Gateway. These vulnerabilities may lead to sensitive information disclosure and user session mix-up under specific configurations.|Monday, March 23, 2026 07:03:59 PM CET|
  |[2026-002: Multiple Vulnerabilities in Cisco Products](https://cert.europa.eu/publications/security-advisories/2026-002/)|On 25 February 2026, Cisco released security advisories addressing multiple high and critical severity vulnerabilities in Cisco Catalyst SD-WAN controllers and Cisco SD-WAN Manager. If exploited, these vulnerabilities could allow attackers to gain administrative access to compromised systems. |Thursday, February 26, 2026 07:38:52 PM CET|
  |[2026-001: Critical vulnerabilities in Ivanti EPMM](https://cert.europa.eu/publications/security-advisories/2026-001/)|On 29 January 2026, Ivanti released a security advisory addressing two critical vulnerabilities in their EPMM products. An attacker could exploit those flaws to achieve unauthenticated remote code execution on the vulnerable device. One of these vulnerabilities have been exploited in a limited number of cases.|Friday, January 30, 2026 10:09:06 AM CET|
+ 
+
+# VulDB
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[CVE-2026-4367  X.org libXpm up to 3.5.4 xpmNextWord out-of-bounds (5448e1bd)](https://vuldb.com/vuln/359124)|A vulnerability identified as problematic has been detected in X.org libXpm up to 3.5.4. The affected element is the function xpmNextWord. The manipulation leads to out-of-bounds read.This vulnerabi|Thu, 23 Apr 2026 08:55:56 +0200|
+ |[CVE-2026-34488  i-PRO IP Setting Software up to 5.19 uncontrolled search path (EUVD-2026-25194)](https://vuldb.com/vuln/359123)|A vulnerability categorized as problematic has been discovered in i-PRO IP Setting Software up to 5.19. Impacted is an unknown function. Executing a manipulation can lead to uncontrolled search path.|Thu, 23 Apr 2026 08:55:09 +0200|
+ |[CVE-2026-4512  WebDesignBy reCaptcha Plugin up to 1.x on WordPress Setting grecaptcha_js cross site scripting (EUVD-2026-25197)](https://vuldb.com/vuln/359122)|A vulnerability was found in WebDesignBy reCaptcha Plugin up to 1.x on WordPress. It has been rated as problematic. This issue affects the function grecaptcha_js of the component Setting Handler. Perf|Thu, 23 Apr 2026 08:54:44 +0200|
+ |[CVE-2026-4106  HT Mega Addons for Elementor Plugin up to 3.0.6 on WordPress Ajax Action information disclosure (EUVD-2026-25196)](https://vuldb.com/vuln/359121)|A vulnerability was found in HT Mega Addons for Elementor Plugin up to 3.0.6 on WordPress. It has been declared as problematic. This vulnerability affects unknown code of the component Ajax Action Han|Thu, 23 Apr 2026 08:54:39 +0200|
+ |[CVE-2026-41990  gnupg Libgcrypt up to 1.12.1 out-of-bounds write (EUVD-2026-25193)](https://vuldb.com/vuln/359120)|A vulnerability was found in gnupg Libgcrypt up to 1.12.1. It has been classified as critical. This affects an unknown part. This manipulation causes out-of-bounds write.The identification of this v|Thu, 23 Apr 2026 07:21:33 +0200|
+ |[CVE-2026-41989  gnupg Libgcrypt up to 1.10.3/1.11.2/1.12.1 ECDH gcry_pk_decrypt out-of-bounds write (EUVD-2026-25192)](https://vuldb.com/vuln/359119)|A vulnerability was found in gnupg Libgcrypt up to 1.10.3/1.11.2/1.12.1 and classified as critical. Affected by this issue is the function gcry_pk_decrypt of the component ECDH Handler. The manipulati|Thu, 23 Apr 2026 07:21:25 +0200|
+ |[CVE-2026-3007  Three Learning Koollab Learning Management System 5.3.2. cross site scripting (EUVD-2026-25170)](https://vuldb.com/vuln/359118)|A vulnerability has been found in Three Learning Koollab Learning Management System 5.3.2. and classified as problematic. Affected by this vulnerability is an unknown functionality. The manipulation l|Thu, 23 Apr 2026 07:21:13 +0200|
+ |[CVE-2026-29198  Rocket.Chat up to 8.2.x sql injection](https://vuldb.com/vuln/359117)|A vulnerability, which was classified as critical, was found in Rocket.Chat up to 8.2.x. Affected is an unknown function. Executing a manipulation can lead to sql injection.This vulnerability is han|Thu, 23 Apr 2026 07:21:03 +0200|
+ |[CVE-2026-41177  squidex up to 7.22.x Restore API Url file inclusion (GHSA-45fq-w37p-qfw5)](https://vuldb.com/vuln/359116)|A vulnerability, which was classified as problematic, has been found in squidex up to 7.22.x. This impacts an unknown function of the component Restore API. Performing a manipulation of the argument U|Thu, 23 Apr 2026 07:20:40 +0200|
+ |[CVE-2026-41232  Froxlor up to 2.3.5 Email Address EmailSender::add authorization (EUVD-2026-25186)](https://vuldb.com/vuln/359115)|A vulnerability classified as problematic was found in Froxlor up to 2.3.5. This affects the function EmailSender::add of the component Email Address Handler. Such manipulation leads to incorrect auth|Thu, 23 Apr 2026 07:20:27 +0200|
  
 
 # MA-CERT
@@ -144,20 +131,33 @@
  |[ 63382104/26 - Vulnérabilité activement exploitée affectant Zimbra Collaboration ](https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-activement-exploitee-affectant-zimbra-collaboration)| Une vulnérabilité qui a fait l’objet du bulletin de sécurité «58130711/25 » de la DGSSI est activement exploitée. Cette vulnérabilité peut permettre à un attaquant d’injecter du contenu dans une…| |
  
 
-# CERT-FR
+# HK-CERT
 
  |Title|Description|Date|
  |---|---|---|
- |[Multiples vulnérabilités dans les produits Mozilla](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0480/)|De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.|Publié le 22 avril 2026|
- |[Multiples vulnérabilités dans les produits Atlassian](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0479/)|De multiples vulnérabilités ont été découvertes dans les produits Atlassian. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 22 avril 2026|
- |[Vulnérabilité dans Microsoft .Net](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0478/)|Une vulnérabilité a été découverte dans Microsoft .Net. Elle permet à un attaquant de provoquer une élévation de privilèges.|Publié le 22 avril 2026|
- |[Multiples vulnérabilités dans les produits Spring](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0477/)|De multiples vulnérabilités ont été découvertes dans les produits Spring. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une falsification de requêtes côté serveur (SSRF) et une injection de code indirecte à distance (XSS).|Publié le 22 avril 2026|
- |[Multiples vulnérabilités dans les produits NetApp](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0476/)|De multiples vulnérabilités ont été découvertes dans les produits NetApp. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un déni de service.|Publié le 22 avril 2026|
- |[Multiples vulnérabilités dans GitLab](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0475/)|De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une injection de code indirecte à distance (XSS) et une injection de requêtes illégitimes par rebond (CSRF).|Publié le 22 avril 2026|
- |[Vulnérabilité dans Python](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0474/)|Une vulnérabilité a été découverte dans Python. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.|Publié le 22 avril 2026|
- |[Multiples vulnérabilités dans Oracle Weblogic](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0473/)|De multiples vulnérabilités ont été découvertes dans Oracle Weblogic. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 22 avril 2026|
- |[Multiples vulnérabilités dans Oracle Virtualization](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0472/)|De multiples vulnérabilités ont été découvertes dans Oracle Virtualization. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.|Publié le 22 avril 2026|
- |[Multiples vulnérabilités dans Oracle Systems](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0471/)|De multiples vulnérabilités ont été découvertes dans Oracle Systems. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service.|Publié le 22 avril 2026|
+ |[Apple Products Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/apple-products-information-disclosure-vulnerability_20260423)|A vulnerability has been identified in Apple Products. A remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system.|Release Date: 23 Apr 2026 |
+ |[Microsoft Monthly Security Update (April 2026)](https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-april-2026)|[Updated on 2026-04-17]Updated Description.Proof of Concept exploit code is publicly available for CVE-2026-33825. Insufficient granularity of access control in Microsoft Defender allows an authorized attacker to elevate privileges locally. [Updated on 2026-04...| Release Date: 15 Apr 2026 |
+ |[RedHat Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20260401)|Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, remote code execution, data manipulation, denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on...| Release Date: 1 Apr 2026 |
+ |[Mozilla Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20260422)|Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass, spoofing and sensitive information disclosure on the targeted system.|Release Date: 22 Apr 2026 |
+ |[Oracle Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/oracle-products-multiple-vulnerabilities_20260422)|Multiple vulnerabilities were identified in Oracle Products, a remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system....|Release Date: 22 Apr 2026 |
+ |[PaperCut Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/papercut-multiple-vulnerabilities_20260421)|Multiple vulnerabilities were identified in PaperCut. A remote attacker could exploit these vulnerabilities to trigger security restriction bypass and remote code execution on the targeted system. Note:CVE-2023-27351 is being exploited in the wild. A remote attacker could leverage this...|Release Date: 21 Apr 2026 |
+ |[Zimbra Collaboration Suite Information Disclosure Vulnerability](https://www.hkcert.org/security-bulletin/zimbra-collaboration-suite-cross-site-scripting-vulnerability_20260421)|A vulnerability has been identified in Zimbra Collaboration Suite. A remote attacker could exploit this vulnerability to trigger cross-site scripting and sensitive information disclosure the targeted system. Note:CVE-2025-48700 is being exploited in the wild. This vulnerability could allow...|Release Date: 21 Apr 2026 |
+ |[SUSE Linux Kernel Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20260408)|Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, security restriction bypass and data manipulation on the targeted system. [Updated on 2026-04-10]Updated System...| Release Date: 8 Apr 2026 |
+ |[Microsoft Edge Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20260420)|Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, denial of service condition, security restriction bypass and sensitive information disclosure on the targeted system.|Release Date: 20 Apr 2026 |
+ |[Cisco Products Multiple Vulnerabilities](https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20260417)|Multiple vulnerabilities were identified in Cisco products. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, cross-site scripting and security restriction bypass on the targeted system.|Release Date: 17 Apr 2026 |
+ 
+
+# ZERODAYINITIATIVE
+
+ |Title|Description|Date|
+ |---|---|---|
+ |[(0Day) PublicCMS getXml Server-Side Request Forgery Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-26-295/)|Visit link for details|2026-04-21|
+ |[(0Day) Microsoft Windows library-ms NTLM Response Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-26-294/)|Visit link for details|2026-04-21|
+ |[(0Day) Microsoft Office URI Handler NTLM Response Information Disclosure Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-26-293/)|Visit link for details|2026-04-21|
+ |[QNAP TS-453E QVRPro excpostgres Exposed Dangerous Method Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-26-292/)|Visit link for details|2026-04-15|
+ |[NI LabVIEW LVCLASS File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-26-291/)|Visit link for details|2026-04-15|
+ |[NI LabVIEW LVLIB File Parsing Memory Corruption Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-26-290/)|Visit link for details|2026-04-15|
+ |[Linux Kernel ETS Scheduler Race Condition Local Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-26-289/)|Visit link for details|2026-04-15|
  
 
 # CA-CCS

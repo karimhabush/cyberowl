@@ -3,6 +3,8 @@ This spider is used to scrape alerts from the following source:
 https://vuldb.com via RSS feed
 """
 
+import re
+
 import scrapy
 from items import AlertItem
 
@@ -38,6 +40,8 @@ class VulDBSpider(scrapy.Spider):
             item["link"] = entry.xpath("link/text()").get()
             item["date"] = entry.xpath("pubDate/text()").get()
             description = entry.xpath("description/text()").get()
-            item["description"] = description[:200] if description else "Visit link for details"
+            if description:
+                description = re.sub(r"<[^>]+>", "", description)[:200]
+            item["description"] = description or "Visit link for details"
 
             yield item
