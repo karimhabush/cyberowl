@@ -10,7 +10,7 @@ actions:
 features:
   - title:
     details:
-footer: cyberowl.org © 2023
+footer: cyberowlai.com © 2026
 ---
 
 # Why cyberowl?
@@ -32,3 +32,4 @@ It is a daily updated summary of the most frequent types of security incidents c
 |![Preview](/images/ibm-x-force-exchange.png)|[IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/activity/list) - A cloud-based threat intelligence platform that allows to consume, share and act on threat intelligence.|
 |![Preview](/images/zdi.png)|[ZeroDayInitiative](https://www.zerodayinitiative.com/advisories/published/) - An international software vulnerability initiative that was started in 2005 by TippingPoint.|
 |![Preview](/images/vigilance.png)|[OBS Vigilance](https://vigilance.fr/) - An initiative created by OBS (Orange Business Services) since 1999 to watch public vulnerabilities and then offer security fixes, a database and tools to remediate them.|
+|![Preview](/images/vuldb.png)|[VulDB](https://vuldb.com/) - Number one vulnerability database documenting and explaining security vulnerabilities, threats, and exploits since 1970.|

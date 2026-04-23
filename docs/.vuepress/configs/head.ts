@@ -19,7 +19,6 @@ export const head: HeadConfig[] = [
       href: `/images/logo1.webp`,
     },
   ],
-  ['link', { rel: 'manifest', href: '/manifest.webmanifest' }],
   ['meta', { name: 'application-name', content: 'Cyberowl' }],
   ['meta', { name: 'apple-mobile-web-app-title', content: 'Cyberowl' }],
   ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
