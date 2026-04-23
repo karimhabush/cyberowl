@@ -13,13 +13,13 @@ features:
 footer: cyberowlai.com © 2026
 ---
 
-# Why CyberOwl AI?
+# What is CyberOwl AI?
 
-CyberOwl AI is a quick and easy way to stay current on the latest types of security incidents affecting your organization's assets.
+CyberOwl AI collects security advisories from 10 CERTs worldwide, updated daily. It comes with an AI skill you can add to Claude Code or Cursor that reads your project's dependencies and tells you which alerts are relevant to your stack.
 
-It is a daily updated summary of the most frequent types of security incidents currently being reported from different sources. This is the quickest and most effective way to always stay current on the latest types of incidents.
+Run `/cyberowlai` in your IDE to check.
 
-#### CyberOwl AI is currently reporting from...
+#### Sources
 
 |Source|Description|
 |:---:|:---|

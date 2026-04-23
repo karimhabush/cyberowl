@@ -29,7 +29,7 @@ export default defineUserConfig({
     '/': {
       lang: 'en-US',
       title: 'CyberOwl AI',
-      description: 'Stay informed on the latest cyber threats - a one-stop destination for all the latest alerts and updates from multiple sources.',
+      description: 'Security advisories from 10 CERTs, aggregated daily. Add the AI skill to your IDE to check what affects your project.',
     },
   },
 
