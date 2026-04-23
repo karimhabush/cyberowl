@@ -3,7 +3,7 @@
 """
 import re
 
-from utils import generate_alerts_for_readme, generate_alerts_table, store_alerts_json
+from utils import generate_alerts_table, store_alerts_json
 
 
 class AlertPipeline:
@@ -78,5 +78,4 @@ class AlertPipeline:
         Method to be called when spider is closed.
         """
         generate_alerts_table(spider.name, self.__items)
-        generate_alerts_for_readme(spider.name, self.__items)
         store_alerts_json(spider.name, self.__raw_items)

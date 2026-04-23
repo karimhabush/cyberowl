@@ -43,7 +43,7 @@ jobs:
           git config user.email "<>"
       - name: Commit
         run: |
-          git add src/cyberowl README.md docs/
+          git add docs/
           if git diff-index --quiet HEAD --; then
             echo "No changes to commit"
           else

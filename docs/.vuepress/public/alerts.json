@@ -1,70 +1,6 @@
 {
-  "generated_at": "2026-04-23T11:21:58.283210+00:00",
+  "generated_at": "2026-04-23T13:09:28.552843+00:00",
   "sources": {
-    "US-CERT": {
-      "items": [
-        {
-          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/04/22/cisa-adds-one-known-exploited-vulnerability-catalog",
-          "date": "Apr 22, 2026",
-          "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds Eight Known Exploited Vulnerabilities to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/04/20/cisa-adds-eight-known-exploited-vulnerabilities-catalog",
-          "date": "Apr 20, 2026",
-          "description": "Visit link for details."
-        },
-        {
-          "title": "​​Supply Chain Compromise Impacts Axios Node Package Manager​",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/04/20/supply-chain-compromise-impacts-axios-node-package-manager",
-          "date": "Apr 20, 2026",
-          "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/04/16/cisa-adds-one-known-exploited-vulnerability-catalog",
-          "date": "Apr 16, 2026",
-          "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/04/14/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-          "date": "Apr 14, 2026",
-          "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds Seven Known Exploited Vulnerabilities to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/04/13/cisa-adds-seven-known-exploited-vulnerabilities-catalog",
-          "date": "Apr 13, 2026",
-          "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/04/08/cisa-adds-one-known-exploited-vulnerability-catalog",
-          "date": "Apr 08, 2026",
-          "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/04/06/cisa-adds-one-known-exploited-vulnerability-catalog",
-          "date": "Apr 06, 2026",
-          "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/04/02/cisa-adds-one-known-exploited-vulnerability-catalog",
-          "date": "Apr 02, 2026",
-          "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/04/01/cisa-adds-one-known-exploited-vulnerability-catalog",
-          "date": "Apr 01, 2026",
-          "description": "Visit link for details."
-        }
-      ]
-    },
     "CERT-FR": {
       "items": [
         {
@@ -129,8 +65,142 @@
         }
       ]
     },
+    "US-CERT": {
+      "items": [
+        {
+          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/04/22/cisa-adds-one-known-exploited-vulnerability-catalog",
+          "date": "Apr 22, 2026",
+          "description": "Visit link for details."
+        },
+        {
+          "title": "CISA Adds Eight Known Exploited Vulnerabilities to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/04/20/cisa-adds-eight-known-exploited-vulnerabilities-catalog",
+          "date": "Apr 20, 2026",
+          "description": "Visit link for details."
+        },
+        {
+          "title": "​​Supply Chain Compromise Impacts Axios Node Package Manager​",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/04/20/supply-chain-compromise-impacts-axios-node-package-manager",
+          "date": "Apr 20, 2026",
+          "description": "Visit link for details."
+        },
+        {
+          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/04/16/cisa-adds-one-known-exploited-vulnerability-catalog",
+          "date": "Apr 16, 2026",
+          "description": "Visit link for details."
+        },
+        {
+          "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/04/14/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+          "date": "Apr 14, 2026",
+          "description": "Visit link for details."
+        },
+        {
+          "title": "CISA Adds Seven Known Exploited Vulnerabilities to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/04/13/cisa-adds-seven-known-exploited-vulnerabilities-catalog",
+          "date": "Apr 13, 2026",
+          "description": "Visit link for details."
+        },
+        {
+          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/04/08/cisa-adds-one-known-exploited-vulnerability-catalog",
+          "date": "Apr 08, 2026",
+          "description": "Visit link for details."
+        },
+        {
+          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/04/06/cisa-adds-one-known-exploited-vulnerability-catalog",
+          "date": "Apr 06, 2026",
+          "description": "Visit link for details."
+        },
+        {
+          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/04/02/cisa-adds-one-known-exploited-vulnerability-catalog",
+          "date": "Apr 02, 2026",
+          "description": "Visit link for details."
+        },
+        {
+          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/04/01/cisa-adds-one-known-exploited-vulnerability-catalog",
+          "date": "Apr 01, 2026",
+          "description": "Visit link for details."
+        }
+      ]
+    },
+    "IBM-X-FORCE-EXCHANGE": {
+      "items": [
+        {
+          "title": "ipv4: nexthop: allocate skb dynamically in rtm_get_nexthop() (CVE-2026-31531)",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "23 abr. 2026",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "can: raw: fix ro->uniq use-after-free in raw_rcv() (CVE-2026-31532)",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "23 abr. 2026",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "WordPress Rescue Shortcodes plugin <= 3.3 - Cross Site Scripting (XSS) vulnerability (CVE-2025-62110)",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "23 abr. 2026",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "WordPress ACF Galerie 4 plugin <= 1.4.2 - Broken Access Control vulnerability (CVE-2025-62104)",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "23 abr. 2026",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "New vulnerability",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "23 abr. 2026",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "",
+          "description": "Visit link for details"
+        }
+      ]
+    },
     "OBS-Vigilance": {
       "items": [
+        {
+          "title": "GitLab CE/EE: six vulnerabilities dated 23/07/2025",
+          "link": "https://vigilance.fr/vulnerability/GitLab-CE-EE-six-vulnerabilities-dated-23-07-2025-47786",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of GitLab CE/EE, dated 23/07/2025..."
+        },
         {
           "title": "Redis: write access via Linefeed Error Reply",
           "link": "https://vigilance.fr/vulnerability/Redis-write-access-via-Linefeed-Error-Reply-49765",
@@ -144,6 +214,12 @@
           "description": "An attacker can trigger a memory corruption of Chrome  Edge  Opera, via Type Confusion, in order to trigger a denial of service, and possibly to run code..."
         },
         {
+          "title": "Fulcio: Server-Side Request Forgery via MetaIssuer URL Validation",
+          "link": "https://vigilance.fr/vulnerability/Fulcio-Server-Side-Request-Forgery-via-MetaIssuer-URL-Validation-49760",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger a Server-Side Request Forgery of Fulcio, via MetaIssuer URL Validation, in order to force the server to send queries..."
+        },
+        {
           "title": "ModSecurity Core Rule Set: ingress filtering bypass via Multiple Content-Type Request Headers",
           "link": "https://vigilance.fr/vulnerability/ModSecurity-Core-Rule-Set-ingress-filtering-bypass-via-Multiple-Content-Type-Request-Headers-49763",
           "date": "Visit link for details",
@@ -154,12 +230,6 @@
           "link": "https://vigilance.fr/vulnerability/ImageMagick-multiple-vulnerabilities-dated-22-02-2026-49764",
           "date": "Visit link for details",
           "description": "An attacker can use several vulnerabilities of ImageMagick, dated 22/02/2026..."
-        },
-        {
-          "title": "Fulcio: Server-Side Request Forgery via MetaIssuer URL Validation",
-          "link": "https://vigilance.fr/vulnerability/Fulcio-Server-Side-Request-Forgery-via-MetaIssuer-URL-Validation-49760",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger a Server-Side Request Forgery of Fulcio, via MetaIssuer URL Validation, in order to force the server to send queries..."
         },
         {
           "title": "MuPDF: double free via fz_fill_pixmap_from_display_list()",
@@ -184,168 +254,6 @@
           "link": "https://vigilance.fr/vulnerability/PowerDNS-Recursor-Cache-poisoning-via-EDNS-Client-Subnet-47761",
           "date": "Visit link for details",
           "description": "An attacker can poison the cache of PowerDNS Recursor, via EDNS Client Subnet, in order to hijack trafic..."
-        },
-        {
-          "title": "Microsoft Office SharePoint Server: privilege escalation dated 21/07/2025",
-          "link": "https://vigilance.fr/vulnerability/Microsoft-Office-SharePoint-Server-privilege-escalation-dated-21-07-2025-47756",
-          "date": "Visit link for details",
-          "description": "An attacker can bypass restrictions of Microsoft Office SharePoint Server, dated 21/07/2025, in order to escalate his privileges..."
-        }
-      ]
-    },
-    "VulDB": {
-      "items": [
-        {
-          "title": "CVE-2026-41040  GROWI redos (EUVD-2026-25199)",
-          "link": "https://vuldb.com/vuln/359127",
-          "date": "Thu, 23 Apr 2026 11:42:13 +0200",
-          "description": "A vulnerability described as problematic has been identified in GROWI. This impacts an unknown function. Such manipulation leads to inefficient regular expression complexity.This vulnerability is do"
-        },
-        {
-          "title": "CVE-2025-10549  EfficientLab Controlio up to 1.3.94 uncontrolled search path (EUVD-2025-209559)",
-          "link": "https://vuldb.com/vuln/359126",
-          "date": "Thu, 23 Apr 2026 11:41:44 +0200",
-          "description": "A vulnerability marked as problematic has been reported in EfficientLab Controlio up to 1.3.94. This affects an unknown function. This manipulation causes uncontrolled search path.This vulnerability"
-        },
-        {
-          "title": "CVE-2026-41564  MIK CryptX up to 0.087 on Perl X25519 X25519 Modules prng seed (GHSA-24c2-gp6c-24c6 / EUVD-2026-25201)",
-          "link": "https://vuldb.com/vuln/359125",
-          "date": "Thu, 23 Apr 2026 11:41:18 +0200",
-          "description": "A vulnerability labeled as problematic has been found in MIK CryptX up to 0.087 on Perl. The impacted element is the function Crypt::PK::RSA/Crypt::PK::DSA/Crypt::PK::DH/Crypt::PK::ECC/Crypt::PK::Ed25"
-        },
-        {
-          "title": "CVE-2026-4367  X.org libXpm up to 3.5.4 xpmNextWord out-of-bounds (5448e1bd)",
-          "link": "https://vuldb.com/vuln/359124",
-          "date": "Thu, 23 Apr 2026 08:55:56 +0200",
-          "description": "A vulnerability identified as problematic has been detected in X.org libXpm up to 3.5.4. The affected element is the function xpmNextWord. The manipulation leads to out-of-bounds read.This vulnerabi"
-        },
-        {
-          "title": "CVE-2026-34488  i-PRO IP Setting Software up to 5.19 uncontrolled search path (EUVD-2026-25194)",
-          "link": "https://vuldb.com/vuln/359123",
-          "date": "Thu, 23 Apr 2026 08:55:09 +0200",
-          "description": "A vulnerability categorized as problematic has been discovered in i-PRO IP Setting Software up to 5.19. Impacted is an unknown function. Executing a manipulation can lead to uncontrolled search path."
-        },
-        {
-          "title": "CVE-2026-4512  WebDesignBy reCaptcha Plugin up to 1.x on WordPress Setting grecaptcha_js cross site scripting (EUVD-2026-25197)",
-          "link": "https://vuldb.com/vuln/359122",
-          "date": "Thu, 23 Apr 2026 08:54:44 +0200",
-          "description": "A vulnerability was found in WebDesignBy reCaptcha Plugin up to 1.x on WordPress. It has been rated as problematic. This issue affects the function grecaptcha_js of the component Setting Handler. Perf"
-        },
-        {
-          "title": "CVE-2026-4106  HT Mega Addons for Elementor Plugin up to 3.0.6 on WordPress Ajax Action information disclosure (EUVD-2026-25196)",
-          "link": "https://vuldb.com/vuln/359121",
-          "date": "Thu, 23 Apr 2026 08:54:39 +0200",
-          "description": "A vulnerability was found in HT Mega Addons for Elementor Plugin up to 3.0.6 on WordPress. It has been declared as problematic. This vulnerability affects unknown code of the component Ajax Action Han"
-        },
-        {
-          "title": "CVE-2026-41990  gnupg Libgcrypt up to 1.12.1 out-of-bounds write (EUVD-2026-25193)",
-          "link": "https://vuldb.com/vuln/359120",
-          "date": "Thu, 23 Apr 2026 07:21:33 +0200",
-          "description": "A vulnerability was found in gnupg Libgcrypt up to 1.12.1. It has been classified as critical. This affects an unknown part. This manipulation causes out-of-bounds write.The identification of this v"
-        },
-        {
-          "title": "CVE-2026-41989  gnupg Libgcrypt up to 1.10.3/1.11.2/1.12.1 ECDH gcry_pk_decrypt out-of-bounds write (EUVD-2026-25192)",
-          "link": "https://vuldb.com/vuln/359119",
-          "date": "Thu, 23 Apr 2026 07:21:25 +0200",
-          "description": "A vulnerability was found in gnupg Libgcrypt up to 1.10.3/1.11.2/1.12.1 and classified as critical. Affected by this issue is the function gcry_pk_decrypt of the component ECDH Handler. The manipulati"
-        },
-        {
-          "title": "CVE-2026-3007  Three Learning Koollab Learning Management System 5.3.2. cross site scripting (EUVD-2026-25170)",
-          "link": "https://vuldb.com/vuln/359118",
-          "date": "Thu, 23 Apr 2026 07:21:13 +0200",
-          "description": "A vulnerability has been found in Three Learning Koollab Learning Management System 5.3.2. and classified as problematic. Affected by this vulnerability is an unknown functionality. The manipulation l"
-        }
-      ]
-    },
-    "IBM-X-FORCE-EXCHANGE": {
-      "items": [
-        {
-          "title": "IBM Guardium Data Protection cross-site scripting (CVE-2026-4918)",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "Apr 22, 2026",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "IBM Guardium Data Protection cross-site scripting (CVE-2026-4919)",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "Apr 22, 2026",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "IBM WebSphere Application Server Liberty spoofing (CVE-2026-3621)",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "Apr 22, 2026",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "radare2 < 6.1.4 Command Injection via PDB Parser Symbol Names (CVE-2026-40517)",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "Apr 22, 2026",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "New vulnerability",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "Apr 22, 2026",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "",
-          "description": "Visit link for details"
-        }
-      ]
-    },
-    "EU-CERT": {
-      "items": [
-        {
-          "title": "2026-004: Critical Vulnerability in SharePoint Exploited",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-004/",
-          "date": "Wednesday, March 25, 2026 08:51:39 AM CET",
-          "description": "On 17 March 2026, Microsoft updated one of its January 2026 security advisories related to a remote code execution vulnerability in Microsoft SharePoint. Specifically, Microsoft raised the CVSS score and changed the FAQ section to indicate that the vulnerability could be exploited by an unauthenticated attacker. This vulnerability was added in the CISA's Known Exploited Vulnerabilities (KEV) catalogue on 18 March 2026."
-        },
-        {
-          "title": "2026-003: Multiple Vulnerabilities in Citrix NetScaler and Citrix ADC",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-003/",
-          "date": "Monday, March 23, 2026 07:03:59 PM CET",
-          "description": "On 23 March 2026, Citrix published a security advisory addressing multiple vulnerabilities affecting NetScaler ADC and NetScaler Gateway. These vulnerabilities may lead to sensitive information disclosure and user session mix-up under specific configurations."
-        },
-        {
-          "title": "2026-002: Multiple Vulnerabilities in Cisco Products",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-002/",
-          "date": "Thursday, February 26, 2026 07:38:52 PM CET",
-          "description": "On 25 February 2026, Cisco released security advisories addressing multiple high and critical severity vulnerabilities in Cisco Catalyst SD-WAN controllers and Cisco SD-WAN Manager. If exploited, these vulnerabilities could allow attackers to gain administrative access to compromised systems."
-        },
-        {
-          "title": "2026-001: Critical vulnerabilities in Ivanti EPMM",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-001/",
-          "date": "Friday, January 30, 2026 10:09:06 AM CET",
-          "description": "On 29 January 2026, Ivanti released a security advisory addressing two critical vulnerabilities in their EPMM products. An attacker could exploit those flaws to achieve unauthenticated remote code execution on the vulnerable device. One of these vulnerabilities have been exploited in a limited number of cases."
         }
       ]
     },
@@ -413,49 +321,95 @@
         }
       ]
     },
-    "ZERODAYINITIATIVE": {
+    "EU-CERT": {
       "items": [
         {
-          "title": "(0Day) PublicCMS getXml Server-Side Request Forgery Information Disclosure Vulnerability",
-          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-295/",
-          "date": "2026-04-21",
-          "description": "Visit link for details"
+          "title": "2026-004: Critical Vulnerability in SharePoint Exploited",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-004/",
+          "date": "Wednesday, March 25, 2026 08:51:39 AM CET",
+          "description": "On 17 March 2026, Microsoft updated one of its January 2026 security advisories related to a remote code execution vulnerability in Microsoft SharePoint. Specifically, Microsoft raised the CVSS score and changed the FAQ section to indicate that the vulnerability could be exploited by an unauthenticated attacker. This vulnerability was added in the CISA's Known Exploited Vulnerabilities (KEV) catalogue on 18 March 2026."
         },
         {
-          "title": "(0Day) Microsoft Windows library-ms NTLM Response Information Disclosure Vulnerability",
-          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-294/",
-          "date": "2026-04-21",
-          "description": "Visit link for details"
+          "title": "2026-003: Multiple Vulnerabilities in Citrix NetScaler and Citrix ADC",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-003/",
+          "date": "Monday, March 23, 2026 07:03:59 PM CET",
+          "description": "On 23 March 2026, Citrix published a security advisory addressing multiple vulnerabilities affecting NetScaler ADC and NetScaler Gateway. These vulnerabilities may lead to sensitive information disclosure and user session mix-up under specific configurations."
         },
         {
-          "title": "(0Day) Microsoft Office URI Handler NTLM Response Information Disclosure Vulnerability",
-          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-293/",
-          "date": "2026-04-21",
-          "description": "Visit link for details"
+          "title": "2026-002: Multiple Vulnerabilities in Cisco Products",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-002/",
+          "date": "Thursday, February 26, 2026 07:38:52 PM CET",
+          "description": "On 25 February 2026, Cisco released security advisories addressing multiple high and critical severity vulnerabilities in Cisco Catalyst SD-WAN controllers and Cisco SD-WAN Manager. If exploited, these vulnerabilities could allow attackers to gain administrative access to compromised systems."
         },
         {
-          "title": "QNAP TS-453E QVRPro excpostgres Exposed Dangerous Method Remote Code Execution Vulnerability",
-          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-292/",
-          "date": "2026-04-15",
-          "description": "Visit link for details"
+          "title": "2026-001: Critical vulnerabilities in Ivanti EPMM",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-001/",
+          "date": "Friday, January 30, 2026 10:09:06 AM CET",
+          "description": "On 29 January 2026, Ivanti released a security advisory addressing two critical vulnerabilities in their EPMM products. An attacker could exploit those flaws to achieve unauthenticated remote code execution on the vulnerable device. One of these vulnerabilities have been exploited in a limited number of cases."
+        }
+      ]
+    },
+    "VulDB": {
+      "items": [
+        {
+          "title": "CVE-2025-62110  Rescue Themes Rescue Shortcodes Plugin up to 3.3 on WordPress cross site scripting",
+          "link": "https://vuldb.com/vuln/359139",
+          "date": "Thu, 23 Apr 2026 14:05:16 +0200",
+          "description": "A vulnerability labeled as problematic has been found in Rescue Themes Rescue Shortcodes Plugin up to 3.3 on WordPress. Affected is an unknown function. Such manipulation leads to cross site scripting"
         },
         {
-          "title": "NI LabVIEW LVCLASS File Parsing Memory Corruption Remote Code Execution Vulnerability",
-          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-291/",
-          "date": "2026-04-15",
-          "description": "Visit link for details"
+          "title": "CVE-2026-28040  Magepeople Taxi Booking Manager for WooCommerce Plugin up to 2.0.0 on WordPress cross site scripting",
+          "link": "https://vuldb.com/vuln/359138",
+          "date": "Thu, 23 Apr 2026 14:05:08 +0200",
+          "description": "A vulnerability identified as problematic has been detected in Magepeople Taxi Booking Manager for WooCommerce Plugin up to 2.0.0 on WordPress. This impacts an unknown function. This manipulation caus"
         },
         {
-          "title": "NI LabVIEW LVLIB File Parsing Memory Corruption Remote Code Execution Vulnerability",
-          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-290/",
-          "date": "2026-04-15",
-          "description": "Visit link for details"
+          "title": "CVE-2025-62104  Navneil Naicker ACF Galerie 4 Plugin up to 1.4.2 on WordPress authorization",
+          "link": "https://vuldb.com/vuln/359137",
+          "date": "Thu, 23 Apr 2026 14:03:18 +0200",
+          "description": "A vulnerability categorized as critical has been discovered in Navneil Naicker ACF Galerie 4 Plugin up to 1.4.2 on WordPress. This affects an unknown function. The manipulation results in missing auth"
         },
         {
-          "title": "Linux Kernel ETS Scheduler Race Condition Local Privilege Escalation Vulnerability",
-          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-289/",
-          "date": "2026-04-15",
-          "description": "Visit link for details"
+          "title": "CVE-2026-6887  BorG SPM 2007 sql injection",
+          "link": "https://vuldb.com/vuln/359136",
+          "date": "Thu, 23 Apr 2026 14:03:15 +0200",
+          "description": "A vulnerability was found in BorG SPM 2007. It has been rated as critical. The impacted element is an unknown function. The manipulation leads to sql injection.This vulnerability is referenced as CV"
+        },
+        {
+          "title": "CVE-2026-6886  BorG SPM 2007 weak authentication",
+          "link": "https://vuldb.com/vuln/359135",
+          "date": "Thu, 23 Apr 2026 14:03:12 +0200",
+          "description": "A vulnerability was found in BorG SPM 2007. It has been declared as very critical. The affected element is an unknown function. Executing a manipulation can lead to weak authentication.The identific"
+        },
+        {
+          "title": "CVE-2026-6885  BorG SPM 2007 unrestricted upload",
+          "link": "https://vuldb.com/vuln/359134",
+          "date": "Thu, 23 Apr 2026 14:03:08 +0200",
+          "description": "A vulnerability was found in BorG SPM 2007. It has been classified as critical. Impacted is an unknown function. Performing a manipulation results in unrestricted upload.This vulnerability was named"
+        },
+        {
+          "title": "CVE-2026-3259  Google Cloud BigQuery up to 0.x/28 information exposure",
+          "link": "https://vuldb.com/vuln/359133",
+          "date": "Thu, 23 Apr 2026 14:02:53 +0200",
+          "description": "A vulnerability was found in Google Cloud BigQuery up to 0.x/28 and classified as problematic. This issue affects some unknown processing. Such manipulation leads to information exposure through error"
+        },
+        {
+          "title": "CVE-2026-5464  smub ExactMetrics Plugin up to 9.1.2 on WordPress Google Analytics Dashboard connect-url onboarding_key File authorization",
+          "link": "https://vuldb.com/vuln/359132",
+          "date": "Thu, 23 Apr 2026 14:02:26 +0200",
+          "description": "A vulnerability has been found in smub ExactMetrics Plugin up to 9.1.2 on WordPress and classified as problematic. This vulnerability affects the function onboarding_key of the file /wp-json/exactmetr"
+        },
+        {
+          "title": "CVE-2026-31532  Linux Kernel up to 6.12.82/6.18.23/6.19.13/7.0.0 raw_rcv use after free",
+          "link": "https://vuldb.com/vuln/359131",
+          "date": "Thu, 23 Apr 2026 14:02:17 +0200",
+          "description": "A vulnerability, which was classified as critical, was found in Linux Kernel up to 6.12.82/6.18.23/6.19.13/7.0.0. This affects the function raw_rcv. The manipulation results in use after free.This v"
+        },
+        {
+          "title": "CVE-2026-6903  Zurich Instruments LabOne prior 26.01.3.9 User Interface path traversal",
+          "link": "https://vuldb.com/vuln/359130",
+          "date": "Thu, 23 Apr 2026 14:02:03 +0200",
+          "description": "A vulnerability, which was classified as critical, has been found in Zurich Instruments LabOne. Affected by this issue is some unknown functionality of the component User Interface. The manipulation l"
         }
       ]
     },
@@ -520,6 +474,52 @@
           "link": "https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20260420",
           "date": "Release Date: 20 Apr 2026 ",
           "description": "Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, denial of service condition, security restriction bypass and sensitive information disclosure on the targeted system."
+        }
+      ]
+    },
+    "ZERODAYINITIATIVE": {
+      "items": [
+        {
+          "title": "(0Day) PublicCMS getXml Server-Side Request Forgery Information Disclosure Vulnerability",
+          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-295/",
+          "date": "2026-04-21",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "(0Day) Microsoft Windows library-ms NTLM Response Information Disclosure Vulnerability",
+          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-294/",
+          "date": "2026-04-21",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "(0Day) Microsoft Office URI Handler NTLM Response Information Disclosure Vulnerability",
+          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-293/",
+          "date": "2026-04-21",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "QNAP TS-453E QVRPro excpostgres Exposed Dangerous Method Remote Code Execution Vulnerability",
+          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-292/",
+          "date": "2026-04-15",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "NI LabVIEW LVCLASS File Parsing Memory Corruption Remote Code Execution Vulnerability",
+          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-291/",
+          "date": "2026-04-15",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "NI LabVIEW LVLIB File Parsing Memory Corruption Remote Code Execution Vulnerability",
+          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-290/",
+          "date": "2026-04-15",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Linux Kernel ETS Scheduler Race Condition Local Privilege Escalation Vulnerability",
+          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-289/",
+          "date": "2026-04-15",
+          "description": "Visit link for details"
         }
       ]
     },

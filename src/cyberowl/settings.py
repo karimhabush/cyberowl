@@ -1,7 +1,6 @@
 """
 Scrapy settings file.
 """
-from mdtemplate import MDTemplate
 
 BOT_NAME = "cyberowl"
 
@@ -24,7 +23,3 @@ ITEM_PIPELINES = {
     "pipelines.AlertPipeline": 300,
 }
 
-# To export to markdown
-
-OUTPUT_FILE = "README.md"
-README_GENERATOR = MDTemplate(OUTPUT_FILE)
