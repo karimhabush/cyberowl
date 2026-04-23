@@ -1,12 +1,10 @@
 import process from 'node:process'
-import { viteBundler } from '@vuepress/bundler-vite'
 import { webpackBundler } from '@vuepress/bundler-webpack'
-import { defineUserConfig } from '@vuepress/cli'
+import { defineUserConfig } from 'vuepress'
 import { defaultTheme } from '@vuepress/theme-default'
-import { getDirname, path } from '@vuepress/utils'
+import { getDirname, path } from 'vuepress/utils'
 import { searchPlugin } from '@vuepress/plugin-search'
 import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics'
-import { docsearchPlugin } from '@vuepress/plugin-docsearch'
 import { registerComponentsPlugin } from '@vuepress/plugin-register-components'
 
 import {
@@ -35,9 +33,22 @@ export default defineUserConfig({
     },
   },
 
-  // specify bundler via environment variable
-  bundler:
-    process.env.DOCS_BUNDLER === 'webpack' ? webpackBundler() : viteBundler(),
+  bundler: webpackBundler({
+    evergreen: true,
+    configureWebpack: (config) => {
+      config.module?.rules?.forEach((rule: any) => {
+        if (rule?.use) {
+          const uses = Array.isArray(rule.use) ? rule.use : [rule.use]
+          uses.forEach((use: any) => {
+            if (use?.loader?.includes('esbuild-loader') && use.options) {
+              use.options.target = 'es2022'
+            }
+          })
+        }
+      })
+      return {}
+    },
+  }),
 
   // configure default theme
   theme: defaultTheme({
@@ -57,7 +68,6 @@ export default defineUserConfig({
         // page meta
         editLink: false,
       },
-
     },
 
     themePlugins: {

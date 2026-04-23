@@ -68,7 +68,6 @@ jobs:
       - name: Build
         env:
           GA_ID: ${{ secrets.GA_ID }}
-          DOCS_BUNDLER: webpack
         run: npm run docs:build
       - name: Configure AWS credentials
         uses: aws-actions/configure-aws-credentials@v4
