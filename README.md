@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="docs/.vuepress/public/images/logo1.webp" alt="CyberOwl AI" width="200">
+  <img src="docs/.vuepress/public/images/logoDark.webp" alt="CyberOwl AI" width="200">
   <h1>CyberOwl AI</h1>
   <p>Aggregates security advisories from 10 international CERTs daily and provides an AI skill that cross-references alerts against your project's tech stack.</p>
   <p>
