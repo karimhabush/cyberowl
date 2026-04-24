@@ -4,12 +4,12 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[ipv4: nexthop: allocate skb dynamically in rtm_get_nexthop() (CVE-2026-31531)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 23, 2026|
- |[can: raw: fix ro->uniq use-after-free in raw_rcv() (CVE-2026-31532)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 23, 2026|
- |[WordPress Rescue Shortcodes plugin <= 3.3 - Cross Site Scripting (XSS) vulnerability (CVE-2025-62110)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 23, 2026|
- |[WordPress ACF Galerie 4 plugin <= 1.4.2 - Broken Access Control vulnerability (CVE-2025-62104)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 23, 2026|
- |[WordPress Taxi Booking Manager for WooCommerce plugin <= 2.0.0 - Cross Site Scripting (XSS) vulnerability (CVE-2026-28040)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 23, 2026|
- |[New vulnerability](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 23, 2026|
+ |[Stored XSS in AdaptiveGRC (CVE-2026-4313)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 24, 2026|
+ |[Insecure Default Configuration in P4 Server (CVE-2026-6043)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 24, 2026|
+ |[Apache DolphinScheduler: Users are able to use tenants that are not defined on the platform during workflow execution. (CVE-2026-23902)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 24, 2026|
+ |[Apache DolphinScheduler: Deserialization of untrusted data in RPC (CVE-2025-62233)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 24, 2026|
+ |[Apache ActiveMQ, Apache ActiveMQ Broker, Apache ActiveMQ All: Authenticated user can perform RCE via DestinationView MBean exposed by Jolokia (CVE-2026-41044)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 24, 2026|
+ |[New vulnerability](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 24, 2026|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
