@@ -4,12 +4,12 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[vanna-ai vanna Legacy Flask API improper authorization (CVE-2026-6977)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 25, 2026|
- |[netfilter: ip6t_eui64: reject invalid MAC header for all packets (CVE-2026-31685)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 25, 2026|
- |[net: sched: act_csum: validate nested VLAN headers (CVE-2026-31684)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 25, 2026|
- |[batman-adv: avoid OGM aggregation when skb tailroom is insufficient (CVE-2026-31683)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 25, 2026|
- |[bridge: br_nd_send: linearize skb before parsing ND options (CVE-2026-31682)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 25, 2026|
- |[New vulnerability](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 25, 2026|
+ |[Tenda FH1202 httpd WrlclientSet fromWrlclientSet stack-based overflow (CVE-2026-7035)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|2026年4月26日|
+ |[Tenda FH1202 httpd WrlExtraSet stack-based overflow (CVE-2026-7034)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|2026年4月26日|
+ |[Tenda F456 SafeClientFilter fromSafeClientFilter buffer overflow (CVE-2026-7033)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|2026年4月26日|
+ |[Tenda F456 SafeMacFilter fromSafeMacFilter buffer overflow (CVE-2026-7031)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|2026年4月26日|
+ |[Tenda F456 RouteStatic fromRouteStatic buffer overflow (CVE-2026-7030)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|2026年4月26日|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
