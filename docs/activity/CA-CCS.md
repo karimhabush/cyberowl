@@ -4,14 +4,14 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Microsoft Edge security advisory (AV26-396)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av26-396)|Visit link for details|2026-04-27|
+ |[Notepad++ security advisory (AV26-395)](https://www.cyber.gc.ca/en/alerts-advisories/notepad-security-advisory-av26-395)|Visit link for details|2026-04-27|
+ |[Broadcom VMware security advisory (AV26-394)](https://www.cyber.gc.ca/en/alerts-advisories/broadcom-vmware-security-advisory-av26-394)|Visit link for details|2026-04-27|
+ |[[Control Systems] Moxa security advisory (AV26-393)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-moxa-security-advisory-av26-393)|Visit link for details|2026-04-27|
+ |[Red Hat security advisory (AV26-392)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av26-392)|Visit link for details|2026-04-27|
+ |[[Control systems] CISA ICS security advisories (AV26–391)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av26-391)|Visit link for details|2026-04-27|
+ |[Ubuntu security advisory (AV26-390)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av26-390)|Visit link for details|2026-04-27|
+ |[Dell security advisory (AV26-389)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av26-389)|Visit link for details|2026-04-27|
+ |[IBM security advisory (AV26-388)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av26-388)|Visit link for details|2026-04-27|
  |[Tenable security advisory (AV26-387)](https://www.cyber.gc.ca/en/alerts-advisories/tenable-security-advisory-av26-387)|Visit link for details|2026-04-23|
- |[Spring security advisory (AV26-386)](https://www.cyber.gc.ca/en/alerts-advisories/spring-security-advisory-av26-386)|Visit link for details|2026-04-23|
- |[AL25-012 - Vulnerabilities impacting Cisco ASA and FTD devices – CVE-2025-20333, CVE-2025-20362 and CVE-2025-20363 – Update 1](https://www.cyber.gc.ca/en/alerts-advisories/al25-012-vulnerabilities-impacting-cisco-asa-ftd-devices-cve-2025-20333-cve-2025-20362-cve-2025-20363)|Visit link for details|2026-04-23|
- |[CrowdStrike security advisory (AV26-384)](https://www.cyber.gc.ca/en/alerts-advisories/crowdstrike-security-advisory-av26-384)|Visit link for details|2026-04-23|
- |[GitHub security advisory (AV26-383)](https://www.cyber.gc.ca/en/alerts-advisories/github-security-advisory-av26-383)|Visit link for details|2026-04-23|
- |[Google Chrome security advisory (AV26-382)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av26-382)|Visit link for details|2026-04-23|
- |[Microsoft security advisory – April 2026 monthly rollup (AV26-352) - Update 2](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-april-2026-monthly-rollup-av26-352)|Visit link for details|2026-04-22|
- |[Apple security advisory (AV26-381)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av26-381)|Visit link for details|2026-04-22|
- |[Oracle security advisory – April 2026 quarterly rollup (AV26-380)](https://www.cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-april-2026-quarterly-rollup-av26-380)|Visit link for details|2026-04-22|
- |[n8n security advisory (AV26-379)](https://www.cyber.gc.ca/en/alerts-advisories/n8n-security-advisory-av26-379)|Visit link for details|2026-04-22|
  

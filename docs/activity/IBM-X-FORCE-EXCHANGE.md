@@ -4,12 +4,12 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Tenda FH1202 httpd WrlclientSet fromWrlclientSet stack-based overflow (CVE-2026-7035)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|2026年4月26日|
- |[Tenda FH1202 httpd WrlExtraSet stack-based overflow (CVE-2026-7034)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|2026年4月26日|
- |[Tenda F456 SafeClientFilter fromSafeClientFilter buffer overflow (CVE-2026-7033)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|2026年4月26日|
- |[Tenda F456 SafeMacFilter fromSafeMacFilter buffer overflow (CVE-2026-7031)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|2026年4月26日|
- |[Tenda F456 RouteStatic fromRouteStatic buffer overflow (CVE-2026-7030)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|2026年4月26日|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[code-projects Employee Management System cancel.php sql injection (CVE-2026-7118)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 27, 2026|
+ |[Foxit PDF Editor/Reader's insufficient parameter validation leads to denial-of-service vulnerability (CVE-2026-5937)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 27, 2026|
+ |[Foxit PDF Editor/Reader Infinite Loop Denial-of-Service Vulnerability (CVE-2026-5938)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 27, 2026|
+ |[Foxit PDF Editor/Reader Annotation Use-After-Free Remote Code Execution Vulnerability (CVE-2026-5940)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 27, 2026|
+ |[Foxit PDF Editor/Reader AcroForm Signature Use-After-Free Vulnerability (CVE-2026-5942)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 27, 2026|
+ |[New vulnerability](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Apr 27, 2026|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
