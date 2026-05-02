@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T15:22:26.143561+00:00",
+  "generated_at": "2026-05-02T15:16:25.225906+00:00",
   "sources": {
     "CERT-FR": {
       "items": [
@@ -69,6 +69,12 @@
       "items": [
         {
           "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/05/01/cisa-adds-one-known-exploited-vulnerability-catalog",
+          "date": "May 01, 2026",
+          "description": "Visit link for details."
+        },
+        {
+          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
           "link": "https://www.cisa.gov/news-events/alerts/2026/04/30/cisa-adds-one-known-exploited-vulnerability-catalog",
           "date": "Apr 30, 2026",
           "description": "Visit link for details."
@@ -120,109 +126,45 @@
           "link": "https://www.cisa.gov/news-events/alerts/2026/04/14/cisa-adds-two-known-exploited-vulnerabilities-catalog",
           "date": "Apr 14, 2026",
           "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds Seven Known Exploited Vulnerabilities to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/04/13/cisa-adds-seven-known-exploited-vulnerabilities-catalog",
-          "date": "Apr 13, 2026",
-          "description": "Visit link for details."
-        }
-      ]
-    },
-    "VulDB": {
-      "items": [
-        {
-          "title": "CVE-2026-31742  Linux Kernel up to 6.18.21/6.19.11 vt enter_alt_screen out-of-bounds",
-          "link": "https://vuldb.com/vuln/360618",
-          "date": "Fri, 01 May 2026 16:55:21 +0200",
-          "description": "A vulnerability was found in Linux Kernel up to 6.18.21/6.19.11. It has been classified as critical. This issue affects the function enter_alt_screen of the component vt. The manipulation leads to out"
-        },
-        {
-          "title": "CVE-2026-31730  Linux Kernel up to 6.6.133/6.12.80/6.18.21/6.19.11 misc fastrpc_init_create_static_process double free",
-          "link": "https://vuldb.com/vuln/360617",
-          "date": "Fri, 01 May 2026 16:55:16 +0200",
-          "description": "A vulnerability was found in Linux Kernel up to 6.6.133/6.12.80/6.18.21/6.19.11 and classified as critical. This vulnerability affects the function fastrpc_init_create_static_process of the component"
-        },
-        {
-          "title": "CVE-2026-31734  Linux Kernel up to 6.18.21/6.19.11 sched_ext trampoline.c is_bpf_migration_disabled privilege escalation",
-          "link": "https://vuldb.com/vuln/360616",
-          "date": "Fri, 01 May 2026 16:55:13 +0200",
-          "description": "A vulnerability has been found in Linux Kernel up to 6.18.21/6.19.11 and classified as problematic. This affects the function is_bpf_migration_disabled of the file trampoline.c of the component sched_"
-        },
-        {
-          "title": "CVE-2026-31732  Linux Kernel up to 6.18.21/6.19.11 gpio gpiochip_add_data_with_key double free",
-          "link": "https://vuldb.com/vuln/360615",
-          "date": "Fri, 01 May 2026 16:55:10 +0200",
-          "description": "A vulnerability, which was classified as critical, was found in Linux Kernel up to 6.18.21/6.19.11. Affected by this issue is the function gpiochip_add_data_with_key of the component gpio. Such manipu"
-        },
-        {
-          "title": "CVE-2026-31728  Linux Kernel up to 6.19.11 u_ether gether_disconnect null pointer dereference",
-          "link": "https://vuldb.com/vuln/360614",
-          "date": "Fri, 01 May 2026 16:55:07 +0200",
-          "description": "A vulnerability, which was classified as critical, has been found in Linux Kernel up to 6.19.11. Affected by this vulnerability is the function gether_disconnect of the component u_ether. This manipul"
-        },
-        {
-          "title": "CVE-2026-31775  Linux Kernel up to 6.19.11 ALSA atc_get_resources daios[] infinite loop",
-          "link": "https://vuldb.com/vuln/360613",
-          "date": "Fri, 01 May 2026 16:55:03 +0200",
-          "description": "A vulnerability classified as critical was found in Linux Kernel up to 6.19.11. Affected is the function atc_get_resources of the component ALSA. The manipulation of the argument daios[] results in in"
-        },
-        {
-          "title": "CVE-2026-31769  Linux Kernel up to 6.18.21/6.19.11 gpib close_dev_ioctl use after free",
-          "link": "https://vuldb.com/vuln/360612",
-          "date": "Fri, 01 May 2026 16:54:57 +0200",
-          "description": "A vulnerability classified as critical has been found in Linux Kernel up to 6.18.21/6.19.11. This impacts the function close_dev_ioctl of the component gpib. The manipulation leads to use after free."
-        },
-        {
-          "title": "CVE-2026-31765  Linux Kernel up to 6.12.80/6.18.21/6.19.11 amdgpu null pointer dereference",
-          "link": "https://vuldb.com/vuln/360611",
-          "date": "Fri, 01 May 2026 16:54:53 +0200",
-          "description": "A vulnerability described as critical has been identified in Linux Kernel up to 6.12.80/6.18.21/6.19.11. This affects an unknown function of the component amdgpu. Executing a manipulation can lead to"
-        },
-        {
-          "title": "CVE-2026-31747  Linux Kernel up to 6.19.11 comedi me4000_xilinx_download buffer overflow",
-          "link": "https://vuldb.com/vuln/360610",
-          "date": "Fri, 01 May 2026 16:54:50 +0200",
-          "description": "A vulnerability marked as critical has been reported in Linux Kernel up to 6.19.11. The impacted element is the function me4000_xilinx_download of the component comedi. Performing a manipulation resul"
-        },
-        {
-          "title": "CVE-2026-31726  Linux Kernel up to 6.19.11 usb uvc_function_unbind use after free",
-          "link": "https://vuldb.com/vuln/360609",
-          "date": "Fri, 01 May 2026 16:54:46 +0200",
-          "description": "A vulnerability labeled as critical has been found in Linux Kernel up to 6.19.11. The affected element is the function uvc_function_unbind of the component usb. Such manipulation leads to use after fr"
         }
       ]
     },
     "IBM-X-FORCE-EXCHANGE": {
       "items": [
         {
-          "title": "Apache MINA: CWE-502 Deserialization of Untrusted Data (take 2) (CVE-2026-42778)",
+          "title": "8nite metatrader-4-mcp sync_ea_from_file index.ts CallToolRequestSchema path traversal (CVE-2026-7627)",
           "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "May 1, 2026",
+          "date": "May 2, 2026",
           "description": "Visit link for details"
         },
         {
-          "title": "Apache MINA: AbstractIoBuffer.resolveClass() null-clazz Branch Skips acceptMatchers Filter — Full Object Deserialization RCE (take 2) (CVE-2026-42779)",
+          "title": "itsourcecode Courier Management System edit_user.php sql injection (CVE-2026-7612)",
           "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "May 1, 2026",
+          "date": "May 2, 2026",
           "description": "Visit link for details"
         },
         {
-          "title": "Apache Neethi: Unrestricted HTTP Redirect Following in Policy References (CVE-2026-42404)",
+          "title": "Total <= 2.2.1 - Authenticated (Contributor+) Stored Cross-Site Scripting via Post Title in Blog Section Image alt Attribute (CVE-2026-5077)",
           "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "May 1, 2026",
+          "date": "May 2, 2026",
           "description": "Visit link for details"
         },
         {
-          "title": "Apache Neethi: Policy Normalization Unbounded Resource Allocation DoS (CVE-2026-42402)",
+          "title": "TRENDnet TEW-821DAP Firmware Update ssi cleartext transmission (CVE-2026-7610)",
           "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "May 1, 2026",
+          "date": "May 2, 2026",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Zyosoft｜School App - Insecure Direct Object Reference (CVE-2026-7491)",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "May 2, 2026",
           "description": "Visit link for details"
         },
         {
           "title": "New vulnerability",
           "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "May 1, 2026",
+          "date": "May 2, 2026",
           "description": "Visit link for details"
         },
         {
@@ -248,76 +190,6 @@
           "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
           "date": "",
           "description": "Visit link for details"
-        },
-        {
-          "title": "",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "",
-          "description": "Visit link for details"
-        }
-      ]
-    },
-    "OBS-Vigilance": {
-      "items": [
-        {
-          "title": "Synology DiskStation Manager: multiple vulnerabilities dated 31/07/2025",
-          "link": "https://vigilance.fr/vulnerability/Synology-DiskStation-Manager-multiple-vulnerabilities-dated-31-07-2025-47832",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of Synology DiskStation Manager, dated 31/07/2025..."
-        },
-        {
-          "title": "Chrome  Edge  Opera: use after free via Media Stream",
-          "link": "https://vigilance.fr/vulnerability/Chrome-Edge-Opera-use-after-free-via-Media-Stream-47824",
-          "date": "Visit link for details",
-          "description": "An attacker can force the reuse of a freed memory area of Chrome  Edge  Opera, via Media Stream, in order to trigger a denial of service, and possibly to run code..."
-        },
-        {
-          "title": "IBM Db2: buffer overflow dated 30/07/2025",
-          "link": "https://vigilance.fr/vulnerability/IBM-Db2-buffer-overflow-dated-30-07-2025-47822",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger a buffer overflow of IBM Db2, dated 30/07/2025, in order to trigger a denial of service, and possibly to run code..."
-        },
-        {
-          "title": "Apple iOS  macOS: multiple vulnerabilities dated 30/07/2025",
-          "link": "https://vigilance.fr/vulnerability/Apple-iOS-macOS-multiple-vulnerabilities-dated-30-07-2025-47813",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of Apple iOS  macOS, dated 30/07/2025..."
-        },
-        {
-          "title": "Chrome  Edge  Opera: two vulnerabilities dated 30/10/2024",
-          "link": "https://vigilance.fr/vulnerability/Chrome-Edge-Opera-two-vulnerabilities-dated-30-10-2024-45491",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of Chrome  Edge  Opera, dated 30/10/2024..."
-        },
-        {
-          "title": "systemd: privilege escalation via Nspawn",
-          "link": "https://vigilance.fr/vulnerability/systemd-privilege-escalation-via-Nspawn-50503",
-          "date": "Visit link for details",
-          "description": "An attacker can bypass restrictions of systemd, via Nspawn, in order to escalate his privileges..."
-        },
-        {
-          "title": "LibTIFF: buffer overflow via thumbnail.c",
-          "link": "https://vigilance.fr/vulnerability/LibTIFF-buffer-overflow-via-thumbnail-c-47802",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger a buffer overflow of LibTIFF, via thumbnail.c, in order to trigger a denial of service, and possibly to run code..."
-        },
-        {
-          "title": "Mozilla NSS: integer overflow via Platform-independent Ghash AES-GCM",
-          "link": "https://vigilance.fr/vulnerability/Mozilla-NSS-integer-overflow-via-Platform-independent-Ghash-AES-GCM-49855",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger an integer overflow of Mozilla NSS, via Platform-independent Ghash AES-GCM, in order to trigger a denial of service, and possibly to run code..."
-        },
-        {
-          "title": "udisks: information disclosure via LUKS Encryption Headers Back Up",
-          "link": "https://vigilance.fr/vulnerability/udisks-information-disclosure-via-LUKS-Encryption-Headers-Back-Up-49854",
-          "date": "Visit link for details",
-          "description": "An attacker can bypass access restrictions to data of udisks, via LUKS Encryption Headers Back Up, in order to read sensitive information..."
-        },
-        {
-          "title": "udisks: write access via LUKS Encryption Headers Restoring D-Bus API",
-          "link": "https://vigilance.fr/vulnerability/udisks-write-access-via-LUKS-Encryption-Headers-Restoring-D-Bus-API-49853",
-          "date": "Visit link for details",
-          "description": "An attacker can bypass access restrictions of udisks, via LUKS Encryption Headers Restoring D-Bus API, in order to alter data..."
         }
       ]
     },
@@ -385,6 +257,134 @@
         }
       ]
     },
+    "OBS-Vigilance": {
+      "items": [
+        {
+          "title": "Orthanc: privilege escalation via Authorisation Logic Flaw",
+          "link": "https://vigilance.fr/vulnerability/Orthanc-privilege-escalation-via-Authorisation-Logic-Flaw-49865",
+          "date": "Visit link for details",
+          "description": "An attacker can bypass restrictions of Orthanc, via Authorisation Logic Flaw, in order to escalate his privileges..."
+        },
+        {
+          "title": "Svelte: multiple vulnerabilities dated 02/03/2026",
+          "link": "https://vigilance.fr/vulnerability/Svelte-multiple-vulnerabilities-dated-02-03-2026-49864",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of Svelte, dated 02/03/2026..."
+        },
+        {
+          "title": "Axios: denial of service via mergeConfig()",
+          "link": "https://vigilance.fr/vulnerability/Axios-denial-of-service-via-mergeConfig-49863",
+          "date": "Visit link for details",
+          "description": "An attacker can cause a fatal error of Axios, via mergeConfig(), in order to trigger a denial of service..."
+        },
+        {
+          "title": "OpenBSD: denial of service via pledge",
+          "link": "https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-pledge-49862",
+          "date": "Visit link for details",
+          "description": "An attacker can cause a fatal error of OpenBSD, via pledge, in order to trigger a denial of service..."
+        },
+        {
+          "title": "GVfs: code execution via File Paths Carriage Return",
+          "link": "https://vigilance.fr/vulnerability/GVfs-code-execution-via-File-Paths-Carriage-Return-49861",
+          "date": "Visit link for details",
+          "description": "An attacker can use a vulnerability of GVfs, via File Paths Carriage Return, in order to run code..."
+        },
+        {
+          "title": "GVfs: information disclosure via FTP IP Address Connect",
+          "link": "https://vigilance.fr/vulnerability/GVfs-information-disclosure-via-FTP-IP-Address-Connect-49860",
+          "date": "Visit link for details",
+          "description": "An attacker can bypass access restrictions to data of GVfs, via FTP IP Address Connect, in order to read sensitive information..."
+        },
+        {
+          "title": "Splunk Enterprise: information disclosure via MongoClient Logging Channel",
+          "link": "https://vigilance.fr/vulnerability/Splunk-Enterprise-information-disclosure-via-MongoClient-Logging-Channel-49859",
+          "date": "Visit link for details",
+          "description": "An attacker can bypass access restrictions to data of Splunk Enterprise, via MongoClient Logging Channel, in order to read sensitive information..."
+        },
+        {
+          "title": "GnuPG: directory traversal via Literal Data Path Separators",
+          "link": "https://vigilance.fr/vulnerability/GnuPG-directory-traversal-via-Literal-Data-Path-Separators-49858",
+          "date": "Visit link for details",
+          "description": "An attacker can traverse directories of GnuPG, via Literal Data Path Separators, in order to read or write a file outside the service root path..."
+        },
+        {
+          "title": "Synology DiskStation Manager: multiple vulnerabilities dated 31/07/2025",
+          "link": "https://vigilance.fr/vulnerability/Synology-DiskStation-Manager-multiple-vulnerabilities-dated-31-07-2025-47832",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of Synology DiskStation Manager, dated 31/07/2025..."
+        },
+        {
+          "title": "Chrome  Edge  Opera: use after free via Media Stream",
+          "link": "https://vigilance.fr/vulnerability/Chrome-Edge-Opera-use-after-free-via-Media-Stream-47824",
+          "date": "Visit link for details",
+          "description": "An attacker can force the reuse of a freed memory area of Chrome  Edge  Opera, via Media Stream, in order to trigger a denial of service, and possibly to run code..."
+        }
+      ]
+    },
+    "VulDB": {
+      "items": [
+        {
+          "title": "CVE-2026-6817  ays-pro Quiz Maker Plugin up to 6.7.1.29 on WordPress rate_reason cross site scripting",
+          "link": "https://vuldb.com/vuln/360855",
+          "date": "Sat, 02 May 2026 15:57:21 +0200",
+          "description": "A vulnerability was found in ays-pro Quiz Maker Plugin up to 6.7.1.29 on WordPress and classified as problematic. Affected is an unknown function. Such manipulation of the argument rate_reason leads t"
+        },
+        {
+          "title": "CVE-2026-6320  wordpresschef Salon Booking System Plugin up to 10.30.25 on WordPress Confirmation Email path traversal",
+          "link": "https://vuldb.com/vuln/360854",
+          "date": "Sat, 02 May 2026 15:56:59 +0200",
+          "description": "A vulnerability has been found in wordpresschef Salon Booking System Plugin up to 10.30.25 on WordPress and classified as critical. This impacts an unknown function of the component Confirmation Email"
+        },
+        {
+          "title": "CVE-2026-4790  leap13 Premium Addons for Elementor Plugin up to 4.11.70 on WordPress versions custom_svg cross site scripting",
+          "link": "https://vuldb.com/vuln/360853",
+          "date": "Sat, 02 May 2026 15:56:52 +0200",
+          "description": "A vulnerability, which was classified as problematic, was found in leap13 Premium Addons for Elementor Plugin up to 4.11.70 on WordPress. This affects the function versions. The manipulation of the ar"
+        },
+        {
+          "title": "CVE-2026-6525  Wireshark up to 4.6.4 IEEE 802.11 Protocol Dissector null pointer dereference (WID-SEC-2026-1311)",
+          "link": "https://vuldb.com/vuln/360852",
+          "date": "Sat, 02 May 2026 15:56:49 +0200",
+          "description": "A vulnerability, which was classified as problematic, has been found in Wireshark up to 4.6.4. The impacted element is an unknown function of the component IEEE 802.11 Protocol Dissector. The manipula"
+        },
+        {
+          "title": "CVE-2026-4100  strangerstudios Paid Memberships Pro Plugin up to 3.6.5 on WordPress AJAX authorization",
+          "link": "https://vuldb.com/vuln/360851",
+          "date": "Sat, 02 May 2026 15:56:46 +0200",
+          "description": "A vulnerability classified as problematic was found in strangerstudios Paid Memberships Pro Plugin up to 3.6.5 on WordPress. The affected element is the function wp_ajax_pmpro_stripe_create_webhook/wp"
+        },
+        {
+          "title": "CVE-2026-0703  xlplugins NextMove Lite Plugin up to 2.23.0 on WordPress xlwcty_current_date cross site scripting",
+          "link": "https://vuldb.com/vuln/360850",
+          "date": "Sat, 02 May 2026 15:56:42 +0200",
+          "description": "A vulnerability classified as problematic has been found in xlplugins NextMove Lite Plugin up to 2.23.0 on WordPress. Impacted is the function xlwcty_current_date. Performing a manipulation results in"
+        },
+        {
+          "title": "CVE-2026-4061  cyberhobo Geo Mashup Plugin up to 1.13.18 on WordPress Geo Search Feature esc_sql map_post_type sql injection",
+          "link": "https://vuldb.com/vuln/360849",
+          "date": "Sat, 02 May 2026 15:56:39 +0200",
+          "description": "A vulnerability described as critical has been identified in cyberhobo Geo Mashup Plugin up to 1.13.18 on WordPress. This issue affects the function esc_sql of the component Geo Search Feature. Such m"
+        },
+        {
+          "title": "CVE-2026-3504  dokaninc Dokan: AI Powered WooCommerce Multivendor Marketplace Solution Plugin REST API Endpoint reviews prepare_reviews_for_response information disclosure",
+          "link": "https://vuldb.com/vuln/360848",
+          "date": "Sat, 02 May 2026 15:56:23 +0200",
+          "description": "A vulnerability marked as problematic has been reported in dokaninc Dokan: AI Powered WooCommerce Multivendor Marketplace Solution Plugin up to 4.3.1 on WordPress. This vulnerability affects the funct"
+        },
+        {
+          "title": "CVE-2026-2554  wclovers WCFM Plugin up to 6.7.25 on WordPress wcfm_delete_wcfm_customer authorization",
+          "link": "https://vuldb.com/vuln/360847",
+          "date": "Sat, 02 May 2026 15:56:12 +0200",
+          "description": "A vulnerability labeled as critical has been found in wclovers WCFM Plugin up to 6.7.25 on WordPress. This affects the function wcfm_delete_wcfm_customer. The manipulation results in authorization byp"
+        },
+        {
+          "title": "CVE-2026-4062  cyberhobo Geo Mashup Plugin up to 1.13.18 on WordPress esc_sql sql injection",
+          "link": "https://vuldb.com/vuln/360846",
+          "date": "Sat, 02 May 2026 15:56:06 +0200",
+          "description": "A vulnerability identified as critical has been detected in cyberhobo Geo Mashup Plugin up to 1.13.18 on WordPress. Affected by this issue is the function esc_sql. The manipulation leads to sql inject"
+        }
+      ]
+    },
     "EU-CERT": {
       "items": [
         {
@@ -422,6 +422,12 @@
     "ZERODAYINITIATIVE": {
       "items": [
         {
+          "title": "FlowiseAI Flowise Airtable_Agent Code Injection Remote Code Execution Vulnerability",
+          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-307/",
+          "date": "2026-05-01",
+          "description": "Visit link for details"
+        },
+        {
           "title": "Oracle VirtualBox SoundBlaster 16 Race Condition Local Privilege Escalation Vulnerability",
           "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-306/",
           "date": "2026-04-28",
@@ -454,12 +460,6 @@
         {
           "title": "Foxit PDF Reader Annotation Use-After-Free Remote Code Execution Vulnerability",
           "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-301/",
-          "date": "2026-04-27",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Flowise AccountService resetPassword Authentication Bypass Vulnerability",
-          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-300/",
           "date": "2026-04-27",
           "description": "Visit link for details"
         }
@@ -532,6 +532,18 @@
     "CA-CCS": {
       "items": [
         {
+          "title": "AL26-009 - Vulnerability Affecting Linux - CVE-2026-31431 – Update 1",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/al26-009-vulnerability-affecting-linux-cve-2026-31431",
+          "date": "2026-05-01",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "JetBrains security advisory (AV26-412)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/jetbrains-security-advisory-av26-412",
+          "date": "2026-05-01",
+          "description": "Visit link for details"
+        },
+        {
           "title": "Microsoft Edge security advisory (AV26-411)",
           "link": "https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av26-411",
           "date": "2026-05-01",
@@ -556,14 +568,14 @@
           "description": "Visit link for details"
         },
         {
-          "title": "AL26-009 - Vulnerability Affecting Linux - CVE-2026-31431",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/al26-009-vulnerability-affecting-linux-cve-2026-31431",
+          "title": "cPanel security advisory (AV26-404) – Update 1",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/cpanel-security-advisory-av26-404",
           "date": "2026-04-30",
           "description": "Visit link for details"
         },
         {
-          "title": "cPanel security advisory (AV26-404) – Update 1",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/cpanel-security-advisory-av26-404",
+          "title": "AL26-010 – Cyber Criminals Social‑Engineering‑Enabled Compromise of Enterprise SaaS Environments",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/al26-010-cyber-criminals-social-engineering-enabled-compromise-enterprise-saas-environments",
           "date": "2026-04-30",
           "description": "Visit link for details"
         },
@@ -577,18 +589,6 @@
           "title": "GitLab security advisory (AV26-406)",
           "link": "https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av26-406",
           "date": "2026-04-30",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "AL26-008 - Vulnerability affecting cPanel and WebHost Manager (WHM) - CVE-2026-41940",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/al26-008-vulnerability-affecting-cpanel-webhost-manager-whm-cve-2026-41940",
-          "date": "2026-04-29",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "SonicWall security advisory (AV26-405)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av26-405",
-          "date": "2026-04-29",
           "description": "Visit link for details"
         }
       ]

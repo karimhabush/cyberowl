@@ -4,12 +4,12 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Apache MINA: CWE-502 Deserialization of Untrusted Data (take 2) (CVE-2026-42778)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 1, 2026|
- |[Apache MINA: AbstractIoBuffer.resolveClass() null-clazz Branch Skips acceptMatchers Filter — Full Object Deserialization RCE (take 2) (CVE-2026-42779)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 1, 2026|
- |[Apache Neethi: Unrestricted HTTP Redirect Following in Policy References (CVE-2026-42404)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 1, 2026|
- |[Apache Neethi: Policy Normalization Unbounded Resource Allocation DoS (CVE-2026-42402)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 1, 2026|
- |[New vulnerability](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 1, 2026|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[8nite metatrader-4-mcp sync_ea_from_file index.ts CallToolRequestSchema path traversal (CVE-2026-7627)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 2, 2026|
+ |[itsourcecode Courier Management System edit_user.php sql injection (CVE-2026-7612)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 2, 2026|
+ |[Total <= 2.2.1 - Authenticated (Contributor+) Stored Cross-Site Scripting via Post Title in Blog Section Image alt Attribute (CVE-2026-5077)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 2, 2026|
+ |[TRENDnet TEW-821DAP Firmware Update ssi cleartext transmission (CVE-2026-7610)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 2, 2026|
+ |[Zyosoft｜School App - Insecure Direct Object Reference (CVE-2026-7491)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 2, 2026|
+ |[New vulnerability](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 2, 2026|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
