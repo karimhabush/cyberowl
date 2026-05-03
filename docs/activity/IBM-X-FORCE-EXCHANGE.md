@@ -4,12 +4,12 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[8nite metatrader-4-mcp sync_ea_from_file index.ts CallToolRequestSchema path traversal (CVE-2026-7627)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 2, 2026|
- |[itsourcecode Courier Management System edit_user.php sql injection (CVE-2026-7612)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 2, 2026|
- |[Total <= 2.2.1 - Authenticated (Contributor+) Stored Cross-Site Scripting via Post Title in Blog Section Image alt Attribute (CVE-2026-5077)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 2, 2026|
- |[TRENDnet TEW-821DAP Firmware Update ssi cleartext transmission (CVE-2026-7610)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 2, 2026|
- |[Zyosoft｜School App - Insecure Direct Object Reference (CVE-2026-7491)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 2, 2026|
- |[New vulnerability](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 2, 2026|
+ |[Wavlink WL-WN570HA1 adm.cgi ping_ddns command injection (CVE-2026-7692)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 3, 2026|
+ |[Wavlink WL-WN570HA1 adm.cgi set_sys_cmd command injection (CVE-2026-7691)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 3, 2026|
+ |[Wavlink WL-WN570HA1 adm.cgi set_sys_adm command injection (CVE-2026-7690)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 3, 2026|
+ |[Dolibarr ERP CRM Online Signature security.lib.php dol_verifyHash signature verification (CVE-2026-7689)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 3, 2026|
+ |[Dolibarr ERP CRM Shipments API Endpoint expedition.class.php _checkValForAPI sql injection (CVE-2026-7688)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 3, 2026|
+ |[New vulnerability](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 3, 2026|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
