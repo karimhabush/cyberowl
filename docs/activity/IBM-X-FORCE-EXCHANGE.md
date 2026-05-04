@@ -4,12 +4,12 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Wavlink WL-WN570HA1 adm.cgi ping_ddns command injection (CVE-2026-7692)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 3, 2026|
- |[Wavlink WL-WN570HA1 adm.cgi set_sys_cmd command injection (CVE-2026-7691)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 3, 2026|
- |[Wavlink WL-WN570HA1 adm.cgi set_sys_adm command injection (CVE-2026-7690)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 3, 2026|
- |[Dolibarr ERP CRM Online Signature security.lib.php dol_verifyHash signature verification (CVE-2026-7689)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 3, 2026|
- |[Dolibarr ERP CRM Shipments API Endpoint expedition.class.php _checkValForAPI sql injection (CVE-2026-7688)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 3, 2026|
- |[New vulnerability](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 3, 2026|
+ |[Totolink N300RH POST Request cstecgi.cgi setMacFilterRules buffer overflow (CVE-2026-7750)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 4, 2026|
+ |[Gnutls: gnutls: denial of service via heap buffer overflow in dtls handshake fragment reassembly (CVE-2026-33846)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 4, 2026|
+ |[Totolink N300RH POST Request cstecgi.cgi setWanConfig buffer overflow (CVE-2026-7749)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 4, 2026|
+ |[Totolink N300RH POST Request cstecgi.cgi setUpgradeFW buffer overflow (CVE-2026-7748)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 4, 2026|
+ |[Totolink N300RH Parameter cstecgi.cgi loginauth buffer overflow (CVE-2026-7747)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 4, 2026|
+ |[New vulnerability](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 4, 2026|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
