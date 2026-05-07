@@ -4,12 +4,12 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[HCL DFXAnalytics is affected by an Insufficient Transport Layer Protection vulnerability (CVE-2025-59852)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 6, 2026|
- |[Keylime: keylime: security bypass due to hardcoded tpm quote nonce (CVE-2026-6420)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 6, 2026|
- |[A TCP client can perform a TLS handshake and present the server name extension with a server name that is accepted by a server wildcard name (CVE-2026-6860)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 6, 2026|
- |[Gravity Bookings <= 2.5.9 - Unauthenticated SQL Injection via 'category_id' Parameter (CVE-2026-1719)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 6, 2026|
- |[Apache Wicket: possible session fixation using AuthenticatedWebSession (CVE-2026-40010)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 6, 2026|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[Arbitrary File Write Through Path Traversal (CVE-2026-33588)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 7, 2026|
+ |[Remote Code Execution (RCE) via Server-Side Template Injection (SSTI) (CVE-2026-33587)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 7, 2026|
+ |[WordPress BEAR plugin <= 1.1.5 - Cross Site Request Forgery (CSRF) vulnerability (CVE-2026-27415)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 7, 2026|
+ |[SurrealDB Injection on Open Notebook (CVE-2026-28201)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 7, 2026|
+ |[Vulnerability on Cryptobox external sharing feature (CVE-2026-6805)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 7, 2026|
+ |[New vulnerability](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 7, 2026|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
