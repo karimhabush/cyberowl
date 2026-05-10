@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-09T15:20:19.376115+00:00",
+  "generated_at": "2026-05-10T15:21:16.814560+00:00",
   "sources": {
     "CERT-FR": {
       "items": [
@@ -129,42 +129,106 @@
         }
       ]
     },
+    "VulDB": {
+      "items": [
+        {
+          "title": "CVE-2026-8257  WebAssembly Binaryen up to 117 BrOn Parser wasm-ir-builder.cpp IRBuilder::makeBrOn assertion (Issue 8633)",
+          "link": "https://vuldb.com/vuln/362554",
+          "date": "Sun, 10 May 2026 17:02:15 +0200",
+          "description": "A vulnerability identified as problematic has been detected in WebAssembly Binaryen up to 117. This issue affects the function IRBuilder::makeBrOn of the file src/wasm/wasm-ir-builder.cpp of the compo"
+        },
+        {
+          "title": "CVE-2026-8256  Devs Palace ERP Online up to 4.0.0 /accounts/mr-save cross site scripting",
+          "link": "https://vuldb.com/vuln/362553",
+          "date": "Sun, 10 May 2026 16:51:19 +0200",
+          "description": "A vulnerability categorized as problematic has been discovered in Devs Palace ERP Online up to 4.0.0. This vulnerability affects unknown code of the file /accounts/mr-save. Such manipulation leads to"
+        },
+        {
+          "title": "CVE-2026-8255  Devs Palace ERP Online up to 4.0.0 add_new_customer cross site scripting",
+          "link": "https://vuldb.com/vuln/362552",
+          "date": "Sun, 10 May 2026 16:51:16 +0200",
+          "description": "A vulnerability was found in Devs Palace ERP Online up to 4.0.0. It has been rated as problematic. This affects an unknown part of the file /inventory/add_new_customer. This manipulation causes cross"
+        },
+        {
+          "title": "CVE-2026-8254  Devs Palace ERP Online up to 4.0.0 /inventory/sales_save cross site scripting",
+          "link": "https://vuldb.com/vuln/362551",
+          "date": "Sun, 10 May 2026 16:47:12 +0200",
+          "description": "A vulnerability was found in Devs Palace ERP Online up to 4.0.0. It has been declared as problematic. Affected by this issue is some unknown functionality of the file /inventory/sales_save. The manipu"
+        },
+        {
+          "title": "CVE-2026-8253  Devs Palace ERP Online up to 4.0.0 /inventory/purchase_save cross site scripting",
+          "link": "https://vuldb.com/vuln/362550",
+          "date": "Sun, 10 May 2026 16:47:02 +0200",
+          "description": "A vulnerability was found in Devs Palace ERP Online up to 4.0.0. It has been classified as problematic. Affected by this vulnerability is an unknown functionality of the file /inventory/purchase_save."
+        },
+        {
+          "title": "CVE-2026-8252  Open5GS up to 2.7.7 SMF smf_nsmf_handle_create_data_in_hsmf null pointer dereference (Issue 4446)",
+          "link": "https://vuldb.com/vuln/362549",
+          "date": "Sun, 10 May 2026 16:45:25 +0200",
+          "description": "A vulnerability was found in Open5GS up to 2.7.7 and classified as problematic. Affected is the function smf_nsmf_handle_create_data_in_hsmf of the component SMF. Executing a manipulation can lead to"
+        },
+        {
+          "title": "CVE-2026-8251  Open5GS up to 2.7.7 SMF /src/smf/npcf-handler.c update_authorized_pcc_rule_and_qos denial of service (Issue 4445)",
+          "link": "https://vuldb.com/vuln/362548",
+          "date": "Sun, 10 May 2026 16:45:22 +0200",
+          "description": "A vulnerability has been found in Open5GS up to 2.7.7 and classified as problematic. This impacts the function update_authorized_pcc_rule_and_qos of the file /src/smf/npcf-handler.c of the component S"
+        },
+        {
+          "title": "CVE-2026-8250  Open5GS up to 2.7.7 SMF /src/smf/n4-build.c smf_n4_build_qos_flow_to_modify_list denial of service (Issue 4444)",
+          "link": "https://vuldb.com/vuln/362547",
+          "date": "Sun, 10 May 2026 16:45:19 +0200",
+          "description": "A vulnerability, which was classified as problematic, was found in Open5GS up to 2.7.7. This affects the function smf_n4_build_qos_flow_to_modify_list of the file /src/smf/n4-build.c of the component"
+        },
+        {
+          "title": "CVE-2026-8249  Open5GS up to 2.7.7 SMF /src/smf/npcf-handler.c update_authorized_pcc_rule_and_qos denial of service (Issue 4443)",
+          "link": "https://vuldb.com/vuln/362546",
+          "date": "Sun, 10 May 2026 16:45:16 +0200",
+          "description": "A vulnerability, which was classified as problematic, has been found in Open5GS up to 2.7.7. The impacted element is the function update_authorized_pcc_rule_and_qos of the file /src/smf/npcf-handler.c"
+        },
+        {
+          "title": "CVE-2026-8248  Open5GS up to 2.7.7 SMF /src/smf/npcf-handler.c update_authorized_pcc_rule_and_qos denial of service (Issue 4442)",
+          "link": "https://vuldb.com/vuln/362545",
+          "date": "Sun, 10 May 2026 16:45:14 +0200",
+          "description": "A vulnerability classified as problematic was found in Open5GS up to 2.7.7. The affected element is the function update_authorized_pcc_rule_and_qos of the file /src/smf/npcf-handler.c of the component"
+        }
+      ]
+    },
     "IBM-X-FORCE-EXCHANGE": {
       "items": [
         {
-          "title": "Data Transmission Risk in EZVIZ Products (CVE-2026-32683)",
+          "title": "Industrial Application Software IAS Canias ERP Login RMI improper authentication (CVE-2026-8244)",
           "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "May 9, 2026",
+          "date": "May 10, 2026",
           "description": "Visit link for details"
         },
         {
-          "title": "Access Control Vulnerability in HikCentral Professional (CVE-2026-1749)",
+          "title": "Industrial Application Software IAS Canias ERP JNLP Deployment Endpoint hard-coded key (CVE-2026-8243)",
           "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "May 9, 2026",
+          "date": "May 10, 2026",
           "description": "Visit link for details"
         },
         {
-          "title": "auth: Patreon provider assigns the same local user ID to every authenticated Patreon account, enabling cross-user impersonation (CVE-2026-42560)",
+          "title": "Industrial Application Software IAS Canias ERP Login RMI doAction response discrepancy (CVE-2026-8242)",
           "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "May 9, 2026",
+          "date": "May 10, 2026",
           "description": "Visit link for details"
         },
         {
-          "title": "Pillow: OOB Write with Invalid PSD Tile Extents (Integer Overflow) (CVE-2026-42311)",
+          "title": "Industrial Application Software IAS Canias ERP RMI iasGetServerInfoEvent improper authorization (CVE-2026-8241)",
           "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "May 9, 2026",
+          "date": "May 10, 2026",
           "description": "Visit link for details"
         },
         {
-          "title": "Pillow: Integer overflow when processing fonts (CVE-2026-42308)",
+          "title": "Denial of Service in libexpat (CVE-2026-45186)",
           "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "May 9, 2026",
+          "date": "May 10, 2026",
           "description": "Visit link for details"
         },
         {
-          "title": "New vulnerability",
+          "title": "",
           "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "May 9, 2026",
+          "date": "",
           "description": "Visit link for details"
         },
         {
@@ -257,70 +321,6 @@
         }
       ]
     },
-    "VulDB": {
-      "items": [
-        {
-          "title": "CVE-2026-8235  8421bit MiniClaw 0.8.0/0.9.0 System Command src/kernel.ts resolveSkillScriptPath os command injection",
-          "link": "https://vuldb.com/vuln/362455",
-          "date": "Sat, 09 May 2026 11:46:48 +0200",
-          "description": "A vulnerability categorized as critical has been discovered in 8421bit MiniClaw 0.8.0/0.9.0. This issue affects the function resolveSkillScriptPath of the file src/kernel.ts of the component System Co"
-        },
-        {
-          "title": "CVE-2026-8234  EFM ipTIME A8004T 14.18.2 /goform/WifiBasicSet formWifiBasicSet security_5g stack-based overflow",
-          "link": "https://vuldb.com/vuln/362454",
-          "date": "Sat, 09 May 2026 11:38:28 +0200",
-          "description": "A vulnerability was found in EFM ipTIME A8004T 14.18.2. It has been rated as critical. This vulnerability affects the function formWifiBasicSet of the file /goform/WifiBasicSet. The manipulation of th"
-        },
-        {
-          "title": "CVE-2026-1749  Hikvision HikCentral Professional up to 3.0.1 access control",
-          "link": "https://vuldb.com/vuln/362453",
-          "date": "Sat, 09 May 2026 11:36:47 +0200",
-          "description": "A vulnerability was found in Hikvision HikCentral Professional up to 3.0.1. It has been declared as critical. This affects an unknown part. Executing a manipulation can lead to improper access control"
-        },
-        {
-          "title": "CVE-2026-32683  EZVIZ APP Legacy API Interface information disclosure",
-          "link": "https://vuldb.com/vuln/362452",
-          "date": "Sat, 09 May 2026 11:36:23 +0200",
-          "description": "A vulnerability was found in EZVIZ APP. It has been classified as problematic. Affected by this issue is some unknown functionality of the component Legacy API Interface. Performing a manipulation res"
-        },
-        {
-          "title": "CVE-2026-3828  Hikvision DS-3E1310P-SI/DS-3E1318P-SI/DS-3E1326P-SI Packets input validation",
-          "link": "https://vuldb.com/vuln/362451",
-          "date": "Sat, 09 May 2026 11:35:57 +0200",
-          "description": "A vulnerability was found in Hikvision DS-3E1310P-SI, DS-3E1318P-SI and DS-3E1326P-SI and classified as critical. Affected by this vulnerability is an unknown functionality of the component Packets Ha"
-        },
-        {
-          "title": "CVE-2026-8233  Dotouch XproUPF 2.0.0-release-088aa7c4 PFCP Session access control",
-          "link": "https://vuldb.com/vuln/362450",
-          "date": "Sat, 09 May 2026 11:34:44 +0200",
-          "description": "A vulnerability has been found in Dotouch XproUPF 2.0.0-release-088aa7c4 and classified as critical. Affected is an unknown function of the component PFCP Session Handler. This manipulation causes imp"
-        },
-        {
-          "title": "CVE-2026-8232  Dotouch XproUPF 2.0.0-release-088aa7c4 UPF Process libvlib.so vlib_worker_loop denial of service",
-          "link": "https://vuldb.com/vuln/362449",
-          "date": "Sat, 09 May 2026 11:34:41 +0200",
-          "description": "A vulnerability, which was classified as problematic, was found in Dotouch XproUPF 2.0.0-release-088aa7c4. This impacts the function vlib_worker_loop in the library /usr/xpro/upf/tools/libs/libvlib.so"
-        },
-        {
-          "title": "CVE-2026-8231  CodeAstro Online Catering Ordering System 1.0 /deleteorder.php ID sql injection",
-          "link": "https://vuldb.com/vuln/362448",
-          "date": "Sat, 09 May 2026 10:02:54 +0200",
-          "description": "A vulnerability, which was classified as critical, has been found in CodeAstro Online Catering Ordering System 1.0. This affects an unknown function of the file /deleteorder.php. The manipulation of t"
-        },
-        {
-          "title": "CVE-2026-8230  Wavlink NU516U1 240425 /cgi-bin/login.cgi sys_login1 ipaddr os command injection",
-          "link": "https://vuldb.com/vuln/362447",
-          "date": "Sat, 09 May 2026 10:00:11 +0200",
-          "description": "A vulnerability classified as critical was found in Wavlink NU516U1 240425. The impacted element is the function sys_login1 of the file /cgi-bin/login.cgi. Executing a manipulation of the argument ipa"
-        },
-        {
-          "title": "CVE-2026-8229  Wavlink NU516U1 240425 /cgi-bin/wireless.cgi WifiBasic AuthMethod/EncrypType os command injection",
-          "link": "https://vuldb.com/vuln/362446",
-          "date": "Sat, 09 May 2026 10:00:08 +0200",
-          "description": "A vulnerability classified as critical has been found in Wavlink NU516U1 240425. The affected element is the function WifiBasic of the file /cgi-bin/wireless.cgi. Performing a manipulation of the argu"
-        }
-      ]
-    },
     "ZERODAYINITIATIVE": {
       "items": [
         {
@@ -370,64 +370,64 @@
     "OBS-Vigilance": {
       "items": [
         {
-          "title": "ImageMagick: multiple vulnerabilities dated 09/03/2026",
-          "link": "https://vigilance.fr/vulnerability/ImageMagick-multiple-vulnerabilities-dated-09-03-2026-49951",
+          "title": "c3p0: code execution via ConnectionPoolDataSource",
+          "link": "https://vigilance.fr/vulnerability/c3p0-code-execution-via-ConnectionPoolDataSource-49966",
           "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of ImageMagick, dated 09/03/2026..."
+          "description": "An attacker can use a vulnerability of c3p0, via ConnectionPoolDataSo"
         },
         {
-          "title": "Tenable Nessus: file deletion via the Windows installer",
-          "link": "https://vigilance.fr/vulnerability/Tenable-Nessus-file-deletion-via-the-Windows-installer-50678",
+          "title": "mchange-commons-java: code execution via factoryClassLocation",
+          "link": "https://vigilance.fr/vulnerability/mchange-commons-java-code-execution-via-factoryClassLocation-49965",
           "date": "Visit link for details",
-          "description": "An attacker can bypass access restrictions of Tenable Nessus, via the Windows installer, in order to delete a file..."
+          "description": "An attacker can use a vulnerability of mchange-commons-"
         },
         {
-          "title": "TeamPass: Cross Site Scripting via Health Fields",
-          "link": "https://vigilance.fr/vulnerability/TeamPass-Cross-Site-Scripting-via-Health-Fields-49950",
+          "title": "Siemens SIMATIC S7-1500: Cross Site Scripting via Trace File",
+          "link": "https://vigilance.fr/vulnerability/Siemens-SIMATIC-S7-1500-Cross-Site-Scripting-via-Trace-File-49964",
           "date": "Visit link for details",
-          "description": "An attacker can trigger a Cross Site Scripting of TeamPass, via Health Fields, in order to run JavaScript code in the context of the web site..."
+          "description": "An attacker can trigger a Cross Site Scripting of Siemens SIMATIC S7-1500, via Trace File, in order to run JavaScript code in the context of the web site..."
         },
         {
-          "title": "Python-Markdown: assertion error via HTMLParser",
-          "link": "https://vigilance.fr/vulnerability/Python-Markdown-assertion-error-via-HTMLParser-49949",
+          "title": "ClamAV: ingress filtering bypass via Malformed Zip Archive",
+          "link": "https://vigilance.fr/vulnerability/ClamAV-ingress-filtering-bypass-via-Malformed-Zip-Archive-49962",
           "date": "Visit link for details",
-          "description": "An attacker can force an assertion error of Python-Markdown, via HTMLParser, in order to trigger a denial of service..."
+          "description": "An attacker can bypass filtering rules of ClamAV, via Malformed Zip Archive, in order to send malicious data..."
         },
         {
-          "title": "Sigstore Timestamp Authority: overload via api.ParseJSONRequest",
-          "link": "https://vigilance.fr/vulnerability/Sigstore-Timestamp-Authority-overload-via-api-ParseJSONRequest-49946",
+          "title": "HAProxy: out-of-bounds memory reading via H3/QPACK Huffman Decoder",
+          "link": "https://vigilance.fr/vulnerability/HAProxy-out-of-bounds-memory-reading-via-H3-QPACK-Huffman-Decoder-49961",
           "date": "Visit link for details",
-          "description": "An attacker can trigger an overload of Sigstore Timestamp Authority, via api."
+          "description": "An attacker can force a read at an invalid memory address of HAProxy, via H3/QPACK Huffman Decoder, in order to trigger a denial of service, or to obtain sensitive information..."
         },
         {
-          "title": "hex_core: overload dated 09/03/2026",
-          "link": "https://vigilance.fr/vulnerability/hex-core-overload-dated-09-03-2026-49945",
+          "title": "polkit: denial of service via Pidfd Reference Leak",
+          "link": "https://vigilance.fr/vulnerability/polkit-denial-of-service-via-Pidfd-Reference-Leak-49960",
           "date": "Visit link for details",
-          "description": "An attacker can trigger an overload of hex_core, dated 09/03/2026, in order to trigger a denial of service..."
+          "description": "An attacker can cause a fatal error of polkit, via Pidfd Reference Leak, in order to trigger a denial of service..."
         },
         {
-          "title": "assyncmy: SQL injection via Dict Keys",
-          "link": "https://vigilance.fr/vulnerability/assyncmy-SQL-injection-via-Dict-Keys-49944",
+          "title": "polkit: write access via Unsanitized Logging",
+          "link": "https://vigilance.fr/vulnerability/polkit-write-access-via-Unsanitized-Logging-49959",
           "date": "Visit link for details",
-          "description": "An attacker can use a SQL injection of assyncmy, via Dict Keys, in order to read or alter data..."
+          "description": "An attacker can bypass access restrictions of polkit, via Unsanitized Logging, in order to alter data..."
         },
         {
-          "title": "Apache ZooKeeper: information disclosure via ZKConfig",
-          "link": "https://vigilance.fr/vulnerability/Apache-ZooKeeper-information-disclosure-via-ZKConfig-49942",
+          "title": "Matrix: user access via ESS Community Helm Chart secrets",
+          "link": "https://vigilance.fr/vulnerability/Matrix-user-access-via-ESS-Community-Helm-Chart-secrets-49958",
           "date": "Visit link for details",
-          "description": "An attacker can bypass access restrictions to data of Apache ZooKeeper, via ZKConfig, in order to read sensitive information..."
+          "description": "An attacker can bypass restrictions of Matrix, via ESS Community Helm Chart secrets, in order to gain user privileges..."
         },
         {
-          "title": "rpki client: denial of service dated 24/04/2026",
-          "link": "https://vigilance.fr/vulnerability/rpki-client-denial-of-service-dated-24-04-2026-50664",
+          "title": "Flask: information disclosure via Cache",
+          "link": "https://vigilance.fr/vulnerability/Flask-information-disclosure-via-Cache-49956",
           "date": "Visit link for details",
-          "description": "An attacker can cause a fatal error of rpki client, dated 24/04/2026, in order to trigger a denial of service..."
+          "description": "An attacker can bypass access restrictions to data of Flask, via Cache, in order to read sensitive information..."
         },
         {
-          "title": "Apache ZooKeeper: ingress filtering bypass via ZKTrustManager Reverse-DNS Fallback",
-          "link": "https://vigilance.fr/vulnerability/Apache-ZooKeeper-ingress-filtering-bypass-via-ZKTrustManager-Reverse-DNS-Fallback-49941",
+          "title": "YARA: information disclosure via Compiled Rule Environment",
+          "link": "https://vigilance.fr/vulnerability/YARA-information-disclosure-via-Compiled-Rule-Environment-49955",
           "date": "Visit link for details",
-          "description": "An attacker can bypass filtering rules of Apache ZooKeeper, via ZKTrustManager Reverse-DNS Fallback, in order to send malicious data..."
+          "description": "An attacker can bypass access restrictions to data of YARA, via Compiled Rule Environment, in order to read sensitive information..."
         }
       ]
     },

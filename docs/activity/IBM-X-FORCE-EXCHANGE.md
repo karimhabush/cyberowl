@@ -4,12 +4,12 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Data Transmission Risk in EZVIZ Products (CVE-2026-32683)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 9, 2026|
- |[Access Control Vulnerability in HikCentral Professional (CVE-2026-1749)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 9, 2026|
- |[auth: Patreon provider assigns the same local user ID to every authenticated Patreon account, enabling cross-user impersonation (CVE-2026-42560)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 9, 2026|
- |[Pillow: OOB Write with Invalid PSD Tile Extents (Integer Overflow) (CVE-2026-42311)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 9, 2026|
- |[Pillow: Integer overflow when processing fonts (CVE-2026-42308)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 9, 2026|
- |[New vulnerability](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 9, 2026|
+ |[Industrial Application Software IAS Canias ERP Login RMI improper authentication (CVE-2026-8244)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 10, 2026|
+ |[Industrial Application Software IAS Canias ERP JNLP Deployment Endpoint hard-coded key (CVE-2026-8243)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 10, 2026|
+ |[Industrial Application Software IAS Canias ERP Login RMI doAction response discrepancy (CVE-2026-8242)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 10, 2026|
+ |[Industrial Application Software IAS Canias ERP RMI iasGetServerInfoEvent improper authorization (CVE-2026-8241)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 10, 2026|
+ |[Denial of Service in libexpat (CVE-2026-45186)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 10, 2026|
+ |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
