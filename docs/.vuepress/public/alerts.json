@@ -1,262 +1,6 @@
 {
-  "generated_at": "2026-05-13T15:53:55.689668+00:00",
+  "generated_at": "2026-05-14T15:47:56.129486+00:00",
   "sources": {
-    "US-CERT": {
-      "items": [
-        {
-          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/05/08/cisa-adds-one-known-exploited-vulnerability-catalog",
-          "date": "May 08, 2026",
-          "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/05/07/cisa-adds-one-known-exploited-vulnerability-catalog",
-          "date": "May 07, 2026",
-          "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/05/06/cisa-adds-one-known-exploited-vulnerability-catalog",
-          "date": "May 06, 2026",
-          "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/05/01/cisa-adds-one-known-exploited-vulnerability-catalog",
-          "date": "May 01, 2026",
-          "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/04/30/cisa-adds-one-known-exploited-vulnerability-catalog",
-          "date": "Apr 30, 2026",
-          "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/04/28/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-          "date": "Apr 28, 2026",
-          "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/04/24/cisa-adds-four-known-exploited-vulnerabilities-catalog",
-          "date": "Apr 24, 2026",
-          "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/04/23/cisa-adds-one-known-exploited-vulnerability-catalog",
-          "date": "Apr 23, 2026",
-          "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/04/22/cisa-adds-one-known-exploited-vulnerability-catalog",
-          "date": "Apr 22, 2026",
-          "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds Eight Known Exploited Vulnerabilities to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/04/20/cisa-adds-eight-known-exploited-vulnerabilities-catalog",
-          "date": "Apr 20, 2026",
-          "description": "Visit link for details."
-        }
-      ]
-    },
-    "VulDB": {
-      "items": [
-        {
-          "title": "CVE-2026-42945  F5 NGINX Plus/NGINX Open Source HTTP ngx_http_rewrite_module heap-based overflow (K000161019)",
-          "link": "https://vuldb.com/vuln/363570",
-          "date": "Wed, 13 May 2026 17:44:46 +0200",
-          "description": "A vulnerability has been found in F5 NGINX Plus and NGINX Open Source and classified as critical. This affects the function ngx_http_rewrite_module of the component HTTP Handler. The manipulation lead"
-        },
-        {
-          "title": "CVE-2026-42920  F5 BIG-IP prior 17.1.3.1/17.5.1.4/21.0.0.1 Traffic Management Microkernel infinite loop (K000160901)",
-          "link": "https://vuldb.com/vuln/363569",
-          "date": "Wed, 13 May 2026 17:44:36 +0200",
-          "description": "A vulnerability, which was classified as problematic, was found in F5 BIG-IP. The impacted element is an unknown function of the component Traffic Management Microkernel. Executing a manipulation can"
-        },
-        {
-          "title": "CVE-2026-42557  Jupyter notebook up to 4.5.6 cross site scripting",
-          "link": "https://vuldb.com/vuln/363568",
-          "date": "Wed, 13 May 2026 17:44:24 +0200",
-          "description": "A vulnerability, which was classified as problematic, has been found in Jupyter notebook up to 4.5.6. The affected element is an unknown function. Performing a manipulation results in cross site scrip"
-        },
-        {
-          "title": "CVE-2026-42409  F5 BIG-IP Traffic Management Microkernel respond null pointer dereference (K000159034)",
-          "link": "https://vuldb.com/vuln/363567",
-          "date": "Wed, 13 May 2026 17:44:05 +0200",
-          "description": "A vulnerability classified as problematic was found in F5 BIG-IP, BIG-IP Next SPK, BIG-IP Next CNF and BIG-IP Next for Kubernetes. Impacted is the function HTTP::redirect/HTTP::respond of the componen"
-        },
-        {
-          "title": "CVE-2026-41956  F5 BIG-IP/BIG-IP Next CNF/BIG-IP Next for Kubernetes Traffic Management Microkernel stack-based overflow (K000158038)",
-          "link": "https://vuldb.com/vuln/363566",
-          "date": "Wed, 13 May 2026 17:43:47 +0200",
-          "description": "A vulnerability classified as critical has been found in F5 BIG-IP, BIG-IP Next CNF and BIG-IP Next for Kubernetes. This issue affects some unknown processing of the component Traffic Management Micro"
-        },
-        {
-          "title": "CVE-2026-41954  F5 BIG-IP/BIG-IQ iControl REST Endpoint information disclosure (K32950402)",
-          "link": "https://vuldb.com/vuln/363565",
-          "date": "Wed, 13 May 2026 17:43:35 +0200",
-          "description": "A vulnerability described as problematic has been identified in F5 BIG-IP and BIG-IQ. This vulnerability affects unknown code of the component iControl REST Endpoint. The manipulation results in infor"
-        },
-        {
-          "title": "CVE-2026-41227  F5 BIG-IP prior 17.1.3.1/17.5.1.4 allocation of resources (K000158979)",
-          "link": "https://vuldb.com/vuln/363564",
-          "date": "Wed, 13 May 2026 17:43:15 +0200",
-          "description": "A vulnerability marked as critical has been reported in F5 BIG-IP. This affects an unknown part. The manipulation leads to allocation of resources.This vulnerability is listed as CVE-2026-41227. The"
-        },
-        {
-          "title": "CVE-2026-41218  F5 BIG-IP prior 17.1.3.1/17.5.1.4/21.0.0.1 Traffic Management Microkernel use after free (K000160875)",
-          "link": "https://vuldb.com/vuln/363563",
-          "date": "Wed, 13 May 2026 17:43:07 +0200",
-          "description": "A vulnerability labeled as critical has been found in F5 BIG-IP. Affected by this issue is some unknown functionality of the component Traffic Management Microkernel. Executing a manipulation can lead"
-        },
-        {
-          "title": "CVE-2026-41217  F5 BIG-IP prior 17.1.3.2/17.5.1.6/21.0.0.2 TMOS Shell permission assignment (K000161107)",
-          "link": "https://vuldb.com/vuln/363562",
-          "date": "Wed, 13 May 2026 17:43:05 +0200",
-          "description": "A vulnerability identified as problematic has been detected in F5 BIG-IP. Affected by this vulnerability is an unknown functionality of the component TMOS Shell. Performing a manipulation results in i"
-        },
-        {
-          "title": "CVE-2026-40701  F5 NGINX Plus/NGINX Open Source Configuration ngx_http_ssl_module use after free (K000161021)",
-          "link": "https://vuldb.com/vuln/363561",
-          "date": "Wed, 13 May 2026 17:43:02 +0200",
-          "description": "A vulnerability categorized as critical has been discovered in F5 NGINX Plus and NGINX Open Source. Affected is the function ngx_http_ssl_module of the component Configuration Handler. Such manipulati"
-        }
-      ]
-    },
-    "IBM-X-FORCE-EXCHANGE": {
-      "items": [
-        {
-          "title": "Avada Builder <= 3.15.2 - Authenticated (Subscriber+) Arbitrary File Read via 'custom_svg' Shortcode Parameter (CVE-2026-4782)",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "May 13, 2026",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Avada Builder <= 3.15.1 - Unauthenticated SQL Injection via 'product_order' Parameter (CVE-2026-4798)",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "May 13, 2026",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "csync2 uses insecure temporary directories when compiled with C99 or later (CVE-2026-41051)",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "May 13, 2026",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Privilege escalation via mk_mysql agent plugin on Windows (CVE-2024-47091)",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "May 13, 2026",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Hostinger Reach <= 1.3.8 - Missing Authorization to Authenticated (Subscriber+) Integration API Key Update (CVE-2026-2515)",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "May 13, 2026",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "",
-          "description": "Visit link for details"
-        }
-      ]
-    },
-    "OBS-Vigilance": {
-      "items": [
-        {
-          "title": "F5 BIG-IP: overload via HTTP/2 Made You Reset Attack",
-          "link": "https://vigilance.fr/vulnerability/F5-BIG-IP-overload-via-HTTP-2-Made-You-Reset-Attack-47973",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger an overload of F5 BIG-IP, via HTTP/2 Made You Reset Attack, in order to trigger a denial of service..."
-        },
-        {
-          "title": "F5 BIG-IP: denial of service via APM",
-          "link": "https://vigilance.fr/vulnerability/F5-BIG-IP-denial-of-service-via-APM-47972",
-          "date": "Visit link for details",
-          "description": "An attacker can cause a fatal error of F5 BIG-IP, via APM, in order to trigger a denial of service..."
-        },
-        {
-          "title": "HTTP/2: overload via HTTP/2 Made You Reset Attack",
-          "link": "https://vigilance.fr/vulnerability/HTTP-2-overload-via-HTTP-2-Made-You-Reset-Attack-47963",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger an overload of HTTP/2, via HTTP/2 Made You Reset Attack, in order to trigger a denial of service..."
-        },
-        {
-          "title": "GitLab CE/EE: multiple vulnerabilities dated 13/08/2025",
-          "link": "https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-dated-13-08-2025-47962",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of GitLab CE/EE, dated 13/08/2025..."
-        },
-        {
-          "title": "Angular: Cross Site Scripting via I18n Attribute Bindings",
-          "link": "https://vigilance.fr/vulnerability/Angular-Cross-Site-Scripting-via-I18n-Attribute-Bindings-50034",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger a Cross Site Scripting of Angular, via I18n Attribute Bindings, in order to run JavaScript code in the context of the web site..."
-        },
-        {
-          "title": "Apache Tomcat: denial of service via HTTP/2 Made You Reset Attack",
-          "link": "https://vigilance.fr/vulnerability/Apache-Tomcat-denial-of-service-via-HTTP-2-Made-You-Reset-Attack-47960",
-          "date": "Visit link for details",
-          "description": "An attacker can cause a fatal error of Apache Tomcat, via HTTP/2 Made You Reset Attack, in order to trigger a denial of service..."
-        },
-        {
-          "title": "FortiOS: privilege escalation via FGFM Protocol",
-          "link": "https://vigilance.fr/vulnerability/FortiOS-privilege-escalation-via-FGFM-Protocol-47954",
-          "date": "Visit link for details",
-          "description": "An attacker can bypass restrictions of FortiOS, via FGFM Protocol, in order to escalate his privileges..."
-        },
-        {
-          "title": "Chrome  Edge  Opera: multiple vulnerabilities dated 13/08/2025",
-          "link": "https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-13-08-2025-47943",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of Chrome  Edge  Opera, dated 13/08/2025..."
-        },
-        {
-          "title": "Taskwarrior: three vulnerabilities dated 13/03/2026",
-          "link": "https://vigilance.fr/vulnerability/Taskwarrior-three-vulnerabilities-dated-13-03-2026-50032",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of Taskwarrior, dated 13/03/2026..."
-        },
-        {
-          "title": "DNF5: denial of service via D-Bus Client Unknown Locale",
-          "link": "https://vigilance.fr/vulnerability/DNF5-denial-of-service-via-D-Bus-Client-Unknown-Locale-50031",
-          "date": "Visit link for details",
-          "description": "An attacker can cause a fatal error of DNF5, via D-Bus Client Unknown Locale, in order to trigger a denial of service..."
-        }
-      ]
-    },
     "CERT-FR": {
       "items": [
         {
@@ -321,8 +65,328 @@
         }
       ]
     },
+    "US-CERT": {
+      "items": [
+        {
+          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/05/08/cisa-adds-one-known-exploited-vulnerability-catalog",
+          "date": "May 08, 2026",
+          "description": "Visit link for details."
+        },
+        {
+          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/05/07/cisa-adds-one-known-exploited-vulnerability-catalog",
+          "date": "May 07, 2026",
+          "description": "Visit link for details."
+        },
+        {
+          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/05/06/cisa-adds-one-known-exploited-vulnerability-catalog",
+          "date": "May 06, 2026",
+          "description": "Visit link for details."
+        },
+        {
+          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/05/01/cisa-adds-one-known-exploited-vulnerability-catalog",
+          "date": "May 01, 2026",
+          "description": "Visit link for details."
+        },
+        {
+          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/04/30/cisa-adds-one-known-exploited-vulnerability-catalog",
+          "date": "Apr 30, 2026",
+          "description": "Visit link for details."
+        },
+        {
+          "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/04/28/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+          "date": "Apr 28, 2026",
+          "description": "Visit link for details."
+        },
+        {
+          "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/04/24/cisa-adds-four-known-exploited-vulnerabilities-catalog",
+          "date": "Apr 24, 2026",
+          "description": "Visit link for details."
+        },
+        {
+          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/04/23/cisa-adds-one-known-exploited-vulnerability-catalog",
+          "date": "Apr 23, 2026",
+          "description": "Visit link for details."
+        },
+        {
+          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/04/22/cisa-adds-one-known-exploited-vulnerability-catalog",
+          "date": "Apr 22, 2026",
+          "description": "Visit link for details."
+        },
+        {
+          "title": "CISA Adds Eight Known Exploited Vulnerabilities to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/04/20/cisa-adds-eight-known-exploited-vulnerabilities-catalog",
+          "date": "Apr 20, 2026",
+          "description": "Visit link for details."
+        }
+      ]
+    },
+    "IBM-X-FORCE-EXCHANGE": {
+      "items": [
+        {
+          "title": "Apache Commons Configuration: StackOverflowError for YAML input with cycles (CVE-2026-45205)",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "May 14, 2026",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Hardcoded credentials in Comarch ERP Optima (CVE-2025-68421)",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "May 14, 2026",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Privilege Escalation in Comarch ERP Optima (CVE-2025-68420)",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "May 14, 2026",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Unbounded buffer accumulation in multipart header parsing causes denial of service in plug (CVE-2026-8468)",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "May 14, 2026",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Integer overflow in simdjson (CVE-2026-8295)",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "May 14, 2026",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "New vulnerability",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "May 14, 2026",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "",
+          "description": "Visit link for details"
+        }
+      ]
+    },
+    "VulDB": {
+      "items": [
+        {
+          "title": "CVE-2026-44482  richardhbtz soundcloud-rpc up to 0.1.7 Preload API input validation (GHSA-p37x-32p8-445f)",
+          "link": "https://vuldb.com/vuln/363905",
+          "date": "Thu, 14 May 2026 17:33:53 +0200",
+          "description": "A vulnerability, which was classified as critical, was found in richardhbtz soundcloud-rpc up to 0.1.7. This affects an unknown part of the component Preload API. Executing a manipulation can lead to"
+        },
+        {
+          "title": "CVE-2026-42559  modelcontextprotocol rust-sdk up to 1.3.x streamable_http_server origin validation (ID 815)",
+          "link": "https://vuldb.com/vuln/363904",
+          "date": "Thu, 14 May 2026 17:33:42 +0200",
+          "description": "A vulnerability, which was classified as critical, has been found in modelcontextprotocol rust-sdk up to 1.3.x. Affected by this issue is some unknown functionality of the file crates/rmcp/src/transpo"
+        },
+        {
+          "title": "CVE-2026-42457  loft-sh loft up to 4.4.2/4.5.4/4.6.1/4.7.0 Name cross site scripting (GHSA-x7cq-v3h6-426c)",
+          "link": "https://vuldb.com/vuln/363903",
+          "date": "Thu, 14 May 2026 17:33:30 +0200",
+          "description": "A vulnerability classified as problematic was found in loft-sh loft up to 4.4.2/4.5.4/4.6.1/4.7.0. Affected by this vulnerability is an unknown functionality. Such manipulation of the argument Name le"
+        },
+        {
+          "title": "CVE-2026-41933  givanz Vvveb up to 1.0.8.2 Directory Listing exposure of information through directory listing",
+          "link": "https://vuldb.com/vuln/363902",
+          "date": "Thu, 14 May 2026 17:33:22 +0200",
+          "description": "A vulnerability classified as problematic has been found in givanz Vvveb up to 1.0.8.2. Affected is an unknown function of the component Directory Listing Handler. This manipulation causes exposure of"
+        },
+        {
+          "title": "CVE-2025-62628  AMD AIM-T Manageability Service prior 5.1.0.1382 OpenSSL uncontrolled search path",
+          "link": "https://vuldb.com/vuln/363901",
+          "date": "Thu, 14 May 2026 17:33:13 +0200",
+          "description": "A vulnerability described as problematic has been identified in AMD AIM-T Manageability Service, Cloud Manageability Service, Management Plug-In for SCCM, Management Console, Manageability API and DAS"
+        },
+        {
+          "title": "CVE-2026-42881  squinky86 STIGQter up to 1.2.6 path traversal (GHSA-mcv5-5j7p-vqh7)",
+          "link": "https://vuldb.com/vuln/363900",
+          "date": "Thu, 14 May 2026 17:32:44 +0200",
+          "description": "A vulnerability marked as critical has been reported in squinky86 STIGQter up to 1.2.6. This affects an unknown function. The manipulation leads to path traversal.This vulnerability is traded as CVE"
+        },
+        {
+          "title": "CVE-2026-44375  AArnott Nerdbank.MessagePack up to 1.1.61 memory allocation (GHSA-2cwq-pwfr-wcw3)",
+          "link": "https://vuldb.com/vuln/363899",
+          "date": "Thu, 14 May 2026 17:32:36 +0200",
+          "description": "A vulnerability labeled as problematic has been found in AArnott Nerdbank.MessagePack up to 1.1.61. The impacted element is an unknown function. Executing a manipulation can lead to uncontrolled memor"
+        },
+        {
+          "title": "CVE-2026-44308  awspring spring-cloud-aws/spring-cloud-aws-sns up to 4.0.1 HTTP Endpoint data authenticity (GHSA-r4w4-wv68-qv85)",
+          "link": "https://vuldb.com/vuln/363898",
+          "date": "Thu, 14 May 2026 17:32:23 +0200",
+          "description": "A vulnerability identified as critical has been detected in awspring spring-cloud-aws and spring-cloud-aws-sns up to 4.0.1. The affected element is an unknown function of the component HTTP Endpoint."
+        },
+        {
+          "title": "CVE-2026-44484  Lightning-AI pytorch-lightning 2.6.2/2.6.3 malicious code (GHSA-w37p-236h-pfx3)",
+          "link": "https://vuldb.com/vuln/363897",
+          "date": "Thu, 14 May 2026 17:32:21 +0200",
+          "description": "A vulnerability categorized as critical has been discovered in Lightning-AI pytorch-lightning 2.6.2/2.6.3. Impacted is an unknown function. Such manipulation leads to embedded malicious code.This vu"
+        },
+        {
+          "title": "CVE-2026-44216  bytecodealliance wasmtime up to 36.0.7/43.0.1/44.0.0 WebAssembly allocation of resources",
+          "link": "https://vuldb.com/vuln/363896",
+          "date": "Thu, 14 May 2026 17:31:19 +0200",
+          "description": "A vulnerability was found in bytecodealliance wasmtime up to 36.0.7/43.0.1/44.0.0. It has been rated as problematic. This issue affects some unknown processing of the component WebAssembly Module. Thi"
+        }
+      ]
+    },
+    "OBS-Vigilance": {
+      "items": [
+        {
+          "title": "Bouncy Castle Java Cryptography Extension: information disclosure via Non-constant Time Comparisons",
+          "link": "https://vigilance.fr/vulnerability/Bouncy-Castle-Java-Cryptography-Extension-information-disclosure-via-Non-constant-Time-Comparisons-50727",
+          "date": "Visit link for details",
+          "description": "An attacker can bypass access restrictions to data of Bouncy Castle Java Cryptography Extension, via Non-constant Time Comparisons, in order to read sensitive information..."
+        },
+        {
+          "title": "nginx: out-of-bounds memory reading via ngx_mail_smtp_module",
+          "link": "https://vigilance.fr/vulnerability/nginx-out-of-bounds-memory-reading-via-ngx-mail-smtp-module-47978",
+          "date": "Visit link for details",
+          "description": "An attacker can force a read at an invalid memory address of nginx, via ngx_mail_smtp_"
+        },
+        {
+          "title": "OpenBSD: denial of service via recvfd",
+          "link": "https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-recvfd-50036",
+          "date": "Visit link for details",
+          "description": "An attacker can cause a fatal error of OpenBSD, via recvfd, in order to trigger a denial of service..."
+        },
+        {
+          "title": "F5 BIG-IP: overload via HTTP/2 Made You Reset Attack",
+          "link": "https://vigilance.fr/vulnerability/F5-BIG-IP-overload-via-HTTP-2-Made-You-Reset-Attack-47973",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger an overload of F5 BIG-IP, via HTTP/2 Made You Reset Attack, in order to trigger a denial of service..."
+        },
+        {
+          "title": "F5 BIG-IP: denial of service via APM",
+          "link": "https://vigilance.fr/vulnerability/F5-BIG-IP-denial-of-service-via-APM-47972",
+          "date": "Visit link for details",
+          "description": "An attacker can cause a fatal error of F5 BIG-IP, via APM, in order to trigger a denial of service..."
+        },
+        {
+          "title": "HTTP/2: overload via HTTP/2 Made You Reset Attack",
+          "link": "https://vigilance.fr/vulnerability/HTTP-2-overload-via-HTTP-2-Made-You-Reset-Attack-47963",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger an overload of HTTP/2, via HTTP/2 Made You Reset Attack, in order to trigger a denial of service..."
+        },
+        {
+          "title": "GitLab CE/EE: multiple vulnerabilities dated 13/08/2025",
+          "link": "https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-dated-13-08-2025-47962",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of GitLab CE/EE, dated 13/08/2025..."
+        },
+        {
+          "title": "Angular: Cross Site Scripting via I18n Attribute Bindings",
+          "link": "https://vigilance.fr/vulnerability/Angular-Cross-Site-Scripting-via-I18n-Attribute-Bindings-50034",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger a Cross Site Scripting of Angular, via I18n Attribute Bindings, in order to run JavaScript code in the context of the web site..."
+        },
+        {
+          "title": "Apache Tomcat: denial of service via HTTP/2 Made You Reset Attack",
+          "link": "https://vigilance.fr/vulnerability/Apache-Tomcat-denial-of-service-via-HTTP-2-Made-You-Reset-Attack-47960",
+          "date": "Visit link for details",
+          "description": "An attacker can cause a fatal error of Apache Tomcat, via HTTP/2 Made You Reset Attack, in order to trigger a denial of service..."
+        },
+        {
+          "title": "FortiOS: privilege escalation via FGFM Protocol",
+          "link": "https://vigilance.fr/vulnerability/FortiOS-privilege-escalation-via-FGFM-Protocol-47954",
+          "date": "Visit link for details",
+          "description": "An attacker can bypass restrictions of FortiOS, via FGFM Protocol, in order to escalate his privileges..."
+        }
+      ]
+    },
+    "EU-CERT": {
+      "items": [
+        {
+          "title": "2026-006: Critical Vulnerability in PAN-OS",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-006/",
+          "date": "Wednesday, May 06, 2026 10:44:32 AM CEST",
+          "description": "On 6 May 2026, Palo Alto published a security advisory addressing a critical vulnerability affecting PAN-OS. This vulnerability allows an unauthenticated attacker to execute arbitrary code with root privileges."
+        },
+        {
+          "title": "2026-005: High Vulnerability in the Linux Kernel (\"Copy Fail\")",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-005/",
+          "date": "Thursday, April 30, 2026 11:25:30 AM CEST",
+          "description": "On 29 April 2026, a high local privilege escalation vulnerability in the Linux kernel, tracked as CVE-2026-31431 and named \"Copy Fail\", was publicly disclosed."
+        },
+        {
+          "title": "2026-004: Critical Vulnerability in SharePoint Exploited",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-004/",
+          "date": "Wednesday, March 25, 2026 08:51:39 AM CET",
+          "description": "On 17 March 2026, Microsoft updated one of its January 2026 security advisories related to a remote code execution vulnerability in Microsoft SharePoint. Specifically, Microsoft raised the CVSS score and changed the FAQ section to indicate that the vulnerability could be exploited by an unauthenticated attacker. This vulnerability was added in the CISA's Known Exploited Vulnerabilities (KEV) catalogue on 18 March 2026."
+        },
+        {
+          "title": "2026-003: Multiple Vulnerabilities in Citrix NetScaler and Citrix ADC",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-003/",
+          "date": "Monday, March 23, 2026 07:03:59 PM CET",
+          "description": "On 23 March 2026, Citrix published a security advisory addressing multiple vulnerabilities affecting NetScaler ADC and NetScaler Gateway. These vulnerabilities may lead to sensitive information disclosure and user session mix-up under specific configurations."
+        },
+        {
+          "title": "2026-002: Multiple Vulnerabilities in Cisco Products",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-002/",
+          "date": "Thursday, February 26, 2026 07:38:52 PM CET",
+          "description": "On 25 February 2026, Cisco released security advisories addressing multiple high and critical severity vulnerabilities in Cisco Catalyst SD-WAN controllers and Cisco SD-WAN Manager. If exploited, these vulnerabilities could allow attackers to gain administrative access to compromised systems."
+        },
+        {
+          "title": "2026-001: Critical vulnerabilities in Ivanti EPMM",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-001/",
+          "date": "Friday, January 30, 2026 10:09:06 AM CET",
+          "description": "On 29 January 2026, Ivanti released a security advisory addressing two critical vulnerabilities in their EPMM products. An attacker could exploit those flaws to achieve unauthenticated remote code execution on the vulnerable device. One of these vulnerabilities have been exploited in a limited number of cases."
+        }
+      ]
+    },
     "HK-CERT": {
       "items": [
+        {
+          "title": "MongoDB Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/mongodb-multiple-vulnerabilities_20260514",
+          "date": "Release Date: 14 May 2026 ",
+          "description": "Multiple vulnerabilities were identified in MongoDB. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure and denial of service condition on the targeted system."
+        },
+        {
+          "title": "Mozilla Firefox Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/mozilla-firefox-multiple-vulnerabilities_20260514",
+          "date": "Release Date: 14 May 2026 ",
+          "description": "Multiple vulnerabilities were identified in Mozilla Firefox. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass and remote code execution on the targeted system."
+        },
+        {
+          "title": "Palo Alto Products Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/palo-alto-products-multiple-vulnerabilities_20260514",
+          "date": "Release Date: 14 May 2026 ",
+          "description": "Multiple vulnerabilities were identified in Palo Alto Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, remote code execution, cross-site scripting and security restriction bypass on the targeted system...."
+        },
+        {
+          "title": "Linux Kernel Elevation of Privilege Vulnerability",
+          "link": "https://www.hkcert.org/security-bulletin/linux-kernel-elevation-of-privilege-vulnerability_20260504",
+          "date": " Release Date: 4 May 2026 ",
+          "description": "A vulnerability was identified in Linux Kernel. A local attacker can exploit this vulnerability to trigger elevation of privilege on the targeted system. Note: CVE-2026-31431 is being exploited in the wild. Copy Fail (CVE-2026-31431) is a..."
+        },
         {
           "title": "RedHat Linux Kernel Multiple Vulnerabilities",
           "link": "https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20260508",
@@ -358,30 +422,6 @@
           "link": "https://www.hkcert.org/security-bulletin/exim-remote-code-execution-vulnerability_20260513",
           "date": "Release Date: 13 May 2026 ",
           "description": "A vulnerability has been identified in Exim. A remote attacker could exploit this vulnerability to trigger denial of service condition and remote code execution on the targeted system."
-        },
-        {
-          "title": "QNAP NAS Elevation of Privilege Vulnerability",
-          "link": "https://www.hkcert.org/security-bulletin/qnap-nas-elevation-of-privilege-vulnerability_20260512",
-          "date": "Release Date: 12 May 2026 ",
-          "description": "A vulnerability was identified in QNAP NAS. A local attacker can exploit this vulnerability to trigger elevation of privilege on the targeted system. Note: CVE-2026-43284 is being scattered exploited. A local privilege escalation vulnerability, commonly known as \"Dirty Frag\", ..."
-        },
-        {
-          "title": "Ubuntu Linux Kernel Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20260511",
-          "date": " Release Date: 11 May 2026 ",
-          "description": "Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, denial of service condition, remote code execution, security restriction bypass and elevation of privilege on the targeted system.  [Updated on 2026-05..."
-        },
-        {
-          "title": "Debian Linux Kernel Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20260506",
-          "date": " Release Date: 6 May 2026 ",
-          "description": "Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system. Note: CVE-2026-31431 is being exploited in the..."
-        },
-        {
-          "title": "SUSE Linux Kernel Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20260506",
-          "date": " Release Date: 6 May 2026 ",
-          "description": "Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, security restriction bypass, sensitive information disclosure,  remote code execution and data manipulation on the targeted system. Note: ..."
         }
       ]
     },
@@ -431,48 +471,114 @@
         }
       ]
     },
-    "EU-CERT": {
+    "MA-CERT": {
       "items": [
         {
-          "title": "2026-006: Critical Vulnerability in PAN-OS",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-006/",
-          "date": "Wednesday, May 06, 2026 10:44:32 AM CEST",
-          "description": "On 6 May 2026, Palo Alto published a security advisory addressing a critical vulnerability affecting PAN-OS. This vulnerability allows an unauthenticated attacker to execute arbitrary code with root privileges."
+          "title": "64371405/26 - Vulnérabilités critiques affectant VM2",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-vm2",
+          "date": " ",
+          "description": "Plusieurs  vulnérabilités critiques affectant les versions susmentionnées de VM2 ont été corrigées. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code…"
         },
         {
-          "title": "2026-005: High Vulnerability in the Linux Kernel (\"Copy Fail\")",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-005/",
-          "date": "Thursday, April 30, 2026 11:25:30 AM CEST",
-          "description": "On 29 April 2026, a high local privilege escalation vulnerability in the Linux kernel, tracked as CVE-2026-31431 and named \"Copy Fail\", was publicly disclosed."
+          "title": "64361405/26 - Vulnérabilités affectant plusieurs plugins WordPress",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-plugins-wordpress",
+          "date": " ",
+          "description": "Plusieurs vulnérabilités affectant les plugins susmentionnés de Wordpress ont été corrigées. L’exploitation de ces  vulnérabilités peut permettre à un attaquant l’exécution de code à…"
         },
         {
-          "title": "2026-004: Critical Vulnerability in SharePoint Exploited",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-004/",
-          "date": "Wednesday, March 25, 2026 08:51:39 AM CET",
-          "description": "On 17 March 2026, Microsoft updated one of its January 2026 security advisories related to a remote code execution vulnerability in Microsoft SharePoint. Specifically, Microsoft raised the CVSS score and changed the FAQ section to indicate that the vulnerability could be exploited by an unauthenticated attacker. This vulnerability was added in the CISA's Known Exploited Vulnerabilities (KEV) catalogue on 18 March 2026."
+          "title": "64351405/26 - Vulnérabilité dans Zoom Rooms pour Windows",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-zoom-rooms-pour-windows",
+          "date": " ",
+          "description": "Zoom a publié une mise à jour de sécurité pour corriger une vulnérabilité affectant Zoom Rooms pour Windows. Cette faille pourrait permettre à un attaquant de réussir une élévation de  privilèges…"
         },
         {
-          "title": "2026-003: Multiple Vulnerabilities in Citrix NetScaler and Citrix ADC",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-003/",
-          "date": "Monday, March 23, 2026 07:03:59 PM CET",
-          "description": "On 23 March 2026, Citrix published a security advisory addressing multiple vulnerabilities affecting NetScaler ADC and NetScaler Gateway. These vulnerabilities may lead to sensitive information disclosure and user session mix-up under specific configurations."
+          "title": "64341405/26 - Vulnérabilité dans F5 BIG-IP",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-f5-big-ip-0",
+          "date": " ",
+          "description": "Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de F5 BIG-IP. L’exploitation de ces failles peut permettre à un attaquant distant non authentifié d’exécuter du code…"
         },
         {
-          "title": "2026-002: Multiple Vulnerabilities in Cisco Products",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-002/",
-          "date": "Thursday, February 26, 2026 07:38:52 PM CET",
-          "description": "On 25 February 2026, Cisco released security advisories addressing multiple high and critical severity vulnerabilities in Cisco Catalyst SD-WAN controllers and Cisco SD-WAN Manager. If exploited, these vulnerabilities could allow attackers to gain administrative access to compromised systems."
+          "title": "64331405/26 - Vulnérabilité dans le serveur Wing FTP",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-le-serveur-wing-ftp",
+          "date": " ",
+          "description": "Une vulnérabilité a été corrigée dans le serveur Wing FTP. Un attaquant distant peut exploiter cette vulnérabilité afin d’exécuter du code arbitraire, de compromettre le serveur affecté et…"
         },
         {
-          "title": "2026-001: Critical vulnerabilities in Ivanti EPMM",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-001/",
-          "date": "Friday, January 30, 2026 10:09:06 AM CET",
-          "description": "On 29 January 2026, Ivanti released a security advisory addressing two critical vulnerabilities in their EPMM products. An attacker could exploit those flaws to achieve unauthenticated remote code execution on the vulnerable device. One of these vulnerabilities have been exploited in a limited number of cases."
+          "title": "64311405/26 - Vulnérabilités affectant MongoDB",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-mongodb-1",
+          "date": " ",
+          "description": "Plusieurs vulnérabilités affectant les versions susmentionnées de MongoDB ont été corrigées. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code, d’accéder à des…"
+        },
+        {
+          "title": "64321405/26 - Vulnérabilités dans HPE Aruba Networking",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-hpe-aruba-networking",
+          "date": " ",
+          "description": "Plusieurs vulnérabilités ont été corrigées dans les produits Hewlett Packard Enterprise susmentionnés. L’exploitation de ces failles peut permettre à un attaquant de provoquer une exécution de code…"
+        },
+        {
+          "title": "64301405/26 - Vulnérabilités affectant des produits Palo Alto",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-palo-alto-7",
+          "date": " ",
+          "description": "Palo Alto Networks annonce la correction de plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant d’exécuter du…"
+        },
+        {
+          "title": "64291405/26 - Vulnérabilités affectant le navigateur Mozilla Firefox",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-mozilla-firefox-27",
+          "date": " ",
+          "description": "Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la     correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox.…"
+        },
+        {
+          "title": "64281405/26 - Vulnérabilités affectant VMware ESXi",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-vmware-esxi",
+          "date": " ",
+          "description": "Plusieurs vulnérabilités ont été identifiées dans des composants pilotes et logiciels de VMware ESXi. Leur exploitation pourrait permettre à un attaquant distant ou local de compromettre la…"
         }
       ]
     },
     "CA-CCS": {
       "items": [
+        {
+          "title": "GitLab security advisory (AV26-467)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av26-467",
+          "date": "2026-05-14",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Apple security advisory (AV26-466)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av26-466",
+          "date": "2026-05-13",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "HPE security advisory (AV26-465)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av26-465",
+          "date": "2026-05-13",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "cPanel security advisory (AV26-464)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/cpanel-security-advisory-av26-464",
+          "date": "2026-05-13",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Drupal security advisory (AV26-463)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av26-463",
+          "date": "2026-05-13",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Palo Alto Networks security advisory (AV26-462)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av26-462",
+          "date": "2026-05-13",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "F5 security advisory (AV26-461)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av26-461",
+          "date": "2026-05-13",
+          "description": "Visit link for details"
+        },
         {
           "title": "Exim security advisory (AV26-460)",
           "link": "https://www.cyber.gc.ca/en/alerts-advisories/exim-security-advisory-av26-460",
@@ -490,112 +596,6 @@
           "link": "https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av26-458",
           "date": "2026-05-13",
           "description": "Visit link for details"
-        },
-        {
-          "title": "HPE security advisory (AV26-457)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av26-457",
-          "date": "2026-05-13",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Microsoft security advisory – May 2026 monthly rollup (AV26-456)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-may-2026-monthly-rollup-av26-456",
-          "date": "2026-05-12",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "AMD security advisory (AV26-455)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/amd-security-advisory-av26-455",
-          "date": "2026-05-12",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Fortinet security advisory (AV26-454)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av26-454",
-          "date": "2026-05-12",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Intel security advisory (AV26-453)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/intel-security-advisory-av26-453",
-          "date": "2026-05-12",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Adobe security advisory (AV26-452)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av26-452",
-          "date": "2026-05-12",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Mozilla security advisory (AV26-451)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av26-451",
-          "date": "2026-05-12",
-          "description": "Visit link for details"
-        }
-      ]
-    },
-    "MA-CERT": {
-      "items": [
-        {
-          "title": "64271305/26 - Vulnérabilités affectant Apache Tomcat",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-apache-tomcat-2",
-          "date": " ",
-          "description": "Apache Foundation annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées de son produit Apache Tomcat. L’exploitation de cette vulnérabilité peut …"
-        },
-        {
-          "title": "64261305/26 - Attaque de type « Supply Chain » affectant le gestionnaire de…",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/attaque-de-type-supply-chain-affectant-le-gestionnaire-de-telechargement-jdownloader",
-          "date": " ",
-          "description": ""
-        },
-        {
-          "title": "64251305/26 - Vulnérabilités affectant des produits d’Ivanti",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-divanti-2",
-          "date": " ",
-          "description": "Ivanti a publié une mise à jour de sécurité qui permet de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un…"
-        },
-        {
-          "title": "64231305/26 - Vulnérabilités affectant des produits de Fortinet",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-de-fortinet-5",
-          "date": " ",
-          "description": "Fortinet annonce la disponibilité de mises à jour de sécurité permettant la correction            de plusieurs vulnérabilités affectant ses produits susmentionnées.…"
-        },
-        {
-          "title": "64241305/26 - Vulnérabilités dans plusieurs produits Microsoft (Patch Mai 2026)",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-plusieurs-produits-microsoft-patch-mai-2026",
-          "date": " ",
-          "description": "Microsoft annonce la correction de plusieurs vulnérabilités affectant les produits Microsoft susmentionnés. L’exploitation de ces failles pourrait permettre à un attaquant d’élever ses privilèges,…"
-        },
-        {
-          "title": "64201305/26 - Vulnérabilités critiques dans Microsoft Azure (Patch Tuesday Mai 2026)",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-microsoft-azure-patch-tuesday-mai-2026",
-          "date": " ",
-          "description": "Plusieurs vulnérabilités critiques ont été corrigées dans les produits Azure susmentionnés. L’exploitation de ces failles pourrait permettre à un attaquant de réussir une élévation de ses privilèges,…"
-        },
-        {
-          "title": "64191305/26 - Vulnérabilités critiques dans les outils de développement Microsoft (Patch…",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-outils-de-developpement-microsoft-patch-tuesday-mai-0",
-          "date": " ",
-          "description": "Microsoft annonce la correction de plusieurs vulnérabilités affectant les outils de développement susmentionnés.  L’exploitation de ces failles pourrait permettre à un attaquant d’élever ses…"
-        },
-        {
-          "title": "64181305/26 - Vulnérabilité dans Microsoft SQL Server (Patch Tuesday Mai 2026)",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-microsoft-sql-server-patch-tuesday-mai-2026",
-          "date": " ",
-          "description": "Une vulnérabilité a été corrigée dans les versions susmentionnées de Microsoft SQL Server. L’exploitation de cette faille permet à un attaquant d’exécuter du code arbitraire à distance."
-        },
-        {
-          "title": "64221305/26 - Vulnérabilité affectant les serveurs de messagerie Exim",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-les-serveurs-de-messagerie-exim",
-          "date": " ",
-          "description": "Une vulnérabilité affectant les versions susmentionnées d’Exim a été corrigée.  L'exploitation de cette vulnérabilité peut  permettre  à un attaquant distant d’exécuter du code ou de…"
-        },
-        {
-          "title": "64171305/26 - Vulnérabilités critiques dans Microsoft Windows (Patch Tuesday Mai 2026)",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-microsoft-windows-patch-tuesday-mai-2026",
-          "date": " ",
-          "description": "Microsoft a annoncé la correction de plusieurs vulnérabilités critiques affectant les produits Microsoft Windows susmentionnés. L’exploitation de ces failles pourrait permettre à un attaquant d’élever…"
         }
       ]
     }
