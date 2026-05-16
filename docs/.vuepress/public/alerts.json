@@ -1,8 +1,14 @@
 {
-  "generated_at": "2026-05-15T15:42:44.589901+00:00",
+  "generated_at": "2026-05-16T15:23:18.649750+00:00",
   "sources": {
     "US-CERT": {
       "items": [
+        {
+          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/05/15/cisa-adds-one-known-exploited-vulnerability-catalog",
+          "date": "May 15, 2026",
+          "description": "Visit link for details."
+        },
         {
           "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
           "link": "https://www.cisa.gov/news-events/alerts/2026/05/14/cisa-adds-one-known-exploited-vulnerability-catalog",
@@ -56,250 +62,6 @@
           "link": "https://www.cisa.gov/news-events/alerts/2026/04/23/cisa-adds-one-known-exploited-vulnerability-catalog",
           "date": "Apr 23, 2026",
           "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/04/22/cisa-adds-one-known-exploited-vulnerability-catalog",
-          "date": "Apr 22, 2026",
-          "description": "Visit link for details."
-        }
-      ]
-    },
-    "IBM-X-FORCE-EXCHANGE": {
-      "items": [
-        {
-          "title": "Out-of-bounds write vulnerability in the distributed file system module (CVE-2026-41970)",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "2026年5月15日",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Permission control vulnerability in the projection module (CVE-2026-41969)",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "2026年5月15日",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Permission control vulnerability in the manufacturability design module (CVE-2026-41968)",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "2026年5月15日",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Permission control vulnerability in the manufacturability design module (CVE-2026-41967)",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "2026年5月15日",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Permission control vulnerability in the smart sensing service (CVE-2026-41966)",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "2026年5月15日",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "New vulnerability",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "2026年5月15日",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "",
-          "description": "Visit link for details"
-        }
-      ]
-    },
-    "VulDB": {
-      "items": [
-        {
-          "title": "CVE-2026-41552  DHTMLX PDF Export Module up to 0.7.5 path traversal",
-          "link": "https://vuldb.com/vuln/364177",
-          "date": "Fri, 15 May 2026 15:38:13 +0200",
-          "description": "A vulnerability categorized as critical has been discovered in DHTMLX PDF Export Module up to 0.7.5. Affected is an unknown function. The manipulation results in path traversal.This vulnerability is"
-        },
-        {
-          "title": "CVE-2026-7182  DHTMLX Diagram up to 1.1.0 Export path traversal",
-          "link": "https://vuldb.com/vuln/364176",
-          "date": "Fri, 15 May 2026 15:38:03 +0200",
-          "description": "A vulnerability was found in DHTMLX Diagram up to 1.1.0. It has been rated as critical. This impacts an unknown function of the component Export Module. The manipulation leads to path traversal.This"
-        },
-        {
-          "title": "CVE-2026-41553  DHTMLX PDF Export Module up to 0.7.5 data os command injection",
-          "link": "https://vuldb.com/vuln/364175",
-          "date": "Fri, 15 May 2026 15:37:49 +0200",
-          "description": "A vulnerability was found in DHTMLX PDF Export Module up to 0.7.5. It has been declared as critical. This affects an unknown function. Executing a manipulation of the argument data can lead to os comm"
-        },
-        {
-          "title": "CVE-2026-41962  Huawei HarmonyOS 6.0.0/6.1.0 access control",
-          "link": "https://vuldb.com/vuln/364174",
-          "date": "Fri, 15 May 2026 13:52:12 +0200",
-          "description": "A vulnerability was found in Huawei HarmonyOS 6.0.0/6.1.0. It has been classified as critical. The impacted element is an unknown function. Performing a manipulation results in improper access control"
-        },
-        {
-          "title": "CVE-2026-41971  Huawei HarmonyOS 5.1.0/6.0.0 Security Control logic error",
-          "link": "https://vuldb.com/vuln/364173",
-          "date": "Fri, 15 May 2026 13:52:04 +0200",
-          "description": "A vulnerability was found in Huawei HarmonyOS 5.1.0/6.0.0 and classified as problematic. The affected element is an unknown function of the component Security Control Module. Such manipulation leads t"
-        },
-        {
-          "title": "CVE-2026-8454  TONYC Imager::File::GIF up to 1.002 on Perl imgif.c i_readgif_multi_low out-of-bounds write",
-          "link": "https://vuldb.com/vuln/364172",
-          "date": "Fri, 15 May 2026 13:51:54 +0200",
-          "description": "A vulnerability has been found in TONYC Imager::File::GIF up to 1.002 on Perl and classified as critical. Impacted is the function i_readgif_multi_low of the file imgif.c. This manipulation causes out"
-        },
-        {
-          "title": "CVE-2026-8503  GUIMARD Apache::Session::Generate::SHA256 up to 1.3.18 on Perl rand generation of predictable numbers or identifiers",
-          "link": "https://vuldb.com/vuln/364171",
-          "date": "Fri, 15 May 2026 13:51:44 +0200",
-          "description": "A vulnerability, which was classified as problematic, was found in GUIMARD Apache::Session::Generate::SHA256 up to 1.3.18 on Perl. This issue affects the function rand. The manipulation results in gen"
-        },
-        {
-          "title": "CVE-2026-41970  Huawei HarmonyOS/EMUI Distributed File System out-of-bounds write (EUVD-2026-30534)",
-          "link": "https://vuldb.com/vuln/364170",
-          "date": "Fri, 15 May 2026 13:48:03 +0200",
-          "description": "A vulnerability, which was classified as critical, has been found in Huawei HarmonyOS and EMUI. This vulnerability affects unknown code of the component Distributed File System Module. The manipulatio"
-        },
-        {
-          "title": "CVE-2026-41969  Huawei HarmonyOS/EMUI Projection permission",
-          "link": "https://vuldb.com/vuln/364169",
-          "date": "Fri, 15 May 2026 13:47:53 +0200",
-          "description": "A vulnerability classified as critical was found in Huawei HarmonyOS and EMUI. This affects an unknown part of the component Projection Module. Executing a manipulation can lead to permission issues."
-        },
-        {
-          "title": "CVE-2026-41968  Huawei HarmonyOS 5.1.0/6.0.0/6.1.0 Manufacturability Design logic error",
-          "link": "https://vuldb.com/vuln/364168",
-          "date": "Fri, 15 May 2026 13:47:30 +0200",
-          "description": "A vulnerability classified as problematic has been found in Huawei HarmonyOS 5.1.0/6.0.0/6.1.0. Affected by this issue is some unknown functionality of the component Manufacturability Design Module. P"
-        }
-      ]
-    },
-    "ZERODAYINITIATIVE": {
-      "items": [
-        {
-          "title": "Siemens Simcenter Femap IPT File Parsing Memory Corruption Remote Code Execution Vulnerability",
-          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-317/",
-          "date": "2026-05-12",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Siemens Simcenter Femap IPT File Parsing Memory Corruption Remote Code Execution Vulnerability",
-          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-316/",
-          "date": "2026-05-12",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Apple macOS USD Out-Of-Bounds Read Information Disclosure Vulnerability",
-          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-315/",
-          "date": "2026-05-12",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Apple macOS USD File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability",
-          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-314/",
-          "date": "2026-05-12",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Apple Safari Regular Expression Duplicate Named Groups Heap-based Buffer Overflow Remote Code Execution Vulnerability",
-          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-313/",
-          "date": "2026-05-12",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Apple Safari Web Inspector WebCore Style Resolver Use-After-Free Remote Code Execution Vulnerability",
-          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-312/",
-          "date": "2026-05-12",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Apple macOS CoreSymbolication Out-Of-Bounds Read Information Disclosure Vulnerability",
-          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-311/",
-          "date": "2026-05-12",
-          "description": "Visit link for details"
-        }
-      ]
-    },
-    "HK-CERT": {
-      "items": [
-        {
-          "title": "F5 Products Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/f5-products-multiple-vulnerabilities_20260515",
-          "date": "Release Date: 15 May 2026 ",
-          "description": "Multiple vulnerabilities were identified in F5 Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass and elevation of privilege on the targeted system."
-        },
-        {
-          "title": "GitLab Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20260515",
-          "date": "Release Date: 15 May 2026 ",
-          "description": "Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, denial of service condition, remote code execution, sensitive information disclosure, security restriction bypass and data manipulation on the targeted system."
-        },
-        {
-          "title": "Google Chrome Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20260515",
-          "date": "Release Date: 15 May 2026 ",
-          "description": "Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, denial of service condition, security restriction bypass, spoofing, cross-site scripting and sensitive information disclosure on the targeted system."
-        },
-        {
-          "title": "Nginx Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/nginx-multiple-vulnerabilities_20260515",
-          "date": "Release Date: 15 May 2026 ",
-          "description": "Multiple vulnerabilities were identified in Nginx. A remote attacker could exploit some of these vulnerabilities to trigger spoofing, denial of service condition, remote code execution, sensitive information disclosure, security restriction bypass and data manipulation on the targeted system."
-        },
-        {
-          "title": "Apple Products Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20260513",
-          "date": " Release Date: 13 May 2026 ",
-          "description": "Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. [Updated on 2026-05-..."
-        },
-        {
-          "title": "MongoDB Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/mongodb-multiple-vulnerabilities_20260514",
-          "date": "Release Date: 14 May 2026 ",
-          "description": "Multiple vulnerabilities were identified in MongoDB. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure and denial of service condition on the targeted system."
-        },
-        {
-          "title": "Mozilla Firefox Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/mozilla-firefox-multiple-vulnerabilities_20260514",
-          "date": "Release Date: 14 May 2026 ",
-          "description": "Multiple vulnerabilities were identified in Mozilla Firefox. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass and remote code execution on the targeted system."
-        },
-        {
-          "title": "Palo Alto Products Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/palo-alto-products-multiple-vulnerabilities_20260514",
-          "date": "Release Date: 14 May 2026 ",
-          "description": "Multiple vulnerabilities were identified in Palo Alto Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, remote code execution, cross-site scripting and security restriction bypass on the targeted system...."
-        },
-        {
-          "title": "Linux Kernel Elevation of Privilege Vulnerability",
-          "link": "https://www.hkcert.org/security-bulletin/linux-kernel-elevation-of-privilege-vulnerability_20260504",
-          "date": " Release Date: 4 May 2026 ",
-          "description": "A vulnerability was identified in Linux Kernel. A local attacker can exploit this vulnerability to trigger elevation of privilege on the targeted system. Note: CVE-2026-31431 is being exploited in the wild. Copy Fail (CVE-2026-31431) is a..."
-        },
-        {
-          "title": "RedHat Linux Kernel Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20260508",
-          "date": " Release Date: 8 May 2026 ",
-          "description": "Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system. Note: CVE-2026-31431 is being exploited in the wild..."
         }
       ]
     },
@@ -367,67 +129,305 @@
         }
       ]
     },
+    "IBM-X-FORCE-EXCHANGE": {
+      "items": [
+        {
+          "title": "Essential Chat Support <= 1.0.1 - Missing Authorization to Unauthenticated Settings Reset via 'ecs_reset_settings' Parameter (CVE-2026-8681)",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "May 16, 2026",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Crypt::DSA versions through 1.19 for Perl use 2-args open, allowing existing files to be modified (CVE-2026-8704)",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "May 15, 2026",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Crypt::DSA versions before 1.20 for Perl generate seeds using rand (CVE-2026-8700)",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "May 15, 2026",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Open WebUI: SSRF via OAuth Profile Picture URL in _process_picture_url (oauth.py) (CVE-2026-45338)",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "May 15, 2026",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Open WebUI: Stored XSS in excel file preview (CVE-2026-44549)",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "May 15, 2026",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "",
+          "description": "Visit link for details"
+        }
+      ]
+    },
     "OBS-Vigilance": {
       "items": [
         {
-          "title": "Cisco ASA: denial of service via Remote Access VPN Web Server",
-          "link": "https://vigilance.fr/vulnerability/Cisco-ASA-denial-of-service-via-Remote-Access-VPN-Web-Server-48014",
+          "title": "Python Core: denial of service via XML conv_content_model",
+          "link": "https://vigilance.fr/vulnerability/Python-Core-denial-of-service-via-XML-conv-content-model-50053",
           "date": "Visit link for details",
-          "description": "An attacker can cause a fatal error of Cisco ASA, via Remote Access VPN Web Server, in order to trigger a denial of service..."
+          "description": "An attacker can cause a fatal error of Python Core, via XML conv_content_model, in order to trigger a denial of service..."
         },
         {
-          "title": "Cisco ASA: denial of service via Firepower 3100/4200 Series TLS 1.3 Cipher",
-          "link": "https://vigilance.fr/vulnerability/Cisco-ASA-denial-of-service-via-Firepower-3100-4200-Series-TLS-1-3-Cipher-48013",
+          "title": "Python Core: write access via http.cookies.Morsel Control Characters",
+          "link": "https://vigilance.fr/vulnerability/Python-Core-write-access-via-http-cookies-Morsel-Control-Characters-50052",
           "date": "Visit link for details",
-          "description": "An attacker can cause a fatal error of Cisco ASA, via Firepower 3100/4200 Series TLS 1.3 Cipher, in order to trigger a denial of service..."
+          "description": "An attacker can bypass access restrictions of Python Core, via http.cookies.Morsel Control Characters, in order to alter data..."
         },
         {
-          "title": "Cisco ASA: denial of service via VPN Web Server",
-          "link": "https://vigilance.fr/vulnerability/Cisco-ASA-denial-of-service-via-VPN-Web-Server-48012",
+          "title": "Python Core: write access via Wsgiref Control Characters",
+          "link": "https://vigilance.fr/vulnerability/Python-Core-write-access-via-Wsgiref-Control-Characters-50051",
           "date": "Visit link for details",
-          "description": "An attacker can cause a fatal error of Cisco ASA, via VPN Web Server, in order to trigger a denial of service..."
+          "description": "An attacker can bypass access restrictions of Python Core, via Wsgiref Control Characters, in order to alter data..."
         },
         {
-          "title": "Cisco ASA: buffer overflow via Software Web Services",
-          "link": "https://vigilance.fr/vulnerability/Cisco-ASA-buffer-overflow-via-Software-Web-Services-48011",
+          "title": "Python Black: file creation via python-cell-magics",
+          "link": "https://vigilance.fr/vulnerability/Python-Black-file-creation-via-python-cell-magics-50046",
           "date": "Visit link for details",
-          "description": "An attacker can trigger a buffer overflow of Cisco ASA, via Software Web Services, in order to trigger a denial of service, and possibly to run code..."
+          "description": "An attacker can bypass access restrictions of Python Black, via python-cell-magics, in order to create a file..."
         },
         {
-          "title": "Cisco ASA: denial of service via SSL/TLS Certificate",
-          "link": "https://vigilance.fr/vulnerability/Cisco-ASA-denial-of-service-via-SSL-TLS-Certificate-48010",
+          "title": "Svelte: Cross Site Scripting via TransformError",
+          "link": "https://vigilance.fr/vulnerability/Svelte-Cross-Site-Scripting-via-TransformError-50045",
           "date": "Visit link for details",
-          "description": "An attacker can cause a fatal error of Cisco ASA, via SSL/TLS Certificate, in order to trigger a denial of service..."
+          "description": "An attacker can trigger a Cross Site Scripting of Svelte, via TransformError, in order to run JavaScript code in the context of the web site..."
         },
         {
-          "title": "Cisco ASA: denial of service via Remote Access SSL VPN",
-          "link": "https://vigilance.fr/vulnerability/Cisco-ASA-denial-of-service-via-Remote-Access-SSL-VPN-48009",
+          "title": "Svelte: Cross Site Scripting via Contenteditable",
+          "link": "https://vigilance.fr/vulnerability/Svelte-Cross-Site-Scripting-via-Contenteditable-50044",
           "date": "Visit link for details",
-          "description": "An attacker can cause a fatal error of Cisco ASA, via Remote Access SSL VPN, in order to trigger a denial of service..."
+          "description": "An attacker can trigger a Cross Site Scripting of Svelte, via Contenteditable, in order to run JavaScript code in the context of the web site..."
         },
         {
-          "title": "Cisco ASA: denial of service via Network Address Translation DNS Inspection",
-          "link": "https://vigilance.fr/vulnerability/Cisco-ASA-denial-of-service-via-Network-Address-Translation-DNS-Inspection-48008",
+          "title": "ajv: overload via Regular Expression",
+          "link": "https://vigilance.fr/vulnerability/ajv-overload-via-Regular-Expression-50043",
           "date": "Visit link for details",
-          "description": "An attacker can cause a fatal error of Cisco ASA, via Network Address Translation DNS Inspection, in order to trigger a denial of service..."
+          "description": "An attacker can trigger an overload of ajv, via Regular Expression, in order to trigger a denial of service..."
         },
         {
-          "title": "Cisco ASA: denial of service via Firepower 2100 Series IPv6",
-          "link": "https://vigilance.fr/vulnerability/Cisco-ASA-denial-of-service-via-Firepower-2100-Series-IPv6-48007",
+          "title": "QGIS: code execution via pull_request_target",
+          "link": "https://vigilance.fr/vulnerability/QGIS-code-execution-via-pull-request-target-50042",
           "date": "Visit link for details",
-          "description": "An attacker can cause a fatal error of Cisco ASA, via Firepower 2100 Series IPv6, in order to trigger a denial of service..."
+          "description": "An attacker can use a vulnerability of QGIS, via pull_request_target, in order to run code..."
         },
         {
-          "title": "Cisco IOS  IOS XE  ASA: denial of service via IKEv2",
-          "link": "https://vigilance.fr/vulnerability/Cisco-IOS-IOS-XE-ASA-denial-of-service-via-IKEv2-48006",
+          "title": "Linux kernel: denial of service via fremovexattr()",
+          "link": "https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-fremovexattr-50794",
           "date": "Visit link for details",
-          "description": "An attacker can cause a fatal error of Cisco IOS  IOS XE  ASA, via IKEv2, in order to trigger a denial of service..."
+          "description": "An attacker can cause a fatal error of the Linux kernel, via fremovexattr(), in order to trigger a denial of service..."
         },
         {
-          "title": "Bouncy Castle Java Cryptography Extension: information disclosure via Non-constant Time Comparisons",
-          "link": "https://vigilance.fr/vulnerability/Bouncy-Castle-Java-Cryptography-Extension-information-disclosure-via-Non-constant-Time-Comparisons-50727",
+          "title": "Microsoft Edge Chromium: spoofing via Android",
+          "link": "https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-spoofing-via-Android-50037",
           "date": "Visit link for details",
-          "description": "An attacker can bypass access restrictions to data of Bouncy Castle Java Cryptography Extension, via Non-constant Time Comparisons, in order to read sensitive information..."
+          "description": "An attacker can create spoofed data on Microsoft Edge Chromium, via Android, in order to deceive the victim..."
+        }
+      ]
+    },
+    "VulDB": {
+      "items": [
+        {
+          "title": "CVE-2026-46719  RRWO Net::Statsd::Lite up to 0.8.x on Perl crlf injection",
+          "link": "https://vuldb.com/vuln/364336",
+          "date": "Sat, 16 May 2026 16:04:23 +0200",
+          "description": "A vulnerability classified as critical has been found in RRWO Net::Statsd::Lite up to 0.8.x on Perl. This issue affects some unknown processing. Performing a manipulation results in crlf injection.T"
+        },
+        {
+          "title": "CVE-2025-4202  multicollab Plugin up to 5.2 on WordPress cf_add_comment authorization (EUVD-2025-209886)",
+          "link": "https://vuldb.com/vuln/364335",
+          "date": "Sat, 16 May 2026 16:04:09 +0200",
+          "description": "A vulnerability described as critical has been identified in multicollab Plugin up to 5.2 on WordPress. This vulnerability affects the function cf_add_comment. Such manipulation leads to missing autho"
+        },
+        {
+          "title": "CVE-2026-8747  Z-BlogPHP 1.7.4.3430 Commend Approval c_system_event.php CheckComment improper authorization",
+          "link": "https://vuldb.com/vuln/364334",
+          "date": "Sat, 16 May 2026 14:53:37 +0200",
+          "description": "A vulnerability marked as critical has been reported in Z-BlogPHP 1.7.4.3430. This affects the function CheckComment of the file zb_system/function/c_system_event.php of the component Commend Approval"
+        },
+        {
+          "title": "CVE-2026-8746  Open5GS up to 2.7.7 NRF nghttp2-server.c discover_handler use after free (Issue 4476)",
+          "link": "https://vuldb.com/vuln/364333",
+          "date": "Sat, 16 May 2026 14:43:50 +0200",
+          "description": "A vulnerability labeled as problematic has been found in Open5GS up to 2.7.7. Affected by this issue is the function discover_handler in the library /lib/sbi/nghttp2-server.c of the component NRF. The"
+        },
+        {
+          "title": "CVE-2026-8745  Open5GS up to 2.7.7 AUSF nausf-handler.c ogs_timer_add denial of service (Issue 4472)",
+          "link": "https://vuldb.com/vuln/364332",
+          "date": "Sat, 16 May 2026 14:43:47 +0200",
+          "description": "A vulnerability identified as problematic has been detected in Open5GS up to 2.7.7. Affected by this vulnerability is the function ogs_timer_add in the library /src/ausf/nausf-handler.c of the compone"
+        },
+        {
+          "title": "CVE-2026-8744  Open5GS up to 2.7.7 NRF /lib/sbi/context.c denial of service (4465/4466)",
+          "link": "https://vuldb.com/vuln/364331",
+          "date": "Sat, 16 May 2026 14:43:32 +0200",
+          "description": "A vulnerability categorized as problematic has been discovered in Open5GS up to 2.7.7. Affected is the function ogs_sbi_subscription_data_add/ogs_sbi_nf_service_add in the library /lib/sbi/context.c o"
+        },
+        {
+          "title": "CVE-2026-8743  Open5GS up to 2.7.6 AMF/MME src/amf/context.c ran_ue_find_by_amf_ue_ngap_id improper authorization (Issue 4498)",
+          "link": "https://vuldb.com/vuln/364330",
+          "date": "Sat, 16 May 2026 14:43:28 +0200",
+          "description": "A vulnerability was found in Open5GS up to 2.7.6. It has been rated as critical. This impacts the function ran_ue_find_by_amf_ue_ngap_id of the file src/amf/context.c of the component AMF/MME. Perform"
+        },
+        {
+          "title": "CVE-2026-8741  EMQX up to 6.2.0 QoS 2 PUBLISH Packet emqx_persistent_session_ds.erl race condition",
+          "link": "https://vuldb.com/vuln/364329",
+          "date": "Sat, 16 May 2026 13:24:17 +0200",
+          "description": "A vulnerability was found in EMQX up to 6.2.0. It has been declared as problematic. This affects an unknown function of the file apps/emqx/src/emqx_persistent_session_ds.erl of the component QoS 2 PUB"
+        },
+        {
+          "title": "CVE-2026-8740  Sanluan PublicCMS 5.202506.d templateResult API TemplateResultDirective.java execute templateContent special elements used in a template engine",
+          "link": "https://vuldb.com/vuln/364328",
+          "date": "Sat, 16 May 2026 12:41:44 +0200",
+          "description": "A vulnerability was found in Sanluan PublicCMS 5.202506.d. It has been classified as critical. The impacted element is the function execute of the file publiccms-core/src/main/java/com/publiccms/views"
+        },
+        {
+          "title": "CVE-2026-8739  Sanluan PublicCMS 5.202506.d SafeConfigComponent.java getSignKey privatefile_key hard-coded key",
+          "link": "https://vuldb.com/vuln/364327",
+          "date": "Sat, 16 May 2026 12:41:41 +0200",
+          "description": "A vulnerability was found in Sanluan PublicCMS 5.202506.d and classified as critical. The affected element is the function getSignKey of the file publiccms-core/src/main/java/com/publiccms/logic/compo"
+        }
+      ]
+    },
+    "HK-CERT": {
+      "items": [
+        {
+          "title": "F5 Products Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/f5-products-multiple-vulnerabilities_20260515",
+          "date": "Release Date: 15 May 2026 ",
+          "description": "Multiple vulnerabilities were identified in F5 Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass and elevation of privilege on the targeted system."
+        },
+        {
+          "title": "GitLab Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20260515",
+          "date": "Release Date: 15 May 2026 ",
+          "description": "Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, denial of service condition, remote code execution, sensitive information disclosure, security restriction bypass and data manipulation on the targeted system."
+        },
+        {
+          "title": "Google Chrome Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20260515",
+          "date": "Release Date: 15 May 2026 ",
+          "description": "Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, denial of service condition, security restriction bypass, spoofing, cross-site scripting and sensitive information disclosure on the targeted system."
+        },
+        {
+          "title": "Nginx Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/nginx-multiple-vulnerabilities_20260515",
+          "date": "Release Date: 15 May 2026 ",
+          "description": "Multiple vulnerabilities were identified in Nginx. A remote attacker could exploit some of these vulnerabilities to trigger spoofing, denial of service condition, remote code execution, sensitive information disclosure, security restriction bypass and data manipulation on the targeted system."
+        },
+        {
+          "title": "Apple Products Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20260513",
+          "date": " Release Date: 13 May 2026 ",
+          "description": "Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. [Updated on 2026-05-..."
+        },
+        {
+          "title": "MongoDB Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/mongodb-multiple-vulnerabilities_20260514",
+          "date": "Release Date: 14 May 2026 ",
+          "description": "Multiple vulnerabilities were identified in MongoDB. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure and denial of service condition on the targeted system."
+        },
+        {
+          "title": "Mozilla Firefox Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/mozilla-firefox-multiple-vulnerabilities_20260514",
+          "date": "Release Date: 14 May 2026 ",
+          "description": "Multiple vulnerabilities were identified in Mozilla Firefox. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass and remote code execution on the targeted system."
+        },
+        {
+          "title": "Palo Alto Products Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/palo-alto-products-multiple-vulnerabilities_20260514",
+          "date": "Release Date: 14 May 2026 ",
+          "description": "Multiple vulnerabilities were identified in Palo Alto Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, remote code execution, cross-site scripting and security restriction bypass on the targeted system...."
+        },
+        {
+          "title": "Linux Kernel Elevation of Privilege Vulnerability",
+          "link": "https://www.hkcert.org/security-bulletin/linux-kernel-elevation-of-privilege-vulnerability_20260504",
+          "date": " Release Date: 4 May 2026 ",
+          "description": "A vulnerability was identified in Linux Kernel. A local attacker can exploit this vulnerability to trigger elevation of privilege on the targeted system. Note: CVE-2026-31431 is being exploited in the wild. Copy Fail (CVE-2026-31431) is a..."
+        },
+        {
+          "title": "RedHat Linux Kernel Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20260508",
+          "date": " Release Date: 8 May 2026 ",
+          "description": "Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system. Note: CVE-2026-31431 is being exploited in the wild..."
+        }
+      ]
+    },
+    "ZERODAYINITIATIVE": {
+      "items": [
+        {
+          "title": "Siemens Simcenter Femap IPT File Parsing Memory Corruption Remote Code Execution Vulnerability",
+          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-317/",
+          "date": "2026-05-12",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Siemens Simcenter Femap IPT File Parsing Memory Corruption Remote Code Execution Vulnerability",
+          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-316/",
+          "date": "2026-05-12",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Apple macOS USD Out-Of-Bounds Read Information Disclosure Vulnerability",
+          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-315/",
+          "date": "2026-05-12",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Apple macOS USD File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability",
+          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-314/",
+          "date": "2026-05-12",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Apple Safari Regular Expression Duplicate Named Groups Heap-based Buffer Overflow Remote Code Execution Vulnerability",
+          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-313/",
+          "date": "2026-05-12",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Apple Safari Web Inspector WebCore Style Resolver Use-After-Free Remote Code Execution Vulnerability",
+          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-312/",
+          "date": "2026-05-12",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Apple macOS CoreSymbolication Out-Of-Bounds Read Information Disclosure Vulnerability",
+          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-311/",
+          "date": "2026-05-12",
+          "description": "Visit link for details"
         }
       ]
     },
@@ -468,6 +468,70 @@
           "link": "https://cert.europa.eu/publications/security-advisories/2026-001/",
           "date": "Friday, January 30, 2026 10:09:06 AM CET",
           "description": "On 29 January 2026, Ivanti released a security advisory addressing two critical vulnerabilities in their EPMM products. An attacker could exploit those flaws to achieve unauthenticated remote code execution on the vulnerable device. One of these vulnerabilities have been exploited in a limited number of cases."
+        }
+      ]
+    },
+    "CA-CCS": {
+      "items": [
+        {
+          "title": "FreePBX security advisory (AV26–474)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/freepbx-security-advisory-av26-474",
+          "date": "2026-05-15",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Microsoft security advisory (AV26-473) – Update 1",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-av26-473",
+          "date": "2026-05-15",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "AL26-012 - Critical vulnerability affecting Cisco Catalyst SD-WAN - CVE-2026-20182",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/al26-012-critical-vulnerability-affecting-cisco-catalyst-sd-wan-cve-2026-20182",
+          "date": "2026-05-15",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Tenable security advisory (AV26-472)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/tenable-security-advisory-av26-472",
+          "date": "2026-05-14",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Cisco security advisory (AV26-471)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av26-471",
+          "date": "2026-05-14",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "PostgreSQL security advisory (AV26-470)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/postgresql-security-advisory-av26-470",
+          "date": "2026-05-14",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Broadcom VMware security advisory (AV26-469)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/broadcom-vmware-security-advisory-av26-469",
+          "date": "2026-05-14",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "MongoDB security advisory (AV26-468)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/mongodb-security-advisory-av26-468",
+          "date": "2026-05-14",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "GitLab security advisory (AV26-467)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av26-467",
+          "date": "2026-05-14",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Apple security advisory (AV26-466)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av26-466",
+          "date": "2026-05-13",
+          "description": "Visit link for details"
         }
       ]
     },
@@ -532,70 +596,6 @@
           "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-f5-big-ip-0",
           "date": " ",
           "description": "Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de F5 BIG-IP. L’exploitation de ces failles peut permettre à un attaquant distant non authentifié d’exécuter du code…"
-        }
-      ]
-    },
-    "CA-CCS": {
-      "items": [
-        {
-          "title": "Microsoft security advisory (AV26-473)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-av26-473",
-          "date": "2026-05-15",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "AL26-012 - Critical vulnerability affecting Cisco Catalyst SD-WAN - CVE-2026-20182",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/al26-012-critical-vulnerability-affecting-cisco-catalyst-sd-wan-cve-2026-20182",
-          "date": "2026-05-15",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Tenable security advisory (AV26-472)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/tenable-security-advisory-av26-472",
-          "date": "2026-05-14",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Cisco security advisory (AV26-471)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av26-471",
-          "date": "2026-05-14",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "PostgreSQL security advisory (AV26-470)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/postgresql-security-advisory-av26-470",
-          "date": "2026-05-14",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Broadcom VMware security advisory (AV26-469)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/broadcom-vmware-security-advisory-av26-469",
-          "date": "2026-05-14",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "MongoDB security advisory (AV26-468)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/mongodb-security-advisory-av26-468",
-          "date": "2026-05-14",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "GitLab security advisory (AV26-467)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av26-467",
-          "date": "2026-05-14",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Apple security advisory (AV26-466)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av26-466",
-          "date": "2026-05-13",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "HPE security advisory (AV26-465)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av26-465",
-          "date": "2026-05-13",
-          "description": "Visit link for details"
         }
       ]
     }
