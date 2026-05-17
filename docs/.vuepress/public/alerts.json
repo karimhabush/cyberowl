@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T15:23:18.649750+00:00",
+  "generated_at": "2026-05-17T15:23:38.153944+00:00",
   "sources": {
     "US-CERT": {
       "items": [
@@ -62,6 +62,134 @@
           "link": "https://www.cisa.gov/news-events/alerts/2026/04/23/cisa-adds-one-known-exploited-vulnerability-catalog",
           "date": "Apr 23, 2026",
           "description": "Visit link for details."
+        }
+      ]
+    },
+    "VulDB": {
+      "items": [
+        {
+          "title": "CVE-2018-25334  Bylancer Zechat 1.5 Form hashtag cross-site request forgery (Exploit 44685 / EDB-44685)",
+          "link": "https://vuldb.com/vuln/364431",
+          "date": "Sun, 17 May 2026 16:21:37 +0200",
+          "description": "A vulnerability labeled as problematic has been found in Bylancer Zechat 1.5. Affected by this vulnerability is an unknown functionality of the component Form Handler. Such manipulation of the argumen"
+        },
+        {
+          "title": "CVE-2018-25328  vxsearch VX Search 10.6.18 directory buffer overflow (Exploit 44494 / EDB-44494)",
+          "link": "https://vuldb.com/vuln/364430",
+          "date": "Sun, 17 May 2026 16:21:31 +0200",
+          "description": "A vulnerability identified as critical has been detected in vxsearch VX Search 10.6.18. Affected is an unknown function. This manipulation of the argument directory causes buffer overflow.The identi"
+        },
+        {
+          "title": "CVE-2018-25322  Alloksoft Fast AVI MPEG Splitter 1.2 License stack-based overflow (Exploit 44341 / EDB-44341)",
+          "link": "https://vuldb.com/vuln/364429",
+          "date": "Sun, 17 May 2026 16:21:09 +0200",
+          "description": "A vulnerability categorized as critical has been discovered in Alloksoft Fast AVI MPEG Splitter 1.2. This impacts an unknown function of the component License Handler. The manipulation results in stac"
+        },
+        {
+          "title": "CVE-2018-25321  TP-Link TL-WR720NMbps Wireless N Router 1_130719 Setting VirtualServerRpm.htm cross-site request forgery (Exploit 44335 / EDB-44335)",
+          "link": "https://vuldb.com/vuln/364428",
+          "date": "Sun, 17 May 2026 16:20:54 +0200",
+          "description": "A vulnerability was found in TP-Link TL-WR720NMbps Wireless N Router 1_130719. It has been rated as critical. This affects an unknown function of the file VirtualServerRpm.htm of the component Setting"
+        },
+        {
+          "title": "CVE-2018-25337  Joomlaextensions JoomOCShop 1.0 on Joomla User Information edit cross-site request forgery (Exploit 44789 / EDB-44789)",
+          "link": "https://vuldb.com/vuln/364427",
+          "date": "Sun, 17 May 2026 16:20:46 +0200",
+          "description": "A vulnerability was found in Joomlaextensions JoomOCShop 1.0 on Joomla. It has been declared as problematic. The impacted element is an unknown function of the file /joomoc2/?route=account/edit of the"
+        },
+        {
+          "title": "CVE-2018-25336  Joomlaextensions jCart for OpenCart 2.3.0.2 on Joomla Account Information cross-site request forgery (Exploit 44788 / EDB-44788)",
+          "link": "https://vuldb.com/vuln/364426",
+          "date": "Sun, 17 May 2026 16:20:44 +0200",
+          "description": "A vulnerability was found in Joomlaextensions jCart for OpenCart 2.3.0.2 on Joomla. It has been classified as problematic. The affected element is an unknown function of the component Account Informat"
+        },
+        {
+          "title": "CVE-2018-25323  Alloksoft Allok AVI DivX MPEG to DVD Converter 2.6.1217 buffer overflow (Exploit 44363 / EDB-44363)",
+          "link": "https://vuldb.com/vuln/364425",
+          "date": "Sun, 17 May 2026 16:20:42 +0200",
+          "description": "A vulnerability was found in Alloksoft Allok AVI DivX MPEG to DVD Converter 2.6.1217 and classified as critical. Impacted is an unknown function. Such manipulation leads to buffer overflow.This vuln"
+        },
+        {
+          "title": "CVE-2018-25330  Joomlaextensions EkRishta 2.10 on Joomla Setting user_setting phone_no sql injection (Exploit 44660 / EDB-44660)",
+          "link": "https://vuldb.com/vuln/364424",
+          "date": "Sun, 17 May 2026 16:20:39 +0200",
+          "description": "A vulnerability has been found in Joomlaextensions EkRishta 2.10 on Joomla and classified as critical. This issue affects the function user_setting of the component Setting Handler. This manipulation"
+        },
+        {
+          "title": "CVE-2018-25327  Joomsky JS Jobs 1.2.0 on Joomla Setting cross-site request forgery (Exploit 44492 / EDB-44492)",
+          "link": "https://vuldb.com/vuln/364423",
+          "date": "Sun, 17 May 2026 16:20:19 +0200",
+          "description": "A vulnerability, which was classified as problematic, was found in Joomsky JS Jobs 1.2.0 on Joomla. This vulnerability affects unknown code of the component Setting Handler. The manipulation results i"
+        },
+        {
+          "title": "CVE-2018-25339  Bylancer Zechat 1.5 v sql injection (Exploit 44685 / EDB-44685)",
+          "link": "https://vuldb.com/vuln/364422",
+          "date": "Sun, 17 May 2026 16:20:08 +0200",
+          "description": "A vulnerability, which was classified as critical, has been found in Bylancer Zechat 1.5. This affects an unknown part. The manipulation of the argument v leads to sql injection.This vulnerability i"
+        }
+      ]
+    },
+    "IBM-X-FORCE-EXCHANGE": {
+      "items": [
+        {
+          "title": "h2oai h2o-3 ImportFile API PersistNFS.java importFiles information disclosure (CVE-2026-8750)",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "May 17, 2026",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "EMQX QoS 2 PUBLISH Packet emqx_persistent_session_ds.erl race condition (CVE-2026-8741)",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "May 17, 2026",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Sanluan PublicCMS templateResult API TemplateResultDirective.java execute special elements used in a template engine (CVE-2026-8740)",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "May 17, 2026",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Sanluan PublicCMS SafeConfigComponent.java getSignKey hard-coded key (CVE-2026-8739)",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "May 17, 2026",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Sanluan PublicCMS Trade Payment Flow TradeOrderController.java AccountGatewayComponent.pay logic error (CVE-2026-8738)",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "May 17, 2026",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "New vulnerability",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "May 17, 2026",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "",
+          "description": "Visit link for details"
         }
       ]
     },
@@ -129,198 +257,6 @@
         }
       ]
     },
-    "IBM-X-FORCE-EXCHANGE": {
-      "items": [
-        {
-          "title": "Essential Chat Support <= 1.0.1 - Missing Authorization to Unauthenticated Settings Reset via 'ecs_reset_settings' Parameter (CVE-2026-8681)",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "May 16, 2026",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Crypt::DSA versions through 1.19 for Perl use 2-args open, allowing existing files to be modified (CVE-2026-8704)",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "May 15, 2026",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Crypt::DSA versions before 1.20 for Perl generate seeds using rand (CVE-2026-8700)",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "May 15, 2026",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Open WebUI: SSRF via OAuth Profile Picture URL in _process_picture_url (oauth.py) (CVE-2026-45338)",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "May 15, 2026",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Open WebUI: Stored XSS in excel file preview (CVE-2026-44549)",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "May 15, 2026",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "",
-          "description": "Visit link for details"
-        }
-      ]
-    },
-    "OBS-Vigilance": {
-      "items": [
-        {
-          "title": "Python Core: denial of service via XML conv_content_model",
-          "link": "https://vigilance.fr/vulnerability/Python-Core-denial-of-service-via-XML-conv-content-model-50053",
-          "date": "Visit link for details",
-          "description": "An attacker can cause a fatal error of Python Core, via XML conv_content_model, in order to trigger a denial of service..."
-        },
-        {
-          "title": "Python Core: write access via http.cookies.Morsel Control Characters",
-          "link": "https://vigilance.fr/vulnerability/Python-Core-write-access-via-http-cookies-Morsel-Control-Characters-50052",
-          "date": "Visit link for details",
-          "description": "An attacker can bypass access restrictions of Python Core, via http.cookies.Morsel Control Characters, in order to alter data..."
-        },
-        {
-          "title": "Python Core: write access via Wsgiref Control Characters",
-          "link": "https://vigilance.fr/vulnerability/Python-Core-write-access-via-Wsgiref-Control-Characters-50051",
-          "date": "Visit link for details",
-          "description": "An attacker can bypass access restrictions of Python Core, via Wsgiref Control Characters, in order to alter data..."
-        },
-        {
-          "title": "Python Black: file creation via python-cell-magics",
-          "link": "https://vigilance.fr/vulnerability/Python-Black-file-creation-via-python-cell-magics-50046",
-          "date": "Visit link for details",
-          "description": "An attacker can bypass access restrictions of Python Black, via python-cell-magics, in order to create a file..."
-        },
-        {
-          "title": "Svelte: Cross Site Scripting via TransformError",
-          "link": "https://vigilance.fr/vulnerability/Svelte-Cross-Site-Scripting-via-TransformError-50045",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger a Cross Site Scripting of Svelte, via TransformError, in order to run JavaScript code in the context of the web site..."
-        },
-        {
-          "title": "Svelte: Cross Site Scripting via Contenteditable",
-          "link": "https://vigilance.fr/vulnerability/Svelte-Cross-Site-Scripting-via-Contenteditable-50044",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger a Cross Site Scripting of Svelte, via Contenteditable, in order to run JavaScript code in the context of the web site..."
-        },
-        {
-          "title": "ajv: overload via Regular Expression",
-          "link": "https://vigilance.fr/vulnerability/ajv-overload-via-Regular-Expression-50043",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger an overload of ajv, via Regular Expression, in order to trigger a denial of service..."
-        },
-        {
-          "title": "QGIS: code execution via pull_request_target",
-          "link": "https://vigilance.fr/vulnerability/QGIS-code-execution-via-pull-request-target-50042",
-          "date": "Visit link for details",
-          "description": "An attacker can use a vulnerability of QGIS, via pull_request_target, in order to run code..."
-        },
-        {
-          "title": "Linux kernel: denial of service via fremovexattr()",
-          "link": "https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-fremovexattr-50794",
-          "date": "Visit link for details",
-          "description": "An attacker can cause a fatal error of the Linux kernel, via fremovexattr(), in order to trigger a denial of service..."
-        },
-        {
-          "title": "Microsoft Edge Chromium: spoofing via Android",
-          "link": "https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-spoofing-via-Android-50037",
-          "date": "Visit link for details",
-          "description": "An attacker can create spoofed data on Microsoft Edge Chromium, via Android, in order to deceive the victim..."
-        }
-      ]
-    },
-    "VulDB": {
-      "items": [
-        {
-          "title": "CVE-2026-46719  RRWO Net::Statsd::Lite up to 0.8.x on Perl crlf injection",
-          "link": "https://vuldb.com/vuln/364336",
-          "date": "Sat, 16 May 2026 16:04:23 +0200",
-          "description": "A vulnerability classified as critical has been found in RRWO Net::Statsd::Lite up to 0.8.x on Perl. This issue affects some unknown processing. Performing a manipulation results in crlf injection.T"
-        },
-        {
-          "title": "CVE-2025-4202  multicollab Plugin up to 5.2 on WordPress cf_add_comment authorization (EUVD-2025-209886)",
-          "link": "https://vuldb.com/vuln/364335",
-          "date": "Sat, 16 May 2026 16:04:09 +0200",
-          "description": "A vulnerability described as critical has been identified in multicollab Plugin up to 5.2 on WordPress. This vulnerability affects the function cf_add_comment. Such manipulation leads to missing autho"
-        },
-        {
-          "title": "CVE-2026-8747  Z-BlogPHP 1.7.4.3430 Commend Approval c_system_event.php CheckComment improper authorization",
-          "link": "https://vuldb.com/vuln/364334",
-          "date": "Sat, 16 May 2026 14:53:37 +0200",
-          "description": "A vulnerability marked as critical has been reported in Z-BlogPHP 1.7.4.3430. This affects the function CheckComment of the file zb_system/function/c_system_event.php of the component Commend Approval"
-        },
-        {
-          "title": "CVE-2026-8746  Open5GS up to 2.7.7 NRF nghttp2-server.c discover_handler use after free (Issue 4476)",
-          "link": "https://vuldb.com/vuln/364333",
-          "date": "Sat, 16 May 2026 14:43:50 +0200",
-          "description": "A vulnerability labeled as problematic has been found in Open5GS up to 2.7.7. Affected by this issue is the function discover_handler in the library /lib/sbi/nghttp2-server.c of the component NRF. The"
-        },
-        {
-          "title": "CVE-2026-8745  Open5GS up to 2.7.7 AUSF nausf-handler.c ogs_timer_add denial of service (Issue 4472)",
-          "link": "https://vuldb.com/vuln/364332",
-          "date": "Sat, 16 May 2026 14:43:47 +0200",
-          "description": "A vulnerability identified as problematic has been detected in Open5GS up to 2.7.7. Affected by this vulnerability is the function ogs_timer_add in the library /src/ausf/nausf-handler.c of the compone"
-        },
-        {
-          "title": "CVE-2026-8744  Open5GS up to 2.7.7 NRF /lib/sbi/context.c denial of service (4465/4466)",
-          "link": "https://vuldb.com/vuln/364331",
-          "date": "Sat, 16 May 2026 14:43:32 +0200",
-          "description": "A vulnerability categorized as problematic has been discovered in Open5GS up to 2.7.7. Affected is the function ogs_sbi_subscription_data_add/ogs_sbi_nf_service_add in the library /lib/sbi/context.c o"
-        },
-        {
-          "title": "CVE-2026-8743  Open5GS up to 2.7.6 AMF/MME src/amf/context.c ran_ue_find_by_amf_ue_ngap_id improper authorization (Issue 4498)",
-          "link": "https://vuldb.com/vuln/364330",
-          "date": "Sat, 16 May 2026 14:43:28 +0200",
-          "description": "A vulnerability was found in Open5GS up to 2.7.6. It has been rated as critical. This impacts the function ran_ue_find_by_amf_ue_ngap_id of the file src/amf/context.c of the component AMF/MME. Perform"
-        },
-        {
-          "title": "CVE-2026-8741  EMQX up to 6.2.0 QoS 2 PUBLISH Packet emqx_persistent_session_ds.erl race condition",
-          "link": "https://vuldb.com/vuln/364329",
-          "date": "Sat, 16 May 2026 13:24:17 +0200",
-          "description": "A vulnerability was found in EMQX up to 6.2.0. It has been declared as problematic. This affects an unknown function of the file apps/emqx/src/emqx_persistent_session_ds.erl of the component QoS 2 PUB"
-        },
-        {
-          "title": "CVE-2026-8740  Sanluan PublicCMS 5.202506.d templateResult API TemplateResultDirective.java execute templateContent special elements used in a template engine",
-          "link": "https://vuldb.com/vuln/364328",
-          "date": "Sat, 16 May 2026 12:41:44 +0200",
-          "description": "A vulnerability was found in Sanluan PublicCMS 5.202506.d. It has been classified as critical. The impacted element is the function execute of the file publiccms-core/src/main/java/com/publiccms/views"
-        },
-        {
-          "title": "CVE-2026-8739  Sanluan PublicCMS 5.202506.d SafeConfigComponent.java getSignKey privatefile_key hard-coded key",
-          "link": "https://vuldb.com/vuln/364327",
-          "date": "Sat, 16 May 2026 12:41:41 +0200",
-          "description": "A vulnerability was found in Sanluan PublicCMS 5.202506.d and classified as critical. The affected element is the function getSignKey of the file publiccms-core/src/main/java/com/publiccms/logic/compo"
-        }
-      ]
-    },
     "HK-CERT": {
       "items": [
         {
@@ -385,49 +321,67 @@
         }
       ]
     },
-    "ZERODAYINITIATIVE": {
+    "OBS-Vigilance": {
       "items": [
         {
-          "title": "Siemens Simcenter Femap IPT File Parsing Memory Corruption Remote Code Execution Vulnerability",
-          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-317/",
-          "date": "2026-05-12",
-          "description": "Visit link for details"
+          "title": "Xen: denial of service via Xenstored",
+          "link": "https://vigilance.fr/vulnerability/Xen-denial-of-service-via-Xenstored-50067",
+          "date": "Visit link for details",
+          "description": "An attacker, in a guest system, can cause a fatal error of Xen, via Xenstored, in order to trigger a denial of service..."
         },
         {
-          "title": "Siemens Simcenter Femap IPT File Parsing Memory Corruption Remote Code Execution Vulnerability",
-          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-316/",
-          "date": "2026-05-12",
-          "description": "Visit link for details"
+          "title": "Xen: use after free via EPT Paging Structures",
+          "link": "https://vigilance.fr/vulnerability/Xen-use-after-free-via-EPT-Paging-Structures-50066",
+          "date": "Visit link for details",
+          "description": "An attacker, in a guest system, can force the reuse of a freed memory area of Xen, via EPT Paging Structures, in order to trigger a denial of service, and possibly to run code..."
         },
         {
-          "title": "Apple macOS USD Out-Of-Bounds Read Information Disclosure Vulnerability",
-          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-315/",
-          "date": "2026-05-12",
-          "description": "Visit link for details"
+          "title": "libssh: out-of-bounds memory reading via sftp_extensions_get_name()",
+          "link": "https://vigilance.fr/vulnerability/libssh-out-of-bounds-memory-reading-via-sftp-extensions-get-name-50065",
+          "date": "Visit link for details",
+          "description": "An attacker can force a read at an invalid memory address of libssh, via sftp_extensions_get_"
         },
         {
-          "title": "Apple macOS USD File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability",
-          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-314/",
-          "date": "2026-05-12",
-          "description": "Visit link for details"
+          "title": "IBM i: memory leak via Failed Authentication Connections",
+          "link": "https://vigilance.fr/vulnerability/IBM-i-memory-leak-via-Failed-Authentication-Connections-50064",
+          "date": "Visit link for details",
+          "description": "An attacker can create a memory leak of IBM i, via Failed Authentication Connections, in order to trigger a denial of service..."
         },
         {
-          "title": "Apple Safari Regular Expression Duplicate Named Groups Heap-based Buffer Overflow Remote Code Execution Vulnerability",
-          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-313/",
-          "date": "2026-05-12",
-          "description": "Visit link for details"
+          "title": "Linux kernel: two vulnerabilities dated 17/03/2026",
+          "link": "https://vigilance.fr/vulnerability/Linux-kernel-two-vulnerabilities-dated-17-03-2026-50063",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of the Linux kernel, dated 17/03/2026..."
         },
         {
-          "title": "Apple Safari Web Inspector WebCore Style Resolver Use-After-Free Remote Code Execution Vulnerability",
-          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-312/",
-          "date": "2026-05-12",
-          "description": "Visit link for details"
+          "title": "TYPO3 E-Mail MFA Provider: user access via Empty String",
+          "link": "https://vigilance.fr/vulnerability/TYPO3-E-Mail-MFA-Provider-user-access-via-Empty-String-50062",
+          "date": "Visit link for details",
+          "description": "An attacker can bypass restrictions of TYPO3 E-Mail MFA Provider, via Empty String, in order to gain user privileges..."
         },
         {
-          "title": "Apple macOS CoreSymbolication Out-Of-Bounds Read Information Disclosure Vulnerability",
-          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-311/",
-          "date": "2026-05-12",
-          "description": "Visit link for details"
+          "title": "Redmine: multiple vulnerabilities dated 17/03/2026",
+          "link": "https://vigilance.fr/vulnerability/Redmine-multiple-vulnerabilities-dated-17-03-2026-50059",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of Redmine, dated 17/03/2026..."
+        },
+        {
+          "title": "OpenEXR: integer overflow via CompositeDeepScanLine::readPixels()",
+          "link": "https://vigilance.fr/vulnerability/OpenEXR-integer-overflow-via-CompositeDeepScanLine-readPixels-50056",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger an integer overflow of OpenEXR, via CompositeDeepScanLin"
+        },
+        {
+          "title": "OpenEXR: buffer overflow via ()",
+          "link": "https://vigilance.fr/vulnerability/OpenEXR-buffer-overflow-via-50055",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger a buffer overflow of OpenEXR, via (), in order to trigger a denial of service, and possibly to run code..."
+        },
+        {
+          "title": "Varnish Cache: write access via Absolute Form Parsing",
+          "link": "https://vigilance.fr/vulnerability/Varnish-Cache-write-access-via-Absolute-Form-Parsing-50054",
+          "date": "Visit link for details",
+          "description": "An attacker can bypass access restrictions of Varnish Cache, via Absolute Form Parsing, in order to alter data..."
         }
       ]
     },
@@ -531,6 +485,52 @@
           "title": "Apple security advisory (AV26-466)",
           "link": "https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av26-466",
           "date": "2026-05-13",
+          "description": "Visit link for details"
+        }
+      ]
+    },
+    "ZERODAYINITIATIVE": {
+      "items": [
+        {
+          "title": "Siemens Simcenter Femap IPT File Parsing Memory Corruption Remote Code Execution Vulnerability",
+          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-317/",
+          "date": "2026-05-12",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Siemens Simcenter Femap IPT File Parsing Memory Corruption Remote Code Execution Vulnerability",
+          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-316/",
+          "date": "2026-05-12",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Apple macOS USD Out-Of-Bounds Read Information Disclosure Vulnerability",
+          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-315/",
+          "date": "2026-05-12",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Apple macOS USD File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability",
+          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-314/",
+          "date": "2026-05-12",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Apple Safari Regular Expression Duplicate Named Groups Heap-based Buffer Overflow Remote Code Execution Vulnerability",
+          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-313/",
+          "date": "2026-05-12",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Apple Safari Web Inspector WebCore Style Resolver Use-After-Free Remote Code Execution Vulnerability",
+          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-312/",
+          "date": "2026-05-12",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Apple macOS CoreSymbolication Out-Of-Bounds Read Information Disclosure Vulnerability",
+          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-311/",
+          "date": "2026-05-12",
           "description": "Visit link for details"
         }
       ]
