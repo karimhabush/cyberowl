@@ -1,6 +1,70 @@
 {
-  "generated_at": "2026-05-17T15:23:38.153944+00:00",
+  "generated_at": "2026-05-18T16:09:58.242315+00:00",
   "sources": {
+    "CERT-FR": {
+      "items": [
+        {
+          "title": "Multiples vulnérabilités dans Microsoft Azure Linux",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0608/",
+          "date": "Publié le 18 mai 2026",
+          "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Azure Linux. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
+        },
+        {
+          "title": "Multiples vulnérabilités dans Microsoft Edge",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0607/",
+          "date": "Publié le 18 mai 2026",
+          "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur."
+        },
+        {
+          "title": "Multiples vulnérabilités dans les produits IBM",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0606/",
+          "date": "Publié le 15 mai 2026",
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données."
+        },
+        {
+          "title": "Multiples vulnérabilités dans le noyau Linux de Debian",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0605/",
+          "date": "Publié le 15 mai 2026",
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données."
+        },
+        {
+          "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0604/",
+          "date": "Publié le 15 mai 2026",
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données."
+        },
+        {
+          "title": "Multiples vulnérabilités dans le noyau Linux de SUSE",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0603/",
+          "date": "Publié le 15 mai 2026",
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Elles permettent à un attaquant de provoquer un déni de service et un problème de sécurité non spécifié par l'éditeur."
+        },
+        {
+          "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0602/",
+          "date": "Publié le 15 mai 2026",
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données."
+        },
+        {
+          "title": "Multiples vulnérabilités dans les produits Microsoft",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0601/",
+          "date": "Publié le 15 mai 2026",
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un problème de sécurité non spécifié par l'éditeur."
+        },
+        {
+          "title": "Vulnérabilité dans Microsoft Azure",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0600/",
+          "date": "Publié le 15 mai 2026",
+          "description": "Une vulnérabilité a été découverte dans Microsoft Azure. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
+        },
+        {
+          "title": "Vulnérabilité dans Microsoft Exchange Server",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0599/",
+          "date": "Publié le 15 mai 2026",
+          "description": "Une vulnérabilité a été découverte dans Microsoft Exchange Server. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité. Microsoft indique que la vulnérabilité CVE-2026-42897 est activement exploitée."
+        }
+      ]
+    },
     "US-CERT": {
       "items": [
         {
@@ -65,106 +129,164 @@
         }
       ]
     },
+    "OBS-Vigilance": {
+      "items": [
+        {
+          "title": "Drupal Automated Logout: Cross Site Request Forgery dated 18/03/2026",
+          "link": "https://vigilance.fr/vulnerability/Drupal-Automated-Logout-Cross-Site-Request-Forgery-dated-18-03-2026-50087",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger a Cross Site Request Forgery of Drupal Automated Logout, dated 18/03/2026, in order to force the victim to perform operations..."
+        },
+        {
+          "title": "pypdf: overload via Large /Length Value",
+          "link": "https://vigilance.fr/vulnerability/pypdf-overload-via-Large-Length-Value-50086",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger an overload of pypdf, via Large /Length Value, in order to trigger a denial of service..."
+        },
+        {
+          "title": "FreeRDP: overload dated 18/03/2026",
+          "link": "https://vigilance.fr/vulnerability/FreeRDP-overload-dated-18-03-2026-50085",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger an overload of FreeRDP, dated 18/03/2026, in order to trigger a denial of service..."
+        },
+        {
+          "title": "FreeRDP: use after free via SDL2",
+          "link": "https://vigilance.fr/vulnerability/FreeRDP-use-after-free-via-SDL2-50084",
+          "date": "Visit link for details",
+          "description": "An attacker can force the reuse of a freed memory area of FreeRDP, via SDL2, in order to trigger a denial of service, and possibly to run code..."
+        },
+        {
+          "title": "FreeRDP: denial of service via smartcard_unpack_read_size_align()",
+          "link": "https://vigilance.fr/vulnerability/FreeRDP-denial-of-service-via-smartcard-unpack-read-size-align-50083",
+          "date": "Visit link for details",
+          "description": "An attacker can cause a fatal error of FreeRDP, via smartcard_unpack_"
+        },
+        {
+          "title": "FreeRDP: use after free via rail_window_free()",
+          "link": "https://vigilance.fr/vulnerability/FreeRDP-use-after-free-via-rail-window-free-50082",
+          "date": "Visit link for details",
+          "description": "An attacker can force the reuse of a freed memory area of FreeRDP, via rail_window_free(), in order to trigger a denial of service, and possibly to run code..."
+        },
+        {
+          "title": "Hibernate: SQL injection via InlineIdsOrClauseBuilder",
+          "link": "https://vigilance.fr/vulnerability/Hibernate-SQL-injection-via-InlineIdsOrClauseBuilder-50081",
+          "date": "Visit link for details",
+          "description": "An attacker can use a SQL injection of Hibernate, via InlineIdsOrClauseBui"
+        },
+        {
+          "title": "Jenkins LoadNinja: information disclosure via API Keys",
+          "link": "https://vigilance.fr/vulnerability/Jenkins-LoadNinja-information-disclosure-via-API-Keys-50080",
+          "date": "Visit link for details",
+          "description": "An attacker can bypass access restrictions to data of Jenkins LoadNinja, via API Keys, in order to read sensitive information..."
+        },
+        {
+          "title": "Jenkins Core LTS: two vulnerabilities dated 18/03/2026",
+          "link": "https://vigilance.fr/vulnerability/Jenkins-Core-LTS-two-vulnerabilities-dated-18-03-2026-50079",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of Jenkins Core LTS, dated 18/03/2026..."
+        },
+        {
+          "title": "SimpleEval: write access dated 18/03/2026",
+          "link": "https://vigilance.fr/vulnerability/SimpleEval-write-access-dated-18-03-2026-50077",
+          "date": "Visit link for details",
+          "description": "An attacker can bypass access restrictions of SimpleEval, dated 18/03/2026, in order to alter data..."
+        }
+      ]
+    },
     "VulDB": {
       "items": [
         {
-          "title": "CVE-2018-25334  Bylancer Zechat 1.5 Form hashtag cross-site request forgery (Exploit 44685 / EDB-44685)",
-          "link": "https://vuldb.com/vuln/364431",
-          "date": "Sun, 17 May 2026 16:21:37 +0200",
-          "description": "A vulnerability labeled as problematic has been found in Bylancer Zechat 1.5. Affected by this vulnerability is an unknown functionality of the component Form Handler. Such manipulation of the argumen"
+          "title": "CVE-2025-57282  ngrok 4.3.3/5.0.0-beta.2 command injection",
+          "link": "https://vuldb.com/vuln/364483",
+          "date": "Mon, 18 May 2026 17:41:42 +0200",
+          "description": "A vulnerability was found in ngrok 4.3.3/5.0.0-beta.2. It has been declared as critical. This affects an unknown function. The manipulation results in command injection.This vulnerability is reporte"
         },
         {
-          "title": "CVE-2018-25328  vxsearch VX Search 10.6.18 directory buffer overflow (Exploit 44494 / EDB-44494)",
-          "link": "https://vuldb.com/vuln/364430",
-          "date": "Sun, 17 May 2026 16:21:31 +0200",
-          "description": "A vulnerability identified as critical has been detected in vxsearch VX Search 10.6.18. Affected is an unknown function. This manipulation of the argument directory causes buffer overflow.The identi"
+          "title": "CVE-2026-36438  Intelbras VIP-1230-D-G4 2.800.00IB00C.0.T Password Reset /OutsideCmd information disclosure",
+          "link": "https://vuldb.com/vuln/364482",
+          "date": "Mon, 18 May 2026 17:41:32 +0200",
+          "description": "A vulnerability was found in Intelbras VIP-1230-D-G4 2.800.00IB00C.0.T. It has been classified as problematic. The impacted element is an unknown function of the file /OutsideCmd of the component Pass"
         },
         {
-          "title": "CVE-2018-25322  Alloksoft Fast AVI MPEG Splitter 1.2 License stack-based overflow (Exploit 44341 / EDB-44341)",
-          "link": "https://vuldb.com/vuln/364429",
-          "date": "Sun, 17 May 2026 16:21:09 +0200",
-          "description": "A vulnerability categorized as critical has been discovered in Alloksoft Fast AVI MPEG Splitter 1.2. This impacts an unknown function of the component License Handler. The manipulation results in stac"
+          "title": "CVE-2026-20685  Apple Private Cloud Compute Server Software prior 5E290.3 information disclosure",
+          "link": "https://vuldb.com/vuln/364481",
+          "date": "Mon, 18 May 2026 17:41:11 +0200",
+          "description": "A vulnerability was found in Apple Private Cloud Compute Server Software and classified as problematic. The affected element is an unknown function. Executing a manipulation can lead to information di"
         },
         {
-          "title": "CVE-2018-25321  TP-Link TL-WR720NMbps Wireless N Router 1_130719 Setting VirtualServerRpm.htm cross-site request forgery (Exploit 44335 / EDB-44335)",
-          "link": "https://vuldb.com/vuln/364428",
-          "date": "Sun, 17 May 2026 16:20:54 +0200",
-          "description": "A vulnerability was found in TP-Link TL-WR720NMbps Wireless N Router 1_130719. It has been rated as critical. This affects an unknown function of the file VirtualServerRpm.htm of the component Setting"
+          "title": "CVE-2025-56352  tinyMQTT 6226ade15bd4f97be2d196352e64dd10937c1962 denial of service",
+          "link": "https://vuldb.com/vuln/364480",
+          "date": "Mon, 18 May 2026 17:40:50 +0200",
+          "description": "A vulnerability has been found in tinyMQTT 6226ade15bd4f97be2d196352e64dd10937c1962 and classified as problematic. Impacted is an unknown function. Performing a manipulation results in denial of servi"
         },
         {
-          "title": "CVE-2018-25337  Joomlaextensions JoomOCShop 1.0 on Joomla User Information edit cross-site request forgery (Exploit 44789 / EDB-44789)",
-          "link": "https://vuldb.com/vuln/364427",
-          "date": "Sun, 17 May 2026 16:20:46 +0200",
-          "description": "A vulnerability was found in Joomlaextensions JoomOCShop 1.0 on Joomla. It has been declared as problematic. The impacted element is an unknown function of the file /joomoc2/?route=account/edit of the"
+          "title": "CVE-2026-41948  langgenius dify up to 1.14.1 Plugin Daemon REST API path traversal",
+          "link": "https://vuldb.com/vuln/364479",
+          "date": "Mon, 18 May 2026 17:36:35 +0200",
+          "description": "A vulnerability, which was classified as problematic, was found in langgenius dify up to 1.14.1. This issue affects some unknown processing of the component Plugin Daemon REST API. Such manipulation l"
         },
         {
-          "title": "CVE-2018-25336  Joomlaextensions jCart for OpenCart 2.3.0.2 on Joomla Account Information cross-site request forgery (Exploit 44788 / EDB-44788)",
-          "link": "https://vuldb.com/vuln/364426",
-          "date": "Sun, 17 May 2026 16:20:44 +0200",
-          "description": "A vulnerability was found in Joomlaextensions jCart for OpenCart 2.3.0.2 on Joomla. It has been classified as problematic. The affected element is an unknown function of the component Account Informat"
+          "title": "CVE-2026-41947  langgenius dify up to 1.14.1 Trace Configuration Endpoint authorization",
+          "link": "https://vuldb.com/vuln/364478",
+          "date": "Mon, 18 May 2026 17:36:19 +0200",
+          "description": "A vulnerability, which was classified as problematic, has been found in langgenius dify up to 1.14.1. This vulnerability affects unknown code of the component Trace Configuration Endpoint. This manipu"
         },
         {
-          "title": "CVE-2018-25323  Alloksoft Allok AVI DivX MPEG to DVD Converter 2.6.1217 buffer overflow (Exploit 44363 / EDB-44363)",
-          "link": "https://vuldb.com/vuln/364425",
-          "date": "Sun, 17 May 2026 16:20:42 +0200",
-          "description": "A vulnerability was found in Alloksoft Allok AVI DivX MPEG to DVD Converter 2.6.1217 and classified as critical. Impacted is an unknown function. Such manipulation leads to buffer overflow.This vuln"
+          "title": "CVE-2026-41949  langgenius dify up to 1.14.1 File Preview Endpoint preview authorization",
+          "link": "https://vuldb.com/vuln/364477",
+          "date": "Mon, 18 May 2026 17:35:46 +0200",
+          "description": "A vulnerability classified as problematic was found in langgenius dify up to 1.14.1. This affects an unknown part of the file /console/api/files/{file_id}/preview of the component File Preview Endpoin"
         },
         {
-          "title": "CVE-2018-25330  Joomlaextensions EkRishta 2.10 on Joomla Setting user_setting phone_no sql injection (Exploit 44660 / EDB-44660)",
-          "link": "https://vuldb.com/vuln/364424",
-          "date": "Sun, 17 May 2026 16:20:39 +0200",
-          "description": "A vulnerability has been found in Joomlaextensions EkRishta 2.10 on Joomla and classified as critical. This issue affects the function user_setting of the component Setting Handler. This manipulation"
+          "title": "CVE-2026-26462  Offline Hospital Management System 5.3.0 privilege escalation",
+          "link": "https://vuldb.com/vuln/364476",
+          "date": "Mon, 18 May 2026 17:35:36 +0200",
+          "description": "A vulnerability classified as critical has been found in Offline Hospital Management System 5.3.0. Affected by this issue is some unknown functionality. The manipulation leads to privilege escalation."
         },
         {
-          "title": "CVE-2018-25327  Joomsky JS Jobs 1.2.0 on Joomla Setting cross-site request forgery (Exploit 44492 / EDB-44492)",
-          "link": "https://vuldb.com/vuln/364423",
-          "date": "Sun, 17 May 2026 16:20:19 +0200",
-          "description": "A vulnerability, which was classified as problematic, was found in Joomsky JS Jobs 1.2.0 on Joomla. This vulnerability affects unknown code of the component Setting Handler. The manipulation results i"
+          "title": "CVE-2026-39079  upsshipping up to 2.4.0 on PrestaShop logs information disclosure",
+          "link": "https://vuldb.com/vuln/364475",
+          "date": "Mon, 18 May 2026 17:35:17 +0200",
+          "description": "A vulnerability described as problematic has been identified in upsshipping up to 2.4.0 on PrestaShop. Affected by this vulnerability is an unknown functionality in the library /modules/upsshipping/li"
         },
         {
-          "title": "CVE-2018-25339  Bylancer Zechat 1.5 v sql injection (Exploit 44685 / EDB-44685)",
-          "link": "https://vuldb.com/vuln/364422",
-          "date": "Sun, 17 May 2026 16:20:08 +0200",
-          "description": "A vulnerability, which was classified as critical, has been found in Bylancer Zechat 1.5. This affects an unknown part. The manipulation of the argument v leads to sql injection.This vulnerability i"
+          "title": "CVE-2026-8836  lwIP up to 2.2.1 snmpv3 USM src/apps/snmp/snmp_msg.c snmp_parse_inbound_frame msgAuthenticationParameters stack-based overflow (Bug 68194)",
+          "link": "https://vuldb.com/vuln/364474",
+          "date": "Mon, 18 May 2026 16:29:49 +0200",
+          "description": "A vulnerability marked as critical has been reported in lwIP up to 2.2.1. Affected is the function snmp_parse_inbound_frame of the file src/apps/snmp/snmp_msg.c of the component snmpv3 USM Handler. Pe"
         }
       ]
     },
     "IBM-X-FORCE-EXCHANGE": {
       "items": [
         {
-          "title": "h2oai h2o-3 ImportFile API PersistNFS.java importFiles information disclosure (CVE-2026-8750)",
+          "title": "Stored XSS in Basamak Informatics' DernekWeb (CVE-2026-7498)",
           "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "May 17, 2026",
+          "date": "May 18, 2026",
           "description": "Visit link for details"
         },
         {
-          "title": "EMQX QoS 2 PUBLISH Packet emqx_persistent_session_ds.erl race condition (CVE-2026-8741)",
+          "title": "Opening a window with {{javascript:alert()}} as URL causes crash in the Mattermost Desktop App (CVE-2026-3471)",
           "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "May 17, 2026",
+          "date": "May 18, 2026",
           "description": "Visit link for details"
         },
         {
-          "title": "Sanluan PublicCMS templateResult API TemplateResultDirective.java execute special elements used in a template engine (CVE-2026-8740)",
+          "title": "Calling window.close() from server-side content causes crash in the Mattermost Desktop App (CVE-2026-4643)",
           "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "May 17, 2026",
+          "date": "May 18, 2026",
           "description": "Visit link for details"
         },
         {
-          "title": "Sanluan PublicCMS SafeConfigComponent.java getSignKey hard-coded key (CVE-2026-8739)",
+          "title": "SSRF via Host Header Spoofing in Custom Slash Commands (CVE-2026-6333)",
           "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "May 17, 2026",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Sanluan PublicCMS Trade Payment Flow TradeOrderController.java AccountGatewayComponent.pay logic error (CVE-2026-8738)",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "May 17, 2026",
+          "date": "May 18, 2026",
           "description": "Visit link for details"
         },
         {
           "title": "New vulnerability",
           "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "May 17, 2026",
+          "date": "May 18, 2026",
           "description": "Visit link for details"
         },
         {
@@ -190,198 +312,12 @@
           "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
           "date": "",
           "description": "Visit link for details"
-        }
-      ]
-    },
-    "CERT-FR": {
-      "items": [
-        {
-          "title": "Multiples vulnérabilités dans les produits IBM",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0606/",
-          "date": "Publié le 15 mai 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données."
         },
         {
-          "title": "Multiples vulnérabilités dans le noyau Linux de Debian",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0605/",
-          "date": "Publié le 15 mai 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données."
-        },
-        {
-          "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0604/",
-          "date": "Publié le 15 mai 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données."
-        },
-        {
-          "title": "Multiples vulnérabilités dans le noyau Linux de SUSE",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0603/",
-          "date": "Publié le 15 mai 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Elles permettent à un attaquant de provoquer un déni de service et un problème de sécurité non spécifié par l'éditeur."
-        },
-        {
-          "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0602/",
-          "date": "Publié le 15 mai 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données."
-        },
-        {
-          "title": "Multiples vulnérabilités dans les produits Microsoft",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0601/",
-          "date": "Publié le 15 mai 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un problème de sécurité non spécifié par l'éditeur."
-        },
-        {
-          "title": "Vulnérabilité dans Microsoft Azure",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0600/",
-          "date": "Publié le 15 mai 2026",
-          "description": "Une vulnérabilité a été découverte dans Microsoft Azure. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
-        },
-        {
-          "title": "Vulnérabilité dans Microsoft Exchange Server",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0599/",
-          "date": "Publié le 15 mai 2026",
-          "description": "Une vulnérabilité a été découverte dans Microsoft Exchange Server. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité. Microsoft indique que la vulnérabilité CVE-2026-42897 est activement exploitée."
-        },
-        {
-          "title": "Multiples vulnérabilités dans Mattermost Server",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0598/",
-          "date": "Publié le 15 mai 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans Mattermost Server. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
-        },
-        {
-          "title": "Multiples vulnérabilités dans les produits Shibboleth",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0597/",
-          "date": "Publié le 15 mai 2026",
-          "description": "De multiples vulnérabilités ont été découverte dans les produits Shibboleth. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité."
-        }
-      ]
-    },
-    "HK-CERT": {
-      "items": [
-        {
-          "title": "F5 Products Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/f5-products-multiple-vulnerabilities_20260515",
-          "date": "Release Date: 15 May 2026 ",
-          "description": "Multiple vulnerabilities were identified in F5 Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass and elevation of privilege on the targeted system."
-        },
-        {
-          "title": "GitLab Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20260515",
-          "date": "Release Date: 15 May 2026 ",
-          "description": "Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, denial of service condition, remote code execution, sensitive information disclosure, security restriction bypass and data manipulation on the targeted system."
-        },
-        {
-          "title": "Google Chrome Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20260515",
-          "date": "Release Date: 15 May 2026 ",
-          "description": "Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, denial of service condition, security restriction bypass, spoofing, cross-site scripting and sensitive information disclosure on the targeted system."
-        },
-        {
-          "title": "Nginx Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/nginx-multiple-vulnerabilities_20260515",
-          "date": "Release Date: 15 May 2026 ",
-          "description": "Multiple vulnerabilities were identified in Nginx. A remote attacker could exploit some of these vulnerabilities to trigger spoofing, denial of service condition, remote code execution, sensitive information disclosure, security restriction bypass and data manipulation on the targeted system."
-        },
-        {
-          "title": "Apple Products Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20260513",
-          "date": " Release Date: 13 May 2026 ",
-          "description": "Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. [Updated on 2026-05-..."
-        },
-        {
-          "title": "MongoDB Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/mongodb-multiple-vulnerabilities_20260514",
-          "date": "Release Date: 14 May 2026 ",
-          "description": "Multiple vulnerabilities were identified in MongoDB. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure and denial of service condition on the targeted system."
-        },
-        {
-          "title": "Mozilla Firefox Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/mozilla-firefox-multiple-vulnerabilities_20260514",
-          "date": "Release Date: 14 May 2026 ",
-          "description": "Multiple vulnerabilities were identified in Mozilla Firefox. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass and remote code execution on the targeted system."
-        },
-        {
-          "title": "Palo Alto Products Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/palo-alto-products-multiple-vulnerabilities_20260514",
-          "date": "Release Date: 14 May 2026 ",
-          "description": "Multiple vulnerabilities were identified in Palo Alto Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, remote code execution, cross-site scripting and security restriction bypass on the targeted system...."
-        },
-        {
-          "title": "Linux Kernel Elevation of Privilege Vulnerability",
-          "link": "https://www.hkcert.org/security-bulletin/linux-kernel-elevation-of-privilege-vulnerability_20260504",
-          "date": " Release Date: 4 May 2026 ",
-          "description": "A vulnerability was identified in Linux Kernel. A local attacker can exploit this vulnerability to trigger elevation of privilege on the targeted system. Note: CVE-2026-31431 is being exploited in the wild. Copy Fail (CVE-2026-31431) is a..."
-        },
-        {
-          "title": "RedHat Linux Kernel Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20260508",
-          "date": " Release Date: 8 May 2026 ",
-          "description": "Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system. Note: CVE-2026-31431 is being exploited in the wild..."
-        }
-      ]
-    },
-    "OBS-Vigilance": {
-      "items": [
-        {
-          "title": "Xen: denial of service via Xenstored",
-          "link": "https://vigilance.fr/vulnerability/Xen-denial-of-service-via-Xenstored-50067",
-          "date": "Visit link for details",
-          "description": "An attacker, in a guest system, can cause a fatal error of Xen, via Xenstored, in order to trigger a denial of service..."
-        },
-        {
-          "title": "Xen: use after free via EPT Paging Structures",
-          "link": "https://vigilance.fr/vulnerability/Xen-use-after-free-via-EPT-Paging-Structures-50066",
-          "date": "Visit link for details",
-          "description": "An attacker, in a guest system, can force the reuse of a freed memory area of Xen, via EPT Paging Structures, in order to trigger a denial of service, and possibly to run code..."
-        },
-        {
-          "title": "libssh: out-of-bounds memory reading via sftp_extensions_get_name()",
-          "link": "https://vigilance.fr/vulnerability/libssh-out-of-bounds-memory-reading-via-sftp-extensions-get-name-50065",
-          "date": "Visit link for details",
-          "description": "An attacker can force a read at an invalid memory address of libssh, via sftp_extensions_get_"
-        },
-        {
-          "title": "IBM i: memory leak via Failed Authentication Connections",
-          "link": "https://vigilance.fr/vulnerability/IBM-i-memory-leak-via-Failed-Authentication-Connections-50064",
-          "date": "Visit link for details",
-          "description": "An attacker can create a memory leak of IBM i, via Failed Authentication Connections, in order to trigger a denial of service..."
-        },
-        {
-          "title": "Linux kernel: two vulnerabilities dated 17/03/2026",
-          "link": "https://vigilance.fr/vulnerability/Linux-kernel-two-vulnerabilities-dated-17-03-2026-50063",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of the Linux kernel, dated 17/03/2026..."
-        },
-        {
-          "title": "TYPO3 E-Mail MFA Provider: user access via Empty String",
-          "link": "https://vigilance.fr/vulnerability/TYPO3-E-Mail-MFA-Provider-user-access-via-Empty-String-50062",
-          "date": "Visit link for details",
-          "description": "An attacker can bypass restrictions of TYPO3 E-Mail MFA Provider, via Empty String, in order to gain user privileges..."
-        },
-        {
-          "title": "Redmine: multiple vulnerabilities dated 17/03/2026",
-          "link": "https://vigilance.fr/vulnerability/Redmine-multiple-vulnerabilities-dated-17-03-2026-50059",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of Redmine, dated 17/03/2026..."
-        },
-        {
-          "title": "OpenEXR: integer overflow via CompositeDeepScanLine::readPixels()",
-          "link": "https://vigilance.fr/vulnerability/OpenEXR-integer-overflow-via-CompositeDeepScanLine-readPixels-50056",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger an integer overflow of OpenEXR, via CompositeDeepScanLin"
-        },
-        {
-          "title": "OpenEXR: buffer overflow via ()",
-          "link": "https://vigilance.fr/vulnerability/OpenEXR-buffer-overflow-via-50055",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger a buffer overflow of OpenEXR, via (), in order to trigger a denial of service, and possibly to run code..."
-        },
-        {
-          "title": "Varnish Cache: write access via Absolute Form Parsing",
-          "link": "https://vigilance.fr/vulnerability/Varnish-Cache-write-access-via-Absolute-Form-Parsing-50054",
-          "date": "Visit link for details",
-          "description": "An attacker can bypass access restrictions of Varnish Cache, via Absolute Form Parsing, in order to alter data..."
+          "title": "",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "",
+          "description": "Visit link for details"
         }
       ]
     },
@@ -422,6 +358,180 @@
           "link": "https://cert.europa.eu/publications/security-advisories/2026-001/",
           "date": "Friday, January 30, 2026 10:09:06 AM CET",
           "description": "On 29 January 2026, Ivanti released a security advisory addressing two critical vulnerabilities in their EPMM products. An attacker could exploit those flaws to achieve unauthenticated remote code execution on the vulnerable device. One of these vulnerabilities have been exploited in a limited number of cases."
+        }
+      ]
+    },
+    "HK-CERT": {
+      "items": [
+        {
+          "title": "Debian Linux Kernel Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20260506",
+          "date": " Release Date: 6 May 2026 ",
+          "description": "Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system. Note: CVE-2026-31431 is being exploited in the..."
+        },
+        {
+          "title": "SUSE Linux Kernel Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20260506",
+          "date": " Release Date: 6 May 2026 ",
+          "description": "Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, security restriction bypass, sensitive information disclosure,  remote code execution and data manipulation on the targeted system. Note: ..."
+        },
+        {
+          "title": "Nginx Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/nginx-multiple-vulnerabilities_20260515",
+          "date": " Release Date: 15 May 2026 ",
+          "description": "Multiple vulnerabilities were identified in Nginx. A remote attacker could exploit some of these vulnerabilities to trigger spoofing, denial of service condition, remote code execution, sensitive information disclosure, security restriction bypass and data manipulation on the targeted system. Note: CVE-2026-..."
+        },
+        {
+          "title": "Microsoft Edge Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20260518",
+          "date": "Release Date: 18 May 2026 ",
+          "description": "Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, denial of service condition, security restriction bypass, spoofing, cross-site scripting and sensitive information disclosure on the targeted system."
+        },
+        {
+          "title": "F5 Products Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/f5-products-multiple-vulnerabilities_20260515",
+          "date": "Release Date: 15 May 2026 ",
+          "description": "Multiple vulnerabilities were identified in F5 Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass and elevation of privilege on the targeted system."
+        },
+        {
+          "title": "GitLab Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20260515",
+          "date": "Release Date: 15 May 2026 ",
+          "description": "Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, denial of service condition, remote code execution, sensitive information disclosure, security restriction bypass and data manipulation on the targeted system."
+        },
+        {
+          "title": "Google Chrome Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20260515",
+          "date": "Release Date: 15 May 2026 ",
+          "description": "Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, denial of service condition, security restriction bypass, spoofing, cross-site scripting and sensitive information disclosure on the targeted system."
+        },
+        {
+          "title": "Apple Products Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20260513",
+          "date": " Release Date: 13 May 2026 ",
+          "description": "Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, sensitive information disclosure and security restriction bypass on the targeted system. [Updated on 2026-05-..."
+        },
+        {
+          "title": "MongoDB Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/mongodb-multiple-vulnerabilities_20260514",
+          "date": "Release Date: 14 May 2026 ",
+          "description": "Multiple vulnerabilities were identified in MongoDB. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, sensitive information disclosure and denial of service condition on the targeted system."
+        },
+        {
+          "title": "Mozilla Firefox Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/mozilla-firefox-multiple-vulnerabilities_20260514",
+          "date": "Release Date: 14 May 2026 ",
+          "description": "Multiple vulnerabilities were identified in Mozilla Firefox. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass and remote code execution on the targeted system."
+        }
+      ]
+    },
+    "ZERODAYINITIATIVE": {
+      "items": [
+        {
+          "title": "Siemens Simcenter Femap IPT File Parsing Memory Corruption Remote Code Execution Vulnerability",
+          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-317/",
+          "date": "2026-05-12",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Siemens Simcenter Femap IPT File Parsing Memory Corruption Remote Code Execution Vulnerability",
+          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-316/",
+          "date": "2026-05-12",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Apple macOS USD Out-Of-Bounds Read Information Disclosure Vulnerability",
+          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-315/",
+          "date": "2026-05-12",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Apple macOS USD File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability",
+          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-314/",
+          "date": "2026-05-12",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Apple Safari Regular Expression Duplicate Named Groups Heap-based Buffer Overflow Remote Code Execution Vulnerability",
+          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-313/",
+          "date": "2026-05-12",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Apple Safari Web Inspector WebCore Style Resolver Use-After-Free Remote Code Execution Vulnerability",
+          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-312/",
+          "date": "2026-05-12",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Apple macOS CoreSymbolication Out-Of-Bounds Read Information Disclosure Vulnerability",
+          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-311/",
+          "date": "2026-05-12",
+          "description": "Visit link for details"
+        }
+      ]
+    },
+    "MA-CERT": {
+      "items": [
+        {
+          "title": "64461805/26 - “ DanaBot ” malware",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/danabot-malware",
+          "date": " ",
+          "description": ""
+        },
+        {
+          "title": "64451805/26 - Vulnérabilité critique activement exploitée affectant cPanel & WHM",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-activement-exploitee-affectant-cpanel-whm",
+          "date": " ",
+          "description": "La vulnérabilité critique affectant les versions susmentionnées de « cPanel & WHM » et qui a fait l’objet du bulletin de sécurité « 63733004/26 » de la DGSSI est activement…"
+        },
+        {
+          "title": "64441805/26 - Vulnérabilités affectant Tenable Network Monitor",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-tenable-network-monitor",
+          "date": " ",
+          "description": "Tenable annonce la correction de plusieurs vulnérabilités affectant son produit « Network Monitor ». L’exploitation de ces   vulnérabilités peut   permettre à un…"
+        },
+        {
+          "title": "64431505/26 - Vulnérabilité critique dans les produits AMD",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-amd-0",
+          "date": " ",
+          "description": "AMD a annoncé la correction de plusieurs vulnérabilités affectant plusieurs familles de processeurs et cartes graphiques. L’exploitation de ces vulnérabilités pourrait permettre à un attaquant local…"
+        },
+        {
+          "title": "64411505/26 - Vulnérabilités affectant le serveur web Nginx",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-serveur-web-nginx-0",
+          "date": " ",
+          "description": "Plusieurs vulnérabilités affectant les versions susmentionnées  du serveur web Nginx ont été corrigées. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code à…"
+        },
+        {
+          "title": "64421505/26 - Vulnérabilités dans PostgreSQL",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-postgresql-2",
+          "date": " ",
+          "description": "Plusieurs vulnérabilités ont été corrigées dans PostgreSQL. L’exploitation réussie de ces vulnérabilités pourrait permettre à un attaquant distant non authentifié de compromettre la confidentialité,…"
+        },
+        {
+          "title": "64391505/26 - Vulnérabilités affectant GitLab",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-gitlab-16",
+          "date": " ",
+          "description": "GitLab annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…"
+        },
+        {
+          "title": "64401505/26 - Vulnérabilité critique activement exploitée dans Cisco Catalyst SD-WAN",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-activement-exploitee-dans-cisco-catalyst-sd-wan",
+          "date": " ",
+          "description": "Cisco a publié une alerte de sécurité concernant l’exploitation active de plusieurs vulnérabilités critiques affectant les solutions Cisco Catalyst SD-WAN, notamment les composants vSmart Controller…"
+        },
+        {
+          "title": "64381505/26 - Vulnérabilité critique dans Microsoft Exchange Server activement exploitée",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-microsoft-exchange-server-activement-exploitee",
+          "date": " ",
+          "description": "Microsoft annonce la correction d’une vulnérabilité critique « CVE-2026-42897 » activement exploitée, affectant les versions susmentionnées de Microsoft Exchange Server. L’exploitation de…"
+        },
+        {
+          "title": "64371405/26 - Vulnérabilités critiques affectant VM2",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-vm2",
+          "date": " ",
+          "description": "Plusieurs  vulnérabilités critiques affectant les versions susmentionnées de VM2 ont été corrigées. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code…"
         }
       ]
     },
@@ -486,116 +596,6 @@
           "link": "https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av26-466",
           "date": "2026-05-13",
           "description": "Visit link for details"
-        }
-      ]
-    },
-    "ZERODAYINITIATIVE": {
-      "items": [
-        {
-          "title": "Siemens Simcenter Femap IPT File Parsing Memory Corruption Remote Code Execution Vulnerability",
-          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-317/",
-          "date": "2026-05-12",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Siemens Simcenter Femap IPT File Parsing Memory Corruption Remote Code Execution Vulnerability",
-          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-316/",
-          "date": "2026-05-12",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Apple macOS USD Out-Of-Bounds Read Information Disclosure Vulnerability",
-          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-315/",
-          "date": "2026-05-12",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Apple macOS USD File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability",
-          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-314/",
-          "date": "2026-05-12",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Apple Safari Regular Expression Duplicate Named Groups Heap-based Buffer Overflow Remote Code Execution Vulnerability",
-          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-313/",
-          "date": "2026-05-12",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Apple Safari Web Inspector WebCore Style Resolver Use-After-Free Remote Code Execution Vulnerability",
-          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-312/",
-          "date": "2026-05-12",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Apple macOS CoreSymbolication Out-Of-Bounds Read Information Disclosure Vulnerability",
-          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-311/",
-          "date": "2026-05-12",
-          "description": "Visit link for details"
-        }
-      ]
-    },
-    "MA-CERT": {
-      "items": [
-        {
-          "title": "64431505/26 - Vulnérabilité critique dans les produits AMD",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-les-produits-amd-0",
-          "date": " ",
-          "description": "AMD a annoncé la correction de plusieurs vulnérabilités affectant plusieurs familles de processeurs et cartes graphiques. L’exploitation de ces vulnérabilités pourrait permettre à un attaquant local…"
-        },
-        {
-          "title": "64411505/26 - Vulnérabilités affectant le serveur web Nginx",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-serveur-web-nginx-0",
-          "date": " ",
-          "description": "Plusieurs vulnérabilités affectant les versions susmentionnées  du serveur web Nginx ont été corrigées. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code à…"
-        },
-        {
-          "title": "64421505/26 - Vulnérabilités dans PostgreSQL",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-postgresql-2",
-          "date": " ",
-          "description": "Plusieurs vulnérabilités ont été corrigées dans PostgreSQL. L’exploitation réussie de ces vulnérabilités pourrait permettre à un attaquant distant non authentifié de compromettre la confidentialité,…"
-        },
-        {
-          "title": "64391505/26 - Vulnérabilités affectant GitLab",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-gitlab-16",
-          "date": " ",
-          "description": "GitLab annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un attaquant…"
-        },
-        {
-          "title": "64401505/26 - Vulnérabilité critique activement exploitée dans Cisco Catalyst SD-WAN",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-activement-exploitee-dans-cisco-catalyst-sd-wan",
-          "date": " ",
-          "description": "Cisco a publié une alerte de sécurité concernant l’exploitation active de plusieurs vulnérabilités critiques affectant les solutions Cisco Catalyst SD-WAN, notamment les composants vSmart Controller…"
-        },
-        {
-          "title": "64381505/26 - Vulnérabilité critique dans Microsoft Exchange Server activement exploitée",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-microsoft-exchange-server-activement-exploitee",
-          "date": " ",
-          "description": "Microsoft annonce la correction d’une vulnérabilité critique « CVE-2026-42897 » activement exploitée, affectant les versions susmentionnées de Microsoft Exchange Server. L’exploitation de…"
-        },
-        {
-          "title": "64371405/26 - Vulnérabilités critiques affectant VM2",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-vm2",
-          "date": " ",
-          "description": "Plusieurs  vulnérabilités critiques affectant les versions susmentionnées de VM2 ont été corrigées. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code…"
-        },
-        {
-          "title": "64361405/26 - Vulnérabilités affectant plusieurs plugins WordPress",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-plugins-wordpress",
-          "date": " ",
-          "description": "Plusieurs vulnérabilités affectant les plugins susmentionnés de Wordpress ont été corrigées. L’exploitation de ces  vulnérabilités peut permettre à un attaquant l’exécution de code à…"
-        },
-        {
-          "title": "64351405/26 - Vulnérabilité dans Zoom Rooms pour Windows",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-zoom-rooms-pour-windows",
-          "date": " ",
-          "description": "Zoom a publié une mise à jour de sécurité pour corriger une vulnérabilité affectant Zoom Rooms pour Windows. Cette faille pourrait permettre à un attaquant de réussir une élévation de  privilèges…"
-        },
-        {
-          "title": "64341405/26 - Vulnérabilité dans F5 BIG-IP",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-f5-big-ip-0",
-          "date": " ",
-          "description": "Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de F5 BIG-IP. L’exploitation de ces failles peut permettre à un attaquant distant non authentifié d’exécuter du code…"
         }
       ]
     }
