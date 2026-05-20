@@ -4,14 +4,14 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Microsoft Edge security advisory (AV26-476)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av26-476)|Visit link for details|2026-05-19|
- |[[Control systems] CISA ICS security advisories (AV26–475)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av26-475)|Visit link for details|2026-05-19|
- |[FreePBX security advisory (AV26–474)](https://www.cyber.gc.ca/en/alerts-advisories/freepbx-security-advisory-av26-474)|Visit link for details|2026-05-15|
- |[Microsoft security advisory (AV26-473) – Update 1](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-av26-473)|Visit link for details|2026-05-15|
- |[AL26-012 - Critical vulnerability affecting Cisco Catalyst SD-WAN - CVE-2026-20182](https://www.cyber.gc.ca/en/alerts-advisories/al26-012-critical-vulnerability-affecting-cisco-catalyst-sd-wan-cve-2026-20182)|Visit link for details|2026-05-15|
- |[Tenable security advisory (AV26-472)](https://www.cyber.gc.ca/en/alerts-advisories/tenable-security-advisory-av26-472)|Visit link for details|2026-05-14|
- |[Cisco security advisory (AV26-471)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av26-471)|Visit link for details|2026-05-14|
- |[PostgreSQL security advisory (AV26-470)](https://www.cyber.gc.ca/en/alerts-advisories/postgresql-security-advisory-av26-470)|Visit link for details|2026-05-14|
- |[Broadcom VMware security advisory (AV26-469)](https://www.cyber.gc.ca/en/alerts-advisories/broadcom-vmware-security-advisory-av26-469)|Visit link for details|2026-05-14|
- |[MongoDB security advisory (AV26-468)](https://www.cyber.gc.ca/en/alerts-advisories/mongodb-security-advisory-av26-468)|Visit link for details|2026-05-14|
+ |[cPanel security advisory (AV26-488)](https://www.cyber.gc.ca/en/alerts-advisories/cpanel-security-advisory-av26-488)|Visit link for details|2026-05-20|
+ |[HPE security advisory (AV26-487)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av26-487)|Visit link for details|2026-05-20|
+ |[Google Chrome security advisory (AV26-486)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av26-486)|Visit link for details|2026-05-20|
+ |[F5 security advisory (AV26-485)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av26-485)|Visit link for details|2026-05-20|
+ |[FreePBX security advisory (AV26-484)](https://www.cyber.gc.ca/en/alerts-advisories/freepbx-security-advisory-av26-484)|Visit link for details|2026-05-20|
+ |[Atlassian security advisory (AV26-483)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av26-483)|Visit link for details|2026-05-19|
+ |[Ubuntu security advisory (AV26-482)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av26-482)|Visit link for details|2026-05-19|
+ |[Red Hat security advisory (AV26-481)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av26-481)|Visit link for details|2026-05-19|
+ |[Dell security advisory (AV26-480)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av26-480)|Visit link for details|2026-05-19|
+ |[IBM security advisory (AV26-479)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av26-479)|Visit link for details|2026-05-19|
  
