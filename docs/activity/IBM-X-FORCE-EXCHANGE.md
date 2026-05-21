@@ -4,11 +4,11 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Cleartext Storage of Sensitive Information in Memory vulnerability in Mesalvo Meona Client Launcher Component (CVE-2026-0857)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 20, 2026|
- |[Improper Access Control vulnerability in Mesalvo Meona Client Launcher Component, Mesalvo Meona Server Component (CVE-2026-0856)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 20, 2026|
- |[Slider Revolution <= 7.0.9 - Unauthenticated Sensitive Information Exposure via 'sliders/stream' (CVE-2026-6728)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 20, 2026|
- |[Path Traversal in Plugin Loading in libzypp (CVE-2026-44933)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 20, 2026|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[Libsolv: stack-based buffer overflow in libsolv's debian metadata parser when handling sha384/sha512 checksums (CVE-2026-9150)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 20, 2026|
+ |[Android App "RoboForm Password Manager" Insufficient UI Warning of Dangerous Operations (CVE-2026-47782)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 20, 2026|
+ |[RRWO Crypt::SaltedHash module for Perl security bypass (CVE-2026-47372)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 20, 2026|
+ |[Plane: ORM Field Reference Injection via `segment` Parameter in Saved Analytics (CVE-2026-40102)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 20, 2026|
+ |[nimiq-blockchain: network-libp2p untrusted peer can crash address book via empty peer contact addresses (CVE-2026-40094)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 20, 2026|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
