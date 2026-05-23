@@ -1,134 +1,6 @@
 {
-  "generated_at": "2026-05-22T15:54:57.349331+00:00",
+  "generated_at": "2026-05-23T15:24:44.209162+00:00",
   "sources": {
-    "US-CERT": {
-      "items": [
-        {
-          "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/05/21/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-          "date": "May 21, 2026",
-          "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds Seven Known Exploited Vulnerabilities to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/05/20/cisa-adds-seven-known-exploited-vulnerabilities-catalog",
-          "date": "May 20, 2026",
-          "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/05/15/cisa-adds-one-known-exploited-vulnerability-catalog",
-          "date": "May 15, 2026",
-          "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/05/14/cisa-adds-one-known-exploited-vulnerability-catalog",
-          "date": "May 14, 2026",
-          "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/05/08/cisa-adds-one-known-exploited-vulnerability-catalog",
-          "date": "May 08, 2026",
-          "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/05/07/cisa-adds-one-known-exploited-vulnerability-catalog",
-          "date": "May 07, 2026",
-          "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/05/06/cisa-adds-one-known-exploited-vulnerability-catalog",
-          "date": "May 06, 2026",
-          "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/05/01/cisa-adds-one-known-exploited-vulnerability-catalog",
-          "date": "May 01, 2026",
-          "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/04/30/cisa-adds-one-known-exploited-vulnerability-catalog",
-          "date": "Apr 30, 2026",
-          "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/04/28/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-          "date": "Apr 28, 2026",
-          "description": "Visit link for details."
-        }
-      ]
-    },
-    "IBM-X-FORCE-EXCHANGE": {
-      "items": [
-        {
-          "title": "Persistent notification timing attack causing server denial of service (CVE-2026-4635)",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "May 22, 2026",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Improper file ownership validation in the Boards API allows unauthorised file access (CVE-2026-3473)",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "May 22, 2026",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Insufficient input validation in GitHub plugin API causes denial of service (CVE-2026-4646)",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "May 22, 2026",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Sanitize team member data returned by API (CVE-2026-3636)",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "May 22, 2026",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "New vulnerability",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "May 22, 2026",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "",
-          "description": "Visit link for details"
-        }
-      ]
-    },
     "CERT-FR": {
       "items": [
         {
@@ -193,177 +65,195 @@
         }
       ]
     },
+    "US-CERT": {
+      "items": [
+        {
+          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/05/22/cisa-adds-one-known-exploited-vulnerability-catalog",
+          "date": "May 22, 2026",
+          "description": "Visit link for details."
+        },
+        {
+          "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/05/21/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+          "date": "May 21, 2026",
+          "description": "Visit link for details."
+        },
+        {
+          "title": "CISA Adds Seven Known Exploited Vulnerabilities to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/05/20/cisa-adds-seven-known-exploited-vulnerabilities-catalog",
+          "date": "May 20, 2026",
+          "description": "Visit link for details."
+        },
+        {
+          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/05/15/cisa-adds-one-known-exploited-vulnerability-catalog",
+          "date": "May 15, 2026",
+          "description": "Visit link for details."
+        },
+        {
+          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/05/14/cisa-adds-one-known-exploited-vulnerability-catalog",
+          "date": "May 14, 2026",
+          "description": "Visit link for details."
+        },
+        {
+          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/05/08/cisa-adds-one-known-exploited-vulnerability-catalog",
+          "date": "May 08, 2026",
+          "description": "Visit link for details."
+        },
+        {
+          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/05/07/cisa-adds-one-known-exploited-vulnerability-catalog",
+          "date": "May 07, 2026",
+          "description": "Visit link for details."
+        },
+        {
+          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/05/06/cisa-adds-one-known-exploited-vulnerability-catalog",
+          "date": "May 06, 2026",
+          "description": "Visit link for details."
+        },
+        {
+          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/05/01/cisa-adds-one-known-exploited-vulnerability-catalog",
+          "date": "May 01, 2026",
+          "description": "Visit link for details."
+        },
+        {
+          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/04/30/cisa-adds-one-known-exploited-vulnerability-catalog",
+          "date": "Apr 30, 2026",
+          "description": "Visit link for details."
+        }
+      ]
+    },
     "VulDB": {
       "items": [
         {
-          "title": "CVE-2026-8992  Ivanti Secure Access Client up to 22.8R5 certificate validation",
-          "link": "https://vuldb.com/vuln/365208",
-          "date": "Fri, 22 May 2026 17:37:10 +0200",
-          "description": "A vulnerability has been found in Ivanti Secure Access Client up to 22.8R5 and classified as problematic. The impacted element is an unknown function. The manipulation leads to improper certificate va"
+          "title": "CVE-2026-9389  Tenda F456 1.0.0.5 /goform/L7Im frmL7ImForm page buffer overflow",
+          "link": "https://vuldb.com/vuln/365352",
+          "date": "Sat, 23 May 2026 17:09:13 +0200",
+          "description": "A vulnerability was found in Tenda F456 1.0.0.5. It has been rated as critical. This affects the function frmL7ImForm of the file /goform/L7Im. The manipulation of the argument page leads to buffer ov"
         },
         {
-          "title": "CVE-2026-8353  Concrete CMS up to 9.5.0 cross site scripting",
-          "link": "https://vuldb.com/vuln/365207",
-          "date": "Fri, 22 May 2026 17:36:49 +0200",
-          "description": "A vulnerability, which was classified as problematic, was found in Concrete CMS up to 9.5.0. The affected element is an unknown function. Executing a manipulation can lead to cross site scripting.Th"
+          "title": "CVE-2026-9388  Totolink A8000RU 7.1cu.643_b20200521 Web Management Interface /cgi-bin/cstecgi.cgi setScheduleCfg mode os command injection",
+          "link": "https://vuldb.com/vuln/365351",
+          "date": "Sat, 23 May 2026 17:08:31 +0200",
+          "description": "A vulnerability was found in Totolink A8000RU 7.1cu.643_b20200521. It has been declared as critical. The impacted element is the function setScheduleCfg of the file /cgi-bin/cstecgi.cgi of the compone"
         },
         {
-          "title": "CVE-2026-8340  Concrete CMS up to 9.5.0 edit_file_contents cross-site request forgery",
-          "link": "https://vuldb.com/vuln/365206",
-          "date": "Fri, 22 May 2026 17:36:25 +0200",
-          "description": "A vulnerability, which was classified as problematic, has been found in Concrete CMS up to 9.5.0. Impacted is the function edit_file_contents. Performing a manipulation results in cross-site request f"
+          "title": "CVE-2026-9387  Totolink A8000RU 7.1cu.643_b20200521 Web Management Interface /cgi-bin/cstecgi.cgi setUpgradeFW resetFlags os command injection",
+          "link": "https://vuldb.com/vuln/365350",
+          "date": "Sat, 23 May 2026 17:08:29 +0200",
+          "description": "A vulnerability was found in Totolink A8000RU 7.1cu.643_b20200521. It has been classified as critical. The affected element is the function setUpgradeFW of the file /cgi-bin/cstecgi.cgi of the compone"
         },
         {
-          "title": "CVE-2025-46371  Dell PowerFlex Manager prior IC 48.378.00/IC 48.383.00 risky encryption (dsa-2025-434)",
-          "link": "https://vuldb.com/vuln/365205",
-          "date": "Fri, 22 May 2026 17:36:11 +0200",
-          "description": "A vulnerability classified as problematic was found in Dell PowerFlex Manager. This issue affects some unknown processing. Such manipulation leads to risky cryptographic algorithm.This vulnerability"
+          "title": "CVE-2026-9386  Totolink A8000RU 7.1cu.643_b20200521 Web Management Interface /cgi-bin/cstecgi.cgi setLanguageCfg lang os command injection",
+          "link": "https://vuldb.com/vuln/365349",
+          "date": "Sat, 23 May 2026 17:08:26 +0200",
+          "description": "A vulnerability was found in Totolink A8000RU 7.1cu.643_b20200521 and classified as critical. Impacted is the function setLanguageCfg of the file /cgi-bin/cstecgi.cgi of the component Web Management I"
         },
         {
-          "title": "CVE-2025-32751  Dell PowerFlex Manager prior IC 48.378.00/IC 48.383.00 sensitive information (dsa-2025-434)",
-          "link": "https://vuldb.com/vuln/365204",
-          "date": "Fri, 22 May 2026 17:35:35 +0200",
-          "description": "A vulnerability classified as problematic has been found in Dell PowerFlex Manager. This vulnerability affects unknown code. This manipulation causes insecure storage of sensitive information.This v"
+          "title": "CVE-2026-9385  Totolink A8000RU 7.1cu.643_b20200521 Web Management Interface /cgi-bin/cstecgi.cgi setTracerouteCfg command os command injection",
+          "link": "https://vuldb.com/vuln/365348",
+          "date": "Sat, 23 May 2026 17:08:24 +0200",
+          "description": "A vulnerability has been found in Totolink A8000RU 7.1cu.643_b20200521 and classified as critical. This issue affects the function setTracerouteCfg of the file /cgi-bin/cstecgi.cgi of the component We"
         },
         {
-          "title": "CVE-2026-8347  Concrete CMS up to 9.5.0 authorization",
-          "link": "https://vuldb.com/vuln/365203",
-          "date": "Fri, 22 May 2026 17:35:12 +0200",
-          "description": "A vulnerability described as problematic has been identified in Concrete CMS up to 9.5.0. This affects an unknown part. The manipulation results in authorization bypass.This vulnerability is reporte"
+          "title": "CVE-2026-9384  Totolink A8000RU 7.1cu.643_b20200521 Web Management Interface /cgi-bin/cstecgi.cgi setDiagnosisCfg ip os command injection",
+          "link": "https://vuldb.com/vuln/365347",
+          "date": "Sat, 23 May 2026 17:08:21 +0200",
+          "description": "A vulnerability, which was classified as critical, was found in Totolink A8000RU 7.1cu.643_b20200521. This vulnerability affects the function setDiagnosisCfg of the file /cgi-bin/cstecgi.cgi of the co"
         },
         {
-          "title": "CVE-2026-9256  F5 NGINX Plus/NGINX Open Source prior 37.0.1.1/R32 P7/R36 P5 ngx_http_rewrite_module heap-based overflow (K000161377)",
-          "link": "https://vuldb.com/vuln/365202",
-          "date": "Fri, 22 May 2026 17:33:48 +0200",
-          "description": "A vulnerability marked as critical has been reported in F5 NGINX Plus and NGINX Open Source. Affected by this issue is some unknown functionality of the component ngx_http_rewrite_module. The manipula"
+          "title": "CVE-2026-9383  itsourcecode Electronic Judging System 1.0 /intrams/admin/login.php Username sql injection",
+          "link": "https://vuldb.com/vuln/365346",
+          "date": "Sat, 23 May 2026 17:05:53 +0200",
+          "description": "A vulnerability, which was classified as critical, has been found in itsourcecode Electronic Judging System 1.0. This affects an unknown part of the file /intrams/admin/login.php. The manipulation of"
         },
         {
-          "title": "CVE-2025-45145  Follett Destiny Library Manager up to 22.5 image path traversal",
-          "link": "https://vuldb.com/vuln/365201",
-          "date": "Fri, 22 May 2026 17:32:42 +0200",
-          "description": "A vulnerability labeled as critical has been found in Follett Destiny Library Manager up to 22.5. Affected by this vulnerability is an unknown functionality. Executing a manipulation of the argument i"
+          "title": "CVE-2026-9382  Edimax BR-6675nD 1.12 POST Request /goform/formPPTPSetup pptpUserName buffer overflow",
+          "link": "https://vuldb.com/vuln/365345",
+          "date": "Sat, 23 May 2026 17:04:32 +0200",
+          "description": "A vulnerability classified as critical was found in Edimax BR-6675nD 1.12. Affected by this issue is the function formPPTPSetup of the file /goform/formPPTPSetup of the component POST Request Handler."
         },
         {
-          "title": "CVE-2021-21508  Dell VxRail 4.7.410/4.7.411 log file",
-          "link": "https://vuldb.com/vuln/365200",
-          "date": "Fri, 22 May 2026 17:32:07 +0200",
-          "description": "A vulnerability identified as problematic has been detected in Dell VxRail 4.7.410/4.7.411. Affected is an unknown function. Performing a manipulation results in sensitive information in log files.T"
+          "title": "CVE-2026-9381  Edimax BR-6675nD 1.12 POST Request /goform/formPPPoESetup pppUserName buffer overflow",
+          "link": "https://vuldb.com/vuln/365344",
+          "date": "Sat, 23 May 2026 17:04:29 +0200",
+          "description": "A vulnerability classified as critical has been found in Edimax BR-6675nD 1.12. Affected by this vulnerability is the function formPPPoESetup of the file /goform/formPPPoESetup of the component POST R"
         },
         {
-          "title": "CVE-2026-9277  shell-quote up to 1.8.3 os command injection",
-          "link": "https://vuldb.com/vuln/365199",
-          "date": "Fri, 22 May 2026 15:58:03 +0200",
-          "description": "A vulnerability categorized as critical has been discovered in shell-quote up to 1.8.3. This impacts the function quote. Such manipulation leads to os command injection.This vulnerability is listed"
+          "title": "CVE-2026-9380  Edimax BR-6675nD 1.12 POST Request /goform/formL2TPSetup L2TPUserName buffer overflow",
+          "link": "https://vuldb.com/vuln/365343",
+          "date": "Sat, 23 May 2026 17:04:27 +0200",
+          "description": "A vulnerability described as critical has been identified in Edimax BR-6675nD 1.12. Affected is the function formL2TPSetup of the file /goform/formL2TPSetup of the component POST Request Handler. Such"
         }
       ]
     },
-    "ZERODAYINITIATIVE": {
+    "IBM-X-FORCE-EXCHANGE": {
       "items": [
         {
-          "title": "Progress Software Kemp LoadMaster addcountry Command Injection Remote Code Execution Vulnerability",
-          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-319/",
-          "date": "2026-05-21",
+          "title": "omec-project amf handler.go PDUSessionResourceModifyIndication memory corruption (CVE-2026-9299)",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "May 23, 2026",
           "description": "Visit link for details"
         },
         {
-          "title": "Progress Software Kemp LoadMaster ssodomain_killsession Command Injection Remote Code Execution Vulnerability",
-          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-318/",
-          "date": "2026-05-21",
+          "title": "Edimax BR-6428NS POST Request formWlbasic command injection (CVE-2026-9297)",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "May 23, 2026",
           "description": "Visit link for details"
         },
         {
-          "title": "Siemens Simcenter Femap IPT File Parsing Memory Corruption Remote Code Execution Vulnerability",
-          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-317/",
-          "date": "2026-05-12",
+          "title": "Edimax BR-6428NS POST Request formWlanM system command injection (CVE-2026-9296)",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "May 23, 2026",
           "description": "Visit link for details"
         },
         {
-          "title": "Siemens Simcenter Femap IPT File Parsing Memory Corruption Remote Code Execution Vulnerability",
-          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-316/",
-          "date": "2026-05-12",
+          "title": "Wishlist Member <= 3.30.1 - Missing Authorization to Authenticated (Subscriber+) API Secret Key Disclosure and Privilege Escalation via 'wlm3_get_screen' AJAX action (CVE-2026-6419)",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "May 23, 2026",
           "description": "Visit link for details"
         },
         {
-          "title": "Apple macOS USD Out-Of-Bounds Read Information Disclosure Vulnerability",
-          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-315/",
-          "date": "2026-05-12",
+          "title": "New vulnerability",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "May 23, 2026",
           "description": "Visit link for details"
         },
         {
-          "title": "Apple macOS USD File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability",
-          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-314/",
-          "date": "2026-05-12",
+          "title": "",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "",
           "description": "Visit link for details"
         },
         {
-          "title": "Apple Safari Regular Expression Duplicate Named Groups Heap-based Buffer Overflow Remote Code Execution Vulnerability",
-          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-313/",
-          "date": "2026-05-12",
+          "title": "",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "",
           "description": "Visit link for details"
-        }
-      ]
-    },
-    "OBS-Vigilance": {
-      "items": [
-        {
-          "title": "nasm: memory leak via nasm_malloc()",
-          "link": "https://vigilance.fr/vulnerability/nasm-memory-leak-via-nasm-malloc-50858",
-          "date": "Visit link for details",
-          "description": "An attacker can create a memory leak of nasm, via nasm_malloc(), in order to trigger a denial of service..."
         },
         {
-          "title": "Eclipse Jetty: overload via HTTP/2 Made You Reset Attack",
-          "link": "https://vigilance.fr/vulnerability/Eclipse-Jetty-overload-via-HTTP-2-Made-You-Reset-Attack-48045",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger an overload of Eclipse Jetty, via HTTP/2 Made You Reset Attack, in order to trigger a denial of service..."
+          "title": "",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "",
+          "description": "Visit link for details"
         },
         {
-          "title": "MariaDB: buffer overflow via JSON_SCHEMA_VALID()",
-          "link": "https://vigilance.fr/vulnerability/MariaDB-buffer-overflow-via-JSON-SCHEMA-VALID-50120",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger a buffer overflow of MariaDB, via JSON_SCHEMA_VALID(), in order to trigger a denial of service, and possibly to run code..."
+          "title": "",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "",
+          "description": "Visit link for details"
         },
         {
-          "title": "Apple iOS  macOS: memory corruption via ImageIO",
-          "link": "https://vigilance.fr/vulnerability/Apple-iOS-macOS-memory-corruption-via-ImageIO-48040",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger a memory corruption of Apple iOS  macOS, via ImageIO, in order to trigger a denial of service, and possibly to run code..."
-        },
-        {
-          "title": "Python Core: code execution via webbrowser.open() Leading Dashes",
-          "link": "https://vigilance.fr/vulnerability/Python-Core-code-execution-via-webbrowser-open-Leading-Dashes-50119",
-          "date": "Visit link for details",
-          "description": "An attacker can use a vulnerability of Python Core, via webbrowser.open() Leading Dashes, in order to run code..."
-        },
-        {
-          "title": "GIMP: buffer overflow via XPM Image",
-          "link": "https://vigilance.fr/vulnerability/GIMP-buffer-overflow-via-XPM-Image-50118",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger a buffer overflow of GIMP, via XPM Image, in order to trigger a denial of service, and possibly to run code..."
-        },
-        {
-          "title": "GIMP: buffer overflow via file-psp",
-          "link": "https://vigilance.fr/vulnerability/GIMP-buffer-overflow-via-file-psp-50117",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger a buffer overflow of GIMP, via file-psp, in order to trigger a denial of service, and possibly to run code..."
-        },
-        {
-          "title": "GIMP: buffer overflow via JPEG 2000 Color Components",
-          "link": "https://vigilance.fr/vulnerability/GIMP-buffer-overflow-via-JPEG-2000-Color-Components-50116",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger a buffer overflow of GIMP, via JPEG 2000 Color Components, in order to trigger a denial of service, and possibly to run code..."
-        },
-        {
-          "title": "GIMP: buffer overflow via ANI Loading",
-          "link": "https://vigilance.fr/vulnerability/GIMP-buffer-overflow-via-ANI-Loading-50115",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger a buffer overflow of GIMP, via ANI Loading, in order to trigger a denial of service, and possibly to run code..."
-        },
-        {
-          "title": "GIMP: integer overflow via psd-load",
-          "link": "https://vigilance.fr/vulnerability/GIMP-integer-overflow-via-psd-load-50114",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger an integer overflow of GIMP, via psd-load, in order to trigger a denial of service, and possibly to run code..."
+          "title": "",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "",
+          "description": "Visit link for details"
         }
       ]
     },
@@ -471,6 +361,116 @@
         }
       ]
     },
+    "ZERODAYINITIATIVE": {
+      "items": [
+        {
+          "title": "Progress Software Kemp LoadMaster addcountry Command Injection Remote Code Execution Vulnerability",
+          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-319/",
+          "date": "2026-05-21",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Progress Software Kemp LoadMaster ssodomain_killsession Command Injection Remote Code Execution Vulnerability",
+          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-318/",
+          "date": "2026-05-21",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Siemens Simcenter Femap IPT File Parsing Memory Corruption Remote Code Execution Vulnerability",
+          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-317/",
+          "date": "2026-05-12",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Siemens Simcenter Femap IPT File Parsing Memory Corruption Remote Code Execution Vulnerability",
+          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-316/",
+          "date": "2026-05-12",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Apple macOS USD Out-Of-Bounds Read Information Disclosure Vulnerability",
+          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-315/",
+          "date": "2026-05-12",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Apple macOS USD File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability",
+          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-314/",
+          "date": "2026-05-12",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Apple Safari Regular Expression Duplicate Named Groups Heap-based Buffer Overflow Remote Code Execution Vulnerability",
+          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-313/",
+          "date": "2026-05-12",
+          "description": "Visit link for details"
+        }
+      ]
+    },
+    "OBS-Vigilance": {
+      "items": [
+        {
+          "title": "gRPC-Go: read-write access via HTTP/2 Path Pseudo-header",
+          "link": "https://vigilance.fr/vulnerability/gRPC-Go-read-write-access-via-HTTP-2-Path-Pseudo-header-50140",
+          "date": "Visit link for details",
+          "description": "An attacker can bypass access restrictions of gRPC-Go, via HTTP/2 Path Pseudo-header, in order to read or alter data..."
+        },
+        {
+          "title": "pyOpenSSL: buffer overflow via set_cookie_generate_callback()",
+          "link": "https://vigilance.fr/vulnerability/pyOpenSSL-buffer-overflow-via-set-cookie-generate-callback-50138",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger a buffer overflow of pyOpenSSL, via set_cookie_generate_"
+        },
+        {
+          "title": "pyOpenSSL: ingress filtering bypass via set_tlsext_servername_callback()",
+          "link": "https://vigilance.fr/vulnerability/pyOpenSSL-ingress-filtering-bypass-via-set-tlsext-servername-callback-50137",
+          "date": "Visit link for details",
+          "description": "An attacker can bypass filtering rules of pyOpenSSL, via set_tlsext_"
+        },
+        {
+          "title": "ImageMagick: multiple vulnerabilities dated 23/03/2026",
+          "link": "https://vigilance.fr/vulnerability/ImageMagick-multiple-vulnerabilities-dated-23-03-2026-50135",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of ImageMagick, dated 23/03/2026..."
+        },
+        {
+          "title": "Perl XML-Parser: out-of-bounds memory reading via st_serial_stack()",
+          "link": "https://vigilance.fr/vulnerability/Perl-XML-Parser-out-of-bounds-memory-reading-via-st-serial-stack-50134",
+          "date": "Visit link for details",
+          "description": "An attacker can force a read at an invalid memory address of Perl XML::Parser, via st_serial_stack(), in order to trigger a denial of service, or to obtain sensitive information..."
+        },
+        {
+          "title": "Perl XML-Parser: buffer overflow via Multi-byte UTF-8 Bytes",
+          "link": "https://vigilance.fr/vulnerability/Perl-XML-Parser-buffer-overflow-via-Multi-byte-UTF-8-Bytes-50133",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger a buffer overflow of Perl XML::Parser, via Multi-byte UTF-8 Bytes, in order to trigger a denial of service, and possibly to run code..."
+        },
+        {
+          "title": "Perl YAML-Syck: multiple vulnerabilities dated 23/03/2026",
+          "link": "https://vigilance.fr/vulnerability/Perl-YAML-Syck-multiple-vulnerabilities-dated-23-03-2026-50132",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of Perl YAML::Syck, dated 23/03/2026..."
+        },
+        {
+          "title": "cpp-httplib: overload via Multipart Content-Disposition Headers",
+          "link": "https://vigilance.fr/vulnerability/cpp-httplib-overload-via-Multipart-Content-Disposition-Headers-50122",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger an overload of cpp-httplib, via Multipart Content-Disposition Headers, in order to trigger a denial of service..."
+        },
+        {
+          "title": "cpp-httplib: denial of service via Content-Length Header",
+          "link": "https://vigilance.fr/vulnerability/cpp-httplib-denial-of-service-via-Content-Length-Header-50125",
+          "date": "Visit link for details",
+          "description": "An attacker can cause a fatal error of cpp-httplib, via Content-Length Header, in order to trigger a denial of service..."
+        },
+        {
+          "title": "UxPlay: double free via RTSP Request",
+          "link": "https://vigilance.fr/vulnerability/UxPlay-double-free-via-RTSP-Request-50126",
+          "date": "Visit link for details",
+          "description": "An attacker can force a double memory free of UxPlay, via RTSP Request, in order to trigger a denial of service, and possibly to run code..."
+        }
+      ]
+    },
     "MA-CERT": {
       "items": [
         {
@@ -538,8 +538,20 @@
     "CA-CCS": {
       "items": [
         {
-          "title": "Drupal security advisory (AV26-492) - Update 1",
+          "title": "Drupal security advisory (AV26-492) - Update 2",
           "link": "https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av26-492",
+          "date": "2026-05-22",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "F5 security advisory (AV26-501)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av26-501",
+          "date": "2026-05-22",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "HPE security advisory (AV26-500)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av26-500",
           "date": "2026-05-22",
           "description": "Visit link for details"
         },
@@ -582,18 +594,6 @@
         {
           "title": "Splunk security advisory (AV26-493)",
           "link": "https://www.cyber.gc.ca/en/alerts-advisories/splunk-security-advisory-av26-493",
-          "date": "2026-05-20",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Cisco security advisory (AV26-491)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av26-491",
-          "date": "2026-05-20",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "ISC BIND security advisory (AV26-490)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/isc-bind-security-advisory-av26-490",
           "date": "2026-05-20",
           "description": "Visit link for details"
         }
