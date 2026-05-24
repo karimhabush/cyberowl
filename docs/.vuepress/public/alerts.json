@@ -1,70 +1,6 @@
 {
-  "generated_at": "2026-05-23T15:24:44.209162+00:00",
+  "generated_at": "2026-05-24T15:27:02.981273+00:00",
   "sources": {
-    "CERT-FR": {
-      "items": [
-        {
-          "title": "Multiples vulnérabilités dans les produits IBM",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0641/",
-          "date": "Publié le 22 mai 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance."
-        },
-        {
-          "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0640/",
-          "date": "Publié le 22 mai 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données."
-        },
-        {
-          "title": "Multiples vulnérabilités dans le noyau Linux de SUSE",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0639/",
-          "date": "Publié le 22 mai 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur."
-        },
-        {
-          "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0638/",
-          "date": "Publié le 22 mai 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une élévation de privilèges et un problème de sécurité non spécifié par l'éditeur."
-        },
-        {
-          "title": "Multiples vulnérabilités dans le noyau Linux de Debian",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0637/",
-          "date": "Publié le 22 mai 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service."
-        },
-        {
-          "title": "Vulnérabilité dans le noyau Linux de Debian LTS",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0636/",
-          "date": "Publié le 22 mai 2026",
-          "description": "Une vulnérabilité a été découverte dans le noyau Linux de Debian LTS. Elle permet à un attaquant de provoquer une élévation de privilèges et une atteinte à la confidentialité des données."
-        },
-        {
-          "title": "Vulnérabilité dans SPIP",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0635/",
-          "date": "Publié le 22 mai 2026",
-          "description": "Une vulnérabilité a été découverte dans SPIP. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité."
-        },
-        {
-          "title": "Vulnérabilité dans les produits Microsoft",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0634/",
-          "date": "Publié le 22 mai 2026",
-          "description": "Une vulnérabilité a été découverte dans les produits Microsoft. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance."
-        },
-        {
-          "title": "Multiples vulnérabilités dans Microsoft Edge",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0633/",
-          "date": "Publié le 22 mai 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
-        },
-        {
-          "title": "Multiples vulnérabilités dans les produits Mattermost",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0632/",
-          "date": "Publié le 22 mai 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Mattermost. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
-        }
-      ]
-    },
     "US-CERT": {
       "items": [
         {
@@ -129,106 +65,42 @@
         }
       ]
     },
-    "VulDB": {
-      "items": [
-        {
-          "title": "CVE-2026-9389  Tenda F456 1.0.0.5 /goform/L7Im frmL7ImForm page buffer overflow",
-          "link": "https://vuldb.com/vuln/365352",
-          "date": "Sat, 23 May 2026 17:09:13 +0200",
-          "description": "A vulnerability was found in Tenda F456 1.0.0.5. It has been rated as critical. This affects the function frmL7ImForm of the file /goform/L7Im. The manipulation of the argument page leads to buffer ov"
-        },
-        {
-          "title": "CVE-2026-9388  Totolink A8000RU 7.1cu.643_b20200521 Web Management Interface /cgi-bin/cstecgi.cgi setScheduleCfg mode os command injection",
-          "link": "https://vuldb.com/vuln/365351",
-          "date": "Sat, 23 May 2026 17:08:31 +0200",
-          "description": "A vulnerability was found in Totolink A8000RU 7.1cu.643_b20200521. It has been declared as critical. The impacted element is the function setScheduleCfg of the file /cgi-bin/cstecgi.cgi of the compone"
-        },
-        {
-          "title": "CVE-2026-9387  Totolink A8000RU 7.1cu.643_b20200521 Web Management Interface /cgi-bin/cstecgi.cgi setUpgradeFW resetFlags os command injection",
-          "link": "https://vuldb.com/vuln/365350",
-          "date": "Sat, 23 May 2026 17:08:29 +0200",
-          "description": "A vulnerability was found in Totolink A8000RU 7.1cu.643_b20200521. It has been classified as critical. The affected element is the function setUpgradeFW of the file /cgi-bin/cstecgi.cgi of the compone"
-        },
-        {
-          "title": "CVE-2026-9386  Totolink A8000RU 7.1cu.643_b20200521 Web Management Interface /cgi-bin/cstecgi.cgi setLanguageCfg lang os command injection",
-          "link": "https://vuldb.com/vuln/365349",
-          "date": "Sat, 23 May 2026 17:08:26 +0200",
-          "description": "A vulnerability was found in Totolink A8000RU 7.1cu.643_b20200521 and classified as critical. Impacted is the function setLanguageCfg of the file /cgi-bin/cstecgi.cgi of the component Web Management I"
-        },
-        {
-          "title": "CVE-2026-9385  Totolink A8000RU 7.1cu.643_b20200521 Web Management Interface /cgi-bin/cstecgi.cgi setTracerouteCfg command os command injection",
-          "link": "https://vuldb.com/vuln/365348",
-          "date": "Sat, 23 May 2026 17:08:24 +0200",
-          "description": "A vulnerability has been found in Totolink A8000RU 7.1cu.643_b20200521 and classified as critical. This issue affects the function setTracerouteCfg of the file /cgi-bin/cstecgi.cgi of the component We"
-        },
-        {
-          "title": "CVE-2026-9384  Totolink A8000RU 7.1cu.643_b20200521 Web Management Interface /cgi-bin/cstecgi.cgi setDiagnosisCfg ip os command injection",
-          "link": "https://vuldb.com/vuln/365347",
-          "date": "Sat, 23 May 2026 17:08:21 +0200",
-          "description": "A vulnerability, which was classified as critical, was found in Totolink A8000RU 7.1cu.643_b20200521. This vulnerability affects the function setDiagnosisCfg of the file /cgi-bin/cstecgi.cgi of the co"
-        },
-        {
-          "title": "CVE-2026-9383  itsourcecode Electronic Judging System 1.0 /intrams/admin/login.php Username sql injection",
-          "link": "https://vuldb.com/vuln/365346",
-          "date": "Sat, 23 May 2026 17:05:53 +0200",
-          "description": "A vulnerability, which was classified as critical, has been found in itsourcecode Electronic Judging System 1.0. This affects an unknown part of the file /intrams/admin/login.php. The manipulation of"
-        },
-        {
-          "title": "CVE-2026-9382  Edimax BR-6675nD 1.12 POST Request /goform/formPPTPSetup pptpUserName buffer overflow",
-          "link": "https://vuldb.com/vuln/365345",
-          "date": "Sat, 23 May 2026 17:04:32 +0200",
-          "description": "A vulnerability classified as critical was found in Edimax BR-6675nD 1.12. Affected by this issue is the function formPPTPSetup of the file /goform/formPPTPSetup of the component POST Request Handler."
-        },
-        {
-          "title": "CVE-2026-9381  Edimax BR-6675nD 1.12 POST Request /goform/formPPPoESetup pppUserName buffer overflow",
-          "link": "https://vuldb.com/vuln/365344",
-          "date": "Sat, 23 May 2026 17:04:29 +0200",
-          "description": "A vulnerability classified as critical has been found in Edimax BR-6675nD 1.12. Affected by this vulnerability is the function formPPPoESetup of the file /goform/formPPPoESetup of the component POST R"
-        },
-        {
-          "title": "CVE-2026-9380  Edimax BR-6675nD 1.12 POST Request /goform/formL2TPSetup L2TPUserName buffer overflow",
-          "link": "https://vuldb.com/vuln/365343",
-          "date": "Sat, 23 May 2026 17:04:27 +0200",
-          "description": "A vulnerability described as critical has been identified in Edimax BR-6675nD 1.12. Affected is the function formL2TPSetup of the file /goform/formL2TPSetup of the component POST Request Handler. Such"
-        }
-      ]
-    },
     "IBM-X-FORCE-EXCHANGE": {
       "items": [
         {
-          "title": "omec-project amf handler.go PDUSessionResourceModifyIndication memory corruption (CVE-2026-9299)",
+          "title": "Edimax BR-6675nD POST Request formHwSet command injection (CVE-2026-9378)",
           "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "May 23, 2026",
+          "date": "May 24, 2026",
           "description": "Visit link for details"
         },
         {
-          "title": "Edimax BR-6428NS POST Request formWlbasic command injection (CVE-2026-9297)",
+          "title": "JPress UCenter Article Submission Endpoint doWriteSave improper authorization (CVE-2026-9376)",
           "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "May 23, 2026",
+          "date": "May 24, 2026",
           "description": "Visit link for details"
         },
         {
-          "title": "Edimax BR-6428NS POST Request formWlanM system command injection (CVE-2026-9296)",
+          "title": "yangzongzhuan RuoYi-Vue Common Upload Endpoint upload FileUploadUtils.upload unrestricted upload (CVE-2026-9374)",
           "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "May 23, 2026",
+          "date": "May 24, 2026",
           "description": "Visit link for details"
         },
         {
-          "title": "Wishlist Member <= 3.30.1 - Missing Authorization to Authenticated (Subscriber+) API Secret Key Disclosure and Privilege Escalation via 'wlm3_get_screen' AJAX action (CVE-2026-6419)",
+          "title": "ItzCrazyKns Vane Model Provider API route.ts server-side request forgery (CVE-2026-9372)",
           "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "May 23, 2026",
+          "date": "May 24, 2026",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "ItzCrazyKns Vane API route.ts missing authentication (CVE-2026-9371)",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "May 24, 2026",
           "description": "Visit link for details"
         },
         {
           "title": "New vulnerability",
           "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "May 23, 2026",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "",
+          "date": "May 24, 2026",
           "description": "Visit link for details"
         },
         {
@@ -257,43 +129,241 @@
         }
       ]
     },
-    "EU-CERT": {
+    "CERT-FR": {
       "items": [
         {
-          "title": "2026-006: Critical Vulnerability in PAN-OS",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-006/",
-          "date": "Wednesday, May 06, 2026 10:44:32 AM CEST",
-          "description": "On 6 May 2026, Palo Alto published a security advisory addressing a critical vulnerability affecting PAN-OS. This vulnerability allows an unauthenticated attacker to execute arbitrary code with root privileges."
+          "title": "Multiples vulnérabilités dans les produits IBM",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0641/",
+          "date": "Publié le 22 mai 2026",
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance."
         },
         {
-          "title": "2026-005: High Vulnerability in the Linux Kernel (\"Copy Fail\")",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-005/",
-          "date": "Thursday, April 30, 2026 11:25:30 AM CEST",
-          "description": "On 29 April 2026, a high local privilege escalation vulnerability in the Linux kernel, tracked as CVE-2026-31431 and named \"Copy Fail\", was publicly disclosed."
+          "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0640/",
+          "date": "Publié le 22 mai 2026",
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données."
         },
         {
-          "title": "2026-004: Critical Vulnerability in SharePoint Exploited",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-004/",
-          "date": "Wednesday, March 25, 2026 08:51:39 AM CET",
-          "description": "On 17 March 2026, Microsoft updated one of its January 2026 security advisories related to a remote code execution vulnerability in Microsoft SharePoint. Specifically, Microsoft raised the CVSS score and changed the FAQ section to indicate that the vulnerability could be exploited by an unauthenticated attacker. This vulnerability was added in the CISA's Known Exploited Vulnerabilities (KEV) catalogue on 18 March 2026."
+          "title": "Multiples vulnérabilités dans le noyau Linux de SUSE",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0639/",
+          "date": "Publié le 22 mai 2026",
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur."
         },
         {
-          "title": "2026-003: Multiple Vulnerabilities in Citrix NetScaler and Citrix ADC",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-003/",
-          "date": "Monday, March 23, 2026 07:03:59 PM CET",
-          "description": "On 23 March 2026, Citrix published a security advisory addressing multiple vulnerabilities affecting NetScaler ADC and NetScaler Gateway. These vulnerabilities may lead to sensitive information disclosure and user session mix-up under specific configurations."
+          "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0638/",
+          "date": "Publié le 22 mai 2026",
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une élévation de privilèges et un problème de sécurité non spécifié par l'éditeur."
         },
         {
-          "title": "2026-002: Multiple Vulnerabilities in Cisco Products",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-002/",
-          "date": "Thursday, February 26, 2026 07:38:52 PM CET",
-          "description": "On 25 February 2026, Cisco released security advisories addressing multiple high and critical severity vulnerabilities in Cisco Catalyst SD-WAN controllers and Cisco SD-WAN Manager. If exploited, these vulnerabilities could allow attackers to gain administrative access to compromised systems."
+          "title": "Multiples vulnérabilités dans le noyau Linux de Debian",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0637/",
+          "date": "Publié le 22 mai 2026",
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service."
         },
         {
-          "title": "2026-001: Critical vulnerabilities in Ivanti EPMM",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-001/",
-          "date": "Friday, January 30, 2026 10:09:06 AM CET",
-          "description": "On 29 January 2026, Ivanti released a security advisory addressing two critical vulnerabilities in their EPMM products. An attacker could exploit those flaws to achieve unauthenticated remote code execution on the vulnerable device. One of these vulnerabilities have been exploited in a limited number of cases."
+          "title": "Vulnérabilité dans le noyau Linux de Debian LTS",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0636/",
+          "date": "Publié le 22 mai 2026",
+          "description": "Une vulnérabilité a été découverte dans le noyau Linux de Debian LTS. Elle permet à un attaquant de provoquer une élévation de privilèges et une atteinte à la confidentialité des données."
+        },
+        {
+          "title": "Vulnérabilité dans SPIP",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0635/",
+          "date": "Publié le 22 mai 2026",
+          "description": "Une vulnérabilité a été découverte dans SPIP. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité."
+        },
+        {
+          "title": "Vulnérabilité dans les produits Microsoft",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0634/",
+          "date": "Publié le 22 mai 2026",
+          "description": "Une vulnérabilité a été découverte dans les produits Microsoft. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance."
+        },
+        {
+          "title": "Multiples vulnérabilités dans Microsoft Edge",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0633/",
+          "date": "Publié le 22 mai 2026",
+          "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
+        },
+        {
+          "title": "Multiples vulnérabilités dans les produits Mattermost",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0632/",
+          "date": "Publié le 22 mai 2026",
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Mattermost. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
+        }
+      ]
+    },
+    "VulDB": {
+      "items": [
+        {
+          "title": "CVE-2026-9486  SourceCodester Student Grades Management System 1.0 cross-site request forgery",
+          "link": "https://vuldb.com/vuln/365467",
+          "date": "Sun, 24 May 2026 11:31:59 +0200",
+          "description": "A vulnerability labeled as problematic has been found in SourceCodester Student Grades Management System 1.0. This affects an unknown part. The manipulation results in cross-site request forgery.Thi"
+        },
+        {
+          "title": "CVE-2026-9485  SourceCodester Student Grades Management System 1.0 students.php Remarks cross site scripting",
+          "link": "https://vuldb.com/vuln/365466",
+          "date": "Sun, 24 May 2026 11:31:57 +0200",
+          "description": "A vulnerability identified as problematic has been detected in SourceCodester Student Grades Management System 1.0. Affected by this issue is some unknown functionality of the file students.php. The m"
+        },
+        {
+          "title": "CVE-2026-9484  SourceCodester Student Grades Management System 1.0 classroom.php getClassroomStudents/removeStudentFromClassroom classroom_id improper authorization",
+          "link": "https://vuldb.com/vuln/365465",
+          "date": "Sun, 24 May 2026 11:31:40 +0200",
+          "description": "A vulnerability categorized as critical has been discovered in SourceCodester Student Grades Management System 1.0. Affected by this vulnerability is the function getClassroomStudents/removeStudentFro"
+        },
+        {
+          "title": "CVE-2026-9483  SourceCodester Student Grades Management System 1.0 grades.php student_id improper authorization",
+          "link": "https://vuldb.com/vuln/365464",
+          "date": "Sun, 24 May 2026 11:31:37 +0200",
+          "description": "A vulnerability was found in SourceCodester Student Grades Management System 1.0. It has been rated as critical. Affected is an unknown function of the file grades.php. Performing a manipulation of th"
+        },
+        {
+          "title": "CVE-2026-9482  Edimax EW-7438RPn 1.31 /goform/formSDHCP submit-url stack-based overflow",
+          "link": "https://vuldb.com/vuln/365463",
+          "date": "Sun, 24 May 2026 11:23:52 +0200",
+          "description": "A vulnerability was found in Edimax EW-7438RPn 1.31. It has been declared as critical. This impacts the function formSDHCP of the file /goform/formSDHCP. Such manipulation of the argument submit-url l"
+        },
+        {
+          "title": "CVE-2026-9481  Edimax EW-7438RPn 1.31 /goform/formStats submit-url stack-based overflow",
+          "link": "https://vuldb.com/vuln/365462",
+          "date": "Sun, 24 May 2026 11:23:49 +0200",
+          "description": "A vulnerability was found in Edimax EW-7438RPn 1.31. It has been classified as critical. This affects the function formStats of the file /goform/formStats. This manipulation of the argument submit-url"
+        },
+        {
+          "title": "CVE-2026-9480  Edimax EW-7438RPn 1.31 /goform/formrefresh submit-url stack-based overflow",
+          "link": "https://vuldb.com/vuln/365461",
+          "date": "Sun, 24 May 2026 11:23:47 +0200",
+          "description": "A vulnerability was found in Edimax EW-7438RPn 1.31 and classified as critical. The impacted element is the function formrefresh of the file /goform/formrefresh. The manipulation of the argument submi"
+        },
+        {
+          "title": "CVE-2026-9479  Edimax EW-7438RPn 1.31 /goform/formLogout submit-url stack-based overflow",
+          "link": "https://vuldb.com/vuln/365460",
+          "date": "Sun, 24 May 2026 11:23:44 +0200",
+          "description": "A vulnerability has been found in Edimax EW-7438RPn 1.31 and classified as critical. The affected element is the function formLogout of the file /goform/formLogout. The manipulation of the argument su"
+        },
+        {
+          "title": "CVE-2026-9478  Totolink A8000RU 7.1cu.643_b20200521 Web Management Interface /cgi-bin/cstecgi.cgi setParentalRules enable os command injection",
+          "link": "https://vuldb.com/vuln/365459",
+          "date": "Sun, 24 May 2026 11:21:00 +0200",
+          "description": "A vulnerability, which was classified as critical, was found in Totolink A8000RU 7.1cu.643_b20200521. Impacted is the function setParentalRules of the file /cgi-bin/cstecgi.cgi of the component Web Ma"
+        },
+        {
+          "title": "CVE-2026-9477  Totolink A8000RU 7.1cu.643_b20200521 Web Management Interface /cgi-bin/cstecgi.cgi setAccessDeviceCfg mac os command injection",
+          "link": "https://vuldb.com/vuln/365458",
+          "date": "Sun, 24 May 2026 11:20:50 +0200",
+          "description": "A vulnerability, which was classified as critical, has been found in Totolink A8000RU 7.1cu.643_b20200521. This issue affects the function setAccessDeviceCfg of the file /cgi-bin/cstecgi.cgi of the co"
+        }
+      ]
+    },
+    "ZERODAYINITIATIVE": {
+      "items": [
+        {
+          "title": "Progress Software Kemp LoadMaster addcountry Command Injection Remote Code Execution Vulnerability",
+          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-319/",
+          "date": "2026-05-21",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Progress Software Kemp LoadMaster ssodomain_killsession Command Injection Remote Code Execution Vulnerability",
+          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-318/",
+          "date": "2026-05-21",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Siemens Simcenter Femap IPT File Parsing Memory Corruption Remote Code Execution Vulnerability",
+          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-317/",
+          "date": "2026-05-12",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Siemens Simcenter Femap IPT File Parsing Memory Corruption Remote Code Execution Vulnerability",
+          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-316/",
+          "date": "2026-05-12",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Apple macOS USD Out-Of-Bounds Read Information Disclosure Vulnerability",
+          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-315/",
+          "date": "2026-05-12",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Apple macOS USD File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability",
+          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-314/",
+          "date": "2026-05-12",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Apple Safari Regular Expression Duplicate Named Groups Heap-based Buffer Overflow Remote Code Execution Vulnerability",
+          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-313/",
+          "date": "2026-05-12",
+          "description": "Visit link for details"
+        }
+      ]
+    },
+    "OBS-Vigilance": {
+      "items": [
+        {
+          "title": "Redis: use after free via Reply Copy Avoidance",
+          "link": "https://vigilance.fr/vulnerability/Redis-use-after-free-via-Reply-Copy-Avoidance-50158",
+          "date": "Visit link for details",
+          "description": "An attacker can force the reuse of a freed memory area of Redis, via Reply Copy Avoidance, in order to trigger a denial of service, and possibly to run code..."
+        },
+        {
+          "title": "IBM WebSphere AS Liberty: information disclosure via openapi / mpOpenAPI",
+          "link": "https://vigilance.fr/vulnerability/IBM-WebSphere-AS-Liberty-information-disclosure-via-openapi-mpOpenAPI-50157",
+          "date": "Visit link for details",
+          "description": "An attacker can bypass access restrictions to data of IBM WebSphere AS Liberty, via openapi / mpOpenAPI, in order to read sensitive information..."
+        },
+        {
+          "title": "IBM WebSphere AS Liberty: Server-Side Request Forgery dated 24/03/2026",
+          "link": "https://vigilance.fr/vulnerability/IBM-WebSphere-AS-Liberty-Server-Side-Request-Forgery-dated-24-03-2026-50156",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger a Server-Side Request Forgery of IBM WebSphere AS Liberty, dated 24/03/2026, in order to force the server to send queries..."
+        },
+        {
+          "title": "IBM WebSphere AS Liberty: privilege escalation via restConnector",
+          "link": "https://vigilance.fr/vulnerability/IBM-WebSphere-AS-Liberty-privilege-escalation-via-restConnector-50155",
+          "date": "Visit link for details",
+          "description": "An attacker can bypass restrictions of IBM WebSphere AS Liberty, via restConnector, in order to escalate his privileges..."
+        },
+        {
+          "title": "Linux kernel: privilege escalation via Xen Privcmd Driver",
+          "link": "https://vigilance.fr/vulnerability/Linux-kernel-privilege-escalation-via-Xen-Privcmd-Driver-50153",
+          "date": "Visit link for details",
+          "description": "An attacker can bypass restrictions of the Linux kernel, via Xen Privcmd Driver, in order to escalate his privileges..."
+        },
+        {
+          "title": "Roundcube Webmail: multiple vulnerabilities dated 24/03/2026",
+          "link": "https://vigilance.fr/vulnerability/Roundcube-Webmail-multiple-vulnerabilities-dated-24-03-2026-50152",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of Roundcube Webmail, dated 24/03/2026..."
+        },
+        {
+          "title": "Authlib: weak signature via _verify_hash()",
+          "link": "https://vigilance.fr/vulnerability/Authlib-weak-signature-via-verify-hash-50151",
+          "date": "Visit link for details",
+          "description": "An attacker can use malicious data on Authlib, via _verify_hash(), in order to deceive the victim..."
+        },
+        {
+          "title": "Authlib: information disclosure via Padding Oracle",
+          "link": "https://vigilance.fr/vulnerability/Authlib-information-disclosure-via-Padding-Oracle-50150",
+          "date": "Visit link for details",
+          "description": "An attacker can bypass access restrictions to data of Authlib, via Padding Oracle, in order to read sensitive information..."
+        },
+        {
+          "title": "Authlib: read-write access via JWK Header Injection",
+          "link": "https://vigilance.fr/vulnerability/Authlib-read-write-access-via-JWK-Header-Injection-50149",
+          "date": "Visit link for details",
+          "description": "An attacker can bypass access restrictions of Authlib, via JWK Header Injection, in order to read or alter data..."
+        },
+        {
+          "title": "TeamPass: privilege escalation via Network ACL",
+          "link": "https://vigilance.fr/vulnerability/TeamPass-privilege-escalation-via-Network-ACL-50148",
+          "date": "Visit link for details",
+          "description": "An attacker can bypass restrictions of TeamPass, via Network ACL, in order to escalate his privileges..."
         }
       ]
     },
@@ -361,177 +431,43 @@
         }
       ]
     },
-    "ZERODAYINITIATIVE": {
+    "EU-CERT": {
       "items": [
         {
-          "title": "Progress Software Kemp LoadMaster addcountry Command Injection Remote Code Execution Vulnerability",
-          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-319/",
-          "date": "2026-05-21",
-          "description": "Visit link for details"
+          "title": "2026-006: Critical Vulnerability in PAN-OS",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-006/",
+          "date": "Wednesday, May 06, 2026 10:44:32 AM CEST",
+          "description": "On 6 May 2026, Palo Alto published a security advisory addressing a critical vulnerability affecting PAN-OS. This vulnerability allows an unauthenticated attacker to execute arbitrary code with root privileges."
         },
         {
-          "title": "Progress Software Kemp LoadMaster ssodomain_killsession Command Injection Remote Code Execution Vulnerability",
-          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-318/",
-          "date": "2026-05-21",
-          "description": "Visit link for details"
+          "title": "2026-005: High Vulnerability in the Linux Kernel (\"Copy Fail\")",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-005/",
+          "date": "Thursday, April 30, 2026 11:25:30 AM CEST",
+          "description": "On 29 April 2026, a high local privilege escalation vulnerability in the Linux kernel, tracked as CVE-2026-31431 and named \"Copy Fail\", was publicly disclosed."
         },
         {
-          "title": "Siemens Simcenter Femap IPT File Parsing Memory Corruption Remote Code Execution Vulnerability",
-          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-317/",
-          "date": "2026-05-12",
-          "description": "Visit link for details"
+          "title": "2026-004: Critical Vulnerability in SharePoint Exploited",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-004/",
+          "date": "Wednesday, March 25, 2026 08:51:39 AM CET",
+          "description": "On 17 March 2026, Microsoft updated one of its January 2026 security advisories related to a remote code execution vulnerability in Microsoft SharePoint. Specifically, Microsoft raised the CVSS score and changed the FAQ section to indicate that the vulnerability could be exploited by an unauthenticated attacker. This vulnerability was added in the CISA's Known Exploited Vulnerabilities (KEV) catalogue on 18 March 2026."
         },
         {
-          "title": "Siemens Simcenter Femap IPT File Parsing Memory Corruption Remote Code Execution Vulnerability",
-          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-316/",
-          "date": "2026-05-12",
-          "description": "Visit link for details"
+          "title": "2026-003: Multiple Vulnerabilities in Citrix NetScaler and Citrix ADC",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-003/",
+          "date": "Monday, March 23, 2026 07:03:59 PM CET",
+          "description": "On 23 March 2026, Citrix published a security advisory addressing multiple vulnerabilities affecting NetScaler ADC and NetScaler Gateway. These vulnerabilities may lead to sensitive information disclosure and user session mix-up under specific configurations."
         },
         {
-          "title": "Apple macOS USD Out-Of-Bounds Read Information Disclosure Vulnerability",
-          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-315/",
-          "date": "2026-05-12",
-          "description": "Visit link for details"
+          "title": "2026-002: Multiple Vulnerabilities in Cisco Products",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-002/",
+          "date": "Thursday, February 26, 2026 07:38:52 PM CET",
+          "description": "On 25 February 2026, Cisco released security advisories addressing multiple high and critical severity vulnerabilities in Cisco Catalyst SD-WAN controllers and Cisco SD-WAN Manager. If exploited, these vulnerabilities could allow attackers to gain administrative access to compromised systems."
         },
         {
-          "title": "Apple macOS USD File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability",
-          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-314/",
-          "date": "2026-05-12",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Apple Safari Regular Expression Duplicate Named Groups Heap-based Buffer Overflow Remote Code Execution Vulnerability",
-          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-313/",
-          "date": "2026-05-12",
-          "description": "Visit link for details"
-        }
-      ]
-    },
-    "OBS-Vigilance": {
-      "items": [
-        {
-          "title": "gRPC-Go: read-write access via HTTP/2 Path Pseudo-header",
-          "link": "https://vigilance.fr/vulnerability/gRPC-Go-read-write-access-via-HTTP-2-Path-Pseudo-header-50140",
-          "date": "Visit link for details",
-          "description": "An attacker can bypass access restrictions of gRPC-Go, via HTTP/2 Path Pseudo-header, in order to read or alter data..."
-        },
-        {
-          "title": "pyOpenSSL: buffer overflow via set_cookie_generate_callback()",
-          "link": "https://vigilance.fr/vulnerability/pyOpenSSL-buffer-overflow-via-set-cookie-generate-callback-50138",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger a buffer overflow of pyOpenSSL, via set_cookie_generate_"
-        },
-        {
-          "title": "pyOpenSSL: ingress filtering bypass via set_tlsext_servername_callback()",
-          "link": "https://vigilance.fr/vulnerability/pyOpenSSL-ingress-filtering-bypass-via-set-tlsext-servername-callback-50137",
-          "date": "Visit link for details",
-          "description": "An attacker can bypass filtering rules of pyOpenSSL, via set_tlsext_"
-        },
-        {
-          "title": "ImageMagick: multiple vulnerabilities dated 23/03/2026",
-          "link": "https://vigilance.fr/vulnerability/ImageMagick-multiple-vulnerabilities-dated-23-03-2026-50135",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of ImageMagick, dated 23/03/2026..."
-        },
-        {
-          "title": "Perl XML-Parser: out-of-bounds memory reading via st_serial_stack()",
-          "link": "https://vigilance.fr/vulnerability/Perl-XML-Parser-out-of-bounds-memory-reading-via-st-serial-stack-50134",
-          "date": "Visit link for details",
-          "description": "An attacker can force a read at an invalid memory address of Perl XML::Parser, via st_serial_stack(), in order to trigger a denial of service, or to obtain sensitive information..."
-        },
-        {
-          "title": "Perl XML-Parser: buffer overflow via Multi-byte UTF-8 Bytes",
-          "link": "https://vigilance.fr/vulnerability/Perl-XML-Parser-buffer-overflow-via-Multi-byte-UTF-8-Bytes-50133",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger a buffer overflow of Perl XML::Parser, via Multi-byte UTF-8 Bytes, in order to trigger a denial of service, and possibly to run code..."
-        },
-        {
-          "title": "Perl YAML-Syck: multiple vulnerabilities dated 23/03/2026",
-          "link": "https://vigilance.fr/vulnerability/Perl-YAML-Syck-multiple-vulnerabilities-dated-23-03-2026-50132",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of Perl YAML::Syck, dated 23/03/2026..."
-        },
-        {
-          "title": "cpp-httplib: overload via Multipart Content-Disposition Headers",
-          "link": "https://vigilance.fr/vulnerability/cpp-httplib-overload-via-Multipart-Content-Disposition-Headers-50122",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger an overload of cpp-httplib, via Multipart Content-Disposition Headers, in order to trigger a denial of service..."
-        },
-        {
-          "title": "cpp-httplib: denial of service via Content-Length Header",
-          "link": "https://vigilance.fr/vulnerability/cpp-httplib-denial-of-service-via-Content-Length-Header-50125",
-          "date": "Visit link for details",
-          "description": "An attacker can cause a fatal error of cpp-httplib, via Content-Length Header, in order to trigger a denial of service..."
-        },
-        {
-          "title": "UxPlay: double free via RTSP Request",
-          "link": "https://vigilance.fr/vulnerability/UxPlay-double-free-via-RTSP-Request-50126",
-          "date": "Visit link for details",
-          "description": "An attacker can force a double memory free of UxPlay, via RTSP Request, in order to trigger a denial of service, and possibly to run code..."
-        }
-      ]
-    },
-    "MA-CERT": {
-      "items": [
-        {
-          "title": "64652205/26 - Vulnérabilité dans Microsoft SharePoint",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-microsoft-sharepoint",
-          "date": " ",
-          "description": "Microsoft a publié une mise à jour de sécurité pour une nouvelle vulnérabilité affectant les versions susmentionnées de SharePoint. L’exploitation de cette vulnérabilité peut permettre à un attaquant…"
-        },
-        {
-          "title": "64642205/26 - Vulnérabilités critiques affectant les produits d’Ubiquiti",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-les-produits-dubiquiti",
-          "date": " ",
-          "description": "Plusieurs vulnérabilités critiques ont été corrigées dans les versions susmentionnées d’UniFi OS d’Ubiquiti. L’exploitation de ces failles pourrait permettre à un attaquant disposant d’un accès réseau…"
-        },
-        {
-          "title": "64632205/26 - Vulnérabilités critiques dans les plugins WordPress",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-plugins-wordpress-3",
-          "date": " ",
-          "description": "Plusieurs vulnérabilités critiques ont été corrigées dans divers plugins WordPress. Leur exploitation pourrait permettre à un attaquant distant d’obtenir des privilèges administrateur, d’exécuter des…"
-        },
-        {
-          "title": "64622205/26 - Vulnérabilités critiques dans Trend Micro Apex et Vision One",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-trend-micro-apex-et-vision-one",
-          "date": " ",
-          "description": "Plusieurs vulnérabilités critiques ont été corrigées dans les produits susmentionnés de Trend Micro. L’exploitation de ces failles pourrait permettre à un attaquant local ou distant d’élever ses…"
-        },
-        {
-          "title": "64612205/26 - Vulnérabilités dans Progress MOVEit Automation",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-progress-moveit-automation-0",
-          "date": " ",
-          "description": "Progress a publié des mises à jour de sécurité pour des vulnérabilités affectant MOVEit. L’exploitation réussie de ces failles permet à un attaquant distant non authentifié de provoquer un déni de…"
-        },
-        {
-          "title": "64602105/26 - Vulnérabilité dans Splunk Enterprise et Cloud Platform",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-splunk-enterprise-et-cloud-platform",
-          "date": " ",
-          "description": "Splunk a publié une mise à jour de sécurité pour corriger une vulnérabilité dans les versions susmentionnées de Splunk Enterprise et Splunk Cloud Platform. L’exploitation réussie de cette faille…"
-        },
-        {
-          "title": "64592105/26 - Vulnérabilités critiques dans Google Chrome",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-google-chrome-11",
-          "date": " ",
-          "description": "Google a publié des mises à jour de sécurité pour corriger plusieurs vulnérabilités critiques affectant Google chrome. L’exploitation de ces vulnérabilités peut permettre à un attaquant distant…"
-        },
-        {
-          "title": "64582105/26 - Vulnérabilités dans le DNS BIND9",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-le-dns-bind9-0",
-          "date": " ",
-          "description": "Plusieurs vulnérabilités ont été identifiées dans les versions susmentionnées des serveurs DNS ISC BIND 9 et BIND Supported Preview Edition. L’exploitation de ces failles peut permettre à un attaquant…"
-        },
-        {
-          "title": "64572105/26 - Vulnérabilités critiques dans les produits Microsoft",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-microsoft-0",
-          "date": " ",
-          "description": "Plusieurs vulnérabilités critiques ont été corrigées dans les produits susmentionnés de Microsoft. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du code arbitraire à distance,…"
-        },
-        {
-          "title": "64562105/26 - Vulnérabilité critique affectant le CMS Drupal",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-cms-drupal",
-          "date": " ",
-          "description": "Une vulnérabilité critique a été corrigée dans le noyau du CMS Drupal. La faille permet à un attaquant distant non authentifié d’exécuter une injection SQL pour accéder ou modifier les données des…"
+          "title": "2026-001: Critical vulnerabilities in Ivanti EPMM",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-001/",
+          "date": "Friday, January 30, 2026 10:09:06 AM CET",
+          "description": "On 29 January 2026, Ivanti released a security advisory addressing two critical vulnerabilities in their EPMM products. An attacker could exploit those flaws to achieve unauthenticated remote code execution on the vulnerable device. One of these vulnerabilities have been exploited in a limited number of cases."
         }
       ]
     },
@@ -598,6 +534,9 @@
           "description": "Visit link for details"
         }
       ]
+    },
+    "MA-CERT": {
+      "items": []
     }
   }
 }
