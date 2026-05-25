@@ -4,14 +4,14 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[cPanel security advisory (AV26-508)](https://www.cyber.gc.ca/en/alerts-advisories/cpanel-security-advisory-av26-508)|Visit link for details|2026-05-25|
+ |[Red Hat security advisory (AV26-507)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av26-507)|Visit link for details|2026-05-25|
+ |[[Control systems] CISA ICS security advisories (AV26–506)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av26-506)|Visit link for details|2026-05-25|
+ |[Ubuntu security advisory (AV26-505)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av26-505)|Visit link for details|2026-05-25|
+ |[Dell security advisory (AV26-504)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av26-504)|Visit link for details|2026-05-25|
+ |[Roundcube security advisory (AV26-503)](https://www.cyber.gc.ca/en/alerts-advisories/roundcube-security-advisory-av26-503)|Visit link for details|2026-05-25|
+ |[IBM security advisory (AV26-502)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av26-502-0)|Visit link for details|2026-05-25|
  |[Drupal security advisory (AV26-492) - Update 2](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av26-492)|Visit link for details|2026-05-22|
  |[F5 security advisory (AV26-501)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av26-501)|Visit link for details|2026-05-22|
  |[HPE security advisory (AV26-500)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av26-500)|Visit link for details|2026-05-22|
- |[cPanel security advisory (AV26-499)](https://www.cyber.gc.ca/en/alerts-advisories/cpanel-security-advisory-av26-499)|Visit link for details|2026-05-22|
- |[Ubiquiti security advisory (AV26-498)](https://www.cyber.gc.ca/en/alerts-advisories/ubiquiti-security-advisory-av26-498)|Visit link for details|2026-05-22|
- |[Microsoft Edge security advisory (AV26-497)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av26-497)|Visit link for details|2026-05-22|
- |[Trend Micro security advisory (AV26-494) – Update 1](https://www.cyber.gc.ca/en/alerts-advisories/trend-micro-security-advisory-av26-494)|Visit link for details|2026-05-21|
- |[ConnectWise security advisory (AV26-496)](https://www.cyber.gc.ca/en/alerts-advisories/connectwise-security-advisory-av26-496)|Visit link for details|2026-05-21|
- |[FreeBSD security advisory (AV26-495)](https://www.cyber.gc.ca/en/alerts-advisories/freebsd-security-advisory-av26-495)|Visit link for details|2026-05-21|
- |[Splunk security advisory (AV26-493)](https://www.cyber.gc.ca/en/alerts-advisories/splunk-security-advisory-av26-493)|Visit link for details|2026-05-20|
  
