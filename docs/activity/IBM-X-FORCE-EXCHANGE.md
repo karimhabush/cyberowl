@@ -4,11 +4,11 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Server-Side Template Injection (SSTI) vulnerability in Mautic's theme engine (CVE-2026-9558)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 29, 2026|
- |[Openshift/router: openshift/router: mtls client certificate spoofing via unstripped x-ssl-client headers on http frontend (CVE-2026-46579)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 29, 2026|
- |[Openshift/router: openshift/router: cloud metadata ssrf via fqdn-typed endpointslice bypasses destination validation (CVE-2026-42965)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 29, 2026|
- |[Server-Side Request Forgery (SSRF) vulnerability in Mautic's Focus component (CVE-2026-9557)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 29, 2026|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[Simple History – Track, Log, and Audit WordPress Changes <= 5.26.0 - Authenticated (Subscriber+) Account Takeover via Missing Authorization on Event Reaction Endpoint (CVE-2026-7459)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 30, 2026|
+ |[GEO my WP <= 4.5.5 - Unauthenticated SQL Injection via 'swlatlng' / 'nelatlng' Parameters (CVE-2026-9757)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 30, 2026|
+ |[sambitraj STUDENT-MANAGEMENT-SYSTEM Dashboard cross site scripting (CVE-2026-10112)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 30, 2026|
+ |[sambitraj STUDENT-MANAGEMENT-SYSTEM Login Page sql injection (CVE-2026-10111)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 30, 2026|
+ |[can: Local Denial of Service via SocketCAN Send (CVE-2026-5071)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 30, 2026|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
