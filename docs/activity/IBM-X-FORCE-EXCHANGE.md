@@ -4,12 +4,12 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Simple History – Track, Log, and Audit WordPress Changes <= 5.26.0 - Authenticated (Subscriber+) Account Takeover via Missing Authorization on Event Reaction Endpoint (CVE-2026-7459)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 30, 2026|
- |[GEO my WP <= 4.5.5 - Unauthenticated SQL Injection via 'swlatlng' / 'nelatlng' Parameters (CVE-2026-9757)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 30, 2026|
- |[sambitraj STUDENT-MANAGEMENT-SYSTEM Dashboard cross site scripting (CVE-2026-10112)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 30, 2026|
- |[sambitraj STUDENT-MANAGEMENT-SYSTEM Login Page sql injection (CVE-2026-10111)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 30, 2026|
- |[can: Local Denial of Service via SocketCAN Send (CVE-2026-5071)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 30, 2026|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[TRENDnet TEW-432BRP formSetWlanEncrypt stack-based overflow (CVE-2026-10179)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 31, 2026|
+ |[code-projects Online Music Site AdminEditAlbum.php sql injection (CVE-2026-10178)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 31, 2026|
+ |[Aider-AI Aider AWS EC2 Metadata Endpoint api_docs.py requests.get server-side request forgery (CVE-2026-10177)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 31, 2026|
+ |[Aider-AI Aider Code Generation Workflow sql injection (CVE-2026-10176)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 31, 2026|
+ |[Aider-AI Aider Architect Mode auth.py editor_coder.run code injection (CVE-2026-10175)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 31, 2026|
+ |[New vulnerability](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|May 31, 2026|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
