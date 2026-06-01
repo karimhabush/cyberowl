@@ -4,14 +4,14 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Plesk security advisory (AV26-534)](https://www.cyber.gc.ca/en/alerts-advisories/plesk-security-advisory-av26-534)|Visit link for details|2026-06-01|
+ |[Ivanti security advisory (AV26-533)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av26-533)|Visit link for details|2026-06-01|
+ |[Mozilla security advisory (AV26-532)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av26-532)|Visit link for details|2026-06-01|
+ |[Red Hat security advisory (AV26-531)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av26-531)|Visit link for details|2026-06-01|
+ |[[Control systems] CISA ICS security advisories (AV26–530)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av26-530)|Visit link for details|2026-06-01|
+ |[Ubuntu security advisory (AV26-529)](https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av26-529)|Visit link for details|2026-06-01|
+ |[Dell security advisory (AV26-528)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av26-528)|Visit link for details|2026-06-01|
+ |[IBM security advisory (AV26-527)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av26-527)|Visit link for details|2026-06-01|
+ |[Microsoft security advisory – May 2026 monthly rollup (AV26-456) – Update 2](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-may-2026-monthly-rollup-av26-456)|Visit link for details|2026-06-01|
  |[Palo Alto Networks security advisory (AV26-462) – Update 1](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av26-462)|Visit link for details|2026-05-29|
- |[AL26-013 Security incident impacting GitHub internal repositories](https://www.cyber.gc.ca/en/alerts-advisories/al26-013-security-incident-impacting-github-internal-repositories)|Visit link for details|2026-05-29|
- |[Oracle security advisory (AV26-526)](https://www.cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-av26-526)|Visit link for details|2026-05-29|
- |[Microsoft Edge security advisory (AV26-525)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av26-525)|Visit link for details|2026-05-29|
- |[Mitel security advisory (AV26-524)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av26-524)|Visit link for details|2026-05-28|
- |[Tanium security advisory (AV26-523)](https://www.cyber.gc.ca/en/alerts-advisories/tanium-security-advisory-av26-523)|Visit link for details|2026-05-28|
- |[Erlang security advisory (AV26-522)](https://www.cyber.gc.ca/en/alerts-advisories/erlang-security-advisory-av26-522)|Visit link for details|2026-05-28|
- |[Notepad++ security advisory (AV26-521)](https://www.cyber.gc.ca/en/alerts-advisories/notepad-security-advisory-av26-521)|Visit link for details|2026-05-28|
- |[Zimbra security advisory (AV26-520)](https://www.cyber.gc.ca/en/alerts-advisories/zimbra-security-advisory-av26-520)|Visit link for details|2026-05-28|
- |[Veeam security advisory (AV26-519)](https://www.cyber.gc.ca/en/alerts-advisories/veeam-security-advisory-av26-519)|Visit link for details|2026-05-28|
  

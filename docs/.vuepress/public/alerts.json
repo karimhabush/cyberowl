@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T15:30:27.084235+00:00",
+  "generated_at": "2026-06-01T16:53:54.044304+00:00",
   "sources": {
     "US-CERT": {
       "items": [
@@ -65,8 +65,178 @@
         }
       ]
     },
+    "IBM-X-FORCE-EXCHANGE": {
+      "items": [
+        {
+          "title": "Apache Fesod (Incubating): Improper validation of user-supplied URLs leading to SSRF (CVE-2026-49328)",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "Jun 1, 2026",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Credential Exposure Vulnerability in Trac PDBM (CVE-2026-25600)",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "Jun 1, 2026",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Missing authentication and clear‑text data transmission affecting Orca heat pumps (CVE-2026-25599)",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "Jun 1, 2026",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Cross-Site Request Forgery in SOPlanning (CVE-2026-40549)",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "Jun 1, 2026",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "New vulnerability",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "Jun 1, 2026",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "",
+          "description": "Visit link for details"
+        }
+      ]
+    },
+    "VulDB": {
+      "items": [
+        {
+          "title": "CVE-2026-10568  itsourcecode Fees Management System 1.0 /manage_payment.php ID sql injection",
+          "link": "https://vuldb.com/vuln/367675",
+          "date": "Mon, 01 Jun 2026 18:43:26 +0200",
+          "description": "A vulnerability was found in itsourcecode Fees Management System 1.0. It has been declared as critical. Affected is an unknown function of the file /manage_payment.php. The manipulation of the argumen"
+        },
+        {
+          "title": "CVE-2026-10567  1Panel-dev CordysCRM up to 1.4.1 ModuleFormController ModuleFormService.java save Description cross site scripting (Issue 2233)",
+          "link": "https://vuldb.com/vuln/367674",
+          "date": "Mon, 01 Jun 2026 18:41:57 +0200",
+          "description": "A vulnerability was found in 1Panel-dev CordysCRM up to 1.4.1. It has been classified as problematic. This impacts the function Save of the file src/main/java/cn/cordys/crm/system/service/ModuleFormSe"
+        },
+        {
+          "title": "CVE-2026-10566  FoundationAgents MetaGPT up to 0.8.2 metagpt/schema.py Message.check_instruct_content mapping deserialization (Issue 2038)",
+          "link": "https://vuldb.com/vuln/367673",
+          "date": "Mon, 01 Jun 2026 18:39:30 +0200",
+          "description": "A vulnerability was found in FoundationAgents MetaGPT up to 0.8.2 and classified as critical. This affects the function Message.check_instruct_content of the file metagpt/schema.py. Executing a manipu"
+        },
+        {
+          "title": "CVE-2026-10565  Open5GS up to 2.7.6 NGAP Handover src/amf/gmm-sm.c gmm_state_security_mode race condition (Issue 4497)",
+          "link": "https://vuldb.com/vuln/367672",
+          "date": "Mon, 01 Jun 2026 18:36:40 +0200",
+          "description": "A vulnerability has been found in Open5GS up to 2.7.6 and classified as problematic. The impacted element is the function gmm_state_security_mode of the file src/amf/gmm-sm.c of the component NGAP Han"
+        },
+        {
+          "title": "CVE-2026-48879  Sergey AIWU Plugin up to 1.4.17 on WordPress privileges assignment",
+          "link": "https://vuldb.com/vuln/367671",
+          "date": "Mon, 01 Jun 2026 17:32:32 +0200",
+          "description": "A vulnerability, which was classified as critical, was found in Sergey AIWU Plugin up to 1.4.17 on WordPress. The affected element is an unknown function. Such manipulation leads to incorrect privileg"
+        },
+        {
+          "title": "CVE-2026-48865  ThimPress LearnPress Plugin up to 4.3.6 on WordPress cross site scripting",
+          "link": "https://vuldb.com/vuln/367670",
+          "date": "Mon, 01 Jun 2026 17:32:23 +0200",
+          "description": "A vulnerability, which was classified as problematic, has been found in ThimPress LearnPress Plugin up to 4.3.6 on WordPress. Impacted is an unknown function. This manipulation causes cross site scrip"
+        },
+        {
+          "title": "CVE-2026-48839  VeronaLabs WP Statistics Plugin up to 14.16.6 on WordPress cross site scripting",
+          "link": "https://vuldb.com/vuln/367669",
+          "date": "Mon, 01 Jun 2026 17:32:20 +0200",
+          "description": "A vulnerability classified as problematic was found in VeronaLabs WP Statistics Plugin up to 14.16.6 on WordPress. This issue affects some unknown processing. The manipulation results in cross site sc"
+        },
+        {
+          "title": "CVE-2026-42683  e4jvikwp VikBooking Hotel Booking Engine & PMS Plugin up to 1.8.8 on WordPress cross site scripting",
+          "link": "https://vuldb.com/vuln/367668",
+          "date": "Mon, 01 Jun 2026 17:32:16 +0200",
+          "description": "A vulnerability classified as problematic has been found in e4jvikwp VikBooking Hotel Booking Engine & PMS Plugin up to 1.8.8 on WordPress. This vulnerability affects unknown code. The manipulation le"
+        },
+        {
+          "title": "CVE-2026-42681  e2pdf Plugin up to 1.32.14 on WordPress cross site scripting",
+          "link": "https://vuldb.com/vuln/367667",
+          "date": "Mon, 01 Jun 2026 17:32:11 +0200",
+          "description": "A vulnerability described as problematic has been identified in e2pdf Plugin up to 1.32.14 on WordPress. This affects an unknown part. Executing a manipulation can lead to cross site scripting.This"
+        },
+        {
+          "title": "CVE-2026-48559  epoupon lms up to 3.76.0 Web Interface src/lms/ui/Utils.cpp TextFormat::UnsafeXHTML cross site scripting (ID 844)",
+          "link": "https://vuldb.com/vuln/367666",
+          "date": "Mon, 01 Jun 2026 17:32:00 +0200",
+          "description": "A vulnerability marked as problematic has been reported in epoupon lms up to 3.76.0. Affected by this issue is the function TextFormat::UnsafeXHTML of the file src/lms/ui/Utils.cpp of the component We"
+        }
+      ]
+    },
     "CERT-FR": {
       "items": [
+        {
+          "title": "Multiples vulnérabilités dans les produits Microsoft",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0674/",
+          "date": "Publié le 01 juin 2026",
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
+        },
+        {
+          "title": "Vulnérabilité dans Microsoft Azure",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0673/",
+          "date": "Publié le 01 juin 2026",
+          "description": "Une vulnérabilité a été découverte dans Microsoft Azure. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
+        },
+        {
+          "title": "Multiples vulnérabilités dans les produits Mitel",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0672/",
+          "date": "Publié le 01 juin 2026",
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Mitel. Elles permettent à un attaquant de provoquer une élévation de privilèges."
+        },
+        {
+          "title": "Multiples vulnérabilités dans les produits NetApp",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0671/",
+          "date": "Publié le 01 juin 2026",
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits NetApp. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données."
+        },
+        {
+          "title": "Vulnérabilité dans Laravel",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0670/",
+          "date": "Publié le 01 juin 2026",
+          "description": "Une vulnérabilité a été découverte dans Laravel. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité."
+        },
+        {
+          "title": "Vulnérabilité dans Keycloak",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0669/",
+          "date": "Publié le 01 juin 2026",
+          "description": "Une vulnérabilité a été découverte dans Keycloak. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité."
+        },
+        {
+          "title": "Vulnérabilité dans Kaspersky Anti Targeted Attack Platform",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0668/",
+          "date": "Publié le 01 juin 2026",
+          "description": "Une vulnérabilité a été découverte dans Kaspersky Anti Targeted Attack Platform. Elle permet à un attaquant de provoquer un déni de service à distance."
+        },
         {
           "title": "Multiples vulnérabilités dans les produits IBM",
           "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0667/",
@@ -84,181 +254,23 @@
           "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0665/",
           "date": "Publié le 29 mai 2026",
           "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données."
-        },
-        {
-          "title": "Multiples vulnérabilités dans le noyau Linux de SUSE",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0664/",
-          "date": "Publié le 29 mai 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données."
-        },
-        {
-          "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0663/",
-          "date": "Publié le 29 mai 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données."
-        },
-        {
-          "title": "Multiples vulnérabilités dans Oracle Database Server",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0662/",
-          "date": "Publié le 29 mai 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans Oracle Database Server. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance."
-        },
-        {
-          "title": "Multiples vulnérabilités dans Elastic Kibana",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0661/",
-          "date": "Publié le 29 mai 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans Elastic Kibana. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données."
-        },
-        {
-          "title": "Multiples vulnérabilités dans les produits Mattermost",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0660/",
-          "date": "Publié le 29 mai 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Mattermost. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
-        },
-        {
-          "title": "Multiples vulnérabilités dans Centreon Web",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0659/",
-          "date": "Publié le 29 mai 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans Centreon Web. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité."
-        },
-        {
-          "title": "Multiples vulnérabilités dans GitLab",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0658/",
-          "date": "Publié le 28 mai 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans GitLab. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité."
-        }
-      ]
-    },
-    "VulDB": {
-      "items": [
-        {
-          "title": "CVE-2026-48726  Apache Airflow up to 3.2.1 FabAuthManager/KeycloakAuthManager revoke_token access control",
-          "link": "https://vuldb.com/vuln/367567",
-          "date": "Sun, 31 May 2026 16:47:01 +0200",
-          "description": "A vulnerability labeled as critical has been found in Apache Airflow up to 3.2.1. Affected by this issue is the function revoke_token of the component FabAuthManager/KeycloakAuthManager. The manipulat"
-        },
-        {
-          "title": "CVE-2026-46764  Apache Airflow up to 3.2.1 Event Log Detail Endpoint permission",
-          "link": "https://vuldb.com/vuln/367566",
-          "date": "Sun, 31 May 2026 16:46:37 +0200",
-          "description": "A vulnerability identified as problematic has been detected in Apache Airflow up to 3.2.1. Affected by this vulnerability is an unknown functionality of the component Event Log Detail Endpoint. The ma"
-        },
-        {
-          "title": "CVE-2026-45426  Apache Airflow up to 3.2.1 JWT lstrip authorization",
-          "link": "https://vuldb.com/vuln/367565",
-          "date": "Sun, 31 May 2026 16:46:02 +0200",
-          "description": "A vulnerability categorized as critical has been discovered in Apache Airflow up to 3.2.1. Affected is the function lstrip of the component JWT. Executing a manipulation can lead to authorization bypa"
-        },
-        {
-          "title": "CVE-2026-45360  Apache Airflow up to 3.2.1 Import deserialization",
-          "link": "https://vuldb.com/vuln/367564",
-          "date": "Sun, 31 May 2026 16:45:30 +0200",
-          "description": "A vulnerability was found in Apache Airflow up to 3.2.1. It has been rated as problematic. This impacts an unknown function of the component Import. Performing a manipulation results in deserializatio"
-        },
-        {
-          "title": "CVE-2026-42360  Apache Airflow up to 3.2.1 information disclosure",
-          "link": "https://vuldb.com/vuln/367563",
-          "date": "Sun, 31 May 2026 16:44:57 +0200",
-          "description": "A vulnerability was found in Apache Airflow up to 3.2.1. It has been declared as problematic. This affects an unknown function. Such manipulation leads to information disclosure.This vulnerability i"
-        },
-        {
-          "title": "CVE-2026-42359  Apache Airflow up to 3.2.1 XCom PATCH Endpoint",
-          "link": "https://vuldb.com/vuln/367562",
-          "date": "Sun, 31 May 2026 16:43:46 +0200",
-          "description": "A vulnerability was found in Apache Airflow up to 3.2.1. It has been classified as problematic. The impacted element is an unknown function of the component XCom PATCH Endpoint. This manipulation caus"
-        },
-        {
-          "title": "CVE-2026-42358  Apache Airflow up to 3.2.1 missing encryption",
-          "link": "https://vuldb.com/vuln/367561",
-          "date": "Sun, 31 May 2026 16:43:10 +0200",
-          "description": "A vulnerability was found in Apache Airflow up to 3.2.1 and classified as problematic. The affected element is an unknown function. The manipulation results in missing encryption of sensitive data.T"
-        },
-        {
-          "title": "CVE-2026-42252  Apache Airflow up to 3.2.1 BashOperator dag_run.conf special elements used in a template engine",
-          "link": "https://vuldb.com/vuln/367560",
-          "date": "Sun, 31 May 2026 16:40:51 +0200",
-          "description": "A vulnerability has been found in Apache Airflow up to 3.2.1 and classified as critical. Impacted is an unknown function of the file dag_run.conf of the component BashOperator. The manipulation leads"
-        },
-        {
-          "title": "CVE-2026-41084  Apache Airflow up to 3.2.1 TaskInstances authorization",
-          "link": "https://vuldb.com/vuln/367559",
-          "date": "Sun, 31 May 2026 16:40:29 +0200",
-          "description": "A vulnerability, which was classified as problematic, was found in Apache Airflow up to 3.2.1. This issue affects some unknown processing of the component TaskInstances. Executing a manipulation can l"
-        },
-        {
-          "title": "CVE-2026-41017  Apache Airflow up to 3.2.1 JWTRefreshMiddleware missing secure attribute",
-          "link": "https://vuldb.com/vuln/367558",
-          "date": "Sun, 31 May 2026 16:40:04 +0200",
-          "description": "A vulnerability, which was classified as problematic, has been found in Apache Airflow up to 3.2.1. This vulnerability affects unknown code of the component JWTRefreshMiddleware. Performing a manipula"
-        }
-      ]
-    },
-    "IBM-X-FORCE-EXCHANGE": {
-      "items": [
-        {
-          "title": "TRENDnet TEW-432BRP formSetWlanEncrypt stack-based overflow (CVE-2026-10179)",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "May 31, 2026",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "code-projects Online Music Site AdminEditAlbum.php sql injection (CVE-2026-10178)",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "May 31, 2026",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Aider-AI Aider AWS EC2 Metadata Endpoint api_docs.py requests.get server-side request forgery (CVE-2026-10177)",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "May 31, 2026",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Aider-AI Aider Code Generation Workflow sql injection (CVE-2026-10176)",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "May 31, 2026",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Aider-AI Aider Architect Mode auth.py editor_coder.run code injection (CVE-2026-10175)",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "May 31, 2026",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "New vulnerability",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "May 31, 2026",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "",
-          "description": "Visit link for details"
         }
       ]
     },
     "HK-CERT": {
       "items": [
+        {
+          "title": "SUSE Linux Kernel Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20260601",
+          "date": "Release Date: 1 Jun 2026 ",
+          "description": "Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, denial of service condition, elevation of privilege, security restriction bypass, sensitive information disclosure, remote code execution and data manipulation on the..."
+        },
+        {
+          "title": "Palo Alto Products Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/palo-alto-products-multiple-vulnerabilities_20260514",
+          "date": " Release Date: 14 May 2026 ",
+          "description": "Multiple vulnerabilities were identified in Palo Alto Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, remote code execution, cross-site scripting and security restriction bypass on the targeted system. Note:CVE-..."
+        },
         {
           "title": "RedHat Linux Kernel Multiple Vulnerabilities",
           "link": "https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20260508",
@@ -306,128 +318,70 @@
           "link": "https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20260511",
           "date": " Release Date: 11 May 2026 ",
           "description": "Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, denial of service condition, remote code execution, security restriction bypass and elevation of privilege on the targeted system.  Note: CVE-2026..."
-        },
-        {
-          "title": "SUSE Linux Kernel Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20260506",
-          "date": " Release Date: 6 May 2026 ",
-          "description": "Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, security restriction bypass, sensitive information disclosure,  remote code execution and data manipulation on the targeted system. Note: ..."
-        },
-        {
-          "title": "Nginx Remote Code Execution Vulnerability",
-          "link": "https://www.hkcert.org/security-bulletin/nginx-remote-code-execution-vulnerability_20260527",
-          "date": "Release Date: 27 May 2026 ",
-          "description": "A vulnerability was identified in Nginx. A remote attacker could exploit this vulnerability to trigger remote code execution,  security restriction bypass, sensitive information disclosure and denial of service condition on the targeted system."
-        }
-      ]
-    },
-    "ZERODAYINITIATIVE": {
-      "items": [
-        {
-          "title": "TrendAI Vision One Security Agent Time-Of-Check Time-Of-Use Local Privilege Escalation Vulnerability",
-          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-326/",
-          "date": "2026-05-28",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "TrendAI Vision One Security Agent Origin Validation Error Local Privilege Escalation Vulnerability",
-          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-325/",
-          "date": "2026-05-28",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "TrendAI Vision One Security Agent Origin Validation Error Local Privilege Escalation Vulnerability",
-          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-324/",
-          "date": "2026-05-28",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "TrendAI Vision One Security Agent Origin Validation Error Local Privilege Escalation Vulnerability",
-          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-323/",
-          "date": "2026-05-28",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "TrendAI Vision One Security Agent Origin Validation Error Local Privilege Escalation Vulnerability",
-          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-322/",
-          "date": "2026-05-28",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "TrendAI Vision One Security Agent Origin Validation Error Local Privilege Escalation Vulnerability",
-          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-321/",
-          "date": "2026-05-28",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "TrendAI Vision One Security Agent Origin Validation Error Local Privilege Escalation Vulnerability",
-          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-320/",
-          "date": "2026-05-28",
-          "description": "Visit link for details"
         }
       ]
     },
     "OBS-Vigilance": {
       "items": [
         {
-          "title": "Kea: denial of service via API Socket",
-          "link": "https://vigilance.fr/vulnerability/Kea-denial-of-service-via-API-Socket-50293",
+          "title": "Drupal SAML SSO: privilege escalation dated 01/04/2026",
+          "link": "https://vigilance.fr/vulnerability/Drupal-SAML-SSO-privilege-escalation-dated-01-04-2026-50319",
           "date": "Visit link for details",
-          "description": "An attacker can cause a fatal error of Kea, via API Socket, in order to trigger a denial of service..."
+          "description": "An attacker can bypass restrictions of Drupal SAML SSO, dated 01/04/2026, in order to escalate his privileges..."
         },
         {
-          "title": "GStreamer: buffer overflow via DVB Subtitles",
-          "link": "https://vigilance.fr/vulnerability/GStreamer-buffer-overflow-via-DVB-Subtitles-50292",
+          "title": "ISC BIND: denial of service via Reconfiguring Zone Update Policy",
+          "link": "https://vigilance.fr/vulnerability/ISC-BIND-denial-of-service-via-Reconfiguring-Zone-Update-Policy-50318",
           "date": "Visit link for details",
-          "description": "An attacker can trigger a buffer overflow of GStreamer, via DVB Subtitles, in order to trigger a denial of service, and possibly to run code..."
+          "description": "An attacker can cause a fatal error of ISC BIND, via Reconfiguring Zone Update Policy, in order to trigger a denial of service..."
         },
         {
-          "title": "GStreamer: buffer overflow via JPEG Parser",
-          "link": "https://vigilance.fr/vulnerability/GStreamer-buffer-overflow-via-JPEG-Parser-50291",
+          "title": "Black: code execution via GitHub Action",
+          "link": "https://vigilance.fr/vulnerability/Black-code-execution-via-GitHub-Action-50317",
           "date": "Visit link for details",
-          "description": "An attacker can trigger a buffer overflow of GStreamer, via JPEG Parser, in order to trigger a denial of service, and possibly to run code..."
+          "description": "An attacker can use a vulnerability of Black, via GitHub Action, in order to run code..."
         },
         {
-          "title": "TeamPass: two vulnerabilities dated 31/03/2026",
-          "link": "https://vigilance.fr/vulnerability/TeamPass-two-vulnerabilities-dated-31-03-2026-50290",
+          "title": "ECKI net-tools: buffer overflow via proc_gen_fmt()",
+          "link": "https://vigilance.fr/vulnerability/ECKI-net-tools-buffer-overflow-via-proc-gen-fmt-50316",
           "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of TeamPass, dated 31/03/2026..."
+          "description": "An attacker can trigger a buffer overflow of ECKI net-tools, via proc_gen_fmt(), in order to trigger a denial of service, and possibly to run code..."
         },
         {
-          "title": "Synology DSM: file read/write via Mail Station",
-          "link": "https://vigilance.fr/vulnerability/Synology-DSM-file-read-write-via-Mail-Station-50289",
+          "title": "ECKI net-tools: buffer overflow via parse_hex()",
+          "link": "https://vigilance.fr/vulnerability/ECKI-net-tools-buffer-overflow-via-parse-hex-50315",
           "date": "Visit link for details",
-          "description": "An attacker can bypass access restrictions of Synology DSM, via Mail Station, in order to read or alter files..."
+          "description": "An attacker can trigger a buffer overflow of ECKI net-tools, via parse_hex(), in order to trigger a denial of service, and possibly to run code..."
         },
         {
-          "title": "ntpd-rs: overload via NTS Packet Cookies",
-          "link": "https://vigilance.fr/vulnerability/ntpd-rs-overload-via-NTS-Packet-Cookies-50288",
+          "title": "Linux kernel: multiple vulnerabilities dated 01/04/2026",
+          "link": "https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-01-04-2026-50314",
           "date": "Visit link for details",
-          "description": "An attacker can trigger an overload of ntpd-rs, via NTS Packet Cookies, in order to trigger a denial of service..."
+          "description": "An attacker can use several vulnerabilities of the Linux kernel, dated 01/04/2026..."
         },
         {
-          "title": "Hono: information disclosure via Serve Static Middleware",
-          "link": "https://vigilance.fr/vulnerability/Hono-information-disclosure-via-Serve-Static-Middleware-50287",
+          "title": "Python Tornado: read-write access via Cookie Attributes",
+          "link": "https://vigilance.fr/vulnerability/Python-Tornado-read-write-access-via-Cookie-Attributes-50313",
           "date": "Visit link for details",
-          "description": "An attacker can bypass access restrictions to data of Hono, via Serve Static Middleware, in order to read sensitive information..."
+          "description": "An attacker can bypass access restrictions of Python Tornado, via Cookie Attributes, in order to read or alter data..."
         },
         {
-          "title": "Hono: information disclosure via Cache Middleware",
-          "link": "https://vigilance.fr/vulnerability/Hono-information-disclosure-via-Cache-Middleware-50286",
+          "title": "minimatch: overload via Nested Extglobs",
+          "link": "https://vigilance.fr/vulnerability/minimatch-overload-via-Nested-Extglobs-50312",
           "date": "Visit link for details",
-          "description": "An attacker can bypass access restrictions to data of Hono, via Cache Middleware, in order to read sensitive information..."
+          "description": "An attacker can trigger an overload of minimatch, via Nested Extglobs, in order to trigger a denial of service..."
         },
         {
-          "title": "Hono: ingress filtering bypass via IP Restriction Middleware",
-          "link": "https://vigilance.fr/vulnerability/Hono-ingress-filtering-bypass-via-IP-Restriction-Middleware-50285",
+          "title": "SVGO: overload via Entity Expansion",
+          "link": "https://vigilance.fr/vulnerability/SVGO-overload-via-Entity-Expansion-50311",
           "date": "Visit link for details",
-          "description": "An attacker can bypass filtering rules of Hono, via IP Restriction Middleware, in order to send malicious data..."
+          "description": "An attacker can trigger an overload of SVGO, via Entity Expansion, in order to trigger a denial of service..."
         },
         {
-          "title": "qs: denial of service via arrayLimit",
-          "link": "https://vigilance.fr/vulnerability/qs-denial-of-service-via-arrayLimit-50284",
+          "title": "Broadcom LSI PCI-SV92EX Soft Modem Kernel Driver: privilege escalation via AGRSM64.sys",
+          "link": "https://vigilance.fr/vulnerability/Broadcom-LSI-PCI-SV92EX-Soft-Modem-Kernel-Driver-privilege-escalation-via-AGRSM64-sys-50310",
           "date": "Visit link for details",
-          "description": "An attacker can cause a fatal error of qs, via arrayLimit, in order to trigger a denial of service..."
+          "description": "An attacker can bypass restrictions of Broadcom LSI PCI-SV92EX Soft Modem Kernel Driver, via AGRSM64.sys, in order to escalate his privileges..."
         }
       ]
     },
@@ -474,62 +428,108 @@
     "CA-CCS": {
       "items": [
         {
+          "title": "Plesk security advisory (AV26-534)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/plesk-security-advisory-av26-534",
+          "date": "2026-06-01",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Ivanti security advisory (AV26-533)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av26-533",
+          "date": "2026-06-01",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Mozilla security advisory (AV26-532)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av26-532",
+          "date": "2026-06-01",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Red Hat security advisory (AV26-531)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av26-531",
+          "date": "2026-06-01",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "[Control systems] CISA ICS security advisories (AV26–530)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av26-530",
+          "date": "2026-06-01",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Ubuntu security advisory (AV26-529)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av26-529",
+          "date": "2026-06-01",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Dell security advisory (AV26-528)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av26-528",
+          "date": "2026-06-01",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "IBM security advisory (AV26-527)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av26-527",
+          "date": "2026-06-01",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Microsoft security advisory – May 2026 monthly rollup (AV26-456) – Update 2",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-may-2026-monthly-rollup-av26-456",
+          "date": "2026-06-01",
+          "description": "Visit link for details"
+        },
+        {
           "title": "Palo Alto Networks security advisory (AV26-462) – Update 1",
           "link": "https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av26-462",
           "date": "2026-05-29",
           "description": "Visit link for details"
-        },
+        }
+      ]
+    },
+    "ZERODAYINITIATIVE": {
+      "items": [
         {
-          "title": "AL26-013 Security incident impacting GitHub internal repositories",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/al26-013-security-incident-impacting-github-internal-repositories",
-          "date": "2026-05-29",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Oracle security advisory (AV26-526)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-av26-526",
-          "date": "2026-05-29",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Microsoft Edge security advisory (AV26-525)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av26-525",
-          "date": "2026-05-29",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Mitel security advisory (AV26-524)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av26-524",
+          "title": "TrendAI Vision One Security Agent Time-Of-Check Time-Of-Use Local Privilege Escalation Vulnerability",
+          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-326/",
           "date": "2026-05-28",
           "description": "Visit link for details"
         },
         {
-          "title": "Tanium security advisory (AV26-523)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/tanium-security-advisory-av26-523",
+          "title": "TrendAI Vision One Security Agent Origin Validation Error Local Privilege Escalation Vulnerability",
+          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-325/",
           "date": "2026-05-28",
           "description": "Visit link for details"
         },
         {
-          "title": "Erlang security advisory (AV26-522)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/erlang-security-advisory-av26-522",
+          "title": "TrendAI Vision One Security Agent Origin Validation Error Local Privilege Escalation Vulnerability",
+          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-324/",
           "date": "2026-05-28",
           "description": "Visit link for details"
         },
         {
-          "title": "Notepad++ security advisory (AV26-521)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/notepad-security-advisory-av26-521",
+          "title": "TrendAI Vision One Security Agent Origin Validation Error Local Privilege Escalation Vulnerability",
+          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-323/",
           "date": "2026-05-28",
           "description": "Visit link for details"
         },
         {
-          "title": "Zimbra security advisory (AV26-520)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/zimbra-security-advisory-av26-520",
+          "title": "TrendAI Vision One Security Agent Origin Validation Error Local Privilege Escalation Vulnerability",
+          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-322/",
           "date": "2026-05-28",
           "description": "Visit link for details"
         },
         {
-          "title": "Veeam security advisory (AV26-519)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/veeam-security-advisory-av26-519",
+          "title": "TrendAI Vision One Security Agent Origin Validation Error Local Privilege Escalation Vulnerability",
+          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-321/",
+          "date": "2026-05-28",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "TrendAI Vision One Security Agent Origin Validation Error Local Privilege Escalation Vulnerability",
+          "link": "https://www.zerodayinitiative.com/advisories/ZDI-26-320/",
           "date": "2026-05-28",
           "description": "Visit link for details"
         }
