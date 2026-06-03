@@ -4,11 +4,11 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Improper URL Handler Processing in D.Launcher 2 enables NTLM Credential Disclosure and SSRF attacks (CVE-2026-8993)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 2, 2026|
- |[WordPress Aperitif theme <= 1.6 - PHP Object Injection vulnerability (CVE-2026-39550)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 2, 2026|
- |[WordPress WP Job Portal plugin <= 2.5.1 - Cross Site Scripting (XSS) vulnerability (CVE-2026-42685)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 2, 2026|
- |[WordPress WP Job Portal plugin <= 2.5.1 - SQL Injection vulnerability (CVE-2026-42684)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 2, 2026|
- |[WordPress Five Star Restaurant Reservations plugin <= 2.7.14 - Payment Bypass vulnerability (CVE-2026-42670)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 2, 2026|
+ |[Phoenix Contact: Unauthenticated log download vulnerability in the firmware of CHARX SEC-3xxx charging controllers (CVE-2026-41032)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 3, 2026|
+ |[Communication analysis between the Card Reader and TP2CardReaderService daemon (CVE-2025-14774)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 3, 2026|
+ |[Apache MINA: Critical Deserialization Allow-list Bypass via resolveProxyClass - ZDRES-232 (CVE-2026-47065)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 3, 2026|
+ |[Broken Access Control in ABB T-MAC Plus web application (CVE-2025-14772)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 3, 2026|
+ |[WordPress School Management plugin <= 93.2.0 - SQL Injection vulnerability (CVE-2025-15655)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 3, 2026|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
