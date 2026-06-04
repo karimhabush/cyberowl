@@ -4,12 +4,12 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Phoenix Contact: Unauthenticated log download vulnerability in the firmware of CHARX SEC-3xxx charging controllers (CVE-2026-41032)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 3, 2026|
- |[Communication analysis between the Card Reader and TP2CardReaderService daemon (CVE-2025-14774)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 3, 2026|
- |[Apache MINA: Critical Deserialization Allow-list Bypass via resolveProxyClass - ZDRES-232 (CVE-2026-47065)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 3, 2026|
- |[Broken Access Control in ABB T-MAC Plus web application (CVE-2025-14772)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 3, 2026|
- |[WordPress School Management plugin <= 93.2.0 - SQL Injection vulnerability (CVE-2025-15655)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 3, 2026|
- |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
+ |[WordPress WP eMember plugin <= v10.2.2 - Sensitive Data Exposure vulnerability (CVE-2026-49077)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 4, 2026|
+ |[WordPress Photo Gallery by 10Web plugin <= 1.8.41 - SQL Injection vulnerability (CVE-2026-49771)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 4, 2026|
+ |[Out-of-bounds write vulnerability in Samsung Open Source rlottie (CVE-2026-8916)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 4, 2026|
+ |[Stack-based buffer overflow vulnerability in Samsung Open Source rlottie (CVE-2026-47318)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 4, 2026|
+ |[Uncontrolled Recursion vulnerability in Samsung Open Source rlottie (CVE-2026-47306)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 4, 2026|
+ |[New vulnerability](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 4, 2026|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
