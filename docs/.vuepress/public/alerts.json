@@ -1,70 +1,6 @@
 {
-  "generated_at": "2026-06-05T16:01:31.285027+00:00",
+  "generated_at": "2026-06-06T15:29:39.850473+00:00",
   "sources": {
-    "US-CERT": {
-      "items": [
-        {
-          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/06/03/cisa-adds-one-known-exploited-vulnerability-catalog",
-          "date": "Jun 03, 2026",
-          "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/06/02/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-          "date": "Jun 02, 2026",
-          "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/06/01/cisa-adds-one-known-exploited-vulnerability-catalog",
-          "date": "Jun 01, 2026",
-          "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/05/29/cisa-adds-one-known-exploited-vulnerability-catalog",
-          "date": "May 29, 2026",
-          "description": "Visit link for details."
-        },
-        {
-          "title": "Supply Chain Compromises Impact Nx Console and GitHub Repositories",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/05/28/supply-chain-compromises-impact-nx-console-and-github-repositories",
-          "date": "May 28, 2026",
-          "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/05/27/cisa-adds-three-known-exploited-vulnerabilities-catalog",
-          "date": "May 27, 2026",
-          "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/05/26/cisa-adds-one-known-exploited-vulnerability-catalog",
-          "date": "May 26, 2026",
-          "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/05/22/cisa-adds-one-known-exploited-vulnerability-catalog",
-          "date": "May 22, 2026",
-          "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/05/21/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-          "date": "May 21, 2026",
-          "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds Seven Known Exploited Vulnerabilities to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/05/20/cisa-adds-seven-known-exploited-vulnerabilities-catalog",
-          "date": "May 20, 2026",
-          "description": "Visit link for details."
-        }
-      ]
-    },
     "CERT-FR": {
       "items": [
         {
@@ -129,106 +65,106 @@
         }
       ]
     },
-    "VulDB": {
+    "US-CERT": {
       "items": [
         {
-          "title": "CVE-2026-6207  HAVELSAN Geographic Tracking System up to 0.0.1 response discrepancy",
-          "link": "https://vuldb.com/vuln/368935",
-          "date": "Fri, 05 Jun 2026 17:04:50 +0200",
-          "description": "A vulnerability was found in HAVELSAN Geographic Tracking System up to 0.0.1. It has been declared as problematic. Impacted is an unknown function. The manipulation results in observable response disc"
+          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/06/05/cisa-adds-one-known-exploited-vulnerability-catalog",
+          "date": "Jun 05, 2026",
+          "description": "Visit link for details."
         },
         {
-          "title": "CVE-2026-6209  HAVELSAN Geographic Tracking System up to 0.0.1 access control",
-          "link": "https://vuldb.com/vuln/368934",
-          "date": "Fri, 05 Jun 2026 17:04:40 +0200",
-          "description": "A vulnerability was found in HAVELSAN Geographic Tracking System up to 0.0.1. It has been classified as critical. This issue affects some unknown processing. The manipulation leads to improper access"
+          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/06/03/cisa-adds-one-known-exploited-vulnerability-catalog",
+          "date": "Jun 03, 2026",
+          "description": "Visit link for details."
         },
         {
-          "title": "CVE-2026-6208  HAVELSAN Geographic Tracking System up to 0.0.1 authorization",
-          "link": "https://vuldb.com/vuln/368933",
-          "date": "Fri, 05 Jun 2026 17:04:35 +0200",
-          "description": "A vulnerability was found in HAVELSAN Geographic Tracking System up to 0.0.1 and classified as critical. This vulnerability affects unknown code. Executing a manipulation can lead to authorization byp"
+          "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/06/02/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+          "date": "Jun 02, 2026",
+          "description": "Visit link for details."
         },
         {
-          "title": "CVE-2026-50231  LMS Community Lyrion Music Server 9.2.0 Query Parameter cross site scripting (ZSL-2026-5989)",
-          "link": "https://vuldb.com/vuln/368932",
-          "date": "Fri, 05 Jun 2026 17:02:30 +0200",
-          "description": "A vulnerability has been found in LMS Community Lyrion Music Server 9.2.0 and classified as problematic. This affects an unknown part of the component Query Parameter Handler. Performing a manipulatio"
+          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/06/01/cisa-adds-one-known-exploited-vulnerability-catalog",
+          "date": "Jun 01, 2026",
+          "description": "Visit link for details."
         },
         {
-          "title": "CVE-2026-50232  LMS Community Lyrion Music Server 9.2.0 Web Interface cross site scripting (ZSL-2026-5990)",
-          "link": "https://vuldb.com/vuln/368931",
-          "date": "Fri, 05 Jun 2026 17:02:19 +0200",
-          "description": "A vulnerability, which was classified as problematic, was found in LMS Community Lyrion Music Server 9.2.0. Affected by this issue is some unknown functionality of the component Web Interface. Such ma"
+          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/05/29/cisa-adds-one-known-exploited-vulnerability-catalog",
+          "date": "May 29, 2026",
+          "description": "Visit link for details."
         },
         {
-          "title": "CVE-2026-50235  LMS Community Lyrion Music Server 9.2.0 Search Parameter cross site scripting (ZSL-2026-5993 / EUVD-2026-34834)",
-          "link": "https://vuldb.com/vuln/368930",
-          "date": "Fri, 05 Jun 2026 17:02:07 +0200",
-          "description": "A vulnerability, which was classified as problematic, has been found in LMS Community Lyrion Music Server 9.2.0. Affected by this vulnerability is an unknown functionality of the component Search Para"
+          "title": "Supply Chain Compromises Impact Nx Console and GitHub Repositories",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/05/28/supply-chain-compromises-impact-nx-console-and-github-repositories",
+          "date": "May 28, 2026",
+          "description": "Visit link for details."
         },
         {
-          "title": "CVE-2026-50230  LMS Community Lyrion Music Server 9.2.0 Parameter server.log Search cross site scripting (ZSL-2026-5988)",
-          "link": "https://vuldb.com/vuln/368929",
-          "date": "Fri, 05 Jun 2026 17:01:57 +0200",
-          "description": "A vulnerability classified as problematic was found in LMS Community Lyrion Music Server 9.2.0. Affected is an unknown function of the file server.log of the component Parameter Handler. The manipulat"
+          "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/05/27/cisa-adds-three-known-exploited-vulnerabilities-catalog",
+          "date": "May 27, 2026",
+          "description": "Visit link for details."
         },
         {
-          "title": "CVE-2026-10879  HMBRAND DBI up to 1.647 on Perl Placeholder preparse out-of-bounds write",
-          "link": "https://vuldb.com/vuln/368928",
-          "date": "Fri, 05 Jun 2026 17:01:43 +0200",
-          "description": "A vulnerability classified as critical has been found in HMBRAND DBI up to 1.647 on Perl. This impacts the function preparse of the component Placeholder Handler. The manipulation leads to out-of-boun"
+          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/05/26/cisa-adds-one-known-exploited-vulnerability-catalog",
+          "date": "May 26, 2026",
+          "description": "Visit link for details."
         },
         {
-          "title": "CVE-2025-59174  Ericsson Packet Core Controller up to 1.38 Messages syntactically invalid structure",
-          "link": "https://vuldb.com/vuln/368927",
-          "date": "Fri, 05 Jun 2026 17:01:33 +0200",
-          "description": "A vulnerability described as problematic has been identified in Ericsson Packet Core Controller up to 1.38. This affects an unknown function of the component Messages Handler. Executing a manipulation"
+          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/05/22/cisa-adds-one-known-exploited-vulnerability-catalog",
+          "date": "May 22, 2026",
+          "description": "Visit link for details."
         },
         {
-          "title": "CVE-2020-25900  HelloTalk up to 3.4.1 private personal information",
-          "link": "https://vuldb.com/vuln/368926",
-          "date": "Fri, 05 Jun 2026 17:01:22 +0200",
-          "description": "A vulnerability marked as problematic has been reported in HelloTalk up to 3.4.1. The impacted element is an unknown function. Performing a manipulation results in exposure of private personal informa"
+          "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/05/21/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+          "date": "May 21, 2026",
+          "description": "Visit link for details."
         }
       ]
     },
     "IBM-X-FORCE-EXCHANGE": {
       "items": [
         {
-          "title": "Insufficient policy enforcement in Web Bluetooth in Google Chrome (CVE-2026-11236)",
+          "title": "Jinher OA GetFormSn.aspx sql injection (CVE-2026-11412)",
           "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "Jun 4, 2026",
+          "date": "Jun 6, 2026",
           "description": "Visit link for details"
         },
         {
-          "title": "Insufficient validation of untrusted input in Media in Google Chrome (CVE-2026-11237)",
+          "title": "iAI Lab PDF AI App chatpdf.pro getExternalCacheDir path traversal (CVE-2026-11411)",
           "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "Jun 4, 2026",
+          "date": "Jun 6, 2026",
           "description": "Visit link for details"
         },
         {
-          "title": "Inappropriate implementation in FoldableAPIs in Google Chrome (CVE-2026-11234)",
+          "title": "vertex-app vertex Log Viewer Endpoint LogMod.js os command injection (CVE-2026-11408)",
           "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "Jun 4, 2026",
+          "date": "Jun 6, 2026",
           "description": "Visit link for details"
         },
         {
-          "title": "Insufficient policy enforcement in Compositing in Google Chrome prior to 149.0.7827.53 (CVE-2026-11235)",
+          "title": "Protocol::HTTP2 versions through 1.12 for Perl is vulnerable to a HTTP/2 Bomb (CVE-2026-10725)",
           "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "Jun 4, 2026",
+          "date": "Jun 6, 2026",
           "description": "Visit link for details"
         },
         {
-          "title": "Insufficient policy enforcement in FoldableAPIs in Google Chrome (CVE-2026-11233)",
+          "title": "Photo Gallery by 10Web <= 1.8.41 - Authenticated (Contributor+) SQL Injection via 'compact_album_order_by' Shortcode Parameter (CVE-2026-9829)",
           "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "Jun 4, 2026",
+          "date": "Jun 6, 2026",
           "description": "Visit link for details"
         },
         {
           "title": "New vulnerability",
           "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "Jun 4, 2026",
+          "date": "Jun 6, 2026",
           "description": "Visit link for details"
         },
         {
@@ -257,67 +193,67 @@
         }
       ]
     },
-    "OBS-Vigilance": {
+    "VulDB": {
       "items": [
         {
-          "title": "python-dotenv: file corruption via set_key()",
-          "link": "https://vigilance.fr/vulnerability/python-dotenv-file-corruption-via-set-key-51103",
-          "date": "Visit link for details",
-          "description": "An attacker can create a symbolic link, in order to alter the pointed file, with privileges of python-dotenv, via set_key()..."
+          "title": "CVE-2026-11453  Tiobon Employee Self-Service System up to 7.2 Login Endpoint /Blog/BlogSearch.aspx Keyword sql injection",
+          "link": "https://vuldb.com/vuln/369073",
+          "date": "Sat, 06 Jun 2026 12:46:00 +0200",
+          "description": "A vulnerability was found in Tiobon Employee Self-Service System up to 7.2 and classified as critical. Affected by this vulnerability is an unknown functionality of the file /Blog/BlogSearch.aspx of t"
         },
         {
-          "title": "FreeRDP: two vulnerabilities dated 03/04/2026",
-          "link": "https://vigilance.fr/vulnerability/FreeRDP-two-vulnerabilities-dated-03-04-2026-50348",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of FreeRDP, dated 03/04/2026..."
+          "title": "CVE-2026-11452  GL.iNet GL-MT3000 up to 4.4.5 SET_USER_PWD /cgi-bin/glc FUN_0042e200 Password command injection",
+          "link": "https://vuldb.com/vuln/369072",
+          "date": "Sat, 06 Jun 2026 12:38:42 +0200",
+          "description": "A vulnerability has been found in GL.iNet GL-MT3000 up to 4.4.5 and classified as critical. Affected is the function FUN_0042e200 of the file /cgi-bin/glc of the component SET_USER_PWD Handler. The ma"
         },
         {
-          "title": "FreeRDP: three vulnerabilities dated 03/04/2026",
-          "link": "https://vigilance.fr/vulnerability/FreeRDP-three-vulnerabilities-dated-03-04-2026-50347",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of FreeRDP, dated 03/04/2026..."
+          "title": "CVE-2026-11451  GL.iNet GL-MT3000 4.4.5 FTP Protocol /cgi-bin/glc snprintf media_dir command injection",
+          "link": "https://vuldb.com/vuln/369071",
+          "date": "Sat, 06 Jun 2026 12:38:39 +0200",
+          "description": "A vulnerability, which was classified as critical, was found in GL.iNet GL-MT3000 4.4.5. This impacts the function snprintf of the file /cgi-bin/glc of the component FTP Protocol Handler. Executing a"
         },
         {
-          "title": "Linux kernel: multiple vulnerabilities dated 03/04/2026",
-          "link": "https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-03-04-2026-50345",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of the Linux kernel, dated 03/04/2026..."
+          "title": "CVE-2026-11450  GL.iNet GL-MT3000 4.4.5 Path Normalization /usr/lib/oui-httpd/rpc/ dlopen dev_name command injection",
+          "link": "https://vuldb.com/vuln/369070",
+          "date": "Sat, 06 Jun 2026 12:38:37 +0200",
+          "description": "A vulnerability, which was classified as critical, has been found in GL.iNet GL-MT3000 4.4.5. This affects the function dlopen in the library /usr/lib/oui-httpd/rpc/ of the component Path Normalizatio"
         },
         {
-          "title": "MariaDB: denial of service via caching_sha2_password",
-          "link": "https://vigilance.fr/vulnerability/MariaDB-denial-of-service-via-caching-sha2-password-50343",
-          "date": "Visit link for details",
-          "description": "An attacker can cause a fatal error of MariaDB, via caching_sha2_"
+          "title": "CVE-2026-11449  GL.iNet GL-MT3000 4.4.5 LuCI JSON-RPC Interface /cgi-bin/luci/rpc rpc_sys command injection",
+          "link": "https://vuldb.com/vuln/369069",
+          "date": "Sat, 06 Jun 2026 12:38:34 +0200",
+          "description": "A vulnerability classified as critical was found in GL.iNet GL-MT3000 4.4.5. The impacted element is the function rpc_sys of the file /cgi-bin/luci/rpc of the component LuCI JSON-RPC Interface. Such m"
         },
         {
-          "title": "Google Android  Pixel: multiple vulnerabilities of September 2025",
-          "link": "https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-September-2025-48111",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of Google Android  Pixel..."
+          "title": "CVE-2026-11448  GL.iNet GL-MT3000 up to 4.4.5 Minidlna Service /rpc realpath kube. set command injection",
+          "link": "https://vuldb.com/vuln/369068",
+          "date": "Sat, 06 Jun 2026 12:38:31 +0200",
+          "description": "A vulnerability classified as critical has been found in GL.iNet GL-MT3000 up to 4.4.5. The affected element is the function realpath of the file /rpc of the component Minidlna Service. This manipulat"
         },
         {
-          "title": "Chrome  Edge  Opera: multiple vulnerabilities dated 03/09/2025",
-          "link": "https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-03-09-2025-48109",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of Chrome  Edge  Opera, dated 03/09/2025..."
+          "title": "CVE-2026-11447  GL.iNet GL-MT3000 up to 4.4.5 MTK Backend iwinfo.so iwinfo_backend device command injection",
+          "link": "https://vuldb.com/vuln/369067",
+          "date": "Sat, 06 Jun 2026 12:38:28 +0200",
+          "description": "A vulnerability described as critical has been identified in GL.iNet GL-MT3000 up to 4.4.5. Impacted is the function iwinfo_backend of the file iwinfo.so of the component MTK Backend. The manipulation"
         },
         {
-          "title": "OpenBao: Cross Site Scripting via error_description",
-          "link": "https://vigilance.fr/vulnerability/OpenBao-Cross-Site-Scripting-via-error-description-50342",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger a Cross Site Scripting of OpenBao, via error_description, in order to run JavaScript code in the context of the web site..."
+          "title": "CVE-2026-47732  twigphp Twig __toString sandbox",
+          "link": "https://vuldb.com/vuln/369066",
+          "date": "Sat, 06 Jun 2026 12:22:23 +0200",
+          "description": "A vulnerability marked as critical has been reported in twigphp Twig. This issue affects the function __toString. The manipulation leads to sandbox issue.This vulnerability is referenced as CVE-2026"
         },
         {
-          "title": "OpenBao: spoofing via callback_mode",
-          "link": "https://vigilance.fr/vulnerability/OpenBao-spoofing-via-callback-mode-50341",
-          "date": "Visit link for details",
-          "description": "An attacker can create spoofed data on OpenBao, via callback_mode, in order to deceive the victim..."
+          "title": "CVE-2026-47730  twigphp Twig Profiler HtmlDumper cross site scripting",
+          "link": "https://vuldb.com/vuln/369065",
+          "date": "Sat, 06 Jun 2026 12:22:12 +0200",
+          "description": "A vulnerability labeled as problematic has been found in twigphp Twig. This vulnerability affects the function HtmlDumper of the component Profiler. Executing a manipulation can lead to cross site scr"
         },
         {
-          "title": "MongoDB Server: denial of service via 2dsphere_bucket",
-          "link": "https://vigilance.fr/vulnerability/MongoDB-Server-denial-of-service-via-2dsphere-bucket-51037",
-          "date": "Visit link for details",
-          "description": "An attacker can cause a fatal error of MongoDB Server, via 2dsphere_bucket, in order to trigger a denial of service..."
+          "title": "CVE-2026-10725  CRUX Protocol::HTTP/2 up to 1.12 on Perl headers_decode HTTP/2 Bomb data amplification (EUVD-2026-34964)",
+          "link": "https://vuldb.com/vuln/369064",
+          "date": "Sat, 06 Jun 2026 12:21:34 +0200",
+          "description": "A vulnerability identified as problematic has been detected in CRUX Protocol::HTTP2 up to 1.12 on Perl. This affects the function headers_decode. Performing a manipulation results in highly compressed"
         }
       ]
     },
@@ -431,6 +367,70 @@
         }
       ]
     },
+    "OBS-Vigilance": {
+      "items": [
+        {
+          "title": "SPIP: open redirect via Action Cookie",
+          "link": "https://vigilance.fr/vulnerability/SPIP-open-redirect-via-Action-Cookie-51123",
+          "date": "Visit link for details",
+          "description": "An attacker can deceive the user of SPIP, via Action Cookie, in order to redirect him to a malicious site..."
+        },
+        {
+          "title": "CUPS: out-of-bounds memory reading via cupsdSetPrinterAttr()",
+          "link": "https://vigilance.fr/vulnerability/CUPS-out-of-bounds-memory-reading-via-cupsdSetPrinterAttr-50363",
+          "date": "Visit link for details",
+          "description": "An attacker can force a read at an invalid memory address of CUPS, via cupsdSetPrinterAttr("
+        },
+        {
+          "title": "TeamPass: Cross Site Scripting via JS HTML Escaping",
+          "link": "https://vigilance.fr/vulnerability/TeamPass-Cross-Site-Scripting-via-JS-HTML-Escaping-50362",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger a Cross Site Scripting of TeamPass, via JS HTML Escaping, in order to run JavaScript code in the context of the web site..."
+        },
+        {
+          "title": "Linux kernel: multiple vulnerabilities dated 06/04/2026",
+          "link": "https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-06-04-2026-50361",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of the Linux kernel, dated 06/04/2026..."
+        },
+        {
+          "title": "OpenBSD: denial of service via iked",
+          "link": "https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-iked-50360",
+          "date": "Visit link for details",
+          "description": "An attacker can cause a fatal error of OpenBSD, via iked, in order to trigger a denial of service..."
+        },
+        {
+          "title": "Tor: buffer overflow via CREATED2",
+          "link": "https://vigilance.fr/vulnerability/Tor-buffer-overflow-via-CREATED2-50358",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger a buffer overflow of Tor, via CREATED2, in order to trigger a denial of service, and possibly to run code..."
+        },
+        {
+          "title": "Apache Traffic Server: header injection via Chunked Messages",
+          "link": "https://vigilance.fr/vulnerability/Apache-Traffic-Server-header-injection-via-Chunked-Messages-50357",
+          "date": "Visit link for details",
+          "description": "An attacker can add new headers on Apache Traffic Server, via Chunked Messages, in order to alter the service behavior..."
+        },
+        {
+          "title": "Apache Traffic Server: denial of service via POST Request Handling",
+          "link": "https://vigilance.fr/vulnerability/Apache-Traffic-Server-denial-of-service-via-POST-Request-Handling-50356",
+          "date": "Visit link for details",
+          "description": "An attacker can cause a fatal error of Apache Traffic Server, via POST Request Handling, in order to trigger a denial of service..."
+        },
+        {
+          "title": "Roundcube Webmail: multiple vulnerabilities dated 06/04/2026",
+          "link": "https://vigilance.fr/vulnerability/Roundcube-Webmail-multiple-vulnerabilities-dated-06-04-2026-50355",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of Roundcube Webmail, dated 06/04/2026..."
+        },
+        {
+          "title": "libinput: code execution via Lua Bytecode",
+          "link": "https://vigilance.fr/vulnerability/libinput-code-execution-via-Lua-Bytecode-50353",
+          "date": "Visit link for details",
+          "description": "An attacker can use a vulnerability of libinput, via Lua Bytecode, in order to run code..."
+        }
+      ]
+    },
     "EU-CERT": {
       "items": [
         {
@@ -474,6 +474,18 @@
     "CA-CCS": {
       "items": [
         {
+          "title": "SolarWinds security advisory (AV26-549) - Update 1",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av26-549",
+          "date": "2026-06-05",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Progress security advisory (AV26-552)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/progress-security-advisory-av26-552",
+          "date": "2026-06-05",
+          "description": "Visit link for details"
+        },
+        {
           "title": "Cisco security advisory (AV26-551)",
           "link": "https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av26-551",
           "date": "2026-06-05",
@@ -482,12 +494,6 @@
         {
           "title": "Docker security advisory (AV26-550)",
           "link": "https://www.cyber.gc.ca/en/alerts-advisories/docker-security-advisory-av26-550",
-          "date": "2026-06-04",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "SolarWinds security advisory (AV26-549)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av26-549",
           "date": "2026-06-04",
           "description": "Visit link for details"
         },
@@ -524,12 +530,6 @@
         {
           "title": "HPE security advisory (AV26-543)",
           "link": "https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av26-543",
-          "date": "2026-06-02",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Mozilla security advisory (AV26-542)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av26-542",
           "date": "2026-06-02",
           "description": "Visit link for details"
         }
