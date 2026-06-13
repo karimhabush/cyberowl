@@ -1,8 +1,14 @@
 {
-  "generated_at": "2026-06-12T16:05:51.372231+00:00",
+  "generated_at": "2026-06-13T15:34:46.838829+00:00",
   "sources": {
     "US-CERT": {
       "items": [
+        {
+          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/06/12/cisa-adds-one-known-exploited-vulnerability-catalog",
+          "date": "Jun 12, 2026",
+          "description": "Visit link for details."
+        },
         {
           "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
           "link": "https://www.cisa.gov/news-events/alerts/2026/06/11/cisa-adds-one-known-exploited-vulnerability-catalog",
@@ -56,207 +62,6 @@
           "link": "https://www.cisa.gov/news-events/alerts/2026/05/28/supply-chain-compromises-impact-nx-console-and-github-repositories",
           "date": "May 28, 2026",
           "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/05/27/cisa-adds-three-known-exploited-vulnerabilities-catalog",
-          "date": "May 27, 2026",
-          "description": "Visit link for details."
-        }
-      ]
-    },
-    "VulDB": {
-      "items": [
-        {
-          "title": "CVE-2026-12131  CodeAstro Human Resource Management System 1.0 Payroll Invoice Payroll.php ID sql injection",
-          "link": "https://vuldb.com/vuln/370616",
-          "date": "Fri, 12 Jun 2026 17:26:18 +0200",
-          "description": "A vulnerability was found in CodeAstro Human Resource Management System 1.0. It has been rated as critical. This vulnerability affects the function Invoice of the file \\application\\controllers\\Payroll"
-        },
-        {
-          "title": "CVE-2026-12130  CodeAstro Human Resource Management System 1.0 Projects Management Page /Projects/Add_Projects protitle cross site scripting",
-          "link": "https://vuldb.com/vuln/370615",
-          "date": "Fri, 12 Jun 2026 17:26:15 +0200",
-          "description": "A vulnerability was found in CodeAstro Human Resource Management System 1.0. It has been declared as problematic. This affects an unknown part of the file /Projects/Add_Projects of the component Proje"
-        },
-        {
-          "title": "CVE-2026-12129  CodeAstro Human Resource Management System 1.0 Dashboard Interface /dashboard/add_tod todo_data cross site scripting",
-          "link": "https://vuldb.com/vuln/370614",
-          "date": "Fri, 12 Jun 2026 17:26:12 +0200",
-          "description": "A vulnerability was found in CodeAstro Human Resource Management System 1.0. It has been classified as problematic. Affected by this issue is some unknown functionality of the file /dashboard/add_tod"
-        },
-        {
-          "title": "CVE-2026-53722  Nuxt up to 3.21.6/4.4.6 Query Parameter cross site scripting",
-          "link": "https://vuldb.com/vuln/370613",
-          "date": "Fri, 12 Jun 2026 17:19:27 +0200",
-          "description": "A vulnerability was found in Nuxt up to 3.21.6/4.4.6 and classified as problematic. Affected by this vulnerability is an unknown functionality of the component Query Parameter Handler. Executing a man"
-        },
-        {
-          "title": "CVE-2026-47739  Frappe up to 15.105.x/16.15.x cross site scripting",
-          "link": "https://vuldb.com/vuln/370612",
-          "date": "Fri, 12 Jun 2026 17:19:14 +0200",
-          "description": "A vulnerability has been found in Frappe up to 15.105.x/16.15.x and classified as problematic. Affected is an unknown function. Performing a manipulation results in cross site scripting.This vulnera"
-        },
-        {
-          "title": "CVE-2026-44205  Frappe up to 15.105.x Profile Image cross site scripting",
-          "link": "https://vuldb.com/vuln/370611",
-          "date": "Fri, 12 Jun 2026 17:19:10 +0200",
-          "description": "A vulnerability, which was classified as problematic, was found in Frappe up to 15.105.x. This impacts an unknown function of the component Profile Image Handler. Such manipulation leads to cross site"
-        },
-        {
-          "title": "CVE-2026-47141  patriksimek vm2 up to 3.11.3 exposure of resource",
-          "link": "https://vuldb.com/vuln/370610",
-          "date": "Fri, 12 Jun 2026 17:19:05 +0200",
-          "description": "A vulnerability, which was classified as problematic, has been found in patriksimek vm2 up to 3.11.3. This affects an unknown function. This manipulation causes exposure of resource.The identificati"
-        },
-        {
-          "title": "CVE-2026-6853  Başbelen Pause+ Mobile App up to 1.4 excessive authentication",
-          "link": "https://vuldb.com/vuln/370609",
-          "date": "Fri, 12 Jun 2026 17:19:02 +0200",
-          "description": "A vulnerability classified as problematic was found in Başbelen Pause+ Mobile App up to 1.4. The impacted element is an unknown function. The manipulation results in improper restriction of excessive"
-        },
-        {
-          "title": "CVE-2026-47244  Netty prior 4.1.135.Final/4.2.15.Final Http2Settings.java initialSettings resource consumption",
-          "link": "https://vuldb.com/vuln/370608",
-          "date": "Fri, 12 Jun 2026 17:18:45 +0200",
-          "description": "A vulnerability classified as problematic has been found in Netty. The affected element is the function initialSettings of the file Http2Settings.java. The manipulation leads to resource consumption."
-        },
-        {
-          "title": "CVE-2026-6211  Global IT Informatics Services WEOLL up to 2.0.8 unrestricted upload",
-          "link": "https://vuldb.com/vuln/370607",
-          "date": "Fri, 12 Jun 2026 17:18:16 +0200",
-          "description": "A vulnerability described as critical has been identified in Global IT Informatics Services WEOLL up to 2.0.8. Impacted is an unknown function. Executing a manipulation can lead to unrestricted upload"
-        }
-      ]
-    },
-    "IBM-X-FORCE-EXCHANGE": {
-      "items": [
-        {
-          "title": "WordPress MetroStore theme <= 1.3.2 - Broken Access Control (CVE-2023-32959)",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "Jun 11, 2026",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "WordPress Contact Form & Lead Form Elementor Builder plugin <= 1.8.4 - Broken Access Control vulnerability (CVE-2023-25969)",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "Jun 11, 2026",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Unauthenticated denial-of-service via BEAM atom table exhaustion in membrane_mp4_plugin (CVE-2026-53423)",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "Jun 11, 2026",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "WordPress WooCommerce Conversion Tracking plugin <= 2.0.10 - Cross-Site Request Forgery (CSRF) vulnerability (CVE-2022-47150)",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "Jun 11, 2026",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "",
-          "description": "Visit link for details"
-        }
-      ]
-    },
-    "ZERODAYINITIATIVE": {
-      "items": []
-    },
-    "OBS-Vigilance": {
-      "items": [
-        {
-          "title": "Zabbix: code execution via Agent 2 Smartctl Plugin",
-          "link": "https://vigilance.fr/vulnerability/Zabbix-code-execution-via-Agent-2-Smartctl-Plugin-48216",
-          "date": "Visit link for details",
-          "description": "An attacker can use a vulnerability of Zabbix, via Agent 2 Smartctl Plugin, in order to run code..."
-        },
-        {
-          "title": "Visual Studio Code: code execution via Ai Command Injection",
-          "link": "https://vigilance.fr/vulnerability/Visual-Studio-Code-code-execution-via-Ai-Command-Injection-48214",
-          "date": "Visit link for details",
-          "description": "An attacker can use a vulnerability of Visual Studio Code, via Ai Command Injection, in order to run code..."
-        },
-        {
-          "title": "RRDtool: security improvement via Safety Guards",
-          "link": "https://vigilance.fr/vulnerability/RRDtool-security-improvement-via-Safety-Guards-51194",
-          "date": "Visit link for details",
-          "description": "The security of RRDtool was improved via Safety Guards..."
-        },
-        {
-          "title": "GStreamer gst-plugins-good: denial of service via qtdemux_audio_caps()",
-          "link": "https://vigilance.fr/vulnerability/GStreamer-gst-plugins-good-denial-of-service-via-qtdemux-audio-caps-51181",
-          "date": "Visit link for details",
-          "description": "An attacker can cause a fatal error of GStreamer gst-plugins-good, via qtdemux_audio_caps()"
-        },
-        {
-          "title": "GStreamer gst-plugins-good: denial of service via qtdemux_parse_trak()",
-          "link": "https://vigilance.fr/vulnerability/GStreamer-gst-plugins-good-denial-of-service-via-qtdemux-parse-trak-51180",
-          "date": "Visit link for details",
-          "description": "An attacker can cause a fatal error of GStreamer gst-plugins-good, via qtdemux_parse_trak()"
-        },
-        {
-          "title": "Cisco IOS XR: code execution via Image Verification Bypass",
-          "link": "https://vigilance.fr/vulnerability/Cisco-IOS-XR-code-execution-via-Image-Verification-Bypass-48203",
-          "date": "Visit link for details",
-          "description": "An attacker can use a vulnerability of Cisco IOS XR, via Image Verification Bypass, in order to run code..."
-        },
-        {
-          "title": "Apache Log4j: multiple vulnerabilities dated 10/04/2026",
-          "link": "https://vigilance.fr/vulnerability/Apache-Log4j-multiple-vulnerabilities-dated-10-04-2026-50425",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of Apache Log4j, dated 10/04/2026..."
-        },
-        {
-          "title": "Windows: vulnerabilities of December 2024",
-          "link": "https://vigilance.fr/vulnerability/Windows-vulnerabilities-of-December-2024-45850",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of Microsoft products..."
-        },
-        {
-          "title": "Python Core: header injection via HTTP Proxy CONNECT Tunneling",
-          "link": "https://vigilance.fr/vulnerability/Python-Core-header-injection-via-HTTP-Proxy-CONNECT-Tunneling-50424",
-          "date": "Visit link for details",
-          "description": "An attacker can add new headers on Python Core, via HTTP Proxy CONNECT Tunneling, in order to alter the service behavior..."
-        },
-        {
-          "title": "Node.js undici: read-write access via Upgrade Option",
-          "link": "https://vigilance.fr/vulnerability/Node-js-undici-read-write-access-via-Upgrade-Option-50423",
-          "date": "Visit link for details",
-          "description": "An attacker can bypass access restrictions of Node.js undici, via Upgrade Option, in order to read or alter data..."
         }
       ]
     },
@@ -324,6 +129,137 @@
         }
       ]
     },
+    "VulDB": {
+      "items": [
+        {
+          "title": "CVE-2026-5513  ladela Online Scheduling and Appointment Booking System Plugin setting cross site scripting",
+          "link": "https://vuldb.com/vuln/370827",
+          "date": "Sat, 13 Jun 2026 14:14:07 +0200",
+          "description": "A vulnerability categorized as problematic has been discovered in ladela Online Scheduling and Appointment Booking System Plugin up to 27.2 on WordPress. Impacted is an unknown function of the compone"
+        },
+        {
+          "title": "CVE-2026-9061  Store Locator Plugin up to 1.6.8 on WordPress cross site scripting",
+          "link": "https://vuldb.com/vuln/370826",
+          "date": "Sat, 13 Jun 2026 14:14:00 +0200",
+          "description": "A vulnerability was found in Store Locator Plugin up to 1.6.8 on WordPress. It has been rated as problematic. This issue affects some unknown processing. This manipulation causes cross site scripting."
+        },
+        {
+          "title": "CVE-2026-9629  codesupplyco Canvas Plugin up to 2.5.2 on WordPress day cross site scripting",
+          "link": "https://vuldb.com/vuln/370825",
+          "date": "Sat, 13 Jun 2026 14:13:53 +0200",
+          "description": "A vulnerability was found in codesupplyco Canvas Plugin up to 2.5.2 on WordPress. It has been declared as problematic. This vulnerability affects unknown code. The manipulation of the argument day res"
+        },
+        {
+          "title": "CVE-2026-3297  Softaculous Page Builder Plugin up to 2.0.9 on WordPress cross site scripting",
+          "link": "https://vuldb.com/vuln/370824",
+          "date": "Sat, 13 Jun 2026 14:13:48 +0200",
+          "description": "A vulnerability was found in Softaculous Page Builder Plugin up to 2.0.9 on WordPress. It has been classified as problematic. This affects an unknown part. The manipulation leads to cross site scripti"
+        },
+        {
+          "title": "CVE-2026-11624  Google MCP Toolbox for Databases up to 0.24.x origin validation (Issue 3113)",
+          "link": "https://vuldb.com/vuln/370823",
+          "date": "Sat, 13 Jun 2026 14:13:32 +0200",
+          "description": "A vulnerability was found in Google MCP Toolbox for Databases up to 0.24.x and classified as critical. Affected by this issue is some unknown functionality. Executing a manipulation can lead to origin"
+        },
+        {
+          "title": "CVE-2026-9134  fooplugins Photo Gallery by FooGallery Plugin up to 3.1.31 on WordPress Shortcode foogallery_sanitize_javascript cross site scripting",
+          "link": "https://vuldb.com/vuln/370822",
+          "date": "Sat, 13 Jun 2026 14:13:14 +0200",
+          "description": "A vulnerability has been found in fooplugins Photo Gallery by FooGallery Plugin up to 3.1.31 on WordPress and classified as problematic. Affected by this vulnerability is the function foogallery_sanit"
+        },
+        {
+          "title": "CVE-2026-9109  john-dagelmore GPTranslate Plugin up to 2.31 on WordPress Deterministically Derived API Key request gptApiKey cross site scripting",
+          "link": "https://vuldb.com/vuln/370821",
+          "date": "Sat, 13 Jun 2026 14:13:04 +0200",
+          "description": "A vulnerability, which was classified as problematic, was found in john-dagelmore GPTranslate Plugin up to 2.31 on WordPress. Affected is an unknown function of the file /wp-json/gptranslate/v1/reques"
+        },
+        {
+          "title": "CVE-2026-1291  tigroumeow Meow Gallery Plugin up to 5.4.4 on WordPress REST API Endpoint authorization",
+          "link": "https://vuldb.com/vuln/370820",
+          "date": "Sat, 13 Jun 2026 14:12:50 +0200",
+          "description": "A vulnerability, which was classified as critical, has been found in tigroumeow Meow Gallery Plugin up to 5.4.4 on WordPress. This impacts an unknown function of the component REST API Endpoint. This"
+        },
+        {
+          "title": "CVE-2026-9062  Store Locator WordPress Plugin up to 1.6.8 on WordPress information disclosure",
+          "link": "https://vuldb.com/vuln/370819",
+          "date": "Sat, 13 Jun 2026 14:12:44 +0200",
+          "description": "A vulnerability classified as problematic was found in Store Locator WordPress Plugin up to 1.6.8 on WordPress. This affects an unknown function. The manipulation results in information disclosure.T"
+        },
+        {
+          "title": "CVE-2026-12176  SourceCodester CET Automated Grading System with AI Predictive Analytics /index.php cross site scripting",
+          "link": "https://vuldb.com/vuln/370818",
+          "date": "Sat, 13 Jun 2026 08:00:35 +0200",
+          "description": "A vulnerability classified as problematic has been found in SourceCodester CET Automated Grading System with AI Predictive Analytics 1.0. The impacted element is an unknown function of the file /index"
+        }
+      ]
+    },
+    "IBM-X-FORCE-EXCHANGE": {
+      "items": [
+        {
+          "title": "Avira Password Manager credential disclosure via cross-origin autofill in Firefox (CVE-2026-12068)",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "Jun 12, 2026",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "GPU DDK - Backed sparse PMRs are not handled by deferred free mechanism after shrink (CVE-2026-41158)",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "Jun 12, 2026",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "GPU DDK - OOB Write in CalculateNPOTTwiddleSparsePageMap3D (CVE-2026-41157)",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "Jun 12, 2026",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "GPU DDK - SharedSecMem mapped into all GPU virtual address spaces (CVE-2026-41155)",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "Jun 12, 2026",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "GPU DDK - Kernel heap OOB write in PMRChangeSparseMemOSMem due to incorrect physical page translation from virtual page indexes (CVE-2026-34195)",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "Jun 12, 2026",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "",
+          "description": "Visit link for details"
+        }
+      ]
+    },
+    "ZERODAYINITIATIVE": {
+      "items": []
+    },
     "HK-CERT": {
       "items": [
         {
@@ -388,6 +324,70 @@
         }
       ]
     },
+    "OBS-Vigilance": {
+      "items": [
+        {
+          "title": "Prometheus: Cross Site Scripting via Metric Names",
+          "link": "https://vigilance.fr/vulnerability/Prometheus-Cross-Site-Scripting-via-Metric-Names-50457",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger a Cross Site Scripting of Prometheus, via Metric Names, in order to run JavaScript code in the context of the web site..."
+        },
+        {
+          "title": "Linux kernel: multiple vulnerabilities dated 13/04/2026",
+          "link": "https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-13-04-2026-50456",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of the Linux kernel, dated 13/04/2026..."
+        },
+        {
+          "title": "TeamPass: three vulnerabilities dated 13/04/2026",
+          "link": "https://vigilance.fr/vulnerability/TeamPass-three-vulnerabilities-dated-13-04-2026-50454",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of TeamPass, dated 13/04/2026..."
+        },
+        {
+          "title": "ImageMagick: multiple vulnerabilities dated 13/04/2026",
+          "link": "https://vigilance.fr/vulnerability/ImageMagick-multiple-vulnerabilities-dated-13-04-2026-50453",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of ImageMagick, dated 13/04/2026..."
+        },
+        {
+          "title": "Varnish Cache: denial of service via HTTP/2 Sessions Pipelining Operation",
+          "link": "https://vigilance.fr/vulnerability/Varnish-Cache-denial-of-service-via-HTTP-2-Sessions-Pipelining-Operation-50452",
+          "date": "Visit link for details",
+          "description": "An attacker can cause a fatal error of Varnish Cache, via HTTP/2 Sessions Pipelining Operation, in order to trigger a denial of service..."
+        },
+        {
+          "title": "MediaWiki: multiple vulnerabilities dated 13/04/2026",
+          "link": "https://vigilance.fr/vulnerability/MediaWiki-multiple-vulnerabilities-dated-13-04-2026-50442",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of MediaWiki, dated 13/04/2026..."
+        },
+        {
+          "title": "Flatpak: file deletion via Ld.so Caching",
+          "link": "https://vigilance.fr/vulnerability/Flatpak-file-deletion-via-Ld-so-Caching-50441",
+          "date": "Visit link for details",
+          "description": "An attacker, in a guest system, can bypass access restrictions of Flatpak, via Ld.so Caching, in order to delete a file..."
+        },
+        {
+          "title": "Flatpak: privilege escalation via Sandbox-expose Options",
+          "link": "https://vigilance.fr/vulnerability/Flatpak-privilege-escalation-via-Sandbox-expose-Options-50440",
+          "date": "Visit link for details",
+          "description": "An attacker, in a guest system, can bypass restrictions of Flatpak, via Sandbox-expose Options, in order to escalate his privileges..."
+        },
+        {
+          "title": "libcap: privilege escalation via cap_set_file()",
+          "link": "https://vigilance.fr/vulnerability/libcap-privilege-escalation-via-cap-set-file-50438",
+          "date": "Visit link for details",
+          "description": "An attacker can bypass restrictions of libcap, via cap_set_file(), in order to escalate his privileges..."
+        },
+        {
+          "title": "Vim: code execution via Missing P_MLE Flag",
+          "link": "https://vigilance.fr/vulnerability/Vim-code-execution-via-Missing-P-MLE-Flag-50437",
+          "date": "Visit link for details",
+          "description": "An attacker can use a vulnerability of Vim, via Missing P_MLE Flag, in order to run code..."
+        }
+      ]
+    },
     "EU-CERT": {
       "items": [
         {
@@ -443,6 +443,24 @@
     "CA-CCS": {
       "items": [
         {
+          "title": "FreePBX security advisory (AV26–596)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/freepbx-security-advisory-av26-596",
+          "date": "2026-06-12",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "GeoServer security advisory (AV26-595)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/geoserver-security-advisory-av26-595",
+          "date": "2026-06-12",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Oracle security advisory (AV26-587) – Update 1",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-av26-587",
+          "date": "2026-06-12",
+          "description": "Visit link for details"
+        },
+        {
           "title": "[Control Systems] Moxa security advisory (AV26-594)",
           "link": "https://www.cyber.gc.ca/en/alerts-advisories/control-systems-moxa-security-advisory-av26-594",
           "date": "2026-06-12",
@@ -482,24 +500,6 @@
           "title": "Ubiquiti security advisory (AV26-589)",
           "link": "https://www.cyber.gc.ca/en/alerts-advisories/ubiquiti-security-advisory-av26-589",
           "date": "2026-06-11",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "GitLab security advisory (AV26-588)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av26-588",
-          "date": "2026-06-11",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Oracle security advisory (AV26-587)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-av26-587",
-          "date": "2026-06-11",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Splunk security advisory (AV26-586)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/splunk-security-advisory-av26-586",
-          "date": "2026-06-10",
           "description": "Visit link for details"
         }
       ]
