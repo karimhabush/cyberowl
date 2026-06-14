@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T15:34:46.838829+00:00",
+  "generated_at": "2026-06-14T15:35:33.911106+00:00",
   "sources": {
     "US-CERT": {
       "items": [
@@ -132,66 +132,69 @@
     "VulDB": {
       "items": [
         {
-          "title": "CVE-2026-5513  ladela Online Scheduling and Appointment Booking System Plugin setting cross site scripting",
-          "link": "https://vuldb.com/vuln/370827",
-          "date": "Sat, 13 Jun 2026 14:14:07 +0200",
-          "description": "A vulnerability categorized as problematic has been discovered in ladela Online Scheduling and Appointment Booking System Plugin up to 27.2 on WordPress. Impacted is an unknown function of the compone"
+          "title": "CVE-2026-12223  Yealink SIP-T46U 108.86.0.118 Web FastCGI Service tftpuploadiperf mod_webd.TFTPUploadIperf ip/port command injection",
+          "link": "https://vuldb.com/vuln/370866",
+          "date": "Sun, 14 Jun 2026 15:59:42 +0200",
+          "description": "A vulnerability was found in Yealink SIP-T46U 108.86.0.118. It has been classified as critical. Affected by this vulnerability is the function mod_webd.TFTPUploadIperf of the file /api/inner/tftpuploa"
         },
         {
-          "title": "CVE-2026-9061  Store Locator Plugin up to 1.6.8 on WordPress cross site scripting",
-          "link": "https://vuldb.com/vuln/370826",
-          "date": "Sat, 13 Jun 2026 14:14:00 +0200",
-          "description": "A vulnerability was found in Store Locator Plugin up to 1.6.8 on WordPress. It has been rated as problematic. This issue affects some unknown processing. This manipulation causes cross site scripting."
+          "title": "CVE-2026-12222  Yealink SIP-T46U 108.86.0.118 Web FastCGI Service /api/inner/bttest mod_webd.BlueToothTest btMac/pin/reserved stack-based overflow",
+          "link": "https://vuldb.com/vuln/370865",
+          "date": "Sun, 14 Jun 2026 15:59:39 +0200",
+          "description": "A vulnerability was found in Yealink SIP-T46U 108.86.0.118 and classified as critical. Affected is the function mod_webd.BlueToothTest of the file /api/inner/bttest of the component Web FastCGI Servic"
         },
         {
-          "title": "CVE-2026-9629  codesupplyco Canvas Plugin up to 2.5.2 on WordPress day cross site scripting",
-          "link": "https://vuldb.com/vuln/370825",
-          "date": "Sat, 13 Jun 2026 14:13:53 +0200",
-          "description": "A vulnerability was found in codesupplyco Canvas Plugin up to 2.5.2 on WordPress. It has been declared as problematic. This vulnerability affects unknown code. The manipulation of the argument day res"
+          "title": "CVE-2026-12221  Yealink SIP-T46U 108.86.0.118 Firmware Chunk Upload /api/upgrade/upgrade sprintf uid/start_offset stack-based overflow",
+          "link": "https://vuldb.com/vuln/370864",
+          "date": "Sun, 14 Jun 2026 15:59:37 +0200",
+          "description": "A vulnerability has been found in Yealink SIP-T46U 108.86.0.118 and classified as critical. This impacts the function sprintf of the file /api/upgrade/upgrade of the component Firmware Chunk Upload Ha"
         },
         {
-          "title": "CVE-2026-3297  Softaculous Page Builder Plugin up to 2.0.9 on WordPress cross site scripting",
-          "link": "https://vuldb.com/vuln/370824",
-          "date": "Sat, 13 Jun 2026 14:13:48 +0200",
-          "description": "A vulnerability was found in Softaculous Page Builder Plugin up to 2.0.9 on WordPress. It has been classified as problematic. This affects an unknown part. The manipulation leads to cross site scripti"
+          "title": "CVE-2026-12220  Yealink SIP-T46U 108.86.0.118 Firmware Chunk Upload handler accupgradebychunk mod_upgrade.SparePartsUpload uid stack-based overflow",
+          "link": "https://vuldb.com/vuln/370863",
+          "date": "Sun, 14 Jun 2026 15:59:34 +0200",
+          "description": "A vulnerability, which was classified as critical, was found in Yealink SIP-T46U 108.86.0.118. This affects the function mod_upgrade.SparePartsUpload of the file /api/upgrade/accupgradebychunk of the"
         },
         {
-          "title": "CVE-2026-11624  Google MCP Toolbox for Databases up to 0.24.x origin validation (Issue 3113)",
-          "link": "https://vuldb.com/vuln/370823",
-          "date": "Sat, 13 Jun 2026 14:13:32 +0200",
-          "description": "A vulnerability was found in Google MCP Toolbox for Databases up to 0.24.x and classified as critical. Affected by this issue is some unknown functionality. Executing a manipulation can lead to origin"
+          "title": "CVE-2026-12219  Yealink SIP-T46U 108.86.0.118 Web FastCGI Service /api/diagnosis/start mod_diagnose.CommandShellByType Time command injection",
+          "link": "https://vuldb.com/vuln/370862",
+          "date": "Sun, 14 Jun 2026 15:59:31 +0200",
+          "description": "A vulnerability, which was classified as critical, has been found in Yealink SIP-T46U 108.86.0.118. The impacted element is the function mod_diagnose.CommandShellByType of the file /api/diagnosis/star"
         },
         {
-          "title": "CVE-2026-9134  fooplugins Photo Gallery by FooGallery Plugin up to 3.1.31 on WordPress Shortcode foogallery_sanitize_javascript cross site scripting",
-          "link": "https://vuldb.com/vuln/370822",
-          "date": "Sat, 13 Jun 2026 14:13:14 +0200",
-          "description": "A vulnerability has been found in fooplugins Photo Gallery by FooGallery Plugin up to 3.1.31 on WordPress and classified as problematic. Affected by this vulnerability is the function foogallery_sanit"
+          "title": "CVE-2026-12218  Yealink SIP-T46U 108.87.50.1 Web FastCGI Service beforewifitest StartReportInformation port stack-based overflow",
+          "link": "https://vuldb.com/vuln/370861",
+          "date": "Sun, 14 Jun 2026 15:59:28 +0200",
+          "description": "A vulnerability classified as critical was found in Yealink SIP-T46U 108.87.50.1. The affected element is the function StartReportInformation of the file /api/inner/beforewifitest of the component Web"
         },
         {
-          "title": "CVE-2026-9109  john-dagelmore GPTranslate Plugin up to 2.31 on WordPress Deterministically Derived API Key request gptApiKey cross site scripting",
-          "link": "https://vuldb.com/vuln/370821",
-          "date": "Sat, 13 Jun 2026 14:13:04 +0200",
-          "description": "A vulnerability, which was classified as problematic, was found in john-dagelmore GPTranslate Plugin up to 2.31 on WordPress. Affected is an unknown function of the file /wp-json/gptranslate/v1/reques"
+          "title": "CVE-2026-12217  DVDFab Virtual Drive 2.0.0.5 Signed Kernel Driver dvdfabio.sys privileges management",
+          "link": "https://vuldb.com/vuln/370860",
+          "date": "Sun, 14 Jun 2026 15:50:44 +0200",
+          "description": "A vulnerability classified as critical has been found in DVDFab Virtual Drive 2.0.0.5. Impacted is an unknown function in the library dvdfabio.sys of the component Signed Kernel Driver. The manipulati"
         },
         {
-          "title": "CVE-2026-1291  tigroumeow Meow Gallery Plugin up to 5.4.4 on WordPress REST API Endpoint authorization",
-          "link": "https://vuldb.com/vuln/370820",
-          "date": "Sat, 13 Jun 2026 14:12:50 +0200",
-          "description": "A vulnerability, which was classified as critical, has been found in tigroumeow Meow Gallery Plugin up to 5.4.4 on WordPress. This impacts an unknown function of the component REST API Endpoint. This"
+          "title": "CVE-2026-12216  svaarala duktape up to 2.99.99 duk_api_bytecode.c count_instr memory corruption",
+          "link": "https://vuldb.com/vuln/370859",
+          "date": "Sun, 14 Jun 2026 15:48:27 +0200",
+          "description": "A vulnerability described as critical has been identified in svaarala duktape up to 2.99.99. This issue affects some unknown processing of the file duk_api_bytecode.c. Executing a manipulation of the"
         },
         {
-          "title": "CVE-2026-9062  Store Locator WordPress Plugin up to 1.6.8 on WordPress information disclosure",
-          "link": "https://vuldb.com/vuln/370819",
-          "date": "Sat, 13 Jun 2026 14:12:44 +0200",
-          "description": "A vulnerability classified as problematic was found in Store Locator WordPress Plugin up to 1.6.8 on WordPress. This affects an unknown function. The manipulation results in information disclosure.T"
+          "title": "CVE-2026-12214  Qihoo 360 Total Security 6.0 Nucleus Engine Monitoring Logic RpcStringBindingComposeW NetworkAddr protection mechanism",
+          "link": "https://vuldb.com/vuln/370858",
+          "date": "Sun, 14 Jun 2026 14:59:22 +0200",
+          "description": "A vulnerability marked as critical has been reported in Qihoo 360 Total Security 6.0. This vulnerability affects the function RpcStringBindingComposeW of the component Nucleus Engine Monitoring Logic."
         },
         {
-          "title": "CVE-2026-12176  SourceCodester CET Automated Grading System with AI Predictive Analytics /index.php cross site scripting",
-          "link": "https://vuldb.com/vuln/370818",
-          "date": "Sat, 13 Jun 2026 08:00:35 +0200",
-          "description": "A vulnerability classified as problematic has been found in SourceCodester CET Automated Grading System with AI Predictive Analytics 1.0. The impacted element is an unknown function of the file /index"
+          "title": "CVE-2026-11527  SHLOMIF Config::IniFiles up to 3.999 on Perl open thing os command injection",
+          "link": "https://vuldb.com/vuln/370857",
+          "date": "Sun, 14 Jun 2026 14:43:47 +0200",
+          "description": "A vulnerability labeled as critical has been found in SHLOMIF Config::IniFiles up to 3.999 on Perl. This affects the function Open. Such manipulation of the argument thing leads to os command injectio"
         }
       ]
+    },
+    "ZERODAYINITIATIVE": {
+      "items": []
     },
     "IBM-X-FORCE-EXCHANGE": {
       "items": [
@@ -257,8 +260,121 @@
         }
       ]
     },
-    "ZERODAYINITIATIVE": {
-      "items": []
+    "OBS-Vigilance": {
+      "items": [
+        {
+          "title": "Openstack Keystone: user access via LDAP Identity Backend",
+          "link": "https://vigilance.fr/vulnerability/Openstack-Keystone-user-access-via-LDAP-Identity-Backend-50486",
+          "date": "Visit link for details",
+          "description": "An attacker can bypass restrictions of Openstack Keystone, via LDAP Identity Backend, in order to gain user privileges..."
+        },
+        {
+          "title": "Microsoft Windows PowerShell: privilege escalation via Security Feature Bypass",
+          "link": "https://vigilance.fr/vulnerability/Microsoft-Windows-PowerShell-privilege-escalation-via-Security-Feature-Bypass-50485",
+          "date": "Visit link for details",
+          "description": "An attacker can bypass restrictions of Microsoft Windows PowerShell, via Security Feature Bypass, in order to escalate his privileges..."
+        },
+        {
+          "title": "Go: multiple vulnerabilities dated 14/04/2026",
+          "link": "https://vigilance.fr/vulnerability/Go-multiple-vulnerabilities-dated-14-04-2026-50484",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of Go, dated 14/04/2026..."
+        },
+        {
+          "title": "X.Org Server: multiple vulnerabilities dated 14/04/2026",
+          "link": "https://vigilance.fr/vulnerability/X-Org-Server-multiple-vulnerabilities-dated-14-04-2026-50482",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of X.Org Server, dated 14/04/2026..."
+        },
+        {
+          "title": "Eclipse Jetty: header injection via Chunked Extension Quoted-String Parsing",
+          "link": "https://vigilance.fr/vulnerability/Eclipse-Jetty-header-injection-via-Chunked-Extension-Quoted-String-Parsing-50481",
+          "date": "Visit link for details",
+          "description": "An attacker can add new headers on Eclipse Jetty, via Chunked Extension Quoted-String Parsing, in order to alter the service behavior..."
+        },
+        {
+          "title": "Open vSwitch: memory corruption via FTP Substrings",
+          "link": "https://vigilance.fr/vulnerability/Open-vSwitch-memory-corruption-via-FTP-Substrings-50480",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger a memory corruption of Open vSwitch, via FTP Substrings, in order to trigger a denial of service, and possibly to run code..."
+        },
+        {
+          "title": "ArcGIS Enterprise: four vulnerabilities dated 14/04/2026",
+          "link": "https://vigilance.fr/vulnerability/ArcGIS-Enterprise-four-vulnerabilities-dated-14-04-2026-50479",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of ArcGIS Enterprise, dated 14/04/2026..."
+        },
+        {
+          "title": "Vtiger CRM: Cross Site Scripting via Dashboard",
+          "link": "https://vigilance.fr/vulnerability/Vtiger-CRM-Cross-Site-Scripting-via-Dashboard-50478",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger a Cross Site Scripting of Vtiger CRM, via Dashboard, in order to run JavaScript code in the context of the web site..."
+        },
+        {
+          "title": "Vtiger CRM: Cross Site Scripting via MailManager",
+          "link": "https://vigilance.fr/vulnerability/Vtiger-CRM-Cross-Site-Scripting-via-MailManager-50477",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger a Cross Site Scripting of Vtiger CRM, via MailManager, in order to run JavaScript code in the context of the web site..."
+        },
+        {
+          "title": "HAProxy: header injection via HTTP/3 Empty FIN Content-length",
+          "link": "https://vigilance.fr/vulnerability/HAProxy-header-injection-via-HTTP-3-Empty-FIN-Content-length-50476",
+          "date": "Visit link for details",
+          "description": "An attacker can add new headers on HAProxy, via HTTP/3 Empty FIN Content-length, in order to alter the service behavior..."
+        }
+      ]
+    },
+    "EU-CERT": {
+      "items": [
+        {
+          "title": "2026-008: Critical vulnerabilities in Ivanti Sentry",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-008/",
+          "date": "Wednesday, June 10, 2026 01:55:39 PM CEST",
+          "description": "On 9 June 2026, Ivanti released a security advisory addressing two critical vulnerabilities in their Sentry products[1]. An attacker could exploit those flaws to achieve unauthenticated remote code execution on the vulnerable device."
+        },
+        {
+          "title": "2026-007: Critical Vulnerability in Windows Netlogon",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-007/",
+          "date": "Wednesday, June 10, 2026 08:47:08 AM CEST",
+          "description": "On 12 May 2026, Microsoft published a security advisory addressing a critical vulnerability affecting Windows Server when acting as a domain controller. This vulnerability allows an unauthenticated attacker to execute arbitrary code over a network."
+        },
+        {
+          "title": "2026-006: Critical Vulnerability in PAN-OS",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-006/",
+          "date": "Wednesday, May 06, 2026 10:44:32 AM CEST",
+          "description": "On 6 May 2026, Palo Alto published a security advisory addressing a critical vulnerability affecting PAN-OS. This vulnerability allows an unauthenticated attacker to execute arbitrary code with root privileges."
+        },
+        {
+          "title": "2026-005: High Vulnerability in the Linux Kernel (\"Copy Fail\")",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-005/",
+          "date": "Thursday, April 30, 2026 11:25:30 AM CEST",
+          "description": "On 29 April 2026, a high local privilege escalation vulnerability in the Linux kernel, tracked as CVE-2026-31431 and named \"Copy Fail\", was publicly disclosed."
+        },
+        {
+          "title": "2026-004: Critical Vulnerability in SharePoint Exploited",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-004/",
+          "date": "Wednesday, March 25, 2026 08:51:39 AM CET",
+          "description": "On 17 March 2026, Microsoft updated one of its January 2026 security advisories related to a remote code execution vulnerability in Microsoft SharePoint. Specifically, Microsoft raised the CVSS score and changed the FAQ section to indicate that the vulnerability could be exploited by an unauthenticated attacker. This vulnerability was added in the CISA's Known Exploited Vulnerabilities (KEV) catalogue on 18 March 2026."
+        },
+        {
+          "title": "2026-003: Multiple Vulnerabilities in Citrix NetScaler and Citrix ADC",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-003/",
+          "date": "Monday, March 23, 2026 07:03:59 PM CET",
+          "description": "On 23 March 2026, Citrix published a security advisory addressing multiple vulnerabilities affecting NetScaler ADC and NetScaler Gateway. These vulnerabilities may lead to sensitive information disclosure and user session mix-up under specific configurations."
+        },
+        {
+          "title": "2026-002: Multiple Vulnerabilities in Cisco Products",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-002/",
+          "date": "Thursday, February 26, 2026 07:38:52 PM CET",
+          "description": "On 25 February 2026, Cisco released security advisories addressing multiple high and critical severity vulnerabilities in Cisco Catalyst SD-WAN controllers and Cisco SD-WAN Manager. If exploited, these vulnerabilities could allow attackers to gain administrative access to compromised systems."
+        },
+        {
+          "title": "2026-001: Critical vulnerabilities in Ivanti EPMM",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-001/",
+          "date": "Friday, January 30, 2026 10:09:06 AM CET",
+          "description": "On 29 January 2026, Ivanti released a security advisory addressing two critical vulnerabilities in their EPMM products. An attacker could exploit those flaws to achieve unauthenticated remote code execution on the vulnerable device. One of these vulnerabilities have been exploited in a limited number of cases."
+        }
+      ]
     },
     "HK-CERT": {
       "items": [
@@ -321,122 +437,6 @@
           "link": "https://www.hkcert.org/security-bulletin/apache-http-server-multiple-vulnerabilities_20260610",
           "date": "Release Date: 10 Jun 2026 ",
           "description": "Multiple vulnerabilities were identified in Apache HTTP Server. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, data manipulation, cross-site scripting and sensitive information disclosure on the targeted system."
-        }
-      ]
-    },
-    "OBS-Vigilance": {
-      "items": [
-        {
-          "title": "Prometheus: Cross Site Scripting via Metric Names",
-          "link": "https://vigilance.fr/vulnerability/Prometheus-Cross-Site-Scripting-via-Metric-Names-50457",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger a Cross Site Scripting of Prometheus, via Metric Names, in order to run JavaScript code in the context of the web site..."
-        },
-        {
-          "title": "Linux kernel: multiple vulnerabilities dated 13/04/2026",
-          "link": "https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-13-04-2026-50456",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of the Linux kernel, dated 13/04/2026..."
-        },
-        {
-          "title": "TeamPass: three vulnerabilities dated 13/04/2026",
-          "link": "https://vigilance.fr/vulnerability/TeamPass-three-vulnerabilities-dated-13-04-2026-50454",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of TeamPass, dated 13/04/2026..."
-        },
-        {
-          "title": "ImageMagick: multiple vulnerabilities dated 13/04/2026",
-          "link": "https://vigilance.fr/vulnerability/ImageMagick-multiple-vulnerabilities-dated-13-04-2026-50453",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of ImageMagick, dated 13/04/2026..."
-        },
-        {
-          "title": "Varnish Cache: denial of service via HTTP/2 Sessions Pipelining Operation",
-          "link": "https://vigilance.fr/vulnerability/Varnish-Cache-denial-of-service-via-HTTP-2-Sessions-Pipelining-Operation-50452",
-          "date": "Visit link for details",
-          "description": "An attacker can cause a fatal error of Varnish Cache, via HTTP/2 Sessions Pipelining Operation, in order to trigger a denial of service..."
-        },
-        {
-          "title": "MediaWiki: multiple vulnerabilities dated 13/04/2026",
-          "link": "https://vigilance.fr/vulnerability/MediaWiki-multiple-vulnerabilities-dated-13-04-2026-50442",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of MediaWiki, dated 13/04/2026..."
-        },
-        {
-          "title": "Flatpak: file deletion via Ld.so Caching",
-          "link": "https://vigilance.fr/vulnerability/Flatpak-file-deletion-via-Ld-so-Caching-50441",
-          "date": "Visit link for details",
-          "description": "An attacker, in a guest system, can bypass access restrictions of Flatpak, via Ld.so Caching, in order to delete a file..."
-        },
-        {
-          "title": "Flatpak: privilege escalation via Sandbox-expose Options",
-          "link": "https://vigilance.fr/vulnerability/Flatpak-privilege-escalation-via-Sandbox-expose-Options-50440",
-          "date": "Visit link for details",
-          "description": "An attacker, in a guest system, can bypass restrictions of Flatpak, via Sandbox-expose Options, in order to escalate his privileges..."
-        },
-        {
-          "title": "libcap: privilege escalation via cap_set_file()",
-          "link": "https://vigilance.fr/vulnerability/libcap-privilege-escalation-via-cap-set-file-50438",
-          "date": "Visit link for details",
-          "description": "An attacker can bypass restrictions of libcap, via cap_set_file(), in order to escalate his privileges..."
-        },
-        {
-          "title": "Vim: code execution via Missing P_MLE Flag",
-          "link": "https://vigilance.fr/vulnerability/Vim-code-execution-via-Missing-P-MLE-Flag-50437",
-          "date": "Visit link for details",
-          "description": "An attacker can use a vulnerability of Vim, via Missing P_MLE Flag, in order to run code..."
-        }
-      ]
-    },
-    "EU-CERT": {
-      "items": [
-        {
-          "title": "2026-008: Critical vulnerabilities in Ivanti Sentry",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-008/",
-          "date": "Wednesday, June 10, 2026 01:55:39 PM CEST",
-          "description": "On 9 June 2026, Ivanti released a security advisory addressing two critical vulnerabilities in their Sentry products[1]. An attacker could exploit those flaws to achieve unauthenticated remote code execution on the vulnerable device."
-        },
-        {
-          "title": "2026-007: Critical Vulnerability in Windows Netlogon",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-007/",
-          "date": "Wednesday, June 10, 2026 08:47:08 AM CEST",
-          "description": "On 12 May 2026, Microsoft published a security advisory addressing a critical vulnerability affecting Windows Server when acting as a domain controller. This vulnerability allows an unauthenticated attacker to execute arbitrary code over a network."
-        },
-        {
-          "title": "2026-006: Critical Vulnerability in PAN-OS",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-006/",
-          "date": "Wednesday, May 06, 2026 10:44:32 AM CEST",
-          "description": "On 6 May 2026, Palo Alto published a security advisory addressing a critical vulnerability affecting PAN-OS. This vulnerability allows an unauthenticated attacker to execute arbitrary code with root privileges."
-        },
-        {
-          "title": "2026-005: High Vulnerability in the Linux Kernel (\"Copy Fail\")",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-005/",
-          "date": "Thursday, April 30, 2026 11:25:30 AM CEST",
-          "description": "On 29 April 2026, a high local privilege escalation vulnerability in the Linux kernel, tracked as CVE-2026-31431 and named \"Copy Fail\", was publicly disclosed."
-        },
-        {
-          "title": "2026-004: Critical Vulnerability in SharePoint Exploited",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-004/",
-          "date": "Wednesday, March 25, 2026 08:51:39 AM CET",
-          "description": "On 17 March 2026, Microsoft updated one of its January 2026 security advisories related to a remote code execution vulnerability in Microsoft SharePoint. Specifically, Microsoft raised the CVSS score and changed the FAQ section to indicate that the vulnerability could be exploited by an unauthenticated attacker. This vulnerability was added in the CISA's Known Exploited Vulnerabilities (KEV) catalogue on 18 March 2026."
-        },
-        {
-          "title": "2026-003: Multiple Vulnerabilities in Citrix NetScaler and Citrix ADC",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-003/",
-          "date": "Monday, March 23, 2026 07:03:59 PM CET",
-          "description": "On 23 March 2026, Citrix published a security advisory addressing multiple vulnerabilities affecting NetScaler ADC and NetScaler Gateway. These vulnerabilities may lead to sensitive information disclosure and user session mix-up under specific configurations."
-        },
-        {
-          "title": "2026-002: Multiple Vulnerabilities in Cisco Products",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-002/",
-          "date": "Thursday, February 26, 2026 07:38:52 PM CET",
-          "description": "On 25 February 2026, Cisco released security advisories addressing multiple high and critical severity vulnerabilities in Cisco Catalyst SD-WAN controllers and Cisco SD-WAN Manager. If exploited, these vulnerabilities could allow attackers to gain administrative access to compromised systems."
-        },
-        {
-          "title": "2026-001: Critical vulnerabilities in Ivanti EPMM",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-001/",
-          "date": "Friday, January 30, 2026 10:09:06 AM CET",
-          "description": "On 29 January 2026, Ivanti released a security advisory addressing two critical vulnerabilities in their EPMM products. An attacker could exploit those flaws to achieve unauthenticated remote code execution on the vulnerable device. One of these vulnerabilities have been exploited in a limited number of cases."
         }
       ]
     },
