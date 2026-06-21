@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T15:35:05.261980+00:00",
+  "generated_at": "2026-06-21T15:36:20.276698+00:00",
   "sources": {
     "US-CERT": {
       "items": [
@@ -62,201 +62,6 @@
           "link": "https://www.cisa.gov/news-events/alerts/2026/06/03/cisa-adds-one-known-exploited-vulnerability-catalog",
           "date": "Jun 03, 2026",
           "description": "Visit link for details."
-        }
-      ]
-    },
-    "VulDB": {
-      "items": [
-        {
-          "title": "CVE-2026-12789  ILIAS Learning Management System 11.0 Learning Progress Tracking class.ilTrQuery.php executeQueries troup_table_nav sql injection",
-          "link": "https://vuldb.com/vuln/372531",
-          "date": "Sat, 20 Jun 2026 12:08:50 +0200",
-          "description": "A vulnerability was found in ILIAS Learning Management System 11.0 and classified as critical. This issue affects the function ilTrQuery::executeQueries of the file components/ILIAS/Tracking/classes/c"
-        },
-        {
-          "title": "CVE-2026-12788  zhilink 智互联(深圳)科技有限公司 ADP Application Developer Platform 应用开发者平台 XML Parser import xml external entity reference",
-          "link": "https://vuldb.com/vuln/372530",
-          "date": "Sat, 20 Jun 2026 12:03:50 +0200",
-          "description": "A vulnerability has been found in zhilink 智互联(深圳)科技有限公司 ADP Application Developer Platform 应用开发者平台 1.0.0 and classified as problematic. This vulnerability affects unknown code of the file /adpweb/a/ba"
-        },
-        {
-          "title": "CVE-2026-12787  zhilink 智互联(深圳)科技有限公司 ADP Application Developer Platform 应用开发者平台 testConnection Endpoint deserialization",
-          "link": "https://vuldb.com/vuln/372529",
-          "date": "Sat, 20 Jun 2026 12:03:47 +0200",
-          "description": "A vulnerability, which was classified as critical, was found in zhilink 智互联(深圳)科技有限公司 ADP Application Developer Platform 应用开发者平台 1.0.0. This affects an unknown part of the component testConnection End"
-        },
-        {
-          "title": "CVE-2026-12786  Ezbsystems UltraISO Premium Edition up to 9.76 Kernel Driver bootpt64.sys access control",
-          "link": "https://vuldb.com/vuln/372528",
-          "date": "Sat, 20 Jun 2026 11:59:15 +0200",
-          "description": "A vulnerability, which was classified as critical, has been found in Ezbsystems UltraISO Premium Edition up to 9.76. Affected by this issue is some unknown functionality in the library bootpt64.sys of"
-        },
-        {
-          "title": "CVE-2026-11912  eemitch Simple File List Plugin up to 6.3.7 on WordPress Setting is_admin AllowFrontManage authorization",
-          "link": "https://vuldb.com/vuln/372527",
-          "date": "Sat, 20 Jun 2026 11:57:45 +0200",
-          "description": "A vulnerability classified as critical was found in eemitch Simple File List Plugin up to 6.3.7 on WordPress. Affected by this vulnerability is the function is_admin of the component Setting Handler."
-        },
-        {
-          "title": "CVE-2026-12119  eemitch Simple File List Plugin up to 6.3.7 on WordPress Post Preview Endpoint ee-list-ops-bar-process.php frontmanage authorization",
-          "link": "https://vuldb.com/vuln/372526",
-          "date": "Sat, 20 Jun 2026 11:57:38 +0200",
-          "description": "A vulnerability classified as critical has been found in eemitch Simple File List Plugin up to 6.3.7 on WordPress. Affected is an unknown function of the file includes/ee-list-ops-bar-process.php of t"
-        },
-        {
-          "title": "CVE-2026-11911  eemitch Simple File List Plugin up to 6.3.7 on WordPress Path Validation wp-config.php is_admin path traversal",
-          "link": "https://vuldb.com/vuln/372525",
-          "date": "Sat, 20 Jun 2026 11:57:31 +0200",
-          "description": "A vulnerability described as critical has been identified in eemitch Simple File List Plugin up to 6.3.7 on WordPress. This impacts the function is_admin of the file wp-config.php of the component Pat"
-        },
-        {
-          "title": "CVE-2026-12784  IM-Magic Partition Resizer up to 7.9.0 Kernel Driver MDA_NTDRV.sys access control",
-          "link": "https://vuldb.com/vuln/372524",
-          "date": "Sat, 20 Jun 2026 11:46:45 +0200",
-          "description": "A vulnerability marked as critical has been reported in IM-Magic Partition Resizer up to 7.9.0. This affects an unknown function in the library MDA_NTDRV.sys of the component Kernel Driver. This manip"
-        },
-        {
-          "title": "CVE-2026-12782  EaseUS Partition Master up to 14.5 Kernel Driver EUEDKEPM.sys access control",
-          "link": "https://vuldb.com/vuln/372523",
-          "date": "Sat, 20 Jun 2026 11:45:11 +0200",
-          "description": "A vulnerability labeled as critical has been found in EaseUS Partition Master up to 14.5. The impacted element is an unknown function in the library EUEDKEPM.sys of the component Kernel Driver. The ma"
-        },
-        {
-          "title": "CVE-2026-12781  EaseUS Partition Master up to 14.5 Kernel Driver epmntdrv.sys access control",
-          "link": "https://vuldb.com/vuln/372522",
-          "date": "Sat, 20 Jun 2026 11:45:08 +0200",
-          "description": "A vulnerability identified as critical has been detected in EaseUS Partition Master up to 14.5. The affected element is an unknown function in the library epmntdrv.sys of the component Kernel Driver."
-        }
-      ]
-    },
-    "HK-CERT": {
-      "items": [
-        {
-          "title": "Mozilla Products Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20260618",
-          "date": "Release Date: 18 Jun 2026 ",
-          "description": "Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass, spoofing and sensitive information disclosure on the targeted system."
-        },
-        {
-          "title": "Security Alert - FortiBleed Credential Leak Incident: Over 70,000 Fortinet Devices Suspected to Be Affected by Data and Credential Exposure, Hong Kong Organisations May Be Affected",
-          "link": "https://www.hkcert.org/security-bulletin/security-alert-fortibleed-credential-leak-incident-over-70-000-fortinet-devices-suspected-to-be-affected-by-data-and-credential-exposure-hong-kong-organisations-may-be-affected_20260618",
-          "date": "Release Date: 18 Jun 2026 ",
-          "description": ""
-        },
-        {
-          "title": "RedHat Linux Kernel Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20260602",
-          "date": " Release Date: 2 Jun 2026 ",
-          "description": "Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on..."
-        },
-        {
-          "title": "Jenkins Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/jenkins-multiple-vulnerabilities_20260617",
-          "date": "Release Date: 17 Jun 2026 ",
-          "description": "Multiple vulnerabilities were identified in Jenkins. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, spoofing, security restriction bypass, sensitive information disclosure and cross-site scripting on the targeted system."
-        },
-        {
-          "title": "Oracle Products Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/oracle-products-multiple-vulnerabilities_20260617",
-          "date": "Release Date: 17 Jun 2026 ",
-          "description": "Multiple vulnerabilities were identified in Oracle Products. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, data manipulation, remote code execution, security restriction bypass, elevation of privilege and denial of service condition on the targeted system...."
-        },
-        {
-          "title": "Microsoft Edge Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20260616",
-          "date": "Release Date: 16 Jun 2026 ",
-          "description": "Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, denial of service condition, elevation of privilege, security restriction bypass and sensitive information disclosure on the targeted system.  Note: CVE-2026..."
-        },
-        {
-          "title": "Splunk Products Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/splunk-products-multiple-vulnerabilities_20260612",
-          "date": " Release Date: 12 Jun 2026 ",
-          "description": "Multiple vulnerabilities were identified in Splunk products. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, security restriction bypass and cross-site scripting on the targeted system. Note: Proof of Concept exploit code is publicly available for CVE-..."
-        },
-        {
-          "title": "Phishing Alert - Beware of Booking.com Phishing Messages Exploiting Suspected Leaked Booking Data",
-          "link": "https://www.hkcert.org/security-bulletin/phishing-alert-beware-of-booking-com-phishing-messages-exploiting-suspected-leaked-booking-data_20260615",
-          "date": "Release Date: 15 Jun 2026 ",
-          "description": ""
-        },
-        {
-          "title": "SUSE Linux Kernel Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20260601",
-          "date": " Release Date: 1 Jun 2026 ",
-          "description": "Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, denial of service condition, elevation of privilege, security restriction bypass, sensitive information disclosure, remote code execution and data manipulation on the..."
-        },
-        {
-          "title": "GitLab Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20260612",
-          "date": "Release Date: 12 Jun 2026 ",
-          "description": "Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, denial of service condition, elevation of privilege, sensitive information disclosure, security restriction bypass and data manipulation on the targeted system."
-        }
-      ]
-    },
-    "ZERODAYINITIATIVE": {
-      "items": []
-    },
-    "IBM-X-FORCE-EXCHANGE": {
-      "items": [
-        {
-          "title": "yeoman-environment Vulnerable to Arbitrary Package Installation without User Confirmation (CVE-2026-42089)",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "Jun 16, 2026",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "NVIDIA NeMo Framework for Linux contains a vulnerability where an attacker may cause deserialization of untrusted data (CVE-2026-24228)",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "Jun 16, 2026",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "NVIDIA NeMo Framework for all platforms contains a code injection vulnerability (CVE-2026-24155)",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "Jun 16, 2026",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "PowerStore contains a Stored Cross-Site Scripting Vulnerability in the PowerStore Manager (CVE-2024-30476)",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "Jun 16, 2026",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Harvester's SUSE Virtualization Registration Client Vulnerable to MITM and DOS (CVE-2025-71261)",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "Jun 16, 2026",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "",
-          "description": "Visit link for details"
         }
       ]
     },
@@ -324,8 +129,236 @@
         }
       ]
     },
+    "VulDB": {
+      "items": [
+        {
+          "title": "CVE-2026-12823  Browserbase up to 20260526 Autobrowse Trace Artifact default permission",
+          "link": "https://vuldb.com/vuln/372613",
+          "date": "Sun, 21 Jun 2026 15:22:43 +0200",
+          "description": "A vulnerability, which was classified as problematic, was found in Browserbase up to 20260526. This impacts an unknown function of the component Autobrowse Trace Artifact Handler. The manipulation res"
+        },
+        {
+          "title": "CVE-2026-12822  langflow-ai langflow up to 1.9.3 Bundle URL Loader code injection",
+          "link": "https://vuldb.com/vuln/372612",
+          "date": "Sun, 21 Jun 2026 15:19:51 +0200",
+          "description": "A vulnerability, which was classified as critical, has been found in langflow-ai langflow up to 1.9.3. This affects an unknown function of the component Bundle URL Loader. The manipulation leads to co"
+        },
+        {
+          "title": "CVE-2026-12821  FlowiseAI Flowise up to 3.1.2 S3 Document Loader S3.ts path traversal",
+          "link": "https://vuldb.com/vuln/372611",
+          "date": "Sun, 21 Jun 2026 15:15:58 +0200",
+          "description": "A vulnerability classified as critical was found in FlowiseAI Flowise up to 3.1.2. The impacted element is an unknown function of the file packages/components/nodes/documentloaders/S3/S3.ts of the com"
+        },
+        {
+          "title": "CVE-2026-52911  Linux Kernel up to 7.0.9 ksmbd ksmbd_session_lookup_all state issue (EUVD-2026-38148)",
+          "link": "https://vuldb.com/vuln/372610",
+          "date": "Sun, 21 Jun 2026 11:31:05 +0200",
+          "description": "A vulnerability classified as critical has been found in Linux Kernel up to 7.0.9. The affected element is the function ksmbd_session_lookup_all of the component ksmbd. Performing a manipulation resul"
+        },
+        {
+          "title": "CVE-2026-12815  coollabsio coolify 4.0.0 Image Name os command injection",
+          "link": "https://vuldb.com/vuln/372609",
+          "date": "Sun, 21 Jun 2026 08:34:44 +0200",
+          "description": "A vulnerability described as critical has been identified in coollabsio coolify 4.0.0. Impacted is an unknown function of the component Image Name Handler. Such manipulation leads to os command inject"
+        },
+        {
+          "title": "CVE-2026-12814  Comfast CF-WR631AX V3 up to 2.7.0.8 API Endpoint mbox-config?section=ping_config system destination os command injection",
+          "link": "https://vuldb.com/vuln/372608",
+          "date": "Sun, 21 Jun 2026 08:27:28 +0200",
+          "description": "A vulnerability marked as critical has been reported in Comfast CF-WR631AX V3 up to 2.7.0.8. This issue affects the function system of the file /cgi-bin/mbox-config?section=ping_config of the componen"
+        },
+        {
+          "title": "CVE-2026-12813  activepieces up to 0.83.0 File URL file.ts handleUrlFile server-side request forgery",
+          "link": "https://vuldb.com/vuln/372607",
+          "date": "Sun, 21 Jun 2026 08:22:18 +0200",
+          "description": "A vulnerability labeled as critical has been found in activepieces up to 0.83.0. This vulnerability affects the function handleUrlFile in the library packages/server/engine/src/lib/variables/processor"
+        },
+        {
+          "title": "CVE-2026-12812  Radware Cyber Controller up to 10.11.0 HTML Report Generation HTML injection",
+          "link": "https://vuldb.com/vuln/372606",
+          "date": "Sun, 21 Jun 2026 08:02:47 +0200",
+          "description": "A vulnerability identified as problematic has been detected in Radware Cyber Controller up to 10.11.0. This affects an unknown part of the component HTML Report Generation. The manipulation leads to H"
+        },
+        {
+          "title": "CVE-2026-12811  kortix-ai suna up to 0.8.38 Auth Endpoint page.tsx router.replace/router.push returnURL cross site scripting",
+          "link": "https://vuldb.com/vuln/372605",
+          "date": "Sun, 21 Jun 2026 06:40:02 +0200",
+          "description": "A vulnerability categorized as problematic has been discovered in kortix-ai suna up to 0.8.38. Affected by this issue is the function router.replace/router.push of the file apps/frontend/src/app/auth/"
+        },
+        {
+          "title": "CVE-2026-12810  Edimax BR-6478AC V2 1.23 POST Request /goform/mp command command injection",
+          "link": "https://vuldb.com/vuln/372604",
+          "date": "Sun, 21 Jun 2026 06:25:18 +0200",
+          "description": "A vulnerability was found in Edimax BR-6478AC V2 1.23. It has been rated as critical. Affected by this vulnerability is the function mp of the file /goform/mp of the component POST Request Handler. Pe"
+        }
+      ]
+    },
+    "IBM-X-FORCE-EXCHANGE": {
+      "items": [
+        {
+          "title": "yeoman-environment Vulnerable to Arbitrary Package Installation without User Confirmation (CVE-2026-42089)",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "Jun 16, 2026",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "NVIDIA NeMo Framework for Linux contains a vulnerability where an attacker may cause deserialization of untrusted data (CVE-2026-24228)",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "Jun 16, 2026",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "NVIDIA NeMo Framework for all platforms contains a code injection vulnerability (CVE-2026-24155)",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "Jun 16, 2026",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "PowerStore contains a Stored Cross-Site Scripting Vulnerability in the PowerStore Manager (CVE-2024-30476)",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "Jun 16, 2026",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Harvester's SUSE Virtualization Registration Client Vulnerable to MITM and DOS (CVE-2025-71261)",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "Jun 16, 2026",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "",
+          "description": "Visit link for details"
+        }
+      ]
+    },
+    "HK-CERT": {
+      "items": [
+        {
+          "title": "Mozilla Products Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20260618",
+          "date": "Release Date: 18 Jun 2026 ",
+          "description": "Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass, spoofing and sensitive information disclosure on the targeted system."
+        },
+        {
+          "title": "Security Alert - FortiBleed Credential Leak Incident: Over 70,000 Fortinet Devices Suspected to Be Affected by Data and Credential Exposure, Hong Kong Organisations May Be Affected",
+          "link": "https://www.hkcert.org/security-bulletin/security-alert-fortibleed-credential-leak-incident-over-70-000-fortinet-devices-suspected-to-be-affected-by-data-and-credential-exposure-hong-kong-organisations-may-be-affected_20260618",
+          "date": "Release Date: 18 Jun 2026 ",
+          "description": ""
+        },
+        {
+          "title": "RedHat Linux Kernel Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20260602",
+          "date": " Release Date: 2 Jun 2026 ",
+          "description": "Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on..."
+        },
+        {
+          "title": "Jenkins Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/jenkins-multiple-vulnerabilities_20260617",
+          "date": "Release Date: 17 Jun 2026 ",
+          "description": "Multiple vulnerabilities were identified in Jenkins. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, spoofing, security restriction bypass, sensitive information disclosure and cross-site scripting on the targeted system."
+        },
+        {
+          "title": "Oracle Products Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/oracle-products-multiple-vulnerabilities_20260617",
+          "date": "Release Date: 17 Jun 2026 ",
+          "description": "Multiple vulnerabilities were identified in Oracle Products. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, data manipulation, remote code execution, security restriction bypass, elevation of privilege and denial of service condition on the targeted system...."
+        },
+        {
+          "title": "Microsoft Edge Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20260616",
+          "date": "Release Date: 16 Jun 2026 ",
+          "description": "Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, denial of service condition, elevation of privilege, security restriction bypass and sensitive information disclosure on the targeted system.  Note: CVE-2026..."
+        },
+        {
+          "title": "Splunk Products Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/splunk-products-multiple-vulnerabilities_20260612",
+          "date": " Release Date: 12 Jun 2026 ",
+          "description": "Multiple vulnerabilities were identified in Splunk products. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, security restriction bypass and cross-site scripting on the targeted system. Note: Proof of Concept exploit code is publicly available for CVE-..."
+        },
+        {
+          "title": "Phishing Alert - Beware of Booking.com Phishing Messages Exploiting Suspected Leaked Booking Data",
+          "link": "https://www.hkcert.org/security-bulletin/phishing-alert-beware-of-booking-com-phishing-messages-exploiting-suspected-leaked-booking-data_20260615",
+          "date": "Release Date: 15 Jun 2026 ",
+          "description": ""
+        },
+        {
+          "title": "SUSE Linux Kernel Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20260601",
+          "date": " Release Date: 1 Jun 2026 ",
+          "description": "Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, denial of service condition, elevation of privilege, security restriction bypass, sensitive information disclosure, remote code execution and data manipulation on the..."
+        },
+        {
+          "title": "GitLab Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20260612",
+          "date": "Release Date: 12 Jun 2026 ",
+          "description": "Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, denial of service condition, elevation of privilege, sensitive information disclosure, security restriction bypass and data manipulation on the targeted system."
+        }
+      ]
+    },
     "OBS-Vigilance": {
       "items": [
+        {
+          "title": "FreeIPMI: buffer overflow via ipmi-oem",
+          "link": "https://vigilance.fr/vulnerability/FreeIPMI-buffer-overflow-via-ipmi-oem-50619",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger a buffer overflow of FreeIPMI, via ipmi-oem, in order to trigger a denial of service, and possibly to run code..."
+        },
+        {
+          "title": "TYPO3 Core: unprotected password storage via SetupModuleController",
+          "link": "https://vigilance.fr/vulnerability/TYPO3-Core-unprotected-password-storage-via-SetupModuleController-50617",
+          "date": "Visit link for details",
+          "description": "An attacker can access TYPO3 Core passwords saved by SetupModuleControlle"
+        },
+        {
+          "title": "GNU C Library: assertion error via iconv()",
+          "link": "https://vigilance.fr/vulnerability/GNU-C-Library-assertion-error-via-iconv-50616",
+          "date": "Visit link for details",
+          "description": "An attacker can force an assertion error of GNU C Library, via iconv(), in order to trigger a denial of service..."
+        },
+        {
+          "title": "Ruby Lang ERB: code execution via Marshal.load()",
+          "link": "https://vigilance.fr/vulnerability/Ruby-Lang-ERB-code-execution-via-Marshal-load-50614",
+          "date": "Visit link for details",
+          "description": "An attacker can use a vulnerability of Ruby Lang ERB, via Marshal.load(), in order to run code..."
+        },
+        {
+          "title": "Helm: file write via Chart",
+          "link": "https://vigilance.fr/vulnerability/Helm-file-write-via-Chart-50612",
+          "date": "Visit link for details",
+          "description": "An attacker can bypass access restrictions of Helm, via Chart, in order to alter files..."
+        },
+        {
+          "title": "Helm: memory leak via JSON Schema",
+          "link": "https://vigilance.fr/vulnerability/Helm-memory-leak-via-JSON-Schema-50611",
+          "date": "Visit link for details",
+          "description": "An attacker can create a memory leak of Helm, via JSON Schema, in order to trigger a denial of service..."
+        },
         {
           "title": "Botan: client spoofing via TLS",
           "link": "https://vigilance.fr/vulnerability/Botan-client-spoofing-via-TLS-50608",
@@ -349,42 +382,6 @@
           "link": "https://vigilance.fr/vulnerability/Incus-file-write-via-QEMU-Screenshot-Symlink-50604",
           "date": "Visit link for details",
           "description": "An attacker can bypass access restrictions of Incus, via QEMU Screenshot Symlink, in order to alter files..."
-        },
-        {
-          "title": "MSAL for Python: read-write access via Workflow",
-          "link": "https://vigilance.fr/vulnerability/MSAL-for-Python-read-write-access-via-Workflow-50603",
-          "date": "Visit link for details",
-          "description": "An attacker can bypass access restrictions of MSAL for Python, via Workflow, in order to read or alter data..."
-        },
-        {
-          "title": "LibRaw: integer overflow via uncompressed_fp_dng_load_raw()",
-          "link": "https://vigilance.fr/vulnerability/LibRaw-integer-overflow-via-uncompressed-fp-dng-load-raw-50602",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger an integer overflow of LibRaw, via uncompressed_fp_dng_"
-        },
-        {
-          "title": "LibRaw: buffer overflow via x3f_thumb_loader()",
-          "link": "https://vigilance.fr/vulnerability/LibRaw-buffer-overflow-via-x3f-thumb-loader-50601",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger a buffer overflow of LibRaw, via x3f_thumb_loader(), in order to trigger a denial of service, and possibly to run code..."
-        },
-        {
-          "title": "LibRaw: integer overflow via deflate_dng_load_raw()",
-          "link": "https://vigilance.fr/vulnerability/LibRaw-integer-overflow-via-deflate-dng-load-raw-50600",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger an integer overflow of LibRaw, via deflate_dng_load_"
-        },
-        {
-          "title": "OpenEXR: buffer overflow via exr_decoding_run()",
-          "link": "https://vigilance.fr/vulnerability/OpenEXR-buffer-overflow-via-exr-decoding-run-50598",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger a buffer overflow of OpenEXR, via exr_decoding_run(), in order to trigger a denial of service, and possibly to run code..."
-        },
-        {
-          "title": "OpenEXR: integer overflow via generic_unpack()",
-          "link": "https://vigilance.fr/vulnerability/OpenEXR-integer-overflow-via-generic-unpack-50597",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger an integer overflow of OpenEXR, via generic_unpack(), in order to trigger a denial of service, and possibly to run code..."
         }
       ]
     },
@@ -439,6 +436,9 @@
           "description": "On 29 January 2026, Ivanti released a security advisory addressing two critical vulnerabilities in their EPMM products. An attacker could exploit those flaws to achieve unauthenticated remote code execution on the vulnerable device. One of these vulnerabilities have been exploited in a limited number of cases."
         }
       ]
+    },
+    "ZERODAYINITIATIVE": {
+      "items": []
     },
     "CA-CCS": {
       "items": [
