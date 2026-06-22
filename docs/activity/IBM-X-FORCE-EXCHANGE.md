@@ -4,11 +4,11 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[yeoman-environment Vulnerable to Arbitrary Package Installation without User Confirmation (CVE-2026-42089)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 16, 2026|
- |[NVIDIA NeMo Framework for Linux contains a vulnerability where an attacker may cause deserialization of untrusted data (CVE-2026-24228)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 16, 2026|
- |[NVIDIA NeMo Framework for all platforms contains a code injection vulnerability (CVE-2026-24155)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 16, 2026|
- |[PowerStore contains a Stored Cross-Site Scripting Vulnerability in the PowerStore Manager (CVE-2024-30476)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 16, 2026|
- |[Harvester's SUSE Virtualization Registration Client Vulnerable to MITM and DOS (CVE-2025-71261)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 16, 2026|
+ |[Digiwin｜EasyFlow .NET - Session Fixation (CVE-2026-12581)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 22, 2026|
+ |[Digiwin｜EasyFlow .NET - Stored Cross-Site Scripting (CVE-2026-12580)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 22, 2026|
+ |[Open redirect (CVE-2026-12863)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 22, 2026|
+ |[XLSX formula injection in exports (CVE-2026-12862)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 22, 2026|
+ |[Authentication Bypass for SafeLine SL6 and SL6+ (CVE-2025-4994)](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details|Jun 22, 2026|
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
  |[](https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities)|Visit link for details||
