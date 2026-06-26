@@ -1,8 +1,14 @@
 {
-  "generated_at": "2026-06-25T15:53:18.006098+00:00",
+  "generated_at": "2026-06-26T15:59:45.563214+00:00",
   "sources": {
     "US-CERT": {
       "items": [
+        {
+          "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/06/25/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+          "date": "Jun 25, 2026",
+          "description": "Visit link for details."
+        },
         {
           "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
           "link": "https://www.cisa.gov/news-events/alerts/2026/06/23/cisa-adds-four-known-exploited-vulnerabilities-catalog",
@@ -56,142 +62,75 @@
           "link": "https://www.cisa.gov/news-events/alerts/2026/06/08/cisa-adds-two-known-exploited-vulnerabilities-catalog",
           "date": "Jun 08, 2026",
           "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/06/05/cisa-adds-one-known-exploited-vulnerability-catalog",
-          "date": "Jun 05, 2026",
-          "description": "Visit link for details."
         }
       ]
     },
-    "CERT-FR": {
+    "HK-CERT": {
       "items": [
         {
-          "title": "Multiples vulnérabilités dans Microsoft Azure Linux",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0802/",
-          "date": "Publié le 25 juin 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Azure Linux. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
+          "title": "RedHat Linux Kernel Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20260602",
+          "date": " Release Date: 2 Jun 2026 ",
+          "description": "Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on..."
         },
         {
-          "title": "Multiples vulnérabilités dans Google Chrome",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0801/",
-          "date": "Publié le 25 juin 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
+          "title": "SUSE Linux Kernel Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20260601",
+          "date": " Release Date: 1 Jun 2026 ",
+          "description": "Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, denial of service condition, elevation of privilege, security restriction bypass, sensitive information disclosure, remote code execution and data manipulation on the..."
         },
         {
-          "title": "Multiples vulnérabilités dans CPython",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0800/",
-          "date": "Publié le 25 juin 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans CPython. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données."
+          "title": "Google Chrome Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20260626",
+          "date": "Release Date: 26 Jun 2026 ",
+          "description": "Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system."
         },
         {
-          "title": "Multiples vulnérabilités dans GitLab",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0799/",
-          "date": "Publié le 25 juin 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une falsification de requêtes côté serveur (SSRF) et une injection de code indirecte à distance (XSS)."
+          "title": "GitLab Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20260625",
+          "date": "Release Date: 25 Jun 2026 ",
+          "description": "Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, data manipulation, cross-site scripting and security restriction bypass on the targeted system."
         },
         {
-          "title": "Multiples vulnérabilités dans Microsoft Azure Linux",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0798/",
-          "date": "Publié le 24 juin 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Azure Linux. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
+          "title": "Google Chrome Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20260625",
+          "date": "Release Date: 25 Jun 2026 ",
+          "description": "Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and security restriction bypass on the targeted system."
         },
         {
-          "title": "Multiples vulnérabilités dans cURL et libcurl",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0797/",
-          "date": "Publié le 24 juin 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans cURL et libcurl. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité."
+          "title": "IBM WebSphere Products Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/ibm-websphere-products-multiple-vulnerabilities_20260624",
+          "date": "Release Date: 24 Jun 2026 ",
+          "description": "Multiple vulnerabilities were identified in IBM WebSphere Products. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting and remote code execution on the targeted system."
         },
         {
-          "title": "Multiples vulnérabilités dans Tenable Identity Exposure",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0796/",
-          "date": "Publié le 24 juin 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans Tenable Identity Exposure. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données."
+          "title": "QNAP NAS Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20260624",
+          "date": "Release Date: 24 Jun 2026 ",
+          "description": "Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, remote code execution, denial of service condition, sensitive information disclosure and elevation of privilege on the targeted system."
         },
         {
-          "title": "Multiples vulnérabilités dans Squid",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0795/",
-          "date": "Publié le 23 juin 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans Squid. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un problème de sécurité non spécifié par l'éditeur."
+          "title": "Drupal Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/drupal-multiple-vulnerabilities_20260623",
+          "date": "Release Date: 23 Jun 2026 ",
+          "description": "Multiple vulnerabilities were identified in Drupal Core. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, spoofing, sensitive information disclosure, remote code execution and data manipulation on the targeted system."
         },
         {
-          "title": "Multiples vulnérabilités dans Moodle",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0794/",
-          "date": "Publié le 23 juin 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans Moodle Moodle. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une falsification de requêtes côté serveur (SSRF) et une injection de code indirecte à distance (XSS)."
+          "title": "Node.js Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/node-js-multiple-vulnerabilities_20260622",
+          "date": "Release Date: 22 Jun 2026 ",
+          "description": "Multiple vulnerabilities have been identified in Node.js. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, data manipulation, security restriction bypass, spoofing and sensitive information disclosure on the targeted system."
         },
         {
-          "title": "Multiples vulnérabilités dans Postfix",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0793/",
-          "date": "Publié le 22 juin 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans Postfix. Elles permettent à un attaquant de provoquer un déni de service à distance et un problème de sécurité non spécifié par l'éditeur."
+          "title": "Zimbra Denial of Service Vulnerability",
+          "link": "https://www.hkcert.org/security-bulletin/zimbra-denial-of-service-vulnerability_20260622",
+          "date": "Release Date: 22 Jun 2026 ",
+          "description": "A vulnerability was identified in Zimbra. A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system."
         }
       ]
     },
-    "VulDB": {
-      "items": [
-        {
-          "title": "CVE-2026-57534  pretix pretix-pages up to 1.6.3 cross site scripting",
-          "link": "https://vuldb.com/vuln/373916",
-          "date": "Thu, 25 Jun 2026 16:58:24 +0200",
-          "description": "A vulnerability has been found in pretix pretix-pages up to 1.6.3 and classified as problematic. This vulnerability affects unknown code. This manipulation causes basic cross site scripting.This vul"
-        },
-        {
-          "title": "CVE-2026-13314  pretix pretix-digital up to 1.6.4 cross site scripting",
-          "link": "https://vuldb.com/vuln/373915",
-          "date": "Thu, 25 Jun 2026 16:58:17 +0200",
-          "description": "A vulnerability, which was classified as problematic, was found in pretix pretix-digital up to 1.6.4. This affects an unknown part. The manipulation results in basic cross site scripting.This vulner"
-        },
-        {
-          "title": "CVE-2026-6432  Silicon Labs SiSDK up to 9.0.2 length parameter",
-          "link": "https://vuldb.com/vuln/373914",
-          "date": "Thu, 25 Jun 2026 16:58:09 +0200",
-          "description": "A vulnerability, which was classified as problematic, has been found in Silicon Labs SiSDK up to 9.0.2. Affected by this issue is some unknown functionality. The manipulation leads to improper handlin"
-        },
-        {
-          "title": "CVE-2026-13225  pretix up to 2026.3.3/2026.4.3/2026.5.1 cross site scripting",
-          "link": "https://vuldb.com/vuln/373913",
-          "date": "Thu, 25 Jun 2026 16:58:04 +0200",
-          "description": "A vulnerability classified as problematic was found in pretix up to 2026.3.3/2026.4.3/2026.5.1. Affected by this vulnerability is an unknown functionality. Executing a manipulation can lead to basic c"
-        },
-        {
-          "title": "CVE-2026-57535  pretix up to 2026.3.3/2026.4.3/2026.5.1 cross site scripting",
-          "link": "https://vuldb.com/vuln/373912",
-          "date": "Thu, 25 Jun 2026 16:57:59 +0200",
-          "description": "A vulnerability classified as problematic has been found in pretix up to 2026.3.3/2026.4.3/2026.5.1. Affected is an unknown function. Performing a manipulation results in basic cross site scripting."
-        },
-        {
-          "title": "CVE-2026-46735  Dell Display and Peripheral Manager up to 2.3 os command injection (dsa-2026-267)",
-          "link": "https://vuldb.com/vuln/373911",
-          "date": "Thu, 25 Jun 2026 16:57:51 +0200",
-          "description": "A vulnerability described as critical has been identified in Dell Display and Peripheral Manager up to 2.3. This impacts an unknown function. Such manipulation leads to os command injection.This vul"
-        },
-        {
-          "title": "CVE-2026-57588  Tenable Nessus up to 10.12.0 Scan sql injection",
-          "link": "https://vuldb.com/vuln/373910",
-          "date": "Thu, 25 Jun 2026 16:57:46 +0200",
-          "description": "A vulnerability marked as critical has been reported in Tenable Nessus up to 10.12.0. This affects an unknown function of the component Scan Handler. This manipulation causes sql injection.The ident"
-        },
-        {
-          "title": "CVE-2026-57536  pretix pretix-mollie up to 2.5.5 Payment Status behavioral workflow",
-          "link": "https://vuldb.com/vuln/373909",
-          "date": "Thu, 25 Jun 2026 16:57:22 +0200",
-          "description": "A vulnerability labeled as problematic has been found in pretix pretix-mollie up to 2.5.5. The impacted element is an unknown function of the component Payment Status Handler. The manipulation results"
-        },
-        {
-          "title": "CVE-2026-57533  pretix up to 2026.3.3/2026.4.3/2026.5.1 Content-Security-Policy cross site scripting",
-          "link": "https://vuldb.com/vuln/373908",
-          "date": "Thu, 25 Jun 2026 16:57:11 +0200",
-          "description": "A vulnerability identified as problematic has been detected in pretix up to 2026.3.3/2026.4.3/2026.5.1. The affected element is an unknown function of the component Content-Security-Policy Handler. Th"
-        },
-        {
-          "title": "CVE-2026-57532  pretix up to 2026.3.3/2026.4.3/2026.5.1 cross site scripting",
-          "link": "https://vuldb.com/vuln/373907",
-          "date": "Thu, 25 Jun 2026 16:57:03 +0200",
-          "description": "A vulnerability categorized as problematic has been discovered in pretix up to 2026.3.3/2026.4.3/2026.5.1. Impacted is an unknown function. Executing a manipulation can lead to basic cross site script"
-        }
-      ]
+    "ZERODAYINITIATIVE": {
+      "items": []
     },
     "IBM-X-FORCE-EXCHANGE": {
       "items": [
@@ -257,198 +196,131 @@
         }
       ]
     },
-    "ZERODAYINITIATIVE": {
-      "items": []
-    },
-    "HK-CERT": {
+    "VulDB": {
       "items": [
         {
-          "title": "SUSE Linux Kernel Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20260601",
-          "date": " Release Date: 1 Jun 2026 ",
-          "description": "Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, denial of service condition, elevation of privilege, security restriction bypass, sensitive information disclosure, remote code execution and data manipulation on the..."
+          "title": "CVE-2026-57923  JetBrains YouTrack up to 2026.1.13570 App Configurations Endpoint authorization",
+          "link": "https://vuldb.com/vuln/374163",
+          "date": "Fri, 26 Jun 2026 17:09:02 +0200",
+          "description": "A vulnerability described as problematic has been identified in JetBrains YouTrack. This affects an unknown function of the component App Configurations Endpoint. Such manipulation leads to missing au"
         },
         {
-          "title": "GitLab Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20260625",
-          "date": "Release Date: 25 Jun 2026 ",
-          "description": "Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, data manipulation, cross-site scripting and security restriction bypass on the targeted system."
+          "title": "CVE-2026-57926  JetBrains YouTrack up to 2026.1.13570 prototype pollution",
+          "link": "https://vuldb.com/vuln/374162",
+          "date": "Fri, 26 Jun 2026 17:08:53 +0200",
+          "description": "A vulnerability marked as problematic has been reported in JetBrains YouTrack. The impacted element is an unknown function. This manipulation causes improperly controlled modification of object protot"
         },
         {
-          "title": "Google Chrome Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20260625",
-          "date": "Release Date: 25 Jun 2026 ",
-          "description": "Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution and security restriction bypass on the targeted system."
+          "title": "CVE-2026-57925  JetBrains YouTrack up to 2026.1.13570 authorization",
+          "link": "https://vuldb.com/vuln/374161",
+          "date": "Fri, 26 Jun 2026 17:08:45 +0200",
+          "description": "A vulnerability labeled as problematic has been found in JetBrains YouTrack. The affected element is an unknown function. The manipulation results in missing authorization.This vulnerability is know"
         },
         {
-          "title": "IBM WebSphere Products Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/ibm-websphere-products-multiple-vulnerabilities_20260624",
-          "date": "Release Date: 24 Jun 2026 ",
-          "description": "Multiple vulnerabilities were identified in IBM WebSphere Products. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting and remote code execution on the targeted system."
+          "title": "CVE-2026-57924  JetBrains YouTrack up to 2026.1.13570 Configuration default permission",
+          "link": "https://vuldb.com/vuln/374160",
+          "date": "Fri, 26 Jun 2026 17:08:37 +0200",
+          "description": "A vulnerability identified as critical has been detected in JetBrains YouTrack. Impacted is an unknown function of the component Configuration Handler. The manipulation leads to incorrect default perm"
         },
         {
-          "title": "QNAP NAS Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/qnap-nas-multiple-vulnerabilities_20260624",
-          "date": "Release Date: 24 Jun 2026 ",
-          "description": "Multiple vulnerabilities were identified in QNAP NAS. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, remote code execution, denial of service condition, sensitive information disclosure and elevation of privilege on the targeted system."
+          "title": "CVE-2026-57921  JetBrains YouTrack up to 2026.1.13570 Comment Templates Endpoint authorization",
+          "link": "https://vuldb.com/vuln/374159",
+          "date": "Fri, 26 Jun 2026 17:08:11 +0200",
+          "description": "A vulnerability categorized as problematic has been discovered in JetBrains YouTrack. This issue affects some unknown processing of the component Comment Templates Endpoint. Executing a manipulation c"
         },
         {
-          "title": "Drupal Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/drupal-multiple-vulnerabilities_20260623",
-          "date": "Release Date: 23 Jun 2026 ",
-          "description": "Multiple vulnerabilities were identified in Drupal Core. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, spoofing, sensitive information disclosure, remote code execution and data manipulation on the targeted system."
+          "title": "CVE-2026-57920  Peplink InControl up to 2026-06-03 /rest/o incorrect behavior order",
+          "link": "https://vuldb.com/vuln/374158",
+          "date": "Fri, 26 Jun 2026 17:07:58 +0200",
+          "description": "A vulnerability was found in Peplink InControl up to 2026-06-03. It has been rated as problematic. This vulnerability affects unknown code of the file /rest/o. Performing a manipulation results in inc"
         },
         {
-          "title": "RedHat Linux Kernel Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20260602",
-          "date": " Release Date: 2 Jun 2026 ",
-          "description": "Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. [Updated on..."
+          "title": "CVE-2026-57620  Tim Strifler Exclusive Addons Elementor Plugin up to 2.7.9.8 on WordPress cross site scripting",
+          "link": "https://vuldb.com/vuln/374157",
+          "date": "Fri, 26 Jun 2026 17:07:49 +0200",
+          "description": "A vulnerability was found in Tim Strifler Exclusive Addons Elementor Plugin up to 2.7.9.8 on WordPress. It has been declared as problematic. This affects an unknown part. Such manipulation leads to cr"
         },
         {
-          "title": "Node.js Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/node-js-multiple-vulnerabilities_20260622",
-          "date": "Release Date: 22 Jun 2026 ",
-          "description": "Multiple vulnerabilities have been identified in Node.js. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, data manipulation, security restriction bypass, spoofing and sensitive information disclosure on the targeted system."
+          "title": "CVE-2026-57922  JetBrains YouTrack up to 2026.2.16592 Setting authorization",
+          "link": "https://vuldb.com/vuln/374156",
+          "date": "Fri, 26 Jun 2026 17:07:47 +0200",
+          "description": "A vulnerability was found in JetBrains YouTrack up to 2026.2.16592. It has been classified as problematic. Affected by this issue is some unknown functionality of the component Setting Handler. This m"
         },
         {
-          "title": "Zimbra Denial of Service Vulnerability",
-          "link": "https://www.hkcert.org/security-bulletin/zimbra-denial-of-service-vulnerability_20260622",
-          "date": "Release Date: 22 Jun 2026 ",
-          "description": "A vulnerability was identified in Zimbra. A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system."
+          "title": "CVE-2026-53914  JetBrains Kotlin up to 2.4.19 deserialization",
+          "link": "https://vuldb.com/vuln/374155",
+          "date": "Fri, 26 Jun 2026 17:07:24 +0200",
+          "description": "A vulnerability was found in JetBrains Kotlin up to 2.4.19 and classified as problematic. Affected by this vulnerability is an unknown functionality. The manipulation results in deserialization.This"
         },
         {
-          "title": "Android Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20260622",
-          "date": "Release Date: 22 Jun 2026 ",
-          "description": "Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution and sensitive information disclosure on the targeted system."
+          "title": "CVE-2026-13426  Mattermost Go Module up to 0.1.21 public path traversal",
+          "link": "https://vuldb.com/vuln/374154",
+          "date": "Fri, 26 Jun 2026 17:07:18 +0200",
+          "description": "A vulnerability has been found in Mattermost Go Module up to 0.1.21 and classified as critical. Affected is an unknown function of the file /mattermost/mattermost/server/public. The manipulation leads"
         }
       ]
     },
-    "OBS-Vigilance": {
+    "CERT-FR": {
       "items": [
         {
-          "title": "MongoDB Server: denial of service via _internalApplyOplogUpdate",
-          "link": "https://vigilance.fr/vulnerability/MongoDB-Server-denial-of-service-via-internalApplyOplogUpdate-51445",
-          "date": "Visit link for details",
-          "description": "An attacker can cause a fatal error of MongoDB Server, via _"
+          "title": "Multiples vulnérabilités dans les produits IBM",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0810/",
+          "date": "Publié le 26 juin 2026",
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance."
         },
         {
-          "title": "MongoDB Server: information disclosure via MD5 Failures",
-          "link": "https://vigilance.fr/vulnerability/MongoDB-Server-information-disclosure-via-MD5-Failures-51444",
-          "date": "Visit link for details",
-          "description": "An attacker can bypass access restrictions to data of MongoDB Server, via MD5 Failures, in order to read sensitive information..."
+          "title": "Multiples vulnérabilités dans le noyau Linux de Debian",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0809/",
+          "date": "Publié le 26 juin 2026",
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service."
         },
         {
-          "title": "Python Core: file corruption via shutil.move",
-          "link": "https://vigilance.fr/vulnerability/Python-Core-file-corruption-via-shutil-move-51442",
-          "date": "Visit link for details",
-          "description": "An attacker can create a symbolic link, in order to alter the pointed file, with privileges of Python Core, via shutil.move..."
+          "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0808/",
+          "date": "Publié le 26 juin 2026",
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance."
         },
         {
-          "title": "AMD Epyc: memory corruption via IOMMU",
-          "link": "https://vigilance.fr/vulnerability/AMD-Epyc-memory-corruption-via-IOMMU-51439",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger a memory corruption of AMD Epyc, via IOMMU, in order to trigger a denial of service, and possibly to run code..."
+          "title": "Multiples vulnérabilités dans le noyau Linux de SUSE",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0807/",
+          "date": "Publié le 26 juin 2026",
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité."
         },
         {
-          "title": "ImageMagick: memory leak via wand",
-          "link": "https://vigilance.fr/vulnerability/ImageMagick-memory-leak-via-wand-51432",
-          "date": "Visit link for details",
-          "description": "An attacker can create a memory leak of ImageMagick, via wand, in order to trigger a denial of service..."
+          "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0806/",
+          "date": "Publié le 26 juin 2026",
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un contournement de la politique de sécurité."
         },
         {
-          "title": "ImageMagick: NULL pointer dereference via distort",
-          "link": "https://vigilance.fr/vulnerability/ImageMagick-NULL-pointer-dereference-via-distort-51431",
-          "date": "Visit link for details",
-          "description": "An attacker can force a NULL pointer to be dereferenced on ImageMagick, via distort, in order to trigger a denial of service..."
+          "title": "Multiples vulnérabilités dans Asterisk",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0805/",
+          "date": "Publié le 26 juin 2026",
+          "description": "De multiples vulnérabilités ont été découvertes dans Asterisk. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et un contournement de la politique de sécurité."
         },
         {
-          "title": "ImageMagick: memory leak via AcquireAlignedMemory()",
-          "link": "https://vigilance.fr/vulnerability/ImageMagick-memory-leak-via-AcquireAlignedMemory-51428",
-          "date": "Visit link for details",
-          "description": "An attacker can create a memory leak of ImageMagick, via AcquireAlignedMemory"
+          "title": "Multiples vulnérabilités dans Tenable Nessus",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0804/",
+          "date": "Publié le 26 juin 2026",
+          "description": "De multiples vulnérabilités ont été découvertes dans Tenable Nessus. Elles permettent à un attaquant de provoquer une injection SQL (SQLi)."
         },
         {
-          "title": "MongoDB Server: denial of service via BSONColumn Nesting",
-          "link": "https://vigilance.fr/vulnerability/MongoDB-Server-denial-of-service-via-BSONColumn-Nesting-51426",
-          "date": "Visit link for details",
-          "description": "An attacker can cause a fatal error of MongoDB Server, via BSONColumn Nesting, in order to trigger a denial of service..."
+          "title": "Multiples vulnérabilités dans Google Chrome",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0803/",
+          "date": "Publié le 26 juin 2026",
+          "description": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
         },
         {
-          "title": "MongoDB Server: NULL pointer dereference via reattachToOperationContext()",
-          "link": "https://vigilance.fr/vulnerability/MongoDB-Server-NULL-pointer-dereference-via-reattachToOperationContext-51425",
-          "date": "Visit link for details",
-          "description": "An attacker can force a NULL pointer to be dereferenced on MongoDB Server, via reattachToOperationC"
+          "title": "Multiples vulnérabilités dans Microsoft Azure Linux",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0802/",
+          "date": "Publié le 25 juin 2026",
+          "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Azure Linux. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
         },
         {
-          "title": "MongoDB Server: denial of service via IDL runtimeConstants.userRoles",
-          "link": "https://vigilance.fr/vulnerability/MongoDB-Server-denial-of-service-via-IDL-runtimeConstants-userRoles-51424",
-          "date": "Visit link for details",
-          "description": "An attacker can cause a fatal error of MongoDB Server, via IDL runtimeConstants."
-        }
-      ]
-    },
-    "CA-CCS": {
-      "items": [
-        {
-          "title": "HPE security advisory (AV26-633)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av26-633",
-          "date": "2026-06-25",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "HPE security advisory (AV26-632)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av26-632",
-          "date": "2026-06-25",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Drupal security advisory (AV26-631)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av26-631",
-          "date": "2026-06-25",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "GitLab security advisory (AV26-630)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av26-630",
-          "date": "2026-06-24",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Jenkins security advisory (AV26-629)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av26-629",
-          "date": "2026-06-24",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "n8n security advisory (AV26-628)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/n8n-security-advisory-av26-628",
-          "date": "2026-06-24",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Tenable security advisory (AV26-627)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/tenable-security-advisory-av26-627",
-          "date": "2026-06-24",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Google Chrome security advisory (AV26-626)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av26-626",
-          "date": "2026-06-24",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "[Control systems] CISA ICS security advisories (AV26–241) – Update 1",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av26-241",
-          "date": "2026-06-23",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Ubiquiti security advisory (AV26-498) – Update 1",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/ubiquiti-security-advisory-av26-498",
-          "date": "2026-06-23",
-          "description": "Visit link for details"
+          "title": "Multiples vulnérabilités dans Google Chrome",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0801/",
+          "date": "Publié le 25 juin 2026",
+          "description": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
         }
       ]
     },
@@ -504,7 +376,74 @@
         }
       ]
     },
+    "CA-CCS": {
+      "items": [
+        {
+          "title": "Google Chrome security advisory (AV26-634)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av26-634",
+          "date": "2026-06-26",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Cisco security advisory (AV26-547) – Update 1",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av26-547",
+          "date": "2026-06-25",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "HPE security advisory (AV26-633)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av26-633",
+          "date": "2026-06-25",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "HPE security advisory (AV26-632)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av26-632",
+          "date": "2026-06-25",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Drupal security advisory (AV26-631)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av26-631",
+          "date": "2026-06-25",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "GitLab security advisory (AV26-630)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av26-630",
+          "date": "2026-06-24",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Jenkins security advisory (AV26-629)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av26-629",
+          "date": "2026-06-24",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "n8n security advisory (AV26-628)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/n8n-security-advisory-av26-628",
+          "date": "2026-06-24",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Tenable security advisory (AV26-627)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/tenable-security-advisory-av26-627",
+          "date": "2026-06-24",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Google Chrome security advisory (AV26-626)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av26-626",
+          "date": "2026-06-24",
+          "description": "Visit link for details"
+        }
+      ]
+    },
     "MA-CERT": {
+      "items": []
+    },
+    "OBS-Vigilance": {
       "items": []
     }
   }
