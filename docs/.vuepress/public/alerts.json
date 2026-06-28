@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T15:29:01.078342+00:00",
+  "generated_at": "2026-06-28T15:29:53.270312+00:00",
   "sources": {
     "CERT-FR": {
       "items": [
@@ -129,69 +129,8 @@
         }
       ]
     },
-    "VulDB": {
-      "items": [
-        {
-          "title": "CVE-2026-13482  skypilot-org skypilot up to 0.12.0 User ID sky/users/server.py username.encode weak hash (Issue 9194)",
-          "link": "https://vuldb.com/vuln/374479",
-          "date": "Sat, 27 Jun 2026 15:59:29 +0200",
-          "description": "A vulnerability was found in skypilot-org skypilot up to 0.12.0. It has been declared as problematic. Impacted is the function username.encode of the file sky/users/server.py of the component User ID"
-        },
-        {
-          "title": "CVE-2026-49414  FreeBSD ELF Image early validation (EUVD-2026-39966)",
-          "link": "https://vuldb.com/vuln/374478",
-          "date": "Sat, 27 Jun 2026 12:08:21 +0200",
-          "description": "A vulnerability was found in FreeBSD. It has been classified as critical. This issue affects some unknown processing of the component ELF Image Handler. The manipulation leads to incorrect behavior or"
-        },
-        {
-          "title": "CVE-2026-49416  FreeBSD integer overflow (EUVD-2026-39960)",
-          "link": "https://vuldb.com/vuln/374477",
-          "date": "Sat, 27 Jun 2026 12:08:12 +0200",
-          "description": "A vulnerability was found in FreeBSD and classified as critical. This vulnerability affects unknown code. Executing a manipulation can lead to integer overflow.This vulnerability is handled as CVE-2"
-        },
-        {
-          "title": "CVE-2026-49417  FreeBSD Kernel Memory /dev/dsp use after free (EUVD-2026-39961)",
-          "link": "https://vuldb.com/vuln/374476",
-          "date": "Sat, 27 Jun 2026 11:55:08 +0200",
-          "description": "A vulnerability has been found in FreeBSD and classified as critical. This affects an unknown part of the file /dev/dsp of the component Kernel Memory Handler. Performing a manipulation results in use"
-        },
-        {
-          "title": "CVE-2026-49413  FreeBSD Shared Library privileges assignment (EUVD-2026-39965)",
-          "link": "https://vuldb.com/vuln/374475",
-          "date": "Sat, 27 Jun 2026 11:54:56 +0200",
-          "description": "A vulnerability, which was classified as problematic, was found in FreeBSD. Affected by this issue is some unknown functionality of the component Shared Library Handler. Such manipulation leads to inc"
-        },
-        {
-          "title": "CVE-2026-45258  FreeBSD Kernel Memory /dev/dsp dsp_mmap_single out-of-bounds (EUVD-2026-39962)",
-          "link": "https://vuldb.com/vuln/374474",
-          "date": "Sat, 27 Jun 2026 11:52:59 +0200",
-          "description": "A vulnerability, which was classified as critical, has been found in FreeBSD. Affected by this vulnerability is the function dsp_mmap_single of the file /dev/dsp of the component Kernel Memory Handler"
-        },
-        {
-          "title": "CVE-2026-49412  FreeBSD use after free (EUVD-2026-39964)",
-          "link": "https://vuldb.com/vuln/374473",
-          "date": "Sat, 27 Jun 2026 11:52:46 +0200",
-          "description": "A vulnerability classified as critical was found in FreeBSD. Affected is an unknown function. The manipulation results in use after free.This vulnerability is reported as CVE-2026-49412. The attack"
-        },
-        {
-          "title": "CVE-2026-12399  jegstudio Gutenverse Plugin up to 3.8.0 on WordPress Setting cross site scripting (EUVD-2026-39959)",
-          "link": "https://vuldb.com/vuln/374472",
-          "date": "Sat, 27 Jun 2026 11:52:36 +0200",
-          "description": "A vulnerability classified as problematic has been found in jegstudio Gutenverse Plugin up to 3.8.0 on WordPress. This impacts an unknown function of the component Setting Handler. The manipulation le"
-        },
-        {
-          "title": "CVE-2026-11597  surbma Surbma Plugin up to 2.0.1 on WordPress Shortcode surbma_infusionsoft_shortcode_shortcode ID cross site scripting (EUVD-2026-39956)",
-          "link": "https://vuldb.com/vuln/374471",
-          "date": "Sat, 27 Jun 2026 11:52:21 +0200",
-          "description": "A vulnerability described as problematic has been identified in surbma Surbma Plugin up to 2.0.1 on WordPress. This affects the function surbma_infusionsoft_shortcode_shortcode of the component Shortc"
-        },
-        {
-          "title": "CVE-2026-45259  FreeBSD Capability Mode privileges assignment (EUVD-2026-39963)",
-          "link": "https://vuldb.com/vuln/374470",
-          "date": "Sat, 27 Jun 2026 11:52:17 +0200",
-          "description": "A vulnerability marked as problematic has been reported in FreeBSD. The impacted element is an unknown function of the component Capability Mode. Performing a manipulation results in incorrect privile"
-        }
-      ]
+    "ZERODAYINITIATIVE": {
+      "items": []
     },
     "IBM-X-FORCE-EXCHANGE": {
       "items": [
@@ -215,6 +154,12 @@
         },
         {
           "title": "XLSX formula injection in exports (CVE-2026-12862)",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "Jun 22, 2026",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Authentication Bypass for SafeLine SL6 and SL6+ (CVE-2025-4994)",
           "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
           "date": "Jun 22, 2026",
           "description": "Visit link for details"
@@ -248,17 +193,72 @@
           "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
           "date": "",
           "description": "Visit link for details"
-        },
-        {
-          "title": "",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "",
-          "description": "Visit link for details"
         }
       ]
     },
-    "ZERODAYINITIATIVE": {
-      "items": []
+    "VulDB": {
+      "items": [
+        {
+          "title": "CVE-2026-13551  itsourcecode Baptism Information Management System 1.0 /editBaptism.php ID sql injection",
+          "link": "https://vuldb.com/vuln/374559",
+          "date": "Sun, 28 Jun 2026 13:09:02 +0200",
+          "description": "A vulnerability, which was classified as critical, was found in itsourcecode Baptism Information Management System 1.0. This affects an unknown function of the file /editBaptism.php. Such manipulation"
+        },
+        {
+          "title": "CVE-2026-13550  itsourcecode Baptism Information Management System 1.0 /delbaptism.php ID sql injection",
+          "link": "https://vuldb.com/vuln/374558",
+          "date": "Sun, 28 Jun 2026 13:08:59 +0200",
+          "description": "A vulnerability, which was classified as critical, has been found in itsourcecode Baptism Information Management System 1.0. The impacted element is an unknown function of the file /delbaptism.php. Th"
+        },
+        {
+          "title": "CVE-2026-13549  CodeAstro Complaint Management System 1.0 Report Endpoint Report.php deletereport authorization",
+          "link": "https://vuldb.com/vuln/374557",
+          "date": "Sun, 28 Jun 2026 13:07:50 +0200",
+          "description": "A vulnerability classified as problematic was found in CodeAstro Complaint Management System 1.0. The affected element is the function deletereport of the file application/controllers/Report.php of th"
+        },
+        {
+          "title": "CVE-2026-13548  itsourcecode Hospital Management System 1.0 /doctortimings.php editid sql injection",
+          "link": "https://vuldb.com/vuln/374556",
+          "date": "Sun, 28 Jun 2026 13:06:02 +0200",
+          "description": "A vulnerability classified as critical has been found in itsourcecode Hospital Management System 1.0. Impacted is an unknown function of the file /doctortimings.php. The manipulation of the argument e"
+        },
+        {
+          "title": "CVE-2026-13547  Hanwang e-Face General Management Platform 6.3.5.4 upload.do File unrestricted upload",
+          "link": "https://vuldb.com/vuln/374555",
+          "date": "Sun, 28 Jun 2026 13:05:10 +0200",
+          "description": "A vulnerability described as critical has been identified in Hanwang e-Face General Management Platform 6.3.5.4. This issue affects some unknown processing of the file /manage/resourceUpload/upload.do"
+        },
+        {
+          "title": "CVE-2026-13546  Feehi CMS up to 2.1.1 REST API Endpoint /api/articles missing authentication (Issue 87)",
+          "link": "https://vuldb.com/vuln/374554",
+          "date": "Sun, 28 Jun 2026 13:03:09 +0200",
+          "description": "A vulnerability marked as critical has been reported in Feehi CMS up to 2.1.1. This vulnerability affects unknown code of the file /api/articles of the component REST API Endpoint. Performing a manipu"
+        },
+        {
+          "title": "CVE-2026-13545  D-Link DCS-935L 1.10.01 POST Parameter setconf.cgi sub_400E40 UID os command injection",
+          "link": "https://vuldb.com/vuln/374553",
+          "date": "Sun, 28 Jun 2026 12:22:10 +0200",
+          "description": "A vulnerability labeled as critical has been found in D-Link DCS-935L 1.10.01. This affects the function sub_400E40 of the file setconf.cgi of the component POST Parameter Handler. Such manipulation o"
+        },
+        {
+          "title": "CVE-2026-13544  Feehi CMS up to 2.1.1 API /api/users access control (Issue 88)",
+          "link": "https://vuldb.com/vuln/374552",
+          "date": "Sun, 28 Jun 2026 12:20:25 +0200",
+          "description": "A vulnerability identified as critical has been detected in Feehi CMS up to 2.1.1. Affected by this issue is some unknown functionality of the file /api/users of the component API. This manipulation c"
+        },
+        {
+          "title": "CVE-2026-13543  Documenso up to 2.11.0 Google OAuth Login handle-oauth-callback-url.ts improper authentication (Issue 2758)",
+          "link": "https://vuldb.com/vuln/374551",
+          "date": "Sun, 28 Jun 2026 12:17:05 +0200",
+          "description": "A vulnerability categorized as critical has been discovered in Documenso up to 2.11.0. Affected by this vulnerability is an unknown functionality of the file packages/auth/server/lib/utils/handle-oaut"
+        },
+        {
+          "title": "CVE-2026-13542  itsourcecode Hospital Management System 1.0 /doctorprofile.php doctorname sql injection",
+          "link": "https://vuldb.com/vuln/374550",
+          "date": "Sun, 28 Jun 2026 12:14:07 +0200",
+          "description": "A vulnerability was found in itsourcecode Hospital Management System 1.0. It has been rated as critical. Affected is an unknown function of the file /doctorprofile.php. The manipulation of the argumen"
+        }
+      ]
     },
     "HK-CERT": {
       "items": [
@@ -324,70 +324,6 @@
         }
       ]
     },
-    "OBS-Vigilance": {
-      "items": [
-        {
-          "title": "libde265: buffer overflow via HEVC Bitstream",
-          "link": "https://vigilance.fr/vulnerability/libde265-buffer-overflow-via-HEVC-Bitstream-50700",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger a buffer overflow of libde265, via HEVC Bitstream, in order to trigger a denial of service, and possibly to run code..."
-        },
-        {
-          "title": "libde265: denial of service via H.265 PPS NAL Unit",
-          "link": "https://vigilance.fr/vulnerability/libde265-denial-of-service-via-H-265-PPS-NAL-Unit-50699",
-          "date": "Visit link for details",
-          "description": "An attacker can cause a fatal error of libde265, via H.265 PPS NAL Unit, in order to trigger a denial of service..."
-        },
-        {
-          "title": "ImageMagick: buffer overflow via XTileImage()",
-          "link": "https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-XTileImage-50698",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger a buffer overflow of ImageMagick, via XTileImage(), in order to trigger a denial of service, and possibly to run code..."
-        },
-        {
-          "title": "Notepad++: two vulnerabilities dated 27/04/2026",
-          "link": "https://vigilance.fr/vulnerability/Notepad-two-vulnerabilities-dated-27-04-2026-50697",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of Notepad++, dated 27/04/2026..."
-        },
-        {
-          "title": "HAProxy: header injection via HTTP/2 Incomplete Transfer Detection",
-          "link": "https://vigilance.fr/vulnerability/HAProxy-header-injection-via-HTTP-2-Incomplete-Transfer-Detection-50695",
-          "date": "Visit link for details",
-          "description": "An attacker can add new headers on HAProxy, via HTTP/2 Incomplete Transfer Detection, in order to alter the service behavior..."
-        },
-        {
-          "title": "Coturn: denial of service via Attribute Parsing",
-          "link": "https://vigilance.fr/vulnerability/Coturn-denial-of-service-via-Attribute-Parsing-50693",
-          "date": "Visit link for details",
-          "description": "An attacker can cause a fatal error of Coturn, via Attribute Parsing, in order to trigger a denial of service..."
-        },
-        {
-          "title": "Linux kernel: multiple vulnerabilities dated 27/04/2026",
-          "link": "https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-27-04-2026-50692",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of the Linux kernel, dated 27/04/2026..."
-        },
-        {
-          "title": "OpenStack Ironic: read-write access via pxe_template",
-          "link": "https://vigilance.fr/vulnerability/OpenStack-Ironic-read-write-access-via-pxe-template-51483",
-          "date": "Visit link for details",
-          "description": "An attacker can bypass access restrictions of OpenStack Ironic, via pxe_template, in order to read or alter data..."
-        },
-        {
-          "title": "Squid: buffer overflow via SNMP OID ASN.1 Encoding",
-          "link": "https://vigilance.fr/vulnerability/Squid-buffer-overflow-via-SNMP-OID-ASN-1-Encoding-48325",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger a buffer overflow of Squid, via SNMP OID ASN.1 Encoding, in order to trigger a denial of service, and possibly to run code..."
-        },
-        {
-          "title": "Cisco ASA: code execution via VPN Web Server",
-          "link": "https://vigilance.fr/vulnerability/Cisco-ASA-code-execution-via-VPN-Web-Server-48323",
-          "date": "Visit link for details",
-          "description": "An attacker can use a vulnerability of Cisco ASA, via VPN Web Server, in order to run code..."
-        }
-      ]
-    },
     "EU-CERT": {
       "items": [
         {
@@ -437,6 +373,70 @@
           "link": "https://cert.europa.eu/publications/security-advisories/2026-001/",
           "date": "Friday, January 30, 2026 10:09:06 AM CET",
           "description": "On 29 January 2026, Ivanti released a security advisory addressing two critical vulnerabilities in their EPMM products. An attacker could exploit those flaws to achieve unauthenticated remote code execution on the vulnerable device. One of these vulnerabilities have been exploited in a limited number of cases."
+        }
+      ]
+    },
+    "OBS-Vigilance": {
+      "items": [
+        {
+          "title": "Linux kernel: double free via Xen Privcmd VMA Splitting",
+          "link": "https://vigilance.fr/vulnerability/Linux-kernel-double-free-via-Xen-Privcmd-VMA-Splitting-50720",
+          "date": "Visit link for details",
+          "description": "An attacker, in a guest system, can force a double memory free of the Linux kernel, via Xen Privcmd VMA Splitting, in order to trigger a denial of service, and possibly to run code..."
+        },
+        {
+          "title": "Xen: privilege escalation via Grant Table Status Page Mapping",
+          "link": "https://vigilance.fr/vulnerability/Xen-privilege-escalation-via-Grant-Table-Status-Page-Mapping-50719",
+          "date": "Visit link for details",
+          "description": "An attacker, in a guest system, can bypass restrictions of Xen, via Grant Table Status Page Mapping, in order to escalate his privileges..."
+        },
+        {
+          "title": "Linux kernel: buffer overflow via drivers/xen/sys-hypervisor.c",
+          "link": "https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-drivers-xen-sys-hypervisor-c-50718",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger a buffer overflow of the Linux kernel, via drivers/xen/sys-"
+        },
+        {
+          "title": "Xen: denial of service via Xenstored XS_RESET_WATCHES",
+          "link": "https://vigilance.fr/vulnerability/Xen-denial-of-service-via-Xenstored-XS-RESET-WATCHES-50717",
+          "date": "Visit link for details",
+          "description": "An attacker, in a guest system, can cause a fatal error of Xen, via Xenstored XS_RESET_WATCHES, in order to trigger a denial of service..."
+        },
+        {
+          "title": "Xen: overload via Xenstored Kept Quota",
+          "link": "https://vigilance.fr/vulnerability/Xen-overload-via-Xenstored-Kept-Quota-50716",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger an overload of Xen, via Xenstored Kept Quota, in order to trigger a denial of service..."
+        },
+        {
+          "title": "libcoap: out-of-bounds memory reading via OSCORE",
+          "link": "https://vigilance.fr/vulnerability/libcoap-out-of-bounds-memory-reading-via-OSCORE-50713",
+          "date": "Visit link for details",
+          "description": "An attacker can force a read at an invalid memory address of libcoap, via OSCORE, in order to trigger a denial of service, or to obtain sensitive information..."
+        },
+        {
+          "title": "ProFTPD: SQL injection via mod_sql",
+          "link": "https://vigilance.fr/vulnerability/ProFTPD-SQL-injection-via-mod-sql-50712",
+          "date": "Visit link for details",
+          "description": "An attacker can use a SQL injection of ProFTPD, via mod_sql, in order to read or alter data..."
+        },
+        {
+          "title": "MIT krb5: two vulnerabilities dated 28/04/2026",
+          "link": "https://vigilance.fr/vulnerability/MIT-krb5-two-vulnerabilities-dated-28-04-2026-50711",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of MIT krb5, dated 28/04/2026..."
+        },
+        {
+          "title": "Python Core: directory traversal via shutil.unpack_archive()",
+          "link": "https://vigilance.fr/vulnerability/Python-Core-directory-traversal-via-shutil-unpack-archive-50710",
+          "date": "Visit link for details",
+          "description": "An attacker can traverse directories of Python Core, via shutil.unpack_"
+        },
+        {
+          "title": "mpg123: memory corruption via API Calls",
+          "link": "https://vigilance.fr/vulnerability/mpg123-memory-corruption-via-API-Calls-50709",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger a memory corruption of mpg123, via API Calls, in order to trigger a denial of service, and possibly to run code..."
         }
       ]
     },
