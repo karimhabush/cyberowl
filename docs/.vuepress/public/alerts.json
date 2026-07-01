@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T15:52:09.989398+00:00",
+  "generated_at": "2026-07-01T15:54:25.886496+00:00",
   "sources": {
     "US-CERT": {
       "items": [
@@ -95,12 +95,6 @@
           "description": "Visit link for details"
         },
         {
-          "title": "Authentication Bypass for SafeLine SL6 and SL6+ (CVE-2025-4994)",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "Jun 22, 2026",
-          "description": "Visit link for details"
-        },
-        {
           "title": "New vulnerability",
           "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
           "date": "Jun 22, 2026",
@@ -129,75 +123,35 @@
           "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
           "date": "",
           "description": "Visit link for details"
-        }
-      ]
-    },
-    "VulDB": {
-      "items": [
-        {
-          "title": "CVE-2025-53648  Apache Gravitino prior 1.0.0 UI privilege escalation",
-          "link": "https://vuldb.com/vuln/374832",
-          "date": "Tue, 30 Jun 2026 15:07:28 +0200",
-          "description": "A vulnerability identified as problematic has been detected in Apache Gravitino. The affected element is an unknown function of the component UI. The manipulation leads to privilege escalation.This"
         },
         {
-          "title": "CVE-2026-6954  Intermark IT WebControl CMS up to 3.5 URL /portal.do urlDestino cross site scripting (EUVD-2026-40271)",
-          "link": "https://vuldb.com/vuln/374831",
-          "date": "Tue, 30 Jun 2026 15:06:28 +0200",
-          "description": "A vulnerability categorized as problematic has been discovered in Intermark IT WebControl CMS up to 3.5. Impacted is an unknown function of the file /portal.do of the component URL Handler. Executing"
-        },
-        {
-          "title": "CVE-2026-8403  SYSGUARD 6001 up to 2.0.1 cross site scripting",
-          "link": "https://vuldb.com/vuln/374830",
-          "date": "Tue, 30 Jun 2026 15:06:19 +0200",
-          "description": "A vulnerability was found in Eksagate Electronic Engineering and Computer Industry Trade SYSGUARD 6001 up to 2.0.1. It has been rated as problematic. This issue affects some unknown processing. Perfor"
-        },
-        {
-          "title": "CVE-2026-10763  Hitachi Energy PROMOD V up to 1.0.10 Remote Code Execution (EUVD-2026-40275)",
-          "link": "https://vuldb.com/vuln/374829",
-          "date": "Tue, 30 Jun 2026 15:03:11 +0200",
-          "description": "A vulnerability was found in Hitachi Energy PROMOD V up to 1.0.10. It has been declared as critical. This vulnerability affects unknown code. Such manipulation leads to Remote Code Execution.This vu"
-        },
-        {
-          "title": "CVE-2026-53433  fzf up to 0.73.0 Listen Mode algorithmic complexity",
-          "link": "https://vuldb.com/vuln/374828",
-          "date": "Tue, 30 Jun 2026 15:03:05 +0200",
-          "description": "A vulnerability was found in fzf up to 0.73.0. It has been classified as problematic. This affects an unknown part of the component Listen Mode. This manipulation causes inefficient algorithmic comple"
-        },
-        {
-          "title": "CVE-2026-53432  fzf up to 0.73.0 FuzzyMatchV2 integer overflow",
-          "link": "https://vuldb.com/vuln/374827",
-          "date": "Tue, 30 Jun 2026 15:02:53 +0200",
-          "description": "A vulnerability was found in fzf up to 0.73.0 and classified as problematic. Affected by this issue is the function FuzzyMatchV2. The manipulation results in integer overflow.This vulnerability is i"
-        },
-        {
-          "title": "CVE-2026-4629  Keycloak on Red Hat privileges assignment",
-          "link": "https://vuldb.com/vuln/374826",
-          "date": "Tue, 30 Jun 2026 15:02:36 +0200",
-          "description": "A vulnerability has been found in Keycloak on Red Hat and classified as problematic. Affected by this vulnerability is an unknown functionality. The manipulation leads to incorrect privilege assignmen"
-        },
-        {
-          "title": "CVE-2026-8402  SYSGUARD 6001 up to 2.0.1 sql injection (EUVD-2026-40296)",
-          "link": "https://vuldb.com/vuln/374825",
-          "date": "Tue, 30 Jun 2026 15:02:28 +0200",
-          "description": "A vulnerability, which was classified as critical, was found in Eksagate Electronic Engineering and Computer Industry Trade SYSGUARD 6001 up to 2.0.1. Affected is an unknown function. Executing a mani"
-        },
-        {
-          "title": "CVE-2026-57082  SANKO Net::BitTorrent up to 2.0.1 on Perl Private Key KeyExchange.pm rand weak prng (GHSA-g444-x2c5-94hc / EUVD-2026-40291)",
-          "link": "https://vuldb.com/vuln/374824",
-          "date": "Tue, 30 Jun 2026 14:57:21 +0200",
-          "description": "A vulnerability, which was classified as problematic, has been found in SANKO Net::BitTorrent up to 2.0.1 on Perl. This impacts the function rand of the file KeyExchange.pm of the component Private Ke"
-        },
-        {
-          "title": "CVE-2026-44946  SUSE Rancher up to 2.11.14/2.12.10/2.13.6/2.14.2 Assertion Consumer Service authentication replay",
-          "link": "https://vuldb.com/vuln/374823",
-          "date": "Tue, 30 Jun 2026 14:57:13 +0200",
-          "description": "A vulnerability classified as problematic was found in SUSE Rancher up to 2.11.14/2.12.10/2.13.6/2.14.2. This affects an unknown function of the component Assertion Consumer Service. Such manipulation"
+          "title": "",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "",
+          "description": "Visit link for details"
         }
       ]
     },
     "CERT-FR": {
       "items": [
+        {
+          "title": "Multiples vulnérabilités dans les produits Citrix",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0822/",
+          "date": "Publié le 01 juillet 2026",
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Citrix. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un problème de sécurité non spécifié par l'éditeur."
+        },
+        {
+          "title": "Multiples vulnérabilités dans Adobe ColdFusion",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0821/",
+          "date": "Publié le 01 juillet 2026",
+          "description": "De multiples vulnérabilités ont été découvertes dans Adobe ColdFusion. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données."
+        },
+        {
+          "title": "Vulnérabilité dans Mozilla Firefox",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0820/",
+          "date": "Publié le 01 juillet 2026",
+          "description": "Une vulnérabilité a été découverte dans Mozilla Firefox. Elle permet à un attaquant de provoquer une exécution de code arbitraire."
+        },
         {
           "title": "Multiples vulnérabilités dans Synology MailPlus Server",
           "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0819/",
@@ -239,24 +193,70 @@
           "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0813/",
           "date": "Publié le 29 juin 2026",
           "description": "De multiples vulnérabilités ont été découvertes dans Mattermost Server. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
+        }
+      ]
+    },
+    "VulDB": {
+      "items": [
+        {
+          "title": "CVE-2026-6688  ChaN FatFs up to R0.16 fno.fname buffer overflow",
+          "link": "https://vuldb.com/vuln/375564",
+          "date": "Wed, 01 Jul 2026 17:20:02 +0200",
+          "description": "A vulnerability classified as critical has been found in ChaN FatFs up to R0.16. Affected by this issue is the function fno.fname. The manipulation leads to buffer overflow.This vulnerability is lis"
         },
         {
-          "title": "Multiples vulnérabilités dans Microsoft Azure Linux",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0812/",
-          "date": "Publié le 29 juin 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Azure Linux. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
+          "title": "CVE-2026-6687  ChaN FatFs up to R0.16 f_getlabel stack-based overflow",
+          "link": "https://vuldb.com/vuln/375563",
+          "date": "Wed, 01 Jul 2026 17:19:42 +0200",
+          "description": "A vulnerability described as critical has been identified in ChaN FatFs up to R0.16. Affected by this vulnerability is the function f_getlabel. Executing a manipulation can lead to stack-based buffer"
         },
         {
-          "title": "Multiples vulnérabilités dans Microsoft Edge",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0811/",
-          "date": "Publié le 29 juin 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un problème de sécurité non spécifié par l'éditeur."
+          "title": "CVE-2026-6283  DivvyDrive prior .4.8.3.1 cross site scripting",
+          "link": "https://vuldb.com/vuln/375562",
+          "date": "Wed, 01 Jul 2026 17:14:49 +0200",
+          "description": "A vulnerability marked as problematic has been reported in DivvyDrive. Affected is an unknown function. Performing a manipulation results in cross site scripting.This vulnerability is identified as"
         },
         {
-          "title": "Multiples vulnérabilités dans les produits IBM",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0810/",
-          "date": "Publié le 26 juin 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance."
+          "title": "CVE-2026-5220  DivvyDrive prior .4.8.3.1 cross site scripting",
+          "link": "https://vuldb.com/vuln/375561",
+          "date": "Wed, 01 Jul 2026 17:14:43 +0200",
+          "description": "A vulnerability labeled as problematic has been found in DivvyDrive. This impacts an unknown function. Such manipulation leads to cross site scripting.This vulnerability is referenced as CVE-2026-52"
+        },
+        {
+          "title": "CVE-2026-6685  ChaN FatFs up to R0.16 f_read sect integer underflow",
+          "link": "https://vuldb.com/vuln/375560",
+          "date": "Wed, 01 Jul 2026 17:14:35 +0200",
+          "description": "A vulnerability identified as problematic has been detected in ChaN FatFs up to R0.16. This affects the function f_read. This manipulation of the argument sect causes integer underflow.The identific"
+        },
+        {
+          "title": "CVE-2026-6684  ChaN FatFs up to R0.15 Header Field infinite loop",
+          "link": "https://vuldb.com/vuln/375559",
+          "date": "Wed, 01 Jul 2026 17:14:28 +0200",
+          "description": "A vulnerability categorized as problematic has been discovered in ChaN FatFs up to R0.15. The impacted element is an unknown function of the component Header Field Handler. The manipulation results in"
+        },
+        {
+          "title": "CVE-2026-6686  ChaN FatFs up to R0.16 f_lseek uninitialized resource",
+          "link": "https://vuldb.com/vuln/375558",
+          "date": "Wed, 01 Jul 2026 17:14:22 +0200",
+          "description": "A vulnerability was found in ChaN FatFs up to R0.16. It has been rated as problematic. The affected element is the function f_lseek. The manipulation leads to uninitialized resource.This vulnerabili"
+        },
+        {
+          "title": "CVE-2026-6683  ChaN FatFs up to R0.16 Metadata divide by zero",
+          "link": "https://vuldb.com/vuln/375557",
+          "date": "Wed, 01 Jul 2026 17:14:16 +0200",
+          "description": "A vulnerability was found in ChaN FatFs up to R0.16. It has been declared as problematic. Impacted is an unknown function of the component Metadata Handler. Executing a manipulation can lead to divide"
+        },
+        {
+          "title": "CVE-2026-6682  ChaN FatFs up to R0.16 mount_volume n_fats integer overflow",
+          "link": "https://vuldb.com/vuln/375556",
+          "date": "Wed, 01 Jul 2026 17:14:02 +0200",
+          "description": "A vulnerability was found in ChaN FatFs up to R0.16. It has been classified as critical. This issue affects the function mount_volume. Performing a manipulation of the argument n_fats results in integ"
+        },
+        {
+          "title": "CVE-2026-58034  Wikimedia CheckUser up to 1.45.x blockConnectedTempAccountsField cross site scripting",
+          "link": "https://vuldb.com/vuln/375555",
+          "date": "Wed, 01 Jul 2026 17:12:44 +0200",
+          "description": "A vulnerability was found in Wikimedia CheckUser up to 1.45.x and classified as problematic. This vulnerability affects unknown code of the file /components/blockConnectedTempAccountsField. Such manip"
         }
       ]
     },
@@ -324,6 +324,70 @@
         }
       ]
     },
+    "OBS-Vigilance": {
+      "items": [
+        {
+          "title": "Das U-Boot: memory corruption via FIT Unit Addresses",
+          "link": "https://vigilance.fr/vulnerability/Das-U-Boot-memory-corruption-via-FIT-Unit-Addresses-48352",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger a memory corruption of Das U-Boot, via FIT Unit Addresses, in order to trigger a denial of service, and possibly to run code..."
+        },
+        {
+          "title": "Das U-Boot: memory corruption via FIT",
+          "link": "https://vigilance.fr/vulnerability/Das-U-Boot-memory-corruption-via-FIT-48351",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger a memory corruption of Das U-Boot, via FIT, in order to trigger a denial of service, and possibly to run code..."
+        },
+        {
+          "title": "go-git: overload via Idx File",
+          "link": "https://vigilance.fr/vulnerability/go-git-overload-via-Idx-File-50793",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger an overload of go-git, via Idx File, in order to trigger a denial of service..."
+        },
+        {
+          "title": "go-git: out-of-bounds memory reading via Index Decoder",
+          "link": "https://vigilance.fr/vulnerability/go-git-out-of-bounds-memory-reading-via-Index-Decoder-50792",
+          "date": "Visit link for details",
+          "description": "An attacker can force a read at an invalid memory address of go-git, via Index Decoder, in order to trigger a denial of service, or to obtain sensitive information..."
+        },
+        {
+          "title": "jsonparser: denial of service via JSON Delete",
+          "link": "https://vigilance.fr/vulnerability/jsonparser-denial-of-service-via-JSON-Delete-50791",
+          "date": "Visit link for details",
+          "description": "An attacker can cause a fatal error of jsonparser, via JSON Delete, in order to trigger a denial of service..."
+        },
+        {
+          "title": "Goldmark Renderer: Cross Site Scripting via HTML Entities",
+          "link": "https://vigilance.fr/vulnerability/Goldmark-Renderer-Cross-Site-Scripting-via-HTML-Entities-50790",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger a Cross Site Scripting of Goldmark Renderer, via HTML Entities, in order to run JavaScript code in the context of the web site..."
+        },
+        {
+          "title": "GNU Emacs: memory corruption via SVG CSS",
+          "link": "https://vigilance.fr/vulnerability/GNU-Emacs-memory-corruption-via-SVG-CSS-50789",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger a memory corruption of GNU Emacs, via SVG CSS, in order to trigger a denial of service, and possibly to run code..."
+        },
+        {
+          "title": "rustls-webpki: denial of service via CRL BIT STRING",
+          "link": "https://vigilance.fr/vulnerability/rustls-webpki-denial-of-service-via-CRL-BIT-STRING-50788",
+          "date": "Visit link for details",
+          "description": "An attacker can cause a fatal error of rustls-webpki, via CRL BIT STRING, in order to trigger a denial of service..."
+        },
+        {
+          "title": "rustls-webpki: Man-in-the-Middle via Wildcard Name Constraints",
+          "link": "https://vigilance.fr/vulnerability/rustls-webpki-Man-in-the-Middle-via-Wildcard-Name-Constraints-50787",
+          "date": "Visit link for details",
+          "description": "An attacker can act as a Man-in-the-Middle on rustls-webpki, via Wildcard Name Constraints, in order to read or write data in the session..."
+        },
+        {
+          "title": "rustls-webpki: Man-in-the-Middle via URI Names Name Constraints",
+          "link": "https://vigilance.fr/vulnerability/rustls-webpki-Man-in-the-Middle-via-URI-Names-Name-Constraints-50786",
+          "date": "Visit link for details",
+          "description": "An attacker can act as a Man-in-the-Middle on rustls-webpki, via URI Names Name Constraints, in order to read or write data in the session..."
+        }
+      ]
+    },
     "EU-CERT": {
       "items": [
         {
@@ -376,72 +440,20 @@
         }
       ]
     },
-    "OBS-Vigilance": {
-      "items": [
-        {
-          "title": "Mozilla Firefox: two vulnerabilities dated 30/09/2025",
-          "link": "https://vigilance.fr/vulnerability/Mozilla-Firefox-two-vulnerabilities-dated-30-09-2025-48347",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of Mozilla Firefox, dated 30/09/2025..."
-        },
-        {
-          "title": "zuluCrypt: privilege escalation via PolicyKit",
-          "link": "https://vigilance.fr/vulnerability/zuluCrypt-privilege-escalation-via-PolicyKit-50781",
-          "date": "Visit link for details",
-          "description": "An attacker can bypass restrictions of zuluCrypt, via PolicyKit, in order to escalate his privileges..."
-        },
-        {
-          "title": "Radare2: code execution via print_gvars()",
-          "link": "https://vigilance.fr/vulnerability/Radare2-code-execution-via-print-gvars-50780",
-          "date": "Visit link for details",
-          "description": "An attacker can use a vulnerability of Radare2, via print_gvars(), in order to run code..."
-        },
-        {
-          "title": "Radare2: denial of service via r_cons_is_breaked()",
-          "link": "https://vigilance.fr/vulnerability/Radare2-denial-of-service-via-r-cons-is-breaked-50779",
-          "date": "Visit link for details",
-          "description": "An attacker can cause a fatal error of Radare2, via r_cons_is_breaked(), in order to trigger a denial of service..."
-        },
-        {
-          "title": "OpenEXR: integer overflow via Bytes_per_element",
-          "link": "https://vigilance.fr/vulnerability/OpenEXR-integer-overflow-via-Bytes-per-element-50778",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger an integer overflow of OpenEXR, via Bytes_per_element, in order to trigger a denial of service, and possibly to run code..."
-        },
-        {
-          "title": "OpenEXR: integer overflow via Height",
-          "link": "https://vigilance.fr/vulnerability/OpenEXR-integer-overflow-via-Height-50777",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger an integer overflow of OpenEXR, via Height, in order to trigger a denial of service, and possibly to run code..."
-        },
-        {
-          "title": "Mako: directory traversal via TemplateLookup.get_template()",
-          "link": "https://vigilance.fr/vulnerability/Mako-directory-traversal-via-TemplateLookup-get-template-50776",
-          "date": "Visit link for details",
-          "description": "An attacker can traverse directories of Mako, via TemplateLookup.get_"
-        },
-        {
-          "title": "OpenSSL: memory corruption via CMS RFC 3211 KEK Unwrap",
-          "link": "https://vigilance.fr/vulnerability/OpenSSL-memory-corruption-via-CMS-RFC-3211-KEK-Unwrap-48344",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger a memory corruption of OpenSSL, via CMS RFC 3211 KEK Unwrap, in order to trigger a denial of service, and possibly to run code..."
-        },
-        {
-          "title": "Calibre: directory traversal via PDB Readers",
-          "link": "https://vigilance.fr/vulnerability/Calibre-directory-traversal-via-PDB-Readers-50775",
-          "date": "Visit link for details",
-          "description": "An attacker can traverse directories of Calibre, via PDB Readers, in order to write a file outside the service root path..."
-        },
-        {
-          "title": "Calibre: directory traversal via ZipFile.extractall()",
-          "link": "https://vigilance.fr/vulnerability/Calibre-directory-traversal-via-ZipFile-extractall-50774",
-          "date": "Visit link for details",
-          "description": "An attacker can traverse directories of Calibre, via ZipFile.extractall()"
-        }
-      ]
-    },
     "CA-CCS": {
       "items": [
+        {
+          "title": "Citrix security advisory (AV26-645)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av26-645",
+          "date": "2026-06-30",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Mozilla security advisory (AV26-644)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av26-644",
+          "date": "2026-06-30",
+          "description": "Visit link for details"
+        },
         {
           "title": "wolfSSL security advisory (AV26-643)",
           "link": "https://www.cyber.gc.ca/en/alerts-advisories/wolfssl-security-advisory-av26-643",
@@ -487,18 +499,6 @@
         {
           "title": "[Control systems] CISA ICS security advisories (AV26-637)",
           "link": "https://www.cyber.gc.ca/en/alerts-advisories/control-systems-cisa-ics-security-advisories-av26-637",
-          "date": "2026-06-29",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Red Hat security advisory (AV26-636)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av26-636",
-          "date": "2026-06-29",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Ubuntu security advisory (AV26-635)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/ubuntu-security-advisory-av26-635",
           "date": "2026-06-29",
           "description": "Visit link for details"
         }
