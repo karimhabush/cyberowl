@@ -4,14 +4,14 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Tanium security advisory (AV26-673)](https://www.cyber.gc.ca/en/alerts-advisories/tanium-security-advisory-av26-673)|Visit link for details|2026-07-08|
+ |[n8n security advisory (AV26-672)](https://www.cyber.gc.ca/en/alerts-advisories/n8n-security-advisory-av26-672)|Visit link for details|2026-07-08|
+ |[Ubiquiti security advisory (AV26-671)](https://www.cyber.gc.ca/en/alerts-advisories/cyber-n8n-security-advisory-av26-672)|Visit link for details|2026-07-08|
+ |[Langflow security advisory (AV26-670)](https://www.cyber.gc.ca/en/alerts-advisories/langflow-security-advisory-av26-670)|Visit link for details|2026-07-08|
+ |[Adobe security advisory (AV26-647) – Update 2](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av26-647)|Visit link for details|2026-07-07|
+ |[Google Chrome security advisory (AV26-669)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av26-669)|Visit link for details|2026-07-07|
+ |[HPE security advisory (AV26-668)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av26-668)|Visit link for details|2026-07-07|
  |[Zimbra security advisory (AV26-667)](https://www.cyber.gc.ca/en/alerts-advisories/zimbra-security-advisory-av26-667)|Visit link for details|2026-07-07|
  |[Django security advisory (AV26-666)](https://www.cyber.gc.ca/en/alerts-advisories/django-security-advisory-av26-666)|Visit link for details|2026-07-07|
  |[Samsung mobile security advisory (AV26-665)](https://www.cyber.gc.ca/en/alerts-advisories/samsung-mobile-security-advisory-av26-665)|Visit link for details|2026-07-07|
- |[[Control systems] ABB security advisory (AV26-664)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-abb-security-advisory-av26-664)|Visit link for details|2026-07-07|
- |[Broadcom VMware security advisory (AV26-663)](https://www.cyber.gc.ca/en/alerts-advisories/broadcom-vmware-security-advisory-av26-663)|Visit link for details|2026-07-07|
- |[Android security advisory – July 2026 monthly rollup (AV26-662)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-july-2026-monthly-rollup-av26-662)|Visit link for details|2026-07-07|
- |[Qualcomm security advisory – July 2026 monthly rollup (AV26-661)](https://www.cyber.gc.ca/en/alerts-advisories/qualcomm-security-advisory-july-2026-monthly-rollup-av26-661)|Visit link for details|2026-07-06|
- |[BeyondTrust security advisory (AV26-660)](https://www.cyber.gc.ca/en/alerts-advisories/beyondtrust-security-advisory-av26-660)|Visit link for details|2026-07-06|
- |[Microsoft Edge security advisory (AV26-659)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av26-659)|Visit link for details|2026-07-06|
- |[OpenSSH security advisory (AV26-658)](https://www.cyber.gc.ca/en/alerts-advisories/openssh-security-advisory-av26-658)|Visit link for details|2026-07-06|
  
