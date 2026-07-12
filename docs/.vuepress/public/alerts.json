@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T16:01:43.033208+00:00",
+  "generated_at": "2026-07-12T15:53:46.984492+00:00",
   "sources": {
     "CERT-FR": {
       "items": [
@@ -129,67 +129,198 @@
         }
       ]
     },
+    "ZERODAYINITIATIVE": {
+      "items": []
+    },
+    "IBM-X-FORCE-EXCHANGE": {
+      "items": [
+        {
+          "title": "New vulnerability",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "Jun 22, 2026",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "New vulnerability",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "Jun 22, 2026",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "New vulnerability",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "Jun 22, 2026",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "New vulnerability",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "Jun 22, 2026",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "New vulnerability",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "Jun 22, 2026",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "",
+          "description": "Visit link for details"
+        }
+      ]
+    },
     "VulDB": {
       "items": [
         {
-          "title": "CVE-2026-61870  ImageMagick up to 7.1.2-25 VIFF Encoder memory leak",
-          "link": "https://vuldb.com/vuln/377830",
-          "date": "Sat, 11 Jul 2026 16:29:29 +0200",
-          "description": "A vulnerability marked as problematic has been reported in ImageMagick. Affected by this issue is some unknown functionality of the component VIFF Encoder. Performing a manipulation results in memory"
+          "title": "CVE-2026-61875  OpenWrt LuCI UPnP IGD luci-app-upnp AddPortMapping NewPortMappingDescription cross site scripting (EUVD-2026-43235)",
+          "link": "https://vuldb.com/vuln/377871",
+          "date": "Sun, 12 Jul 2026 15:09:24 +0200",
+          "description": "A vulnerability labeled as problematic has been found in OpenWrt LuCI. This impacts the function AddPortMapping of the file luci-app-upnp of the component UPnP IGD. Such manipulation of the argument N"
         },
         {
-          "title": "CVE-2026-61448  parse-community parse-server up to 8.6.83/9.0.0-9.10.0-alpha.2 FileUpload content-type cross site scripting",
-          "link": "https://vuldb.com/vuln/377829",
-          "date": "Sat, 11 Jul 2026 16:24:50 +0200",
-          "description": "A vulnerability labeled as problematic has been found in parse-community parse-server up to 8.6.83/9.0.0-9.10.0-alpha.2. Affected by this vulnerability is an unknown functionality of the component Fil"
+          "title": "CVE-2026-61876  openwrt luci DHCPv6 Lease Renderer fqdn injection (EUVD-2026-43236)",
+          "link": "https://vuldb.com/vuln/377870",
+          "date": "Sun, 12 Jul 2026 15:07:16 +0200",
+          "description": "A vulnerability identified as critical has been detected in openwrt luci. This affects an unknown function of the component DHCPv6 Lease Renderer. This manipulation of the argument fqdn causes injecti"
         },
         {
-          "title": "CVE-2026-61454  getgrav Grav Plugin up to 2.0.3 Admin2 /grav/admin information disclosure",
-          "link": "https://vuldb.com/vuln/377828",
-          "date": "Sat, 11 Jul 2026 16:22:21 +0200",
-          "description": "A vulnerability identified as problematic has been detected in getgrav Grav Plugin up to 2.0.3. Affected is an unknown function of the file /grav/admin of the component Admin2. This manipulation cause"
+          "title": "CVE-2026-59260  OpenWrt Samba /usr/sbin/smbd message Message os command injection (EUVD-2026-43233)",
+          "link": "https://vuldb.com/vuln/377869",
+          "date": "Sun, 12 Jul 2026 15:05:28 +0200",
+          "description": "A vulnerability categorized as very critical has been discovered in OpenWrt. The impacted element is the function Message of the file /usr/sbin/smbd of the component Samba. The manipulation of the arg"
         },
         {
-          "title": "CVE-2026-61858  ImageMagick up to 7.1.2-25 APNG Encoder encoding error",
-          "link": "https://vuldb.com/vuln/377827",
-          "date": "Sat, 11 Jul 2026 16:20:21 +0200",
-          "description": "A vulnerability categorized as critical has been discovered in ImageMagick up to 7.1.2-25. This impacts an unknown function of the component APNG Encoder. The manipulation results in encoding error."
+          "title": "CVE-2026-56336  Capgo up to 12.128.1 SSO Provider check-domain org_id/provider_id information disclosure (EUVD-2026-43232)",
+          "link": "https://vuldb.com/vuln/377868",
+          "date": "Sun, 12 Jul 2026 15:03:16 +0200",
+          "description": "A vulnerability was found in Capgo up to 12.128.1. It has been rated as problematic. The affected element is an unknown function of the file /private/sso/check-domain of the component SSO Provider. Th"
         },
         {
-          "title": "CVE-2026-61857  ImageMagick up to 7.1.2-25 XMP use after free",
-          "link": "https://vuldb.com/vuln/377826",
-          "date": "Sat, 11 Jul 2026 16:18:25 +0200",
-          "description": "A vulnerability was found in ImageMagick. It has been rated as critical. This affects an unknown function of the component XMP Handler. The manipulation leads to use after free.This vulnerability is"
+          "title": "CVE-2026-61874  filebrowser up to 2.63.16 Paths DeleteWithPathPrefix path path traversal (EUVD-2026-43234)",
+          "link": "https://vuldb.com/vuln/377867",
+          "date": "Sun, 12 Jul 2026 15:01:25 +0200",
+          "description": "A vulnerability was found in filebrowser up to 2.63.16. It has been declared as problematic. Impacted is the function DeleteWithPathPrefix of the component Paths. Executing a manipulation of the argum"
         },
         {
-          "title": "CVE-2026-61861  ImageMagick up to 7.1.2-25 FormatMagickCaption use after free",
-          "link": "https://vuldb.com/vuln/377825",
-          "date": "Sat, 11 Jul 2026 16:16:18 +0200",
-          "description": "A vulnerability was found in ImageMagick up to 7.1.2-25. It has been declared as critical. The impacted element is an unknown function of the component FormatMagickCaption. Executing a manipulation ca"
+          "title": "CVE-2026-15528  lamaalrajih kicad-mcp up to 3.3.1 path_validator.py project_path/schematic_path protection mechanism (Issue 57)",
+          "link": "https://vuldb.com/vuln/377866",
+          "date": "Sun, 12 Jul 2026 14:58:25 +0200",
+          "description": "A vulnerability was found in lamaalrajih kicad-mcp up to 3.3.1. It has been classified as problematic. This issue affects some unknown processing of the file kicad_mcp/utils/path_validator.py. Perform"
         },
         {
-          "title": "CVE-2026-61445  MervinPraison PraisonAI up to 4.6.77 AICoder os command injection",
-          "link": "https://vuldb.com/vuln/377824",
-          "date": "Sat, 11 Jul 2026 16:14:20 +0200",
-          "description": "A vulnerability was found in MervinPraison PraisonAI up to 4.6.77. It has been classified as very critical. The affected element is an unknown function of the component AICoder. Performing a manipulat"
+          "title": "CVE-2026-15527  better-auth better-icons up to 1.0.5 scan_project_icons/sync_icon icons_file path traversal (Issue 18)",
+          "link": "https://vuldb.com/vuln/377865",
+          "date": "Sun, 12 Jul 2026 14:56:40 +0200",
+          "description": "A vulnerability was found in better-auth better-icons up to 1.0.5 and classified as critical. This vulnerability affects unknown code of the component scan_project_icons/sync_icon. Such manipulation o"
         },
         {
-          "title": "CVE-2026-61442  MervinPraison PraisonAI up to 0.1.8 Authorization lead_id improper authorization",
-          "link": "https://vuldb.com/vuln/377823",
-          "date": "Sat, 11 Jul 2026 16:12:12 +0200",
-          "description": "A vulnerability was found in MervinPraison PraisonAI up to 0.1.8 and classified as critical. Impacted is an unknown function of the component Authorization. Such manipulation of the argument lead_id l"
+          "title": "CVE-2026-56308  Capgo up to 12.128.1 Account email address improper authentication (EUVD-2026-43230)",
+          "link": "https://vuldb.com/vuln/377864",
+          "date": "Sun, 12 Jul 2026 14:45:22 +0200",
+          "description": "A vulnerability has been found in Capgo up to 12.128.1 and classified as critical. This affects an unknown part of the component Account. This manipulation of the argument email address causes imprope"
         },
         {
-          "title": "CVE-2026-61465  ImageMagick up to 7.1.2-25/up to 6.9.13-50 Matrix-Backed Operations allocation of resources",
-          "link": "https://vuldb.com/vuln/377822",
-          "date": "Sat, 11 Jul 2026 16:10:23 +0200",
-          "description": "A vulnerability has been found in ImageMagick up to 7.1.2-25/up to 6.9.13-50 and classified as problematic. This issue affects some unknown processing of the component Matrix-Backed Operations. This m"
+          "title": "CVE-2026-56271  Flowise up to 3.0.x Enterprise Passport Authentication Middleware index.ts JWT_AUTH_TOKEN_SECRET/JWT_REFRESH_TOKEN_SECRET inadequate encryption (EUVD-2026-43228)",
+          "link": "https://vuldb.com/vuln/377863",
+          "date": "Sun, 12 Jul 2026 14:43:22 +0200",
+          "description": "A vulnerability, which was classified as problematic, was found in Flowise up to 3.0.x. Affected by this issue is some unknown functionality of the file packages/server/src/enterprise/middleware/passp"
         },
         {
-          "title": "CVE-2026-61439  MervinPraison PraisonAI up to 4.6.77 Prompt Injection Defense injection",
-          "link": "https://vuldb.com/vuln/377821",
-          "date": "Sat, 11 Jul 2026 16:08:14 +0200",
-          "description": "A vulnerability, which was classified as critical, was found in MervinPraison PraisonAI up to 4.6.77. This vulnerability affects unknown code of the component Prompt Injection Defense. The manipulatio"
+          "title": "CVE-2026-56260  Crawl4AI up to 0.8.6 Docker API output_path denial of service (EUVD-2026-43227)",
+          "link": "https://vuldb.com/vuln/377862",
+          "date": "Sun, 12 Jul 2026 14:41:17 +0200",
+          "description": "A vulnerability, which was classified as critical, has been found in Crawl4AI up to 0.8.6. Affected by this vulnerability is an unknown functionality of the component Docker API. The manipulation of t"
+        }
+      ]
+    },
+    "OBS-Vigilance": {
+      "items": [
+        {
+          "title": "Nextcloud Server: directory traversal via Template API",
+          "link": "https://vigilance.fr/vulnerability/Nextcloud-Server-directory-traversal-via-Template-API-50924",
+          "date": "Visit link for details",
+          "description": "An attacker can traverse directories of Nextcloud Server, via Template API, in order to read a file outside the service root path..."
+        },
+        {
+          "title": "Nextcloud Server: read-write access via Calendar Takeover",
+          "link": "https://vigilance.fr/vulnerability/Nextcloud-Server-read-write-access-via-Calendar-Takeover-50923",
+          "date": "Visit link for details",
+          "description": "An attacker can bypass access restrictions of Nextcloud Server, via Calendar Takeover, in order to read or alter data..."
+        },
+        {
+          "title": "Nextcloud Server: read-write access via Files Lock App",
+          "link": "https://vigilance.fr/vulnerability/Nextcloud-Server-read-write-access-via-Files-Lock-App-50922",
+          "date": "Visit link for details",
+          "description": "An attacker can bypass access restrictions of Nextcloud Server, via Files Lock App, in order to read or alter data..."
+        },
+        {
+          "title": "Nextcloud Server: information disclosure via DocumentId Text Attachments",
+          "link": "https://vigilance.fr/vulnerability/Nextcloud-Server-information-disclosure-via-DocumentId-Text-Attachments-50921",
+          "date": "Visit link for details",
+          "description": "An attacker can bypass access restrictions to data of Nextcloud Server, via DocumentId Text Attachments, in order to read sensitive information..."
+        },
+        {
+          "title": "Nextcloud Server: information disclosure via Private Circle",
+          "link": "https://vigilance.fr/vulnerability/Nextcloud-Server-information-disclosure-via-Private-Circle-50920",
+          "date": "Visit link for details",
+          "description": "An attacker can bypass access restrictions to data of Nextcloud Server, via Private Circle, in order to read sensitive information..."
+        },
+        {
+          "title": "Nextcloud Server: file reading via Share Tokens",
+          "link": "https://vigilance.fr/vulnerability/Nextcloud-Server-file-reading-via-Share-Tokens-50919",
+          "date": "Visit link for details",
+          "description": "An attacker can read a file of Nextcloud Server, via Share Tokens, in order to obtain sensitive information..."
+        },
+        {
+          "title": "Nextcloud Server: information disclosure via Public Link Creation",
+          "link": "https://vigilance.fr/vulnerability/Nextcloud-Server-information-disclosure-via-Public-Link-Creation-50918",
+          "date": "Visit link for details",
+          "description": "An attacker can bypass access restrictions to data of Nextcloud Server, via Public Link Creation, in order to read sensitive information..."
+        },
+        {
+          "title": "Grafana: multiple vulnerabilities dated 12/05/2026",
+          "link": "https://vigilance.fr/vulnerability/Grafana-multiple-vulnerabilities-dated-12-05-2026-50916",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of Grafana, dated 12/05/2026..."
+        },
+        {
+          "title": "Siemens RUGGEDCOM ROX II: file reading via JSON-RPC Interface",
+          "link": "https://vigilance.fr/vulnerability/Siemens-RUGGEDCOM-ROX-II-file-reading-via-JSON-RPC-Interface-50915",
+          "date": "Visit link for details",
+          "description": "An attacker can read a file of Siemens RUGGEDCOM ROX II, via JSON-RPC Interface, in order to obtain sensitive information..."
+        },
+        {
+          "title": "Siemens SIMATIC: Cross Site Scripting via PLC Station Name",
+          "link": "https://vigilance.fr/vulnerability/Siemens-SIMATIC-Cross-Site-Scripting-via-PLC-Station-Name-50914",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger a Cross Site Scripting of Siemens SIMATIC, via PLC Station Name, in order to run JavaScript code in the context of the web site..."
         }
       ]
     },
@@ -256,73 +387,6 @@
           "description": "Multiple vulnerabilities were identified in BeyondTrust Products. A remote attacker could exploit this vulnerability to trigger sensitive information disclosure, denial of service condition and security restriction bypass on the targeted system."
         }
       ]
-    },
-    "IBM-X-FORCE-EXCHANGE": {
-      "items": [
-        {
-          "title": "Digiwin｜EasyFlow .NET - Session Fixation (CVE-2026-12581)",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "Jun 22, 2026",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Digiwin｜EasyFlow .NET - Stored Cross-Site Scripting (CVE-2026-12580)",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "Jun 22, 2026",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Open redirect (CVE-2026-12863)",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "Jun 22, 2026",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "XLSX formula injection in exports (CVE-2026-12862)",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "Jun 22, 2026",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "New vulnerability",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "Jun 22, 2026",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "",
-          "description": "Visit link for details"
-        }
-      ]
-    },
-    "ZERODAYINITIATIVE": {
-      "items": []
     },
     "EU-CERT": {
       "items": [
@@ -503,9 +567,6 @@
           "description": "Visit link for details"
         }
       ]
-    },
-    "OBS-Vigilance": {
-      "items": []
     }
   }
 }
