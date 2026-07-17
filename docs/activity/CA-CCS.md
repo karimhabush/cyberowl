@@ -4,14 +4,14 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Google Chrome security advisory (AV26-713)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av26-713)|Visit link for details|2026-07-17|
+ |[Broadcom VMware security advisory (AV26-712)](https://www.cyber.gc.ca/en/alerts-advisories/broadcom-vmware-security-advisory-av26-712)|Visit link for details|2026-07-17|
+ |[FreePBX security advisory (AV26–711)](https://www.cyber.gc.ca/en/alerts-advisories/freepbx-security-advisory-av26-711)|Visit link for details|2026-07-17|
+ |[Fortinet security advisory (AV26-351) – Update 2](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av26-351)|Visit link for details|2026-07-16|
+ |[Fortinet security advisory (AV26-568) – Update 1](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av26-568)|Visit link for details|2026-07-16|
+ |[Microsoft security advisory – July 2026 monthly rollup (AV26-698) – Update 1](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-july-2026-monthly-rollup-av26-698)|Visit link for details|2026-07-16|
+ |[Grafana security advisory (AV26-710)](https://www.cyber.gc.ca/en/alerts-advisories/grafana-security-advisory-av26-710)|Visit link for details|2026-07-16|
  |[JetBrains security advisory (AV26-709)](https://www.cyber.gc.ca/en/alerts-advisories/jetbrains-security-advisory-av26-709)|Visit link for details|2026-07-16|
  |[Splunk security advisory (AV26-708)](https://www.cyber.gc.ca/en/alerts-advisories/splunk-security-advisory-av26-708)|Visit link for details|2026-07-16|
  |[Zoom security advisory (AV26-707)](https://www.cyber.gc.ca/en/alerts-advisories/zoom-security-advisory-av26-707)|Visit link for details|2026-07-16|
- |[Cisco security advisory (AV26-706)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av26-706)|Visit link for details|2026-07-15|
- |[Oracle security advisory (AV26-526) – Update 2](https://www.cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-av26-526)|Visit link for details|2026-07-15|
- |[AL26-017 - Critical vulnerabilities impacting Microsoft SharePoint Server – CVE-2026-56164, CVE-2026-55040 and CVE-2026-58644](https://www.cyber.gc.ca/en/alerts-advisories/al26-017-critical-vulnerabilities-impacting-microsoft-sharepoint-server-cve-2026-56164-cve-2026-55040-cve-2026-58644)|Visit link for details|2026-07-15|
- |[Tenable security advisory (AV26-705)](https://www.cyber.gc.ca/en/alerts-advisories/tenable-security-advisory-av26-705)|Visit link for details|2026-07-15|
- |[F5 security advisory (AV26-704)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av26-704)|Visit link for details|2026-07-15|
- |[Notepad++ security advisory (AV26-703)](https://www.cyber.gc.ca/en/alerts-advisories/notepad-security-advisory-av26-703)|Visit link for details|2026-07-15|
- |[Citrix security advisory (AV26-702)](https://www.cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av26-702)|Visit link for details|2026-07-15|
  
