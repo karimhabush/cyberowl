@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T16:22:32.088517+00:00",
+  "generated_at": "2026-07-18T16:02:49.182660+00:00",
   "sources": {
     "US-CERT": {
       "items": [
@@ -132,70 +132,6 @@
     "ZERODAYINITIATIVE": {
       "items": []
     },
-    "VulDB": {
-      "items": [
-        {
-          "title": "CVE-2026-16124  nextlevelbuilder GoClaw up to 3.15.0-beta.32 web_fetch web_shared.go CheckSSRF/isPrivateIP server-side request forgery (Issue 1218)",
-          "link": "https://vuldb.com/vuln/379833",
-          "date": "Fri, 17 Jul 2026 18:02:33 +0200",
-          "description": "A vulnerability described as critical has been identified in nextlevelbuilder GoClaw up to 3.15.0-beta.32. This affects the function CheckSSRF/isPrivateIP of the file internal/tools/web_shared.go of t"
-        },
-        {
-          "title": "CVE-2026-16123  nextlevelbuilder GoClaw up to 3.13.2 Invoke Endpoint tools_invoke.go ToolsInvokeHandler.ServeHTTP authorization (Issue 1217)",
-          "link": "https://vuldb.com/vuln/379832",
-          "date": "Fri, 17 Jul 2026 18:02:29 +0200",
-          "description": "A vulnerability marked as critical has been reported in nextlevelbuilder GoClaw up to 3.13.2. Affected by this issue is the function ToolsInvokeHandler.ServeHTTP of the file internal/http/tools_invoke"
-        },
-        {
-          "title": "CVE-2026-16122  nextlevelbuilder GoClaw up to 3.13.2 exec_approval.go extractBin/RequestApproval/matchesAllowlist authorization (Issue 1216)",
-          "link": "https://vuldb.com/vuln/379831",
-          "date": "Fri, 17 Jul 2026 18:02:25 +0200",
-          "description": "A vulnerability labeled as critical has been found in nextlevelbuilder GoClaw up to 3.13.2. Affected by this vulnerability is the function extractBin/RequestApproval/matchesAllowlist of the file inter"
-        },
-        {
-          "title": "CVE-2026-16121  nextlevelbuilder GoClaw up to 3.13.2 exec_approval.go isSafeBin improper authorization (1206/1214)",
-          "link": "https://vuldb.com/vuln/379830",
-          "date": "Fri, 17 Jul 2026 18:02:21 +0200",
-          "description": "A vulnerability identified as critical has been detected in nextlevelbuilder GoClaw up to 3.13.2. Affected is the function isSafeBin of the file internal/tools/exec_approval.go. The manipulation leads"
-        },
-        {
-          "title": "CVE-2026-16120  nextlevelbuilder GoClaw up to 3.13.3-beta.3 exec_approval.go matchesAllowlist/extractBin name resolution (Issue 1213)",
-          "link": "https://vuldb.com/vuln/379829",
-          "date": "Fri, 17 Jul 2026 18:02:17 +0200",
-          "description": "A vulnerability categorized as critical has been discovered in nextlevelbuilder GoClaw up to 3.13.3-beta.3. This impacts the function matchesAllowlist/extractBin of the file internal/tools/exec_approv"
-        },
-        {
-          "title": "CVE-2026-16119  nextlevelbuilder GoClaw up to 3.13.2 WebSocket Approval Endpoint exec_approval.go RequestApproval authorization (Issue 1212)",
-          "link": "https://vuldb.com/vuln/379828",
-          "date": "Fri, 17 Jul 2026 18:02:12 +0200",
-          "description": "A vulnerability was found in nextlevelbuilder GoClaw up to 3.13.2. It has been rated as critical. This affects the function RequestApproval of the file internal/tools/exec_approval.go of the component"
-        },
-        {
-          "title": "CVE-2026-14871  osTicket 1.17.7/1.18.3 ticket management subsystem resource injection",
-          "link": "https://vuldb.com/vuln/379827",
-          "date": "Fri, 17 Jul 2026 17:35:52 +0200",
-          "description": "A vulnerability was found in osTicket 1.17.7/1.18.3. It has been declared as problematic. The impacted element is an unknown function of the component ticket management subsystem. Such manipulation le"
-        },
-        {
-          "title": "CVE-2026-12715  Google Cloud Firebase Studio prior 2026-04-15 missing authentication",
-          "link": "https://vuldb.com/vuln/379826",
-          "date": "Fri, 17 Jul 2026 17:34:28 +0200",
-          "description": "A vulnerability was found in Google Cloud Firebase Studio. It has been classified as problematic. The affected element is an unknown function. This manipulation causes missing authentication.This vu"
-        },
-        {
-          "title": "CVE-2026-51081  Proxmox Virtual Environment cross site scripting",
-          "link": "https://vuldb.com/vuln/379825",
-          "date": "Fri, 17 Jul 2026 17:09:50 +0200",
-          "description": "A vulnerability was found in Proxmox Virtual Environment and classified as problematic. Impacted is an unknown function. The manipulation results in cross site scripting.This vulnerability is catalo"
-        },
-        {
-          "title": "CVE-2026-51082  Proxmox Virtual Environment up to 9.1.8 VNC Proxy/VNC Websocket API race condition",
-          "link": "https://vuldb.com/vuln/379824",
-          "date": "Fri, 17 Jul 2026 17:08:56 +0200",
-          "description": "A vulnerability has been found in Proxmox Virtual Environment up to 9.1.8 and classified as problematic. This issue affects some unknown processing of the component VNC Proxy/VNC Websocket API. The ma"
-        }
-      ]
-    },
     "IBM-X-FORCE-EXCHANGE": {
       "items": [
         {
@@ -229,9 +165,9 @@
           "description": "Visit link for details"
         },
         {
-          "title": "",
+          "title": "New vulnerability",
           "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "",
+          "date": "Jun 22, 2026",
           "description": "Visit link for details"
         },
         {
@@ -260,55 +196,67 @@
         }
       ]
     },
-    "EU-CERT": {
+    "VulDB": {
       "items": [
         {
-          "title": "2026-008: Critical vulnerabilities in Ivanti Sentry",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-008/",
-          "date": "Wednesday, June 10, 2026 01:55:39 PM CEST",
-          "description": "On 9 June 2026, Ivanti released a security advisory addressing two critical vulnerabilities in their Sentry products[1]. An attacker could exploit those flaws to achieve unauthenticated remote code execution on the vulnerable device."
+          "title": "CVE-2025-71398  SurrealDB up to 2.2.1 Http server-side request forgery",
+          "link": "https://vuldb.com/vuln/380082",
+          "date": "Sat, 18 Jul 2026 16:39:51 +0200",
+          "description": "A vulnerability identified as problematic has been detected in SurrealDB up to 2.2.1. This impacts an unknown function of the component Http. The manipulation leads to server-side request forgery.Th"
         },
         {
-          "title": "2026-007: Critical Vulnerability in Windows Netlogon",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-007/",
-          "date": "Wednesday, June 10, 2026 08:47:08 AM CEST",
-          "description": "On 12 May 2026, Microsoft published a security advisory addressing a critical vulnerability affecting Windows Server when acting as a domain controller. This vulnerability allows an unauthenticated attacker to execute arbitrary code over a network."
+          "title": "CVE-2025-71394  SurrealDB up to 2.2.1 Define Analyzer information disclosure",
+          "link": "https://vuldb.com/vuln/380081",
+          "date": "Sat, 18 Jul 2026 16:38:45 +0200",
+          "description": "A vulnerability categorized as problematic has been discovered in SurrealDB up to 2.2.1. This affects the function Define of the component Define Analyzer. Executing a manipulation can lead to informa"
         },
         {
-          "title": "2026-006: Critical Vulnerability in PAN-OS",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-006/",
-          "date": "Wednesday, May 06, 2026 10:44:32 AM CEST",
-          "description": "On 6 May 2026, Palo Alto published a security advisory addressing a critical vulnerability affecting PAN-OS. This vulnerability allows an unauthenticated attacker to execute arbitrary code with root privileges."
+          "title": "CVE-2025-71396  SurrealDB up to 2.0.4/2.1.4/2.2.1 JavaScript Execution denial of service",
+          "link": "https://vuldb.com/vuln/380080",
+          "date": "Sat, 18 Jul 2026 16:37:43 +0200",
+          "description": "A vulnerability was found in SurrealDB up to 2.0.4/2.1.4/2.2.1. It has been rated as problematic. The impacted element is an unknown function of the component JavaScript Execution. Performing a manipu"
         },
         {
-          "title": "2026-005: High Vulnerability in the Linux Kernel (\"Copy Fail\")",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-005/",
-          "date": "Thursday, April 30, 2026 11:25:30 AM CEST",
-          "description": "On 29 April 2026, a high local privilege escalation vulnerability in the Linux kernel, tracked as CVE-2026-31431 and named \"Copy Fail\", was publicly disclosed."
+          "title": "CVE-2025-71393  SurrealDB up to 2.2.1 Scripting recursion",
+          "link": "https://vuldb.com/vuln/380079",
+          "date": "Sat, 18 Jul 2026 16:36:42 +0200",
+          "description": "A vulnerability was found in SurrealDB up to 2.2.1. It has been declared as problematic. The affected element is an unknown function of the component Scripting. Such manipulation leads to uncontrolled"
         },
         {
-          "title": "2026-004: Critical Vulnerability in SharePoint Exploited",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-004/",
-          "date": "Wednesday, March 25, 2026 08:51:39 AM CET",
-          "description": "On 17 March 2026, Microsoft updated one of its January 2026 security advisories related to a remote code execution vulnerability in Microsoft SharePoint. Specifically, Microsoft raised the CVSS score and changed the FAQ section to indicate that the vulnerability could be exploited by an unauthenticated attacker. This vulnerability was added in the CISA's Known Exploited Vulnerabilities (KEV) catalogue on 18 March 2026."
+          "title": "CVE-2026-16117  fastify http-proxy up to 11.5.0 Prefix Rewrite request.url replace prefix input validation",
+          "link": "https://vuldb.com/vuln/380078",
+          "date": "Sat, 18 Jul 2026 16:35:45 +0200",
+          "description": "A vulnerability was found in fastify http-proxy up to 11.5.0. It has been classified as critical. Impacted is the function replace of the file request.url of the component Prefix Rewrite. This manipul"
         },
         {
-          "title": "2026-003: Multiple Vulnerabilities in Citrix NetScaler and Citrix ADC",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-003/",
-          "date": "Monday, March 23, 2026 07:03:59 PM CET",
-          "description": "On 23 March 2026, Citrix published a security advisory addressing multiple vulnerabilities affecting NetScaler ADC and NetScaler Gateway. These vulnerabilities may lead to sensitive information disclosure and user session mix-up under specific configurations."
+          "title": "CVE-2025-71395  SurrealDB up to 2.2.1 String Replace replace memory allocation",
+          "link": "https://vuldb.com/vuln/380077",
+          "date": "Sat, 18 Jul 2026 16:34:46 +0200",
+          "description": "A vulnerability was found in SurrealDB up to 2.2.1 and classified as problematic. This issue affects the function replace of the component String Replace. The manipulation results in uncontrolled memo"
         },
         {
-          "title": "2026-002: Multiple Vulnerabilities in Cisco Products",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-002/",
-          "date": "Thursday, February 26, 2026 07:38:52 PM CET",
-          "description": "On 25 February 2026, Cisco released security advisories addressing multiple high and critical severity vulnerabilities in Cisco Catalyst SD-WAN controllers and Cisco SD-WAN Manager. If exploited, these vulnerabilities could allow attackers to gain administrative access to compromised systems."
+          "title": "CVE-2025-71397  SurrealDB up to 2.0.4/2.1.4/2.2.1 Function Execution DEFINE FUNCTION denial of service",
+          "link": "https://vuldb.com/vuln/380076",
+          "date": "Sat, 18 Jul 2026 16:33:12 +0200",
+          "description": "A vulnerability has been found in SurrealDB up to 2.0.4/2.1.4/2.2.1 and classified as problematic. This vulnerability affects the function DEFINE FUNCTION of the component Function Execution. The mani"
         },
         {
-          "title": "2026-001: Critical vulnerabilities in Ivanti EPMM",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-001/",
-          "date": "Friday, January 30, 2026 10:09:06 AM CET",
-          "description": "On 29 January 2026, Ivanti released a security advisory addressing two critical vulnerabilities in their EPMM products. An attacker could exploit those flaws to achieve unauthenticated remote code execution on the vulnerable device. One of these vulnerabilities have been exploited in a limited number of cases."
+          "title": "CVE-2024-58362  SurrealDB up to 1.5.4/2.0.0 RPC API user session",
+          "link": "https://vuldb.com/vuln/380075",
+          "date": "Sat, 18 Jul 2026 16:29:20 +0200",
+          "description": "A vulnerability, which was classified as critical, was found in SurrealDB up to 1.5.4/2.0.0. This affects an unknown part of the component RPC API. Executing a manipulation can lead to manage user ses"
+        },
+        {
+          "title": "CVE-2024-58366  SurrealDB up to 1.1.0 Exception throw_type format string",
+          "link": "https://vuldb.com/vuln/380074",
+          "date": "Sat, 18 Jul 2026 16:24:41 +0200",
+          "description": "A vulnerability, which was classified as critical, has been found in SurrealDB up to 1.1.0. Affected by this issue is the function throw_type of the component Exception. Performing a manipulation resu"
+        },
+        {
+          "title": "CVE-2025-71391  SurrealDB up to 2.2.1 Net Module denial of service",
+          "link": "https://vuldb.com/vuln/380073",
+          "date": "Sat, 18 Jul 2026 16:23:38 +0200",
+          "description": "A vulnerability classified as problematic was found in SurrealDB up to 2.2.1. Affected by this vulnerability is an unknown functionality of the component Net Module. Such manipulation leads to denial"
         }
       ]
     },
@@ -376,8 +324,66 @@
         }
       ]
     },
+    "EU-CERT": {
+      "items": [
+        {
+          "title": "2026-008: Critical vulnerabilities in Ivanti Sentry",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-008/",
+          "date": "Wednesday, June 10, 2026 01:55:39 PM CEST",
+          "description": "On 9 June 2026, Ivanti released a security advisory addressing two critical vulnerabilities in their Sentry products[1]. An attacker could exploit those flaws to achieve unauthenticated remote code execution on the vulnerable device."
+        },
+        {
+          "title": "2026-007: Critical Vulnerability in Windows Netlogon",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-007/",
+          "date": "Wednesday, June 10, 2026 08:47:08 AM CEST",
+          "description": "On 12 May 2026, Microsoft published a security advisory addressing a critical vulnerability affecting Windows Server when acting as a domain controller. This vulnerability allows an unauthenticated attacker to execute arbitrary code over a network."
+        },
+        {
+          "title": "2026-006: Critical Vulnerability in PAN-OS",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-006/",
+          "date": "Wednesday, May 06, 2026 10:44:32 AM CEST",
+          "description": "On 6 May 2026, Palo Alto published a security advisory addressing a critical vulnerability affecting PAN-OS. This vulnerability allows an unauthenticated attacker to execute arbitrary code with root privileges."
+        },
+        {
+          "title": "2026-005: High Vulnerability in the Linux Kernel (\"Copy Fail\")",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-005/",
+          "date": "Thursday, April 30, 2026 11:25:30 AM CEST",
+          "description": "On 29 April 2026, a high local privilege escalation vulnerability in the Linux kernel, tracked as CVE-2026-31431 and named \"Copy Fail\", was publicly disclosed."
+        },
+        {
+          "title": "2026-004: Critical Vulnerability in SharePoint Exploited",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-004/",
+          "date": "Wednesday, March 25, 2026 08:51:39 AM CET",
+          "description": "On 17 March 2026, Microsoft updated one of its January 2026 security advisories related to a remote code execution vulnerability in Microsoft SharePoint. Specifically, Microsoft raised the CVSS score and changed the FAQ section to indicate that the vulnerability could be exploited by an unauthenticated attacker. This vulnerability was added in the CISA's Known Exploited Vulnerabilities (KEV) catalogue on 18 March 2026."
+        },
+        {
+          "title": "2026-003: Multiple Vulnerabilities in Citrix NetScaler and Citrix ADC",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-003/",
+          "date": "Monday, March 23, 2026 07:03:59 PM CET",
+          "description": "On 23 March 2026, Citrix published a security advisory addressing multiple vulnerabilities affecting NetScaler ADC and NetScaler Gateway. These vulnerabilities may lead to sensitive information disclosure and user session mix-up under specific configurations."
+        },
+        {
+          "title": "2026-002: Multiple Vulnerabilities in Cisco Products",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-002/",
+          "date": "Thursday, February 26, 2026 07:38:52 PM CET",
+          "description": "On 25 February 2026, Cisco released security advisories addressing multiple high and critical severity vulnerabilities in Cisco Catalyst SD-WAN controllers and Cisco SD-WAN Manager. If exploited, these vulnerabilities could allow attackers to gain administrative access to compromised systems."
+        },
+        {
+          "title": "2026-001: Critical vulnerabilities in Ivanti EPMM",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-001/",
+          "date": "Friday, January 30, 2026 10:09:06 AM CET",
+          "description": "On 29 January 2026, Ivanti released a security advisory addressing two critical vulnerabilities in their EPMM products. An attacker could exploit those flaws to achieve unauthenticated remote code execution on the vulnerable device. One of these vulnerabilities have been exploited in a limited number of cases."
+        }
+      ]
+    },
     "CA-CCS": {
       "items": [
+        {
+          "title": "Microsoft Edge security advisory (AV26-714)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av26-714",
+          "date": "2026-07-17",
+          "description": "Visit link for details"
+        },
         {
           "title": "Google Chrome security advisory (AV26-713)",
           "link": "https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av26-713",
@@ -429,12 +435,6 @@
         {
           "title": "Splunk security advisory (AV26-708)",
           "link": "https://www.cyber.gc.ca/en/alerts-advisories/splunk-security-advisory-av26-708",
-          "date": "2026-07-16",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Zoom security advisory (AV26-707)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/zoom-security-advisory-av26-707",
           "date": "2026-07-16",
           "description": "Visit link for details"
         }
