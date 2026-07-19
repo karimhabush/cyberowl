@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T16:02:49.182660+00:00",
+  "generated_at": "2026-07-19T15:52:03.261838+00:00",
   "sources": {
     "US-CERT": {
       "items": [
@@ -199,64 +199,180 @@
     "VulDB": {
       "items": [
         {
-          "title": "CVE-2025-71398  SurrealDB up to 2.2.1 Http server-side request forgery",
-          "link": "https://vuldb.com/vuln/380082",
-          "date": "Sat, 18 Jul 2026 16:39:51 +0200",
-          "description": "A vulnerability identified as problematic has been detected in SurrealDB up to 2.2.1. This impacts an unknown function of the component Http. The manipulation leads to server-side request forgery.Th"
+          "title": "CVE-2026-63855  Linux Kernel up to 6.6.140/6.12.90/6.18.32/7.0.9 Vcn Encoder Decoder drm/amdgpu/vcn privilege escalation",
+          "link": "https://vuldb.com/vuln/380172",
+          "date": "Sun, 19 Jul 2026 17:21:42 +0200",
+          "description": "A vulnerability, which was classified as very critical, has been found in Linux Kernel up to 6.6.140/6.12.90/6.18.32/7.0.9. Affected by this vulnerability is an unknown functionality of the file drm/a"
         },
         {
-          "title": "CVE-2025-71394  SurrealDB up to 2.2.1 Define Analyzer information disclosure",
-          "link": "https://vuldb.com/vuln/380081",
-          "date": "Sat, 18 Jul 2026 16:38:45 +0200",
-          "description": "A vulnerability categorized as problematic has been discovered in SurrealDB up to 2.2.1. This affects the function Define of the component Define Analyzer. Executing a manipulation can lead to informa"
+          "title": "CVE-2026-63854  Linux Kernel up to 6.6.140/6.12.90/6.18.32/7.0.9 Vcn Encoder drm/amdgpu/vcn Local Privilege Escalation",
+          "link": "https://vuldb.com/vuln/380171",
+          "date": "Sun, 19 Jul 2026 17:20:41 +0200",
+          "description": "A vulnerability classified as critical was found in Linux Kernel up to 6.6.140/6.12.90/6.18.32/7.0.9. Affected is an unknown function of the file drm/amdgpu/vcn of the component Vcn Encoder. Executing"
         },
         {
-          "title": "CVE-2025-71396  SurrealDB up to 2.0.4/2.1.4/2.2.1 JavaScript Execution denial of service",
-          "link": "https://vuldb.com/vuln/380080",
-          "date": "Sat, 18 Jul 2026 16:37:43 +0200",
-          "description": "A vulnerability was found in SurrealDB up to 2.0.4/2.1.4/2.2.1. It has been rated as problematic. The impacted element is an unknown function of the component JavaScript Execution. Performing a manipu"
+          "title": "CVE-2026-63853  Linux Kernel up to 6.18.32/7.0.9 Vcn encoder drm/amdgpu/vcn Local Privilege Escalation",
+          "link": "https://vuldb.com/vuln/380170",
+          "date": "Sun, 19 Jul 2026 17:19:43 +0200",
+          "description": "A vulnerability classified as very critical has been found in Linux Kernel up to 6.18.32/7.0.9. This impacts an unknown function of the file drm/amdgpu/vcn of the component Vcn encoder. Performing a m"
         },
         {
-          "title": "CVE-2025-71393  SurrealDB up to 2.2.1 Scripting recursion",
-          "link": "https://vuldb.com/vuln/380079",
-          "date": "Sat, 18 Jul 2026 16:36:42 +0200",
-          "description": "A vulnerability was found in SurrealDB up to 2.2.1. It has been declared as problematic. The affected element is an unknown function of the component Scripting. Such manipulation leads to uncontrolled"
+          "title": "CVE-2026-63852  Linux Kernel up to 6.6.140/6.12.90/6.18.32/7.0.9 VCN Encoder drm/amdgpu/vcn privilege escalation",
+          "link": "https://vuldb.com/vuln/380169",
+          "date": "Sun, 19 Jul 2026 17:18:37 +0200",
+          "description": "A vulnerability described as very critical has been identified in Linux Kernel up to 6.6.140/6.12.90/6.18.32/7.0.9. This affects an unknown function of the file drm/amdgpu/vcn of the component VCN Enc"
         },
         {
-          "title": "CVE-2026-16117  fastify http-proxy up to 11.5.0 Prefix Rewrite request.url replace prefix input validation",
-          "link": "https://vuldb.com/vuln/380078",
-          "date": "Sat, 18 Jul 2026 16:35:45 +0200",
-          "description": "A vulnerability was found in fastify http-proxy up to 11.5.0. It has been classified as critical. Impacted is the function replace of the file request.url of the component Prefix Rewrite. This manipul"
+          "title": "CVE-2026-63851  Linux Kernel up to 6.12.90/6.18.32/7.0.9 Vcn Encoder drm/amdgpu/vcn",
+          "link": "https://vuldb.com/vuln/380168",
+          "date": "Sun, 19 Jul 2026 17:17:38 +0200",
+          "description": "A vulnerability marked as problematic has been reported in Linux Kernel up to 6.12.90/6.18.32/7.0.9. The impacted element is an unknown function of the file drm/amdgpu/vcn of the component Vcn Encoder"
         },
         {
-          "title": "CVE-2025-71395  SurrealDB up to 2.2.1 String Replace replace memory allocation",
-          "link": "https://vuldb.com/vuln/380077",
-          "date": "Sat, 18 Jul 2026 16:34:46 +0200",
-          "description": "A vulnerability was found in SurrealDB up to 2.2.1 and classified as problematic. This issue affects the function replace of the component String Replace. The manipulation results in uncontrolled memo"
+          "title": "CVE-2026-63850  Linux Kernel up to 6.12.90/6.18.32/7.0.9 Vcn Encoder drm/amdgpu/vcn",
+          "link": "https://vuldb.com/vuln/380167",
+          "date": "Sun, 19 Jul 2026 17:16:39 +0200",
+          "description": "A vulnerability labeled as problematic has been found in Linux Kernel up to 6.12.90/6.18.32/7.0.9. The affected element is an unknown function of the file drm/amdgpu/vcn of the component Vcn Encoder."
         },
         {
-          "title": "CVE-2025-71397  SurrealDB up to 2.0.4/2.1.4/2.2.1 Function Execution DEFINE FUNCTION denial of service",
-          "link": "https://vuldb.com/vuln/380076",
-          "date": "Sat, 18 Jul 2026 16:33:12 +0200",
-          "description": "A vulnerability has been found in SurrealDB up to 2.0.4/2.1.4/2.2.1 and classified as problematic. This vulnerability affects the function DEFINE FUNCTION of the component Function Execution. The mani"
+          "title": "CVE-2026-63849  Linux Kernel up to 6.18.32/7.0.9 Vcn Encoder drm/amdgpu/vcn set_no_user_fence",
+          "link": "https://vuldb.com/vuln/380166",
+          "date": "Sun, 19 Jul 2026 17:15:38 +0200",
+          "description": "A vulnerability identified as problematic has been detected in Linux Kernel up to 6.18.32/7.0.9. Impacted is the function set_no_user_fence of the file drm/amdgpu/vcn of the component Vcn Encoder. The"
         },
         {
-          "title": "CVE-2024-58362  SurrealDB up to 1.5.4/2.0.0 RPC API user session",
-          "link": "https://vuldb.com/vuln/380075",
-          "date": "Sat, 18 Jul 2026 16:29:20 +0200",
-          "description": "A vulnerability, which was classified as critical, was found in SurrealDB up to 1.5.4/2.0.0. This affects an unknown part of the component RPC API. Executing a manipulation can lead to manage user ses"
+          "title": "CVE-2026-63848  Linux Kernel up to 6.6.140/6.12.90/6.18.32/7.0.9 Drm Amdgpu Jpeg drm/amdgpu/jpeg Local Privilege Escalation",
+          "link": "https://vuldb.com/vuln/380165",
+          "date": "Sun, 19 Jul 2026 17:14:40 +0200",
+          "description": "A vulnerability categorized as very critical has been discovered in Linux Kernel up to 6.6.140/6.12.90/6.18.32/7.0.9. This issue affects some unknown processing of the file drm/amdgpu/jpeg of the comp"
         },
         {
-          "title": "CVE-2024-58366  SurrealDB up to 1.1.0 Exception throw_type format string",
-          "link": "https://vuldb.com/vuln/380074",
-          "date": "Sat, 18 Jul 2026 16:24:41 +0200",
-          "description": "A vulnerability, which was classified as critical, has been found in SurrealDB up to 1.1.0. Affected by this issue is the function throw_type of the component Exception. Performing a manipulation resu"
+          "title": "CVE-2026-63846  Linux Kernel up to 6.6.140/6.12.90/6.18.32/7.0.9 Drm Amdgpu Jpeg drm/amdgpu/jpeg",
+          "link": "https://vuldb.com/vuln/380164",
+          "date": "Sun, 19 Jul 2026 17:13:44 +0200",
+          "description": "A vulnerability was found in Linux Kernel up to 6.6.140/6.12.90/6.18.32/7.0.9. It has been rated as problematic. This vulnerability affects unknown code of the file drm/amdgpu/jpeg of the component Dr"
         },
         {
-          "title": "CVE-2025-71391  SurrealDB up to 2.2.1 Net Module denial of service",
-          "link": "https://vuldb.com/vuln/380073",
-          "date": "Sat, 18 Jul 2026 16:23:38 +0200",
-          "description": "A vulnerability classified as problematic was found in SurrealDB up to 2.2.1. Affected by this vulnerability is an unknown functionality of the component Net Module. Such manipulation leads to denial"
+          "title": "CVE-2026-63847  Linux Kernel up to 6.6.140/6.12.90/6.18.32/7.0.9 drm amdgpu jpeg Local Privilege Escalation",
+          "link": "https://vuldb.com/vuln/380163",
+          "date": "Sun, 19 Jul 2026 17:12:54 +0200",
+          "description": "A vulnerability was found in Linux Kernel up to 6.6.140/6.12.90/6.18.32/7.0.9. It has been declared as critical. This affects an unknown part of the file drm amdgpu jpeg of the component drm amdgpu jp"
+        }
+      ]
+    },
+    "OBS-Vigilance": {
+      "items": [
+        {
+          "title": "Joomla Address List: SQL injection via getSqlQuery()",
+          "link": "https://vigilance.fr/vulnerability/Joomla-Address-List-SQL-injection-via-getSqlQuery-51053",
+          "date": "Visit link for details",
+          "description": "An attacker can use a SQL injection of Joomla Address List, via getSqlQuery(), in order to read or alter data..."
+        },
+        {
+          "title": "Joomla Faceted Search: three vulnerabilities dated 19/05/2026",
+          "link": "https://vigilance.fr/vulnerability/Joomla-Faceted-Search-three-vulnerabilities-dated-19-05-2026-51052",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of Joomla Faceted Search, dated 19/05/2026..."
+        },
+        {
+          "title": "Joomla News system: SQL injection via Date Menu Of News Articles",
+          "link": "https://vigilance.fr/vulnerability/Joomla-News-system-SQL-injection-via-Date-Menu-Of-News-Articles-51051",
+          "date": "Visit link for details",
+          "description": "An attacker can use a SQL injection of Joomla News system, via Date Menu Of News Articles, in order to read or alter data..."
+        },
+        {
+          "title": "Joomla Frontend User Registration: privilege escalation via User Properties",
+          "link": "https://vigilance.fr/vulnerability/Joomla-Frontend-User-Registration-privilege-escalation-via-User-Properties-51050",
+          "date": "Visit link for details",
+          "description": "An attacker can bypass restrictions of Joomla Frontend User Registration, via User Properties, in order to escalate his privileges..."
+        },
+        {
+          "title": "ansible-core: logged sensitive information via psrp / winrm",
+          "link": "https://vigilance.fr/vulnerability/ansible-core-logged-sensitive-information-via-psrp-winrm-51048",
+          "date": "Visit link for details",
+          "description": "An attacker can read logs of ansible-core, via psrp / winrm, in order to obtain sensitive information..."
+        },
+        {
+          "title": "OpenEXR: three vulnerabilities dated 19/05/2026",
+          "link": "https://vigilance.fr/vulnerability/OpenEXR-three-vulnerabilities-dated-19-05-2026-51047",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of OpenEXR, dated 19/05/2026..."
+        },
+        {
+          "title": "pgproto3: denial of service via DataRow.Decode()",
+          "link": "https://vigilance.fr/vulnerability/pgproto3-denial-of-service-via-DataRow-Decode-51046",
+          "date": "Visit link for details",
+          "description": "An attacker can cause a fatal error of pgproto3, via DataRow.Decode(), in order to trigger a denial of service..."
+        },
+        {
+          "title": "Wasmtime: multiple vulnerabilities dated 19/05/2026",
+          "link": "https://vigilance.fr/vulnerability/Wasmtime-multiple-vulnerabilities-dated-19-05-2026-51045",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of Wasmtime, dated 19/05/2026..."
+        },
+        {
+          "title": "MariaDB Server: multiple vulnerabilities dated 18/05/2026",
+          "link": "https://vigilance.fr/vulnerability/MariaDB-Server-multiple-vulnerabilities-dated-18-05-2026-51044",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of MariaDB Server, dated 18/05/2026..."
+        },
+        {
+          "title": "eZ Publish Legacy: SQL injection via dfscleanup",
+          "link": "https://vigilance.fr/vulnerability/eZ-Publish-Legacy-SQL-injection-via-dfscleanup-51043",
+          "date": "Visit link for details",
+          "description": "An attacker can use a SQL injection of eZ Publish Legacy, via dfscleanup, in order to read or alter data..."
+        }
+      ]
+    },
+    "EU-CERT": {
+      "items": [
+        {
+          "title": "2026-008: Critical vulnerabilities in Ivanti Sentry",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-008/",
+          "date": "Wednesday, June 10, 2026 01:55:39 PM CEST",
+          "description": "On 9 June 2026, Ivanti released a security advisory addressing two critical vulnerabilities in their Sentry products[1]. An attacker could exploit those flaws to achieve unauthenticated remote code execution on the vulnerable device."
+        },
+        {
+          "title": "2026-007: Critical Vulnerability in Windows Netlogon",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-007/",
+          "date": "Wednesday, June 10, 2026 08:47:08 AM CEST",
+          "description": "On 12 May 2026, Microsoft published a security advisory addressing a critical vulnerability affecting Windows Server when acting as a domain controller. This vulnerability allows an unauthenticated attacker to execute arbitrary code over a network."
+        },
+        {
+          "title": "2026-006: Critical Vulnerability in PAN-OS",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-006/",
+          "date": "Wednesday, May 06, 2026 10:44:32 AM CEST",
+          "description": "On 6 May 2026, Palo Alto published a security advisory addressing a critical vulnerability affecting PAN-OS. This vulnerability allows an unauthenticated attacker to execute arbitrary code with root privileges."
+        },
+        {
+          "title": "2026-005: High Vulnerability in the Linux Kernel (\"Copy Fail\")",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-005/",
+          "date": "Thursday, April 30, 2026 11:25:30 AM CEST",
+          "description": "On 29 April 2026, a high local privilege escalation vulnerability in the Linux kernel, tracked as CVE-2026-31431 and named \"Copy Fail\", was publicly disclosed."
+        },
+        {
+          "title": "2026-004: Critical Vulnerability in SharePoint Exploited",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-004/",
+          "date": "Wednesday, March 25, 2026 08:51:39 AM CET",
+          "description": "On 17 March 2026, Microsoft updated one of its January 2026 security advisories related to a remote code execution vulnerability in Microsoft SharePoint. Specifically, Microsoft raised the CVSS score and changed the FAQ section to indicate that the vulnerability could be exploited by an unauthenticated attacker. This vulnerability was added in the CISA's Known Exploited Vulnerabilities (KEV) catalogue on 18 March 2026."
+        },
+        {
+          "title": "2026-003: Multiple Vulnerabilities in Citrix NetScaler and Citrix ADC",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-003/",
+          "date": "Monday, March 23, 2026 07:03:59 PM CET",
+          "description": "On 23 March 2026, Citrix published a security advisory addressing multiple vulnerabilities affecting NetScaler ADC and NetScaler Gateway. These vulnerabilities may lead to sensitive information disclosure and user session mix-up under specific configurations."
+        },
+        {
+          "title": "2026-002: Multiple Vulnerabilities in Cisco Products",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-002/",
+          "date": "Thursday, February 26, 2026 07:38:52 PM CET",
+          "description": "On 25 February 2026, Cisco released security advisories addressing multiple high and critical severity vulnerabilities in Cisco Catalyst SD-WAN controllers and Cisco SD-WAN Manager. If exploited, these vulnerabilities could allow attackers to gain administrative access to compromised systems."
+        },
+        {
+          "title": "2026-001: Critical vulnerabilities in Ivanti EPMM",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-001/",
+          "date": "Friday, January 30, 2026 10:09:06 AM CET",
+          "description": "On 29 January 2026, Ivanti released a security advisory addressing two critical vulnerabilities in their EPMM products. An attacker could exploit those flaws to achieve unauthenticated remote code execution on the vulnerable device. One of these vulnerabilities have been exploited in a limited number of cases."
         }
       ]
     },
@@ -324,55 +440,67 @@
         }
       ]
     },
-    "EU-CERT": {
+    "MA-CERT": {
       "items": [
         {
-          "title": "2026-008: Critical vulnerabilities in Ivanti Sentry",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-008/",
-          "date": "Wednesday, June 10, 2026 01:55:39 PM CEST",
-          "description": "On 9 June 2026, Ivanti released a security advisory addressing two critical vulnerabilities in their Sentry products[1]. An attacker could exploit those flaws to achieve unauthenticated remote code execution on the vulnerable device."
+          "title": "66561707/26 - Vulnérabilités dans Grafana",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-grafana",
+          "date": " ",
+          "description": "Deux vulnérabilités ont été corrigées dans Grafana MCP Server et Grafana Loki. La première permet à un attaquant d'exécuter une attaque de type SSRF, pouvant conduire à la divulgation d'informations…"
         },
         {
-          "title": "2026-007: Critical Vulnerability in Windows Netlogon",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-007/",
-          "date": "Wednesday, June 10, 2026 08:47:08 AM CEST",
-          "description": "On 12 May 2026, Microsoft published a security advisory addressing a critical vulnerability affecting Windows Server when acting as a domain controller. This vulnerability allows an unauthenticated attacker to execute arbitrary code over a network."
+          "title": "66551707/26 - Vulnérabilités dans Jupyter Enterprise Gateway",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-jupyter-enterprise-gateway",
+          "date": " ",
+          "description": "Plusieurs vulnérabilités ont été corrigées dans Jupyter Enterprise Gateway. L'exploitation de ces failles pourrait permettre à un attaquant d'exécuter du code arbitraire à distance, de con-tourner des…"
         },
         {
-          "title": "2026-006: Critical Vulnerability in PAN-OS",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-006/",
-          "date": "Wednesday, May 06, 2026 10:44:32 AM CEST",
-          "description": "On 6 May 2026, Palo Alto published a security advisory addressing a critical vulnerability affecting PAN-OS. This vulnerability allows an unauthenticated attacker to execute arbitrary code with root privileges."
+          "title": "66541707/26 - Groupe cybercriminel “ Qilin ”",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/groupe-cybercriminel-qilin",
+          "date": " ",
+          "description": ""
         },
         {
-          "title": "2026-005: High Vulnerability in the Linux Kernel (\"Copy Fail\")",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-005/",
-          "date": "Thursday, April 30, 2026 11:25:30 AM CEST",
-          "description": "On 29 April 2026, a high local privilege escalation vulnerability in the Linux kernel, tracked as CVE-2026-31431 and named \"Copy Fail\", was publicly disclosed."
+          "title": "66531707/26 - Vulnérabilités dans le CMS Drupal",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-le-cms-drupal-1",
+          "date": " ",
+          "description": "Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées du CMS Drupal. L’exploitation de ces failles peut permettre à un attaquant d’injecter du code à distance (XSS) et de porter…"
         },
         {
-          "title": "2026-004: Critical Vulnerability in SharePoint Exploited",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-004/",
-          "date": "Wednesday, March 25, 2026 08:51:39 AM CET",
-          "description": "On 17 March 2026, Microsoft updated one of its January 2026 security advisories related to a remote code execution vulnerability in Microsoft SharePoint. Specifically, Microsoft raised the CVSS score and changed the FAQ section to indicate that the vulnerability could be exploited by an unauthenticated attacker. This vulnerability was added in the CISA's Known Exploited Vulnerabilities (KEV) catalogue on 18 March 2026."
+          "title": "66521607/26 - Vulnérabilités critiques dans les produits Cisco",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-18",
+          "date": " ",
+          "description": "Cisco annonce avoir corrigé plusieurs vulnérabilités critiques affectant les produits susmentionnés. L’exploitation de ces vulnérabilités pourrait permettre à un attaquant authentifié disposant d’un…"
         },
         {
-          "title": "2026-003: Multiple Vulnerabilities in Citrix NetScaler and Citrix ADC",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-003/",
-          "date": "Monday, March 23, 2026 07:03:59 PM CET",
-          "description": "On 23 March 2026, Citrix published a security advisory addressing multiple vulnerabilities affecting NetScaler ADC and NetScaler Gateway. These vulnerabilities may lead to sensitive information disclosure and user session mix-up under specific configurations."
+          "title": "66511607/26 - Vulnérabilités critiques dans les plugins WordPress",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-plugins-wordpress-9",
+          "date": " ",
+          "description": "Plusieurs vulnérabilités critiques ont été corrigées dans divers plugins WordPress. Leur exploitation pourrait permettre à un attaquant distant de contourner l'authentification, d'exécuter des…"
         },
         {
-          "title": "2026-002: Multiple Vulnerabilities in Cisco Products",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-002/",
-          "date": "Thursday, February 26, 2026 07:38:52 PM CET",
-          "description": "On 25 February 2026, Cisco released security advisories addressing multiple high and critical severity vulnerabilities in Cisco Catalyst SD-WAN controllers and Cisco SD-WAN Manager. If exploited, these vulnerabilities could allow attackers to gain administrative access to compromised systems."
+          "title": "66501607/26 - Vulnérabilités dans les produits Dell",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-dell",
+          "date": " ",
+          "description": "Dell a publié des mises à jour de sécurité corrigeant plusieurs vulnérabilités affectant PowerScale OneFS et ThinOS 10. Leur exploitation pourrait permettre à un attaquant d'exécuter du code…"
         },
         {
-          "title": "2026-001: Critical vulnerabilities in Ivanti EPMM",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-001/",
-          "date": "Friday, January 30, 2026 10:09:06 AM CET",
-          "description": "On 29 January 2026, Ivanti released a security advisory addressing two critical vulnerabilities in their EPMM products. An attacker could exploit those flaws to achieve unauthenticated remote code execution on the vulnerable device. One of these vulnerabilities have been exploited in a limited number of cases."
+          "title": "66491607/26 - Vulnérabilités dans les produits Splunk",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-splunk-9",
+          "date": " ",
+          "description": "Splunk a publié une mise à jour de sécurité pour corriger deux vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d'accéder à des informations…"
+        },
+        {
+          "title": "66481607/26 - Vulnérabilités critiques dans les produits F5",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-f5-3",
+          "date": " ",
+          "description": "Plusieurs vulnérabilités critiques ont été corrigées dans les produits F5 susmentionnés. L'exploitation de ces failles peut permettre à un attaquant distant d'exécuter du code arbitraire, de…"
+        },
+        {
+          "title": "66471607/26 - Vulnérabilités critiques dans Google Chrome",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-google-chrome-14",
+          "date": " ",
+          "description": "Google annonce la correction de plusieurs vulnérabilités critiques affectant les versions susmentionnées de Google Chrome. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du…"
         }
       ]
     },
@@ -439,73 +567,6 @@
           "description": "Visit link for details"
         }
       ]
-    },
-    "MA-CERT": {
-      "items": [
-        {
-          "title": "66561707/26 - Vulnérabilités dans Grafana",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-grafana",
-          "date": " ",
-          "description": "Deux vulnérabilités ont été corrigées dans Grafana MCP Server et Grafana Loki. La première permet à un attaquant d'exécuter une attaque de type SSRF, pouvant conduire à la divulgation d'informations…"
-        },
-        {
-          "title": "66551707/26 - Vulnérabilités dans Jupyter Enterprise Gateway",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-jupyter-enterprise-gateway",
-          "date": " ",
-          "description": "Plusieurs vulnérabilités ont été corrigées dans Jupyter Enterprise Gateway. L'exploitation de ces failles pourrait permettre à un attaquant d'exécuter du code arbitraire à distance, de con-tourner des…"
-        },
-        {
-          "title": "66541707/26 - Groupe cybercriminel “ Qilin ”",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/groupe-cybercriminel-qilin",
-          "date": " ",
-          "description": ""
-        },
-        {
-          "title": "66531707/26 - Vulnérabilités dans le CMS Drupal",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-le-cms-drupal-1",
-          "date": " ",
-          "description": "Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées du CMS Drupal. L’exploitation de ces failles peut permettre à un attaquant d’injecter du code à distance (XSS) et de porter…"
-        },
-        {
-          "title": "66521607/26 - Vulnérabilités critiques dans les produits Cisco",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-cisco-18",
-          "date": " ",
-          "description": "Cisco annonce avoir corrigé plusieurs vulnérabilités critiques affectant les produits susmentionnés. L’exploitation de ces vulnérabilités pourrait permettre à un attaquant authentifié disposant d’un…"
-        },
-        {
-          "title": "66511607/26 - Vulnérabilités critiques dans les plugins WordPress",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-plugins-wordpress-9",
-          "date": " ",
-          "description": "Plusieurs vulnérabilités critiques ont été corrigées dans divers plugins WordPress. Leur exploitation pourrait permettre à un attaquant distant de contourner l'authentification, d'exécuter des…"
-        },
-        {
-          "title": "66501607/26 - Vulnérabilités dans les produits Dell",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-dell",
-          "date": " ",
-          "description": "Dell a publié des mises à jour de sécurité corrigeant plusieurs vulnérabilités affectant PowerScale OneFS et ThinOS 10. Leur exploitation pourrait permettre à un attaquant d'exécuter du code…"
-        },
-        {
-          "title": "66491607/26 - Vulnérabilités dans les produits Splunk",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-splunk-9",
-          "date": " ",
-          "description": "Splunk a publié une mise à jour de sécurité pour corriger deux vulnérabilités dans les produits susmentionnés. L’exploitation de ces failles peut permettre à un attaquant d'accéder à des informations…"
-        },
-        {
-          "title": "66481607/26 - Vulnérabilités critiques dans les produits F5",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-f5-3",
-          "date": " ",
-          "description": "Plusieurs vulnérabilités critiques ont été corrigées dans les produits F5 susmentionnés. L'exploitation de ces failles peut permettre à un attaquant distant d'exécuter du code arbitraire, de…"
-        },
-        {
-          "title": "66471607/26 - Vulnérabilités critiques dans Google Chrome",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-google-chrome-14",
-          "date": " ",
-          "description": "Google annonce la correction de plusieurs vulnérabilités critiques affectant les versions susmentionnées de Google Chrome. L’exploitation de ces failles peut permettre à un attaquant d’exécuter du…"
-        }
-      ]
-    },
-    "OBS-Vigilance": {
-      "items": []
     }
   }
 }
