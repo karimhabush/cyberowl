@@ -4,14 +4,14 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Google Chrome security advisory (AV26-730)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av26-730)|Visit link for details|2026-07-22|
- |[Oracle security advisory – July 2026 quarterly rollup (AV26-729)](https://www.cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-july-2026-quarterly-rollup-av26-729)|Visit link for details|2026-07-22|
- |[SolarWinds security advisory (AV26-728)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av26-728)|Visit link for details|2026-07-22|
- |[HPE security advisory (AV26-727)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av26-727)|Visit link for details|2026-07-21|
- |[WordPress security advisory (AV26-723) - Update 1](https://www.cyber.gc.ca/en/alerts-advisories/wordpress-security-advisory-av26-723)|Visit link for details|2026-07-21|
- |[Mozilla security advisory (AV26-726)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av26-726)|Visit link for details|2026-07-21|
- |[Microsoft security advisory – July 2026 monthly rollup (AV26-698) – Update 2](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-july-2026-monthly-rollup-av26-698)|Visit link for details|2026-07-21|
- |[Zyxel security advisory (AV26-725)](https://www.cyber.gc.ca/en/alerts-advisories/zyxel-security-advisory-av26-725)|Visit link for details|2026-07-21|
- |[Tenable security advisory (AV26-724)](https://www.cyber.gc.ca/en/alerts-advisories/tenable-security-advisory-av26-724)|Visit link for details|2026-07-21|
- |[HPE security advisory (AV26-722)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av26-722)|Visit link for details|2026-07-20|
+ |[JetBrains security advisory (AV26-739)](https://www.cyber.gc.ca/en/alerts-advisories/jetbrains-security-advisory-av26-739)|Visit link for details|2026-07-23|
+ |[Microsoft security advisory – July 2026 monthly rollup (AV26-698) – Update 3](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-july-2026-monthly-rollup-av26-698)|Visit link for details|2026-07-23|
+ |[Check Point security advisory (AV26-735) – Update 1](https://www.cyber.gc.ca/en/alerts-advisories/check-point-security-advisory-av26-735)|Visit link for details|2026-07-23|
+ |[Drupal security advisory (AV26-738)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av26-738)|Visit link for details|2026-07-22|
+ |[Exim security advisory (AV26-737)](https://www.cyber.gc.ca/en/alerts-advisories/exim-security-advisory-av26-737)|Visit link for details|2026-07-22|
+ |[Progress security advisory (AV26-736)](https://www.cyber.gc.ca/en/alerts-advisories/progress-security-advisory-av26-736)|Visit link for details|2026-07-22|
+ |[Mitel security advisory (AV26-734)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av26-734)|Visit link for details|2026-07-22|
+ |[n8n security advisory (AV26-733)](https://www.cyber.gc.ca/en/alerts-advisories/n8n-security-advisory-av26-733)|Visit link for details|2026-07-22|
+ |[ISC BIND security advisory (AV26-732)](https://www.cyber.gc.ca/en/alerts-advisories/isc-bind-security-advisory-av26-732)|Visit link for details|2026-07-22|
+ |[Atlassian security advisory (AV26-731)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av26-731)|Visit link for details|2026-07-22|
  
