@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T15:59:21.893661+00:00",
+  "generated_at": "2026-07-26T15:57:37.564703+00:00",
   "sources": {
     "US-CERT": {
       "items": [
@@ -62,70 +62,6 @@
           "link": "https://www.cisa.gov/news-events/alerts/2026/07/07/cisa-adds-three-known-exploited-vulnerabilities-catalog",
           "date": "Jul 07, 2026",
           "description": "Visit link for details."
-        }
-      ]
-    },
-    "CERT-FR": {
-      "items": [
-        {
-          "title": "Multiples vulnérabilités dans les produits IBM",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0933/",
-          "date": "Publié le 24 juillet 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance."
-        },
-        {
-          "title": "Multiples vulnérabilités dans les produits ESET",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0932/",
-          "date": "Publié le 24 juillet 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits ESET. Elles permettent à un attaquant de provoquer une élévation de privilèges."
-        },
-        {
-          "title": "Vulnérabilité dans les produits Moxa",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0931/",
-          "date": "Publié le 24 juillet 2026",
-          "description": "Une vulnérabilité a été découverte dans les produits Moxa. Elle permet à un attaquant de provoquer une élévation de privilèges."
-        },
-        {
-          "title": "Multiples vulnérabilités dans le noyau Linux de Debian",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0930/",
-          "date": "Publié le 24 juillet 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données."
-        },
-        {
-          "title": "Multiples vulnérabilités dans le noyau Linux de Debian LTS",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0929/",
-          "date": "Publié le 24 juillet 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données."
-        },
-        {
-          "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0928/",
-          "date": "Publié le 24 juillet 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance."
-        },
-        {
-          "title": "Multiples vulnérabilités dans le noyau Linux de SUSE",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0927/",
-          "date": "Publié le 24 juillet 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité."
-        },
-        {
-          "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0926/",
-          "date": "Publié le 24 juillet 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données."
-        },
-        {
-          "title": "Multiples vulnérabilités dans Google Chrome",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0925/",
-          "date": "Publié le 24 juillet 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
-        },
-        {
-          "title": "Multiples vulnérabilités dans Microsoft Edge",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0924/",
-          "date": "Publié le 24 juillet 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
         }
       ]
     },
@@ -196,131 +132,131 @@
         }
       ]
     },
-    "OBS-Vigilance": {
+    "CERT-FR": {
       "items": [
         {
-          "title": "Perl Apache-SessionX: weak encryption via Session Ids",
-          "link": "https://vigilance.fr/vulnerability/Perl-Apache-SessionX-weak-encryption-via-Session-Ids-51133",
-          "date": "Visit link for details",
-          "description": "An attacker can access data on Perl Apache::SessionX, via Session Ids, in order to read sensitive information..."
+          "title": "Multiples vulnérabilités dans les produits IBM",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0933/",
+          "date": "Publié le 24 juillet 2026",
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance."
         },
         {
-          "title": "Perl Apache-Session-Generate-MD5: weak encryption via Session Ids",
-          "link": "https://vigilance.fr/vulnerability/Perl-Apache-Session-Generate-MD5-weak-encryption-via-Session-Ids-51132",
-          "date": "Visit link for details",
-          "description": "An attacker can access data on Perl Apache::Session::"
+          "title": "Multiples vulnérabilités dans les produits ESET",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0932/",
+          "date": "Publié le 24 juillet 2026",
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits ESET. Elles permettent à un attaquant de provoquer une élévation de privilèges."
         },
         {
-          "title": "Perl Apache-Session-Generate-SHA256: weak encryption via Session Ids",
-          "link": "https://vigilance.fr/vulnerability/Perl-Apache-Session-Generate-SHA256-weak-encryption-via-Session-Ids-51131",
-          "date": "Visit link for details",
-          "description": "An attacker can access data on Perl Apache::Session::"
+          "title": "Vulnérabilité dans les produits Moxa",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0931/",
+          "date": "Publié le 24 juillet 2026",
+          "description": "Une vulnérabilité a été découverte dans les produits Moxa. Elle permet à un attaquant de provoquer une élévation de privilèges."
         },
         {
-          "title": "Composer: information disclosure via Github Actions GITHUB_TOKEN",
-          "link": "https://vigilance.fr/vulnerability/Composer-information-disclosure-via-Github-Actions-GITHUB-TOKEN-51130",
-          "date": "Visit link for details",
-          "description": "An attacker can bypass access restrictions to data of Composer, via Github Actions GITHUB_TOKEN, in order to read sensitive information..."
+          "title": "Multiples vulnérabilités dans le noyau Linux de Debian",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0930/",
+          "date": "Publié le 24 juillet 2026",
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données."
         },
         {
-          "title": "Linux kernel: memory corruption via skb_try_coalesce()",
-          "link": "https://vigilance.fr/vulnerability/Linux-kernel-memory-corruption-via-skb-try-coalesce-51129",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger a memory corruption of the Linux kernel, via skb_try_coalesce(), in order to trigger a denial of service, and possibly to run code..."
+          "title": "Multiples vulnérabilités dans le noyau Linux de Debian LTS",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0929/",
+          "date": "Publié le 24 juillet 2026",
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données."
         },
         {
-          "title": "Podman: information disclosure via Host Variables",
-          "link": "https://vigilance.fr/vulnerability/Podman-information-disclosure-via-Host-Variables-51972",
-          "date": "Visit link for details",
-          "description": "An attacker can bypass access restrictions to data of Podman, via Host Variables, in order to read sensitive information..."
+          "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0928/",
+          "date": "Publié le 24 juillet 2026",
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance."
         },
         {
-          "title": "upower: memory leak dated 09/07/2026",
-          "link": "https://vigilance.fr/vulnerability/upower-memory-leak-dated-09-07-2026-51968",
-          "date": "Visit link for details",
-          "description": "An attacker can create a memory leak of upower, dated 09/07/2026, in order to trigger a denial of service..."
+          "title": "Multiples vulnérabilités dans le noyau Linux de SUSE",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0927/",
+          "date": "Publié le 24 juillet 2026",
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité."
         },
         {
-          "title": "Perl CSS-Minifier-XS: memory leak via All Remove",
-          "link": "https://vigilance.fr/vulnerability/Perl-CSS-Minifier-XS-memory-leak-via-All-Remove-51967",
-          "date": "Visit link for details",
-          "description": "An attacker can create a memory leak of Perl CSS::Minifier::XS, via All Remove, in order to trigger a denial of service..."
+          "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0926/",
+          "date": "Publié le 24 juillet 2026",
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données."
         },
         {
-          "title": "Linux kernel: memory reading via permuted_state",
-          "link": "https://vigilance.fr/vulnerability/Linux-kernel-memory-reading-via-permuted-state-51964",
-          "date": "Visit link for details",
-          "description": "An attacker can read a memory fragment of the Linux kernel, via permuted_state, in order to obtain sensitive information..."
+          "title": "Multiples vulnérabilités dans Google Chrome",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0925/",
+          "date": "Publié le 24 juillet 2026",
+          "description": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
         },
         {
-          "title": "KubeVirt: overload via Network Interfaces",
-          "link": "https://vigilance.fr/vulnerability/KubeVirt-overload-via-Network-Interfaces-51945",
-          "date": "Visit link for details",
-          "description": "An attacker, in a guest system, can trigger an overload of KubeVirt, via Network Interfaces, in order to trigger a denial of service..."
+          "title": "Multiples vulnérabilités dans Microsoft Edge",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0924/",
+          "date": "Publié le 24 juillet 2026",
+          "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
         }
       ]
     },
     "VulDB": {
       "items": [
         {
-          "title": "CVE-2026-64374  Linux Kernel up to 7.1.3 sched/rt resource management",
-          "link": "https://vuldb.com/vuln/383170",
-          "date": "Sat, 25 Jul 2026 17:40:32 +0200",
-          "description": "A vulnerability has been found in Linux Kernel up to 7.1.3 and classified as critical. The affected element is an unknown function of the component sched/rt. Performing a manipulation results in impro"
+          "title": "CVE-2026-17496  codexu NoteGen up to 0.31.x chat-preview dangerouslySetInnerHTML cross site scripting",
+          "link": "https://vuldb.com/vuln/383327",
+          "date": "Sun, 26 Jul 2026 17:17:43 +0200",
+          "description": "A vulnerability was found in codexu NoteGen up to 0.31.x. It has been declared as problematic. This impacts the function dangerouslySetInnerHTML of the component chat-preview. Executing a manipulation"
         },
         {
-          "title": "CVE-2026-64372  Linux Kernel up to 7.1.3 pcc pcc_cpufreq_do_osc use after free",
-          "link": "https://vuldb.com/vuln/383169",
-          "date": "Sat, 25 Jul 2026 17:38:12 +0200",
-          "description": "A vulnerability, which was classified as very critical, was found in Linux Kernel up to 7.1.3. Impacted is the function pcc_cpufreq_do_osc of the component pcc. Such manipulation leads to use after fr"
+          "title": "CVE-2026-17497  codexu NoteGen up to 0.31.x Tauri shell plugin cross site scripting",
+          "link": "https://vuldb.com/vuln/383326",
+          "date": "Sun, 26 Jul 2026 17:16:27 +0200",
+          "description": "A vulnerability was found in codexu NoteGen up to 0.31.x. It has been classified as problematic. This affects an unknown function of the component Tauri shell plugin. Performing a manipulation results"
         },
         {
-          "title": "CVE-2026-64371  Linux Kernel up to 7.1.3 procfs ptrace_may_access race condition",
-          "link": "https://vuldb.com/vuln/383168",
-          "date": "Sat, 25 Jul 2026 17:36:16 +0200",
-          "description": "A vulnerability, which was classified as very critical, has been found in Linux Kernel up to 7.1.3. This issue affects the function ptrace_may_access of the component procfs. This manipulation causes"
+          "title": "CVE-2024-14040  Linux Kernel nexthop weight/resvd1 allocation of resources (EUVD-2024-55701)",
+          "link": "https://vuldb.com/vuln/383325",
+          "date": "Sun, 26 Jul 2026 09:27:24 +0200",
+          "description": "A vulnerability was found in Linux Kernel and classified as very critical. The impacted element is an unknown function of the component nexthop. Such manipulation of the argument weight/resvd1 leads t"
         },
         {
-          "title": "CVE-2026-64370  Linux Kernel up to 7.1.3 posix-cpu-timers do_cpu_nanosleep reference count",
-          "link": "https://vuldb.com/vuln/383167",
-          "date": "Sat, 25 Jul 2026 17:34:12 +0200",
-          "description": "A vulnerability classified as critical was found in Linux Kernel up to 7.1.3. This vulnerability affects the function do_cpu_nanosleep of the component posix-cpu-timers. The manipulation results in im"
+          "title": "CVE-2026-64530  Linux Kernel up to 7.1.4 cls_api net/sched/cls_api.c tcf_qevent_handle use after free (EUVD-2026-49051)",
+          "link": "https://vuldb.com/vuln/383324",
+          "date": "Sun, 26 Jul 2026 09:25:45 +0200",
+          "description": "A vulnerability has been found in Linux Kernel up to 7.1.4 and classified as very critical. The affected element is the function tcf_qevent_handle of the file net/sched/cls_api.c of the component cls_"
         },
         {
-          "title": "CVE-2026-64366  Linux Kernel up to 6.18.38/7.1.3 HID Wacom wacom_wac_queue_insert out-of-bounds write",
-          "link": "https://vuldb.com/vuln/383166",
-          "date": "Sat, 25 Jul 2026 17:32:50 +0200",
-          "description": "A vulnerability classified as very critical has been found in Linux Kernel up to 6.18.38/7.1.3. This affects the function wacom_wac_queue_insert of the component HID Wacom. The manipulation leads to o"
+          "title": "CVE-2026-63720  koxudaxi datamodel-code-generator up to 0.69.x customBasePath code injection (545a96c5 / EUVD-2026-49050)",
+          "link": "https://vuldb.com/vuln/383323",
+          "date": "Sun, 26 Jul 2026 07:32:33 +0200",
+          "description": "A vulnerability, which was classified as critical, was found in koxudaxi datamodel-code-generator up to 0.69.x. Impacted is an unknown function. The manipulation of the argument customBasePath results"
         },
         {
-          "title": "CVE-2026-64365  Linux Kernel up to 7.2-rc2 HID: letsketch letsketch_probe use after free",
-          "link": "https://vuldb.com/vuln/383165",
-          "date": "Sat, 25 Jul 2026 17:31:02 +0200",
-          "description": "A vulnerability described as critical has been identified in Linux Kernel up to 7.2-rc2. Affected by this issue is the function letsketch_probe of the component HID: letsketch. Executing a manipulatio"
+          "title": "CVE-2026-15962  techjewel Fluent Forms Pro Add On Pack Plugin up to 6.2.6 on WordPress deserialization (EUVD-2026-49047)",
+          "link": "https://vuldb.com/vuln/383322",
+          "date": "Sun, 26 Jul 2026 03:58:03 +0200",
+          "description": "A vulnerability, which was classified as critical, has been found in techjewel Fluent Forms Pro Add On Pack Plugin up to 6.2.6 on WordPress. This issue affects some unknown processing. The manipulatio"
         },
         {
-          "title": "CVE-2026-64373  Linux Kernel up to 7.1.3 cpufreq cpufreq_suspend null pointer dereference",
-          "link": "https://vuldb.com/vuln/383164",
-          "date": "Sat, 25 Jul 2026 17:29:53 +0200",
-          "description": "A vulnerability marked as problematic has been reported in Linux Kernel up to 7.1.3. Affected by this vulnerability is the function cpufreq_suspend of the component cpufreq. Performing a manipulation"
+          "title": "CVE-2026-17459  perwendel spark up to 2.9.4 SparkJava ExternalResourceHandler.jav staticFiles.externalLocation symlink (Issue 1296 / EUVD-2026-49054)",
+          "link": "https://vuldb.com/vuln/383321",
+          "date": "Sat, 25 Jul 2026 21:12:51 +0200",
+          "description": "A vulnerability classified as critical was found in perwendel spark up to 2.9.4. This vulnerability affects the function staticFiles.externalLocation of the file src/main/java/spark/resource/ExternalR"
         },
         {
-          "title": "CVE-2026-64369  Linux Kernel up to 6.12.96/6.18.38/7.1.3 s390 load_unaligned_zeropad infinite loop",
-          "link": "https://vuldb.com/vuln/383163",
-          "date": "Sat, 25 Jul 2026 17:28:43 +0200",
-          "description": "A vulnerability labeled as critical has been found in Linux Kernel up to 6.12.96/6.18.38/7.1.3. Affected is the function load_unaligned_zeropad of the component s390. Such manipulation leads to infini"
+          "title": "CVE-2026-17458  mf-yang openclaw-cn up to 0.2.1 Browser Control HTTP API agent.act.ts clickViaPlaywright server-side request forgery (Issue 562 / EUVD-2026-49053)",
+          "link": "https://vuldb.com/vuln/383320",
+          "date": "Sat, 25 Jul 2026 20:59:43 +0200",
+          "description": "A vulnerability classified as critical has been found in mf-yang openclaw-cn up to 0.2.1. This affects the function clickViaPlaywright of the file src/browser/routes/agent.act.ts of the component Brow"
         },
         {
-          "title": "CVE-2026-64368  Linux Kernel up to 6.6.144/6.12.95/6.18.38/7.1.3 mm/slab slub_debug_orig_size/krealloc allocation of resources",
-          "link": "https://vuldb.com/vuln/383162",
-          "date": "Sat, 25 Jul 2026 17:27:51 +0200",
-          "description": "A vulnerability identified as very critical has been detected in Linux Kernel up to 6.6.144/6.12.95/6.18.38/7.1.3. This impacts the function slub_debug_orig_size/krealloc of the component mm/slab. Thi"
+          "title": "CVE-2026-17457  mf-yang openclaw-cn up to 0.2.1 Scheme navigation-guard.ts assertBrowserNavigationAllowed url information disclosure (Issue 561 / EUVD-2026-49052)",
+          "link": "https://vuldb.com/vuln/383319",
+          "date": "Sat, 25 Jul 2026 20:59:39 +0200",
+          "description": "A vulnerability described as problematic has been identified in mf-yang openclaw-cn up to 0.2.1. Affected by this issue is the function assertBrowserNavigationAllowed of the file src/browser/navigatio"
         },
         {
-          "title": "CVE-2026-64367  Linux Kernel up to 6.12.95/6.18.38/7.1.3 hid-goodix-spi goodix_hid_set_raw_report stack-based overflow",
-          "link": "https://vuldb.com/vuln/383161",
-          "date": "Sat, 25 Jul 2026 17:26:33 +0200",
-          "description": "A vulnerability categorized as very critical has been discovered in Linux Kernel up to 6.12.95/6.18.38/7.1.3. This affects the function goodix_hid_set_raw_report of the component hid-goodix-spi. The m"
+          "title": "CVE-2026-64501  Linux Kernel up to 6.18.38/7.1.3 iio adc ad_sigma_delta state issue (EUVD-2026-48845 / Nessus ID 329960)",
+          "link": "https://vuldb.com/vuln/383318",
+          "date": "Sat, 25 Jul 2026 19:31:05 +0200",
+          "description": "A vulnerability marked as very critical has been reported in Linux Kernel up to 6.18.38/7.1.3. Affected by this vulnerability is the function ad_sigma_delta_single_conversion/ad_sd_buffer_postenable o"
         }
       ]
     },
@@ -388,6 +324,70 @@
         }
       ]
     },
+    "OBS-Vigilance": {
+      "items": [
+        {
+          "title": "ImageMagick: multiple vulnerabilities dated 26/05/2026",
+          "link": "https://vigilance.fr/vulnerability/ImageMagick-multiple-vulnerabilities-dated-26-05-2026-51159",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of ImageMagick, dated 26/05/2026..."
+        },
+        {
+          "title": "urllib3: information disclosure via ProxyManager.connection_from_url()",
+          "link": "https://vigilance.fr/vulnerability/urllib3-information-disclosure-via-ProxyManager-connection-from-url-51156",
+          "date": "Visit link for details",
+          "description": "An attacker can bypass access restrictions to data of urllib3, via ProxyManager."
+        },
+        {
+          "title": "Linux kernel: Man-in-the-Middle via Bluetooth SMP Force Responder",
+          "link": "https://vigilance.fr/vulnerability/Linux-kernel-Man-in-the-Middle-via-Bluetooth-SMP-Force-Responder-51155",
+          "date": "Visit link for details",
+          "description": "An attacker can act as a Man-in-the-Middle on the Linux kernel, via Bluetooth SMP Force Responder, in order to read or write data in the session..."
+        },
+        {
+          "title": "Qt: code execution via SVG Module",
+          "link": "https://vigilance.fr/vulnerability/Qt-code-execution-via-SVG-Module-51154",
+          "date": "Visit link for details",
+          "description": "An attacker can use a vulnerability of Qt, via SVG Module, in order to run code..."
+        },
+        {
+          "title": "Synology DSM: three vulnerabilities via Chat Server",
+          "link": "https://vigilance.fr/vulnerability/Synology-DSM-three-vulnerabilities-via-Chat-Server-51153",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of Synology DSM, via Chat Server..."
+        },
+        {
+          "title": "Perl Core: buffer overflow via Regular Expression Compilation",
+          "link": "https://vigilance.fr/vulnerability/Perl-Core-buffer-overflow-via-Regular-Expression-Compilation-51151",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger a buffer overflow of Perl Core, via Regular Expression Compilation, in order to trigger a denial of service, and possibly to run code..."
+        },
+        {
+          "title": "jq: denial of service via Ordinary Module Loader",
+          "link": "https://vigilance.fr/vulnerability/jq-denial-of-service-via-Ordinary-Module-Loader-51150",
+          "date": "Visit link for details",
+          "description": "An attacker can cause a fatal error of jq, via Ordinary Module Loader, in order to trigger a denial of service..."
+        },
+        {
+          "title": "jq: denial of service via jv_object_merge_recursive()",
+          "link": "https://vigilance.fr/vulnerability/jq-denial-of-service-via-jv-object-merge-recursive-51149",
+          "date": "Visit link for details",
+          "description": "An attacker can cause a fatal error of jq, via jv_object_merge_"
+        },
+        {
+          "title": "jq: read-write access via Embedded NUL Bytes",
+          "link": "https://vigilance.fr/vulnerability/jq-read-write-access-via-Embedded-NUL-Bytes-51148",
+          "date": "Visit link for details",
+          "description": "An attacker can bypass access restrictions of jq, via Embedded NUL Bytes, in order to read or alter data..."
+        },
+        {
+          "title": "jq: memory corruption via Bytecode VM",
+          "link": "https://vigilance.fr/vulnerability/jq-memory-corruption-via-Bytecode-VM-51147",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger a memory corruption of jq, via Bytecode VM, in order to trigger a denial of service, and possibly to run code..."
+        }
+      ]
+    },
     "EU-CERT": {
       "items": [
         {
@@ -443,70 +443,6 @@
           "link": "https://cert.europa.eu/publications/security-advisories/2026-001/",
           "date": "Friday, January 30, 2026 10:09:06 AM CET",
           "description": "On 29 January 2026, Ivanti released a security advisory addressing two critical vulnerabilities in their EPMM products. An attacker could exploit those flaws to achieve unauthenticated remote code execution on the vulnerable device. One of these vulnerabilities have been exploited in a limited number of cases."
-        }
-      ]
-    },
-    "CA-CCS": {
-      "items": [
-        {
-          "title": "Progress security advisory (AV26-746)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/progress-security-advisory-av26-746",
-          "date": "2026-07-24",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "HPE security advisory (AV26-745)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av26-745",
-          "date": "2026-07-24",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "MongoDB security advisory (AV26-744)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/mongodb-security-advisory-av26-744",
-          "date": "2026-07-24",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Ericsson security advisory (AV26-743)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/ericsson-security-advisory-av26-743",
-          "date": "2026-07-24",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "[Control Systems] Moxa security advisory (AV26-742)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/control-systems-moxa-security-advisory-av26-742",
-          "date": "2026-07-24",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Google Chrome security advisory (AV26-741)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av26-741",
-          "date": "2026-07-24",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Microsoft Edge security advisory (AV26-740)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av26-740",
-          "date": "2026-07-24",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "JetBrains security advisory (AV26-739)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/jetbrains-security-advisory-av26-739",
-          "date": "2026-07-23",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Microsoft security advisory – July 2026 monthly rollup (AV26-698) – Update 3",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-july-2026-monthly-rollup-av26-698",
-          "date": "2026-07-23",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Check Point security advisory (AV26-735) – Update 1",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/check-point-security-advisory-av26-735",
-          "date": "2026-07-23",
-          "description": "Visit link for details"
         }
       ]
     },
@@ -571,6 +507,70 @@
           "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-le-dns-bind9-1",
           "date": " ",
           "description": "Plusieurs vulnérabilités ont été corrigées dans les versions susmentionnées de DNS BIND9 et BIND Supported Preview Edition. L’exploitation de ces failles peut permettre à un attaquant distant de…"
+        }
+      ]
+    },
+    "CA-CCS": {
+      "items": [
+        {
+          "title": "Progress security advisory (AV26-746)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/progress-security-advisory-av26-746",
+          "date": "2026-07-24",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "HPE security advisory (AV26-745)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av26-745",
+          "date": "2026-07-24",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "MongoDB security advisory (AV26-744)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/mongodb-security-advisory-av26-744",
+          "date": "2026-07-24",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Ericsson security advisory (AV26-743)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/ericsson-security-advisory-av26-743",
+          "date": "2026-07-24",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "[Control Systems] Moxa security advisory (AV26-742)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/control-systems-moxa-security-advisory-av26-742",
+          "date": "2026-07-24",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Google Chrome security advisory (AV26-741)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av26-741",
+          "date": "2026-07-24",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Microsoft Edge security advisory (AV26-740)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/microsoft-edge-security-advisory-av26-740",
+          "date": "2026-07-24",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "JetBrains security advisory (AV26-739)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/jetbrains-security-advisory-av26-739",
+          "date": "2026-07-23",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Microsoft security advisory – July 2026 monthly rollup (AV26-698) – Update 3",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-july-2026-monthly-rollup-av26-698",
+          "date": "2026-07-23",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Check Point security advisory (AV26-735) – Update 1",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/check-point-security-advisory-av26-735",
+          "date": "2026-07-23",
+          "description": "Visit link for details"
         }
       ]
     }
