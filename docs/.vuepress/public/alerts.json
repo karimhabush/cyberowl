@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T15:56:08.357182+00:00",
+  "generated_at": "2026-08-02T15:56:16.163741+00:00",
   "sources": {
     "US-CERT": {
       "items": [
@@ -129,70 +129,6 @@
         }
       ]
     },
-    "VulDB": {
-      "items": [
-        {
-          "title": "CVE-2026-67352  OpenWrt LuCI HTTPS DNS Proxy Status Page resolver_url cross site scripting",
-          "link": "https://vuldb.com/vuln/385307",
-          "date": "Sat, 01 Aug 2026 15:36:56 +0200",
-          "description": "A vulnerability described as problematic has been identified in OpenWrt LuCI. This impacts an unknown function of the component HTTPS DNS Proxy Status Page. Executing a manipulation of the argument re"
-        },
-        {
-          "title": "CVE-2026-67342  ArcadeData ArcadeDB up to 26.7.1 HTTP handlers authorization",
-          "link": "https://vuldb.com/vuln/385306",
-          "date": "Sat, 01 Aug 2026 15:36:15 +0200",
-          "description": "A vulnerability marked as critical has been reported in ArcadeData ArcadeDB up to 26.7.1. This affects an unknown function of the component HTTP handlers. Performing a manipulation results in authoriz"
-        },
-        {
-          "title": "CVE-2026-67344  ArcadeData ArcadeDB up to 26.7.1 Alter Type Permission Enforcement LocalDocumentType setCustomValue/setBucketSelectionStrategy privileges management",
-          "link": "https://vuldb.com/vuln/385305",
-          "date": "Sat, 01 Aug 2026 15:35:39 +0200",
-          "description": "A vulnerability labeled as critical has been found in ArcadeData ArcadeDB up to 26.7.1. The impacted element is the function setCustomValue/setBucketSelectionStrategy of the file LocalDocumentType of"
-        },
-        {
-          "title": "CVE-2026-67355  guzzlehttp Guzzle up to 7.15.0 Cookie Jar improper authorization",
-          "link": "https://vuldb.com/vuln/385304",
-          "date": "Sat, 01 Aug 2026 15:35:26 +0200",
-          "description": "A vulnerability identified as problematic has been detected in guzzlehttp Guzzle up to 7.15.0. The affected element is an unknown function of the component Cookie Jar. This manipulation causes imprope"
-        },
-        {
-          "title": "CVE-2026-67354  Guzzle up to 7.15.0 RedirectMiddleware referer information disclosure (EUVD-2026-51825)",
-          "link": "https://vuldb.com/vuln/385303",
-          "date": "Sat, 01 Aug 2026 15:34:45 +0200",
-          "description": "A vulnerability categorized as problematic has been discovered in Guzzle up to 7.15.0. Impacted is an unknown function of the component RedirectMiddleware. The manipulation of the argument referer res"
-        },
-        {
-          "title": "CVE-2026-67353  Guzzle up to 7.15.0 CookieJar resource consumption",
-          "link": "https://vuldb.com/vuln/385302",
-          "date": "Sat, 01 Aug 2026 15:34:23 +0200",
-          "description": "A vulnerability was found in Guzzle up to 7.15.0. It has been rated as problematic. This issue affects some unknown processing of the component CookieJar. The manipulation leads to resource consumptio"
-        },
-        {
-          "title": "CVE-2026-67343  ArcadeData arcadedb up to 26.7.1 /api/v1/server missing encryption",
-          "link": "https://vuldb.com/vuln/385301",
-          "date": "Sat, 01 Aug 2026 15:33:47 +0200",
-          "description": "A vulnerability was found in ArcadeData arcadedb up to 26.7.1. It has been declared as problematic. This vulnerability affects unknown code of the file /api/v1/server. Executing a manipulation can lea"
-        },
-        {
-          "title": "CVE-2026-67338  jupyter JupyterLab up to 4.5.8 Extension Manager cross site scripting",
-          "link": "https://vuldb.com/vuln/385300",
-          "date": "Sat, 01 Aug 2026 15:29:26 +0200",
-          "description": "A vulnerability was found in jupyter JupyterLab up to 4.5.8. It has been classified as problematic. This affects an unknown part of the component Extension Manager. Performing a manipulation results i"
-        },
-        {
-          "title": "CVE-2026-67333  better-auth up to 1.6.12/1.7.0-beta.3 Oidc-provider redirect_uris (EUVD-2026-51810)",
-          "link": "https://vuldb.com/vuln/385299",
-          "date": "Sat, 01 Aug 2026 15:28:55 +0200",
-          "description": "A vulnerability was found in better-auth up to 1.6.12/1.7.0-beta.3 and classified as problematic. Affected by this issue is some unknown functionality of the component Oidc-provider. Such manipulation"
-        },
-        {
-          "title": "CVE-2026-67330  better-auth up to 1.7.0-beta.8 @better-auth/scim authorization",
-          "link": "https://vuldb.com/vuln/385298",
-          "date": "Sat, 01 Aug 2026 15:28:20 +0200",
-          "description": "A vulnerability has been found in better-auth up to 1.7.0-beta.8 and classified as critical. Affected by this vulnerability is an unknown functionality of the component @better-auth/scim. This manipul"
-        }
-      ]
-    },
     "ZERODAYINITIATIVE": {
       "items": []
     },
@@ -260,6 +196,134 @@
         }
       ]
     },
+    "OBS-Vigilance": {
+      "items": [
+        {
+          "title": "Perl Template-Plugin-HTML: Cross Site Scripting via html_filter()",
+          "link": "https://vigilance.fr/vulnerability/Perl-Template-Plugin-HTML-Cross-Site-Scripting-via-html-filter-51288",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger a Cross Site Scripting of Perl Template::Plugin::"
+        },
+        {
+          "title": "Yelp: read-write access via Flatpak Sandbox Escape",
+          "link": "https://vigilance.fr/vulnerability/Yelp-read-write-access-via-Flatpak-Sandbox-Escape-51287",
+          "date": "Visit link for details",
+          "description": "An attacker can bypass access restrictions of Yelp, via Flatpak Sandbox Escape, in order to read or alter data..."
+        },
+        {
+          "title": "Nextcloud Server: information disclosure via Propfind Requests Comments",
+          "link": "https://vigilance.fr/vulnerability/Nextcloud-Server-information-disclosure-via-Propfind-Requests-Comments-51286",
+          "date": "Visit link for details",
+          "description": "An attacker can bypass access restrictions to data of Nextcloud Server, via Propfind Requests Comments, in order to read sensitive information..."
+        },
+        {
+          "title": "HPLIP: two vulnerabilities dated 02/06/2026",
+          "link": "https://vigilance.fr/vulnerability/HPLIP-two-vulnerabilities-dated-02-06-2026-51285",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of HPLIP, dated 02/06/2026..."
+        },
+        {
+          "title": "Perl Catalyst-Plugin-Authentication: information disclosure via Timing Attack",
+          "link": "https://vigilance.fr/vulnerability/Perl-Catalyst-Plugin-Authentication-information-disclosure-via-Timing-Attack-51284",
+          "date": "Visit link for details",
+          "description": "An attacker can bypass access restrictions to data of Perl Catalyst::Plugin::"
+        },
+        {
+          "title": "baresip/re: integer overflow via websock_decode()",
+          "link": "https://vigilance.fr/vulnerability/baresip-re-integer-overflow-via-websock-decode-51283",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger an integer overflow of baresip/re, via websock_decode(), in order to trigger a denial of service, and possibly to run code..."
+        },
+        {
+          "title": "X.Org Server: multiple vulnerabilities dated 02/06/2026",
+          "link": "https://vigilance.fr/vulnerability/X-Org-Server-multiple-vulnerabilities-dated-02-06-2026-51282",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of X.Org Server, dated 02/06/2026..."
+        },
+        {
+          "title": "SSSD: out-of-bounds memory reading via pam_passkey_child_read_data()",
+          "link": "https://vigilance.fr/vulnerability/SSSD-out-of-bounds-memory-reading-via-pam-passkey-child-read-data-51280",
+          "date": "Visit link for details",
+          "description": "An attacker can force a read at an invalid memory address of SSSD, via pam_passkey_child_"
+        },
+        {
+          "title": "GNU SASL: NULL pointer dereference via DIGEST-MD5",
+          "link": "https://vigilance.fr/vulnerability/GNU-SASL-NULL-pointer-dereference-via-DIGEST-MD5-51279",
+          "date": "Visit link for details",
+          "description": "An attacker can force a NULL pointer to be dereferenced on GNU SASL, via DIGEST-MD5, in order to trigger a denial of service..."
+        },
+        {
+          "title": "containerd: privilege escalation via RunAsNonRoot Evasion",
+          "link": "https://vigilance.fr/vulnerability/containerd-privilege-escalation-via-RunAsNonRoot-Evasion-51277",
+          "date": "Visit link for details",
+          "description": "An attacker can bypass restrictions of containerd, via RunAsNonRoot Evasion, in order to escalate his privileges..."
+        }
+      ]
+    },
+    "VulDB": {
+      "items": [
+        {
+          "title": "CVE-2026-9856  Hugging Face transformers up to 5.9.x PreTrainedTokenizerBase/ProcessorMixin save_pretrained path traversal",
+          "link": "https://vuldb.com/vuln/385406",
+          "date": "Sun, 02 Aug 2026 17:46:36 +0200",
+          "description": "A vulnerability classified as problematic has been found in Hugging Face transformers up to 5.9.x. This impacts the function save_pretrained of the component PreTrainedTokenizerBase/ProcessorMixin. Th"
+        },
+        {
+          "title": "CVE-2026-65321  laughingman7743 PyAthena up to 3.35.3 Parameter Formatter DefaultParameterFormatter.format sql injection",
+          "link": "https://vuldb.com/vuln/385405",
+          "date": "Sun, 02 Aug 2026 17:35:39 +0200",
+          "description": "A vulnerability described as critical has been identified in laughingman7743 PyAthena up to 3.35.3. This affects the function DefaultParameterFormatter.format of the component Parameter Formatter. The"
+        },
+        {
+          "title": "CVE-2026-55887  Docker MCP Plugin Image Label Parser argument injection",
+          "link": "https://vuldb.com/vuln/385404",
+          "date": "Sun, 02 Aug 2026 17:35:20 +0200",
+          "description": "A vulnerability marked as very critical has been reported in Docker MCP Plugin. The impacted element is an unknown function of the component Image Label Parser. The manipulation leads to argument inje"
+        },
+        {
+          "title": "CVE-2026-52849  MATE Desktop Atril Document Viewer EPUB File Parsing heap-based overflow",
+          "link": "https://vuldb.com/vuln/385403",
+          "date": "Sun, 02 Aug 2026 17:34:42 +0200",
+          "description": "A vulnerability labeled as critical has been found in MATE Desktop Atril Document Viewer. The affected element is an unknown function of the component EPUB File Parsing. Executing a manipulation can l"
+        },
+        {
+          "title": "CVE-2026-18284  Sony XAV-9500ES Crash Dump command injection",
+          "link": "https://vuldb.com/vuln/385402",
+          "date": "Sun, 02 Aug 2026 17:34:26 +0200",
+          "description": "A vulnerability identified as very critical has been detected in Sony XAV-9500ES. Impacted is an unknown function of the component Crash Dump Handler. Performing a manipulation results in command inje"
+        },
+        {
+          "title": "CVE-2026-18268  Kenwood DNR1007XR JKGenService command injection",
+          "link": "https://vuldb.com/vuln/385401",
+          "date": "Sun, 02 Aug 2026 17:33:37 +0200",
+          "description": "A vulnerability categorized as critical has been discovered in Kenwood DNR1007XR. This issue affects some unknown processing of the component JKGenService. Such manipulation leads to command injection"
+        },
+        {
+          "title": "CVE-2026-18270  Kenwood DNR1007XR permission",
+          "link": "https://vuldb.com/vuln/385400",
+          "date": "Sun, 02 Aug 2026 17:33:20 +0200",
+          "description": "A vulnerability was found in Kenwood DNR1007XR. It has been rated as very critical. This vulnerability affects unknown code. This manipulation causes permission issues.The identification of this vul"
+        },
+        {
+          "title": "CVE-2026-18273  Kenwood DNR1007XR permission",
+          "link": "https://vuldb.com/vuln/385399",
+          "date": "Sun, 02 Aug 2026 17:32:43 +0200",
+          "description": "A vulnerability was found in Kenwood DNR1007XR. It has been declared as problematic. This affects an unknown part. The manipulation results in permission issues.This vulnerability was named CVE-2026"
+        },
+        {
+          "title": "CVE-2026-18283  Sony XAV udev authorization",
+          "link": "https://vuldb.com/vuln/385398",
+          "date": "Sun, 02 Aug 2026 17:32:21 +0200",
+          "description": "A vulnerability was found in Sony XAV. It has been classified as very critical. Affected by this issue is some unknown functionality of the component udev. The manipulation leads to authorization bypa"
+        },
+        {
+          "title": "CVE-2026-18272  Kenwood DNR1007XR startUpdateProcess command injection",
+          "link": "https://vuldb.com/vuln/385397",
+          "date": "Sun, 02 Aug 2026 17:31:42 +0200",
+          "description": "A vulnerability was found in Kenwood DNR1007XR and classified as critical. Affected by this vulnerability is the function startUpdateProcess. Executing a manipulation can lead to command injection.T"
+        }
+      ]
+    },
     "HK-CERT": {
       "items": [
         {
@@ -324,70 +388,6 @@
         }
       ]
     },
-    "OBS-Vigilance": {
-      "items": [
-        {
-          "title": "Adminer: open redirect via X-Forwarded-Prefix",
-          "link": "https://vigilance.fr/vulnerability/Adminer-open-redirect-via-X-Forwarded-Prefix-52070",
-          "date": "Visit link for details",
-          "description": "An attacker can deceive the user of Adminer, via X-Forwarded-Prefix, in order to redirect him to a malicious site..."
-        },
-        {
-          "title": "Logback: code execution via Deserialization Whitelist Bypass",
-          "link": "https://vigilance.fr/vulnerability/Logback-code-execution-via-Deserialization-Whitelist-Bypass-51272",
-          "date": "Visit link for details",
-          "description": "An attacker can use a vulnerability of Logback, via Deserialization Whitelist Bypass, in order to run code..."
-        },
-        {
-          "title": "Notepad++: code execution via Path Canonicalize",
-          "link": "https://vigilance.fr/vulnerability/Notepad-code-execution-via-Path-Canonicalize-51270",
-          "date": "Visit link for details",
-          "description": "An attacker can use a vulnerability of Notepad++, via Path Canonicalize, in order to run code..."
-        },
-        {
-          "title": "OTRS Help Desk: multiple vulnerabilities dated 01/06/2026",
-          "link": "https://vigilance.fr/vulnerability/OTRS-Help-Desk-multiple-vulnerabilities-dated-01-06-2026-51269",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of OTRS Help Desk, dated 01/06/2026..."
-        },
-        {
-          "title": "AIOHTTP: multiple vulnerabilities dated 01/06/2026",
-          "link": "https://vigilance.fr/vulnerability/AIOHTTP-multiple-vulnerabilities-dated-01-06-2026-51268",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of AIOHTTP, dated 01/06/2026..."
-        },
-        {
-          "title": "AIOHTTP: overload via Header/trailer Handling",
-          "link": "https://vigilance.fr/vulnerability/AIOHTTP-overload-via-Header-trailer-Handling-51267",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger an overload of AIOHTTP, via Header/trailer Handling, in order to trigger a denial of service..."
-        },
-        {
-          "title": "Cyborg: two vulnerabilities dated 01/06/2026",
-          "link": "https://vigilance.fr/vulnerability/Cyborg-two-vulnerabilities-dated-01-06-2026-51266",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of Cyborg, dated 01/06/2026..."
-        },
-        {
-          "title": "Dovecot IMAP Server: multiple vulnerabilities dated 01/06/2026",
-          "link": "https://vigilance.fr/vulnerability/Dovecot-IMAP-Server-multiple-vulnerabilities-dated-01-06-2026-51265",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of Dovecot IMAP Server, dated 01/06/2026..."
-        },
-        {
-          "title": "Suricata: multiple vulnerabilities dated 01/06/2026",
-          "link": "https://vigilance.fr/vulnerability/Suricata-multiple-vulnerabilities-dated-01-06-2026-51264",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of Suricata, dated 01/06/2026..."
-        },
-        {
-          "title": "ObjFW: buffer overflow via OFBMPImageFormatHandler()",
-          "link": "https://vigilance.fr/vulnerability/ObjFW-buffer-overflow-via-OFBMPImageFormatHandler-51263",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger a buffer overflow of ObjFW, via OFBMPImageFormatHand"
-        }
-      ]
-    },
     "EU-CERT": {
       "items": [
         {
@@ -443,70 +443,6 @@
           "link": "https://cert.europa.eu/publications/security-advisories/2026-001/",
           "date": "Friday, January 30, 2026 10:09:06 AM CET",
           "description": "On 29 January 2026, Ivanti released a security advisory addressing two critical vulnerabilities in their EPMM products. An attacker could exploit those flaws to achieve unauthenticated remote code execution on the vulnerable device. One of these vulnerabilities have been exploited in a limited number of cases."
-        }
-      ]
-    },
-    "CA-CCS": {
-      "items": [
-        {
-          "title": "Google security advisory (AV26-768)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/google-security-advisory-av26-768",
-          "date": "2026-07-31",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Rails security advisory (AV26-767)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/rails-security-advisory-av26-767",
-          "date": "2026-07-31",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "SolarWinds security advisory (AV26-766)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av26-766",
-          "date": "2026-07-31",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Gladinet security advisory (AV26-765)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/gladinet-security-advisory-av26-765",
-          "date": "2026-07-30",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "PHP Group security advisory (AV26-764)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/php-group-security-advisory-av26-764",
-          "date": "2026-07-30",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "VMware security advisory (AV26-763)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av26-763",
-          "date": "2026-07-30",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "[Control Systems] Phoenix Contact security advisory (AV26-762)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/control-systems-phoenix-contact-security-advisory-av26-762",
-          "date": "2026-07-30",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "WebPros security advisory (AV26-761)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/webpros-security-advisory-av26-761",
-          "date": "2026-07-30",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Adobe security advisory (AV26-760)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av26-760",
-          "date": "2026-07-30",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Spring security advisory (AV26-759)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/spring-security-advisory-av26-759",
-          "date": "2026-07-30",
-          "description": "Visit link for details"
         }
       ]
     },
@@ -571,6 +507,70 @@
           "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-apache-tomcat-4",
           "date": " ",
           "description": "Une vulnérabilité a été corrigée dans les versions susmentionnées d'Apache Tomcat. L’exploitation de cette vulnérabilité peut permettre à un attaquant de provoquer un déni de service."
+        }
+      ]
+    },
+    "CA-CCS": {
+      "items": [
+        {
+          "title": "Google security advisory (AV26-768)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/google-security-advisory-av26-768",
+          "date": "2026-07-31",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Rails security advisory (AV26-767)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/rails-security-advisory-av26-767",
+          "date": "2026-07-31",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "SolarWinds security advisory (AV26-766)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av26-766",
+          "date": "2026-07-31",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Gladinet security advisory (AV26-765)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/gladinet-security-advisory-av26-765",
+          "date": "2026-07-30",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "PHP Group security advisory (AV26-764)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/php-group-security-advisory-av26-764",
+          "date": "2026-07-30",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "VMware security advisory (AV26-763)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av26-763",
+          "date": "2026-07-30",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "[Control Systems] Phoenix Contact security advisory (AV26-762)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/control-systems-phoenix-contact-security-advisory-av26-762",
+          "date": "2026-07-30",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "WebPros security advisory (AV26-761)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/webpros-security-advisory-av26-761",
+          "date": "2026-07-30",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Adobe security advisory (AV26-760)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av26-760",
+          "date": "2026-07-30",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Spring security advisory (AV26-759)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/spring-security-advisory-av26-759",
+          "date": "2026-07-30",
+          "description": "Visit link for details"
         }
       ]
     }
