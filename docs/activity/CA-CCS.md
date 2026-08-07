@@ -4,14 +4,14 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Hewlett Packard Enterprise (HPE) security advisory (AV26-778)](https://www.cyber.gc.ca/en/alerts-advisories/hewlett-packard-enterprise-hpe-security-advisory-av26-778)|Visit link for details|2026-08-05|
- |[Veeam security advisory (AV26-777)](https://www.cyber.gc.ca/en/alerts-advisories/veeam-security-advisory-av26-777)|Visit link for details|2026-08-04|
- |[Adobe security advisory (AV26-776)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av26-776)|Visit link for details|2026-08-04|
- |[N-able security advisory (AV26-769) - Update 1](https://www.cyber.gc.ca/en/alerts-advisories/n-able-security-advisory-av26-769)|Visit link for details|2026-08-04|
- |[MISP security advisory (AV26-775)](https://www.cyber.gc.ca/en/alerts-advisories/misp-security-advisory-av26-775)|Visit link for details|2026-08-04|
- |[Checkpoint security advisory (AV26-774)](https://www.cyber.gc.ca/en/alerts-advisories/checkpoint-security-advisory-av26-774)|Visit link for details|2026-08-04|
- |[Tenable, Inc. security advisory (AV26-773)](https://www.cyber.gc.ca/en/alerts-advisories/tenable-inc-security-advisory-av26-773)|Visit link for details|2026-08-04|
- |[WebPros security advisory (AV26-772)](https://www.cyber.gc.ca/en/alerts-advisories/webpros-security-advisory-av26-772)|Visit link for details|2026-08-04|
- |[Dell security advisory (AV26-771)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av26-771)|Visit link for details|2026-08-04|
- |[IBM security advisory (AV26-770)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av26-770)|Visit link for details|2026-08-04|
+ |[Google security advisory (AV26-787)](https://www.cyber.gc.ca/en/alerts-advisories/google-security-advisory-av26-787)|Visit link for details|2026-08-07|
+ |[N-able security advisory (AV26-769) - Update 2](https://www.cyber.gc.ca/en/alerts-advisories/n-able-security-advisory-av26-769)|Visit link for details|2026-08-07|
+ |[Django security advisory (AV26-786)](https://www.cyber.gc.ca/en/alerts-advisories/django-security-advisory-av26-786)|Visit link for details|2026-08-06|
+ |[Cisco security advisory (AV26-785)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av26-785)|Visit link for details|2026-08-06|
+ |[Foxit security advisory (AV26-784)](https://www.cyber.gc.ca/en/alerts-advisories/foxit-security-advisory-av26-784)|Visit link for details|2026-08-06|
+ |[GitHub security advisory (AV26-783)](https://www.cyber.gc.ca/en/alerts-advisories/github-security-advisory-av26-783)|Visit link for details|2026-08-06|
+ |[Jenkins security advisory (AV26-782)](https://www.cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av26-782)|Visit link for details|2026-08-06|
+ |[Progress security advisory (AV26-781)](https://www.cyber.gc.ca/en/alerts-advisories/progress-security-advisory-av26-781)|Visit link for details|2026-08-06|
+ |[Zyxel security advisory (AV26-780)](https://www.cyber.gc.ca/en/alerts-advisories/zyxel-security-advisory-av26-780)|Visit link for details|2026-08-06|
+ |[JetBrains security advisory (AV26-752) – Update 1](https://www.cyber.gc.ca/en/alerts-advisories/jetbrains-security-advisory-av26-752)|Visit link for details|2026-08-05|
  
