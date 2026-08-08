@@ -1,70 +1,6 @@
 {
-  "generated_at": "2026-08-07T15:49:40.364128+00:00",
+  "generated_at": "2026-08-08T15:22:52.180728+00:00",
   "sources": {
-    "US-CERT": {
-      "items": [
-        {
-          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/08/05/cisa-adds-one-known-exploited-vulnerability-catalog",
-          "date": "Aug 05, 2026",
-          "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/08/04/cisa-adds-three-known-exploited-vulnerabilities-catalog",
-          "date": "Aug 04, 2026",
-          "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/08/03/cisa-adds-one-known-exploited-vulnerability-catalog",
-          "date": "Aug 03, 2026",
-          "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Urges Water and Wastewater Systems Sector to Protect OT Against Activity Targeting PLCs",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/07/30/cisa-urges-water-and-wastewater-systems-sector-protect-ot-against-activity-targeting-plcs",
-          "date": "Jul 30, 2026",
-          "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/07/29/cisa-adds-one-known-exploited-vulnerability-catalog",
-          "date": "Jul 29, 2026",
-          "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/07/27/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-          "date": "Jul 27, 2026",
-          "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/07/22/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-          "date": "Jul 22, 2026",
-          "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/07/21/cisa-adds-four-known-exploited-vulnerabilities-catalog",
-          "date": "Jul 21, 2026",
-          "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/07/16/cisa-adds-three-known-exploited-vulnerabilities-catalog",
-          "date": "Jul 16, 2026",
-          "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/07/15/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-          "date": "Jul 15, 2026",
-          "description": "Visit link for details."
-        }
-      ]
-    },
     "CERT-FR": {
       "items": [
         {
@@ -126,6 +62,198 @@
           "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0977/",
           "date": "Publié le 07 août 2026",
           "description": "De multiples vulnérabilités ont été découvertes dans Progress Telerik. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données."
+        }
+      ]
+    },
+    "US-CERT": {
+      "items": [
+        {
+          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/08/07/cisa-adds-one-known-exploited-vulnerability-catalog",
+          "date": "Aug 07, 2026",
+          "description": "Visit link for details."
+        },
+        {
+          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/08/05/cisa-adds-one-known-exploited-vulnerability-catalog",
+          "date": "Aug 05, 2026",
+          "description": "Visit link for details."
+        },
+        {
+          "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/08/04/cisa-adds-three-known-exploited-vulnerabilities-catalog",
+          "date": "Aug 04, 2026",
+          "description": "Visit link for details."
+        },
+        {
+          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/08/03/cisa-adds-one-known-exploited-vulnerability-catalog",
+          "date": "Aug 03, 2026",
+          "description": "Visit link for details."
+        },
+        {
+          "title": "CISA Urges Water and Wastewater Systems Sector to Protect OT Against Activity Targeting PLCs",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/07/30/cisa-urges-water-and-wastewater-systems-sector-protect-ot-against-activity-targeting-plcs",
+          "date": "Jul 30, 2026",
+          "description": "Visit link for details."
+        },
+        {
+          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/07/29/cisa-adds-one-known-exploited-vulnerability-catalog",
+          "date": "Jul 29, 2026",
+          "description": "Visit link for details."
+        },
+        {
+          "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/07/27/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+          "date": "Jul 27, 2026",
+          "description": "Visit link for details."
+        },
+        {
+          "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/07/22/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+          "date": "Jul 22, 2026",
+          "description": "Visit link for details."
+        },
+        {
+          "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/07/21/cisa-adds-four-known-exploited-vulnerabilities-catalog",
+          "date": "Jul 21, 2026",
+          "description": "Visit link for details."
+        },
+        {
+          "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/07/16/cisa-adds-three-known-exploited-vulnerabilities-catalog",
+          "date": "Jul 16, 2026",
+          "description": "Visit link for details."
+        }
+      ]
+    },
+    "VulDB": {
+      "items": [
+        {
+          "title": "CVE-2026-63225  redocly redocly-cli up to 2.32.2 Split Command iterate-components.ts path traversal (GHSA-657c-g7qc-r9j2)",
+          "link": "https://vuldb.com/vuln/387186",
+          "date": "Sat, 08 Aug 2026 16:11:17 +0200",
+          "description": "A vulnerability, which was classified as critical, has been found in redocly redocly-cli up to 2.32.2. The impacted element is an unknown function of the file packages/cli/src/commands/split/utils/ite"
+        },
+        {
+          "title": "CVE-2026-63325  redocly redocly-cli up to 2.32.2 Arazzo Faker Runtime Expression get-value-from-context.ts code injection (GHSA-xw2f-5386-m542)",
+          "link": "https://vuldb.com/vuln/387185",
+          "date": "Sat, 08 Aug 2026 16:11:12 +0200",
+          "description": "A vulnerability classified as critical was found in redocly redocly-cli up to 2.32.2. The affected element is an unknown function of the file packages/respect-core/src/modules/context-parser/get-value"
+        },
+        {
+          "title": "CVE-2026-19348  Shenzhen Aitemi M300 Wi-Fi Repeater r0-ea7890a sprintf enable/name/mac command injection",
+          "link": "https://vuldb.com/vuln/387184",
+          "date": "Sat, 08 Aug 2026 16:01:53 +0200",
+          "description": "A vulnerability classified as critical has been found in Shenzhen Aitemi M300 Wi-Fi Repeater r0-ea7890a. Impacted is the function sprintf of the file /protocol.csp?fname=net&amp;opt=smacfilter_conf&am"
+        },
+        {
+          "title": "CVE-2026-19347  itsourcecode Hospital Management System 1.0 /viewdoctor.php delid sql injection",
+          "link": "https://vuldb.com/vuln/387183",
+          "date": "Sat, 08 Aug 2026 15:48:04 +0200",
+          "description": "A vulnerability described as critical has been identified in itsourcecode Hospital Management System 1.0. This issue affects some unknown processing of the file /viewdoctor.php. Such manipulation of t"
+        },
+        {
+          "title": "CVE-2026-19346  Tenda CH22 1.0.0.1 /goform/CertListInfo formCertListInfo Name command injection",
+          "link": "https://vuldb.com/vuln/387182",
+          "date": "Sat, 08 Aug 2026 15:39:10 +0200",
+          "description": "A vulnerability marked as critical has been reported in Tenda CH22 1.0.0.1. This vulnerability affects the function formCertListInfo of the file /goform/CertListInfo. This manipulation of the argument"
+        },
+        {
+          "title": "CVE-2026-19345  code-projects Task Management System 1.0 UpdateTaskStatus.php task_id/val authorization",
+          "link": "https://vuldb.com/vuln/387181",
+          "date": "Sat, 08 Aug 2026 15:37:46 +0200",
+          "description": "A vulnerability labeled as critical has been found in code-projects Task Management System 1.0. This affects an unknown part of the file /user/UpdateTaskStatus.php. The manipulation of the argument ta"
+        },
+        {
+          "title": "CVE-2026-19344  code-projects Task Management System 1.0 comment_count_user.php task_id sql injection",
+          "link": "https://vuldb.com/vuln/387180",
+          "date": "Sat, 08 Aug 2026 15:37:42 +0200",
+          "description": "A vulnerability identified as critical has been detected in code-projects Task Management System 1.0. Affected by this issue is some unknown functionality of the file /user/comment_count_user.php. The"
+        },
+        {
+          "title": "CVE-2026-19343  code-projects Task Management System 1.0 /admin/AdminLogin.php email/password sql injection",
+          "link": "https://vuldb.com/vuln/387179",
+          "date": "Sat, 08 Aug 2026 15:37:37 +0200",
+          "description": "A vulnerability categorized as critical has been discovered in code-projects Task Management System 1.0. Affected by this vulnerability is an unknown functionality of the file /admin/AdminLogin.php. E"
+        },
+        {
+          "title": "CVE-2026-19342  code-projects Task Management System 1.0 Login /index.php Password improper authentication",
+          "link": "https://vuldb.com/vuln/387178",
+          "date": "Sat, 08 Aug 2026 15:37:33 +0200",
+          "description": "A vulnerability was found in code-projects Task Management System 1.0. It has been rated as critical. Affected is an unknown function of the file /index.php of the component Login. Performing a manipu"
+        },
+        {
+          "title": "CVE-2026-19341  UTT HiPER 1200GW up to 2.5.3-170306 pptpSrvGlobalConfig strcpy EncryptionMode stack-based overflow",
+          "link": "https://vuldb.com/vuln/387177",
+          "date": "Sat, 08 Aug 2026 13:38:01 +0200",
+          "description": "A vulnerability was found in UTT HiPER 1200GW up to 2.5.3-170306. It has been declared as critical. This impacts the function strcpy of the file /goform/pptpSrvGlobalConfig. Such manipulation of the a"
+        }
+      ]
+    },
+    "OBS-Vigilance": {
+      "items": [
+        {
+          "title": "Pillow: memory corruption via PSD File",
+          "link": "https://vigilance.fr/vulnerability/Pillow-memory-corruption-via-PSD-File-51369",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger a memory corruption of Pillow, via PSD File, in order to trigger a denial of service, and possibly to run code..."
+        },
+        {
+          "title": "Poppler: integer overflow via tilingPatternFill()",
+          "link": "https://vigilance.fr/vulnerability/Poppler-integer-overflow-via-tilingPatternFill-51368",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger an integer overflow of Poppler, via tilingPatternFill(), in order to trigger a denial of service, and possibly to run code..."
+        },
+        {
+          "title": "Perl XML-LibXML: out-of-bounds memory reading via Truncated UTF-8 Byte Sequences",
+          "link": "https://vigilance.fr/vulnerability/Perl-XML-LibXML-out-of-bounds-memory-reading-via-Truncated-UTF-8-Byte-Sequences-51365",
+          "date": "Visit link for details",
+          "description": "An attacker can force a read at an invalid memory address of Perl XML::LibXML, via Truncated UTF-8 Byte Sequences, in order to trigger a denial of service, or to obtain sensitive information..."
+        },
+        {
+          "title": "Request Tracker: multiple vulnerabilities dated 08/06/2026",
+          "link": "https://vigilance.fr/vulnerability/Request-Tracker-multiple-vulnerabilities-dated-08-06-2026-51363",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of Request Tracker, dated 08/06/2026..."
+        },
+        {
+          "title": "nasm: code execution via Assembly File Processing",
+          "link": "https://vigilance.fr/vulnerability/nasm-code-execution-via-Assembly-File-Processing-51362",
+          "date": "Visit link for details",
+          "description": "An attacker can use a vulnerability of nasm, via Assembly File Processing, in order to run code..."
+        },
+        {
+          "title": "Keylime: user access via Hardcoded TPM Quote Nonce",
+          "link": "https://vigilance.fr/vulnerability/Keylime-user-access-via-Hardcoded-TPM-Quote-Nonce-51361",
+          "date": "Visit link for details",
+          "description": "An attacker can bypass restrictions of Keylime, via Hardcoded TPM Quote Nonce, in order to gain user privileges..."
+        },
+        {
+          "title": "Perl CryptX: buffer overflow via AEAD decrypt_verify",
+          "link": "https://vigilance.fr/vulnerability/Perl-CryptX-buffer-overflow-via-AEAD-decrypt-verify-51360",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger a buffer overflow of Perl CryptX, via AEAD decrypt_verify, in order to trigger a denial of service, and possibly to run code..."
+        },
+        {
+          "title": "Cargo: two vulnerabilities dated 08/06/2026",
+          "link": "https://vigilance.fr/vulnerability/Cargo-two-vulnerabilities-dated-08-06-2026-51359",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of Cargo, dated 08/06/2026..."
+        },
+        {
+          "title": "kanidm: write access via Set Modifications",
+          "link": "https://vigilance.fr/vulnerability/kanidm-write-access-via-Set-Modifications-51357",
+          "date": "Visit link for details",
+          "description": "An attacker can bypass access restrictions of kanidm, via Set Modifications, in order to alter data..."
+        },
+        {
+          "title": "MariaDB Server: no log via Audit Double-hyphen Hash",
+          "link": "https://vigilance.fr/vulnerability/MariaDB-Server-no-log-via-Audit-Double-hyphen-Hash-51356",
+          "date": "Visit link for details",
+          "description": "An attacker can perform malicious actions on MariaDB Server, via Audit Double-hyphen Hash, with being detected by the administrator..."
         }
       ]
     },
@@ -196,70 +324,6 @@
         }
       ]
     },
-    "OBS-Vigilance": {
-      "items": [
-        {
-          "title": "ImageMagick: buffer overflow via BGR",
-          "link": "https://vigilance.fr/vulnerability/ImageMagick-buffer-overflow-via-BGR-52126",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger a buffer overflow of ImageMagick, via BGR, in order to trigger a denial of service..."
-        },
-        {
-          "title": "Adminer: open redirect via X-Forwarded-Prefix",
-          "link": "https://vigilance.fr/vulnerability/Adminer-open-redirect-via-X-Forwarded-Prefix-52113",
-          "date": "Visit link for details",
-          "description": "An attacker can deceive the user of Adminer, via X-Forwarded-Prefix, in order to redirect him to a malicious site..."
-        },
-        {
-          "title": "Eclipse OpenJ9: vulnerability via IllegalAccessError",
-          "link": "https://vigilance.fr/vulnerability/Eclipse-OpenJ9-vulnerability-via-IllegalAccessError-52107",
-          "date": "Visit link for details",
-          "description": "A vulnerability of Eclipse OpenJ9, via IllegalAccessError, was announced..."
-        },
-        {
-          "title": "Eclipse OpenJ9: buffer overflow via traceMethodArguments()",
-          "link": "https://vigilance.fr/vulnerability/Eclipse-OpenJ9-buffer-overflow-via-traceMethodArguments-52106",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger a buffer overflow of Eclipse OpenJ9, via traceMethodArguments"
-        },
-        {
-          "title": "Chrome  Edge  Opera: multiple vulnerabilities dated 06/11/2025",
-          "link": "https://vigilance.fr/vulnerability/Chrome-Edge-Opera-multiple-vulnerabilities-dated-06-11-2025-48677",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of Chrome  Edge  Opera, dated 06/11/2025..."
-        },
-        {
-          "title": "IBM Power System: weak encryption via Transparent Memory Encryption",
-          "link": "https://vigilance.fr/vulnerability/IBM-Power-System-weak-encryption-via-Transparent-Memory-Encryption-52091",
-          "date": "Visit link for details",
-          "description": "An attacker can access data on IBM Power System, via Transparent Memory Encryption, in order to read sensitive information..."
-        },
-        {
-          "title": "IBM Power System: memory corruption via hypercall",
-          "link": "https://vigilance.fr/vulnerability/IBM-Power-System-memory-corruption-via-hypercall-52090",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger a memory corruption of IBM Power System, via hypercall, in order to trigger a denial of service, and possibly to run code..."
-        },
-        {
-          "title": "golang.org/x/image/tiff: overload via Decoding",
-          "link": "https://vigilance.fr/vulnerability/golang-org-x-image-tiff-overload-via-Decoding-51355",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger an overload of golang.org/x/image/"
-        },
-        {
-          "title": "libsoup: write access via soup_filter_input_stream_read_line()",
-          "link": "https://vigilance.fr/vulnerability/libsoup-write-access-via-soup-filter-input-stream-read-line-51354",
-          "date": "Visit link for details",
-          "description": "An attacker can bypass access restrictions of libsoup, via soup_filter_input_"
-        },
-        {
-          "title": "Cisco Unified Contact Center Express: three vulnerabilities dated 05/11/2025",
-          "link": "https://vigilance.fr/vulnerability/Cisco-Unified-Contact-Center-Express-three-vulnerabilities-dated-05-11-2025-48670",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of Cisco Unified Contact Center Express, dated 05/11/2025..."
-        }
-      ]
-    },
     "EU-CERT": {
       "items": [
         {
@@ -315,70 +379,6 @@
           "link": "https://cert.europa.eu/publications/security-advisories/2026-001/",
           "date": "Friday, January 30, 2026 10:09:06 AM CET",
           "description": "On 29 January 2026, Ivanti released a security advisory addressing two critical vulnerabilities in their EPMM products. An attacker could exploit those flaws to achieve unauthenticated remote code execution on the vulnerable device. One of these vulnerabilities have been exploited in a limited number of cases."
-        }
-      ]
-    },
-    "VulDB": {
-      "items": [
-        {
-          "title": "CVE-2022-4995  Weaver Network E-cology up to 10.51 uploaderOperate.jsp secId/plandetailid unrestricted upload",
-          "link": "https://vuldb.com/vuln/387018",
-          "date": "Fri, 07 Aug 2026 17:14:28 +0200",
-          "description": "A vulnerability, which was classified as critical, has been found in Weaver Network E-cology up to 10.51. This issue affects some unknown processing of the file /workrelate/plan/util/uploaderOperate.j"
-        },
-        {
-          "title": "CVE-2026-18497  Sean Barrett nothings stb up to 1.26 TrueType font file Parser stb_truetype.h stbtt__GetGlyphShapeTT heap-based overflow",
-          "link": "https://vuldb.com/vuln/387017",
-          "date": "Fri, 07 Aug 2026 16:58:39 +0200",
-          "description": "A vulnerability classified as critical was found in Sean Barrett nothings stb up to 1.26. This vulnerability affects the function stbtt__GetGlyphShapeTT of the file stb_truetype.h of the component Tru"
-        },
-        {
-          "title": "CVE-2026-19264  gitroomhq postiz-app up to 2.22.0 Media path traversal",
-          "link": "https://vuldb.com/vuln/387016",
-          "date": "Fri, 07 Aug 2026 16:58:31 +0200",
-          "description": "A vulnerability classified as critical has been found in gitroomhq postiz-app up to 2.22.0. This affects an unknown part of the component Media. Performing a manipulation results in path traversal.T"
-        },
-        {
-          "title": "CVE-2026-37171  SuperTokens Core 6.0.0/11.4.0 access control",
-          "link": "https://vuldb.com/vuln/387015",
-          "date": "Fri, 07 Aug 2026 16:25:26 +0200",
-          "description": "A vulnerability described as critical has been identified in SuperTokens Core 6.0.0/11.4.0. Affected by this issue is some unknown functionality. Such manipulation leads to improper access controls."
-        },
-        {
-          "title": "CVE-2026-61477  Red Hat Enterprise Linux Network XML Parser code injection",
-          "link": "https://vuldb.com/vuln/387014",
-          "date": "Fri, 07 Aug 2026 16:25:02 +0200",
-          "description": "A vulnerability marked as very critical has been reported in Red Hat Enterprise Linux. Affected by this vulnerability is an unknown functionality of the component Network XML Parser. This manipulation"
-        },
-        {
-          "title": "CVE-2026-19270  Hulupeep mcp-ui-probe up to 0.2.0 Journey/Usage JourneyStorage.ts journeyId/filename path traversal",
-          "link": "https://vuldb.com/vuln/387013",
-          "date": "Fri, 07 Aug 2026 16:21:29 +0200",
-          "description": "A vulnerability labeled as critical has been found in Hulupeep mcp-ui-probe up to 0.2.0. Affected is the function get_journey/delete_journey/analyze_journey/usage_stats of the file src/journey/Journey"
-        },
-        {
-          "title": "CVE-2026-19268  abdullah1854 MCPGateway up to 549f494a9e363f40530149de324b8097de424230 Claude Usage Range Endpoint claude-usage.ts getUsageByDateRange since command injection",
-          "link": "https://vuldb.com/vuln/387012",
-          "date": "Fri, 07 Aug 2026 16:17:59 +0200",
-          "description": "A vulnerability identified as critical has been detected in abdullah1854 MCPGateway up to 549f494a9e363f40530149de324b8097de424230. This impacts the function getUsageByDateRange of the file src/servic"
-        },
-        {
-          "title": "CVE-2026-19266  Kirachon context-engine up to 1.9.0 review-git-diff Endpoint gitUtils.ts execGitCommand args command injection (Issue 16)",
-          "link": "https://vuldb.com/vuln/387011",
-          "date": "Fri, 07 Aug 2026 16:15:53 +0200",
-          "description": "A vulnerability categorized as critical has been discovered in Kirachon context-engine up to 1.9.0. This affects the function execGitCommand of the file src/mcp/utils/gitUtils.ts of the component revi"
-        },
-        {
-          "title": "CVE-2026-19263  INQUIRELAB mcp-bridge-api up to b30a82aa1d1d1139e0de846c41c8aadee6e06114 Servers Endpoint mcp-bridge.js command/args command injection",
-          "link": "https://vuldb.com/vuln/387010",
-          "date": "Fri, 07 Aug 2026 16:11:56 +0200",
-          "description": "A vulnerability was found in INQUIRELAB mcp-bridge-api up to b30a82aa1d1d1139e0de846c41c8aadee6e06114. It has been rated as critical. The impacted element is an unknown function of the file mcp-bridge"
-        },
-        {
-          "title": "CVE-2026-19259  MZ Automation libiec61850 up to 1.6.1 MMS Protocol Workflow iec61850_common.c MmsMapping_varAccessSpecToObjectReference GetNamedVariableListAttributesResponse.itemId heap-based overflow (Issue 599)",
-          "link": "https://vuldb.com/vuln/387009",
-          "date": "Fri, 07 Aug 2026 16:01:54 +0200",
-          "description": "A vulnerability was found in MZ Automation libiec61850 up to 1.6.1. It has been declared as critical. The affected element is the function MmsMapping_varAccessSpecToObjectReference of the file src/iec"
         }
       ]
     },
@@ -446,6 +446,70 @@
         }
       ]
     },
+    "CA-CCS": {
+      "items": [
+        {
+          "title": "Progress security advisory (AV26-552) – Update 2",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/progress-security-advisory-av26-552",
+          "date": "2026-08-07",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Google security advisory (AV26-787)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/google-security-advisory-av26-787",
+          "date": "2026-08-07",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "N-able security advisory (AV26-769) - Update 2",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/n-able-security-advisory-av26-769",
+          "date": "2026-08-07",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Django security advisory (AV26-786)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/django-security-advisory-av26-786",
+          "date": "2026-08-06",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Cisco security advisory (AV26-785)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av26-785",
+          "date": "2026-08-06",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Foxit security advisory (AV26-784)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/foxit-security-advisory-av26-784",
+          "date": "2026-08-06",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "GitHub security advisory (AV26-783)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/github-security-advisory-av26-783",
+          "date": "2026-08-06",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Jenkins security advisory (AV26-782)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av26-782",
+          "date": "2026-08-06",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Progress security advisory (AV26-781)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/progress-security-advisory-av26-781",
+          "date": "2026-08-06",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Zyxel security advisory (AV26-780)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/zyxel-security-advisory-av26-780",
+          "date": "2026-08-06",
+          "description": "Visit link for details"
+        }
+      ]
+    },
     "MA-CERT": {
       "items": [
         {
@@ -507,70 +571,6 @@
           "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-mozilla-firefox-30",
           "date": " ",
           "description": "Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la     correction d’une vulnérabilité au niveau du navigateur Mozilla Firefox pour Android.…"
-        }
-      ]
-    },
-    "CA-CCS": {
-      "items": [
-        {
-          "title": "Google security advisory (AV26-787)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/google-security-advisory-av26-787",
-          "date": "2026-08-07",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "N-able security advisory (AV26-769) - Update 2",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/n-able-security-advisory-av26-769",
-          "date": "2026-08-07",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Django security advisory (AV26-786)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/django-security-advisory-av26-786",
-          "date": "2026-08-06",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Cisco security advisory (AV26-785)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av26-785",
-          "date": "2026-08-06",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Foxit security advisory (AV26-784)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/foxit-security-advisory-av26-784",
-          "date": "2026-08-06",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "GitHub security advisory (AV26-783)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/github-security-advisory-av26-783",
-          "date": "2026-08-06",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Jenkins security advisory (AV26-782)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av26-782",
-          "date": "2026-08-06",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Progress security advisory (AV26-781)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/progress-security-advisory-av26-781",
-          "date": "2026-08-06",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Zyxel security advisory (AV26-780)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/zyxel-security-advisory-av26-780",
-          "date": "2026-08-06",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "JetBrains security advisory (AV26-752) – Update 1",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/jetbrains-security-advisory-av26-752",
-          "date": "2026-08-05",
-          "description": "Visit link for details"
         }
       ]
     }

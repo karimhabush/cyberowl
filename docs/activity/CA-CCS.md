@@ -4,6 +4,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Progress security advisory (AV26-552) – Update 2](https://www.cyber.gc.ca/en/alerts-advisories/progress-security-advisory-av26-552)|Visit link for details|2026-08-07|
  |[Google security advisory (AV26-787)](https://www.cyber.gc.ca/en/alerts-advisories/google-security-advisory-av26-787)|Visit link for details|2026-08-07|
  |[N-able security advisory (AV26-769) - Update 2](https://www.cyber.gc.ca/en/alerts-advisories/n-able-security-advisory-av26-769)|Visit link for details|2026-08-07|
  |[Django security advisory (AV26-786)](https://www.cyber.gc.ca/en/alerts-advisories/django-security-advisory-av26-786)|Visit link for details|2026-08-06|
@@ -13,5 +14,4 @@
  |[Jenkins security advisory (AV26-782)](https://www.cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av26-782)|Visit link for details|2026-08-06|
  |[Progress security advisory (AV26-781)](https://www.cyber.gc.ca/en/alerts-advisories/progress-security-advisory-av26-781)|Visit link for details|2026-08-06|
  |[Zyxel security advisory (AV26-780)](https://www.cyber.gc.ca/en/alerts-advisories/zyxel-security-advisory-av26-780)|Visit link for details|2026-08-06|
- |[JetBrains security advisory (AV26-752) – Update 1](https://www.cyber.gc.ca/en/alerts-advisories/jetbrains-security-advisory-av26-752)|Visit link for details|2026-08-05|
  
