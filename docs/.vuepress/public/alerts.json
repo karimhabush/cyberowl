@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T15:22:52.180728+00:00",
+  "generated_at": "2026-08-09T15:23:55.250647+00:00",
   "sources": {
     "CERT-FR": {
       "items": [
@@ -129,134 +129,6 @@
         }
       ]
     },
-    "VulDB": {
-      "items": [
-        {
-          "title": "CVE-2026-63225  redocly redocly-cli up to 2.32.2 Split Command iterate-components.ts path traversal (GHSA-657c-g7qc-r9j2)",
-          "link": "https://vuldb.com/vuln/387186",
-          "date": "Sat, 08 Aug 2026 16:11:17 +0200",
-          "description": "A vulnerability, which was classified as critical, has been found in redocly redocly-cli up to 2.32.2. The impacted element is an unknown function of the file packages/cli/src/commands/split/utils/ite"
-        },
-        {
-          "title": "CVE-2026-63325  redocly redocly-cli up to 2.32.2 Arazzo Faker Runtime Expression get-value-from-context.ts code injection (GHSA-xw2f-5386-m542)",
-          "link": "https://vuldb.com/vuln/387185",
-          "date": "Sat, 08 Aug 2026 16:11:12 +0200",
-          "description": "A vulnerability classified as critical was found in redocly redocly-cli up to 2.32.2. The affected element is an unknown function of the file packages/respect-core/src/modules/context-parser/get-value"
-        },
-        {
-          "title": "CVE-2026-19348  Shenzhen Aitemi M300 Wi-Fi Repeater r0-ea7890a sprintf enable/name/mac command injection",
-          "link": "https://vuldb.com/vuln/387184",
-          "date": "Sat, 08 Aug 2026 16:01:53 +0200",
-          "description": "A vulnerability classified as critical has been found in Shenzhen Aitemi M300 Wi-Fi Repeater r0-ea7890a. Impacted is the function sprintf of the file /protocol.csp?fname=net&amp;opt=smacfilter_conf&am"
-        },
-        {
-          "title": "CVE-2026-19347  itsourcecode Hospital Management System 1.0 /viewdoctor.php delid sql injection",
-          "link": "https://vuldb.com/vuln/387183",
-          "date": "Sat, 08 Aug 2026 15:48:04 +0200",
-          "description": "A vulnerability described as critical has been identified in itsourcecode Hospital Management System 1.0. This issue affects some unknown processing of the file /viewdoctor.php. Such manipulation of t"
-        },
-        {
-          "title": "CVE-2026-19346  Tenda CH22 1.0.0.1 /goform/CertListInfo formCertListInfo Name command injection",
-          "link": "https://vuldb.com/vuln/387182",
-          "date": "Sat, 08 Aug 2026 15:39:10 +0200",
-          "description": "A vulnerability marked as critical has been reported in Tenda CH22 1.0.0.1. This vulnerability affects the function formCertListInfo of the file /goform/CertListInfo. This manipulation of the argument"
-        },
-        {
-          "title": "CVE-2026-19345  code-projects Task Management System 1.0 UpdateTaskStatus.php task_id/val authorization",
-          "link": "https://vuldb.com/vuln/387181",
-          "date": "Sat, 08 Aug 2026 15:37:46 +0200",
-          "description": "A vulnerability labeled as critical has been found in code-projects Task Management System 1.0. This affects an unknown part of the file /user/UpdateTaskStatus.php. The manipulation of the argument ta"
-        },
-        {
-          "title": "CVE-2026-19344  code-projects Task Management System 1.0 comment_count_user.php task_id sql injection",
-          "link": "https://vuldb.com/vuln/387180",
-          "date": "Sat, 08 Aug 2026 15:37:42 +0200",
-          "description": "A vulnerability identified as critical has been detected in code-projects Task Management System 1.0. Affected by this issue is some unknown functionality of the file /user/comment_count_user.php. The"
-        },
-        {
-          "title": "CVE-2026-19343  code-projects Task Management System 1.0 /admin/AdminLogin.php email/password sql injection",
-          "link": "https://vuldb.com/vuln/387179",
-          "date": "Sat, 08 Aug 2026 15:37:37 +0200",
-          "description": "A vulnerability categorized as critical has been discovered in code-projects Task Management System 1.0. Affected by this vulnerability is an unknown functionality of the file /admin/AdminLogin.php. E"
-        },
-        {
-          "title": "CVE-2026-19342  code-projects Task Management System 1.0 Login /index.php Password improper authentication",
-          "link": "https://vuldb.com/vuln/387178",
-          "date": "Sat, 08 Aug 2026 15:37:33 +0200",
-          "description": "A vulnerability was found in code-projects Task Management System 1.0. It has been rated as critical. Affected is an unknown function of the file /index.php of the component Login. Performing a manipu"
-        },
-        {
-          "title": "CVE-2026-19341  UTT HiPER 1200GW up to 2.5.3-170306 pptpSrvGlobalConfig strcpy EncryptionMode stack-based overflow",
-          "link": "https://vuldb.com/vuln/387177",
-          "date": "Sat, 08 Aug 2026 13:38:01 +0200",
-          "description": "A vulnerability was found in UTT HiPER 1200GW up to 2.5.3-170306. It has been declared as critical. This impacts the function strcpy of the file /goform/pptpSrvGlobalConfig. Such manipulation of the a"
-        }
-      ]
-    },
-    "OBS-Vigilance": {
-      "items": [
-        {
-          "title": "Pillow: memory corruption via PSD File",
-          "link": "https://vigilance.fr/vulnerability/Pillow-memory-corruption-via-PSD-File-51369",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger a memory corruption of Pillow, via PSD File, in order to trigger a denial of service, and possibly to run code..."
-        },
-        {
-          "title": "Poppler: integer overflow via tilingPatternFill()",
-          "link": "https://vigilance.fr/vulnerability/Poppler-integer-overflow-via-tilingPatternFill-51368",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger an integer overflow of Poppler, via tilingPatternFill(), in order to trigger a denial of service, and possibly to run code..."
-        },
-        {
-          "title": "Perl XML-LibXML: out-of-bounds memory reading via Truncated UTF-8 Byte Sequences",
-          "link": "https://vigilance.fr/vulnerability/Perl-XML-LibXML-out-of-bounds-memory-reading-via-Truncated-UTF-8-Byte-Sequences-51365",
-          "date": "Visit link for details",
-          "description": "An attacker can force a read at an invalid memory address of Perl XML::LibXML, via Truncated UTF-8 Byte Sequences, in order to trigger a denial of service, or to obtain sensitive information..."
-        },
-        {
-          "title": "Request Tracker: multiple vulnerabilities dated 08/06/2026",
-          "link": "https://vigilance.fr/vulnerability/Request-Tracker-multiple-vulnerabilities-dated-08-06-2026-51363",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of Request Tracker, dated 08/06/2026..."
-        },
-        {
-          "title": "nasm: code execution via Assembly File Processing",
-          "link": "https://vigilance.fr/vulnerability/nasm-code-execution-via-Assembly-File-Processing-51362",
-          "date": "Visit link for details",
-          "description": "An attacker can use a vulnerability of nasm, via Assembly File Processing, in order to run code..."
-        },
-        {
-          "title": "Keylime: user access via Hardcoded TPM Quote Nonce",
-          "link": "https://vigilance.fr/vulnerability/Keylime-user-access-via-Hardcoded-TPM-Quote-Nonce-51361",
-          "date": "Visit link for details",
-          "description": "An attacker can bypass restrictions of Keylime, via Hardcoded TPM Quote Nonce, in order to gain user privileges..."
-        },
-        {
-          "title": "Perl CryptX: buffer overflow via AEAD decrypt_verify",
-          "link": "https://vigilance.fr/vulnerability/Perl-CryptX-buffer-overflow-via-AEAD-decrypt-verify-51360",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger a buffer overflow of Perl CryptX, via AEAD decrypt_verify, in order to trigger a denial of service, and possibly to run code..."
-        },
-        {
-          "title": "Cargo: two vulnerabilities dated 08/06/2026",
-          "link": "https://vigilance.fr/vulnerability/Cargo-two-vulnerabilities-dated-08-06-2026-51359",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of Cargo, dated 08/06/2026..."
-        },
-        {
-          "title": "kanidm: write access via Set Modifications",
-          "link": "https://vigilance.fr/vulnerability/kanidm-write-access-via-Set-Modifications-51357",
-          "date": "Visit link for details",
-          "description": "An attacker can bypass access restrictions of kanidm, via Set Modifications, in order to alter data..."
-        },
-        {
-          "title": "MariaDB Server: no log via Audit Double-hyphen Hash",
-          "link": "https://vigilance.fr/vulnerability/MariaDB-Server-no-log-via-Audit-Double-hyphen-Hash-51356",
-          "date": "Visit link for details",
-          "description": "An attacker can perform malicious actions on MariaDB Server, via Audit Double-hyphen Hash, with being detected by the administrator..."
-        }
-      ]
-    },
     "ZERODAYINITIATIVE": {
       "items": []
     },
@@ -324,61 +196,67 @@
         }
       ]
     },
-    "EU-CERT": {
+    "VulDB": {
       "items": [
         {
-          "title": "2026-009: Critical Vulnerabilities in Microsoft SharePoint",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-009/",
-          "date": "Thursday, July 23, 2026 09:13:03 AM CEST",
-          "description": "[UPDATED] On 14 July 2026, Microsoft released security updates addressing critical remote code execution (RCE) vulnerabilities in Microsoft SharePoint Server. On 20 July 2026, WatchTowr identified a proof-of-concept exploit code and subsequently observed active exploitation of CVE-2026-50522, a vulnerability part of an ongoing series of actively exploited flaws affecting on-premise SharePoint Server instances, including CVE-2026-32201, CVE-2026-45659, CVE-2026-56164, and CVE-2026-58644."
+          "title": "CVE-2026-19379  EFM ipTIME AX8004M 15.09.0 CGI Endpoint /cgi/d.cgi popen fname os command injection",
+          "link": "https://vuldb.com/vuln/387272",
+          "date": "Sun, 09 Aug 2026 17:14:33 +0200",
+          "description": "A vulnerability has been found in EFM ipTIME AX8004M 15.09.0 and classified as critical. Impacted is the function popen of the file /cgi/d.cgi of the component CGI Endpoint. This manipulation of the a"
         },
         {
-          "title": "2026-008: Critical vulnerabilities in Ivanti Sentry",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-008/",
-          "date": "Wednesday, June 10, 2026 01:55:39 PM CEST",
-          "description": "On 9 June 2026, Ivanti released a security advisory addressing two critical vulnerabilities in their Sentry products[1]. An attacker could exploit those flaws to achieve unauthenticated remote code execution on the vulnerable device."
+          "title": "CVE-2026-19378  code-projects Task Management System 1.0 /user/CommentSave.php comment/task_id/mineId/recId/myName/myImage cross site scripting",
+          "link": "https://vuldb.com/vuln/387271",
+          "date": "Sun, 09 Aug 2026 17:10:43 +0200",
+          "description": "A vulnerability, which was classified as problematic, was found in code-projects Task Management System 1.0. This issue affects some unknown processing of the file /user/CommentSave.php. The manipulat"
         },
         {
-          "title": "2026-007: Critical Vulnerability in Windows Netlogon",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-007/",
-          "date": "Wednesday, June 10, 2026 08:47:08 AM CEST",
-          "description": "On 12 May 2026, Microsoft published a security advisory addressing a critical vulnerability affecting Windows Server when acting as a domain controller. This vulnerability allows an unauthenticated attacker to execute arbitrary code over a network."
+          "title": "CVE-2026-19376  Uasoft Badaso 3.0.0-alpha File API src/Routes/api.php ApiRequest::class permission (Issue 1100)",
+          "link": "https://vuldb.com/vuln/387270",
+          "date": "Sun, 09 Aug 2026 15:17:15 +0200",
+          "description": "A vulnerability, which was classified as critical, has been found in Uasoft Badaso 3.0.0-alpha. This vulnerability affects the function ApiRequest::class of the file src/Routes/api.php of the componen"
         },
         {
-          "title": "2026-006: Critical Vulnerability in PAN-OS",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-006/",
-          "date": "Wednesday, May 06, 2026 10:44:32 AM CEST",
-          "description": "On 6 May 2026, Palo Alto published a security advisory addressing a critical vulnerability affecting PAN-OS. This vulnerability allows an unauthenticated attacker to execute arbitrary code with root privileges."
+          "title": "CVE-2026-55814  Apache Ranger missing authentication",
+          "link": "https://vuldb.com/vuln/387269",
+          "date": "Sun, 09 Aug 2026 13:26:40 +0200",
+          "description": "A vulnerability classified as problematic was found in Apache Ranger. This affects an unknown part. Executing a manipulation can lead to missing authentication.This vulnerability appears as CVE-2026"
         },
         {
-          "title": "2026-005: High Vulnerability in the Linux Kernel (\"Copy Fail\")",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-005/",
-          "date": "Thursday, April 30, 2026 11:25:30 AM CEST",
-          "description": "On 29 April 2026, a high local privilege escalation vulnerability in the Linux kernel, tracked as CVE-2026-31431 and named \"Copy Fail\", was publicly disclosed."
+          "title": "CVE-2026-65945  Apache Ranger authentication replay",
+          "link": "https://vuldb.com/vuln/387268",
+          "date": "Sun, 09 Aug 2026 13:26:11 +0200",
+          "description": "A vulnerability classified as critical has been found in Apache Ranger. Affected by this issue is some unknown functionality. Performing a manipulation results in authentication bypass by capture-repl"
         },
         {
-          "title": "2026-004: Critical Vulnerability in SharePoint Exploited",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-004/",
-          "date": "Wednesday, March 25, 2026 08:51:39 AM CET",
-          "description": "On 17 March 2026, Microsoft updated one of its January 2026 security advisories related to a remote code execution vulnerability in Microsoft SharePoint. Specifically, Microsoft raised the CVSS score and changed the FAQ section to indicate that the vulnerability could be exploited by an unauthenticated attacker. This vulnerability was added in the CISA's Known Exploited Vulnerabilities (KEV) catalogue on 18 March 2026."
+          "title": "CVE-2026-65942  Apache Ranger certificate validation",
+          "link": "https://vuldb.com/vuln/387267",
+          "date": "Sun, 09 Aug 2026 13:25:40 +0200",
+          "description": "A vulnerability described as problematic has been identified in Apache Ranger. Affected by this vulnerability is an unknown functionality. Such manipulation leads to improper certificate validation."
         },
         {
-          "title": "2026-003: Multiple Vulnerabilities in Citrix NetScaler and Citrix ADC",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-003/",
-          "date": "Monday, March 23, 2026 07:03:59 PM CET",
-          "description": "On 23 March 2026, Citrix published a security advisory addressing multiple vulnerabilities affecting NetScaler ADC and NetScaler Gateway. These vulnerabilities may lead to sensitive information disclosure and user session mix-up under specific configurations."
+          "title": "CVE-2026-40920  Apache Ranger URL Parameter privileges management",
+          "link": "https://vuldb.com/vuln/387266",
+          "date": "Sun, 09 Aug 2026 13:25:08 +0200",
+          "description": "A vulnerability marked as critical has been reported in Apache Ranger. Affected is an unknown function of the component URL Parameter. This manipulation causes improper privilege management.This vul"
         },
         {
-          "title": "2026-002: Multiple Vulnerabilities in Cisco Products",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-002/",
-          "date": "Thursday, February 26, 2026 07:38:52 PM CET",
-          "description": "On 25 February 2026, Cisco released security advisories addressing multiple high and critical severity vulnerabilities in Cisco Catalyst SD-WAN controllers and Cisco SD-WAN Manager. If exploited, these vulnerabilities could allow attackers to gain administrative access to compromised systems."
+          "title": "CVE-2026-32227  Apache Ranger sql injection",
+          "link": "https://vuldb.com/vuln/387265",
+          "date": "Sun, 09 Aug 2026 13:24:38 +0200",
+          "description": "A vulnerability labeled as critical has been found in Apache Ranger. This impacts an unknown function. The manipulation results in sql injection.This vulnerability is cataloged as CVE-2026-32227. Th"
         },
         {
-          "title": "2026-001: Critical vulnerabilities in Ivanti EPMM",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-001/",
-          "date": "Friday, January 30, 2026 10:09:06 AM CET",
-          "description": "On 29 January 2026, Ivanti released a security advisory addressing two critical vulnerabilities in their EPMM products. An attacker could exploit those flaws to achieve unauthenticated remote code execution on the vulnerable device. One of these vulnerabilities have been exploited in a limited number of cases."
+          "title": "CVE-2026-28672  Apache Ranger UnixUserGroupBuilder Username os command injection",
+          "link": "https://vuldb.com/vuln/387264",
+          "date": "Sun, 09 Aug 2026 13:24:07 +0200",
+          "description": "A vulnerability identified as very critical has been detected in Apache Ranger. This affects the function UnixUserGroupBuilder. The manipulation of the argument Username leads to os command injection."
+        },
+        {
+          "title": "CVE-2026-65948  Apache Ranger Unixauth excessive authentication",
+          "link": "https://vuldb.com/vuln/387263",
+          "date": "Sun, 09 Aug 2026 13:23:43 +0200",
+          "description": "A vulnerability categorized as problematic has been discovered in Apache Ranger. The impacted element is an unknown function of the component Unixauth. Executing a manipulation can lead to improper re"
         }
       ]
     },
@@ -443,6 +321,128 @@
           "link": "https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20260804",
           "date": "Release Date: 4 Aug 2026 ",
           "description": "Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and remote code execution on the targeted system."
+        }
+      ]
+    },
+    "EU-CERT": {
+      "items": [
+        {
+          "title": "2026-009: Critical Vulnerabilities in Microsoft SharePoint",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-009/",
+          "date": "Thursday, July 23, 2026 09:13:03 AM CEST",
+          "description": "[UPDATED] On 14 July 2026, Microsoft released security updates addressing critical remote code execution (RCE) vulnerabilities in Microsoft SharePoint Server. On 20 July 2026, WatchTowr identified a proof-of-concept exploit code and subsequently observed active exploitation of CVE-2026-50522, a vulnerability part of an ongoing series of actively exploited flaws affecting on-premise SharePoint Server instances, including CVE-2026-32201, CVE-2026-45659, CVE-2026-56164, and CVE-2026-58644."
+        },
+        {
+          "title": "2026-008: Critical vulnerabilities in Ivanti Sentry",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-008/",
+          "date": "Wednesday, June 10, 2026 01:55:39 PM CEST",
+          "description": "On 9 June 2026, Ivanti released a security advisory addressing two critical vulnerabilities in their Sentry products[1]. An attacker could exploit those flaws to achieve unauthenticated remote code execution on the vulnerable device."
+        },
+        {
+          "title": "2026-007: Critical Vulnerability in Windows Netlogon",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-007/",
+          "date": "Wednesday, June 10, 2026 08:47:08 AM CEST",
+          "description": "On 12 May 2026, Microsoft published a security advisory addressing a critical vulnerability affecting Windows Server when acting as a domain controller. This vulnerability allows an unauthenticated attacker to execute arbitrary code over a network."
+        },
+        {
+          "title": "2026-006: Critical Vulnerability in PAN-OS",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-006/",
+          "date": "Wednesday, May 06, 2026 10:44:32 AM CEST",
+          "description": "On 6 May 2026, Palo Alto published a security advisory addressing a critical vulnerability affecting PAN-OS. This vulnerability allows an unauthenticated attacker to execute arbitrary code with root privileges."
+        },
+        {
+          "title": "2026-005: High Vulnerability in the Linux Kernel (\"Copy Fail\")",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-005/",
+          "date": "Thursday, April 30, 2026 11:25:30 AM CEST",
+          "description": "On 29 April 2026, a high local privilege escalation vulnerability in the Linux kernel, tracked as CVE-2026-31431 and named \"Copy Fail\", was publicly disclosed."
+        },
+        {
+          "title": "2026-004: Critical Vulnerability in SharePoint Exploited",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-004/",
+          "date": "Wednesday, March 25, 2026 08:51:39 AM CET",
+          "description": "On 17 March 2026, Microsoft updated one of its January 2026 security advisories related to a remote code execution vulnerability in Microsoft SharePoint. Specifically, Microsoft raised the CVSS score and changed the FAQ section to indicate that the vulnerability could be exploited by an unauthenticated attacker. This vulnerability was added in the CISA's Known Exploited Vulnerabilities (KEV) catalogue on 18 March 2026."
+        },
+        {
+          "title": "2026-003: Multiple Vulnerabilities in Citrix NetScaler and Citrix ADC",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-003/",
+          "date": "Monday, March 23, 2026 07:03:59 PM CET",
+          "description": "On 23 March 2026, Citrix published a security advisory addressing multiple vulnerabilities affecting NetScaler ADC and NetScaler Gateway. These vulnerabilities may lead to sensitive information disclosure and user session mix-up under specific configurations."
+        },
+        {
+          "title": "2026-002: Multiple Vulnerabilities in Cisco Products",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-002/",
+          "date": "Thursday, February 26, 2026 07:38:52 PM CET",
+          "description": "On 25 February 2026, Cisco released security advisories addressing multiple high and critical severity vulnerabilities in Cisco Catalyst SD-WAN controllers and Cisco SD-WAN Manager. If exploited, these vulnerabilities could allow attackers to gain administrative access to compromised systems."
+        },
+        {
+          "title": "2026-001: Critical vulnerabilities in Ivanti EPMM",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-001/",
+          "date": "Friday, January 30, 2026 10:09:06 AM CET",
+          "description": "On 29 January 2026, Ivanti released a security advisory addressing two critical vulnerabilities in their EPMM products. An attacker could exploit those flaws to achieve unauthenticated remote code execution on the vulnerable device. One of these vulnerabilities have been exploited in a limited number of cases."
+        }
+      ]
+    },
+    "OBS-Vigilance": {
+      "items": [
+        {
+          "title": "Ivanti Endpoint Manager Mobile: two vulnerabilities dated 09/06/2026",
+          "link": "https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-Mobile-two-vulnerabilities-dated-09-06-2026-51395",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of Ivanti Endpoint Manager Mobile, dated 09/06/2026..."
+        },
+        {
+          "title": "Linux kernel: multiple vulnerabilities dated 09/06/2026",
+          "link": "https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-09-06-2026-51394",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of the Linux kernel, dated 09/06/2026..."
+        },
+        {
+          "title": "Check Point Security Gateway: Man-in-the-Middle via VPN Site To Site Certificate Bypass IKEv1",
+          "link": "https://vigilance.fr/vulnerability/Check-Point-Security-Gateway-Man-in-the-Middle-via-VPN-Site-To-Site-Certificate-Bypass-IKEv1-51393",
+          "date": "Visit link for details",
+          "description": "An attacker can act as a Man-in-the-Middle on Check Point Security Gateway, via VPN Site To Site Certificate Bypass IKEv1, in order to read or write data in the session..."
+        },
+        {
+          "title": "Perl Protocol-HTTP2: overload via HTTP/2 Bomb",
+          "link": "https://vigilance.fr/vulnerability/Perl-Protocol-HTTP2-overload-via-HTTP-2-Bomb-51390",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger an overload of Perl Protocol::HTTP2, via HTTP/2 Bomb, in order to trigger a denial of service..."
+        },
+        {
+          "title": "Xen: privilege escalation via X86 Mapcache Metadata",
+          "link": "https://vigilance.fr/vulnerability/Xen-privilege-escalation-via-X86-Mapcache-Metadata-51388",
+          "date": "Visit link for details",
+          "description": "An attacker, in a guest system, can bypass restrictions of Xen, via X86 Mapcache Metadata, in order to escalate his privileges..."
+        },
+        {
+          "title": "Arm Processors: privilege escalation via TLBI Completion",
+          "link": "https://vigilance.fr/vulnerability/Arm-Processors-privilege-escalation-via-TLBI-Completion-51387",
+          "date": "Visit link for details",
+          "description": "An attacker, in a guest system, can bypass restrictions of Arm Processors, via TLBI Completion, in order to escalate his privileges..."
+        },
+        {
+          "title": "Xen: privilege escalation via X86 HVM I/O Port List",
+          "link": "https://vigilance.fr/vulnerability/Xen-privilege-escalation-via-X86-HVM-I-O-Port-List-51385",
+          "date": "Visit link for details",
+          "description": "An attacker, in a guest system, can bypass restrictions of Xen, via X86 HVM I/O Port List, in order to escalate his privileges..."
+        },
+        {
+          "title": "TYPO3 Core: multiple vulnerabilities dated 09/06/2026",
+          "link": "https://vigilance.fr/vulnerability/TYPO3-Core-multiple-vulnerabilities-dated-09-06-2026-51384",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of TYPO3 Core, dated 09/06/2026..."
+        },
+        {
+          "title": "SIMATIC WinCC Unified PC Runtime: information disclosure via Key Material",
+          "link": "https://vigilance.fr/vulnerability/SIMATIC-WinCC-Unified-PC-Runtime-information-disclosure-via-Key-Material-51381",
+          "date": "Visit link for details",
+          "description": "An attacker can bypass access restrictions to data of SIMATIC WinCC Unified PC Runtime, via Key Material, in order to read sensitive information..."
+        },
+        {
+          "title": "libyang: integer overflow via lyb_read_string()",
+          "link": "https://vigilance.fr/vulnerability/libyang-integer-overflow-via-lyb-read-string-51380",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger an integer overflow of libyang, via lyb_read_string(), in order to trigger a denial of service, and possibly to run code..."
         }
       ]
     },
