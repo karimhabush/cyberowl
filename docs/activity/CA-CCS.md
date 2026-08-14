@@ -4,6 +4,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Zimbra security advisory (AV26-816)](https://www.cyber.gc.ca/en/alerts-advisories/zimbra-security-advisory-av26-816)|Visit link for details|2026-08-14|
  |[WebPros security advisory (AV26-815)](https://www.cyber.gc.ca/en/alerts-advisories/webpros-security-advisory-av26-815)|Visit link for details|2026-08-13|
  |[GitLab security advisory (AV26-814)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av26-814)|Visit link for details|2026-08-13|
  |[AMD security advisory (AV26-813)](https://www.cyber.gc.ca/en/alerts-advisories/amd-security-advisory-av26-813)|Visit link for details|2026-08-13|
@@ -13,5 +14,4 @@
  |[MongoDB security advisory (AV26-810)](https://www.cyber.gc.ca/en/alerts-advisories/mongodb-security-advisory-av26-810)|Visit link for details|2026-08-12|
  |[SonicWall security advisory (AV26-809)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av26-809)|Visit link for details|2026-08-12|
  |[Adobe security advisory (AV26-808)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av26-808)|Visit link for details|2026-08-12|
- |[Cisco security advisory (AV26-807)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av26-807)|Visit link for details|2026-08-12|
  
