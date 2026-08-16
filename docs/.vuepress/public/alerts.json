@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T15:13:48.891782+00:00",
+  "generated_at": "2026-08-16T15:15:17.774187+00:00",
   "sources": {
     "US-CERT": {
       "items": [
@@ -129,6 +129,70 @@
         }
       ]
     },
+    "VulDB": {
+      "items": [
+        {
+          "title": "CVE-2026-19988  Alaev SEO Tools Extension up to 1.0.10 on Chrome Popup UI src/popup.html addDiv cross site scripting",
+          "link": "https://vuldb.com/vuln/391192",
+          "date": "Sun, 16 Aug 2026 16:58:49 +0200",
+          "description": "A vulnerability has been found in Alaev SEO Tools Extension up to 1.0.10 on Chrome and classified as problematic. This impacts the function addDiv of the file src/popup.html of the component Popup UI."
+        },
+        {
+          "title": "CVE-2026-19987  SourceCodester Best Employee Management System 1.0 Profile exposure of information through directory listing",
+          "link": "https://vuldb.com/vuln/391191",
+          "date": "Sun, 16 Aug 2026 16:46:01 +0200",
+          "description": "A vulnerability, which was classified as problematic, was found in SourceCodester Best Employee Management System 1.0. This affects an unknown function of the file /assets/uploadImage/Profile/. Such m"
+        },
+        {
+          "title": "CVE-2026-19986  Adblock for Youtube Extension up to 7.2.1 on Chrome Event Listener contentscript.js updateDynamicRules yt-anti-adblock-detected improper authorization",
+          "link": "https://vuldb.com/vuln/391190",
+          "date": "Sun, 16 Aug 2026 16:37:59 +0200",
+          "description": "A vulnerability, which was classified as problematic, has been found in Adblock for Youtube Extension up to 7.2.1 on Chrome. The impacted element is the function updateDynamicRules of the file content"
+        },
+        {
+          "title": "CVE-2026-74797  OpenTofu up to 1.11.3 Init Command init denial of service",
+          "link": "https://vuldb.com/vuln/391189",
+          "date": "Sun, 16 Aug 2026 16:30:09 +0200",
+          "description": "A vulnerability classified as problematic was found in OpenTofu up to 1.11.3. The affected element is the function init of the component Init Command. The manipulation results in denial of service.T"
+        },
+        {
+          "title": "CVE-2026-72887  Net::OAuth::Client up to 0.31 Token Exchange get_request_token oauth_verifier session fixiation",
+          "link": "https://vuldb.com/vuln/391188",
+          "date": "Sun, 16 Aug 2026 16:14:28 +0200",
+          "description": "A vulnerability classified as critical has been found in Net::OAuth::Client up to 0.31. Impacted is the function get_request_token of the component Token Exchange. The manipulation of the argument oau"
+        },
+        {
+          "title": "CVE-2026-72888  Net::OAuth up to 0.31 Smart Require smart_require signature_method memory allocation",
+          "link": "https://vuldb.com/vuln/391187",
+          "date": "Sun, 16 Aug 2026 16:13:54 +0200",
+          "description": "A vulnerability described as problematic has been identified in Net::OAuth up to 0.31. This issue affects the function smart_require of the component Smart Require. Executing a manipulation of the arg"
+        },
+        {
+          "title": "CVE-2026-74796  OpenTofu up to 1.11.6 Symlink Validation link following",
+          "link": "https://vuldb.com/vuln/391186",
+          "date": "Sun, 16 Aug 2026 15:58:08 +0200",
+          "description": "A vulnerability marked as problematic has been reported in OpenTofu up to 1.11.6. This vulnerability affects unknown code of the component Symlink Validation. Performing a manipulation results in link"
+        },
+        {
+          "title": "CVE-2026-19349  OW2 LemonLDAP::NG up to 2.16.8/2.21.4/2.23.2 OAuth2 extractFormInfo state improper authentication",
+          "link": "https://vuldb.com/vuln/391185",
+          "date": "Sun, 16 Aug 2026 15:58:01 +0200",
+          "description": "A vulnerability labeled as critical has been found in OW2 LemonLDAP::NG up to 2.16.8/2.21.4/2.23.2. This affects the function extractFormInfo of the component OAuth2. Such manipulation of the argument"
+        },
+        {
+          "title": "CVE-2026-19984  jkawamoto mcp-florence2 up to 0.3.13 __init__.py get_images src server-side request forgery (Issue 59)",
+          "link": "https://vuldb.com/vuln/391184",
+          "date": "Sun, 16 Aug 2026 15:55:21 +0200",
+          "description": "A vulnerability identified as critical has been detected in jkawamoto mcp-florence2 up to 0.3.13. Affected by this issue is the function get_images of the file src/mcp_florence2/__init__.py. This mani"
+        },
+        {
+          "title": "CVE-2024-58375  OpenTofu up to 1.8.2 information disclosure",
+          "link": "https://vuldb.com/vuln/391183",
+          "date": "Sun, 16 Aug 2026 15:53:15 +0200",
+          "description": "A vulnerability categorized as problematic has been discovered in OpenTofu up to 1.8.2. Affected by this vulnerability is an unknown functionality. The manipulation results in information disclosure."
+        }
+      ]
+    },
     "ZERODAYINITIATIVE": {
       "items": []
     },
@@ -196,131 +260,67 @@
         }
       ]
     },
-    "VulDB": {
-      "items": [
-        {
-          "title": "CVE-2026-72379  Linux Kernel up to 7.2-rc1 vfs_tmpfile access control",
-          "link": "https://vuldb.com/vuln/390977",
-          "date": "Sat, 15 Aug 2026 16:45:04 +0200",
-          "description": "A vulnerability described as problematic has been identified in Linux Kernel up to 6.6.144/6.12.96/6.18.39/7.1.4/7.2-rc1. This vulnerability affects the function vfs_tmpfile. Executing a manipulation"
-        },
-        {
-          "title": "CVE-2026-72449  Linux Kernel up to 7.1.4 amdkfd drm/amdkfd kfd_criu_resume_svm use after free",
-          "link": "https://vuldb.com/vuln/390976",
-          "date": "Sat, 15 Aug 2026 16:44:51 +0200",
-          "description": "A vulnerability marked as very critical has been reported in Linux Kernel up to 6.1.177/6.6.144/6.12.96/6.18.39/7.1.4. This affects the function kfd_criu_resume_svm of the file drm/amdkfd of the compo"
-        },
-        {
-          "title": "CVE-2026-72378  Linux Kernel up to 7.2-rc1 afs afs_extract_vl_addrs error condition",
-          "link": "https://vuldb.com/vuln/390975",
-          "date": "Sat, 15 Aug 2026 16:44:15 +0200",
-          "description": "A vulnerability labeled as very critical has been found in Linux Kernel up to 7.2-rc1. Affected by this issue is the function afs_extract_vl_addrs of the component afs. Such manipulation leads to unch"
-        },
-        {
-          "title": "CVE-2026-72377  Linux Kernel afs afs_apply_status null pointer dereference",
-          "link": "https://vuldb.com/vuln/390974",
-          "date": "Sat, 15 Aug 2026 16:43:45 +0200",
-          "description": "A vulnerability identified as problematic has been detected in Linux Kernel. Affected by this vulnerability is the function afs_apply_status of the component afs. This manipulation causes null pointer"
-        },
-        {
-          "title": "CVE-2026-72376  Linux Kernel up to 6.12.96/6.18.39/7.1.4/7.2-rc1 AFS idr_alloc_cyclic cells_outstanding status code",
-          "link": "https://vuldb.com/vuln/390973",
-          "date": "Sat, 15 Aug 2026 16:43:44 +0200",
-          "description": "A vulnerability categorized as problematic has been discovered in Linux Kernel up to 6.12.96/6.18.39/7.1.4/7.2-rc1. Affected is the function idr_alloc_cyclic of the component AFS. The manipulation of"
-        },
-        {
-          "title": "CVE-2026-72375  Linux Kernel up to 6.18.39/7.1.4/7.2-rc1 afs lib/debugobjects.c afs_lock_work race condition",
-          "link": "https://vuldb.com/vuln/390972",
-          "date": "Sat, 15 Aug 2026 16:43:19 +0200",
-          "description": "A vulnerability was found in Linux Kernel up to 6.18.39/7.1.4/7.2-rc1. It has been rated as problematic. This impacts the function afs_lock_work of the file lib/debugobjects.c of the component afs. Th"
-        },
-        {
-          "title": "CVE-2026-72374  Linux Kernel up to 7.2-rc1 afs afs_extract_data return value",
-          "link": "https://vuldb.com/vuln/390971",
-          "date": "Sat, 15 Aug 2026 16:42:53 +0200",
-          "description": "A vulnerability was found in Linux Kernel up to 7.2-rc1. It has been declared as problematic. This affects the function afs_extract_data of the component afs. Executing a manipulation can lead to unch"
-        },
-        {
-          "title": "CVE-2026-72373  Linux Kernel up to 6.12.96/6.18.39/7.1.4/7.2-rc1 afs afs_break_some_callbacks null pointer dereference",
-          "link": "https://vuldb.com/vuln/390970",
-          "date": "Sat, 15 Aug 2026 16:42:11 +0200",
-          "description": "A vulnerability was found in Linux Kernel up to 6.12.96/6.18.39/7.1.4/7.2-rc1. It has been classified as critical. The impacted element is the function afs_break_some_callbacks of the component afs. P"
-        },
-        {
-          "title": "CVE-2026-72371  Linux Kernel up to 7.2-rc1 afs afs_insert_volume_into_cell operation after expiration",
-          "link": "https://vuldb.com/vuln/390969",
-          "date": "Sat, 15 Aug 2026 16:41:48 +0200",
-          "description": "A vulnerability was found in Linux Kernel up to 7.2-rc1 and classified as problematic. The affected element is the function afs_insert_volume_into_cell of the component afs. Such manipulation leads to"
-        },
-        {
-          "title": "CVE-2026-72372  Linux Kernel up to 6.12.100/6.18.39/7.1.4/7.2-rc1 afs afs_destroy_cell_work cells_dyn_ino/cells_lock locking",
-          "link": "https://vuldb.com/vuln/390968",
-          "date": "Sat, 15 Aug 2026 16:41:41 +0200",
-          "description": "A vulnerability has been found in Linux Kernel up to 6.12.100/6.18.39/7.1.4/7.2-rc1 and classified as very critical. Impacted is the function afs_destroy_cell_work of the component afs. This manipulat"
-        }
-      ]
-    },
     "OBS-Vigilance": {
       "items": [
         {
-          "title": "tmux: use after free via image_free()",
-          "link": "https://vigilance.fr/vulnerability/tmux-use-after-free-via-image-free-51515",
+          "title": "WebSphere AS: three vulnerabilities dated 16/06/2026",
+          "link": "https://vigilance.fr/vulnerability/WebSphere-AS-three-vulnerabilities-dated-16-06-2026-51535",
           "date": "Visit link for details",
-          "description": "An attacker can force the reuse of a freed memory area of tmux, via image_free(), in order to trigger a denial of service, and possibly to run code..."
+          "description": "An attacker can use several vulnerabilities of WebSphere AS, dated 16/06/2026..."
         },
         {
-          "title": "PyJWT: read-write access via JSON Web Tokens",
-          "link": "https://vigilance.fr/vulnerability/PyJWT-read-write-access-via-JSON-Web-Tokens-51514",
+          "title": "LibreOffice: four vulnerabilities dated 16/06/2026",
+          "link": "https://vigilance.fr/vulnerability/LibreOffice-four-vulnerabilities-dated-16-06-2026-51533",
           "date": "Visit link for details",
-          "description": "An attacker can bypass access restrictions of PyJWT, via JSON Web Tokens, in order to read or alter data..."
+          "description": "An attacker can use several vulnerabilities of LibreOffice, dated 16/06/2026..."
         },
         {
-          "title": "cyrus-imapd: privilege escalation via daily-backup.sh",
-          "link": "https://vigilance.fr/vulnerability/cyrus-imapd-privilege-escalation-via-daily-backup-sh-51513",
+          "title": "FreeRDP: buffer overflow via Planar Bitmap Decoder",
+          "link": "https://vigilance.fr/vulnerability/FreeRDP-buffer-overflow-via-Planar-Bitmap-Decoder-51531",
           "date": "Visit link for details",
-          "description": "An attacker can bypass restrictions of cyrus-imapd, via daily-backup.sh, in order to escalate his privileges..."
+          "description": "An attacker can trigger a buffer overflow of FreeRDP, via Planar Bitmap Decoder, in order to trigger a denial of service, and possibly to run code..."
         },
         {
-          "title": "Erlang OTP: three vulnerabilities dated 15/06/2026",
-          "link": "https://vigilance.fr/vulnerability/Erlang-OTP-three-vulnerabilities-dated-15-06-2026-51512",
+          "title": "Ruby Net-IMAP: two vulnerabilities dated 16/06/2026",
+          "link": "https://vigilance.fr/vulnerability/Ruby-Net-IMAP-two-vulnerabilities-dated-16-06-2026-51530",
           "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of Erlang OTP, dated 15/06/2026..."
+          "description": "An attacker can use several vulnerabilities of Ruby Net::IMAP, dated 16/06/2026..."
         },
         {
-          "title": "Apache PDFBox: directory traversal via ExtractEmbeddedFiles",
-          "link": "https://vigilance.fr/vulnerability/Apache-PDFBox-directory-traversal-via-ExtractEmbeddedFiles-51511",
+          "title": "billboard.js: code execution via Chart Option Binding",
+          "link": "https://vigilance.fr/vulnerability/billboard-js-code-execution-via-Chart-Option-Binding-51528",
           "date": "Visit link for details",
-          "description": "An attacker can traverse directories of Apache PDFBox, via ExtractEmbeddedFiles"
+          "description": "An attacker can use a vulnerability of billboard.js, via Chart Option Binding, in order to run code..."
         },
         {
-          "title": "Linux kernel: overload via emulator_pio_in()",
-          "link": "https://vigilance.fr/vulnerability/Linux-kernel-overload-via-emulator-pio-in-52199",
+          "title": "FasterXML Jackson Databind: multiple vulnerabilities dated 16/06/2026",
+          "link": "https://vigilance.fr/vulnerability/FasterXML-Jackson-Databind-multiple-vulnerabilities-dated-16-06-2026-51527",
           "date": "Visit link for details",
-          "description": "An attacker can trigger an overload of the Linux kernel, via emulator_pio_in(), in order to trigger a denial of service..."
+          "description": "An attacker can use several vulnerabilities of FasterXML Jackson Databind, dated 16/06/2026..."
         },
         {
-          "title": "Mozilla NSS: integer overflow via CERT_Hexify()",
-          "link": "https://vigilance.fr/vulnerability/Mozilla-NSS-integer-overflow-via-CERT-Hexify-51510",
+          "title": "BIRD: buffer overflow via BGP AS_PATH Mask Matching",
+          "link": "https://vigilance.fr/vulnerability/BIRD-buffer-overflow-via-BGP-AS-PATH-Mask-Matching-51524",
           "date": "Visit link for details",
-          "description": "An attacker can trigger an integer overflow of Mozilla NSS, via CERT_Hexify(), in order to trigger a denial of service, and possibly to run code..."
+          "description": "An attacker can trigger a buffer overflow of BIRD, via BGP AS_PATH Mask Matching, in order to trigger a denial of service, and possibly to run code..."
         },
         {
-          "title": "lighttpd: information disclosure via Non-default Path",
-          "link": "https://vigilance.fr/vulnerability/lighttpd-information-disclosure-via-Non-default-Path-51509",
+          "title": "LibreOffice: three vulnerabilities dated 16/06/2026",
+          "link": "https://vigilance.fr/vulnerability/LibreOffice-three-vulnerabilities-dated-16-06-2026-51523",
           "date": "Visit link for details",
-          "description": "An attacker can bypass access restrictions to data of lighttpd, via Non-default Path, in order to read sensitive information..."
+          "description": "An attacker can use several vulnerabilities of LibreOffice, dated 16/06/2026..."
         },
         {
-          "title": "TeamPass: four vulnerabilities dated 15/06/2026",
-          "link": "https://vigilance.fr/vulnerability/TeamPass-four-vulnerabilities-dated-15-06-2026-51508",
+          "title": "Perl GD: code execution via _make_filehandle()",
+          "link": "https://vigilance.fr/vulnerability/Perl-GD-code-execution-via-make-filehandle-51522",
           "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of TeamPass, dated 15/06/2026..."
+          "description": "An attacker can use a vulnerability of Perl GD, via _make_filehandle(), in order to run code..."
         },
         {
-          "title": "GNU SASL: memory reading via NTLM",
-          "link": "https://vigilance.fr/vulnerability/GNU-SASL-memory-reading-via-NTLM-52198",
+          "title": "Hugo: Cross Site Scripting via Markdown Content",
+          "link": "https://vigilance.fr/vulnerability/Hugo-Cross-Site-Scripting-via-Markdown-Content-51521",
           "date": "Visit link for details",
-          "description": "An attacker can read a memory fragment of GNU SASL, via NTLM, in order to obtain sensitive information..."
+          "description": "An attacker can trigger a Cross Site Scripting of Hugo, via Markdown Content, in order to run JavaScript code in the context of the web site..."
         }
       ]
     },
@@ -388,61 +388,67 @@
         }
       ]
     },
-    "EU-CERT": {
+    "MA-CERT": {
       "items": [
         {
-          "title": "2026-009: Critical Vulnerabilities in Microsoft SharePoint",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-009/",
-          "date": "Thursday, July 23, 2026 09:13:03 AM CEST",
-          "description": "[UPDATED] On 14 July 2026, Microsoft released security updates addressing critical remote code execution (RCE) vulnerabilities in Microsoft SharePoint Server. On 20 July 2026, WatchTowr identified a proof-of-concept exploit code and subsequently observed active exploitation of CVE-2026-50522, a vulnerability part of an ongoing series of actively exploited flaws affecting on-premise SharePoint Server instances, including CVE-2026-32201, CVE-2026-45659, CVE-2026-56164, and CVE-2026-58644."
+          "title": "67491308/26 - Vulnérabilités affectant MongoDB",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-mongodb-2",
+          "date": " ",
+          "description": "Plusieurs vulnérabilités affectant les versions susmentionnées de MongoDB ont été corrigées. L'exploitation de ces   vulnérabilités peut permettre à un attaquant d’exécuter du code à…"
         },
         {
-          "title": "2026-008: Critical vulnerabilities in Ivanti Sentry",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-008/",
-          "date": "Wednesday, June 10, 2026 01:55:39 PM CEST",
-          "description": "On 9 June 2026, Ivanti released a security advisory addressing two critical vulnerabilities in their Sentry products[1]. An attacker could exploit those flaws to achieve unauthenticated remote code execution on the vulnerable device."
+          "title": "67481308/26 - Vulnérabilités affectant des produits de Fortinet",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-de-fortinet-7",
+          "date": " ",
+          "description": "Fortinet annonce la disponibilité de mises à jour de sécurité permettant la correction            de plusieurs vulnérabilités affectant ses produits susmentionnées.…"
         },
         {
-          "title": "2026-007: Critical Vulnerability in Windows Netlogon",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-007/",
-          "date": "Wednesday, June 10, 2026 08:47:08 AM CEST",
-          "description": "On 12 May 2026, Microsoft published a security advisory addressing a critical vulnerability affecting Windows Server when acting as a domain controller. This vulnerability allows an unauthenticated attacker to execute arbitrary code over a network."
+          "title": "67471208/26 - Vulnérabilités critiques affectant des produits SonicWall",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-des-produits-sonicwall",
+          "date": " ",
+          "description": "SonicWall  annonce la disponibilité d’une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités critiques affectant ses produits susmentionnées. L’exploitation de ces…"
         },
         {
-          "title": "2026-006: Critical Vulnerability in PAN-OS",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-006/",
-          "date": "Wednesday, May 06, 2026 10:44:32 AM CEST",
-          "description": "On 6 May 2026, Palo Alto published a security advisory addressing a critical vulnerability affecting PAN-OS. This vulnerability allows an unauthenticated attacker to execute arbitrary code with root privileges."
+          "title": "67461208/26 - Vulnérabilités affectant Ivanti Endpoint Manager",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-ivanti-endpoint-manager-3",
+          "date": " ",
+          "description": "Ivanti a publié une mise à jour de sécurité qui permet de corriger trois vulnérabilités affectant les versions susmentionnées de son produit Endpoint Manager. L’exploitation de ces vulnérabilités peut…"
         },
         {
-          "title": "2026-005: High Vulnerability in the Linux Kernel (\"Copy Fail\")",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-005/",
-          "date": "Thursday, April 30, 2026 11:25:30 AM CEST",
-          "description": "On 29 April 2026, a high local privilege escalation vulnerability in the Linux kernel, tracked as CVE-2026-31431 and named \"Copy Fail\", was publicly disclosed."
+          "title": "67451208/26 - Vulnérabilité affectant Docker Desktop",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-docker-desktop-0",
+          "date": " ",
+          "description": "Docker annonce la correction d’une vulnérabilité affectant son produit Docker Desktop. Un attaquant distant  pourrait exploiter cette vulnérabilité pour contourner des mesures de sécurité."
         },
         {
-          "title": "2026-004: Critical Vulnerability in SharePoint Exploited",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-004/",
-          "date": "Wednesday, March 25, 2026 08:51:39 AM CET",
-          "description": "On 17 March 2026, Microsoft updated one of its January 2026 security advisories related to a remote code execution vulnerability in Microsoft SharePoint. Specifically, Microsoft raised the CVSS score and changed the FAQ section to indicate that the vulnerability could be exploited by an unauthenticated attacker. This vulnerability was added in the CISA's Known Exploited Vulnerabilities (KEV) catalogue on 18 March 2026."
+          "title": "67441208/26 - Vulnérabilités affectant le navigateur Google Chrome",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-55",
+          "date": " ",
+          "description": "Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs vulnérabilités   affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut…"
         },
         {
-          "title": "2026-003: Multiple Vulnerabilities in Citrix NetScaler and Citrix ADC",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-003/",
-          "date": "Monday, March 23, 2026 07:03:59 PM CET",
-          "description": "On 23 March 2026, Citrix published a security advisory addressing multiple vulnerabilities affecting NetScaler ADC and NetScaler Gateway. These vulnerabilities may lead to sensitive information disclosure and user session mix-up under specific configurations."
+          "title": "67431208/26 - Vulnérabilités affectant des produits Zoom",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-zoom",
+          "date": " ",
+          "description": "Zoom annonce la correction de plusieurs vulnérabilités affectant ses produits susmentionnés.  L'exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code à distance…"
         },
         {
-          "title": "2026-002: Multiple Vulnerabilities in Cisco Products",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-002/",
-          "date": "Thursday, February 26, 2026 07:38:52 PM CET",
-          "description": "On 25 February 2026, Cisco released security advisories addressing multiple high and critical severity vulnerabilities in Cisco Catalyst SD-WAN controllers and Cisco SD-WAN Manager. If exploited, these vulnerabilities could allow attackers to gain administrative access to compromised systems."
+          "title": "67421208/26 - Vulnérabilité critique activement exploitée affectant Cisco Secure…",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-activement-exploitee-affectant-cisco-secure-firewall-adaptive",
+          "date": " ",
+          "description": "Cisco annonce la correction d’une vulnérabilité critique affectant ses produits «Cisco Secure Firewall Adaptive Security Appliance Software » et « Cisco Secure Firewall Threat Defense…"
         },
         {
-          "title": "2026-001: Critical vulnerabilities in Ivanti EPMM",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-001/",
-          "date": "Friday, January 30, 2026 10:09:06 AM CET",
-          "description": "On 29 January 2026, Ivanti released a security advisory addressing two critical vulnerabilities in their EPMM products. An attacker could exploit those flaws to achieve unauthenticated remote code execution on the vulnerable device. One of these vulnerabilities have been exploited in a limited number of cases."
+          "title": "67411208/26 - Vulnérabilités critiques affectant plusieurs produits d’Adobe",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-plusieurs-produits-dadobe-3",
+          "date": " ",
+          "description": "Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités critiques affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre…"
+        },
+        {
+          "title": "67401208/26 - Vulnérabilités affectant plusieurs produits Microsoft (Patch Tuesday…",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-microsoft-patch-tuesday-aout-2026",
+          "date": " ",
+          "description": "Microsoft annonce la correction de plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces  vulnérabilités peut       permettre à un attaquant…"
         }
       ]
     },
@@ -510,67 +516,61 @@
         }
       ]
     },
-    "MA-CERT": {
+    "EU-CERT": {
       "items": [
         {
-          "title": "67491308/26 - Vulnérabilités affectant MongoDB",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-mongodb-2",
-          "date": " ",
-          "description": "Plusieurs vulnérabilités affectant les versions susmentionnées de MongoDB ont été corrigées. L'exploitation de ces   vulnérabilités peut permettre à un attaquant d’exécuter du code à…"
+          "title": "2026-009: Critical Vulnerabilities in Microsoft SharePoint",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-009/",
+          "date": "Thursday, July 23, 2026 09:13:03 AM CEST",
+          "description": "[UPDATED] On 14 July 2026, Microsoft released security updates addressing critical remote code execution (RCE) vulnerabilities in Microsoft SharePoint Server. On 20 July 2026, WatchTowr identified a proof-of-concept exploit code and subsequently observed active exploitation of CVE-2026-50522, a vulnerability part of an ongoing series of actively exploited flaws affecting on-premise SharePoint Server instances, including CVE-2026-32201, CVE-2026-45659, CVE-2026-56164, and CVE-2026-58644."
         },
         {
-          "title": "67481308/26 - Vulnérabilités affectant des produits de Fortinet",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-de-fortinet-7",
-          "date": " ",
-          "description": "Fortinet annonce la disponibilité de mises à jour de sécurité permettant la correction            de plusieurs vulnérabilités affectant ses produits susmentionnées.…"
+          "title": "2026-008: Critical vulnerabilities in Ivanti Sentry",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-008/",
+          "date": "Wednesday, June 10, 2026 01:55:39 PM CEST",
+          "description": "On 9 June 2026, Ivanti released a security advisory addressing two critical vulnerabilities in their Sentry products[1]. An attacker could exploit those flaws to achieve unauthenticated remote code execution on the vulnerable device."
         },
         {
-          "title": "67471208/26 - Vulnérabilités critiques affectant des produits SonicWall",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-des-produits-sonicwall",
-          "date": " ",
-          "description": "SonicWall  annonce la disponibilité d’une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités critiques affectant ses produits susmentionnées. L’exploitation de ces…"
+          "title": "2026-007: Critical Vulnerability in Windows Netlogon",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-007/",
+          "date": "Wednesday, June 10, 2026 08:47:08 AM CEST",
+          "description": "On 12 May 2026, Microsoft published a security advisory addressing a critical vulnerability affecting Windows Server when acting as a domain controller. This vulnerability allows an unauthenticated attacker to execute arbitrary code over a network."
         },
         {
-          "title": "67461208/26 - Vulnérabilités affectant Ivanti Endpoint Manager",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-ivanti-endpoint-manager-3",
-          "date": " ",
-          "description": "Ivanti a publié une mise à jour de sécurité qui permet de corriger trois vulnérabilités affectant les versions susmentionnées de son produit Endpoint Manager. L’exploitation de ces vulnérabilités peut…"
+          "title": "2026-006: Critical Vulnerability in PAN-OS",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-006/",
+          "date": "Wednesday, May 06, 2026 10:44:32 AM CEST",
+          "description": "On 6 May 2026, Palo Alto published a security advisory addressing a critical vulnerability affecting PAN-OS. This vulnerability allows an unauthenticated attacker to execute arbitrary code with root privileges."
         },
         {
-          "title": "67451208/26 - Vulnérabilité affectant Docker Desktop",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-docker-desktop-0",
-          "date": " ",
-          "description": "Docker annonce la correction d’une vulnérabilité affectant son produit Docker Desktop. Un attaquant distant  pourrait exploiter cette vulnérabilité pour contourner des mesures de sécurité."
+          "title": "2026-005: High Vulnerability in the Linux Kernel (\"Copy Fail\")",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-005/",
+          "date": "Thursday, April 30, 2026 11:25:30 AM CEST",
+          "description": "On 29 April 2026, a high local privilege escalation vulnerability in the Linux kernel, tracked as CVE-2026-31431 and named \"Copy Fail\", was publicly disclosed."
         },
         {
-          "title": "67441208/26 - Vulnérabilités affectant le navigateur Google Chrome",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-55",
-          "date": " ",
-          "description": "Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs vulnérabilités   affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut…"
+          "title": "2026-004: Critical Vulnerability in SharePoint Exploited",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-004/",
+          "date": "Wednesday, March 25, 2026 08:51:39 AM CET",
+          "description": "On 17 March 2026, Microsoft updated one of its January 2026 security advisories related to a remote code execution vulnerability in Microsoft SharePoint. Specifically, Microsoft raised the CVSS score and changed the FAQ section to indicate that the vulnerability could be exploited by an unauthenticated attacker. This vulnerability was added in the CISA's Known Exploited Vulnerabilities (KEV) catalogue on 18 March 2026."
         },
         {
-          "title": "67431208/26 - Vulnérabilités affectant des produits Zoom",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-zoom",
-          "date": " ",
-          "description": "Zoom annonce la correction de plusieurs vulnérabilités affectant ses produits susmentionnés.  L'exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code à distance…"
+          "title": "2026-003: Multiple Vulnerabilities in Citrix NetScaler and Citrix ADC",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-003/",
+          "date": "Monday, March 23, 2026 07:03:59 PM CET",
+          "description": "On 23 March 2026, Citrix published a security advisory addressing multiple vulnerabilities affecting NetScaler ADC and NetScaler Gateway. These vulnerabilities may lead to sensitive information disclosure and user session mix-up under specific configurations."
         },
         {
-          "title": "67421208/26 - Vulnérabilité critique activement exploitée affectant Cisco Secure…",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-activement-exploitee-affectant-cisco-secure-firewall-adaptive",
-          "date": " ",
-          "description": "Cisco annonce la correction d’une vulnérabilité critique affectant ses produits «Cisco Secure Firewall Adaptive Security Appliance Software » et « Cisco Secure Firewall Threat Defense…"
+          "title": "2026-002: Multiple Vulnerabilities in Cisco Products",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-002/",
+          "date": "Thursday, February 26, 2026 07:38:52 PM CET",
+          "description": "On 25 February 2026, Cisco released security advisories addressing multiple high and critical severity vulnerabilities in Cisco Catalyst SD-WAN controllers and Cisco SD-WAN Manager. If exploited, these vulnerabilities could allow attackers to gain administrative access to compromised systems."
         },
         {
-          "title": "67411208/26 - Vulnérabilités critiques affectant plusieurs produits d’Adobe",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-plusieurs-produits-dadobe-3",
-          "date": " ",
-          "description": "Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités critiques affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre…"
-        },
-        {
-          "title": "67401208/26 - Vulnérabilités affectant plusieurs produits Microsoft (Patch Tuesday…",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-microsoft-patch-tuesday-aout-2026",
-          "date": " ",
-          "description": "Microsoft annonce la correction de plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces  vulnérabilités peut       permettre à un attaquant…"
+          "title": "2026-001: Critical vulnerabilities in Ivanti EPMM",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-001/",
+          "date": "Friday, January 30, 2026 10:09:06 AM CET",
+          "description": "On 29 January 2026, Ivanti released a security advisory addressing two critical vulnerabilities in their EPMM products. An attacker could exploit those flaws to achieve unauthenticated remote code execution on the vulnerable device. One of these vulnerabilities have been exploited in a limited number of cases."
         }
       ]
     }
