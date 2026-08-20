@@ -1,8 +1,14 @@
 {
-  "generated_at": "2026-08-19T15:24:12.415165+00:00",
+  "generated_at": "2026-08-20T15:27:00.648958+00:00",
   "sources": {
     "US-CERT": {
       "items": [
+        {
+          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/08/19/cisa-adds-one-known-exploited-vulnerability-catalog",
+          "date": "Aug 19, 2026",
+          "description": "Visit link for details."
+        },
         {
           "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
           "link": "https://www.cisa.gov/news-events/alerts/2026/08/18/cisa-adds-four-known-exploited-vulnerabilities-catalog",
@@ -56,12 +62,6 @@
           "link": "https://www.cisa.gov/news-events/alerts/2026/07/29/cisa-adds-one-known-exploited-vulnerability-catalog",
           "date": "Jul 29, 2026",
           "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/07/27/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-          "date": "Jul 27, 2026",
-          "description": "Visit link for details."
         }
       ]
     },
@@ -87,12 +87,6 @@
         },
         {
           "title": "XLSX formula injection in exports (CVE-2026-12862)",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "Jun 22, 2026",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Authentication Bypass for SafeLine SL6 and SL6+ (CVE-2025-4994)",
           "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
           "date": "Jun 22, 2026",
           "description": "Visit link for details"
@@ -126,78 +120,50 @@
           "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
           "date": "",
           "description": "Visit link for details"
+        },
+        {
+          "title": "",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "",
+          "description": "Visit link for details"
         }
       ]
     },
     "ZERODAYINITIATIVE": {
       "items": []
     },
-    "VulDB": {
-      "items": [
-        {
-          "title": "CVE-2026-76239  Eidetic Labs Stigmem up to 0.9.0a10 Webhook Subscription delivery_address server-side request forgery",
-          "link": "https://vuldb.com/vuln/393148",
-          "date": "Wed, 19 Aug 2026 17:14:11 +0200",
-          "description": "A vulnerability classified as critical has been found in Eidetic Labs Stigmem up to 0.9.0a10. The impacted element is an unknown function of the component Webhook Subscription. Performing a manipulati"
-        },
-        {
-          "title": "CVE-2026-76225  ArcadeData ArcadeDB up to 26.8.0 OpenCypher LOAD CSV implementation server-side request forgery",
-          "link": "https://vuldb.com/vuln/393147",
-          "date": "Wed, 19 Aug 2026 17:13:45 +0200",
-          "description": "A vulnerability described as problematic has been identified in ArcadeData ArcadeDB up to 26.8.0. The affected element is an unknown function of the component OpenCypher LOAD CSV implementation. Such"
-        },
-        {
-          "title": "CVE-2026-76243  eidetic-labs stigmem up to 0.9.0a1 privileges management",
-          "link": "https://vuldb.com/vuln/393146",
-          "date": "Wed, 19 Aug 2026 17:13:12 +0200",
-          "description": "A vulnerability marked as critical has been reported in eidetic-labs stigmem up to 0.9.0a1. Impacted is an unknown function. This manipulation causes improper privilege management.This vulnerability"
-        },
-        {
-          "title": "CVE-2026-76241  eidetic-labs stigmem up to 0.9.0a1 signature verification",
-          "link": "https://vuldb.com/vuln/393145",
-          "date": "Wed, 19 Aug 2026 17:12:55 +0200",
-          "description": "A vulnerability labeled as critical has been found in eidetic-labs stigmem up to 0.9.0a1. This issue affects some unknown processing. The manipulation results in improper verification of cryptographic"
-        },
-        {
-          "title": "CVE-2026-76245  eidetic-labs stigmem up to 0.9.0a1 Federation toctou",
-          "link": "https://vuldb.com/vuln/393144",
-          "date": "Wed, 19 Aug 2026 17:12:12 +0200",
-          "description": "A vulnerability identified as problematic has been detected in eidetic-labs stigmem up to 0.9.0a1. This vulnerability affects unknown code of the component Federation. The manipulation leads to time-o"
-        },
-        {
-          "title": "CVE-2026-76236  eidetic-labs stigmem up to 0.9.0a11 Tombstone Mechanism _get_tombstone_filter tenant_id authorization",
-          "link": "https://vuldb.com/vuln/393143",
-          "date": "Wed, 19 Aug 2026 17:11:44 +0200",
-          "description": "A vulnerability categorized as critical has been discovered in eidetic-labs stigmem up to 0.9.0a11. This affects the function _get_tombstone_filter of the component Tombstone Mechanism. Executing a ma"
-        },
-        {
-          "title": "CVE-2026-76234  celabshq libcrux libcrux-ecdh/libcrux-ed25519/libcrux-psq input validation",
-          "link": "https://vuldb.com/vuln/393142",
-          "date": "Wed, 19 Aug 2026 17:11:12 +0200",
-          "description": "A vulnerability was found in celabshq libcrux. It has been rated as problematic. Affected by this issue is some unknown functionality of the component libcrux-ecdh/libcrux-ed25519/libcrux-psq. Perform"
-        },
-        {
-          "title": "CVE-2026-76233  RenovateBot Renovate up to 40.32.x Gleam Manager gleam.toml depName command injection",
-          "link": "https://vuldb.com/vuln/393141",
-          "date": "Wed, 19 Aug 2026 17:10:45 +0200",
-          "description": "A vulnerability was found in RenovateBot Renovate up to 40.32.x. It has been declared as problematic. Affected by this vulnerability is an unknown functionality of the file gleam.toml of the component"
-        },
-        {
-          "title": "CVE-2026-56797  Dell Command Update up to 5.7.0 toctou",
-          "link": "https://vuldb.com/vuln/393140",
-          "date": "Wed, 19 Aug 2026 17:10:08 +0200",
-          "description": "A vulnerability was found in Dell Command Update up to 5.7.0. It has been classified as very critical. Affected is an unknown function. This manipulation causes time-of-check time-of-use.The identif"
-        },
-        {
-          "title": "CVE-2026-56796  Dell Command Update up to 5.7.0 path traversal",
-          "link": "https://vuldb.com/vuln/393139",
-          "date": "Wed, 19 Aug 2026 17:09:42 +0200",
-          "description": "A vulnerability was found in Dell Command Update up to 5.7.0 and classified as very critical. This impacts an unknown function. The manipulation results in path traversal.This vulnerability was name"
-        }
-      ]
-    },
     "CERT-FR": {
       "items": [
+        {
+          "title": "Multiples vulnérabilités dans Microsoft Windows",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1060/",
+          "date": "Publié le 20 août 2026",
+          "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Windows. Elles permettent à un attaquant de provoquer une élévation de privilèges et une atteinte à la confidentialité des données."
+        },
+        {
+          "title": "Multiples vulnérabilités dans les produits Citrix",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1059/",
+          "date": "Publié le 20 août 2026",
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Citrix. Elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur."
+        },
+        {
+          "title": "Multiples vulnérabilités dans les produits Cisco",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1058/",
+          "date": "Publié le 20 août 2026",
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données."
+        },
+        {
+          "title": "Multiples vulnérabilités dans Ceph",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1057/",
+          "date": "Publié le 20 août 2026",
+          "description": "De multiples vulnérabilités ont été découvertes dans Ceph. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un contournement de la politique de sécurité."
+        },
+        {
+          "title": "Multiples vulnérabilités dans les produits Splunk",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1056/",
+          "date": "Publié le 20 août 2026",
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Splunk. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données."
+        },
         {
           "title": "Vulnérabilité dans les produits Moxa",
           "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1055/",
@@ -227,41 +193,87 @@
           "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1051/",
           "date": "Publié le 19 août 2026",
           "description": "De multiples vulnérabilités ont été découvertes dans Oracle Systems. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une atteinte à l'intégrité des données."
+        }
+      ]
+    },
+    "VulDB": {
+      "items": [
+        {
+          "title": "CVE-2026-16932  IBM AIX/PowerVM VIOS os command injection",
+          "link": "https://vuldb.com/vuln/393769",
+          "date": "Thu, 20 Aug 2026 17:06:03 +0200",
+          "description": "A vulnerability was found in IBM AIX and PowerVM VIOS and classified as very critical. Affected by this issue is some unknown functionality. The manipulation results in os command injection.This vul"
         },
         {
-          "title": "Multiples vulnérabilités dans Oracle PeopleSoft",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1050/",
-          "date": "Publié le 19 août 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans Oracle PeopleSoft. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un déni de service."
+          "title": "CVE-2026-16925  IBM AIX/PowerVM VIOS 4.1/7.2/7.3 improper authorization",
+          "link": "https://vuldb.com/vuln/393768",
+          "date": "Thu, 20 Aug 2026 17:05:32 +0200",
+          "description": "A vulnerability has been found in IBM AIX and PowerVM VIOS 7.2/7.3/4.1 and classified as problematic. Affected by this vulnerability is an unknown functionality. The manipulation leads to improper aut"
         },
         {
-          "title": "Multiples vulnérabilités dans Oracle MySQL",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1049/",
-          "date": "Publié le 19 août 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans Oracle MySQL. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données."
+          "title": "CVE-2026-63490  jknack handlebars.java up to 4.5.2 SpringTemplateLoader HandlebarsViewResolver.java handlebars.compile path traversal",
+          "link": "https://vuldb.com/vuln/393767",
+          "date": "Thu, 20 Aug 2026 17:05:08 +0200",
+          "description": "A vulnerability, which was classified as problematic, was found in jknack handlebars.java up to 4.5.2. Affected is the function handlebars.compile of the file handlebars-springmvc/src/main/java/com/gi"
         },
         {
-          "title": "Multiples vulnérabilités dans Oracle Java SE",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1048/",
-          "date": "Publié le 19 août 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans Oracle Java SE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données."
+          "title": "CVE-2026-16927  IBM AIX/PowerVM VIOS toctou",
+          "link": "https://vuldb.com/vuln/393766",
+          "date": "Thu, 20 Aug 2026 17:04:33 +0200",
+          "description": "A vulnerability, which was classified as very critical, has been found in IBM AIX and PowerVM VIOS. This impacts an unknown function. Performing a manipulation results in time-of-check time-of-use.T"
         },
         {
-          "title": "Multiples vulnérabilités dans Oracle Database Server",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1047/",
-          "date": "Publié le 19 août 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans Oracle Database Server. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données."
+          "title": "CVE-2026-49825  lxml up to 6.1.0 Link Attributes lxml.html.defs input validation",
+          "link": "https://vuldb.com/vuln/393765",
+          "date": "Thu, 20 Aug 2026 17:04:13 +0200",
+          "description": "A vulnerability classified as critical was found in lxml up to 6.1.0. This affects an unknown function of the file lxml.html.defs of the component Link Attributes. Such manipulation leads to improper"
         },
         {
-          "title": "Multiples vulnérabilités dans Joomla!",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1046/",
-          "date": "Publié le 19 août 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans Joomla!. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données et une injection de code indirecte à distance (XSS)."
+          "title": "CVE-2026-16928  IBM AIX/PowerVM VIOS buffer overflow",
+          "link": "https://vuldb.com/vuln/393764",
+          "date": "Thu, 20 Aug 2026 17:03:39 +0200",
+          "description": "A vulnerability classified as critical has been found in IBM AIX and PowerVM VIOS. The impacted element is an unknown function. This manipulation causes buffer overflow.This vulnerability appears as"
+        },
+        {
+          "title": "CVE-2026-16926  IBM AIX/PowerVM VIOS 4.1/7.2/7.3 neutralization",
+          "link": "https://vuldb.com/vuln/393763",
+          "date": "Thu, 20 Aug 2026 17:02:51 +0200",
+          "description": "A vulnerability described as critical has been identified in IBM AIX and PowerVM VIOS 7.2/7.3/4.1. The affected element is an unknown function. The manipulation results in improper neutralization.Th"
+        },
+        {
+          "title": "CVE-2026-16924  IBM AIX/PowerVM VIOS IPsec denial of service",
+          "link": "https://vuldb.com/vuln/393762",
+          "date": "Thu, 20 Aug 2026 17:02:32 +0200",
+          "description": "A vulnerability marked as critical has been reported in IBM AIX and PowerVM VIOS. Impacted is an unknown function of the component IPsec. The manipulation leads to denial of service.This vulnerabili"
+        },
+        {
+          "title": "CVE-2026-63016  Apache InLong privileges management",
+          "link": "https://vuldb.com/vuln/393761",
+          "date": "Thu, 20 Aug 2026 16:58:50 +0200",
+          "description": "A vulnerability labeled as problematic has been found in Apache InLong. This issue affects some unknown processing. Executing a manipulation can lead to improper privilege management.This vulnerabil"
+        },
+        {
+          "title": "CVE-2026-63015  Apache InLong Template improper authorization",
+          "link": "https://vuldb.com/vuln/393760",
+          "date": "Thu, 20 Aug 2026 16:58:29 +0200",
+          "description": "A vulnerability identified as problematic has been detected in Apache InLong. This vulnerability affects unknown code of the component Template. Performing a manipulation results in improper authoriza"
         }
       ]
     },
     "HK-CERT": {
       "items": [
+        {
+          "title": "Splunk Products Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/splunk-products-multiple-vulnerabilities_20260820",
+          "date": "Release Date: 20 Aug 2026 ",
+          "description": "Multiple vulnerabilities were identified in Splunk products. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, denial of service condition, elevation of privilege, security restriction bypass, sensitive information disclosure and remote code execution on the targeted system."
+        },
+        {
+          "title": "RedHat Linux Kernel Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20260803",
+          "date": " Release Date: 3 Aug 2026 ",
+          "description": "Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, remote code execution, denial of service condition, sensitive information disclosure and elevation of privilege on the targeted system. [Updated on 2026-08..."
+        },
         {
           "title": "GitLab Multiple Vulnerabilities",
           "link": "https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20260819",
@@ -309,87 +321,17 @@
           "link": "https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-july-2026",
           "date": " Release Date: 15 Jul 2026 ",
           "description": "[Updated on 2026-07-17]Updated Description, Risk Level and Related Links. [Updated on 2026-07-22]Updated Description and Related Links. [Updated on 2026-07-23]Updated Description and Related Links. [Updated..."
-        },
-        {
-          "title": "Microsoft Monthly Security Update (April 2026)",
-          "link": "https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-april-2026",
-          "date": " Release Date: 15 Apr 2026 ",
-          "description": "[Updated on 2026-04-17]Updated Description.Proof of Concept exploit code is publicly available for CVE-2026-33825. Insufficient granularity of access control in Microsoft Defender allows an authorized attacker to elevate privileges locally. [Updated on 2026-04..."
-        },
-        {
-          "title": "RedHat Linux Kernel Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20260803",
-          "date": " Release Date: 3 Aug 2026 ",
-          "description": "Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, remote code execution, denial of service condition, sensitive information disclosure and elevation of privilege on the targeted system. [Updated on 2026-08..."
-        }
-      ]
-    },
-    "OBS-Vigilance": {
-      "items": [
-        {
-          "title": "ansible-core: code execution via ansible-galaxy install",
-          "link": "https://vigilance.fr/vulnerability/ansible-core-code-execution-via-ansible-galaxy-install-51604",
-          "date": "Visit link for details",
-          "description": "An attacker can use a vulnerability of ansible-core, via ansible-galaxy install, in order to run code..."
-        },
-        {
-          "title": "SCRAM Java: user access via Channel-binding Authentication Downgrade",
-          "link": "https://vigilance.fr/vulnerability/SCRAM-Java-user-access-via-Channel-binding-Authentication-Downgrade-51603",
-          "date": "Visit link for details",
-          "description": "An attacker can bypass restrictions of SCRAM Java, via Channel-binding Authentication Downgrade, in order to gain user privileges..."
-        },
-        {
-          "title": "util-linux: three vulnerabilities dated 19/06/2026",
-          "link": "https://vigilance.fr/vulnerability/util-linux-three-vulnerabilities-dated-19-06-2026-51601",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of util-linux, dated 19/06/2026..."
-        },
-        {
-          "title": "OpenConnect Server: two vulnerabilities dated 19/06/2026",
-          "link": "https://vigilance.fr/vulnerability/OpenConnect-Server-two-vulnerabilities-dated-19-06-2026-51600",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of OpenConnect Server, dated 19/06/2026..."
-        },
-        {
-          "title": "SingularityCE: ingress filtering bypass via Limit Container Paths",
-          "link": "https://vigilance.fr/vulnerability/SingularityCE-ingress-filtering-bypass-via-Limit-Container-Paths-51599",
-          "date": "Visit link for details",
-          "description": "An attacker can bypass filtering rules of SingularityCE, via Limit Container Paths, in order to send malicious data..."
-        },
-        {
-          "title": "Apereo CAS Server: user access via Authentication Flows State",
-          "link": "https://vigilance.fr/vulnerability/Apereo-CAS-Server-user-access-via-Authentication-Flows-State-51597",
-          "date": "Visit link for details",
-          "description": "An attacker can bypass restrictions of Apereo CAS Server, via Authentication Flows State, in order to gain user privileges..."
-        },
-        {
-          "title": "Notepad++: code execution via WinGUp",
-          "link": "https://vigilance.fr/vulnerability/Notepad-code-execution-via-WinGUp-48813",
-          "date": "Visit link for details",
-          "description": "An attacker can use a vulnerability of Notepad++, via WinGUp, in order to run code..."
-        },
-        {
-          "title": "FortiOS: buffer overflow via CAPWAP Daemon",
-          "link": "https://vigilance.fr/vulnerability/FortiOS-buffer-overflow-via-CAPWAP-Daemon-48808",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger a buffer overflow of FortiOS, via CAPWAP Daemon, in order to trigger a denial of service, and possibly to run code..."
-        },
-        {
-          "title": "Vim: multiple vulnerabilities dated 18/06/2026",
-          "link": "https://vigilance.fr/vulnerability/Vim-multiple-vulnerabilities-dated-18-06-2026-51596",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of Vim, dated 18/06/2026..."
-        },
-        {
-          "title": "libheif: multiple vulnerabilities dated 18/06/2026",
-          "link": "https://vigilance.fr/vulnerability/libheif-multiple-vulnerabilities-dated-18-06-2026-51595",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of libheif, dated 18/06/2026..."
         }
       ]
     },
     "EU-CERT": {
       "items": [
+        {
+          "title": "2026-010: Critical Vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-010/",
+          "date": "Wednesday, August 19, 2026 06:13:47 PM CEST",
+          "description": "On 19 August 2026, Citrix published a security advisory addressing multiple critical vulnerabilities in NetScaler ADC (formerly Citrix ADC) and NetScaler Gateway (formerly Citrix Gateway)."
+        },
         {
           "title": "2026-009: Critical Vulnerabilities in Microsoft SharePoint",
           "link": "https://cert.europa.eu/publications/security-advisories/2026-009/",
@@ -446,67 +388,67 @@
         }
       ]
     },
-    "CA-CCS": {
+    "OBS-Vigilance": {
       "items": [
         {
-          "title": "Atlassian security advisory (AV26-829)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av26-829",
-          "date": "2026-08-19",
-          "description": "Visit link for details"
+          "title": "GStreamer: memory corruption via Ffmpeg Plugin",
+          "link": "https://vigilance.fr/vulnerability/GStreamer-memory-corruption-via-Ffmpeg-Plugin-51607",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger a memory corruption of GStreamer, via Ffmpeg Plugin, in order to trigger a denial of service, and possibly to run code..."
         },
         {
-          "title": "Apple security advisory (AV26-823) – Update 1",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av26-823",
-          "date": "2026-08-18",
-          "description": "Visit link for details"
+          "title": "Linux kernel: three vulnerabilities dated 19/06/2026",
+          "link": "https://vigilance.fr/vulnerability/Linux-kernel-three-vulnerabilities-dated-19-06-2026-51606",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of the Linux kernel, dated 19/06/2026..."
         },
         {
-          "title": "VMware security advisory (AV26-763) – Update 1",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av26-763",
-          "date": "2026-08-18",
-          "description": "Visit link for details"
+          "title": "Grafana: privilege escalation via SCIM",
+          "link": "https://vigilance.fr/vulnerability/Grafana-privilege-escalation-via-SCIM-48816",
+          "date": "Visit link for details",
+          "description": "An attacker can bypass restrictions of Grafana, via SCIM, in order to escalate his privileges..."
         },
         {
-          "title": "Microsoft security advisory – August 2026 monthly rollup (AV26-804) – Update 1",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-august-2026-monthly-rollup-av26-804",
-          "date": "2026-08-18",
-          "description": "Visit link for details"
+          "title": "ansible-core: code execution via ansible-galaxy install",
+          "link": "https://vigilance.fr/vulnerability/ansible-core-code-execution-via-ansible-galaxy-install-51604",
+          "date": "Visit link for details",
+          "description": "An attacker can use a vulnerability of ansible-core, via ansible-galaxy install, in order to run code..."
         },
         {
-          "title": "Mattermost security advisory (AV26-828)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/mattermost-security-advisory-av26-828",
-          "date": "2026-08-18",
-          "description": "Visit link for details"
+          "title": "SCRAM Java: user access via Channel-binding Authentication Downgrade",
+          "link": "https://vigilance.fr/vulnerability/SCRAM-Java-user-access-via-Channel-binding-Authentication-Downgrade-51603",
+          "date": "Visit link for details",
+          "description": "An attacker can bypass restrictions of SCRAM Java, via Channel-binding Authentication Downgrade, in order to gain user privileges..."
         },
         {
-          "title": "GitLab security advisory (AV26-827)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av26-827",
-          "date": "2026-08-18",
-          "description": "Visit link for details"
+          "title": "util-linux: three vulnerabilities dated 19/06/2026",
+          "link": "https://vigilance.fr/vulnerability/util-linux-three-vulnerabilities-dated-19-06-2026-51601",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of util-linux, dated 19/06/2026..."
         },
         {
-          "title": "BeyondTrust security advisory (AV26-826)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/beyondtrust-security-advisory-av26-826",
-          "date": "2026-08-18",
-          "description": "Visit link for details"
+          "title": "OpenConnect Server: two vulnerabilities dated 19/06/2026",
+          "link": "https://vigilance.fr/vulnerability/OpenConnect-Server-two-vulnerabilities-dated-19-06-2026-51600",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of OpenConnect Server, dated 19/06/2026..."
         },
         {
-          "title": "JetBrains security advisory (AV26-825)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/jetbrains-security-advisory-av26-825",
-          "date": "2026-08-18",
-          "description": "Visit link for details"
+          "title": "SingularityCE: ingress filtering bypass via Limit Container Paths",
+          "link": "https://vigilance.fr/vulnerability/SingularityCE-ingress-filtering-bypass-via-Limit-Container-Paths-51599",
+          "date": "Visit link for details",
+          "description": "An attacker can bypass filtering rules of SingularityCE, via Limit Container Paths, in order to send malicious data..."
         },
         {
-          "title": "Progress security advisory (AV26-824)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/progress-security-advisory-av26-824",
-          "date": "2026-08-17",
-          "description": "Visit link for details"
+          "title": "Apereo CAS Server: user access via Authentication Flows State",
+          "link": "https://vigilance.fr/vulnerability/Apereo-CAS-Server-user-access-via-Authentication-Flows-State-51597",
+          "date": "Visit link for details",
+          "description": "An attacker can bypass restrictions of Apereo CAS Server, via Authentication Flows State, in order to gain user privileges..."
         },
         {
-          "title": "SAP security advisory – August 2026 monthly rollup (AV26-798) – Update 1",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-august-2026-monthly-rollup-av26-798",
-          "date": "2026-08-17",
-          "description": "Visit link for details"
+          "title": "Notepad++: code execution via WinGUp",
+          "link": "https://vigilance.fr/vulnerability/Notepad-code-execution-via-WinGUp-48813",
+          "date": "Visit link for details",
+          "description": "An attacker can use a vulnerability of Notepad++, via WinGUp, in order to run code..."
         }
       ]
     },
@@ -571,6 +513,70 @@
           "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-plugin-profile-builder-pour-wordpress",
           "date": " ",
           "description": "WordPress  annonce la correction d’une vulnérabilité critique affectant le plugin   «Profile Builder». L’exploitation de cette vulnérabilité peut permettre à un …"
+        }
+      ]
+    },
+    "CA-CCS": {
+      "items": [
+        {
+          "title": "Cisco security advisory (AV26-834)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av26-834",
+          "date": "2026-08-20",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Citrix security advisory (AV26-833)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av26-833",
+          "date": "2026-08-19",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "MLflow security advisory (AV26-832)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/mlflow-security-advisory-av26-832",
+          "date": "2026-08-19",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Oracle Corporation security advisory (AV26-831)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/oracle-corporation-security-advisory-av26-831",
+          "date": "2026-08-19",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "NVIDIA security advisory (AV26-830)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/nvidia-security-advisory-av26-830",
+          "date": "2026-08-19",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Atlassian security advisory (AV26-829)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av26-829",
+          "date": "2026-08-19",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Apple security advisory (AV26-823) – Update 1",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av26-823",
+          "date": "2026-08-18",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "VMware security advisory (AV26-763) – Update 1",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av26-763",
+          "date": "2026-08-18",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Microsoft security advisory – August 2026 monthly rollup (AV26-804) – Update 1",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-august-2026-monthly-rollup-av26-804",
+          "date": "2026-08-18",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Mattermost security advisory (AV26-828)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/mattermost-security-advisory-av26-828",
+          "date": "2026-08-18",
+          "description": "Visit link for details"
         }
       ]
     }
