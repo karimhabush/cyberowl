@@ -1,8 +1,20 @@
 {
-  "generated_at": "2026-08-26T16:13:02.050878+00:00",
+  "generated_at": "2026-08-28T00:11:57.562195+00:00",
   "sources": {
     "US-CERT": {
       "items": [
+        {
+          "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/08/27/cisa-adds-three-known-exploited-vulnerabilities-catalog",
+          "date": "Aug 27, 2026",
+          "description": "Visit link for details."
+        },
+        {
+          "title": "CISA Adds Six Known Exploited Vulnerabilities to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/08/26/cisa-adds-six-known-exploited-vulnerabilities-catalog",
+          "date": "Aug 26, 2026",
+          "description": "Visit link for details."
+        },
         {
           "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
           "link": "https://www.cisa.gov/news-events/alerts/2026/08/25/cisa-adds-one-known-exploited-vulnerability-catalog",
@@ -50,23 +62,23 @@
           "link": "https://www.cisa.gov/news-events/alerts/2026/08/11/cisa-adds-three-known-exploited-vulnerabilities-catalog",
           "date": "Aug 11, 2026",
           "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/08/07/cisa-adds-one-known-exploited-vulnerability-catalog",
-          "date": "Aug 07, 2026",
-          "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/08/05/cisa-adds-one-known-exploited-vulnerability-catalog",
-          "date": "Aug 05, 2026",
-          "description": "Visit link for details."
         }
       ]
     },
     "CERT-FR": {
       "items": [
+        {
+          "title": "Multiples vulnérabilités dans Traefik",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1088/",
+          "date": "Publié le 27 août 2026",
+          "description": "De multiples vulnérabilités ont été découvertes dans Traefik. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité."
+        },
+        {
+          "title": "Vulnérabilité dans CPython",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1087/",
+          "date": "Publié le 27 août 2026",
+          "description": "Une vulnérabilité a été découverte dans CPython. Elle permet à un attaquant de provoquer un déni de service à distance."
+        },
         {
           "title": "Multiples vulnérabilités dans GitLab",
           "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1086/",
@@ -114,82 +126,134 @@
           "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1079/",
           "date": "Publié le 26 août 2026",
           "description": "De multiples vulnérabilités ont été découvertes dans OpenSSL. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité."
-        },
-        {
-          "title": "Multiples vulnérabilités dans Keycloak",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1078/",
-          "date": "Publié le 25 août 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans Keycloak. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur. Le CERT-FR a connaissance d'une preuve de concept publique pour la vulnérabilité..."
-        },
-        {
-          "title": "Multiples vulnérabilités dans Cisco IOS XE",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1077/",
-          "date": "Publié le 25 août 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans Cisco IOS XE. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur."
         }
       ]
     },
     "VulDB": {
       "items": [
         {
-          "title": "CVE-2026-80573  Linux Kernel up to 7.1.9 iforce iforce_process_packet buffer overflow",
-          "link": "https://vuldb.com/vuln/395853",
-          "date": "Wed, 26 Aug 2026 17:44:11 +0200",
-          "description": "A vulnerability, which was classified as very critical, was found in Linux Kernel up to 7.1.9. The affected element is the function iforce_process_packet of the component iforce. Such manipulation lea"
+          "title": "CVE-2026-76179  Ebyte NE2-D11 FW-9167-0-11 Web Management Interface improper authorization",
+          "link": "https://vuldb.com/vuln/396438",
+          "date": "Fri, 28 Aug 2026 01:53:42 +0200",
+          "description": "A vulnerability classified as very critical has been found in Ebyte NE2-D11 FW-9167-0-11. This affects an unknown function of the component Web Management Interface. The manipulation leads to improper"
         },
         {
-          "title": "CVE-2026-80541  Linux Kernel up to 7.1.9 amdgpu drm/amdgpu amdgpu_gem_create_ioctl input validation",
-          "link": "https://vuldb.com/vuln/395852",
-          "date": "Wed, 26 Aug 2026 17:39:18 +0200",
-          "description": "A vulnerability, which was classified as problematic, has been found in Linux Kernel up to 7.1.9. Impacted is the function amdgpu_gem_create_ioctl of the file drm/amdgpu of the component amdgpu. This"
+          "title": "CVE-2026-75813  Ebyte NE2-D11 FW-9167-0-11 improper authorization",
+          "link": "https://vuldb.com/vuln/396437",
+          "date": "Fri, 28 Aug 2026 01:53:07 +0200",
+          "description": "A vulnerability described as problematic has been identified in Ebyte NE2-D11 FW-9167-0-11. The impacted element is an unknown function. Executing a manipulation can lead to improper authorization.T"
         },
         {
-          "title": "CVE-2026-80553  Linux Kernel up to 6.6.152/6.12.104/6.18.45/7.1.9 s390-vfio_ccw _release_dev race condition",
-          "link": "https://vuldb.com/vuln/395851",
-          "date": "Wed, 26 Aug 2026 17:38:45 +0200",
-          "description": "A vulnerability classified as very critical was found in Linux Kernel up to 6.6.152/6.12.104/6.18.45/7.1.9. This issue affects the function _release_dev of the component s390-vfio_ccw. The manipulatio"
+          "title": "CVE-2026-71187  Ebyte NE2-D11 FW-9167-0-11 improper authentication",
+          "link": "https://vuldb.com/vuln/396436",
+          "date": "Fri, 28 Aug 2026 01:52:35 +0200",
+          "description": "A vulnerability marked as very critical has been reported in Ebyte NE2-D11 FW-9167-0-11. The affected element is an unknown function. Performing a manipulation results in improper authentication.Thi"
         },
         {
-          "title": "CVE-2026-80551  Linux Kernel up to 6.12.104/6.18.45/7.1.9 s390/vfio_ccw toctou",
-          "link": "https://vuldb.com/vuln/395850",
-          "date": "Wed, 26 Aug 2026 17:38:12 +0200",
-          "description": "A vulnerability classified as very critical has been found in Linux Kernel up to 6.12.104/6.18.45/7.1.9. This vulnerability affects unknown code of the component s390/vfio_ccw. The manipulation leads"
+          "title": "CVE-2026-75548  Ebyte NE2-D11 FW-9167-0-11 Web Management Interface ui layer",
+          "link": "https://vuldb.com/vuln/396435",
+          "date": "Fri, 28 Aug 2026 01:52:07 +0200",
+          "description": "A vulnerability labeled as problematic has been found in Ebyte NE2-D11 FW-9167-0-11. Impacted is an unknown function of the component Web Management Interface. Such manipulation leads to improper rest"
         },
         {
-          "title": "CVE-2026-80550  Linux Kernel up to 7.1.9 s390 vfio_ccw ccwchain_calc_length out-of-bounds",
-          "link": "https://vuldb.com/vuln/395849",
-          "date": "Wed, 26 Aug 2026 17:37:47 +0200",
-          "description": "A vulnerability described as very critical has been identified in Linux Kernel up to 7.1.9. This affects the function ccwchain_calc_length of the component s390 vfio_ccw. Executing a manipulation can"
+          "title": "CVE-2026-75418  Lektor prior 3.3.14 Preview/Development Web Server path traversal",
+          "link": "https://vuldb.com/vuln/396434",
+          "date": "Fri, 28 Aug 2026 01:51:47 +0200",
+          "description": "A vulnerability identified as problematic has been detected in Lektor prior 3.3.14. This issue affects some unknown processing of the component Preview/Development Web Server. This manipulation causes"
         },
         {
-          "title": "CVE-2026-80547  Linux Kernel up to 6.12.104/6.18.45/7.1.9 s390-vfio_ccw race condition",
-          "link": "https://vuldb.com/vuln/395848",
-          "date": "Wed, 26 Aug 2026 17:37:11 +0200",
-          "description": "A vulnerability marked as very critical has been reported in Linux Kernel up to 6.12.104/6.18.45/7.1.9. Affected by this issue is some unknown functionality of the component s390-vfio_ccw. Performing"
+          "title": "CVE-2026-73839  Ebyte NE2-D11 FW-9167-0-11 Management Interface missing encryption",
+          "link": "https://vuldb.com/vuln/396433",
+          "date": "Fri, 28 Aug 2026 01:51:18 +0200",
+          "description": "A vulnerability categorized as problematic has been discovered in Ebyte NE2-D11 FW-9167-0-11. This vulnerability affects unknown code of the component Management Interface. The manipulation results in"
         },
         {
-          "title": "CVE-2026-80546  Linux Kernel s390-zcrypt xcrb_msg_to_type6cprb_msgx integer overflow",
-          "link": "https://vuldb.com/vuln/395847",
-          "date": "Wed, 26 Aug 2026 17:36:44 +0200",
-          "description": "A vulnerability labeled as very critical has been found in Linux Kernel. Affected by this vulnerability is the function xcrb_msg_to_type6cprb_msgx of the component s390-zcrypt. Such manipulation leads"
+          "title": "CVE-2026-69658  Ebyte NE2-D11 FW-9167-0-11 missing encryption",
+          "link": "https://vuldb.com/vuln/396432",
+          "date": "Fri, 28 Aug 2026 01:50:38 +0200",
+          "description": "A vulnerability was found in Ebyte NE2-D11 FW-9167-0-11. It has been rated as problematic. This affects an unknown part. The manipulation leads to missing encryption of sensitive data.This vulnerabi"
         },
         {
-          "title": "CVE-2026-80545  Linux Kernel up to 7.1.9 s390 zcrypt xcrb_msg_to_type6_ep11cprb_msgx buffer overflow",
-          "link": "https://vuldb.com/vuln/395846",
-          "date": "Wed, 26 Aug 2026 17:36:15 +0200",
-          "description": "A vulnerability identified as very critical has been detected in Linux Kernel up to 7.1.9. Affected is the function xcrb_msg_to_type6_ep11cprb_msgx of the component s390 zcrypt. This manipulation caus"
+          "title": "CVE-2026-68967  Bendix EC80ESP+ J1708 out-of-bounds write",
+          "link": "https://vuldb.com/vuln/396431",
+          "date": "Fri, 28 Aug 2026 01:50:16 +0200",
+          "description": "A vulnerability was found in Bendix EC80ESP+ J1708, EC80ESP+ 6S, 6M, EC80ESP+ PLC, EC80ESP+ 2nd CAN, EC80ESP+ Integrated TPMS, EC80ESP 6S, EC80ESP PLC, EC80ESP 2nd CAN, EC80ESP CAN Gateway, EC80ESP 4S"
         },
         {
-          "title": "CVE-2026-80544  Linux Kernel up to 7.1.9 s390/zcrypt zcrypt_msgtype6_send_ep11_cprb memory corruption",
-          "link": "https://vuldb.com/vuln/395845",
-          "date": "Wed, 26 Aug 2026 17:35:55 +0200",
-          "description": "A vulnerability categorized as very critical has been discovered in Linux Kernel up to 7.1.9. This impacts the function zcrypt_msgtype6_send_ep11_cprb of the component s390/zcrypt. The manipulation re"
+          "title": "CVE-2026-67560  Bendix EC80ESP+ J1708 stack-based overflow",
+          "link": "https://vuldb.com/vuln/396430",
+          "date": "Fri, 28 Aug 2026 01:49:49 +0200",
+          "description": "A vulnerability was found in Bendix EC80ESP+ J1708, EC80ESP+ 6S, 6M, EC80ESP+ PLC, EC80ESP+ 2nd CAN, EC80ESP+ Integrated TPMS, EC80ESP 6S, EC80ESP PLC, EC80ESP 2nd CAN, EC80ESP CAN Gateway, EC80ESP 4S"
         },
         {
-          "title": "CVE-2026-80543  Linux Kernel up to 7.1.9 s390 zcrypt uninitialized pointer",
-          "link": "https://vuldb.com/vuln/395844",
-          "date": "Wed, 26 Aug 2026 17:35:12 +0200",
-          "description": "A vulnerability was found in Linux Kernel up to 7.1.9. It has been rated as problematic. This affects the function xcrb_msg_to_type6cprb_msgx/xcrb_msg_to_type6_ep11cprb_msgx of the component s390 zcry"
+          "title": "CVE-2026-75814  Ebyte NE2-D11 FW-9167-0-11 Web Management Interface improper authorization",
+          "link": "https://vuldb.com/vuln/396429",
+          "date": "Fri, 28 Aug 2026 01:48:46 +0200",
+          "description": "A vulnerability was found in Ebyte NE2-D11 FW-9167-0-11 and classified as very critical. Affected is an unknown function of the component Web Management Interface. Such manipulation leads to improper"
+        }
+      ]
+    },
+    "IBM-X-FORCE-EXCHANGE": {
+      "items": [
+        {
+          "title": "Digiwin｜EasyFlow .NET - Session Fixation (CVE-2026-12581)",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "Jun 22, 2026",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Digiwin｜EasyFlow .NET - Stored Cross-Site Scripting (CVE-2026-12580)",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "Jun 22, 2026",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Open redirect (CVE-2026-12863)",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "Jun 22, 2026",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "XLSX formula injection in exports (CVE-2026-12862)",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "Jun 22, 2026",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Authentication Bypass for SafeLine SL6 and SL6+ (CVE-2025-4994)",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "Jun 22, 2026",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "New vulnerability",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "Jun 22, 2026",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "",
+          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
+          "date": "",
+          "description": "Visit link for details"
         }
       ]
     },
@@ -263,18 +327,6 @@
     "HK-CERT": {
       "items": [
         {
-          "title": "Google Chrome Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20260826",
-          "date": "Release Date: 26 Aug 2026 ",
-          "description": "Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, security restriction bypass, sensitive information disclosure, remote code execution and data manipulation on the targeted system."
-        },
-        {
-          "title": "Veeam Backup & Replication Information Disclosure Vulnerability",
-          "link": "https://www.hkcert.org/security-bulletin/veeam-backup-and-replication-information-disclosure-vulnerability_20260826",
-          "date": "Release Date: 26 Aug 2026 ",
-          "description": "A vulnerability was identified in Veeam Backup & Replication.  A remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system."
-        },
-        {
           "title": "SUSE Linux Kernel Multiple Vulnerabilities",
           "link": "https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20260804",
           "date": " Release Date: 4 Aug 2026 ",
@@ -287,6 +339,42 @@
           "description": "Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, remote code execution, denial of service condition, sensitive information disclosure and elevation of privilege on the targeted system. [Updated on 2026-08..."
         },
         {
+          "title": "Microsoft Monthly Security Update (Jul 2019)",
+          "link": "https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-jul-2019",
+          "date": " Release Date: 10 Jul 2019 ",
+          "description": "[Updated on 2026-08-27]Updated Description, Source and Related Link. Microsoft has released monthly security update for their products: Vulnerable ProductSeverityImpactsNotesDetails (including CVE)Windows Moderately CriticalSecurity Restriction Bypass..."
+        },
+        {
+          "title": "F5 BIG-IP Denial of Service Vulnerability",
+          "link": "https://www.hkcert.org/security-bulletin/f5-big-ip-denial-of-service-vulnerability_20260827",
+          "date": "Release Date: 27 Aug 2026 ",
+          "description": "A vulnerability was identified in F5 BIG-IP. A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system."
+        },
+        {
+          "title": "Adobe Monthly Security Update (August 2026)",
+          "link": "https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-august-2026",
+          "date": " Release Date: 12 Aug 2026 ",
+          "description": "Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe ColdFusion Medium RiskRemote Code ExecutionDenial of ServiceCross-site ScriptingSecurity Restriction BypassElevation of..."
+        },
+        {
+          "title": "Citrix Products Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/citrix-products-multiple-vulnerabilities_20260703",
+          "date": " Release Date: 3 Jul 2026 ",
+          "description": "Multiple vulnerabilities were identified in Citrix Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and sensitive information disclosure on the targeted system. Note:CVE-2026-8451 is being exploited in the wild. The vulnerability is caused..."
+        },
+        {
+          "title": "Google Chrome Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20260826",
+          "date": "Release Date: 26 Aug 2026 ",
+          "description": "Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, security restriction bypass, sensitive information disclosure, remote code execution and data manipulation on the targeted system."
+        },
+        {
+          "title": "Veeam Backup & Replication Information Disclosure Vulnerability",
+          "link": "https://www.hkcert.org/security-bulletin/veeam-backup-and-replication-information-disclosure-vulnerability_20260826",
+          "date": "Release Date: 26 Aug 2026 ",
+          "description": "A vulnerability was identified in Veeam Backup & Replication.  A remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system."
+        },
+        {
           "title": "Ubuntu Linux Kernel Multiple Vulnerabilities",
           "link": "https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20260803",
           "date": " Release Date: 3 Aug 2026 ",
@@ -297,30 +385,6 @@
           "link": "https://www.hkcert.org/security-bulletin/oracle-products-multiple-vulnerabilities_20260121",
           "date": " Release Date: 21 Jan 2026 ",
           "description": "Multiple vulnerabilities were identified in Oracle Products, a remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. Note..."
-        },
-        {
-          "title": "Zimbra Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/zimbra-multiple-vulnerabilities_20260824",
-          "date": "Release Date: 24 Aug 2026 ",
-          "description": "Multiple vulnerabilities were identified in Zimbra. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, sensitive information disclosure, security restriction bypass and remote code execution on the targeted system. Note:CVE-2026-73570 is being exploited..."
-        },
-        {
-          "title": "Microsoft Edge Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20260824",
-          "date": "Release Date: 24 Aug 2026 ",
-          "description": "Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, security restriction bypass, sensitive information disclosure and remote code execution on the targeted system."
-        },
-        {
-          "title": "Google Chrome Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20260821",
-          "date": "Release Date: 21 Aug 2026 ",
-          "description": "Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, security restriction bypass and remote code execution on the targeted system."
-        },
-        {
-          "title": "Splunk Products Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/splunk-products-multiple-vulnerabilities_20260820",
-          "date": "Release Date: 20 Aug 2026 ",
-          "description": "Multiple vulnerabilities were identified in Splunk products. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, denial of service condition, elevation of privilege, security restriction bypass, sensitive information disclosure and remote code execution on the targeted system."
         }
       ]
     },
@@ -388,136 +452,26 @@
         }
       ]
     },
-    "IBM-X-FORCE-EXCHANGE": {
-      "items": [
-        {
-          "title": "Digiwin｜EasyFlow .NET - Session Fixation (CVE-2026-12581)",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "Jun 22, 2026",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Digiwin｜EasyFlow .NET - Stored Cross-Site Scripting (CVE-2026-12580)",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "Jun 22, 2026",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Open redirect (CVE-2026-12863)",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "Jun 22, 2026",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "XLSX formula injection in exports (CVE-2026-12862)",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "Jun 22, 2026",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Authentication Bypass for SafeLine SL6 and SL6+ (CVE-2025-4994)",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "Jun 22, 2026",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "New vulnerability",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "Jun 22, 2026",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "",
-          "link": "https://exchange.xforce.ibmcloud.com/activity/list?filter=Vulnerabilities",
-          "date": "",
-          "description": "Visit link for details"
-        }
-      ]
-    },
-    "CA-CCS": {
-      "items": [
-        {
-          "title": "Next.js security advisory (AV26-851)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/nextjs-security-advisory-av26-851",
-          "date": "2026-08-26",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "NVIDIA security advisory (AV26-849)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/nvidia-security-advisory-av26-849",
-          "date": "2026-08-26",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Adobe security advisory (AV26-848)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av26-848",
-          "date": "2026-08-26",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "WatchGuard security advisory (AV26-847)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/watchguard-security-advisory-av26-847",
-          "date": "2026-08-25",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "OpenSSL security advisory (AV26-846)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/openssl-security-advisory-av26-846",
-          "date": "2026-08-25",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Gitea security advisory (AV26-845)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/gitea-security-advisory-av26-845",
-          "date": "2026-08-25",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Google security advisory (AV26-844)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/google-security-advisory-av26-844",
-          "date": "2026-08-24",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Oracle security advisory – January 2026 quarterly rollup (AV26-042) – Update 2",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/oracle-security-advisory-january-2026-quarterly-rollup-av26-042",
-          "date": "2026-08-24",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Dell security advisory (AV26-843)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av26-843",
-          "date": "2026-08-24",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "GitLab security advisory (AV26-827) – Update 1",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av26-827",
-          "date": "2026-08-21",
-          "description": "Visit link for details"
-        }
-      ]
-    },
     "MA-CERT": {
       "items": [
+        {
+          "title": "67702708/26 - Vulnérabilité affectant Veeam Backup & Replication",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-veeam-backup-replication",
+          "date": " ",
+          "description": "Une vulnérabilité affectant les versions susmentionnées de  « Veeam Backup &   Replication »  a été corrigée.   L'exploitation de cette  vulnérabilité…"
+        },
+        {
+          "title": "67692708/26 - Vulnérabilités affectant plusieurs produits d’Adobe",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-plusieurs-produits-dadobe-31",
+          "date": " ",
+          "description": "Adobe a publié des mises à jour de sécurité qui permettent de corriger plusieurs vulnérabilités affectant ses produits susmentionnés. L’exploitation de ces vulnérabilités peut permettre à un…"
+        },
+        {
+          "title": "67682708/26 - Vulnérabilités affectant le navigateur Google Chrome",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-57",
+          "date": " ",
+          "description": "Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs vulnérabilités   affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut…"
+        },
         {
           "title": "67672408/26 - Vulnérabilités affectant Citrix NetScaler",
           "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-citrix-netscaler-1",
@@ -559,24 +513,70 @@
           "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-56",
           "date": " ",
           "description": "Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs vulnérabilités   affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut…"
+        }
+      ]
+    },
+    "CA-CCS": {
+      "items": [
+        {
+          "title": "Microsoft security advisory – August 2026 monthly rollup (AV26-804) – Update 2",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-august-2026-monthly-rollup-av26-804",
+          "date": "2026-08-27",
+          "description": "Visit link for details"
         },
         {
-          "title": "67601908/26 - Vulnérabilités affectant le navigateur Apple Safari",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-apple-safari",
-          "date": " ",
-          "description": "Apple annonce la correction de plusieurs vulnérabilités affectant certaines versions de son navigateur Safari. L’exploitation de ces vulnérabilités peut permettre à un attaquant d’exécuter du code à…"
+          "title": "Veeam security advisory (AV26-855)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/veeam-security-advisory-av26-855",
+          "date": "2026-08-27",
+          "description": "Visit link for details"
         },
         {
-          "title": "67591808/26 - Vulnérabilités critiques affectant plusieurs produits d’Apple",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-plusieurs-produits-dapple-6",
-          "date": " ",
-          "description": "Apple annonce la  correction  de plusieurs vulnérabilités critiques affectant     ses produits               …"
+          "title": "WebPros security advisory (AV26-854)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/webpros-security-advisory-av26-854",
+          "date": "2026-08-27",
+          "description": "Visit link for details"
         },
         {
-          "title": "67581808/26 - Vulnérabilités affectant le navigateur Microsoft Edge",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-microsoft-edge-19",
-          "date": " ",
-          "description": "Microsoft a publié une mise à jour de sécurité qui permet de corriger plusieurs vulnérabilités affectant le navigateur Microsoft Edge. L’exploitation de ces vulnérabilités peut permettre à un…"
+          "title": "SonicWall security advisory (AV26-853)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av26-853",
+          "date": "2026-08-27",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Citrix security advisory (AV26-645) – Update 3",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av26-645",
+          "date": "2026-08-26",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "TeamViewer security advisory (AV26-852)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/teamviewer-security-advisory-av26-852",
+          "date": "2026-08-26",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Next.js security advisory (AV26-851)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/nextjs-security-advisory-av26-851",
+          "date": "2026-08-26",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Ubiquiti security advisory (AV26-850)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/ubiquiti-security-advisory-av26-850",
+          "date": "2026-08-26",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "NVIDIA security advisory (AV26-849)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/nvidia-security-advisory-av26-849",
+          "date": "2026-08-26",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Adobe security advisory (AV26-848)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av26-848",
+          "date": "2026-08-26",
+          "description": "Visit link for details"
         }
       ]
     }
