@@ -1,70 +1,6 @@
 {
-  "generated_at": "2026-08-28T00:11:57.562195+00:00",
+  "generated_at": "2026-08-28T23:48:54.879048+00:00",
   "sources": {
-    "US-CERT": {
-      "items": [
-        {
-          "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/08/27/cisa-adds-three-known-exploited-vulnerabilities-catalog",
-          "date": "Aug 27, 2026",
-          "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds Six Known Exploited Vulnerabilities to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/08/26/cisa-adds-six-known-exploited-vulnerabilities-catalog",
-          "date": "Aug 26, 2026",
-          "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/08/25/cisa-adds-one-known-exploited-vulnerability-catalog",
-          "date": "Aug 25, 2026",
-          "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/08/24/cisa-adds-one-known-exploited-vulnerability-catalog",
-          "date": "Aug 24, 2026",
-          "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/08/21/cisa-adds-one-known-exploited-vulnerability-catalog",
-          "date": "Aug 21, 2026",
-          "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/08/20/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-          "date": "Aug 20, 2026",
-          "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/08/19/cisa-adds-one-known-exploited-vulnerability-catalog",
-          "date": "Aug 19, 2026",
-          "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/08/18/cisa-adds-four-known-exploited-vulnerabilities-catalog",
-          "date": "Aug 18, 2026",
-          "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/08/17/cisa-adds-one-known-exploited-vulnerability-catalog",
-          "date": "Aug 17, 2026",
-          "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/08/11/cisa-adds-three-known-exploited-vulnerabilities-catalog",
-          "date": "Aug 11, 2026",
-          "description": "Visit link for details."
-        }
-      ]
-    },
     "CERT-FR": {
       "items": [
         {
@@ -129,67 +65,131 @@
         }
       ]
     },
-    "VulDB": {
+    "US-CERT": {
       "items": [
         {
-          "title": "CVE-2026-76179  Ebyte NE2-D11 FW-9167-0-11 Web Management Interface improper authorization",
-          "link": "https://vuldb.com/vuln/396438",
-          "date": "Fri, 28 Aug 2026 01:53:42 +0200",
-          "description": "A vulnerability classified as very critical has been found in Ebyte NE2-D11 FW-9167-0-11. This affects an unknown function of the component Web Management Interface. The manipulation leads to improper"
+          "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/08/27/cisa-adds-three-known-exploited-vulnerabilities-catalog",
+          "date": "Aug 27, 2026",
+          "description": "Visit link for details."
         },
         {
-          "title": "CVE-2026-75813  Ebyte NE2-D11 FW-9167-0-11 improper authorization",
-          "link": "https://vuldb.com/vuln/396437",
-          "date": "Fri, 28 Aug 2026 01:53:07 +0200",
-          "description": "A vulnerability described as problematic has been identified in Ebyte NE2-D11 FW-9167-0-11. The impacted element is an unknown function. Executing a manipulation can lead to improper authorization.T"
+          "title": "CISA Adds Six Known Exploited Vulnerabilities to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/08/26/cisa-adds-six-known-exploited-vulnerabilities-catalog",
+          "date": "Aug 26, 2026",
+          "description": "Visit link for details."
         },
         {
-          "title": "CVE-2026-71187  Ebyte NE2-D11 FW-9167-0-11 improper authentication",
-          "link": "https://vuldb.com/vuln/396436",
-          "date": "Fri, 28 Aug 2026 01:52:35 +0200",
-          "description": "A vulnerability marked as very critical has been reported in Ebyte NE2-D11 FW-9167-0-11. The affected element is an unknown function. Performing a manipulation results in improper authentication.Thi"
+          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/08/25/cisa-adds-one-known-exploited-vulnerability-catalog",
+          "date": "Aug 25, 2026",
+          "description": "Visit link for details."
         },
         {
-          "title": "CVE-2026-75548  Ebyte NE2-D11 FW-9167-0-11 Web Management Interface ui layer",
-          "link": "https://vuldb.com/vuln/396435",
-          "date": "Fri, 28 Aug 2026 01:52:07 +0200",
-          "description": "A vulnerability labeled as problematic has been found in Ebyte NE2-D11 FW-9167-0-11. Impacted is an unknown function of the component Web Management Interface. Such manipulation leads to improper rest"
+          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/08/24/cisa-adds-one-known-exploited-vulnerability-catalog",
+          "date": "Aug 24, 2026",
+          "description": "Visit link for details."
         },
         {
-          "title": "CVE-2026-75418  Lektor prior 3.3.14 Preview/Development Web Server path traversal",
-          "link": "https://vuldb.com/vuln/396434",
-          "date": "Fri, 28 Aug 2026 01:51:47 +0200",
-          "description": "A vulnerability identified as problematic has been detected in Lektor prior 3.3.14. This issue affects some unknown processing of the component Preview/Development Web Server. This manipulation causes"
+          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/08/21/cisa-adds-one-known-exploited-vulnerability-catalog",
+          "date": "Aug 21, 2026",
+          "description": "Visit link for details."
         },
         {
-          "title": "CVE-2026-73839  Ebyte NE2-D11 FW-9167-0-11 Management Interface missing encryption",
-          "link": "https://vuldb.com/vuln/396433",
-          "date": "Fri, 28 Aug 2026 01:51:18 +0200",
-          "description": "A vulnerability categorized as problematic has been discovered in Ebyte NE2-D11 FW-9167-0-11. This vulnerability affects unknown code of the component Management Interface. The manipulation results in"
+          "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/08/20/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+          "date": "Aug 20, 2026",
+          "description": "Visit link for details."
         },
         {
-          "title": "CVE-2026-69658  Ebyte NE2-D11 FW-9167-0-11 missing encryption",
-          "link": "https://vuldb.com/vuln/396432",
-          "date": "Fri, 28 Aug 2026 01:50:38 +0200",
-          "description": "A vulnerability was found in Ebyte NE2-D11 FW-9167-0-11. It has been rated as problematic. This affects an unknown part. The manipulation leads to missing encryption of sensitive data.This vulnerabi"
+          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/08/19/cisa-adds-one-known-exploited-vulnerability-catalog",
+          "date": "Aug 19, 2026",
+          "description": "Visit link for details."
         },
         {
-          "title": "CVE-2026-68967  Bendix EC80ESP+ J1708 out-of-bounds write",
-          "link": "https://vuldb.com/vuln/396431",
-          "date": "Fri, 28 Aug 2026 01:50:16 +0200",
-          "description": "A vulnerability was found in Bendix EC80ESP+ J1708, EC80ESP+ 6S, 6M, EC80ESP+ PLC, EC80ESP+ 2nd CAN, EC80ESP+ Integrated TPMS, EC80ESP 6S, EC80ESP PLC, EC80ESP 2nd CAN, EC80ESP CAN Gateway, EC80ESP 4S"
+          "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/08/18/cisa-adds-four-known-exploited-vulnerabilities-catalog",
+          "date": "Aug 18, 2026",
+          "description": "Visit link for details."
         },
         {
-          "title": "CVE-2026-67560  Bendix EC80ESP+ J1708 stack-based overflow",
-          "link": "https://vuldb.com/vuln/396430",
-          "date": "Fri, 28 Aug 2026 01:49:49 +0200",
-          "description": "A vulnerability was found in Bendix EC80ESP+ J1708, EC80ESP+ 6S, 6M, EC80ESP+ PLC, EC80ESP+ 2nd CAN, EC80ESP+ Integrated TPMS, EC80ESP 6S, EC80ESP PLC, EC80ESP 2nd CAN, EC80ESP CAN Gateway, EC80ESP 4S"
+          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/08/17/cisa-adds-one-known-exploited-vulnerability-catalog",
+          "date": "Aug 17, 2026",
+          "description": "Visit link for details."
         },
         {
-          "title": "CVE-2026-75814  Ebyte NE2-D11 FW-9167-0-11 Web Management Interface improper authorization",
-          "link": "https://vuldb.com/vuln/396429",
-          "date": "Fri, 28 Aug 2026 01:48:46 +0200",
-          "description": "A vulnerability was found in Ebyte NE2-D11 FW-9167-0-11 and classified as very critical. Affected is an unknown function of the component Web Management Interface. Such manipulation leads to improper"
+          "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/08/11/cisa-adds-three-known-exploited-vulnerabilities-catalog",
+          "date": "Aug 11, 2026",
+          "description": "Visit link for details."
+        }
+      ]
+    },
+    "HK-CERT": {
+      "items": [
+        {
+          "title": "Debian Linux Kernel Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20260806",
+          "date": " Release Date: 6 Aug 2026 ",
+          "description": "Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system. [Updated on 2026-08-07]Updated Solutions, Vulnerability..."
+        },
+        {
+          "title": "RedHat Linux Kernel Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20260803",
+          "date": " Release Date: 3 Aug 2026 ",
+          "description": "Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, remote code execution, denial of service condition, sensitive information disclosure and elevation of privilege on the targeted system. [Updated on 2026-08..."
+        },
+        {
+          "title": "Ubuntu Linux Kernel Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20260803",
+          "date": " Release Date: 3 Aug 2026 ",
+          "description": "Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, security restriction bypass, sensitive information disclosure, spoofing, remote code execution and data manipulation on the targeted system. [..."
+        },
+        {
+          "title": "SUSE Linux Kernel Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20260804",
+          "date": " Release Date: 4 Aug 2026 ",
+          "description": "Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, denial of service condition, elevation of privilege, security restriction bypass, sensitive information disclosure, remote code execution and data manipulation on the..."
+        },
+        {
+          "title": "Microsoft Monthly Security Update (Jul 2019)",
+          "link": "https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-jul-2019",
+          "date": " Release Date: 10 Jul 2019 ",
+          "description": "[Updated on 2026-08-27]Updated Description, Source and Related Link. Microsoft has released monthly security update for their products: Vulnerable ProductSeverityImpactsNotesDetails (including CVE)Windows Moderately CriticalSecurity Restriction Bypass..."
+        },
+        {
+          "title": "F5 BIG-IP Denial of Service Vulnerability",
+          "link": "https://www.hkcert.org/security-bulletin/f5-big-ip-denial-of-service-vulnerability_20260827",
+          "date": "Release Date: 27 Aug 2026 ",
+          "description": "A vulnerability was identified in F5 BIG-IP. A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system."
+        },
+        {
+          "title": "Adobe Monthly Security Update (August 2026)",
+          "link": "https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-august-2026",
+          "date": " Release Date: 12 Aug 2026 ",
+          "description": "Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe ColdFusion Medium RiskRemote Code ExecutionDenial of ServiceCross-site ScriptingSecurity Restriction BypassElevation of..."
+        },
+        {
+          "title": "Citrix Products Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/citrix-products-multiple-vulnerabilities_20260703",
+          "date": " Release Date: 3 Jul 2026 ",
+          "description": "Multiple vulnerabilities were identified in Citrix Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and sensitive information disclosure on the targeted system. Note:CVE-2026-8451 is being exploited in the wild. The vulnerability is caused..."
+        },
+        {
+          "title": "Google Chrome Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20260826",
+          "date": "Release Date: 26 Aug 2026 ",
+          "description": "Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, security restriction bypass, sensitive information disclosure, remote code execution and data manipulation on the targeted system."
+        },
+        {
+          "title": "Veeam Backup & Replication Information Disclosure Vulnerability",
+          "link": "https://www.hkcert.org/security-bulletin/veeam-backup-and-replication-information-disclosure-vulnerability_20260826",
+          "date": "Release Date: 26 Aug 2026 ",
+          "description": "A vulnerability was identified in Veeam Backup & Replication.  A remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system."
         }
       ]
     },
@@ -263,6 +263,12 @@
     "OBS-Vigilance": {
       "items": [
         {
+          "title": "xdg-dbus-proxy: information disclosure via Signals",
+          "link": "https://vigilance.fr/vulnerability/xdg-dbus-proxy-information-disclosure-via-Signals-52324",
+          "date": "Visit link for details",
+          "description": "An attacker can bypass access restrictions to data of xdg-dbus-proxy, via Signals, in order to read sensitive information..."
+        },
+        {
           "title": "Erlang OTP: buffer overflow via inet_drv",
           "link": "https://vigilance.fr/vulnerability/Erlang-OTP-buffer-overflow-via-inet-drv-51718",
           "date": "Visit link for details",
@@ -315,76 +321,6 @@
           "link": "https://vigilance.fr/vulnerability/PowerDNS-DNSdist-multiple-vulnerabilities-dated-26-06-2026-51707",
           "date": "Visit link for details",
           "description": "An attacker can use several vulnerabilities of PowerDNS DNSdist, dated 26/06/2026..."
-        },
-        {
-          "title": "Perl Net-Dropbox-API: weak encryption via rand()",
-          "link": "https://vigilance.fr/vulnerability/Perl-Net-Dropbox-API-weak-encryption-via-rand-51706",
-          "date": "Visit link for details",
-          "description": "An attacker can access data on Perl Net::Dropbox::API, via rand(), in order to read sensitive information..."
-        }
-      ]
-    },
-    "HK-CERT": {
-      "items": [
-        {
-          "title": "SUSE Linux Kernel Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20260804",
-          "date": " Release Date: 4 Aug 2026 ",
-          "description": "Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, denial of service condition, elevation of privilege, security restriction bypass, sensitive information disclosure, remote code execution and data manipulation on the..."
-        },
-        {
-          "title": "RedHat Linux Kernel Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20260803",
-          "date": " Release Date: 3 Aug 2026 ",
-          "description": "Multiple vulnerabilities were identified in RedHat Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger security restriction bypass, remote code execution, denial of service condition, sensitive information disclosure and elevation of privilege on the targeted system. [Updated on 2026-08..."
-        },
-        {
-          "title": "Microsoft Monthly Security Update (Jul 2019)",
-          "link": "https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-jul-2019",
-          "date": " Release Date: 10 Jul 2019 ",
-          "description": "[Updated on 2026-08-27]Updated Description, Source and Related Link. Microsoft has released monthly security update for their products: Vulnerable ProductSeverityImpactsNotesDetails (including CVE)Windows Moderately CriticalSecurity Restriction Bypass..."
-        },
-        {
-          "title": "F5 BIG-IP Denial of Service Vulnerability",
-          "link": "https://www.hkcert.org/security-bulletin/f5-big-ip-denial-of-service-vulnerability_20260827",
-          "date": "Release Date: 27 Aug 2026 ",
-          "description": "A vulnerability was identified in F5 BIG-IP. A remote attacker could exploit this vulnerability to trigger denial of service condition on the targeted system."
-        },
-        {
-          "title": "Adobe Monthly Security Update (August 2026)",
-          "link": "https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-august-2026",
-          "date": " Release Date: 12 Aug 2026 ",
-          "description": "Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe ColdFusion Medium RiskRemote Code ExecutionDenial of ServiceCross-site ScriptingSecurity Restriction BypassElevation of..."
-        },
-        {
-          "title": "Citrix Products Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/citrix-products-multiple-vulnerabilities_20260703",
-          "date": " Release Date: 3 Jul 2026 ",
-          "description": "Multiple vulnerabilities were identified in Citrix Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and sensitive information disclosure on the targeted system. Note:CVE-2026-8451 is being exploited in the wild. The vulnerability is caused..."
-        },
-        {
-          "title": "Google Chrome Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20260826",
-          "date": "Release Date: 26 Aug 2026 ",
-          "description": "Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, security restriction bypass, sensitive information disclosure, remote code execution and data manipulation on the targeted system."
-        },
-        {
-          "title": "Veeam Backup & Replication Information Disclosure Vulnerability",
-          "link": "https://www.hkcert.org/security-bulletin/veeam-backup-and-replication-information-disclosure-vulnerability_20260826",
-          "date": "Release Date: 26 Aug 2026 ",
-          "description": "A vulnerability was identified in Veeam Backup & Replication.  A remote attacker could exploit this vulnerability to trigger sensitive information disclosure on the targeted system."
-        },
-        {
-          "title": "Ubuntu Linux Kernel Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20260803",
-          "date": " Release Date: 3 Aug 2026 ",
-          "description": "Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, security restriction bypass, sensitive information disclosure, spoofing, remote code execution and data manipulation on the targeted system. [..."
-        },
-        {
-          "title": "Oracle Products Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/oracle-products-multiple-vulnerabilities_20260121",
-          "date": " Release Date: 21 Jan 2026 ",
-          "description": "Multiple vulnerabilities were identified in Oracle Products, a remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, denial of service condition, remote code execution, sensitive information disclosure, data manipulation and security restriction bypass on the targeted system. Note..."
         }
       ]
     },
@@ -452,8 +388,90 @@
         }
       ]
     },
+    "VulDB": {
+      "items": [
+        {
+          "title": "CVE-2026-55841  Graylog up to 6.3.11/7.0.6/7.1.1 FortiGate key-value syslog parser GLFortiGateSyslogEvent.java GLFortiGateSyslogEvent.getFields escape output",
+          "link": "https://vuldb.com/vuln/396981",
+          "date": "Sat, 29 Aug 2026 01:04:23 +0200",
+          "description": "A vulnerability labeled as problematic has been found in Graylog up to 6.3.11/7.0.6/7.1.1. Affected by this issue is the function GLFortiGateSyslogEvent.getFields of the file graylog2-server/src/main/"
+        },
+        {
+          "title": "CVE-2026-55857  MariaDB Connector/J up to 2.7.13/3.3.4/3.4.2/3.5.8 PAM handler SendPamAuthPacketFactory sslMode/restrictedAuth channel accessible",
+          "link": "https://vuldb.com/vuln/396980",
+          "date": "Sat, 29 Aug 2026 01:03:51 +0200",
+          "description": "A vulnerability identified as problematic has been detected in MariaDB Connector and J up to 2.7.13/3.3.4/3.4.2/3.5.8. Affected by this vulnerability is the function SendPamAuthPacketFactory of the co"
+        },
+        {
+          "title": "CVE-2026-55856  MariaDB Corporation MariaDB Connector/J up to 2.7.13/3.3.4/3.4.2/3.5.8 Initial Handshake HandshakeResponse.encode certificate validation",
+          "link": "https://vuldb.com/vuln/396979",
+          "date": "Sat, 29 Aug 2026 01:03:19 +0200",
+          "description": "A vulnerability categorized as problematic has been discovered in MariaDB Corporation MariaDB Connector and J up to 2.7.13/3.3.4/3.4.2/3.5.8. Affected is the function HandshakeResponse.encode of the c"
+        },
+        {
+          "title": "CVE-2026-55860  MariaDB Corporation MariaDB Connector/R2DBC up to 1.4.0 AuthenticationPlugin Interface missing encryption",
+          "link": "https://vuldb.com/vuln/396978",
+          "date": "Sat, 29 Aug 2026 01:02:55 +0200",
+          "description": "A vulnerability was found in MariaDB Corporation MariaDB Connector and R2DBC up to 1.4.0. It has been rated as problematic. This impacts an unknown function of the component AuthenticationPlugin Inter"
+        },
+        {
+          "title": "CVE-2026-55859  MariaDB Corporation MariaDB Connector/R2DBC up to 1.4.0 Encoding encoding error",
+          "link": "https://vuldb.com/vuln/396977",
+          "date": "Sat, 29 Aug 2026 01:01:31 +0200",
+          "description": "A vulnerability was found in MariaDB Corporation MariaDB Connector and R2DBC up to 1.4.0. It has been declared as problematic. This affects an unknown function of the component Encoding. Executing a m"
+        },
+        {
+          "title": "CVE-2026-55858  MariaDB Corporation MariaDB Connector/J up to 2.7.13/3.3.4/3.4.2/3.5.8 Client-Side Escaping encoding error",
+          "link": "https://vuldb.com/vuln/396976",
+          "date": "Sat, 29 Aug 2026 01:01:30 +0200",
+          "description": "A vulnerability was found in MariaDB Corporation MariaDB Connector and J up to 2.7.13/3.3.4/3.4.2/3.5.8. It has been classified as problematic. The impacted element is an unknown function of the compo"
+        },
+        {
+          "title": "CVE-2026-55848  mapfish mapfish-print up to 4.0.4 GML Parser GmlLayer.java url server-side request forgery",
+          "link": "https://vuldb.com/vuln/396975",
+          "date": "Sat, 29 Aug 2026 00:51:05 +0200",
+          "description": "A vulnerability was found in mapfish mapfish-print up to 3.28.29/3.30.31/3.31.23/3.33.15/4.0.4 and classified as problematic. The affected element is an unknown function of the file core/src/main/java"
+        },
+        {
+          "title": "CVE-2026-82018  IGEL OS 11.11.149 GRUB igel.conf improper authentication",
+          "link": "https://vuldb.com/vuln/396974",
+          "date": "Sat, 29 Aug 2026 00:50:11 +0200",
+          "description": "A vulnerability has been found in IGEL OS 11.11.149 and classified as problematic. Impacted is an unknown function of the file igel.conf of the component GRUB. This manipulation causes improper authen"
+        },
+        {
+          "title": "CVE-2026-81520  MongoDB BI Connector up to 2.14.30 Sasl Authentication resource consumption",
+          "link": "https://vuldb.com/vuln/396973",
+          "date": "Sat, 29 Aug 2026 00:49:44 +0200",
+          "description": "A vulnerability, which was classified as critical, was found in MongoDB BI Connector up to 2.14.30. This issue affects some unknown processing of the component Sasl Authentication. The manipulation re"
+        },
+        {
+          "title": "CVE-2026-81533  MongoDB BI Connector ODBC Driver up to 1.4.9 buffer overflow",
+          "link": "https://vuldb.com/vuln/396972",
+          "date": "Sat, 29 Aug 2026 00:49:09 +0200",
+          "description": "A vulnerability, which was classified as problematic, has been found in MongoDB BI Connector ODBC Driver up to 1.4.9. This vulnerability affects unknown code. The manipulation leads to buffer overflow"
+        }
+      ]
+    },
     "MA-CERT": {
       "items": [
+        {
+          "title": "67732808/26 - Vulnérabilité critique affectant Next.js",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-nextjs-0",
+          "date": " ",
+          "description": "Une vulnérabilité critique affectant le Framework Next.js a été corrigée. L’exploitation de cette vulnérabilité peut permettre à un attaquant distant non authentifié d’exécuter du code."
+        },
+        {
+          "title": "67722808/26 - Vulnérabilités affectant OpenSSL",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-openssl-2",
+          "date": " ",
+          "description": "OpenSSL annonce la disponibilité d’une mise à jour de sécurité permettant la correction  de plusieurs   vulnérabilités affectant les versions susmentionnées d'OpenSSL. L’exploitation de…"
+        },
+        {
+          "title": "67712708/26 - Vulnérabilités affectant Apache Tomcat",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-apache-tomcat-5",
+          "date": " ",
+          "description": "Apache Foundation annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées de son produit Apache Tomcat. L’exploitation de ces vulnérabilités peut …"
+        },
         {
           "title": "67702708/26 - Vulnérabilité affectant Veeam Backup & Replication",
           "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-veeam-backup-replication",
@@ -495,29 +513,47 @@
           "link": "https://www.dgssi.gov.ma/fr/bulletins/mises-jour-de-securite-pour-plusieurs-produits-doracle-6",
           "date": " ",
           "description": "Oracle a publié des correctifs de sécurité pour corriger plusieurs  vulnérabilités dans le cadre de sa mise à jour trimestrielle. Les vulnérabilités traitées par ces correctifs touchent des…"
-        },
-        {
-          "title": "67631908/26 - Vulnérabilités affectant le client de messagerie Mozilla Thunderbird",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-client-de-messagerie-mozilla-thunderbird-18",
-          "date": " ",
-          "description": "Mozilla Foundation annonce la disponibilité d'une mise à jour de sécurité permettant de corriger plusieurs vulnérabilités affectant les versions susmentionnées de son client de messagerie Mozilla…"
-        },
-        {
-          "title": "67621908/26 - Vulnérabilités affectant le navigateur Mozilla Firefox",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-mozilla-firefox-31",
-          "date": " ",
-          "description": "Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la     correction de plusieurs vulnérabilités au niveau du navigateur Mozilla Firefox.…"
-        },
-        {
-          "title": "67611908/26 - Vulnérabilités affectant le navigateur Google Chrome",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-56",
-          "date": " ",
-          "description": "Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs vulnérabilités   affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut…"
         }
       ]
     },
     "CA-CCS": {
       "items": [
+        {
+          "title": "PaperCut security advisory (AV26-858) – Update 1",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/papercut-security-advisory-av26-858",
+          "date": "2026-08-28",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "cPanel security advisory (AV26-861)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/cpanel-security-advisory-av26-861",
+          "date": "2026-08-28",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Grafana security advisory (AV26-860)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/grafana-security-advisory-av26-860",
+          "date": "2026-08-28",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Redis security advisory (AV26-859)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/redis-security-advisory-av26-859",
+          "date": "2026-08-28",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "ServiceNow security advisory (AV26-857)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/servicenow-security-advisory-av26-857",
+          "date": "2026-08-28",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "[Control Systems] National Instruments security advisory (AV26-856)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/control-systems-national-instruments-security-advisory-av26-856",
+          "date": "2026-08-28",
+          "description": "Visit link for details"
+        },
         {
           "title": "Microsoft security advisory – August 2026 monthly rollup (AV26-804) – Update 2",
           "link": "https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-august-2026-monthly-rollup-av26-804",
@@ -540,42 +576,6 @@
           "title": "SonicWall security advisory (AV26-853)",
           "link": "https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av26-853",
           "date": "2026-08-27",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Citrix security advisory (AV26-645) – Update 3",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av26-645",
-          "date": "2026-08-26",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "TeamViewer security advisory (AV26-852)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/teamviewer-security-advisory-av26-852",
-          "date": "2026-08-26",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Next.js security advisory (AV26-851)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/nextjs-security-advisory-av26-851",
-          "date": "2026-08-26",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Ubiquiti security advisory (AV26-850)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/ubiquiti-security-advisory-av26-850",
-          "date": "2026-08-26",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "NVIDIA security advisory (AV26-849)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/nvidia-security-advisory-av26-849",
-          "date": "2026-08-26",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Adobe security advisory (AV26-848)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av26-848",
-          "date": "2026-08-26",
           "description": "Visit link for details"
         }
       ]
