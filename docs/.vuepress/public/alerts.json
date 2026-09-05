@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T17:58:18.769030+00:00",
+  "generated_at": "2026-09-05T17:04:08.236422+00:00",
   "sources": {
     "US-CERT": {
       "items": [
@@ -138,64 +138,64 @@
     "VulDB": {
       "items": [
         {
-          "title": "CVE-2026-57160  pjproject Generic Array Header sip_msg.c pjsip_generic_array_hdr_print buffer overflow",
-          "link": "https://vuldb.com/vuln/399103",
-          "date": "Fri, 04 Sep 2026 19:39:15 +0200",
-          "description": "A vulnerability was found in pjproject and classified as critical. Affected by this vulnerability is the function pjsip_generic_array_hdr_print of the file pjsip/src/pjsip/sip_msg.c of the component G"
+          "title": "CVE-2026-86210  SourceCodester Class and Exam Timetabling System 1.0 /delete_user_account.php ID sql injection",
+          "link": "https://vuldb.com/vuln/399345",
+          "date": "Sat, 05 Sep 2026 16:13:13 +0200",
+          "description": "A vulnerability categorized as critical has been discovered in SourceCodester Class and Exam Timetabling System 1.0. Affected by this vulnerability is an unknown functionality of the file /delete_user"
         },
         {
-          "title": "CVE-2026-57159  pjsip pjproject SDP negotiator sdp_neg.c assign_pt_and_update_map out-of-bounds",
-          "link": "https://vuldb.com/vuln/399102",
-          "date": "Fri, 04 Sep 2026 19:38:57 +0200",
-          "description": "A vulnerability has been found in pjsip pjproject and classified as critical. Affected is the function assign_pt_and_update_map of the file pjmedia/src/pjmedia/sdp_neg.c of the component SDP negotiato"
+          "title": "CVE-2026-86209  SourceCodester Class and Exam Timetabling System 1.0 /delete_user.php ID sql injection",
+          "link": "https://vuldb.com/vuln/399344",
+          "date": "Sat, 05 Sep 2026 16:13:09 +0200",
+          "description": "A vulnerability was found in SourceCodester Class and Exam Timetabling System 1.0. It has been rated as critical. Affected is an unknown function of the file /delete_user.php. This manipulation of the"
         },
         {
-          "title": "CVE-2026-80888  Linux Kernel up to 7.1.7 vmwgfx drm/vmwgfx ttm_prime_fd_to_handle denial of service",
-          "link": "https://vuldb.com/vuln/399101",
-          "date": "Fri, 04 Sep 2026 19:38:21 +0200",
-          "description": "A vulnerability, which was classified as problematic, was found in Linux Kernel up to 6.1.182/6.6.150/6.12.102/6.18.43/7.1.7. This impacts the function ttm_prime_fd_to_handle of the file drm/vmwgfx of"
+          "title": "CVE-2026-86208  SourceCodester Class and Exam Timetabling System 1.0 /delete_teacher.php ID sql injection",
+          "link": "https://vuldb.com/vuln/399343",
+          "date": "Sat, 05 Sep 2026 16:13:05 +0200",
+          "description": "A vulnerability was found in SourceCodester Class and Exam Timetabling System 1.0. It has been declared as critical. This impacts an unknown function of the file /delete_teacher.php. The manipulation"
         },
         {
-          "title": "CVE-2026-80899  Linux Kernel up to 7.1.7 EROFS/fscache comparison",
-          "link": "https://vuldb.com/vuln/399100",
-          "date": "Fri, 04 Sep 2026 19:37:46 +0200",
-          "description": "A vulnerability, which was classified as very critical, has been found in Linux Kernel up to 7.1.7. This affects an unknown function of the component EROFS/fscache. Performing a manipulation results i"
+          "title": "CVE-2026-86188  WWBN AVideo up to 29.0 YPTSocket Plugin cross site scripting",
+          "link": "https://vuldb.com/vuln/399342",
+          "date": "Sat, 05 Sep 2026 14:44:09 +0200",
+          "description": "A vulnerability was found in WWBN AVideo up to 29.0. It has been classified as problematic. This affects an unknown function of the component YPTSocket Plugin. The manipulation leads to cross site scr"
         },
         {
-          "title": "CVE-2026-80902  Linux Kernel up to 7.1.7 sun6i-dma vchan_terminate_vdesc memory leak",
-          "link": "https://vuldb.com/vuln/399099",
-          "date": "Fri, 04 Sep 2026 19:37:13 +0200",
-          "description": "A vulnerability classified as problematic was found in Linux Kernel up to 7.1.7. The impacted element is the function vchan_terminate_vdesc of the component sun6i-dma. Such manipulation leads to memor"
+          "title": "CVE-2026-86197  GetGrav up to 2.0.19 Twig Sandbox Policy Grav/Common/Assets addJs cross site scripting",
+          "link": "https://vuldb.com/vuln/399341",
+          "date": "Sat, 05 Sep 2026 14:43:43 +0200",
+          "description": "A vulnerability was found in GetGrav Grav up to 2.0.19 and classified as problematic. The impacted element is the function addJs of the file Grav/Common/Assets of the component Twig Sandbox Policy. Ex"
         },
         {
-          "title": "CVE-2026-80900  Linux Kernel up to 7.1.7 ASoC buffer overflow",
-          "link": "https://vuldb.com/vuln/399098",
-          "date": "Fri, 04 Sep 2026 19:36:39 +0200",
-          "description": "A vulnerability classified as very critical has been found in Linux Kernel up to 7.1.7. The affected element is an unknown function of the component ASoC. This manipulation causes buffer overflow.Th"
+          "title": "CVE-2026-86194  Grav Form Plugin up to 9.1.21 improper authorization",
+          "link": "https://vuldb.com/vuln/399340",
+          "date": "Sat, 05 Sep 2026 14:43:09 +0200",
+          "description": "A vulnerability has been found in Grav Form Plugin up to 9.1.21 and classified as critical. The affected element is an unknown function. Performing a manipulation results in improper authorization.T"
         },
         {
-          "title": "CVE-2026-80898  Linux Kernel up to 6.18.43/7.1.7 netfs netfs_pgpriv2_copy_to_cache buffer overflow",
-          "link": "https://vuldb.com/vuln/399097",
-          "date": "Fri, 04 Sep 2026 19:36:14 +0200",
-          "description": "A vulnerability described as very critical has been identified in Linux Kernel up to 6.18.43/7.1.7. Impacted is the function netfs_pgpriv2_copy_to_cache of the component netfs. The manipulation result"
+          "title": "CVE-2026-86196  getgrav API Plugin up to 1.0.19 Forgot-Password Endpoint redirect",
+          "link": "https://vuldb.com/vuln/399339",
+          "date": "Sat, 05 Sep 2026 14:42:39 +0200",
+          "description": "A vulnerability, which was classified as problematic, was found in getgrav API Plugin up to 1.0.19. Impacted is an unknown function of the component Forgot-Password Endpoint. Such manipulation leads t"
         },
         {
-          "title": "CVE-2026-80897  Linux Kernel up to 6.18.43/7.1.7 netfs netfs_prepare_read_iterator memory leak",
-          "link": "https://vuldb.com/vuln/399096",
-          "date": "Fri, 04 Sep 2026 19:35:47 +0200",
-          "description": "A vulnerability marked as critical has been reported in Linux Kernel up to 6.18.43/7.1.7. This issue affects the function netfs_prepare_read_iterator of the component netfs. The manipulation leads to"
+          "title": "CVE-2026-86195  GetGrav grav-plugin-api up to 1.0.19 InvitationsController stripSuperFlags privileges management",
+          "link": "https://vuldb.com/vuln/399338",
+          "date": "Sat, 05 Sep 2026 14:42:12 +0200",
+          "description": "A vulnerability, which was classified as critical, has been found in GetGrav grav-plugin-api up to 1.0.19. This issue affects the function stripSuperFlags of the component InvitationsController. This"
         },
         {
-          "title": "CVE-2026-80891  Linux Kernel up to 7.1.7 KVM input validation",
-          "link": "https://vuldb.com/vuln/399095",
-          "date": "Fri, 04 Sep 2026 19:35:10 +0200",
-          "description": "A vulnerability labeled as very critical has been found in Linux Kernel up to 6.1.182/6.6.150/6.12.102/6.18.43/7.1.7. This vulnerability affects unknown code of the component KVM. Executing a manipula"
+          "title": "CVE-2026-86193  GetGrav Grav Plugin up to 1.0.19 User Management Guards privileges management",
+          "link": "https://vuldb.com/vuln/399337",
+          "date": "Sat, 05 Sep 2026 14:41:40 +0200",
+          "description": "A vulnerability classified as problematic was found in GetGrav Grav Plugin up to 1.0.19. This vulnerability affects unknown code of the component User Management Guards. The manipulation results in im"
         },
         {
-          "title": "CVE-2026-80887  Linux Kernel up to 6.6.150/6.12.102/6.18.43/7.1.7 vmwgfx vmw_shader_define offset integer overflow",
-          "link": "https://vuldb.com/vuln/399094",
-          "date": "Fri, 04 Sep 2026 19:34:52 +0200",
-          "description": "A vulnerability identified as very critical has been detected in Linux Kernel up to 6.6.150/6.12.102/6.18.43/7.1.7. This affects the function vmw_shader_define of the component vmwgfx. Performing a ma"
+          "title": "CVE-2026-86192  SiYuan-Note SiYuan up to 3.8.1 Attribute View information disclosure",
+          "link": "https://vuldb.com/vuln/399336",
+          "date": "Sat, 05 Sep 2026 14:41:11 +0200",
+          "description": "A vulnerability classified as problematic has been found in SiYuan-Note SiYuan up to 3.8.1. This affects an unknown part of the component Attribute View. The manipulation leads to information disclosu"
         }
       ]
     },
@@ -266,6 +266,12 @@
     "OBS-Vigilance": {
       "items": [
         {
+          "title": "Node.js Next.js: code execution via React Server",
+          "link": "https://vigilance.fr/vulnerability/Node-js-Next-js-code-execution-via-React-Server-48997",
+          "date": "Visit link for details",
+          "description": "An attacker can use a vulnerability of Node.js Next.js, via React Server, in order to run code..."
+        },
+        {
           "title": "Apache httpd: privilege escalation via mod_userdir+suexec AllowOverride FileInfo",
           "link": "https://vigilance.fr/vulnerability/Apache-httpd-privilege-escalation-via-mod-userdir-suexec-AllowOverride-FileInfo-48988",
           "date": "Visit link for details",
@@ -318,12 +324,6 @@
           "link": "https://vigilance.fr/vulnerability/Nmap-out-of-bounds-memory-reading-via-ipv6-get-data-primitive-51840",
           "date": "Visit link for details",
           "description": "An attacker can force a read at an invalid memory address of Nmap, via ipv6_get_data_"
-        },
-        {
-          "title": "cpp-httplib: five vulnerabilities dated 03/07/2026",
-          "link": "https://vigilance.fr/vulnerability/cpp-httplib-five-vulnerabilities-dated-03-07-2026-51839",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of cpp-httplib, dated 03/07/2026..."
         }
       ]
     },
@@ -394,6 +394,12 @@
     "CA-CCS": {
       "items": [
         {
+          "title": "AL26-019 - Vulnerabilities impacting Citrix NetScaler ADC and NetScaler Gateway - CVE-2026-19490 and CVE-2026-19489",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/al26-019-vulnerabilities-impacting-citrix-netscaler-adc-netscaler-gateway-cve-2026-19490-cve-2026-19489",
+          "date": "2026-09-04",
+          "description": "Visit link for details"
+        },
+        {
           "title": "Google security advisory (AV26-883) – Update 1",
           "link": "https://www.cyber.gc.ca/en/alerts-advisories/google-security-advisory-av26-883",
           "date": "2026-09-04",
@@ -444,12 +450,6 @@
         {
           "title": "JFrog security advisory (AV26-867) – Update 1",
           "link": "https://www.cyber.gc.ca/en/alerts-advisories/jfrog-security-advisory-av26-867",
-          "date": "2026-09-02",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "SonicWall security advisory (AV26-872) – Update 1",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av26-872",
           "date": "2026-09-02",
           "description": "Visit link for details"
         }
