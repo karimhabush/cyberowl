@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T18:57:40.476148+00:00",
+  "generated_at": "2026-09-08T18:14:41.226547+00:00",
   "sources": {
     "US-CERT": {
       "items": [
@@ -68,6 +68,48 @@
     "CERT-FR": {
       "items": [
         {
+          "title": "Multiples vulnérabilités dans les produits SAP",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1134/",
+          "date": "Publié le 08 septembre 2026",
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance."
+        },
+        {
+          "title": "Multiples vulnérabilités dans les produits Siemens",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1133/",
+          "date": "Publié le 08 septembre 2026",
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Siemens. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et une élévation de privilèges."
+        },
+        {
+          "title": "Multiples vulnérabilités dans Schneider Electric EcoStruxure",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1132/",
+          "date": "Publié le 08 septembre 2026",
+          "description": "De multiples vulnérabilités ont été découvertes dans Schneider Electric EcoStruxure. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une falsification de requêtes côté serveur (SSRF)."
+        },
+        {
+          "title": "Multiples vulnérabilités dans Typo3",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1131/",
+          "date": "Publié le 08 septembre 2026",
+          "description": "De multiples vulnérabilités ont été découvertes dans Typo3. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité."
+        },
+        {
+          "title": "Vulnérabilité dans les produits Adobe",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1130/",
+          "date": "Publié le 08 septembre 2026",
+          "description": "Une vulnérabilité a été découverte dans les produits Adobe. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. Adobe indique que la vulnérabilité CVE-2026-75650 est activement exploitée."
+        },
+        {
+          "title": "Multiples vulnérabilités dans strongSwan",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1129/",
+          "date": "Publié le 08 septembre 2026",
+          "description": "De multiples vulnérabilités ont été découvertes dans strongSwan. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité."
+        },
+        {
+          "title": "Multiples vulnérabilités dans Mattermost Server",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1128/",
+          "date": "Publié le 08 septembre 2026",
+          "description": "De multiples vulnérabilités ont été découvertes dans Mattermost Server. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
+        },
+        {
           "title": "Multiples vulnérabilités dans Traefik",
           "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1127/",
           "date": "Publié le 07 septembre 2026",
@@ -84,134 +126,217 @@
           "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1125/",
           "date": "Publié le 07 septembre 2026",
           "description": "De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
-        },
-        {
-          "title": "Multiples vulnérabilités dans les produits Juniper Networks",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1124/",
-          "date": "Publié le 07 septembre 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Juniper Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de service à distance."
-        },
-        {
-          "title": "Multiples vulnérabilités dans MongoDB",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1123/",
-          "date": "Publié le 07 septembre 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans MongoDB. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et une injection de requêtes illégitimes par rebond (CSRF)."
-        },
-        {
-          "title": "Multiples vulnérabilités dans Roundcube Webmail",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1122/",
-          "date": "Publié le 07 septembre 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans Roundcube Webmail. Certaines d'entre elles permettent à un attaquant de provoquer une falsification de requêtes côté serveur (SSRF), une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité."
-        },
-        {
-          "title": "Multiples vulnérabilités dans les produits IBM",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1121/",
-          "date": "Publié le 04 septembre 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données."
-        },
-        {
-          "title": "Multiples vulnérabilités dans le noyau Linux de SUSE",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1120/",
-          "date": "Publié le 04 septembre 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données, un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur."
-        },
-        {
-          "title": "Multiples vulnérabilités dans le noyau Linux de Debian",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1119/",
-          "date": "Publié le 04 septembre 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service."
-        },
-        {
-          "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1118/",
-          "date": "Publié le 04 septembre 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de service à distance."
         }
       ]
     },
-    "IBM-X-FORCE-EXCHANGE": {
-      "items": []
-    },
-    "ZERODAYINITIATIVE": {
-      "items": []
+    "OBS-Vigilance": {
+      "items": [
+        {
+          "title": "GStreamer: two vulnerabilities dated 08/07/2026",
+          "link": "https://vigilance.fr/vulnerability/GStreamer-two-vulnerabilities-dated-08-07-2026-51958",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of GStreamer, dated 08/07/2026..."
+        },
+        {
+          "title": "GStreamer RealMedia: overload via FILEINFO",
+          "link": "https://vigilance.fr/vulnerability/GStreamer-RealMedia-overload-via-FILEINFO-51957",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger an overload of GStreamer RealMedia, via FILEINFO, in order to trigger a denial of service..."
+        },
+        {
+          "title": "OpenTelemetry eBPF: four vulnerabilities dated 08/07/2026",
+          "link": "https://vigilance.fr/vulnerability/OpenTelemetry-eBPF-four-vulnerabilities-dated-08-07-2026-51956",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of OpenTelemetry eBPF, dated 08/07/2026..."
+        },
+        {
+          "title": "pgx: SQL injection via Dollar Quoted String",
+          "link": "https://vigilance.fr/vulnerability/pgx-SQL-injection-via-Dollar-Quoted-String-51955",
+          "date": "Visit link for details",
+          "description": "An attacker can use a SQL injection of pgx, via Dollar Quoted String, in order to read or alter data..."
+        },
+        {
+          "title": "yaml: denial of service via RangeError",
+          "link": "https://vigilance.fr/vulnerability/yaml-denial-of-service-via-RangeError-51954",
+          "date": "Visit link for details",
+          "description": "An attacker can cause a fatal error of yaml, via RangeError, in order to trigger a denial of service..."
+        },
+        {
+          "title": "Trivy: two vulnerabilities dated 08/07/2026",
+          "link": "https://vigilance.fr/vulnerability/Trivy-two-vulnerabilities-dated-08-07-2026-51953",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of Trivy, dated 08/07/2026..."
+        },
+        {
+          "title": "Assimp: four vulnerabilities dated 08/07/2026",
+          "link": "https://vigilance.fr/vulnerability/Assimp-four-vulnerabilities-dated-08-07-2026-51952",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of Assimp, dated 08/07/2026..."
+        },
+        {
+          "title": "MessagePack: out-of-bounds memory reading via Unpacker",
+          "link": "https://vigilance.fr/vulnerability/MessagePack-out-of-bounds-memory-reading-via-Unpacker-51951",
+          "date": "Visit link for details",
+          "description": "An attacker can force a read at an invalid memory address of MessagePack, via Unpacker, in order to trigger a denial of service, or to obtain sensitive information..."
+        },
+        {
+          "title": "Radare2: use after free via gdbr_threads_list()",
+          "link": "https://vigilance.fr/vulnerability/Radare2-use-after-free-via-gdbr-threads-list-51950",
+          "date": "Visit link for details",
+          "description": "An attacker can force the reuse of a freed memory area of Radare2, via gdbr_threads_list(), in order to trigger a denial of service, and possibly to run code..."
+        },
+        {
+          "title": "GStreamer RealMedia: out-of-bounds memory reading via RealMedia MDPR",
+          "link": "https://vigilance.fr/vulnerability/GStreamer-RealMedia-out-of-bounds-memory-reading-via-RealMedia-MDPR-51949",
+          "date": "Visit link for details",
+          "description": "An attacker can force a read at an invalid memory address of GStreamer RealMedia, via RealMedia MDPR, in order to trigger a denial of service, or to obtain sensitive information..."
+        }
+      ]
     },
     "VulDB": {
       "items": [
         {
-          "title": "CVE-2026-86502  JetBrains IntelliJ IDEA up to 2026.2.1 IJent gRPC Server improper authentication",
-          "link": "https://vuldb.com/vuln/399660",
-          "date": "Mon, 07 Sep 2026 19:15:13 +0200",
-          "description": "A vulnerability, which was classified as problematic, has been found in JetBrains IntelliJ IDEA up to 2026.2.1. The impacted element is an unknown function of the component IJent gRPC Server. The mani"
+          "title": "CVE-2026-67639  Microsoft SQL Server heap-based overflow",
+          "link": "https://vuldb.com/vuln/400005",
+          "date": "Tue, 08 Sep 2026 19:52:10 +0200",
+          "description": "A vulnerability labeled as very critical has been found in Microsoft SQL Server. Affected by this vulnerability is an unknown functionality. Such manipulation leads to heap-based buffer overflow.Thi"
         },
         {
-          "title": "CVE-2026-86506  JetBrains GoLand 2019.3.2/2025.1/2026.1.3/2026.2 pprof missing authentication",
-          "link": "https://vuldb.com/vuln/399659",
-          "date": "Mon, 07 Sep 2026 19:14:30 +0200",
-          "description": "A vulnerability classified as problematic was found in JetBrains GoLand 2019.3.2/2025.1/2026.1.3/2026.2. The affected element is an unknown function of the component pprof. Executing a manipulation ca"
+          "title": "CVE-2026-67638  Microsoft SQL Server heap-based overflow",
+          "link": "https://vuldb.com/vuln/400004",
+          "date": "Tue, 08 Sep 2026 19:52:06 +0200",
+          "description": "A vulnerability identified as very critical has been detected in Microsoft SQL Server. Affected is an unknown function. This manipulation causes heap-based buffer overflow.This vulnerability appears"
         },
         {
-          "title": "CVE-2026-86505  JetBrains IntelliJ IDEA up to 2026.2.1 access control",
-          "link": "https://vuldb.com/vuln/399658",
-          "date": "Mon, 07 Sep 2026 19:14:04 +0200",
-          "description": "A vulnerability classified as problematic has been found in JetBrains IntelliJ IDEA up to 2026.2.1. Impacted is an unknown function. Performing a manipulation results in improper access controls.Thi"
+          "title": "CVE-2026-67636  Microsoft SQL Server out-of-bounds",
+          "link": "https://vuldb.com/vuln/400003",
+          "date": "Tue, 08 Sep 2026 19:51:45 +0200",
+          "description": "A vulnerability categorized as very critical has been discovered in Microsoft SQL Server. This impacts an unknown function. The manipulation results in out-of-bounds read.This vulnerability is repor"
         },
         {
-          "title": "CVE-2026-86501  JetBrains IntelliJ IDEA up to 2026.2.1 Terminal idea.log information disclosure",
-          "link": "https://vuldb.com/vuln/399657",
-          "date": "Mon, 07 Sep 2026 19:13:33 +0200",
-          "description": "A vulnerability described as problematic has been identified in JetBrains IntelliJ IDEA up to 2026.2.1. This issue affects some unknown processing of the file idea.log of the component Terminal. Such"
+          "title": "CVE-2026-67631  Microsoft SQL Server 2017/2019/2022/2025 heap-based overflow",
+          "link": "https://vuldb.com/vuln/400002",
+          "date": "Tue, 08 Sep 2026 19:51:15 +0200",
+          "description": "A vulnerability was found in Microsoft SQL Server 2017/2019/2022/2025. It has been rated as very critical. This affects an unknown function. The manipulation leads to heap-based buffer overflow.This"
         },
         {
-          "title": "CVE-2026-86500  JetBrains YouTrack up to 2026.1.14042 privileges management",
-          "link": "https://vuldb.com/vuln/399656",
-          "date": "Mon, 07 Sep 2026 19:13:13 +0200",
-          "description": "A vulnerability marked as critical has been reported in JetBrains YouTrack. This vulnerability affects unknown code. This manipulation causes improper privilege management.This vulnerability is regi"
+          "title": "CVE-2026-67633  Microsoft SQL Server out-of-bounds",
+          "link": "https://vuldb.com/vuln/400001",
+          "date": "Tue, 08 Sep 2026 19:51:11 +0200",
+          "description": "A vulnerability was found in Microsoft SQL Server. It has been declared as critical. The impacted element is an unknown function. Executing a manipulation can lead to out-of-bounds read.This vulnera"
         },
         {
-          "title": "CVE-2026-86499  JetBrains YouTrack up to 2026.1.14046 Search Field permission",
-          "link": "https://vuldb.com/vuln/399655",
-          "date": "Mon, 07 Sep 2026 19:12:39 +0200",
-          "description": "A vulnerability labeled as problematic has been found in JetBrains YouTrack up to 2026.1.14046. This affects an unknown part of the component Search Field. The manipulation results in permission issue"
+          "title": "CVE-2026-67388  Microsoft SQL Server up to 2025 for x64-based Systems buffer overflow",
+          "link": "https://vuldb.com/vuln/400000",
+          "date": "Tue, 08 Sep 2026 19:50:48 +0200",
+          "description": "A vulnerability was found in Microsoft SQL Server 2017/2019/2022/2025/2025 for x64-based Systems. It has been classified as very critical. The affected element is an unknown function. Performing a man"
         },
         {
-          "title": "CVE-2026-86497  JetBrains YouTrack up to 2026.2.18768 Mailbox Host improper authentication",
-          "link": "https://vuldb.com/vuln/399654",
-          "date": "Mon, 07 Sep 2026 19:12:08 +0200",
-          "description": "A vulnerability identified as problematic has been detected in JetBrains YouTrack up to 2026.2.18768. Affected by this issue is some unknown functionality of the component Mailbox Host. The manipulati"
+          "title": "CVE-2026-67385  Microsoft SQL Server 2017/2019/2022/2025 use after free",
+          "link": "https://vuldb.com/vuln/399999",
+          "date": "Tue, 08 Sep 2026 19:50:19 +0200",
+          "description": "A vulnerability was found in Microsoft SQL Server 2017/2019/2022/2025 and classified as very critical. Impacted is an unknown function. Such manipulation leads to use after free.This vulnerability i"
         },
         {
-          "title": "CVE-2026-86496  JetBrains YouTrack up to 2026.2.18687 Helpdesk access control",
-          "link": "https://vuldb.com/vuln/399653",
-          "date": "Mon, 07 Sep 2026 19:11:41 +0200",
-          "description": "A vulnerability categorized as problematic has been discovered in JetBrains YouTrack. Affected by this vulnerability is an unknown functionality of the component Helpdesk. Executing a manipulation can"
+          "title": "CVE-2026-67384  Microsoft SQL Server 2017/2019/2022/2025 integer overflow",
+          "link": "https://vuldb.com/vuln/399998",
+          "date": "Tue, 08 Sep 2026 19:50:04 +0200",
+          "description": "A vulnerability has been found in Microsoft SQL Server 2017/2019/2022/2025 and classified as very critical. This issue affects some unknown processing. This manipulation causes integer overflow.This"
         },
         {
-          "title": "CVE-2026-86495  JetBrains YouTrack up to 2026.2.18634 Knowledge Base permission",
-          "link": "https://vuldb.com/vuln/399652",
-          "date": "Mon, 07 Sep 2026 19:11:06 +0200",
-          "description": "A vulnerability was found in JetBrains YouTrack. It has been rated as problematic. Affected is an unknown function of the component Knowledge Base. Performing a manipulation results in permission issu"
+          "title": "CVE-2026-67381  Microsoft SQL Server 2017/2019/2022/2025 heap-based overflow",
+          "link": "https://vuldb.com/vuln/399997",
+          "date": "Tue, 08 Sep 2026 19:49:45 +0200",
+          "description": "A vulnerability, which was classified as very critical, was found in Microsoft SQL Server 2017/2019/2022/2025. This vulnerability affects unknown code. The manipulation results in heap-based buffer ov"
         },
         {
-          "title": "CVE-2026-86494  JetBrains YouTrack up to 2026.2.18633 Whiteboard improper authorization",
-          "link": "https://vuldb.com/vuln/399651",
-          "date": "Mon, 07 Sep 2026 19:10:47 +0200",
-          "description": "A vulnerability was found in JetBrains YouTrack up to 2026.2.18633. It has been declared as problematic. This impacts an unknown function of the component Whiteboard. Such manipulation leads to improp"
+          "title": "CVE-2026-67380  Microsoft SQL Server 2017/2019/2022/2025 heap-based overflow",
+          "link": "https://vuldb.com/vuln/399996",
+          "date": "Tue, 08 Sep 2026 19:49:28 +0200",
+          "description": "A vulnerability, which was classified as very critical, has been found in Microsoft SQL Server 2017/2019/2022/2025. This affects an unknown part. The manipulation leads to heap-based buffer overflow."
+        }
+      ]
+    },
+    "ZERODAYINITIATIVE": {
+      "items": []
+    },
+    "CA-CCS": {
+      "items": [
+        {
+          "title": "OpenVPN security advisory (AV26-889)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/openvpn-security-advisory-av26-889",
+          "date": "2026-09-08",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Adobe security advisory (AV26-888)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av26-888",
+          "date": "2026-09-08",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Mikrotik security advisory (AV26-887)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/mikrotik-security-advisory-av26-887",
+          "date": "2026-09-08",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Dell security advisory (AV26-886)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av26-886",
+          "date": "2026-09-08",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "N-able security advisory (AV26-885)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/n-able-security-advisory-av26-885",
+          "date": "2026-09-08",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "SonicWall security advisory (AV26-884)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av26-884",
+          "date": "2026-09-08",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "AL26-019 - Vulnerabilities impacting Citrix NetScaler ADC and NetScaler Gateway - CVE-2026-19490 and CVE-2026-19489",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/al26-019-vulnerabilities-impacting-citrix-netscaler-adc-netscaler-gateway-cve-2026-19490-cve-2026-19489",
+          "date": "2026-09-04",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Google security advisory (AV26-883) – Update 1",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/google-security-advisory-av26-883",
+          "date": "2026-09-04",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "SUSE Linux security advisory (AV26-882)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/suse-linux-security-advisory-av26-882",
+          "date": "2026-09-03",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "[Control Systems] Siemens security advisory (AV26-881)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av26-881",
+          "date": "2026-09-03",
+          "description": "Visit link for details"
         }
       ]
     },
     "HK-CERT": {
       "items": [
         {
+          "title": "Ubuntu Linux Kernel Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20260907",
+          "date": " Release Date: 7 Sep 2026 ",
+          "description": "Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, security restriction bypass, sensitive information disclosure, remote code execution and data manipulation on the targeted system. [Updated on..."
+        },
+        {
           "title": "Aruba Products Multiple Vulnerabilities",
           "link": "https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20260907",
           "date": "Release Date: 7 Sep 2026 ",
           "description": "Multiple vulnerabilities were identified in Aruba Products. A remote attacker could exploit these vulnerabilities to trigger security restriction bypass, denial of service condition, cross-site scripting, sensitive information disclosure, elevation of privilege and remote code execution on the targeted system."
-        },
-        {
-          "title": "Ubuntu Linux Kernel Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20260907",
-          "date": "Release Date: 7 Sep 2026 ",
-          "description": "Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, security restriction bypass and sensitive information disclosure on the targeted system."
         },
         {
           "title": "RedHat Linux Kernel Multiple Vulnerabilities",
@@ -327,72 +452,53 @@
         }
       ]
     },
-    "OBS-Vigilance": {
-      "items": [
-        {
-          "title": "go-ntlmssp: denial of service via NTLM Challenge Message",
-          "link": "https://vigilance.fr/vulnerability/go-ntlmssp-denial-of-service-via-NTLM-Challenge-Message-51915",
-          "date": "Visit link for details",
-          "description": "An attacker can cause a fatal error of go-ntlmssp, via NTLM Challenge Message, in order to trigger a denial of service..."
-        },
-        {
-          "title": "IBM API Connect: user access via Default Credentials",
-          "link": "https://vigilance.fr/vulnerability/IBM-API-Connect-user-access-via-Default-Credentials-51914",
-          "date": "Visit link for details",
-          "description": "An attacker can bypass restrictions of IBM API Connect, via Default Credentials, in order to gain user privileges..."
-        },
-        {
-          "title": "jsdiff: overload via parsePatch",
-          "link": "https://vigilance.fr/vulnerability/jsdiff-overload-via-parsePatch-51913",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger an overload of jsdiff, via parsePatch, in order to trigger a denial of service..."
-        },
-        {
-          "title": "IBM API Connect: SQL injection via Password Reset",
-          "link": "https://vigilance.fr/vulnerability/IBM-API-Connect-SQL-injection-via-Password-Reset-51912",
-          "date": "Visit link for details",
-          "description": "An attacker can use a SQL injection of IBM API Connect, via Password Reset, in order to read or alter data..."
-        },
-        {
-          "title": "Musl Libc: overload via iconv",
-          "link": "https://vigilance.fr/vulnerability/Musl-Libc-overload-via-iconv-51911",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger an overload of Musl Libc, via iconv, in order to trigger a denial of service..."
-        },
-        {
-          "title": "Yeoman: code execution via installLocalGenerators()",
-          "link": "https://vigilance.fr/vulnerability/Yeoman-code-execution-via-installLocalGenerators-51910",
-          "date": "Visit link for details",
-          "description": "An attacker can use a vulnerability of Yeoman, via installLocalGenerato"
-        },
-        {
-          "title": "Musl Libc: memory corruption via qsort()",
-          "link": "https://vigilance.fr/vulnerability/Musl-Libc-memory-corruption-via-qsort-51909",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger a memory corruption of Musl Libc, via qsort(), in order to trigger a denial of service, and possibly to run code..."
-        },
-        {
-          "title": "PsySH: code execution via Current Working Directory",
-          "link": "https://vigilance.fr/vulnerability/PsySH-code-execution-via-Current-Working-Directory-51908",
-          "date": "Visit link for details",
-          "description": "An attacker can use a vulnerability of PsySH, via Current Working Directory, in order to run code..."
-        },
-        {
-          "title": "coreDNS: two vulnerabilities dated 07/07/2026",
-          "link": "https://vigilance.fr/vulnerability/coreDNS-two-vulnerabilities-dated-07-07-2026-51907",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of coreDNS, dated 07/07/2026..."
-        },
-        {
-          "title": "Axios: multiple vulnerabilities dated 07/07/2026",
-          "link": "https://vigilance.fr/vulnerability/Axios-multiple-vulnerabilities-dated-07-07-2026-51906",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of Axios, dated 07/07/2026..."
-        }
-      ]
+    "IBM-X-FORCE-EXCHANGE": {
+      "items": []
     },
     "MA-CERT": {
       "items": [
+        {
+          "title": "68100809/26 - Vulnérabilités critiques dans Dell Secure Connect Gateway",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-dell-secure-connect-gateway",
+          "date": " ",
+          "description": "Dell a publié une mise à jour de sécurité corrigeant plusieurs vulnérabilités critiques affectant Secure Connect Gateway. Leur exploitation pourrait permettre l’exécution de commandes à distance, le…"
+        },
+        {
+          "title": "68090809/26 - Vulnérabilités dans les produits JetBrains",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-jetbrains-1",
+          "date": " ",
+          "description": "JetBrains a publié des mises à jour de sécurité corrigeant plusieurs vulnérabilités dans ses produits. Leur exploitation peut permettre à un attaquant d’exécuter du code, d’élever ses privilèges, de…"
+        },
+        {
+          "title": "68080809/26 - Vulnérabilités affectant Juniper Junos OS",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-juniper-junos-os-1",
+          "date": " ",
+          "description": "Juniper annonce la correction de plusieurs vulnérabilités   affectant les versions susmentionnées de son produit Junos OS.   Un attaquant pourrait exploiter ces…"
+        },
+        {
+          "title": "68070809/26 - Vulnérabilités critiques dans les produits SAP",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-sap-15",
+          "date": " ",
+          "description": "SAP annonce la disponibilité de mises à jour de sécurité permettant de corriger plusieurs vulnérabilités critiques affectant notamment SAP NetWeaver, SAP S/4HANA, SAP Commerce Cloud, SAP Integration…"
+        },
+        {
+          "title": "68060809/26 - Vulnérabilité affectant F5 BIG-IP DNS",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-f5-big-ip-dns",
+          "date": " ",
+          "description": "F5 Networks annonce la correction d’une vulnérabilité affectant son produit  F5 BIG-IP DNS. Un attaquant peut exploiter cette vulnérabilité pour causer un déni de service."
+        },
+        {
+          "title": "68050809/26 - Zero-day dans Adobe Commerce et Magento Open Source (« StyleSmuggler »)",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/zero-day-dans-adobe-commerce-et-magento-open-source-stylesmuggler",
+          "date": " ",
+          "description": "Adobe a publié un correctif d'urgence hors cycle pour un zero-day, surnommée « StyleSmuggler ». Cette faille permet à un attaquant non authentifié d'exécuter du code arbitraire à distance, sans aucune…"
+        },
+        {
+          "title": "68040809/26 - Exploitation active d’une vulnérabilité critique affectant Citrix NetScaler",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/exploitation-active-dune-vulnerabilite-critique-affectant-citrix-netscaler",
+          "date": " ",
+          "description": "Des tentatives d’exploitation ont été observées depuis le 3 septembre 2026, ciblant des équipements Citrix NetScaler exposés sur Internet. Elles concernent la vulnérabilité critique « CVE-2026-19490…"
+        },
         {
           "title": "68000709/26 - Vulnérabilités affectant Traefik",
           "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-traefik",
@@ -410,112 +516,6 @@
           "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-roundcube-webmail-3",
           "date": " ",
           "description": "Plusieurs vulnérabilités ont été corrigées dans Roundcube Webmail. L’exploitation de ces vulnérabilités pourrait permettre à un attaquant à un attaquant de provoquer une injection de code indirecte à…"
-        },
-        {
-          "title": "67980709/26 - Vulnérabilités critiques dans N-central",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-n-central",
-          "date": " ",
-          "description": "Plusieurs vulnérabilités critiques ont été corrigées dans les versions susmentionnées de N-central. L’exploitation de ces failles pourrait permettre à un attaquant de contourner l’authentification et…"
-        },
-        {
-          "title": "6802709/26 - Vulnérabilités affectant MikroTik RouterOS",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-mikrotik-routeros",
-          "date": " ",
-          "description": "MikroTik  annonce la correction se plusieurs vulnérabilités  affectant les versions susmentionnées MikroTik RouterOS. L'exploitation de ces vulnérabilités peut  permettre à un…"
-        },
-        {
-          "title": "67970709/26 - Vulnérabilités critiques dans les produits IBM",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-ibm-4",
-          "date": " ",
-          "description": "IBM a publié des mises à jour de sécurité corrigeant plusieurs vulnérabilités affectant les produits IBM susmentionnés. Leur exploitation pourrait permettre à un attaquant d’exécuter du code ou des…"
-        },
-        {
-          "title": "67960709/26 - Vulnérabilités critiques dans Google Chrome",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-google-chrome-15",
-          "date": " ",
-          "description": "Google a publié des mises à jour de sécurité visant à corriger plusieurs vulnérabilités critiques affectant le navigateur Google Chrome. Parmi celles-ci, un zero-day, identifié sous la référence «…"
-        },
-        {
-          "title": "67950409/26 - Vulnérabilités dans les produits Microsoft",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-microsoft-0",
-          "date": " ",
-          "description": "Microsoft a publié des mises à jour de sécurité corrigeant plusieurs vulnérabilités affectant les produits susmentionnés. Leur exploitation pourrait permettre à un attaquant de contourner des…"
-        },
-        {
-          "title": "67940409/26 - Vulnérabilité critique dans ASUS Control Center Enterprise (ACC)",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-asus-control-center-enterprise-acc",
-          "date": " ",
-          "description": "Une vulnérabilité critique a été corrigée dans ASUS Control Center Enterprise (ACC).  L’exploitation de cette faille peut permettre à un attaquant distant non authentifié de contourner…"
-        },
-        {
-          "title": "67930409/26 - Vulnérabilités critiques dans le noyau Linux",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-le-noyau-linux-0",
-          "date": " ",
-          "description": "Plusieurs vulnérabilités critiques ont été identifiées dans les versions susmentionnées des noyaux Linux. Leur exploitation pourrait permettre à un attaquant de provoquer une divulgation…"
-        }
-      ]
-    },
-    "CA-CCS": {
-      "items": [
-        {
-          "title": "AL26-019 - Vulnerabilities impacting Citrix NetScaler ADC and NetScaler Gateway - CVE-2026-19490 and CVE-2026-19489",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/al26-019-vulnerabilities-impacting-citrix-netscaler-adc-netscaler-gateway-cve-2026-19490-cve-2026-19489",
-          "date": "2026-09-04",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Google security advisory (AV26-883) – Update 1",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/google-security-advisory-av26-883",
-          "date": "2026-09-04",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "SUSE Linux security advisory (AV26-882)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/suse-linux-security-advisory-av26-882",
-          "date": "2026-09-03",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "[Control Systems] Siemens security advisory (AV26-881)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/control-systems-siemens-security-advisory-av26-881",
-          "date": "2026-09-03",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "n8n security advisory (AV26-880)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/n8n-security-advisory-av26-880",
-          "date": "2026-09-03",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "AMD security advisory (AV26-879)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/amd-security-advisory-av26-879",
-          "date": "2026-09-03",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "F5 security advisory (AV26-878)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av26-878",
-          "date": "2026-09-03",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Jenkins security advisory (AV26-877)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/jenkins-security-advisory-av26-877",
-          "date": "2026-09-03",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Cisco security advisory (AV26-876)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av26-876",
-          "date": "2026-09-03",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "JFrog security advisory (AV26-867) – Update 1",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/jfrog-security-advisory-av26-867",
-          "date": "2026-09-02",
-          "description": "Visit link for details"
         }
       ]
     }
