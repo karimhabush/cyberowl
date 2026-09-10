@@ -4,6 +4,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/09/09/cisa-adds-four-known-exploited-vulnerabilities-catalog)|Visit link for details.|Sep 09, 2026|
  |[CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/09/08/cisa-adds-four-known-exploited-vulnerabilities-catalog)|Visit link for details.|Sep 08, 2026|
  |[CISA Adds One Known Exploited Vulnerability to Catalog ](https://www.cisa.gov/news-events/alerts/2026/09/04/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Sep 04, 2026|
  |[CISA Adds Seven Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/09/02/cisa-adds-seven-known-exploited-vulnerabilities-catalog)|Visit link for details.|Sep 02, 2026|
@@ -13,5 +14,4 @@
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/08/25/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 25, 2026|
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/08/24/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 24, 2026|
  |[CISA Adds One Known Exploited Vulnerability to Catalog ](https://www.cisa.gov/news-events/alerts/2026/08/21/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Aug 21, 2026|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/08/20/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Aug 20, 2026|
  

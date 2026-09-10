@@ -4,14 +4,14 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[MISP security advisory (AV26-901)](https://www.cyber.gc.ca/en/alerts-advisories/misp-security-advisory-av26-901)|Visit link for details|2026-09-09|
- |[NVIDIA security advisory (AV26-900)](https://www.cyber.gc.ca/en/alerts-advisories/nvidia-security-advisory-av26-900)|Visit link for details|2026-09-09|
- |[Commvault security advisory (AV26-899)](https://www.cyber.gc.ca/en/alerts-advisories/commvault-security-advisory-av26-899)|Visit link for details|2026-09-09|
- |[Fortinet security advisory (AV26-898)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av26-898)|Visit link for details|2026-09-09|
- |[Ivanti security advisory (AV26-897)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av26-897)|Visit link for details|2026-09-08|
- |[Microsoft security advisory – September 2026 monthly rollup (AV26-896) – Update 1](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-september-2026-monthly-rollup-av26-896)|Visit link for details|2026-09-08|
- |[Adobe security advisory (AV26-888) – Update 1](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av26-888)|Visit link for details|2026-09-08|
- |[N-able security advisory (AV26-885) – Update 1](https://www.cyber.gc.ca/en/alerts-advisories/n-able-security-advisory-av26-885)|Visit link for details|2026-09-08|
- |[Commvault security advisory (AV26-895)](https://www.cyber.gc.ca/en/alerts-advisories/commvault-security-advisory-av26-895)|Visit link for details|2026-09-08|
- |[SAP security advisory – September 2026 monthly rollup (AV26-894)](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-september-2026-monthly-rollup-av26-894)|Visit link for details|2026-09-08|
+ |[WebPros security advisory (AV26-908)](https://www.cyber.gc.ca/en/alerts-advisories/webpros-security-advisory-av26-908)|Visit link for details|2026-09-10|
+ |[Adobe security advisory (AV26-808) – Update 1](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av26-808)|Visit link for details|2026-09-10|
+ |[[Control systems] Advantech security advisory (AV26-907)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-advantech-security-advisory-av26-907)|Visit link for details|2026-09-10|
+ |[Fortra security advisory (AV26-906)](https://www.cyber.gc.ca/en/alerts-advisories/fortra-security-advisory-av26-906)|Visit link for details|2026-09-10|
+ |[Palo Alto Networks security advisory (AV26-905)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av26-905)|Visit link for details|2026-09-10|
+ |[AL26-019 - Vulnerabilities impacting Citrix NetScaler ADC and NetScaler Gateway - CVE-2026-19490 and CVE-2026-19489 - Update 1](https://www.cyber.gc.ca/en/alerts-advisories/al26-019-vulnerabilities-impacting-citrix-netscaler-adc-netscaler-gateway-cve-2026-19490-cve-2026-19489)|Visit link for details|2026-09-09|
+ |[Citrix security advisory (AV26-833) - Update 1](https://www.cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av26-833)|Visit link for details|2026-09-09|
+ |[Cisco security advisory (AV26-197) – Update 3](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av26-197)|Visit link for details|2026-09-09|
+ |[Fortinet security advisory (AV26-023) - Update 1](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av26-023)|Visit link for details|2026-09-09|
+ |[Google security advisory (AV26-904)](https://www.cyber.gc.ca/en/alerts-advisories/google-security-advisory-av26-904)|Visit link for details|2026-09-09|
  
