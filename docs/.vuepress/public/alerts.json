@@ -1,8 +1,14 @@
 {
-  "generated_at": "2026-09-18T18:00:58.978905+00:00",
+  "generated_at": "2026-09-19T17:40:18.914545+00:00",
   "sources": {
     "US-CERT": {
       "items": [
+        {
+          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/09/18/cisa-adds-one-known-exploited-vulnerability-catalog",
+          "date": "Sep 18, 2026",
+          "description": "Visit link for details."
+        },
         {
           "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
           "link": "https://www.cisa.gov/news-events/alerts/2026/09/18/cisa-adds-two-known-exploited-vulnerabilities-catalog",
@@ -19,6 +25,18 @@
           "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
           "link": "https://www.cisa.gov/news-events/alerts/2026/09/16/cisa-adds-one-known-exploited-vulnerability-catalog",
           "date": "Sep 16, 2026",
+          "description": "Visit link for details."
+        },
+        {
+          "title": "Using Cyber Decoys to Strengthen Detection and Response",
+          "link": "https://www.cisa.gov/resources-tools/resources/using-cyber-decoys-strengthen-detection-and-response",
+          "date": "Sep 16, 2026",
+          "description": "Visit link for details."
+        },
+        {
+          "title": "Protecting Tokens and Assertions from Forgery, Theft, and Misuse: Implementation Recommendations for Agencies and Cloud Service Providers",
+          "link": "https://www.cisa.gov/resources-tools/resources/protecting-tokens-and-assertions-forgery-theft-and-misuse-implementation-recommendations-agencies",
+          "date": "Sep 15, 2026",
           "description": "Visit link for details."
         },
         {
@@ -44,157 +62,11 @@
           "link": "https://www.cisa.gov/news-events/alerts/2026/09/10/cisa-adds-two-known-exploited-vulnerabilities-catalog",
           "date": "Sep 10, 2026",
           "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/09/09/cisa-adds-four-known-exploited-vulnerabilities-catalog",
-          "date": "Sep 09, 2026",
-          "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/09/08/cisa-adds-four-known-exploited-vulnerabilities-catalog",
-          "date": "Sep 08, 2026",
-          "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/09/04/cisa-adds-one-known-exploited-vulnerability-catalog",
-          "date": "Sep 04, 2026",
-          "description": "Visit link for details."
         }
       ]
     },
     "IBM-X-FORCE-EXCHANGE": {
       "items": []
-    },
-    "CERT-FR": {
-      "items": [
-        {
-          "title": "Multiples vulnérabilités dans les produits IBM",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1206/",
-          "date": "Publié le 18 septembre 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance."
-        },
-        {
-          "title": "Vulnérabilité dans les produits Moxa",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1205/",
-          "date": "Publié le 18 septembre 2026",
-          "description": "Une vulnérabilité a été découverte dans les produits Moxa. Elle permet à un attaquant de provoquer un déni de service à distance."
-        },
-        {
-          "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1204/",
-          "date": "Publié le 18 septembre 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de service à distance."
-        },
-        {
-          "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1203/",
-          "date": "Publié le 18 septembre 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
-        },
-        {
-          "title": "Multiples vulnérabilités dans le noyau Linux de SUSE",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1202/",
-          "date": "Publié le 18 septembre 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données."
-        },
-        {
-          "title": "Vulnérabilité dans Kaspersky Secure Mail Gateway",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1201/",
-          "date": "Publié le 18 septembre 2026",
-          "description": "Une vulnérabilité a été découverte dans Kaspersky Secure Mail Gateway. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance."
-        },
-        {
-          "title": "Multiples vulnérabilités dans WordPress",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1200/",
-          "date": "Publié le 18 septembre 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans WordPress. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité."
-        },
-        {
-          "title": "Multiples vulnérabilités dans Google Chrome",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1199/",
-          "date": "Publié le 18 septembre 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
-        },
-        {
-          "title": "Vulnérabilité dans Nextcloud Server",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1198/",
-          "date": "Publié le 17 septembre 2026",
-          "description": "Une vulnérabilité a été découverte dans Nextcloud Server. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance."
-        },
-        {
-          "title": "Multiples vulnérabilités dans les produits Cisco",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1197/",
-          "date": "Publié le 17 septembre 2026",
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance. Cisco indique que la vulnérabilité CVE-2026-76460 est..."
-        }
-      ]
-    },
-    "VulDB": {
-      "items": [
-        {
-          "title": "CVE-2026-77385  zoriya Kyoo up to 5.0.x Path path.go improper authorization",
-          "link": "https://vuldb.com/vuln/407667",
-          "date": "Fri, 18 Sep 2026 19:38:46 +0200",
-          "description": "A vulnerability classified as problematic was found in zoriya Kyoo up to 5.0.x. The affected element is an unknown function of the file transcoder/src/api/path.go of the component Path Handler. Such m"
-        },
-        {
-          "title": "CVE-2026-62279  hargata LubeLogger up to 1.6.7 Vehicle Record Authorization VehicleController.cs DuplicateRecordsToOtherVehicles recordIds/destination vehicleIds improper authorization",
-          "link": "https://vuldb.com/vuln/407666",
-          "date": "Fri, 18 Sep 2026 19:37:43 +0200",
-          "description": "A vulnerability classified as critical has been found in hargata LubeLogger up to 1.6.7. Impacted is the function DuplicateRecordsToOtherVehicles of the file Controllers/VehicleController.cs of the co"
-        },
-        {
-          "title": "CVE-2026-33625  InternLM LMDeploy up to 0.12.2 Quantization Config config.py eval quant_dtype code injection",
-          "link": "https://vuldb.com/vuln/407665",
-          "date": "Fri, 18 Sep 2026 19:36:59 +0200",
-          "description": "A vulnerability described as critical has been identified in InternLM LMDeploy up to 0.12.2. This issue affects the function eval of the file lmdeploy/pytorch/config.py of the component Quantization C"
-        },
-        {
-          "title": "CVE-2026-62278  hargata LubeLogger up to 1.6.7 File Upload Helper/FileHelper.cs RenameFile path traversal",
-          "link": "https://vuldb.com/vuln/407664",
-          "date": "Fri, 18 Sep 2026 19:36:50 +0200",
-          "description": "A vulnerability marked as critical has been reported in hargata LubeLogger up to 1.6.7. This vulnerability affects the function RenameFile of the file Helper/FileHelper.cs of the component File Upload"
-        },
-        {
-          "title": "CVE-2026-84975  pjproject up to 2.17 SSL Socket Backend ssl_sock_ossl.c certificate validation",
-          "link": "https://vuldb.com/vuln/407663",
-          "date": "Fri, 18 Sep 2026 19:35:21 +0200",
-          "description": "A vulnerability labeled as problematic has been found in pjproject up to 2.17. This affects an unknown part of the file pjlib/src/pj/ssl_sock_ossl.c of the component SSL Socket Backend. Executing a ma"
-        },
-        {
-          "title": "CVE-2025-66455  InternLM LMDeploy up to 0.15.x PyTorch backend /distserve/p2p_connect recv_pyobj deserialization",
-          "link": "https://vuldb.com/vuln/407662",
-          "date": "Fri, 18 Sep 2026 19:35:06 +0200",
-          "description": "A vulnerability identified as critical has been detected in InternLM LMDeploy up to 0.15.x. Affected by this issue is the function recv_pyobj of the file /distserve/p2p_connect of the component PyTorc"
-        },
-        {
-          "title": "CVE-2026-92768  Cockpit cockpit-machines information disclosure",
-          "link": "https://vuldb.com/vuln/407661",
-          "date": "Fri, 18 Sep 2026 19:26:01 +0200",
-          "description": "A vulnerability categorized as problematic has been discovered in Cockpit. Affected by this vulnerability is an unknown functionality of the component cockpit-machines. Such manipulation leads to info"
-        },
-        {
-          "title": "CVE-2026-91205  Cockpit Files create_directory symlink",
-          "link": "https://vuldb.com/vuln/407660",
-          "date": "Fri, 18 Sep 2026 19:25:43 +0200",
-          "description": "A vulnerability was found in Cockpit. It has been rated as very critical. Affected is the function create_directory of the component Files. This manipulation causes symlink following.The identificat"
-        },
-        {
-          "title": "CVE-2026-92745  Red Hat Cockpit cockpit-machines getAccessToken invocation of process using visible sensitive information",
-          "link": "https://vuldb.com/vuln/407659",
-          "date": "Fri, 18 Sep 2026 19:25:00 +0200",
-          "description": "A vulnerability was found in Red Hat Cockpit. It has been declared as critical. This impacts the function getAccessToken of the component cockpit-machines. The manipulation results in invocation of pr"
-        },
-        {
-          "title": "CVE-2026-92747  Cockpit Process List install_machine.py JSON information disclosure",
-          "link": "https://vuldb.com/vuln/407658",
-          "date": "Fri, 18 Sep 2026 19:24:35 +0200",
-          "description": "A vulnerability was found in Cockpit. It has been classified as problematic. This affects an unknown function of the file install_machine.py of the component Process List. The manipulation of the argu"
-        }
-      ]
     },
     "HK-CERT": {
       "items": [
@@ -260,67 +132,134 @@
         }
       ]
     },
-    "OBS-Vigilance": {
+    "ZERODAYINITIATIVE": {
+      "items": []
+    },
+    "VulDB": {
       "items": [
         {
-          "title": "Mozilla Firefox: two vulnerabilities dated 18/12/2025",
-          "link": "https://vigilance.fr/vulnerability/Mozilla-Firefox-two-vulnerabilities-dated-18-12-2025-49153",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of Mozilla Firefox, dated 18/12/2025..."
+          "title": "CVE-2026-94028  mealie-recipes Mealie up to 3.25.1 Recipe Action Trigger controller_group_recipe_actions.py payload.model_dump url server-side request forgery (Issue 7831)",
+          "link": "https://vuldb.com/vuln/407957",
+          "date": "Sat, 19 Sep 2026 19:13:25 +0200",
+          "description": "A vulnerability labeled as problematic has been found in mealie-recipes Mealie up to 3.25.1. Affected is the function payload.model_dump of the file mealie/routes/households/controller_group_recipe_ac"
         },
         {
-          "title": "WebKitGTK  WPE WebKit: memory corruption dated 18/12/2025",
-          "link": "https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-memory-corruption-dated-18-12-2025-49138",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger a memory corruption of WebKitGTK  WPE WebKit, dated 18/12/2025, in order to trigger a denial of service, and possibly to run code..."
+          "title": "CVE-2026-94016  SourceCodester Drug Recommendation System 1.0 add_symptom txtname cross site scripting",
+          "link": "https://vuldb.com/vuln/407956",
+          "date": "Sat, 19 Sep 2026 17:27:13 +0200",
+          "description": "A vulnerability identified as problematic has been detected in SourceCodester Drug Recommendation System 1.0. This impacts an unknown function of the file /drug_recommender/Admin/add_symptom. Performi"
         },
         {
-          "title": "WebKitGTK  WPE WebKit: use after free dated 18/12/2025",
-          "link": "https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-use-after-free-dated-18-12-2025-49137",
-          "date": "Visit link for details",
-          "description": "An attacker can force the reuse of a freed memory area of WebKitGTK  WPE WebKit, dated 18/12/2025, in order to trigger a denial of service, and possibly to run code..."
+          "title": "CVE-2026-94015  SourceCodester Drug Recommendation System 1.0 edit_user.php ID sql injection",
+          "link": "https://vuldb.com/vuln/407955",
+          "date": "Sat, 19 Sep 2026 17:27:09 +0200",
+          "description": "A vulnerability categorized as critical has been discovered in SourceCodester Drug Recommendation System 1.0. This affects an unknown function of the file /drug_recommender/Admin/edit_user.php. Such m"
         },
         {
-          "title": "WebKitGTK  WPE WebKit: memory corruption dated 18/12/2025",
-          "link": "https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-memory-corruption-dated-18-12-2025-49136",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger a memory corruption of WebKitGTK  WPE WebKit, dated 18/12/2025, in order to trigger a denial of service, and possibly to run code..."
+          "title": "CVE-2026-82560  Pod::Text up to 6.1.0 lib/Pod/Text.pm wrap resource consumption",
+          "link": "https://vuldb.com/vuln/407954",
+          "date": "Sat, 19 Sep 2026 17:26:50 +0200",
+          "description": "A vulnerability was found in Pod::Text up to 6.1.0. It has been rated as problematic. The impacted element is the function wrap of the file lib/Pod/Text.pm. This manipulation causes resource consumpti"
         },
         {
-          "title": "WebKitGTK  WPE WebKit: memory corruption dated 18/12/2025",
-          "link": "https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-memory-corruption-dated-18-12-2025-49135",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger a memory corruption of WebKitGTK  WPE WebKit, dated 18/12/2025, in order to trigger a denial of service, and possibly to run code..."
+          "title": "CVE-2026-94004  DedeCMS up to 5.7.118 plus/mytag_js.php aid code injection",
+          "link": "https://vuldb.com/vuln/407953",
+          "date": "Sat, 19 Sep 2026 16:56:29 +0200",
+          "description": "A vulnerability was found in DedeCMS up to 5.7.118. It has been declared as critical. The affected element is an unknown function of the file plus/mytag_js.php. The manipulation of the argument aid re"
         },
         {
-          "title": "WebKitGTK  WPE WebKit: code execution dated 18/12/2025",
-          "link": "https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-code-execution-dated-18-12-2025-49134",
-          "date": "Visit link for details",
-          "description": "An attacker can use a vulnerability of WebKitGTK  WPE WebKit, dated 18/12/2025, in order to run code..."
+          "title": "CVE-2026-94003  Comfast CF-N1-S 2.6.0.1 Web Management Interface /cgi-bin/mbox-config get_css_path_from_uri stack-based overflow",
+          "link": "https://vuldb.com/vuln/407952",
+          "date": "Sat, 19 Sep 2026 16:56:11 +0200",
+          "description": "A vulnerability was found in Comfast CF-N1-S 2.6.0.1. It has been classified as very critical. Impacted is the function get_css_path_from_uri of the file /cgi-bin/mbox-config of the component Web Mana"
         },
         {
-          "title": "WebKitGTK  WPE WebKit: buffer overflow dated 18/12/2025",
-          "link": "https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-buffer-overflow-dated-18-12-2025-49133",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger a buffer overflow of WebKitGTK  WPE WebKit, dated 18/12/2025, in order to trigger a denial of service, and possibly to run code..."
+          "title": "CVE-2026-94001  Red Hat Keycloak Admin REST API privileges management",
+          "link": "https://vuldb.com/vuln/407951",
+          "date": "Sat, 19 Sep 2026 16:43:06 +0200",
+          "description": "A vulnerability was found in Red Hat Keycloak and classified as problematic. This issue affects some unknown processing of the component Admin REST API. Executing a manipulation can lead to improper p"
         },
         {
-          "title": "Adminer: Server-Side Request Forgery via PDO DSN",
-          "link": "https://vigilance.fr/vulnerability/Adminer-Server-Side-Request-Forgery-via-PDO-DSN-52071",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger a Server-Side Request Forgery of Adminer, via PDO DSN, in order to force the server to send queries..."
+          "title": "CVE-2026-93999  Red Hat Keycloak OIDC Protocol access control",
+          "link": "https://vuldb.com/vuln/407950",
+          "date": "Sat, 19 Sep 2026 16:42:16 +0200",
+          "description": "A vulnerability has been found in Red Hat Keycloak and classified as critical. This vulnerability affects unknown code of the component OIDC Protocol. Performing a manipulation results in improper acc"
         },
         {
-          "title": "xmlseclibs  php-saml: read-write access via Signature Wrapping",
-          "link": "https://vigilance.fr/vulnerability/xmlseclibs-php-saml-read-write-access-via-Signature-Wrapping-49121",
-          "date": "Visit link for details",
-          "description": "An attacker can bypass access restrictions of xmlseclibs  php-saml, via Signature Wrapping, in order to read or alter data..."
+          "title": "CVE-2026-94000  Red Hat Keycloak Group Membership Endpoint permission",
+          "link": "https://vuldb.com/vuln/407949",
+          "date": "Sat, 19 Sep 2026 16:42:01 +0200",
+          "description": "A vulnerability, which was classified as problematic, was found in Red Hat Keycloak. This affects an unknown part of the component Group Membership Endpoint. Such manipulation leads to permission issu"
         },
         {
-          "title": "Docker Moby BuildKit: five vulnerabilities dated 17/07/2026",
-          "link": "https://vigilance.fr/vulnerability/Docker-Moby-BuildKit-five-vulnerabilities-dated-17-07-2026-52065",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of Docker Moby BuildKit, dated 17/07/2026..."
+          "title": "CVE-2026-93997  SourceCodester Drug Recommendation System 1.0 /Admin/edit_symptom.php ID sql injection",
+          "link": "https://vuldb.com/vuln/407948",
+          "date": "Sat, 19 Sep 2026 15:28:47 +0200",
+          "description": "A vulnerability, which was classified as critical, has been found in SourceCodester Drug Recommendation System 1.0. Affected by this issue is some unknown functionality of the file /Admin/edit_symptom"
+        }
+      ]
+    },
+    "CERT-FR": {
+      "items": [
+        {
+          "title": "Multiples vulnérabilités dans les produits IBM",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1206/",
+          "date": "Publié le 18 septembre 2026",
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance."
+        },
+        {
+          "title": "Vulnérabilité dans les produits Moxa",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1205/",
+          "date": "Publié le 18 septembre 2026",
+          "description": "Une vulnérabilité a été découverte dans les produits Moxa. Elle permet à un attaquant de provoquer un déni de service à distance."
+        },
+        {
+          "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1204/",
+          "date": "Publié le 18 septembre 2026",
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de service à distance."
+        },
+        {
+          "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1203/",
+          "date": "Publié le 18 septembre 2026",
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
+        },
+        {
+          "title": "Multiples vulnérabilités dans le noyau Linux de SUSE",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1202/",
+          "date": "Publié le 18 septembre 2026",
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données."
+        },
+        {
+          "title": "Vulnérabilité dans Kaspersky Secure Mail Gateway",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1201/",
+          "date": "Publié le 18 septembre 2026",
+          "description": "Une vulnérabilité a été découverte dans Kaspersky Secure Mail Gateway. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance."
+        },
+        {
+          "title": "Multiples vulnérabilités dans WordPress",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1200/",
+          "date": "Publié le 18 septembre 2026",
+          "description": "De multiples vulnérabilités ont été découvertes dans WordPress. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité."
+        },
+        {
+          "title": "Multiples vulnérabilités dans Google Chrome",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1199/",
+          "date": "Publié le 18 septembre 2026",
+          "description": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur."
+        },
+        {
+          "title": "Vulnérabilité dans Nextcloud Server",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1198/",
+          "date": "Publié le 17 septembre 2026",
+          "description": "Une vulnérabilité a été découverte dans Nextcloud Server. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance."
+        },
+        {
+          "title": "Multiples vulnérabilités dans les produits Cisco",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1197/",
+          "date": "Publié le 17 septembre 2026",
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance. Cisco indique que la vulnérabilité CVE-2026-76460 est..."
         }
       ]
     },
@@ -388,6 +327,70 @@
         }
       ]
     },
+    "OBS-Vigilance": {
+      "items": [
+        {
+          "title": "Elastic Filebeat: buffer overflow via Index / Position / Offset",
+          "link": "https://vigilance.fr/vulnerability/Elastic-Filebeat-buffer-overflow-via-Index-Position-Offset-49167",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger a buffer overflow of Elastic Filebeat, via Index / Position / Offset, in order to trigger a denial of service, and possibly to run code..."
+        },
+        {
+          "title": "Mozilla Firefox: two vulnerabilities dated 18/12/2025",
+          "link": "https://vigilance.fr/vulnerability/Mozilla-Firefox-two-vulnerabilities-dated-18-12-2025-49153",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of Mozilla Firefox, dated 18/12/2025..."
+        },
+        {
+          "title": "WebKitGTK  WPE WebKit: memory corruption dated 18/12/2025",
+          "link": "https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-memory-corruption-dated-18-12-2025-49138",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger a memory corruption of WebKitGTK  WPE WebKit, dated 18/12/2025, in order to trigger a denial of service, and possibly to run code..."
+        },
+        {
+          "title": "WebKitGTK  WPE WebKit: use after free dated 18/12/2025",
+          "link": "https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-use-after-free-dated-18-12-2025-49137",
+          "date": "Visit link for details",
+          "description": "An attacker can force the reuse of a freed memory area of WebKitGTK  WPE WebKit, dated 18/12/2025, in order to trigger a denial of service, and possibly to run code..."
+        },
+        {
+          "title": "WebKitGTK  WPE WebKit: memory corruption dated 18/12/2025",
+          "link": "https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-memory-corruption-dated-18-12-2025-49136",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger a memory corruption of WebKitGTK  WPE WebKit, dated 18/12/2025, in order to trigger a denial of service, and possibly to run code..."
+        },
+        {
+          "title": "WebKitGTK  WPE WebKit: memory corruption dated 18/12/2025",
+          "link": "https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-memory-corruption-dated-18-12-2025-49135",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger a memory corruption of WebKitGTK  WPE WebKit, dated 18/12/2025, in order to trigger a denial of service, and possibly to run code..."
+        },
+        {
+          "title": "WebKitGTK  WPE WebKit: code execution dated 18/12/2025",
+          "link": "https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-code-execution-dated-18-12-2025-49134",
+          "date": "Visit link for details",
+          "description": "An attacker can use a vulnerability of WebKitGTK  WPE WebKit, dated 18/12/2025, in order to run code..."
+        },
+        {
+          "title": "WebKitGTK  WPE WebKit: buffer overflow dated 18/12/2025",
+          "link": "https://vigilance.fr/vulnerability/WebKitGTK-WPE-WebKit-buffer-overflow-dated-18-12-2025-49133",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger a buffer overflow of WebKitGTK  WPE WebKit, dated 18/12/2025, in order to trigger a denial of service, and possibly to run code..."
+        },
+        {
+          "title": "Adminer: Server-Side Request Forgery via PDO DSN",
+          "link": "https://vigilance.fr/vulnerability/Adminer-Server-Side-Request-Forgery-via-PDO-DSN-52071",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger a Server-Side Request Forgery of Adminer, via PDO DSN, in order to force the server to send queries..."
+        },
+        {
+          "title": "xmlseclibs  php-saml: read-write access via Signature Wrapping",
+          "link": "https://vigilance.fr/vulnerability/xmlseclibs-php-saml-read-write-access-via-Signature-Wrapping-49121",
+          "date": "Visit link for details",
+          "description": "An attacker can bypass access restrictions of xmlseclibs  php-saml, via Signature Wrapping, in order to read or alter data..."
+        }
+      ]
+    },
     "MA-CERT": {
       "items": [
         {
@@ -451,9 +454,6 @@
           "description": "Le projet Jenkins a publié un avis de sécurité corrigeant plusieurs vulnérabilités affectant plusieurs plugins de la plateforme Jenkins. L'exploitation de ces vulnérabilités pourrait permettre à un…"
         }
       ]
-    },
-    "ZERODAYINITIATIVE": {
-      "items": []
     },
     "CA-CCS": {
       "items": [
