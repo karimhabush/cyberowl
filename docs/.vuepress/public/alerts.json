@@ -1,8 +1,17 @@
 {
-  "generated_at": "2026-09-25T19:05:05.065974+00:00",
+  "generated_at": "2026-09-26T18:13:15.756521+00:00",
   "sources": {
+    "IBM-X-FORCE-EXCHANGE": {
+      "items": []
+    },
     "US-CERT": {
       "items": [
+        {
+          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/09/25/cisa-adds-one-known-exploited-vulnerability-catalog",
+          "date": "Sep 25, 2026",
+          "description": "Visit link for details."
+        },
         {
           "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
           "link": "https://www.cisa.gov/news-events/alerts/2026/09/25/cisa-adds-two-known-exploited-vulnerabilities-catalog",
@@ -54,12 +63,6 @@
         {
           "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
           "link": "https://www.cisa.gov/news-events/alerts/2026/09/16/cisa-adds-one-known-exploited-vulnerability-catalog",
-          "date": "Sep 16, 2026",
-          "description": "Visit link for details."
-        },
-        {
-          "title": "Using Cyber Decoys to Strengthen Detection and Response",
-          "link": "https://www.cisa.gov/resources-tools/resources/using-cyber-decoys-strengthen-detection-and-response",
           "date": "Sep 16, 2026",
           "description": "Visit link for details."
         }
@@ -129,6 +132,70 @@
         }
       ]
     },
+    "VulDB": {
+      "items": [
+        {
+          "title": "CVE-2026-97162  lomart.fr UP Extension up to 5.2.0/6.0.29 sql injection (EUVD-2026-87779)",
+          "link": "https://vuldb.com/vuln/410745",
+          "date": "Sat, 26 Sep 2026 16:50:19 +0200",
+          "description": "A vulnerability described as critical has been identified in lomart.fr UP Extension up to 5.2.0/6.0.29. This issue affects some unknown processing. Such manipulation leads to sql injection.This vuln"
+        },
+        {
+          "title": "CVE-2026-97161  lomart.fr UP Plugin Extension up to 5.2.0/6.0.29 path traversal (EUVD-2026-87781)",
+          "link": "https://vuldb.com/vuln/410744",
+          "date": "Sat, 26 Sep 2026 16:49:45 +0200",
+          "description": "A vulnerability marked as critical has been reported in lomart.fr UP Plugin Extension up to 5.2.0/6.0.29. This vulnerability affects unknown code. This manipulation causes path traversal.This vulner"
+        },
+        {
+          "title": "CVE-2026-97160  lomart.fr UP Plugin Extension up to 5.2.0/6.0.29 command injection (EUVD-2026-87778)",
+          "link": "https://vuldb.com/vuln/410743",
+          "date": "Sat, 26 Sep 2026 16:49:43 +0200",
+          "description": "A vulnerability labeled as problematic has been found in lomart.fr UP Plugin Extension up to 5.2.0/6.0.29. This affects an unknown part. The manipulation results in command injection.This vulnerabil"
+        },
+        {
+          "title": "CVE-2026-97163  lomart.fr UP Extension up to 5.2.0/6.0.29 code injection (EUVD-2026-87780)",
+          "link": "https://vuldb.com/vuln/410742",
+          "date": "Sat, 26 Sep 2026 16:49:18 +0200",
+          "description": "A vulnerability identified as critical has been detected in lomart.fr UP Extension up to 5.2.0/6.0.29. Affected by this issue is some unknown functionality. The manipulation leads to code injection."
+        },
+        {
+          "title": "CVE-2026-94131  AcyMailing Enterprise Extension up to 11.0.5 path traversal (EUVD-2026-87773)",
+          "link": "https://vuldb.com/vuln/410741",
+          "date": "Sat, 26 Sep 2026 16:46:28 +0200",
+          "description": "A vulnerability categorized as critical has been discovered in AcyMailing Enterprise Extension up to 11.0.5. Affected by this vulnerability is an unknown functionality. Executing a manipulation can le"
+        },
+        {
+          "title": "CVE-2026-94132  AcyMailing Enterprise Extension up to 11.1.0 Mailbox Action media/com_acym/upload unrestricted upload (EUVD-2026-87772)",
+          "link": "https://vuldb.com/vuln/410740",
+          "date": "Sat, 26 Sep 2026 16:45:50 +0200",
+          "description": "A vulnerability was found in AcyMailing Enterprise Extension up to 11.1.0. It has been rated as critical. Affected is an unknown function of the file media/com_acym/upload of the component Mailbox Act"
+        },
+        {
+          "title": "CVE-2026-100645  SiYuan up to 3.8.3 Gallery Renderer/Kanban Renderer cross site scripting",
+          "link": "https://vuldb.com/vuln/410739",
+          "date": "Sat, 26 Sep 2026 16:45:14 +0200",
+          "description": "A vulnerability was found in SiYuan up to 3.8.3. It has been declared as problematic. This impacts an unknown function of the component Gallery Renderer/Kanban Renderer. Such manipulation leads to cro"
+        },
+        {
+          "title": "CVE-2026-100672  getgrav Grav up to 1.2.10 Admin /admin/comments/page isAdmin improper authentication",
+          "link": "https://vuldb.com/vuln/410738",
+          "date": "Sat, 26 Sep 2026 16:44:49 +0200",
+          "description": "A vulnerability was found in getgrav Grav up to 1.2.10. It has been classified as problematic. This affects the function isAdmin of the file /admin/comments/page of the component Admin Handler. This m"
+        },
+        {
+          "title": "CVE-2026-100694  gohugoio Hugo up to 0.165.x cross site scripting",
+          "link": "https://vuldb.com/vuln/410737",
+          "date": "Sat, 26 Sep 2026 16:44:39 +0200",
+          "description": "A vulnerability was found in gohugoio Hugo up to 0.165.x and classified as problematic. The impacted element is an unknown function. The manipulation results in cross site scripting.This vulnerabili"
+        },
+        {
+          "title": "CVE-2026-100667  Getgrav Login Plugin up to 3.9.6 Two-Factor Authentication Login::isAuthenticated improper authorization",
+          "link": "https://vuldb.com/vuln/410736",
+          "date": "Sat, 26 Sep 2026 16:44:00 +0200",
+          "description": "A vulnerability has been found in Getgrav Login Plugin up to 3.9.6 and classified as problematic. The affected element is the function Login::isAuthenticated of the component Two-Factor Authentication"
+        }
+      ]
+    },
     "HK-CERT": {
       "items": [
         {
@@ -192,73 +259,6 @@
           "description": "Multiple vulnerabilities were identified in ISC BIND. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, data manipulation and security restriction bypass on the targeted system."
         }
       ]
-    },
-    "VulDB": {
-      "items": [
-        {
-          "title": "CVE-2026-61855  Zammad up to 7.1.1 improper authentication",
-          "link": "https://vuldb.com/vuln/410414",
-          "date": "Fri, 25 Sep 2026 20:50:05 +0200",
-          "description": "A vulnerability has been found in Zammad up to 7.1.1 and classified as problematic. This vulnerability affects unknown code. This manipulation causes improper authentication.This vulnerability appea"
-        },
-        {
-          "title": "CVE-2026-53628  glpi-project Glpi up to 10.0.25/11.0.7 permission",
-          "link": "https://vuldb.com/vuln/410413",
-          "date": "Fri, 25 Sep 2026 20:49:55 +0200",
-          "description": "A vulnerability, which was classified as problematic, was found in glpi-project Glpi up to 10.0.25/11.0.7. This affects an unknown part. The manipulation results in permission issues.This vulnerabil"
-        },
-        {
-          "title": "CVE-2026-49469  glpi-project Glpi up to 10.0.25/11.0.7 User Import improper authorization",
-          "link": "https://vuldb.com/vuln/410412",
-          "date": "Fri, 25 Sep 2026 20:49:00 +0200",
-          "description": "A vulnerability, which was classified as problematic, has been found in glpi-project Glpi up to 10.0.25/11.0.7. Affected by this issue is some unknown functionality of the component User Import. The m"
-        },
-        {
-          "title": "CVE-2026-45801  glpi-project Glpi up to 10.0.25/11.0.7 permission",
-          "link": "https://vuldb.com/vuln/410411",
-          "date": "Fri, 25 Sep 2026 20:48:38 +0200",
-          "description": "A vulnerability classified as critical was found in glpi-project Glpi up to 10.0.25/11.0.7. Affected by this vulnerability is an unknown functionality. Executing a manipulation can lead to permission"
-        },
-        {
-          "title": "CVE-2026-84461  Zammad up to 7.1.1 excessive authentication",
-          "link": "https://vuldb.com/vuln/410410",
-          "date": "Fri, 25 Sep 2026 20:48:00 +0200",
-          "description": "A vulnerability classified as problematic has been found in Zammad up to 7.1.1. Affected is an unknown function. Performing a manipulation results in improper restriction of excessive authentication a"
-        },
-        {
-          "title": "CVE-2026-53627  glpi-project GLPI up to 11.0.7 API improper authorization",
-          "link": "https://vuldb.com/vuln/410409",
-          "date": "Fri, 25 Sep 2026 20:47:46 +0200",
-          "description": "A vulnerability described as critical has been identified in glpi-project GLPI up to 11.0.7. This impacts an unknown function of the component API. Such manipulation leads to improper authorization."
-        },
-        {
-          "title": "CVE-2026-63206  Zammad up to 7.1.1 HTML Sanitizer input validation",
-          "link": "https://vuldb.com/vuln/410408",
-          "date": "Fri, 25 Sep 2026 20:47:01 +0200",
-          "description": "A vulnerability marked as problematic has been reported in Zammad up to 7.1.1. This affects an unknown function of the component HTML Sanitizer. This manipulation causes improper input validation.Th"
-        },
-        {
-          "title": "CVE-2026-63204  Zammad up to 7.1.1 Ticket Summarize Endpoint improper authorization",
-          "link": "https://vuldb.com/vuln/410407",
-          "date": "Fri, 25 Sep 2026 20:46:57 +0200",
-          "description": "A vulnerability labeled as problematic has been found in Zammad up to 7.1.1. The impacted element is an unknown function of the component Ticket Summarize Endpoint. The manipulation results in imprope"
-        },
-        {
-          "title": "CVE-2026-84458  Zammad up to 7.1.1 Account Linking improper authentication",
-          "link": "https://vuldb.com/vuln/410406",
-          "date": "Fri, 25 Sep 2026 20:46:04 +0200",
-          "description": "A vulnerability identified as critical has been detected in Zammad up to 7.1.1. The affected element is an unknown function of the component Account Linking. The manipulation leads to improper authent"
-        },
-        {
-          "title": "CVE-2026-63205  Zammad up to 7.1.1 Email Signature permission",
-          "link": "https://vuldb.com/vuln/410405",
-          "date": "Fri, 25 Sep 2026 20:45:23 +0200",
-          "description": "A vulnerability categorized as problematic has been discovered in Zammad up to 7.1.1. Impacted is an unknown function of the component Email Signature. Executing a manipulation can lead to permission"
-        }
-      ]
-    },
-    "IBM-X-FORCE-EXCHANGE": {
-      "items": []
     },
     "OBS-Vigilance": {
       "items": [
@@ -327,6 +327,70 @@
     "ZERODAYINITIATIVE": {
       "items": []
     },
+    "CA-CCS": {
+      "items": [
+        {
+          "title": "WordPress security advisory (AV26-952) – Update 1",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/wordpress-security-advisory-av26-952",
+          "date": "2026-09-25",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Zimbra security advisory (AV26-964)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/zimbra-security-advisory-av26-964",
+          "date": "2026-09-25",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Microsoft security advisory – August 2026 monthly rollup (AV26-804) – Update 4",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-august-2026-monthly-rollup-av26-804",
+          "date": "2026-09-25",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Mikrotik security advisory (AV26-887) – Update 2",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/mikrotik-security-advisory-av26-887",
+          "date": "2026-09-25",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "ServiceNow security advisory (AV26-963)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/servicenow-security-advisory-av26-963",
+          "date": "2026-09-25",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "GitLab security advisory (AV26-962)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av26-962",
+          "date": "2026-09-25",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Adobe security advisory (AV26-808) – Update 2",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av26-808",
+          "date": "2026-09-24",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "AL26-023 - Vulnerability Impacting Microsoft SharePoint Server - CVE-2026-65660",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/al26-023-vulnerability-impacting-microsoft-sharepoint-server-cve-2026-65660",
+          "date": "2026-09-24",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "WebPros security advisory (AV26-961)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/webpros-security-advisory-av26-961",
+          "date": "2026-09-24",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Forcepoint security advisory (AV26-960)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/forcepoint-security-advisory-av26-960",
+          "date": "2026-09-23",
+          "description": "Visit link for details"
+        }
+      ]
+    },
     "EU-CERT": {
       "items": [
         {
@@ -388,70 +452,6 @@
           "link": "https://cert.europa.eu/publications/security-advisories/2026-004/",
           "date": "Wednesday, March 25, 2026 08:51:39 AM CET",
           "description": "On 17 March 2026, Microsoft updated one of its January 2026 security advisories related to a remote code execution vulnerability in Microsoft SharePoint. Specifically, Microsoft raised the CVSS score and changed the FAQ section to indicate that the vulnerability could be exploited by an unauthenticated attacker. This vulnerability was added in the CISA's Known Exploited Vulnerabilities (KEV) catalogue on 18 March 2026."
-        }
-      ]
-    },
-    "CA-CCS": {
-      "items": [
-        {
-          "title": "Zimbra security advisory (AV26-964)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/zimbra-security-advisory-av26-964",
-          "date": "2026-09-25",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Microsoft security advisory – August 2026 monthly rollup (AV26-804) – Update 4",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-august-2026-monthly-rollup-av26-804",
-          "date": "2026-09-25",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Mikrotik security advisory (AV26-887) – Update 2",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/mikrotik-security-advisory-av26-887",
-          "date": "2026-09-25",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "ServiceNow security advisory (AV26-963)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/servicenow-security-advisory-av26-963",
-          "date": "2026-09-25",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "GitLab security advisory (AV26-962)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av26-962",
-          "date": "2026-09-25",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Adobe security advisory (AV26-808) – Update 2",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av26-808",
-          "date": "2026-09-24",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "AL26-023 - Vulnerability Impacting Microsoft SharePoint Server - CVE-2026-65660",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/al26-023-vulnerability-impacting-microsoft-sharepoint-server-cve-2026-65660",
-          "date": "2026-09-24",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "WebPros security advisory (AV26-961)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/webpros-security-advisory-av26-961",
-          "date": "2026-09-24",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Forcepoint security advisory (AV26-960)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/forcepoint-security-advisory-av26-960",
-          "date": "2026-09-23",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Dell security advisory (AV26-959)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av26-959",
-          "date": "2026-09-23",
-          "description": "Visit link for details"
         }
       ]
     },
