@@ -4,6 +4,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[AL26-024 - Critical vulnerabilities affecting Citrix NetScaler ADC and NetScaler Gateway – CVE-2026-88771 and CVE-2026-88772 – Update 1](https://www.cyber.gc.ca/en/alerts-advisories/al26-024-critical-vulnerabilities-affecting-citrix-netscaler-adc-netscaler-gateway-cve-2026-88771-cve-2026-88772)|Visit link for details|2026-10-03|
  |[[Control Systems] Moxa security advisory (AV26-995)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-moxa-security-advisory-av26-995)|Visit link for details|2026-10-02|
  |[GitLab security advisory (AV26-994)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av26-994)|Visit link for details|2026-10-02|
  |[[Control systems] Hitachi security advisory (AV26-993)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-hitachi-security-advisory-av26-993)|Visit link for details|2026-10-02|
@@ -13,5 +14,4 @@
  |[Fortinet security advisory (AV26-989)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av26-989)|Visit link for details|2026-10-02|
  |[Kiteworks security advisory (AV26-988)](https://www.cyber.gc.ca/en/alerts-advisories/kiteworks-security-advisory-av26-988)|Visit link for details|2026-10-01|
  |[Fortra security advisory (AV26-987)](https://www.cyber.gc.ca/en/alerts-advisories/fortra-security-advisory-av26-987)|Visit link for details|2026-10-01|
- |[MISP security advisory (AV26-986)](https://www.cyber.gc.ca/en/alerts-advisories/misp-security-advisory-av26-986)|Visit link for details|2026-10-01|
  

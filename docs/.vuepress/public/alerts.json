@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T18:29:32.942628+00:00",
+  "generated_at": "2026-10-04T18:30:35.791318+00:00",
   "sources": {
     "US-CERT": {
       "items": [
@@ -65,6 +65,9 @@
         }
       ]
     },
+    "IBM-X-FORCE-EXCHANGE": {
+      "items": []
+    },
     "CERT-FR": {
       "items": [
         {
@@ -129,75 +132,72 @@
         }
       ]
     },
-    "IBM-X-FORCE-EXCHANGE": {
+    "ZERODAYINITIATIVE": {
       "items": []
     },
     "VulDB": {
       "items": [
         {
-          "title": "CVE-2026-105148  SciPhi-AI R2R up to 3.6.6 Retrieval Completion API Endpoint llm.py generation_config.api_base server-side request forgery",
-          "link": "https://vuldb.com/vuln/413373",
-          "date": "Sat, 03 Oct 2026 20:10:27 +0200",
-          "description": "A vulnerability categorized as critical has been discovered in SciPhi-AI R2R up to 3.6.6. This vulnerability affects unknown code of the file py/shared/abstractions/llm.py of the component Retrieval C"
+          "title": "CVE-2026-105218  go-pay gopay up to 1.5.118 os command injection",
+          "link": "https://vuldb.com/vuln/413461",
+          "date": "Sun, 04 Oct 2026 19:45:28 +0200",
+          "description": "A vulnerability described as critical has been identified in go-pay gopay up to 1.5.118. This vulnerability affects unknown code. The manipulation results in os command injection.This vulnerability"
         },
         {
-          "title": "CVE-2026-105147  SciPhi-AI R2R up to 3.6.6 JWT Secret DEFAULT_BCRYPT_SECRET_KEY/DEFAULT_NACL_SECRET_KEY hard-coded credentials",
-          "link": "https://vuldb.com/vuln/413372",
-          "date": "Sat, 03 Oct 2026 20:10:23 +0200",
-          "description": "A vulnerability was found in SciPhi-AI R2R up to 3.6.6. It has been rated as critical. This affects an unknown part of the component JWT Secret Handler. This manipulation of the argument DEFAULT_BCRYP"
+          "title": "CVE-2026-105216  micro go-micro up to 5.x information disclosure",
+          "link": "https://vuldb.com/vuln/413460",
+          "date": "Sun, 04 Oct 2026 19:44:52 +0200",
+          "description": "A vulnerability marked as problematic has been reported in micro go-micro up to 5.x. This affects an unknown part. The manipulation leads to information disclosure.This vulnerability is traded as CV"
         },
         {
-          "title": "CVE-2026-105146  Comsenz Discuz! X5.0-20260801/X5.0-20260820/X5.0-20260910 Admin Medal Moderation mod.php modmedalsubmit delete sql injection",
-          "link": "https://vuldb.com/vuln/413371",
-          "date": "Sat, 03 Oct 2026 19:12:10 +0200",
-          "description": "A vulnerability was found in Comsenz Discuz! X5.0-20260801/X5.0-20260820/X5.0-20260910. It has been declared as critical. Affected by this issue is the function modmedalsubmit of the file upload/sourc"
+          "title": "CVE-2026-105217  Cockpit-HQ Cockpit up to 2.14.0 information disclosure",
+          "link": "https://vuldb.com/vuln/413459",
+          "date": "Sun, 04 Oct 2026 19:44:27 +0200",
+          "description": "A vulnerability labeled as problematic has been found in Cockpit-HQ Cockpit up to 2.14.0. Affected by this issue is some unknown functionality. Executing a manipulation can lead to information disclos"
         },
         {
-          "title": "CVE-2026-105145  Weaviate Verba up to 2.1.3 generate_stream Endpoint util.py get_environment information disclosure",
-          "link": "https://vuldb.com/vuln/413370",
-          "date": "Sat, 03 Oct 2026 19:05:51 +0200",
-          "description": "A vulnerability was found in Weaviate Verba up to 2.1.3. It has been classified as problematic. Affected by this vulnerability is the function get_environment of the file goldenverba/components/util.p"
+          "title": "CVE-2026-105251  vgmstream up to r2117 VAG File src/coding/psx_decoder.c ps_find_padding out-of-bounds (Issue 2000)",
+          "link": "https://vuldb.com/vuln/413458",
+          "date": "Sun, 04 Oct 2026 19:42:37 +0200",
+          "description": "A vulnerability identified as critical has been detected in vgmstream up to r2117. Affected by this vulnerability is the function ps_find_padding of the file src/coding/psx_decoder.c of the component"
         },
         {
-          "title": "CVE-2026-105144  Drogon up to 1.9.13-1/10.0-beta.3 on Windows Static File Router StaticFileRouter.cc StaticFileRouter::route path traversal",
-          "link": "https://vuldb.com/vuln/413369",
-          "date": "Sat, 03 Oct 2026 18:58:11 +0200",
-          "description": "A vulnerability was found in Drogon up to 1.9.13-1/10.0-beta.3 on Windows and classified as problematic. Affected is the function StaticFileRouter::route of the file lib/src/StaticFileRouter.cc of the"
+          "title": "CVE-2026-105250  vgmstream up to r2117 Microsoft IMA Decoder src/coding/ima_decoder.c decode_ms_ima divide by zero (Issue 1999)",
+          "link": "https://vuldb.com/vuln/413457",
+          "date": "Sun, 04 Oct 2026 19:42:33 +0200",
+          "description": "A vulnerability categorized as problematic has been discovered in vgmstream up to r2117. Affected is the function decode_ms_ima of the file src/coding/ima_decoder.c of the component Microsoft IMA Deco"
         },
         {
-          "title": "CVE-2026-96451  Ultimate Member Plugin up to 2.13.1 on WordPress authorization",
-          "link": "https://vuldb.com/vuln/413368",
-          "date": "Sat, 03 Oct 2026 18:26:41 +0200",
-          "description": "A vulnerability has been found in Ultimate Member Plugin up to 2.13.1 on WordPress and classified as critical. This impacts an unknown function. Performing a manipulation results in authorization bypa"
+          "title": "CVE-2026-105249  vgmstream up to r2117 TXTP File src/meta/txtp_process.c make_group_random use after free (Issue 1998)",
+          "link": "https://vuldb.com/vuln/413456",
+          "date": "Sun, 04 Oct 2026 19:42:29 +0200",
+          "description": "A vulnerability was found in vgmstream up to r2117. It has been rated as problematic. This impacts the function make_group_random of the file src/meta/txtp_process.c of the component TXTP File Handler"
         },
         {
-          "title": "CVE-2026-103342  Unlimited Elements for Elementor Plugin up to 2.0.20 on WordPress cross site scripting",
-          "link": "https://vuldb.com/vuln/413367",
-          "date": "Sat, 03 Oct 2026 17:10:46 +0200",
-          "description": "A vulnerability, which was classified as problematic, was found in Unlimited Elements for Elementor Plugin up to 2.0.20 on WordPress. This affects an unknown function. Such manipulation leads to cross"
+          "title": "CVE-2026-105248  vgmstream up to r2117 TXTP File src/meta/txtp_parser.c parse_params/txtp_parse out-of-bounds write (Issue 1997)",
+          "link": "https://vuldb.com/vuln/413455",
+          "date": "Sun, 04 Oct 2026 19:42:23 +0200",
+          "description": "A vulnerability was found in vgmstream up to r2117. It has been declared as critical. This affects the function parse_params/txtp_parse of the file src/meta/txtp_parser.c of the component TXTP File Ha"
         },
         {
-          "title": "CVE-2026-103065  meum Kirki Plugin up to 6.3.1 on WordPress privileges management",
-          "link": "https://vuldb.com/vuln/413366",
-          "date": "Sat, 03 Oct 2026 17:10:04 +0200",
-          "description": "A vulnerability, which was classified as critical, has been found in meum Kirki Plugin up to 6.3.1 on WordPress. The impacted element is an unknown function. This manipulation causes improper privileg"
+          "title": "CVE-2026-105219  mwilliamson mammoth.js up to 1.12.2 resource consumption",
+          "link": "https://vuldb.com/vuln/413454",
+          "date": "Sun, 04 Oct 2026 19:24:43 +0200",
+          "description": "A vulnerability was found in mwilliamson mammoth.js up to 1.12.2. It has been classified as problematic. The impacted element is an unknown function. The manipulation leads to resource consumption.T"
         },
         {
-          "title": "CVE-2026-105141  topoteretes cognee up to 1.5.4 JWT Signing Key get_api_auth_backend.py get_user_id_by_email FASTAPI_USERS_JWT_SECRET hard-coded credentials (ID 5062)",
-          "link": "https://vuldb.com/vuln/413365",
-          "date": "Sat, 03 Oct 2026 16:31:11 +0200",
-          "description": "A vulnerability classified as critical was found in topoteretes cognee up to 1.5.4. The affected element is the function get_user_id_by_email of the file cognee/modules/users/authentication/get_api_au"
+          "title": "CVE-2026-105247  SourceCodester Online Reviewer Management System 1.0 btn_functions.php?action=course Subject sql injection",
+          "link": "https://vuldb.com/vuln/413453",
+          "date": "Sun, 04 Oct 2026 18:37:35 +0200",
+          "description": "A vulnerability was found in SourceCodester Online Reviewer Management System 1.0 and classified as critical. The affected element is an unknown function of the file /reviewer_0/admins/assessments/Sub"
         },
         {
-          "title": "CVE-2026-105122  OpenIdentityPlatform OpenAM up to 16.1.2 server-side request forgery",
-          "link": "https://vuldb.com/vuln/413364",
-          "date": "Sat, 03 Oct 2026 16:16:51 +0200",
-          "description": "A vulnerability classified as problematic has been found in OpenIdentityPlatform OpenAM up to 16.1.2. Impacted is an unknown function. The manipulation leads to server-side request forgery.This vuln"
+          "title": "CVE-2026-105246  SourceCodester Online Reviewer Management System 1.0 btn_functions.php?action=update Subject sql injection",
+          "link": "https://vuldb.com/vuln/413452",
+          "date": "Sun, 04 Oct 2026 18:37:31 +0200",
+          "description": "A vulnerability has been found in SourceCodester Online Reviewer Management System 1.0 and classified as critical. Impacted is an unknown function of the file /reviewer_0/admins/assessments/Subject/bt"
         }
       ]
-    },
-    "ZERODAYINITIATIVE": {
-      "items": []
     },
     "HK-CERT": {
       "items": [
@@ -327,72 +327,14 @@
         }
       ]
     },
-    "OBS-Vigilance": {
-      "items": [
-        {
-          "title": "Ivanti Connect Secure: buffer overflow dated 03/04/2025",
-          "link": "https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-buffer-overflow-dated-03-04-2025-46754",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger a buffer overflow of Ivanti Connect Secure, dated 03/04/2025, in order to trigger a denial of service, and possibly to run code..."
-        },
-        {
-          "title": "OSSEC HIDS: two vulnerabilities dated 03/08/2026",
-          "link": "https://vigilance.fr/vulnerability/OSSEC-HIDS-two-vulnerabilities-dated-03-08-2026-52211",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of OSSEC HIDS, dated 03/08/2026..."
-        },
-        {
-          "title": "TeamPass: information disclosure via Search Backend User Enumeration",
-          "link": "https://vigilance.fr/vulnerability/TeamPass-information-disclosure-via-Search-Backend-User-Enumeration-52210",
-          "date": "Visit link for details",
-          "description": "An attacker can bypass access restrictions to data of TeamPass, via Search Backend User Enumeration, in order to read sensitive information..."
-        },
-        {
-          "title": "Check Point Gateway: four vulnerabilities dated 03/08/2026",
-          "link": "https://vigilance.fr/vulnerability/Check-Point-Gateway-four-vulnerabilities-dated-03-08-2026-52209",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of Check Point Gateway, dated 03/08/2026..."
-        },
-        {
-          "title": "KissFFT: buffer overflow via kiss_fftndr_alloc()",
-          "link": "https://vigilance.fr/vulnerability/KissFFT-buffer-overflow-via-kiss-fftndr-alloc-52208",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger a buffer overflow of KissFFT, via kiss_fftndr_alloc(), in order to trigger a denial of service, and possibly to run code..."
-        },
-        {
-          "title": "Incus: multiple vulnerabilities dated 03/08/2026",
-          "link": "https://vigilance.fr/vulnerability/Incus-multiple-vulnerabilities-dated-03-08-2026-52207",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of Incus, dated 03/08/2026..."
-        },
-        {
-          "title": "Authlib: spoofing via OpenIDImplicitGrant",
-          "link": "https://vigilance.fr/vulnerability/Authlib-spoofing-via-OpenIDImplicitGrant-52206",
-          "date": "Visit link for details",
-          "description": "An attacker can create spoofed data on Authlib, via OpenIDImplicitGrant, in order to deceive the victim..."
-        },
-        {
-          "title": "Authlib: Cross Site Request Forgery via starlette_client",
-          "link": "https://vigilance.fr/vulnerability/Authlib-Cross-Site-Request-Forgery-via-starlette-client-52205",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger a Cross Site Request Forgery of Authlib, via starlette_client, in order to force the victim to perform operations..."
-        },
-        {
-          "title": "Prometheus: multiple vulnerabilities via grpc",
-          "link": "https://vigilance.fr/vulnerability/Prometheus-multiple-vulnerabilities-via-grpc-52196",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of Prometheus, via grpc..."
-        },
-        {
-          "title": "PHP: multiple vulnerabilities dated 30/07/2026",
-          "link": "https://vigilance.fr/vulnerability/PHP-multiple-vulnerabilities-dated-30-07-2026-52195",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of PHP, dated 30/07/2026..."
-        }
-      ]
-    },
     "CA-CCS": {
       "items": [
+        {
+          "title": "AL26-024 - Critical vulnerabilities affecting Citrix NetScaler ADC and NetScaler Gateway – CVE-2026-88771 and CVE-2026-88772 – Update 1",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/al26-024-critical-vulnerabilities-affecting-citrix-netscaler-adc-netscaler-gateway-cve-2026-88771-cve-2026-88772",
+          "date": "2026-10-03",
+          "description": "Visit link for details"
+        },
         {
           "title": "[Control Systems] Moxa security advisory (AV26-995)",
           "link": "https://www.cyber.gc.ca/en/alerts-advisories/control-systems-moxa-security-advisory-av26-995",
@@ -446,12 +388,70 @@
           "link": "https://www.cyber.gc.ca/en/alerts-advisories/fortra-security-advisory-av26-987",
           "date": "2026-10-01",
           "description": "Visit link for details"
+        }
+      ]
+    },
+    "OBS-Vigilance": {
+      "items": [
+        {
+          "title": "Dell OpenManage Server Administrator: two vulnerabilities dated 04/08/2026",
+          "link": "https://vigilance.fr/vulnerability/Dell-OpenManage-Server-Administrator-two-vulnerabilities-dated-04-08-2026-52218",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of Dell OpenManage Server Administrator, dated 04/08/2026..."
         },
         {
-          "title": "MISP security advisory (AV26-986)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/misp-security-advisory-av26-986",
-          "date": "2026-10-01",
-          "description": "Visit link for details"
+          "title": "IBM QRadar SIEM: code execution via User Supplied Input",
+          "link": "https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-code-execution-via-User-Supplied-Input-52215",
+          "date": "Visit link for details",
+          "description": "An attacker can use a vulnerability of IBM QRadar SIEM, via User Supplied Input, in order to run code..."
+        },
+        {
+          "title": "IBM QRadar SIEM: external XML entity injection via parseXmlPayload()",
+          "link": "https://vigilance.fr/vulnerability/IBM-QRadar-SIEM-external-XML-entity-injection-via-parseXmlPayload-52214",
+          "date": "Visit link for details",
+          "description": "An attacker can transmit malicious XML data to IBM QRadar SIEM, via parseXmlPayload(), in order to read a file, scan sites, or trigger a denial of service..."
+        },
+        {
+          "title": "Ivanti Connect Secure: buffer overflow dated 03/04/2025",
+          "link": "https://vigilance.fr/vulnerability/Ivanti-Connect-Secure-buffer-overflow-dated-03-04-2025-46754",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger a buffer overflow of Ivanti Connect Secure, dated 03/04/2025, in order to trigger a denial of service, and possibly to run code..."
+        },
+        {
+          "title": "OSSEC HIDS: two vulnerabilities dated 03/08/2026",
+          "link": "https://vigilance.fr/vulnerability/OSSEC-HIDS-two-vulnerabilities-dated-03-08-2026-52211",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of OSSEC HIDS, dated 03/08/2026..."
+        },
+        {
+          "title": "TeamPass: information disclosure via Search Backend User Enumeration",
+          "link": "https://vigilance.fr/vulnerability/TeamPass-information-disclosure-via-Search-Backend-User-Enumeration-52210",
+          "date": "Visit link for details",
+          "description": "An attacker can bypass access restrictions to data of TeamPass, via Search Backend User Enumeration, in order to read sensitive information..."
+        },
+        {
+          "title": "Check Point Gateway: four vulnerabilities dated 03/08/2026",
+          "link": "https://vigilance.fr/vulnerability/Check-Point-Gateway-four-vulnerabilities-dated-03-08-2026-52209",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of Check Point Gateway, dated 03/08/2026..."
+        },
+        {
+          "title": "KissFFT: buffer overflow via kiss_fftndr_alloc()",
+          "link": "https://vigilance.fr/vulnerability/KissFFT-buffer-overflow-via-kiss-fftndr-alloc-52208",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger a buffer overflow of KissFFT, via kiss_fftndr_alloc(), in order to trigger a denial of service, and possibly to run code..."
+        },
+        {
+          "title": "Incus: multiple vulnerabilities dated 03/08/2026",
+          "link": "https://vigilance.fr/vulnerability/Incus-multiple-vulnerabilities-dated-03-08-2026-52207",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of Incus, dated 03/08/2026..."
+        },
+        {
+          "title": "Authlib: spoofing via OpenIDImplicitGrant",
+          "link": "https://vigilance.fr/vulnerability/Authlib-spoofing-via-OpenIDImplicitGrant-52206",
+          "date": "Visit link for details",
+          "description": "An attacker can create spoofed data on Authlib, via OpenIDImplicitGrant, in order to deceive the victim..."
         }
       ]
     },
