@@ -1,70 +1,6 @@
 {
-  "generated_at": "2026-10-09T19:59:04.329730+00:00",
+  "generated_at": "2026-10-10T19:05:56.068327+00:00",
   "sources": {
-    "US-CERT": {
-      "items": [
-        {
-          "title": "Chinese Government-linked Cyber Threat Actors Combine Automated and Hands-on Hacking Tools to Steal Sensitive Data",
-          "link": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-281a",
-          "date": "Oct 08, 2026",
-          "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/10/04/cisa-adds-one-known-exploited-vulnerability-catalog",
-          "date": "Oct 04, 2026",
-          "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/10/02/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-          "date": "Oct 02, 2026",
-          "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/10/01/cisa-adds-one-known-exploited-vulnerability-catalog",
-          "date": "Oct 01, 2026",
-          "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/09/30/cisa-adds-one-known-exploited-vulnerability-catalog",
-          "date": "Sep 30, 2026",
-          "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/09/29/cisa-adds-one-known-exploited-vulnerability-catalog",
-          "date": "Sep 29, 2026",
-          "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/09/27/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-          "date": "Sep 27, 2026",
-          "description": "Visit link for details."
-        },
-        {
-          "title": "Critical Zero-Day Vulnerabilities Exploited in Citrix NetScaler ADC, Gateway",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/09/27/critical-zero-day-vulnerabilities-exploited-citrix-netscaler-adc-gateway",
-          "date": "Sep 27, 2026",
-          "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/09/25/cisa-adds-one-known-exploited-vulnerability-catalog",
-          "date": "Sep 25, 2026",
-          "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/09/25/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-          "date": "Sep 25, 2026",
-          "description": "Visit link for details."
-        }
-      ]
-    },
     "CERT-FR": {
       "items": [
         {
@@ -129,198 +65,198 @@
         }
       ]
     },
+    "US-CERT": {
+      "items": [
+        {
+          "title": "Chinese Government-linked Cyber Threat Actors Combine Automated and Hands-on Hacking Tools to Steal Sensitive Data",
+          "link": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-281a",
+          "date": "Oct 08, 2026",
+          "description": "Visit link for details."
+        },
+        {
+          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/10/04/cisa-adds-one-known-exploited-vulnerability-catalog",
+          "date": "Oct 04, 2026",
+          "description": "Visit link for details."
+        },
+        {
+          "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/10/02/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+          "date": "Oct 02, 2026",
+          "description": "Visit link for details."
+        },
+        {
+          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/10/01/cisa-adds-one-known-exploited-vulnerability-catalog",
+          "date": "Oct 01, 2026",
+          "description": "Visit link for details."
+        },
+        {
+          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/09/30/cisa-adds-one-known-exploited-vulnerability-catalog",
+          "date": "Sep 30, 2026",
+          "description": "Visit link for details."
+        },
+        {
+          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/09/29/cisa-adds-one-known-exploited-vulnerability-catalog",
+          "date": "Sep 29, 2026",
+          "description": "Visit link for details."
+        },
+        {
+          "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/09/27/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+          "date": "Sep 27, 2026",
+          "description": "Visit link for details."
+        },
+        {
+          "title": "Critical Zero-Day Vulnerabilities Exploited in Citrix NetScaler ADC, Gateway",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/09/27/critical-zero-day-vulnerabilities-exploited-citrix-netscaler-adc-gateway",
+          "date": "Sep 27, 2026",
+          "description": "Visit link for details."
+        },
+        {
+          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/09/25/cisa-adds-one-known-exploited-vulnerability-catalog",
+          "date": "Sep 25, 2026",
+          "description": "Visit link for details."
+        },
+        {
+          "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/09/25/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+          "date": "Sep 25, 2026",
+          "description": "Visit link for details."
+        }
+      ]
+    },
     "IBM-X-FORCE-EXCHANGE": {
       "items": []
     },
     "VulDB": {
       "items": [
         {
-          "title": "CVE-2026-107842  Contao up to 5.3.49/5.7.11 ModuleSearch information disclosure",
-          "link": "https://vuldb.com/vuln/416001",
-          "date": "Fri, 09 Oct 2026 21:35:08 +0200",
-          "description": "A vulnerability was found in Contao up to 5.3.49/5.7.11 and classified as problematic. This affects an unknown part of the component ModuleSearch. Such manipulation leads to information disclosure.T"
+          "title": "CVE-2026-96341  WPMU DEV Forminator Plugin up to 1.57.3 on WordPress privileges management",
+          "link": "https://vuldb.com/vuln/416259",
+          "date": "Sat, 10 Oct 2026 20:45:57 +0200",
+          "description": "A vulnerability labeled as critical has been found in WPMU DEV Forminator Plugin up to 1.57.3 on WordPress. The impacted element is an unknown function. Such manipulation leads to improper privilege m"
         },
         {
-          "title": "CVE-2026-78797  iStoreOS up to 24.10.7 Tasks Library tasks-lib.lua task_id code injection",
-          "link": "https://vuldb.com/vuln/416000",
-          "date": "Fri, 09 Oct 2026 21:34:43 +0200",
-          "description": "A vulnerability has been found in iStoreOS up to 24.10.7 and classified as very critical. Affected by this issue is some unknown functionality of the file tasks-lib.lua of the component Tasks Library."
+          "title": "CVE-2026-108594  mealie-recipes Mealie up to 3.28.0 OpenID Connect Avatar Fetch server-side request forgery",
+          "link": "https://vuldb.com/vuln/416258",
+          "date": "Sat, 10 Oct 2026 20:45:40 +0200",
+          "description": "A vulnerability identified as problematic has been detected in mealie-recipes Mealie up to 3.28.0. The affected element is an unknown function of the component OpenID Connect Avatar Fetch. This manipu"
         },
         {
-          "title": "CVE-2026-78835  Rocket Software Rocket Remote Desktop 18.0.8583.1 insufficiently protected credentials",
-          "link": "https://vuldb.com/vuln/415999",
-          "date": "Fri, 09 Oct 2026 21:01:32 +0200",
-          "description": "A vulnerability, which was classified as critical, was found in Rocket Software Rocket Remote Desktop 18.0.8583.1. Affected by this vulnerability is an unknown functionality. The manipulation results"
+          "title": "CVE-2026-106610  miniOrange Otp Verification Plugin up to 5.5.7 on WordPress privileges management",
+          "link": "https://vuldb.com/vuln/416257",
+          "date": "Sat, 10 Oct 2026 20:44:56 +0200",
+          "description": "A vulnerability categorized as critical has been discovered in miniOrange Otp Verification Plugin up to 5.5.7 on WordPress. Impacted is an unknown function. The manipulation results in improper privil"
         },
         {
-          "title": "CVE-2026-75353  EIPStackGroup OpENer 2.3 EtherNet/IP ForwardOpen connection-path parser out-of-bounds",
-          "link": "https://vuldb.com/vuln/415998",
-          "date": "Fri, 09 Oct 2026 20:46:54 +0200",
-          "description": "A vulnerability, which was classified as critical, has been found in EIPStackGroup OpENer 2.3. Affected is an unknown function of the component EtherNet/IP ForwardOpen connection-path parser. The mani"
+          "title": "CVE-2026-108595  pulseaiclub Phi up to 0.28.4 Sub-agent Spawning agent_spawn workdir permission",
+          "link": "https://vuldb.com/vuln/416256",
+          "date": "Sat, 10 Oct 2026 20:44:31 +0200",
+          "description": "A vulnerability was found in pulseaiclub Phi up to 0.28.4. It has been rated as problematic. This issue affects the function agent_spawn of the component Sub-agent Spawning. The manipulation of the ar"
         },
         {
-          "title": "CVE-2026-75352  EIPStackGroup OpENer 2.3 EtherNet/IP ForwardOpen connection-path parser integer underflow (76b95cf)",
-          "link": "https://vuldb.com/vuln/415997",
-          "date": "Fri, 09 Oct 2026 20:46:34 +0200",
-          "description": "A vulnerability classified as problematic was found in EIPStackGroup OpENer 2.3. This impacts the function ForwardOpen connection-path parser of the component EtherNet/IP ForwardOpen connection-path p"
+          "title": "CVE-2026-108593  decolua 9router up to 0.5.99 config.yaml baseUrl os command injection",
+          "link": "https://vuldb.com/vuln/416255",
+          "date": "Sat, 10 Oct 2026 20:44:05 +0200",
+          "description": "A vulnerability was found in decolua 9router up to 0.5.99. It has been declared as problematic. This vulnerability affects unknown code of the file config.yaml. Executing a manipulation of the argumen"
         },
         {
-          "title": "CVE-2026-75351  EIPStackGroup OpENer 2.3 EtherNet/IP ForwardOpen connection-path parser out-of-bounds (76b95cf)",
-          "link": "https://vuldb.com/vuln/415996",
-          "date": "Fri, 09 Oct 2026 20:45:33 +0200",
-          "description": "A vulnerability classified as problematic has been found in EIPStackGroup OpENer 2.3. This affects the function ForwardOpen connection-path parser of the component EtherNet/IP ForwardOpen connection-p"
+          "title": "CVE-2026-108592  mini-swe-agent up to 2.4.6 BubblewrapEnvironment information disclosure",
+          "link": "https://vuldb.com/vuln/416254",
+          "date": "Sat, 10 Oct 2026 20:43:35 +0200",
+          "description": "A vulnerability was found in mini-swe-agent up to 2.4.6. It has been classified as problematic. This affects an unknown part of the component BubblewrapEnvironment. Performing a manipulation results i"
         },
         {
-          "title": "CVE-2026-108096  AWS graphql-index-transformer up to 3.1.1 Query Resolvers improper authorization",
-          "link": "https://vuldb.com/vuln/415995",
-          "date": "Fri, 09 Oct 2026 20:32:47 +0200",
-          "description": "A vulnerability described as problematic has been identified in AWS graphql-index-transformer up to 3.1.1. The impacted element is an unknown function of the component Query Resolvers. Such manipulati"
+          "title": "CVE-2026-105892  rtCamp rtMedia Plugin up to 4.7.13 on WordPress path traversal",
+          "link": "https://vuldb.com/vuln/416253",
+          "date": "Sat, 10 Oct 2026 20:43:06 +0200",
+          "description": "A vulnerability was found in rtCamp rtMedia Plugin up to 4.7.13 on WordPress and classified as critical. Affected by this issue is some unknown functionality. Such manipulation leads to path traversal"
         },
         {
-          "title": "CVE-2026-107841  john-broadway pacioli up to 0.9.x pacioli-guard document-layer consent gate Document.cancel improper authorization",
-          "link": "https://vuldb.com/vuln/415994",
-          "date": "Fri, 09 Oct 2026 20:31:55 +0200",
-          "description": "A vulnerability marked as problematic has been reported in john-broadway pacioli up to 0.9.x. The affected element is the function Document.cancel of the component pacioli-guard document-layer consent"
+          "title": "CVE-2026-108591  Innocommerce InnoShop up to 0.9.2 MCP file upload file_get_contents source information disclosure",
+          "link": "https://vuldb.com/vuln/416252",
+          "date": "Sat, 10 Oct 2026 20:42:50 +0200",
+          "description": "A vulnerability has been found in Innocommerce InnoShop up to 0.9.2 and classified as problematic. Affected by this vulnerability is the function file_get_contents of the component MCP file upload. Th"
         },
         {
-          "title": "CVE-2026-75350  EIPStackGroup OpENer 2.3 GetAttributeList buffer overflow",
-          "link": "https://vuldb.com/vuln/415993",
-          "date": "Fri, 09 Oct 2026 20:31:39 +0200",
-          "description": "A vulnerability labeled as problematic has been found in EIPStackGroup OpENer 2.3. Impacted is the function GetAttributeList. The manipulation results in buffer overflow.This vulnerability is report"
+          "title": "CVE-2026-94160  themeStek Extras for LabtechCO Theme Plugin up to 8.4 on WordPress cross site scripting (EUVD-2026-96375)",
+          "link": "https://vuldb.com/vuln/416251",
+          "date": "Sat, 10 Oct 2026 19:27:57 +0200",
+          "description": "A vulnerability, which was classified as problematic, was found in themeStek Extras for LabtechCO Theme Plugin up to 8.4 on WordPress. Affected is an unknown function. The manipulation results in cros"
         },
         {
-          "title": "CVE-2026-107840  jhaals yopass up to 14.6.x Prometheus metrics middleware pkg/server/server.go Method resource consumption",
-          "link": "https://vuldb.com/vuln/415992",
-          "date": "Fri, 09 Oct 2026 20:30:40 +0200",
-          "description": "A vulnerability identified as problematic has been detected in jhaals yopass up to 14.6.x. This issue affects some unknown processing of the file pkg/server/server.go of the component Prometheus metri"
-        }
-      ]
-    },
-    "HK-CERT": {
-      "items": [
-        {
-          "title": "SUSE Linux Kernel Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20261002",
-          "date": " Release Date: 2 Oct 2026 ",
-          "description": "Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, data manipulation, security restriction bypass, sensitive information disclosure and remote code execution on the targeted system. [Updated on..."
-        },
-        {
-          "title": "Apache HTTP Server Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/apache-http-server-multiple-vulnerabilities_20261009",
-          "date": "Release Date: 9 Oct 2026 ",
-          "description": "Multiple vulnerabilities were identified in Apache HTTP Server. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, data manipulation, denial of service condition, security restriction bypass and sensitive information disclosure on the targeted system."
-        },
-        {
-          "title": "ONLYOFFICE Docs Remote Code Execution Vulnerability",
-          "link": "https://www.hkcert.org/security-bulletin/onlyoffice-docs-remote-code-execution-vulnerability_20261009",
-          "date": "Release Date: 9 Oct 2026 ",
-          "description": "A vulnerability was identified in ONLYOFFICE Docs. A remote attacker could exploit this vulnerability to trigger remote code execution and security restriction bypass on the targeted system. Note:CVE-2021-3199 is being exploited in the wild. ONLYOFFICE Docs contains a path..."
-        },
-        {
-          "title": "Splunk Products Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/splunk-products-multiple-vulnerabilities_20261009",
-          "date": "Release Date: 9 Oct 2026 ",
-          "description": "Multiple vulnerabilities were identified in Splunk products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition, elevation of privilege, security restriction bypass, sensitive information disclosure and remote code execution on the targeted system."
-        },
-        {
-          "title": "Ubuntu Linux Kernel Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20261002",
-          "date": " Release Date: 2 Oct 2026 ",
-          "description": "Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, denial of service condition, elevation of privilege, security restriction bypass, sensitive information disclosure, remote code execution, data manipulation and spoofing..."
-        },
-        {
-          "title": "Cisco Products Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20261008",
-          "date": "Release Date: 8 Oct 2026 ",
-          "description": "Multiple vulnerabilities were identified in Cisco Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, security restriction bypass, sensitive information disclosure and remote code execution on the targeted system."
-        },
-        {
-          "title": "GitHub Enterprise Server Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/github-enterprise-server-multiple-vulnerabilities_20261008",
-          "date": "Release Date: 8 Oct 2026 ",
-          "description": "Multiple vulnerabilities were identified in GitHub Enterprise Server. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and data manipulation on the targeted system."
-        },
-        {
-          "title": "IBM WebSphere Products Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/ibm-websphere-products-multiple-vulnerabilities_20261008",
-          "date": "Release Date: 8 Oct 2026 ",
-          "description": "Multiple vulnerabilities were identified in IBM WebSphere Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, sensitive information disclosure and data manipulation on the targeted system."
-        },
-        {
-          "title": "Mozilla Firefox Security Restriction Bypass Vulnerability",
-          "link": "https://www.hkcert.org/security-bulletin/mozilla-firefox-security-restriction-bypass-vulnerability_20261008",
-          "date": "Release Date: 8 Oct 2026 ",
-          "description": "A vulnerability was identified in Mozilla Firefox. A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system."
-        },
-        {
-          "title": "SonicWall SMA1000 Series Products Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/sonicwall-sma1000-series-products-multiple-vulnerabilities_20261008",
-          "date": "Release Date: 8 Oct 2026 ",
-          "description": "Multiple vulnerabilities were identified in SonicWall SMA1000 Series Products. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, security restriction bypass and remote code execution on the targeted system."
+          "title": "CVE-2026-106608  Automattic WooCommerce Plugin up to 11.1.2 on WordPress privileges management (EUVD-2026-96377)",
+          "link": "https://vuldb.com/vuln/416250",
+          "date": "Sat, 10 Oct 2026 19:27:29 +0200",
+          "description": "A vulnerability, which was classified as problematic, has been found in Automattic WooCommerce Plugin up to 11.1.2 on WordPress. This impacts an unknown function. The manipulation leads to improper pr"
         }
       ]
     },
     "OBS-Vigilance": {
       "items": [
         {
-          "title": "Adminer: multiple vulnerabilities dated 07/08/2026",
-          "link": "https://vigilance.fr/vulnerability/Adminer-multiple-vulnerabilities-dated-07-08-2026-52260",
+          "title": "OpenStack Glance: Server-Side Request Forgery via Legacy Tasks Import",
+          "link": "https://vigilance.fr/vulnerability/OpenStack-Glance-Server-Side-Request-Forgery-via-Legacy-Tasks-Import-52274",
           "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of Adminer, dated 07/08/2026..."
+          "description": "An attacker can trigger a Server-Side Request Forgery of OpenStack Glance, via Legacy Tasks Import, in order to force the server to send queries..."
         },
         {
-          "title": "Progress Telerik UI for AJAX: multiple vulnerabilities dated 07/08/2026",
-          "link": "https://vigilance.fr/vulnerability/Progress-Telerik-UI-for-AJAX-multiple-vulnerabilities-dated-07-08-2026-52259",
+          "title": "IBM Informix Dynamic Server: buffer overflow via sq_sgkprepare",
+          "link": "https://vigilance.fr/vulnerability/IBM-Informix-Dynamic-Server-buffer-overflow-via-sq-sgkprepare-52272",
           "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of Progress Telerik UI for AJAX, dated 07/08/2026..."
+          "description": "An attacker can trigger a buffer overflow of IBM Informix Dynamic Server, via sq_sgkprepare, in order to trigger a denial of service, and possibly to run code..."
         },
         {
-          "title": "TeamPass: two vulnerabilities dated 07/08/2026",
-          "link": "https://vigilance.fr/vulnerability/TeamPass-two-vulnerabilities-dated-07-08-2026-52257",
+          "title": "Python Core: overload via Csv Sniffer Escape Character",
+          "link": "https://vigilance.fr/vulnerability/Python-Core-overload-via-Csv-Sniffer-Escape-Character-52270",
           "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of TeamPass, dated 07/08/2026..."
+          "description": "An attacker can trigger an overload of Python Core, via Csv Sniffer Escape Character, in order to trigger a denial of service..."
         },
         {
-          "title": "IBM Informix Dynamic Server: privilege escalation via oninit",
-          "link": "https://vigilance.fr/vulnerability/IBM-Informix-Dynamic-Server-privilege-escalation-via-oninit-52256",
+          "title": "GIMP: three vulnerabilities dated 10/08/2026",
+          "link": "https://vigilance.fr/vulnerability/GIMP-three-vulnerabilities-dated-10-08-2026-52269",
           "date": "Visit link for details",
-          "description": "An attacker can bypass restrictions of IBM Informix Dynamic Server, via oninit, in order to escalate his privileges..."
+          "description": "An attacker can use several vulnerabilities of GIMP, dated 10/08/2026..."
         },
         {
-          "title": "p11-kit: buffer overflow via Nested Attributes",
-          "link": "https://vigilance.fr/vulnerability/p11-kit-buffer-overflow-via-Nested-Attributes-52255",
+          "title": "Linux kernel: multiple vulnerabilities dated 10/08/2026",
+          "link": "https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-10-08-2026-52268",
           "date": "Visit link for details",
-          "description": "An attacker can trigger a buffer overflow of p11-kit, via Nested Attributes, in order to trigger a denial of service, and possibly to run code..."
+          "description": "An attacker can use several vulnerabilities of the Linux kernel, dated 10/08/2026..."
         },
         {
-          "title": "Linux kernel: multiple vulnerabilities dated 07/08/2026",
-          "link": "https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-07-08-2026-52252",
+          "title": "Icinga: three vulnerabilities dated 10/08/2026",
+          "link": "https://vigilance.fr/vulnerability/Icinga-three-vulnerabilities-dated-10-08-2026-52267",
           "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of the Linux kernel, dated 07/08/2026..."
+          "description": "An attacker can use several vulnerabilities of Icinga, dated 10/08/2026..."
         },
         {
-          "title": "async-http-client: write access via Cookie Injection",
-          "link": "https://vigilance.fr/vulnerability/async-http-client-write-access-via-Cookie-Injection-52249",
+          "title": "Sudo: code execution via NOTBEFORE / NOTAFTER",
+          "link": "https://vigilance.fr/vulnerability/Sudo-code-execution-via-NOTBEFORE-NOTAFTER-52709",
           "date": "Visit link for details",
-          "description": "An attacker can bypass access restrictions of async-http-client, via Cookie Injection, in order to alter data..."
+          "description": "An attacker can use a vulnerability of Sudo, via NOTBEFORE / NOTAFTER, in order to run code..."
         },
         {
-          "title": "udisks2: privilege escalation via Filesystem.Mount D-Bus Method",
-          "link": "https://vigilance.fr/vulnerability/udisks2-privilege-escalation-via-Filesystem-Mount-D-Bus-Method-52248",
+          "title": "Perl Core: buffer overflow via Undersized Superlinear Cache",
+          "link": "https://vigilance.fr/vulnerability/Perl-Core-buffer-overflow-via-Undersized-Superlinear-Cache-52266",
           "date": "Visit link for details",
-          "description": "An attacker can bypass restrictions of udisks2, via Filesystem.Mount D-Bus Method, in order to escalate his privileges..."
+          "description": "An attacker can trigger a buffer overflow of Perl Core, via Undersized Superlinear Cache, in order to trigger a denial of service, and possibly to run code..."
         },
         {
-          "title": "Apple macOS: information disclosure via Screen Sharing",
-          "link": "https://vigilance.fr/vulnerability/Apple-macOS-information-disclosure-via-Screen-Sharing-52250",
+          "title": "Kitty: four vulnerabilities dated 10/08/2026",
+          "link": "https://vigilance.fr/vulnerability/Kitty-four-vulnerabilities-dated-10-08-2026-52264",
           "date": "Visit link for details",
-          "description": "An attacker can bypass access restrictions to data of Apple macOS, via Screen Sharing, in order to read sensitive information..."
+          "description": "An attacker can use several vulnerabilities of Kitty, dated 10/08/2026..."
         },
         {
-          "title": "Splunk Enterprise: multiple vulnerabilities dated 07/08/2026",
-          "link": "https://vigilance.fr/vulnerability/Splunk-Enterprise-multiple-vulnerabilities-dated-07-08-2026-52247",
+          "title": "wpa_supplicant: buffer overflow via Mesh AMPE Messages",
+          "link": "https://vigilance.fr/vulnerability/wpa-supplicant-buffer-overflow-via-Mesh-AMPE-Messages-52263",
           "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of Splunk Enterprise, dated 07/08/2026..."
+          "description": "An attacker can trigger a buffer overflow of wpa_supplicant, via Mesh AMPE Messages, in order to trigger a denial of service, and possibly to run code..."
         }
       ]
     },
@@ -385,6 +321,70 @@
           "link": "https://cert.europa.eu/publications/security-advisories/2026-006/",
           "date": "Wednesday, May 06, 2026 10:44:32 AM CEST",
           "description": "On 6 May 2026, Palo Alto published a security advisory addressing a critical vulnerability affecting PAN-OS. This vulnerability allows an unauthenticated attacker to execute arbitrary code with root privileges."
+        }
+      ]
+    },
+    "HK-CERT": {
+      "items": [
+        {
+          "title": "SUSE Linux Kernel Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20261002",
+          "date": " Release Date: 2 Oct 2026 ",
+          "description": "Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, data manipulation, security restriction bypass, sensitive information disclosure and remote code execution on the targeted system. [Updated on..."
+        },
+        {
+          "title": "Apache HTTP Server Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/apache-http-server-multiple-vulnerabilities_20261009",
+          "date": "Release Date: 9 Oct 2026 ",
+          "description": "Multiple vulnerabilities were identified in Apache HTTP Server. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution, data manipulation, denial of service condition, security restriction bypass and sensitive information disclosure on the targeted system."
+        },
+        {
+          "title": "ONLYOFFICE Docs Remote Code Execution Vulnerability",
+          "link": "https://www.hkcert.org/security-bulletin/onlyoffice-docs-remote-code-execution-vulnerability_20261009",
+          "date": "Release Date: 9 Oct 2026 ",
+          "description": "A vulnerability was identified in ONLYOFFICE Docs. A remote attacker could exploit this vulnerability to trigger remote code execution and security restriction bypass on the targeted system. Note:CVE-2021-3199 is being exploited in the wild. ONLYOFFICE Docs contains a path..."
+        },
+        {
+          "title": "Splunk Products Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/splunk-products-multiple-vulnerabilities_20261009",
+          "date": "Release Date: 9 Oct 2026 ",
+          "description": "Multiple vulnerabilities were identified in Splunk products. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation, denial of service condition, elevation of privilege, security restriction bypass, sensitive information disclosure and remote code execution on the targeted system."
+        },
+        {
+          "title": "Ubuntu Linux Kernel Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20261002",
+          "date": " Release Date: 2 Oct 2026 ",
+          "description": "Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, denial of service condition, elevation of privilege, security restriction bypass, sensitive information disclosure, remote code execution, data manipulation and spoofing..."
+        },
+        {
+          "title": "Cisco Products Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20261008",
+          "date": "Release Date: 8 Oct 2026 ",
+          "description": "Multiple vulnerabilities were identified in Cisco Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, security restriction bypass, sensitive information disclosure and remote code execution on the targeted system."
+        },
+        {
+          "title": "GitHub Enterprise Server Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/github-enterprise-server-multiple-vulnerabilities_20261008",
+          "date": "Release Date: 8 Oct 2026 ",
+          "description": "Multiple vulnerabilities were identified in GitHub Enterprise Server. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and data manipulation on the targeted system."
+        },
+        {
+          "title": "IBM WebSphere Products Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/ibm-websphere-products-multiple-vulnerabilities_20261008",
+          "date": "Release Date: 8 Oct 2026 ",
+          "description": "Multiple vulnerabilities were identified in IBM WebSphere Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, sensitive information disclosure and data manipulation on the targeted system."
+        },
+        {
+          "title": "Mozilla Firefox Security Restriction Bypass Vulnerability",
+          "link": "https://www.hkcert.org/security-bulletin/mozilla-firefox-security-restriction-bypass-vulnerability_20261008",
+          "date": "Release Date: 8 Oct 2026 ",
+          "description": "A vulnerability was identified in Mozilla Firefox. A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system."
+        },
+        {
+          "title": "SonicWall SMA1000 Series Products Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/sonicwall-sma1000-series-products-multiple-vulnerabilities_20261008",
+          "date": "Release Date: 8 Oct 2026 ",
+          "description": "Multiple vulnerabilities were identified in SonicWall SMA1000 Series Products. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, security restriction bypass and remote code execution on the targeted system."
         }
       ]
     },
