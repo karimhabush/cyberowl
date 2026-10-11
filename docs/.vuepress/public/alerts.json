@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T19:05:56.068327+00:00",
+  "generated_at": "2026-10-11T19:17:57.794460+00:00",
   "sources": {
     "CERT-FR": {
       "items": [
@@ -132,198 +132,6 @@
     "IBM-X-FORCE-EXCHANGE": {
       "items": []
     },
-    "VulDB": {
-      "items": [
-        {
-          "title": "CVE-2026-96341  WPMU DEV Forminator Plugin up to 1.57.3 on WordPress privileges management",
-          "link": "https://vuldb.com/vuln/416259",
-          "date": "Sat, 10 Oct 2026 20:45:57 +0200",
-          "description": "A vulnerability labeled as critical has been found in WPMU DEV Forminator Plugin up to 1.57.3 on WordPress. The impacted element is an unknown function. Such manipulation leads to improper privilege m"
-        },
-        {
-          "title": "CVE-2026-108594  mealie-recipes Mealie up to 3.28.0 OpenID Connect Avatar Fetch server-side request forgery",
-          "link": "https://vuldb.com/vuln/416258",
-          "date": "Sat, 10 Oct 2026 20:45:40 +0200",
-          "description": "A vulnerability identified as problematic has been detected in mealie-recipes Mealie up to 3.28.0. The affected element is an unknown function of the component OpenID Connect Avatar Fetch. This manipu"
-        },
-        {
-          "title": "CVE-2026-106610  miniOrange Otp Verification Plugin up to 5.5.7 on WordPress privileges management",
-          "link": "https://vuldb.com/vuln/416257",
-          "date": "Sat, 10 Oct 2026 20:44:56 +0200",
-          "description": "A vulnerability categorized as critical has been discovered in miniOrange Otp Verification Plugin up to 5.5.7 on WordPress. Impacted is an unknown function. The manipulation results in improper privil"
-        },
-        {
-          "title": "CVE-2026-108595  pulseaiclub Phi up to 0.28.4 Sub-agent Spawning agent_spawn workdir permission",
-          "link": "https://vuldb.com/vuln/416256",
-          "date": "Sat, 10 Oct 2026 20:44:31 +0200",
-          "description": "A vulnerability was found in pulseaiclub Phi up to 0.28.4. It has been rated as problematic. This issue affects the function agent_spawn of the component Sub-agent Spawning. The manipulation of the ar"
-        },
-        {
-          "title": "CVE-2026-108593  decolua 9router up to 0.5.99 config.yaml baseUrl os command injection",
-          "link": "https://vuldb.com/vuln/416255",
-          "date": "Sat, 10 Oct 2026 20:44:05 +0200",
-          "description": "A vulnerability was found in decolua 9router up to 0.5.99. It has been declared as problematic. This vulnerability affects unknown code of the file config.yaml. Executing a manipulation of the argumen"
-        },
-        {
-          "title": "CVE-2026-108592  mini-swe-agent up to 2.4.6 BubblewrapEnvironment information disclosure",
-          "link": "https://vuldb.com/vuln/416254",
-          "date": "Sat, 10 Oct 2026 20:43:35 +0200",
-          "description": "A vulnerability was found in mini-swe-agent up to 2.4.6. It has been classified as problematic. This affects an unknown part of the component BubblewrapEnvironment. Performing a manipulation results i"
-        },
-        {
-          "title": "CVE-2026-105892  rtCamp rtMedia Plugin up to 4.7.13 on WordPress path traversal",
-          "link": "https://vuldb.com/vuln/416253",
-          "date": "Sat, 10 Oct 2026 20:43:06 +0200",
-          "description": "A vulnerability was found in rtCamp rtMedia Plugin up to 4.7.13 on WordPress and classified as critical. Affected by this issue is some unknown functionality. Such manipulation leads to path traversal"
-        },
-        {
-          "title": "CVE-2026-108591  Innocommerce InnoShop up to 0.9.2 MCP file upload file_get_contents source information disclosure",
-          "link": "https://vuldb.com/vuln/416252",
-          "date": "Sat, 10 Oct 2026 20:42:50 +0200",
-          "description": "A vulnerability has been found in Innocommerce InnoShop up to 0.9.2 and classified as problematic. Affected by this vulnerability is the function file_get_contents of the component MCP file upload. Th"
-        },
-        {
-          "title": "CVE-2026-94160  themeStek Extras for LabtechCO Theme Plugin up to 8.4 on WordPress cross site scripting (EUVD-2026-96375)",
-          "link": "https://vuldb.com/vuln/416251",
-          "date": "Sat, 10 Oct 2026 19:27:57 +0200",
-          "description": "A vulnerability, which was classified as problematic, was found in themeStek Extras for LabtechCO Theme Plugin up to 8.4 on WordPress. Affected is an unknown function. The manipulation results in cros"
-        },
-        {
-          "title": "CVE-2026-106608  Automattic WooCommerce Plugin up to 11.1.2 on WordPress privileges management (EUVD-2026-96377)",
-          "link": "https://vuldb.com/vuln/416250",
-          "date": "Sat, 10 Oct 2026 19:27:29 +0200",
-          "description": "A vulnerability, which was classified as problematic, has been found in Automattic WooCommerce Plugin up to 11.1.2 on WordPress. This impacts an unknown function. The manipulation leads to improper pr"
-        }
-      ]
-    },
-    "OBS-Vigilance": {
-      "items": [
-        {
-          "title": "OpenStack Glance: Server-Side Request Forgery via Legacy Tasks Import",
-          "link": "https://vigilance.fr/vulnerability/OpenStack-Glance-Server-Side-Request-Forgery-via-Legacy-Tasks-Import-52274",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger a Server-Side Request Forgery of OpenStack Glance, via Legacy Tasks Import, in order to force the server to send queries..."
-        },
-        {
-          "title": "IBM Informix Dynamic Server: buffer overflow via sq_sgkprepare",
-          "link": "https://vigilance.fr/vulnerability/IBM-Informix-Dynamic-Server-buffer-overflow-via-sq-sgkprepare-52272",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger a buffer overflow of IBM Informix Dynamic Server, via sq_sgkprepare, in order to trigger a denial of service, and possibly to run code..."
-        },
-        {
-          "title": "Python Core: overload via Csv Sniffer Escape Character",
-          "link": "https://vigilance.fr/vulnerability/Python-Core-overload-via-Csv-Sniffer-Escape-Character-52270",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger an overload of Python Core, via Csv Sniffer Escape Character, in order to trigger a denial of service..."
-        },
-        {
-          "title": "GIMP: three vulnerabilities dated 10/08/2026",
-          "link": "https://vigilance.fr/vulnerability/GIMP-three-vulnerabilities-dated-10-08-2026-52269",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of GIMP, dated 10/08/2026..."
-        },
-        {
-          "title": "Linux kernel: multiple vulnerabilities dated 10/08/2026",
-          "link": "https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-10-08-2026-52268",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of the Linux kernel, dated 10/08/2026..."
-        },
-        {
-          "title": "Icinga: three vulnerabilities dated 10/08/2026",
-          "link": "https://vigilance.fr/vulnerability/Icinga-three-vulnerabilities-dated-10-08-2026-52267",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of Icinga, dated 10/08/2026..."
-        },
-        {
-          "title": "Sudo: code execution via NOTBEFORE / NOTAFTER",
-          "link": "https://vigilance.fr/vulnerability/Sudo-code-execution-via-NOTBEFORE-NOTAFTER-52709",
-          "date": "Visit link for details",
-          "description": "An attacker can use a vulnerability of Sudo, via NOTBEFORE / NOTAFTER, in order to run code..."
-        },
-        {
-          "title": "Perl Core: buffer overflow via Undersized Superlinear Cache",
-          "link": "https://vigilance.fr/vulnerability/Perl-Core-buffer-overflow-via-Undersized-Superlinear-Cache-52266",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger a buffer overflow of Perl Core, via Undersized Superlinear Cache, in order to trigger a denial of service, and possibly to run code..."
-        },
-        {
-          "title": "Kitty: four vulnerabilities dated 10/08/2026",
-          "link": "https://vigilance.fr/vulnerability/Kitty-four-vulnerabilities-dated-10-08-2026-52264",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of Kitty, dated 10/08/2026..."
-        },
-        {
-          "title": "wpa_supplicant: buffer overflow via Mesh AMPE Messages",
-          "link": "https://vigilance.fr/vulnerability/wpa-supplicant-buffer-overflow-via-Mesh-AMPE-Messages-52263",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger a buffer overflow of wpa_supplicant, via Mesh AMPE Messages, in order to trigger a denial of service, and possibly to run code..."
-        }
-      ]
-    },
-    "EU-CERT": {
-      "items": [
-        {
-          "title": "2026-015: Critical Vulnerability in Multiple Atlassian Products",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-015/",
-          "date": "Wednesday, October 07, 2026 09:52:48 AM CEST",
-          "description": "On 5 October 2026, Atlassian published a security advisory addressing a critical arbitrary file access vulnerability. It affects Bitbucket Data Center, Confluence Data Center, Jira Service Management Data Center, Jira Software Data Center, Bamboo Data Center, Crowd Data Center, Crucible and Fisheye."
-        },
-        {
-          "title": "2026-014: Critical Vulnerabilities in Citrix NetScaler ADC and Gateway",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-014/",
-          "date": "Sunday, September 27, 2026 07:40:52 PM CEST",
-          "description": "On 27 September 2026, Citrix published a security bulletin addressing 8 vulnerabilities affecting customer-managed Citrix NetScaler ADC and Citrix NetScaler Gateway, among which 2 critical unauthenticated Remote Code Execution (RCE) vulnerabilities. Citrix has confirmed active exploitation of these 2 critical vulnerabilities in the wild."
-        },
-        {
-          "title": "2026-013: Critical Vulnerability in F5 BIG-IP APM",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-013/",
-          "date": "Tuesday, September 22, 2026 06:52:36 PM CEST",
-          "description": "On 22 September 2026, F5 published an advisory addressing a critical vulnerability affecting its BIG-IP APM product. The vendor confirmed active exploitation in the wild."
-        },
-        {
-          "title": "2026-012: Critical Vulnerabilities in Check Point Products",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-012/",
-          "date": "Thursday, September 10, 2026 10:20:06 AM CEST",
-          "description": "On 9 September 2026, Check Point released emergency security updates addressing two critical vulnerabilities affecting Check Point Security Gateway, Security Management Server, and Spark Firewall deployments configured to use Remote Access VPN or Site-to-Site VPN. Both vulnerabilities carry a CVSS score of 9.8 and could allow an unauthenticated, remote attacker to execute arbitrary code on affected appliances."
-        },
-        {
-          "title": "2026-011: Critical Vulnerabilities in SAP Kernel and NetWeaver Message Server",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-011/",
-          "date": "Wednesday, September 09, 2026 03:07:59 PM CEST",
-          "description": "On 8 September 2026, as part of its September Security Patch Day, SAP released Security Notes addressing two critical vulnerabilities affecting a broad range of SAP products[3]. The most severe, CVE-2026-44756 (CVSS 10.0), is a memory corruption vulnerability in SAP Extended Passport (EPP) processing, nicknamed \"OVERPASS\" by the Onapsis Research Labs (ORL), which discovered and responsibly disclosed it[3]. The second, CVE-2026-58240 (CVSS 9.8), nicknamed \"S4GET\", is a missing authentication check in the SAP NetWeaver Message Server[6]."
-        },
-        {
-          "title": "2026-010: Critical Vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-010/",
-          "date": "Wednesday, August 19, 2026 06:13:47 PM CEST",
-          "description": "On 19 August 2026, Citrix published a security advisory addressing multiple critical vulnerabilities in NetScaler ADC (formerly Citrix ADC) and NetScaler Gateway (formerly Citrix Gateway)."
-        },
-        {
-          "title": "2026-009: Critical Vulnerabilities in Microsoft SharePoint",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-009/",
-          "date": "Thursday, July 23, 2026 09:13:03 AM CEST",
-          "description": "[UPDATED] On 14 July 2026, Microsoft released security updates addressing critical remote code execution (RCE) vulnerabilities in Microsoft SharePoint Server. On 20 July 2026, WatchTowr identified a proof-of-concept exploit code and subsequently observed active exploitation of CVE-2026-50522, a vulnerability part of an ongoing series of actively exploited flaws affecting on-premise SharePoint Server instances, including CVE-2026-32201, CVE-2026-45659, CVE-2026-56164, and CVE-2026-58644."
-        },
-        {
-          "title": "2026-008: Critical vulnerabilities in Ivanti Sentry",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-008/",
-          "date": "Wednesday, June 10, 2026 01:55:39 PM CEST",
-          "description": "On 9 June 2026, Ivanti released a security advisory addressing two critical vulnerabilities in their Sentry products[1]. An attacker could exploit those flaws to achieve unauthenticated remote code execution on the vulnerable device."
-        },
-        {
-          "title": "2026-007: Critical Vulnerability in Windows Netlogon",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-007/",
-          "date": "Wednesday, June 10, 2026 08:47:08 AM CEST",
-          "description": "On 12 May 2026, Microsoft published a security advisory addressing a critical vulnerability affecting Windows Server when acting as a domain controller. This vulnerability allows an unauthenticated attacker to execute arbitrary code over a network."
-        },
-        {
-          "title": "2026-006: Critical Vulnerability in PAN-OS",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-006/",
-          "date": "Wednesday, May 06, 2026 10:44:32 AM CEST",
-          "description": "On 6 May 2026, Palo Alto published a security advisory addressing a critical vulnerability affecting PAN-OS. This vulnerability allows an unauthenticated attacker to execute arbitrary code with root privileges."
-        }
-      ]
-    },
     "HK-CERT": {
       "items": [
         {
@@ -388,6 +196,134 @@
         }
       ]
     },
+    "VulDB": {
+      "items": [
+        {
+          "title": "CVE-2026-108945  iMoonLab yolov13 up to 73289949533efac82bb5f72ec19b746618656bd2 AutoBackend Model Loading autobackend.py eval imgsz/names/kpt_shape code injection (Issue 81)",
+          "link": "https://vuldb.com/vuln/416770",
+          "date": "Sun, 11 Oct 2026 21:00:02 +0200",
+          "description": "A vulnerability has been found in iMoonLab yolov13 up to 73289949533efac82bb5f72ec19b746618656bd2 and classified as problematic. Affected by this issue is the function eval of the file ultralytics/nn/"
+        },
+        {
+          "title": "CVE-2026-108944  repository RAE up to a4d18c4db766419cbe7cb8c02cd9f7ceb0ec9041 Config-Driven Model Instantiation src/utils/model_utils.py get_obj_from_str target code injection (Issue 82)",
+          "link": "https://vuldb.com/vuln/416769",
+          "date": "Sun, 11 Oct 2026 20:53:07 +0200",
+          "description": "A vulnerability, which was classified as problematic, was found in repository RAE up to a4d18c4db766419cbe7cb8c02cd9f7ceb0ec9041. Affected by this vulnerability is the function get_obj_from_str of the"
+        },
+        {
+          "title": "CVE-2026-108943  ModelTC LightX2V up to 0.5.0 Tokenizer cosmos3_runner.py AutoTokenizer.from_pretrained auto_map code injection (Issue 1559)",
+          "link": "https://vuldb.com/vuln/416768",
+          "date": "Sun, 11 Oct 2026 20:50:24 +0200",
+          "description": "A vulnerability, which was classified as problematic, has been found in ModelTC LightX2V up to 0.5.0. Affected is the function AutoTokenizer.from_pretrained of the file lightx2v/models/runners/cosmos3"
+        },
+        {
+          "title": "CVE-2026-108942  philz1337x clarity-upscaler up to cfbdb842c6c839c8e97741722b8cf9a4b7662d98 Extra Networks Card Rendering ui_extra_networks.py create_html_for_item description cross site scripting (Issue 72)",
+          "link": "https://vuldb.com/vuln/416767",
+          "date": "Sun, 11 Oct 2026 20:47:39 +0200",
+          "description": "A vulnerability classified as problematic was found in philz1337x clarity-upscaler up to cfbdb842c6c839c8e97741722b8cf9a4b7662d98. This impacts the function create_html_for_item of the file modules/ui"
+        },
+        {
+          "title": "CVE-2026-108941  Linketic CityGaussian up to 2.0 Sidecar Parsing internal/utils/common.py parse_cfg_args code injection (Issue 206)",
+          "link": "https://vuldb.com/vuln/416766",
+          "date": "Sun, 11 Oct 2026 20:44:09 +0200",
+          "description": "A vulnerability classified as problematic has been found in Linketic CityGaussian up to 2.0. This affects the function parse_cfg_args of the file internal/utils/common.py of the component Sidecar Pars"
+        },
+        {
+          "title": "CVE-2026-108925  Cohesity NetBackup Administration Console up to 11.1 cross site scripting",
+          "link": "https://vuldb.com/vuln/416765",
+          "date": "Sun, 11 Oct 2026 20:40:40 +0200",
+          "description": "A vulnerability described as problematic has been identified in Cohesity NetBackup Administration Console up to 11.1. The impacted element is an unknown function. Executing a manipulation can lead to"
+        },
+        {
+          "title": "CVE-2026-108940  EricLBuehler Mistral.rs up to 0.9.3 handlers.rs calibration_apply save_cimatrix path traversal",
+          "link": "https://vuldb.com/vuln/416764",
+          "date": "Sun, 11 Oct 2026 20:38:12 +0200",
+          "description": "A vulnerability marked as critical has been reported in EricLBuehler Mistral.rs up to 0.9.3. The affected element is the function calibration_apply of the file mistralrs-server-core/src/handlers.rs. P"
+        },
+        {
+          "title": "CVE-2026-108939  EricLBuehler mistral.rs up to 0.9.3 media_source.rs is_global_ip server-side request forgery",
+          "link": "https://vuldb.com/vuln/416763",
+          "date": "Sun, 11 Oct 2026 20:36:01 +0200",
+          "description": "A vulnerability labeled as problematic has been found in EricLBuehler mistral.rs up to 0.9.3. Impacted is the function is_global_ip of the file mistralrs-server-core/src/media_source.rs. Such manipula"
+        },
+        {
+          "title": "CVE-2026-108938  code-projects Matrimonial System 1.0 db/matrimony.sql file access",
+          "link": "https://vuldb.com/vuln/416762",
+          "date": "Sun, 11 Oct 2026 20:32:18 +0200",
+          "description": "A vulnerability identified as problematic has been detected in code-projects Matrimonial System 1.0. This issue affects some unknown processing of the file db/matrimony.sql. This manipulation causes f"
+        },
+        {
+          "title": "CVE-2026-108937  code-projects Online Ticket Reservation System 1.0 /database/medallion.sql file information disclosure",
+          "link": "https://vuldb.com/vuln/416761",
+          "date": "Sun, 11 Oct 2026 20:30:13 +0200",
+          "description": "A vulnerability categorized as problematic has been discovered in code-projects Online Ticket Reservation System 1.0. This vulnerability affects unknown code of the file /database/medallion.sql. The m"
+        }
+      ]
+    },
+    "OBS-Vigilance": {
+      "items": [
+        {
+          "title": "Intel Processor: multiple vulnerabilities dated 11/08/2026",
+          "link": "https://vigilance.fr/vulnerability/Intel-Processor-multiple-vulnerabilities-dated-11-08-2026-52293",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of Intel Processor, dated 11/08/2026..."
+        },
+        {
+          "title": "AMD EPYC Processors: privilege escalation via SEV-SNP",
+          "link": "https://vigilance.fr/vulnerability/AMD-EPYC-Processors-privilege-escalation-via-SEV-SNP-52292",
+          "date": "Visit link for details",
+          "description": "An attacker can bypass restrictions of AMD EPYC Processors, via SEV-SNP, in order to escalate his privileges..."
+        },
+        {
+          "title": "IBM i: multiple vulnerabilities dated 11/08/2026",
+          "link": "https://vigilance.fr/vulnerability/IBM-i-multiple-vulnerabilities-dated-11-08-2026-52289",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of IBM i, dated 11/08/2026..."
+        },
+        {
+          "title": "TeamPass: multiple vulnerabilities dated 11/08/2026",
+          "link": "https://vigilance.fr/vulnerability/TeamPass-multiple-vulnerabilities-dated-11-08-2026-52287",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of TeamPass, dated 11/08/2026..."
+        },
+        {
+          "title": "TYPO3 Core: Cross Site Scripting via Ineffective Referrer Enforcement",
+          "link": "https://vigilance.fr/vulnerability/TYPO3-Core-Cross-Site-Scripting-via-Ineffective-Referrer-Enforcement-52284",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger a Cross Site Scripting of TYPO3 Core, via Ineffective Referrer Enforcement, in order to run JavaScript code in the context of the web site..."
+        },
+        {
+          "title": "OpenBSD: denial of service via iked",
+          "link": "https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-via-iked-52282",
+          "date": "Visit link for details",
+          "description": "An attacker can cause a fatal error of OpenBSD, via iked, in order to trigger a denial of service..."
+        },
+        {
+          "title": "OpenBSD: buffer overflow via npppd",
+          "link": "https://vigilance.fr/vulnerability/OpenBSD-buffer-overflow-via-npppd-52281",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger a buffer overflow of OpenBSD, via npppd, in order to trigger a denial of service, and possibly to run code..."
+        },
+        {
+          "title": "OpenSSH: three vulnerabilities dated 11/08/2026",
+          "link": "https://vigilance.fr/vulnerability/OpenSSH-three-vulnerabilities-dated-11-08-2026-52280",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of OpenSSH, dated 11/08/2026..."
+        },
+        {
+          "title": "systemd-homed: privilege escalation via System Group Addition",
+          "link": "https://vigilance.fr/vulnerability/systemd-homed-privilege-escalation-via-System-Group-Addition-52277",
+          "date": "Visit link for details",
+          "description": "An attacker can bypass restrictions of systemd-homed, via System Group Addition, in order to escalate his privileges..."
+        },
+        {
+          "title": "libyaml-syck-perl: multiple vulnerabilities dated 11/08/2026",
+          "link": "https://vigilance.fr/vulnerability/libyaml-syck-perl-multiple-vulnerabilities-dated-11-08-2026-52276",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of libyaml-syck-perl, dated 11/08/2026..."
+        }
+      ]
+    },
     "CA-CCS": {
       "items": [
         {
@@ -449,6 +385,70 @@
           "link": "https://www.cyber.gc.ca/en/alerts-advisories/hashicorp-security-advisory-av26-1019",
           "date": "2026-10-08",
           "description": "Visit link for details"
+        }
+      ]
+    },
+    "EU-CERT": {
+      "items": [
+        {
+          "title": "2026-015: Critical Vulnerability in Multiple Atlassian Products",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-015/",
+          "date": "Wednesday, October 07, 2026 09:52:48 AM CEST",
+          "description": "On 5 October 2026, Atlassian published a security advisory addressing a critical arbitrary file access vulnerability. It affects Bitbucket Data Center, Confluence Data Center, Jira Service Management Data Center, Jira Software Data Center, Bamboo Data Center, Crowd Data Center, Crucible and Fisheye."
+        },
+        {
+          "title": "2026-014: Critical Vulnerabilities in Citrix NetScaler ADC and Gateway",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-014/",
+          "date": "Sunday, September 27, 2026 07:40:52 PM CEST",
+          "description": "On 27 September 2026, Citrix published a security bulletin addressing 8 vulnerabilities affecting customer-managed Citrix NetScaler ADC and Citrix NetScaler Gateway, among which 2 critical unauthenticated Remote Code Execution (RCE) vulnerabilities. Citrix has confirmed active exploitation of these 2 critical vulnerabilities in the wild."
+        },
+        {
+          "title": "2026-013: Critical Vulnerability in F5 BIG-IP APM",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-013/",
+          "date": "Tuesday, September 22, 2026 06:52:36 PM CEST",
+          "description": "On 22 September 2026, F5 published an advisory addressing a critical vulnerability affecting its BIG-IP APM product. The vendor confirmed active exploitation in the wild."
+        },
+        {
+          "title": "2026-012: Critical Vulnerabilities in Check Point Products",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-012/",
+          "date": "Thursday, September 10, 2026 10:20:06 AM CEST",
+          "description": "On 9 September 2026, Check Point released emergency security updates addressing two critical vulnerabilities affecting Check Point Security Gateway, Security Management Server, and Spark Firewall deployments configured to use Remote Access VPN or Site-to-Site VPN. Both vulnerabilities carry a CVSS score of 9.8 and could allow an unauthenticated, remote attacker to execute arbitrary code on affected appliances."
+        },
+        {
+          "title": "2026-011: Critical Vulnerabilities in SAP Kernel and NetWeaver Message Server",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-011/",
+          "date": "Wednesday, September 09, 2026 03:07:59 PM CEST",
+          "description": "On 8 September 2026, as part of its September Security Patch Day, SAP released Security Notes addressing two critical vulnerabilities affecting a broad range of SAP products[3]. The most severe, CVE-2026-44756 (CVSS 10.0), is a memory corruption vulnerability in SAP Extended Passport (EPP) processing, nicknamed \"OVERPASS\" by the Onapsis Research Labs (ORL), which discovered and responsibly disclosed it[3]. The second, CVE-2026-58240 (CVSS 9.8), nicknamed \"S4GET\", is a missing authentication check in the SAP NetWeaver Message Server[6]."
+        },
+        {
+          "title": "2026-010: Critical Vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-010/",
+          "date": "Wednesday, August 19, 2026 06:13:47 PM CEST",
+          "description": "On 19 August 2026, Citrix published a security advisory addressing multiple critical vulnerabilities in NetScaler ADC (formerly Citrix ADC) and NetScaler Gateway (formerly Citrix Gateway)."
+        },
+        {
+          "title": "2026-009: Critical Vulnerabilities in Microsoft SharePoint",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-009/",
+          "date": "Thursday, July 23, 2026 09:13:03 AM CEST",
+          "description": "[UPDATED] On 14 July 2026, Microsoft released security updates addressing critical remote code execution (RCE) vulnerabilities in Microsoft SharePoint Server. On 20 July 2026, WatchTowr identified a proof-of-concept exploit code and subsequently observed active exploitation of CVE-2026-50522, a vulnerability part of an ongoing series of actively exploited flaws affecting on-premise SharePoint Server instances, including CVE-2026-32201, CVE-2026-45659, CVE-2026-56164, and CVE-2026-58644."
+        },
+        {
+          "title": "2026-008: Critical vulnerabilities in Ivanti Sentry",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-008/",
+          "date": "Wednesday, June 10, 2026 01:55:39 PM CEST",
+          "description": "On 9 June 2026, Ivanti released a security advisory addressing two critical vulnerabilities in their Sentry products[1]. An attacker could exploit those flaws to achieve unauthenticated remote code execution on the vulnerable device."
+        },
+        {
+          "title": "2026-007: Critical Vulnerability in Windows Netlogon",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-007/",
+          "date": "Wednesday, June 10, 2026 08:47:08 AM CEST",
+          "description": "On 12 May 2026, Microsoft published a security advisory addressing a critical vulnerability affecting Windows Server when acting as a domain controller. This vulnerability allows an unauthenticated attacker to execute arbitrary code over a network."
+        },
+        {
+          "title": "2026-006: Critical Vulnerability in PAN-OS",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-006/",
+          "date": "Wednesday, May 06, 2026 10:44:32 AM CEST",
+          "description": "On 6 May 2026, Palo Alto published a security advisory addressing a critical vulnerability affecting PAN-OS. This vulnerability allows an unauthenticated attacker to execute arbitrary code with root privileges."
         }
       ]
     },
