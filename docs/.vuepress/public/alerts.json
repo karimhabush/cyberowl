@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T22:21:51.385554+00:00",
+  "generated_at": "2026-10-13T20:28:21.436691+00:00",
   "sources": {
     "US-CERT": {
       "items": [
@@ -65,137 +65,137 @@
         }
       ]
     },
-    "IBM-X-FORCE-EXCHANGE": {
+    "CERT-FR": {
       "items": []
     },
-    "CERT-FR": {
+    "IBM-X-FORCE-EXCHANGE": {
       "items": []
     },
     "VulDB": {
       "items": [
         {
-          "title": "CVE-2026-104140  QGIS up to 3.44.11/4.2.3 OGC API Features Rendering getFeatures.html htmlDump feature.properties cross site scripting",
-          "link": "https://vuldb.com/vuln/417292",
-          "date": "Tue, 13 Oct 2026 00:10:37 +0200",
-          "description": "A vulnerability was found in QGIS up to 3.44.11/4.2.3. It has been rated as problematic. The affected element is the function QgsServerOgcApiHandler::htmlDump of the file resources/server/api/ogc/temp"
+          "title": "CVE-2026-105009  Microsoft Windows Server 2012 up to Server 2022 Windows Server Update Service privileges management",
+          "link": "https://vuldb.com/vuln/418067",
+          "date": "Tue, 13 Oct 2026 22:05:07 +0200",
+          "description": "A vulnerability described as critical has been identified in Microsoft Windows Server 2012 up to Server 2022. Affected by this vulnerability is an unknown functionality of the component Windows Server"
         },
         {
-          "title": "CVE-2026-92876  IBM Maximo Application Suite 9.0.0/9.1.0/9.2.0 IoT denial of service",
-          "link": "https://vuldb.com/vuln/417291",
-          "date": "Tue, 13 Oct 2026 00:09:35 +0200",
-          "description": "A vulnerability was found in IBM Maximo Application Suite 9.0.0/9.1.0/9.2.0. It has been declared as problematic. Impacted is an unknown function of the component IoT Component. Such manipulation lead"
+          "title": "CVE-2026-105006  Microsoft Windows up to Server 2025 HID Class Driver use after free",
+          "link": "https://vuldb.com/vuln/418066",
+          "date": "Tue, 13 Oct 2026 22:04:58 +0200",
+          "description": "A vulnerability marked as very critical has been reported in Microsoft Windows. Affected is an unknown function of the component HID Class Driver. Performing a manipulation results in use after free."
         },
         {
-          "title": "CVE-2026-90920  IBM Maximo AI Service 9.1.0/9.2.0 code injection",
-          "link": "https://vuldb.com/vuln/417290",
-          "date": "Tue, 13 Oct 2026 00:09:29 +0200",
-          "description": "A vulnerability was found in IBM Maximo AI Service 9.1.0/9.2.0. It has been classified as critical. This issue affects some unknown processing. This manipulation causes code injection.The identifica"
+          "title": "CVE-2026-105004  Microsoft Windows up to Server 2025 Overlay Filter out-of-bounds",
+          "link": "https://vuldb.com/vuln/418065",
+          "date": "Tue, 13 Oct 2026 22:04:41 +0200",
+          "description": "A vulnerability labeled as very critical has been found in Microsoft Windows. This impacts an unknown function of the component Overlay Filter. Such manipulation leads to out-of-bounds read.This vul"
         },
         {
-          "title": "CVE-2026-90912  IBM Maximo AI Service 9.1.0/9.2.0 recursion",
-          "link": "https://vuldb.com/vuln/417289",
-          "date": "Tue, 13 Oct 2026 00:08:33 +0200",
-          "description": "A vulnerability was found in IBM Maximo AI Service 9.1.0/9.2.0 and classified as problematic. This vulnerability affects unknown code. The manipulation results in uncontrolled recursion.This vulnera"
+          "title": "CVE-2026-105003  Microsoft Windows up to Server 2025 HID Class Driver heap-based overflow",
+          "link": "https://vuldb.com/vuln/418064",
+          "date": "Tue, 13 Oct 2026 22:04:17 +0200",
+          "description": "A vulnerability identified as very critical has been detected in Microsoft Windows. This affects an unknown function of the component HID Class Driver. This manipulation causes heap-based buffer overf"
         },
         {
-          "title": "CVE-2026-49484  Codefori Vscode-Ibmi up to 3.0.0 Object Browser objectBrowser.ts information disclosure",
-          "link": "https://vuldb.com/vuln/417288",
-          "date": "Tue, 13 Oct 2026 00:07:52 +0200",
-          "description": "A vulnerability has been found in Codefori Vscode-Ibmi up to 3.0.0 and classified as problematic. This affects an unknown part of the file src/ui/views/objectBrowser.ts of the component Object Browser"
+          "title": "CVE-2026-103565  Microsoft Windows up to Server 2019 Broadcast DVR User Service use after free",
+          "link": "https://vuldb.com/vuln/418063",
+          "date": "Tue, 13 Oct 2026 22:03:58 +0200",
+          "description": "A vulnerability categorized as very critical has been discovered in Microsoft Windows up to Server 2019. The impacted element is an unknown function of the component Broadcast DVR User Service. The ma"
         },
         {
-          "title": "CVE-2026-90911  IBM Maximo AI Service 9.1.0/9.2.0 resource consumption",
-          "link": "https://vuldb.com/vuln/417287",
-          "date": "Tue, 13 Oct 2026 00:07:32 +0200",
-          "description": "A vulnerability, which was classified as problematic, was found in IBM Maximo AI Service 9.1.0/9.2.0. Affected by this issue is some unknown functionality. Executing a manipulation can lead to resourc"
+          "title": "CVE-2026-103560  Microsoft Windows Server DNS Server improper authorization",
+          "link": "https://vuldb.com/vuln/418062",
+          "date": "Tue, 13 Oct 2026 22:03:41 +0200",
+          "description": "A vulnerability was found in Microsoft Windows Server. It has been rated as problematic. The affected element is an unknown function of the component DNS Server. The manipulation leads to improper aut"
         },
         {
-          "title": "CVE-2026-90921  IBM Maximo AI Service 9.1.0/9.2.0 denial of service",
-          "link": "https://vuldb.com/vuln/417286",
-          "date": "Tue, 13 Oct 2026 00:06:34 +0200",
-          "description": "A vulnerability, which was classified as problematic, has been found in IBM Maximo AI Service 9.1.0/9.2.0. Affected by this vulnerability is an unknown functionality. Performing a manipulation results"
+          "title": "CVE-2026-103555  Microsoft Windows up to Server 2025 Virtual Hard Disk Miniport Driver heap-based overflow",
+          "link": "https://vuldb.com/vuln/418061",
+          "date": "Tue, 13 Oct 2026 22:03:25 +0200",
+          "description": "A vulnerability was found in Microsoft Windows. It has been declared as very critical. Impacted is an unknown function of the component Virtual Hard Disk Miniport Driver. Executing a manipulation can"
         },
         {
-          "title": "CVE-2026-109558  tianma-if EdgeEver up to 1.112.0 privilege escalation",
-          "link": "https://vuldb.com/vuln/417285",
-          "date": "Tue, 13 Oct 2026 00:05:31 +0200",
-          "description": "A vulnerability classified as problematic was found in tianma-if EdgeEver up to 1.112.0. Affected is an unknown function. Such manipulation leads to privilege escalation.This vulnerability is traded"
+          "title": "CVE-2026-103554  Microsoft Windows up to Server 2019 Broadcast DVR User Service use after free",
+          "link": "https://vuldb.com/vuln/418060",
+          "date": "Tue, 13 Oct 2026 22:02:58 +0200",
+          "description": "A vulnerability was found in Microsoft Windows up to Server 2019. It has been classified as very critical. This issue affects some unknown processing of the component Broadcast DVR User Service. Perfo"
         },
         {
-          "title": "CVE-2026-109557  tianma-if EdgeEver up to 1.112.0 information disclosure",
-          "link": "https://vuldb.com/vuln/417284",
-          "date": "Tue, 13 Oct 2026 00:04:31 +0200",
-          "description": "A vulnerability classified as problematic has been found in tianma-if EdgeEver up to 1.112.0. This impacts an unknown function. This manipulation causes information disclosure.This vulnerability app"
+          "title": "CVE-2026-103553  Microsoft Windows up to Server 2025 Partition Management Driver out-of-bounds",
+          "link": "https://vuldb.com/vuln/418059",
+          "date": "Tue, 13 Oct 2026 22:02:43 +0200",
+          "description": "A vulnerability was found in Microsoft Windows and classified as very critical. This vulnerability affects unknown code of the component Partition Management Driver. Such manipulation leads to out-of-"
         },
         {
-          "title": "CVE-2026-109556  tianma-if EdgeEver up to 1.112.0 information disclosure",
-          "link": "https://vuldb.com/vuln/417283",
-          "date": "Tue, 13 Oct 2026 00:03:34 +0200",
-          "description": "A vulnerability described as problematic has been identified in tianma-if EdgeEver up to 1.112.0. This affects an unknown function. The manipulation results in information disclosure.This vulnerabil"
+          "title": "CVE-2026-102216  Microsoft Windows up to Server 2025 StateRepository API type confusion",
+          "link": "https://vuldb.com/vuln/418058",
+          "date": "Tue, 13 Oct 2026 22:02:26 +0200",
+          "description": "A vulnerability has been found in Microsoft Windows and classified as very critical. This affects an unknown part of the component StateRepository API. This manipulation causes type confusion.This v"
         }
       ]
     },
     "OBS-Vigilance": {
       "items": [
         {
-          "title": "Drupal Modules: multiple vulnerabilities dated 12/08/2026",
-          "link": "https://vigilance.fr/vulnerability/Drupal-Modules-multiple-vulnerabilities-dated-12-08-2026-52318",
+          "title": "OpenSSL: overload via QUIC Server Incoming Channel Queue",
+          "link": "https://vigilance.fr/vulnerability/OpenSSL-overload-via-QUIC-Server-Incoming-Channel-Queue-52334",
           "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of Drupal Modules, dated 12/08/2026..."
+          "description": "An attacker can trigger an overload of OpenSSL, via QUIC Server Incoming Channel Queue, in order to trigger a denial of service..."
         },
         {
-          "title": "IBM WebSphere AS: three vulnerabilities dated 12/08/2026",
-          "link": "https://vigilance.fr/vulnerability/IBM-WebSphere-AS-three-vulnerabilities-dated-12-08-2026-52317",
+          "title": "PostgreSQL: multiple vulnerabilities dated 13/08/2026",
+          "link": "https://vigilance.fr/vulnerability/PostgreSQL-multiple-vulnerabilities-dated-13-08-2026-52333",
           "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of IBM WebSphere AS, dated 12/08/2026..."
+          "description": "An attacker can use several vulnerabilities of PostgreSQL, dated 13/08/2026..."
         },
         {
-          "title": "IBM i: file write via Archive Member Names",
-          "link": "https://vigilance.fr/vulnerability/IBM-i-file-write-via-Archive-Member-Names-52316",
+          "title": "Apache Kerby: two vulnerabilities dated 13/08/2026",
+          "link": "https://vigilance.fr/vulnerability/Apache-Kerby-two-vulnerabilities-dated-13-08-2026-52332",
           "date": "Visit link for details",
-          "description": "An attacker can bypass access restrictions of IBM i, via Archive Member Names, in order to alter files..."
+          "description": "An attacker can use several vulnerabilities of Apache Kerby, dated 13/08/2026..."
         },
         {
-          "title": "WordPress Core: code execution via Postscript File",
-          "link": "https://vigilance.fr/vulnerability/WordPress-Core-code-execution-via-Postscript-File-52315",
+          "title": "PAN-OS: information disclosure via URL Filtering",
+          "link": "https://vigilance.fr/vulnerability/PAN-OS-information-disclosure-via-URL-Filtering-52331",
           "date": "Visit link for details",
-          "description": "An attacker can use a vulnerability of WordPress Core, via Postscript File, in order to run code..."
+          "description": "An attacker can bypass access restrictions to data of PAN-OS, via URL Filtering, in order to read sensitive information..."
         },
         {
-          "title": "GitLab CE/EE: multiple vulnerabilities dated 12/08/2026",
-          "link": "https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-dated-12-08-2026-52314",
+          "title": "IBM Db2: multiple vulnerabilities dated 13/08/2026",
+          "link": "https://vigilance.fr/vulnerability/IBM-Db2-multiple-vulnerabilities-dated-13-08-2026-52328",
           "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of GitLab CE/EE, dated 12/08/2026..."
+          "description": "An attacker can use several vulnerabilities of IBM Db2, dated 13/08/2026..."
         },
         {
-          "title": "FortiOS: overload via Slow HTTP",
-          "link": "https://vigilance.fr/vulnerability/FortiOS-overload-via-Slow-HTTP-52313",
+          "title": "Apache CXF: three vulnerabilities dated 13/08/2026",
+          "link": "https://vigilance.fr/vulnerability/Apache-CXF-three-vulnerabilities-dated-13-08-2026-52326",
           "date": "Visit link for details",
-          "description": "An attacker can trigger an overload of FortiOS, via Slow HTTP, in order to trigger a denial of service..."
+          "description": "An attacker can use several vulnerabilities of Apache CXF, dated 13/08/2026..."
         },
         {
-          "title": "FortiOS: buffer overflow via WAD Daemon",
-          "link": "https://vigilance.fr/vulnerability/FortiOS-buffer-overflow-via-WAD-Daemon-52312",
+          "title": "Django: two vulnerabilities dated 13/08/2026",
+          "link": "https://vigilance.fr/vulnerability/Django-two-vulnerabilities-dated-13-08-2026-52325",
           "date": "Visit link for details",
-          "description": "An attacker can trigger a buffer overflow of FortiOS, via WAD Daemon, in order to trigger a denial of service, and possibly to run code..."
+          "description": "An attacker can use several vulnerabilities of Django, dated 13/08/2026..."
         },
         {
-          "title": "FortiManager: privilege escalation via FGFM Authentication",
-          "link": "https://vigilance.fr/vulnerability/FortiManager-privilege-escalation-via-FGFM-Authentication-52311",
+          "title": "Lemonldap-NG: user access via GitHub/Linkedin Authentication Backend",
+          "link": "https://vigilance.fr/vulnerability/Lemonldap-NG-user-access-via-GitHub-Linkedin-Authentication-Backend-52323",
           "date": "Visit link for details",
-          "description": "An attacker can bypass restrictions of FortiManager, via FGFM Authentication, in order to escalate his privileges..."
+          "description": "An attacker can bypass restrictions of Lemonldap::NG, via GitHub/Linkedin Authentication Backend, in order to gain user privileges..."
         },
         {
-          "title": "Telerik UI for ASP.NET AJAX: vulnerability dated 12/08/2026",
-          "link": "https://vigilance.fr/vulnerability/Telerik-UI-for-ASP-NET-AJAX-vulnerability-dated-12-08-2026-52310",
+          "title": "Flatpak: multiple vulnerabilities dated 13/08/2026",
+          "link": "https://vigilance.fr/vulnerability/Flatpak-multiple-vulnerabilities-dated-13-08-2026-52322",
           "date": "Visit link for details",
-          "description": "A vulnerability of Telerik UI for ASP.NET AJAX, dated 12/08/2026, was announced..."
+          "description": "An attacker can use several vulnerabilities of Flatpak, dated 13/08/2026..."
         },
         {
-          "title": "Python Core: overload via Http.client Infinite Chunked Response",
-          "link": "https://vigilance.fr/vulnerability/Python-Core-overload-via-Http-client-Infinite-Chunked-Response-52309",
+          "title": "Wireshark: multiple vulnerabilities dated 13/08/2026",
+          "link": "https://vigilance.fr/vulnerability/Wireshark-multiple-vulnerabilities-dated-13-08-2026-52321",
           "date": "Visit link for details",
-          "description": "An attacker can trigger an overload of Python Core, via Http.client Infinite Chunked Response, in order to trigger a denial of service..."
+          "description": "An attacker can use several vulnerabilities of Wireshark, dated 13/08/2026..."
         }
       ]
     },
@@ -263,72 +263,20 @@
         }
       ]
     },
-    "CA-CCS": {
-      "items": [
-        {
-          "title": "SmarterTools security advisory (AV26-1026)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/smartertools-security-advisory-av26-1026",
-          "date": "2026-10-09",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "SonicWall security advisory (AV26-1017) – Update 1",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av26-1017",
-          "date": "2026-10-09",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "AL26-024 - Critical vulnerabilities affecting Citrix NetScaler ADC and NetScaler Gateway – CVE-2026-88771 and CVE-2026-88772 – Update 2",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/al26-024-critical-vulnerabilities-affecting-citrix-netscaler-adc-netscaler-gateway-cve-2026-88771-cve-2026-88772",
-          "date": "2026-10-09",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "MongoDB security advisory (AV26-1024)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/mongodb-security-advisory-av26-1024",
-          "date": "2026-10-09",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "HPE security advisory (AV26-1025)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av26-1025",
-          "date": "2026-10-09",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Citrix security advisory (AV26-1023)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av26-1023",
-          "date": "2026-10-09",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "IBM security advisory (AV26-1022)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av26-1022",
-          "date": "2026-10-08",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Elastic security advisory (AV26-1021)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/elastic-security-advisory-av26-1021",
-          "date": "2026-10-08",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Cisco security advisory (AV26-1020)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av26-1020",
-          "date": "2026-10-08",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "HashiCorp security advisory (AV26-1019)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/hashicorp-security-advisory-av26-1019",
-          "date": "2026-10-08",
-          "description": "Visit link for details"
-        }
-      ]
-    },
     "HK-CERT": {
       "items": [
+        {
+          "title": "Samsung Products Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20261013",
+          "date": "Release Date: 13 Oct 2026 ",
+          "description": "Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, sensitive information disclosure, remote code execution and denial of service condition on the targeted system."
+        },
+        {
+          "title": "GitLab Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20261013",
+          "date": "Release Date: 13 Oct 2026 ",
+          "description": "Multiple vulnerabilities were identified in GitLab. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure, remote code execution, cross-site scripting, data manipulation and security restriction bypass on the targeted system."
+        },
         {
           "title": "RedHat Linux Kernel Multiple Vulnerabilities",
           "link": "https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20261002",
@@ -376,23 +324,29 @@
           "link": "https://www.hkcert.org/security-bulletin/github-enterprise-server-multiple-vulnerabilities_20261008",
           "date": "Release Date: 8 Oct 2026 ",
           "description": "Multiple vulnerabilities were identified in GitHub Enterprise Server. A remote attacker could exploit some of these vulnerabilities to trigger remote code execution and data manipulation on the targeted system."
-        },
-        {
-          "title": "IBM WebSphere Products Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/ibm-websphere-products-multiple-vulnerabilities_20261008",
-          "date": "Release Date: 8 Oct 2026 ",
-          "description": "Multiple vulnerabilities were identified in IBM WebSphere Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, sensitive information disclosure and data manipulation on the targeted system."
-        },
-        {
-          "title": "Mozilla Firefox Security Restriction Bypass Vulnerability",
-          "link": "https://www.hkcert.org/security-bulletin/mozilla-firefox-security-restriction-bypass-vulnerability_20261008",
-          "date": "Release Date: 8 Oct 2026 ",
-          "description": "A vulnerability was identified in Mozilla Firefox. A remote attacker could exploit this vulnerability to trigger security restriction bypass on the targeted system."
         }
       ]
     },
     "MA-CERT": {
       "items": [
+        {
+          "title": "69461310/26 - Vulnérabilités dans les produits IBM",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-ibm-28",
+          "date": " ",
+          "description": "IBM a publié des mises à jour de sécurité afin de corriger plusieurs vulnérabilités affectant les produits IBM susmentionnés. Leur exploitation pourrait permettre à un attaquant d’exécuter du code…"
+        },
+        {
+          "title": "69451310/26 - Vulnérabilités dans Progress MarkLogic Server",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-progress-marklogic-server",
+          "date": " ",
+          "description": "Progress a publié des mises à jour de sécurité afin de corriger plusieurs vulnérabilités affectant MarkLogic Server. Leur exploitation pourrait permettre à un attaquant d’exécuter du code arbitraire,…"
+        },
+        {
+          "title": "69441310/26 - Vulnérabilités critiques dans les produits SAP",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-sap-16",
+          "date": " ",
+          "description": "SAP annonce la disponibilité de mises à jour de sécurité permettant de corriger plusieurs vulnérabilités critiques affectant les produits susmentionnés. L’exploitation de ces vulnérabilités corrigées…"
+        },
         {
           "title": "69431210/26 - Vulnérabilités affectant GitLab",
           "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-gitlab-21",
@@ -434,24 +388,70 @@
           "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-des-extensions-joomla",
           "date": " ",
           "description": "Plusieurs vulnérabilités ont été corrigées dans les extensions Joomla susmentionnées. Leur exploitation pourrait permettre à un attaquant de réaliser une injection SQL, de contourner les mécanismes de…"
+        }
+      ]
+    },
+    "CA-CCS": {
+      "items": [
+        {
+          "title": "Fortinet security advisory (AV26-1037)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av26-1037",
+          "date": "2026-10-13",
+          "description": "Visit link for details"
         },
         {
-          "title": "69370810/26 - Vulnérabilités affectant des produits Splunk",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-des-produits-splunk-5",
-          "date": " ",
-          "description": "Splunk annonce la  correction  de plusieurs vulnérabilités affectant  ses produits                  susmentionnés. L’exploitation de…"
+          "title": "Esri security advisory (AV26-1036)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/esri-security-advisory-av26-1036",
+          "date": "2026-10-13",
+          "description": "Visit link for details"
         },
         {
-          "title": "69320810/26 - Vulnérabilités affectant IBM WebSphere Application Server",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-ibm-websphere-application-server-0",
-          "date": " ",
-          "description": "IBM annonce la correction de plusieurs vulnérabilités affectant les versions               susmentionnées de son produit IBM WebSphere Application Server…"
+          "title": "Ivanti security advisory (AV26-1035)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av26-1035",
+          "date": "2026-10-13",
+          "description": "Visit link for details"
         },
         {
-          "title": "69360810/26 - Vulnérabilité dans Docker Engine",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-docker-engine",
-          "date": " ",
-          "description": "Une vulnérabilité affecte le mécanisme de validation des certificats de Docker Engine lors de la connexion aux registres. Son exploitation pourrait permettre à un attaquant de contourner les…"
+          "title": "Citrix security advisory (AV26-1034)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av26-1034",
+          "date": "2026-10-13",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Commvault security advisory (AV26-1033)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/commvault-security-advisory-av26-1033",
+          "date": "2026-10-13",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "JetBrains security advisory (AV26-1032)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/jetbrains-security-advisory-av26-1032",
+          "date": "2026-10-13",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Progress security advisory (AV26-1031)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/progress-security-advisory-av26-1031",
+          "date": "2026-10-13",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "SAP security advisory – October 2026 monthly rollup (AV26-1030)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-october-2026-monthly-rollup-av26-1030",
+          "date": "2026-10-13",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "MikroTik security advisory (AV26-1029)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/mikrotik-security-advisory-av26-1029",
+          "date": "2026-10-13",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "GitLab security advisory (AV26-1028)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av26-1028",
+          "date": "2026-10-13",
+          "description": "Visit link for details"
         }
       ]
     },
