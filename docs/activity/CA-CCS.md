@@ -4,14 +4,14 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[IBM security advisory (AV26-1040)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av26-1040)|Visit link for details|2026-10-14|
- |[Adobe security advisory (AV26-1039)](https://www.cyber.gc.ca/en/alerts-advisories/adobe-security-advisory-av26-1039)|Visit link for details|2026-10-14|
- |[Microsoft security advisory – October 2026 monthly rollup (AV26-1038)](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-october-2026-monthly-rollup-av26-1038)|Visit link for details|2026-10-14|
- |[Fortinet security advisory (AV26-1037)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av26-1037)|Visit link for details|2026-10-13|
- |[Esri security advisory (AV26-1036)](https://www.cyber.gc.ca/en/alerts-advisories/esri-security-advisory-av26-1036)|Visit link for details|2026-10-13|
- |[Ivanti security advisory (AV26-1035)](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av26-1035)|Visit link for details|2026-10-13|
- |[Citrix security advisory (AV26-1034)](https://www.cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av26-1034)|Visit link for details|2026-10-13|
- |[Commvault security advisory (AV26-1033)](https://www.cyber.gc.ca/en/alerts-advisories/commvault-security-advisory-av26-1033)|Visit link for details|2026-10-13|
- |[JetBrains security advisory (AV26-1032)](https://www.cyber.gc.ca/en/alerts-advisories/jetbrains-security-advisory-av26-1032)|Visit link for details|2026-10-13|
- |[Progress security advisory (AV26-1031)](https://www.cyber.gc.ca/en/alerts-advisories/progress-security-advisory-av26-1031)|Visit link for details|2026-10-13|
+ |[Atlassian security advisory (AV26-1002) - Update 2](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av26-1002)|Visit link for details|2026-10-15|
+ |[F5 security advisory (AV26-1049)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av26-1049)|Visit link for details|2026-10-15|
+ |[SonicWall security advisory (AV26-1048)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av26-1048)|Visit link for details|2026-10-15|
+ |[Drupal security advisory (AV26-1047)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av26-1047)|Visit link for details|2026-10-15|
+ |[HPE security advisory (AV26-1046)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av26-1046)|Visit link for details|2026-10-15|
+ |[Google security advisory (AV26-1045)](https://www.cyber.gc.ca/en/alerts-advisories/google-security-advisory-av26-1045)|Visit link for details|2026-10-15|
+ |[n8n security advisory (AV26-1044)](https://www.cyber.gc.ca/en/alerts-advisories/n8n-security-advisory-av26-1044)|Visit link for details|2026-10-15|
+ |[Juniper Networks security advisory (AV26-1043)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av26-1043)|Visit link for details|2026-10-15|
+ |[Palo Alto Networks security advisory (AV26-1041) - Update 1](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av26-1041)|Visit link for details|2026-10-15|
+ |[Cisco security advisory (AV26-1042) – Update 1](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av26-1042)|Visit link for details|2026-10-14|
  
