@@ -4,14 +4,14 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[Atlassian security advisory (AV26-1002) - Update 2](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av26-1002)|Visit link for details|2026-10-15|
- |[F5 security advisory (AV26-1049)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av26-1049)|Visit link for details|2026-10-15|
- |[SonicWall security advisory (AV26-1048)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av26-1048)|Visit link for details|2026-10-15|
- |[Drupal security advisory (AV26-1047)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av26-1047)|Visit link for details|2026-10-15|
- |[HPE security advisory (AV26-1046)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av26-1046)|Visit link for details|2026-10-15|
- |[Google security advisory (AV26-1045)](https://www.cyber.gc.ca/en/alerts-advisories/google-security-advisory-av26-1045)|Visit link for details|2026-10-15|
- |[n8n security advisory (AV26-1044)](https://www.cyber.gc.ca/en/alerts-advisories/n8n-security-advisory-av26-1044)|Visit link for details|2026-10-15|
- |[Juniper Networks security advisory (AV26-1043)](https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av26-1043)|Visit link for details|2026-10-15|
- |[Palo Alto Networks security advisory (AV26-1041) - Update 1](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av26-1041)|Visit link for details|2026-10-15|
- |[Cisco security advisory (AV26-1042) – Update 1](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av26-1042)|Visit link for details|2026-10-14|
+ |[Progress security advisory (AV26-1058)](https://www.cyber.gc.ca/en/alerts-advisories/progress-security-advisory-av26-1058)|Visit link for details|2026-10-16|
+ |[AL26-025 - Critical vulnerability impacting BeyondTrust Remote Support – CVE-2026-102764](https://www.cyber.gc.ca/en/alerts-advisories/al26-025-critical-vulnerability-impacting-beyondtrust-remote-support-cve-2026-102764)|Visit link for details|2026-10-16|
+ |[Ivanti security advisory (AV26-1035) - Update 1](https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av26-1035)|Visit link for details|2026-10-16|
+ |[Mozilla security advisory (AV26-1057)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av26-1057)|Visit link for details|2026-10-16|
+ |[Palo Alto Networks security advisory (AV26-1056)](https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av26-1056)|Visit link for details|2026-10-16|
+ |[[Control Systems] Moxa security advisory (AV26-1055)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-moxa-security-advisory-av26-1055)|Visit link for details|2026-10-16|
+ |[BeyondTrust security advisory (AV26-1054)](https://www.cyber.gc.ca/en/alerts-advisories/beyondtrust-security-advisory-av26-1054)|Visit link for details|2026-10-16|
+ |[SUSE Linux security advisory (AV26-1053)](https://www.cyber.gc.ca/en/alerts-advisories/suse-linux-security-advisory-av26-1053)|Visit link for details|2026-10-15|
+ |[[Control systems] Johnson Controls security advisory (AV26-1052)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-johnson-controls-security-advisory-av26-1052)|Visit link for details|2026-10-15|
+ |[[Control systems] Schneider Electric security advisory (AV26-1051)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-schneider-electric-security-advisory-av26-1051)|Visit link for details|2026-10-15|
  
