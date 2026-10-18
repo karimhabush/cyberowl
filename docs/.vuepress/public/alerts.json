@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T17:41:59.219702+00:00",
+  "generated_at": "2026-10-18T17:43:44.866114+00:00",
   "sources": {
     "US-CERT": {
       "items": [
@@ -65,142 +65,108 @@
         }
       ]
     },
-    "CERT-FR": {
-      "items": []
-    },
     "IBM-X-FORCE-EXCHANGE": {
       "items": []
     },
     "VulDB": {
       "items": [
         {
-          "title": "CVE-2026-111942  hrisikeshpal Blood_Bank_Management_System 1.0.0 /abs.php search cross site scripting",
-          "link": "https://vuldb.com/vuln/421592",
-          "date": "Sat, 17 Oct 2026 15:08:06 +0200",
-          "description": "A vulnerability identified as problematic has been detected in hrisikeshpal Blood_Bank_Management_System 1.0.0. Impacted is an unknown function of the file /abs.php. This manipulation of the argument"
+          "title": "CVE-2026-98742  Linux Kernel up to 6.12.112/6.18.55/7.2.9/7.3-rc5 ALSA Sequencer snd_seq_kernel_client_ctl ioctl_mutex race condition",
+          "link": "https://vuldb.com/vuln/421994",
+          "date": "Sun, 18 Oct 2026 19:43:03 +0200",
+          "description": "A vulnerability was found in Linux Kernel up to 6.12.112/6.18.55/7.2.9/7.3-rc5. It has been classified as very critical. Affected by this vulnerability is the function snd_seq_kernel_client_ctl of the"
         },
         {
-          "title": "CVE-2026-110889  Gantry Framework Plugin up to 5.6.4 on WordPress information disclosure (EUVD-2026-103283)",
-          "link": "https://vuldb.com/vuln/421591",
-          "date": "Sat, 17 Oct 2026 13:17:49 +0200",
-          "description": "A vulnerability categorized as problematic has been discovered in Gantry Framework Plugin up to 5.6.4 on WordPress. This issue affects some unknown processing. The manipulation results in information"
+          "title": "CVE-2026-98740  Linux Kernel up to 6.18.55/7.2.9/7.3-rc5 EDAC Altera Driver altr_init_a10_ecc_device_type use after free",
+          "link": "https://vuldb.com/vuln/421993",
+          "date": "Sun, 18 Oct 2026 19:42:26 +0200",
+          "description": "A vulnerability was found in Linux Kernel up to 6.18.55/7.2.9/7.3-rc5 and classified as critical. Affected is the function altr_init_a10_ecc_device_type of the component EDAC Altera Driver. The manipu"
         },
         {
-          "title": "CVE-2026-46675  libpng Sequential Reader png_read_end use after free",
-          "link": "https://vuldb.com/vuln/421590",
-          "date": "Sat, 17 Oct 2026 12:07:46 +0200",
-          "description": "A vulnerability was found in libpng. It has been rated as critical. This vulnerability affects the function png_read_end of the component Sequential Reader. The manipulation leads to use after free."
+          "title": "CVE-2026-98739  Linux Kernel up to 6.12.112/6.18.55/7.2.9/7.3-rc5 Bluetooth RFCOMM rfcomm_tty_install/__rfcomm_release_dev use after free",
+          "link": "https://vuldb.com/vuln/421992",
+          "date": "Sun, 18 Oct 2026 19:42:09 +0200",
+          "description": "A vulnerability has been found in Linux Kernel up to 6.12.112/6.18.55/7.2.9/7.3-rc5 and classified as very critical. This impacts the function rfcomm_tty_install/__rfcomm_release_dev of the component"
         },
         {
-          "title": "CVE-2026-111877  dext34-morgan Books4Cash up to a8d3e357db75c07ac5ffbadcbaee2aeb4db3e571 search.php search cross site scripting",
-          "link": "https://vuldb.com/vuln/421589",
-          "date": "Sat, 17 Oct 2026 12:00:12 +0200",
-          "description": "A vulnerability was found in dext34-morgan Books4Cash up to a8d3e357db75c07ac5ffbadcbaee2aeb4db3e571. It has been declared as problematic. This affects an unknown part of the file search.php. Executin"
+          "title": "CVE-2026-98732  Linux Kernel up to 6.12.112/6.18.55/7.2.9/7.3-rc5 btintel btintel_hw_error buffer overflow",
+          "link": "https://vuldb.com/vuln/421991",
+          "date": "Sun, 18 Oct 2026 19:41:44 +0200",
+          "description": "A vulnerability, which was classified as critical, was found in Linux Kernel up to 6.12.112/6.18.55/7.2.9/7.3-rc5. This affects the function btintel_hw_error of the component btintel. Executing a mani"
         },
         {
-          "title": "CVE-2026-111876  alexpasmantier television up to 0.15.9 entry.rs Entry::output raw command injection (Issue 1124)",
-          "link": "https://vuldb.com/vuln/421588",
-          "date": "Sat, 17 Oct 2026 11:56:54 +0200",
-          "description": "A vulnerability was found in alexpasmantier television up to 0.15.9. It has been classified as problematic. Affected by this issue is the function Entry::output of the file television/channels/entry.r"
+          "title": "CVE-2026-98730  Linux Kernel up to 6.12.112/6.18.55/7.2.9/7.3-rc5 btintel_pcie btintel_pcie_send_frame buffer overflow",
+          "link": "https://vuldb.com/vuln/421990",
+          "date": "Sun, 18 Oct 2026 19:41:20 +0200",
+          "description": "A vulnerability, which was classified as very critical, has been found in Linux Kernel up to 6.12.112/6.18.55/7.2.9/7.3-rc5. The impacted element is the function btintel_pcie_send_frame of the compone"
         },
         {
-          "title": "CVE-2026-111875  David-Crty Databasement up to 1.8.1 Scheduled Restore SaveScheduledRestoreRequest.php schema_name authorization (GHSA-3rjj-69wh-r95f)",
-          "link": "https://vuldb.com/vuln/421587",
-          "date": "Sat, 17 Oct 2026 11:53:42 +0200",
-          "description": "A vulnerability was found in David-Crty Databasement up to 1.8.1 and classified as problematic. Affected by this vulnerability is an unknown functionality of the file app/Http/Requests/Api/V1/SaveSche"
+          "title": "CVE-2026-98731  Linux Kernel up to 6.12.112/6.18.55/7.2.9/7.3-rc5 btintel_pcie btintel_pcie_recv_frame buffer overflow",
+          "link": "https://vuldb.com/vuln/421989",
+          "date": "Sun, 18 Oct 2026 19:41:04 +0200",
+          "description": "A vulnerability classified as very critical was found in Linux Kernel up to 6.12.112/6.18.55/7.2.9/7.3-rc5. The affected element is the function btintel_pcie_recv_frame of the component btintel_pcie."
         },
         {
-          "title": "CVE-2026-111874  OpenCATS 0.10.0 Career Portal CareersUI.php processLogin applyToJobSubAction excessive authentication (Issue 905)",
-          "link": "https://vuldb.com/vuln/421586",
-          "date": "Sat, 17 Oct 2026 11:44:58 +0200",
-          "description": "A vulnerability has been found in OpenCATS 0.10.0 and classified as problematic. Affected is the function processLogin of the file modules/careers/CareersUI.php of the component Career Portal. This ma"
+          "title": "CVE-2026-98725  Linux Kernel up to 6.12.112/6.18.55/7.2.9/7.3-rc5 nvmet-auth fabrics-cmd-auth.c nvmet_auth_challenge out-of-bounds write",
+          "link": "https://vuldb.com/vuln/421988",
+          "date": "Sun, 18 Oct 2026 19:40:20 +0200",
+          "description": "A vulnerability classified as very critical has been found in Linux Kernel up to 6.12.112/6.18.55/7.2.9/7.3-rc5. Impacted is the function nvmet_auth_challenge of the file drivers/nvme/target/fabrics-c"
         },
         {
-          "title": "CVE-2026-111873  itsmeravitejak Online-Examination-System up to e6208e630b14657999bbfe4c9912302d2a1e2449 AJAX Endpoint exammanger.php MySQLDB::topicslist subject sql injection",
-          "link": "https://vuldb.com/vuln/421585",
-          "date": "Sat, 17 Oct 2026 11:40:27 +0200",
-          "description": "A vulnerability, which was classified as critical, was found in itsmeravitejak Online-Examination-System up to e6208e630b14657999bbfe4c9912302d2a1e2449. This impacts the function MySQLDB::topicslist o"
+          "title": "CVE-2026-98726  Linux Kernel up to 6.12.112/6.18.55/7.2.9/7.3-rc5 nvme-multipath out-of-bounds",
+          "link": "https://vuldb.com/vuln/421987",
+          "date": "Sun, 18 Oct 2026 19:40:13 +0200",
+          "description": "A vulnerability described as very critical has been identified in Linux Kernel up to 6.12.112/6.18.55/7.2.9/7.3-rc5. This issue affects some unknown processing of the component nvme-multipath. The man"
         },
         {
-          "title": "CVE-2026-111872  itsmeravitejak Online-Examination-System up to e6208e630b14657999bbfe4c9912302d2a1e2449 database.php getreport id/user/topic sql injection",
-          "link": "https://vuldb.com/vuln/421584",
-          "date": "Sat, 17 Oct 2026 11:40:23 +0200",
-          "description": "A vulnerability, which was classified as critical, has been found in itsmeravitejak Online-Examination-System up to e6208e630b14657999bbfe4c9912302d2a1e2449. This affects the function MySQLDB::valid/M"
+          "title": "CVE-2026-98728  Linux Kernel up to 6.12.112/6.18.55/7.2.9/7.3-rc5 Tpm tpm2_get_random buffer overflow",
+          "link": "https://vuldb.com/vuln/421986",
+          "date": "Sun, 18 Oct 2026 19:40:02 +0200",
+          "description": "A vulnerability marked as critical has been reported in Linux Kernel up to 6.12.112/6.18.55/7.2.9/7.3-rc5. This vulnerability affects the function tpm2_get_random of the component Tpm. The manipulatio"
         },
         {
-          "title": "CVE-2026-111871  itsmeravitejak Online-Examination-System up to e6208e630b14657999bbfe4c9912302d2a1e2449 subjectsdb.php query/qtype/sortname/sortorder sql injection",
-          "link": "https://vuldb.com/vuln/421583",
-          "date": "Sat, 17 Oct 2026 11:40:18 +0200",
-          "description": "A vulnerability classified as critical was found in itsmeravitejak Online-Examination-System up to e6208e630b14657999bbfe4c9912302d2a1e2449. The impacted element is an unknown function of the file qsd"
+          "title": "CVE-2026-98721  Linux Kernel up to 6.12.112/6.18.55/7.2.9/7.3-rc5 Cadence NAND Driver initialization",
+          "link": "https://vuldb.com/vuln/421985",
+          "date": "Sun, 18 Oct 2026 19:39:08 +0200",
+          "description": "A vulnerability labeled as very critical has been found in Linux Kernel up to 6.12.112/6.18.55/7.2.9/7.3-rc5. This affects an unknown part of the component Cadence NAND Driver. Executing a manipulatio"
         }
       ]
     },
-    "CA-CCS": {
-      "items": [
-        {
-          "title": "Google security advisory (AV26-1060)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/google-security-advisory-av26-1060",
-          "date": "2026-10-16",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "BMC Helix security advisory (AV26-1059)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/bmc-helix-security-advisory-av26-1059",
-          "date": "2026-10-16",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "BeyondTrust security advisory (AV26-1054) – Update 1",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/beyondtrust-security-advisory-av26-1054",
-          "date": "2026-10-16",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Progress security advisory (AV26-1058)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/progress-security-advisory-av26-1058",
-          "date": "2026-10-16",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "AL26-025 - Critical vulnerability impacting BeyondTrust Remote Support – CVE-2026-102764",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/al26-025-critical-vulnerability-impacting-beyondtrust-remote-support-cve-2026-102764",
-          "date": "2026-10-16",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Ivanti security advisory (AV26-1035) - Update 1",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av26-1035",
-          "date": "2026-10-16",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Mozilla security advisory (AV26-1057)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av26-1057",
-          "date": "2026-10-16",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Palo Alto Networks security advisory (AV26-1056)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av26-1056",
-          "date": "2026-10-16",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "[Control Systems] Moxa security advisory (AV26-1055)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/control-systems-moxa-security-advisory-av26-1055",
-          "date": "2026-10-16",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "SUSE Linux security advisory (AV26-1053)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/suse-linux-security-advisory-av26-1053",
-          "date": "2026-10-15",
-          "description": "Visit link for details"
-        }
-      ]
+    "CERT-FR": {
+      "items": []
     },
     "OBS-Vigilance": {
       "items": [
+        {
+          "title": "TeamPass: multiple vulnerabilities dated 18/08/2026",
+          "link": "https://vigilance.fr/vulnerability/TeamPass-multiple-vulnerabilities-dated-18-08-2026-52368",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of TeamPass, dated 18/08/2026..."
+        },
+        {
+          "title": "RabbitMQ Server: multiple vulnerabilities dated 18/08/2026",
+          "link": "https://vigilance.fr/vulnerability/RabbitMQ-Server-multiple-vulnerabilities-dated-18-08-2026-52366",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of RabbitMQ Server, dated 18/08/2026..."
+        },
+        {
+          "title": "Python Core: information disclosure via HTTPPasswordMgr",
+          "link": "https://vigilance.fr/vulnerability/Python-Core-information-disclosure-via-HTTPPasswordMgr-52365",
+          "date": "Visit link for details",
+          "description": "An attacker can bypass access restrictions to data of Python Core, via HTTPPasswordMgr, in order to read sensitive information..."
+        },
+        {
+          "title": "IBM i: integer overflow via Bounds Checking",
+          "link": "https://vigilance.fr/vulnerability/IBM-i-integer-overflow-via-Bounds-Checking-52360",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger an integer overflow of IBM i, via Bounds Checking, in order to trigger a denial of service, and possibly to run code..."
+        },
+        {
+          "title": "IBM i: out-of-bounds memory reading via Host Servers",
+          "link": "https://vigilance.fr/vulnerability/IBM-i-out-of-bounds-memory-reading-via-Host-Servers-52359",
+          "date": "Visit link for details",
+          "description": "An attacker can force a read at an invalid memory address of IBM i, via Host Servers, in order to trigger a denial of service, or to obtain sensitive information..."
+        },
         {
           "title": "Microsoft Windows PowerShell: code execution dated 17/08/2026",
           "link": "https://vigilance.fr/vulnerability/Microsoft-Windows-PowerShell-code-execution-dated-17-08-2026-52358",
@@ -230,100 +196,6 @@
           "link": "https://vigilance.fr/vulnerability/Microsoft-Malware-Protection-Engine-privilege-escalation-via-ShieldBreak-52353",
           "date": "Visit link for details",
           "description": "An attacker can bypass restrictions of Microsoft Malware Protection Engine, via ShieldBreak, in order to escalate his privileges..."
-        },
-        {
-          "title": "Microsoft Malware Protection Engine: privilege escalation via ShieldBreak2",
-          "link": "https://vigilance.fr/vulnerability/Microsoft-Malware-Protection-Engine-privilege-escalation-via-ShieldBreak2-52352",
-          "date": "Visit link for details",
-          "description": "An attacker can bypass restrictions of Microsoft Malware Protection Engine, via ShieldBreak2, in order to escalate his privileges..."
-        },
-        {
-          "title": "AIX: multiple vulnerabilities dated 17/08/2026",
-          "link": "https://vigilance.fr/vulnerability/AIX-multiple-vulnerabilities-dated-17-08-2026-52350",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of AIX, dated 17/08/2026..."
-        },
-        {
-          "title": "Linux kernel: multiple vulnerabilities dated 17/08/2026",
-          "link": "https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-17-08-2026-52349",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of the Linux kernel, dated 17/08/2026..."
-        },
-        {
-          "title": "ProFTPD: use after free via FTP STAT Command",
-          "link": "https://vigilance.fr/vulnerability/ProFTPD-use-after-free-via-FTP-STAT-Command-52348",
-          "date": "Visit link for details",
-          "description": "An attacker can force the reuse of a freed memory area of ProFTPD, via FTP STAT Command, in order to trigger a denial of service, and possibly to run code..."
-        },
-        {
-          "title": "OpenStack Ironic: two vulnerabilities dated 17/08/2026",
-          "link": "https://vigilance.fr/vulnerability/OpenStack-Ironic-two-vulnerabilities-dated-17-08-2026-52347",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of OpenStack Ironic, dated 17/08/2026..."
-        }
-      ]
-    },
-    "HK-CERT": {
-      "items": [
-        {
-          "title": "Google Chrome Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20261016",
-          "date": "Release Date: 16 Oct 2026 ",
-          "description": "Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system."
-        },
-        {
-          "title": "SUSE Linux Kernel Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20261002",
-          "date": " Release Date: 2 Oct 2026 ",
-          "description": "Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, data manipulation, security restriction bypass, sensitive information disclosure and remote code execution on the targeted system. Note:..."
-        },
-        {
-          "title": "Cisco Secure Email Gateway Remote Code Execution Vulnerability",
-          "link": "https://www.hkcert.org/security-bulletin/cisco-secure-email-gateway-remote-code-execution-vulnerability_20261015",
-          "date": "Release Date: 15 Oct 2026 ",
-          "description": "A vulnerability was identified in Cisco products. A remote attacker could exploit this vulnerability to trigger elevation of privilege, remote code execution and data manipulation on the targeted system. Note:CVE-2026-76519 is being exploited in the wild. This vulnerability is..."
-        },
-        {
-          "title": "IBM WebSphere Products Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/ibm-websphere-products-multiple-vulnerabilities_20261015",
-          "date": "Release Date: 15 Oct 2026 ",
-          "description": "Multiple vulnerabilities were identified in IBM WebSphere Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, security restriction bypass, information disclosure, spoofing and data manipulation on the targeted system."
-        },
-        {
-          "title": "Mozilla Products Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20261015",
-          "date": "Release Date: 15 Oct 2026 ",
-          "description": "Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, security restriction bypass, sensitive information disclosure, data manipulation and spoofing on the targeted system."
-        },
-        {
-          "title": "Palo Alto Products Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/palo-alto-products-multiple-vulnerabilities_20261015",
-          "date": "Release Date: 15 Oct 2026 ",
-          "description": "Multiple vulnerabilities were identified in Palo Alto Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege, spoofing, cross-site scripting and security restriction bypass on the targeted system. Note:..."
-        },
-        {
-          "title": "Juniper Junos OS Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/juniper-junos-os-multiple-vulnerabilities_20261015",
-          "date": "Release Date: 15 Oct 2026 ",
-          "description": "Multiple vulnerabilities were identified in Juniper Junos OS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, data manipulation, sensitive information disclosure, elevation of privilege and security restriction bypass on the targeted system."
-        },
-        {
-          "title": "RedHat Linux Kernel Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20261002",
-          "date": " Release Date: 2 Oct 2026 ",
-          "description": "Multiple vulnerabilities were identified in Red Hat Enterprise Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, security restriction bypass, sensitive information disclosure, remote code execution, data manipulation and spoofing on the targeted..."
-        },
-        {
-          "title": "Ubuntu Linux Kernel Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20261002",
-          "date": " Release Date: 2 Oct 2026 ",
-          "description": "Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, denial of service condition, elevation of privilege, security restriction bypass, sensitive information disclosure, remote code execution, data manipulation and spoofing..."
-        },
-        {
-          "title": "Adobe Monthly Security Update (October 2026)",
-          "link": "https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-october-2026",
-          "date": "Release Date: 14 Oct 2026 ",
-          "description": "Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Bridge Medium RiskRemote Code ExecutionInformation Disclosure APSB26-167Adobe ColdFusion Medium RiskRemote Code..."
         }
       ]
     },
@@ -391,8 +263,69 @@
         }
       ]
     },
-    "ZERODAYINITIATIVE": {
-      "items": []
+    "HK-CERT": {
+      "items": [
+        {
+          "title": "Google Chrome Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20261016",
+          "date": "Release Date: 16 Oct 2026 ",
+          "description": "Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system."
+        },
+        {
+          "title": "SUSE Linux Kernel Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20261002",
+          "date": " Release Date: 2 Oct 2026 ",
+          "description": "Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, data manipulation, security restriction bypass, sensitive information disclosure and remote code execution on the targeted system. Note:..."
+        },
+        {
+          "title": "Cisco Secure Email Gateway Remote Code Execution Vulnerability",
+          "link": "https://www.hkcert.org/security-bulletin/cisco-secure-email-gateway-remote-code-execution-vulnerability_20261015",
+          "date": "Release Date: 15 Oct 2026 ",
+          "description": "A vulnerability was identified in Cisco products. A remote attacker could exploit this vulnerability to trigger elevation of privilege, remote code execution and data manipulation on the targeted system. Note:CVE-2026-76519 is being exploited in the wild. This vulnerability is..."
+        },
+        {
+          "title": "IBM WebSphere Products Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/ibm-websphere-products-multiple-vulnerabilities_20261015",
+          "date": "Release Date: 15 Oct 2026 ",
+          "description": "Multiple vulnerabilities were identified in IBM WebSphere Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, security restriction bypass, information disclosure, spoofing and data manipulation on the targeted system."
+        },
+        {
+          "title": "Mozilla Products Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20261015",
+          "date": "Release Date: 15 Oct 2026 ",
+          "description": "Multiple vulnerabilities were identified in Mozilla Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, security restriction bypass, sensitive information disclosure, data manipulation and spoofing on the targeted system."
+        },
+        {
+          "title": "Palo Alto Products Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/palo-alto-products-multiple-vulnerabilities_20261015",
+          "date": "Release Date: 15 Oct 2026 ",
+          "description": "Multiple vulnerabilities were identified in Palo Alto Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege, spoofing, cross-site scripting and security restriction bypass on the targeted system. Note:..."
+        },
+        {
+          "title": "Juniper Junos OS Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/juniper-junos-os-multiple-vulnerabilities_20261015",
+          "date": "Release Date: 15 Oct 2026 ",
+          "description": "Multiple vulnerabilities were identified in Juniper Junos OS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, data manipulation, sensitive information disclosure, elevation of privilege and security restriction bypass on the targeted system."
+        },
+        {
+          "title": "RedHat Linux Kernel Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20261002",
+          "date": " Release Date: 2 Oct 2026 ",
+          "description": "Multiple vulnerabilities were identified in Red Hat Enterprise Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, security restriction bypass, sensitive information disclosure, remote code execution, data manipulation and spoofing on the targeted..."
+        },
+        {
+          "title": "Ubuntu Linux Kernel Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20261002",
+          "date": " Release Date: 2 Oct 2026 ",
+          "description": "Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, denial of service condition, elevation of privilege, security restriction bypass, sensitive information disclosure, remote code execution, data manipulation and spoofing..."
+        },
+        {
+          "title": "Adobe Monthly Security Update (October 2026)",
+          "link": "https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-october-2026",
+          "date": "Release Date: 14 Oct 2026 ",
+          "description": "Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Bridge Medium RiskRemote Code ExecutionInformation Disclosure APSB26-167Adobe ColdFusion Medium RiskRemote Code..."
+        }
+      ]
     },
     "MA-CERT": {
       "items": [
@@ -455,6 +388,73 @@
           "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-f5-5",
           "date": " ",
           "description": "Plusieurs vulnérabilités ont été corrigées dans les produits F5 susmentionnés. L’exploitation de ces failles peut permettre à un attaquant, de provoquer un déni de service, d’accéder à des…"
+        }
+      ]
+    },
+    "ZERODAYINITIATIVE": {
+      "items": []
+    },
+    "CA-CCS": {
+      "items": [
+        {
+          "title": "Google security advisory (AV26-1060)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/google-security-advisory-av26-1060",
+          "date": "2026-10-16",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "BMC Helix security advisory (AV26-1059)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/bmc-helix-security-advisory-av26-1059",
+          "date": "2026-10-16",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "BeyondTrust security advisory (AV26-1054) – Update 1",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/beyondtrust-security-advisory-av26-1054",
+          "date": "2026-10-16",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Progress security advisory (AV26-1058)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/progress-security-advisory-av26-1058",
+          "date": "2026-10-16",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "AL26-025 - Critical vulnerability impacting BeyondTrust Remote Support – CVE-2026-102764",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/al26-025-critical-vulnerability-impacting-beyondtrust-remote-support-cve-2026-102764",
+          "date": "2026-10-16",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Ivanti security advisory (AV26-1035) - Update 1",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av26-1035",
+          "date": "2026-10-16",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Mozilla security advisory (AV26-1057)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av26-1057",
+          "date": "2026-10-16",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Palo Alto Networks security advisory (AV26-1056)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av26-1056",
+          "date": "2026-10-16",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "[Control Systems] Moxa security advisory (AV26-1055)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/control-systems-moxa-security-advisory-av26-1055",
+          "date": "2026-10-16",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "SUSE Linux security advisory (AV26-1053)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/suse-linux-security-advisory-av26-1053",
+          "date": "2026-10-15",
+          "description": "Visit link for details"
         }
       ]
     }
