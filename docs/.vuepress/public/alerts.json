@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T20:19:20.187461+00:00",
+  "generated_at": "2026-10-20T18:52:14.873510+00:00",
   "sources": {
     "US-CERT": {
       "items": [
@@ -65,89 +65,113 @@
         }
       ]
     },
-    "IBM-X-FORCE-EXCHANGE": {
+    "CERT-FR": {
       "items": []
     },
-    "CERT-FR": {
+    "IBM-X-FORCE-EXCHANGE": {
       "items": []
     },
     "VulDB": {
       "items": [
         {
-          "title": "CVE-2026-112260  GIMP XCF out-of-bounds",
-          "link": "https://vuldb.com/vuln/422530",
-          "date": "Mon, 19 Oct 2026 21:50:43 +0200",
-          "description": "A vulnerability identified as problematic has been detected in GIMP. This affects an unknown function of the component XCF Handler. Performing a manipulation results in out-of-bounds read.This vulne"
+          "title": "CVE-2026-113810  Stormshield Network Security up to 4.8.19/5.0.9/5.1.3 Captive Portal cross site scripting",
+          "link": "https://vuldb.com/vuln/422967",
+          "date": "Tue, 20 Oct 2026 20:49:31 +0200",
+          "description": "A vulnerability described as problematic has been identified in Stormshield Network Security up to 4.8.19/5.0.9/5.1.3. Impacted is an unknown function of the component Captive Portal. Such manipulatio"
         },
         {
-          "title": "CVE-2026-112782  Getgrav Grav up to 2.2.1 Image Actions resource consumption",
-          "link": "https://vuldb.com/vuln/422529",
-          "date": "Mon, 19 Oct 2026 21:45:58 +0200",
-          "description": "A vulnerability categorized as problematic has been discovered in Getgrav Grav up to 2.2.1. The impacted element is an unknown function of the component Image Actions. Such manipulation of the argumen"
+          "title": "CVE-2026-111767  Model Context Protocol Typescript SDK up to 1.31.x InMemoryTaskStore access control",
+          "link": "https://vuldb.com/vuln/422966",
+          "date": "Tue, 20 Oct 2026 20:49:00 +0200",
+          "description": "A vulnerability marked as critical has been reported in Model Context Protocol Typescript SDK up to 1.31.x. This issue affects some unknown processing of the component InMemoryTaskStore. This manipula"
         },
         {
-          "title": "CVE-2026-112779  GetGrav Grav Api Plugin up to 1.0.41 Translation Cache/Page Sync {lang} lang resource consumption",
-          "link": "https://vuldb.com/vuln/422528",
-          "date": "Mon, 19 Oct 2026 21:34:40 +0200",
-          "description": "A vulnerability was found in GetGrav Grav Api Plugin up to 1.0.41. It has been rated as critical. The affected element is an unknown function of the file /api/v1/translations/{lang} of the component T"
+          "title": "CVE-2026-111751  Google Angular up to 21.2.24/22.2.0 RouterLink resource consumption",
+          "link": "https://vuldb.com/vuln/422965",
+          "date": "Tue, 20 Oct 2026 20:43:51 +0200",
+          "description": "A vulnerability labeled as problematic has been found in Google Angular up to 21.2.24/22.2.0. This vulnerability affects unknown code of the component RouterLink. The manipulation results in resource"
         },
         {
-          "title": "CVE-2026-112776  Craft CMS up to 5.10.x GraphQL requireAllowedSite siteId improper authorization",
-          "link": "https://vuldb.com/vuln/422527",
-          "date": "Mon, 19 Oct 2026 21:34:25 +0200",
-          "description": "A vulnerability was found in Craft CMS up to 5.10.x. It has been declared as critical. Impacted is the function requireAllowedSite of the component GraphQL. The manipulation of the argument siteId res"
+          "title": "CVE-2026-113709  Argo Project Argo CD up to 3.3.14/3.4.9/3.5.3/3.6.0-rc1 Helm Plugin Loader unrestricted upload",
+          "link": "https://vuldb.com/vuln/422964",
+          "date": "Tue, 20 Oct 2026 20:40:07 +0200",
+          "description": "A vulnerability identified as critical has been detected in Argo Project Argo CD up to 3.3.14/3.4.9/3.5.3/3.6.0-rc1. This affects an unknown part of the component Helm Plugin Loader. The manipulation"
         },
         {
-          "title": "CVE-2026-112771  Craft CMS up to 4.18.7/5.10.x Twig Sandbox ArrayHelper::getValue sandbox",
-          "link": "https://vuldb.com/vuln/422526",
-          "date": "Mon, 19 Oct 2026 21:33:55 +0200",
-          "description": "A vulnerability was found in Craft CMS up to 4.18.7/5.10.x. It has been classified as problematic. This issue affects the function ArrayHelper::getValue of the component Twig Sandbox. The manipulation"
+          "title": "CVE-2026-113808  Stormshield Network Security up to 4.3.44/4.8.19/5.0.9/5.1.3 Captive Portal cross site scripting",
+          "link": "https://vuldb.com/vuln/422963",
+          "date": "Tue, 20 Oct 2026 20:39:30 +0200",
+          "description": "A vulnerability categorized as problematic has been discovered in Stormshield Network Security up to 4.3.44/4.8.19/5.0.9/5.1.3. Affected by this issue is some unknown functionality of the component Ca"
         },
         {
-          "title": "CVE-2026-112775  Craft CMS up to 5.10.x Email Verification improper authentication",
-          "link": "https://vuldb.com/vuln/422525",
-          "date": "Mon, 19 Oct 2026 21:33:41 +0200",
-          "description": "A vulnerability was found in Craft CMS up to 5.10.x and classified as problematic. This vulnerability affects unknown code of the component Email Verification. Executing a manipulation can lead to imp"
+          "title": "CVE-2026-113708  Argo Project Argo CD up to 3.3.14/3.4.9/3.5.3/3.6.0-rc1 Kustomize manifestsWithFiles os command injection",
+          "link": "https://vuldb.com/vuln/422962",
+          "date": "Tue, 20 Oct 2026 20:39:09 +0200",
+          "description": "A vulnerability was found in Argo Project Argo CD up to 3.3.14/3.4.9/3.5.3/3.6.0-rc1. It has been rated as critical. Affected by this vulnerability is an unknown functionality of the file /api/v1/appl"
         },
         {
-          "title": "CVE-2026-112773  Craft CMS up to 5.10.x Twig Sandbox getNext injection",
-          "link": "https://vuldb.com/vuln/422524",
-          "date": "Mon, 19 Oct 2026 21:33:13 +0200",
-          "description": "A vulnerability has been found in Craft CMS up to 5.10.x and classified as critical. This affects the function getNext of the component Twig Sandbox. Performing a manipulation results in injection.T"
+          "title": "CVE-2026-97406  Xerj Console API 1.0.0-rc.11 missing authentication",
+          "link": "https://vuldb.com/vuln/422961",
+          "date": "Tue, 20 Oct 2026 20:38:34 +0200",
+          "description": "A vulnerability was found in Xerj Console API 1.0.0-rc.11. It has been declared as critical. Affected is an unknown function. Such manipulation leads to missing authentication.This vulnerability is"
         },
         {
-          "title": "CVE-2026-112781  getgrav Grav up to 2.2.1 Twig Sandbox information disclosure",
-          "link": "https://vuldb.com/vuln/422523",
-          "date": "Mon, 19 Oct 2026 21:32:33 +0200",
-          "description": "A vulnerability, which was classified as problematic, was found in getgrav Grav up to 2.2.1. Affected by this issue is some unknown functionality of the component Twig Sandbox. Such manipulation leads"
+          "title": "CVE-2026-75997  Adobe Acrobat for Edge up to 154.0.4258.37 out-of-bounds write",
+          "link": "https://vuldb.com/vuln/422960",
+          "date": "Tue, 20 Oct 2026 20:37:55 +0200",
+          "description": "A vulnerability was found in Adobe Acrobat for Edge up to 154.0.4258.37. It has been classified as critical. This impacts an unknown function. This manipulation causes out-of-bounds write.The identi"
         },
         {
-          "title": "CVE-2026-112768  Parse Community Parse Server improper authorization",
-          "link": "https://vuldb.com/vuln/422522",
-          "date": "Mon, 19 Oct 2026 21:32:00 +0200",
-          "description": "A vulnerability, which was classified as problematic, has been found in Parse Community Parse Server. Affected by this vulnerability is an unknown functionality. This manipulation causes improper auth"
+          "title": "CVE-2026-75751  Adobe Acrobat for Edge up to 154.0.4258.37 out-of-bounds write",
+          "link": "https://vuldb.com/vuln/422959",
+          "date": "Tue, 20 Oct 2026 20:37:33 +0200",
+          "description": "A vulnerability was found in Adobe Acrobat for Edge up to 154.0.4258.37 and classified as problematic. This affects an unknown function. The manipulation results in out-of-bounds write.This vulnerab"
         },
         {
-          "title": "CVE-2026-112772  Craft CMS up to 5.10.x Twig Sandbox Craft::createObject as/on code injection",
-          "link": "https://vuldb.com/vuln/422521",
-          "date": "Mon, 19 Oct 2026 21:31:45 +0200",
-          "description": "A vulnerability classified as problematic was found in Craft CMS up to 5.10.x. Affected is the function Craft::createObject of the component Twig Sandbox. The manipulation of the argument as/on result"
+          "title": "CVE-2026-75747  Adobe Acrobat for Edge up to 154.0.4258.37 out-of-bounds write",
+          "link": "https://vuldb.com/vuln/422958",
+          "date": "Tue, 20 Oct 2026 20:36:56 +0200",
+          "description": "A vulnerability has been found in Adobe Acrobat for Edge up to 154.0.4258.37 and classified as critical. The impacted element is an unknown function. The manipulation leads to out-of-bounds write.Th"
         }
       ]
     },
     "HK-CERT": {
       "items": [
         {
-          "title": "Google Chrome Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20261016",
-          "date": "Release Date: 16 Oct 2026 ",
-          "description": "Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system."
+          "title": "Fortinet Products Elevation of Privilege Vulnerability",
+          "link": "https://www.hkcert.org/security-bulletin/fortinet-products-elevation-of-privilege-vulnerability_20261020",
+          "date": "Release Date: 20 Oct 2026 ",
+          "description": "A vulnerability was identified in Fortinet Products. A remote attacker could exploit this vulnerability to trigger elevation of privilege, security restriction bypass and data manipulation on the targeted system.  Note: CVE-2025-61624 is being exploited in the wild. An Improper Limitation of..."
         },
         {
           "title": "SUSE Linux Kernel Multiple Vulnerabilities",
           "link": "https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20261002",
           "date": " Release Date: 2 Oct 2026 ",
           "description": "Multiple vulnerabilities were identified in SUSE Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, data manipulation, security restriction bypass, sensitive information disclosure and remote code execution on the targeted system. Note:..."
+        },
+        {
+          "title": "BeyondTrust Remote Support Security Restriction Bypass Vulnerability",
+          "link": "https://www.hkcert.org/security-bulletin/beyondtrust-remote-support-security-restriction-bypass-vulnerability_20261020",
+          "date": "Release Date: 20 Oct 2026 ",
+          "description": "A vulnerability has been identified in BeyondTrust Remote Support. A remote attacker could exploit this vulnerability to trigger security restriction bypass, data manipulation and spoofing on the targeted system. Note: CVE-2026-102764 is being exploited in the wild. The..."
+        },
+        {
+          "title": "Microsoft Edge Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20261020",
+          "date": "Release Date: 20 Oct 2026 ",
+          "description": "Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, denial of service condition, elevation of privilege, security restriction bypass, sensitive information disclosure, remote code execution, data manipulation and spoofing on..."
+        },
+        {
+          "title": "RedHat Linux Kernel Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20261002",
+          "date": " Release Date: 2 Oct 2026 ",
+          "description": "Multiple vulnerabilities were identified in Red Hat Enterprise Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, security restriction bypass, sensitive information disclosure, remote code execution, data manipulation and spoofing on the targeted..."
+        },
+        {
+          "title": "Google Chrome Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20261016",
+          "date": "Release Date: 16 Oct 2026 ",
+          "description": "Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and remote code execution on the targeted system."
         },
         {
           "title": "Cisco Secure Email Gateway Remote Code Execution Vulnerability",
@@ -172,94 +196,73 @@
           "link": "https://www.hkcert.org/security-bulletin/palo-alto-products-multiple-vulnerabilities_20261015",
           "date": "Release Date: 15 Oct 2026 ",
           "description": "Multiple vulnerabilities were identified in Palo Alto Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, elevation of privilege, spoofing, cross-site scripting and security restriction bypass on the targeted system. Note:..."
-        },
-        {
-          "title": "Juniper Junos OS Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/juniper-junos-os-multiple-vulnerabilities_20261015",
-          "date": "Release Date: 15 Oct 2026 ",
-          "description": "Multiple vulnerabilities were identified in Juniper Junos OS. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, data manipulation, sensitive information disclosure, elevation of privilege and security restriction bypass on the targeted system."
-        },
-        {
-          "title": "RedHat Linux Kernel Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20261002",
-          "date": " Release Date: 2 Oct 2026 ",
-          "description": "Multiple vulnerabilities were identified in Red Hat Enterprise Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, security restriction bypass, sensitive information disclosure, remote code execution, data manipulation and spoofing on the targeted..."
-        },
-        {
-          "title": "Ubuntu Linux Kernel Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20261002",
-          "date": " Release Date: 2 Oct 2026 ",
-          "description": "Multiple vulnerabilities were identified in Ubuntu Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, denial of service condition, elevation of privilege, security restriction bypass, sensitive information disclosure, remote code execution, data manipulation and spoofing..."
-        },
-        {
-          "title": "Adobe Monthly Security Update (October 2026)",
-          "link": "https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-october-2026",
-          "date": "Release Date: 14 Oct 2026 ",
-          "description": "Adobe has released monthly security update for their products: Vulnerable ProductRisk LevelImpactsNotesDetails (including CVE)Adobe Bridge Medium RiskRemote Code ExecutionInformation Disclosure APSB26-167Adobe ColdFusion Medium RiskRemote Code..."
         }
       ]
     },
-    "CA-CCS": {
+    "ZERODAYINITIATIVE": {
+      "items": []
+    },
+    "OBS-Vigilance": {
       "items": [
         {
-          "title": "Redis security advisory (AV26-423) - Update 1",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/redis-security-advisory-av26-423",
-          "date": "2026-10-19",
-          "description": "Visit link for details"
+          "title": "Ibexa DXP: Cross Site Scripting via Back Office",
+          "link": "https://vigilance.fr/vulnerability/Ibexa-DXP-Cross-Site-Scripting-via-Back-Office-52408",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger a Cross Site Scripting of Ibexa DXP, via Back Office, in order to run JavaScript code in the context of the web site..."
         },
         {
-          "title": "Google security advisory (AV26-1060)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/google-security-advisory-av26-1060",
-          "date": "2026-10-16",
-          "description": "Visit link for details"
+          "title": "SABnzbd: user access via Web UI",
+          "link": "https://vigilance.fr/vulnerability/SABnzbd-user-access-via-Web-UI-52407",
+          "date": "Visit link for details",
+          "description": "An attacker can bypass restrictions of SABnzbd, via Web UI, in order to gain user privileges..."
         },
         {
-          "title": "BMC Helix security advisory (AV26-1059)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/bmc-helix-security-advisory-av26-1059",
-          "date": "2026-10-16",
-          "description": "Visit link for details"
+          "title": "FreeIPA: multiple vulnerabilities dated 20/08/2026",
+          "link": "https://vigilance.fr/vulnerability/FreeIPA-multiple-vulnerabilities-dated-20-08-2026-52406",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of FreeIPA, dated 20/08/2026..."
         },
         {
-          "title": "BeyondTrust security advisory (AV26-1054) – Update 1",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/beyondtrust-security-advisory-av26-1054",
-          "date": "2026-10-16",
-          "description": "Visit link for details"
+          "title": "libgit2: multiple vulnerabilities dated 20/08/2026",
+          "link": "https://vigilance.fr/vulnerability/libgit2-multiple-vulnerabilities-dated-20-08-2026-52404",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of libgit2, dated 20/08/2026..."
         },
         {
-          "title": "Progress security advisory (AV26-1058)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/progress-security-advisory-av26-1058",
-          "date": "2026-10-16",
-          "description": "Visit link for details"
+          "title": "rsyslog: directory traversal via DynFile",
+          "link": "https://vigilance.fr/vulnerability/rsyslog-directory-traversal-via-DynFile-52403",
+          "date": "Visit link for details",
+          "description": "An attacker can traverse directories of rsyslog, via DynFile, in order to write a file outside the service root path..."
         },
         {
-          "title": "AL26-025 - Critical vulnerability impacting BeyondTrust Remote Support – CVE-2026-102764",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/al26-025-critical-vulnerability-impacting-beyondtrust-remote-support-cve-2026-102764",
-          "date": "2026-10-16",
-          "description": "Visit link for details"
+          "title": "Angular: information disclosure via withRequestsMadeViaParent",
+          "link": "https://vigilance.fr/vulnerability/Angular-information-disclosure-via-withRequestsMadeViaParent-52402",
+          "date": "Visit link for details",
+          "description": "An attacker can bypass access restrictions to data of Angular, via withRequestsMadeViaP"
         },
         {
-          "title": "Ivanti security advisory (AV26-1035) - Update 1",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av26-1035",
-          "date": "2026-10-16",
-          "description": "Visit link for details"
+          "title": "Designate: two vulnerabilities dated 20/08/2026",
+          "link": "https://vigilance.fr/vulnerability/Designate-two-vulnerabilities-dated-20-08-2026-52401",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of Designate, dated 20/08/2026..."
         },
         {
-          "title": "Mozilla security advisory (AV26-1057)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av26-1057",
-          "date": "2026-10-16",
-          "description": "Visit link for details"
+          "title": "Ceph: four vulnerabilities dated 19/08/2026",
+          "link": "https://vigilance.fr/vulnerability/Ceph-four-vulnerabilities-dated-19-08-2026-52400",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of Ceph, dated 19/08/2026..."
         },
         {
-          "title": "Palo Alto Networks security advisory (AV26-1056)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/palo-alto-networks-security-advisory-av26-1056",
-          "date": "2026-10-16",
-          "description": "Visit link for details"
+          "title": "Dell PowerPath: privilege escalation via Windows",
+          "link": "https://vigilance.fr/vulnerability/Dell-PowerPath-privilege-escalation-via-Windows-52399",
+          "date": "Visit link for details",
+          "description": "An attacker can bypass restrictions of Dell PowerPath, via Windows, in order to escalate his privileges..."
         },
         {
-          "title": "[Control Systems] Moxa security advisory (AV26-1055)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/control-systems-moxa-security-advisory-av26-1055",
-          "date": "2026-10-16",
-          "description": "Visit link for details"
+          "title": "Drupal Modules: three vulnerabilities dated 19/08/2026",
+          "link": "https://vigilance.fr/vulnerability/Drupal-Modules-three-vulnerabilities-dated-19-08-2026-52398",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of Drupal Modules, dated 19/08/2026..."
         }
       ]
     },
@@ -327,75 +330,78 @@
         }
       ]
     },
-    "OBS-Vigilance": {
+    "CA-CCS": {
       "items": [
         {
-          "title": "Ceph: four vulnerabilities dated 19/08/2026",
-          "link": "https://vigilance.fr/vulnerability/Ceph-four-vulnerabilities-dated-19-08-2026-52400",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of Ceph, dated 19/08/2026..."
+          "title": "Gitea security advisory (AV26-845) - Update 1",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/gitea-security-advisory-av26-845",
+          "date": "2026-10-20",
+          "description": "Visit link for details"
         },
         {
-          "title": "Dell PowerPath: privilege escalation via Windows",
-          "link": "https://vigilance.fr/vulnerability/Dell-PowerPath-privilege-escalation-via-Windows-52399",
-          "date": "Visit link for details",
-          "description": "An attacker can bypass restrictions of Dell PowerPath, via Windows, in order to escalate his privileges..."
+          "title": "[Control systems] GeoVision security advisory (AV26-1066)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/control-systems-geovision-security-advisory-av26-1066",
+          "date": "2026-10-20",
+          "description": "Visit link for details"
         },
         {
-          "title": "Drupal Modules: three vulnerabilities dated 19/08/2026",
-          "link": "https://vigilance.fr/vulnerability/Drupal-Modules-three-vulnerabilities-dated-19-08-2026-52398",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of Drupal Modules, dated 19/08/2026..."
+          "title": "[Control systems] Advantech security advisory (AV26-1065)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/control-systems-advantech-security-advisory-av26-1065",
+          "date": "2026-10-20",
+          "description": "Visit link for details"
         },
         {
-          "title": "Cisco Unified Contact Center: Server-Side Request Forgery dated 19/08/2026",
-          "link": "https://vigilance.fr/vulnerability/Cisco-Unified-Contact-Center-Server-Side-Request-Forgery-dated-19-08-2026-52397",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger a Server-Side Request Forgery of Cisco Unified Contact Center, dated 19/08/2026, in order to force the server to send queries..."
+          "title": "IBM security advisory (AV26-1064)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av26-1064",
+          "date": "2026-10-20",
+          "description": "Visit link for details"
         },
         {
-          "title": "Dell OpenManage Enterprise: multiple vulnerabilities dated 19/08/2026",
-          "link": "https://vigilance.fr/vulnerability/Dell-OpenManage-Enterprise-multiple-vulnerabilities-dated-19-08-2026-52396",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of Dell OpenManage Enterprise, dated 19/08/2026..."
+          "title": "Siemens security advisory (AV26-1063)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/siemens-security-advisory-av26-1063",
+          "date": "2026-10-19",
+          "description": "Visit link for details"
         },
         {
-          "title": "Python Core: directory traversal via tarfile exit-and-re-entry",
-          "link": "https://vigilance.fr/vulnerability/Python-Core-directory-traversal-via-tarfile-exit-and-re-entry-52393",
-          "date": "Visit link for details",
-          "description": "An attacker can traverse directories of Python Core, via tarfile exit-and-re-entry, in order to write a file outside the service root path..."
+          "title": "Eptura security advisory (AV26-1062)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/eptura-security-advisory-av26-1062",
+          "date": "2026-10-19",
+          "description": "Visit link for details"
         },
         {
-          "title": "Eclipse OpenJ9: denial of service via Nested Annotations",
-          "link": "https://vigilance.fr/vulnerability/Eclipse-OpenJ9-denial-of-service-via-Nested-Annotations-52392",
-          "date": "Visit link for details",
-          "description": "An attacker can cause a fatal error of Eclipse OpenJ9, via Nested Annotations, in order to trigger a denial of service..."
+          "title": "Red Hat security advisory (AV26-1061)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av26-1061",
+          "date": "2026-10-19",
+          "description": "Visit link for details"
         },
         {
-          "title": "SRT: multiple vulnerabilities dated 19/08/2026",
-          "link": "https://vigilance.fr/vulnerability/SRT-multiple-vulnerabilities-dated-19-08-2026-52386",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of SRT, dated 19/08/2026..."
+          "title": "Redis security advisory (AV26-423) - Update 1",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/redis-security-advisory-av26-423",
+          "date": "2026-10-19",
+          "description": "Visit link for details"
         },
         {
-          "title": "Oracle VM VirtualBox: multiple vulnerabilities dated 18/08/2026",
-          "link": "https://vigilance.fr/vulnerability/Oracle-VM-VirtualBox-multiple-vulnerabilities-dated-18-08-2026-52385",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of Oracle VM VirtualBox, dated 18/08/2026..."
+          "title": "Google security advisory (AV26-1060)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/google-security-advisory-av26-1060",
+          "date": "2026-10-16",
+          "description": "Visit link for details"
         },
         {
-          "title": "MySQL: multiple vulnerabilities dated 18/08/2026",
-          "link": "https://vigilance.fr/vulnerability/MySQL-multiple-vulnerabilities-dated-18-08-2026-52381",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of MySQL, dated 18/08/2026..."
+          "title": "BMC Helix security advisory (AV26-1059)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/bmc-helix-security-advisory-av26-1059",
+          "date": "2026-10-16",
+          "description": "Visit link for details"
         }
       ]
     },
-    "ZERODAYINITIATIVE": {
-      "items": []
-    },
     "MA-CERT": {
       "items": [
+        {
+          "title": "69742010/26 - Vulnérabilités affectant le navigateur Microsoft Edge",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-microsoft-edge-22",
+          "date": " ",
+          "description": "Microsoft a publié une mise à jour de sécurité qui permet de corriger plusieurs    vulnérabilités affectant le navigateur Microsoft Edge. L’exploitation de ces vulnérabilités peut…"
+        },
         {
           "title": "69731910/26 - Vulnérabilité critique activement exploitée affectant BeyondTrust Remote…",
           "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-activement-exploitee-affectant-beyondtrust-remote-support",
@@ -449,12 +455,6 @@
           "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-symantec-endpoint-detection-and-response",
           "date": " ",
           "description": "Une vulnérabilité a été corrigée dans Symantec Endpoint Detection and Response. L’exploitation de cette vulnérabilité pourrait permettre à un attaquant d’injecter du code indirect à distance (XSS)."
-        },
-        {
-          "title": "69621510/26 - Vulnérabilités affectant Juniper Junos OS",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-juniper-junos-os-2",
-          "date": " ",
-          "description": "Juniper annonce la correction de plusieurs vulnérabilités   affectant certaines versions de son      produit Junos OS.   Un attaquant pourrait exploiter…"
         }
       ]
     }
