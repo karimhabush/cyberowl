@@ -4,14 +4,14 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Arista Networks security advisory (AV26-1080) – Update 1](https://www.cyber.gc.ca/en/alerts-advisories/arista-networks-security-advisory-av26-1080)|Visit link for details|2026-10-23|
+ |[AL26-026 - Critical vulnerabilities impacting PHP - CVE-2026-109618 and CVE-2026-109619 - Update 1](https://www.cyber.gc.ca/en/alerts-advisories/al26-026-critical-vulnerabilities-impacting-php-cve-2026-109618-cve-2026-109619)|Visit link for details|2026-10-23|
+ |[Fortinet security advisory (AV26-1081)](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av26-1081)|Visit link for details|2026-10-23|
+ |[Fortinet security advisory (AV26-1037) - Update 1](https://www.cyber.gc.ca/en/alerts-advisories/fortinet-security-advisory-av26-1037)|Visit link for details|2026-10-23|
+ |[HPE security advisory (AV26-1079)](https://www.cyber.gc.ca/en/alerts-advisories/hpe-security-advisory-av26-1079)|Visit link for details|2026-10-23|
+ |[MongoDB security advisory (AV26-1078)](https://www.cyber.gc.ca/en/alerts-advisories/mongodb-security-advisory-av26-1078)|Visit link for details|2026-10-23|
+ |[Splunk security advisory (AV26-1077)](https://www.cyber.gc.ca/en/alerts-advisories/splunk-security-advisory-av26-1077)|Visit link for details|2026-10-22|
  |[Atlassian security advisory (AV26-1076)](https://www.cyber.gc.ca/en/alerts-advisories/atlassian-security-advisory-av26-1076)|Visit link for details|2026-10-22|
  |[Roundcube security advisory (AV26-1075)](https://www.cyber.gc.ca/en/alerts-advisories/roundcube-security-advisory-av26-1075)|Visit link for details|2026-10-22|
  |[GitLab security advisory (AV26-1074)](https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av26-1074)|Visit link for details|2026-10-22|
- |[Cisco security advisory (AV26-1073)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av26-1073)|Visit link for details|2026-10-21|
- |[ISC BIND security advisory (AV26-1072)](https://www.cyber.gc.ca/en/alerts-advisories/isc-bind-security-advisory-av26-1072)|Visit link for details|2026-10-21|
- |[Oracle Corporation security advisory (AV26-1071)](https://www.cyber.gc.ca/en/alerts-advisories/oracle-corporation-security-advisory-av26-1071)|Visit link for details|2026-10-21|
- |[AL26-026 - Critical vulnerabilities impacting PHP - CVE-2026-109618 and CVE-2026-109619](https://www.cyber.gc.ca/en/alerts-advisories/al26-026-critical-vulnerabilities-impacting-php-cve-2026-109618-cve-2026-109619)|Visit link for details|2026-10-21|
- |[PHP security advisory (AV26-1070)](https://www.cyber.gc.ca/en/alerts-advisories/php-security-advisory-av26-1070)|Visit link for details|2026-10-21|
- |[Google Chrome security advisory (AV26-1069)](https://www.cyber.gc.ca/en/alerts-advisories/google-chrome-security-advisory-av26-1069)|Visit link for details|2026-10-21|
- |[SolarWinds security advisory (AV26-1068)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av26-1068)|Visit link for details|2026-10-21|
  
