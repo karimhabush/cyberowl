@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T17:46:05.949473+00:00",
+  "generated_at": "2026-10-25T18:01:47.333116+00:00",
   "sources": {
     "US-CERT": {
       "items": [
@@ -71,70 +71,6 @@
     "IBM-X-FORCE-EXCHANGE": {
       "items": []
     },
-    "VulDB": {
-      "items": [
-        {
-          "title": "CVE-2026-115933  GitroomHQ postiz-app up to 2.25.2 improper authentication",
-          "link": "https://vuldb.com/vuln/426134",
-          "date": "Sat, 24 Oct 2026 16:46:53 +0200",
-          "description": "A vulnerability, which was classified as critical, has been found in GitroomHQ postiz-app up to 2.25.2. This issue affects some unknown processing. This manipulation causes improper authentication.T"
-        },
-        {
-          "title": "CVE-2026-115557  PSF Python ssl certificate validation",
-          "link": "https://vuldb.com/vuln/426133",
-          "date": "Sat, 24 Oct 2026 16:45:17 +0200",
-          "description": "A vulnerability classified as problematic was found in PSF Python. This vulnerability affects unknown code of the component ssl. The manipulation results in improper certificate validation.This vuln"
-        },
-        {
-          "title": "CVE-2026-116050  krupalshah Employee Recruitment System up to 922ff6d208278282e7c8e36d70d9ae356adec9fe Registration registerform3.php pemail sql injection (Issue 61)",
-          "link": "https://vuldb.com/vuln/426132",
-          "date": "Sat, 24 Oct 2026 16:39:49 +0200",
-          "description": "A vulnerability classified as critical has been found in krupalshah Employee Recruitment System up to 922ff6d208278282e7c8e36d70d9ae356adec9fe. This affects an unknown part of the file /source/registe"
-        },
-        {
-          "title": "CVE-2026-116049  krupalshah EmployeeRecruitmentSystem up to 922ff6d208278282e7c8e36d70d9ae356adec9fe Registration Wizard registerform2.php mysql_query sql injection (Issue 60)",
-          "link": "https://vuldb.com/vuln/426131",
-          "date": "Sat, 24 Oct 2026 16:39:44 +0200",
-          "description": "A vulnerability described as critical has been identified in krupalshah EmployeeRecruitmentSystem up to 922ff6d208278282e7c8e36d70d9ae356adec9fe. Affected by this issue is the function mysql_query of"
-        },
-        {
-          "title": "CVE-2026-116048  krupalshah EmployeeRecruitmentSystem up to 922ff6d208278282e7c8e36d70d9ae356adec9fe Registration registerform1.php mysql_query sql injection (Issue 59)",
-          "link": "https://vuldb.com/vuln/426130",
-          "date": "Sat, 24 Oct 2026 16:39:40 +0200",
-          "description": "A vulnerability marked as critical has been reported in krupalshah EmployeeRecruitmentSystem up to 922ff6d208278282e7c8e36d70d9ae356adec9fe. Affected by this vulnerability is the function mysql_query"
-        },
-        {
-          "title": "CVE-2014-125135  OctoPrint 1.0.0/1.1.0 Flask Secret Key hard-coded key",
-          "link": "https://vuldb.com/vuln/426129",
-          "date": "Sat, 24 Oct 2026 16:37:27 +0200",
-          "description": "A vulnerability labeled as critical has been found in OctoPrint 1.0.0/1.1.0. Affected is an unknown function of the component Flask Secret Key Handler. Such manipulation leads to use of hard-coded cry"
-        },
-        {
-          "title": "CVE-2013-10077  OctoPrint 1.0.0 API Key settings.py getSettings information disclosure",
-          "link": "https://vuldb.com/vuln/426128",
-          "date": "Sat, 24 Oct 2026 16:37:23 +0200",
-          "description": "A vulnerability identified as problematic has been detected in OctoPrint 1.0.0. This impacts the function getSettings of the file src/octoprint/server/ajax/settings.py of the component API Key Handler"
-        },
-        {
-          "title": "CVE-2026-114192  Magepeople WpEvently Plugin up to 5.7.8 on WordPress access control",
-          "link": "https://vuldb.com/vuln/426127",
-          "date": "Sat, 24 Oct 2026 16:31:36 +0200",
-          "description": "A vulnerability categorized as critical has been discovered in Magepeople WpEvently Plugin up to 5.7.8 on WordPress. This affects an unknown function. The manipulation results in improper access contr"
-        },
-        {
-          "title": "CVE-2026-114704  Christoph Vielgrader Relevanssi Plugin up to 4.28.4 on WordPress deserialization",
-          "link": "https://vuldb.com/vuln/426126",
-          "date": "Sat, 24 Oct 2026 16:30:52 +0200",
-          "description": "A vulnerability was found in Christoph Vielgrader Relevanssi Plugin up to 4.28.4 on WordPress. It has been rated as problematic. The impacted element is an unknown function. The manipulation leads to"
-        },
-        {
-          "title": "CVE-2026-114191  Knit Pay UPI QR Code Payment Gateway Plugin up to 1.6.3 on WordPress authorization",
-          "link": "https://vuldb.com/vuln/426125",
-          "date": "Sat, 24 Oct 2026 16:30:18 +0200",
-          "description": "A vulnerability was found in Knit Pay UPI QR Code Payment Gateway Plugin up to 1.6.3 on WordPress. It has been declared as problematic. The affected element is an unknown function. Executing a manipul"
-        }
-      ]
-    },
     "HK-CERT": {
       "items": [
         {
@@ -202,6 +138,54 @@
     "OBS-Vigilance": {
       "items": [
         {
+          "title": "Stormshield Network Security: Cross Site Scripting via Web Administration Panel",
+          "link": "https://vigilance.fr/vulnerability/Stormshield-Network-Security-Cross-Site-Scripting-via-Web-Administration-Panel-52429",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger a Cross Site Scripting of Stormshield Network Security, via Web Administration Panel, in order to run JavaScript code in the context of the web site..."
+        },
+        {
+          "title": "TYPO3 Extensions: multiple vulnerabilities dated 25/08/2026",
+          "link": "https://vigilance.fr/vulnerability/TYPO3-Extensions-multiple-vulnerabilities-dated-25-08-2026-52428",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of TYPO3 Extensions, dated 25/08/2026..."
+        },
+        {
+          "title": "Contao: multiple vulnerabilities dated 25/08/2026",
+          "link": "https://vigilance.fr/vulnerability/Contao-multiple-vulnerabilities-dated-25-08-2026-52427",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of Contao, dated 25/08/2026..."
+        },
+        {
+          "title": "Nuvoton NPCT7xx: weak encryption via RSA OAEP",
+          "link": "https://vigilance.fr/vulnerability/Nuvoton-NPCT7xx-weak-encryption-via-RSA-OAEP-52426",
+          "date": "Visit link for details",
+          "description": "An attacker can access data on Nuvoton NPCT7xx, via RSA OAEP, in order to read sensitive information..."
+        },
+        {
+          "title": "LibTIFF: integer overflow via cvtRaster()",
+          "link": "https://vigilance.fr/vulnerability/LibTIFF-integer-overflow-via-cvtRaster-52425",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger an integer overflow of LibTIFF, via cvtRaster(), in order to trigger a denial of service, and possibly to run code..."
+        },
+        {
+          "title": "LibTIFF: integer overflow via process_command_opts()",
+          "link": "https://vigilance.fr/vulnerability/LibTIFF-integer-overflow-via-process-command-opts-52424",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger an integer overflow of LibTIFF, via process_command_"
+        },
+        {
+          "title": "Grafana: Cross Site Scripting via generatorURL",
+          "link": "https://vigilance.fr/vulnerability/Grafana-Cross-Site-Scripting-via-generatorURL-52423",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger a Cross Site Scripting of Grafana, via generatorURL, in order to run JavaScript code in the context of the web site..."
+        },
+        {
+          "title": "OpenZFS: file read/write via /dev/zfs",
+          "link": "https://vigilance.fr/vulnerability/OpenZFS-file-read-write-via-dev-zfs-52422",
+          "date": "Visit link for details",
+          "description": "An attacker can bypass access restrictions of OpenZFS, via /dev/zfs, in order to read or alter files..."
+        },
+        {
           "title": "Linux kernel: denial of service via Xen-netfront",
           "link": "https://vigilance.fr/vulnerability/Linux-kernel-denial-of-service-via-Xen-netfront-52836",
           "date": "Visit link for details",
@@ -212,56 +196,75 @@
           "link": "https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-24-08-2026-52420",
           "date": "Visit link for details",
           "description": "An attacker can use several vulnerabilities of the Linux kernel, dated 24/08/2026..."
-        },
-        {
-          "title": "OpenBSD: four vulnerabilities dated 24/08/2026",
-          "link": "https://vigilance.fr/vulnerability/OpenBSD-four-vulnerabilities-dated-24-08-2026-52419",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of OpenBSD, dated 24/08/2026..."
-        },
-        {
-          "title": "Notepad++: multiple vulnerabilities dated 24/08/2026",
-          "link": "https://vigilance.fr/vulnerability/Notepad-multiple-vulnerabilities-dated-24-08-2026-52418",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of Notepad++, dated 24/08/2026..."
-        },
-        {
-          "title": "ImageMagick: multiple vulnerabilities dated 24/08/2026",
-          "link": "https://vigilance.fr/vulnerability/ImageMagick-multiple-vulnerabilities-dated-24-08-2026-52417",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of ImageMagick, dated 24/08/2026..."
-        },
-        {
-          "title": "NVIDIA Driver: multiple vulnerabilities dated 24/08/2026",
-          "link": "https://vigilance.fr/vulnerability/NVIDIA-Driver-multiple-vulnerabilities-dated-24-08-2026-52416",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of NVIDIA Driver, dated 24/08/2026..."
-        },
-        {
-          "title": "Perl Net-DNS: two vulnerabilities dated 24/08/2026",
-          "link": "https://vigilance.fr/vulnerability/Perl-Net-DNS-two-vulnerabilities-dated-24-08-2026-52415",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of Perl Net::DNS, dated 24/08/2026..."
-        },
-        {
-          "title": "Microsoft Word: information disclosure dated 21/08/2026",
-          "link": "https://vigilance.fr/vulnerability/Microsoft-Word-information-disclosure-dated-21-08-2026-52412",
-          "date": "Visit link for details",
-          "description": "An attacker can bypass access restrictions to data of Microsoft Word, dated 21/08/2026, in order to read sensitive information..."
-        },
-        {
-          "title": "Spring Framework: multiple vulnerabilities dated 21/08/2026",
-          "link": "https://vigilance.fr/vulnerability/Spring-Framework-multiple-vulnerabilities-dated-21-08-2026-52411",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of Spring Framework, dated 21/08/2026..."
-        },
-        {
-          "title": "OTRS Help Desk: code execution via PGP Configuration",
-          "link": "https://vigilance.fr/vulnerability/OTRS-Help-Desk-code-execution-via-PGP-Configuration-52410",
-          "date": "Visit link for details",
-          "description": "An attacker can use a vulnerability of OTRS Help Desk, via PGP Configuration, in order to run code..."
         }
       ]
+    },
+    "VulDB": {
+      "items": [
+        {
+          "title": "CVE-2026-116256  geesondog RhaPHP up to 7ae639ccf8dcb627faace096d030bd4cb4cfb905 Mp Module Media Proxy Show.php image url server-side request forgery",
+          "link": "https://vuldb.com/vuln/426295",
+          "date": "Sun, 25 Oct 2026 18:33:49 +0100",
+          "description": "A vulnerability categorized as critical has been discovered in geesondog RhaPHP up to 7ae639ccf8dcb627faace096d030bd4cb4cfb905. Affected by this vulnerability is the function image of the file applica"
+        },
+        {
+          "title": "CVE-2026-116255  PGYER codefever up to 0c35e60f006f9d558cc33a159baf110659351990 URI Sanitizer doc.php _detail uri_string path traversal",
+          "link": "https://vuldb.com/vuln/426294",
+          "date": "Sun, 25 Oct 2026 18:28:24 +0100",
+          "description": "A vulnerability was found in PGYER codefever up to 0c35e60f006f9d558cc33a159baf110659351990. It has been rated as problematic. Affected is the function _detail of the file application/controllers/doc."
+        },
+        {
+          "title": "CVE-2026-115825  HTTP::Server::PSGI up to 1.0055 sysread allocation of resources",
+          "link": "https://vuldb.com/vuln/426293",
+          "date": "Sun, 25 Oct 2026 18:14:18 +0100",
+          "description": "A vulnerability was found in HTTP::Server::PSGI up to 1.0055. It has been declared as problematic. This impacts the function sysread. Executing a manipulation can lead to allocation of resources.Thi"
+        },
+        {
+          "title": "CVE-2026-115824  Miyagawa Starman up to 0.4018 Chunked Body Decoder memory allocation",
+          "link": "https://vuldb.com/vuln/426292",
+          "date": "Sun, 25 Oct 2026 18:13:54 +0100",
+          "description": "A vulnerability was found in Miyagawa Starman up to 0.4018. It has been classified as problematic. This affects an unknown function of the component Chunked Body Decoder. Performing a manipulation res"
+        },
+        {
+          "title": "CVE-2026-115822  miyagawa Starman up to 0.4018 resource consumption",
+          "link": "https://vuldb.com/vuln/426291",
+          "date": "Sun, 25 Oct 2026 18:13:53 +0100",
+          "description": "A vulnerability was found in miyagawa Starman up to 0.4018 and classified as critical. The impacted element is an unknown function. Such manipulation leads to resource consumption.This vulnerability"
+        },
+        {
+          "title": "CVE-2026-115823  Starman up to 0.4018 race condition",
+          "link": "https://vuldb.com/vuln/426290",
+          "date": "Sun, 25 Oct 2026 18:13:48 +0100",
+          "description": "A vulnerability has been found in Starman up to 0.4018 and classified as critical. The affected element is an unknown function. This manipulation causes race condition.The identification of this vul"
+        },
+        {
+          "title": "CVE-2026-115817  miyagawa Starman up to 0.4018 Request Body resource consumption",
+          "link": "https://vuldb.com/vuln/426289",
+          "date": "Sun, 25 Oct 2026 18:13:26 +0100",
+          "description": "A vulnerability, which was classified as problematic, was found in miyagawa Starman up to 0.4018. Impacted is an unknown function of the component Request Body. The manipulation results in resource co"
+        },
+        {
+          "title": "CVE-2026-116254  rathena FluxCP up to 98cd4b8fd83228c11b36fb3d097b8e0f7c105a8d PayPal IPN PaymentNotifyRequest.php verifyiprange X-Real-IP origin validation",
+          "link": "https://vuldb.com/vuln/426288",
+          "date": "Sun, 25 Oct 2026 17:39:39 +0100",
+          "description": "A vulnerability, which was classified as critical, has been found in rathena FluxCP up to 98cd4b8fd83228c11b36fb3d097b8e0f7c105a8d. This issue affects the function verifyiprange of the file lib/Flux/P"
+        },
+        {
+          "title": "CVE-2026-116253  DedeCMS 5.7.118 Advertisement Rendering plus/ad_js.php _RunMagicQuotes aid code injection",
+          "link": "https://vuldb.com/vuln/426287",
+          "date": "Sun, 25 Oct 2026 17:35:31 +0100",
+          "description": "A vulnerability classified as critical was found in DedeCMS 5.7.118. This vulnerability affects the function common.inc.php::_RunMagicQuotes of the file plus/ad_js.php of the component Advertisement R"
+        },
+        {
+          "title": "CVE-2026-116237  Oray Pugongying X5 Pro 7.6.1 Dnsmasq crlf injection",
+          "link": "https://vuldb.com/vuln/426286",
+          "date": "Sun, 25 Oct 2026 16:26:07 +0100",
+          "description": "A vulnerability classified as critical has been found in Oray Pugongying X5 Pro 7.6.1. This affects an unknown part of the component Dnsmasq. Performing a manipulation results in crlf injection.This"
+        }
+      ]
+    },
+    "ZERODAYINITIATIVE": {
+      "items": []
     },
     "EU-CERT": {
       "items": [
@@ -454,9 +457,6 @@
           "description": "Splunk a publié des mises à jour de sécurité afin de corriger plusieurs vulnérabilités affectant Splunk Enterprise et Splunk SOAR. Leur exploitation pourrait permettre à un attaquant d’exécuter du…"
         }
       ]
-    },
-    "ZERODAYINITIATIVE": {
-      "items": []
     }
   }
 }
