@@ -1,9 +1,6 @@
 {
-  "generated_at": "2026-10-30T19:48:57.860251+00:00",
+  "generated_at": "2026-10-31T18:59:09.549630+00:00",
   "sources": {
-    "CERT-FR": {
-      "items": []
-    },
     "US-CERT": {
       "items": [
         {
@@ -74,69 +71,117 @@
     "VulDB": {
       "items": [
         {
-          "title": "CVE-2026-7004  WIT SynApps Runtime up to 1.4.11 Session /System/Session-1 LINK cross site scripting",
-          "link": "https://vuldb.com/vuln/429346",
-          "date": "Fri, 30 Oct 2026 20:26:44 +0100",
-          "description": "A vulnerability was found in WIT SynApps Runtime up to 1.4.11. It has been rated as problematic. This issue affects some unknown processing of the file /System/Session-1 of the component Session. Perf"
+          "title": "CVE-2026-120207  lia Page Module up to 2.0.3 Delete Routes cross-site request forgery",
+          "link": "https://vuldb.com/vuln/429581",
+          "date": "Sat, 31 Oct 2026 19:09:57 +0100",
+          "description": "A vulnerability was found in lia Page Module up to 2.0.3 and classified as problematic. This affects an unknown function of the component Delete Routes. Executing a manipulation can lead to cross-site"
         },
         {
-          "title": "CVE-2026-78402  Thales Sentinel Keys Server prior 1.3.8.0 stack-based overflow",
-          "link": "https://vuldb.com/vuln/429345",
-          "date": "Fri, 30 Oct 2026 20:26:43 +0100",
-          "description": "A vulnerability was found in Thales Sentinel Keys Server. It has been declared as very critical. This vulnerability affects unknown code. Such manipulation leads to stack-based buffer overflow.This"
+          "title": "CVE-2026-120206  Thelia up to 3.1.x Back Office setToggleVisibilityAction/updatePositionAction cross-site request forgery",
+          "link": "https://vuldb.com/vuln/429580",
+          "date": "Sat, 31 Oct 2026 18:49:44 +0100",
+          "description": "A vulnerability has been found in Thelia up to 3.1.x and classified as problematic. The impacted element is the function setToggleVisibilityAction/updatePositionAction of the component Back Office. Pe"
         },
         {
-          "title": "CVE-2026-7005  WIT SynApps Runtime up to 1.4.11 cross-domain policy",
-          "link": "https://vuldb.com/vuln/429344",
-          "date": "Fri, 30 Oct 2026 20:26:38 +0100",
-          "description": "A vulnerability was found in WIT SynApps Runtime up to 1.4.11. It has been classified as problematic. This affects an unknown part. This manipulation causes permissive cross-domain policy with untrust"
+          "title": "CVE-2026-120205  Thelia up to 3.0.x Customer getSummary name cross site scripting",
+          "link": "https://vuldb.com/vuln/429579",
+          "date": "Sat, 31 Oct 2026 18:49:44 +0100",
+          "description": "A vulnerability, which was classified as problematic, was found in Thelia up to 3.0.x. The affected element is the function ForSomeCustomers::getSummary of the component Customer. Such manipulation of"
         },
         {
-          "title": "CVE-2026-119730  Maxthon Technology Maxthon Browser prior 7.5.8.103 Fullscreen API clickjacking",
-          "link": "https://vuldb.com/vuln/429343",
-          "date": "Fri, 30 Oct 2026 20:26:17 +0100",
-          "description": "A vulnerability was found in Maxthon Technology Maxthon Browser and classified as problematic. Affected by this issue is some unknown functionality of the component Fullscreen API. The manipulation re"
+          "title": "CVE-2026-120199  LearnHouse up to 1.1.0 Assignment API user_id improper authorization",
+          "link": "https://vuldb.com/vuln/429578",
+          "date": "Sat, 31 Oct 2026 18:49:23 +0100",
+          "description": "A vulnerability, which was classified as problematic, has been found in LearnHouse up to 1.1.0. Impacted is an unknown function of the component Assignment API. This manipulation of the argument user_"
         },
         {
-          "title": "CVE-2026-7003  WIT SynApps Runtime up to 1.4.11 parameters.js hard-coded credentials",
-          "link": "https://vuldb.com/vuln/429342",
-          "date": "Fri, 30 Oct 2026 20:25:43 +0100",
-          "description": "A vulnerability has been found in WIT SynApps Runtime up to 1.4.11 and classified as critical. Affected by this vulnerability is an unknown functionality of the file parameters.js. The manipulation le"
+          "title": "CVE-2026-120203  ShowDoc up to 3.9.5 Mock feature MockController::add code injection",
+          "link": "https://vuldb.com/vuln/429577",
+          "date": "Sat, 31 Oct 2026 18:48:53 +0100",
+          "description": "A vulnerability classified as very critical was found in ShowDoc up to 3.9.5. This issue affects the function MockController::add of the component Mock feature. The manipulation results in code inject"
         },
         {
-          "title": "CVE-2026-62298  mouse07410 asn1c up to 1.2.4 Decoding OPEN_TYPE_aper.c OPEN_TYPE_aper_get memb_ptr2 memory corruption",
-          "link": "https://vuldb.com/vuln/429341",
-          "date": "Fri, 30 Oct 2026 20:25:23 +0100",
-          "description": "A vulnerability, which was classified as problematic, was found in mouse07410 asn1c up to 1.2.4. Affected is the function OPEN_TYPE_aper_get of the file OPEN_TYPE_aper.c of the component Decoding. Exe"
+          "title": "CVE-2026-120201  Dromara Jpom up to 2.11.12 Condition parser JPOM-USER-TOKEN improper authentication",
+          "link": "https://vuldb.com/vuln/429576",
+          "date": "Sat, 31 Oct 2026 18:48:41 +0100",
+          "description": "A vulnerability classified as critical has been found in Dromara Jpom up to 2.11.12. This vulnerability affects unknown code of the component Condition parser. The manipulation of the argument JPOM-US"
         },
         {
-          "title": "CVE-2026-78403  Thales Sentinel Keys Server prior 1.3.8.0 buffer overflow",
-          "link": "https://vuldb.com/vuln/429340",
-          "date": "Fri, 30 Oct 2026 20:25:06 +0100",
-          "description": "A vulnerability, which was classified as very critical, has been found in Thales Sentinel Keys Server. This impacts an unknown function. Performing a manipulation results in buffer overflow.This vul"
+          "title": "CVE-2026-120208  strukturag libheif up to 1.23.2 HEIF Decoder processTile buffer overflow",
+          "link": "https://vuldb.com/vuln/429575",
+          "date": "Sat, 31 Oct 2026 18:48:36 +0100",
+          "description": "A vulnerability described as critical has been identified in strukturag libheif up to 1.23.2. This affects the function unc_decoder_mixed_interleave::processTile of the component HEIF Decoder. Executi"
         },
         {
-          "title": "CVE-2026-62303  pistacheio Pistache up to 0.4.26 Router Normalization src/server/router.cc sanitizeResource stack-based overflow",
-          "link": "https://vuldb.com/vuln/429339",
-          "date": "Fri, 30 Oct 2026 20:25:06 +0100",
-          "description": "A vulnerability classified as problematic was found in pistacheio Pistache up to 0.4.26. This affects the function SegmentTreeNode::sanitizeResource of the file src/server/router.cc of the component R"
+          "title": "CVE-2026-120200  gnmyt Nexterm up to 1.2.2-BETA Session Lifecycle missing authentication",
+          "link": "https://vuldb.com/vuln/429574",
+          "date": "Sat, 31 Oct 2026 18:48:17 +0100",
+          "description": "A vulnerability marked as problematic has been reported in gnmyt Nexterm up to 1.2.2-BETA. Affected by this issue is some unknown functionality of the component Session Lifecycle. Performing a manipul"
         },
         {
-          "title": "CVE-2026-62331  mtzanidakis Praktor up to 0.9.0 Telegram Upload internal/telegram/bot.go path.Join path traversal",
-          "link": "https://vuldb.com/vuln/429338",
-          "date": "Fri, 30 Oct 2026 20:24:35 +0100",
-          "description": "A vulnerability classified as critical has been found in mtzanidakis Praktor up to 0.9.0. The impacted element is the function path.Join of the file internal/telegram/bot.go of the component Telegram"
+          "title": "CVE-2026-120210  FFmpeg up to 9.0.2 IMF demuxer ASSETMAP path traversal",
+          "link": "https://vuldb.com/vuln/429573",
+          "date": "Sat, 31 Oct 2026 18:47:59 +0100",
+          "description": "A vulnerability labeled as problematic has been found in FFmpeg up to 9.0.2. Affected by this vulnerability is an unknown functionality of the component IMF demuxer. Such manipulation of the argument"
         },
         {
-          "title": "CVE-2026-120046  nezhahq Nezha up to 2.3.x ServiceSentinel service ServiceSentinel.loadTodayStats null pointer dereference",
-          "link": "https://vuldb.com/vuln/429337",
-          "date": "Fri, 30 Oct 2026 20:08:19 +0100",
-          "description": "A vulnerability described as problematic has been identified in nezhahq Nezha up to 2.3.x. The affected element is the function ServiceSentinel.loadTodayStats of the file /api/v1/batch-delete/service"
+          "title": "CVE-2026-120202  Highflame AI ramparts up to 0.8.10 Bundle Scanner collect_bundle_siblings/walk_bundle_subdir input validation",
+          "link": "https://vuldb.com/vuln/429572",
+          "date": "Sat, 31 Oct 2026 18:47:56 +0100",
+          "description": "A vulnerability identified as problematic has been detected in Highflame AI ramparts up to 0.8.10. Affected is the function collect_bundle_siblings/walk_bundle_subdir of the component Bundle Scanner."
         }
       ]
     },
     "OBS-Vigilance": {
       "items": [
+        {
+          "title": "Kaspersky Endpoint Security: privilege escalation via HardBreacher",
+          "link": "https://vigilance.fr/vulnerability/Kaspersky-Endpoint-Security-privilege-escalation-via-HardBreacher-52467",
+          "date": "Visit link for details",
+          "description": "An attacker can bypass restrictions of Kaspersky Endpoint Security, via HardBreacher, in order to escalate his privileges..."
+        },
+        {
+          "title": "libarchive: three vulnerabilities dated 31/08/2026",
+          "link": "https://vigilance.fr/vulnerability/libarchive-three-vulnerabilities-dated-31-08-2026-52465",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of libarchive, dated 31/08/2026..."
+        },
+        {
+          "title": "Sudo: privilege escalation via execveat()",
+          "link": "https://vigilance.fr/vulnerability/Sudo-privilege-escalation-via-execveat-52464",
+          "date": "Visit link for details",
+          "description": "An attacker can bypass restrictions of Sudo, via execveat(), in order to escalate his privileges..."
+        },
+        {
+          "title": "HAProxy: two vulnerabilities dated 31/08/2026",
+          "link": "https://vigilance.fr/vulnerability/HAProxy-two-vulnerabilities-dated-31-08-2026-52463",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of HAProxy, dated 31/08/2026..."
+        },
+        {
+          "title": "Roundcube Webmail: multiple vulnerabilities dated 31/08/2026",
+          "link": "https://vigilance.fr/vulnerability/Roundcube-Webmail-multiple-vulnerabilities-dated-31-08-2026-52462",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of Roundcube Webmail, dated 31/08/2026..."
+        },
+        {
+          "title": "Linux kernel: memory leak via tcp_v4_syn_recv_sock()",
+          "link": "https://vigilance.fr/vulnerability/Linux-kernel-memory-leak-via-tcp-v4-syn-recv-sock-52922",
+          "date": "Visit link for details",
+          "description": "An attacker can create a memory leak of the Linux kernel, via tcp_v4_syn_recv_"
+        },
+        {
+          "title": "Symfony: multiple vulnerabilities dated 31/08/2026",
+          "link": "https://vigilance.fr/vulnerability/Symfony-multiple-vulnerabilities-dated-31-08-2026-52461",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of Symfony, dated 31/08/2026..."
+        },
+        {
+          "title": "Linux kernel: buffer overflow via BIG TCP Aggregation Criteria",
+          "link": "https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-BIG-TCP-Aggregation-Criteria-52460",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger a buffer overflow of the Linux kernel, via BIG TCP Aggregation Criteria, in order to trigger a denial of service, and possibly to run code..."
+        },
         {
           "title": "Apache Thrift: two vulnerabilities dated 28/08/2026",
           "link": "https://vigilance.fr/vulnerability/Apache-Thrift-two-vulnerabilities-dated-28-08-2026-52459",
@@ -148,59 +193,20 @@
           "link": "https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-28-08-2026-52458",
           "date": "Visit link for details",
           "description": "An attacker can use several vulnerabilities of the Linux kernel, dated 28/08/2026..."
-        },
-        {
-          "title": "Rust h2: buffer overflow via Empty DATA Frames",
-          "link": "https://vigilance.fr/vulnerability/Rust-h2-buffer-overflow-via-Empty-DATA-Frames-52457",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger a buffer overflow of Rust h2, via Empty DATA Frames, in order to trigger a denial of service, and possibly to run code..."
-        },
-        {
-          "title": "PHP: multiple vulnerabilities dated 27/08/2026",
-          "link": "https://vigilance.fr/vulnerability/PHP-multiple-vulnerabilities-dated-27-08-2026-52454",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of PHP, dated 27/08/2026..."
-        },
-        {
-          "title": "Netty: overload via Bzip2Decoder()",
-          "link": "https://vigilance.fr/vulnerability/Netty-overload-via-Bzip2Decoder-52453",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger an overload of Netty, via Bzip2Decoder(), in order to trigger a denial of service..."
-        },
-        {
-          "title": "suricata-update: directory traversal dated 27/08/2026",
-          "link": "https://vigilance.fr/vulnerability/suricata-update-directory-traversal-dated-27-08-2026-52452",
-          "date": "Visit link for details",
-          "description": "An attacker can traverse directories of suricata-update, dated 27/08/2026, in order to write a file outside the service root path..."
-        },
-        {
-          "title": "Bubblewrap: privilege escalation via Flatpak Apps",
-          "link": "https://vigilance.fr/vulnerability/Bubblewrap-privilege-escalation-via-Flatpak-Apps-52451",
-          "date": "Visit link for details",
-          "description": "An attacker, in a guest system, can bypass restrictions of Bubblewrap, via Flatpak Apps, in order to escalate his privileges..."
-        },
-        {
-          "title": "GIMP: four vulnerabilities dated 27/08/2026",
-          "link": "https://vigilance.fr/vulnerability/GIMP-four-vulnerabilities-dated-27-08-2026-52450",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of GIMP, dated 27/08/2026..."
-        },
-        {
-          "title": "Angular: three vulnerabilities dated 27/08/2026",
-          "link": "https://vigilance.fr/vulnerability/Angular-three-vulnerabilities-dated-27-08-2026-52449",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of Angular, dated 27/08/2026..."
-        },
-        {
-          "title": "Linux kernel: multiple vulnerabilities dated 27/08/2026",
-          "link": "https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-27-08-2026-52448",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of the Linux kernel, dated 27/08/2026..."
         }
       ]
     },
+    "CERT-FR": {
+      "items": []
+    },
     "CA-CCS": {
       "items": [
+        {
+          "title": "Linux security advisory (AV26-1108)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/linux-security-advisory-av26-1108",
+          "date": "2026-10-30",
+          "description": "Visit link for details"
+        },
         {
           "title": "Ivanti security advisory (AV26-1035) - Update 2",
           "link": "https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av26-1035",
@@ -252,12 +258,6 @@
         {
           "title": "VMware security advisory (AV26-763) – Update 2",
           "link": "https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av26-763",
-          "date": "2026-10-28",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Juniper Networks security advisory (AV26-1101)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/juniper-networks-security-advisory-av26-1101",
           "date": "2026-10-28",
           "description": "Visit link for details"
         }
