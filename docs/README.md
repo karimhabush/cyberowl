@@ -13,6 +13,8 @@ features:
 footer: cyberowlai.com © 2026
 ---
 
+<AgentMode>
+
 # What is CyberOwl AI?
 
 CyberOwl AI collects security advisories from 10 CERTs worldwide, updated daily. It comes with an AI skill you can add to Claude Code or Cursor that reads your project's dependencies and tells you which alerts are relevant to your stack.
@@ -33,3 +35,5 @@ Run `/cyberowlai` in your IDE to check.
 |![Preview](/images/zdi.png)|[ZeroDayInitiative](https://www.zerodayinitiative.com/advisories/published/) - An international software vulnerability initiative that was started in 2005 by TippingPoint.|
 |![Preview](/images/vigilance.png)|[OBS Vigilance](https://vigilance.fr/) - An initiative created by OBS (Orange Business Services) since 1999 to watch public vulnerabilities and then offer security fixes, a database and tools to remediate them.|
 |![Preview](/images/vuldb.png)|[VulDB](https://vuldb.com/) - Number one vulnerability database documenting and explaining security vulnerabilities, threats, and exploits since 1970.|
+
+</AgentMode>
