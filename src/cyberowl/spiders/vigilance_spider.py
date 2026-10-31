@@ -30,7 +30,7 @@ class VigilanceSpider(scrapy.Spider):
     block_selector = "article > table"
     link_selector = "descendant-or-self::tr/td/a/@href"
     date_selector = ""
-    title_selector = "descendant-or-self::tr/td/a"
+    title_selector = "(descendant-or-self::tr/td/a)[1]//text()"
     description_selector = "descendant-or-self::tr/td/font/i/a/text()"
 
     def parse(self, response):
@@ -44,7 +44,7 @@ class VigilanceSpider(scrapy.Spider):
 
             item = AlertItem()
 
-            item["title"] = bulletin.xpath(self.title_selector).get()
+            item["title"] = "".join(bulletin.xpath(self.title_selector).getall())
             item["link"] = bulletin.xpath(self.link_selector).get()
             item["date"] = "Visit link for details"
             item["description"] = bulletin.xpath(self.description_selector).get()
