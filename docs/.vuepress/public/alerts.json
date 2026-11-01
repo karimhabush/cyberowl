@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T18:59:09.549630+00:00",
+  "generated_at": "2026-11-01T19:19:04.460735+00:00",
   "sources": {
     "US-CERT": {
       "items": [
@@ -65,75 +65,96 @@
         }
       ]
     },
+    "CERT-FR": {
+      "items": []
+    },
     "IBM-X-FORCE-EXCHANGE": {
       "items": []
     },
     "VulDB": {
       "items": [
         {
-          "title": "CVE-2026-120207  lia Page Module up to 2.0.3 Delete Routes cross-site request forgery",
-          "link": "https://vuldb.com/vuln/429581",
-          "date": "Sat, 31 Oct 2026 19:09:57 +0100",
-          "description": "A vulnerability was found in lia Page Module up to 2.0.3 and classified as problematic. This affects an unknown function of the component Delete Routes. Executing a manipulation can lead to cross-site"
+          "title": "CVE-2026-74759  Google Auth 0.12 Aws External Account Credentials Aws.pm retrieve_subject_token imdsv2_session_token_url/url/region_url server-side request forgery",
+          "link": "https://vuldb.com/vuln/429678",
+          "date": "Sun, 01 Nov 2026 18:09:27 +0100",
+          "description": "A vulnerability has been found in Google Auth 0.12 and classified as critical. The affected element is the function retrieve_subject_token of the file lib/Google/Auth/ExternalAccountCredentials/Aws.pm"
         },
         {
-          "title": "CVE-2026-120206  Thelia up to 3.1.x Back Office setToggleVisibilityAction/updatePositionAction cross-site request forgery",
-          "link": "https://vuldb.com/vuln/429580",
-          "date": "Sat, 31 Oct 2026 18:49:44 +0100",
-          "description": "A vulnerability has been found in Thelia up to 3.1.x and classified as problematic. The impacted element is the function setToggleVisibilityAction/updatePositionAction of the component Back Office. Pe"
+          "title": "CVE-2026-74760  Google Google::Auth up to 0.12 OAuth State Validation bin/gcloud-auth.pl state state issue",
+          "link": "https://vuldb.com/vuln/429677",
+          "date": "Sun, 01 Nov 2026 18:07:30 +0100",
+          "description": "A vulnerability, which was classified as problematic, was found in Google Google::Auth up to 0.12. Impacted is an unknown function of the file bin/gcloud-auth.pl of the component OAuth State Validatio"
         },
         {
-          "title": "CVE-2026-120205  Thelia up to 3.0.x Customer getSummary name cross site scripting",
-          "link": "https://vuldb.com/vuln/429579",
-          "date": "Sat, 31 Oct 2026 18:49:44 +0100",
-          "description": "A vulnerability, which was classified as problematic, was found in Thelia up to 3.0.x. The affected element is the function ForSomeCustomers::getSummary of the component Customer. Such manipulation of"
+          "title": "CVE-2026-62048  Liquid Web BookIt Plugin up to 2.6.0.6 on WordPress sql injection",
+          "link": "https://vuldb.com/vuln/429676",
+          "date": "Sun, 01 Nov 2026 17:20:00 +0100",
+          "description": "A vulnerability, which was classified as critical, has been found in Liquid Web BookIt Plugin up to 2.6.0.6 on WordPress. This issue affects some unknown processing. Performing a manipulation results"
         },
         {
-          "title": "CVE-2026-120199  LearnHouse up to 1.1.0 Assignment API user_id improper authorization",
-          "link": "https://vuldb.com/vuln/429578",
-          "date": "Sat, 31 Oct 2026 18:49:23 +0100",
-          "description": "A vulnerability, which was classified as problematic, has been found in LearnHouse up to 1.1.0. Impacted is an unknown function of the component Assignment API. This manipulation of the argument user_"
+          "title": "CVE-2026-66570  Nickboss File Upload Plugin up to 5.2.1 on WordPress cross site scripting",
+          "link": "https://vuldb.com/vuln/429675",
+          "date": "Sun, 01 Nov 2026 17:17:56 +0100",
+          "description": "A vulnerability classified as problematic was found in Nickboss File Upload Plugin up to 5.2.1 on WordPress. This vulnerability affects unknown code. Such manipulation leads to cross site scripting."
         },
         {
-          "title": "CVE-2026-120203  ShowDoc up to 3.9.5 Mock feature MockController::add code injection",
-          "link": "https://vuldb.com/vuln/429577",
-          "date": "Sat, 31 Oct 2026 18:48:53 +0100",
-          "description": "A vulnerability classified as very critical was found in ShowDoc up to 3.9.5. This issue affects the function MockController::add of the component Mock feature. The manipulation results in code inject"
+          "title": "CVE-2026-119480  Crocoblock JetFormBuilder Plugin up to 3.6.7.1 on WordPress path traversal",
+          "link": "https://vuldb.com/vuln/429674",
+          "date": "Sun, 01 Nov 2026 17:17:23 +0100",
+          "description": "A vulnerability classified as problematic has been found in Crocoblock JetFormBuilder Plugin up to 3.6.7.1 on WordPress. This affects an unknown part. This manipulation causes path traversal.This vu"
         },
         {
-          "title": "CVE-2026-120201  Dromara Jpom up to 2.11.12 Condition parser JPOM-USER-TOKEN improper authentication",
-          "link": "https://vuldb.com/vuln/429576",
-          "date": "Sat, 31 Oct 2026 18:48:41 +0100",
-          "description": "A vulnerability classified as critical has been found in Dromara Jpom up to 2.11.12. This vulnerability affects unknown code of the component Condition parser. The manipulation of the argument JPOM-US"
+          "title": "CVE-2026-120349  dayrui XunRuiCMS up to 4.7.4 Mobile Site Directory index.php str_replace dirname code injection",
+          "link": "https://vuldb.com/vuln/429673",
+          "date": "Sun, 01 Nov 2026 16:56:35 +0100",
+          "description": "A vulnerability described as critical has been identified in dayrui XunRuiCMS up to 4.7.4. Affected by this issue is the function str_replace of the file /var/www/html/zzmob/index.php of the component"
         },
         {
-          "title": "CVE-2026-120208  strukturag libheif up to 1.23.2 HEIF Decoder processTile buffer overflow",
-          "link": "https://vuldb.com/vuln/429575",
-          "date": "Sat, 31 Oct 2026 18:48:36 +0100",
-          "description": "A vulnerability described as critical has been identified in strukturag libheif up to 1.23.2. This affects the function unc_decoder_mixed_interleave::processTile of the component HEIF Decoder. Executi"
+          "title": "CVE-2026-120348  dayrui XunRuiCMS up to 4.7.4 Email Template Rendering Notice.php _get_tpl_content code injection",
+          "link": "https://vuldb.com/vuln/429672",
+          "date": "Sun, 01 Nov 2026 16:56:31 +0100",
+          "description": "A vulnerability marked as critical has been reported in dayrui XunRuiCMS up to 4.7.4. Affected by this vulnerability is the function _get_tpl_content of the file dayrui/Fcms/Library/Notice.php of the"
         },
         {
-          "title": "CVE-2026-120200  gnmyt Nexterm up to 1.2.2-BETA Session Lifecycle missing authentication",
-          "link": "https://vuldb.com/vuln/429574",
-          "date": "Sat, 31 Oct 2026 18:48:17 +0100",
-          "description": "A vulnerability marked as problematic has been reported in gnmyt Nexterm up to 1.2.2-BETA. Affected by this issue is some unknown functionality of the component Session Lifecycle. Performing a manipul"
+          "title": "CVE-2026-120347  dayrui XunRuiCMS up to 4.7.4 Member View.php View catid sql injection",
+          "link": "https://vuldb.com/vuln/429671",
+          "date": "Sun, 01 Nov 2026 16:56:27 +0100",
+          "description": "A vulnerability labeled as critical has been found in dayrui XunRuiCMS up to 4.7.4. Affected is the function View of the file dayrui/Fcms/Core/View.php of the component Member Module. Executing a mani"
         },
         {
-          "title": "CVE-2026-120210  FFmpeg up to 9.0.2 IMF demuxer ASSETMAP path traversal",
-          "link": "https://vuldb.com/vuln/429573",
-          "date": "Sat, 31 Oct 2026 18:47:59 +0100",
-          "description": "A vulnerability labeled as problematic has been found in FFmpeg up to 9.0.2. Affected by this vulnerability is an unknown functionality of the component IMF demuxer. Such manipulation of the argument"
+          "title": "CVE-2026-120345  WAVLINK WN551X3-A M51X3_V251020-WO-182e965 DNS Resolution /bin/ioos sub_41a430 data os command injection",
+          "link": "https://vuldb.com/vuln/429670",
+          "date": "Sun, 01 Nov 2026 16:54:11 +0100",
+          "description": "A vulnerability identified as very critical has been detected in WAVLINK WN551X3-A M51X3_V251020-WO-182e965. This impacts the function sub_41a430 of the file /bin/ioos of the component DNS Resolution"
         },
         {
-          "title": "CVE-2026-120202  Highflame AI ramparts up to 0.8.10 Bundle Scanner collect_bundle_siblings/walk_bundle_subdir input validation",
-          "link": "https://vuldb.com/vuln/429572",
-          "date": "Sat, 31 Oct 2026 18:47:56 +0100",
-          "description": "A vulnerability identified as problematic has been detected in Highflame AI ramparts up to 0.8.10. Affected is the function collect_bundle_siblings/walk_bundle_subdir of the component Bundle Scanner."
+          "title": "CVE-2026-120344  WAVLINK WN551X3-A M51X3_V251020-WO-182e965 WireGuard CLI Group /bin/ioos system group_name os command injection",
+          "link": "https://vuldb.com/vuln/429669",
+          "date": "Sun, 01 Nov 2026 16:54:06 +0100",
+          "description": "A vulnerability categorized as very critical has been discovered in WAVLINK WN551X3-A M51X3_V251020-WO-182e965. This affects the function system of the file /bin/ioos of the component WireGuard CLI Gr"
         }
       ]
     },
     "OBS-Vigilance": {
       "items": [
+        {
+          "title": "JBoss RESTEasy: file reading via SourceProvider",
+          "link": "https://vigilance.fr/vulnerability/JBoss-RESTEasy-file-reading-via-SourceProvider-52473",
+          "date": "Visit link for details",
+          "description": "An attacker can read a file of JBoss RESTEasy, via SourceProvider, in order to obtain sensitive information..."
+        },
+        {
+          "title": "IBM i: five vulnerabilities dated 01/09/2026",
+          "link": "https://vigilance.fr/vulnerability/IBM-i-five-vulnerabilities-dated-01-09-2026-52470",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of IBM i, dated 01/09/2026..."
+        },
+        {
+          "title": "libexpat: four vulnerabilities dated 01/09/2026",
+          "link": "https://vigilance.fr/vulnerability/libexpat-four-vulnerabilities-dated-01-09-2026-52468",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of libexpat, dated 01/09/2026..."
+        },
         {
           "title": "Kaspersky Endpoint Security: privilege escalation via HardBreacher",
           "link": "https://vigilance.fr/vulnerability/Kaspersky-Endpoint-Security-privilege-escalation-via-HardBreacher-52467",
@@ -175,155 +196,6 @@
           "link": "https://vigilance.fr/vulnerability/Symfony-multiple-vulnerabilities-dated-31-08-2026-52461",
           "date": "Visit link for details",
           "description": "An attacker can use several vulnerabilities of Symfony, dated 31/08/2026..."
-        },
-        {
-          "title": "Linux kernel: buffer overflow via BIG TCP Aggregation Criteria",
-          "link": "https://vigilance.fr/vulnerability/Linux-kernel-buffer-overflow-via-BIG-TCP-Aggregation-Criteria-52460",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger a buffer overflow of the Linux kernel, via BIG TCP Aggregation Criteria, in order to trigger a denial of service, and possibly to run code..."
-        },
-        {
-          "title": "Apache Thrift: two vulnerabilities dated 28/08/2026",
-          "link": "https://vigilance.fr/vulnerability/Apache-Thrift-two-vulnerabilities-dated-28-08-2026-52459",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of Apache Thrift, dated 28/08/2026..."
-        },
-        {
-          "title": "Linux kernel: multiple vulnerabilities dated 28/08/2026",
-          "link": "https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-28-08-2026-52458",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of the Linux kernel, dated 28/08/2026..."
-        }
-      ]
-    },
-    "CERT-FR": {
-      "items": []
-    },
-    "CA-CCS": {
-      "items": [
-        {
-          "title": "Linux security advisory (AV26-1108)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/linux-security-advisory-av26-1108",
-          "date": "2026-10-30",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Ivanti security advisory (AV26-1035) - Update 2",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av26-1035",
-          "date": "2026-10-30",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "MongoDB security advisory (AV26-1107)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/mongodb-security-advisory-av26-1107",
-          "date": "2026-10-30",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "HashiCorp security advisory (AV26-1106)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/hashicorp-security-advisory-av26-1106",
-          "date": "2026-10-30",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Drupal security advisory (AV26-1105)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av26-1105",
-          "date": "2026-10-30",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Cisco security advisory (AV26-1102) - Update 1",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av26-1102",
-          "date": "2026-10-29",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "GitLab security advisory (AV26-1028) - Update 1",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av26-1028",
-          "date": "2026-10-29",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Mattermost security advisory (AV26-1104)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/mattermost-security-advisory-av26-1104",
-          "date": "2026-10-29",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "n8n security advisory (AV26-1103)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/n8n-security-advisory-av26-1103",
-          "date": "2026-10-29",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "VMware security advisory (AV26-763) – Update 2",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av26-763",
-          "date": "2026-10-28",
-          "description": "Visit link for details"
-        }
-      ]
-    },
-    "EU-CERT": {
-      "items": [
-        {
-          "title": "2026-019: Critical Vulnerability in GitLab Community and Enterprise Editions",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-019/",
-          "date": "Thursday, October 22, 2026 11:14:22 AM CEST",
-          "description": "On 21 October 2026, GitLab published a security advisory addressing several vulnerabilities among which a critical flaw that could allow an unauthenticated user to execute arbitrary code on a GitLab server."
-        },
-        {
-          "title": "2026-018: Critical Vulnerabilities in PHP",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-018/",
-          "date": "Friday, October 23, 2026 04:36:26 PM CEST",
-          "description": "On 20 October 2026, the PHP project announced an upcoming security release addressing two critical vulnerabilities in PHP. Public reports indicated that these vulnerabilities could lead to remote code execution (RCE)."
-        },
-        {
-          "title": "2026-017: Critical Vulnerability in Cisco Secure Email Gateway",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-017/",
-          "date": "Thursday, October 15, 2026 11:38:20 AM CEST",
-          "description": "On 14 October 2026, Cisco published a security advisory addressing a critical vulnerability affecting the Advanced Malware Protection (AMP) feature of Cisco Secure Email Gateway. This vulnerability could allow an unauthenticated, remote attacker to write arbitrary files and execute commands with root privileges on the underlying operating system."
-        },
-        {
-          "title": "2026-016: Critical Vulnerability in GitLab CE and EE",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-016/",
-          "date": "Monday, October 12, 2026 02:57:02 PM CEST",
-          "description": "On 12 October 2026, GitLab released versions 19.4.2, 19.3.4 and 19.2.8 of GitLab Community Edition (CE) and Enterprise Edition (EE), fixing 24 security issues among which a critical vulnerability that could allow an unauthenticated attacker to execute arbitrary code on the server."
-        },
-        {
-          "title": "2026-015: Critical Vulnerability in Multiple Atlassian Products",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-015/",
-          "date": "Wednesday, October 07, 2026 09:52:48 AM CEST",
-          "description": "On 5 October 2026, Atlassian published a security advisory addressing a critical arbitrary file access vulnerability. It affects Bitbucket Data Center, Confluence Data Center, Jira Service Management Data Center, Jira Software Data Center, Bamboo Data Center, Crowd Data Center, Crucible and Fisheye."
-        },
-        {
-          "title": "2026-014: Critical Vulnerabilities in Citrix NetScaler ADC and Gateway",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-014/",
-          "date": "Sunday, September 27, 2026 07:40:52 PM CEST",
-          "description": "On 27 September 2026, Citrix published a security bulletin addressing 8 vulnerabilities affecting customer-managed Citrix NetScaler ADC and Citrix NetScaler Gateway, among which 2 critical unauthenticated Remote Code Execution (RCE) vulnerabilities. Citrix has confirmed active exploitation of these 2 critical vulnerabilities in the wild."
-        },
-        {
-          "title": "2026-013: Critical Vulnerability in F5 BIG-IP APM",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-013/",
-          "date": "Tuesday, September 22, 2026 06:52:36 PM CEST",
-          "description": "On 22 September 2026, F5 published an advisory addressing a critical vulnerability affecting its BIG-IP APM product. The vendor confirmed active exploitation in the wild."
-        },
-        {
-          "title": "2026-012: Critical Vulnerabilities in Check Point Products",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-012/",
-          "date": "Thursday, September 10, 2026 10:20:06 AM CEST",
-          "description": "On 9 September 2026, Check Point released emergency security updates addressing two critical vulnerabilities affecting Check Point Security Gateway, Security Management Server, and Spark Firewall deployments configured to use Remote Access VPN or Site-to-Site VPN. Both vulnerabilities carry a CVSS score of 9.8 and could allow an unauthenticated, remote attacker to execute arbitrary code on affected appliances."
-        },
-        {
-          "title": "2026-011: Critical Vulnerabilities in SAP Kernel and NetWeaver Message Server",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-011/",
-          "date": "Wednesday, September 09, 2026 03:07:59 PM CEST",
-          "description": "On 8 September 2026, as part of its September Security Patch Day, SAP released Security Notes addressing two critical vulnerabilities affecting a broad range of SAP products[3]. The most severe, CVE-2026-44756 (CVSS 10.0), is a memory corruption vulnerability in SAP Extended Passport (EPP) processing, nicknamed \"OVERPASS\" by the Onapsis Research Labs (ORL), which discovered and responsibly disclosed it[3]. The second, CVE-2026-58240 (CVSS 9.8), nicknamed \"S4GET\", is a missing authentication check in the SAP NetWeaver Message Server[6]."
-        },
-        {
-          "title": "2026-010: Critical Vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway",
-          "link": "https://cert.europa.eu/publications/security-advisories/2026-010/",
-          "date": "Wednesday, August 19, 2026 06:13:47 PM CEST",
-          "description": "On 19 August 2026, Citrix published a security advisory addressing multiple critical vulnerabilities in NetScaler ADC (formerly Citrix ADC) and NetScaler Gateway (formerly Citrix Gateway)."
         }
       ]
     },
@@ -391,8 +263,136 @@
         }
       ]
     },
+    "EU-CERT": {
+      "items": [
+        {
+          "title": "2026-019: Critical Vulnerability in GitLab Community and Enterprise Editions",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-019/",
+          "date": "Thursday, October 22, 2026 11:14:22 AM CEST",
+          "description": "On 21 October 2026, GitLab published a security advisory addressing several vulnerabilities among which a critical flaw that could allow an unauthenticated user to execute arbitrary code on a GitLab server."
+        },
+        {
+          "title": "2026-018: Critical Vulnerabilities in PHP",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-018/",
+          "date": "Friday, October 23, 2026 04:36:26 PM CEST",
+          "description": "On 20 October 2026, the PHP project announced an upcoming security release addressing two critical vulnerabilities in PHP. Public reports indicated that these vulnerabilities could lead to remote code execution (RCE)."
+        },
+        {
+          "title": "2026-017: Critical Vulnerability in Cisco Secure Email Gateway",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-017/",
+          "date": "Thursday, October 15, 2026 11:38:20 AM CEST",
+          "description": "On 14 October 2026, Cisco published a security advisory addressing a critical vulnerability affecting the Advanced Malware Protection (AMP) feature of Cisco Secure Email Gateway. This vulnerability could allow an unauthenticated, remote attacker to write arbitrary files and execute commands with root privileges on the underlying operating system."
+        },
+        {
+          "title": "2026-016: Critical Vulnerability in GitLab CE and EE",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-016/",
+          "date": "Monday, October 12, 2026 02:57:02 PM CEST",
+          "description": "On 12 October 2026, GitLab released versions 19.4.2, 19.3.4 and 19.2.8 of GitLab Community Edition (CE) and Enterprise Edition (EE), fixing 24 security issues among which a critical vulnerability that could allow an unauthenticated attacker to execute arbitrary code on the server."
+        },
+        {
+          "title": "2026-015: Critical Vulnerability in Multiple Atlassian Products",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-015/",
+          "date": "Wednesday, October 07, 2026 09:52:48 AM CEST",
+          "description": "On 5 October 2026, Atlassian published a security advisory addressing a critical arbitrary file access vulnerability. It affects Bitbucket Data Center, Confluence Data Center, Jira Service Management Data Center, Jira Software Data Center, Bamboo Data Center, Crowd Data Center, Crucible and Fisheye."
+        },
+        {
+          "title": "2026-014: Critical Vulnerabilities in Citrix NetScaler ADC and Gateway",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-014/",
+          "date": "Sunday, September 27, 2026 07:40:52 PM CEST",
+          "description": "On 27 September 2026, Citrix published a security bulletin addressing 8 vulnerabilities affecting customer-managed Citrix NetScaler ADC and Citrix NetScaler Gateway, among which 2 critical unauthenticated Remote Code Execution (RCE) vulnerabilities. Citrix has confirmed active exploitation of these 2 critical vulnerabilities in the wild."
+        },
+        {
+          "title": "2026-013: Critical Vulnerability in F5 BIG-IP APM",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-013/",
+          "date": "Tuesday, September 22, 2026 06:52:36 PM CEST",
+          "description": "On 22 September 2026, F5 published an advisory addressing a critical vulnerability affecting its BIG-IP APM product. The vendor confirmed active exploitation in the wild."
+        },
+        {
+          "title": "2026-012: Critical Vulnerabilities in Check Point Products",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-012/",
+          "date": "Thursday, September 10, 2026 10:20:06 AM CEST",
+          "description": "On 9 September 2026, Check Point released emergency security updates addressing two critical vulnerabilities affecting Check Point Security Gateway, Security Management Server, and Spark Firewall deployments configured to use Remote Access VPN or Site-to-Site VPN. Both vulnerabilities carry a CVSS score of 9.8 and could allow an unauthenticated, remote attacker to execute arbitrary code on affected appliances."
+        },
+        {
+          "title": "2026-011: Critical Vulnerabilities in SAP Kernel and NetWeaver Message Server",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-011/",
+          "date": "Wednesday, September 09, 2026 03:07:59 PM CEST",
+          "description": "On 8 September 2026, as part of its September Security Patch Day, SAP released Security Notes addressing two critical vulnerabilities affecting a broad range of SAP products[3]. The most severe, CVE-2026-44756 (CVSS 10.0), is a memory corruption vulnerability in SAP Extended Passport (EPP) processing, nicknamed \"OVERPASS\" by the Onapsis Research Labs (ORL), which discovered and responsibly disclosed it[3]. The second, CVE-2026-58240 (CVSS 9.8), nicknamed \"S4GET\", is a missing authentication check in the SAP NetWeaver Message Server[6]."
+        },
+        {
+          "title": "2026-010: Critical Vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway",
+          "link": "https://cert.europa.eu/publications/security-advisories/2026-010/",
+          "date": "Wednesday, August 19, 2026 06:13:47 PM CEST",
+          "description": "On 19 August 2026, Citrix published a security advisory addressing multiple critical vulnerabilities in NetScaler ADC (formerly Citrix ADC) and NetScaler Gateway (formerly Citrix Gateway)."
+        }
+      ]
+    },
     "ZERODAYINITIATIVE": {
       "items": []
+    },
+    "CA-CCS": {
+      "items": [
+        {
+          "title": "Linux security advisory (AV26-1108)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/linux-security-advisory-av26-1108",
+          "date": "2026-10-30",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Ivanti security advisory (AV26-1035) - Update 2",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/ivanti-security-advisory-av26-1035",
+          "date": "2026-10-30",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "MongoDB security advisory (AV26-1107)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/mongodb-security-advisory-av26-1107",
+          "date": "2026-10-30",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "HashiCorp security advisory (AV26-1106)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/hashicorp-security-advisory-av26-1106",
+          "date": "2026-10-30",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Drupal security advisory (AV26-1105)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av26-1105",
+          "date": "2026-10-30",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Cisco security advisory (AV26-1102) - Update 1",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av26-1102",
+          "date": "2026-10-29",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "GitLab security advisory (AV26-1028) - Update 1",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av26-1028",
+          "date": "2026-10-29",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Mattermost security advisory (AV26-1104)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/mattermost-security-advisory-av26-1104",
+          "date": "2026-10-29",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "n8n security advisory (AV26-1103)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/n8n-security-advisory-av26-1103",
+          "date": "2026-10-29",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "VMware security advisory (AV26-763) – Update 2",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av26-763",
+          "date": "2026-10-28",
+          "description": "Visit link for details"
+        }
+      ]
     },
     "MA-CERT": {
       "items": [
