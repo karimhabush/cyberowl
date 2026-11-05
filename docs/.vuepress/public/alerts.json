@@ -1,22 +1,58 @@
 {
-  "generated_at": "2026-11-04T21:01:01.851333+00:00",
+  "generated_at": "2026-11-05T21:18:51.661016+00:00",
   "sources": {
     "US-CERT": {
+      "items": []
+    },
+    "IBM-X-FORCE-EXCHANGE": {
+      "items": []
+    },
+    "CERT-FR": {
       "items": []
     },
     "HK-CERT": {
       "items": [
         {
-          "title": "Google Chrome Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20261104",
-          "date": "Release Date: 4 Nov 2026 ",
-          "description": "Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, security restriction bypass,  sensitive information disclosure, elevation of privilege and remote code execution on the targeted system."
+          "title": "Mozilla Firefox Denial of Service Vulnerability",
+          "link": "https://www.hkcert.org/security-bulletin/mozilla-firefox-denial-of-service-vulnerability_20261105",
+          "date": "Release Date: 5 Nov 2026 ",
+          "description": "A vulnerability was identified in Mozilla Firefox. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition on the targeted system."
+        },
+        {
+          "title": "TP-Link Router Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/tp-link-router-multiple-vulnerabilities_20261105",
+          "date": "Release Date: 5 Nov 2026 ",
+          "description": "Multiple vulnerabilities were identified in TP-Link Router. A remote attacker could exploit some of these vulnerabilities to trigger elevation of privilege, sensitive information disclosure and remote code execution on the targeted system."
         },
         {
           "title": "RedHat Linux Kernel Multiple Vulnerabilities",
           "link": "https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20261103",
           "date": " Release Date: 3 Nov 2026 ",
           "description": "Multiple vulnerabilities were identified in Red Hat Enterprise Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, security restriction bypass, sensitive information disclosure, remote code execution and data manipulation on the targeted system..."
+        },
+        {
+          "title": "Microsoft Edge Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20261105",
+          "date": "Release Date: 5 Nov 2026 ",
+          "description": "Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger sensitive information disclosure and remote code execution on the targeted system."
+        },
+        {
+          "title": "Microsoft Edge Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20261102",
+          "date": " Release Date: 2 Nov 2026 ",
+          "description": "Multiple vulnerabilities were identified in Microsoft Edge. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, sensitive information disclosure and remote code execution on the targeted system. [Updated on 2026-11-05]Updated Description, Impact, Vulnerability..."
+        },
+        {
+          "title": "Apple Products Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20240514",
+          "date": " Release Date: 14 May 2024 ",
+          "description": "Multiple vulnerabilities were identified in Apple Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, remote code execution, security restriction bypass and sensitive information disclosure on the targeted system. Note:For CVE-..."
+        },
+        {
+          "title": "Google Chrome Multiple Vulnerabilities",
+          "link": "https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20261104",
+          "date": "Release Date: 4 Nov 2026 ",
+          "description": "Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, security restriction bypass,  sensitive information disclosure, elevation of privilege and remote code execution on the targeted system."
         },
         {
           "title": "SUSE Linux Kernel Multiple Vulnerabilities",
@@ -35,103 +71,70 @@
           "link": "https://www.hkcert.org/security-bulletin/citrix-xenserver-multiple-vulnerabilities_20261104",
           "date": "Release Date: 4 Nov 2026 ",
           "description": "Multiple vulnerabilities have been identified in Citrix XenServer. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition and security restriction bypass on the targeted system."
-        },
-        {
-          "title": "WordPress Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/wordpress-multiple-vulnerabilities_20261102",
-          "date": " Release Date: 2 Nov 2026 ",
-          "description": "Multiple vulnerabilities were identified in WordPress. A remote attacker could exploit some of these vulnerabilities to trigger cross-site scripting, denial of service condition, security restriction bypass, sensitive information disclosure and remote code execution on the targeted system. Note:CVE-2026..."
-        },
-        {
-          "title": "Android Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20261103",
-          "date": "Release Date: 3 Nov 2026 ",
-          "description": "Multiple vulnerabilities were identified in Android. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, sensitive information disclosure and remote code execution on the targeted system."
-        },
-        {
-          "title": "Debian Linux Kernel Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20261103",
-          "date": "Release Date: 3 Nov 2026 ",
-          "description": "Multiple vulnerabilities were identified in Debian Linux Kernel. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege and sensitive information disclosure on the targeted system."
-        },
-        {
-          "title": "Samsung Products Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20261103",
-          "date": "Release Date: 3 Nov 2026 ",
-          "description": "Multiple vulnerabilities were identified in Samsung Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, elevation of privilege, security restriction bypass, sensitive information disclosure, remote code execution and data manipulation on the targeted system...."
-        },
-        {
-          "title": "Ivanti Connect Secure Multiple Vulnerabilities",
-          "link": "https://www.hkcert.org/security-bulletin/ivanti-connect-secure-multiple-vulnerabilities_20261102",
-          "date": "Release Date: 2 Nov 2026 ",
-          "description": "Multiple vulnerabilities were identified in Ivanti Connect Secure. A remote attacker could exploit some of these vulnerabilities to trigger data manipulation and elevation of privilege on the targeted system. Note:CVE-2026-111357 and CVE-2026-118527 are being exploited in the..."
         }
       ]
-    },
-    "CERT-FR": {
-      "items": []
     },
     "VulDB": {
       "items": [
         {
-          "title": "CVE-2026-122220  wpo365-login Plugin up to 45.1 SAML Message ID Check check_message_id authentication replay",
-          "link": "https://vuldb.com/vuln/431185",
-          "date": "Wed, 04 Nov 2026 21:22:55 +0100",
-          "description": "A vulnerability described as critical has been identified in wpo365-login Plugin up to 45.1. The affected element is the function Saml2_Service::check_message_id of the component SAML Message ID Check"
+          "title": "CVE-2026-87008  vitali87 Code Graph RAG up to 0.0.588 Path Utils path_utils.py should_skip_path path traversal",
+          "link": "https://vuldb.com/vuln/431673",
+          "date": "Thu, 05 Nov 2026 21:40:56 +0100",
+          "description": "A vulnerability labeled as problematic has been found in vitali87 Code Graph RAG up to 0.0.588. Affected is the function should_skip_path of the file codebase_rag/utils/path_utils.py of the component"
         },
         {
-          "title": "CVE-2026-113368  Sonatype Nexus Repository up to 3.97.x improper authorization",
-          "link": "https://vuldb.com/vuln/431184",
-          "date": "Wed, 04 Nov 2026 21:22:52 +0100",
-          "description": "A vulnerability marked as problematic has been reported in Sonatype Nexus Repository up to 3.97.x. Impacted is an unknown function. The manipulation leads to improper authorization.This vulnerabilit"
+          "title": "CVE-2026-77604  vitali87 Code Graph RAG up to 0.0.344 Paginated Branch tools.py MCPToolsRegistry.read_file file_path path traversal",
+          "link": "https://vuldb.com/vuln/431672",
+          "date": "Thu, 05 Nov 2026 21:39:51 +0100",
+          "description": "A vulnerability identified as problematic has been detected in vitali87 Code Graph RAG up to 0.0.344. This impacts the function MCPToolsRegistry.read_file of the file codebase_rag/mcp/tools.py of the"
         },
         {
-          "title": "CVE-2026-113372  Sonatype Nexus Repository up to 3.97.x privileges management",
-          "link": "https://vuldb.com/vuln/431183",
-          "date": "Wed, 04 Nov 2026 21:22:42 +0100",
-          "description": "A vulnerability labeled as critical has been found in Sonatype Nexus Repository up to 3.97.x. This issue affects some unknown processing. Executing a manipulation can lead to improper privilege manage"
+          "title": "CVE-2026-119434  silviucpp ezstd up to 1.2.4 Dictionary Decompression c_src/ezstd_nif.cc ezstd:decompress_using_ddict allocation of resources",
+          "link": "https://vuldb.com/vuln/431671",
+          "date": "Thu, 05 Nov 2026 21:39:47 +0100",
+          "description": "A vulnerability categorized as problematic has been discovered in silviucpp ezstd up to 1.2.4. This affects the function ezstd:decompress_using_ddict of the file c_src/ezstd_nif.cc of the component Di"
         },
         {
-          "title": "CVE-2026-113373  Sonatype Nexus Repository up to 3.97.x Identity Provider improper authentication",
-          "link": "https://vuldb.com/vuln/431182",
-          "date": "Wed, 04 Nov 2026 21:22:35 +0100",
-          "description": "A vulnerability identified as critical has been detected in Sonatype Nexus Repository up to 3.97.x. This vulnerability affects unknown code of the component Identity Provider. Performing a manipulatio"
+          "title": "CVE-2026-104138  OpenEMR up to 8.2.x QRDA Report Download custom/ajax_download.php report_id cross-site request forgery",
+          "link": "https://vuldb.com/vuln/431670",
+          "date": "Thu, 05 Nov 2026 21:39:23 +0100",
+          "description": "A vulnerability was found in OpenEMR up to 8.2.x. It has been rated as problematic. The impacted element is an unknown function of the file custom/ajax_download.php of the component QRDA Report Downlo"
         },
         {
-          "title": "CVE-2026-113371  Sonatype Nexus Repository up to 3.97.x REST Endpoint information disclosure",
-          "link": "https://vuldb.com/vuln/431181",
-          "date": "Wed, 04 Nov 2026 21:22:17 +0100",
-          "description": "A vulnerability categorized as problematic has been discovered in Sonatype Nexus Repository up to 3.97.x. This affects an unknown part of the component REST Endpoint. Such manipulation leads to inform"
+          "title": "CVE-2026-104133  OpenEMR up to 8.2.x DORN module compendium_install.php uninstall labGuid cross-site request forgery",
+          "link": "https://vuldb.com/vuln/431669",
+          "date": "Thu, 05 Nov 2026 21:38:53 +0100",
+          "description": "A vulnerability was found in OpenEMR up to 8.2.x. It has been declared as problematic. The affected element is the function LabCompendiumInstall::uninstall of the file interface/modules/custom_modules"
         },
         {
-          "title": "CVE-2026-113369  Sonatype Nexus Repository up to 3.97.x Attestations Tab cross site scripting",
-          "link": "https://vuldb.com/vuln/431180",
-          "date": "Wed, 04 Nov 2026 21:21:59 +0100",
-          "description": "A vulnerability was found in Sonatype Nexus Repository up to 3.97.x. It has been rated as problematic. Affected by this issue is some unknown functionality of the component Attestations Tab. This mani"
+          "title": "CVE-2026-104134  OpenEMR up to 8.2.x Person Search person_search_ajax.php search_persons improper authorization",
+          "link": "https://vuldb.com/vuln/431668",
+          "date": "Thu, 05 Nov 2026 21:38:42 +0100",
+          "description": "A vulnerability was found in OpenEMR up to 8.2.x. It has been classified as problematic. Impacted is the function search_persons of the file library/ajax/person_search_ajax.php of the component Person"
         },
         {
-          "title": "CVE-2026-113370  Sonatype Nexus Repository up to 3.97.x Reindex Search Tables By Pattern sql injection",
-          "link": "https://vuldb.com/vuln/431179",
-          "date": "Wed, 04 Nov 2026 21:21:45 +0100",
-          "description": "A vulnerability was found in Sonatype Nexus Repository up to 3.97.x. It has been declared as problematic. Affected by this vulnerability is an unknown functionality of the component Reindex Search Tab"
+          "title": "CVE-2026-103939  OpenEMR up to 8.2.9 Weno file_download.php removeWenoPharmacies cross-site request forgery",
+          "link": "https://vuldb.com/vuln/431667",
+          "date": "Thu, 05 Nov 2026 21:38:21 +0100",
+          "description": "A vulnerability was found in OpenEMR up to 8.2.9 and classified as problematic. This issue affects the function PharmacyService::removeWenoPharmacies of the file interface/modules/custom_modules/oe-mo"
         },
         {
-          "title": "CVE-2026-113374  Sonatype Nexus Repository up to 3.97.x Rut Auth permission",
-          "link": "https://vuldb.com/vuln/431178",
-          "date": "Wed, 04 Nov 2026 21:21:25 +0100",
-          "description": "A vulnerability was found in Sonatype Nexus Repository up to 3.97.x. It has been classified as critical. Affected is an unknown function of the component Rut Auth. The manipulation leads to permission"
+          "title": "CVE-2026-102940  OpenEMR up to 8.3.x Document Reassignment C_Document.class.php Document::change_patient improper authorization",
+          "link": "https://vuldb.com/vuln/431666",
+          "date": "Thu, 05 Nov 2026 21:37:50 +0100",
+          "description": "A vulnerability has been found in OpenEMR up to 8.3.x and classified as critical. This vulnerability affects the function Document::change_patient of the file controllers/C_Document.class.php of the c"
         },
         {
-          "title": "CVE-2026-122192  AWS Firecracker up to 1.16.1 File memory backend privileges management",
-          "link": "https://vuldb.com/vuln/431177",
-          "date": "Wed, 04 Nov 2026 20:51:01 +0100",
-          "description": "A vulnerability was found in AWS Firecracker up to 1.16.1 and classified as critical. This impacts an unknown function of the component File memory backend. Executing a manipulation can lead to improp"
+          "title": "CVE-2026-103019  OpenEMR up to 8.2.x REST API AuthorizationController.php userSessionLogout redirect",
+          "link": "https://vuldb.com/vuln/431665",
+          "date": "Thu, 05 Nov 2026 21:37:46 +0100",
+          "description": "A vulnerability, which was classified as problematic, was found in OpenEMR up to 8.2.x. This affects the function userSessionLogout of the file src/RestControllers/AuthorizationController.php of the c"
         },
         {
-          "title": "CVE-2026-97705  moleculerjs Moleculer up to 0.14.35/0.15.1 TCP Transporter parser.js Parser._write resource consumption",
-          "link": "https://vuldb.com/vuln/431176",
-          "date": "Wed, 04 Nov 2026 20:50:18 +0100",
-          "description": "A vulnerability has been found in moleculerjs Moleculer up to 0.14.35/0.15.1 and classified as problematic. This affects the function Parser._write of the file src/transporters/tcp/parser.js of the co"
+          "title": "CVE-2026-115573  OpenEMR up to 8.2.x Dispatcher Controller.class.php checkControllerAcl privileges management",
+          "link": "https://vuldb.com/vuln/431664",
+          "date": "Thu, 05 Nov 2026 21:37:24 +0100",
+          "description": "A vulnerability, which was classified as critical, has been found in OpenEMR up to 8.2.x. Affected by this issue is the function checkControllerAcl of the file library/classes/Controller.class.php of"
         }
       ]
     },
@@ -199,76 +202,6 @@
         }
       ]
     },
-    "MA-CERT": {
-      "items": [
-        {
-          "title": "70610411/26 - Vulnérabilités dans HPE Networking",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-hpe-networking",
-          "date": " ",
-          "description": "Plusieurs vulnérabilités ont été identifiées dans les produits HPE Networking susmentionnés. Leur exploitation pourrait permettre à un attaquant d’exécuter du code ou des commandes arbitraires,…"
-        },
-        {
-          "title": "70600411/26 - Vulnérabilités dans SolarWinds Dameware",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-solarwinds-dameware",
-          "date": " ",
-          "description": "Trois vulnérabilités ont été corrigées dans SolarWinds Dameware. Leur exploitation pourrait permettre à un attaquant authentifié d’exécuter du code ou des commandes arbitraires, de contourner la…"
-        },
-        {
-          "title": "70550411/26 - Vulnérabilités affectant le navigateur Google Chrome",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-le-navigateur-google-chrome-65",
-          "date": " ",
-          "description": "Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs vulnérabilités   affectant le navigateur Google Chrome. L’exploitation de ces vulnérabilités peut…"
-        },
-        {
-          "title": "70590411/26 - Vulnérabilités dans les équipements réseau ZyXEL",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-equipements-reseau-zyxel-0",
-          "date": " ",
-          "description": "Zyxel a publié deux avis de sécurité concernant deux vulnérabilités affectant les équipements réseau susmentionnés. Leur exploitation pourrait permettre à un attaquant présent sur le réseau local…"
-        },
-        {
-          "title": "70580411/26 - Vulnérabilité affectant Citrix XenServer",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-citrix-xenserver-1",
-          "date": " ",
-          "description": "Citrix annonce la correction de plusieurs vulnérabilités affectant son produit XenServer. L’exploitation de ces vulnérabilités peut permettre à un attaquant de contourner des mesures de …"
-        },
-        {
-          "title": "70570411/26 - Vulnérabilités critiques dans les produits Siemens",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-les-produits-siemens-4",
-          "date": " ",
-          "description": "Plusieurs vulnérabilités critiques affectent les produits Siemens susmentionnés. L’une d’elles, identifiée sous la référence « CVE-2026-58115 », affecte les produits « SIMATIC » et fait…"
-        },
-        {
-          "title": "70560411/26 - Vulnérabilités dans Xen",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-xen-2",
-          "date": " ",
-          "description": "Deux vulnérabilités ont été corrigées dans Xen. L’exploitation de ces failles pourrait permettre à un attaquant de contourner la politique de sécurité et de porter atteinte à la confidentialité et à…"
-        },
-        {
-          "title": "70540411/26 - Vulnérabilités affectant Absolute Secure Access servers",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-absolute-secure-access-servers",
-          "date": " ",
-          "description": "Plusieurs vulnérabilités ont été corrigées dans Absolute Secure Access Server. Leur exploitation pourrait permettre à un attaquant de contourner la politique de sécurité ou de provoquer un déni de…"
-        },
-        {
-          "title": "70530311/26 - Vulnérabilités affectant PostgreSQL ODBC",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-postgresql-odbc",
-          "date": " ",
-          "description": "Plusieurs vulnérabilités affectant les versions susmentionnées de PostgreSQL ODBC ont été corrigées. L’exploitation de ces vulnérabilités peut   permettre à un attaquant distant…"
-        },
-        {
-          "title": "70520311/26 - Vulnérabilités dans Control Web Panel",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-control-web-panel",
-          "date": " ",
-          "description": "Plusieurs vulnérabilités ont été corrigées dans Control Web Panel. Leur exploitation pourrait permettre à un attaquant d’exécuter du code ou des commandes arbitraires, de contourner…"
-        }
-      ]
-    },
-    "ZERODAYINITIATIVE": {
-      "items": []
-    },
-    "IBM-X-FORCE-EXCHANGE": {
-      "items": []
-    },
     "EU-CERT": {
       "items": [
         {
@@ -333,8 +266,87 @@
         }
       ]
     },
+    "MA-CERT": {
+      "items": [
+        {
+          "title": "70720511/26 - Vulnérabilités affectant SEPPmail Secure Email Gateway (SEG)",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-seppmail-secure-email-gateway-seg",
+          "date": " ",
+          "description": "Plusieurs vulnérabilités affectant les versions susmentionnées de SEPPmail Secure Email Gateway (SEG) ont été corrigées. L’exploitation de ces vulnérabilités pourrait permettre à un attaquant…"
+        },
+        {
+          "title": "70710511/26 - Vulnérabilité affectant TrueNAS SCALE",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-truenas-scale",
+          "date": " ",
+          "description": "Une vulnérabilité affectant les versions susmentionnées de TrueNAS SCALE a été corrigée. L’exploitation de cette vulnérabilité  pourrait permettre à un attaquant non authentifié local de…"
+        },
+        {
+          "title": "70700511/26 - Vulnérabilités affectant Symfony",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-symfony",
+          "date": " ",
+          "description": "Deux vulnérabilités affectant les composants HttpClient et Security HTTP de Symfony ont été corrigées. Leur exploitation pourrait permettre à un attaquant d’accéder à des informations confidentielles,…"
+        },
+        {
+          "title": "70690511/26 - Vulnérabilités dans des extensions Joomla",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-des-extensions-joomla-0",
+          "date": " ",
+          "description": "Plusieurs vulnérabilités critiques ont été corrigées dans les extensions pour Joomla susmentionnées. Leur exploitation pourrait permettre à un attaquant d’exécuter du code arbitraire, de réaliser des…"
+        },
+        {
+          "title": "70680511/26 - Vulnérabilités dans les plugins WordPress",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-plugins-wordpress-7",
+          "date": " ",
+          "description": "Plusieurs vulnérabilités ont été corrigées dans divers plugins WordPress. Leur exploitation peut permettre à un attaquant d'exécuter du code arbitraire, de réaliser des injections SQL, de contourner…"
+        },
+        {
+          "title": "70670511/26 - Vulnérabilités dans les produits IBM",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-ibm-30",
+          "date": " ",
+          "description": "IBM annonce la disponibilité de mises à jour permettant de corriger plusieurs vulnérabilités affectant les produits susmentionnés. L’exploitation de ces vulnérabilités pourrait permettre à un…"
+        },
+        {
+          "title": "70660511/26 - Vulnérabilités dans les produits Apache",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-apache-9",
+          "date": " ",
+          "description": "Plusieurs vulnérabilités ont été corrigées dans les produits Apache susmentionnés. L'exploitation de ces failles pourrait permettre à un attaquant de contourner les contrôles d’accès, d’usurper une…"
+        },
+        {
+          "title": "70650511/26 - Vulnérabilités dans GLPI",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-glpi-4",
+          "date": " ",
+          "description": "Veuillez se référer aux bulletins de sécurité de GLPI du 02 Novembre 2026 pour installer les mises à jour."
+        },
+        {
+          "title": "70640511/26 - Vulnérabilité affectant le navigateur Mozilla Firefox",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-navigateur-mozilla-firefox-7",
+          "date": " ",
+          "description": "Mozilla Foundation annonce la disponibilité d’une mise à jour de sécurité permettant la     correction d’une vulnérabilité au niveau du navigateur Mozilla Firefox. L’exploitation de…"
+        },
+        {
+          "title": "70630511/26 - Vulnérabilités critiques dans WatchGuard AuthPoint Authentication Gateway",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-watchguard-authpoint-authentication-gateway",
+          "date": " ",
+          "description": "WatchGuard a corrigé plusieurs vulnérabilités critiques affectant AuthPoint Authentication Gateway. Leur exploitation pourrait permettre à un attaquant de contourner les mécanismes d’authentification,…"
+        }
+      ]
+    },
+    "ZERODAYINITIATIVE": {
+      "items": []
+    },
     "CA-CCS": {
       "items": [
+        {
+          "title": "OpenBSD security advisory (AV26-1130)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/openbsd-security-advisory-av26-1130",
+          "date": "2026-11-05",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Rubyonrails security advisory (AV26-1129)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/rubyonrails-security-advisory-av26-1129",
+          "date": "2026-11-05",
+          "description": "Visit link for details"
+        },
         {
           "title": "Android security advisory – November 2026 monthly rollup (AV26-1128)",
           "link": "https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-november-2026-monthly-rollup-av26-1128",
@@ -380,18 +392,6 @@
         {
           "title": "[Control Systems] Phoenix Contact security advisory (AV26-1121)",
           "link": "https://www.cyber.gc.ca/en/alerts-advisories/control-systems-phoenix-contact-security-advisory-av26-1121",
-          "date": "2026-11-04",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Tanium security advisory (AV26-1120)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/tanium-security-advisory-av26-1120",
-          "date": "2026-11-04",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Zyxel security advisory (AV26-1114) – Update 1",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/zyxel-security-advisory-av26-1114",
           "date": "2026-11-04",
           "description": "Visit link for details"
         }
