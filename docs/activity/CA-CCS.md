@@ -4,6 +4,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[SonicWall security advisory (AV26-1133)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av26-1133)|Visit link for details|2026-11-06|
  |[JetBrains security advisory (AV26-1132)](https://www.cyber.gc.ca/en/alerts-advisories/jetbrains-security-advisory-av26-1132)|Visit link for details|2026-11-06|
  |[Mozilla security advisory (AV26-1131)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av26-1131)|Visit link for details|2026-11-06|
  |[OpenBSD security advisory (AV26-1130)](https://www.cyber.gc.ca/en/alerts-advisories/openbsd-security-advisory-av26-1130)|Visit link for details|2026-11-05|
@@ -13,5 +14,4 @@
  |[GitHub security advisory (AV26-1126)](https://www.cyber.gc.ca/en/alerts-advisories/github-security-advisory-av26-1126)|Visit link for details|2026-11-04|
  |[WatchGuard security advisory (AV26-1125)](https://www.cyber.gc.ca/en/alerts-advisories/watchguard-security-advisory-av26-1125)|Visit link for details|2026-11-04|
  |[SolarWinds security advisory (AV26-1124)](https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av26-1124)|Visit link for details|2026-11-04|
- |[Docker security advisory (AV26-1123)](https://www.cyber.gc.ca/en/alerts-advisories/docker-security-advisory-av26-1123)|Visit link for details|2026-11-04|
  

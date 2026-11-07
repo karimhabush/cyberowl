@@ -1,8 +1,14 @@
 {
-  "generated_at": "2026-11-06T20:40:55.860688+00:00",
+  "generated_at": "2026-11-07T19:14:12.627617+00:00",
   "sources": {
     "US-CERT": {
       "items": [
+        {
+          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/11/06/cisa-adds-one-known-exploited-vulnerability-catalog",
+          "date": "Nov 06, 2026",
+          "description": "Visit link for details."
+        },
         {
           "title": "Post-Quantum Questions to Ask Your Vendors",
           "link": "https://www.cisa.gov/resources-tools/resources/post-quantum-questions-ask-your-vendors",
@@ -56,12 +62,6 @@
           "link": "https://www.cisa.gov/news-events/alerts/2026/10/26/cisa-adds-two-known-exploited-vulnerabilities-catalog",
           "date": "Oct 26, 2026",
           "description": "Visit link for details."
-        },
-        {
-          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-          "link": "https://www.cisa.gov/news-events/alerts/2026/10/23/cisa-adds-one-known-exploited-vulnerability-catalog-0",
-          "date": "Oct 23, 2026",
-          "description": "Visit link for details."
         }
       ]
     },
@@ -70,70 +70,6 @@
     },
     "IBM-X-FORCE-EXCHANGE": {
       "items": []
-    },
-    "VulDB": {
-      "items": [
-        {
-          "title": "CVE-2026-118196  Apache Allura OAuth1 session fixiation",
-          "link": "https://vuldb.com/vuln/432120",
-          "date": "Fri, 06 Nov 2026 21:10:19 +0100",
-          "description": "A vulnerability identified as critical has been detected in Apache Allura. The affected element is an unknown function of the component OAuth1. The manipulation leads to session fixiation.This vulne"
-        },
-        {
-          "title": "CVE-2026-55649  GeoNode up to 5.0.2 cross site scripting",
-          "link": "https://vuldb.com/vuln/432119",
-          "date": "Fri, 06 Nov 2026 21:03:20 +0100",
-          "description": "A vulnerability categorized as problematic has been discovered in GeoNode up to 5.0.2. Impacted is an unknown function. Executing a manipulation can lead to cross site scripting.This vulnerability a"
-        },
-        {
-          "title": "CVE-2026-46429  GeoNode up to 5.0.2 unrestricted upload",
-          "link": "https://vuldb.com/vuln/432118",
-          "date": "Fri, 06 Nov 2026 21:02:54 +0100",
-          "description": "A vulnerability was found in GeoNode up to 5.0.2. It has been rated as critical. This issue affects some unknown processing. Performing a manipulation results in unrestricted upload.This vulnerabili"
-        },
-        {
-          "title": "CVE-2026-123974  PyTorch TorchServe Model privileges management",
-          "link": "https://vuldb.com/vuln/432117",
-          "date": "Fri, 06 Nov 2026 21:02:37 +0100",
-          "description": "A vulnerability was found in PyTorch TorchServe. It has been declared as very critical. This vulnerability affects unknown code of the component Model Handler. Such manipulation leads to improper priv"
-        },
-        {
-          "title": "CVE-2026-33050  GeoNode up to 5.0.x os command injection",
-          "link": "https://vuldb.com/vuln/432116",
-          "date": "Fri, 06 Nov 2026 21:02:19 +0100",
-          "description": "A vulnerability was found in GeoNode up to 5.0.x. It has been classified as critical. This affects an unknown part. This manipulation causes os command injection.This vulnerability is registered as"
-        },
-        {
-          "title": "CVE-2026-124060  TOTOLINK CA300-PoE 6.2c.884 /cgi-bin/cstecgi.cgi UploadCustomModule File buffer overflow",
-          "link": "https://vuldb.com/vuln/432115",
-          "date": "Fri, 06 Nov 2026 20:59:23 +0100",
-          "description": "A vulnerability was found in TOTOLINK CA300-PoE 6.2c.884 and classified as very critical. Affected by this issue is the function UploadCustomModule of the file /cgi-bin/cstecgi.cgi. The manipulation o"
-        },
-        {
-          "title": "CVE-2026-124059  TOTOLINK CA300-PoE 6.2c.884 /cgi-bin/cstecgi.cgi setWiFiWdsAddConfig ApCliKeyStr buffer overflow",
-          "link": "https://vuldb.com/vuln/432114",
-          "date": "Fri, 06 Nov 2026 20:59:19 +0100",
-          "description": "A vulnerability has been found in TOTOLINK CA300-PoE 6.2c.884 and classified as very critical. Affected by this vulnerability is the function setWiFiWdsAddConfig of the file /cgi-bin/cstecgi.cgi. The"
-        },
-        {
-          "title": "CVE-2026-124058  TOTOLINK CA300-PoE 6.2c.884 /cgi-bin/cstecgi.cgi setWiFiRepeaterConfig ApCliKeyStr buffer overflow",
-          "link": "https://vuldb.com/vuln/432113",
-          "date": "Fri, 06 Nov 2026 20:59:15 +0100",
-          "description": "A vulnerability, which was classified as very critical, was found in TOTOLINK CA300-PoE 6.2c.884. Affected is the function setWiFiRepeaterConfig of the file /cgi-bin/cstecgi.cgi. Executing a manipulat"
-        },
-        {
-          "title": "CVE-2026-124057  TOTOLINK CA300-PoE 6.2c.884 /cgi-bin/cstecgi.cgi setWiFiMultipleConfig Key1Str1 buffer overflow",
-          "link": "https://vuldb.com/vuln/432112",
-          "date": "Fri, 06 Nov 2026 20:59:05 +0100",
-          "description": "A vulnerability, which was classified as very critical, has been found in TOTOLINK CA300-PoE 6.2c.884. This impacts the function setWiFiMultipleConfig of the file /cgi-bin/cstecgi.cgi. Performing a ma"
-        },
-        {
-          "title": "CVE-2026-124030  GPAC up to 26.07.0 commands.c gf_sg_command_apply type confusion",
-          "link": "https://vuldb.com/vuln/432111",
-          "date": "Fri, 06 Nov 2026 20:55:41 +0100",
-          "description": "A vulnerability classified as problematic was found in GPAC up to 26.07.0. This affects the function gf_sg_command_apply of the file src/scenegraph/commands.c. Such manipulation leads to type confusio"
-        }
-      ]
     },
     "ZERODAYINITIATIVE": {
       "items": []
@@ -202,6 +138,134 @@
         }
       ]
     },
+    "VulDB": {
+      "items": [
+        {
+          "title": "CVE-2026-119522  meGrill User Registration Plugin up to 5.3.1 on WordPress authorization",
+          "link": "https://vuldb.com/vuln/432646",
+          "date": "Sat, 07 Nov 2026 18:42:36 +0100",
+          "description": "A vulnerability has been found in meGrill User Registration Plugin up to 5.3.1 on WordPress and classified as problematic. This issue affects some unknown processing. Performing a manipulation results"
+        },
+        {
+          "title": "CVE-2026-123461  PluginUs.Net FOX Plugin up to 1.5.6 on WordPress missing authentication",
+          "link": "https://vuldb.com/vuln/432645",
+          "date": "Sat, 07 Nov 2026 18:42:17 +0100",
+          "description": "A vulnerability, which was classified as problematic, was found in PluginUs.Net FOX Plugin up to 1.5.6 on WordPress. This vulnerability affects unknown code. Such manipulation leads to missing authent"
+        },
+        {
+          "title": "CVE-2026-123472  eLightUp Meta Box Plugin up to 5.15.3 on WordPress cross site scripting",
+          "link": "https://vuldb.com/vuln/432644",
+          "date": "Sat, 07 Nov 2026 18:41:53 +0100",
+          "description": "A vulnerability, which was classified as problematic, has been found in eLightUp Meta Box Plugin up to 5.15.3 on WordPress. This affects an unknown part. This manipulation causes cross site scripting."
+        },
+        {
+          "title": "CVE-2026-124258  meGrill User Registration Plugin up to 5.3.1 on WordPress access control",
+          "link": "https://vuldb.com/vuln/432643",
+          "date": "Sat, 07 Nov 2026 18:41:43 +0100",
+          "description": "A vulnerability classified as problematic was found in meGrill User Registration Plugin up to 5.3.1 on WordPress. Affected by this issue is some unknown functionality. The manipulation results in impr"
+        },
+        {
+          "title": "CVE-2026-120836  eLightUp Meta Box Plugin up to 5.15.3 on WordPress authorization",
+          "link": "https://vuldb.com/vuln/432642",
+          "date": "Sat, 07 Nov 2026 18:41:24 +0100",
+          "description": "A vulnerability classified as problematic has been found in eLightUp Meta Box Plugin up to 5.15.3 on WordPress. Affected by this vulnerability is an unknown functionality. The manipulation leads to mi"
+        },
+        {
+          "title": "CVE-2026-124317  Libexpat up to 2.10.0 xmltok.c unknown_toUtf8/unknown_toUtf16 out-of-bounds",
+          "link": "https://vuldb.com/vuln/432641",
+          "date": "Sat, 07 Nov 2026 15:43:38 +0100",
+          "description": "A vulnerability described as critical has been identified in Libexpat up to 2.10.0. Affected is the function unknown_toUtf8/unknown_toUtf16 of the file xmltok.c. Executing a manipulation can lead to o"
+        },
+        {
+          "title": "CVE-2026-124316  Frappe ERPNext up to 15.121.3/16.35.x Buying Utils buying/utils.py erpnext.buying.utils.get_linked_material_requests improper authorization",
+          "link": "https://vuldb.com/vuln/432640",
+          "date": "Sat, 07 Nov 2026 15:42:19 +0100",
+          "description": "A vulnerability marked as problematic has been reported in Frappe ERPNext up to 15.121.3/16.35.x. This impacts the function erpnext.buying.utils.get_linked_material_requests of the file buying/utils.p"
+        },
+        {
+          "title": "CVE-2026-124314  Frappe ERPNext up to 15.121.3/16.35.x CRM erpnext/crm/utils.py erpnext.crm.utils.get_open_activities ref_doctype/ref_docname improper authorization",
+          "link": "https://vuldb.com/vuln/432639",
+          "date": "Sat, 07 Nov 2026 15:41:45 +0100",
+          "description": "A vulnerability labeled as problematic has been found in Frappe ERPNext up to 15.121.3/16.35.x. This affects the function erpnext.crm.utils.get_open_activities of the file erpnext/crm/utils.py of the"
+        },
+        {
+          "title": "CVE-2026-124308  Fraunhofer HHI vvdec up to 3.2.0 DecLibRecon createSubPicRefBufs use after free",
+          "link": "https://vuldb.com/vuln/432638",
+          "date": "Sat, 07 Nov 2026 15:41:37 +0100",
+          "description": "A vulnerability identified as problematic has been detected in Fraunhofer HHI vvdec up to 3.2.0. The impacted element is the function DecLibRecon::createSubPicRefBufs of the component DecLibRecon. Thi"
+        },
+        {
+          "title": "CVE-2026-124315  Frappe ERPNext up to 15.121.3/16.35.x BOM Permission Check get_bom_items/get_bom_diff bom_name improper authorization",
+          "link": "https://vuldb.com/vuln/432637",
+          "date": "Sat, 07 Nov 2026 15:41:36 +0100",
+          "description": "A vulnerability categorized as problematic has been discovered in Frappe ERPNext up to 15.121.3/16.35.x. The affected element is the function get_bom_items/get_bom_diff of the component BOM Permission"
+        }
+      ]
+    },
+    "OBS-Vigilance": {
+      "items": [
+        {
+          "title": "golang.org/x/crypto/ssh: read-write access via Callbacks",
+          "link": "https://vigilance.fr/vulnerability/golang-org-x-crypto-ssh-read-write-access-via-Callbacks-52521",
+          "date": "Visit link for details",
+          "description": "An attacker can bypass access restrictions of golang.org/x/crypto/"
+        },
+        {
+          "title": "klauspost/compress: integer overflow via s2.NewDict",
+          "link": "https://vigilance.fr/vulnerability/klauspost-compress-integer-overflow-via-s2-NewDict-52520",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger an integer overflow of klauspost/compress, via s2.NewDict, in order to trigger a denial of service, and possibly to run code..."
+        },
+        {
+          "title": "libpcap: multiple vulnerabilities dated 07/09/2026",
+          "link": "https://vigilance.fr/vulnerability/libpcap-multiple-vulnerabilities-dated-07-09-2026-52518",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of libpcap, dated 07/09/2026..."
+        },
+        {
+          "title": "Linux kernel: multiple vulnerabilities dated 07/09/2026",
+          "link": "https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-07-09-2026-52515",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of the Linux kernel, dated 07/09/2026..."
+        },
+        {
+          "title": "TeamPass: denial of service via Background Scheduler Entry Point",
+          "link": "https://vigilance.fr/vulnerability/TeamPass-denial-of-service-via-Background-Scheduler-Entry-Point-52513",
+          "date": "Visit link for details",
+          "description": "An attacker can cause a fatal error of TeamPass, via Background Scheduler Entry Point, in order to trigger a denial of service..."
+        },
+        {
+          "title": "ImageMagick: multiple vulnerabilities dated 04/09/2026",
+          "link": "https://vigilance.fr/vulnerability/ImageMagick-multiple-vulnerabilities-dated-04-09-2026-52512",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of ImageMagick, dated 04/09/2026..."
+        },
+        {
+          "title": "Linux kernel: multiple vulnerabilities dated 04/09/2026",
+          "link": "https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-04-09-2026-52507",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of the Linux kernel, dated 04/09/2026..."
+        },
+        {
+          "title": "OpenVPN OpenSource: multiple vulnerabilities dated 03/09/2026",
+          "link": "https://vigilance.fr/vulnerability/OpenVPN-OpenSource-multiple-vulnerabilities-dated-03-09-2026-52506",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of OpenVPN OpenSource, dated 03/09/2026..."
+        },
+        {
+          "title": "OpenStack Glance: Server-Side Request Forgery via Web-download / HTTP Image APIs",
+          "link": "https://vigilance.fr/vulnerability/OpenStack-Glance-Server-Side-Request-Forgery-via-Web-download-HTTP-Image-APIs-52505",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger a Server-Side Request Forgery of OpenStack Glance, via Web-download / HTTP Image APIs, in order to force the server to send queries..."
+        },
+        {
+          "title": "zlib: buffer overflow via gz_vacate()",
+          "link": "https://vigilance.fr/vulnerability/zlib-buffer-overflow-via-gz-vacate-52504",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger a buffer overflow of zlib, via gz_vacate(), in order to trigger a denial of service, and possibly to run code..."
+        }
+      ]
+    },
     "EU-CERT": {
       "items": [
         {
@@ -266,72 +330,14 @@
         }
       ]
     },
-    "OBS-Vigilance": {
-      "items": [
-        {
-          "title": "TeamPass: denial of service via Background Scheduler Entry Point",
-          "link": "https://vigilance.fr/vulnerability/TeamPass-denial-of-service-via-Background-Scheduler-Entry-Point-52513",
-          "date": "Visit link for details",
-          "description": "An attacker can cause a fatal error of TeamPass, via Background Scheduler Entry Point, in order to trigger a denial of service..."
-        },
-        {
-          "title": "ImageMagick: multiple vulnerabilities dated 04/09/2026",
-          "link": "https://vigilance.fr/vulnerability/ImageMagick-multiple-vulnerabilities-dated-04-09-2026-52512",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of ImageMagick, dated 04/09/2026..."
-        },
-        {
-          "title": "Linux kernel: multiple vulnerabilities dated 04/09/2026",
-          "link": "https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-04-09-2026-52507",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of the Linux kernel, dated 04/09/2026..."
-        },
-        {
-          "title": "OpenVPN OpenSource: multiple vulnerabilities dated 03/09/2026",
-          "link": "https://vigilance.fr/vulnerability/OpenVPN-OpenSource-multiple-vulnerabilities-dated-03-09-2026-52506",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of OpenVPN OpenSource, dated 03/09/2026..."
-        },
-        {
-          "title": "OpenStack Glance: Server-Side Request Forgery via Web-download / HTTP Image APIs",
-          "link": "https://vigilance.fr/vulnerability/OpenStack-Glance-Server-Side-Request-Forgery-via-Web-download-HTTP-Image-APIs-52505",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger a Server-Side Request Forgery of OpenStack Glance, via Web-download / HTTP Image APIs, in order to force the server to send queries..."
-        },
-        {
-          "title": "zlib: buffer overflow via gz_vacate()",
-          "link": "https://vigilance.fr/vulnerability/zlib-buffer-overflow-via-gz-vacate-52504",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger a buffer overflow of zlib, via gz_vacate(), in order to trigger a denial of service, and possibly to run code..."
-        },
-        {
-          "title": "Grafana Enterprise: two vulnerabilities dated 03/09/2026",
-          "link": "https://vigilance.fr/vulnerability/Grafana-Enterprise-two-vulnerabilities-dated-03-09-2026-52503",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of Grafana Enterprise, dated 03/09/2026..."
-        },
-        {
-          "title": "VMware Workstation: two vulnerabilities dated 03/09/2026",
-          "link": "https://vigilance.fr/vulnerability/VMware-Workstation-two-vulnerabilities-dated-03-09-2026-52502",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of VMware Workstation, dated 03/09/2026..."
-        },
-        {
-          "title": "F5 BIG-IP: spoofing via Configuration Utility Error Messages",
-          "link": "https://vigilance.fr/vulnerability/F5-BIG-IP-spoofing-via-Configuration-Utility-Error-Messages-52501",
-          "date": "Visit link for details",
-          "description": "An attacker can create spoofed data on F5 BIG-IP, via Configuration Utility Error Messages, in order to deceive the victim..."
-        },
-        {
-          "title": "F5 BIG-IP: privilege escalation via Windows Edge Client",
-          "link": "https://vigilance.fr/vulnerability/F5-BIG-IP-privilege-escalation-via-Windows-Edge-Client-52500",
-          "date": "Visit link for details",
-          "description": "An attacker can bypass restrictions of F5 BIG-IP, via Windows Edge Client, in order to escalate his privileges..."
-        }
-      ]
-    },
     "CA-CCS": {
       "items": [
+        {
+          "title": "SonicWall security advisory (AV26-1133)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av26-1133",
+          "date": "2026-11-06",
+          "description": "Visit link for details"
+        },
         {
           "title": "JetBrains security advisory (AV26-1132)",
           "link": "https://www.cyber.gc.ca/en/alerts-advisories/jetbrains-security-advisory-av26-1132",
@@ -383,12 +389,6 @@
         {
           "title": "SolarWinds security advisory (AV26-1124)",
           "link": "https://www.cyber.gc.ca/en/alerts-advisories/solarwinds-security-advisory-av26-1124",
-          "date": "2026-11-04",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Docker security advisory (AV26-1123)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/docker-security-advisory-av26-1123",
           "date": "2026-11-04",
           "description": "Visit link for details"
         }
