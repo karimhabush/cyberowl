@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T19:14:12.627617+00:00",
+  "generated_at": "2026-11-08T19:16:34.025718+00:00",
   "sources": {
     "US-CERT": {
       "items": [
@@ -71,8 +71,133 @@
     "IBM-X-FORCE-EXCHANGE": {
       "items": []
     },
-    "ZERODAYINITIATIVE": {
-      "items": []
+    "OBS-Vigilance": {
+      "items": [
+        {
+          "title": "Cisco UCS: privilege escalation via UEFI Shell Secure Boot",
+          "link": "https://vigilance.fr/vulnerability/Cisco-UCS-privilege-escalation-via-UEFI-Shell-Secure-Boot-52541",
+          "date": "Visit link for details",
+          "description": "An attacker can bypass restrictions of Cisco UCS, via UEFI Shell Secure Boot, in order to escalate his privileges..."
+        },
+        {
+          "title": "Apache CXF: external XML entity injection via SAXParserFactory",
+          "link": "https://vigilance.fr/vulnerability/Apache-CXF-external-XML-entity-injection-via-SAXParserFactory-52539",
+          "date": "Visit link for details",
+          "description": "An attacker can transmit malicious XML data to Apache CXF, via SAXParserFactory, in order to read a file, scan sites, or trigger a denial of service..."
+        },
+        {
+          "title": "Apache Neethi: three vulnerabilities dated 08/09/2026",
+          "link": "https://vigilance.fr/vulnerability/Apache-Neethi-three-vulnerabilities-dated-08-09-2026-52538",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of Apache Neethi, dated 08/09/2026..."
+        },
+        {
+          "title": "Apache CXF: external XML entity injection via WSDL",
+          "link": "https://vigilance.fr/vulnerability/Apache-CXF-external-XML-entity-injection-via-WSDL-52537",
+          "date": "Visit link for details",
+          "description": "An attacker can transmit malicious XML data to Apache CXF, via WSDL, in order to read a file, scan sites, or trigger a denial of service..."
+        },
+        {
+          "title": "gRPC-Go: denial of service via Fragmented HTTP/2 DATA Frame",
+          "link": "https://vigilance.fr/vulnerability/gRPC-Go-denial-of-service-via-Fragmented-HTTP-2-DATA-Frame-52534",
+          "date": "Visit link for details",
+          "description": "An attacker can cause a fatal error of gRPC-Go, via Fragmented HTTP/2 DATA Frame, in order to trigger a denial of service..."
+        },
+        {
+          "title": "Ivanti Endpoint Manager Mobile: privilege escalation via Missing Authorization",
+          "link": "https://vigilance.fr/vulnerability/Ivanti-Endpoint-Manager-Mobile-privilege-escalation-via-Missing-Authorization-52532",
+          "date": "Visit link for details",
+          "description": "An attacker can bypass restrictions of Ivanti Endpoint Manager Mobile, via Missing Authorization, in order to escalate his privileges..."
+        },
+        {
+          "title": "Xen: five vulnerabilities dated 08/09/2026",
+          "link": "https://vigilance.fr/vulnerability/Xen-five-vulnerabilities-dated-08-09-2026-52531",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of Xen, dated 08/09/2026..."
+        },
+        {
+          "title": "TYPO3 Core: two vulnerabilities dated 08/09/2026",
+          "link": "https://vigilance.fr/vulnerability/TYPO3-Core-two-vulnerabilities-dated-08-09-2026-52530",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of TYPO3 Core, dated 08/09/2026..."
+        },
+        {
+          "title": "Postfix: multiple vulnerabilities dated 08/09/2026",
+          "link": "https://vigilance.fr/vulnerability/Postfix-multiple-vulnerabilities-dated-08-09-2026-52529",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of Postfix, dated 08/09/2026..."
+        },
+        {
+          "title": "Adminer: four vulnerabilities dated 08/09/2026",
+          "link": "https://vigilance.fr/vulnerability/Adminer-four-vulnerabilities-dated-08-09-2026-52525",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of Adminer, dated 08/09/2026..."
+        }
+      ]
+    },
+    "VulDB": {
+      "items": [
+        {
+          "title": "CVE-2026-80435  IBM DataStage on Cloud Pak for Data 5.4.0.0 xml external entity reference",
+          "link": "https://vuldb.com/vuln/432998",
+          "date": "Sun, 08 Nov 2026 20:05:30 +0100",
+          "description": "A vulnerability was found in IBM DataStage on Cloud Pak for Data 5.4.0.0. It has been classified as critical. This issue affects some unknown processing. This manipulation causes xml external entity r"
+        },
+        {
+          "title": "CVE-2026-78537  IBM Guardium Key Lifecycle Manager up to 5.1 information disclosure",
+          "link": "https://vuldb.com/vuln/432997",
+          "date": "Sun, 08 Nov 2026 20:04:38 +0100",
+          "description": "A vulnerability was found in IBM Guardium Key Lifecycle Manager up to 5.1 and classified as problematic. This vulnerability affects unknown code. The manipulation results in information disclosure.T"
+        },
+        {
+          "title": "CVE-2026-84229  IBM Guardium Data Protection 12.2.4 CSRF Token Validation cross-site request forgery",
+          "link": "https://vuldb.com/vuln/432996",
+          "date": "Sun, 08 Nov 2026 20:04:16 +0100",
+          "description": "A vulnerability has been found in IBM Guardium Data Protection 12.2.4 and classified as problematic. This affects an unknown part of the component CSRF Token Validation. The manipulation leads to cros"
+        },
+        {
+          "title": "CVE-2026-8640  IBM Security Verify Directory/Verify Directory up to 10.0.4/11.0.0 Session Cookies cross-site request forgery",
+          "link": "https://vuldb.com/vuln/432995",
+          "date": "Sun, 08 Nov 2026 20:03:53 +0100",
+          "description": "A vulnerability, which was classified as problematic, was found in IBM Security Verify Directory and Verify Directory up to 10.0.4/11.0.0. Affected by this issue is some unknown functionality of the c"
+        },
+        {
+          "title": "CVE-2026-84030  IBM Guardium Data Protection 12.2.4 neutralization",
+          "link": "https://vuldb.com/vuln/432994",
+          "date": "Sun, 08 Nov 2026 20:03:39 +0100",
+          "description": "A vulnerability, which was classified as critical, has been found in IBM Guardium Data Protection 12.2.4. Affected by this vulnerability is an unknown functionality. Performing a manipulation results"
+        },
+        {
+          "title": "CVE-2026-84228  IBM Guardium Data Protection 12.2.4 input validation",
+          "link": "https://vuldb.com/vuln/432993",
+          "date": "Sun, 08 Nov 2026 20:03:34 +0100",
+          "description": "A vulnerability classified as problematic was found in IBM Guardium Data Protection 12.2.4. Affected is an unknown function. Such manipulation leads to improper input validation.This vulnerability i"
+        },
+        {
+          "title": "CVE-2026-84237  IBM Guardium Data Protection 12.2.4 path traversal",
+          "link": "https://vuldb.com/vuln/432992",
+          "date": "Sun, 08 Nov 2026 20:03:33 +0100",
+          "description": "A vulnerability classified as problematic has been found in IBM Guardium Data Protection 12.2.4. This impacts an unknown function. This manipulation causes path traversal.This vulnerability is handl"
+        },
+        {
+          "title": "CVE-2026-81542  IBM DataStage on Cloud Pak for Data 5.4.0.0 path traversal",
+          "link": "https://vuldb.com/vuln/432991",
+          "date": "Sun, 08 Nov 2026 20:03:18 +0100",
+          "description": "A vulnerability described as problematic has been identified in IBM DataStage on Cloud Pak for Data 5.4.0.0. This affects an unknown function. The manipulation results in path traversal.This vulnera"
+        },
+        {
+          "title": "CVE-2026-82830  IBM Guardium Data Protection 12.2.4 neutralization",
+          "link": "https://vuldb.com/vuln/432990",
+          "date": "Sun, 08 Nov 2026 20:02:40 +0100",
+          "description": "A vulnerability marked as very critical has been reported in IBM Guardium Data Protection 12.2.4. The impacted element is an unknown function. The manipulation leads to improper neutralization.This"
+        },
+        {
+          "title": "CVE-2026-93879  IBM Hibernate Validator up to 9.1.4.Final Expression Language resource consumption",
+          "link": "https://vuldb.com/vuln/432989",
+          "date": "Sun, 08 Nov 2026 20:02:37 +0100",
+          "description": "A vulnerability labeled as problematic has been found in IBM Hibernate Validator up to 6.2.5.Final/7.0.5.Final/8.0.5.Final/9.0.1.Final/9.1.4.Final. The affected element is an unknown function of the c"
+        }
+      ]
     },
     "HK-CERT": {
       "items": [
@@ -135,134 +260,6 @@
           "link": "https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20261104",
           "date": "Release Date: 4 Nov 2026 ",
           "description": "Multiple vulnerabilities were identified in Google Chrome. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, security restriction bypass,  sensitive information disclosure, elevation of privilege and remote code execution on the targeted system."
-        }
-      ]
-    },
-    "VulDB": {
-      "items": [
-        {
-          "title": "CVE-2026-119522  meGrill User Registration Plugin up to 5.3.1 on WordPress authorization",
-          "link": "https://vuldb.com/vuln/432646",
-          "date": "Sat, 07 Nov 2026 18:42:36 +0100",
-          "description": "A vulnerability has been found in meGrill User Registration Plugin up to 5.3.1 on WordPress and classified as problematic. This issue affects some unknown processing. Performing a manipulation results"
-        },
-        {
-          "title": "CVE-2026-123461  PluginUs.Net FOX Plugin up to 1.5.6 on WordPress missing authentication",
-          "link": "https://vuldb.com/vuln/432645",
-          "date": "Sat, 07 Nov 2026 18:42:17 +0100",
-          "description": "A vulnerability, which was classified as problematic, was found in PluginUs.Net FOX Plugin up to 1.5.6 on WordPress. This vulnerability affects unknown code. Such manipulation leads to missing authent"
-        },
-        {
-          "title": "CVE-2026-123472  eLightUp Meta Box Plugin up to 5.15.3 on WordPress cross site scripting",
-          "link": "https://vuldb.com/vuln/432644",
-          "date": "Sat, 07 Nov 2026 18:41:53 +0100",
-          "description": "A vulnerability, which was classified as problematic, has been found in eLightUp Meta Box Plugin up to 5.15.3 on WordPress. This affects an unknown part. This manipulation causes cross site scripting."
-        },
-        {
-          "title": "CVE-2026-124258  meGrill User Registration Plugin up to 5.3.1 on WordPress access control",
-          "link": "https://vuldb.com/vuln/432643",
-          "date": "Sat, 07 Nov 2026 18:41:43 +0100",
-          "description": "A vulnerability classified as problematic was found in meGrill User Registration Plugin up to 5.3.1 on WordPress. Affected by this issue is some unknown functionality. The manipulation results in impr"
-        },
-        {
-          "title": "CVE-2026-120836  eLightUp Meta Box Plugin up to 5.15.3 on WordPress authorization",
-          "link": "https://vuldb.com/vuln/432642",
-          "date": "Sat, 07 Nov 2026 18:41:24 +0100",
-          "description": "A vulnerability classified as problematic has been found in eLightUp Meta Box Plugin up to 5.15.3 on WordPress. Affected by this vulnerability is an unknown functionality. The manipulation leads to mi"
-        },
-        {
-          "title": "CVE-2026-124317  Libexpat up to 2.10.0 xmltok.c unknown_toUtf8/unknown_toUtf16 out-of-bounds",
-          "link": "https://vuldb.com/vuln/432641",
-          "date": "Sat, 07 Nov 2026 15:43:38 +0100",
-          "description": "A vulnerability described as critical has been identified in Libexpat up to 2.10.0. Affected is the function unknown_toUtf8/unknown_toUtf16 of the file xmltok.c. Executing a manipulation can lead to o"
-        },
-        {
-          "title": "CVE-2026-124316  Frappe ERPNext up to 15.121.3/16.35.x Buying Utils buying/utils.py erpnext.buying.utils.get_linked_material_requests improper authorization",
-          "link": "https://vuldb.com/vuln/432640",
-          "date": "Sat, 07 Nov 2026 15:42:19 +0100",
-          "description": "A vulnerability marked as problematic has been reported in Frappe ERPNext up to 15.121.3/16.35.x. This impacts the function erpnext.buying.utils.get_linked_material_requests of the file buying/utils.p"
-        },
-        {
-          "title": "CVE-2026-124314  Frappe ERPNext up to 15.121.3/16.35.x CRM erpnext/crm/utils.py erpnext.crm.utils.get_open_activities ref_doctype/ref_docname improper authorization",
-          "link": "https://vuldb.com/vuln/432639",
-          "date": "Sat, 07 Nov 2026 15:41:45 +0100",
-          "description": "A vulnerability labeled as problematic has been found in Frappe ERPNext up to 15.121.3/16.35.x. This affects the function erpnext.crm.utils.get_open_activities of the file erpnext/crm/utils.py of the"
-        },
-        {
-          "title": "CVE-2026-124308  Fraunhofer HHI vvdec up to 3.2.0 DecLibRecon createSubPicRefBufs use after free",
-          "link": "https://vuldb.com/vuln/432638",
-          "date": "Sat, 07 Nov 2026 15:41:37 +0100",
-          "description": "A vulnerability identified as problematic has been detected in Fraunhofer HHI vvdec up to 3.2.0. The impacted element is the function DecLibRecon::createSubPicRefBufs of the component DecLibRecon. Thi"
-        },
-        {
-          "title": "CVE-2026-124315  Frappe ERPNext up to 15.121.3/16.35.x BOM Permission Check get_bom_items/get_bom_diff bom_name improper authorization",
-          "link": "https://vuldb.com/vuln/432637",
-          "date": "Sat, 07 Nov 2026 15:41:36 +0100",
-          "description": "A vulnerability categorized as problematic has been discovered in Frappe ERPNext up to 15.121.3/16.35.x. The affected element is the function get_bom_items/get_bom_diff of the component BOM Permission"
-        }
-      ]
-    },
-    "OBS-Vigilance": {
-      "items": [
-        {
-          "title": "golang.org/x/crypto/ssh: read-write access via Callbacks",
-          "link": "https://vigilance.fr/vulnerability/golang-org-x-crypto-ssh-read-write-access-via-Callbacks-52521",
-          "date": "Visit link for details",
-          "description": "An attacker can bypass access restrictions of golang.org/x/crypto/"
-        },
-        {
-          "title": "klauspost/compress: integer overflow via s2.NewDict",
-          "link": "https://vigilance.fr/vulnerability/klauspost-compress-integer-overflow-via-s2-NewDict-52520",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger an integer overflow of klauspost/compress, via s2.NewDict, in order to trigger a denial of service, and possibly to run code..."
-        },
-        {
-          "title": "libpcap: multiple vulnerabilities dated 07/09/2026",
-          "link": "https://vigilance.fr/vulnerability/libpcap-multiple-vulnerabilities-dated-07-09-2026-52518",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of libpcap, dated 07/09/2026..."
-        },
-        {
-          "title": "Linux kernel: multiple vulnerabilities dated 07/09/2026",
-          "link": "https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-07-09-2026-52515",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of the Linux kernel, dated 07/09/2026..."
-        },
-        {
-          "title": "TeamPass: denial of service via Background Scheduler Entry Point",
-          "link": "https://vigilance.fr/vulnerability/TeamPass-denial-of-service-via-Background-Scheduler-Entry-Point-52513",
-          "date": "Visit link for details",
-          "description": "An attacker can cause a fatal error of TeamPass, via Background Scheduler Entry Point, in order to trigger a denial of service..."
-        },
-        {
-          "title": "ImageMagick: multiple vulnerabilities dated 04/09/2026",
-          "link": "https://vigilance.fr/vulnerability/ImageMagick-multiple-vulnerabilities-dated-04-09-2026-52512",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of ImageMagick, dated 04/09/2026..."
-        },
-        {
-          "title": "Linux kernel: multiple vulnerabilities dated 04/09/2026",
-          "link": "https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-04-09-2026-52507",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of the Linux kernel, dated 04/09/2026..."
-        },
-        {
-          "title": "OpenVPN OpenSource: multiple vulnerabilities dated 03/09/2026",
-          "link": "https://vigilance.fr/vulnerability/OpenVPN-OpenSource-multiple-vulnerabilities-dated-03-09-2026-52506",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of OpenVPN OpenSource, dated 03/09/2026..."
-        },
-        {
-          "title": "OpenStack Glance: Server-Side Request Forgery via Web-download / HTTP Image APIs",
-          "link": "https://vigilance.fr/vulnerability/OpenStack-Glance-Server-Side-Request-Forgery-via-Web-download-HTTP-Image-APIs-52505",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger a Server-Side Request Forgery of OpenStack Glance, via Web-download / HTTP Image APIs, in order to force the server to send queries..."
-        },
-        {
-          "title": "zlib: buffer overflow via gz_vacate()",
-          "link": "https://vigilance.fr/vulnerability/zlib-buffer-overflow-via-gz-vacate-52504",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger a buffer overflow of zlib, via gz_vacate(), in order to trigger a denial of service, and possibly to run code..."
         }
       ]
     },
@@ -393,6 +390,9 @@
           "description": "Visit link for details"
         }
       ]
+    },
+    "ZERODAYINITIATIVE": {
+      "items": []
     },
     "MA-CERT": {
       "items": [
