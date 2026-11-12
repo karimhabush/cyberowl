@@ -4,14 +4,14 @@
 
  |Title|Description|Date|
  |---|---|---|
- |[OpenBSD security advisory (AV26-1130) - Update 1](https://www.cyber.gc.ca/en/alerts-advisories/openbsd-security-advisory-av26-1130)|Visit link for details|2026-11-09|
- |[Barracuda Networks security advisory (AV26-1112) – Update 1](https://www.cyber.gc.ca/en/alerts-advisories/barracuda-networks-security-advisory-av26-1112)|Visit link for details|2026-11-09|
- |[Red Hat security advisory (AV26-1136)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av26-1136)|Visit link for details|2026-11-09|
- |[IBM security advisory (AV26-1135)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av26-1135)|Visit link for details|2026-11-09|
- |[Dell security advisory (AV26-1134)](https://www.cyber.gc.ca/en/alerts-advisories/dell-security-advisory-av26-1134)|Visit link for details|2026-11-09|
- |[SonicWall security advisory (AV26-1133)](https://www.cyber.gc.ca/en/alerts-advisories/sonicwall-security-advisory-av26-1133)|Visit link for details|2026-11-06|
- |[JetBrains security advisory (AV26-1132)](https://www.cyber.gc.ca/en/alerts-advisories/jetbrains-security-advisory-av26-1132)|Visit link for details|2026-11-06|
- |[Mozilla security advisory (AV26-1131)](https://www.cyber.gc.ca/en/alerts-advisories/mozilla-security-advisory-av26-1131)|Visit link for details|2026-11-06|
- |[Rubyonrails security advisory (AV26-1129)](https://www.cyber.gc.ca/en/alerts-advisories/rubyonrails-security-advisory-av26-1129)|Visit link for details|2026-11-05|
- |[Android security advisory – November 2026 monthly rollup (AV26-1128)](https://www.cyber.gc.ca/en/alerts-advisories/android-security-advisory-november-2026-monthly-rollup-av26-1128)|Visit link for details|2026-11-04|
+ |[Microsoft security advisory – November 2026 monthly rollup (AV26-1142) – Update 1](https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-november-2026-monthly-rollup-av26-1142)|Visit link for details|2026-11-12|
+ |[Google security advisory (AV26-1157)](https://www.cyber.gc.ca/en/alerts-advisories/google-security-advisory-av26-1157)|Visit link for details|2026-11-12|
+ |[Nodejs security advisory (AV26-1156)](https://www.cyber.gc.ca/en/alerts-advisories/nodejs-security-advisory-av26-1156)|Visit link for details|2026-11-12|
+ |[AMD security advisory (AV26-1155)](https://www.cyber.gc.ca/en/alerts-advisories/amd-security-advisory-av26-1155)|Visit link for details|2026-11-12|
+ |[Check Point security advisory (AV26-1154)](https://www.cyber.gc.ca/en/alerts-advisories/check-point-security-advisory-av26-1154)|Visit link for details|2026-11-12|
+ |[Docker security advisory (AV26-1153)](https://www.cyber.gc.ca/en/alerts-advisories/docker-security-advisory-av26-1153)|Visit link for details|2026-11-12|
+ |[React security advisory (AV26-1152)](https://www.cyber.gc.ca/en/alerts-advisories/react-security-advisory-av26-1152)|Visit link for details|2026-11-12|
+ |[MongoDB security advisory (AV26-1151)](https://www.cyber.gc.ca/en/alerts-advisories/mongodb-security-advisory-av26-1151)|Visit link for details|2026-11-12|
+ |[Citrix security advisory (AV26-1150)](https://www.cyber.gc.ca/en/alerts-advisories/citrix-security-advisory-av26-1150)|Visit link for details|2026-11-12|
+ |[Apple security advisory (AV26-1149)](https://www.cyber.gc.ca/en/alerts-advisories/apple-security-advisory-av26-1149)|Visit link for details|2026-11-12|
  
