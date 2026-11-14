@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T21:08:06.813686+00:00",
+  "generated_at": "2026-11-14T19:39:20.083474+00:00",
   "sources": {
     "US-CERT": {
       "items": [
@@ -68,6 +68,76 @@
     "IBM-X-FORCE-EXCHANGE": {
       "items": []
     },
+    "ZERODAYINITIATIVE": {
+      "items": []
+    },
+    "VulDB": {
+      "items": [
+        {
+          "title": "CVE-2026-129453  DrayTek Vigor2960 1.5.1.6 File Existence Check mainfunction.cgi check_file_exist upload_name heap-based overflow",
+          "link": "https://vuldb.com/vuln/437464",
+          "date": "Sat, 14 Nov 2026 19:18:03 +0100",
+          "description": "A vulnerability was found in DrayTek Vigor2960 1.5.1.6. It has been classified as very critical. This issue affects the function check_file_exist of the file /cgi-bin/mainfunction.cgi of the component"
+        },
+        {
+          "title": "CVE-2026-129452  DrayTek Vigor2960 1.5.1.6 mainfunction.cgi set_table jsondata command injection",
+          "link": "https://vuldb.com/vuln/437463",
+          "date": "Sat, 14 Nov 2026 19:17:58 +0100",
+          "description": "A vulnerability was found in DrayTek Vigor2960 1.5.1.6 and classified as very critical. This vulnerability affects the function set_table of the file /cgi-bin/mainfunction.cgi. Such manipulation of th"
+        },
+        {
+          "title": "CVE-2026-129451  DrayTek Vigor2960 up to 1.5.1.6 mainfunction.cgi app_guest_export filename path traversal",
+          "link": "https://vuldb.com/vuln/437462",
+          "date": "Sat, 14 Nov 2026 19:17:54 +0100",
+          "description": "A vulnerability has been found in DrayTek Vigor2960 up to 1.5.1.6 and classified as very critical. This affects the function app_guest_export of the file /cgi-bin/mainfunction.cgi. This manipulation o"
+        },
+        {
+          "title": "CVE-2026-129450  DrayTek Vigor2960 1.5.1.6 mainfunction.cgi?action=doWebBackup sub_1E084 option path traversal",
+          "link": "https://vuldb.com/vuln/437461",
+          "date": "Sat, 14 Nov 2026 19:16:10 +0100",
+          "description": "A vulnerability, which was classified as very critical, was found in DrayTek Vigor2960 1.5.1.6. Affected by this issue is the function sub_1E084 of the file /cgi-bin/mainfunction.cgi?action=doWebBacku"
+        },
+        {
+          "title": "CVE-2026-129449  DrayTek Vigor2960 up to 1.5.1.6 mainfunction.cgi sub_14914 swmconfigupload command injection",
+          "link": "https://vuldb.com/vuln/437460",
+          "date": "Sat, 14 Nov 2026 19:16:03 +0100",
+          "description": "A vulnerability, which was classified as very critical, has been found in DrayTek Vigor2960 up to 1.5.1.6. Affected by this vulnerability is the function sub_14914 of the file /cgi-bin/mainfunction.cg"
+        },
+        {
+          "title": "CVE-2026-129447  Yuzutech Kroki up to 0.35.9 DBML SVG /dbml/svg url/headercolor/tablegroup_color cross site scripting",
+          "link": "https://vuldb.com/vuln/437459",
+          "date": "Sat, 14 Nov 2026 19:02:24 +0100",
+          "description": "A vulnerability classified as problematic was found in Yuzutech Kroki up to 0.35.9. Affected is an unknown function of the file /dbml/svg of the component DBML SVG Handler. Executing a manipulation of"
+        },
+        {
+          "title": "CVE-2026-129445  D-Link DIR-850L FW1.20WWb03 Console Login /usr/sbin/consolepwd hard-coded credentials",
+          "link": "https://vuldb.com/vuln/437458",
+          "date": "Sat, 14 Nov 2026 18:03:38 +0100",
+          "description": "A vulnerability classified as critical has been found in D-Link DIR-850L FW1.20WWb03. This impacts an unknown function of the file /usr/sbin/consolepwd of the component Console Login. Performing a man"
+        },
+        {
+          "title": "CVE-2026-129444  D-Link DSL-6740C 20131126 FTP Daemon ftpd_conf.php hard-coded credentials",
+          "link": "https://vuldb.com/vuln/437457",
+          "date": "Sat, 14 Nov 2026 18:03:34 +0100",
+          "description": "A vulnerability described as very critical has been identified in D-Link DSL-6740C 20131126. This affects an unknown function of the file /etc/templates/ftpd/ftpd_conf.php of the component FTP Daemon."
+        },
+        {
+          "title": "CVE-2026-129443  itsourcecode Airline Reservation System 1.0 /admin/manage_user.php id sql injection",
+          "link": "https://vuldb.com/vuln/437456",
+          "date": "Sat, 14 Nov 2026 18:00:40 +0100",
+          "description": "A vulnerability marked as critical has been reported in itsourcecode Airline Reservation System 1.0. The impacted element is an unknown function of the file /admin/manage_user.php. This manipulation o"
+        },
+        {
+          "title": "CVE-2026-110531  Foliovision FV Player Plugin up to 8.1.9 on WordPress fv_player_videos cross site scripting",
+          "link": "https://vuldb.com/vuln/437455",
+          "date": "Sat, 14 Nov 2026 16:46:50 +0100",
+          "description": "A vulnerability labeled as problematic has been found in Foliovision FV Player Plugin up to 8.1.9 on WordPress. The affected element is an unknown function. The manipulation of the argument fv_player_"
+        }
+      ]
+    },
+    "CERT-FR": {
+      "items": []
+    },
     "HK-CERT": {
       "items": [
         {
@@ -132,134 +202,67 @@
         }
       ]
     },
-    "VulDB": {
-      "items": [
-        {
-          "title": "CVE-2026-92738  HashiCorp Vault prior 2.2.2/1.21.14/1.19.26 Login MFA access control",
-          "link": "https://vuldb.com/vuln/437318",
-          "date": "Fri, 13 Nov 2026 21:47:45 +0100",
-          "description": "A vulnerability classified as problematic has been found in HashiCorp Vault. Affected by this issue is some unknown functionality of the component Login MFA. This manipulation causes improper access c"
-        },
-        {
-          "title": "CVE-2026-89037  Dolibarr up to 24.0.1 REST Documents API redirect",
-          "link": "https://vuldb.com/vuln/437317",
-          "date": "Fri, 13 Nov 2026 21:47:41 +0100",
-          "description": "A vulnerability described as problematic has been identified in Dolibarr up to 24.0.1. Affected by this vulnerability is an unknown functionality of the component REST Documents API. The manipulation"
-        },
-        {
-          "title": "CVE-2026-128125  Aio-libs Aiohttp up to 3.14.3 Cookie Parsing resource consumption",
-          "link": "https://vuldb.com/vuln/437316",
-          "date": "Fri, 13 Nov 2026 21:47:21 +0100",
-          "description": "A vulnerability marked as problematic has been reported in Aio-libs Aiohttp up to 3.14.3. Affected is an unknown function of the component Cookie Parsing. The manipulation leads to resource consumptio"
-        },
-        {
-          "title": "CVE-2026-128124  aio-libs aiohttp up to 3.14.3 Domain Mask Processing Application.add_domain resource consumption",
-          "link": "https://vuldb.com/vuln/437315",
-          "date": "Fri, 13 Nov 2026 21:47:01 +0100",
-          "description": "A vulnerability labeled as problematic has been found in aio-libs aiohttp up to 3.14.3. This impacts the function Application.add_domain of the component Domain Mask Processing. Executing a manipulati"
-        },
-        {
-          "title": "CVE-2026-128127  aio-libs aiohttp up to 3.14.3 BodyPartReader BodyPartReader.read_chunk resource consumption",
-          "link": "https://vuldb.com/vuln/437314",
-          "date": "Fri, 13 Nov 2026 21:46:47 +0100",
-          "description": "A vulnerability identified as problematic has been detected in aio-libs aiohttp up to 3.14.3. This affects the function BodyPartReader.read_chunk of the component BodyPartReader. Performing a manipula"
-        },
-        {
-          "title": "CVE-2026-128128  aio-libs AIOHTTP up to 3.14.3 C WebSocket Reader memory allocation",
-          "link": "https://vuldb.com/vuln/437313",
-          "date": "Fri, 13 Nov 2026 21:46:37 +0100",
-          "description": "A vulnerability categorized as problematic has been discovered in aio-libs AIOHTTP up to 3.14.3. The impacted element is an unknown function of the component C WebSocket Reader. Such manipulation lead"
-        },
-        {
-          "title": "CVE-2026-128126  aio-libs AIOHTTP up to 3.14.3 Form Body Request.post resource consumption",
-          "link": "https://vuldb.com/vuln/437312",
-          "date": "Fri, 13 Nov 2026 21:46:19 +0100",
-          "description": "A vulnerability was found in aio-libs AIOHTTP up to 3.14.3. It has been rated as problematic. The affected element is the function Request.post of the component Form Body Handler. This manipulation ca"
-        },
-        {
-          "title": "CVE-2026-129267  sergix44 XBackBone up to 3.8.2 MediaController.php getRawById cross site scripting (ID 673)",
-          "link": "https://vuldb.com/vuln/437311",
-          "date": "Fri, 13 Nov 2026 21:38:40 +0100",
-          "description": "A vulnerability was found in sergix44 XBackBone up to 3.8.2. It has been declared as problematic. Impacted is the function MediaController::getRawById of the file app/Controllers/MediaController.php."
-        },
-        {
-          "title": "CVE-2026-128100  HashiCorp Vault/Vault Enterprise Auth Methods privileges management",
-          "link": "https://vuldb.com/vuln/437310",
-          "date": "Fri, 13 Nov 2026 21:29:23 +0100",
-          "description": "A vulnerability was found in HashiCorp Vault and Vault Enterprise. It has been classified as problematic. This issue affects some unknown processing of the component Auth Methods. The manipulation lea"
-        },
-        {
-          "title": "CVE-2026-127215  Softaculous Kanbanz Plugin up to 1.0.2 Admin Ajax kanbanz_user_can_access_board board_id/task_id access control",
-          "link": "https://vuldb.com/vuln/437309",
-          "date": "Fri, 13 Nov 2026 21:28:58 +0100",
-          "description": "A vulnerability was found in Softaculous Kanbanz Plugin up to 1.0.2 and classified as critical. This vulnerability affects the function kanbanz_user_can_access_board of the component Admin Ajax Handle"
-        }
-      ]
-    },
-    "CERT-FR": {
-      "items": []
-    },
     "OBS-Vigilance": {
       "items": [
+        {
+          "title": "IBM MQ: multiple vulnerabilities dated 14/09/2026",
+          "link": "https://vigilance.fr/vulnerability/IBM-MQ-multiple-vulnerabilities-dated-14-09-2026-52604",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of IBM MQ, dated 14/09/2026..."
+        },
+        {
+          "title": "MongoDB Server: memory corruption via Document Value Layer",
+          "link": "https://vigilance.fr/vulnerability/MongoDB-Server-memory-corruption-via-Document-Value-Layer-52603",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger a memory corruption of MongoDB Server, via Document Value Layer, in order to trigger a denial of service, and possibly to run code..."
+        },
+        {
+          "title": "path-to-regexp: overload via Multiple Route Parameters",
+          "link": "https://vigilance.fr/vulnerability/path-to-regexp-overload-via-Multiple-Route-Parameters-52602",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger an overload of path-to-regexp, via Multiple Route Parameters, in order to trigger a denial of service..."
+        },
+        {
+          "title": "TeamPass: two vulnerabilities dated 14/09/2026",
+          "link": "https://vigilance.fr/vulnerability/TeamPass-two-vulnerabilities-dated-14-09-2026-52601",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of TeamPass, dated 14/09/2026..."
+        },
+        {
+          "title": "Puppet Enterprise: code execution via java_keystore_passwd",
+          "link": "https://vigilance.fr/vulnerability/Puppet-Enterprise-code-execution-via-java-keystore-passwd-52600",
+          "date": "Visit link for details",
+          "description": "An attacker can use a vulnerability of Puppet Enterprise, via java_keystore_"
+        },
+        {
+          "title": "LibTIFF: integer overflow via tiff2pdf",
+          "link": "https://vigilance.fr/vulnerability/LibTIFF-integer-overflow-via-tiff2pdf-52599",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger an integer overflow of LibTIFF, via tiff2pdf, in order to trigger a denial of service, and possibly to run code..."
+        },
+        {
+          "title": "HAProxy: header injection via HTTP/3 Truncated Frames",
+          "link": "https://vigilance.fr/vulnerability/HAProxy-header-injection-via-HTTP-3-Truncated-Frames-52598",
+          "date": "Visit link for details",
+          "description": "An attacker can add new headers on HAProxy, via HTTP/3 Truncated Frames, in order to alter the service behavior..."
+        },
+        {
+          "title": "Linux kernel: multiple vulnerabilities dated 14/09/2026",
+          "link": "https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-14-09-2026-52597",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of the Linux kernel, dated 14/09/2026..."
+        },
+        {
+          "title": "Kamailio: multiple vulnerabilities dated 14/09/2026",
+          "link": "https://vigilance.fr/vulnerability/Kamailio-multiple-vulnerabilities-dated-14-09-2026-52595",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of Kamailio, dated 14/09/2026..."
+        },
         {
           "title": "OpenStack Keystone: multiple vulnerabilities dated 11/09/2026",
           "link": "https://vigilance.fr/vulnerability/OpenStack-Keystone-multiple-vulnerabilities-dated-11-09-2026-52594",
           "date": "Visit link for details",
           "description": "An attacker can use several vulnerabilities of OpenStack Keystone, dated 11/09/2026..."
-        },
-        {
-          "title": "OpenBSD: multiple vulnerabilities dated 11/09/2026",
-          "link": "https://vigilance.fr/vulnerability/OpenBSD-multiple-vulnerabilities-dated-11-09-2026-52593",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of OpenBSD, dated 11/09/2026..."
-        },
-        {
-          "title": "Netty: multiple vulnerabilities dated 11/09/2026",
-          "link": "https://vigilance.fr/vulnerability/Netty-multiple-vulnerabilities-dated-11-09-2026-52592",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of Netty, dated 11/09/2026..."
-        },
-        {
-          "title": "Python Core: write access via Tarfile Hardlink Fallback",
-          "link": "https://vigilance.fr/vulnerability/Python-Core-write-access-via-Tarfile-Hardlink-Fallback-52591",
-          "date": "Visit link for details",
-          "description": "An attacker can bypass access restrictions of Python Core, via Tarfile Hardlink Fallback, in order to alter data..."
-        },
-        {
-          "title": "Dovecot: multiple vulnerabilities dated 11/09/2026",
-          "link": "https://vigilance.fr/vulnerability/Dovecot-multiple-vulnerabilities-dated-11-09-2026-52590",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of Dovecot, dated 11/09/2026..."
-        },
-        {
-          "title": "libevent: multiple vulnerabilities dated 11/09/2026",
-          "link": "https://vigilance.fr/vulnerability/libevent-multiple-vulnerabilities-dated-11-09-2026-52589",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of libevent, dated 11/09/2026..."
-        },
-        {
-          "title": "GitLab CE/EE: multiple vulnerabilities dated 11/09/2026",
-          "link": "https://vigilance.fr/vulnerability/GitLab-CE-EE-multiple-vulnerabilities-dated-11-09-2026-52588",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of GitLab CE/EE, dated 11/09/2026..."
-        },
-        {
-          "title": "GIMP: multiple vulnerabilities dated 11/09/2026",
-          "link": "https://vigilance.fr/vulnerability/GIMP-multiple-vulnerabilities-dated-11-09-2026-52587",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of GIMP, dated 11/09/2026..."
-        },
-        {
-          "title": "IBM Db2: multiple vulnerabilities dated 11/09/2026",
-          "link": "https://vigilance.fr/vulnerability/IBM-Db2-multiple-vulnerabilities-dated-11-09-2026-52586",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of IBM Db2, dated 11/09/2026..."
-        },
-        {
-          "title": "IBM MQ Appliance: multiple vulnerabilities dated 10/09/2026",
-          "link": "https://vigilance.fr/vulnerability/IBM-MQ-Appliance-multiple-vulnerabilities-dated-10-09-2026-52585",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of IBM MQ Appliance, dated 10/09/2026..."
         }
       ]
     },
@@ -327,73 +330,6 @@
         }
       ]
     },
-    "CA-CCS": {
-      "items": [
-        {
-          "title": "Check Point security advisory (AV26-1154) – Update 1",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/check-point-security-advisory-av26-1154",
-          "date": "2026-11-13",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "n8n security advisory (AV26-1160)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/n8n-security-advisory-av26-1160",
-          "date": "2026-11-13",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Apache security advisory (AV26-1159)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av26-1159",
-          "date": "2026-11-13",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "[Control systems] Johnson Controls security advisory (AV26-1158)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/control-systems-johnson-controls-security-advisory-av26-1158",
-          "date": "2026-11-13",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Microsoft security advisory – November 2026 monthly rollup (AV26-1142) – Update 1",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-november-2026-monthly-rollup-av26-1142",
-          "date": "2026-11-12",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Google security advisory (AV26-1157)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/google-security-advisory-av26-1157",
-          "date": "2026-11-12",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Nodejs security advisory (AV26-1156)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/nodejs-security-advisory-av26-1156",
-          "date": "2026-11-12",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "AMD security advisory (AV26-1155)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/amd-security-advisory-av26-1155",
-          "date": "2026-11-12",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Docker security advisory (AV26-1153)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/docker-security-advisory-av26-1153",
-          "date": "2026-11-12",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "React security advisory (AV26-1152)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/react-security-advisory-av26-1152",
-          "date": "2026-11-12",
-          "description": "Visit link for details"
-        }
-      ]
-    },
-    "ZERODAYINITIATIVE": {
-      "items": []
-    },
     "MA-CERT": {
       "items": [
         {
@@ -455,6 +391,70 @@
           "link": "https://www.dgssi.gov.ma/fr/bulletins/une-campagne-dattaques-majeure-cible-actuellement-les-panneaux-cloud-de-connectwise",
           "date": " ",
           "description": ""
+        }
+      ]
+    },
+    "CA-CCS": {
+      "items": [
+        {
+          "title": "Check Point security advisory (AV26-1154) – Update 1",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/check-point-security-advisory-av26-1154",
+          "date": "2026-11-13",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "n8n security advisory (AV26-1160)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/n8n-security-advisory-av26-1160",
+          "date": "2026-11-13",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Apache security advisory (AV26-1159)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av26-1159",
+          "date": "2026-11-13",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "[Control systems] Johnson Controls security advisory (AV26-1158)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/control-systems-johnson-controls-security-advisory-av26-1158",
+          "date": "2026-11-13",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Microsoft security advisory – November 2026 monthly rollup (AV26-1142) – Update 1",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-november-2026-monthly-rollup-av26-1142",
+          "date": "2026-11-12",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Google security advisory (AV26-1157)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/google-security-advisory-av26-1157",
+          "date": "2026-11-12",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Nodejs security advisory (AV26-1156)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/nodejs-security-advisory-av26-1156",
+          "date": "2026-11-12",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "AMD security advisory (AV26-1155)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/amd-security-advisory-av26-1155",
+          "date": "2026-11-12",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Docker security advisory (AV26-1153)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/docker-security-advisory-av26-1153",
+          "date": "2026-11-12",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "React security advisory (AV26-1152)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/react-security-advisory-av26-1152",
+          "date": "2026-11-12",
+          "description": "Visit link for details"
         }
       ]
     }
