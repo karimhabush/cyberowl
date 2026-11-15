@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T19:39:20.083474+00:00",
+  "generated_at": "2026-11-15T20:04:41.574998+00:00",
   "sources": {
     "US-CERT": {
       "items": [
@@ -68,75 +68,69 @@
     "IBM-X-FORCE-EXCHANGE": {
       "items": []
     },
-    "ZERODAYINITIATIVE": {
-      "items": []
-    },
     "VulDB": {
       "items": [
         {
-          "title": "CVE-2026-129453  DrayTek Vigor2960 1.5.1.6 File Existence Check mainfunction.cgi check_file_exist upload_name heap-based overflow",
-          "link": "https://vuldb.com/vuln/437464",
-          "date": "Sat, 14 Nov 2026 19:18:03 +0100",
-          "description": "A vulnerability was found in DrayTek Vigor2960 1.5.1.6. It has been classified as very critical. This issue affects the function check_file_exist of the file /cgi-bin/mainfunction.cgi of the component"
+          "title": "CVE-2026-125830  Belingo belingoGeo Plugin up to 1.13.3 on WordPress cross site scripting",
+          "link": "https://vuldb.com/vuln/437541",
+          "date": "Sun, 15 Nov 2026 20:24:35 +0100",
+          "description": "A vulnerability described as problematic has been identified in Belingo belingoGeo Plugin up to 1.13.3 on WordPress. This issue affects some unknown processing. Such manipulation leads to cross site s"
         },
         {
-          "title": "CVE-2026-129452  DrayTek Vigor2960 1.5.1.6 mainfunction.cgi set_table jsondata command injection",
-          "link": "https://vuldb.com/vuln/437463",
-          "date": "Sat, 14 Nov 2026 19:17:58 +0100",
-          "description": "A vulnerability was found in DrayTek Vigor2960 1.5.1.6 and classified as very critical. This vulnerability affects the function set_table of the file /cgi-bin/mainfunction.cgi. Such manipulation of th"
+          "title": "CVE-2026-125817  meisle Feedzy Plugin up to 5.2.15 on WordPress cross site scripting",
+          "link": "https://vuldb.com/vuln/437540",
+          "date": "Sun, 15 Nov 2026 20:24:18 +0100",
+          "description": "A vulnerability marked as problematic has been reported in meisle Feedzy Plugin up to 5.2.15 on WordPress. This vulnerability affects unknown code. This manipulation causes cross site scripting.The"
         },
         {
-          "title": "CVE-2026-129451  DrayTek Vigor2960 up to 1.5.1.6 mainfunction.cgi app_guest_export filename path traversal",
-          "link": "https://vuldb.com/vuln/437462",
-          "date": "Sat, 14 Nov 2026 19:17:54 +0100",
-          "description": "A vulnerability has been found in DrayTek Vigor2960 up to 1.5.1.6 and classified as very critical. This affects the function app_guest_export of the file /cgi-bin/mainfunction.cgi. This manipulation o"
+          "title": "CVE-2026-125804  Meow Apps AI Engine Plugin up to 3.9.3 on WordPress cross site scripting",
+          "link": "https://vuldb.com/vuln/437539",
+          "date": "Sun, 15 Nov 2026 20:23:52 +0100",
+          "description": "A vulnerability labeled as problematic has been found in Meow Apps AI Engine Plugin up to 3.9.3 on WordPress. This affects an unknown part. The manipulation results in cross site scripting.This vuln"
         },
         {
-          "title": "CVE-2026-129450  DrayTek Vigor2960 1.5.1.6 mainfunction.cgi?action=doWebBackup sub_1E084 option path traversal",
-          "link": "https://vuldb.com/vuln/437461",
-          "date": "Sat, 14 Nov 2026 19:16:10 +0100",
-          "description": "A vulnerability, which was classified as very critical, was found in DrayTek Vigor2960 1.5.1.6. Affected by this issue is the function sub_1E084 of the file /cgi-bin/mainfunction.cgi?action=doWebBacku"
+          "title": "CVE-2026-125760  Bit Apps Bit Assist Plugin up to 1.8.4 on WordPress cross site scripting",
+          "link": "https://vuldb.com/vuln/437538",
+          "date": "Sun, 15 Nov 2026 20:23:43 +0100",
+          "description": "A vulnerability identified as problematic has been detected in Bit Apps Bit Assist Plugin up to 1.8.4 on WordPress. Affected by this issue is some unknown functionality. The manipulation leads to cros"
         },
         {
-          "title": "CVE-2026-129449  DrayTek Vigor2960 up to 1.5.1.6 mainfunction.cgi sub_14914 swmconfigupload command injection",
-          "link": "https://vuldb.com/vuln/437460",
-          "date": "Sat, 14 Nov 2026 19:16:03 +0100",
-          "description": "A vulnerability, which was classified as very critical, has been found in DrayTek Vigor2960 up to 1.5.1.6. Affected by this vulnerability is the function sub_14914 of the file /cgi-bin/mainfunction.cg"
+          "title": "CVE-2026-125798  Zaytech Smart Online Order Plugin up to 1.6.6 on WordPress cross site scripting",
+          "link": "https://vuldb.com/vuln/437537",
+          "date": "Sun, 15 Nov 2026 20:23:35 +0100",
+          "description": "A vulnerability categorized as problematic has been discovered in Zaytech Smart Online Order Plugin up to 1.6.6 on WordPress. Affected by this vulnerability is an unknown functionality. Executing a ma"
         },
         {
-          "title": "CVE-2026-129447  Yuzutech Kroki up to 0.35.9 DBML SVG /dbml/svg url/headercolor/tablegroup_color cross site scripting",
-          "link": "https://vuldb.com/vuln/437459",
-          "date": "Sat, 14 Nov 2026 19:02:24 +0100",
-          "description": "A vulnerability classified as problematic was found in Yuzutech Kroki up to 0.35.9. Affected is an unknown function of the file /dbml/svg of the component DBML SVG Handler. Executing a manipulation of"
+          "title": "CVE-2026-125818  AdvancedCoding wpDiscuz Plugin up to 7.6.75 on WordPress cross site scripting",
+          "link": "https://vuldb.com/vuln/437536",
+          "date": "Sun, 15 Nov 2026 20:23:34 +0100",
+          "description": "A vulnerability was found in AdvancedCoding wpDiscuz Plugin up to 7.6.75 on WordPress. It has been rated as problematic. Affected is an unknown function. Performing a manipulation results in cross sit"
         },
         {
-          "title": "CVE-2026-129445  D-Link DIR-850L FW1.20WWb03 Console Login /usr/sbin/consolepwd hard-coded credentials",
-          "link": "https://vuldb.com/vuln/437458",
-          "date": "Sat, 14 Nov 2026 18:03:38 +0100",
-          "description": "A vulnerability classified as critical has been found in D-Link DIR-850L FW1.20WWb03. This impacts an unknown function of the file /usr/sbin/consolepwd of the component Console Login. Performing a man"
+          "title": "CVE-2026-125823  Jegstudio Gutenverse Plugin up to 4.2.2 on WordPress allocation of resources",
+          "link": "https://vuldb.com/vuln/437535",
+          "date": "Sun, 15 Nov 2026 20:23:17 +0100",
+          "description": "A vulnerability was found in Jegstudio Gutenverse Plugin up to 4.2.2 on WordPress. It has been declared as problematic. This impacts an unknown function. Such manipulation leads to allocation of resou"
         },
         {
-          "title": "CVE-2026-129444  D-Link DSL-6740C 20131126 FTP Daemon ftpd_conf.php hard-coded credentials",
-          "link": "https://vuldb.com/vuln/437457",
-          "date": "Sat, 14 Nov 2026 18:03:34 +0100",
-          "description": "A vulnerability described as very critical has been identified in D-Link DSL-6740C 20131126. This affects an unknown function of the file /etc/templates/ftpd/ftpd_conf.php of the component FTP Daemon."
+          "title": "CVE-2026-125796  Ahmad JS Help Desk Plugin up to 5.0.5 on WordPress authorization",
+          "link": "https://vuldb.com/vuln/437534",
+          "date": "Sun, 15 Nov 2026 20:22:58 +0100",
+          "description": "A vulnerability was found in Ahmad JS Help Desk Plugin up to 5.0.5 on WordPress. It has been classified as critical. This affects an unknown function. This manipulation causes missing authorization."
         },
         {
-          "title": "CVE-2026-129443  itsourcecode Airline Reservation System 1.0 /admin/manage_user.php id sql injection",
-          "link": "https://vuldb.com/vuln/437456",
-          "date": "Sat, 14 Nov 2026 18:00:40 +0100",
-          "description": "A vulnerability marked as critical has been reported in itsourcecode Airline Reservation System 1.0. The impacted element is an unknown function of the file /admin/manage_user.php. This manipulation o"
+          "title": "CVE-2026-125826  Blubrry Podcasting PowerPress Podcasting Plugin up to 11.18.3 on WordPress path traversal",
+          "link": "https://vuldb.com/vuln/437533",
+          "date": "Sun, 15 Nov 2026 20:22:49 +0100",
+          "description": "A vulnerability was found in Blubrry Podcasting PowerPress Podcasting Plugin up to 11.18.3 on WordPress and classified as critical. The impacted element is an unknown function. The manipulation result"
         },
         {
-          "title": "CVE-2026-110531  Foliovision FV Player Plugin up to 8.1.9 on WordPress fv_player_videos cross site scripting",
-          "link": "https://vuldb.com/vuln/437455",
-          "date": "Sat, 14 Nov 2026 16:46:50 +0100",
-          "description": "A vulnerability labeled as problematic has been found in Foliovision FV Player Plugin up to 8.1.9 on WordPress. The affected element is an unknown function. The manipulation of the argument fv_player_"
+          "title": "CVE-2026-125822  Nickboss File Upload Plugin up to 5.2.3 on WordPress cross site scripting",
+          "link": "https://vuldb.com/vuln/437532",
+          "date": "Sun, 15 Nov 2026 20:22:42 +0100",
+          "description": "A vulnerability has been found in Nickboss File Upload Plugin up to 5.2.3 on WordPress and classified as problematic. The affected element is an unknown function. The manipulation leads to cross site"
         }
       ]
-    },
-    "CERT-FR": {
-      "items": []
     },
     "HK-CERT": {
       "items": [
@@ -202,8 +196,53 @@
         }
       ]
     },
+    "CERT-FR": {
+      "items": []
+    },
     "OBS-Vigilance": {
       "items": [
+        {
+          "title": "Grafana: three vulnerabilities dated 15/09/2026",
+          "link": "https://vigilance.fr/vulnerability/Grafana-three-vulnerabilities-dated-15-09-2026-52617",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of Grafana, dated 15/09/2026..."
+        },
+        {
+          "title": "Microsoft Edge Chromium: privilege escalation via Race Condition",
+          "link": "https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-privilege-escalation-via-Race-Condition-52616",
+          "date": "Visit link for details",
+          "description": "An attacker can bypass restrictions of Microsoft Edge Chromium, via Race Condition, in order to escalate his privileges..."
+        },
+        {
+          "title": "Windows 11: privilege escalation via Secure Mode",
+          "link": "https://vigilance.fr/vulnerability/Windows-11-privilege-escalation-via-Secure-Mode-52615",
+          "date": "Visit link for details",
+          "description": "An attacker can bypass restrictions of Windows 11, via Secure Mode, in order to escalate his privileges..."
+        },
+        {
+          "title": "IBM i: three vulnerabilities dated 15/09/2026",
+          "link": "https://vigilance.fr/vulnerability/IBM-i-three-vulnerabilities-dated-15-09-2026-52612",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of IBM i, dated 15/09/2026..."
+        },
+        {
+          "title": "Python Core: file read/write via Hard Link To Symlink",
+          "link": "https://vigilance.fr/vulnerability/Python-Core-file-read-write-via-Hard-Link-To-Symlink-52611",
+          "date": "Visit link for details",
+          "description": "An attacker can bypass access restrictions of Python Core, via Hard Link To Symlink, in order to read or alter files..."
+        },
+        {
+          "title": "network-manager-l2tp: three vulnerabilities dated 15/09/2026",
+          "link": "https://vigilance.fr/vulnerability/network-manager-l2tp-three-vulnerabilities-dated-15-09-2026-52607",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of network-manager-"
+        },
+        {
+          "title": "urwid: information disclosure via Enumerate Active Session Tokens",
+          "link": "https://vigilance.fr/vulnerability/urwid-information-disclosure-via-Enumerate-Active-Session-Tokens-52606",
+          "date": "Visit link for details",
+          "description": "An attacker can bypass access restrictions to data of urwid, via Enumerate Active Session Tokens, in order to read sensitive information..."
+        },
         {
           "title": "IBM MQ: multiple vulnerabilities dated 14/09/2026",
           "link": "https://vigilance.fr/vulnerability/IBM-MQ-multiple-vulnerabilities-dated-14-09-2026-52604",
@@ -221,50 +260,75 @@
           "link": "https://vigilance.fr/vulnerability/path-to-regexp-overload-via-Multiple-Route-Parameters-52602",
           "date": "Visit link for details",
           "description": "An attacker can trigger an overload of path-to-regexp, via Multiple Route Parameters, in order to trigger a denial of service..."
-        },
-        {
-          "title": "TeamPass: two vulnerabilities dated 14/09/2026",
-          "link": "https://vigilance.fr/vulnerability/TeamPass-two-vulnerabilities-dated-14-09-2026-52601",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of TeamPass, dated 14/09/2026..."
-        },
-        {
-          "title": "Puppet Enterprise: code execution via java_keystore_passwd",
-          "link": "https://vigilance.fr/vulnerability/Puppet-Enterprise-code-execution-via-java-keystore-passwd-52600",
-          "date": "Visit link for details",
-          "description": "An attacker can use a vulnerability of Puppet Enterprise, via java_keystore_"
-        },
-        {
-          "title": "LibTIFF: integer overflow via tiff2pdf",
-          "link": "https://vigilance.fr/vulnerability/LibTIFF-integer-overflow-via-tiff2pdf-52599",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger an integer overflow of LibTIFF, via tiff2pdf, in order to trigger a denial of service, and possibly to run code..."
-        },
-        {
-          "title": "HAProxy: header injection via HTTP/3 Truncated Frames",
-          "link": "https://vigilance.fr/vulnerability/HAProxy-header-injection-via-HTTP-3-Truncated-Frames-52598",
-          "date": "Visit link for details",
-          "description": "An attacker can add new headers on HAProxy, via HTTP/3 Truncated Frames, in order to alter the service behavior..."
-        },
-        {
-          "title": "Linux kernel: multiple vulnerabilities dated 14/09/2026",
-          "link": "https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-14-09-2026-52597",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of the Linux kernel, dated 14/09/2026..."
-        },
-        {
-          "title": "Kamailio: multiple vulnerabilities dated 14/09/2026",
-          "link": "https://vigilance.fr/vulnerability/Kamailio-multiple-vulnerabilities-dated-14-09-2026-52595",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of Kamailio, dated 14/09/2026..."
-        },
-        {
-          "title": "OpenStack Keystone: multiple vulnerabilities dated 11/09/2026",
-          "link": "https://vigilance.fr/vulnerability/OpenStack-Keystone-multiple-vulnerabilities-dated-11-09-2026-52594",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of OpenStack Keystone, dated 11/09/2026..."
         }
       ]
+    },
+    "CA-CCS": {
+      "items": [
+        {
+          "title": "Check Point security advisory (AV26-1154) – Update 1",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/check-point-security-advisory-av26-1154",
+          "date": "2026-11-13",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "n8n security advisory (AV26-1160)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/n8n-security-advisory-av26-1160",
+          "date": "2026-11-13",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Apache security advisory (AV26-1159)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av26-1159",
+          "date": "2026-11-13",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "[Control systems] Johnson Controls security advisory (AV26-1158)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/control-systems-johnson-controls-security-advisory-av26-1158",
+          "date": "2026-11-13",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Microsoft security advisory – November 2026 monthly rollup (AV26-1142) – Update 1",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-november-2026-monthly-rollup-av26-1142",
+          "date": "2026-11-12",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Google security advisory (AV26-1157)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/google-security-advisory-av26-1157",
+          "date": "2026-11-12",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Nodejs security advisory (AV26-1156)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/nodejs-security-advisory-av26-1156",
+          "date": "2026-11-12",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "AMD security advisory (AV26-1155)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/amd-security-advisory-av26-1155",
+          "date": "2026-11-12",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Docker security advisory (AV26-1153)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/docker-security-advisory-av26-1153",
+          "date": "2026-11-12",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "React security advisory (AV26-1152)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/react-security-advisory-av26-1152",
+          "date": "2026-11-12",
+          "description": "Visit link for details"
+        }
+      ]
+    },
+    "ZERODAYINITIATIVE": {
+      "items": []
     },
     "EU-CERT": {
       "items": [
@@ -391,70 +455,6 @@
           "link": "https://www.dgssi.gov.ma/fr/bulletins/une-campagne-dattaques-majeure-cible-actuellement-les-panneaux-cloud-de-connectwise",
           "date": " ",
           "description": ""
-        }
-      ]
-    },
-    "CA-CCS": {
-      "items": [
-        {
-          "title": "Check Point security advisory (AV26-1154) – Update 1",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/check-point-security-advisory-av26-1154",
-          "date": "2026-11-13",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "n8n security advisory (AV26-1160)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/n8n-security-advisory-av26-1160",
-          "date": "2026-11-13",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Apache security advisory (AV26-1159)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av26-1159",
-          "date": "2026-11-13",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "[Control systems] Johnson Controls security advisory (AV26-1158)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/control-systems-johnson-controls-security-advisory-av26-1158",
-          "date": "2026-11-13",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Microsoft security advisory – November 2026 monthly rollup (AV26-1142) – Update 1",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/microsoft-security-advisory-november-2026-monthly-rollup-av26-1142",
-          "date": "2026-11-12",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Google security advisory (AV26-1157)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/google-security-advisory-av26-1157",
-          "date": "2026-11-12",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Nodejs security advisory (AV26-1156)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/nodejs-security-advisory-av26-1156",
-          "date": "2026-11-12",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "AMD security advisory (AV26-1155)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/amd-security-advisory-av26-1155",
-          "date": "2026-11-12",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Docker security advisory (AV26-1153)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/docker-security-advisory-av26-1153",
-          "date": "2026-11-12",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "React security advisory (AV26-1152)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/react-security-advisory-av26-1152",
-          "date": "2026-11-12",
-          "description": "Visit link for details"
         }
       ]
     }
