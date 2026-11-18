@@ -4,6 +4,8 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/11/18/cisa-adds-four-known-exploited-vulnerabilities-catalog)|Visit link for details.|Nov 18, 2026|
+ |[Critical Java Vulnerability Requires Immediate Patching](https://www.cisa.gov/news-events/alerts/2026/11/17/critical-java-vulnerability-requires-immediate-patching)|Visit link for details.|Nov 17, 2026|
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/11/17/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Nov 17, 2026|
  |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/11/13/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Nov 13, 2026|
  |[CISA Adds Six Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/11/10/cisa-adds-six-known-exploited-vulnerabilities-catalog)|Visit link for details.|Nov 10, 2026|
@@ -12,6 +14,4 @@
  |[Post-Quantum Questions to Ask Your Vendors](https://www.cisa.gov/resources-tools/resources/post-quantum-questions-ask-your-vendors)|Visit link for details.|Nov 05, 2026|
  |[US Government Partners Urge Hardening Industrial Refrigeration and Cold Chain Monitoring Systems](https://www.cisa.gov/resources-tools/resources/us-government-partners-urge-hardening-industrial-refrigeration-and-cold-chain-monitoring-systems)|Visit link for details.|Nov 05, 2026|
  |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/11/04/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Nov 04, 2026|
- |[CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/11/03/cisa-adds-one-known-exploited-vulnerability-catalog)|Visit link for details.|Nov 03, 2026|
- |[CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/10/30/cisa-adds-two-known-exploited-vulnerabilities-catalog)|Visit link for details.|Oct 30, 2026|
  
