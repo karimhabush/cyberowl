@@ -4,14 +4,14 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[Drupal security advisory (AV26-1186)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av26-1186)|Visit link for details|2026-11-19|
+ |[VMware security advisory (AV26-1185)](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av26-1185)|Visit link for details|2026-11-19|
+ |[Mitel security advisory (AV26-1184)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av26-1184)|Visit link for details|2026-11-19|
+ |[PHP Group security advisory (AV26-1183)](https://www.cyber.gc.ca/en/alerts-advisories/php-group-security-advisory-av26-1183)|Visit link for details|2026-11-19|
+ |[Ubiquiti security advisory (AV26-1182)](https://www.cyber.gc.ca/en/alerts-advisories/ubiquiti-security-advisory-av26-1182)|Visit link for details|2026-11-19|
+ |[JetBrains security advisory (AV26-1181)](https://www.cyber.gc.ca/en/alerts-advisories/jetbrains-security-advisory-av26-1181)|Visit link for details|2026-11-19|
+ |[CraftCMS security advisory (AV26-1180)](https://www.cyber.gc.ca/en/alerts-advisories/craftcms-security-advisory-av26-1180)|Visit link for details|2026-11-19|
+ |[OpenVPN security advisory (AV26-1179)](https://www.cyber.gc.ca/en/alerts-advisories/openvpn-security-advisory-av26-1179)|Visit link for details|2026-11-19|
+ |[F5 security advisory (AV26-1178)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av26-1178)|Visit link for details|2026-11-19|
  |[SmarterTools security advisory (AV26-1177)](https://www.cyber.gc.ca/en/alerts-advisories/smartertools-security-advisory-av26-1177)|Visit link for details|2026-11-18|
- |[JetBrains security advisory (AV26-1176)](https://www.cyber.gc.ca/en/alerts-advisories/jetbrains-security-advisory-av26-1176)|Visit link for details|2026-11-18|
- |[Cisco security advisory (AV26-1175)](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av26-1175)|Visit link for details|2026-11-18|
- |[F5 security advisory (AV26-1174)](https://www.cyber.gc.ca/en/alerts-advisories/f5-security-advisory-av26-1174)|Visit link for details|2026-11-18|
- |[GNU security advisory (AV26-1173)](https://www.cyber.gc.ca/en/alerts-advisories/gnu-security-advisory-av26-1173)|Visit link for details|2026-11-18|
- |[GitHub security advisory (AV26-1172)](https://www.cyber.gc.ca/en/alerts-advisories/github-security-advisory-av26-1172)|Visit link for details|2026-11-18|
- |[Google security advisory (AV26-1171)](https://www.cyber.gc.ca/en/alerts-advisories/google-security-advisory-av26-1171)|Visit link for details|2026-11-18|
- |[Oracle Corporation security advisory (AV26-1170)](https://www.cyber.gc.ca/en/alerts-advisories/oracle-corporation-security-advisory-av26-1170)|Visit link for details|2026-11-18|
- |[AL26-029 - Critical vulnerability impacting Oracle Java - CVE-2026-114938](https://www.cyber.gc.ca/en/alerts-advisories/al26-029-critical-vulnerability-impacting-oracle-java-cve-2026-114938)|Visit link for details|2026-11-17|
- |[[Control systems] CODESYS security advisory (AV26-1169)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-codesys-security-advisory-av26-1169)|Visit link for details|2026-11-17|
  
