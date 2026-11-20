@@ -4,6 +4,7 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[OpenBSD: denial of service dated 05/11/2026](https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-dated-05-11-2026-53110)|An attacker can cause a fatal error of OpenBSD, dated 05/11/2026, in order to trigger a denial of service...|Visit link for details|
  |[JBoss RESTEasy: information disclosure via Default Exception Mapper](https://vigilance.fr/vulnerability/JBoss-RESTEasy-information-disclosure-via-Default-Exception-Mapper-53108)|An attacker can bypass access restrictions to data of JBoss RESTEasy, via Default Exception Mapper, in order to read sensitive information...|Visit link for details|
  |[Synology DSM: multiple vulnerabilities dated 18/09/2026](https://vigilance.fr/vulnerability/Synology-DSM-multiple-vulnerabilities-dated-18-09-2026-52663)|An attacker can use several vulnerabilities of Synology DSM, dated 18/09/2026...|Visit link for details|
  |[RabbitMQ Server: three vulnerabilities dated 18/09/2026](https://vigilance.fr/vulnerability/RabbitMQ-Server-three-vulnerabilities-dated-18-09-2026-52661)|An attacker can use several vulnerabilities of RabbitMQ Server, dated 18/09/2026...|Visit link for details|
@@ -13,5 +14,4 @@
  |[VideoLAN VLC: multiple vulnerabilities dated 17/09/2026](https://vigilance.fr/vulnerability/VideoLAN-VLC-multiple-vulnerabilities-dated-17-09-2026-52655)|An attacker can use several vulnerabilities of VideoLAN VLC, dated 17/09/2026...|Visit link for details|
  |[Linux kernel: multiple vulnerabilities dated 17/09/2026](https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-17-09-2026-52654)|An attacker can use several vulnerabilities of the Linux kernel, dated 17/09/2026...|Visit link for details|
  |[IBM i: two vulnerabilities via FTP Server](https://vigilance.fr/vulnerability/IBM-i-two-vulnerabilities-via-FTP-Server-52653)|An attacker can use several vulnerabilities of IBM i, via FTP Server...|Visit link for details|
- |[node-tar: denial of service via filesFilter mapHas Helper](https://vigilance.fr/vulnerability/node-tar-denial-of-service-via-filesFilter-mapHas-Helper-52652)|An attacker can cause a fatal error of node-tar, via filesFilter mapHas Helper, in order to trigger a denial of service...|Visit link for details|
  
