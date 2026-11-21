@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T22:04:41.390515+00:00",
+  "generated_at": "2026-11-21T20:44:11.224518+00:00",
   "sources": {
     "US-CERT": {
       "items": [
@@ -65,76 +65,73 @@
         }
       ]
     },
-    "CERT-FR": {
-      "items": []
-    },
     "IBM-X-FORCE-EXCHANGE": {
       "items": []
     },
-    "ZERODAYINITIATIVE": {
+    "CERT-FR": {
       "items": []
     },
     "VulDB": {
       "items": [
         {
-          "title": "CVE-2026-134126  wpclever WPC Smart Messages Plugin up to 4.3.5 Shortcode id/key improper authorization",
-          "link": "https://vuldb.com/vuln/441645",
-          "date": "Fri, 20 Nov 2026 22:16:28 +0100",
-          "description": "A vulnerability classified as problematic was found in wpclever WPC Smart Messages Plugin up to 4.3.5. Impacted is an unknown function of the component Shortcode Handler. Such manipulation of the argu"
+          "title": "CVE-2026-125294  POSIMYTH Nexter Blocks Pro Plugin up to 5.0.10 on WordPress Registration tpgb_ajax_register_user tpgb_acf_key/tpgb_acf privileges management",
+          "link": "https://vuldb.com/vuln/442022",
+          "date": "Sat, 21 Nov 2026 19:48:32 +0100",
+          "description": "A vulnerability classified as critical has been found in POSIMYTH Nexter Blocks Pro Plugin up to 5.0.10 on WordPress. This affects the function tpgb_ajax_register_user of the component Registration Ha"
         },
         {
-          "title": "CVE-2026-54041  LibreChat-AI LibreChat up to 0.8.5 Local Login Validation localStrategy.js body missing encryption",
-          "link": "https://vuldb.com/vuln/441644",
-          "date": "Fri, 20 Nov 2026 21:31:49 +0100",
-          "description": "A vulnerability classified as problematic has been found in LibreChat-AI LibreChat up to 0.8.5. This issue affects some unknown processing of the file api/strategies/localStrategy.js of the component"
+          "title": "CVE-2026-134459  web-token jwt-framework/jwt-library prior 3.4.10/4.0.7/4.1.7 RSA1_5 Decryption decryptWithRSA15 timing discrepancy",
+          "link": "https://vuldb.com/vuln/442021",
+          "date": "Sat, 21 Nov 2026 18:57:32 +0100",
+          "description": "A vulnerability described as problematic has been identified in web-token jwt-framework and jwt-library. The impacted element is the function RSACrypt::decryptWithRSA15 of the component RSA1_5 Decrypt"
         },
         {
-          "title": "CVE-2026-54039  LibreChat-AI LibreChat up to 0.8.5 AuthService.js improper authentication",
-          "link": "https://vuldb.com/vuln/441643",
-          "date": "Fri, 20 Nov 2026 21:31:44 +0100",
-          "description": "A vulnerability described as critical has been identified in LibreChat-AI LibreChat up to 0.8.5. This vulnerability affects unknown code of the file api/server/services/AuthService.js. The manipulatio"
+          "title": "CVE-2026-134423  Frappe ERPNext 6.26.0/16.x Stock improper authorization",
+          "link": "https://vuldb.com/vuln/442020",
+          "date": "Sat, 21 Nov 2026 18:53:53 +0100",
+          "description": "A vulnerability marked as problematic has been reported in Frappe ERPNext 6.26.0/16.x. The affected element is an unknown function of the component Stock Module. The manipulation leads to improper aut"
         },
         {
-          "title": "CVE-2026-54026  LibreChat-AI LibreChat up to 0.8.5 validateMessageReq.js conversationId improper authorization",
-          "link": "https://vuldb.com/vuln/441642",
-          "date": "Fri, 20 Nov 2026 21:31:40 +0100",
-          "description": "A vulnerability marked as problematic has been reported in LibreChat-AI LibreChat up to 0.8.5. This affects an unknown part of the file api/server/middleware/validateMessageReq.js. The manipulation of"
+          "title": "CVE-2026-134395  Frappe ERPNext 13.0.0/15.121.x/16.49.x Accounts improper authorization",
+          "link": "https://vuldb.com/vuln/442019",
+          "date": "Sat, 21 Nov 2026 18:41:21 +0100",
+          "description": "A vulnerability labeled as problematic has been found in Frappe ERPNext 13.0.0/15.121.x/16.49.x. Impacted is an unknown function of the component Accounts Module. Executing a manipulation can lead to"
         },
         {
-          "title": "CVE-2026-54038  LibreChat-AI LibreChat up to 0.8.8 Regex Query Construction userGroup.ts findGroupsByNamePattern/searchPrincipals q incorrect regex",
-          "link": "https://vuldb.com/vuln/441641",
-          "date": "Fri, 20 Nov 2026 21:31:20 +0100",
-          "description": "A vulnerability labeled as problematic has been found in LibreChat-AI LibreChat up to 0.8.8. Affected by this issue is the function findGroupsByNamePattern/searchPrincipals of the file packages/data-s"
+          "title": "CVE-2026-134363  Coder Read Skill File Tool read_skill_file path traversal",
+          "link": "https://vuldb.com/vuln/442018",
+          "date": "Sat, 21 Nov 2026 18:40:47 +0100",
+          "description": "A vulnerability identified as problematic has been detected in Coder. This issue affects the function read_skill_file of the component Read Skill File Tool. Performing a manipulation results in path t"
         },
         {
-          "title": "CVE-2026-54045  LibreChat-AI LibreChat up to 0.8.6 Password Reset Token token.ts deleteTokens password recovery",
-          "link": "https://vuldb.com/vuln/441640",
-          "date": "Fri, 20 Nov 2026 21:30:49 +0100",
-          "description": "A vulnerability identified as critical has been detected in LibreChat-AI LibreChat up to 0.8.6. Affected by this vulnerability is the function deleteTokens of the file packages/data-schemas/src/method"
+          "title": "CVE-2026-134391  Frappe ERPNext 12.2.0/15.121.0/16.49.0/16.x Assets improper authorization",
+          "link": "https://vuldb.com/vuln/442017",
+          "date": "Sat, 21 Nov 2026 18:39:45 +0100",
+          "description": "A vulnerability categorized as problematic has been discovered in Frappe ERPNext 12.2.0/15.121.0/16.x/16.49.0. This vulnerability affects unknown code of the component Assets Module. Such manipulation"
         },
         {
-          "title": "CVE-2026-54023  LibreChat AI up to 0.8.5 User API UserController.js getUserController information disclosure",
-          "link": "https://vuldb.com/vuln/441639",
-          "date": "Fri, 20 Nov 2026 21:30:46 +0100",
-          "description": "A vulnerability categorized as problematic has been discovered in LibreChat AI LibreChat up to 0.8.5. Affected is the function getUserController of the file api/server/controllers/UserController.js of"
+          "title": "CVE-2026-134454  HyNetworks Hysteria up to 2.9.1 access control",
+          "link": "https://vuldb.com/vuln/442016",
+          "date": "Sat, 21 Nov 2026 18:39:23 +0100",
+          "description": "A vulnerability was found in HyNetworks Hysteria up to 2.9.1. It has been rated as critical. This affects an unknown part. This manipulation causes improper access controls.This vulnerability is reg"
         },
         {
-          "title": "CVE-2026-54044  LibreChat-AI LibreChat up to 0.8.6 Actions actions.js permission",
-          "link": "https://vuldb.com/vuln/441638",
-          "date": "Fri, 20 Nov 2026 21:30:42 +0100",
-          "description": "A vulnerability was found in LibreChat-AI LibreChat up to 0.8.6. It has been rated as critical. This impacts an unknown function of the file api/server/routes/agents/actions.js of the component Action"
+          "title": "CVE-2026-134449  Finsys Dockhand up to 1.0.56 cross-site request forgery",
+          "link": "https://vuldb.com/vuln/442015",
+          "date": "Sat, 21 Nov 2026 18:39:22 +0100",
+          "description": "A vulnerability was found in Finsys Dockhand up to 1.0.56. It has been declared as problematic. Affected by this issue is some unknown functionality. The manipulation results in cross-site request for"
         },
         {
-          "title": "CVE-2026-54043  LibreChat-AI LibreChat up to 0.8.6 File Attachment file.ts updateFileUsage file_id privileges management",
-          "link": "https://vuldb.com/vuln/441637",
-          "date": "Fri, 20 Nov 2026 21:30:22 +0100",
-          "description": "A vulnerability was found in LibreChat-AI LibreChat up to 0.8.6. It has been declared as critical. This affects the function updateFileUsage of the file packages/data-schemas/src/methods/file.ts of th"
+          "title": "CVE-2026-134461  Web-Token JWT Library/JWT Framework PBES2AESKW PBES2AESKW::unwrapKey p2c resource consumption",
+          "link": "https://vuldb.com/vuln/442014",
+          "date": "Sat, 21 Nov 2026 18:38:59 +0100",
+          "description": "A vulnerability was found in Web-Token JWT Library and JWT Framework. It has been classified as problematic. Affected by this vulnerability is the function PBES2AESKW::unwrapKey of the component PBES2"
         },
         {
-          "title": "CVE-2026-54032  LibreChat-AI LibreChat up to 0.8.5 Configuration Dialog MCPConfigDialog.tsx dangerouslySetInnerHTML description/message cross site scripting",
-          "link": "https://vuldb.com/vuln/441636",
-          "date": "Fri, 20 Nov 2026 21:29:51 +0100",
-          "description": "A vulnerability was found in LibreChat-AI LibreChat up to 0.8.5. It has been classified as problematic. The impacted element is the function dangerouslySetInnerHTML of the file client/src/components/C"
+          "title": "CVE-2026-134457  HyNetworks Hysteria up to 2.8.1 Sniffing allocation of resources",
+          "link": "https://vuldb.com/vuln/442013",
+          "date": "Sat, 21 Nov 2026 18:38:45 +0100",
+          "description": "A vulnerability was found in HyNetworks Hysteria up to 2.8.1 and classified as problematic. Affected is an unknown function of the component Sniffing. Executing a manipulation can lead to allocation o"
         }
       ]
     },
@@ -202,6 +199,70 @@
         }
       ]
     },
+    "OBS-Vigilance": {
+      "items": [
+        {
+          "title": "containerd: denial of service via CRI Plugin",
+          "link": "https://vigilance.fr/vulnerability/containerd-denial-of-service-via-CRI-Plugin-52675",
+          "date": "Visit link for details",
+          "description": "An attacker can cause a fatal error of containerd, via CRI Plugin, in order to trigger a denial of service..."
+        },
+        {
+          "title": "libX11: buffer overflow via _XkbReadKeyActions()",
+          "link": "https://vigilance.fr/vulnerability/libX11-buffer-overflow-via-XkbReadKeyActions-52674",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger a buffer overflow of libX11, via _XkbReadKeyActions()"
+        },
+        {
+          "title": "XnSoft XnView Classic: two vulnerabilities dated 21/09/2026",
+          "link": "https://vigilance.fr/vulnerability/XnSoft-XnView-Classic-two-vulnerabilities-dated-21-09-2026-52673",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of XnSoft XnView Classic, dated 21/09/2026..."
+        },
+        {
+          "title": "FasterXML Jackson Core: two vulnerabilities dated 21/09/2026",
+          "link": "https://vigilance.fr/vulnerability/FasterXML-Jackson-Core-two-vulnerabilities-dated-21-09-2026-52670",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of FasterXML Jackson Core, dated 21/09/2026..."
+        },
+        {
+          "title": "FasterXML Jackson Databind: two vulnerabilities dated 21/09/2026",
+          "link": "https://vigilance.fr/vulnerability/FasterXML-Jackson-Databind-two-vulnerabilities-dated-21-09-2026-52669",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of FasterXML Jackson Databind, dated 21/09/2026..."
+        },
+        {
+          "title": "TeamPass: two vulnerabilities dated 21/09/2026",
+          "link": "https://vigilance.fr/vulnerability/TeamPass-two-vulnerabilities-dated-21-09-2026-52668",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of TeamPass, dated 21/09/2026..."
+        },
+        {
+          "title": "Microsoft Edge Chromium: privilege escalation dated 21/09/2026",
+          "link": "https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-privilege-escalation-dated-21-09-2026-52667",
+          "date": "Visit link for details",
+          "description": "An attacker can bypass restrictions of Microsoft Edge Chromium, dated 21/09/2026, in order to escalate his privileges..."
+        },
+        {
+          "title": "GIMP: integer overflow via PSD Thumbnail",
+          "link": "https://vigilance.fr/vulnerability/GIMP-integer-overflow-via-PSD-Thumbnail-52666",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger an integer overflow of GIMP, via PSD Thumbnail, in order to trigger a denial of service, and possibly to run code..."
+        },
+        {
+          "title": "GIMP: integer overflow via PNG ICO",
+          "link": "https://vigilance.fr/vulnerability/GIMP-integer-overflow-via-PNG-ICO-52665",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger an integer overflow of GIMP, via PNG ICO, in order to trigger a denial of service, and possibly to run code..."
+        },
+        {
+          "title": "GIMP: buffer overflow via Lighting Plugin",
+          "link": "https://vigilance.fr/vulnerability/GIMP-buffer-overflow-via-Lighting-Plugin-52664",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger a buffer overflow of GIMP, via Lighting Plugin, in order to trigger a denial of service, and possibly to run code..."
+        }
+      ]
+    },
     "EU-CERT": {
       "items": [
         {
@@ -266,134 +327,6 @@
         }
       ]
     },
-    "OBS-Vigilance": {
-      "items": [
-        {
-          "title": "OpenBSD: denial of service dated 05/11/2026",
-          "link": "https://vigilance.fr/vulnerability/OpenBSD-denial-of-service-dated-05-11-2026-53110",
-          "date": "Visit link for details",
-          "description": "An attacker can cause a fatal error of OpenBSD, dated 05/11/2026, in order to trigger a denial of service..."
-        },
-        {
-          "title": "JBoss RESTEasy: information disclosure via Default Exception Mapper",
-          "link": "https://vigilance.fr/vulnerability/JBoss-RESTEasy-information-disclosure-via-Default-Exception-Mapper-53108",
-          "date": "Visit link for details",
-          "description": "An attacker can bypass access restrictions to data of JBoss RESTEasy, via Default Exception Mapper, in order to read sensitive information..."
-        },
-        {
-          "title": "Synology DSM: multiple vulnerabilities dated 18/09/2026",
-          "link": "https://vigilance.fr/vulnerability/Synology-DSM-multiple-vulnerabilities-dated-18-09-2026-52663",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of Synology DSM, dated 18/09/2026..."
-        },
-        {
-          "title": "RabbitMQ Server: three vulnerabilities dated 18/09/2026",
-          "link": "https://vigilance.fr/vulnerability/RabbitMQ-Server-three-vulnerabilities-dated-18-09-2026-52661",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of RabbitMQ Server, dated 18/09/2026..."
-        },
-        {
-          "title": "Linux kernel: multiple vulnerabilities dated 18/09/2026",
-          "link": "https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-18-09-2026-52659",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of the Linux kernel, dated 18/09/2026..."
-        },
-        {
-          "title": "Redis: three vulnerabilities dated 17/09/2026",
-          "link": "https://vigilance.fr/vulnerability/Redis-three-vulnerabilities-dated-17-09-2026-52657",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of Redis, dated 17/09/2026..."
-        },
-        {
-          "title": "JBoss RESTEasy: two vulnerabilities dated 17/09/2026",
-          "link": "https://vigilance.fr/vulnerability/JBoss-RESTEasy-two-vulnerabilities-dated-17-09-2026-52656",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of JBoss RESTEasy, dated 17/09/2026..."
-        },
-        {
-          "title": "VideoLAN VLC: multiple vulnerabilities dated 17/09/2026",
-          "link": "https://vigilance.fr/vulnerability/VideoLAN-VLC-multiple-vulnerabilities-dated-17-09-2026-52655",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of VideoLAN VLC, dated 17/09/2026..."
-        },
-        {
-          "title": "Linux kernel: multiple vulnerabilities dated 17/09/2026",
-          "link": "https://vigilance.fr/vulnerability/Linux-kernel-multiple-vulnerabilities-dated-17-09-2026-52654",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of the Linux kernel, dated 17/09/2026..."
-        },
-        {
-          "title": "IBM i: two vulnerabilities via FTP Server",
-          "link": "https://vigilance.fr/vulnerability/IBM-i-two-vulnerabilities-via-FTP-Server-52653",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of IBM i, via FTP Server..."
-        }
-      ]
-    },
-    "CA-CCS": {
-      "items": [
-        {
-          "title": "VMware security advisory (AV26-1185) – Update 1",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av26-1185",
-          "date": "2026-11-20",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Cisco security advisory (AV26-1073) – Update 1",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av26-1073",
-          "date": "2026-11-20",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "SAP security advisory – November 2025 monthly rollup (AV25-738) – Update 1",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-november-2025-monthly-rollup-av25-738",
-          "date": "2026-11-20",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "[Control Systems] Moxa security advisory (AV26-1187)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/control-systems-moxa-security-advisory-av26-1187",
-          "date": "2026-11-20",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Drupal security advisory (AV26-1186)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av26-1186",
-          "date": "2026-11-19",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Mitel security advisory (AV26-1184)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av26-1184",
-          "date": "2026-11-19",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "PHP Group security advisory (AV26-1183)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/php-group-security-advisory-av26-1183",
-          "date": "2026-11-19",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Ubiquiti security advisory (AV26-1182)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/ubiquiti-security-advisory-av26-1182",
-          "date": "2026-11-19",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "JetBrains security advisory (AV26-1181)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/jetbrains-security-advisory-av26-1181",
-          "date": "2026-11-19",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "CraftCMS security advisory (AV26-1180)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/craftcms-security-advisory-av26-1180",
-          "date": "2026-11-19",
-          "description": "Visit link for details"
-        }
-      ]
-    },
     "MA-CERT": {
       "items": [
         {
@@ -455,6 +388,73 @@
           "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-splunk-11",
           "date": " ",
           "description": "Plusieurs vulnérabilités de sécurité ont été corrigées dans les produits Splunk susmentionnés. Leur exploitation pourrait permettre l’exécution de code à distance, l’élévation de privilèges,…"
+        }
+      ]
+    },
+    "ZERODAYINITIATIVE": {
+      "items": []
+    },
+    "CA-CCS": {
+      "items": [
+        {
+          "title": "Apache security advisory (AV26-1188)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av26-1188",
+          "date": "2026-11-21",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "VMware security advisory (AV26-1185) – Update 1",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av26-1185",
+          "date": "2026-11-20",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Cisco security advisory (AV26-1073) – Update 1",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av26-1073",
+          "date": "2026-11-20",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "SAP security advisory – November 2025 monthly rollup (AV25-738) – Update 1",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-november-2025-monthly-rollup-av25-738",
+          "date": "2026-11-20",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "[Control Systems] Moxa security advisory (AV26-1187)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/control-systems-moxa-security-advisory-av26-1187",
+          "date": "2026-11-20",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Drupal security advisory (AV26-1186)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av26-1186",
+          "date": "2026-11-19",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Mitel security advisory (AV26-1184)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av26-1184",
+          "date": "2026-11-19",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "PHP Group security advisory (AV26-1183)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/php-group-security-advisory-av26-1183",
+          "date": "2026-11-19",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Ubiquiti security advisory (AV26-1182)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/ubiquiti-security-advisory-av26-1182",
+          "date": "2026-11-19",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "JetBrains security advisory (AV26-1181)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/jetbrains-security-advisory-av26-1181",
+          "date": "2026-11-19",
+          "description": "Visit link for details"
         }
       ]
     }
