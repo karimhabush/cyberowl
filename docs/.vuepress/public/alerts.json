@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T20:44:11.224518+00:00",
+  "generated_at": "2026-11-22T20:54:45.046222+00:00",
   "sources": {
     "US-CERT": {
       "items": [
@@ -74,66 +74,69 @@
     "VulDB": {
       "items": [
         {
-          "title": "CVE-2026-125294  POSIMYTH Nexter Blocks Pro Plugin up to 5.0.10 on WordPress Registration tpgb_ajax_register_user tpgb_acf_key/tpgb_acf privileges management",
-          "link": "https://vuldb.com/vuln/442022",
-          "date": "Sat, 21 Nov 2026 19:48:32 +0100",
-          "description": "A vulnerability classified as critical has been found in POSIMYTH Nexter Blocks Pro Plugin up to 5.0.10 on WordPress. This affects the function tpgb_ajax_register_user of the component Registration Ha"
+          "title": "CVE-2026-134624  N-able MailAssure prior 20261121.1943 LDAP Synchronization server-side request forgery",
+          "link": "https://vuldb.com/vuln/442165",
+          "date": "Sun, 22 Nov 2026 20:31:27 +0100",
+          "description": "A vulnerability, which was classified as critical, was found in N-able MailAssure. This affects an unknown function of the component LDAP Synchronization. The manipulation results in server-side reque"
         },
         {
-          "title": "CVE-2026-134459  web-token jwt-framework/jwt-library prior 3.4.10/4.0.7/4.1.7 RSA1_5 Decryption decryptWithRSA15 timing discrepancy",
-          "link": "https://vuldb.com/vuln/442021",
-          "date": "Sat, 21 Nov 2026 18:57:32 +0100",
-          "description": "A vulnerability described as problematic has been identified in web-token jwt-framework and jwt-library. The impacted element is the function RSACrypt::decryptWithRSA15 of the component RSA1_5 Decrypt"
+          "title": "CVE-2026-134856  Snes9x up to 1.63 Save-State Screenshot Restoration snapshot.cpp S9xUnfreezeFromStream out-of-bounds (Issue 1106)",
+          "link": "https://vuldb.com/vuln/442164",
+          "date": "Sun, 22 Nov 2026 20:01:01 +0100",
+          "description": "A vulnerability, which was classified as problematic, has been found in Snes9x up to 1.63. The impacted element is the function S9xUnfreezeFromStream of the file snapshot.cpp of the component Save-Sta"
         },
         {
-          "title": "CVE-2026-134423  Frappe ERPNext 6.26.0/16.x Stock improper authorization",
-          "link": "https://vuldb.com/vuln/442020",
-          "date": "Sat, 21 Nov 2026 18:53:53 +0100",
-          "description": "A vulnerability marked as problematic has been reported in Frappe ERPNext 6.26.0/16.x. The affected element is an unknown function of the component Stock Module. The manipulation leads to improper aut"
+          "title": "CVE-2026-134855  kchapelier qoijs 1.0.0 QOI Decoder src/decode.js decode arrayBuffer memory allocation",
+          "link": "https://vuldb.com/vuln/442163",
+          "date": "Sun, 22 Nov 2026 19:59:25 +0100",
+          "description": "A vulnerability classified as problematic was found in kchapelier qoijs 1.0.0. The affected element is the function decode of the file src/decode.js of the component QOI Decoder. Executing a manipulat"
         },
         {
-          "title": "CVE-2026-134395  Frappe ERPNext 13.0.0/15.121.x/16.49.x Accounts improper authorization",
-          "link": "https://vuldb.com/vuln/442019",
-          "date": "Sat, 21 Nov 2026 18:41:21 +0100",
-          "description": "A vulnerability labeled as problematic has been found in Frappe ERPNext 13.0.0/15.121.x/16.49.x. Impacted is an unknown function of the component Accounts Module. Executing a manipulation can lead to"
+          "title": "CVE-2026-134854  andreasgal node-wav up to 0.0.2 WAV Decoder index.js decode memory allocation",
+          "link": "https://vuldb.com/vuln/442162",
+          "date": "Sun, 22 Nov 2026 19:58:20 +0100",
+          "description": "A vulnerability classified as problematic has been found in andreasgal node-wav up to 0.0.2. Impacted is the function decode of the file index.js of the component WAV Decoder. Performing a manipulatio"
         },
         {
-          "title": "CVE-2026-134363  Coder Read Skill File Tool read_skill_file path traversal",
-          "link": "https://vuldb.com/vuln/442018",
-          "date": "Sat, 21 Nov 2026 18:40:47 +0100",
-          "description": "A vulnerability identified as problematic has been detected in Coder. This issue affects the function read_skill_file of the component Read Skill File Tool. Performing a manipulation results in path t"
+          "title": "CVE-2026-134853  vthibault tga-js up to 1.1.1 TgaLoader src/tga.js _decodeRLE memory allocation",
+          "link": "https://vuldb.com/vuln/442161",
+          "date": "Sun, 22 Nov 2026 19:56:11 +0100",
+          "description": "A vulnerability described as problematic has been identified in vthibault tga-js up to 1.1.1. This issue affects the function _decodeRLE of the file src/tga.js of the component TgaLoader. Such manipul"
         },
         {
-          "title": "CVE-2026-134391  Frappe ERPNext 12.2.0/15.121.0/16.49.0/16.x Assets improper authorization",
-          "link": "https://vuldb.com/vuln/442017",
-          "date": "Sat, 21 Nov 2026 18:39:45 +0100",
-          "description": "A vulnerability categorized as problematic has been discovered in Frappe ERPNext 12.2.0/15.121.0/16.x/16.49.0. This vulnerability affects unknown code of the component Assets Module. Such manipulation"
+          "title": "CVE-2026-134852  shaozilee bmp-js up to 0.1.0 lib/decoder.js BmpDecoder.parseRGBA memory allocation (Issue 42)",
+          "link": "https://vuldb.com/vuln/442160",
+          "date": "Sun, 22 Nov 2026 19:55:29 +0100",
+          "description": "A vulnerability marked as problematic has been reported in shaozilee bmp-js up to 0.1.0. This vulnerability affects the function BmpDecoder.parseRGBA of the file lib/decoder.js. This manipulation caus"
         },
         {
-          "title": "CVE-2026-134454  HyNetworks Hysteria up to 2.9.1 access control",
-          "link": "https://vuldb.com/vuln/442016",
-          "date": "Sat, 21 Nov 2026 18:39:23 +0100",
-          "description": "A vulnerability was found in HyNetworks Hysteria up to 2.9.1. It has been rated as critical. This affects an unknown part. This manipulation causes improper access controls.This vulnerability is reg"
+          "title": "CVE-2026-134851  leonkhoo123 self-hosting-file-uploader up to 473e38ff8fba494f33a485730c6d95c5d8c536ea Admin Generator API routes/generator.js missing authentication",
+          "link": "https://vuldb.com/vuln/442159",
+          "date": "Sun, 22 Nov 2026 19:54:56 +0100",
+          "description": "A vulnerability labeled as critical has been found in leonkhoo123 self-hosting-file-uploader up to 473e38ff8fba494f33a485730c6d95c5d8c536ea. This affects an unknown part of the file routes/generator.j"
         },
         {
-          "title": "CVE-2026-134449  Finsys Dockhand up to 1.0.56 cross-site request forgery",
-          "link": "https://vuldb.com/vuln/442015",
-          "date": "Sat, 21 Nov 2026 18:39:22 +0100",
-          "description": "A vulnerability was found in Finsys Dockhand up to 1.0.56. It has been declared as problematic. Affected by this issue is some unknown functionality. The manipulation results in cross-site request for"
+          "title": "CVE-2026-134850  aceberg WatchYourLAN up to 2.1.4 Web API api-network.go getPortState addr server-side request forgery",
+          "link": "https://vuldb.com/vuln/442158",
+          "date": "Sun, 22 Nov 2026 19:49:45 +0100",
+          "description": "A vulnerability identified as critical has been detected in aceberg WatchYourLAN up to 2.1.4. Affected by this issue is the function getPortState of the file backend/internal/api/api-network.go of the"
         },
         {
-          "title": "CVE-2026-134461  Web-Token JWT Library/JWT Framework PBES2AESKW PBES2AESKW::unwrapKey p2c resource consumption",
-          "link": "https://vuldb.com/vuln/442014",
-          "date": "Sat, 21 Nov 2026 18:38:59 +0100",
-          "description": "A vulnerability was found in Web-Token JWT Library and JWT Framework. It has been classified as problematic. Affected by this vulnerability is the function PBES2AESKW::unwrapKey of the component PBES2"
+          "title": "CVE-2026-134789  DumbWareio DumbAssets up to 1.0.11 Settings API server.js appriseUrl dynamically-determined object attributes",
+          "link": "https://vuldb.com/vuln/442157",
+          "date": "Sun, 22 Nov 2026 17:39:10 +0100",
+          "description": "A vulnerability categorized as critical has been discovered in DumbWareio DumbAssets up to 1.0.11. Affected by this vulnerability is an unknown functionality of the file server.js of the component Set"
         },
         {
-          "title": "CVE-2026-134457  HyNetworks Hysteria up to 2.8.1 Sniffing allocation of resources",
-          "link": "https://vuldb.com/vuln/442013",
-          "date": "Sat, 21 Nov 2026 18:38:45 +0100",
-          "description": "A vulnerability was found in HyNetworks Hysteria up to 2.8.1 and classified as problematic. Affected is an unknown function of the component Sniffing. Executing a manipulation can lead to allocation o"
+          "title": "CVE-2026-134788  warpdesign pcx-js up to 1.1.1 PCX Pixel Buffer Decoder js/pcx.js decode8bpp/decode4bpp memory allocation",
+          "link": "https://vuldb.com/vuln/442156",
+          "date": "Sun, 22 Nov 2026 17:38:12 +0100",
+          "description": "A vulnerability was found in warpdesign pcx-js up to 1.1.1. It has been rated as problematic. Affected is the function decode8bpp/decode4bpp of the file js/pcx.js of the component PCX Pixel Buffer Dec"
         }
       ]
+    },
+    "ZERODAYINITIATIVE": {
+      "items": []
     },
     "HK-CERT": {
       "items": [
@@ -196,70 +199,6 @@
           "link": "https://www.hkcert.org/security-bulletin/f5-products-multiple-vulnerabilities_20261119",
           "date": " Release Date: 19 Nov 2026 ",
           "description": "Multiple vulnerabilities were identified in F5 Products. A remote attacker could exploit some of these vulnerabilities to trigger denial of service condition, remote code execution, security restriction bypass and data manipulation on the targeted system.  [Updated on 2026-11-20]Updated System..."
-        }
-      ]
-    },
-    "OBS-Vigilance": {
-      "items": [
-        {
-          "title": "containerd: denial of service via CRI Plugin",
-          "link": "https://vigilance.fr/vulnerability/containerd-denial-of-service-via-CRI-Plugin-52675",
-          "date": "Visit link for details",
-          "description": "An attacker can cause a fatal error of containerd, via CRI Plugin, in order to trigger a denial of service..."
-        },
-        {
-          "title": "libX11: buffer overflow via _XkbReadKeyActions()",
-          "link": "https://vigilance.fr/vulnerability/libX11-buffer-overflow-via-XkbReadKeyActions-52674",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger a buffer overflow of libX11, via _XkbReadKeyActions()"
-        },
-        {
-          "title": "XnSoft XnView Classic: two vulnerabilities dated 21/09/2026",
-          "link": "https://vigilance.fr/vulnerability/XnSoft-XnView-Classic-two-vulnerabilities-dated-21-09-2026-52673",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of XnSoft XnView Classic, dated 21/09/2026..."
-        },
-        {
-          "title": "FasterXML Jackson Core: two vulnerabilities dated 21/09/2026",
-          "link": "https://vigilance.fr/vulnerability/FasterXML-Jackson-Core-two-vulnerabilities-dated-21-09-2026-52670",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of FasterXML Jackson Core, dated 21/09/2026..."
-        },
-        {
-          "title": "FasterXML Jackson Databind: two vulnerabilities dated 21/09/2026",
-          "link": "https://vigilance.fr/vulnerability/FasterXML-Jackson-Databind-two-vulnerabilities-dated-21-09-2026-52669",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of FasterXML Jackson Databind, dated 21/09/2026..."
-        },
-        {
-          "title": "TeamPass: two vulnerabilities dated 21/09/2026",
-          "link": "https://vigilance.fr/vulnerability/TeamPass-two-vulnerabilities-dated-21-09-2026-52668",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of TeamPass, dated 21/09/2026..."
-        },
-        {
-          "title": "Microsoft Edge Chromium: privilege escalation dated 21/09/2026",
-          "link": "https://vigilance.fr/vulnerability/Microsoft-Edge-Chromium-privilege-escalation-dated-21-09-2026-52667",
-          "date": "Visit link for details",
-          "description": "An attacker can bypass restrictions of Microsoft Edge Chromium, dated 21/09/2026, in order to escalate his privileges..."
-        },
-        {
-          "title": "GIMP: integer overflow via PSD Thumbnail",
-          "link": "https://vigilance.fr/vulnerability/GIMP-integer-overflow-via-PSD-Thumbnail-52666",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger an integer overflow of GIMP, via PSD Thumbnail, in order to trigger a denial of service, and possibly to run code..."
-        },
-        {
-          "title": "GIMP: integer overflow via PNG ICO",
-          "link": "https://vigilance.fr/vulnerability/GIMP-integer-overflow-via-PNG-ICO-52665",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger an integer overflow of GIMP, via PNG ICO, in order to trigger a denial of service, and possibly to run code..."
-        },
-        {
-          "title": "GIMP: buffer overflow via Lighting Plugin",
-          "link": "https://vigilance.fr/vulnerability/GIMP-buffer-overflow-via-Lighting-Plugin-52664",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger a buffer overflow of GIMP, via Lighting Plugin, in order to trigger a denial of service, and possibly to run code..."
         }
       ]
     },
@@ -327,72 +266,69 @@
         }
       ]
     },
-    "MA-CERT": {
+    "OBS-Vigilance": {
       "items": [
         {
-          "title": "71432011/26 - Vulnérabilités affectant Dell PowerStore",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-dell-powerstore",
-          "date": " ",
-          "description": "Dell annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées de son produit « PowerStore». L’exploitation de ces vulnérabilités peut  permettre à un …"
+          "title": "LibreOffice: multiple vulnerabilities dated 22/09/2026",
+          "link": "https://vigilance.fr/vulnerability/LibreOffice-multiple-vulnerabilities-dated-22-09-2026-52681",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of LibreOffice, dated 22/09/2026..."
         },
         {
-          "title": "71452011/26 - Vulnérabilités critiques affectant les produits Incus",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-les-produits-incus",
-          "date": " ",
-          "description": "Plusieurs vulnérabilités critiques ont été identifiées dans le logiciel Incus (LXC). Leur exploitation pourrait permettre à un attaquant de contourner la politique de sécurité, d'injecter des…"
+          "title": "opentelemetry-go: overload via Oversized Baggage Headers",
+          "link": "https://vigilance.fr/vulnerability/opentelemetry-go-overload-via-Oversized-Baggage-Headers-52680",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger an overload of opentelemetry-go, via Oversized Baggage Headers, in order to trigger a denial of service..."
         },
         {
-          "title": "71442011/26 - Plusieurs vulnérabilités critiques affectant HPE",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/plusieurs-vulnerabilites-critiques-affectant-hpe",
-          "date": " ",
-          "description": "Plusieurs vulnérabilités de sécurité ont été identifiées dans HPE Aruba Networking ArubaOS (AOS). Leur exploitation pourrait permettre à un attaquant de contourner les mécanismes de sécurité,…"
+          "title": "Golang crypto/tls: overload via Indefinite KeyUpdate Messages",
+          "link": "https://vigilance.fr/vulnerability/Golang-crypto-tls-overload-via-Indefinite-KeyUpdate-Messages-52679",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger an overload of Golang crypto/tls, via Indefinite KeyUpdate Messages, in order to trigger a denial of service..."
         },
         {
-          "title": "71422011/26 - Vulnérabilité affectant OpenVPN",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-openvpn",
-          "date": " ",
-          "description": "Une vulnérabilité affectant les versions susmentionnées d’OpenVPN a été corrigée. L’exploitation de cette vulnérabilité peut permettre à un attaquant local authentifié de contourner des mesures de…"
+          "title": "Webmin: two vulnerabilities dated 22/09/2026",
+          "link": "https://vigilance.fr/vulnerability/Webmin-two-vulnerabilities-dated-22-09-2026-52678",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of Webmin, dated 22/09/2026..."
         },
         {
-          "title": "71412011/26 - Vulnérabilité critique affectant Apache Roller",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-apache-roller-0",
-          "date": " ",
-          "description": "Une vulnérabilité critique de désérialisation de données non fiables, identifiée sous la référence CVE-2026-129448, a été identifiée dans Apache Roller. Son exploitation pourrait permettre à un…"
+          "title": "util-linux: privilege escalation via cgroup.procs fd",
+          "link": "https://vigilance.fr/vulnerability/util-linux-privilege-escalation-via-cgroup-procs-fd-52676",
+          "date": "Visit link for details",
+          "description": "An attacker can bypass restrictions of util-linux, via cgroup.procs fd, in order to escalate his privileges..."
         },
         {
-          "title": "71402011/26 - Vulnérabilités critiques affectant Tenable Security Center",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-tenable-security-center",
-          "date": " ",
-          "description": "Tenable annonce la correction de plusieurs vulnérabilités critiques affectant son produit « Security Center». L’exploitation de ces   vulnérabilités peut   permettre à un…"
+          "title": "containerd: denial of service via CRI Plugin",
+          "link": "https://vigilance.fr/vulnerability/containerd-denial-of-service-via-CRI-Plugin-52675",
+          "date": "Visit link for details",
+          "description": "An attacker can cause a fatal error of containerd, via CRI Plugin, in order to trigger a denial of service..."
         },
         {
-          "title": "71382011/26 - Vulnérabilités affectant OpenSSL",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-openssl-4",
-          "date": " ",
-          "description": "OpenSSL annonce la disponibilité d’une mise à jour de sécurité permettant la correction  de trois   vulnérabilités affectant les versions susmentionnées d'OpenSSL.…"
+          "title": "libX11: buffer overflow via _XkbReadKeyActions()",
+          "link": "https://vigilance.fr/vulnerability/libX11-buffer-overflow-via-XkbReadKeyActions-52674",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger a buffer overflow of libX11, via _XkbReadKeyActions()"
         },
         {
-          "title": "71371911/26 - Vulnérabilité critique activement exploitée affectant ChromeOS",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-activement-exploitee-affectant-chromeos",
-          "date": " ",
-          "description": "Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs vulnérabilités   affectant son système d’exploitation  ChromeOS. Une de ces vulnérabilités…"
+          "title": "XnSoft XnView Classic: two vulnerabilities dated 21/09/2026",
+          "link": "https://vigilance.fr/vulnerability/XnSoft-XnView-Classic-two-vulnerabilities-dated-21-09-2026-52673",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of XnSoft XnView Classic, dated 21/09/2026..."
         },
         {
-          "title": "71351911/26 - Vulnérabilité critique activement exploitée affectant des produits de…",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-activement-exploitee-affectant-des-produits-de-vmware",
-          "date": " ",
-          "description": "VMware annonce la correction de plusieurs vulnérabilités affectant ses produits susmentionnés. Une de ces vulnérabilités identifiée par « CVE-2026-123890 » est critique et susceptible …"
+          "title": "FasterXML Jackson Core: two vulnerabilities dated 21/09/2026",
+          "link": "https://vigilance.fr/vulnerability/FasterXML-Jackson-Core-two-vulnerabilities-dated-21-09-2026-52670",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of FasterXML Jackson Core, dated 21/09/2026..."
         },
         {
-          "title": "71362011/26 - Vulnérabilités dans les produits Splunk",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-dans-les-produits-splunk-11",
-          "date": " ",
-          "description": "Plusieurs vulnérabilités de sécurité ont été corrigées dans les produits Splunk susmentionnés. Leur exploitation pourrait permettre l’exécution de code à distance, l’élévation de privilèges,…"
+          "title": "FasterXML Jackson Databind: two vulnerabilities dated 21/09/2026",
+          "link": "https://vigilance.fr/vulnerability/FasterXML-Jackson-Databind-two-vulnerabilities-dated-21-09-2026-52669",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of FasterXML Jackson Databind, dated 21/09/2026..."
         }
       ]
-    },
-    "ZERODAYINITIATIVE": {
-      "items": []
     },
     "CA-CCS": {
       "items": [
@@ -455,6 +391,70 @@
           "link": "https://www.cyber.gc.ca/en/alerts-advisories/jetbrains-security-advisory-av26-1181",
           "date": "2026-11-19",
           "description": "Visit link for details"
+        }
+      ]
+    },
+    "MA-CERT": {
+      "items": [
+        {
+          "title": "71462211/26 - Vulnérabilité critique dans Ghostscript",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-ghostscript",
+          "date": " ",
+          "description": "Une vulnérabilité critique de type « Use-After-Free », a été corrigée dans Ghostscript.  L’exploitation de cette vulnérabilité peut permettre à un attaquant de contourner les mécanismes de…"
+        },
+        {
+          "title": "71432011/26 - Vulnérabilités affectant Dell PowerStore",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-dell-powerstore",
+          "date": " ",
+          "description": "Dell annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées de son produit « PowerStore». L’exploitation de ces vulnérabilités peut  permettre à un …"
+        },
+        {
+          "title": "71452011/26 - Vulnérabilités critiques affectant les produits Incus",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-les-produits-incus",
+          "date": " ",
+          "description": "Plusieurs vulnérabilités critiques ont été identifiées dans le logiciel Incus (LXC). Leur exploitation pourrait permettre à un attaquant de contourner la politique de sécurité, d'injecter des…"
+        },
+        {
+          "title": "71442011/26 - Plusieurs vulnérabilités critiques affectant HPE",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/plusieurs-vulnerabilites-critiques-affectant-hpe",
+          "date": " ",
+          "description": "Plusieurs vulnérabilités de sécurité ont été identifiées dans HPE Aruba Networking ArubaOS (AOS). Leur exploitation pourrait permettre à un attaquant de contourner les mécanismes de sécurité,…"
+        },
+        {
+          "title": "71422011/26 - Vulnérabilité affectant OpenVPN",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-openvpn",
+          "date": " ",
+          "description": "Une vulnérabilité affectant les versions susmentionnées d’OpenVPN a été corrigée. L’exploitation de cette vulnérabilité peut permettre à un attaquant local authentifié de contourner des mesures de…"
+        },
+        {
+          "title": "71412011/26 - Vulnérabilité critique affectant Apache Roller",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-apache-roller-0",
+          "date": " ",
+          "description": "Une vulnérabilité critique de désérialisation de données non fiables, identifiée sous la référence CVE-2026-129448, a été identifiée dans Apache Roller. Son exploitation pourrait permettre à un…"
+        },
+        {
+          "title": "71402011/26 - Vulnérabilités critiques affectant Tenable Security Center",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-tenable-security-center",
+          "date": " ",
+          "description": "Tenable annonce la correction de plusieurs vulnérabilités critiques affectant son produit « Security Center». L’exploitation de ces   vulnérabilités peut   permettre à un…"
+        },
+        {
+          "title": "71382011/26 - Vulnérabilités affectant OpenSSL",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-openssl-4",
+          "date": " ",
+          "description": "OpenSSL annonce la disponibilité d’une mise à jour de sécurité permettant la correction  de trois   vulnérabilités affectant les versions susmentionnées d'OpenSSL.…"
+        },
+        {
+          "title": "71371911/26 - Vulnérabilité critique activement exploitée affectant ChromeOS",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-activement-exploitee-affectant-chromeos",
+          "date": " ",
+          "description": "Google vient de publier une mise à jour de sécurité qui permet de corriger plusieurs vulnérabilités   affectant son système d’exploitation  ChromeOS. Une de ces vulnérabilités…"
+        },
+        {
+          "title": "71351911/26 - Vulnérabilité critique activement exploitée affectant des produits de…",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-activement-exploitee-affectant-des-produits-de-vmware",
+          "date": " ",
+          "description": "VMware annonce la correction de plusieurs vulnérabilités affectant ses produits susmentionnés. Une de ces vulnérabilités identifiée par « CVE-2026-123890 » est critique et susceptible …"
         }
       ]
     }
