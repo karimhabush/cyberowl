@@ -1,8 +1,14 @@
 {
-  "generated_at": "2026-11-24T01:58:46.185724+00:00",
+  "generated_at": "2026-11-24T23:42:56.971185+00:00",
   "sources": {
     "US-CERT": {
       "items": [
+        {
+          "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+          "link": "https://www.cisa.gov/news-events/alerts/2026/11/24/cisa-adds-three-known-exploited-vulnerabilities-catalog",
+          "date": "Nov 24, 2026",
+          "description": "Visit link for details."
+        },
         {
           "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
           "link": "https://www.cisa.gov/news-events/alerts/2026/11/23/cisa-adds-two-known-exploited-vulnerabilities-catalog",
@@ -56,85 +62,73 @@
           "link": "https://www.cisa.gov/news-events/alerts/2026/11/06/cisa-adds-one-known-exploited-vulnerability-catalog",
           "date": "Nov 06, 2026",
           "description": "Visit link for details."
-        },
-        {
-          "title": "Post-Quantum Questions to Ask Your Vendors",
-          "link": "https://www.cisa.gov/resources-tools/resources/post-quantum-questions-ask-your-vendors",
-          "date": "Nov 05, 2026",
-          "description": "Visit link for details."
         }
       ]
     },
     "IBM-X-FORCE-EXCHANGE": {
       "items": []
     },
-    "CERT-FR": {
-      "items": []
-    },
-    "ZERODAYINITIATIVE": {
-      "items": []
-    },
     "VulDB": {
       "items": [
         {
-          "title": "CVE-2026-77918  Gogs up to 0.14.4 Fork Listing information disclosure",
-          "link": "https://vuldb.com/vuln/442661",
-          "date": "Tue, 24 Nov 2026 02:41:55 +0100",
-          "description": "A vulnerability categorized as problematic has been discovered in Gogs up to 0.14.4. This impacts an unknown function of the component Fork Listing. Executing a manipulation can lead to information di"
+          "title": "CVE-2026-133458  Significant-Gravitas AutoGPT up to 0.10.0 Redirect SendAuthenticatedWebRequestBlock information disclosure",
+          "link": "https://vuldb.com/vuln/443505",
+          "date": "Wed, 25 Nov 2026 00:04:51 +0100",
+          "description": "A vulnerability described as problematic has been identified in Significant-Gravitas AutoGPT up to 0.10.0. The affected element is the function SendAuthenticatedWebRequestBlock of the component Redire"
         },
         {
-          "title": "CVE-2026-130178  Significant-Gravitas AutoGPT up to 0.8.3 SSRF Protection request.py _is_ip_blocked server-side request forgery",
-          "link": "https://vuldb.com/vuln/442660",
-          "date": "Tue, 24 Nov 2026 02:41:04 +0100",
-          "description": "A vulnerability was found in Significant-Gravitas AutoGPT up to 0.8.3. It has been rated as problematic. This affects the function _is_ip_blocked of the file autogpt_platform/backend/backend/util/requ"
+          "title": "CVE-2026-16668  mcu-tools MCUboot up to 2.5.0 CBOR Decoder zcbor_decode.c zcbor_any_skip stack-based overflow",
+          "link": "https://vuldb.com/vuln/443504",
+          "date": "Wed, 25 Nov 2026 00:04:07 +0100",
+          "description": "A vulnerability marked as critical has been reported in mcu-tools MCUboot up to 2.5.0. Impacted is the function zcbor_any_skip of the file boot/zcbor/src/zcbor_decode.c of the component CBOR Decoder."
         },
         {
-          "title": "CVE-2026-18530  Lantronix S2220 2 up to 1.3.36 a3cli restricted shell os command injection",
-          "link": "https://vuldb.com/vuln/442659",
-          "date": "Tue, 24 Nov 2026 02:40:26 +0100",
-          "description": "A vulnerability was found in Lantronix S2220 2 up to 1.3.36. It has been declared as very critical. The impacted element is an unknown function of the component a3cli restricted shell. Such manipulati"
+          "title": "CVE-2026-136614  GNU Inetutils Talkd buffer overflow",
+          "link": "https://vuldb.com/vuln/443503",
+          "date": "Wed, 25 Nov 2026 00:03:20 +0100",
+          "description": "A vulnerability labeled as problematic has been found in GNU Inetutils. This issue affects some unknown processing of the component Talkd. The manipulation results in buffer overflow.This vulnerabil"
         },
         {
-          "title": "CVE-2026-133448  Significant-Gravitas AutoGPT/autogpt-platform-beta up to 0.8.4 AutoPilot settings.json access control",
-          "link": "https://vuldb.com/vuln/442658",
-          "date": "Tue, 24 Nov 2026 02:26:52 +0100",
-          "description": "A vulnerability was found in Significant-Gravitas AutoGPT and autogpt-platform-beta up to 0.8.4. It has been classified as critical. The affected element is an unknown function of the file settings.js"
+          "title": "CVE-2026-136613  GNU Inetutils Filename Processing command injection",
+          "link": "https://vuldb.com/vuln/443502",
+          "date": "Wed, 25 Nov 2026 00:02:48 +0100",
+          "description": "A vulnerability identified as problematic has been detected in GNU Inetutils. This vulnerability affects unknown code of the component Filename Processing. The manipulation leads to command injection."
         },
         {
-          "title": "CVE-2026-132270  Significant-Gravitas AutoGPT up to 0.8.4 Autopilot authorization",
-          "link": "https://vuldb.com/vuln/442657",
-          "date": "Tue, 24 Nov 2026 02:09:27 +0100",
-          "description": "A vulnerability was found in Significant-Gravitas AutoGPT up to 0.8.4 and classified as problematic. Impacted is an unknown function of the component Autopilot. The manipulation results in missing aut"
+          "title": "CVE-2026-132692  Wikimedia MediaWiki 1.43/1.45/1.46/1.47 SecurePoll Extension ResultPage.js cross site scripting",
+          "link": "https://vuldb.com/vuln/443501",
+          "date": "Tue, 24 Nov 2026 23:58:22 +0100",
+          "description": "A vulnerability categorized as problematic has been discovered in Wikimedia MediaWiki 1.43/1.45/1.46/1.47. This affects an unknown part of the file modules/ext.securepoll.htmlform/translation/pages/Re"
         },
         {
-          "title": "CVE-2026-135693  rConfig Core/rConfig Pro Config Search View Matches Dialog cross site scripting",
-          "link": "https://vuldb.com/vuln/442656",
-          "date": "Tue, 24 Nov 2026 02:01:01 +0100",
-          "description": "A vulnerability has been found in rConfig Core and rConfig Pro and classified as problematic. This issue affects some unknown processing of the component Config Search View Matches Dialog. The manipul"
+          "title": "CVE-2026-132713  Wikimedia MediaWiki up to 1.43.11/1.45.6/1.46.2/1.47 VisualEditor extension.json cross site scripting",
+          "link": "https://vuldb.com/vuln/443500",
+          "date": "Tue, 24 Nov 2026 23:57:44 +0100",
+          "description": "A vulnerability was found in Wikimedia MediaWiki up to 1.43.11/1.45.6/1.46.2/1.47. It has been rated as problematic. Affected by this issue is some unknown functionality of the file extension.json of"
         },
         {
-          "title": "CVE-2026-135695  rConfig Core/Pro prior 8.2.13/8.4.0 Users API UserController::update authorization",
-          "link": "https://vuldb.com/vuln/442655",
-          "date": "Tue, 24 Nov 2026 02:00:56 +0100",
-          "description": "A vulnerability, which was classified as critical, was found in rConfig Core and Pro. This vulnerability affects the function UserController::update of the component Users API. Executing a manipulatio"
+          "title": "CVE-2026-132688  Wikimedia MediaWiki up to 1.46.2/1.47 CheckUser ipReveal.js cross site scripting",
+          "link": "https://vuldb.com/vuln/443499",
+          "date": "Tue, 24 Nov 2026 23:57:44 +0100",
+          "description": "A vulnerability was found in Wikimedia MediaWiki up to 1.46.2/1.47. It has been declared as problematic. Affected by this vulnerability is an unknown functionality of the file modules/ext.checkUser.te"
         },
         {
-          "title": "CVE-2026-135688  Idno up to 1.6.4 server-side request forgery",
-          "link": "https://vuldb.com/vuln/442654",
-          "date": "Tue, 24 Nov 2026 02:00:43 +0100",
-          "description": "A vulnerability, which was classified as critical, has been found in Idno up to 1.6.4. This affects an unknown part. Performing a manipulation results in server-side request forgery.This vulnerabili"
+          "title": "CVE-2026-132711  Wikimedia MediaWiki up to 1.45.6/1.46.2/1.47 Parsoid AttributeExpander.php cross site scripting",
+          "link": "https://vuldb.com/vuln/443498",
+          "date": "Tue, 24 Nov 2026 23:57:31 +0100",
+          "description": "A vulnerability was found in Wikimedia MediaWiki up to 1.45.6/1.46.2/1.47. It has been classified as problematic. Affected is an unknown function of the file wikimedia/parsoid/src/Wt2Html/TT/Attribute"
         },
         {
-          "title": "CVE-2026-135696  rConfig up to 8.2.21 DeviceIpIsValid server-side request forgery",
-          "link": "https://vuldb.com/vuln/442653",
-          "date": "Tue, 24 Nov 2026 02:00:21 +0100",
-          "description": "A vulnerability classified as critical was found in rConfig up to 8.2.21. Affected by this issue is some unknown functionality of the component DeviceIpIsValid. Such manipulation leads to server-side"
+          "title": "CVE-2026-132686  Wikimedia MediaWiki up to 1.45.6/1.46.2/1.47 CheckUser Extension buildUserElement.js cross site scripting",
+          "link": "https://vuldb.com/vuln/443497",
+          "date": "Tue, 24 Nov 2026 23:57:20 +0100",
+          "description": "A vulnerability was found in Wikimedia MediaWiki up to 1.45.6/1.46.2/1.47 and classified as problematic. This impacts an unknown function of the file modules/ext.checkUser/checkuser/checkUserHelper/bu"
         },
         {
-          "title": "CVE-2026-135697  CleverReach WP Plugin up to 1.5.27 on WordPress Article_Search Controller id missing authentication",
-          "link": "https://vuldb.com/vuln/442652",
-          "date": "Tue, 24 Nov 2026 01:59:46 +0100",
-          "description": "A vulnerability classified as problematic has been found in CleverReach WP Plugin up to 1.5.27 on WordPress. Affected by this vulnerability is an unknown functionality of the component Article_Search"
+          "title": "CVE-2026-132715  Wikimedia MediaWiki up to 1.46.2/1.47 VisualEditor SpecialEditChecks.php cross site scripting",
+          "link": "https://vuldb.com/vuln/443496",
+          "date": "Tue, 24 Nov 2026 23:56:48 +0100",
+          "description": "A vulnerability has been found in Wikimedia MediaWiki up to 1.46.2/1.47 and classified as problematic. This affects an unknown function of the file includes/SpecialEditChecks.php of the component Visu"
         }
       ]
     },
@@ -202,69 +196,11 @@
         }
       ]
     },
-    "OBS-Vigilance": {
-      "items": [
-        {
-          "title": "Angular: overload via Numeric URL Matrix Parameters",
-          "link": "https://vigilance.fr/vulnerability/Angular-overload-via-Numeric-URL-Matrix-Parameters-52696",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger an overload of Angular, via Numeric URL Matrix Parameters, in order to trigger a denial of service..."
-        },
-        {
-          "title": "xdg-dbus-proxy: code execution via Message Filtering Bypass",
-          "link": "https://vigilance.fr/vulnerability/xdg-dbus-proxy-code-execution-via-Message-Filtering-Bypass-52693",
-          "date": "Visit link for details",
-          "description": "An attacker can use a vulnerability of xdg-dbus-proxy, via Message Filtering Bypass, in order to run code..."
-        },
-        {
-          "title": "IBM Power System: six vulnerabilities dated 23/09/2026",
-          "link": "https://vigilance.fr/vulnerability/IBM-Power-System-six-vulnerabilities-dated-23-09-2026-52692",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of IBM Power System, dated 23/09/2026..."
-        },
-        {
-          "title": "rsyslog: Man-in-the-Middle via tls.authmode / tls.permittedpeer",
-          "link": "https://vigilance.fr/vulnerability/rsyslog-Man-in-the-Middle-via-tls-authmode-tls-permittedpeer-52689",
-          "date": "Visit link for details",
-          "description": "An attacker can act as a Man-in-the-Middle on rsyslog, via tls.authmode / tls.permittedpeer, in order to read or write data in the session..."
-        },
-        {
-          "title": "Apache Hive: Server-Side Request Forgery via Avro SerDe Schema Resolution",
-          "link": "https://vigilance.fr/vulnerability/Apache-Hive-Server-Side-Request-Forgery-via-Avro-SerDe-Schema-Resolution-52687",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger a Server-Side Request Forgery of Apache Hive, via Avro SerDe Schema Resolution, in order to force the server to send queries..."
-        },
-        {
-          "title": "LibreOffice: multiple vulnerabilities dated 22/09/2026",
-          "link": "https://vigilance.fr/vulnerability/LibreOffice-multiple-vulnerabilities-dated-22-09-2026-52681",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of LibreOffice, dated 22/09/2026..."
-        },
-        {
-          "title": "opentelemetry-go: overload via Oversized Baggage Headers",
-          "link": "https://vigilance.fr/vulnerability/opentelemetry-go-overload-via-Oversized-Baggage-Headers-52680",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger an overload of opentelemetry-go, via Oversized Baggage Headers, in order to trigger a denial of service..."
-        },
-        {
-          "title": "Golang crypto/tls: overload via Indefinite KeyUpdate Messages",
-          "link": "https://vigilance.fr/vulnerability/Golang-crypto-tls-overload-via-Indefinite-KeyUpdate-Messages-52679",
-          "date": "Visit link for details",
-          "description": "An attacker can trigger an overload of Golang crypto/tls, via Indefinite KeyUpdate Messages, in order to trigger a denial of service..."
-        },
-        {
-          "title": "Webmin: two vulnerabilities dated 22/09/2026",
-          "link": "https://vigilance.fr/vulnerability/Webmin-two-vulnerabilities-dated-22-09-2026-52678",
-          "date": "Visit link for details",
-          "description": "An attacker can use several vulnerabilities of Webmin, dated 22/09/2026..."
-        },
-        {
-          "title": "util-linux: privilege escalation via cgroup.procs fd",
-          "link": "https://vigilance.fr/vulnerability/util-linux-privilege-escalation-via-cgroup-procs-fd-52676",
-          "date": "Visit link for details",
-          "description": "An attacker can bypass restrictions of util-linux, via cgroup.procs fd, in order to escalate his privileges..."
-        }
-      ]
+    "CERT-FR": {
+      "items": []
+    },
+    "ZERODAYINITIATIVE": {
+      "items": []
     },
     "EU-CERT": {
       "items": [
@@ -330,8 +266,178 @@
         }
       ]
     },
+    "OBS-Vigilance": {
+      "items": [
+        {
+          "title": "Notepad++: multiple vulnerabilities dated 24/09/2026",
+          "link": "https://vigilance.fr/vulnerability/Notepad-multiple-vulnerabilities-dated-24-09-2026-52708",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of Notepad++, dated 24/09/2026..."
+        },
+        {
+          "title": "Python Core: denial of service via Http.cookiejar Other Domains Removal",
+          "link": "https://vigilance.fr/vulnerability/Python-Core-denial-of-service-via-Http-cookiejar-Other-Domains-Removal-53137",
+          "date": "Visit link for details",
+          "description": "An attacker can cause a fatal error of Python Core, via Http.cookiejar Other Domains Removal, in order to trigger a denial of service..."
+        },
+        {
+          "title": "Red Hat Ansible Automation Platform: multiple vulnerabilities dated 24/09/2026",
+          "link": "https://vigilance.fr/vulnerability/Red-Hat-Ansible-Automation-Platform-multiple-vulnerabilities-dated-24-09-2026-52703",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of Red Hat Ansible Automation Platform, dated 24/09/2026..."
+        },
+        {
+          "title": "GIMP: out-of-bounds memory reading via DDS Plug-in Uncompressed Loader",
+          "link": "https://vigilance.fr/vulnerability/GIMP-out-of-bounds-memory-reading-via-DDS-Plug-in-Uncompressed-Loader-52702",
+          "date": "Visit link for details",
+          "description": "An attacker can force a read at an invalid memory address of GIMP, via DDS Plug-in Uncompressed Loader, in order to trigger a denial of service, or to obtain sensitive information..."
+        },
+        {
+          "title": "GIMP: information disclosure via File-tim 4bpp Path",
+          "link": "https://vigilance.fr/vulnerability/GIMP-information-disclosure-via-File-tim-4bpp-Path-52701",
+          "date": "Visit link for details",
+          "description": "An attacker can bypass access restrictions to data of GIMP, via File-tim 4bpp Path, in order to read sensitive information..."
+        },
+        {
+          "title": "OpenStack Swift: information disclosure via Tempurl Middleware X-Copy-From",
+          "link": "https://vigilance.fr/vulnerability/OpenStack-Swift-information-disclosure-via-Tempurl-Middleware-X-Copy-From-52700",
+          "date": "Visit link for details",
+          "description": "An attacker can bypass access restrictions to data of OpenStack Swift, via Tempurl Middleware X-Copy-From, in order to read sensitive information..."
+        },
+        {
+          "title": "Wireshark: multiple vulnerabilities dated 24/09/2026",
+          "link": "https://vigilance.fr/vulnerability/Wireshark-multiple-vulnerabilities-dated-24-09-2026-52699",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of Wireshark, dated 24/09/2026..."
+        },
+        {
+          "title": "Kubernetes: two vulnerabilities dated 24/09/2026",
+          "link": "https://vigilance.fr/vulnerability/Kubernetes-two-vulnerabilities-dated-24-09-2026-52698",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of Kubernetes, dated 24/09/2026..."
+        },
+        {
+          "title": "ZNC: two vulnerabilities dated 24/09/2026",
+          "link": "https://vigilance.fr/vulnerability/ZNC-two-vulnerabilities-dated-24-09-2026-52697",
+          "date": "Visit link for details",
+          "description": "An attacker can use several vulnerabilities of ZNC, dated 24/09/2026..."
+        },
+        {
+          "title": "Angular: overload via Numeric URL Matrix Parameters",
+          "link": "https://vigilance.fr/vulnerability/Angular-overload-via-Numeric-URL-Matrix-Parameters-52696",
+          "date": "Visit link for details",
+          "description": "An attacker can trigger an overload of Angular, via Numeric URL Matrix Parameters, in order to trigger a denial of service..."
+        }
+      ]
+    },
+    "CA-CCS": {
+      "items": [
+        {
+          "title": "Erlang security advisory (AV26-1204)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/erlang-security-advisory-av26-1204",
+          "date": "2026-11-24",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Drupal security advisory (AV26-1186) – Update 1",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av26-1186",
+          "date": "2026-11-24",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "VMware security advisory (AV26-1203)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av26-1203",
+          "date": "2026-11-24",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Tanium security advisory (AV26-1202)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/tanium-security-advisory-av26-1202",
+          "date": "2026-11-24",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Google security advisory (AV26-1201)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/google-security-advisory-av26-1201",
+          "date": "2026-11-24",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "n8n security advisory (AV26-1200)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/n8n-security-advisory-av26-1200",
+          "date": "2026-11-24",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "[Control systems] Codesys security advisory (AV26-1199)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/control-systems-codesys-security-advisory-av26-1199",
+          "date": "2026-11-24",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "SUSE Linux security advisory (AV26-1198)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/suse-linux-security-advisory-av26-1198",
+          "date": "2026-11-24",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "MISP security advisory (AV26-1197)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/misp-security-advisory-av26-1197",
+          "date": "2026-11-23",
+          "description": "Visit link for details"
+        },
+        {
+          "title": "Splunk security advisory (AV26-1196)",
+          "link": "https://www.cyber.gc.ca/en/alerts-advisories/splunk-security-advisory-av26-1196",
+          "date": "2026-11-23",
+          "description": "Visit link for details"
+        }
+      ]
+    },
     "MA-CERT": {
       "items": [
+        {
+          "title": "71602411/26 - Vulnérabilité critique activement exploitée affectant affectant Xen…",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-activement-exploitee-affectant-affectant-xen-orchestra",
+          "date": " ",
+          "description": "Une vulnérabilité critique (CVE-2026-133469) a été identifiée dans la solution de virtualisation et de gestion d’infrastructures Vates Xen Orchestra. Son exploitation pourrait permettre à un attaquant…"
+        },
+        {
+          "title": "71592411/26 - Vulnérabilités critiques affectant des produits de VMware",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-des-produits-de-vmware",
+          "date": " ",
+          "description": "VMware a publié des mises à jour de sécurité afin de corriger plusieurs vulnérabilités critiques affectant ses produits susmentionnés. Leur exploitation pourrait permettre à un attaquant d’exécuter du…"
+        },
+        {
+          "title": "71612411/26 - Vulnérabilité affectant le Framework Laravel",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-le-framework-laravel",
+          "date": " ",
+          "description": "Une  vulnérabilité affectant le Framewrok Laravel a été corrigée. L'exploitation de cette  vulnérabilité peut permettre à un attaquant de causer un déni de service."
+        },
+        {
+          "title": "71582411/26 - Vulnérabilité critique activement exploitée affectant N-able MailAssure",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-activement-exploitee-affectant-n-able-mailassure",
+          "date": " ",
+          "description": "Une vulnérabilité critique a été corrigée dans N-able MailAssure, au niveau du mécanisme de vérification des connexions de synchronisation LDAP. Son exploitation pourrait permettre à un attaquant…"
+        },
+        {
+          "title": "71572411/26 - Vulnérabilité critique dans PHP affectant des produits de Cisco",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-php-affectant-des-produits-de-cisco",
+          "date": " ",
+          "description": "Cisco annonce que la vulnérabilité critique affectant PHP et qui a fait l’objet du bulletin de sécurité «71321911/26 » de la DGSSI concerne plusieurs de ses produits. L’exploitation de cette…"
+        },
+        {
+          "title": "71562411/26 - Vulnérabilité affectant Spring AI",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-affectant-spring-ai",
+          "date": " ",
+          "description": "Veuillez se référer au bulletin de sécurité de l'éditeur pour l'obtention des correctifs."
+        },
+        {
+          "title": "71552411/26 - Vulnérabilité critique affectant le navigateur Google Chrome",
+          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-le-navigateur-google-chrome-2",
+          "date": " ",
+          "description": "Google vient de publier une mise à jour de sécurité qui permet de corriger une vulnérabilité critique  affectant le navigateur Google Chrome. L’exploitation de cette vulnérabilité peut permettre…"
+        },
         {
           "title": "71532311/26 - Vulnérabilité critique affectant GitLab",
           "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-affectant-gitlab-3",
@@ -349,112 +455,6 @@
           "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-roundcube-webmail-6",
           "date": " ",
           "description": "Plusieurs vulnérabilités ont été corrigées dans Roundcube Webmail. L’exploitation de ces vulnérabilités pourrait permettre à un attaquant de provoquer un déni de service, d’exécuter du code arbitraire…"
-        },
-        {
-          "title": "71512311/26 - Vulnérabilité critique dans GPGME",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-gpgme",
-          "date": " ",
-          "description": "GnuPG a corrigé une vulnérabilité critique de type double libération de mémoire (double free), identifiée par « CVE-2026-129975 » et affectant la bibliothèque GPGME.La faille est déclenchée par un…"
-        },
-        {
-          "title": "71502311/26 - Vulnérabilité dans PHP affectant des produits F5",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-dans-php-affectant-des-produits-f5",
-          "date": " ",
-          "description": "F5 Networks annonce que la vulnérabilité affectant PHP et qui a fait l’objet du bulletin de sécurité «71321911/26 » de la DGSSI affecte plusieurs versions de son produit BIG-IP. Le code d’exploit…"
-        },
-        {
-          "title": "71482311/26 - Vulnérabilités critiques dans NGINX affectant Palo Alto PAN-OS",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-dans-nginx-affectant-palo-alto-pan-os",
-          "date": " ",
-          "description": "Palo Alto Networks annonce que les vulnérabilités critiques susmentionnées affectant NGINX et qui ont fait l’objet du bulletin de sécurité «71221811/26 » de la DGSSI concernent plusieurs versions…"
-        },
-        {
-          "title": "71492311/26 - Vulnérabilité critique dans Apache Tomcat",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-apache-tomcat-0",
-          "date": " ",
-          "description": "Une vulnérabilité critique a été identifiée dans Apache Tomcat, affectant le mécanisme d'authentification des nœuds d'un cluster utilisant TLS 1.3 avec TLS-PSK. Son exploitation pourrait permettre à…"
-        },
-        {
-          "title": "71462211/26 - Vulnérabilité critique dans Ghostscript",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilite-critique-dans-ghostscript",
-          "date": " ",
-          "description": "Une vulnérabilité critique de type « Use-After-Free », a été corrigée dans Ghostscript.  L’exploitation de cette vulnérabilité peut permettre à un attaquant de contourner les mécanismes de…"
-        },
-        {
-          "title": "71432011/26 - Vulnérabilités affectant Dell PowerStore",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-affectant-dell-powerstore",
-          "date": " ",
-          "description": "Dell annonce la correction de plusieurs vulnérabilités affectant les versions susmentionnées de son produit « PowerStore». L’exploitation de ces vulnérabilités peut  permettre à un …"
-        },
-        {
-          "title": "71452011/26 - Vulnérabilités critiques affectant les produits Incus",
-          "link": "https://www.dgssi.gov.ma/fr/bulletins/vulnerabilites-critiques-affectant-les-produits-incus",
-          "date": " ",
-          "description": "Plusieurs vulnérabilités critiques ont été identifiées dans le logiciel Incus (LXC). Leur exploitation pourrait permettre à un attaquant de contourner la politique de sécurité, d'injecter des…"
-        }
-      ]
-    },
-    "CA-CCS": {
-      "items": [
-        {
-          "title": "MISP security advisory (AV26-1197)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/misp-security-advisory-av26-1197",
-          "date": "2026-11-23",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Splunk security advisory (AV26-1196)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/splunk-security-advisory-av26-1196",
-          "date": "2026-11-23",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Spring security advisory (AV26-1195)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/spring-security-advisory-av26-1195",
-          "date": "2026-11-23",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Apache security advisory (AV26-1194)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av26-1194",
-          "date": "2026-11-23",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Synology security advisory (AV26-1193)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/synology-security-advisory-av26-1193",
-          "date": "2026-11-23",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "JetBrains security advisory (AV26-1192)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/jetbrains-security-advisory-av26-1192",
-          "date": "2026-11-23",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "N-able security advisory (AV26-1191) - Update 1",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/n-able-security-advisory-av26-1191",
-          "date": "2026-11-23",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Red Hat security advisory (AV26-1190)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av26-1190",
-          "date": "2026-11-23",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "IBM security advisory (AV26-1189)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av26-1189",
-          "date": "2026-11-23",
-          "description": "Visit link for details"
-        },
-        {
-          "title": "Apache security advisory (AV26-1188)",
-          "link": "https://www.cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av26-1188",
-          "date": "2026-11-21",
-          "description": "Visit link for details"
         }
       ]
     }
