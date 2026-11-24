@@ -4,14 +4,14 @@
 
  |Title|Description|Date|
  |---|---|---|
+ |[MISP security advisory (AV26-1197)](https://www.cyber.gc.ca/en/alerts-advisories/misp-security-advisory-av26-1197)|Visit link for details|2026-11-23|
+ |[Splunk security advisory (AV26-1196)](https://www.cyber.gc.ca/en/alerts-advisories/splunk-security-advisory-av26-1196)|Visit link for details|2026-11-23|
+ |[Spring security advisory (AV26-1195)](https://www.cyber.gc.ca/en/alerts-advisories/spring-security-advisory-av26-1195)|Visit link for details|2026-11-23|
+ |[Apache security advisory (AV26-1194)](https://www.cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av26-1194)|Visit link for details|2026-11-23|
+ |[Synology security advisory (AV26-1193)](https://www.cyber.gc.ca/en/alerts-advisories/synology-security-advisory-av26-1193)|Visit link for details|2026-11-23|
+ |[JetBrains security advisory (AV26-1192)](https://www.cyber.gc.ca/en/alerts-advisories/jetbrains-security-advisory-av26-1192)|Visit link for details|2026-11-23|
+ |[N-able security advisory (AV26-1191) - Update 1](https://www.cyber.gc.ca/en/alerts-advisories/n-able-security-advisory-av26-1191)|Visit link for details|2026-11-23|
+ |[Red Hat security advisory (AV26-1190)](https://www.cyber.gc.ca/en/alerts-advisories/red-hat-security-advisory-av26-1190)|Visit link for details|2026-11-23|
+ |[IBM security advisory (AV26-1189)](https://www.cyber.gc.ca/en/alerts-advisories/ibm-security-advisory-av26-1189)|Visit link for details|2026-11-23|
  |[Apache security advisory (AV26-1188)](https://www.cyber.gc.ca/en/alerts-advisories/apache-security-advisory-av26-1188)|Visit link for details|2026-11-21|
- |[VMware security advisory (AV26-1185) – Update 1](https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av26-1185)|Visit link for details|2026-11-20|
- |[Cisco security advisory (AV26-1073) – Update 1](https://www.cyber.gc.ca/en/alerts-advisories/cisco-security-advisory-av26-1073)|Visit link for details|2026-11-20|
- |[SAP security advisory – November 2025 monthly rollup (AV25-738) – Update 1](https://www.cyber.gc.ca/en/alerts-advisories/sap-security-advisory-november-2025-monthly-rollup-av25-738)|Visit link for details|2026-11-20|
- |[[Control Systems] Moxa security advisory (AV26-1187)](https://www.cyber.gc.ca/en/alerts-advisories/control-systems-moxa-security-advisory-av26-1187)|Visit link for details|2026-11-20|
- |[Drupal security advisory (AV26-1186)](https://www.cyber.gc.ca/en/alerts-advisories/drupal-security-advisory-av26-1186)|Visit link for details|2026-11-19|
- |[Mitel security advisory (AV26-1184)](https://www.cyber.gc.ca/en/alerts-advisories/mitel-security-advisory-av26-1184)|Visit link for details|2026-11-19|
- |[PHP Group security advisory (AV26-1183)](https://www.cyber.gc.ca/en/alerts-advisories/php-group-security-advisory-av26-1183)|Visit link for details|2026-11-19|
- |[Ubiquiti security advisory (AV26-1182)](https://www.cyber.gc.ca/en/alerts-advisories/ubiquiti-security-advisory-av26-1182)|Visit link for details|2026-11-19|
- |[JetBrains security advisory (AV26-1181)](https://www.cyber.gc.ca/en/alerts-advisories/jetbrains-security-advisory-av26-1181)|Visit link for details|2026-11-19|
  
